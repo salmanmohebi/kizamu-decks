@@ -113,7 +113,8 @@ li span{color:var(--muted);font-size:14px;line-height:1.5}
 <header><p class="stats">Anki decks with audio</p><h1>kizamu decks</h1>
 <p class="lede">German vocabulary, grammar and sentences, and American English for advanced learners.
 Every card has audio. Open a deck to try sample cards; download the decks from the
-<a href="__RELEASES__">releases</a>.</p></header>
+<a href="__RELEASES__">releases</a> or get them on <a href="https://ankiweb.net/shared/decks?search=kizamu">AnkiWeb</a>.
+Made by <a href="https://kizamu.app">Kizamu (刻む)</a>.</p></header>
 <ul>__ITEMS__</ul>
 </div></body></html>
 """

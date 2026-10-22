@@ -112,7 +112,8 @@ hf upload salmanmohebi/kizamu-audio $KIZAMU_DATA/public-audio . --repo-type data
 
 The dataset card is [kizamu/hf-dataset-card.md](kizamu/hf-dataset-card.md);
 `export_audio` copies it to `public-audio/README.md`. The packages go into a new release
-of kizamu-decks-releases, the previews into its `docs/` folder.
+of kizamu-decks-releases, the previews into its `docs/` folder. AnkiWeb: steps, titles,
+tags and descriptions in [publishing/ankiweb.md](publishing/ankiweb.md).
 
 ## Review history
 

@@ -18,7 +18,8 @@ tags:
 
 # kizamu audio
 
-The audio of the [kizamu Anki decks](https://github.com/salmanmohebi/kizamu-decks-releases):
+The audio of the [kizamu Anki decks](https://github.com/salmanmohebi/kizamu-decks-releases)
+by [Kizamu (刻む)](https://kizamu.app):
 54,898 synthetic speech clips (about 49 hours) of German and American English words,
 example sentences and phrases for language learners.
 
