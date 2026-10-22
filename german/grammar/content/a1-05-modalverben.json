@@ -1,0 +1,982 @@
+{
+  "topic_id": "a1-05-modalverben",
+  "level": "A1",
+  "title_de": "Modalverben (Präsens)",
+  "title_en": "Modal verbs (present tense)",
+  "rule": {
+    "summary": "Modal verbs (*können, müssen, dürfen, sollen, wollen, mögen* and *möchten*) add a meaning to another verb: ability, necessity, permission, an instruction or a wish. The modal is conjugated and stands in **position 2** (position 1 in a yes/no question); the main verb goes to the **end** as an **infinitive without *zu***: *Ich* **muss** *morgen früh* **aufstehen**. In the singular modals have special forms: *ich* and *er/sie/es* have no ending, and most modals change their vowel.",
+    "table": "| | können | müssen | dürfen | wollen | sollen | mögen | möchten |\n|---|---|---|---|---|---|---|---|\n| ich | **kann** | **muss** | **darf** | **will** | **soll** | **mag** | möchte |\n| du | **kannst** | **musst** | **darfst** | **willst** | sollst | **magst** | möchtest |\n| er/sie/es | **kann** | **muss** | **darf** | **will** | **soll** | **mag** | möchte |\n| wir | können | müssen | dürfen | wollen | sollen | mögen | möchten |\n| ihr | könnt | müsst | dürft | wollt | sollt | mögt | möchtet |\n| sie/Sie | können | müssen | dürfen | wollen | sollen | mögen | möchten |",
+    "steps": [
+      "Choose the modal by meaning: **können** = ability, possibility; **dürfen** = permission (*nicht dürfen* = it is forbidden); **müssen** = necessity (*nicht müssen* = it is not necessary); **sollen** = an instruction from another person, or *Soll ich …?* = 'Shall I …?'; **wollen** = intention, plan; **mögen** = to like (mostly + noun); **möchten** = polite wish.",
+      "Conjugate the modal. Singular: special forms, *ich* = *er* without an ending (*ich kann, er kann*), and a vowel change in most modals (*können → kann*; *sollen* keeps *o*). Plural: regular forms from the infinitive (*wir können, ihr könnt*).",
+      "Put the modal in position 2 in statements and W-questions, and in position 1 in yes/no questions.",
+      "Put the main verb at the end as an infinitive, without *zu*. A separable verb stays in one piece (*aufstehen*); with two infinitives the modal's verb comes last (*einkaufen gehen*).",
+      "Put *nicht* before the infinitive (*Ich kann heute nicht kommen.*). The infinitive can be left out when the meaning is clear: *Ich kann Deutsch. Ich möchte einen Kaffee. Ich muss nach Hause.*"
+    ],
+    "pitfalls": [
+      "Main verb not at the end: ✗ *Ich kann sprechen Deutsch.* → ✓ *Ich kann Deutsch sprechen.*",
+      "*zu* after a modal: ✗ *Ich muss zu arbeiten.* → ✓ *Ich muss arbeiten.*",
+      "Regular endings in the singular: ✗ *er kannt, ich mage* → ✓ *er kann, ich mag*.",
+      "*nicht müssen* is not *nicht dürfen*: *Du musst nicht kommen* = you don't have to come; *Du darfst nicht kommen* = you are not allowed to come.",
+      "*will* is not English *will*: *Ich will morgen anrufen* = I want to call tomorrow. The future is *Ich werde morgen anrufen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::kann::können}} Deutsch sprechen.",
+      "en": "I can speak German.",
+      "focus": "Fähigkeit · *ich*-Form · Satzklammer",
+      "explanation": "*können* expresses ability. In the singular the vowel changes *ö → a*, and the *ich*-form has no ending: **kann**. The main verb *sprechen* goes to the end as an infinitive; the object *Deutsch* stays between the two verbs.",
+      "pattern": "ich + **kann** + … + Infinitiv",
+      "mistake": {"wrong": "Ich kann sprechen Deutsch.", "why": "The infinitive must go to the end of the clause: *Ich kann Deutsch sprechen.* The modal and the infinitive form the Satzklammer."},
+      "examples": [
+        {"de": "Ich kann gut kochen.", "en": "I can cook well."},
+        {"de": "Ich kann leider nicht tanzen.", "en": "Unfortunately, I can't dance."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::musst::müssen}} jetzt nach Hause gehen.",
+      "en": "You have to go home now.",
+      "focus": "Notwendigkeit · *du*-Form",
+      "explanation": "*müssen* expresses necessity. The singular loses the umlaut: *muss-*, and *du* adds *-t* → **musst**. The infinitive *gehen* stands at the end, after the direction *nach Hause*.",
+      "pattern": "du + **musst** + … + Infinitiv",
+      "mistake": {"wrong": "Du musst jetzt nach Hause zu gehen.", "why": "Modal verbs take the infinitive without *zu*: *Du musst … gehen.*"},
+      "examples": [
+        {"de": "Du musst mehr Wasser trinken.", "en": "You have to drink more water."},
+        {"de": "Du musst die Tabletten dreimal täglich nehmen.", "en": "You have to take the pills three times a day."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::will::wollen}} ein neues Auto kaufen.",
+      "en": "He wants to buy a new car.",
+      "focus": "Absicht · *er*-Form",
+      "explanation": "*wollen* expresses an intention or a plan. In the singular the vowel changes *o → i*, and the *er*-form has no ending: **will**. The infinitive *kaufen* closes the sentence.",
+      "pattern": "er + **will** + Akkusativ + Infinitiv",
+      "mistake": {"wrong": "Er wollt ein neues Auto kaufen.", "why": "*wollt* is the *ihr*-form. For *er/sie/es* the form is *will*, with no ending."},
+      "examples": [
+        {"de": "Sie will in Berlin studieren.", "en": "She wants to study in Berlin."},
+        {"de": "Mein Sohn will einen Hund haben.", "en": "My son wants a dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::dürfen::to be allowed to}} hier nicht rauchen.",
+      "en": "We're not allowed to smoke here.",
+      "focus": "Verbot · *nicht* + Modalverb",
+      "explanation": "*nicht dürfen* means 'not be allowed to', i.e. it is forbidden. *wir* takes the plural form **dürfen** (with umlaut, like the infinitive). *nicht* stands before the infinitive at the end.",
+      "pattern": "wir + **dürfen** + … + nicht + Infinitiv",
+      "mistake": {"wrong": "Wir dürfen hier rauchen nicht.", "why": "*nicht* comes before the infinitive, not after it: *… hier nicht rauchen.*"},
+      "examples": [
+        {"de": "Wir dürfen im Unterricht nicht essen.", "en": "We're not allowed to eat in class."},
+        {"de": "Man darf hier nicht schwimmen.", "en": "You're not allowed to swim here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich {{c1::mag::mögen}} Schokolade sehr.",
+      "en": "I really like chocolate.",
+      "focus": "Vorliebe · *mögen* + Nomen",
+      "explanation": "*mögen* means 'to like' and is usually used with a noun, without an infinitive. In the singular *ö → a*, and the *ich*-form has no ending: **mag**.",
+      "pattern": "ich + **mag** + Nomen (Akk.)",
+      "mistake": {"wrong": "Ich möge Schokolade sehr.", "why": "The singular of *mögen* uses the stem *mag-* without an ending for *ich*: *ich mag*."},
+      "examples": [
+        {"de": "Ich mag Katzen.", "en": "I like cats."},
+        {"de": "Ich mag meinen Job sehr.", "en": "I like my job a lot."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie {{c1::möchte::möchten}} einen Kaffee bestellen.",
+      "en": "She would like to order a coffee.",
+      "focus": "höflicher Wunsch · *sie* (Singular)",
+      "explanation": "*möchten* expresses a polite wish ('would like'). Like the other modals, the *er/sie/es*-form has no *-t*: **möchte**, the same as *ich möchte*. The infinitive *bestellen* goes to the end.",
+      "pattern": "sie (= she) + **möchte** + Akkusativ + Infinitiv",
+      "mistake": {"wrong": "Sie möchtet einen Kaffee bestellen.", "why": "*möchtet* is the *ihr*-form. 'She' takes *möchte*, without *-t*."},
+      "examples": [
+        {"de": "Er möchte ein Zimmer reservieren.", "en": "He would like to book a room."},
+        {"de": "Meine Frau möchte am Fenster sitzen.", "en": "My wife would like to sit by the window."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ihr {{c1::sollt::sollen}} bitte leise sein.",
+      "en": "You (all) are supposed to be quiet, please.",
+      "focus": "Aufforderung · *ihr*-Form",
+      "explanation": "*sollen* passes on an instruction from another person (a teacher, a parent). *ihr* → **sollt**. The infinitive *sein* goes to the end, and the adjective *leise* stands before it.",
+      "pattern": "ihr + **sollt** + … + Infinitiv",
+      "mistake": {"wrong": "Ihr sollen bitte leise sein.", "why": "*sollen* is the *wir/sie*-form. *ihr* takes *sollt*."},
+      "examples": [
+        {"de": "Ihr sollt um acht Uhr hier sein.", "en": "You (all) are supposed to be here at eight o'clock."},
+        {"de": "Ihr sollt eure Handys ausmachen.", "en": "You (all) are supposed to switch off your phones."}
+      ],
+      "words": [{"de": "leise", "en": "quiet"}],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Kannst::können}} du mir bitte helfen?",
+      "en": "Can you help me, please?",
+      "focus": "Bitte · Ja/Nein-Frage",
+      "explanation": "*Kannst du …?* is the normal informal way to ask for help. The modal **Kannst** comes first, and the infinitive *helfen* goes to the end. *helfen* takes the Dativ: *mir*.",
+      "pattern": "**Kannst** + du + … + Infinitiv?",
+      "mistake": {"wrong": "Kannst du helfen mir bitte?", "why": "In a modal question the infinitive also goes to the end: *Kannst du mir bitte helfen?*"},
+      "examples": [
+        {"de": "Kannst du das Fenster zumachen?", "en": "Can you close the window?"},
+        {"de": "Kannst du mich morgen abholen?", "en": "Can you pick me up tomorrow?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Was {{c1::möchtest::möchten}} du essen?",
+      "en": "What would you like to eat?",
+      "focus": "W-Frage · höflicher Wunsch · *du*",
+      "explanation": "*Was* is in position 1, the modal **möchtest** in position 2, and the infinitive *essen* at the end. The *du*-form of *möchten* is regular: *möcht-* + *-est*.",
+      "pattern": "W-Wort + **möchtest** + du + Infinitiv?",
+      "mistake": {"wrong": "Was möchte du essen?", "why": "*möchte* is the *ich/er*-form. *du* needs *-st*: *möchtest*."},
+      "examples": [
+        {"de": "Was möchtest du trinken?", "en": "What would you like to drink?"},
+        {"de": "Wohin möchtest du fahren?", "en": "Where would you like to go?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich {{c1::muss::müssen}} morgen früh aufstehen.",
+      "en": "I have to get up early tomorrow.",
+      "focus": "trennbares Verb im Infinitiv",
+      "explanation": "*ich* → **muss** (no ending, no umlaut). The separable verb *aufstehen* stands at the end as one word in the infinitive; it is not split as in *Ich stehe früh auf*.",
+      "pattern": "ich + **muss** + … + trennbares Verb (Infinitiv)",
+      "mistake": {"wrong": "Ich muss morgen früh stehen auf.", "why": "After a modal the separable verb stays together as an infinitive at the end: *aufstehen*."},
+      "examples": [
+        {"de": "Ich muss heute einkaufen.", "en": "I have to do the shopping today."},
+        {"de": "Ich muss den Termin absagen.", "en": "I have to cancel the appointment."}
+      ],
+      "words": [{"de": "aufstehen", "en": "to get up"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er {{c1::darf::dürfen}} heute ins Kino gehen.",
+      "en": "He is allowed to go to the cinema today.",
+      "focus": "Erlaubnis · *er*-Form",
+      "explanation": "*dürfen* expresses permission. In the singular *ü → a*, and *er* has no ending: **darf**. *ins Kino* (= *in das Kino*) is the direction, and *gehen* closes the sentence.",
+      "pattern": "er + **darf** + … + Infinitiv",
+      "mistake": {"wrong": "Er dürft heute ins Kino gehen.", "why": "*dürft* is the *ihr*-form. *er* takes the singular form *darf*."},
+      "examples": [
+        {"de": "Sie darf heute länger aufbleiben.", "en": "She is allowed to stay up later today."},
+        {"de": "Der Hund darf auf dem Sofa schlafen.", "en": "The dog is allowed to sleep on the sofa."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir {{c1::wollen::to want}} ans Meer fahren.",
+      "en": "We want to go to the seaside.",
+      "focus": "Plan · *wir*-Form",
+      "explanation": "*wollen* expresses a plan. *wir* takes the plural form **wollen**, the same as the infinitive. *ans Meer* (= *an das Meer*) is a direction, and *fahren* goes to the end.",
+      "pattern": "wir + **wollen** + Richtung + Infinitiv",
+      "mistake": {"wrong": "Wir willen ans Meer fahren.", "why": "The vowel *i* is only in the singular (*ich/du/er will*). The plural keeps *o*: *wir wollen*."},
+      "examples": [
+        {"de": "Wir wollen im Sommer heiraten.", "en": "We want to get married in the summer."},
+        {"de": "Wir wollen nächstes Jahr umziehen.", "en": "We want to move next year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich {{c1::kann::können}} schwimmen.",
+      "en": "I can swim.",
+      "focus": "Fähigkeit · Modalverb + Infinitiv",
+      "explanation": "*ich* → **kann**. The sentence has only the modal and the infinitive *schwimmen*, which is at the end. There is no *zu* between them.",
+      "pattern": "ich + **kann** + Infinitiv",
+      "mistake": {"wrong": "Ich kann zu schwimmen.", "why": "Modal verbs are followed by the bare infinitive, never by *zu* + infinitive."},
+      "examples": [
+        {"de": "Ich kann Auto fahren.", "en": "I can drive."},
+        {"de": "Mein Sohn kann schon lesen.", "en": "My son can already read."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir {{c1::müssen::to have to}} jetzt gehen.",
+      "en": "We have to go now.",
+      "focus": "Notwendigkeit · *wir*-Form",
+      "explanation": "The plural keeps the umlaut of the infinitive: *wir* **müssen**. *jetzt* stands between the modal and the infinitive *gehen*.",
+      "pattern": "wir + **müssen** + … + Infinitiv",
+      "mistake": {"wrong": "Wir muss jetzt gehen.", "why": "*muss* is the singular form (*ich/er*). *wir* takes *müssen*."},
+      "examples": [
+        {"de": "Wir müssen noch tanken.", "en": "We still have to get petrol."},
+        {"de": "Wir müssen leider absagen.", "en": "Unfortunately, we have to cancel."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Magst::mögen}} du Pizza?",
+      "en": "Do you like pizza?",
+      "focus": "Vorliebe · Ja/Nein-Frage · *du*",
+      "explanation": "*mögen* with a noun asks what someone likes. The *du*-form is *mag-* + *-st* → **Magst**, at the start of the question. No infinitive is needed.",
+      "pattern": "**Magst** + du + Nomen?",
+      "mistake": {"wrong": "Mögst du Pizza?", "why": "The singular forms of *mögen* use the stem *mag-*: *du magst*."},
+      "examples": [
+        {"de": "Magst du Hunde?", "en": "Do you like dogs?"},
+        {"de": "Magst du scharfes Essen?", "en": "Do you like spicy food?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie {{c1::möchten::would like to}} bitte Platz nehmen.",
+      "en": "Please take a seat (formal).",
+      "focus": "höfliche Aufforderung · formelles *Sie*",
+      "explanation": "*Sie möchten bitte …* is a very polite way to tell someone what to do, e.g. at a reception desk. Formal *Sie* takes the plural form **möchten**. *Platz nehmen* = to take a seat; the infinitive *nehmen* is at the end.",
+      "pattern": "Sie + **möchten** + bitte + … + Infinitiv",
+      "mistake": {"wrong": "Sie möchtet bitte Platz nehmen.", "why": "*möchtet* is the *ihr*-form. Formal *Sie* takes *möchten*."},
+      "examples": [
+        {"de": "Sie möchten bitte kurz warten.", "en": "Please wait a moment."},
+        {"de": "Sie möchten bitte morgen zurückrufen.", "en": "You are asked to call back tomorrow."}
+      ],
+      "words": [{"de": "Platz nehmen", "en": "to take a seat"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Du {{c1::sollst::sollen}} mehr lernen.",
+      "en": "You're supposed to study more.",
+      "focus": "Aufforderung · *du*-Form",
+      "explanation": "*sollen* reports what another person wants you to do (a teacher, your parents). Unlike *können, müssen, dürfen, wollen* and *mögen*, it has no vowel change in the singular: *du* **sollst**.",
+      "pattern": "du + **sollst** + … + Infinitiv",
+      "mistake": {"wrong": "Du sollt mehr lernen.", "why": "*sollt* is the *ihr*-form. *du* takes *sollst*."},
+      "examples": [
+        {"de": "Du sollst sofort zum Chef kommen.", "en": "You're supposed to go to the boss straight away."},
+        {"de": "Du sollst deine Oma anrufen.", "en": "You're supposed to call your grandma."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Er {{c1::darf::dürfen}} hier nicht parken.",
+      "en": "He's not allowed to park here.",
+      "focus": "Verbot · *er*-Form",
+      "explanation": "*nicht dürfen* = it is forbidden. *er* → **darf**. The place *hier* and the negation *nicht* stand between the modal and the infinitive *parken*.",
+      "pattern": "er + **darf** + Ort + nicht + Infinitiv",
+      "mistake": {"wrong": "Er darf nicht parken hier.", "why": "The infinitive closes the clause; *hier* must come before *nicht parken*: *Er darf hier nicht parken.*"},
+      "examples": [
+        {"de": "Er darf keinen Alkohol trinken.", "en": "He's not allowed to drink alcohol."},
+        {"de": "Sie darf nicht Auto fahren.", "en": "She is not allowed to drive."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Was {{c1::wollt::wollen}} ihr trinken?",
+      "en": "What do you (all) want to drink?",
+      "focus": "W-Frage · *ihr*-Form",
+      "explanation": "The plural forms of *wollen* keep the *o*: *ihr* **wollt**. *Was* is in position 1, the modal in position 2, the infinitive *trinken* at the end. Among friends this is normal; *Was möchtet ihr trinken?* is more polite.",
+      "pattern": "W-Wort + **wollt** + ihr + Infinitiv?",
+      "mistake": {"wrong": "Was willt ihr trinken?", "why": "The *i* belongs only to the singular. *ihr* takes *wollt*."},
+      "examples": [
+        {"de": "Was wollt ihr heute machen?", "en": "What do you (all) want to do today?"},
+        {"de": "Wann wollt ihr kommen?", "en": "When do you (all) want to come?"}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich {{c1::möchte::möchten}} ein Glas Wasser.",
+      "en": "I would like a glass of water.",
+      "focus": "höflicher Wunsch · ohne Infinitiv",
+      "explanation": "With a clear object, *möchten* needs no infinitive: *Ich* **möchte** *ein Glas Wasser* ('I'd like …'). The *ich*-form is the same as the *er*-form: *möchte*. German says *ein Glas Wasser*, without a word for 'of'.",
+      "pattern": "ich + **möchte** + Akkusativ",
+      "mistake": {"wrong": "Ich möchten ein Glas Wasser.", "why": "*möchten* is the plural form. *ich* takes *möchte*."},
+      "examples": [
+        {"de": "Ich möchte ein Stück Kuchen.", "en": "I'd like a piece of cake."},
+        {"de": "Ich möchte zwei Brötchen, bitte.", "en": "I'd like two rolls, please."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich {{c1::kann::können}} heute nicht kommen.",
+      "en": "I can't come today.",
+      "focus": "Satzklammer · Negation",
+      "explanation": "The modal **kann** is in position 2 and the infinitive *kommen* at the end; together they form the Satzklammer. *heute* and *nicht* stand in between, with *nicht* directly before the infinitive.",
+      "pattern": "ich + **kann** + Zeit + nicht + Infinitiv",
+      "mistake": {"wrong": "Ich kanne heute nicht kommen.", "why": "Modals have no ending in the *ich*-form: *ich kann*."},
+      "examples": [
+        {"de": "Ich kann morgen nicht arbeiten.", "en": "I can't work tomorrow."},
+        {"de": "Er kann heute leider nicht mitkommen.", "en": "Unfortunately, he can't come along today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Darf::dürfen}} ich hier rauchen?",
+      "en": "May I smoke here?",
+      "focus": "Erlaubnis · Ja/Nein-Frage",
+      "explanation": "*dürfen* asks for permission; *können* expresses ability (in everyday speech *Kann ich …?* is also used for permission). The *ich*-form has no ending: **Darf** *ich …?*",
+      "pattern": "**Darf** + ich + … + Infinitiv?",
+      "mistake": {"wrong": "Darfst ich hier rauchen?", "why": "*darfst* is the *du*-form. With *ich* the modal has no ending: *Darf ich …?*"},
+      "examples": [
+        {"de": "Darf ich kurz stören?", "en": "May I interrupt for a moment?"},
+        {"de": "Darf ich das Fenster öffnen?", "en": "May I open the window?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Wir {{c1::müssen::to have to}} noch einkaufen gehen.",
+      "en": "We still have to go shopping.",
+      "focus": "zwei Infinitive am Satzende",
+      "explanation": "Two infinitives stand at the end: *einkaufen gehen* ('go shopping'). The verb that *müssen* governs, *gehen*, comes last. *wir* → **müssen**.",
+      "pattern": "wir + **müssen** + … + Infinitiv + gehen",
+      "mistake": {"wrong": "Wir müssen noch gehen einkaufen.", "why": "In *einkaufen gehen* the activity comes first and *gehen* last: *… noch einkaufen gehen.*"},
+      "examples": [
+        {"de": "Wir wollen heute schwimmen gehen.", "en": "We want to go swimming today."},
+        {"de": "Ich muss noch Brot kaufen gehen.", "en": "I still have to go and buy bread."}
+      ],
+      "words": [{"de": "einkaufen gehen", "en": "to go shopping"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Du {{c1::sollst::sollen}} deine Tabletten nehmen.",
+      "en": "You are supposed to take your pills.",
+      "focus": "*sollen* vs. *müssen*",
+      "explanation": "*sollen* = someone else (here, for example, the doctor) wants it. *müssen* = it is necessary in general (*Du musst die Tabletten nehmen.*). *du* → **sollst**, and *nehmen* goes to the end.",
+      "pattern": "du + **sollst** + Akkusativ + Infinitiv",
+      "mistake": {"wrong": "Du sollst nehmen deine Tabletten.", "why": "The infinitive must be the last element: *Du sollst deine Tabletten nehmen.*"},
+      "examples": [
+        {"de": "Du sollst viel schlafen.", "en": "You're supposed to sleep a lot."},
+        {"de": "Du sollst den Müll rausbringen.", "en": "You're supposed to take the rubbish out."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Sie {{c1::will::wollen}} Ärztin werden.",
+      "en": "She wants to become a doctor.",
+      "focus": "Absicht · falscher Freund · Beruf",
+      "explanation": "*Sie will* means 'she wants to', not 'she will'. The future is formed with *werden*. Here *werden* is the main verb ('to become') and stands at the end as an infinitive. A profession after *werden* has no article.",
+      "pattern": "sie (= she) + **will** + Beruf + werden",
+      "mistake": {"wrong": "Sie willt Ärztin werden.", "why": "Modals have no ending in the *er/sie/es*-form: *sie will*."},
+      "examples": [
+        {"de": "Er will Lehrer werden.", "en": "He wants to become a teacher."},
+        {"de": "Ich will im Ausland arbeiten.", "en": "I want to work abroad."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ihr {{c1::könnt::können}} das schaffen.",
+      "en": "You (all) can do it.",
+      "focus": "*ihr*-Form · Plural mit Umlaut",
+      "explanation": "The plural forms are built from the infinitive and keep its umlaut: *könn-* + *-t* → **könnt**. Only the singular uses the stem *kann-*.",
+      "pattern": "ihr + **könnt** + Akkusativ + Infinitiv",
+      "mistake": {"wrong": "Ihr kannt das schaffen.", "why": "The stem *kann-* is only for *ich, du, er/sie/es*. *ihr* uses the infinitive stem: *könnt*."},
+      "examples": [
+        {"de": "Ihr könnt gern bei uns übernachten.", "en": "You (all) are welcome to stay the night with us."},
+        {"de": "Ihr könnt jetzt anfangen.", "en": "You (all) can start now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Ich {{c1::möchte::möchten}} einen Kaffee, bitte.",
+      "en": "I would like a coffee, please.",
+      "focus": "höflicher Wunsch · Akkusativobjekt",
+      "explanation": "*möchten* is originally the Konjunktiv II of *mögen* and is the polite way to order. With a clear object it needs no infinitive. *Kaffee* is masculine, so the Akkusativ object is *einen Kaffee*.",
+      "pattern": "ich + **möchte** + einen + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich möchte ein Kaffee, bitte.", "why": "What you would like is an Akkusativ object. *der Kaffee* is masculine → *einen Kaffee*."},
+      "examples": [
+        {"de": "Ich möchte einen Tee mit Milch.", "en": "I'd like a tea with milk."},
+        {"de": "Wir möchten die Rechnung, bitte.", "en": "We'd like the bill, please."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Er {{c1::mag::mögen}} klassische Musik.",
+      "en": "He likes classical music.",
+      "focus": "*mögen* · *er*-Form",
+      "explanation": "*mögen* → *er* **mag**, without an ending (like *ich mag*). It expresses liking a thing and is normally used without an infinitive.",
+      "pattern": "er + **mag** + Nomen (Akk.)",
+      "mistake": {"wrong": "Er magt klassische Musik.", "why": "Modals take no ending in the *er/sie/es*-form: *er mag*."},
+      "examples": [
+        {"de": "Sie mag keine Horrorfilme.", "en": "She doesn't like horror films."},
+        {"de": "Mein Chef mag lange Meetings.", "en": "My boss likes long meetings."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "{{c1::Musst::müssen}} du wirklich schon gehen?",
+      "en": "Do you really have to leave already?",
+      "focus": "*müssen* · *du*-Form",
+      "explanation": "*müssen* → *du* **musst**: the singular has no umlaut, and *muss-* + *-t* is written with *ss*. The modal comes first in the yes/no question.",
+      "pattern": "**Musst** + du + … + Infinitiv?",
+      "mistake": {"wrong": "Müsst du wirklich schon gehen?", "why": "*müsst* (with umlaut) is the *ihr*-form. *du* takes *musst*."},
+      "examples": [
+        {"de": "Musst du morgen arbeiten?", "en": "Do you have to work tomorrow?"},
+        {"de": "Musst du immer so laut sein?", "en": "Do you always have to be so loud?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Kinder {{c1::dürfen::to be allowed to}} hier nicht spielen.",
+      "en": "Children are not allowed to play here.",
+      "focus": "Verbot · Nomen im Plural",
+      "explanation": "*nicht dürfen* expresses a prohibition. *nicht müssen* would mean something else: 'don't have to'. *Kinder* is a plural subject → **dürfen**.",
+      "pattern": "Nomen (Pl.) + **dürfen** + … + nicht + Infinitiv",
+      "mistake": {"wrong": "Kinder darf hier nicht spielen.", "why": "*Kinder* is plural, so the modal must be plural: *dürfen*."},
+      "examples": [
+        {"de": "Hunde dürfen nicht in den Supermarkt.", "en": "Dogs are not allowed in the supermarket."},
+        {"de": "Gäste dürfen hier kostenlos parken.", "en": "Guests can park here for free."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich {{c1::kann::können}} kein Italienisch.",
+      "en": "I don't speak any Italian.",
+      "focus": "*können* ohne Infinitiv · Sprachen",
+      "explanation": "With languages *können* is often used without an infinitive: *Ich kann Deutsch* = 'I speak German'. The language is then negated with *kein*: *kein Italienisch*.",
+      "pattern": "ich + **kann** + kein + Sprache",
+      "mistake": {"wrong": "Ich kannst kein Italienisch.", "why": "*kannst* is the *du*-form. *ich* takes *kann*."},
+      "examples": [
+        {"de": "Kannst du Spanisch?", "en": "Do you speak Spanish?"},
+        {"de": "Mein Mann kann ein bisschen Deutsch.", "en": "My husband speaks a little German."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Wir {{c1::wollen::to want}} am Wochenende wandern.",
+      "en": "We want to go hiking at the weekend.",
+      "focus": "Plural = Infinitivform",
+      "explanation": "The plural forms of modals look like the infinitive: *wir* **wollen**. The time phrase *am Wochenende* stands between the modal and the infinitive *wandern*.",
+      "pattern": "wir + **wollen** + Zeit + Infinitiv",
+      "mistake": {"wrong": "Wir will am Wochenende wandern.", "why": "*will* is the singular form. *wir* takes *wollen*."},
+      "examples": [
+        {"de": "Wir wollen am Abend grillen.", "en": "We want to have a barbecue in the evening."},
+        {"de": "Meine Freunde wollen im Herbst nach Japan reisen.", "en": "My friends want to travel to Japan in the autumn."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "{{c1::Sollen::shall}} wir ein Taxi rufen?",
+      "en": "Shall we call a taxi?",
+      "focus": "Vorschlag · Frage mit *wir* (Shall we …?)",
+      "explanation": "*Sollen wir …? / Soll ich …?* makes an offer or asks what the other person wants, like English *Shall we …?* *wir* → **Sollen**, first in the question; *rufen* goes to the end.",
+      "pattern": "**Sollen** + wir + … + Infinitiv?",
+      "mistake": {"wrong": "Sollt wir ein Taxi rufen?", "why": "*sollt* is the *ihr*-form. *wir* takes *sollen*."},
+      "examples": [
+        {"de": "Soll ich dir helfen?", "en": "Shall I help you?"},
+        {"de": "Sollen wir heute Abend kochen?", "en": "Shall we cook tonight?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Du {{c1::darfst::dürfen}} mein Auto nehmen.",
+      "en": "You may take my car.",
+      "focus": "Erlaubnis · *du*-Form",
+      "explanation": "*dürfen* gives permission. The umlaut disappears in the singular: *darf-* + *-st* → **darfst**. The infinitive *nehmen* is at the end.",
+      "pattern": "du + **darfst** + Akkusativ + Infinitiv",
+      "mistake": {"wrong": "Du dürfst mein Auto nehmen.", "why": "The singular stem of *dürfen* is *darf-*, without umlaut: *du darfst*."},
+      "examples": [
+        {"de": "Du darfst gern mitkommen.", "en": "You're welcome to come along."},
+        {"de": "Du darfst den Kuchen probieren.", "en": "You can try the cake."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Sie {{c1::müssen::to have to}} an der Ampel links abbiegen.",
+      "en": "You have to turn left at the traffic lights.",
+      "focus": "formelles *Sie* · trennbares Verb im Infinitiv",
+      "explanation": "Formal *Sie* takes **müssen**. The separable verb *abbiegen* stays together as an infinitive at the end. The place (*an der Ampel*) and the direction (*links*) stand in the middle.",
+      "pattern": "Sie + **müssen** + Ort + Richtung + trennbares Verb",
+      "mistake": {"wrong": "Sie müssen an der Ampel links biegen ab.", "why": "After a modal a separable verb is not split: *… links abbiegen*."},
+      "examples": [
+        {"de": "Sie müssen hier aussteigen.", "en": "You have to get off here."},
+        {"de": "Sie müssen das Formular ausfüllen.", "en": "You have to fill in the form."}
+      ],
+      "words": [{"de": "abbiegen", "en": "to turn (off)"}, {"de": "die Ampel (-n)", "en": "traffic lights"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Er {{c1::kann::können}} sehr gut Klavier spielen.",
+      "en": "He can play the piano very well.",
+      "focus": "Mittelfeld · Infinitiv am Ende",
+      "explanation": "*er* → **kann**. The adverb *sehr gut* and the object *Klavier* stand in the middle field, and the infinitive *spielen* closes the sentence.",
+      "pattern": "er + **kann** + Adverb + Objekt + Infinitiv",
+      "mistake": {"wrong": "Er kann spielen sehr gut Klavier.", "why": "The infinitive goes to the very end: *Er kann sehr gut Klavier spielen.*"},
+      "examples": [
+        {"de": "Sie kann sehr gut zeichnen.", "en": "She can draw very well."},
+        {"de": "Mein Bruder kann gut Gitarre spielen.", "en": "My brother can play the guitar well."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Du {{c1::musst::müssen}} heute nicht arbeiten.",
+      "en": "You don't have to work today.",
+      "focus": "keine Notwendigkeit · *nicht* + Modalverb",
+      "explanation": "*nicht müssen* means 'not have to': it is not necessary, but allowed. It does **not** mean 'must not' — that is *nicht dürfen* (*Du darfst heute nicht arbeiten* = you are not allowed to work today). *du* → **musst**.",
+      "pattern": "du + **musst** + … + nicht + Infinitiv",
+      "mistake": {"wrong": "Du musst heute nicht zu arbeiten.", "why": "A modal is followed by the bare infinitive, without *zu*: *nicht arbeiten*."},
+      "examples": [
+        {"de": "Ihr müsst morgen nicht früh aufstehen.", "en": "You (all) don't have to get up early tomorrow."},
+        {"de": "Sie müssen nichts bezahlen.", "en": "You don't have to pay anything."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ihr {{c1::dürft::dürfen}} hier nicht fotografieren.",
+      "en": "You (all) are not allowed to take photos here.",
+      "focus": "Verbot · *ihr*-Form",
+      "explanation": "*nicht dürfen* = it is forbidden. The *ihr*-form keeps the umlaut of the infinitive: *dürf-* + *-t* → **dürft**. *nicht* stands directly before the infinitive.",
+      "pattern": "ihr + **dürft** + … + nicht + Infinitiv",
+      "mistake": {"wrong": "Ihr dürfen hier nicht fotografieren.", "why": "*dürfen* is the *wir/sie*-form. *ihr* takes *dürft*."},
+      "examples": [
+        {"de": "Ihr dürft im Museum nichts anfassen.", "en": "You (all) are not allowed to touch anything in the museum."},
+        {"de": "Ihr dürft heute länger spielen.", "en": "You (all) can play longer today."}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Meine Kinder {{c1::mögen::to like}} keinen Fisch.",
+      "en": "My children don't like fish.",
+      "focus": "Vorliebe + Nomen · Subjekt im Plural",
+      "explanation": "*Meine Kinder* is a plural subject → **mögen** (with *ö*, like the infinitive). *mögen* usually takes a noun object, here negated with *kein*: *der Fisch* → *keinen Fisch*.",
+      "pattern": "Nomen (Pl.) + **mögen** + kein- + Nomen",
+      "mistake": {"wrong": "Meine Kinder mag keinen Fisch.", "why": "*mag* is the singular form. A plural subject takes *mögen*."},
+      "examples": [
+        {"de": "Viele Leute mögen keinen Regen.", "en": "Many people don't like rain."},
+        {"de": "Meine Eltern mögen moderne Kunst.", "en": "My parents like modern art."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Möchtet::möchten}} ihr noch etwas essen?",
+      "en": "Would you (all) like something else to eat?",
+      "focus": "höfliches Angebot · *ihr*-Form",
+      "explanation": "*möchten* in a question is a polite offer. The *ihr*-form is *möcht-* + *-et* → **Möchtet**; the *-e-* is inserted because the stem ends in *-t*. The infinitive *essen* is at the end.",
+      "pattern": "**Möchtet** + ihr + … + Infinitiv?",
+      "mistake": {"wrong": "Möchtest ihr noch etwas essen?", "why": "*möchtest* is the *du*-form. *ihr* takes *möchtet*."},
+      "examples": [
+        {"de": "Möchtet ihr einen Tee?", "en": "Would you (all) like a tea?"},
+        {"de": "Möchtet ihr bei uns übernachten?", "en": "Would you (all) like to stay the night with us?"}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Willst::wollen}} du mit uns ins Kino kommen?",
+      "en": "Do you want to come to the cinema with us?",
+      "focus": "Einladung · *du*-Form",
+      "explanation": "*Willst du …?* is a direct, friendly invitation. The singular uses the stem *will-*: *will-* + *-st* → **Willst**. All other parts come before the infinitive *kommen* at the end.",
+      "pattern": "**Willst** + du + … + Infinitiv?",
+      "mistake": {"wrong": "Willst du kommen mit uns ins Kino?", "why": "The infinitive must be the last element of the clause: *… mit uns ins Kino kommen?*"},
+      "examples": [
+        {"de": "Willst du heute Abend mit uns essen?", "en": "Do you want to have dinner with us tonight?"},
+        {"de": "Willst du auch einen Kaffee?", "en": "Do you want a coffee too?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Arzt sagt, ich {{c1::soll::sollen}} weniger Kaffee trinken.",
+      "en": "The doctor says I should drink less coffee.",
+      "focus": "Rat/Anweisung einer anderen Person",
+      "explanation": "*sollen* reports what another person (here the doctor) wants or advises. *ich* → **soll**, with no ending and no vowel change. The main clause after the comma has normal word order: modal in position 2, infinitive at the end.",
+      "pattern": "X sagt, ich + **soll** + … + Infinitiv",
+      "mistake": {"wrong": "Der Arzt sagt, ich soll trinken weniger Kaffee.", "why": "The infinitive goes to the end of its clause: *ich soll weniger Kaffee trinken*."},
+      "examples": [
+        {"de": "Meine Chefin sagt, ich soll morgen früher kommen.", "en": "My boss says I'm supposed to come earlier tomorrow."},
+        {"de": "Mama sagt, wir sollen das Zimmer aufräumen.", "en": "Mum says we're supposed to tidy the room."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Hier {{c1::kann::können}} man gut essen.",
+      "en": "You can eat well here.",
+      "focus": "Möglichkeit · *man* · Inversion",
+      "explanation": "*können* also expresses a possibility. *man* ('one, people, you') always takes the *er*-form: **kann**. *Hier* is in position 1, so the modal comes next and *man* follows it.",
+      "pattern": "Ort + **kann** + man + … + Infinitiv",
+      "mistake": {"wrong": "Hier man kann gut essen.", "why": "German is verb-second: after *Hier* the modal must follow directly, then the subject *man*."},
+      "examples": [
+        {"de": "Im Park kann man Fahrräder leihen.", "en": "You can rent bikes in the park."},
+        {"de": "Am See kann man schön spazieren gehen.", "en": "You can go for nice walks by the lake."}
+      ],
+      "words": [{"de": "man", "en": "one, people, you (in general)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich {{c1::muss::müssen}} morgen früh zum Arzt.",
+      "en": "I have to go to the doctor's tomorrow morning.",
+      "focus": "Modalverb ohne Infinitiv · Richtung",
+      "explanation": "With a clear direction (*zum Arzt, nach Hause, ins Büro*) the verb of motion is often left out after a modal: *Ich muss zum Arzt (gehen).* *ich* → **muss**, with no ending.",
+      "pattern": "ich + **muss** + Zeit + Richtung (ohne Infinitiv)",
+      "mistake": {"wrong": "Ich musst morgen früh zum Arzt.", "why": "*musst* is the *du*-form. The *ich*-form of a modal has no ending: *ich muss*."},
+      "examples": [
+        {"de": "Ich will heute nicht ins Büro.", "en": "I don't want to go to the office today."},
+        {"de": "Die Kinder müssen um acht ins Bett.", "en": "The children have to go to bed at eight."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Können::to be able to}} Sie das bitte wiederholen?",
+      "en": "Could you repeat that, please?",
+      "focus": "höfliche Bitte · formelles *Sie*",
+      "explanation": "*Können Sie bitte …?* is the standard polite request to a stranger. Formal *Sie* takes the plural form **Können**. *wiederholen* (to repeat) is inseparable in this meaning and stands at the end as an infinitive.",
+      "pattern": "**Können** + Sie + … + Infinitiv?",
+      "mistake": {"wrong": "Können Sie wiederholen das bitte?", "why": "The infinitive must stand at the end of the question: *Können Sie das bitte wiederholen?*"},
+      "examples": [
+        {"de": "Können Sie mir bitte die Rechnung schicken?", "en": "Could you send me the invoice, please?"},
+        {"de": "Können Sie etwas langsamer sprechen?", "en": "Could you speak a bit more slowly?"}
+      ],
+      "words": [{"de": "wiederholen", "en": "to repeat"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Am Sonntag {{c1::wollen::to want}} wir lange schlafen.",
+      "en": "On Sunday we want to sleep in.",
+      "focus": "Inversion · Zeit im Vorfeld",
+      "explanation": "*Am Sonntag* is in position 1. The modal **wollen** stays in position 2, the subject *wir* moves behind it, and the infinitive *schlafen* is still at the end.",
+      "pattern": "Zeit + **wollen** + wir + … + Infinitiv",
+      "mistake": {"wrong": "Am Sonntag wir wollen lange schlafen.", "why": "Only one element may stand before the verb. After *Am Sonntag* the modal follows directly: *Am Sonntag wollen wir …*"},
+      "examples": [
+        {"de": "Morgen müssen wir früh los.", "en": "Tomorrow we have to leave early."},
+        {"de": "Heute darf ich früher gehen.", "en": "Today I'm allowed to leave earlier."}
+      ],
+      "words": [{"de": "lange schlafen", "en": "to sleep in, to sleep late"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Was {{c1::darf::dürfen}} es sein?",
+      "en": "What can I get you?",
+      "focus": "feste Wendung im Geschäft",
+      "explanation": "*Was darf es sein?* is the fixed polite question of a shop assistant or waiter. The subject is *es* (3rd person singular) → **darf**, and the infinitive *sein* is at the end.",
+      "pattern": "Was + **darf** + es + sein?",
+      "mistake": {"wrong": "Was dürft es sein?", "why": "*dürft* is the *ihr*-form. The subject *es* takes *darf*."},
+      "examples": [
+        {"de": "Darf es noch etwas sein?", "en": "Would you like anything else?"},
+        {"de": "Was soll es denn sein?", "en": "So what would you like?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "{{c1::Könnt::können}} ihr mich hören?",
+      "en": "Can you (all) hear me?",
+      "focus": "Ja/Nein-Frage · *ihr*-Form",
+      "explanation": "*ihr* takes **Könnt**: the plural stem *könn-* (with umlaut) + *-t*. The modal comes first, and the infinitive *hören* goes to the end, after the object *mich*.",
+      "pattern": "**Könnt** + ihr + Objekt + Infinitiv?",
+      "mistake": {"wrong": "Können ihr mich hören?", "why": "*können* is the *wir/sie*-form. *ihr* takes *könnt*."},
+      "examples": [
+        {"de": "Könnt ihr mich morgen anrufen?", "en": "Can you (all) call me tomorrow?"},
+        {"de": "Könnt ihr bitte leiser sprechen?", "en": "Can you (all) speak more quietly, please?"}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about word order with modal verbs.",
+      "prompt": "Where do the modal verb and the main verb stand in a sentence?",
+      "answer": "The conjugated modal is in **position 2** (in a yes/no question: position 1). The main verb goes to the **end** as an **infinitive without *zu***. Together they form the Satzklammer.",
+      "explanation": "Everything else (subject after inversion, objects, time, place, *nicht*) stands between the two verbs. A separable verb stays in one piece at the end (*aufstehen*).",
+      "examples": [
+        {"de": "Ich will heute früh ins Bett gehen.", "en": "I want to go to bed early tonight."},
+        {"de": "Wann kannst du morgen kommen?", "en": "When can you come tomorrow?"}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the singular forms.",
+      "prompt": "What is special about the singular forms of modal verbs?",
+      "answer": "*ich* and *er/sie/es* have **no ending** and the same form (*ich kann, er kann*). Most modals also change their vowel in the singular: *können → kann, müssen → muss, dürfen → darf, wollen → will, mögen → mag*. Only **sollen** keeps its vowel (*soll*); *möchten* also has no vowel change.",
+      "explanation": "The plural forms are regular and come from the infinitive (*wir können, ihr könnt, sie können*). *möchten* is regular except that *er möchte* also has no *-t*.",
+      "examples": [
+        {"de": "Sie muss heute länger arbeiten.", "en": "She has to work longer today."},
+        {"de": "Ich darf heute früher gehen.", "en": "I'm allowed to leave earlier today."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *nicht müssen* and *nicht dürfen*?",
+      "answer": "**nicht müssen** = it is not necessary (English *don't have to*). **nicht dürfen** = it is forbidden (English *must not*).",
+      "explanation": "English *must not* looks like *müssen*, but it is translated with *nicht dürfen*. *Du musst nicht kommen* leaves the choice to you; *Du darfst nicht kommen* forbids it.",
+      "examples": [
+        {"de": "Du musst nicht kommen.", "en": "You don't have to come."},
+        {"de": "Du darfst nicht kommen.", "en": "You're not allowed to come."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "Does *Ich will* mean 'I will'? How do you say 'I will' in German?",
+      "answer": "No. **Ich will** = 'I want (to)'. The future 'I will' is formed with **werden**: *Ich werde …*. In everyday German the Präsens with a time word is also common: *Ich rufe morgen an.*",
+      "explanation": "*wollen* expresses a wish or plan of the subject. *werden* + infinitive expresses the future or a prediction. Mixing them up is a classic false friend.",
+      "examples": [
+        {"de": "Ich will morgen anrufen.", "en": "I want to call tomorrow."},
+        {"de": "Ich werde morgen anrufen.", "en": "I will call tomorrow."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *mögen* and *möchten*?",
+      "answer": "**mögen** = to like something in general (*Ich mag Tee.*). **möchten** = would like, a polite wish in a concrete situation (*Ich möchte einen Tee.*).",
+      "explanation": "*möchten* comes from the Konjunktiv II of *mögen*, but in practice it works as its own modal verb. *mögen* is mostly used with a noun; *möchten* often has an infinitive (*Ich möchte bezahlen.*).",
+      "examples": [
+        {"de": "Ich mag Tee.", "en": "I like tea."},
+        {"de": "Ich möchte einen Tee.", "en": "I'd like a tea."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the meaning.",
+      "prompt": "Hier ist Rauchen verboten. Sie ___ hier nicht rauchen.",
+      "options": ["dürfen", "müssen", "wollen"],
+      "correct": "dürfen",
+      "answer": "Hier ist Rauchen verboten. Sie dürfen hier nicht rauchen.",
+      "explanation": "*verboten* (forbidden) → *nicht dürfen*. *nicht müssen* would mean 'you don't have to smoke', and *nicht wollen* would describe the person's own wish."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Mein Mann ___ sehr gut kochen.",
+      "options": ["kann", "kannt", "könnt"],
+      "correct": "kann",
+      "answer": "Mein Mann kann sehr gut kochen.",
+      "explanation": "*Mein Mann* = *er*. The *er*-form of a modal has no ending: *kann*. *kannt* does not exist, and *könnt* is the *ihr*-form."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "___ du ein Stück Kuchen?",
+      "options": ["Möchtest", "Möchte", "Möchtet"],
+      "correct": "Möchtest",
+      "answer": "Möchtest du ein Stück Kuchen?",
+      "explanation": "The subject is *du*, so the form is *möchtest*. *möchte* is for *ich* and *er/sie/es*, and *möchtet* for *ihr*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich will lernen Deutsch.",
+      "answer": "Ich will Deutsch lernen.",
+      "explanation": "After a modal verb the infinitive goes to the end of the clause. The object *Deutsch* stands between *will* and *lernen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er kannt sehr gut Englisch.",
+      "answer": "Er kann sehr gut Englisch.",
+      "explanation": "Modal verbs have no ending in the *er/sie/es*-form: *er kann*, not *kannt*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir möchten zu bezahlen.",
+      "answer": "Wir möchten bezahlen.",
+      "explanation": "Modal verbs, including *möchten*, take the infinitive without *zu*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie mögt keinen Kaffee.",
+      "answer": "Sie mag keinen Kaffee.",
+      "explanation": "For 'she' the singular form of *mögen* is *mag*, with no ending. *mögt* is the *ihr*-form."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Add müssen. Keep the subject.",
+      "prompt": "Ich lerne heute Vokabeln.",
+      "answer": "Ich muss heute Vokabeln lernen.",
+      "explanation": "The modal *muss* takes position 2, and *lerne* becomes the infinitive *lernen* at the end."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Add müssen. Keep the subject.",
+      "prompt": "Er steht um sechs Uhr auf.",
+      "answer": "Er muss um sechs Uhr aufstehen.",
+      "explanation": "*muss* takes position 2. The separable verb comes together again as one infinitive at the end: *steht … auf → aufstehen*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make it a yes/no question.",
+      "prompt": "Ihr könnt morgen kommen.",
+      "answer": "Könnt ihr morgen kommen?",
+      "explanation": "In a yes/no question the modal *könnt* moves to position 1. The infinitive *kommen* stays at the end."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Change the subject to meine Freundin.",
+      "prompt": "Ich möchte einen Kaffee.",
+      "answer": "Meine Freundin möchte einen Kaffee.",
+      "explanation": "*meine Freundin* = *sie* (3rd person singular). Like *ich*, the *er/sie/es*-form of *möchten* is *möchte*, without *-t*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "kann / leider / ich / nicht / mitkommen",
+      "answer": "Ich kann leider nicht mitkommen.",
+      "explanation": "Subject in position 1, the modal *kann* in position 2, the separable verb *mitkommen* as one infinitive at the end. *leider* comes before *nicht*. Also correct: *Leider kann ich nicht mitkommen.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "wann / anrufen / soll / dich / ich",
+      "answer": "Wann soll ich dich anrufen?",
+      "explanation": "The question word *Wann* is in position 1, the modal *soll* in position 2, then the subject *ich* and the object *dich*. The infinitive *anrufen* is at the end."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the two sentences with denn.",
+      "prompt": "Ich gehe heute nicht ins Kino. Ich muss lernen.",
+      "answer": "Ich gehe heute nicht ins Kino, denn ich muss lernen.",
+      "explanation": "*denn* gives a reason and does not change the word order of the second clause: *muss* stays in position 2 and *lernen* at the end. A comma stands before *denn*."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence: express the plan with wollen.",
+      "prompt": "Wir fahren im Sommer nach Italien. Das ist unser Plan.",
+      "answer": "Wir wollen im Sommer nach Italien fahren.",
+      "explanation": "*wollen* expresses the plan, so *Das ist unser Plan* is no longer needed. *wollen* takes position 2, and *fahren* goes to the end as an infinitive."
+    }
+  ]
+}

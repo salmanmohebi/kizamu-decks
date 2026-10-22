@@ -1,0 +1,1161 @@
+{
+  "part_id": "01-collocations-01",
+  "category": "collocations",
+  "entries": [
+    {
+      "id": "a-fair-amount-of-something",
+      "term": "a fair amount of something",
+      "label": "quantifier",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Quite a lot of something: clearly more than a little, though not a huge amount.",
+      "usage": "Very common in speech and neutral writing, often as an understatement: *a fair amount of work* can mean a lot of work. Use it with uncountable nouns (*time, effort, data*) and *a fair number of* with plural nouns. It also works alone as an adverb phrase: *I travel a fair amount.*",
+      "pattern": "a fair amount of + uncountable noun",
+      "examples": [
+        "Getting the code to run on the new cluster took **a fair amount of** trial and error.",
+        "We've had **a fair amount of** rain this month, so the lawn finally looks green.",
+        "The proposal has drawn **a fair amount of** criticism from local business owners."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The recipe looks simple, but getting the sauce right takes {{a fair amount of}} patience.",
+        "hint": "more than a little, said modestly (the adjective is not *good*)"
+      },
+      "mistake": {
+        "wrong": "There were a fair amount of people at the talk.",
+        "right": "There were a fair number of people at the talk.",
+        "why": "With plural countable nouns, careful speakers and editors use *number*; *amount* is for uncountable nouns."
+      },
+      "related": "*a good deal of* — similar, slightly more formal; *a fair number of* — the same idea for plural nouns; *a ton of* — casual and stronger."
+    },
+    {
+      "id": "take-issue-with-something",
+      "term": "take issue with something",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To disagree with or object to a specific statement, claim or decision, and say so openly.",
+      "usage": "A measured but firm way to disagree, common in reviews, debates, opinion pieces and meetings; it sounds more serious than *disagree with*. The object is usually a claim, a word or a decision, as in *I take issue with the word \"failure\" here.* The phrase is fixed, with no article before *issue*.",
+      "pattern": "take issue with + claim / statement / decision",
+      "examples": [
+        "Several cardiologists **took issue with** the study's claim that coffee protects against heart disease.",
+        "I don't **take issue with** the price; I just think the service could be better.",
+        "Civil rights groups **took issue with** the new policy, arguing that it targets low-income neighborhoods."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I agree with most of the report, but I {{take issue with}} its claim that remote work hurts productivity.",
+        "hint": "state firm disagreement with (one specific point)"
+      },
+      "mistake": {
+        "wrong": "I take an issue with this sentence.",
+        "right": "I take issue with this sentence.",
+        "why": "The phrase is fixed without an article; *an issue* appears in *have an issue with*, not with *take*."
+      },
+      "related": "*object to* — more formal, often official; *have a problem with* — casual and more personal; *push back on* — resist a plan or request, common at work."
+    },
+    {
+      "id": "draw-a-distinction",
+      "term": "draw a distinction",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To point out clearly how two similar or related things differ, and to treat them as separate.",
+      "usage": "Common in lectures, academic writing, law and careful discussion. The usual pattern is *draw a distinction between A and B*, often with an adjective: *a clear, sharp, careful, important distinction*. *Make a distinction* is also correct, but *make a difference* is not, because it means \"to have an effect.\"",
+      "pattern": "draw a (clear / sharp) distinction between A and B",
+      "examples": [
+        "In her first lecture, the professor **drew a sharp distinction** between weather and climate.",
+        "The ruling **draws a distinction** between private messages and public posts.",
+        "As a parent, I try to **draw a distinction** between being strict and being harsh."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In her talk, she {{drew a distinction}} between data drift and label noise, which most people lump together.",
+        "hint": "clearly separated two similar ideas (the verb is not *make*)"
+      },
+      "mistake": {
+        "wrong": "We need to make a difference between bugs and missing features.",
+        "right": "We need to draw a distinction between bugs and missing features.",
+        "why": "*Make a difference* means to have an effect; to separate two things, use *draw a distinction* or *distinguish between*."
+      },
+      "related": "*distinguish between* — the one-word equivalent; *make a distinction* — equally correct, slightly plainer; *blur the line between* — the opposite, make a difference less clear."
+    },
+    {
+      "id": "cautiously-optimistic",
+      "term": "cautiously optimistic",
+      "label": "adverb + adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Hopeful that things will go well, but careful not to expect too much or to celebrate too early.",
+      "usage": "A favorite phrase of officials, executives, doctors and scientists when early results are good but not final; it signals hope without making a promise. It usually follows *be*, *feel* or *remain*, and can take *about* + noun or a *that* clause.",
+      "pattern": "be / remain cautiously optimistic (about … / that …)",
+      "examples": [
+        "The first tests look promising, so we're **cautiously optimistic**, but it's too early to celebrate.",
+        "Her doctors are **cautiously optimistic** about her recovery after the surgery.",
+        "Economists remain **cautiously optimistic** that inflation will keep cooling this year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The team has won four games in a row, and fans are {{cautiously optimistic}} about the playoffs.",
+        "hint": "hopeful, while careful not to expect too much"
+      },
+      "mistake": {
+        "wrong": "We are carefully optimistic about the results.",
+        "right": "We are cautiously optimistic about the results.",
+        "why": "The fixed adverb here is *cautiously*; *carefully* describes how you do an action, not an attitude."
+      },
+      "related": "*hopeful* — plainer, without the warning; *guardedly optimistic* — same idea, more formal and rarer; *bullish* — strongly confident, especially about markets."
+    },
+    {
+      "id": "a-vested-interest",
+      "term": "a vested interest",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A personal reason, often financial, for wanting something to happen in a particular way, which can make your judgment less neutral.",
+      "usage": "Often used to question someone's objectivity: if a person *has a vested interest in* an outcome, they gain from it, so their advice may be biased. The pattern is *have a vested interest in* + noun or *-ing*. It can also be neutral: *Everyone has a vested interest in clean air.*",
+      "pattern": "have a vested interest in + noun / -ing",
+      "examples": [
+        "The study was funded by a soda company, which had **a vested interest** in the results.",
+        "Your real estate agent has **a vested interest** in closing the deal quickly, so get a second opinion.",
+        "Parents have **a vested interest** in making sure local schools are well funded."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Be careful with that op-ed: the author sits on the company's board, so she has {{a vested interest}} in its success.",
+        "hint": "a personal reason, often about money, to want a certain result (not *a stake*)"
+      },
+      "related": "*a stake in* — similar but more neutral; *a conflict of interest* — the formal term when a personal interest clashes with an official duty; *biased* — the possible result of such an interest."
+    },
+    {
+      "id": "highly-unlikely",
+      "term": "highly unlikely",
+      "label": "adverb + adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Very improbable; almost certainly not going to happen or not true.",
+      "usage": "Very common in speech, news and reports, and a little stronger and more polished than *very unlikely*. Typical patterns are *It's highly unlikely (that) …* and *X is highly unlikely to* + verb. It also works as a short reply on its own: *Highly unlikely.*",
+      "pattern": "it's highly unlikely (that) … / be highly unlikely to + verb",
+      "examples": [
+        "It's **highly unlikely** you'll need a heavy coat in Phoenix in June.",
+        "\"Will the cluster be back up today?\" \"**Highly unlikely**. They're replacing a whole rack.\"",
+        "The bill is **highly unlikely** to pass the Senate in its current form."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Traffic is terrible and the store closes in five minutes, so it's {{highly unlikely}} we'll make it.",
+        "hint": "almost certainly not going to happen (a stronger adverb than *very*)"
+      },
+      "related": "*very unlikely* — slightly weaker and plainer; *improbable* — more formal; *a long shot* — informal, something with only a small chance of success."
+    },
+    {
+      "id": "take-a-toll-on-someone",
+      "term": "take a toll on someone",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To slowly cause damage or harm to someone's health, energy or emotions, or to something such as a relationship.",
+      "usage": "Very common in conversation and journalism about stress, illness, work and money. The forms are *take a toll on* someone or something and *take its toll (on)*; adjectives like *heavy* or *real* often go before *toll*. The subject is the cause, and the object is the person, their health or a relationship.",
+      "pattern": "X takes a (heavy) toll on someone / something",
+      "examples": [
+        "Years of working night shifts **took a toll on** his health.",
+        "The constant pressure to publish can **take a heavy toll on** PhD students.",
+        "The long-distance relationship eventually **took its toll**, and they broke up last spring."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Caring for her father while working full time has really {{taken a toll on}} her.",
+        "hint": "slowly harmed her health and energy"
+      },
+      "related": "*wear someone down* — similar, more informal; *be hard on* — casual, as in *this job is hard on your back*; *take it out of you* — make you very tired, informal."
+    },
+    {
+      "id": "the-root-cause",
+      "term": "the root cause",
+      "label": "noun + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The basic, underlying reason why a problem happens, as opposed to its visible symptoms.",
+      "usage": "Common in engineering, medicine, management and policy, as in *root cause analysis* after a failure. It implies that fixing the symptoms is not enough. Typical verbs are *find, identify, get to, address* and *tackle the root cause (of something)*.",
+      "pattern": "find / address / get to the root cause of + problem",
+      "examples": [
+        "The mechanic replaced the battery twice before finding **the root cause**: a faulty alternator.",
+        "High staff turnover is often a symptom; **the root cause** is usually poor management.",
+        "Critics say the plan deals with the symptoms of homelessness, not **the root causes**, like high rents."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After the outage, the team spent a week tracing the problem back to {{the root cause}}: a single misconfigured timeout.",
+        "hint": "the basic reason behind it all (the adjective is not *underlying*)"
+      },
+      "related": "*the underlying cause* — same, a little more formal; *a symptom* — the visible effect, the opposite idea; *the source of the problem* — plainer."
+    },
+    {
+      "id": "a-sweeping-generalization",
+      "term": "a sweeping generalization",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A broad statement that claims something is true of all people or cases, ignoring the many exceptions.",
+      "usage": "Almost always a criticism of what someone said or wrote, heard in debates, reviews and classrooms. The usual verb is *make*: *make a sweeping generalization about* a group or topic. You can also use it about yourself to soften a claim: *I know it's a sweeping generalization, but …*",
+      "pattern": "make a sweeping generalization about + group / topic",
+      "examples": [
+        "Saying that all millennials are lazy is **a sweeping generalization**.",
+        "I know it's **a sweeping generalization**, but most startups underestimate how long hiring takes.",
+        "The columnist was criticized for making **sweeping generalizations** about teenagers and their phones."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "He visited Paris once, met one rude waiter, and now says everyone in France is rude. That's {{a sweeping generalization}}.",
+        "hint": "a broad claim that ignores all the exceptions (not *a stereotype*)"
+      },
+      "related": "*an overgeneralization* — same idea, more technical; *a blanket statement* — a claim meant to cover every case; *a stereotype* — a fixed, oversimplified idea about a group."
+    },
+    {
+      "id": "cast-doubt-on-something",
+      "term": "cast doubt on something",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To make people less sure that something is true, reliable or going to happen.",
+      "usage": "Typical of news reports, academic writing and formal discussion; the subject is usually evidence, a study, a report or an event. It is often strengthened with *serious* or *new*: *cast serious doubt on*. *Cast* is irregular, so the past form is also *cast*.",
+      "pattern": "cast (serious / new) doubt on + claim / plan / finding",
+      "examples": [
+        "New evidence has **cast doubt on** the suspect's alibi.",
+        "A larger replication study **cast serious doubt on** the original findings.",
+        "The CEO's sudden resignation **casts doubt on** whether the merger will go through this year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Several leaked emails {{cast doubt on}} the company's claim that it knew nothing about the defect.",
+        "hint": "made people less sure of (not *called into question*)"
+      },
+      "mistake": {
+        "wrong": "The new data casted doubt on the theory.",
+        "right": "The new data cast doubt on the theory.",
+        "why": "*Cast* is irregular: the past tense and past participle are both *cast*."
+      },
+      "related": "*call into question* — very similar, slightly more formal; *undermine* — weaken a claim or a position; *raise doubts about* — softer, suggests questions rather than strong evidence."
+    },
+    {
+      "id": "unintended-consequences",
+      "term": "unintended consequences",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Results of an action or decision that nobody planned or wanted, usually harmful side effects of something meant to help.",
+      "usage": "Very common in policy debates, journalism and business, often in the fixed phrase *the law of unintended consequences*. Typical patterns are *have unintended consequences*, *lead to unintended consequences* and *the unintended consequences of* + noun. The singular *an unintended consequence* is also common.",
+      "pattern": "have / lead to unintended consequences; the unintended consequences of + noun",
+      "examples": [
+        "The plastic bag ban had **unintended consequences**: people started buying more plastic trash bags instead.",
+        "Paying the kids for every chore had some **unintended consequences** — now they won't do anything for free.",
+        "Doctors worry that strict limits on painkiller prescriptions could have **unintended consequences** for patients with chronic pain."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new law was meant to protect renters, but one of its {{unintended consequences}} was that landlords stopped renting to students.",
+        "hint": "results that nobody meant to cause (the adjective is not *unforeseen*)"
+      },
+      "related": "*side effects* — plainer, often medical; *unforeseen consequences* — stresses that nobody predicted them; *backfire* — have the opposite effect to the one intended."
+    },
+    {
+      "id": "strike-a-balance",
+      "term": "strike a balance",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To find a sensible middle point between two needs or demands that pull in opposite directions, so that each gets enough weight.",
+      "usage": "Very common in speech and writing about work, parenting, policy and design. The usual pattern is *strike a balance between A and B*, often with *the right*, *a fine* or *a delicate*: *strike the right balance*. *Find a balance* is a plainer alternative; the past form is *struck*.",
+      "pattern": "strike a (delicate / the right) balance between A and B",
+      "examples": [
+        "As a new parent, I'm still trying to **strike a balance** between work and family.",
+        "The new privacy law tries to **strike a balance** between protecting users and letting companies grow.",
+        "This sauce **strikes the perfect balance** between sweet and spicy."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our house rules try to {{strike a balance}} between giving the kids freedom and keeping them safe.",
+        "hint": "reach a fair middle point (the verb is not *find*)"
+      },
+      "mistake": {
+        "wrong": "We need to make a balance between speed and quality.",
+        "right": "We need to strike a balance between speed and quality.",
+        "why": "*Balance* in this sense goes with *strike* or *find*; *make a balance* is not idiomatic."
+      },
+      "related": "*find a balance* — plainer, same meaning; *a trade-off* — what you give up when you choose; *the happy medium* — informal, a sensible middle point."
+    },
+    {
+      "id": "voice-concerns",
+      "term": "voice concerns",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To say openly, often in a public or official setting, that you are worried about something.",
+      "usage": "Common in news reports, meetings and official writing; it sounds more formal than *say you're worried*. Typical patterns are *voice concerns about / over* something and *voice concerns that* + clause; people also *voice doubts*, *objections* or *support*. In casual speech people more often *bring up* or *raise* a concern.",
+      "pattern": "voice (your) concerns about / over + noun; voice concerns that + clause",
+      "examples": [
+        "Several parents **voiced concerns** about the new school start time at last night's meeting.",
+        "Neighbors have **voiced concerns** that the new stadium will bring traffic and noise.",
+        "I **voiced my concerns** about the deadline, but my manager wouldn't budge."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Several players have {{voiced concerns}} about the new artificial turf, saying it causes more injuries.",
+        "hint": "said openly that they were worried (the verb is not *raised* or *expressed*)"
+      },
+      "related": "*raise concerns* — very similar, also common; *express concern* — a little more formal; *sound the alarm* — much stronger, warn of serious danger."
+    },
+    {
+      "id": "call-something-into-question",
+      "term": "call something into question",
+      "label": "verb phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To make people doubt whether something is true, right, fair or reliable.",
+      "usage": "Common in journalism, academic writing and formal speech; the subject is usually new evidence, an event or someone's behavior. Both word orders are normal: *call X into question* and, with a long object, *call into question X*. It is often passive: *His judgment has been called into question.*",
+      "pattern": "call + noun + into question / call into question + long noun phrase",
+      "examples": [
+        "Finding out he'd lied about his job **called into question** everything else he'd told me.",
+        "The scandal has **called** the mayor's judgment **into question**.",
+        "Her knee injury **calls into question** whether she'll be ready for the Olympics."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The athlete's positive drug test has {{called into question}} every medal she won over the past five years.",
+        "hint": "made people doubt (not *cast doubt on*; the verb is not *brought* or *thrown*)"
+      },
+      "related": "*cast doubt on* — very similar, slightly softer; *question* — the plain verb; *undermine* — weaken something, not only make it doubtful."
+    },
+    {
+      "id": "the-bare-minimum",
+      "term": "the bare minimum",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The smallest amount of something that is acceptable or required, and nothing more.",
+      "usage": "Common in conversation and at work, often as criticism of someone who makes little effort: *She only does the bare minimum.* Typical patterns are *do the bare minimum*, *the bare minimum of* + noun and *keep something to a / the bare minimum*. *Bare* here means \"with nothing extra\".",
+      "pattern": "do the bare minimum; keep something to a / the bare minimum",
+      "examples": [
+        "He does **the bare minimum** at work and leaves at five on the dot.",
+        "We're only packing **the bare minimum** for the trip: one backpack each.",
+        "With a newborn at home, we're keeping social plans to **a bare minimum**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "He's not lazy exactly, but he never does a single thing beyond {{the bare minimum}}.",
+        "hint": "the least he can get away with (the adjective is not *absolute*)"
+      },
+      "related": "*the absolute minimum* — same, a little more emphatic; *the basics* — the most important things, less critical; *go above and beyond* — the opposite, do more than required."
+    },
+    {
+      "id": "brutally-honest",
+      "term": "brutally honest",
+      "label": "adverb + adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Honest in a very direct way, saying unpleasant truths without softening them, even if this hurts someone's feelings.",
+      "usage": "Common in conversation and reviews. It can be a request or praise (*I need your brutally honest opinion*) or a warning that criticism is coming (*To be brutally honest, …*). The noun phrase is *brutal honesty*; both are stronger than *very honest* or *frank*.",
+      "pattern": "be brutally honest (with someone / about something); to be brutally honest, …",
+      "examples": [
+        "My sister is **brutally honest** — if she thinks your haircut looks bad, she'll tell you.",
+        "To be **brutally honest**, I don't think this restaurant is worth the price.",
+        "I asked my coach to be **brutally honest** with me about my chances of making the team."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Don't ask Grandpa what he thinks of your new car unless you want a {{brutally honest}} answer.",
+        "hint": "truthful in a harsh way that may hurt (adverb not *painfully*)"
+      },
+      "related": "*blunt* — direct, often impolite; *frank* — open and honest, more neutral; *tactful* — the opposite, careful not to hurt anyone."
+    },
+    {
+      "id": "a-hidden-agenda",
+      "term": "a hidden agenda",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A secret aim or plan behind what someone says or does, different from the reason they give.",
+      "usage": "Used to express suspicion about someone's motives in politics, at work and in personal life. Typical patterns are *have a hidden agenda* and *There's no hidden agenda*. Because it sounds accusing, people often use it to deny suspicion: *I don't have a hidden agenda; I just want to help.*",
+      "pattern": "have a hidden agenda; there's no hidden agenda",
+      "examples": [
+        "Why is he suddenly so nice to me? I think he has **a hidden agenda**.",
+        "Some shareholders believe the board has **a hidden agenda**: selling the company to a rival.",
+        "There's no **hidden agenda** here — I just want everyone's honest feedback on the plan."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new neighbor keeps asking about our backyard. Do you think he has {{a hidden agenda}}, or is he just friendly?",
+        "hint": "a secret aim behind his questions (not *an ulterior motive*)"
+      },
+      "related": "*an ulterior motive* — a hidden reason for one action, very similar; *be upfront about something* — the opposite, be open about your aims."
+    },
+    {
+      "id": "set-boundaries",
+      "term": "set boundaries",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To make clear to others which behavior you will and will not accept, for example about your time, privacy or emotions.",
+      "usage": "Very common in American talk about relationships, family, mental health and work-life balance. It comes from therapy language, so some people hear it as self-help jargon. Typical patterns are *set boundaries with* someone, *set clear / healthy boundaries* and *respect someone's boundaries*.",
+      "pattern": "set (clear / healthy) boundaries with someone",
+      "examples": [
+        "After years of late-night calls from my boss, I finally **set boundaries**: no work messages after seven.",
+        "Therapists often tell new parents to **set boundaries** with relatives who visit without calling first.",
+        "It's hard to **set boundaries** with friends who always need a favor."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My mom kept showing up unannounced, so I had to {{set boundaries}} and ask her to text before coming over.",
+        "hint": "make clear what I would and wouldn't accept (not *draw the line*)"
+      },
+      "related": "*draw the line* — refuse to accept something beyond a certain point; *say no* — plainer; *overstep* — what someone does when they ignore your boundaries."
+    },
+    {
+      "id": "conventional-wisdom",
+      "term": "conventional wisdom",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The view that most people, or most experts, accept as true without questioning it.",
+      "usage": "Very common in journalism, business and academic writing, usually just before the writer challenges it: *Conventional wisdom says X, but …*. It is used with or without *the*: *(The) conventional wisdom is that …*, *contrary to conventional wisdom*, *defy conventional wisdom*. The phrase often hints that the belief may be outdated.",
+      "pattern": "(the) conventional wisdom is that …; contrary to / defy conventional wisdom",
+      "examples": [
+        "**Conventional wisdom** says you should never quit a job before you have another one lined up.",
+        "The upset defied **conventional wisdom**, which said a third-party candidate had no chance.",
+        "For decades, **the conventional wisdom** in the industry was that people wouldn't buy cars online."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "For years, {{conventional wisdom}} held that you had to live near a big city to find a good job.",
+        "hint": "what most people accepted as true (not *common* or *received*)"
+      },
+      "related": "*common wisdom* — very similar; *received wisdom* — more formal, often skeptical; *a myth* — a widely believed idea that is false."
+    },
+    {
+      "id": "pose-a-threat",
+      "term": "pose a threat",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To be a possible danger to someone or something.",
+      "usage": "Typical of news, official reports and formal speech; in conversation people more often say *be a threat* or *be dangerous*. The pattern is *pose a threat to* + noun, often with *serious, real, direct* or *no*. *Pose* also goes with *a risk*, *a challenge* and *a problem*.",
+      "pattern": "pose a (serious / direct) threat to + noun",
+      "examples": [
+        "Officials say the wildfire **poses a serious threat** to homes on the east side of town.",
+        "The dog looks scary, but he doesn't **pose a threat** to anyone.",
+        "Bank fraud experts say AI voice cloning **poses a growing threat** to older customers."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Scientists warn that rising sea levels {{pose a threat}} to coastal cities like Miami.",
+        "hint": "are a possible danger (the verb is not *represent*; the noun is not *risk* or *danger*)"
+      },
+      "related": "*pose a risk* — same pattern, a little less dramatic; *threaten* — the plain verb; *be at risk* — the opposite point of view, the thing in danger."
+    },
+    {
+      "id": "a-double-standard",
+      "term": "a double standard",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A rule or principle that is applied more strictly to some people or groups than to others, in an unfair way.",
+      "usage": "Used to criticize unfairness in politics, the media, families and workplaces. Typical patterns are *there's a double standard*, *apply a double standard* and *a double standard for / when it comes to* something. It is often about gender: *a double standard for men and women*.",
+      "pattern": "there's a double standard (for … / when it comes to …)",
+      "examples": [
+        "My brother could stay out until midnight, but I had to be home by ten. It was **a double standard**.",
+        "Fans say the league has **a double standard**, since star players rarely get suspended for the same fouls.",
+        "There's still **a double standard** in how the media talks about ambitious women and ambitious men."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "He complains when I'm on my phone at dinner, but he checks his email all the time. Talk about {{a double standard}}!",
+        "hint": "one rule for me and another for him (not *hypocrisy*)"
+      },
+      "related": "*hypocrisy* — saying one thing and doing another; *one rule for them and another for us* — informal; *a level playing field* — the opposite, equal conditions for all."
+    },
+    {
+      "id": "set-the-tone",
+      "term": "set the tone",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To establish the mood, style or standard that the rest of an event, period or relationship will follow.",
+      "usage": "Common at work, in sports and in politics, especially about beginnings: *The first meeting sets the tone for the whole project.* The pattern is *set the tone for* + noun; you can also *set a positive / the right tone*. It is neutral and can describe good or bad effects.",
+      "pattern": "set the tone for + event / period",
+      "examples": [
+        "The host's funny opening speech **set the tone** for a relaxed, cheerful evening.",
+        "Her first email to the team **set the tone**: short, direct and a little cold.",
+        "Scoring in the first minute **set the tone**, and the visitors never recovered."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "A warm welcome at the door can {{set the tone}} for the whole dinner party.",
+        "hint": "establish the overall feeling (the noun is not *mood*)"
+      },
+      "related": "*set the mood* — create a feeling, especially a romantic or festive one; *set the stage for* — prepare the conditions for something; *lead by example* — show the standard through your own behavior."
+    },
+    {
+      "id": "have-reservations-about-something",
+      "term": "have reservations about something",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To have some doubts about a plan, idea or person, so that you do not fully support or accept it.",
+      "usage": "A polite, measured way to express doubt, common in meetings, reviews and careful conversation; it is softer than *disagree* or *object*. Typical patterns are *have (some / serious / no) reservations about* + noun or *-ing* and *express reservations*. *Without reservation* means completely: *I recommend her without reservation.*",
+      "pattern": "have (some / serious) reservations about + noun / -ing",
+      "examples": [
+        "I like the apartment, but I **have some reservations about** the long commute.",
+        "Several board members **have reservations about** moving the headquarters to Denver.",
+        "My parents **had reservations about** me studying abroad, but they came around."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I {{have reservations about}} lending my car to someone who just got his license.",
+        "hint": "feel unsure and don't fully support (the noun is not *doubts* or *concerns*)"
+      },
+      "related": "*have doubts about* — plainer and a little stronger; *have second thoughts* — begin to doubt a decision already made; *wholeheartedly support* — the opposite."
+    },
+    {
+      "id": "a-compelling-argument",
+      "term": "a compelling argument",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "An argument so strong and convincing that it is hard to disagree with.",
+      "usage": "Common in debates, essays, reviews and business discussions. Typical patterns are *make a compelling argument for / against* something and *a compelling argument that* + clause; *compelling* also goes with *case*, *evidence* and *reason*. It is positive and a little formal; in casual speech people say *a really good point*.",
+      "pattern": "make a compelling argument for / against + noun",
+      "examples": [
+        "The lawyer made **a compelling argument** that her client was nowhere near the scene.",
+        "Cheaper rent and a shorter commute are **a compelling argument** for moving to the suburbs.",
+        "The book presents **a compelling argument** that cities should be designed around walking, not cars."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My daughter made {{a compelling argument}} for a later bedtime: she's finished her homework early every night this month.",
+        "hint": "reasoning that is hard to resist (the adjective is not *convincing*, *persuasive* or *strong*)"
+      },
+      "related": "*a persuasive argument* — similar, stresses the effect on the listener; *a compelling case* — same meaning, common in law and policy; *a weak argument* — the opposite."
+    },
+    {
+      "id": "lay-the-groundwork",
+      "term": "lay the groundwork",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To do the early, basic work that makes later progress or success possible.",
+      "usage": "Common in business, politics, research and planning; the work is often unseen at first. The pattern is *lay the groundwork for* + noun or *-ing*. The past form is *laid*, not *layed*.",
+      "pattern": "lay the groundwork for + noun / -ing",
+      "examples": [
+        "Months of quiet talks **laid the groundwork** for the peace agreement.",
+        "Reading to kids every night **lays the groundwork** for a lifelong love of books.",
+        "Her early experiments **laid the groundwork** for the touchscreens we use today."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Before opening the bakery, she spent a year {{laying the groundwork}}: finding suppliers, testing recipes and building a following online.",
+        "hint": "doing the early basic work (not *foundations*)"
+      },
+      "mistake": {
+        "wrong": "Last year's talks layed the groundwork for the deal.",
+        "right": "Last year's talks laid the groundwork for the deal.",
+        "why": "*Lay* has an irregular spelling in the past: *lay, laid, laid*."
+      },
+      "related": "*lay the foundation(s) for* — very similar; *pave the way for* — make something easier or possible later; *set the stage for* — create the conditions for an event."
+    },
+    {
+      "id": "address-concerns",
+      "term": "address concerns",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To deal seriously with the things people are worried about, by answering, explaining or taking action.",
+      "usage": "Common in business, politics, customer service and formal emails, as in *We will address your concerns as soon as possible.* *Address* takes a direct object here, usually *concerns*, *questions*, *issues* or *a problem*. It can sound corporate when no real action follows.",
+      "pattern": "address + someone's concerns / the concerns of + group",
+      "examples": [
+        "The school held a meeting to **address parents' concerns** about safety on the playground.",
+        "The new CEO promised to **address concerns** about low pay and long hours.",
+        "Thanks for your email. I'd like to set up a quick call to **address your concerns**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The landlord never really {{addressed our concerns}} about the mold in the bathroom.",
+        "hint": "dealt with what we were worried about (one formal verb, no preposition)"
+      },
+      "mistake": {
+        "wrong": "The manager addressed to our concerns in the meeting.",
+        "right": "The manager addressed our concerns in the meeting.",
+        "why": "In this sense *address* takes a direct object, with no *to*."
+      },
+      "related": "*deal with* — plainer; *tackle* — take strong action on a problem; *brush off* — the opposite, dismiss someone's concerns."
+    },
+    {
+      "id": "an-educated-guess",
+      "term": "an educated guess",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A guess based on some knowledge, experience or evidence, so it is likely to be roughly right.",
+      "usage": "Very common in conversation, at work and in teaching; it admits you're not sure but shows the guess is reasoned. The usual verbs are *make* and *take*: *make an educated guess about / at* something. A frequent frame is *If I had to make an educated guess, …*",
+      "pattern": "make / take an educated guess (about / at + noun)",
+      "examples": [
+        "I don't know exactly how old the house is, but **an educated guess** would be the 1920s, based on the windows.",
+        "If I had to make **an educated guess**, I'd say the Yankees win the series in six games.",
+        "Without the full sales figures, we can only make **an educated guess** about next year's budget."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "\"How many jelly beans are in the jar?\" \"I counted one layer, so I'll take {{an educated guess}}: about eight hundred.\"",
+        "hint": "a reasoned estimate based on some evidence (adjective not *rough* or *informed*)"
+      },
+      "related": "*a ballpark figure* — a rough number; *a shot in the dark* — the opposite, a guess with no basis; *an informed guess* — similar, less common."
+    },
+    {
+      "id": "play-a-pivotal-role",
+      "term": "play a pivotal role",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To have a central and crucial part in something, so that its result depends on you.",
+      "usage": "Common in news, academic writing, speeches and recommendation letters; it is stronger than *play an important role*. The pattern is *play a pivotal role in* + noun or *-ing*. It is a little formal and can sound like a cliché in cover letters.",
+      "pattern": "play a pivotal role in + noun / -ing",
+      "examples": [
+        "The goalkeeper **played a pivotal role** in the team's championship run.",
+        "Women **played a pivotal role** in the civil rights movement.",
+        "Early diagnosis **plays a pivotal role** in how well patients recover."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My grandmother {{played a pivotal role}} in my decision to become a nurse.",
+        "hint": "had a central, decisive part (the adjective is not *key* or *crucial*)"
+      },
+      "related": "*play a key role* — same, more common; *be instrumental in* — help make something happen; *play a minor role* — the opposite."
+    },
+    {
+      "id": "respectfully-disagree",
+      "term": "respectfully disagree",
+      "label": "adverb + verb",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To disagree politely, showing that you still respect the other person and their view.",
+      "usage": "A polite formula used in meetings, debates and political or legal settings, usually as *I respectfully disagree (with …)*. In speech it can sound stiff or even pointed, as if the speaker is annoyed but staying calm. US Supreme Court justices often end their dissents with *I respectfully dissent*.",
+      "pattern": "I respectfully disagree (with someone / that …)",
+      "examples": [
+        "\"Remote work kills creativity.\" \"I **respectfully disagree** — my team has never been more productive.\"",
+        "In her dissent, the judge wrote that she **respectfully disagreed** with the majority.",
+        "My uncle thinks the Cowboys will win the Super Bowl this year. I **respectfully disagree**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I see why you want to sell the house now, but I {{respectfully disagree}}: prices will be higher in the spring.",
+        "hint": "politely don't share your view (adverb + verb; the adverb is not *strongly*)"
+      },
+      "related": "*beg to differ* — formal, slightly humorous; *with all due respect* — a polite opener that often comes before criticism; *wholeheartedly agree* — the opposite."
+    },
+    {
+      "id": "a-conflict-of-interest",
+      "term": "a conflict of interest",
+      "label": "noun phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A situation in which a person's private interests, such as money or family ties, could influence their professional judgment or official decisions.",
+      "usage": "A formal term in business, law, government, medicine and research ethics. Typical patterns are *have a conflict of interest*, *disclose / declare a conflict of interest* and *a potential conflict of interest*. The plural is *conflicts of interest*.",
+      "pattern": "have / disclose a (potential) conflict of interest",
+      "examples": [
+        "The judge stepped aside because her husband worked for the defendant — a clear **conflict of interest**.",
+        "All authors must disclose any **conflict of interest**, such as funding from a drug company.",
+        "Hiring your own brother-in-law as the company's accountant is an obvious **conflict of interest**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The council member voted on a contract for his own company, which is a textbook {{conflict of interest}}.",
+        "hint": "a clash between private gain and public duty"
+      },
+      "mistake": {
+        "wrong": "She had to declare a conflict of interests.",
+        "right": "She had to declare a conflict of interest.",
+        "why": "In this ethics term *interest* stays singular; only *conflict* becomes plural: *conflicts of interest*."
+      },
+      "related": "*a vested interest* — a personal stake in an outcome; *recuse yourself* — formal, step away from a decision because of a conflict; *impartial* — the opposite, without bias."
+    },
+    {
+      "id": "put-a-strain-on-something",
+      "term": "put a strain on something",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To create pressure or difficulties for something, such as a relationship, a budget or a system, so that it works less well.",
+      "usage": "Very common in conversation and news about money, health, relationships and public services. Adjectives such as *huge*, *serious*, *real* or *financial* often go before *strain*. *Place a strain on* is a slightly more formal variant.",
+      "pattern": "put a (huge / serious) strain on + relationship / budget / system",
+      "examples": [
+        "Working opposite shifts **put a real strain on** their marriage.",
+        "The heat wave is **putting a huge strain on** the power grid.",
+        "Paying for two kids in college has **put a strain on** our savings."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Caring for a sick parent can {{put a strain on}} even the strongest marriage.",
+        "hint": "create pressure and difficulties for (not *test* or *take a toll on*)"
+      },
+      "related": "*take a toll on* — cause slow damage over time; *stretch* — use almost all of a resource, as in *stretch the budget*; *ease the strain on* — the opposite, reduce the pressure."
+    },
+    {
+      "id": "in-stark-contrast-to-something",
+      "term": "in stark contrast to something",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Very clearly and sharply different from something else.",
+      "usage": "Common in journalism, essays and reports when two things are compared side by side, often at the start of a sentence or after a comma. Patterns are *in stark contrast to / with* + noun and *stand in stark contrast to* + noun. It is a bit formal for casual speech, where people say *totally different from*.",
+      "pattern": "in stark contrast to / with + noun; stand in stark contrast to + noun",
+      "examples": [
+        "The quiet village was **in stark contrast to** the noisy city we had just left.",
+        "**In stark contrast to** last season, the team has won eight of its first ten games.",
+        "Her warm, relaxed manner **stands in stark contrast to** her predecessor's style."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Their tiny, messy apartment was {{in stark contrast to}} the huge, spotless house he grew up in.",
+        "hint": "showing a very clear difference from (the adjective is not *sharp*)"
+      },
+      "related": "*in sharp contrast to* — same meaning; *by contrast* — a linking adverb with no object; *in line with* — the opposite, matching something."
+    },
+    {
+      "id": "reap-the-benefits",
+      "term": "reap the benefits",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To get the good results of something you did or invested in earlier.",
+      "usage": "Common in news, business and health advice. *Reap* means to harvest a crop, so the phrase suggests a delay between the effort and the reward. Patterns are *reap the benefits / rewards of* + noun or *-ing*, often with *start to* or *already*.",
+      "pattern": "reap the benefits / rewards of + noun / -ing",
+      "examples": [
+        "She trained hard all winter, and now she's **reaping the benefits** in every race.",
+        "You don't have to run marathons to **reap the benefits** of regular exercise.",
+        "Towns along the new rail line are already **reaping the benefits** of more visitors."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We insulated the attic last fall, and this winter we're finally {{reaping the benefits}}: our heating bill is way down.",
+        "hint": "getting the good results (a farming verb; the noun is not *rewards*)"
+      },
+      "related": "*reap the rewards* — same; *pay off* — informal, of an effort: succeed; *bear fruit* — more formal, start to produce results."
+    },
+    {
+      "id": "set-a-precedent",
+      "term": "set a precedent",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To do something that will later be used as an example or a rule to justify similar actions.",
+      "usage": "Common in law, politics, business and family decisions. Typical patterns are *set a (dangerous / bad / important) precedent* and *set a precedent for* + noun. It is often a warning: *If we do it once, it sets a precedent.*",
+      "pattern": "set a (dangerous / important) precedent (for + noun)",
+      "examples": [
+        "If you let one student hand in work late with no penalty, you **set a precedent** for the whole class.",
+        "The court's ruling **sets an important precedent** for future privacy cases.",
+        "Paying the ransom would **set a dangerous precedent**, officials warned."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If I let my teenager skip school for this concert, I'll {{set a precedent}}, and she'll expect it every time.",
+        "hint": "create a case she can point to later (not *set an example*)"
+      },
+      "mistake": {
+        "wrong": "This decision sets a dangerous precedence.",
+        "right": "This decision sets a dangerous precedent.",
+        "why": "A *precedent* is an earlier case used as an example; *precedence* means priority, as in *take precedence over*."
+      },
+      "related": "*set an example* — behave in a way others should copy; *open the floodgates* — allow a flood of similar cases; *unprecedented* — never done or seen before."
+    },
+    {
+      "id": "a-sense-of-urgency",
+      "term": "a sense of urgency",
+      "label": "noun phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A feeling or attitude that something is important and must be done quickly.",
+      "usage": "Common at work, in politics and in the news, often as criticism: *There's no sense of urgency.* Typical verbs are *create*, *bring* and *lack*, and people act *with a (real / new) sense of urgency*. Managers use it a lot, so it can sound like corporate language.",
+      "pattern": "create / lack a sense of urgency; with a sense of urgency",
+      "examples": [
+        "The fire alarm went off, but nobody moved with **a sense of urgency** — everyone assumed it was a drill.",
+        "After this spring's floods, there's **a new sense of urgency** about repairing the levees.",
+        "Our project lead tries to create **a sense of urgency** by setting fake deadlines."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The coach was frustrated that his team played without any {{sense of urgency}}, even when they were down by ten points.",
+        "hint": "feeling that they needed to act fast"
+      },
+      "related": "*a matter of urgency* — something that must be dealt with now; *complacency* — the opposite, a lack of concern; *hurry* — plainer, only about speed."
+    },
+    {
+      "id": "abundantly-clear",
+      "term": "abundantly clear",
+      "label": "adverb + adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Completely obvious, so that nobody can misunderstand it.",
+      "usage": "Used in speech and writing, often with a firm or annoyed tone. The main patterns are *make it abundantly clear (that) …* and *it is / became abundantly clear that …*. It is more emphatic than *very clear*; *crystal clear* is the informal equivalent.",
+      "pattern": "make it abundantly clear that …; it became abundantly clear that …",
+      "examples": [
+        "Five minutes into the interview, it was **abundantly clear** that he hadn't read my résumé.",
+        "I made it **abundantly clear** to the kids that the cookies were for the bake sale.",
+        "The online reviews make it **abundantly clear** that the hotel's photos are years out of date."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The manager made it {{abundantly clear}} that nobody gets time off during the holiday rush.",
+        "hint": "completely obvious (the adverb is not *crystal* or *perfectly*)"
+      },
+      "related": "*crystal clear* — informal, same meaning; *self-evident* — formal, needing no proof; *unclear* — the opposite."
+    },
+    {
+      "id": "strike-a-deal",
+      "term": "strike a deal",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To reach an agreement with someone, especially after negotiation, in business, politics or everyday life.",
+      "usage": "Common in news and conversation; it sounds more active than *reach an agreement*. Patterns are *strike a deal with* someone, *strike a deal to* + verb and *strike a deal on* something; the past form is *struck*. In casual speech people also *make a deal* or *cut a deal*.",
+      "pattern": "strike a deal with someone (to + verb / on + noun)",
+      "examples": [
+        "After weeks of talks, the union **struck a deal** with the airline to raise pilots' pay.",
+        "My son and I **struck a deal**: he mows the lawn, and I pay for his phone.",
+        "Lawmakers finally **struck a deal on** the budget just hours before the deadline."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The car salesman wouldn't lower the price at first, but after an hour of haggling we {{struck a deal}}.",
+        "hint": "reached an agreement (the verb is not *made* or *cut*)"
+      },
+      "related": "*cut a deal* — informal, sometimes suggests something secret or shady; *reach an agreement* — more formal; *drive a hard bargain* — negotiate firmly."
+    },
+    {
+      "id": "come-under-scrutiny",
+      "term": "come under scrutiny",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To be examined closely and critically, usually by the public, the media or officials.",
+      "usage": "Typical of news and formal reports about companies, politicians, policies or practices. Patterns are *come under (close / intense / increasing) scrutiny*, often with *from* + the critics or *for* + the reason. *Be under scrutiny* describes the ongoing state.",
+      "pattern": "come under (intense / close) scrutiny (from … / for …)",
+      "examples": [
+        "The airline's safety record has **come under intense scrutiny** after the second crash in a year.",
+        "Celebrity diets often **come under scrutiny** from doctors and nutritionists.",
+        "The referee's call **came under scrutiny** after replays showed the ball was out."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After the bridge collapsed, the city's inspection process {{came under scrutiny}} from federal investigators.",
+        "hint": "was examined closely and critically (not *fire* or *investigation*)"
+      },
+      "related": "*come under fire* — be strongly criticized; *be put under the microscope* — informal, be examined in detail; *escape scrutiny* — the opposite."
+    },
+    {
+      "id": "an-informed-decision",
+      "term": "an informed decision",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A decision made after learning the relevant facts, risks and options.",
+      "usage": "Common in health care, finance, consumer advice and policy, often as a goal: *We want to help patients make an informed decision.* The usual verb is *make*. *Informed* here means \"based on information\"; the same idea appears in *informed consent* in medicine.",
+      "pattern": "make an informed decision (about + noun)",
+      "examples": [
+        "Our doctor walked us through the risks of both treatments so we could make **an informed decision**.",
+        "Voters need clear, honest information to make **informed decisions** at the ballot box.",
+        "I'd rather wait for the inspection report; then it'll be **an informed decision**, not a guess."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Before choosing a college, visit the campus and talk to students so you can make {{an informed decision}}.",
+        "hint": "a choice made with all the relevant facts"
+      },
+      "related": "*an educated guess* — a guess based on some knowledge; *a snap decision* — the opposite, made quickly without thought; *weigh the options* — consider choices carefully."
+    },
+    {
+      "id": "a-calculated-risk",
+      "term": "a calculated risk",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A risk you take on purpose after carefully judging the possible gains and losses.",
+      "usage": "Common in business, sports, politics and personal decisions; it presents a bold move as smart rather than reckless. The usual verb is *take*: *take a calculated risk*. It is often used to defend a decision afterward: *It was a calculated risk, and it paid off.*",
+      "pattern": "take a calculated risk",
+      "examples": [
+        "Quitting her job to start a business was **a calculated risk**: she had a year of savings and three clients lined up.",
+        "The coach took **a calculated risk** by going for it on fourth down.",
+        "Investors see the merger as **a calculated risk** rather than a reckless gamble."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We knew it might rain, but we took {{a calculated risk}} and planned the wedding outdoors.",
+        "hint": "a bold move made after weighing the odds (not *a gamble*)"
+      },
+      "related": "*a gamble* — a risk with an uncertain result, often less thought through; *reckless* — taking risks without thinking; *hedge your bets* — reduce risk by keeping options open."
+    },
+    {
+      "id": "erode-trust",
+      "term": "erode trust",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To gradually weaken people's trust in a person, group or institution.",
+      "usage": "Common in news, politics and business writing, usually about institutions, leaders or brands. Patterns are *erode (public) trust in* + noun and the noun phrase *the erosion of trust*. It stresses a slow process; for a sudden loss, people say *destroy* or *shatter trust*.",
+      "pattern": "erode (public) trust in + institution / person",
+      "examples": [
+        "Years of broken promises have slowly **eroded trust** between the city and its residents.",
+        "Constant small lies can **erode trust** in a relationship.",
+        "A string of safety recalls has **eroded trust** in the brand."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Every time the airline cancels flights without warning, it {{erodes trust}} among its customers.",
+        "hint": "slowly wears away confidence (the verb is not *undermines* or *damages*)"
+      },
+      "related": "*undermine trust* — weaken it, not always slowly; *shatter trust* — destroy it suddenly; *build trust* — the opposite."
+    },
+    {
+      "id": "fall-short-of-expectations",
+      "term": "fall short of expectations",
+      "label": "verb phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To be less good, successful or large than people hoped or predicted.",
+      "usage": "Common in business and sports news, reviews and performance reports. Patterns are *fall short of (someone's) expectations* and *fall well / far short of* + noun; *fall short* can also stand alone. *Fall* is irregular: *fell*, *fallen*.",
+      "pattern": "fall (well / far) short of expectations",
+      "examples": [
+        "The sequel **fell short of expectations**, earning half as much as the first movie.",
+        "The company's sales **fell well short of** analysts' **expectations** this quarter.",
+        "Our vacation rental **fell short of expectations**: the \"ocean view\" was a parking lot."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new restaurant got a lot of hype, but the food {{fell short of expectations}}.",
+        "hint": "was less good than people hoped (not *didn't live up to*)"
+      },
+      "related": "*not live up to expectations* — same idea, a little more conversational; *exceed expectations* — the opposite, be better than hoped; *disappoint* — plainer."
+    },
+    {
+      "id": "challenge-the-status-quo",
+      "term": "challenge the status quo",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To question the existing state of affairs and push for change.",
+      "usage": "Common in business, politics, activism and tech culture. It usually sounds positive and brave, but it is also a cliché in company slogans and job ads. Related patterns are *maintain*, *defend* or *disrupt the status quo*.",
+      "pattern": "challenge / question / defend the status quo",
+      "examples": [
+        "Younger employees are often more willing to **challenge the status quo** than their managers are.",
+        "She built her career by **challenging the status quo** in a male-dominated industry.",
+        "Every startup claims to **challenge the status quo**, but most just sell a slightly better app."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new principal isn't afraid to {{challenge the status quo}}, even if it upsets some longtime teachers.",
+        "hint": "question the way things have always been done (not *rock the boat* or *shake things up*)"
+      },
+      "related": "*rock the boat* — informal, cause trouble by questioning things; *shake things up* — make big changes; *maintain the status quo* — the opposite."
+    },
+    {
+      "id": "a-daunting-task",
+      "term": "a daunting task",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A job that looks so big or difficult that it makes you nervous or less confident before you start.",
+      "usage": "Common in speech and writing, often to admit difficulty before saying it was done anyway: *It seemed like a daunting task, but …*. *Daunting* describes the task; the person feels *daunted*. *Daunting* also goes with *challenge* and *prospect*.",
+      "pattern": "a daunting task / challenge / prospect",
+      "examples": [
+        "Cleaning out my grandparents' house after fifty years was **a daunting task**.",
+        "Rebuilding the town after the hurricane will be **a daunting task** for local officials.",
+        "For a first-year student, reading two hundred papers for a literature review is **a daunting task**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Organizing a wedding for three hundred guests in two months is {{a daunting task}}.",
+        "hint": "a job so big it makes you nervous (not *a tall order*)"
+      },
+      "mistake": {
+        "wrong": "I felt very daunting before my first marathon.",
+        "right": "I felt very daunted before my first marathon.",
+        "why": "The *-ing* form describes the thing that causes the feeling; the person who has the feeling is *daunted*."
+      },
+      "related": "*a tall order* — informal, a request that is hard to meet; *an uphill battle* — a long struggle against difficulty; *a piece of cake* — the opposite, very easy."
+    },
+    {
+      "id": "hone-your-skills",
+      "term": "hone your skills",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To improve your skills gradually through practice until they are very sharp.",
+      "usage": "Common in career advice, job ads, sports and the arts. *Hone* originally means to sharpen a blade, so it suggests making skills that are already good even better. Patterns are *hone your skills / craft*, *hone your skills as* + role and *hone your skills by* + *-ing*.",
+      "pattern": "hone your skills (as a + role / by + -ing)",
+      "examples": [
+        "He spent years playing small clubs to **hone his skills** as a comedian.",
+        "Cooking for friends every weekend is a fun way to **hone your skills** in the kitchen.",
+        "The internship let her **hone her coding skills** on real projects."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our daughter goes to chess club twice a week to {{hone her skills}} before the state tournament.",
+        "hint": "sharpen her abilities through practice (the verb is not *sharpen*)"
+      },
+      "related": "*sharpen your skills* — same meaning, plainer; *brush up on* — refresh skills you have partly forgotten; *perfect* — make something as good as possible."
+    },
+    {
+      "id": "a-concerted-effort",
+      "term": "a concerted effort",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A determined, serious effort, often made by several people or groups working together.",
+      "usage": "Common in news, business and official statements, and also in personal resolutions: *I'm making a concerted effort to eat better.* The usual pattern is *make a concerted effort to* + verb. *Concerted* originally means \"done together\", but today it often just means \"determined\".",
+      "pattern": "make a concerted effort to + verb",
+      "examples": [
+        "The city made **a concerted effort** to clean up the river, and now people swim in it again.",
+        "I've been making **a concerted effort** to call my parents every Sunday.",
+        "It took **a concerted effort** by neighbors and volunteers to fill enough sandbags before the river crested."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After his heart scare, my dad made {{a concerted effort}} to walk every day and cut back on salt.",
+        "hint": "a serious, determined attempt (the adjective is not *conscious*)"
+      },
+      "related": "*a conscious effort* — a deliberate personal effort; *a joint effort* — work shared by several people; *a half-hearted attempt* — the opposite."
+    },
+    {
+      "id": "the-foreseeable-future",
+      "term": "the foreseeable future",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The period ahead that you can reasonably predict; in practice, \"for now and for quite a while\".",
+      "usage": "Almost always in *for the foreseeable future* (= for as long as anyone can predict) or *in the foreseeable future* (= soon enough to predict, often in negative sentences). Common in official announcements, business and news. *The near future* is different: it simply means soon.",
+      "pattern": "for / in the foreseeable future",
+      "examples": [
+        "The bridge will be closed **for the foreseeable future** while engineers repair the damage.",
+        "I'm working from home **for the foreseeable future**, so I finally bought a decent chair.",
+        "Gas prices are unlikely to come down **in the foreseeable future**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Grandma is staying with us {{for the foreseeable future}}, so we turned the office into a bedroom.",
+        "hint": "for as long as anyone can predict (not *for the time being*)"
+      },
+      "related": "*for the time being* — for now, until something changes; *indefinitely* — with no end date; *the near future* — soon."
+    },
+    {
+      "id": "undivided-attention",
+      "term": "undivided attention",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Complete attention given to one person or thing, with no distraction.",
+      "usage": "Common in speech, often as a request or a promise: *You have my undivided attention.* Typical patterns are *give someone your undivided attention*, *have someone's undivided attention* and *require undivided attention*. In casual talk it can sound a little formal or playful.",
+      "pattern": "give someone your undivided attention; have someone's undivided attention",
+      "examples": [
+        "Put your phone away — when your kids talk to you, give them your **undivided attention**.",
+        "\"Got a minute?\" \"Sure, you have my **undivided attention**.\"",
+        "Driving in heavy snow requires your **undivided attention**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "During the magic show, the kids gave the magician their {{undivided attention}}.",
+        "hint": "focus with no distraction at all (the adjective is not *full* or *complete*)"
+      },
+      "related": "*full attention* — plainer; *be all ears* — informal, ready to listen; *distracted* — the opposite."
+    },
+    {
+      "id": "due-diligence",
+      "term": "due diligence",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Careful research and checking of the facts before a decision, especially before an investment, deal or purchase.",
+      "usage": "Originally a legal and financial term for checking a company before buying it, now common in everyday speech too. The usual verbs are *do*, *perform* and *conduct*, often with a possessive: *do your due diligence on a contractor*. It sounds more serious and businesslike than *check things out*.",
+      "pattern": "do / perform (your) due diligence (on + company / person)",
+      "examples": [
+        "Before buying the company, the investors spent three months doing **due diligence** on its finances.",
+        "Do your **due diligence** before hiring a contractor: check reviews, licenses and insurance.",
+        "The reporter clearly hadn't done her **due diligence** — half the quotes were wrong."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Before you sign a lease, do your {{due diligence}}: talk to the neighbors and find out how fast the landlord fixes things.",
+        "hint": "careful checking of the facts (not *homework*)"
+      },
+      "related": "*do your homework* — informal, prepare by researching; *vet* — check a person or plan carefully; *negligence* — the opposite, failing to take proper care."
+    },
+    {
+      "id": "a-proven-track-record",
+      "term": "a proven track record",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A history of past success that shows someone or something can be trusted to succeed again.",
+      "usage": "Very common in job ads, résumés, business and politics. Patterns are *have a proven track record of / in* + noun or *-ing*; *strong* or *good* can replace *proven*. It is a résumé cliché, so specific results make it more convincing.",
+      "pattern": "have a proven track record of / in + noun / -ing",
+      "examples": [
+        "We're looking for a manager with **a proven track record** of growing sales in new markets.",
+        "The surgeon has **a proven track record**: thousands of knee replacements with very few complications.",
+        "With **a proven track record** of on-time remodels, the contractor is booked a year in advance."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our new coach has {{a proven track record}} of turning losing teams into winners.",
+        "hint": "a history of success that shows he can do it again (adjective not *strong*)"
+      },
+      "related": "*a good track record* — same idea, less formal; *experience* — plainer, does not stress success; *unproven* — the opposite, not yet tested."
+    }
+  ]
+}

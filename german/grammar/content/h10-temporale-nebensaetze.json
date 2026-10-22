@@ -1,0 +1,1221 @@
+{
+  "topic_id": "h10-temporale-nebensaetze",
+  "level": "B1+",
+  "title_de": "Temporale Nebensätze und Zeitenfolge",
+  "title_en": "Temporal clauses and the sequence of tenses",
+  "rule": {
+    "summary": "A temporal Nebensatz places one event in time relative to the main clause. The Nebensatz event can be **earlier** (Vorzeitigkeit: *nachdem, sobald*), **at the same time** (Gleichzeitigkeit: *während, solange, sooft, als, wenn*) or **later** (Nachzeitigkeit: *bevor, ehe, bis*); *seit/seitdem* marks the starting point of a situation that still continues. With Vorzeitigkeit the tense must show the order: the *nachdem*-clause stands one tense step further in the past than the main clause (Plusquamperfekt + Präteritum, Perfekt + Präsens). Many of these words have a twin preposition that takes a noun instead of a clause (*vor/bevor, nach/nachdem, seit/seitdem, während/während*).",
+    "table": "| Konjunktion | Zeitverhältnis | Präposition (Kasus) | Tempus im Nebensatz |\n|---|---|---|---|\n| **nachdem** | Nebensatz früher | **nach** (Dat.) | one step back: Plusquamperfekt ↔ Präteritum, Perfekt ↔ Präsens |\n| **sobald** | Nebensatz früher, *sofort danach* | — | Perfekt/Präsens (future), Plusquamperfekt (past) |\n| **seit / seitdem** | Beginn in der Vergangenheit, dauert an | **seit** (Dat.) | Präsens (state continues) · Perfekt (single event as start) |\n| **während** | gleichzeitig | **während** (Gen.) | same tense as the main clause |\n| **solange** | gleich lange Dauer | — | same tense |\n| **sooft** / **wenn** | Wiederholung | — | same tense |\n| **als** | einmalig, Vergangenheit | — | same tense (main clause Plusquamperfekt for an earlier action) |\n| **bevor / ehe** | Nebensatz später | **vor** (Dat.) | same tense |\n| **bis** | Nebensatz = Endpunkt | **bis** (Akk.) / **bis zu** (Dat.) | same tense; with a future deadline the main clause often takes the Perfekt |",
+    "steps": [
+      "Decide the time relation: does the Nebensatz event happen before, at the same time as, or after the main-clause event? Choose the conjunction from that (*nachdem/sobald – während/solange/als/wenn – bevor/bis*).",
+      "Check what follows: a noun phrase needs a preposition (*vor der Prüfung, nach dem Essen, seit dem Umzug, während des Studiums*); a clause with its own verb needs a conjunction.",
+      "With *nachdem* (and *sobald* for a completed action) move the Nebensatz one tense step back: main clause Präteritum → Plusquamperfekt; main clause Präsens/Futur → Perfekt.",
+      "With *seit/seitdem*: a situation that still continues stays in the **Präsens** (*Seit sie hier lebt, …*); a single completed starting event takes the Perfekt (*Seit er umgezogen ist, …*).",
+      "Put the finite verb at the end of the Nebensatz. If the Nebensatz comes first, it fills position 1, so the main-clause verb follows directly after the comma: *Sobald ich ankomme, **rufe** ich an.*",
+      "Single event in the past → *als*; repeated events or present/future → *wenn*; question about the time → *wann*."
+    ],
+    "pitfalls": [
+      "Same tense after *nachdem*: ✗ *Nachdem er aß, ging er.* → ✓ *Nachdem er gegessen hatte, ging er.* / ✓ *Nachdem er gegessen hat, geht er.*",
+      "Subject straight after the Nebensatz (English order): ✗ *Sobald ich ankomme, ich rufe dich an.* → ✓ *Sobald ich ankomme, rufe ich dich an.*",
+      "Conjunction before a noun: ✗ *Nachdem dem Essen …* → ✓ *Nach dem Essen …*; ✗ *Bevor der Prüfung …* → ✓ *Vor der Prüfung …*",
+      "English present perfect with *seit*: ✗ *Ich habe hier seit drei Jahren gewohnt* (I still live here) → ✓ *Ich wohne hier seit drei Jahren.*",
+      "*als* for repeated past events: ✗ *Jedes Mal, als ich sie besuchte, …* → ✓ *Jedes Mal, wenn ich sie besuchte, …*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "{{c1::Nachdem::Vorzeitigkeit}} die Kommission alle Gutachten geprüft hatte, legte sie ihren Abschlussbericht vor.",
+      "en": "After the commission had examined all the expert reports, it presented its final report.",
+      "focus": "Konjunktion · Nebensatz im Plusquamperfekt, Hauptsatz im Präteritum",
+      "explanation": "The examination (*geprüft hatte*, Plusquamperfekt) clearly comes before the presentation (*legte … vor*, Präteritum). The conjunction that marks the earlier, completed action is **nachdem**; its finite verb *hatte* goes to the end. *bevor* would reverse the order of events. *als* + Plusquamperfekt is also possible, but *nachdem* is the standard way to stress the sequence.",
+      "pattern": "Nachdem + … Partizip II + hatte/war, + Präteritum + Subjekt …",
+      "mistake": {
+        "wrong": "Nachdem die Kommission alle Gutachten prüfte, legte sie ihren Abschlussbericht vor.",
+        "why": "*nachdem* needs a tense shift: the earlier action is one step further in the past than the main clause. With a Präteritum main clause the Nebensatz needs the Plusquamperfekt: *geprüft hatte*."
+      },
+      "examples": [
+        {
+          "de": "Nachdem sich der Sturm gelegt hatte, begannen die Aufräumarbeiten.",
+          "en": "After the storm had died down, the clean-up work began."
+        },
+        {
+          "de": "Nachdem die Aktie eingebrochen war, verkauften viele Kleinanleger ihre Anteile.",
+          "en": "After the share price had collapsed, many small investors sold their shares."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gutachten",
+          "en": "expert report"
+        },
+        {
+          "de": "vorlegen",
+          "en": "to present, to submit"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Nachdem der Patient aus der Narkose aufgewacht {{c1::war::Hilfsverb, Präteritum}}, informierte die Ärztin seine Familie.",
+      "en": "After the patient had woken up from the anaesthetic, the doctor informed his family.",
+      "focus": "Plusquamperfekt im *nachdem*-Satz · Hilfsverb",
+      "explanation": "The main clause is in the Präteritum (*informierte*), so the earlier action in the *nachdem*-clause needs the Plusquamperfekt. *aufwachen* is a change of state and forms its perfect tenses with *sein* (*er ist aufgewacht*), so the Plusquamperfekt is *aufgewacht* + **war**. In the Nebensatz the finite auxiliary stands after the Partizip II.",
+      "pattern": "nachdem + Partizip II + war (sein-Verb), + Präteritum",
+      "mistake": {
+        "wrong": "Nachdem der Patient aus der Narkose aufgewacht ist, informierte die Ärztin seine Familie.",
+        "why": "A Perfekt in the *nachdem*-clause belongs with a main clause in the Präsens. With the Präteritum *informierte* the Nebensatz moves one step back: *ist aufgewacht → war aufgewacht*."
+      },
+      "examples": [
+        {
+          "de": "Nachdem die letzten Gäste abgereist waren, wurde es im Hotel ganz still.",
+          "en": "After the last guests had left, the hotel became completely quiet."
+        },
+        {
+          "de": "Nachdem das Flugzeug gelandet war, durften wir die Handys wieder einschalten.",
+          "en": "After the plane had landed, we were allowed to switch our phones back on."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Narkose",
+          "en": "anaesthetic"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Nachdem Sie das Formular online {{c1::ausgefüllt haben::ausfüllen}}, erhalten Sie eine Bestätigung per E-Mail.",
+      "en": "After you have filled in the form online, you will receive a confirmation by email.",
+      "focus": "*nachdem* · Hauptsatz im Präsens mit Zukunftsbedeutung",
+      "explanation": "The main clause *erhalten Sie* is in the Präsens and refers to the future. With a Präsens main clause, the earlier action in the *nachdem*-clause goes into the Perfekt: *ausfüllen → hat ausgefüllt*, with *Sie* → **ausgefüllt haben**. In the Nebensatz the Partizip II comes first and the finite *haben* last.",
+      "pattern": "Nachdem + Partizip II + haben/sein (Perfekt), + Präsens",
+      "mistake": {
+        "wrong": "Nachdem Sie das Formular online ausfüllen, erhalten Sie eine Bestätigung per E-Mail.",
+        "why": "Both clauses in the Präsens ignore the tense shift that *nachdem* requires. The Nebensatz action must be completed first, so it takes the Perfekt: *ausgefüllt haben*. (The Präsens is heard in casual speech, but it counts as an error in writing and in exams.)"
+      },
+      "examples": [
+        {
+          "de": "Nachdem du dich registriert hast, kannst du sofort Kurse buchen.",
+          "en": "After you have registered, you can book courses straight away."
+        },
+        {
+          "de": "Nachdem die Jury alle Beiträge bewertet hat, gibt sie die Gewinner bekannt.",
+          "en": "After the jury has assessed all the entries, it announces the winners."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Bestätigung",
+          "en": "confirmation"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Nachdem sie ihre Promotion abgeschlossen hatte, {{c1::ging::gehen}} sie für zwei Jahre als Postdoc nach Kanada.",
+      "en": "After she had completed her doctorate, she went to Canada for two years as a postdoc.",
+      "focus": "Hauptsatz nach vorangestelltem Nebensatz · Verbposition und Tempus",
+      "explanation": "The whole *nachdem*-clause fills the Vorfeld (position 1) of the main clause. The finite verb of the main clause must therefore come directly after the comma, before the subject: **ging** *sie*. It is in the Präteritum, one tense step after the Plusquamperfekt *abgeschlossen hatte*.",
+      "pattern": "[Nebensatz], + finites Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Nachdem sie ihre Promotion abgeschlossen hatte, sie ging für zwei Jahre als Postdoc nach Kanada.",
+        "why": "In English the subject follows the comma (*…, she went*). In German the Nebensatz counts as position 1, so the finite verb takes position 2: *…, ging sie*."
+      },
+      "examples": [
+        {
+          "de": "Nachdem der Minister zurückgetreten war, übernahm seine Stellvertreterin das Amt.",
+          "en": "After the minister had resigned, his deputy took over the office."
+        },
+        {
+          "de": "Nachdem wir die Wohnung renoviert hatten, verkauften wir sie mit Gewinn.",
+          "en": "After we had renovated the flat, we sold it at a profit."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Promotion",
+          "en": "doctorate, PhD"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Er rief mich erst an, nachdem er die Entscheidung schon getroffen {{c1::hatte::haben}}.",
+      "en": "He only called me after he had already made the decision.",
+      "focus": "*nachdem*-Satz nach dem Hauptsatz · Tempus",
+      "explanation": "Here the main clause comes first (*Er rief mich erst an*, Präteritum) and the *nachdem*-clause follows. The order of the clauses does not change the tense rule: the decision came earlier, so a Präteritum main clause requires the Plusquamperfekt: *getroffen* + **hatte** at the end of the Nebensatz. *erst* stresses that the call came late.",
+      "pattern": "Hauptsatz (Präteritum), nachdem + … Partizip II + hatte.",
+      "mistake": {
+        "wrong": "Er rief mich erst an, nachdem er die Entscheidung schon getroffen hat.",
+        "why": "A Perfekt in the *nachdem*-clause goes with a Präsens main clause. After the Präteritum *rief an*, the earlier action needs the Plusquamperfekt: *getroffen hatte*."
+      },
+      "examples": [
+        {
+          "de": "Die Polizei kam erst, nachdem die Täter längst geflohen waren.",
+          "en": "The police only came after the culprits had long since fled."
+        },
+        {
+          "de": "Sie unterschrieb den Vertrag, nachdem ihr Anwalt jede Seite gelesen hatte.",
+          "en": "She signed the contract after her lawyer had read every page."
+        }
+      ],
+      "words": [
+        {
+          "de": "eine Entscheidung treffen",
+          "en": "to make a decision"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Bevor::Nachzeitigkeit}} der Vertrag unterschrieben wird, prüft unsere Rechtsabteilung jede einzelne Klausel.",
+      "en": "Before the contract is signed, our legal department checks every single clause.",
+      "focus": "Konjunktion · die Nebensatz-Handlung kommt später",
+      "explanation": "The check (main clause) happens first, the signing (Nebensatz) later. A Nebensatz whose event follows the main-clause event is introduced by **bevor** (Nachzeitigkeit). With *bevor* no tense shift is needed: both clauses are in the Präsens (*wird unterschrieben* / *prüft*).",
+      "pattern": "Bevor + … + Verb (Ende), + Verb + Subjekt …",
+      "mistake": {
+        "wrong": "Vor der Vertrag unterschrieben wird, prüft unsere Rechtsabteilung jede einzelne Klausel.",
+        "why": "*vor* is a preposition and needs a noun in the Dativ (*vor der Unterzeichnung*). A clause with its own subject and verb needs the conjunction *bevor*."
+      },
+      "examples": [
+        {
+          "de": "Bevor die Maschine gewartet wird, muss sie vom Stromnetz getrennt werden.",
+          "en": "Before the machine is serviced, it must be disconnected from the mains."
+        },
+        {
+          "de": "Bevor ein Medikament zugelassen wird, durchläuft es mehrere klinische Studien.",
+          "en": "Before a drug is approved, it goes through several clinical trials."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Rechtsabteilung",
+          "en": "legal department"
+        },
+        {
+          "de": "die Klausel",
+          "en": "clause (in a contract)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Bevor er sich selbstständig machte, {{c1::hatte::haben}} er zehn Jahre bei einer Großbank gearbeitet.",
+      "en": "Before he went self-employed, he had worked at a major bank for ten years.",
+      "focus": "Hauptsatz vor einem *bevor*-Satz · Vergangenheit",
+      "explanation": "With *bevor* the earlier action is in the main clause. In a past narrative German often marks this earlier action with the Plusquamperfekt (**hatte** … *gearbeitet*), while the *bevor*-clause stays in the Präteritum (*machte*). The finite *hatte* comes directly after the Nebensatz, before the subject. The plain Präteritum (*arbeitete er*) is also correct, because *bevor* already shows the order.",
+      "pattern": "Bevor + Präteritum, + hatte + Subjekt + … Partizip II",
+      "mistake": {
+        "wrong": "Bevor machte er sich selbstständig, hatte er zehn Jahre bei einer Großbank gearbeitet.",
+        "why": "*bevor* is a subordinating conjunction, so the finite verb goes to the end of its clause: *bevor er sich selbstständig machte*."
+      },
+      "examples": [
+        {
+          "de": "Bevor die Mauer fiel, hatte die Familie zwanzig Jahre in Dresden gelebt.",
+          "en": "Before the Wall fell, the family had lived in Dresden for twenty years."
+        },
+        {
+          "de": "Bevor sie Journalistin wurde, hatte sie Biologie studiert.",
+          "en": "Before she became a journalist, she had studied biology."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich selbstständig machen",
+          "en": "to become self-employed, to start one's own business"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Vor::zeitlich davor}} der Abstimmung wurde im Parlament stundenlang gestritten.",
+      "en": "Before the vote, there were hours of argument in parliament.",
+      "focus": "Präposition + Nomen · Zeitpunkt",
+      "explanation": "*der Abstimmung* is a noun phrase, not a clause with a verb, so you need a preposition, not the conjunction *bevor*. The temporal preposition **vor** takes the Dativ: *die Abstimmung → vor der Abstimmung*. The prepositional phrase fills position 1, so the finite verb of the impersonal passive (*wurde … gestritten*) follows directly.",
+      "pattern": "Vor + Dativ (Nomen), + Verb + …",
+      "mistake": {
+        "wrong": "Bevor der Abstimmung wurde im Parlament stundenlang gestritten.",
+        "why": "*bevor* is a conjunction and needs a clause with a verb (*Bevor abgestimmt wurde, …*). Before a noun phrase you use the preposition *vor* + Dativ."
+      },
+      "examples": [
+        {
+          "de": "Vor der Operation darf der Patient nichts essen.",
+          "en": "Before the operation the patient must not eat anything."
+        },
+        {
+          "de": "Vor dem Vorstellungsgespräch hat sie sich gründlich über das Unternehmen informiert.",
+          "en": "Before the job interview she researched the company thoroughly."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Abstimmung",
+          "en": "vote"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Erst {{c1::nach::zeitlich danach}} der dritten Mahnung hat die Firma die Rechnung bezahlt.",
+      "en": "The company only paid the invoice after the third reminder.",
+      "focus": "Präposition + Dativ · Zeitpunkt",
+      "explanation": "*der dritten Mahnung* is a noun phrase in the Dativ, so it needs the preposition **nach**, not the conjunction *nachdem*. *nach* always takes the Dativ: *die Mahnung → nach der dritten Mahnung* (weak adjective ending *-en*). *erst* means 'not before that point': the payment came late.",
+      "pattern": "erst + nach + Dativ (Nomen) + Verb + …",
+      "mistake": {
+        "wrong": "Erst nachdem der dritten Mahnung hat die Firma die Rechnung bezahlt.",
+        "why": "*nachdem* introduces a clause with a finite verb (*nachdem sie dreimal gemahnt worden war*). Before a noun phrase the word is the preposition *nach*."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Abitur machte er eine Ausbildung zum Mechatroniker.",
+          "en": "After his A-levels he did an apprenticeship as a mechatronics technician."
+        },
+        {
+          "de": "Nach langen Verhandlungen einigten sich die Tarifpartner auf einen neuen Vertrag.",
+          "en": "After long negotiations, the employers and unions agreed on a new contract."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Mahnung",
+          "en": "payment reminder"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Während::gleichzeitig; auch Präp. + Gen.}} die Techniker das Netzwerk umstellten, beantwortete das Support-Team Kundenanfragen per Telefon.",
+      "en": "While the technicians were switching over the network, the support team answered customer enquiries by phone.",
+      "focus": "Konjunktion · zwei Handlungen zur gleichen Zeit",
+      "explanation": "The switch-over and the phone support happen in the same period. Simultaneity is expressed with the conjunction **während**. Both clauses have the same tense (Präteritum: *umstellten / beantwortete*). In the Nebensatz the separable verb is not split: *umstellten* stands at the end in one piece. *Solange* would also fit grammatically (it adds that both actions last exactly the same time), but the hint points to the word that is also a preposition + Genitiv.",
+      "pattern": "Während + … + Verb (Ende), + Verb + Subjekt … (gleiches Tempus)",
+      "mistake": {
+        "wrong": "Während die Techniker das Netzwerk stellten um, beantwortete das Support-Team Kundenanfragen per Telefon.",
+        "why": "In a Nebensatz the finite verb goes to the end, and a separable verb is then written as one word: *umstellten*, not *stellten um*."
+      },
+      "examples": [
+        {
+          "de": "Während die Kinder in der Schule sind, arbeitet sie im Homeoffice.",
+          "en": "While the children are at school, she works from home."
+        },
+        {
+          "de": "Während der Zug durch den Tunnel fuhr, brach die Verbindung ab.",
+          "en": "While the train was going through the tunnel, the connection dropped."
+        }
+      ],
+      "words": [
+        {
+          "de": "umstellen",
+          "en": "to switch over, to convert"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Während {{c1::des::der}} gesamten Studiums hat sie nebenbei in einer Anwaltskanzlei gearbeitet.",
+      "en": "Throughout her studies she worked part-time at a law firm.",
+      "focus": "*während* als Präposition · Kasus",
+      "explanation": "Here *während* is followed by a noun phrase, not a clause, so it is a preposition. As a preposition it takes the Genitiv: *das Studium → des gesamten Studiums* (article **des**, weak adjective *-en*, noun *-s*). The finite verb *hat* stays in position 2 after the long prepositional phrase.",
+      "pattern": "Während + Genitiv (des + Adj-en + Nomen-s) + Verb + …",
+      "mistake": {
+        "wrong": "Während dem gesamten Studium hat sie nebenbei in einer Anwaltskanzlei gearbeitet.",
+        "why": "The Dativ after *während* is common in speech, but standard written German requires the Genitiv: *während des gesamten Studiums*."
+      },
+      "examples": [
+        {
+          "de": "Während der Sommermonate ist das Museum auch montags geöffnet.",
+          "en": "During the summer months the museum is also open on Mondays."
+        },
+        {
+          "de": "Während des Fluges dürfen elektronische Geräte nur im Flugmodus benutzt werden.",
+          "en": "During the flight, electronic devices may only be used in flight mode."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Anwaltskanzlei",
+          "en": "law firm"
+        },
+        {
+          "de": "nebenbei",
+          "en": "on the side, part-time"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Seit sie in Zürich {{c1::lebt::leben}}, fährt sie fast nur noch mit dem Fahrrad.",
+      "en": "Since she has been living in Zurich, she has been getting around almost only by bike.",
+      "focus": "*seit* · andauernder Zustand · Tempus",
+      "explanation": "Living in Zurich started in the past and is still true now. For such a continuing situation German uses the Präsens after *seit*, where English uses the present perfect (*has been living*): leben → **lebt**. The main clause is also in the Präsens because its situation continues too.",
+      "pattern": "Seit + … + Präsens (Ende), + Präsens + Subjekt …",
+      "mistake": {
+        "wrong": "Seit sie in Zürich gelebt hat, fährt sie fast nur noch mit dem Fahrrad.",
+        "why": "The English present perfect leads to *gelebt hat*, but the Perfekt presents the stay as finished. A situation that still continues stays in the Präsens after *seit*: *seit sie in Zürich lebt*."
+      },
+      "examples": [
+        {
+          "de": "Seit er bei der Stiftung arbeitet, ist er viel öfter auf Reisen.",
+          "en": "Since he has been working at the foundation, he travels much more often."
+        },
+        {
+          "de": "Seit wir einen Garten haben, kaufen wir kaum noch Gemüse.",
+          "en": "Since we have had a garden, we hardly buy any vegetables."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Seitdem er die Stelle gewechselt {{c1::hat::haben}}, ist er deutlich zufriedener.",
+      "en": "Since he changed jobs, he has been much happier.",
+      "focus": "*seitdem* · abgeschlossenes Ereignis als Startpunkt",
+      "explanation": "The job change is a single, completed event; only its result continues. When a point-like event is the starting point, the *seit(dem)*-clause takes the Perfekt: *gewechselt* + **hat**. The main clause describes the state that still holds, so it stays in the Präsens (*ist zufriedener*).",
+      "pattern": "Seitdem + … Partizip II + hat/ist (Perfekt), + Präsens",
+      "mistake": {
+        "wrong": "Seitdem er die Stelle wechselt, ist er deutlich zufriedener.",
+        "why": "The Präsens *wechselt* would describe a change that is still going on. A completed event that started the new situation needs the Perfekt: *gewechselt hat*."
+      },
+      "examples": [
+        {
+          "de": "Seitdem die Brücke gesperrt worden ist, staut sich der Verkehr jeden Morgen.",
+          "en": "Since the bridge was closed, there has been a traffic jam every morning."
+        },
+        {
+          "de": "Seitdem sie mit dem Rauchen aufgehört hat, schläft sie besser.",
+          "en": "Since she stopped smoking, she has been sleeping better."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Stelle wechseln",
+          "en": "to change jobs"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Im Herbst 2019 hatte sie einen schweren Autounfall. Seitdem {{c1::fährt::fahren}} sie nicht mehr selbst.",
+      "en": "In autumn 2019 she had a serious car accident. She hasn't driven herself since then.",
+      "focus": "*seitdem* als Adverb · Verbposition",
+      "explanation": "Here *seitdem* does not introduce a Nebensatz; it is an adverb meaning 'since then' that points back to the previous sentence. As an adverb it fills position 1 of a main clause, so the finite verb comes second: *Seitdem* **fährt** *sie …*. The Präsens shows that the situation still continues.",
+      "pattern": "Seitdem (Adverb) + finites Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Im Herbst 2019 hatte sie einen schweren Autounfall. Seitdem sie fährt nicht mehr selbst.",
+        "why": "*seitdem* can be a conjunction or an adverb. With only one clause it is an adverb, and an adverb in position 1 is followed directly by the finite verb: *Seitdem fährt sie …*"
+      },
+      "examples": [
+        {
+          "de": "Die Firma hat 2021 ihre Zentrale nach Leipzig verlegt. Seitdem pendelt Herr Kraus jeden Tag.",
+          "en": "The company moved its headquarters to Leipzig in 2021. Since then Mr Kraus has been commuting every day."
+        },
+        {
+          "de": "Vor einem Jahr wurde die Buslinie eingestellt. Seitdem gibt es im Dorf keinen öffentlichen Verkehr mehr.",
+          "en": "The bus line was discontinued a year ago. Since then there has been no public transport in the village."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "{{c1::Seit::Präposition: Beginn bis jetzt}} dem Umzug der Firma nach München pendelt er jeden Tag achtzig Kilometer.",
+      "en": "Since the company moved to Munich, he has been commuting eighty kilometres every day.",
+      "focus": "Präposition + Dativ · Beginn einer andauernden Situation",
+      "explanation": "*dem Umzug der Firma* is a noun phrase in the Dativ, so you need the preposition **seit**, not *seitdem*. *seit* takes the Dativ: *der Umzug → seit dem Umzug*. As with the conjunction, the situation that continues until now is in the Präsens: *pendelt*.",
+      "pattern": "Seit + Dativ (Nomen) + Präsens + Subjekt …",
+      "mistake": {
+        "wrong": "Seitdem dem Umzug der Firma nach München pendelt er jeden Tag achtzig Kilometer.",
+        "why": "*seitdem* is a conjunction or an adverb and cannot govern a noun phrase. Before a noun use *seit* + Dativ; before a clause use *seit* or *seitdem*: *Seit(dem) die Firma nach München umgezogen ist, …*"
+      },
+      "examples": [
+        {
+          "de": "Seit der Pandemie arbeiten viele Beschäftigte teilweise von zu Hause.",
+          "en": "Since the pandemic, many employees have been working partly from home."
+        },
+        {
+          "de": "Seit ihrer Kindheit leidet sie an Asthma.",
+          "en": "She has suffered from asthma since her childhood."
+        }
+      ],
+      "words": [
+        {
+          "de": "pendeln",
+          "en": "to commute"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Sie hat {{c1::vor::Zeitpunkt, abgeschlossen}} drei Jahren promoviert und arbeitet {{c2::seit::Dauer bis jetzt}} einem Jahr in Basel.",
+      "en": "She got her doctorate three years ago and has been working in Basel for a year.",
+      "focus": "Zeitangaben mit Dativ · abgeschlossen vs. andauernd",
+      "explanation": "The doctorate is a completed event at a point in the past → **vor** + Dativ (*vor drei Jahren* = three years ago), with the Perfekt *hat promoviert*. The job in Basel began a year ago and is still going on → **seit** + Dativ (*seit einem Jahr* = for a year), with the Präsens *arbeitet*. English expresses these two ideas with 'ago' and 'for' + present perfect.",
+      "pattern": "vor + Dat. (Zeitpunkt, Perfekt) · seit + Dat. (Dauer bis jetzt, Präsens)",
+      "mistake": {
+        "wrong": "Sie hat vor drei Jahren promoviert und hat seit einem Jahr in Basel gearbeitet.",
+        "why": "English 'has been working' tempts learners to use the Perfekt. With *seit* and a situation that is still true, German uses the Präsens: *arbeitet seit einem Jahr*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben uns vor zehn Jahren kennengelernt und sind seit fünf Jahren verheiratet.",
+          "en": "We met ten years ago and have been married for five years."
+        },
+        {
+          "de": "Das Unternehmen wurde vor fünfzig Jahren gegründet und gehört seit 2015 einem Finanzinvestor.",
+          "en": "The company was founded fifty years ago and has belonged to a financial investor since 2015."
+        }
+      ],
+      "words": [
+        {
+          "de": "promovieren",
+          "en": "to obtain a doctorate"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Sobald ich in Frankfurt {{c1::gelandet bin::landen}}, schicke ich dir eine Nachricht.",
+      "en": "As soon as I have landed in Frankfurt, I'll send you a message.",
+      "focus": "*sobald* · Vorzeitigkeit in der Zukunft",
+      "explanation": "*sobald* means that the main-clause action follows immediately after the Nebensatz action. The landing must be complete before the message is sent, so the Nebensatz takes the Perfekt, while the main clause uses the Präsens with future meaning. *landen* (of a passenger or plane arriving) is a movement verb with *sein* → **gelandet bin**, with the finite *bin* as the last word.",
+      "pattern": "Sobald + … Partizip II + bin/hat (Perfekt), + Präsens (Zukunft)",
+      "mistake": {
+        "wrong": "Sobald ich in Frankfurt gelandet habe, schicke ich dir eine Nachricht.",
+        "why": "Intransitive *landen* (to arrive by plane) forms the Perfekt with *sein*: *ich bin gelandet*. Only transitive *landen* (*Der Pilot hat die Maschine sicher gelandet*) takes *haben*."
+      },
+      "examples": [
+        {
+          "de": "Sobald die Gutachterin ihren Bericht eingereicht hat, entscheidet das Gericht.",
+          "en": "As soon as the expert has submitted her report, the court will decide."
+        },
+        {
+          "de": "Sobald du die Datei hochgeladen hast, bekomme ich automatisch eine Benachrichtigung.",
+          "en": "As soon as you have uploaded the file, I'll automatically get a notification."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "{{c1::Sobald::sofort danach}} sich die Lage beruhigt, öffnen die Behörden die Grenzübergänge wieder.",
+      "en": "As soon as the situation calms down, the authorities will reopen the border crossings.",
+      "focus": "Konjunktion · unmittelbar folgende Handlung",
+      "explanation": "The reopening follows immediately after the situation has calmed down, so the conjunction is **sobald** ('as soon as'). With a verb that describes reaching an end state (*sich beruhigen*), the Präsens is enough in the Nebensatz; the Perfekt (*sobald sich die Lage beruhigt hat*) is also correct. In the Nebensatz the reflexive pronoun *sich* usually stands before a noun subject. *Wenn* would also be grammatical, but it loses the idea of 'immediately'.",
+      "pattern": "Sobald + (sich) + Subjekt + … + Verb (Ende), + Verb + Subjekt …",
+      "mistake": {
+        "wrong": "Sobald die Lage beruhigt sich, öffnen die Behörden die Grenzübergänge wieder.",
+        "why": "*sobald* is a subordinating conjunction: the finite verb *beruhigt* must go to the end of the Nebensatz, after the reflexive pronoun: *sobald sich die Lage beruhigt*."
+      },
+      "examples": [
+        {
+          "de": "Sobald der Akku voll ist, schaltet sich das Ladegerät automatisch ab.",
+          "en": "As soon as the battery is full, the charger switches itself off automatically."
+        },
+        {
+          "de": "Sobald es dunkel wird, gehen die Straßenlaternen an.",
+          "en": "As soon as it gets dark, the street lights come on."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Grenzübergang",
+          "en": "border crossing"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Sobald der letzte Ton verklungen {{c1::war::Hilfsverb, Präteritum}}, sprang das Publikum von den Sitzen auf.",
+      "en": "As soon as the last note had faded away, the audience jumped up from their seats.",
+      "focus": "*sobald* in der Vergangenheit · Hilfsverb",
+      "explanation": "In a past narrative *sobald* follows the same tense logic as *nachdem*: the completed earlier action takes the Plusquamperfekt, the following action the Präteritum (*sprang … auf*). *verklingen* (to fade away) describes a change of state and forms its perfect tenses with *sein* → *verklungen* **war**.",
+      "pattern": "Sobald + … Partizip II + war, + Präteritum",
+      "mistake": {
+        "wrong": "Sobald der letzte Ton verklungen ist, sprang das Publikum von den Sitzen auf.",
+        "why": "The Perfekt *verklungen ist* fits a Präsens main clause. With the Präteritum *sprang auf*, the earlier action needs the Plusquamperfekt: *verklungen war*."
+      },
+      "examples": [
+        {
+          "de": "Sobald der Lehrer den Raum verlassen hatte, begannen die Schüler zu tuscheln.",
+          "en": "As soon as the teacher had left the room, the pupils began to whisper."
+        },
+        {
+          "de": "Sobald die Ampel auf Grün gesprungen war, fuhren die Radfahrer los.",
+          "en": "As soon as the light had turned green, the cyclists set off."
+        }
+      ],
+      "words": [
+        {
+          "de": "verklingen",
+          "en": "to fade away (of a sound)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Wir warten mit der Entscheidung, {{c1::bis::Endpunkt}} alle Zahlen auf dem Tisch liegen.",
+      "en": "We'll hold off on the decision until all the figures are on the table.",
+      "focus": "Konjunktion · Endpunkt einer Dauer",
+      "explanation": "The waiting lasts up to the moment when the figures are available; that moment is the end point. The conjunction for 'until' is **bis**, followed by a Nebensatz with the verb at the end (*liegen*). The Nebensatz event comes after the waiting has begun (Nachzeitigkeit), and both clauses stay in the Präsens.",
+      "pattern": "Hauptsatz (Dauer), bis + … + Verb (Ende).",
+      "mistake": {
+        "wrong": "Wir warten mit der Entscheidung, bevor alle Zahlen auf dem Tisch liegen.",
+        "why": "*bevor* only says that the main-clause action happens earlier than the Nebensatz event; it cannot mark the end of a duration. *warten* lasts up to a certain moment, and that end point needs *bis*. (With a point-like main clause *bevor* works: *Wir entscheiden nicht, bevor alle Zahlen auf dem Tisch liegen.*)"
+      },
+      "examples": [
+        {
+          "de": "Bitte bleiben Sie angeschnallt, bis das Flugzeug seine Parkposition erreicht hat.",
+          "en": "Please remain seated with your seatbelt fastened until the aircraft has reached its parking position."
+        },
+        {
+          "de": "Er arbeitete in der Werkstatt seines Vaters, bis er dreißig war.",
+          "en": "He worked in his father's workshop until he was thirty."
+        }
+      ],
+      "words": [
+        {
+          "de": "auf dem Tisch liegen",
+          "en": "(fig.) to be available, to be known"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Bis du aus dem Urlaub zurückkommst, {{c1::habe::haben}} ich den Bericht längst fertig geschrieben.",
+      "en": "By the time you get back from your holiday, I'll have long since finished writing the report.",
+      "focus": "Hauptsatz · abgeschlossen bis zu einem Zeitpunkt in der Zukunft",
+      "explanation": "*bis* here marks a deadline in the future: the report will be finished before that point. German usually expresses this future completed action with the Perfekt (**habe** … *fertig geschrieben*); the Futur II (*werde … fertig geschrieben haben*) is also correct but more formal. After the *bis*-clause the finite verb comes first, before the subject *ich*.",
+      "pattern": "Bis + Präsens (Ende), + habe/hat + Subjekt + … Partizip II",
+      "mistake": {
+        "wrong": "Bis du aus dem Urlaub zurückkommst, hatte ich den Bericht längst fertig geschrieben.",
+        "why": "The Plusquamperfekt refers only to the past. The deadline (*zurückkommst*) is in the future, so the completed action is expressed with the Perfekt (or the Futur II)."
+      },
+      "examples": [
+        {
+          "de": "Bis die Gäste kommen, haben wir den Tisch gedeckt.",
+          "en": "By the time the guests arrive, we'll have laid the table."
+        },
+        {
+          "de": "Bis das Gericht entscheidet, ist der Schaden längst entstanden.",
+          "en": "By the time the court decides, the damage will long since have been done."
+        }
+      ],
+      "words": [
+        {
+          "de": "längst",
+          "en": "long since, a long time ago"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "{{c1::Solange::gleiche Dauer}} die Ursache des Fehlers nicht geklärt ist, bleibt die Anlage abgeschaltet.",
+      "en": "As long as the cause of the fault has not been established, the plant will stay switched off.",
+      "focus": "Konjunktion · zwei Zustände mit gleicher Dauer",
+      "explanation": "Both situations last exactly the same time: the plant stays off for the whole period in which the cause is unclear. This identical duration is expressed with **solange** ('as long as'). *während* would only say that two things happen at the same time; *solange* adds that one lasts exactly as long as the other, often with a condition-like meaning.",
+      "pattern": "Solange + … + Verb (Ende), + Verb + Subjekt … (gleiche Dauer)",
+      "mistake": {
+        "wrong": "So lange die Ursache des Fehlers nicht geklärt ist, bleibt die Anlage abgeschaltet.",
+        "why": "The conjunction is written as one word: *solange*. *so lange* (two words) is an adverb phrase meaning 'for such a long time' (*Ich habe so lange gewartet.*) and cannot introduce a Nebensatz."
+      },
+      "examples": [
+        {
+          "de": "Solange du Fieber hast, solltest du nicht zur Arbeit gehen.",
+          "en": "As long as you have a temperature, you shouldn't go to work."
+        },
+        {
+          "de": "Solange die Zinsen niedrig bleiben, lohnt sich der Kauf einer Immobilie.",
+          "en": "As long as interest rates stay low, buying property is worthwhile."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Anlage",
+          "en": "plant, installation"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "{{c1::Sooft::jedes Mal, wenn (so-…)}} ich meine Großeltern besuche, erzählt mein Großvater von seiner Zeit als Seemann.",
+      "en": "Whenever I visit my grandparents, my grandfather talks about his time as a sailor.",
+      "focus": "Konjunktion · Wiederholung",
+      "explanation": "The story is told every time a visit takes place; the two events repeat together. **sooft** ('whenever, every time that') stresses this repetition and is written as one word. *wenn* or *immer wenn* would also be possible; *als* is wrong, because it refers to a single event in the past.",
+      "pattern": "Sooft + … + Verb (Ende), + Verb + Subjekt … (Wiederholung)",
+      "mistake": {
+        "wrong": "Als ich meine Großeltern besuche, erzählt mein Großvater von seiner Zeit als Seemann.",
+        "why": "*als* is used only for a single event or period in the past. For repeated events and for the present use *wenn* or *sooft*."
+      },
+      "examples": [
+        {
+          "de": "Sooft ich diesen Song höre, muss ich an unseren Sommer in Lissabon denken.",
+          "en": "Whenever I hear this song, I think of our summer in Lisbon."
+        },
+        {
+          "de": "Sooft er das Problem ansprach, wich seine Chefin aus.",
+          "en": "Every time he raised the problem, his boss avoided the subject."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Seemann",
+          "en": "sailor"
+        },
+        {
+          "de": "ausweichen",
+          "en": "to evade, to dodge"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "{{c1::Als::einmalig, Vergangenheit}} die Nachricht vom Wahlsieg kam, brach im Saal lauter Jubel aus.",
+      "en": "When the news of the election victory came, loud cheering broke out in the hall.",
+      "focus": "Konjunktion · einmaliges Ereignis in der Vergangenheit",
+      "explanation": "The arrival of the news is one single event in the past. For a single event or a single period in the past German uses **als**; *wenn* would mean a repeated event or the present/future. Both clauses are in the Präteritum because the events happen at the same moment; *ausbrechen* is separable, so *brach … aus* forms the Satzklammer of the main clause.",
+      "pattern": "Als + … + Präteritum (Ende), + Präteritum + …",
+      "mistake": {
+        "wrong": "Wenn die Nachricht vom Wahlsieg kam, brach im Saal lauter Jubel aus.",
+        "why": "*wenn* in the past means 'every time when'. An election victory is announced once, so the past single event needs *als*."
+      },
+      "examples": [
+        {
+          "de": "Als die Quartalszahlen veröffentlicht wurden, stieg der Aktienkurs um zehn Prozent.",
+          "en": "When the quarterly figures were published, the share price rose by ten per cent."
+        },
+        {
+          "de": "Als das Licht ausging, saßen wir gerade beim Abendessen.",
+          "en": "When the lights went out, we were just having dinner."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Jubel",
+          "en": "cheering"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Jedes Mal, {{c1::wenn::Wiederholung}} der Strom ausfiel, mussten wir alle Daten neu einspielen.",
+      "en": "Every time the power went out, we had to reload all the data.",
+      "focus": "Konjunktion · wiederholte Ereignisse in der Vergangenheit",
+      "explanation": "*Jedes Mal* shows that the power cut happened several times. Repeated events in the past need **wenn**, not *als*, even though the verb is in the Präteritum (*ausfiel*). The whole block *Jedes Mal, wenn …* fills position 1, so the finite verb *mussten* follows directly.",
+      "pattern": "Jedes Mal, wenn + … + Präteritum (Ende), + Verb + Subjekt …",
+      "mistake": {
+        "wrong": "Jedes Mal, als der Strom ausfiel, mussten wir alle Daten neu einspielen.",
+        "why": "*als* is only for one event in the past. *jedes Mal* signals repetition, and repeated past events take *wenn*."
+      },
+      "examples": [
+        {
+          "de": "Jedes Mal, wenn sie nach Hamburg kam, übernachtete sie bei ihrer Schwester.",
+          "en": "Every time she came to Hamburg, she stayed the night at her sister's."
+        },
+        {
+          "de": "Wenn wir als Kinder krank waren, kochte unsere Mutter Hühnersuppe.",
+          "en": "When we were ill as children, our mother made chicken soup."
+        }
+      ],
+      "words": [
+        {
+          "de": "einspielen",
+          "en": "to load, to restore (data)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Niemand konnte uns sagen, {{c1::wann::Frage nach dem Zeitpunkt}} die Strecke wieder freigegeben wird.",
+      "en": "Nobody could tell us when the line would be reopened.",
+      "focus": "indirekte Frage · Zeitpunkt",
+      "explanation": "The Nebensatz is an indirect question about a point in time ('At what time will the line reopen?'). Indirect questions use the question word **wann**; *wenn* and *als* introduce temporal clauses, not questions. The verb stays at the end: *freigegeben wird* (Passiv Präsens with future meaning).",
+      "pattern": "Hauptsatz, wann + … + Verb (Ende).",
+      "mistake": {
+        "wrong": "Niemand konnte uns sagen, wenn die Strecke wieder freigegeben wird.",
+        "why": "English 'when' covers both the question and the temporal clause. German separates them: a question about the time (also an indirect one) needs *wann*."
+      },
+      "examples": [
+        {
+          "de": "Weißt du, wann die Bewerbungsfrist endet?",
+          "en": "Do you know when the application deadline ends?"
+        },
+        {
+          "de": "Die Behörde hat noch nicht mitgeteilt, wann der Bescheid verschickt wird.",
+          "en": "The authority has not yet said when the official decision will be sent out."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Strecke",
+          "en": "(railway) line, route"
+        },
+        {
+          "de": "freigeben",
+          "en": "to reopen, to release"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Als die Feuerwehr eintraf, {{c1::hatte::haben}} das Feuer bereits auf das Nachbarhaus übergegriffen.",
+      "en": "When the fire brigade arrived, the fire had already spread to the neighbouring house.",
+      "focus": "Hauptsatz · Handlung vor dem *als*-Zeitpunkt",
+      "explanation": "The *als*-clause gives a point in the past (*eintraf*, Präteritum). The spread of the fire happened before that point, so the main clause takes the Plusquamperfekt: **hatte** … *übergegriffen* (*übergreifen* forms its perfect tenses with *haben*). *bereits* underlines that this action was already complete.",
+      "pattern": "Als + Präteritum, + hatte/war + Subjekt + … Partizip II",
+      "mistake": {
+        "wrong": "Als die Feuerwehr eintraf, hat das Feuer bereits auf das Nachbarhaus übergegriffen.",
+        "why": "The Perfekt does not show that the spread came before the arrival. In a past narrative an action that was already complete at the *als*-moment needs the Plusquamperfekt: *hatte übergegriffen*. (The Perfekt is sometimes heard here in casual speech, but in a written past narrative it is an error.)"
+      },
+      "examples": [
+        {
+          "de": "Als wir am Bahnhof ankamen, war der letzte Zug schon abgefahren.",
+          "en": "When we got to the station, the last train had already left."
+        },
+        {
+          "de": "Als die Polizei die Wohnung durchsuchte, hatten die Verdächtigen alle Beweise vernichtet.",
+          "en": "When the police searched the flat, the suspects had destroyed all the evidence."
+        }
+      ],
+      "words": [
+        {
+          "de": "übergreifen auf",
+          "en": "to spread to"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Erst als die Ärztin mir die Röntgenbilder zeigte, {{c1::begriff::begreifen}} ich, wie ernst die Verletzung war.",
+      "en": "Only when the doctor showed me the X-rays did I realise how serious the injury was.",
+      "focus": "Hauptsatz nach *erst als* · Tempus und Verbposition",
+      "explanation": "*Erst als* ('only when') stresses that the understanding came late, at one moment in the past. The whole *erst als*-clause stands in position 1, so the main-clause verb follows directly: *begreifen* → Präteritum **begriff**, then the subject *ich*. English needs the auxiliary *did* for this inversion; German simply applies the normal verb-second rule.",
+      "pattern": "Erst als + … + Präteritum (Ende), + Präteritum + Subjekt …",
+      "mistake": {
+        "wrong": "Erst als die Ärztin mir die Röntgenbilder zeigte, ich begriff, wie ernst die Verletzung war.",
+        "why": "The *erst als*-clause occupies position 1 of the main clause, so the finite verb must come next: *…, begriff ich*. Subject first after the comma is English word order."
+      },
+      "examples": [
+        {
+          "de": "Erst als der Kredit abgelehnt wurde, merkten wir, wie knapp unser Budget war.",
+          "en": "Only when the loan was refused did we notice how tight our budget was."
+        },
+        {
+          "de": "Erst als sie im Ausland lebte, lernte sie ihre Heimatstadt richtig zu schätzen.",
+          "en": "Only when she was living abroad did she really learn to appreciate her home town."
+        }
+      ],
+      "words": [
+        {
+          "de": "begreifen",
+          "en": "to grasp, to realise"
+        },
+        {
+          "de": "das Röntgenbild",
+          "en": "X-ray (image)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Es vergingen fast zwei Jahre, {{c1::ehe::= bevor, gehoben}} das Gericht ein Urteil fällte.",
+      "en": "Almost two years passed before the court reached a verdict.",
+      "focus": "Konjunktion · Nachzeitigkeit, gehobener Stil",
+      "explanation": "The verdict comes after the two years, so the Nebensatz describes the later event (Nachzeitigkeit). In formal and literary German **ehe** works exactly like *bevor*, with the verb at the end (*fällte*). The pattern *Es vergingen / Es dauerte …, ehe/bevor …* is typical of news reports.",
+      "pattern": "Es vergingen/dauerte …, ehe + … + Verb (Ende).",
+      "mistake": {
+        "wrong": "Es vergingen fast zwei Jahre, ehe das Gericht fällte ein Urteil.",
+        "why": "*ehe* is a subordinating conjunction like *bevor*, so the finite verb goes to the end of the clause: *ehe das Gericht ein Urteil fällte*."
+      },
+      "examples": [
+        {
+          "de": "Es dauerte Monate, ehe die Behörden das ganze Ausmaß des Skandals erkannten.",
+          "en": "It took months before the authorities recognised the full extent of the scandal."
+        },
+        {
+          "de": "Ehe er sich versah, war das ganze Geld ausgegeben.",
+          "en": "Before he knew it, all the money had been spent."
+        }
+      ],
+      "words": [
+        {
+          "de": "ein Urteil fällen",
+          "en": "to pass a verdict"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Zuerst prüft die Behörde den Antrag; danach {{c1::entscheidet::entscheiden}} ein Ausschuss über die Förderung.",
+      "en": "First the authority checks the application; after that, a committee decides on the funding.",
+      "focus": "*danach* (Adverb) · Verbposition",
+      "explanation": "*danach* is an adverb, not a conjunction, so it does not create a Nebensatz. It fills position 1 of a main clause, and the finite verb comes second: *danach* **entscheidet** *ein Ausschuss*. Compare the conjunction: *Nachdem die Behörde den Antrag geprüft hat, entscheidet ein Ausschuss …* (verb at the end of the Nebensatz).",
+      "pattern": "danach/vorher (Adverb) + finites Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Zuerst prüft die Behörde den Antrag; danach ein Ausschuss über die Förderung entscheidet.",
+        "why": "*danach* is treated like the conjunction *nachdem*, so the verb is sent to the end. As an adverb in position 1, *danach* must be followed directly by the finite verb."
+      },
+      "examples": [
+        {
+          "de": "Zuerst wird die Probe gereinigt, danach wird sie unter dem Mikroskop untersucht.",
+          "en": "First the sample is cleaned; after that it is examined under the microscope."
+        },
+        {
+          "de": "Wir essen zuerst zu Abend, danach gehen wir noch ins Theater.",
+          "en": "We'll have dinner first, and after that we're going to the theatre."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Ausschuss",
+          "en": "committee"
+        },
+        {
+          "de": "die Förderung",
+          "en": "funding"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the tense sequence with nachdem.",
+      "prompt": "Which tense combinations does *nachdem* require?",
+      "answer": "Past: Nebensatz **Plusquamperfekt** + main clause **Präteritum** (or Perfekt). Present/future: Nebensatz **Perfekt** + main clause **Präsens** (or Futur I). The *nachdem*-clause is always one tense step further back.",
+      "explanation": "The *nachdem*-clause describes the earlier, completed action, so its tense must show that it lies before the main-clause action. Using the same tense in both clauses (✗ *Nachdem sie landete, rief sie an*) is the most frequent error with *nachdem*. The same logic applies to *sobald* when the Nebensatz action must be completed first.",
+      "examples": [
+        {
+          "de": "Nachdem wir die Prüfung bestanden hatten, feierten wir bis zum Morgen.",
+          "en": "After we had passed the exam, we celebrated until the morning."
+        },
+        {
+          "de": "Nachdem du die Software installiert hast, musst du den Rechner neu starten.",
+          "en": "After you have installed the software, you have to restart the computer."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Sort the temporal conjunctions by time relation.",
+      "prompt": "Which conjunctions express Vorzeitigkeit, Gleichzeitigkeit and Nachzeitigkeit?",
+      "answer": "**Vorzeitigkeit** (Nebensatz earlier): *nachdem, sobald*. **Gleichzeitigkeit**: *während, solange, sooft, als, wenn*. **Nachzeitigkeit** (Nebensatz later): *bevor, ehe, bis*. *seit/seitdem* marks a starting point: Präsens for a continuing state, Perfekt for a completed starting event.",
+      "explanation": "The terms always describe the time of the Nebensatz relative to the main clause. Vorzeitigkeit requires a tense shift (*nachdem* + Plusquamperfekt/Perfekt); with Gleichzeitigkeit and Nachzeitigkeit both clauses normally share the same tense. *bis* adds an end point, *solange* an identical duration.",
+      "examples": [
+        {
+          "de": "Sobald die Sitzung beendet war, verließ der Minister das Gebäude.",
+          "en": "As soon as the meeting had ended, the minister left the building."
+        },
+        {
+          "de": "Bis das neue Gesetz in Kraft tritt, gilt die alte Regelung.",
+          "en": "Until the new law comes into force, the old rule applies."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between temporal prepositions and conjunctions.",
+      "prompt": "Which temporal prepositions have a matching conjunction, and how do you choose between them?",
+      "answer": "**vor** (Dat.) ↔ **bevor**; **nach** (Dat.) ↔ **nachdem**; **seit** (Dat.) ↔ **seit/seitdem**; **während** (Gen.) ↔ **während**. A noun phrase needs the preposition; a clause with its own finite verb needs the conjunction.",
+      "explanation": "A preposition governs a case and stands before a noun (*nach der Präsentation*). A conjunction opens a Nebensatz with the verb at the end (*nachdem sie präsentiert hatte*). *seit* and *während* have the same form in both uses, while *nachdem* or *bevor* + noun is impossible. The adverbs *vorher* and *danach* (and *seitdem* used as an adverb) stand in a main clause, with the verb in position 2.",
+      "examples": [
+        {
+          "de": "Nach der Präsentation gab es viele Fragen aus dem Publikum.",
+          "en": "After the presentation there were many questions from the audience."
+        },
+        {
+          "de": "Nachdem sie ihre Präsentation beendet hatte, gab es viele Fragen aus dem Publikum.",
+          "en": "After she had finished her presentation, there were many questions from the audience."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Contrast the three words for 'when'.",
+      "prompt": "When do you use *als*, *wenn* and *wann*?",
+      "answer": "**als**: one event or one period in the past. **wenn**: repeated events (also in the past) and events in the present or future. **wann**: question word, in direct and indirect questions about the time.",
+      "explanation": "English 'when' covers all three cases, so the choice must come from the meaning. Signal words help: *jedes Mal, immer* → *wenn*; a single past situation (*als Kind, damals*) → *als*; a question after *wissen, fragen, sagen* → *wann*.",
+      "examples": [
+        {
+          "de": "Als ich zum ersten Mal in Japan war, verstand ich kein Wort.",
+          "en": "When I was in Japan for the first time, I didn't understand a word."
+        },
+        {
+          "de": "Wann hast du zuletzt deine Eltern angerufen?",
+          "en": "When did you last call your parents?"
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about tense with seit.",
+      "prompt": "Why does German say *Ich arbeite seit Mai hier* and not *Ich habe seit Mai hier gearbeitet* (meaning: I still work here)?",
+      "answer": "With *seit* a situation that began in the past and **still continues** is expressed in the **Präsens**. The Perfekt appears with *seit* mainly for a completed starting event (*seit er umgezogen ist*) and with negation (*Ich habe ihn seit Wochen nicht gesehen*).",
+      "explanation": "English uses the present perfect for 'from then until now'; German uses the Präsens because the situation is still true at the moment of speaking. *Ich habe seit Mai hier gearbeitet* would suggest the work is over, which contradicts *seit*. With negation the Perfekt is normal, because the speaker looks at the period in which something did not happen.",
+      "examples": [
+        {
+          "de": "Die Bibliothek ist seit März wegen Bauarbeiten geschlossen.",
+          "en": "The library has been closed since March because of building work."
+        },
+        {
+          "de": "Ich habe seit Wochen nichts von ihr gehört.",
+          "en": "I haven't heard anything from her for weeks."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Explain the two meanings of während.",
+      "prompt": "What can the conjunction *während* mean besides 'while (at the same time)'?",
+      "answer": "It can also be **adversative**: 'whereas', a contrast between two facts (= *wohingegen*). As a **preposition** (+ Genitiv) *während* is always temporal.",
+      "explanation": "In *Während er kochte, deckte sie den Tisch* the two actions run in parallel. In *Während die Städte wachsen, schrumpfen die Dörfer* the focus is on the contrast, not on time. Word order and tense are the same in both uses; only the context shows the meaning.",
+      "examples": [
+        {
+          "de": "Während die Großstädte wachsen, verlieren viele Dörfer ihre Einwohner.",
+          "en": "Whereas the big cities are growing, many villages are losing their inhabitants."
+        },
+        {
+          "de": "Während ich auf den Bus wartete, las ich die Zeitung.",
+          "en": "While I was waiting for the bus, I read the newspaper."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "___ der Abfahrt sollten Sie Ihr Gepäck noch einmal kontrollieren.",
+      "options": [
+        "Vor",
+        "Bevor",
+        "Vorher",
+        "Ehe"
+      ],
+      "correct": "Vor",
+      "answer": "Vor der Abfahrt sollten Sie Ihr Gepäck noch einmal kontrollieren.",
+      "explanation": "*der Abfahrt* is a noun phrase in the Dativ, so only the preposition *vor* fits. *Bevor* and *Ehe* are conjunctions and need a clause with a verb (*Bevor Sie abfahren, …*). *Vorher* is an adverb and cannot take a noun phrase."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Nachdem er sein Studium ___, zog er nach Hamburg.",
+      "options": [
+        "beendete",
+        "beendet hatte",
+        "beendet hat",
+        "beendet"
+      ],
+      "correct": "beendet hatte",
+      "answer": "Nachdem er sein Studium beendet hatte, zog er nach Hamburg.",
+      "explanation": "The main clause is in the Präteritum (*zog*), so the earlier action needs the Plusquamperfekt: *beendet hatte*. *beendete* is the same tense as the main clause (no tense shift), *beendet hat* would fit a Präsens main clause, and *beendet* alone has no finite verb."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Die Projektleiterin hat noch nicht entschieden, ___ die Testphase beginnt.",
+      "options": [
+        "wann",
+        "wenn",
+        "als"
+      ],
+      "correct": "wann",
+      "answer": "Die Projektleiterin hat noch nicht entschieden, wann die Testphase beginnt.",
+      "explanation": "The Nebensatz is an indirect question about the time ('When will the test phase start?'), so the question word *wann* is needed. *wenn* introduces a condition or a repeated/future event, and *als* a single past event; neither can express a question."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the conjunction that fits the meaning.",
+      "prompt": "___ die Verhandlungen noch laufen, äußert sich das Unternehmen nicht zu den Gerüchten.",
+      "options": [
+        "Solange",
+        "Sobald",
+        "Bis",
+        "Nachdem"
+      ],
+      "correct": "Solange",
+      "answer": "Solange die Verhandlungen noch laufen, äußert sich das Unternehmen nicht zu den Gerüchten.",
+      "explanation": "The silence lasts exactly as long as the negotiations, and *noch* ('still') stresses this ongoing period: identical duration → *solange*. *Sobald* marks the moment right after an event and does not combine with *noch laufen*; *Bis* would make the negotiations an end point, which contradicts *noch*; *Nachdem* needs a completed earlier action in the Perfekt, not an ongoing one."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nachdem sie das Angebot unterschrieb, rief sie ihren Anwalt an.",
+      "answer": "Nachdem sie das Angebot unterschrieben hatte, rief sie ihren Anwalt an.",
+      "explanation": "Both clauses are in the Präteritum, so the tense shift required by *nachdem* is missing. The signing came first, so it needs the Plusquamperfekt: *unterschrieben hatte*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sobald ich die Unterlagen habe, ich melde mich bei Ihnen.",
+      "answer": "Sobald ich die Unterlagen habe, melde ich mich bei Ihnen.",
+      "explanation": "The *sobald*-clause fills position 1 of the main clause. The finite verb *melde* must follow immediately after the comma, and the subject *ich* comes after it (verb, comma, verb)."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nachdem dem Vortrag gab es eine lebhafte Diskussion.",
+      "answer": "Nach dem Vortrag gab es eine lebhafte Diskussion.",
+      "explanation": "*dem Vortrag* is a noun phrase in the Dativ, not a clause. The conjunction *nachdem* must be replaced by the preposition *nach* + Dativ."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Als ich in London war, besuchte ich jedes Mal das British Museum.",
+      "answer": "Wenn ich in London war, besuchte ich jedes Mal das British Museum.",
+      "explanation": "*jedes Mal* shows that the stays in London were repeated. *als* refers to one single event in the past; repeated past events need *wenn*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the tense mistake.",
+      "prompt": "Ich habe hier seit drei Jahren gewohnt und möchte nicht mehr weg.",
+      "answer": "Ich wohne hier seit drei Jahren und möchte nicht mehr weg.",
+      "explanation": "The speaker still lives here (*möchte nicht mehr weg*). A situation that began in the past and continues is expressed with *seit* + Präsens, not with the Perfekt copied from the English present perfect."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace the prepositional phrase with a *nachdem*-clause. Use the verb *zurückkehren*.",
+      "prompt": "Nach seiner Rückkehr aus Japan gründete er ein Start-up.",
+      "answer": "Nachdem er aus Japan zurückgekehrt war, gründete er ein Start-up.",
+      "explanation": "The preposition *nach* + noun becomes the conjunction *nachdem* + clause. The main clause is in the Präteritum, so the Nebensatz needs the Plusquamperfekt; *zurückkehren* is a movement verb with *sein* → *zurückgekehrt war*. The main-clause verb *gründete* follows directly after the comma."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace *während des Gesprächs* with a *während*-clause. Subject: *sie*, verb: *sprechen*.",
+      "prompt": "Während des Gesprächs mit dem Kunden machte sie sich Notizen.",
+      "answer": "Während sie mit dem Kunden sprach, machte sie sich Notizen.",
+      "explanation": "The preposition *während* + Genitiv becomes the conjunction *während* + Nebensatz. Simultaneity needs no tense shift, so both clauses are in the Präteritum (*sprach / machte*). *sprach* goes to the end of the Nebensatz, and *machte* follows the comma."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Move the sentence into the present: main clause in the Präsens. Adjust the *nachdem*-clause.",
+      "prompt": "Nachdem er die Daten ausgewertet hatte, schrieb er den Artikel.",
+      "answer": "Nachdem er die Daten ausgewertet hat, schreibt er den Artikel.",
+      "explanation": "With a Präsens main clause (*schreibt*) the *nachdem*-clause moves from the Plusquamperfekt to the Perfekt (*ausgewertet hat*). The rule stays the same: the Nebensatz is always one tense step further back than the main clause."
+    },
+    {
+      "key": "d19",
+      "type": "transform",
+      "instruction": "Replace the *bevor*-clause with the preposition *vor* + noun (*der Beginn*).",
+      "prompt": "Bevor die Konferenz beginnt, gibt es einen kleinen Empfang.",
+      "answer": "Vor Beginn der Konferenz gibt es einen kleinen Empfang.",
+      "explanation": "The conjunction *bevor* + clause becomes the preposition *vor* + Dativ. The verb *beginnen* turns into the noun *Beginn*, and the old subject becomes a Genitiv attribute: *der Konferenz*. In fixed time expressions the article is usually dropped (*vor Beginn*); *vor dem Beginn der Konferenz* is also correct."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Join the sentences with *nachdem*. Start with the *nachdem*-clause.",
+      "prompt": "Die Kinder schliefen ein. Danach räumten die Eltern die Küche auf.",
+      "answer": "Nachdem die Kinder eingeschlafen waren, räumten die Eltern die Küche auf.",
+      "explanation": "The first action becomes the *nachdem*-clause, and the adverb *danach* disappears because *nachdem* already expresses the order. Präteritum main clause → Plusquamperfekt in the Nebensatz; *einschlafen* takes *sein* → *eingeschlafen waren*."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Join the sentences with *sobald*. Start with the *sobald*-clause and leave out *sofort*.",
+      "prompt": "Das Ergebnis liegt vor. Wir informieren Sie sofort.",
+      "answer": "Sobald das Ergebnis vorliegt, informieren wir Sie.",
+      "explanation": "*sobald* already contains the idea of 'immediately', so *sofort* is no longer needed. In the Nebensatz the separable verb stays together at the end (*vorliegt*). The main-clause verb *informieren* comes directly after the comma."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the adverb *seitdem* into the conjunction *seitdem*. Start with *Seitdem*.",
+      "prompt": "Sie hat einen Hund. Seitdem geht sie jeden Tag zwei Stunden spazieren.",
+      "answer": "Seitdem sie einen Hund hat, geht sie jeden Tag zwei Stunden spazieren.",
+      "explanation": "As a conjunction *seitdem* opens a Nebensatz, so *hat* goes to the end. Having a dog is a continuing state, so the Präsens stays. The main clause now starts with the finite verb *geht* after the comma."
+    },
+    {
+      "key": "d23",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Als",
+      "prompt": "ankamen / als / wir / am Kino / hatte / der Film / schon / begonnen",
+      "answer": "Als wir am Kino ankamen, hatte der Film schon begonnen.",
+      "explanation": "The *als*-clause gives the past moment, with *ankamen* at the end. The film started before that moment, so the main clause is in the Plusquamperfekt and its finite verb *hatte* follows the comma. Also correct: *Der Film hatte schon begonnen, als wir am Kino ankamen.*"
+    },
+    {
+      "key": "d24",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Bitte",
+      "prompt": "bis / bleiben / der Notarzt / Sie / bitte / hier / kommt",
+      "answer": "Bitte bleiben Sie hier, bis der Notarzt kommt.",
+      "explanation": "The main clause is a polite request with *Sie*: *Bitte bleiben Sie hier*. The end point of the waiting is a *bis*-clause with the verb *kommt* at the end. Also correct: *Bleiben Sie bitte hier, bis der Notarzt kommt.*"
+    }
+  ]
+}

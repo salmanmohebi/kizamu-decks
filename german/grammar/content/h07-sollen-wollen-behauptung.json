@@ -1,0 +1,1197 @@
+{
+  "topic_id": "h07-sollen-wollen-behauptung",
+  "level": "B2",
+  "title_de": "sollen und wollen als Behauptung (Fremd- und Eigenbehauptung)",
+  "title_en": "sollen and wollen for reported claims (hearsay and self-claims)",
+  "rule": {
+    "summary": "*sollen* and *wollen* have a **subjective** use. Here they do not express an obligation or a wish; they mark the **source** of a statement. Subjective **sollen** = other people say it (*Er soll reich sein.* ≈ *Man sagt, er ist reich.*). Subjective **wollen** = the subject says it about himself, and the speaker doubts it (*Er will nichts gesehen haben.* ≈ *Er behauptet, nichts gesehen zu haben.*). The modal stays in the Präsens; the time of the event is shown by the infinitive: Infinitiv Präsens for now or later, Infinitiv Perfekt (active or passive) for the past. You meet this in news, police and court reports, and gossip.",
+    "table": "| | Gegenwart / Zukunft | Vergangenheit (Aktiv) | Vergangenheit (Passiv / Zustand) |\n|---|---|---|---|\n| **sollen** (others say) | Sie soll krank **sein**. | Sie soll gekündigt **haben**. · Sie soll umgezogen **sein**. | Das Bild soll gestohlen **worden sein**. · Die Tür soll offen **gewesen sein**. |\n| **wollen** (the subject says) | Er will Experte **sein**. | Er will nichts bemerkt **haben**. · Er will zu Hause gewesen **sein**. | Er will bedroht **worden sein**. |\n| Nebensatz | …, weil sie krank sein **soll** | …, dass er nichts bemerkt haben **will** | …, das gestohlen worden sein **soll** |",
+    "steps": [
+      "Ask who is the source of the information: other people, the media, a report → **sollen**; the subject of the sentence about itself → **wollen**.",
+      "Decide the time of the event: now or later → Infinitiv Präsens (*sein, wissen, werden*); before now → Infinitiv Perfekt.",
+      "Build the Infinitiv Perfekt with the normal Perfekt auxiliary: Partizip II + *haben* (*gewusst haben*) or + *sein* (*geflohen sein, gewesen sein*). Passive: Partizip II + **worden sein** (*gestohlen worden sein*). Past state: Partizip II + **gewesen sein** (*gesperrt gewesen sein*).",
+      "Keep the modal in the Präsens (in a past narrative also Präteritum *wollte*), never in the Perfekt. Main clause: modal in position 2, infinitive block at the end. Nebensatz: infinitive block first, finite modal last (*gestohlen worden sein soll*).",
+      "Check the reading: a plan, an instruction or a deadline (*bis Freitag … erledigt haben*) gives the objective meaning (task, plan, wish), not a claim."
+    ],
+    "pitfalls": [
+      "Perfekt of the modal: ✗ *Er hat nichts sehen wollen.* for 'He claims not to have seen anything' → ✓ *Er will nichts gesehen haben.* *hat … sehen wollen* is objective: 'he did not want to see'.",
+      "Wrong auxiliary in the infinitive: ✗ *Sie soll nach Spanien gezogen haben.* → ✓ *Sie soll nach Spanien gezogen sein.* Use the same auxiliary as in the normal Perfekt (*sie ist gezogen*).",
+      "*geworden* instead of *worden* in the passive: ✗ *gestohlen geworden sein* → ✓ *gestohlen worden sein*.",
+      "Wrong order in the Nebensatz: ✗ *…, dass er das Geld soll genommen haben* → ✓ *…, dass er das Geld genommen haben soll*.",
+      "*wollen* for information from other people: ✗ *Den Nachbarn zufolge will er sehr reich sein.* → ✓ *Den Nachbarn zufolge soll er sehr reich sein.* *wollen* needs the claim to come from the subject itself."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Der neue Abteilungsleiter {{c1::soll::sollen oder wollen?}} im Umgang ziemlich schwierig sein.",
+      "en": "The new head of department is said to be quite difficult to deal with.",
+      "focus": "Fremdbehauptung · Gegenwart",
+      "explanation": "The speaker repeats what other people say about the new boss; it is not his own claim → subjective **sollen** (≈ *man sagt, dass er … ist*). The statement is about a present state, so the simple infinitive *sein* stands at the end. 3rd person singular → **soll**.",
+      "pattern": "Subjekt + soll + … + Infinitiv Präsens",
+      "mistake": {
+        "wrong": "Der neue Abteilungsleiter will im Umgang ziemlich schwierig sein.",
+        "why": "*will* would mean that the boss himself claims to be difficult (or wants to be). Information that comes from other people needs *soll*."
+      },
+      "examples": [
+        {
+          "de": "Die Wohnungen in diesem Neubau sollen sehr hellhörig sein.",
+          "en": "The flats in this new building are said to be very poorly soundproofed."
+        },
+        {
+          "de": "Die Chirurgin soll eine der besten im ganzen Land sein.",
+          "en": "The surgeon is said to be one of the best in the whole country."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Abteilungsleiter (-)",
+          "en": "head of department"
+        },
+        {
+          "de": "im Umgang",
+          "en": "to deal with, in personal contact"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Ministerin soll schon seit Wochen von den Problemen {{c1::gewusst haben::wissen}}.",
+      "en": "The minister is said to have known about the problems for weeks.",
+      "focus": "Fremdbehauptung · Vergangenheit · Perfekt mit *haben*",
+      "explanation": "The knowing lies in the past; the report about it is now. So *soll* stays in the Präsens and the infinitive goes into the Perfekt. *wissen* forms its Perfekt with *haben* (*sie hat gewusst*) → Infinitiv Perfekt **gewusst haben**, at the end of the clause.",
+      "pattern": "soll + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Die Ministerin hat schon seit Wochen von den Problemen wissen sollen.",
+        "why": "The Perfekt of the modal (*hat … wissen sollen*) is the objective meaning 'was supposed to know'. For a reported past fact, keep *soll* in the Präsens and put the infinitive in the Perfekt: *soll … gewusst haben*."
+      },
+      "examples": [
+        {
+          "de": "Der Trainer soll die Spieler regelmäßig beleidigt haben.",
+          "en": "The coach is said to have regularly insulted the players."
+        },
+        {
+          "de": "Die Firma soll falsche Umsatzzahlen veröffentlicht haben.",
+          "en": "The company is said to have published false sales figures."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Der Tatverdächtige soll über die Grenze nach Tschechien {{c1::geflohen sein::fliehen}}.",
+      "en": "The suspect is said to have fled across the border into the Czech Republic.",
+      "focus": "Fremdbehauptung · Vergangenheit · Bewegungsverb",
+      "explanation": "*fliehen* is a movement from one place to another, so its Perfekt uses *sein* (*er ist geflohen*). The Infinitiv Perfekt keeps this auxiliary: **geflohen sein**. *soll* shows that the police or the media report this; the speaker does not confirm it.",
+      "pattern": "soll + … + Partizip II + sein",
+      "mistake": {
+        "wrong": "Der Tatverdächtige soll über die Grenze nach Tschechien geflohen haben.",
+        "why": "The auxiliary in the Infinitiv Perfekt is the same as in the normal Perfekt. *fliehen* takes *sein* → *geflohen sein*."
+      },
+      "examples": [
+        {
+          "de": "Die Sängerin soll mit ihrem Manager nach Mallorca gezogen sein.",
+          "en": "The singer is said to have moved to Mallorca with her manager."
+        },
+        {
+          "de": "Der Bergsteiger soll beim Abstieg in eine Gletscherspalte gestürzt sein.",
+          "en": "The mountaineer is said to have fallen into a crevasse on the way down."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Tatverdächtige (-n)",
+          "en": "suspect"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Burg soll im 12. Jahrhundert von einem Grafen {{c1::erbaut worden sein::erbauen}}.",
+      "en": "The castle is said to have been built by a count in the 12th century.",
+      "focus": "Fremdbehauptung · Vergangenheit · Vorgangspassiv",
+      "explanation": "The castle did not build itself, and the agent is named with *von* → passive. The Passiv Perfekt is *sie ist erbaut worden*; as an infinitive this becomes Partizip II + *worden* + *sein*: **erbaut worden sein**. The passive always takes *sein*, and the participle of passive *werden* is *worden*, without *ge-*.",
+      "pattern": "soll + … + Partizip II + worden sein",
+      "mistake": {
+        "wrong": "Die Burg soll im 12. Jahrhundert von einem Grafen erbaut geworden sein.",
+        "why": "*geworden* is the participle of *werden* as a full verb (*Sie ist Ärztin geworden.*). In the passive the form is *worden*: *erbaut worden sein*."
+      },
+      "examples": [
+        {
+          "de": "Der Ring soll in London für zwei Millionen Euro versteigert worden sein.",
+          "en": "The ring is said to have been auctioned in London for two million euros."
+        },
+        {
+          "de": "Die Wahlen sollen massiv manipuliert worden sein.",
+          "en": "The elections are said to have been massively rigged."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Burg (-en)",
+          "en": "castle (fortress)"
+        },
+        {
+          "de": "der Graf (-en)",
+          "en": "count (nobleman)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Der Zeuge {{c1::will::sollen oder wollen?}} den Fahrer des Fluchtwagens genau erkannt haben.",
+      "en": "The witness claims to have clearly recognised the driver of the getaway car.",
+      "focus": "Eigenbehauptung des Subjekts · Vergangenheit",
+      "explanation": "The source is the subject himself: the witness says *Ich habe den Fahrer erkannt.* → subjective **wollen** (≈ *er behauptet*). It usually signals that the speaker is not sure the claim is true. 3rd person singular of *wollen*: **will** (vowel change o → i, no ending).",
+      "pattern": "Subjekt + will + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Der Zeuge will den Fahrer des Fluchtwagens genau erkennen.",
+        "why": "With a simple infinitive, *will … erkennen* is objective: 'he wants to recognise'. The claim is about a past perception, so you need the Infinitiv Perfekt *erkannt haben*."
+      },
+      "examples": [
+        {
+          "de": "Die Nachbarin will mitten in der Nacht einen lauten Knall gehört haben.",
+          "en": "The neighbour claims to have heard a loud bang in the middle of the night."
+        },
+        {
+          "de": "Der Praktikant will die E-Mail nie bekommen haben.",
+          "en": "The intern claims never to have received the email."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Fluchtwagen (-)",
+          "en": "getaway car"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Angeklagte will zur Tatzeit bei seiner Schwester in Köln {{c1::gewesen sein::sein}}.",
+      "en": "The defendant claims to have been at his sister's in Cologne at the time of the crime.",
+      "focus": "Eigenbehauptung · Vergangenheit von *sein*",
+      "explanation": "The defendant says *Ich war bei meiner Schwester.* → his own claim → *will*. *sein* forms its Perfekt with *sein* (*ich bin gewesen*), so the Infinitiv Perfekt is **gewesen sein**. Two forms of *sein* in a row are normal here.",
+      "pattern": "will + … + gewesen sein",
+      "mistake": {
+        "wrong": "Der Angeklagte will zur Tatzeit bei seiner Schwester in Köln gewesen haben.",
+        "why": "*sein* takes the auxiliary *sein*, also in the Infinitiv Perfekt: *gewesen sein*, never *gewesen haben*."
+      },
+      "examples": [
+        {
+          "de": "Der Abgeordnete will bei der Abstimmung krank gewesen sein.",
+          "en": "The member of parliament claims to have been ill at the time of the vote."
+        },
+        {
+          "de": "Die Studentin will die ganze Nacht in der Bibliothek gewesen sein.",
+          "en": "The student claims to have been in the library all night."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Angeklagte (-n)",
+          "en": "defendant"
+        },
+        {
+          "de": "die Tatzeit",
+          "en": "time of the crime"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Stürmer will im Strafraum {{c1::gefoult worden sein::foulen}}, doch der Schiedsrichter ließ weiterspielen.",
+      "en": "The striker claims to have been fouled in the penalty area, but the referee let play continue.",
+      "focus": "Eigenbehauptung · Vergangenheit · Passiv",
+      "explanation": "The striker claims that someone fouled *him*: he is the subject but not the agent → passive. Passiv Perfekt *er ist gefoult worden* → infinitive **gefoult worden sein**. Subjective *wollen* also works with the passive: the subject claims that something was done to him.",
+      "pattern": "will + … + Partizip II + worden sein",
+      "mistake": {
+        "wrong": "Der Stürmer will im Strafraum gefoult haben, doch der Schiedsrichter ließ weiterspielen.",
+        "why": "*gefoult haben* is active: he would claim that he fouled someone. To say that it happened to him, use the passive infinitive *gefoult worden sein*."
+      },
+      "examples": [
+        {
+          "de": "Der Kunde will am Telefon völlig falsch beraten worden sein.",
+          "en": "The customer claims to have been given completely wrong advice on the phone."
+        },
+        {
+          "de": "Die Sängerin will von ihrer Plattenfirma jahrelang betrogen worden sein.",
+          "en": "The singer claims to have been cheated by her record label for years."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Strafraum (-räume)",
+          "en": "penalty area"
+        },
+        {
+          "de": "der Schiedsrichter (-)",
+          "en": "referee"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Von den geplanten Entlassungen {{c1::will::sollen oder wollen?}} im Vorstand niemand etwas gewusst haben.",
+      "en": "Nobody on the executive board admits to having known anything about the planned layoffs.",
+      "focus": "Eigenbehauptung · Subjekt *niemand*",
+      "explanation": "Each board member says *Ich habe nichts gewusst.* → claim of the subject → *wollen*. The subject *niemand* is grammatically singular → **will**. *Niemand will … gewusst haben* is a typical way to report that people deny responsibility, and it sounds sceptical. The prepositional object fills the Vorfeld, so *will* is in position 2 and the subject follows it.",
+      "pattern": "Vorfeld + will + niemand + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Von den geplanten Entlassungen wollen im Vorstand niemand etwas gewusst haben.",
+        "why": "*niemand* is singular, even when it refers to a group, so the verb must be singular: *will*."
+      },
+      "examples": [
+        {
+          "de": "Von dem Doping will im Team keiner etwas mitbekommen haben.",
+          "en": "Nobody on the team claims to have noticed anything about the doping."
+        },
+        {
+          "de": "An dem Abend will niemand etwas Verdächtiges bemerkt haben.",
+          "en": "Nobody claims to have noticed anything suspicious that evening."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Entlassung (-en)",
+          "en": "dismissal, layoff"
+        },
+        {
+          "de": "der Vorstand (-stände)",
+          "en": "executive board"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Bemerkenswert ist, dass die Nachbarin das Kennzeichen aus 200 Metern Entfernung {{c1::gelesen haben will::lesen, wollen}}.",
+      "en": "What is remarkable is that the neighbour claims to have read the number plate from 200 metres away.",
+      "focus": "Nebensatz mit *dass* · Eigenbehauptung · Verbstellung",
+      "explanation": "In a *dass*-clause the finite verb goes to the end. The finite verb is the modal, so it follows the whole Infinitiv Perfekt: Partizip II → *haben* → **will**. This is the mirror of the main clause *Sie will das Kennzeichen … gelesen haben.*",
+      "pattern": "dass + … + Partizip II + haben + will",
+      "mistake": {
+        "wrong": "Bemerkenswert ist, dass die Nachbarin das Kennzeichen aus 200 Metern Entfernung will gelesen haben.",
+        "why": "The finite verb moves in front of the infinitives only in the Doppelinfinitiv (*…, dass sie es hat lesen wollen*). With subjective *wollen* + Infinitiv Perfekt the finite verb is last: *gelesen haben will*."
+      },
+      "examples": [
+        {
+          "de": "Seltsam ist nur, dass er den Brief nie bekommen haben will.",
+          "en": "The only strange thing is that he claims never to have received the letter."
+        },
+        {
+          "de": "Auffällig ist, dass der Fahrer die rote Ampel nicht gesehen haben will.",
+          "en": "It is striking that the driver claims not to have seen the red light."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Kennzeichen (-)",
+          "en": "number plate, licence plate"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "In dem Bericht geht es um einen Konzern, der jahrelang Steuern in Millionenhöhe {{c1::hinterzogen haben soll::hinterziehen, sollen}}.",
+      "en": "The report is about a corporation that is said to have evaded millions in taxes for years.",
+      "focus": "Relativsatz · Fremdbehauptung · Verbstellung",
+      "explanation": "In the relative clause the finite verb goes to the end. The finite verb is *soll* (subject: the relative pronoun *der* = the corporation), so it follows the Infinitiv Perfekt: **hinterzogen haben soll**. *hinterziehen* is inseparable (stress on *-zie-*), so the Partizip II has no *ge-*: *hinterzogen*.",
+      "pattern": "Relativpronomen + … + Partizip II + haben + soll",
+      "mistake": {
+        "wrong": "In dem Bericht geht es um einen Konzern, der jahrelang Steuern in Millionenhöhe hinterzogen soll haben.",
+        "why": "In a Nebensatz the finite modal comes after the complete infinitive block: *hinterzogen haben soll*. *soll haben* in the middle is not standard German."
+      },
+      "examples": [
+        {
+          "de": "Der Spieler, der den Schiedsrichter bestochen haben soll, ist gesperrt worden.",
+          "en": "The player who is said to have bribed the referee has been suspended."
+        },
+        {
+          "de": "Wir sprachen mit einer Frau, die den Unfall beobachtet haben soll.",
+          "en": "We spoke to a woman who is said to have witnessed the accident."
+        }
+      ],
+      "words": [
+        {
+          "de": "Steuern hinterziehen",
+          "en": "to evade taxes"
+        },
+        {
+          "de": "in Millionenhöhe",
+          "en": "amounting to millions"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich kann kaum glauben, dass dieses kleine Restaurant einen Michelin-Stern {{c1::bekommen haben soll::bekommen, sollen}}.",
+      "en": "I can hardly believe that this little restaurant is supposed to have got a Michelin star.",
+      "focus": "Nebensatz mit *dass* · Fremdbehauptung · Vergangenheit",
+      "explanation": "The speaker has heard the news from others and doubts it → *soll*. The star was awarded in the past, so you need the Infinitiv Perfekt: *bekommen* (no *ge-*, because *be-* is inseparable) + *haben*. In the *dass*-clause the order is Partizip II → *haben* → **soll**.",
+      "pattern": "dass + … + Partizip II + haben + soll",
+      "mistake": {
+        "wrong": "Ich kann kaum glauben, dass dieses kleine Restaurant einen Michelin-Stern bekommen soll.",
+        "why": "Without *haben* the clause refers to the future: 'is supposed to get a star'. The star has already been given, so the past needs the Infinitiv Perfekt *bekommen haben*."
+      },
+      "examples": [
+        {
+          "de": "Es überrascht mich, dass der Film nur zwei Millionen gekostet haben soll.",
+          "en": "It surprises me that the film is supposed to have cost only two million."
+        },
+        {
+          "de": "Ich verstehe nicht, warum sie das Angebot abgelehnt haben soll.",
+          "en": "I don't understand why she is supposed to have turned the offer down."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Laut Wetterdienst {{c1::soll::sollen oder wollen?}} es am Wochenende bis zu 35 Grad heiß werden.",
+      "en": "According to the weather service, it is supposed to get as hot as 35 degrees at the weekend.",
+      "focus": "Fremdbehauptung · Quelle mit *laut* · Zukunft",
+      "explanation": "The source is named with *laut* (+ Dativ), and the modal marks the forecast as information from that source → *sollen*. For a future event you use the simple infinitive *werden*, not the Infinitiv Perfekt. The subject is the impersonal *es* → **soll**.",
+      "pattern": "laut + Quelle + soll + … + Infinitiv Präsens",
+      "mistake": {
+        "wrong": "Laut Wetterdienst will es am Wochenende bis zu 35 Grad heiß werden.",
+        "why": "*wollen* needs a subject that can make a claim or have an intention. The impersonal *es* cannot claim anything; information from a third source is expressed with *soll*."
+      },
+      "examples": [
+        {
+          "de": "Laut Prognose soll die Inflation im nächsten Jahr leicht sinken.",
+          "en": "According to the forecast, inflation is supposed to fall slightly next year."
+        },
+        {
+          "de": "Den Experten zufolge soll der Winter dieses Jahr besonders mild werden.",
+          "en": "According to the experts, this winter is supposed to be particularly mild."
+        }
+      ],
+      "words": [
+        {
+          "de": "laut (+ Dat.)",
+          "en": "according to"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Nach Angaben der Veranstalter sollen über 50.000 Menschen an der Demonstration {{c1::teilgenommen haben::teilnehmen}}.",
+      "en": "According to the organisers, more than 50,000 people are said to have taken part in the demonstration.",
+      "focus": "Fremdbehauptung · Vergangenheit · trennbares Verb · Plural",
+      "explanation": "*teilnehmen* is separable, so the Partizip II puts *-ge-* between prefix and stem: *teil-ge-nommen*. Its Perfekt uses *haben* (it is not a change of place), so the Infinitiv Perfekt is **teilgenommen haben**. The modal agrees with the plural subject *Menschen* → *sollen*.",
+      "pattern": "sollen (Pl.) + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Nach Angaben der Veranstalter sollen über 50.000 Menschen an der Demonstration teilgenommen sein.",
+        "why": "*teilnehmen* forms the Perfekt with *haben* (*sie haben teilgenommen*), so the infinitive is *teilgenommen haben*."
+      },
+      "examples": [
+        {
+          "de": "Nach Polizeiangaben sollen mehrere Hundert Fans an den Krawallen beteiligt gewesen sein.",
+          "en": "According to the police, several hundred fans are said to have been involved in the riots."
+        },
+        {
+          "de": "Laut Umfrage sollen fast 40 Prozent der Befragten noch nie ein E-Auto gefahren haben.",
+          "en": "According to the survey, almost 40 per cent of those asked are said never to have driven an electric car."
+        }
+      ],
+      "words": [
+        {
+          "de": "nach Angaben (+ Gen.)",
+          "en": "according to (a source)"
+        },
+        {
+          "de": "der Veranstalter (-)",
+          "en": "organiser"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Der neue Trainer soll fünf Sprachen fließend {{c1::sprechen können::sprechen, können}}.",
+      "en": "The new coach is said to speak five languages fluently.",
+      "focus": "Fremdbehauptung · zweites Modalverb",
+      "explanation": "Subjective *sollen* can combine with a second modal verb. The second modal stays in the infinitive and stands last, after the main verb: **sprechen können**. The report is about a present ability, so no Infinitiv Perfekt is needed.",
+      "pattern": "soll + … + Infinitiv + können",
+      "mistake": {
+        "wrong": "Der neue Trainer soll fünf Sprachen fließend können sprechen.",
+        "why": "At the end of a main clause the dependent infinitive comes first and the modal infinitive last: *sprechen können*."
+      },
+      "examples": [
+        {
+          "de": "Der Hund soll Krebs am Geruch erkennen können.",
+          "en": "The dog is said to be able to detect cancer by smell."
+        },
+        {
+          "de": "Die neue Kollegin soll hervorragend programmieren können.",
+          "en": "The new colleague is said to be an excellent programmer."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die A7 soll wegen eines Unfalls zwischen Kassel und Göttingen {{c1::gesperrt sein::sperren}}.",
+      "en": "The A7 is said to be closed between Kassel and Göttingen because of an accident.",
+      "focus": "Fremdbehauptung · Gegenwart · Zustandspassiv",
+      "explanation": "The report is about a present state, not about an action: the motorway *is* closed → Zustandspassiv *sie ist gesperrt*. After *soll* this becomes Partizip II + *sein*: **gesperrt sein**. Compare *gesperrt werden* (the action of closing it, now or later) and *gesperrt worden sein* (it was closed at some point).",
+      "pattern": "soll + … + Partizip II + sein (Zustand)",
+      "mistake": {
+        "wrong": "Die A7 soll wegen eines Unfalls zwischen Kassel und Göttingen gesperrt haben.",
+        "why": "*gesperrt haben* is active: the A7 would have closed something. For a state of the subject you need *sein*: *gesperrt sein*."
+      },
+      "examples": [
+        {
+          "de": "Der Flughafen soll wegen des Sturms bis morgen früh geschlossen sein.",
+          "en": "The airport is said to be closed until tomorrow morning because of the storm."
+        },
+        {
+          "de": "Das Konzert soll schon seit Wochen ausverkauft sein.",
+          "en": "The concert is said to have been sold out for weeks."
+        }
+      ],
+      "words": [
+        {
+          "de": "sperren",
+          "en": "to close (a road), to block"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Das Gemälde soll jahrzehntelang in einem Keller in Wien {{c1::versteckt gewesen sein::verstecken}}.",
+      "en": "The painting is said to have been hidden in a cellar in Vienna for decades.",
+      "focus": "Fremdbehauptung · Vergangenheit · Zustand",
+      "explanation": "*jahrzehntelang* describes a long state in the past, not one action: Zustandspassiv *es war versteckt*, Perfekt *es ist versteckt gewesen*. As an infinitive: Partizip II + **gewesen sein** → *versteckt gewesen sein*. *versteckt worden sein* would describe the single act of hiding it.",
+      "pattern": "soll + … + Partizip II + gewesen sein",
+      "mistake": {
+        "wrong": "Das Gemälde soll jahrzehntelang in einem Keller in Wien versteckt gewesen haben.",
+        "why": "*gewesen* is the participle of *sein*, and *sein* takes the auxiliary *sein*: *versteckt gewesen sein*."
+      },
+      "examples": [
+        {
+          "de": "Die Bahnstrecke soll damals monatelang gesperrt gewesen sein.",
+          "en": "The railway line is said to have been closed for months at that time."
+        },
+        {
+          "de": "Das Fenster soll die ganze Nacht geöffnet gewesen sein.",
+          "en": "The window is said to have been open all night."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gemälde (-)",
+          "en": "painting"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Der Arzt meint, ich {{c1::soll::sollen oder wollen?}} mindestens zwei Wochen keinen Sport machen.",
+      "en": "The doctor says I'm not supposed to do any sport for at least two weeks.",
+      "focus": "objektiv · Aufforderung eines Dritten",
+      "explanation": "This is **objective** *sollen*: another person (the doctor) wants me to do or not do something. It reports an instruction, not a rumour, so the speaker doubts nothing. In reported speech *sollen* replaces the imperative *Machen Sie keinen Sport!*. 1st person singular: *ich* **soll** (same form as the 3rd person).",
+      "pattern": "jemand meint/sagt, + Subjekt + soll + … + Infinitiv (Auftrag)",
+      "mistake": {
+        "wrong": "Der Arzt meint, ich will mindestens zwei Wochen keinen Sport machen.",
+        "why": "*ich will* would be my own wish. The instruction comes from the doctor, and a demand from another person is expressed with *sollen*."
+      },
+      "examples": [
+        {
+          "de": "Meine Chefin sagt, ich soll den Bericht bis Freitag fertig machen.",
+          "en": "My boss says I'm supposed to finish the report by Friday."
+        },
+        {
+          "de": "Deine Mutter hat angerufen, du sollst sie sofort zurückrufen.",
+          "en": "Your mother called; you're supposed to call her back right away."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Die alte Brauerei {{c1::soll::sollen oder wollen?}} bis 2028 zu einem Kulturzentrum umgebaut werden.",
+      "en": "The old brewery is to be converted into a cultural centre by 2028.",
+      "focus": "objektiv · Plan · Passiv Präsens",
+      "explanation": "Here *sollen* expresses the **plan** of a third party (the city, an investor): 'it is planned that …'. The passive infinitive after a modal is Partizip II + *werden* → *umgebaut werden*. A future time (*bis 2028*) and a simple infinitive point to the plan; *umgebaut worden sein* would turn it into hearsay about the past.",
+      "pattern": "soll + … + Partizip II + werden (Plan)",
+      "mistake": {
+        "wrong": "Die alte Brauerei soll bis 2028 zu einem Kulturzentrum umgebaut worden.",
+        "why": "After a modal the passive needs the infinitive *werden*: *umgebaut werden* (plan) or *umgebaut worden sein* (past). *umgebaut worden* alone is not a complete infinitive."
+      },
+      "examples": [
+        {
+          "de": "Der Hauptbahnhof soll in den nächsten Jahren komplett saniert werden.",
+          "en": "The main station is to be completely renovated in the next few years."
+        },
+        {
+          "de": "Die Studiengebühren sollen ab dem Wintersemester deutlich erhöht werden.",
+          "en": "Tuition fees are to be raised considerably from the winter semester."
+        }
+      ],
+      "words": [
+        {
+          "de": "umbauen",
+          "en": "to convert, to rebuild"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Nach dem Studium {{c1::will::sollen oder wollen?}} Lena ein Jahr in Kanada arbeiten.",
+      "en": "After her degree, Lena wants to work in Canada for a year.",
+      "focus": "objektiv · eigene Absicht",
+      "explanation": "This is **objective** *wollen*: Lena's own plan for the future. With a simple infinitive of an action in the future, *wollen* is almost always a wish or intention. It becomes a claim only with an Infinitiv Perfekt (*will … gearbeitet haben*) or with a state the subject cannot simply decide (*will Ärztin sein*).",
+      "pattern": "Subjekt + will + … + Infinitiv (Absicht)",
+      "mistake": {
+        "wrong": "Nach dem Studium soll Lena ein Jahr in Kanada arbeiten.",
+        "why": "*soll* would mean that someone else wants it (her parents, her employer) or that people say so. Lena's own intention is *will*."
+      },
+      "examples": [
+        {
+          "de": "Im Sommer wollen wir endlich die Küche renovieren.",
+          "en": "In the summer we finally want to renovate the kitchen."
+        },
+        {
+          "de": "Die Regierung will die Bürokratie für kleine Firmen abbauen.",
+          "en": "The government wants to reduce red tape for small companies."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Bis Weihnachten will ich die Doktorarbeit {{c1::abgegeben haben::abgeben}}.",
+      "en": "I want to have handed in my doctoral thesis by Christmas.",
+      "focus": "objektiv · Ziel mit Frist · Infinitiv Perfekt",
+      "explanation": "An Infinitiv Perfekt after *wollen* is not always a claim. With a deadline (*bis Weihnachten*) and a 1st-person subject it expresses a wish: at that time the action should be **finished**. *abgeben* is separable → Partizip II **abgegeben**, Perfekt with *haben*.",
+      "pattern": "bis + Zeitpunkt + will + … + Partizip II + haben (Ziel)",
+      "mistake": {
+        "wrong": "Bis Weihnachten will ich die Doktorarbeit abgegeben sein.",
+        "why": "*abgeben* has an Akkusativ object and forms the Perfekt with *haben* (*ich habe abgegeben*), so the infinitive is *abgegeben haben*."
+      },
+      "examples": [
+        {
+          "de": "Bis zum Sommer will sie zehn Kilo abgenommen haben.",
+          "en": "She wants to have lost ten kilos by the summer."
+        },
+        {
+          "de": "Bis Ende des Jahres wollen wir alle Schulden zurückgezahlt haben.",
+          "en": "We want to have paid back all our debts by the end of the year."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Doktorarbeit (-en)",
+          "en": "doctoral thesis"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Bis Ende Mai sollen alle Mitarbeitenden die Datenschutzschulung {{c1::abgeschlossen haben::abschließen}}.",
+      "en": "All employees are supposed to have completed the data protection training by the end of May.",
+      "focus": "objektiv · Vorgabe mit Frist · Infinitiv Perfekt",
+      "explanation": "Objective *sollen* (an instruction from the company) with an Infinitiv Perfekt: the action must be completed before the deadline *bis Ende Mai*. So *sollen* + Infinitiv Perfekt is not automatically hearsay; the deadline shows the meaning. *abschließen* → Partizip II **abgeschlossen**, auxiliary *haben*.",
+      "pattern": "bis + Frist + sollen + … + Partizip II + haben (Vorgabe)",
+      "mistake": {
+        "wrong": "Bis Ende Mai sollen alle Mitarbeitenden die Datenschutzschulung abschließen haben.",
+        "why": "The Infinitiv Perfekt needs the Partizip II, not the infinitive: *abgeschlossen haben*."
+      },
+      "examples": [
+        {
+          "de": "Bis Freitag sollen alle Teilnehmer das Formular ausgefüllt haben.",
+          "en": "All participants are supposed to have filled in the form by Friday."
+        },
+        {
+          "de": "Bis zur Prüfung sollt ihr alle zwölf Kapitel gelesen haben.",
+          "en": "You are supposed to have read all twelve chapters by the exam."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Mitarbeitenden (Pl.)",
+          "en": "employees (gender-neutral)"
+        },
+        {
+          "de": "die Schulung (-en)",
+          "en": "training course"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Das {{c1::will::sollen oder wollen?}} ich nicht gehört haben!",
+      "en": "I'll pretend I didn't hear that!",
+      "focus": "feste Wendung · 1. Person · Vergangenheit",
+      "explanation": "A fixed expression with subjective *wollen* in the 1st person, literally 'I don't want to have heard that'. The speaker did hear it but refuses to accept it; it works as a mild reprimand ('take that back'). *Das* is the Akkusativ object of *gehört haben* and fills the Vorfeld, so **will** is in position 2 before the subject *ich*.",
+      "pattern": "Das + will + ich + nicht + Partizip II + haben!",
+      "mistake": {
+        "wrong": "Das soll ich nicht gehört haben!",
+        "why": "The fixed phrase uses *wollen*: the speaker himself refuses to have heard it. *soll* would mean that someone else does not want him to have heard it, which is not the idiom."
+      },
+      "examples": [
+        {
+          "de": "Das will ich nicht gesehen haben!",
+          "en": "I'll pretend I didn't see that!"
+        },
+        {
+          "de": "Diese Bemerkung will ich überhört haben.",
+          "en": "I'll pretend I didn't hear that remark."
+        }
+      ],
+      "words": [
+        {
+          "de": "überhören",
+          "en": "to not hear, to ignore (a remark)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "{{c1::Soll::sollen oder wollen?}} das etwa ein Kompliment sein?",
+      "en": "Is that supposed to be a compliment?",
+      "focus": "Entscheidungsfrage · Zweifel an der Absicht",
+      "explanation": "In a question, *sollen* + *sein* asks what something is meant to be and shows doubt or irritation: the speaker thinks it is not a compliment. The particle *etwa* strengthens the doubt and expects the answer 'no'. The subject is *das* → 3rd person singular **Soll**, in position 1 because it is a yes/no question.",
+      "pattern": "Soll + das + (etwa) + Nomen + sein?",
+      "mistake": {
+        "wrong": "Muss das etwa ein Kompliment sein?",
+        "why": "*muss* asks whether something is necessary. To ask what something is meant or intended to be, German uses *sollen*."
+      },
+      "examples": [
+        {
+          "de": "Soll das eine Entschuldigung sein?",
+          "en": "Is that supposed to be an apology?"
+        },
+        {
+          "de": "Was soll dieses Zeichen hier bedeuten?",
+          "en": "What is this sign here supposed to mean?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Der Hersteller will den Fehler in der Software längst {{c1::behoben haben::beheben}}.",
+      "en": "The manufacturer claims to have fixed the bug in the software long ago.",
+      "focus": "Eigenbehauptung einer Firma · Vergangenheit",
+      "explanation": "The claim comes from the subject (the company) → subjective *wollen*; the speaker reports it with distance. *beheben* is a strong verb with the inseparable prefix *be-*: *behob – behoben*, no *ge-*. The company did the action → active Perfekt with *haben* → **behoben haben**.",
+      "pattern": "will + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Der Hersteller will den Fehler in der Software längst behoben sein.",
+        "why": "*behoben sein* is a Zustandspassiv and has no place for an Akkusativ object. The subject did the action, so the active infinitive *behoben haben* is needed."
+      },
+      "examples": [
+        {
+          "de": "Die Bahn will die Probleme mit den Klimaanlagen gelöst haben.",
+          "en": "The railway company claims to have solved the problems with the air conditioning."
+        },
+        {
+          "de": "Das Amt will alle Anträge bereits bearbeitet haben.",
+          "en": "The authority claims to have already processed all the applications."
+        }
+      ],
+      "words": [
+        {
+          "de": "beheben (behob, behoben)",
+          "en": "to fix, to remedy"
+        },
+        {
+          "de": "längst",
+          "en": "long ago"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Der Fahrer {{c1::will::sollen oder wollen?}} sich an den Unfall nicht mehr erinnern können.",
+      "en": "The driver claims he can no longer remember the accident.",
+      "focus": "Eigenbehauptung · zweites Modalverb · reflexiv",
+      "explanation": "The driver says *Ich kann mich nicht mehr erinnern.* → his own claim → **will**. The modal *können* becomes an infinitive and stands last: *erinnern können*. The reflexive pronoun *sich* stays in the Mittelfeld directly after the finite verb.",
+      "pattern": "will + sich + … + Infinitiv + können",
+      "mistake": {
+        "wrong": "Der Fahrer will sich an den Unfall nicht mehr erinnern.",
+        "why": "Without *können* the sentence is objective: 'he does not want to remember'. The claim is about his inability, so *erinnern können* is needed."
+      },
+      "examples": [
+        {
+          "de": "Der Mieter will die Nachzahlung nicht bezahlen können.",
+          "en": "The tenant claims he cannot pay the additional charges."
+        },
+        {
+          "de": "Mein Sohn will ohne Handy nicht einschlafen können.",
+          "en": "My son claims he can't fall asleep without his phone."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Hinterher {{c1::wollte::wollen, Präteritum}} es natürlich keiner gewesen sein.",
+      "en": "Afterwards, of course, nobody would admit to having done it.",
+      "focus": "Eigenbehauptung · Erzählung in der Vergangenheit",
+      "explanation": "*es gewesen sein* means 'to be the one who did it', and *keiner will es gewesen sein* is a common phrase for everyone denying responsibility. In a story in the past, the modal itself can be in the Präteritum: **wollte** = 'claimed at that time'. The Infinitiv Perfekt *gewesen sein* stays the same.",
+      "pattern": "Vorfeld + wollte + … + gewesen sein",
+      "mistake": {
+        "wrong": "Hinterher hat es natürlich keiner gewesen sein wollen.",
+        "why": "Subjective modals are not used in the Perfekt. In a past narrative use the Präteritum *wollte* (or the Präsens *will*) + Infinitiv Perfekt."
+      },
+      "examples": [
+        {
+          "de": "Am Ende will es wieder niemand gewesen sein.",
+          "en": "In the end, once again nobody will admit to having done it."
+        },
+        {
+          "de": "Damals wollte keiner etwas von den Problemen gewusst haben.",
+          "en": "At the time, nobody claimed to have known anything about the problems."
+        }
+      ],
+      "words": [
+        {
+          "de": "hinterher",
+          "en": "afterwards"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Was soll er denn {{c1::verbrochen haben::verbrechen}}?",
+      "en": "What is he supposed to have done wrong?",
+      "focus": "W-Frage · Fremdbehauptung · Vergangenheit",
+      "explanation": "In a W-question, *soll* + Infinitiv Perfekt asks about the content of a claim made by others: the speaker has heard that he did something wrong and asks what exactly, often with doubt (*denn*). *verbrechen* is strong (*verbrach – verbrochen*), and its Perfekt uses *haben* → **verbrochen haben**.",
+      "pattern": "W-Wort + soll + Subjekt + … + Partizip II + haben?",
+      "mistake": {
+        "wrong": "Was soll er denn verbrochen sein?",
+        "why": "*verbrechen* takes an Akkusativ object (*was*) and forms the Perfekt with *haben*: *verbrochen haben*."
+      },
+      "examples": [
+        {
+          "de": "Wen soll sie denn betrogen haben?",
+          "en": "Who is she supposed to have cheated?"
+        },
+        {
+          "de": "Wo soll der Unfall genau passiert sein?",
+          "en": "Where exactly is the accident supposed to have happened?"
+        }
+      ],
+      "words": [
+        {
+          "de": "verbrechen (verbrach, verbrochen)",
+          "en": "to do something wrong (lit. to commit a crime)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Die beiden sollen sich auf einer Konferenz in Lissabon {{c1::kennengelernt haben::kennenlernen}}.",
+      "en": "The two of them are said to have met at a conference in Lisbon.",
+      "focus": "Fremdbehauptung · Vergangenheit · reflexives Verb",
+      "explanation": "*sich kennenlernen* (here reciprocal: each other) forms the Perfekt with *haben*, like all reflexive verbs → **kennengelernt haben**; it is separable, so *-ge-* goes inside: *kennen-ge-lernt*. The reflexive pronoun *sich* stays in the Mittelfeld. Plural subject *die beiden* → *sollen*.",
+      "pattern": "sollen + sich + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Die beiden sollen sich auf einer Konferenz in Lissabon kennengelernt sein.",
+        "why": "Reflexive verbs always form the Perfekt with *haben* (*sie haben sich kennengelernt*), so the infinitive is *kennengelernt haben*."
+      },
+      "examples": [
+        {
+          "de": "Die Schauspieler sollen sich bei den Dreharbeiten heftig gestritten haben.",
+          "en": "The actors are said to have had a fierce argument during filming."
+        },
+        {
+          "de": "Die Geschwister sollen sich seit Jahren nicht mehr gesehen haben.",
+          "en": "The siblings are said not to have seen each other for years."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Sie {{c1::will::sollen oder wollen?}} die einzige Person im Team sein, die den alten Code wirklich versteht.",
+      "en": "She claims to be the only person on the team who really understands the old code.",
+      "focus": "Eigenbehauptung · Gegenwart · Zustand",
+      "explanation": "Subjective *wollen* with a simple infinitive refers to a present state: she says *Ich bin die Einzige, die …*. Being the only expert is a fact about the team, not a plan she can carry out, so *will … sein* is read here as her own claim, reported with distance (the wish reading 'she wants to be the only one' is possible only with clear context). The relative clause *die … versteht* refers to *Person*.",
+      "pattern": "Subjekt + will + … + sein (Zustand jetzt)",
+      "mistake": {
+        "wrong": "Sie will die einzige Person im Team zu sein, die den alten Code wirklich versteht.",
+        "why": "Modal verbs take the infinitive without *zu*. *zu* belongs to the paraphrase with *behaupten*: *Sie behauptet, die einzige Person … zu sein.*"
+      },
+      "examples": [
+        {
+          "de": "Er will ein enger Freund des Präsidenten sein.",
+          "en": "He claims to be a close friend of the president."
+        },
+        {
+          "de": "Das Start-up will Marktführer in Europa sein.",
+          "en": "The start-up claims to be the market leader in Europe."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Klägerin, die bei der Beförderung benachteiligt worden sein {{c1::will::sollen oder wollen?}}, verlangt Schadenersatz.",
+      "en": "The plaintiff, who claims to have been treated unfairly in the promotion process, is demanding damages.",
+      "focus": "Relativsatz · Eigenbehauptung · Passiv Vergangenheit",
+      "explanation": "The relative pronoun *die* refers to the plaintiff, and she herself makes the claim → *wollen*, 3rd person singular **will**. The passive Infinitiv Perfekt *benachteiligt worden sein* comes first, and the finite modal closes the relative clause: Partizip II → *worden* → *sein* → *will*.",
+      "pattern": "Relativpronomen + … + Partizip II + worden sein + will",
+      "mistake": {
+        "wrong": "Die Klägerin, die bei der Beförderung will benachteiligt worden sein, verlangt Schadenersatz.",
+        "why": "In a relative clause the finite verb is last. Nothing may follow it inside the clause: *benachteiligt worden sein will*."
+      },
+      "examples": [
+        {
+          "de": "Der Mann, der von Polizisten geschlagen worden sein will, hat Anzeige erstattet.",
+          "en": "The man who claims to have been beaten by police officers has filed a complaint."
+        },
+        {
+          "de": "Die Patientin, die falsch behandelt worden sein will, klagt gegen die Klinik.",
+          "en": "The patient who claims to have received the wrong treatment is suing the clinic."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Klägerin (-nen)",
+          "en": "plaintiff (female)"
+        },
+        {
+          "de": "die Beförderung (-en)",
+          "en": "promotion (at work)"
+        },
+        {
+          "de": "der Schadenersatz",
+          "en": "damages, compensation"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about subjective sollen.",
+      "prompt": "In *Der Politiker soll Steuern hinterzogen haben*, what does *soll* tell the reader about the source and the truth of the statement?",
+      "answer": "It marks **hearsay**: the information comes from **other people** (media, rumours, reports), not from the speaker and not from the subject. The speaker neither confirms nor denies it. Paraphrase: *Man sagt / Es heißt / Angeblich hat er …*",
+      "explanation": "Subjective *sollen* is a source marker and very typical of news language. It differs from *muss* (the speaker's own firm conclusion) and *dürfte* (the speaker's own estimate of probability): with *soll* the speaker only passes the information on.",
+      "examples": [
+        {
+          "de": "Der Sänger soll an einem neuen Album arbeiten.",
+          "en": "The singer is said to be working on a new album."
+        },
+        {
+          "de": "Die Firma soll kurz vor der Insolvenz stehen.",
+          "en": "The company is said to be on the verge of insolvency."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about subjective wollen.",
+      "prompt": "Who is the source of the claim with subjective *wollen*, and what attitude of the speaker does it usually show?",
+      "answer": "The **subject itself** makes the claim about itself (*Er will … = Er behauptet, dass er …*). The speaker reports it with **doubt or distance**.",
+      "explanation": "Because the subject is the source, it is normally a person or an organisation that can make statements (*der Zeuge, die Firma*), never an impersonal *es*. A text or a work can also 'claim' to be something (*Das Buch will ein Ratgeber sein.* = it presents itself as a guide). *Er will Arzt sein* means 'he claims to be a doctor (and I am not sure I believe him)'. It is typical of court reports, police reports and arguments.",
+      "examples": [
+        {
+          "de": "Die Angeklagte will von dem Betrug nichts gewusst haben.",
+          "en": "The defendant claims to have known nothing about the fraud."
+        },
+        {
+          "de": "Der Junge will den Ball gar nicht geworfen haben.",
+          "en": "The boy claims he didn't throw the ball at all."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the infinitive forms.",
+      "prompt": "Which infinitive forms follow subjective *sollen/wollen* when the event is in the past? Name the four types.",
+      "answer": "Infinitiv Perfekt: **Partizip II + haben** (*gelogen haben*) or **Partizip II + sein** (*gestürzt sein*). Vorgangspassiv: **Partizip II + worden sein** (*verhaftet worden sein*). Zustand: **Partizip II + gewesen sein** (*geschlossen gewesen sein*). The modal itself stays in the Präsens.",
+      "explanation": "The auxiliary is the same as in the normal Perfekt: *er hat gelogen → gelogen haben*, *er ist gestürzt → gestürzt sein*. In the passive the participle of *werden* is *worden*, and the passive always uses *sein*. Only the infinitive carries the time; *soll/will* does not go into the Perfekt.",
+      "examples": [
+        {
+          "de": "Der Kandidat soll im Interview gelogen haben.",
+          "en": "The candidate is said to have lied in the interview."
+        },
+        {
+          "de": "Der Journalist soll an der Grenze verhaftet worden sein.",
+          "en": "The journalist is said to have been arrested at the border."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two readings.",
+      "prompt": "Is *sollen* + Infinitiv Perfekt always hearsay? Compare *Er soll das Paket abgeholt haben* and *Bis 18 Uhr soll er das Paket abgeholt haben*.",
+      "answer": "No. Without a future time limit it is usually **hearsay** ('he is said to have collected it'). With a **deadline** (*bis 18 Uhr*) it is **objective**: someone requires that the action is **completed** by that time. The same contrast exists for *wollen* (*Bis Juli will ich das Buch geschrieben haben* = wish).",
+      "explanation": "The Infinitiv Perfekt only shows that the action is completed before a reference point. If the reference point is now, the sentence reports a past event (subjective). If it is a future deadline, the sentence states a task, plan or wish (objective).",
+      "examples": [
+        {
+          "de": "Der Kurier soll das Paket vor die falsche Tür gestellt haben.",
+          "en": "The courier is said to have left the parcel at the wrong door."
+        },
+        {
+          "de": "Bis Montag sollen alle Bewerbungen eingegangen sein.",
+          "en": "All applications are supposed to have arrived by Monday."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about word order in subordinate clauses.",
+      "prompt": "Where does the finite modal go in a Nebensatz with subjective *sollen/wollen* and an Infinitiv Perfekt or passive?",
+      "answer": "At the **very end**, after the whole infinitive block: *…, der eine Tankstelle überfallen haben **soll*** · *…, der angegriffen worden sein **will***. Order: Partizip II → (*worden*) → *haben/sein* → modal.",
+      "explanation": "This is the normal Nebensatz rule: the finite verb is last. The special order with the finite verb in front (*…, dass er hat kommen wollen*) only applies to the Doppelinfinitiv in the Perfekt of the modal itself, and subjective modals do not use that form.",
+      "examples": [
+        {
+          "de": "Die Polizei sucht einen Mann, der eine Tankstelle überfallen haben soll.",
+          "en": "The police are looking for a man who is said to have robbed a petrol station."
+        },
+        {
+          "de": "Ich traue keinem Kollegen, der noch nie einen Fehler gemacht haben will.",
+          "en": "I don't trust any colleague who claims never to have made a mistake."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about paraphrases.",
+      "prompt": "Which neutral paraphrases can replace subjective *sollen* and subjective *wollen*?",
+      "answer": "*sollen*: **angeblich, man sagt, es heißt, Berichten zufolge, laut + Quelle** (+ indicative). *wollen*: **behaupten** + *dass*-clause or + zu-Infinitiv: *Er behauptet, nichts gesehen zu haben.*",
+      "explanation": "The paraphrase with *behaupten* keeps the time: *will gesehen haben → behauptet, gesehen zu haben*. In speech, *angeblich* + indicative is the most common alternative to *soll*; written news uses *soll* a lot. The combination *angeblich soll* is frequent in speech but says the same thing twice, so careful writers avoid it.",
+      "examples": [
+        {
+          "de": "Angeblich hat der Chef gekündigt.",
+          "en": "Apparently the boss has resigned."
+        },
+        {
+          "de": "Er behauptet, die Mahnung nie erhalten zu haben.",
+          "en": "He claims never to have received the reminder."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective sollen (without *man sagt*).",
+      "prompt": "Man sagt, dass der Schauspieler sein ganzes Vermögen verloren hat.",
+      "answer": "Der Schauspieler soll sein ganzes Vermögen verloren haben.",
+      "explanation": "*Man sagt* marks hearsay → *soll*. *hat verloren* is in the past, so after *soll* the Infinitiv Perfekt *verloren haben* is needed. The subject of the *dass*-clause becomes the subject of the new main clause, and *soll* stands in position 2."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective wollen.",
+      "prompt": "Sie behauptet, dass sie die Rechnung schon bezahlt hat.",
+      "answer": "Sie will die Rechnung schon bezahlt haben.",
+      "explanation": "The subject claims something about herself → *will*. The Perfekt *hat bezahlt* becomes the Infinitiv Perfekt *bezahlt haben* at the end of the main clause. *bezahlen* has the inseparable prefix *be-*, so there is no *ge-*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective wollen.",
+      "prompt": "Der Sänger behauptet, nie Drogen genommen zu haben.",
+      "answer": "Der Sänger will nie Drogen genommen haben.",
+      "explanation": "*behaupten* + zu-Infinitiv Perfekt corresponds exactly to *wollen* + Infinitiv Perfekt. After a modal verb *zu* disappears and the comma goes, because there is no infinitive clause any more: *will … genommen haben*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective sollen.",
+      "prompt": "Es heißt, dass das Rathaus im Krieg zerstört wurde.",
+      "answer": "Das Rathaus soll im Krieg zerstört worden sein.",
+      "explanation": "*Es heißt* = hearsay → *soll*. *wurde zerstört* is Passiv Präteritum; after a modal every past passive becomes the passive Infinitiv Perfekt: Partizip II + *worden sein* → *zerstört worden sein*."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace subjective wollen with *behaupten* + zu-Infinitiv.",
+      "prompt": "Der Pilot will die Warnung nicht gehört haben.",
+      "answer": "Der Pilot behauptet, die Warnung nicht gehört zu haben.",
+      "explanation": "The claim becomes the verb *behaupten*. The Infinitiv Perfekt stays and gets *zu* before the auxiliary: *gehört zu haben*. The infinitive clause is separated by a comma."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "The rumour is still current, but the situation it describes is in the past. Change only the infinitive.",
+      "prompt": "Der Kandidat soll Kontakte zur Mafia haben.",
+      "answer": "Der Kandidat soll Kontakte zur Mafia gehabt haben.",
+      "explanation": "The time of the reported fact is shown only by the infinitive: *haben* → Infinitiv Perfekt *gehabt haben*. *soll* stays in the Präsens, because people say it now."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Einbrecher soll durch das Kellerfenster geflohen haben.",
+      "answer": "Der Einbrecher soll durch das Kellerfenster geflohen sein.",
+      "explanation": "The auxiliary in the Infinitiv Perfekt is wrong. *fliehen* is a movement and forms the Perfekt with *sein* (*er ist geflohen*), so the infinitive is *geflohen sein*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Unterlagen sollen bei dem Brand vernichtet geworden sein.",
+      "answer": "Die Unterlagen sollen bei dem Brand vernichtet worden sein.",
+      "explanation": "In the passive the participle of *werden* is *worden*, not *geworden*. Passive Infinitiv Perfekt: *vernichtet worden sein*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe gelesen, dass die Sängerin heimlich geheiratet soll haben.",
+      "answer": "Ich habe gelesen, dass die Sängerin heimlich geheiratet haben soll.",
+      "explanation": "The word order in the *dass*-clause is wrong. The finite verb *soll* must be last, after the Infinitiv Perfekt: *geheiratet haben soll*."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake in meaning: the information comes from the police.",
+      "prompt": "Laut Polizei will der Fahrer viel zu schnell gefahren sein.",
+      "answer": "Laut Polizei soll der Fahrer viel zu schnell gefahren sein.",
+      "explanation": "*will* would mean that the driver himself claims to have driven too fast. The source is the police, a third party, so hearsay needs *soll*. *gefahren sein* is correct: *fahren* without an Akkusativ object takes *sein*."
+    },
+    {
+      "key": "d17",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Minister hat von nichts gewusst haben wollen.",
+      "answer": "Der Minister will von nichts gewusst haben.",
+      "explanation": "Subjective *wollen* is not put into the Perfekt. The modal stays in the Präsens (*will*), and only the infinitive shows the past: *gewusst haben*."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the context.",
+      "prompt": "Der Kellner ___ das Trinkgeld nie bekommen haben – das sagt er jedenfalls.",
+      "options": [
+        "soll",
+        "will",
+        "muss"
+      ],
+      "correct": "will",
+      "answer": "Der Kellner will das Trinkgeld nie bekommen haben – das sagt er jedenfalls.",
+      "explanation": "*das sagt er jedenfalls* names the waiter himself as the source, and the speaker keeps his distance → *will*. *soll* would mean that other people say it. *muss* would be the speaker's own firm conclusion, which does not fit *das sagt er jedenfalls*."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct infinitive.",
+      "prompt": "Die Familie soll 1938 nach Argentinien ___.",
+      "options": [
+        "ausgewandert haben",
+        "ausgewandert sein",
+        "ausgewandert worden sein"
+      ],
+      "correct": "ausgewandert sein",
+      "answer": "Die Familie soll 1938 nach Argentinien ausgewandert sein.",
+      "explanation": "*auswandern* is a change of place and forms the Perfekt with *sein* (*sie ist ausgewandert*) → *ausgewandert sein*. *haben* is the wrong auxiliary, and *worden sein* would make it passive, which is impossible for an intransitive verb like *auswandern*."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the context.",
+      "prompt": "Laut Fahrplan ___ der Zug um 14:05 Uhr ankommen, aber er hat 20 Minuten Verspätung.",
+      "options": [
+        "soll",
+        "will",
+        "darf"
+      ],
+      "correct": "soll",
+      "answer": "Laut Fahrplan soll der Zug um 14:05 Uhr ankommen, aber er hat 20 Minuten Verspätung.",
+      "explanation": "The timetable states a plan made by a third party → objective *soll* ('is scheduled to'). *will* needs a subject with its own intention or claim; a train has neither. *darf* expresses permission; a timetable does not give the train permission, it states when the train is scheduled to arrive."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Vereinspräsident",
+      "prompt": "gewusst / der Vereinspräsident / soll / von dem Skandal / haben / schon lange",
+      "answer": "Der Vereinspräsident soll schon lange von dem Skandal gewusst haben.",
+      "explanation": "*soll* is the finite verb in position 2, and the Infinitiv Perfekt *gewusst haben* closes the Satzklammer. In the Mittelfeld the time adverbial usually comes before the prepositional object; *… soll von dem Skandal schon lange gewusst haben* is also correct."
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Gegen den Bürgermeister",
+      "prompt": "weil / gegen den Bürgermeister / soll / Fördergelder / ermittelt / haben / er / wird / veruntreut",
+      "answer": "Gegen den Bürgermeister wird ermittelt, weil er Fördergelder veruntreut haben soll.",
+      "explanation": "Main clause: impersonal passive *wird ermittelt* with *wird* in position 2. In the *weil*-clause the subject *er* follows the conjunction, and the verb block is at the end: Partizip II → *haben* → finite *soll*."
+    },
+    {
+      "key": "d23",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause after *Der Mann*.",
+      "prompt": "Der Mann wurde gestern verhaftet. Er soll mehrere Banken überfallen haben.",
+      "answer": "Der Mann, der mehrere Banken überfallen haben soll, wurde gestern verhaftet.",
+      "explanation": "*Er* becomes the Nominativ relative pronoun *der* (masculine). In the relative clause the finite verb *soll* moves to the very end, after *überfallen haben*. The relative clause stands directly after *Der Mann* and is closed by a comma."
+    },
+    {
+      "key": "d24",
+      "type": "combine",
+      "instruction": "Make one main clause with subjective wollen.",
+      "prompt": "Die Studentin hat die Arbeit nicht abgeschrieben. Das behauptet sie jedenfalls.",
+      "answer": "Die Studentin will die Arbeit nicht abgeschrieben haben.",
+      "explanation": "*Das behauptet sie* shows that the subject herself is the source → *will*. The Perfekt *hat abgeschrieben* becomes the Infinitiv Perfekt *abgeschrieben haben*, and *nicht* stays before the infinitive block."
+    }
+  ]
+}

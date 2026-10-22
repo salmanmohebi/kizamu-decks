@@ -1,0 +1,710 @@
+{
+  "topic_id": "b1-15-adverbiale-konnektoren",
+  "level": "B1",
+  "title_de": "Adverbiale Konnektoren (trotzdem, deshalb, sonst …)",
+  "title_en": "Connecting adverbs (trotzdem, deshalb, sonst …)",
+  "rule": {
+    "summary": "Connecting adverbs such as **deshalb, trotzdem, sonst, dann, danach, außerdem, jedoch, allerdings, stattdessen** link a main clause to the sentence before it and show the logical relation: consequence, contrast, condition, time order or addition. They are adverbs, not conjunctions: they take a real place in the clause. In position 1 (Vorfeld) the finite verb follows directly and the subject comes after it (*Es regnet. **Trotzdem gehe ich** spazieren.*). Most of them can also stand in the Mittelfeld (*Ich gehe trotzdem spazieren.*).",
+    "table": "| Bedeutung | Konnektor | Beispiel |\n|---|---|---|\n| Folge | **deshalb, deswegen, darum, daher, also** | Ich bin müde. **Deshalb gehe ich** ins Bett. |\n| Gegensatz (trotz Hindernis) | **trotzdem, dennoch** | Es regnet. **Trotzdem gehe ich** spazieren. |\n| Einschränkung | **jedoch, allerdings** | Das Hotel war schön. Das Essen war **allerdings** schlecht. |\n| Kontrast | **dagegen, hingegen** | Er wohnt auf dem Land, ich wohne **dagegen** in der Stadt. |\n| negative Folge | **sonst** | Beeil dich, **sonst verpassen wir** den Zug. |\n| Ersatz | **stattdessen** | Der Flug fiel aus. **Stattdessen nahmen wir** den Zug. |\n| Ergänzung | **außerdem** | Es ist spät. **Außerdem bin ich** müde. |\n| Reihenfolge | **zuerst, dann, danach, anschließend** | **Zuerst tanken wir**, **dann fahren wir** los. |\n| Grund (nie Position 1) | **nämlich** | Ich bleibe zu Hause, ich bin **nämlich** krank. |\n| zum Vergleich: Konjunktion | *und, aber, oder, denn* (Position 0) · *weil, obwohl* (Verb am Ende) | …, **denn** ich bin müde. / …, **weil** ich müde **bin**. |",
+    "steps": [
+      "Find the relation between the two sentences: consequence, unexpected result, negative consequence (*sonst*), addition, time order, contrast or reason.",
+      "Check the word type. Conjunctions *und, aber, oder, denn, sondern* stand in position 0. Subordinating conjunctions *weil, obwohl, dass* send the verb to the end. Connecting adverbs take position 1 or a place in the Mittelfeld.",
+      "Adverb in position 1 → finite verb in position 2 → subject → rest. Participles, infinitives and separable prefixes still go to the end (*Deshalb **bin** ich zu spät **gekommen**.*).",
+      "Alternative: keep the subject in position 1 and put the adverb in the Mittelfeld after the finite verb (*Ich bin deshalb zu spät gekommen.*).",
+      "After *und / aber* (position 0) the adverb can follow and still counts as position 1: *…, und deshalb **feiern wir***. *nämlich* never stands in position 1."
+    ],
+    "pitfalls": [
+      "No inversion after the adverb: ✗ *Deshalb ich gehe ins Bett.* → ✓ *Deshalb gehe ich ins Bett.*",
+      "Treating the adverb like *weil/obwohl*: ✗ *Es regnet, trotzdem ich spazieren gehe.* → ✓ *Es regnet, trotzdem gehe ich spazieren.* / *Obwohl es regnet, gehe ich spazieren.*",
+      "*dann* and *denn* mixed up: ✗ *Ich bleibe zu Hause, dann ich bin krank.* → ✓ *Ich bleibe zu Hause, denn ich bin krank.* (*denn* = because, position 0; *dann* = then, position 1).",
+      "*nämlich* in position 1: ✗ *Nämlich bin ich krank.* → ✓ *Ich bin nämlich krank.*",
+      "False friend *also*: German *also* = so, therefore. English *also* = *auch*: ✗ *Ich komme also mit.* (meaning *too*) → ✓ *Ich komme auch mit.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Es regnet. {{c1::Trotzdem}} gehe ich spazieren.",
+      "en": "It's raining. I'm going for a walk anyway.",
+      "focus": "Gegensatz · Position 1",
+      "explanation": "Rain would normally stop a walk, so the action happens against an obstacle. **Trotzdem** (nevertheless) is an adverb in position 1, so the finite verb *gehe* follows directly and the subject *ich* comes after it. *Dennoch* (a little more formal) is also correct in this gap.",
+      "pattern": "Satz. **Trotzdem** + Verb + Subjekt …",
+      "mistake": {"wrong": "Es regnet. Trotzdem ich gehe spazieren.", "why": "*trotzdem* is not a conjunction in position 0. It fills position 1 itself, so the verb must come next: *Trotzdem gehe ich*."},
+      "examples": [
+        {"de": "Der Film war lang. Trotzdem war er nie langweilig.", "en": "The film was long. Even so, it was never boring."},
+        {"de": "Er hat wenig Zeit. Trotzdem hilft er uns.", "en": "He has little time. He helps us anyway."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich bin müde. {{c1::Deshalb}} gehe ich ins Bett.",
+      "en": "I'm tired. So I'm going to bed.",
+      "focus": "Folge · Position 1",
+      "explanation": "The second sentence is the consequence of the first: tired → bed. **Deshalb** (that's why) points back to the reason (= *aus diesem Grund*). In position 1 it is followed by the finite verb *gehe*, then the subject *ich*. *Deswegen, Darum* and *Daher* are also correct in this gap.",
+      "pattern": "Grund. **Deshalb** + Verb + Subjekt …",
+      "mistake": {"wrong": "Ich bin müde, deshalb ich ins Bett gehe.", "why": "*deshalb* is an adverb, not a subordinating conjunction like *weil*. It does not send the verb to the end: *deshalb gehe ich ins Bett*."},
+      "examples": [
+        {"de": "Der Kühlschrank ist leer. Deshalb gehen wir einkaufen.", "en": "The fridge is empty. So we're going shopping."},
+        {"de": "Sie spricht gut Spanisch. Deshalb arbeitet sie oft in Madrid.", "en": "She speaks good Spanish. That's why she often works in Madrid."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Beeile dich, {{c1::sonst}} verpassen wir den Zug.",
+      "en": "Hurry up, otherwise we'll miss the train.",
+      "focus": "negative Folge · nach Imperativ",
+      "explanation": "**sonst** (otherwise) says what will happen if the first part is not done: if you don't hurry, we'll miss the train. It is an adverb in position 1 of the second clause, so *verpassen* follows directly, then *wir*. This pattern is very common after an imperative.",
+      "pattern": "Imperativ, **sonst** + Verb + Subjekt …",
+      "mistake": {"wrong": "Beeile dich, sonst wir verpassen den Zug.", "why": "*sonst* takes position 1, so the finite verb comes before the subject: *sonst verpassen wir*."},
+      "examples": [
+        {"de": "Nimm einen Schirm mit, sonst wirst du nass.", "en": "Take an umbrella, otherwise you'll get wet."},
+        {"de": "Schreib es auf, sonst vergisst du es.", "en": "Write it down, otherwise you'll forget it."}
+      ],
+      "words": [{"de": "sich beeilen", "en": "to hurry"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir essen. {{c1::Danach}} machen wir einen Spaziergang.",
+      "en": "We're having a meal. Afterwards we'll go for a walk.",
+      "focus": "zeitliche Reihenfolge · Adverb",
+      "explanation": "**Danach** (afterwards) puts the second action after the first one. It is built from *da* + *nach* and points back to the meal. In position 1 it is followed by the verb *machen*, then *wir*. *Dann* or *Anschließend* would also be correct here.",
+      "pattern": "Handlung 1. **Danach** + Verb + Subjekt …",
+      "mistake": {"wrong": "Wir essen. Nachdem machen wir einen Spaziergang.", "why": "*nachdem* is a subordinating conjunction (*Nachdem wir gegessen haben, …*). As an adverb in a main clause you need *danach*."},
+      "examples": [
+        {"de": "Ich dusche kurz. Danach können wir los.", "en": "I'll have a quick shower. After that we can go."},
+        {"de": "Sie hat zuerst studiert. Danach hat sie ein Jahr in Japan gearbeitet.", "en": "First she studied. After that she worked in Japan for a year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er war krank. {{c1::Deswegen}} kam er nicht.",
+      "en": "He was ill. That's why he didn't come.",
+      "focus": "Folge · Präteritum",
+      "explanation": "**Deswegen** means the same as *deshalb*: it introduces the consequence (illness → he didn't come). In position 1 the Präteritum verb *kam* follows directly, then *er*; *nicht* closes the sentence.",
+      "pattern": "Grund. **Deswegen** + Verb (Prät.) + Subjekt …",
+      "mistake": {"wrong": "Er war krank. Wegen kam er nicht.", "why": "*wegen* is a preposition and needs a noun (*wegen der Krankheit*). As a connector that refers back to a whole sentence you need *deswegen*."},
+      "examples": [
+        {"de": "Der Flug war ausgebucht. Deswegen sind wir mit dem Zug gefahren.", "en": "The flight was fully booked. That's why we went by train."},
+        {"de": "Die Straße war gesperrt. Deswegen mussten wir einen Umweg fahren.", "en": "The road was closed. So we had to take a detour."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Es ist spät. {{c1::Außerdem}} bin ich müde.",
+      "en": "It's late. Besides, I'm tired.",
+      "focus": "zusätzliches Argument",
+      "explanation": "Two arguments point in the same direction (both are reasons to stop). **Außerdem** (besides, moreover) adds the second one. It fills position 1, so *bin* follows directly, then *ich*.",
+      "pattern": "Argument 1. **Außerdem** + Verb + Subjekt …",
+      "mistake": {"wrong": "Es ist spät. Außerdem ich bin müde.", "why": "*außerdem* is not a conjunction like *und*. It takes position 1 itself, so the verb must follow: *Außerdem bin ich müde*."},
+      "examples": [
+        {"de": "Der Job ist gut bezahlt. Außerdem sind die Kollegen nett.", "en": "The job is well paid. Besides, the colleagues are nice."},
+        {"de": "Ich habe keine Zeit. Außerdem habe ich kein Geld.", "en": "I have no time. And besides, I have no money."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Mach erst die Hausaufgaben, {{c1::dann}} kannst du fernsehen.",
+      "en": "Do your homework first, then you can watch TV.",
+      "focus": "nächster Schritt · nach Imperativ",
+      "explanation": "*erst* in the first clause marks the first step, and **dann** (then) introduces the next one. *dann* fills position 1, so the modal verb *kannst* follows directly, *du* comes after it, and the infinitive *fernsehen* goes to the end.",
+      "pattern": "Imperativ + erst …, **dann** + Modalverb + Subj. … Infinitiv",
+      "mistake": {"wrong": "Mach erst die Hausaufgaben, denn kannst du fernsehen.", "why": "*denn* is a conjunction meaning *because* and stands in position 0. For the next step in time use *dann*."},
+      "examples": [
+        {"de": "Räum erst dein Zimmer auf, dann darfst du rausgehen.", "en": "Tidy your room first, then you can go out."},
+        {"de": "Lies erst die Anleitung, dann kannst du den Schrank aufbauen.", "en": "Read the instructions first, then you can put the wardrobe together."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie hat viel gelernt. {{c1::Trotzdem}} hat sie die Prüfung nicht bestanden.",
+      "en": "She studied a lot. Even so, she didn't pass the exam.",
+      "focus": "unerwartetes Ergebnis · Perfekt",
+      "explanation": "A lot of studying should lead to success, so **Trotzdem** marks the unexpected result. In the Perfekt the auxiliary *hat* takes position 2 after the connector, *sie* follows, and the participle *bestanden* closes the Satzklammer. The more formal *Dennoch* is also correct here.",
+      "pattern": "**Trotzdem** + hat + Subj. … Partizip II",
+      "mistake": {"wrong": "Sie hat viel gelernt. Obwohl hat sie die Prüfung nicht bestanden.", "why": "*obwohl* is a conjunction that opens a Nebensatz with the obstacle (*Obwohl sie viel gelernt hat, …*). It cannot stand alone in position 1 of a main clause; the adverb is *trotzdem*."},
+      "examples": [
+        {"de": "Wir sind früh losgefahren. Trotzdem haben wir den Flug verpasst.", "en": "We set off early. Even so, we missed the flight."},
+        {"de": "Er hat sich entschuldigt. Trotzdem hat sie ihm nicht verziehen.", "en": "He apologised. Even so, she didn't forgive him."}
+      ],
+      "words": [{"de": "bestehen", "en": "to pass (an exam)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich habe Hunger. {{c1::Darum}} koche ich jetzt.",
+      "en": "I'm hungry. That's why I'm cooking now.",
+      "focus": "Folge · gesprochene Sprache",
+      "explanation": "**Darum** is a synonym of *deshalb/deswegen* and is very common in spoken German. It points back to the reason (*Hunger*) and introduces the consequence. In position 1 → *koche ich*.",
+      "pattern": "Grund. **Darum** + Verb + Subjekt …",
+      "mistake": {"wrong": "Ich habe Hunger, darum ich jetzt koche.", "why": "*darum* is an adverb and does not send the verb to the end. The verb follows it directly: *darum koche ich jetzt*."},
+      "examples": [
+        {"de": "Es ist schon dunkel. Darum machen wir das Licht an.", "en": "It's already dark. So we're switching the light on."},
+        {"de": "Mein Handy ist kaputt. Darum rufe ich dich vom Festnetz an.", "en": "My mobile is broken. That's why I'm calling you from the landline."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Geh früher schlafen, {{c1::sonst}} bist du morgen müde.",
+      "en": "Go to bed earlier, otherwise you'll be tired tomorrow.",
+      "focus": "Rat + negative Folge",
+      "explanation": "The imperative gives advice, and **sonst** names the result if you ignore it: if you don't go to bed earlier, you'll be tired. *sonst* in position 1 → *bist du*. The time word *morgen* gives future meaning, so the Präsens is enough.",
+      "pattern": "Imperativ, **sonst** + Verb + Subjekt …",
+      "mistake": {"wrong": "Geh früher schlafen, wenn nicht bist du morgen müde.", "why": "This copies English *if not*. *wenn nicht* needs a full Nebensatz (*wenn du nicht früher schlafen gehst*). The short connector is *sonst*."},
+      "examples": [
+        {"de": "Trink mehr Wasser, sonst bekommst du Kopfschmerzen.", "en": "Drink more water, otherwise you'll get a headache."},
+        {"de": "Melde dich bis Freitag an, sonst ist der Kurs voll.", "en": "Register by Friday, otherwise the course will be full."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich kaufe ein. {{c1::Danach}} koche ich.",
+      "en": "I'm going shopping. Afterwards I'll cook.",
+      "focus": "Reihenfolge · kurzer Hauptsatz",
+      "explanation": "Two steps in time: shopping, then cooking. **Danach** points back to the first action. It fills position 1, so *koche* comes directly after it and *ich* follows; a clause with only verb and subject is complete. *Dann* and *Anschließend* also fit this gap.",
+      "pattern": "Handlung 1. **Danach** + Verb + Subjekt.",
+      "mistake": {"wrong": "Ich kaufe ein. Nach koche ich.", "why": "*nach* is a preposition and needs a noun (*nach dem Einkaufen*). To refer back to the whole first sentence you need the adverb *danach*."},
+      "examples": [
+        {"de": "Wir räumen auf. Danach schauen wir einen Film.", "en": "We'll tidy up. Afterwards we'll watch a film."},
+        {"de": "Ich jogge eine Stunde. Danach dusche ich.", "en": "I jog for an hour. Afterwards I have a shower."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie ist krank. {{c1::Trotzdem}} arbeitet sie.",
+      "en": "She's ill. Still, she's working.",
+      "focus": "Gegensatz · Pronomen nach dem Verb",
+      "explanation": "Illness would normally keep her at home; the connector shows that she works anyway. **Trotzdem** fills position 1, so the verb *arbeitet* follows and the pronoun *sie* comes after it. With the adverb in the Mittelfeld: *Sie arbeitet trotzdem.* *Dennoch* gives the same meaning in a more formal style.",
+      "pattern": "Hindernis. **Trotzdem** + Verb + Pronomen.",
+      "mistake": {"wrong": "Sie ist krank. Trotzdem sie arbeitet.", "why": "Even a short subject pronoun cannot stand between the adverb and the verb. Position 2 is always the finite verb: *Trotzdem arbeitet sie*."},
+      "examples": [
+        {"de": "Das Wasser ist kalt. Trotzdem schwimmen die Kinder.", "en": "The water is cold. The children are swimming anyway."},
+        {"de": "Der Laden ist teuer. Trotzdem kaufen viele Leute dort ein.", "en": "The shop is expensive. Still, a lot of people shop there."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Er hat keinen Schlüssel. {{c1::Deshalb}} kann er nicht ins Haus.",
+      "en": "He has no key. That's why he can't get into the house.",
+      "focus": "Folge · Modalverb",
+      "explanation": "The connector introduces the consequence of having no key. With a modal verb, *kann* takes position 2 right after **Deshalb** and *er* follows. In speech the verb of motion is often left out after a modal: *kann nicht ins Haus* = *kann nicht ins Haus gehen*. The synonyms *Deswegen, Darum* and *Daher* are also correct here.",
+      "pattern": "**Deshalb** + Modalverb + Subjekt …",
+      "mistake": {"wrong": "Er hat keinen Schlüssel. Deshalb er kann nicht ins Haus.", "why": "After *deshalb* in position 1 the finite verb comes next, here the modal verb: *Deshalb kann er*."},
+      "examples": [
+        {"de": "Sie hat ihren Pass verloren. Deshalb kann sie nicht fliegen.", "en": "She has lost her passport. So she can't fly."},
+        {"de": "Wir haben kein Auto. Deshalb müssen wir den Bus nehmen.", "en": "We don't have a car. So we have to take the bus."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Es ist kalt. {{c1::Außerdem}} regnet es.",
+      "en": "It's cold. And it's raining, too.",
+      "focus": "Ergänzung · Wetterverb",
+      "explanation": "Two facts about the weather point in the same direction. **Außerdem** adds the second one. In position 1 the verb *regnet* follows, then the weather subject *es*, which can never be left out.",
+      "pattern": "Fakt 1. **Außerdem** + Verb + es.",
+      "mistake": {"wrong": "Es ist kalt. Außerdem regnet.", "why": "*es* is the obligatory subject of *regnen*. Even after an adverb in position 1 it must appear: *Außerdem regnet es*."},
+      "examples": [
+        {"de": "Das Hotel liegt zentral. Außerdem ist es günstig.", "en": "The hotel is central. It's also cheap."},
+        {"de": "Ich bin erkältet. Außerdem habe ich Kopfschmerzen.", "en": "I have a cold. On top of that, I have a headache."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Zuerst}} müssen wir tanken, dann fahren wir los.",
+      "en": "First we have to fill up, then we'll set off.",
+      "focus": "erster Schritt · zwei Adverbien",
+      "explanation": "**Zuerst** marks the first step, *dann* the second. Both are adverbs in position 1 of their clause, so the verb comes directly after each: *müssen wir*, *fahren wir*. The prefix *los* of *losfahren* goes to the end. The shorter *Erst* is also possible here.",
+      "pattern": "**Zuerst** + Verb + Subj. …, dann + Verb + Subj. …",
+      "mistake": {"wrong": "Zuerst wir müssen tanken, dann wir fahren los.", "why": "Both *zuerst* and *dann* are in position 1, so each clause needs the verb right after the adverb: *Zuerst müssen wir …, dann fahren wir los*."},
+      "examples": [
+        {"de": "Zuerst kochen wir das Wasser, dann geben wir die Nudeln dazu.", "en": "First we boil the water, then we add the pasta."},
+        {"de": "Zuerst muss ich duschen, dann können wir frühstücken.", "en": "First I have to shower, then we can have breakfast."}
+      ],
+      "words": [{"de": "tanken", "en": "to fill up (with fuel)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich kann nicht kommen. {{c1::Jedoch}} habe ich es versucht.",
+      "en": "I can't come. I did try, however.",
+      "focus": "Gegensatz · formell",
+      "explanation": "**Jedoch** (however) marks a contrast and is more formal than *aber*. In position 1 it is followed by the verb: *habe ich*; the participle *versucht* goes to the end. Unlike *aber*, *jedoch* can fill position 1 and cause inversion. It can also stand in the Mittelfeld: *Ich habe es jedoch versucht.* *Allerdings* is also correct in this gap.",
+      "pattern": "Satz. **Jedoch** + Verb + Subjekt …",
+      "mistake": {"wrong": "Ich kann nicht kommen, jedoch ich es versucht habe.", "why": "*jedoch* never opens a Nebensatz, so the verb does not go to the end. Use *Jedoch habe ich es versucht*."},
+      "examples": [
+        {"de": "Das Angebot klingt gut. Jedoch ist der Preis zu hoch.", "en": "The offer sounds good. However, the price is too high."},
+        {"de": "Wir haben lange gesucht. Jedoch haben wir nichts gefunden.", "en": "We searched for a long time. However, we found nothing."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die Geschäfte sind zu. {{c1::Trotzdem}} versuche ich es.",
+      "en": "The shops are closed. I'll try anyway.",
+      "focus": "Gegensatz · Subjekt- und Objektpronomen",
+      "explanation": "Closed shops would make the attempt pointless; the connector shows that the speaker tries anyway. **Trotzdem** in position 1 → *versuche*, then the subject pronoun *ich*, then the object pronoun *es*. *Dennoch* would also be correct, but sounds more formal.",
+      "pattern": "**Trotzdem** + Verb + Subj.-Pron. + Obj.-Pron.",
+      "mistake": {"wrong": "Die Geschäfte sind zu. Trotzdem ich versuche es.", "why": "The adverb fills position 1, so *ich* cannot come before the verb. Correct order: *Trotzdem versuche ich es*."},
+      "examples": [
+        {"de": "Das Restaurant ist ausgebucht. Trotzdem frage ich nach einem Tisch.", "en": "The restaurant is fully booked. I'll ask for a table anyway."},
+        {"de": "Die Chancen sind klein. Trotzdem bewerbe ich mich.", "en": "The chances are small. I'm applying anyway."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Er war pünktlich. {{c1::Trotzdem}} war der Chef sauer.",
+      "en": "He was on time. Even so, the boss was annoyed.",
+      "focus": "Gegensatz · neues Subjekt",
+      "explanation": "Being on time should keep the boss happy, so the connector marks a surprising result. After **Trotzdem** the verb *war* follows, and the subject is now a noun from a new person: *der Chef*. The subject of the second clause does not have to be the same as in the first. In formal style *Dennoch* is also correct.",
+      "pattern": "**Trotzdem** + Verb + Nomen-Subjekt …",
+      "mistake": {"wrong": "Er war pünktlich. Trotzdem der Chef war sauer.", "why": "A noun subject also comes after the verb when an adverb is in position 1: *Trotzdem war der Chef sauer*."},
+      "examples": [
+        {"de": "Die Party war toll. Trotzdem sind die Gäste früh gegangen.", "en": "The party was great. Even so, the guests left early."},
+        {"de": "Wir haben laut geklingelt. Trotzdem hat der Nachbar nicht aufgemacht.", "en": "We rang loudly. Even so, the neighbour didn't open the door."}
+      ],
+      "words": [{"de": "sauer (ugs.)", "en": "annoyed, cross"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Iss langsam, {{c1::sonst}} bekommst du Bauchweh.",
+      "en": "Eat slowly, otherwise you'll get a stomach ache.",
+      "focus": "Warnung · nach Imperativ",
+      "explanation": "*Iss* is the du-imperative of *essen* (e → i). **sonst** introduces the consequence if you do not follow the advice. As an adverb in position 1 it is followed by *bekommst*, then *du*.",
+      "pattern": "Imperativ, **sonst** + Verb + du …",
+      "mistake": {"wrong": "Iss langsam, sonst du bekommst Bauchweh.", "why": "*sonst* is not a conjunction in position 0. It takes position 1, so the verb comes before *du*: *sonst bekommst du*."},
+      "examples": [
+        {"de": "Fahr vorsichtig, sonst hast du noch einen Unfall.", "en": "Drive carefully, otherwise you'll end up having an accident."},
+        {"de": "Sprich lauter, sonst versteht dich niemand.", "en": "Speak louder, otherwise nobody will understand you."}
+      ],
+      "words": [{"de": "das Bauchweh", "en": "stomach ache"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir haben viel gearbeitet. {{c1::Deshalb}} sind wir erschöpft.",
+      "en": "We've worked a lot. That's why we're exhausted.",
+      "focus": "Folge · Ursache in der Vergangenheit",
+      "explanation": "The connector links a past cause (Perfekt) with a present result. **Deshalb** in position 1 is followed by *sind*, then *wir*; *erschöpft* is a predicative adjective here. *Deswegen, Darum* and *Daher* fit the gap as well.",
+      "pattern": "Ursache (Perfekt). **Deshalb** + Verb + Subj. …",
+      "mistake": {"wrong": "Wir haben viel gearbeitet, deshalb wir sind erschöpft.", "why": "A comma does not change the rule: *deshalb* is still position 1 of the second main clause, so *sind* must follow it directly."},
+      "examples": [
+        {"de": "Ich habe schlecht geschlafen. Deshalb bin ich heute so müde.", "en": "I slept badly. That's why I'm so tired today."},
+        {"de": "Es hat stark geschneit. Deshalb sind die Straßen glatt.", "en": "It snowed heavily. That's why the roads are slippery."}
+      ],
+      "words": [{"de": "erschöpft", "en": "exhausted"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Der Zug hatte Verspätung. Deshalb {{c1::bin ich::ich · sein}} zu spät gekommen.",
+      "en": "The train was delayed. That's why I arrived late.",
+      "focus": "Folge · Perfekt mit *sein*",
+      "explanation": "*Deshalb* fills position 1, so the finite verb comes next. In the Perfekt the finite verb is the auxiliary, and *kommen* forms its Perfekt with *sein* → **bin ich**. The participle *gekommen* goes to the end.",
+      "pattern": "Deshalb + Hilfsverb + Subj. … Partizip II",
+      "mistake": {"wrong": "Der Zug hatte Verspätung. Deshalb ich bin zu spät gekommen.", "why": "In position 2 there must be the finite verb, here the auxiliary *bin*. The subject *ich* follows it."},
+      "examples": [
+        {"de": "Mein Wecker hat nicht geklingelt. Deshalb habe ich verschlafen.", "en": "My alarm didn't go off. That's why I overslept."},
+        {"de": "Es gab einen Stau. Deswegen sind wir erst um zehn angekommen.", "en": "There was a traffic jam. That's why we didn't arrive until ten."}
+      ],
+      "words": [{"de": "die Verspätung (-en)", "en": "delay"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich komme heute nicht mit, ich bin {{c1::nämlich::Begründung}} krank.",
+      "en": "I'm not coming along today – I'm ill, you see.",
+      "focus": "Begründung · Adverb im Mittelfeld",
+      "explanation": "**nämlich** gives the reason for the statement before (like *denn*), but it is an adverb that can never stand in position 1. It goes into the Mittelfeld after the finite verb: *ich bin nämlich krank*. The clause with *nämlich* always comes second.",
+      "pattern": "Aussage, Subj. + Verb + **nämlich** …",
+      "mistake": {"wrong": "Ich komme heute nicht mit, nämlich bin ich krank.", "why": "*nämlich* cannot fill the Vorfeld. Put the subject first and *nämlich* after the verb: *ich bin nämlich krank*."},
+      "examples": [
+        {"de": "Wir müssen leise sein, das Baby schläft nämlich.", "en": "We have to be quiet – the baby's asleep, you see."},
+        {"de": "Er spricht sehr gut Italienisch, seine Mutter kommt nämlich aus Neapel.", "en": "He speaks very good Italian; his mother is from Naples, you see."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Hotel war schön. Das Essen war {{c1::allerdings::Einschränkung}} nicht besonders gut.",
+      "en": "The hotel was nice. The food, however, wasn't particularly good.",
+      "focus": "Einschränkung · Adverb im Mittelfeld",
+      "explanation": "**allerdings** limits the positive first statement. Here the subject *Das Essen* keeps position 1, and *allerdings* stands in the Mittelfeld after the verb *war*. This position is very common for *allerdings* and *jedoch*, so no inversion is needed. *jedoch* is equally correct in this gap.",
+      "pattern": "Subj. + Verb + **allerdings** + …",
+      "mistake": {"wrong": "Das Hotel war schön. Allerdings das Essen war nicht besonders gut.", "why": "If *allerdings* is in position 1, the verb must follow it: *Allerdings war das Essen …*. Otherwise put it after the verb: *Das Essen war allerdings …*."},
+      "examples": [
+        {"de": "Die Wohnung ist hell. Sie ist allerdings ziemlich laut.", "en": "The flat is bright. It is quite noisy, though."},
+        {"de": "Der Kurs ist kostenlos. Man muss sich allerdings vorher anmelden.", "en": "The course is free. You do have to register in advance, though."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Sie hatte keine Lust auf Kino. {{c1::Stattdessen::Ersatz}} sind wir spazieren gegangen.",
+      "en": "She didn't feel like going to the cinema. Instead, we went for a walk.",
+      "focus": "Ersatz für den Plan · Perfekt",
+      "explanation": "**Stattdessen** (instead) says what happened in place of the first plan. It is an adverb in position 1, so the auxiliary *sind* follows, then *wir*; *spazieren gegangen* closes the Satzklammer. Do not confuse it with *statt … zu* + infinitive.",
+      "pattern": "**Stattdessen** + Hilfsverb + Subj. … Partizip II",
+      "mistake": {"wrong": "Sie hatte keine Lust auf Kino. Stattdessen wir sind spazieren gegangen.", "why": "*stattdessen* fills position 1, so the auxiliary *sind* must come directly after it: *Stattdessen sind wir …*."},
+      "examples": [
+        {"de": "Der Flug wurde gestrichen. Stattdessen haben wir den Nachtzug genommen.", "en": "The flight was cancelled. Instead, we took the night train."},
+        {"de": "Er hat nicht gelernt. Stattdessen hat er den ganzen Abend gespielt.", "en": "He didn't study. Instead, he played games all evening."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Mein Bruder wohnt auf dem Land, ich wohne {{c1::dagegen::Kontrast}} mitten in der Stadt.",
+      "en": "My brother lives in the countryside; I, on the other hand, live right in the city centre.",
+      "focus": "Kontrast zwischen zwei Personen",
+      "explanation": "**dagegen** (on the other hand, by contrast) compares two people or things that are different. The new subject *ich* is in position 1, and *dagegen* stands in the Mittelfeld after the verb. It can also start the clause with inversion: *Dagegen wohne ich mitten in der Stadt.* *hingegen* has the same meaning and position and is also correct here.",
+      "pattern": "A + Verb …, B + Verb + **dagegen** …",
+      "mistake": {"wrong": "Mein Bruder wohnt auf dem Land, dagegen ich wohne mitten in der Stadt.", "why": "*dagegen* is an adverb, not a conjunction in position 0. In front position it needs the verb next: *dagegen wohne ich*."},
+      "examples": [
+        {"de": "Im Norden regnet es, im Süden scheint dagegen die Sonne.", "en": "It's raining in the north; in the south, by contrast, the sun is shining."},
+        {"de": "Tim isst gern Fleisch, seine Schwester lebt dagegen vegan.", "en": "Tim likes eating meat; his sister, on the other hand, is vegan."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wir müssen uns beeilen, sonst {{c1::fährt der Bus::der Bus · abfahren}} ohne uns ab.",
+      "en": "We have to hurry, otherwise the bus will leave without us.",
+      "focus": "negative Folge · Nomen als Subjekt",
+      "explanation": "*sonst* fills position 1, so the finite verb comes next and the noun subject follows it: **fährt der Bus**. *abfahren* is separable, so the prefix *ab* goes to the very end of the clause.",
+      "pattern": "…, sonst + Verb + Nomen-Subjekt … Präfix",
+      "mistake": {"wrong": "Wir müssen uns beeilen, sonst der Bus fährt ohne uns ab.", "why": "*sonst* is position 1. The verb *fährt* must stand in position 2, before the subject *der Bus*."},
+      "examples": [
+        {"de": "Wir müssen jetzt bestellen, sonst schließt die Küche.", "en": "We need to order now, otherwise the kitchen will close."},
+        {"de": "Gieß die Blumen, sonst gehen sie ein.", "en": "Water the flowers, otherwise they'll die."}
+      ],
+      "words": [{"de": "abfahren", "en": "to leave, to depart"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich habe die Prüfung bestanden, und deshalb {{c1::feiern wir::wir · feiern}} heute Abend.",
+      "en": "I passed the exam, and so we're celebrating tonight.",
+      "focus": "*und* + Adverb · Wortstellung",
+      "explanation": "*und* is a conjunction in position 0 and does not count. *deshalb* after it is the real position 1, so the verb follows directly: **feiern wir**. Also correct, with the adverb in the Mittelfeld: *…, und wir feiern deshalb heute Abend*.",
+      "pattern": "…, und + deshalb + Verb + Subj. …",
+      "mistake": {"wrong": "Ich habe die Prüfung bestanden, und deshalb wir feiern heute Abend.", "why": "*und* takes no position, but *deshalb* does. After *und deshalb* the verb must come before the subject."},
+      "examples": [
+        {"de": "Morgen ist Feiertag, und deshalb haben die Geschäfte zu.", "en": "Tomorrow is a public holiday, and so the shops are closed."},
+        {"de": "Sie hat ein Stipendium bekommen, und deshalb kann sie in Paris studieren.", "en": "She got a scholarship, and so she can study in Paris."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Sie hat Fieber, aber sie geht {{c1::trotzdem::Gegensatz}} zur Arbeit.",
+      "en": "She has a temperature, but she's going to work anyway.",
+      "focus": "Gegensatz · Adverb im Mittelfeld",
+      "explanation": "*aber* (position 0) opens the second clause, *sie* is in position 1 and the verb *geht* in position 2. **trotzdem** is placed in the Mittelfeld after the verb. The adverb does not have to stand first: *…, aber trotzdem geht sie zur Arbeit* is also correct.",
+      "pattern": "…, aber + Subj. + Verb + **trotzdem** …",
+      "mistake": {"wrong": "Sie hat Fieber, aber trotzdem sie geht zur Arbeit.", "why": "After *aber trotzdem*, *trotzdem* is position 1, so the verb must follow: *aber trotzdem geht sie*. Or keep *sie* first: *aber sie geht trotzdem*."},
+      "examples": [
+        {"de": "Das Konzert war teuer, aber wir gehen trotzdem hin.", "en": "The concert was expensive, but we're going anyway."},
+        {"de": "Es ist schon spät, aber ich rufe ihn trotzdem an.", "en": "It's already late, but I'll call him anyway."}
+      ],
+      "words": [{"de": "das Fieber", "en": "fever, temperature"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Zuerst schälst du die Kartoffeln, danach {{c1::kochst du::du · kochen}} sie etwa zwanzig Minuten.",
+      "en": "First you peel the potatoes, then you boil them for about twenty minutes.",
+      "focus": "Anleitung · zweiter Schritt",
+      "explanation": "In instructions *zuerst … danach* gives the order of the steps. *danach* fills position 1 of the second clause, so the verb follows directly: **kochst du**. The object pronoun *sie* (= *die Kartoffeln*) comes after the subject.",
+      "pattern": "Zuerst + Verb + Subj. …, danach + Verb + Subj. …",
+      "mistake": {"wrong": "Zuerst schälst du die Kartoffeln, danach du kochst sie etwa zwanzig Minuten.", "why": "*danach* takes position 1 just like *zuerst*. The verb *kochst* must come right after it."},
+      "examples": [
+        {"de": "Zuerst füllst du das Formular aus, danach gibst du es am Schalter ab.", "en": "First you fill in the form, then you hand it in at the counter."},
+        {"de": "Zuerst wäschst du den Salat, danach schneidest du ihn klein.", "en": "First you wash the lettuce, then you chop it up."}
+      ],
+      "words": [{"de": "schälen", "en": "to peel"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Das Museum ist montags geschlossen. Wir gehen {{c1::also::Folge}} am Dienstag hin.",
+      "en": "The museum is closed on Mondays, so we'll go on Tuesday.",
+      "focus": "Schlussfolgerung · falscher Freund",
+      "explanation": "**also** in German means *so, therefore*: a conclusion from the first sentence. It never means English *also* (that is *auch*). Here it stands in the Mittelfeld; in position 1 it causes inversion like *deshalb*: *Also gehen wir am Dienstag hin.* *deshalb, deswegen* or *daher* would also be grammatical in this gap; the focus asks for the false friend.",
+      "pattern": "Fakt. Subj. + Verb + **also** …",
+      "mistake": {"wrong": "Das Museum ist montags geschlossen, also wir am Dienstag hingehen.", "why": "*also* is an adverb, not a subordinating conjunction. The verb does not go to the end: *also gehen wir am Dienstag hin*."},
+      "examples": [
+        {"de": "Der Zug fällt aus. Wir nehmen also den Bus.", "en": "The train is cancelled, so we'll take the bus."},
+        {"de": "Es regnet nicht mehr. Wir können also los.", "en": "It's stopped raining, so we can go."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Brücke wird saniert. Daher {{c1::kommt es::es · kommen}} zu Verspätungen im Busverkehr.",
+      "en": "The bridge is being renovated, so there are delays in the bus service.",
+      "focus": "Folge · formeller Stil",
+      "explanation": "*Daher* is a more formal synonym of *deshalb*, typical of news and official notices. It fills position 1, so the verb *kommt* follows directly and the subject *es* comes after it: **kommt es**. *Es kommt zu* + Dativ means *something happens / occurs*.",
+      "pattern": "Daher + Verb + es + zu + Dativ",
+      "mistake": {"wrong": "Die Brücke wird saniert. Daher es kommt zu Verspätungen im Busverkehr.", "why": "*daher* is position 1, so the verb *kommt* must stand before *es*."},
+      "examples": [
+        {"de": "Die Nachfrage ist stark gestiegen. Daher erhöhen wir die Preise.", "en": "Demand has risen sharply. We are therefore raising our prices."},
+        {"de": "Der Server wird gewartet. Daher ist die Website heute nicht erreichbar.", "en": "The server is undergoing maintenance, so the website is unavailable today."}
+      ],
+      "words": [{"de": "sanieren", "en": "to renovate, to refurbish"}, {"de": "es kommt zu (+ Dat.)", "en": "there is / there are (sth. happens)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Er hat die Stelle bekommen, {{c1::obwohl::Gegensatz · Nebensatz}} er wenig Erfahrung hat.",
+      "en": "He got the job although he has little experience.",
+      "focus": "Konjunktion statt Adverb · Verb am Ende",
+      "explanation": "**obwohl** is a subordinating conjunction: it opens a Nebensatz with the obstacle, and the verb *hat* goes to the end. The adverb *trotzdem* expresses the same idea from the other side, in a main clause with inversion: *Er hat wenig Erfahrung. Trotzdem hat er die Stelle bekommen.*",
+      "pattern": "Hauptsatz, **obwohl** + Subj. … Verb (Ende)",
+      "mistake": {"wrong": "Er hat die Stelle bekommen, trotzdem er wenig Erfahrung hat.", "why": "*trotzdem* cannot open a Nebensatz. With the verb at the end you need *obwohl*; with *trotzdem* the obstacle comes first: *Er hat wenig Erfahrung, trotzdem hat er …*."},
+      "examples": [
+        {"de": "Sie ist gekommen, obwohl sie krank war.", "en": "She came although she was ill."},
+        {"de": "Wir sind gewandert, obwohl es geregnet hat.", "en": "We went hiking although it was raining."}
+      ],
+      "words": [{"de": "die Stelle (-n)", "en": "job, position"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the contrast between the three ways to link a reason and a result.",
+      "prompt": "What is the word order with weil, with denn and with deshalb?",
+      "answer": "**weil** opens a Nebensatz → verb at the **end** (*weil ich müde bin*). **denn** is a conjunction in **position 0** → normal order (*denn ich bin müde*). **deshalb** is an adverb in **position 1** → verb directly after it (*deshalb gehe ich ins Bett*). *weil/denn* introduce the reason, *deshalb* the result.",
+      "explanation": "All three express the same relation, but each belongs to a different word class. Ask: does the word take a place in the clause? *denn* does not, *deshalb* does, and *weil* turns the clause into a Nebensatz.",
+      "examples": [
+        {"de": "Ich bleibe zu Hause, weil ich erkältet bin.", "en": "I'm staying at home because I have a cold."},
+        {"de": "Ich bin erkältet. Deshalb bleibe ich zu Hause.", "en": "I have a cold. So I'm staying at home."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the position of the adverb.",
+      "prompt": "Must a connecting adverb like trotzdem or deshalb always stand in position 1?",
+      "answer": "No. It can stand in **position 1** (then verb + subject follow) or in the **Mittelfeld** after the finite verb (and after pronouns): *Trotzdem gehe ich hin.* = *Ich gehe trotzdem hin.* Only *nämlich* is never in position 1.",
+      "explanation": "Position 1 puts more stress on the connection. In the Mittelfeld the adverb usually comes after the subject and pronouns but before *nicht* and before most other information.",
+      "examples": [
+        {"de": "Deshalb habe ich dich angerufen.", "en": "That's why I called you."},
+        {"de": "Ich habe dich deshalb angerufen.", "en": "That's the reason I called you."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two words.",
+      "prompt": "What is the difference between trotzdem and obwohl?",
+      "answer": "**obwohl** is a subordinating conjunction and introduces the **obstacle** in a Nebensatz (verb at the end). **trotzdem** is an adverb and introduces the **unexpected result** in a main clause (verb in position 2).",
+      "explanation": "Same meaning, opposite direction: *Obwohl es kalt ist, gehe ich schwimmen.* = *Es ist kalt. Trotzdem gehe ich schwimmen.* The two words are never combined in one clause.",
+      "examples": [
+        {"de": "Obwohl der Test schwer war, haben alle bestanden.", "en": "Although the test was difficult, everyone passed."},
+        {"de": "Der Test war schwer. Trotzdem haben alle bestanden.", "en": "The test was difficult. Even so, everyone passed."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about nämlich.",
+      "prompt": "How is nämlich different from denn, although both give a reason?",
+      "answer": "**denn** stands in **position 0** at the start of the second clause. **nämlich** is an adverb in the **Mittelfeld**, after the finite verb, and never in position 1. Both clauses with the reason come second.",
+      "explanation": "*Ich komme nicht, denn ich habe keine Zeit.* = *Ich komme nicht, ich habe nämlich keine Zeit.* *nämlich* sounds more spoken and often adds the tone *you see*.",
+      "examples": [
+        {"de": "Wir nehmen ein Taxi, denn es ist schon spät.", "en": "We're taking a taxi because it's already late."},
+        {"de": "Wir nehmen ein Taxi, es ist nämlich schon spät.", "en": "We're taking a taxi – it's already late, you see."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about two easily confused connectors.",
+      "prompt": "What do German also and sonst mean, and what is the typical mistake?",
+      "answer": "**also** = *so, therefore* (a conclusion), not English *also* (= *auch*). **sonst** = *otherwise, or else* (negative consequence); in questions it can also mean *else* (*Sonst noch etwas?*).",
+      "explanation": "English speakers often write *also* when they mean *auch*. With the meaning *therefore*, *also* behaves like *deshalb*: position 1 with inversion or Mittelfeld. *sonst* in position 1 also causes inversion: *sonst kommen wir zu spät*.",
+      "examples": [
+        {"de": "Es ist niemand zu Hause. Also gehen wir wieder.", "en": "Nobody's home. So we'll leave again."},
+        {"de": "Wir müssen los, sonst kommen wir zu spät.", "en": "We have to go, otherwise we'll be late."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the connector that fits the meaning and the word order.",
+      "prompt": "Ich habe kein Geld mehr. ___ kann ich nicht mit in den Urlaub fahren.",
+      "options": ["Deshalb", "Trotzdem", "Obwohl", "Weil"],
+      "correct": "Deshalb",
+      "answer": "Ich habe kein Geld mehr. Deshalb kann ich nicht mit in den Urlaub fahren.",
+      "explanation": "No money → no holiday is a consequence → *Deshalb*, and the verb *kann* follows directly. *Trotzdem* would mean an unexpected result. *Obwohl* and *Weil* open a Nebensatz with the verb at the end, but here *kann* is in position 2."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the connector that fits the meaning.",
+      "prompt": "Zieh eine Jacke an, ___ erkältest du dich.",
+      "options": ["sonst", "deshalb", "trotzdem", "außerdem"],
+      "correct": "sonst",
+      "answer": "Zieh eine Jacke an, sonst erkältest du dich.",
+      "explanation": "The second part says what happens if you do not follow the advice → *sonst*. *deshalb* would say the jacket causes the cold, *trotzdem* would mean you catch a cold despite the jacket, and *außerdem* only adds a fact."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the connector that fits the meaning.",
+      "prompt": "Das Wetter war schlecht. ___ hatten wir viel Spaß.",
+      "options": ["Trotzdem", "Deshalb", "Sonst", "Weil"],
+      "correct": "Trotzdem",
+      "answer": "Das Wetter war schlecht. Trotzdem hatten wir viel Spaß.",
+      "explanation": "Bad weather would normally spoil the fun, so the result is unexpected → *Trotzdem*. *Deshalb* would make the bad weather the cause of the fun, *Sonst* needs a condition, and *Weil* would require the verb at the end."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe verschlafen. Deshalb ich habe den Bus verpasst.",
+      "answer": "Ich habe verschlafen. Deshalb habe ich den Bus verpasst.",
+      "explanation": "*deshalb* fills position 1, so the finite verb *habe* must come next and the subject *ich* after it."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es war sehr kalt, trotzdem wir sind schwimmen gegangen.",
+      "answer": "Es war sehr kalt, trotzdem sind wir schwimmen gegangen.",
+      "explanation": "The comma does not change anything: *trotzdem* is position 1 of the second main clause. The auxiliary *sind* follows it directly, then *wir*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich kann heute nicht kommen. Nämlich muss ich arbeiten.",
+      "answer": "Ich kann heute nicht kommen. Ich muss nämlich arbeiten.",
+      "explanation": "*nämlich* can never stand in position 1. Put the subject *ich* first, the verb second and *nämlich* in the Mittelfeld."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite as two main clauses: the reason first, then the result with deshalb.",
+      "prompt": "Weil das Restaurant voll war, haben wir zu Hause gegessen.",
+      "answer": "Das Restaurant war voll. Deshalb haben wir zu Hause gegessen.",
+      "explanation": "The *weil* clause becomes a main clause with the verb in position 2: *Das Restaurant war voll*. The result starts with *Deshalb*, followed directly by the auxiliary *haben* and the subject *wir*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite as two main clauses: the obstacle first, then the result with trotzdem.",
+      "prompt": "Obwohl er wenig geschlafen hat, ist er fit.",
+      "answer": "Er hat wenig geschlafen. Trotzdem ist er fit.",
+      "explanation": "The *obwohl* clause becomes a normal main clause: *Er hat wenig geschlafen*. In the result clause *Trotzdem* takes position 1, so the verb *ist* comes before *er*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Move the connector to position 1. Change the word order as needed.",
+      "prompt": "Wir haben den Termin trotzdem verschoben.",
+      "answer": "Trotzdem haben wir den Termin verschoben.",
+      "explanation": "When *trotzdem* moves from the Mittelfeld to position 1, the subject *wir* moves behind the finite verb *haben*. The participle *verschoben* stays at the end."
+    },
+    {
+      "key": "d15",
+      "type": "combine",
+      "instruction": "Join the sentences with sonst.",
+      "prompt": "Du musst dich bis Montag anmelden. Du kannst nicht teilnehmen.",
+      "answer": "Du musst dich bis Montag anmelden, sonst kannst du nicht teilnehmen.",
+      "explanation": "The second sentence is the negative consequence if the first does not happen → *sonst*. It takes position 1, so *kannst* follows directly and *du* after it; the infinitive *teilnehmen* stays at the end."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with deswegen (one sentence, with a comma).",
+      "prompt": "Er hat keinen Führerschein. Er fährt mit dem Fahrrad.",
+      "answer": "Er hat keinen Führerschein, deswegen fährt er mit dem Fahrrad.",
+      "explanation": "The second sentence is the consequence → *deswegen*. It is position 1 of the second main clause, so *fährt er* follows. A full stop instead of the comma is also correct."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Zuerst",
+      "prompt": "danach / essen / wir / zuerst / gehen / ins Kino / wir",
+      "answer": "Zuerst essen wir, danach gehen wir ins Kino.",
+      "explanation": "*Zuerst* and *danach* each fill position 1 of their clause, so the verb comes next in both: *essen wir*, *gehen wir*. The place *ins Kino* goes after the subject. The two steps can also change places: *Zuerst gehen wir ins Kino, danach essen wir.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Wohnung",
+      "prompt": "ist / sie / zu teuer / die Wohnung / außerdem / zu klein / ist",
+      "answer": "Die Wohnung ist zu klein, außerdem ist sie zu teuer.",
+      "explanation": "The first clause has normal order. In the second clause *außerdem* is position 1, so the verb *ist* follows and the pronoun *sie* comes after it. Also correct: *…, sie ist außerdem zu teuer*, and with the two adjectives swapped: *Die Wohnung ist zu teuer, außerdem ist sie zu klein.*"
+    }
+  ]
+}

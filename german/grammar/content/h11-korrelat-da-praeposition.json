@@ -1,0 +1,1184 @@
+{
+  "topic_id": "h11-korrelat-da-praeposition",
+  "level": "B2",
+  "title_de": "Präpositionale Ergänzungen mit Nebensatz: darauf, dass … / daran, … zu",
+  "title_en": "Prepositional complements as clauses: darauf, dass … / daran, … zu",
+  "rule": {
+    "summary": "Many verbs, adjectives and nouns have a fixed preposition (*sich freuen auf, stolz auf, Angst vor, der Grund für*). When the complement is a whole clause and not a noun, the preposition cannot stand alone. It turns into a pronominal adverb, the **Korrelat** *da(r)- + Präposition*, which points forward to the clause: *Ich freue mich **darauf**, dich zu sehen / dass du kommst*. The clause can be a **zu-Infinitiv** (same doer), a **dass**-clause (different subject), or an **ob**/**W**-clause (open question). With some verbs the Korrelat is required, with others it is optional.",
+    "table": "| Präposition | Korrelat | typical verbs, adjectives, nouns |\n|---|---|---|\n| auf | dar**auf** | sich freuen, warten, bestehen, achten, sich verlassen, ankommen · stolz, gespannt · der Hinweis |\n| an | dar**an** | denken, sich erinnern, sich gewöhnen, liegen, zweifeln · schuld |\n| über | dar**über** | sich freuen, sich ärgern, sprechen, sich streiten · froh · sich Gedanken machen |\n| um | dar**um** | es geht, sich kümmern, bitten |\n| in | dar**in** | bestehen (= consist in) |\n| von | da**von** | abhängen, träumen, überzeugen · überzeugt |\n| für | da**für** | sorgen, sich entscheiden, sich einsetzen · der Grund, die Voraussetzung |\n| zu | da**zu** | führen, beitragen, neigen · bereit |\n| vor | da**vor** | Angst haben, warnen |\n| mit | da**mit** | rechnen, aufhören, anfangen |",
+    "steps": [
+      "Find the fixed preposition of the verb, adjective or noun: *sich gewöhnen an, stolz auf, Angst vor, der Grund für*.",
+      "Form the Korrelat: **da-** + preposition, **dar-** if the preposition starts with a vowel (*darauf, daran, darüber, darum, darin* but *dafür, davon, dazu, davor, damit*).",
+      "Choose the clause: same doer as the main-clause subject (or as the object with *jdn. erinnern an, jdn. bitten um*) → **zu-Infinitiv**; different subject → **dass**; open yes/no question → **ob**; open W-question → **wann, wie, wer …**",
+      "Word order: the Korrelat stays in the Mittelfeld, before the Partizip II or infinitive at the end of the Satzklammer; the clause follows after a comma (*Ich habe mich lange **darauf** gefreut, dich zu sehen.*).",
+      "Decide whether the Korrelat may be left out. As a tendency it is optional with verbs of feeling, thinking and saying (*sich freuen, sich erinnern, Angst haben, überzeugt sein, sich entscheiden*), and required where the meaning depends on the preposition (*ankommen auf, abhängen von, bestehen auf/in, sorgen für, sich verlassen auf, liegen an, es geht um, führen zu*). If you are not sure, use it."
+    ],
+    "pitfalls": [
+      "Bare preposition before a clause: ✗ *Ich freue mich auf, dass du kommst.* → ✓ *Ich freue mich darauf, dass du kommst.*",
+      "Missing obligatory Korrelat: ✗ *Es kommt an, ob …* → ✓ *Es kommt darauf an, ob …*; ✗ *Er besteht, dass …* → ✓ *Er besteht darauf, dass …*",
+      "zu-Infinitiv with a different subject: ✗ *Ich warte darauf, die Firma zu antworten.* → ✓ *Ich warte darauf, dass die Firma antwortet.*",
+      "Mixing *dass* and *zu*: ✗ *Achte darauf, dass pünktlich zu sein.* → ✓ *Achte darauf, pünktlich zu sein.*",
+      "Wrong preposition in the Korrelat: ✗ *Angst davon* → ✓ *Angst davor*; ✗ *sich darauf freuen* for a past event → ✓ *sich darüber freuen*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Ich freue mich schon sehr {{c1::darauf::Korrelat · Zukunft}}, dich nächste Woche in Wien zu sehen.",
+      "en": "I'm really looking forward to seeing you in Vienna next week.",
+      "focus": "Korrelat · *sich freuen* + kommendes Ereignis",
+      "explanation": "*sich freuen auf* is for something in the future (*nächste Woche*); *sich freuen über* is for something that is happening or has happened. Before a clause the preposition becomes da(r) + Präposition, and *auf* starts with a vowel → **darauf**. The subject *ich* is also the person who will see you, so a zu-Infinitiv follows.",
+      "pattern": "sich freuen + darauf, + zu-Infinitiv (gleiches Subjekt)",
+      "mistake": {
+        "wrong": "Ich freue mich schon sehr darüber, dich nächste Woche in Wien zu sehen.",
+        "why": "*darüber* expresses joy about something present or past. The meeting is next week, so the anticipation needs *auf* → *darauf*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinder freuen sich darauf, im Sommer am Meer zu zelten.",
+          "en": "The children are looking forward to camping by the sea in the summer."
+        },
+        {
+          "de": "Wir freuen uns darauf, Sie bei der Eröffnung begrüßen zu dürfen.",
+          "en": "We look forward to welcoming you at the opening."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir haben uns sehr {{c1::darüber::Korrelat · schon passiert}} gefreut, dass unser Forschungsantrag bewilligt wurde.",
+      "en": "We were very pleased that our research proposal was approved.",
+      "focus": "Korrelat · *sich freuen* + Ereignis in der Vergangenheit",
+      "explanation": "The approval has already happened, so the joy is about it: *sich freuen über* → **darüber**. The subject *wir* differs from the subject of the clause (*unser Forschungsantrag*), so a dass-clause is needed. The Korrelat stands in the Mittelfeld before the Partizip *gefreut*; the dass-clause follows after the Satzklammer.",
+      "pattern": "sich freuen + darüber (Perfekt: … darüber gefreut), + dass-Satz",
+      "mistake": {
+        "wrong": "Wir haben uns sehr darauf gefreut, dass unser Forschungsantrag bewilligt wurde.",
+        "why": "*sich freuen auf* means looking forward to something that has not happened yet. The approval is a past event (*bewilligt wurde*), so the joy is *über* it → *darüber*. With *darauf* the sentence would say that you looked forward to an event that had already happened."
+      },
+      "examples": [
+        {
+          "de": "Sie hat sich riesig darüber gefreut, dass alle zu ihrem Geburtstag gekommen sind.",
+          "en": "She was thrilled that everyone came to her birthday party."
+        },
+        {
+          "de": "Ich freue mich sehr darüber, dass du die Stelle bekommen hast.",
+          "en": "I'm very happy that you got the job."
+        }
+      ],
+      "words": [
+        {
+          "de": "bewilligen",
+          "en": "to approve (funding, an application)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Er ist stolz darauf, die Meisterprüfung im ersten Anlauf {{c1::bestanden zu haben::bestehen}}.",
+      "en": "He is proud of having passed the master craftsman's exam at the first attempt.",
+      "focus": "Adjektiv + Korrelat · zu-Infinitiv der Vergangenheit",
+      "explanation": "*stolz sein auf* → Korrelat *darauf*. The person who is proud is also the person who passed, so a zu-Infinitiv replaces *dass er … bestanden hat*. The passing lies before the feeling, so the infinitive is in the Perfekt: Partizip II + *zu* + *haben* → **bestanden zu haben**.",
+      "pattern": "stolz darauf, + … Partizip II + zu haben/sein",
+      "mistake": {
+        "wrong": "Er ist stolz darauf, die Meisterprüfung im ersten Anlauf zu bestanden haben.",
+        "why": "In the Infinitiv Perfekt *zu* stands before the auxiliary, not before the Partizip II: *bestanden zu haben*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist froh darüber, rechtzeitig gekündigt zu haben.",
+          "en": "She is glad that she handed in her notice in time."
+        },
+        {
+          "de": "Viele Eltern sind stolz darauf, ihren Kindern ein Studium ermöglicht zu haben.",
+          "en": "Many parents are proud of having made it possible for their children to go to university."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Meisterprüfung",
+          "en": "master craftsman's examination"
+        },
+        {
+          "de": "im ersten Anlauf",
+          "en": "at the first attempt"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Sie ist stolz darauf, {{c1::dass::anderes Subjekt}} ihre Tochter ein Vollstipendium in Oxford bekommen hat.",
+      "en": "She is proud that her daughter got a full scholarship to Oxford.",
+      "focus": "Korrelat + Nebensatz · zwei verschiedene Subjekte",
+      "explanation": "The person who is proud (*sie*) is not the person who got the scholarship (*ihre Tochter*). With two different subjects a zu-Infinitiv is impossible, so the Korrelat *darauf* is followed by a **dass**-clause with the finite verb at the end (*bekommen hat*).",
+      "pattern": "stolz darauf, + dass + neues Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Sie ist stolz darauf, ihre Tochter ein Vollstipendium in Oxford bekommen zu haben.",
+        "why": "A zu-Infinitiv always takes its doer from the main clause, so this would mean that she herself got the scholarship. A new subject (*ihre Tochter*) needs a dass-clause."
+      },
+      "examples": [
+        {
+          "de": "Der Trainer ist stolz darauf, dass seine Mannschaft nie aufgegeben hat.",
+          "en": "The coach is proud that his team never gave up."
+        },
+        {
+          "de": "Wir sind stolz darauf, dass unser Start-up inzwischen vierzig Leute beschäftigt.",
+          "en": "We are proud that our start-up now employs forty people."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Stipendium",
+          "en": "scholarship"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Es kommt {{c1::darauf::ankommen + auf}} an, ob wir die Finanzierung rechtzeitig bekommen.",
+      "en": "It depends on whether we get the funding in time.",
+      "focus": "*es kommt … an* · Korrelat vor einer ob-Frage",
+      "explanation": "*ankommen auf* ('to depend on') cannot be used without its Korrelat: *auf* becomes **darauf**, which stands in the Mittelfeld before the separable prefix *an*. The open yes/no question follows as an ob-clause. Without *darauf*, *ankommen* would mean 'to arrive'.",
+      "pattern": "Es kommt darauf an, + ob/W-Wort + … + Verb (Ende).",
+      "mistake": {
+        "wrong": "Es kommt an, ob wir die Finanzierung rechtzeitig bekommen.",
+        "why": "With *ankommen auf* the Korrelat is obligatory. Without *darauf* the verb loses the meaning 'to depend on'."
+      },
+      "examples": [
+        {
+          "de": "Es kommt ganz darauf an, wie die Verhandlungen laufen.",
+          "en": "It all depends on how the negotiations go."
+        },
+        {
+          "de": "Bei einer Bewerbung kommt es vor allem darauf an, ob man ins Team passt.",
+          "en": "In a job application, what matters most is whether you fit into the team."
+        }
+      ],
+      "words": [
+        {
+          "de": "es kommt darauf an",
+          "en": "it depends; what matters is"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ob der Kurs stattfindet, hängt davon ab, {{c1::wie viele::Frage nach der Anzahl}} Personen sich anmelden.",
+      "en": "Whether the course takes place depends on how many people sign up.",
+      "focus": "Korrelat *davon* · W-Frage als Ergänzung",
+      "explanation": "*abhängen von* needs the Korrelat *davon* when its complement is a clause. The complement here is an open question about a number, so it is a W-clause with **wie viele** + noun, and the verb goes to the end (*sich anmelden*). The ob-clause in position 1 is the subject of *hängt ab*.",
+      "pattern": "… hängt davon ab, + W-Wort + … + Verb (Ende).",
+      "mistake": {
+        "wrong": "Ob der Kurs stattfindet, hängt davon ab, wie viele Personen melden sich an.",
+        "why": "A W-clause after a Korrelat is a Nebensatz: the finite verb goes to the end, and the separable verb stays together: *wie viele Personen sich anmelden*."
+      },
+      "examples": [
+        {
+          "de": "Der Preis hängt davon ab, wann Sie die Ware brauchen.",
+          "en": "The price depends on when you need the goods."
+        },
+        {
+          "de": "Die Höhe der Förderung hängt davon ab, wie viele Kinder im Haushalt leben.",
+          "en": "The amount of support depends on how many children live in the household."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Habt ihr euch schon Gedanken {{c1::darüber::sich Gedanken machen + über}} gemacht, wer die Präsentation beim Kunden hält?",
+      "en": "Have you already thought about who will give the presentation to the client?",
+      "focus": "Nomen-Verb-Verbindung + Korrelat · W-Frage",
+      "explanation": "*sich Gedanken machen über* is a fixed noun-verb phrase with *über* → Korrelat **darüber**. The complement is an open question about a person, so a W-clause with *wer* follows. The Korrelat stays in the Mittelfeld before the Partizip *gemacht*; the W-clause comes after the Satzklammer.",
+      "pattern": "sich Gedanken darüber machen, + W-Wort + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Habt ihr euch schon Gedanken über gemacht, wer die Präsentation beim Kunden hält?",
+        "why": "The preposition *über* cannot stand alone without a noun. Before a clause it must become the Korrelat *darüber*."
+      },
+      "examples": [
+        {
+          "de": "Wir müssen uns Gedanken darüber machen, wie wir junge Fachkräfte gewinnen.",
+          "en": "We need to think about how to attract young skilled workers."
+        },
+        {
+          "de": "Die Stadt macht sich Gedanken darüber, wo die neue Schule gebaut werden soll.",
+          "en": "The city is considering where the new school should be built."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich Gedanken machen über",
+          "en": "to think about, to consider"
+        }
+      ],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich kann mich beim besten Willen nicht {{c1::daran::sich erinnern + an}} erinnern, wo ich den Schlüssel hingelegt habe.",
+      "en": "For the life of me, I can't remember where I put the key.",
+      "focus": "*sich erinnern* + W-Frage · Korrelat",
+      "explanation": "*sich erinnern an* → Korrelat **daran** (*an* starts with a vowel → *dar-*). The complement is an open question (*wo …?*), so a W-clause follows with the verb at the end. With *sich erinnern* the Korrelat is optional: *Ich kann mich nicht erinnern, wo …* is also correct.",
+      "pattern": "sich daran erinnern, + W-Wort + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Ich kann mich beim besten Willen nicht an erinnern, wo ich den Schlüssel hingelegt habe.",
+        "why": "*an* cannot stand alone in front of a clause. Either use the Korrelat *daran* or leave the preposition out completely (*nicht erinnern, wo …*)."
+      },
+      "examples": [
+        {
+          "de": "Erinnerst du dich daran, wie wir uns kennengelernt haben?",
+          "en": "Do you remember how we met?"
+        },
+        {
+          "de": "Niemand konnte sich daran erinnern, wann die Heizung zuletzt gewartet worden war.",
+          "en": "Nobody could remember when the heating had last been serviced."
+        }
+      ],
+      "words": [
+        {
+          "de": "beim besten Willen nicht",
+          "en": "for the life of me, not"
+        },
+        {
+          "de": "hinlegen",
+          "en": "to put down"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Projektkoordinatorin erinnerte ihn {{c1::daran::jdn. erinnern + an}}, die Unterlagen bis Freitag einzureichen.",
+      "en": "The project coordinator reminded him to submit the documents by Friday.",
+      "focus": "*jdn. erinnern an* · zu-Infinitiv bezieht sich auf das Objekt",
+      "explanation": "*jemanden an etwas erinnern* ('to remind sb. of sth.') → Korrelat **daran**. The person who has to submit the documents is the Akkusativ object *ihn*, not the subject. With verbs like *erinnern an* and *bitten um* the zu-Infinitiv takes its doer from the object, so no dass-clause is needed.",
+      "pattern": "jdn. daran erinnern, + zu-Infinitiv (Täter = Objekt)",
+      "mistake": {
+        "wrong": "Die Projektkoordinatorin erinnerte ihn daran, dass die Unterlagen bis Freitag einzureichen.",
+        "why": "*dass* and *zu* exclude each other. Either a zu-Infinitiv (*daran, die Unterlagen … einzureichen*) or a full dass-clause (*daran, dass er die Unterlagen … einreichen musste*)."
+      },
+      "examples": [
+        {
+          "de": "Die Ärztin erinnerte den Patienten daran, die Tabletten regelmäßig zu nehmen.",
+          "en": "The doctor reminded the patient to take the tablets regularly."
+        },
+        {
+          "de": "Kannst du mich morgen früh daran erinnern, den Zahnarzt anzurufen?",
+          "en": "Can you remind me tomorrow morning to call the dentist?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einreichen",
+          "en": "to submit, to hand in"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die neue Regelung soll {{c1::dafür::sorgen + für}} sorgen, dass Pflegekräfte besser bezahlt werden.",
+      "en": "The new regulation is meant to ensure that care workers are paid better.",
+      "focus": "*sorgen für* · obligatorisches Korrelat",
+      "explanation": "*sorgen für* in the sense 'to ensure' needs its Korrelat before a clause: *für* starts with a consonant → **dafür**. The Korrelat stays in the Mittelfeld, before the infinitive *sorgen* at the end of the Satzklammer, and the dass-clause follows. A zu-Infinitiv is impossible because the clause has its own subject (*Pflegekräfte*).",
+      "pattern": "dafür sorgen, + dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Die neue Regelung soll darum sorgen, dass Pflegekräfte besser bezahlt werden.",
+        "why": "*sich sorgen um* means 'to worry about'. 'To ensure' is *sorgen für*, so the Korrelat is *dafür*."
+      },
+      "examples": [
+        {
+          "de": "Bitte sorgen Sie dafür, dass der Raum nach der Sitzung abgeschlossen wird.",
+          "en": "Please make sure that the room is locked after the meeting."
+        },
+        {
+          "de": "Die Software sorgt dafür, dass keine Daten verloren gehen.",
+          "en": "The software ensures that no data is lost."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Pflegekraft",
+          "en": "care worker, nurse"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Steigende Mieten führen {{c1::dazu::führen + zu}}, dass immer mehr Familien an den Stadtrand ziehen.",
+      "en": "Rising rents are causing more and more families to move to the outskirts.",
+      "focus": "*führen zu* · Folge als Nebensatz",
+      "explanation": "*führen zu* ('to lead to, to result in') expresses a consequence. Before a clause *zu* becomes **dazu** (consonant → *da-*). The consequence has its own subject (*immer mehr Familien*), so a dass-clause follows. The pattern *führt dazu, dass* is very frequent in reports and academic texts.",
+      "pattern": "X führt dazu, + dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Steigende Mieten führen zu, dass immer mehr Familien an den Stadtrand ziehen.",
+        "why": "The preposition *zu* cannot stand alone before a clause. It must become the Korrelat *dazu*."
+      },
+      "examples": [
+        {
+          "de": "Der Fachkräftemangel führt dazu, dass viele Arztpraxen auf dem Land schließen müssen.",
+          "en": "The shortage of skilled workers means that many doctors' practices in rural areas have to close."
+        },
+        {
+          "de": "Zu wenig Schlaf kann dazu führen, dass man sich schlechter konzentriert.",
+          "en": "Too little sleep can lead to poorer concentration."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Stadtrand",
+          "en": "outskirts of a town"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die größte Schwierigkeit besteht {{c1::darin::bestehen + in}}, zuverlässige Daten aus den Kliniken zu bekommen.",
+      "en": "The biggest difficulty lies in obtaining reliable data from the hospitals.",
+      "focus": "*bestehen in* · Inhalt eines Problems",
+      "explanation": "*bestehen in* ('to consist in, to lie in') names what a problem, task or advantage is. *in* starts with a vowel → **darin**. The content is a general action without its own subject, so a zu-Infinitiv follows. Do not confuse it with *bestehen aus* (to consist of) and *bestehen auf* (to insist on).",
+      "pattern": "X besteht darin, + zu-Infinitiv / dass-Satz",
+      "mistake": {
+        "wrong": "Die größte Schwierigkeit besteht darauf, zuverlässige Daten aus den Kliniken zu bekommen.",
+        "why": "*bestehen auf* means 'to insist on' and needs a person as subject. To say what a difficulty is, use *bestehen in* → *darin*."
+      },
+      "examples": [
+        {
+          "de": "Ihre Aufgabe besteht darin, die Kundendaten aktuell zu halten.",
+          "en": "Her job consists in keeping the customer data up to date."
+        },
+        {
+          "de": "Der Vorteil des Verfahrens besteht darin, dass es kaum Energie verbraucht.",
+          "en": "The advantage of the process is that it uses hardly any energy."
+        }
+      ],
+      "words": [
+        {
+          "de": "zuverlässig",
+          "en": "reliable"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Der Betriebsrat besteht {{c1::darauf::bestehen + auf}}, dass die Überstunden vollständig ausgezahlt werden.",
+      "en": "The works council insists that the overtime be paid out in full.",
+      "focus": "*bestehen auf* · obligatorisches Korrelat",
+      "explanation": "*bestehen auf* means 'to insist on' → Korrelat **darauf**. Here the Korrelat is obligatory: ✗ *besteht, dass* is not possible. The demand has its own subject (*die Überstunden*, in a passive clause), so a dass-clause follows.",
+      "pattern": "auf etwas bestehen → darauf bestehen, + dass-Satz / zu-Infinitiv",
+      "mistake": {
+        "wrong": "Der Betriebsrat besteht, dass die Überstunden vollständig ausgezahlt werden.",
+        "why": "Without *darauf*, *bestehen* means 'to exist' or 'to pass (an exam)'. In the meaning 'to insist' the Korrelat is required."
+      },
+      "examples": [
+        {
+          "de": "Meine Großmutter bestand darauf, die Rechnung selbst zu bezahlen.",
+          "en": "My grandmother insisted on paying the bill herself."
+        },
+        {
+          "de": "Die Kundin besteht darauf, dass der Fehler kostenlos behoben wird.",
+          "en": "The customer insists that the fault be fixed free of charge."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Betriebsrat",
+          "en": "works council"
+        },
+        {
+          "de": "auszahlen",
+          "en": "to pay out"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Die Verspätung liegt {{c1::daran::liegen + an}}, dass ein wichtiger Zulieferer Insolvenz anmelden musste.",
+      "en": "The delay is due to the fact that an important supplier had to file for insolvency.",
+      "focus": "*liegen an* · Ursache als Nebensatz",
+      "explanation": "*liegen an* gives the cause of a problem ('to be due to'). *an* starts with a vowel → **daran**. The Korrelat is obligatory, because without it *liegen* would only mean 'to lie (somewhere)'. The cause has its own subject (*ein wichtiger Zulieferer*), so a dass-clause follows.",
+      "pattern": "X liegt daran, + dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Die Verspätung liegt an, dass ein wichtiger Zulieferer Insolvenz anmelden musste.",
+        "why": "The preposition *an* cannot stand alone; *liegen an* + clause requires the Korrelat *daran*."
+      },
+      "examples": [
+        {
+          "de": "Dass die Pflanze nicht wächst, liegt wahrscheinlich daran, dass sie zu wenig Licht bekommt.",
+          "en": "The fact that the plant isn't growing is probably because it gets too little light."
+        },
+        {
+          "de": "Die schwachen Ergebnisse lagen vor allem daran, dass die Stichprobe zu klein war.",
+          "en": "The weak results were mainly due to the sample being too small."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Zulieferer",
+          "en": "supplier"
+        },
+        {
+          "de": "Insolvenz anmelden",
+          "en": "to file for insolvency"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Kann ich mich {{c1::darauf::sich verlassen + auf}} verlassen, dass meine Daten vertraulich behandelt werden?",
+      "en": "Can I rely on my data being treated confidentially?",
+      "focus": "*sich verlassen auf* · Korrelat im Mittelfeld",
+      "explanation": "*sich verlassen auf* ('to rely on') → **darauf**. The Korrelat is obligatory and stands in the Mittelfeld before the infinitive *verlassen* at the end of the question; the dass-clause follows. A zu-Infinitiv is impossible because the clause has its own subject (*meine Daten*).",
+      "pattern": "sich darauf verlassen (können), + dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Kann ich mich verlassen, dass meine Daten vertraulich behandelt werden?",
+        "why": "*sich verlassen* in the meaning 'to rely on' always needs *auf*; before a clause this is the Korrelat *darauf*."
+      },
+      "examples": [
+        {
+          "de": "Auf dem Land kann man sich nicht darauf verlassen, dass der Bus pünktlich kommt.",
+          "en": "In the countryside you can't rely on the bus coming on time."
+        },
+        {
+          "de": "Die Bürger müssen sich darauf verlassen können, dass das Trinkwasser sauber ist.",
+          "en": "Citizens must be able to rely on the drinking water being clean."
+        }
+      ],
+      "words": [
+        {
+          "de": "vertraulich",
+          "en": "confidential"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Achten Sie bitte {{c1::darauf::achten + auf}}, die Tür nach Dienstschluss abzuschließen.",
+      "en": "Please make sure you lock the door after work.",
+      "focus": "*achten auf* · zu-Infinitiv mit trennbarem Verb",
+      "explanation": "*achten auf* ('to pay attention to, to make sure') → **darauf**. In the imperative with *Sie* the people addressed are also the ones who lock the door, so a zu-Infinitiv follows. With a separable verb *zu* goes between prefix and stem: *abzuschließen*.",
+      "pattern": "Achten Sie darauf, + … zu-Infinitiv",
+      "mistake": {
+        "wrong": "Achten Sie bitte darauf, die Tür nach Dienstschluss zu abschließen.",
+        "why": "With separable verbs *zu* is placed between the prefix and the stem and written as one word: *abzuschließen*."
+      },
+      "examples": [
+        {
+          "de": "Achte darauf, bei der Hitze genug Wasser zu trinken.",
+          "en": "Make sure you drink enough water in this heat."
+        },
+        {
+          "de": "Der Prüfer achtet darauf, dass alle Sicherheitsvorschriften eingehalten werden.",
+          "en": "The inspector makes sure that all safety regulations are observed."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Dienstschluss",
+          "en": "end of working hours"
+        }
+      ],
+      "production_cue": "(formal Sie, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Viele Studierende haben Angst {{c1::davor::Angst + vor}}, vor großem Publikum frei zu sprechen.",
+      "en": "Many students are afraid of speaking freely in front of a large audience.",
+      "focus": "Nomen-Verb-Verbindung *Angst haben* · Korrelat",
+      "explanation": "*Angst haben vor* → **davor** (*vor* starts with a consonant). The students themselves would be speaking, so a zu-Infinitiv follows. With *Angst haben* the Korrelat is optional: *Viele haben Angst, frei zu sprechen* is also correct.",
+      "pattern": "Angst davor haben, + zu-Infinitiv / dass-Satz",
+      "mistake": {
+        "wrong": "Viele Studierende haben Angst davon, vor großem Publikum frei zu sprechen.",
+        "why": "The noun *Angst* takes the preposition *vor*, so the Korrelat is *davor*. *davon* belongs to *von* (*träumen von, abhängen von*)."
+      },
+      "examples": [
+        {
+          "de": "Er hat Angst davor, im Alter allein zu sein.",
+          "en": "He is afraid of being alone in old age."
+        },
+        {
+          "de": "Viele Mieter haben Angst davor, dass ihre Wohnung verkauft wird.",
+          "en": "Many tenants are afraid that their flat will be sold."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Nach drei Monaten in Helsinki habe ich mich {{c1::daran::sich gewöhnen + an}} gewöhnt, dass es im Winter kaum hell wird.",
+      "en": "After three months in Helsinki I've got used to it hardly getting light in winter.",
+      "focus": "*sich gewöhnen an* · Korrelat vor dem Partizip",
+      "explanation": "*sich gewöhnen an* → **daran**. The Korrelat stands in the Mittelfeld before the Partizip *gewöhnt*; the dass-clause follows after the Satzklammer. The clause has its own (impersonal) subject *es*, so a zu-Infinitiv is not possible.",
+      "pattern": "sich daran gewöhnen, + dass-Satz / zu-Infinitiv",
+      "mistake": {
+        "wrong": "Nach drei Monaten in Helsinki habe ich mich darauf gewöhnt, dass es im Winter kaum hell wird.",
+        "why": "*sich gewöhnen* takes *an*, so the Korrelat is *daran*. *darauf* belongs to verbs with *auf*."
+      },
+      "examples": [
+        {
+          "de": "Ich kann mich einfach nicht daran gewöhnen, so früh aufzustehen.",
+          "en": "I just can't get used to getting up so early."
+        },
+        {
+          "de": "Die Belegschaft hat sich inzwischen daran gewöhnt, dass Besprechungen online stattfinden.",
+          "en": "The staff have now got used to meetings taking place online."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Jeder Einzelne kann {{c1::dazu::beitragen + zu}} beitragen, den Energieverbrauch zu senken.",
+      "en": "Every individual can help to reduce energy consumption.",
+      "focus": "*beitragen zu* · Korrelat + zu-Infinitiv",
+      "explanation": "*beitragen zu* ('to contribute to') → **dazu**. The Korrelat stands before the infinitive *beitragen* at the end of the Satzklammer, and the zu-Infinitiv follows after the comma. The doer of *senken* is the main-clause subject *jeder Einzelne*.",
+      "pattern": "dazu beitragen, + zu-Infinitiv / dass-Satz",
+      "mistake": {
+        "wrong": "Jeder Einzelne kann beitragen, den Energieverbrauch zu senken.",
+        "why": "*beitragen* needs its prepositional complement *zu etwas*. Before a clause this is the Korrelat *dazu*; without it the sentence is incomplete."
+      },
+      "examples": [
+        {
+          "de": "Die Studie soll dazu beitragen, die Ursachen der Krankheit besser zu verstehen.",
+          "en": "The study is intended to help us understand the causes of the disease better."
+        },
+        {
+          "de": "Der neue Radweg hat dazu beigetragen, dass weniger Unfälle passieren.",
+          "en": "The new cycle path has helped to reduce the number of accidents."
+        }
+      ],
+      "words": [
+        {
+          "de": "senken",
+          "en": "to reduce, to lower"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Bei der Reform geht es vor allem {{c1::darum::es geht + um}}, die Verwaltung zu digitalisieren.",
+      "en": "The reform is mainly about digitalising the administration.",
+      "focus": "*es geht um* · Ziel als zu-Infinitiv",
+      "explanation": "*es geht um* ('it is about') names the main topic or aim. *um* starts with a vowel → **darum**. The Korrelat is obligatory, and the content follows as a zu-Infinitiv (a general aim without its own subject) or as a dass-clause.",
+      "pattern": "Es geht (jdm.) darum, + zu-Infinitiv / dass-Satz",
+      "mistake": {
+        "wrong": "Bei der Reform geht es vor allem um, die Verwaltung zu digitalisieren.",
+        "why": "The preposition *um* needs a noun after it. Before a clause it must become the Korrelat *darum*."
+      },
+      "examples": [
+        {
+          "de": "In dem Workshop geht es darum, Konflikte im Team früh zu erkennen.",
+          "en": "The workshop is about recognising conflicts in the team early."
+        },
+        {
+          "de": "Mir geht es nicht darum, recht zu haben.",
+          "en": "For me it's not about being right."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Verwaltung",
+          "en": "administration"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Hast du daran gedacht, die Heizung im Ferienhaus {{c1::abzudrehen::abdrehen}}?",
+      "en": "Did you remember to turn off the heating in the holiday home?",
+      "focus": "*denken an* + Korrelat · zu-Infinitiv bei trennbarem Verb",
+      "explanation": "*denken an* ('to remember to do sth.') → Korrelat *daran*, followed by a zu-Infinitiv because *du* both remembers and turns off the heating. With a separable verb *zu* goes between prefix and stem, and the whole form is one word: ab + zu + drehen → **abzudrehen**.",
+      "pattern": "daran denken, + … Präfix-zu-Verb",
+      "mistake": {
+        "wrong": "Hast du daran gedacht, die Heizung im Ferienhaus zu abdrehen?",
+        "why": "With separable verbs *zu* is not placed before the whole verb but between the prefix and the stem: *abzudrehen*."
+      },
+      "examples": [
+        {
+          "de": "Denk bitte daran, die Fenster zuzumachen.",
+          "en": "Please remember to close the windows."
+        },
+        {
+          "de": "Hat jemand daran gedacht, die Gäste vom Bahnhof abzuholen?",
+          "en": "Did anyone remember to pick up the guests from the station?"
+        }
+      ],
+      "words": [
+        {
+          "de": "abdrehen",
+          "en": "to turn off"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Die Forscherinnen sind {{c1::davon::überzeugt + von}} überzeugt, dass das Verfahren auch bei älteren Patienten wirkt.",
+      "en": "The researchers are convinced that the method also works in older patients.",
+      "focus": "Adjektiv/Partizip + Korrelat · fakultativ",
+      "explanation": "*überzeugt sein von* → **davon**. With this adjective the Korrelat is optional: *Sie sind überzeugt, dass …* is just as correct and very common; with *davon* the statement sounds more emphatic. The clause has its own subject (*das Verfahren*), so it is a dass-clause.",
+      "pattern": "(davon) überzeugt sein, + dass-Satz",
+      "mistake": {
+        "wrong": "Die Forscherinnen sind darüber überzeugt, dass das Verfahren auch bei älteren Patienten wirkt.",
+        "why": "*überzeugt* takes *von* (*von etwas überzeugt sein*), so the Korrelat is *davon*, not *darüber*."
+      },
+      "examples": [
+        {
+          "de": "Ich bin fest davon überzeugt, dass wir das Projekt rechtzeitig abschließen.",
+          "en": "I am firmly convinced that we will finish the project on time."
+        },
+        {
+          "de": "Der Angeklagte ist davon überzeugt, richtig gehandelt zu haben.",
+          "en": "The defendant is convinced that he acted correctly."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Verfahren",
+          "en": "method, procedure"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Ich bin wirklich gespannt darauf, {{c1::ob::ja oder nein?}} die Regierung ihre Wahlversprechen hält.",
+      "en": "I'm really curious to see whether the government keeps its election promises.",
+      "focus": "Korrelat + offene Ja/Nein-Frage",
+      "explanation": "*gespannt sein auf* ('to be eager to know') → Korrelat *darauf*. The speaker does not know the answer to a yes/no question, so the clause starts with **ob**, not *dass*. The Korrelat is optional here: *Ich bin gespannt, ob …* is also correct.",
+      "pattern": "gespannt darauf, + ob + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Ich bin wirklich gespannt darauf, dass die Regierung ihre Wahlversprechen hält.",
+        "why": "*dass* presents the content as a fact. *gespannt sein* expresses curiosity about an open outcome, so a yes/no question needs *ob*."
+      },
+      "examples": [
+        {
+          "de": "Wir sind gespannt darauf, wie das Publikum auf den Film reagiert.",
+          "en": "We're curious to see how the audience reacts to the film."
+        },
+        {
+          "de": "Alle sind gespannt darauf, ob der Weltrekord diesmal fällt.",
+          "en": "Everyone is eager to see whether the world record will fall this time."
+        }
+      ],
+      "words": [
+        {
+          "de": "gespannt sein auf",
+          "en": "to be eager to know/see"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Wer ist eigentlich schuld {{c1::daran::schuld + an}}, dass der Server am Wochenende abgestürzt ist?",
+      "en": "Who is actually to blame for the server crashing at the weekend?",
+      "focus": "*schuld sein an* · Korrelat in der W-Frage",
+      "explanation": "*schuld sein an* ('to be to blame for') → **daran**. The Korrelat points forward to the dass-clause that names the problem. In everyday German it is often left out (*Wer ist schuld, dass …?*), but when a Korrelat is used, it must contain *an*. In *schuld sein* the word *schuld* is an adjective and is written in lower case.",
+      "pattern": "schuld daran sein, + dass-Satz",
+      "mistake": {
+        "wrong": "Wer ist eigentlich schuld dafür, dass der Server am Wochenende abgestürzt ist?",
+        "why": "English 'to blame for' leads to *für*. In German *schuld* takes *an*, so the Korrelat is *daran*."
+      },
+      "examples": [
+        {
+          "de": "Der Fahrer war nicht schuld daran, dass der Unfall passiert ist.",
+          "en": "The driver was not to blame for the accident."
+        },
+        {
+          "de": "Sie gibt sich selbst die Schuld daran, dass die Beziehung zerbrochen ist.",
+          "en": "She blames herself for the relationship breaking up."
+        }
+      ],
+      "words": [
+        {
+          "de": "abstürzen",
+          "en": "to crash"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Ein wichtiger Grund {{c1::dafür::Grund + für}}, dass viele junge Ärztinnen nicht aufs Land wollen, ist die hohe Arbeitsbelastung.",
+      "en": "One important reason why many young doctors don't want to move to the countryside is the heavy workload.",
+      "focus": "Nomen + Korrelat · Nebensatz als Attribut",
+      "explanation": "Nouns can also have a fixed preposition: *der Grund für*. Before a clause it becomes **dafür**, placed directly after the noun, and the dass-clause explains the noun. The whole block *Ein wichtiger Grund dafür, dass …* is the subject in position 1, so the verb *ist* follows it.",
+      "pattern": "Nomen + Korrelat, + dass-Satz (Attribut zum Nomen)",
+      "mistake": {
+        "wrong": "Ein wichtiger Grund für, dass viele junge Ärztinnen nicht aufs Land wollen, ist die hohe Arbeitsbelastung.",
+        "why": "*für* cannot stand alone before a clause. After a noun, too, the preposition becomes the Korrelat: *der Grund dafür, dass …*"
+      },
+      "examples": [
+        {
+          "de": "Die Voraussetzung dafür, dass Sie gefördert werden, ist ein vollständiger Antrag.",
+          "en": "The prerequisite for receiving funding is a complete application."
+        },
+        {
+          "de": "Das war der Hauptgrund dafür, dass ich gekündigt habe.",
+          "en": "That was the main reason why I resigned."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Arbeitsbelastung",
+          "en": "workload"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Es gibt deutliche Hinweise {{c1::darauf::Hinweis + auf}}, dass das Medikament das Herzinfarktrisiko erhöht.",
+      "en": "There are clear indications that the drug increases the risk of heart attack.",
+      "focus": "Nomen + Korrelat · Fach- und Pressesprache",
+      "explanation": "*der Hinweis auf* ('indication of') → **darauf**. The Korrelat comes directly after the noun and before the dass-clause that says what the indications show. Noun + Korrelat structures are typical of news and scientific texts (*die Hoffnung darauf, die Angst davor, der Beweis dafür*).",
+      "pattern": "Hinweise darauf, + dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Es gibt deutliche Hinweise darauf, das Medikament erhöht das Herzinfarktrisiko.",
+        "why": "After a Korrelat the content must be a real Nebensatz (dass, ob, W-word or zu-Infinitiv). A main clause with the verb in position 2 is not possible here."
+      },
+      "examples": [
+        {
+          "de": "Die Hoffnung darauf, bald eine Wohnung zu finden, hat sie fast aufgegeben.",
+          "en": "She has almost given up hope of finding a flat soon."
+        },
+        {
+          "de": "Es gibt keinen Beweis dafür, dass der Minister von dem Geschäft wusste.",
+          "en": "There is no proof that the minister knew about the deal."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hinweis",
+          "en": "indication, sign"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Wir haben uns lange darüber {{c1::gestritten::streiten}}, ob wir das Angebot annehmen sollen.",
+      "en": "We argued for a long time about whether we should accept the offer.",
+      "focus": "Satzklammer mit Korrelat · Position des Partizips",
+      "explanation": "*sich streiten über* → Korrelat *darüber*, which stays in the Mittelfeld. The Partizip II **gestritten** (strong verb: streiten – stritt – gestritten) closes the Satzklammer, and only then does the ob-clause follow. The clause is a yes/no question, so it starts with *ob*, with the modal verb *sollen* at the very end.",
+      "pattern": "haben + … darüber + Partizip II, + ob-Satz",
+      "mistake": {
+        "wrong": "Wir haben uns lange darüber gestritten, ob wir sollen das Angebot annehmen.",
+        "why": "The ob-clause is a Nebensatz: the finite modal verb goes to the end, after the infinitive: *ob wir das Angebot annehmen sollen*."
+      },
+      "examples": [
+        {
+          "de": "Die Kollegen haben sich heftig darüber gestritten, wer den Fehler gemacht hat.",
+          "en": "The colleagues argued fiercely about who had made the mistake."
+        },
+        {
+          "de": "Wir haben lange darüber diskutiert, ob sich die Investition lohnt.",
+          "en": "We discussed for a long time whether the investment is worthwhile."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Dass die Zinsen weiter steigen, {{c1::damit::rechnen + mit}} rechnen die meisten Analysten.",
+      "en": "Most analysts expect interest rates to keep rising.",
+      "focus": "Nebensatz im Vorfeld · wiederaufnehmendes Korrelat",
+      "explanation": "*rechnen mit* ('to expect') → Korrelat **damit**. Here the dass-clause is moved to the front for emphasis, and the Korrelat takes it up again at the start of the main clause; the finite verb *rechnen* follows in position 2. Neutral order: *Die meisten Analysten rechnen damit, dass die Zinsen weiter steigen.*",
+      "pattern": "dass-Satz, + Korrelat + finites Verb + Subjekt …",
+      "mistake": {
+        "wrong": "Dass die Zinsen weiter steigen, damit die meisten Analysten rechnen.",
+        "why": "Here *damit* is the Korrelat (= *mit dem*), not the conjunction *damit* (so that). It is part of the main clause, so the finite verb *rechnen* must follow it directly."
+      },
+      "examples": [
+        {
+          "de": "Dass er zurücktreten würde, damit hatte niemand gerechnet.",
+          "en": "Nobody had expected him to resign."
+        },
+        {
+          "de": "Dass das Projekt so teuer wird, darüber wurde im Stadtrat lange gestritten.",
+          "en": "The fact that the project will be so expensive was argued about at length in the city council."
+        }
+      ],
+      "words": [
+        {
+          "de": "rechnen mit",
+          "en": "to expect, to count on"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Nach langem Überlegen hat sie sich {{c1::dafür::sich entscheiden + für}} entschieden, das Angebot aus Singapur anzunehmen.",
+      "en": "After long consideration, she decided to accept the offer from Singapore.",
+      "focus": "*sich entscheiden für* · fakultatives Korrelat",
+      "explanation": "*sich entscheiden für* → **dafür**. The Korrelat is optional here: *Sie hat sich entschieden, das Angebot anzunehmen* is equally correct; *dafür* stresses the choice between options. The Korrelat stays in the Mittelfeld before *entschieden*, and the zu-Infinitiv with the separable verb (*anzunehmen*) follows.",
+      "pattern": "sich (dafür) entscheiden, + zu-Infinitiv",
+      "mistake": {
+        "wrong": "Nach langem Überlegen hat sie sich dafür entschieden, das Angebot aus Singapur annehmen.",
+        "why": "After *sich entscheiden (dafür)* an infinitive clause needs *zu*: *anzunehmen*. Only modal verbs and a few others take a bare infinitive."
+      },
+      "examples": [
+        {
+          "de": "Die Stadt hat sich dagegen entschieden, das alte Schwimmbad zu sanieren.",
+          "en": "The city decided against renovating the old swimming pool."
+        },
+        {
+          "de": "Wir haben uns dafür entschieden, die Hochzeit im kleinen Kreis zu feiern.",
+          "en": "We decided to have a small wedding with just close friends and family."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Gewerkschaft ist nicht {{c1::dazu::bereit + zu}} bereit, auf die vereinbarte Lohnerhöhung zu verzichten.",
+      "en": "The union is not prepared to give up the agreed pay rise.",
+      "focus": "Adjektiv *bereit* · Korrelat + zu-Infinitiv",
+      "explanation": "*bereit sein zu* ('to be prepared/willing to') → Korrelat **dazu**. A zu-Infinitiv follows because the union itself would give up the pay rise. Inside the infinitive clause there is a second fixed preposition: *verzichten auf* + Akkusativ. The Korrelat is optional: *nicht bereit, … zu verzichten* is also correct.",
+      "pattern": "(dazu) bereit sein, + zu-Infinitiv",
+      "mistake": {
+        "wrong": "Die Gewerkschaft ist nicht dafür bereit, auf die vereinbarte Lohnerhöhung zu verzichten.",
+        "why": "English 'ready for' leads to *für*. The adjective *bereit* takes *zu*, so the Korrelat is *dazu*."
+      },
+      "examples": [
+        {
+          "de": "Sind Sie dazu bereit, auch am Wochenende zu arbeiten?",
+          "en": "Are you prepared to work at weekends as well?"
+        },
+        {
+          "de": "Niemand war dazu bereit, die Verantwortung für das Scheitern zu übernehmen.",
+          "en": "Nobody was willing to take responsibility for the failure."
+        }
+      ],
+      "words": [
+        {
+          "de": "verzichten auf",
+          "en": "to give up, to do without"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Korrelat.",
+      "prompt": "How is the Korrelat formed, and when is an *r* inserted?",
+      "answer": "**da-** + preposition; **dar-** when the preposition starts with a vowel: *darauf, daran, darüber, darum, darin, daraus*, but *dafür, davon, dazu, damit, davor, dabei, dagegen*.",
+      "explanation": "The *r* only makes pronunciation easier. The form depends only on the preposition of the verb, adjective or noun: *sich freuen auf → darauf*, *sich freuen über → darüber*. The Korrelat replaces 'preposition + noun' and points forward to the clause that follows.",
+      "examples": [
+        {
+          "de": "Wir haben lange darüber nachgedacht, wie wir weitermachen.",
+          "en": "We thought for a long time about how to continue."
+        },
+        {
+          "de": "Sie hat sich sehr dafür eingesetzt, dass die Bibliothek erhalten bleibt.",
+          "en": "She campaigned hard for the library to be preserved."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain when to use a zu-Infinitiv and when a dass-clause.",
+      "prompt": "After a Korrelat, when do you use a zu-Infinitiv and when a dass-clause?",
+      "answer": "**zu-Infinitiv** when the doer of the clause is the main-clause subject (*Ich freue mich darauf, dich zu sehen*) or, with verbs like *jdn. erinnern an, jdn. bitten um*, the object. **dass**-clause when the clause has a different subject (*Ich freue mich darauf, dass du kommst*).",
+      "explanation": "A zu-Infinitiv has no subject of its own, so it borrows it from the main clause. If the doer is someone else, only a dass-clause can name that person. With the same subject a dass-clause is grammatically possible, but the zu-Infinitiv is shorter and usually preferred.",
+      "examples": [
+        {
+          "de": "Er träumt davon, einmal den Kilimandscharo zu besteigen.",
+          "en": "He dreams of climbing Kilimanjaro one day."
+        },
+        {
+          "de": "Er träumt davon, dass seine Kinder einmal in Frieden leben.",
+          "en": "He dreams of his children living in peace one day."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain when the Korrelat can be left out.",
+      "prompt": "With which kinds of verbs is the Korrelat usually optional, and with which is it required?",
+      "answer": "Usually **optional** with verbs of feeling, thinking and saying that can also take a clause directly: *sich freuen, sich ärgern, sich erinnern, Angst haben, überzeugt sein, sich entscheiden*. **Required** where the meaning depends on the preposition: *ankommen auf, abhängen von, bestehen auf/in, sorgen für, sich verlassen auf, liegen an, es geht um, führen zu, beitragen zu*.",
+      "explanation": "This is a tendency, not a strict rule, so check new verbs in a dictionary. A good test: without the Korrelat, does the verb change its meaning (*ankommen* = arrive, *bestehen* = pass/exist)? Then the Korrelat is required. Using the Korrelat where it is optional is never wrong.",
+      "examples": [
+        {
+          "de": "Ich erinnere mich, dass wir damals im Zelt geschlafen haben.",
+          "en": "I remember that we slept in a tent back then."
+        },
+        {
+          "de": "Ob wir draußen feiern, hängt davon ab, wie das Wetter wird.",
+          "en": "Whether we celebrate outside depends on what the weather is like."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about questions as complements.",
+      "prompt": "What follows the Korrelat when the content is an open question, and why not *dass*?",
+      "answer": "An **ob**-clause for a yes/no question (*Es kommt darauf an, ob …*) or a **W**-clause for an open W-question (*Es hängt davon ab, wann/wie/wer …*). *dass* presents a fact or a wish, not an open question.",
+      "explanation": "Verbs like *abhängen von, ankommen auf, sich Gedanken machen über* and adjectives like *gespannt auf* often refer to something still unknown. The question word keeps its meaning (*ob* = whether, *wann* = when), and the verb goes to the end as in every Nebensatz.",
+      "examples": [
+        {
+          "de": "Wir haben noch nicht darüber gesprochen, wer die Kinder abholt.",
+          "en": "We haven't talked yet about who will pick up the children."
+        },
+        {
+          "de": "Es kommt darauf an, ob du am Freitag Zeit hast.",
+          "en": "It depends on whether you have time on Friday."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "In a sentence with a Satzklammer (Perfekt, modal verb), where do the Korrelat and the clause go?",
+      "answer": "The Korrelat stays in the **Mittelfeld**, before the Partizip II or infinitive at the end of the Satzklammer. The clause follows **after** the Satzklammer, separated by a comma: *Er hat nie **daran** gezweifelt, dass …*",
+      "explanation": "The Korrelat behaves like a normal prepositional object (*an ihrem Erfolg gezweifelt*), so it sits inside the bracket. The clause is too heavy for the Mittelfeld and goes to the Nachfeld. Only for emphasis can the whole clause come first, with the Korrelat repeated at the start of the main clause (*Dass …, damit rechnen alle.*).",
+      "examples": [
+        {
+          "de": "Wir werden uns morgen darum kümmern, dass die Unterlagen verschickt werden.",
+          "en": "We'll make sure tomorrow that the documents are sent off."
+        },
+        {
+          "de": "Er hat nie daran gezweifelt, dass sie die Stelle bekommt.",
+          "en": "He never doubted that she would get the job."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *sich darauf freuen, dass …* and *sich darüber freuen, dass …*?",
+      "answer": "*sich freuen **auf*** → **darauf**: anticipation of something in the future (to look forward to). *sich freuen **über*** → **darüber**: joy about something present or past (to be pleased about).",
+      "explanation": "The Korrelat carries the meaning of the preposition, so choosing it wrongly changes the time reference. Without a Korrelat (*Ich freue mich, dass …*) the sentence usually means *darüber*: joy about a present fact.",
+      "examples": [
+        {
+          "de": "Ich freue mich darauf, dass bald Ferien sind.",
+          "en": "I'm looking forward to the holidays starting soon."
+        },
+        {
+          "de": "Ich freue mich darüber, dass du endlich wieder gesund bist.",
+          "en": "I'm glad that you are finally well again."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct Korrelat.",
+      "prompt": "Es hängt ___ ab, ob wir den Auftrag bekommen.",
+      "options": [
+        "davon",
+        "darauf",
+        "dafür",
+        "von"
+      ],
+      "correct": "davon",
+      "answer": "Es hängt davon ab, ob wir den Auftrag bekommen.",
+      "explanation": "*abhängen* takes *von*, so the Korrelat is *davon*. *darauf* belongs to *ankommen auf* (*Es kommt darauf an, ob …*), *dafür* to verbs with *für*, and the bare preposition *von* cannot stand before a clause."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct Korrelat.",
+      "prompt": "Ich habe mich sehr ___ geärgert, dass niemand Bescheid gesagt hat.",
+      "options": [
+        "darüber",
+        "darauf",
+        "daran",
+        "über"
+      ],
+      "correct": "darüber",
+      "answer": "Ich habe mich sehr darüber geärgert, dass niemand Bescheid gesagt hat.",
+      "explanation": "*sich ärgern über* → *darüber*. *darauf* and *daran* belong to other prepositions (*auf*, *an*). The bare preposition *über* is impossible before a clause; it must be turned into the Korrelat."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the word that introduces the clause.",
+      "prompt": "Der Vermieter besteht darauf, ___ wir die Wohnung frisch gestrichen übergeben.",
+      "options": [
+        "dass",
+        "ob",
+        "wie"
+      ],
+      "correct": "dass",
+      "answer": "Der Vermieter besteht darauf, dass wir die Wohnung frisch gestrichen übergeben.",
+      "explanation": "*bestehen auf* expresses a demand, which is presented as a fact to be realised, so the clause starts with *dass*. *ob* would introduce an open yes/no question, and *wie* an open question about the manner; neither fits a demand."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the correct completion.",
+      "prompt": "Sie hat sich inzwischen daran gewöhnt, ___.",
+      "options": [
+        "jeden Morgen um fünf aufzustehen",
+        "dass jeden Morgen um fünf aufsteht",
+        "jeden Morgen um fünf aufstehen"
+      ],
+      "correct": "jeden Morgen um fünf aufzustehen",
+      "answer": "Sie hat sich inzwischen daran gewöhnt, jeden Morgen um fünf aufzustehen.",
+      "explanation": "The person who gets up is the subject *sie*, so a zu-Infinitiv follows, with *zu* inside the separable verb: *aufzustehen*. The dass-option has no subject in the Nebensatz, and the third option lacks *zu*, which *sich gewöhnen an* requires."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir freuen uns auf, dass ihr im Sommer kommt.",
+      "answer": "Wir freuen uns darauf, dass ihr im Sommer kommt.",
+      "explanation": "The preposition *auf* cannot stand alone before a dass-clause. It must become the Korrelat *darauf* (vowel → *dar-*)."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es kommt an, ob das Wetter mitspielt.",
+      "answer": "Es kommt darauf an, ob das Wetter mitspielt.",
+      "explanation": "In the meaning 'it depends' *ankommen* needs *auf*, so the Korrelat *darauf* is obligatory. It stands in the Mittelfeld before the separable prefix *an*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat Angst davon, seinen Job zu verlieren.",
+      "answer": "Er hat Angst davor, seinen Job zu verlieren.",
+      "explanation": "*Angst haben* takes the preposition *vor*, so the Korrelat must be *davor*. *davon* belongs to verbs with *von* (*träumen von, abhängen von*)."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich warte darauf, die Firma mir das Geld zurückzahlt.",
+      "answer": "Ich warte darauf, dass die Firma mir das Geld zurückzahlt.",
+      "explanation": "The clause after the Korrelat has its own subject (*die Firma*) and the verb at the end, so it must be introduced by *dass*. A zu-Infinitiv is not possible because the subject is different."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake. Keep the subject of the main clause as the doer.",
+      "prompt": "Die Chefin achtet darauf, dass alle Termine pünktlich einzuhalten.",
+      "answer": "Die Chefin achtet darauf, alle Termine pünktlich einzuhalten.",
+      "explanation": "The clause mixes *dass* with a zu-Infinitiv. Since the boss herself keeps the deadlines, the zu-Infinitiv is correct and *dass* must go. A dass-clause would need a subject and a finite verb: *dass alle Termine pünktlich eingehalten werden*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace *deinen Besuch* with a dass-clause (verb: *besuchen*).",
+      "prompt": "Ich freue mich auf deinen Besuch.",
+      "answer": "Ich freue mich darauf, dass du mich besuchst.",
+      "explanation": "The noun complement *auf deinen Besuch* becomes a clause, so *auf* turns into the Korrelat *darauf*. The visitor (*du*) differs from the subject *ich*, so a dass-clause with the verb at the end is needed."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace the dass-clause with a zu-Infinitiv.",
+      "prompt": "Er träumt davon, dass er eines Tages ein eigenes Restaurant eröffnet.",
+      "answer": "Er träumt davon, eines Tages ein eigenes Restaurant zu eröffnen.",
+      "explanation": "The subject of the dass-clause (*er*) is the same as the main-clause subject, so the clause can be shortened. Remove *dass* and the subject, and put *zu* + infinitive at the end. *eröffnen* is not separable (*er-* is an inseparable prefix), so *zu* stands before it."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Wir sprechen darüber, wie wir das Budget verteilen.",
+      "answer": "Wir haben darüber gesprochen, wie wir das Budget verteilen.",
+      "explanation": "In the Perfekt the Satzklammer opens with *haben* and closes with the Partizip *gesprochen*. The Korrelat *darüber* stays in the Mittelfeld, and the W-clause follows after the Partizip; the W-clause itself does not change."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence: the first sentence becomes a dass-clause after the Korrelat.",
+      "prompt": "Die Kinder sind sicher zu Hause angekommen. Wir sind froh darüber.",
+      "answer": "Wir sind froh darüber, dass die Kinder sicher zu Hause angekommen sind.",
+      "explanation": "*froh sein über* → *darüber* now points forward to the clause. The children are a different subject from *wir*, so a dass-clause follows, with the finite *sind* at the very end."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence with a zu-Infinitiv after *daran*.",
+      "prompt": "Ich muss die Rechnung bezahlen. Erinnere mich morgen bitte daran.",
+      "answer": "Erinnere mich morgen bitte daran, die Rechnung zu bezahlen.",
+      "explanation": "With *jdn. erinnern an* the zu-Infinitiv refers to the object (*mich*), the person who will pay. The modal verb *muss* disappears, because the reminder already expresses the obligation."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence. Start with *Unsere Entscheidung* and turn the question into a W-clause.",
+      "prompt": "Wie viel kostet die Reparatur? Davon hängt unsere Entscheidung ab.",
+      "answer": "Unsere Entscheidung hängt davon ab, wie viel die Reparatur kostet.",
+      "explanation": "*abhängen von* keeps its Korrelat *davon*, which now points forward to the question. The direct question becomes an indirect W-clause: *wie viel* stays at the front and the verb *kostet* moves to the end."
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie",
+      "prompt": "kann / sich / sie / darauf / verlassen / dass / ihr Team / pünktlich liefert",
+      "answer": "Sie kann sich darauf verlassen, dass ihr Team pünktlich liefert.",
+      "explanation": "The modal verb *kann* is in position 2 and the infinitive *verlassen* closes the Satzklammer. The reflexive pronoun and the Korrelat stay in the Mittelfeld (*sich darauf*), and the dass-clause follows after the comma. Also possible for emphasis: *Darauf, dass ihr Team pünktlich liefert, kann sie sich verlassen.*"
+    },
+    {
+      "key": "d23",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: In diesem Projekt",
+      "prompt": "es / geht / darum / die Kosten / zu senken / in diesem Projekt",
+      "answer": "In diesem Projekt geht es darum, die Kosten zu senken.",
+      "explanation": "After the adverbial in position 1 comes the finite verb *geht*, then the subject *es* and the obligatory Korrelat *darum*. The zu-Infinitiv names the aim and follows after the comma."
+    }
+  ]
+}

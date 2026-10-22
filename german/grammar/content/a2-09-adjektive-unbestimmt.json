@@ -1,0 +1,922 @@
+{
+  "topic_id": "a2-09-adjektive-unbestimmt",
+  "level": "A2",
+  "title_de": "Adjektivdeklination nach unbestimmtem Artikel",
+  "title_en": "Adjective endings after the indefinite article",
+  "rule": {
+    "summary": "After **ein, kein** and the possessive articles (*mein, dein, sein, ihr, unser, euer, Ihr*) the adjective follows the **mixed** declension. In three slots the article has no ending (*ein* in masculine Nominativ and in neuter Nominativ/Akkusativ), so the adjective must show the gender itself with a strong ending: **-er** (masculine) or **-es** (neuter). Everywhere else the endings are the same as after *der*: **-e** for feminine Nominativ/Akkusativ and **-en** for all other slots. With no article at all, the adjective takes the endings of *der/die/das* (*kalter Tee, frische Luft*).",
+    "table": "| | maskulin | feminin | neutral | Plural (kein/mein) |\n|---|---|---|---|---|\n| Nom | ein nett**er** Mann | eine nett**e** Frau | ein nett**es** Kind | keine nett**en** Kinder |\n| Akk | einen nett**en** Mann | eine nett**e** Frau | ein nett**es** Kind | keine nett**en** Kinder |\n| Dat | einem nett**en** Mann | einer nett**en** Frau | einem nett**en** Kind | keinen nett**en** Kinder**n** |\n| Gen | eines nett**en** Mann**es** | einer nett**en** Frau | eines nett**en** Kind**es** | keiner nett**en** Kinder |",
+    "steps": [
+      "Check the article: *ein, kein* or a possessive (*mein, dein, sein, ihr, unser, euer, Ihr*) → mixed declension.",
+      "Find the gender, number and case of the noun (subject → Nominativ; the verb or preposition decides Akkusativ, Dativ, Genitiv).",
+      "Does the article have an ending? *ein/kein/mein* alone in masculine Nominativ → adjective **-er**; in neuter Nominativ or Akkusativ → adjective **-es**.",
+      "Feminine Nominativ/Akkusativ (*eine, keine, meine*) → **-e**. All other slots (masculine Akkusativ, every Dativ, every Genitiv, every plural) → **-en**.",
+      "Watch special forms: *unser* and *euer* end in *-er* without having an ending (*unser neues Haus*); stems change in *teuer → teures, dunkel → dunkles, hoch → hohes*."
+    ],
+    "pitfalls": [
+      "The weak *-e* after *ein*: ✗ *ein nette Mann, ein kleine Kind* → ✓ *ein netter Mann, ein kleines Kind*.",
+      "Keeping *-er/-es* in the wrong case: ✗ *mit einem netter Mann, einen neuer Computer* → ✓ *mit einem netten Mann, einen neuen Computer*.",
+      "Plural after a possessive or *kein*: ✗ *meine neue Schuhe* → ✓ *meine neuen Schuhe*. Only without an article is the plural *-e*: *neue Schuhe*.",
+      "Reading the *-er* of *unser/euer* as an ending: ✗ *unser neuer Haus* → ✓ *unser neues Haus*.",
+      "Using the article's case form wrongly: ✗ *Ich brauche ein starker Kaffee* → ✓ *einen starken Kaffee*. First fix the article (*einen*), then the adjective."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das ist ein {{c1::netter::nett}} Mann.",
+      "en": "That is a nice man.",
+      "focus": "Nominativ maskulin · nach *ein*",
+      "explanation": "After *das ist* the noun phrase is Nominativ. *Mann* is masculine, and *ein* has no ending in the masculine Nominativ, so the adjective must show the gender with the strong ending **-er**: nett + -er → **netter**.",
+      "pattern": "ein + Adj-**er** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Das ist ein nette Mann.", "why": "*-e* is the weak ending after *der* (*der nette Mann*). *ein* does not show the masculine gender, so the adjective has to: *-er*."},
+      "examples": [
+        {"de": "Das ist ein guter Plan.", "en": "That's a good plan."},
+        {"de": "Herr Braun ist ein strenger Lehrer.", "en": "Mr Braun is a strict teacher."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie ist eine {{c1::gute::gut}} Lehrerin.",
+      "en": "She is a good teacher.",
+      "focus": "Nominativ feminin · nach *eine*",
+      "explanation": "*Lehrerin* is feminine, and after *sein* the noun phrase is Nominativ → *eine*. The *-e* of the article already shows feminine, so the adjective takes **-e**: gut + -e → **gute**.",
+      "pattern": "eine + Adj-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Sie ist eine guter Lehrerin.", "why": "*-er* after *ein* is the masculine signal (*ein guter Lehrer*). With a feminine noun the ending is *-e*."},
+      "examples": [
+        {"de": "Das ist eine tolle Nachricht.", "en": "That's great news."},
+        {"de": "Frau Kaya ist eine erfahrene Ärztin.", "en": "Ms Kaya is an experienced doctor."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das ist ein {{c1::kleines::klein}} Kind.",
+      "en": "That is a small child.",
+      "focus": "Nominativ neutral · nach *ein*",
+      "explanation": "*Kind* is neuter. In the neuter Nominativ *ein* has no ending, so the adjective takes the strong neuter ending **-es** (the *-s* of *das*): klein + -es → **kleines**.",
+      "pattern": "ein + Adj-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das ist ein kleiner Kind.", "why": "*-er* is the masculine ending. *Kind* is neuter (*das Kind*), so after *ein* the adjective takes *-es*."},
+      "examples": [
+        {"de": "Das ist ein altes Foto von meinen Großeltern.", "en": "That's an old photo of my grandparents."},
+        {"de": "Es war ein langes Gespräch.", "en": "It was a long conversation."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich habe einen {{c1::neuen::neu}} Freund.",
+      "en": "I have a new friend.",
+      "focus": "Akkusativ maskulin · nach *einen*",
+      "explanation": "*haben* takes an Akkusativ object, and *Freund* is masculine → **einen**. The article now shows the case with *-en*, so the adjective takes the weak ending **-en**: neu + -en → **neuen**.",
+      "pattern": "einen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich habe einen neuer Freund.", "why": "*-er* is only for the masculine Nominativ (*ein neuer Freund*). In the Akkusativ the article becomes *einen*, and the adjective *-en*."},
+      "examples": [
+        {"de": "Wir haben einen großen Garten.", "en": "We have a big garden."},
+        {"de": "Er sucht einen günstigen Flug.", "en": "He is looking for a cheap flight."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie kauft eine {{c1::rote::rot}} Tasche.",
+      "en": "She is buying a red bag.",
+      "focus": "Akkusativ feminin · nach *eine*",
+      "explanation": "*Tasche* is the feminine Akkusativ object of *kaufen*. The feminine Akkusativ looks like the Nominativ: *eine* + **-e**: rot + -e → **rote**.",
+      "pattern": "eine + Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Sie kauft eine roten Tasche.", "why": "Only the masculine Akkusativ changes to *-en*. Feminine Akkusativ keeps *eine* + *-e*."},
+      "examples": [
+        {"de": "Ich brauche eine neue Brille.", "en": "I need new glasses."},
+        {"de": "Er schreibt eine kurze Nachricht.", "en": "He is writing a short message."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er hat ein {{c1::schnelles::schnell}} Auto.",
+      "en": "He has a fast car.",
+      "focus": "Akkusativ neutral · nach *ein*",
+      "explanation": "*Auto* is neuter and the Akkusativ object of *haben*. Neuter Akkusativ *ein* has no ending (the same as the Nominativ), so the adjective carries **-es**: schnell + -es → **schnelles**.",
+      "pattern": "ein + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er hat ein schnellen Auto.", "why": "*-en* belongs to the masculine Akkusativ after *einen*. A neuter noun keeps *ein* + *-es* in the Akkusativ."},
+      "examples": [
+        {"de": "Wir suchen ein ruhiges Hotel.", "en": "We're looking for a quiet hotel."},
+        {"de": "Sie hat ein großes Problem.", "en": "She has a big problem."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich wohne in einem {{c1::großen::groß}} Haus.",
+      "en": "I live in a big house.",
+      "focus": "Dativ neutral · *in* + Ort (wo?)",
+      "explanation": "*wohnen* is a location (*wo?*) → *in* + Dativ. *Haus* is neuter → *einem*. In the Dativ every adjective after an article takes **-en**: groß + -en → **großen**.",
+      "pattern": "in + einem + Adj-**en** + Nomen (Dat. n.)",
+      "mistake": {"wrong": "Ich wohne in einem großes Haus.", "why": "*-es* is only for the neuter Nominativ/Akkusativ, where *ein* has no ending. Once the article has *-em*, the adjective takes *-en*."},
+      "examples": [
+        {"de": "Sie arbeitet in einem kleinen Büro.", "en": "She works in a small office."},
+        {"de": "Wir übernachten in einem alten Schloss.", "en": "We're staying the night in an old castle."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie spricht mit einer {{c1::netten::nett}} Frau.",
+      "en": "She is talking with a nice woman.",
+      "focus": "Dativ feminin · nach *mit*",
+      "explanation": "*mit* always takes the Dativ, and *Frau* is feminine → *einer*. The Dativ is an **-en** slot: nett + -en → **netten**.",
+      "pattern": "mit + einer + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Sie spricht mit einer nette Frau.", "why": "*eine nette* is the Nominativ/Akkusativ form. After *einer* (Dativ) the adjective must take *-en*."},
+      "examples": [
+        {"de": "Er telefoniert mit einer alten Freundin.", "en": "He is on the phone with an old friend."},
+        {"de": "Ich fahre mit einer guten Kollegin zur Konferenz.", "en": "I'm going to the conference with a good colleague."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Wir essen mit einem {{c1::guten::gut}} Freund.",
+      "en": "We are eating with a good friend.",
+      "focus": "Dativ maskulin · nach *mit*",
+      "explanation": "*mit* + Dativ; *Freund* is masculine → *einem*. The article ending *-em* shows the Dativ, so the adjective is weak: **-en** → **guten**.",
+      "pattern": "mit + einem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Wir essen mit einem guter Freund.", "why": "*guter* is the masculine Nominativ after *ein*. With *einem* the case is already shown, and the adjective takes *-en*."},
+      "examples": [
+        {"de": "Sie reist mit einem kleinen Koffer.", "en": "She travels with a small suitcase."},
+        {"de": "Er spricht gerade mit einem neuen Kunden.", "en": "He is talking to a new customer right now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich brauche keinen {{c1::neuen::neu}} Computer.",
+      "en": "I don't need a new computer.",
+      "focus": "Akkusativ maskulin · nach *kein*",
+      "explanation": "*kein* has exactly the same endings as *ein*. *Computer* is the masculine Akkusativ object of *brauchen* → **keinen**, and after it the adjective takes **-en**: **neuen**.",
+      "pattern": "keinen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich brauche kein neuen Computer.", "why": "*kein* must show the masculine Akkusativ itself: *keinen*. The adjective ending alone is not enough."},
+      "examples": [
+        {"de": "Wir haben keinen eigenen Garten.", "en": "We don't have our own garden."},
+        {"de": "Sie hat keinen festen Job.", "en": "She doesn't have a permanent job."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er trägt einen {{c1::warmen::warm}} Mantel.",
+      "en": "He's wearing a warm coat.",
+      "focus": "Akkusativ maskulin · Kleidung",
+      "explanation": "*tragen* (to wear) takes an Akkusativ object. *Mantel* is masculine → **einen**, and the adjective after it takes **-en**: warm + -en → **warmen**.",
+      "pattern": "tragen + einen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Er trägt einen warme Mantel.", "why": "*-e* only follows the feminine *eine* (*eine warme Jacke*). After *einen* the adjective always ends in *-en*."},
+      "examples": [
+        {"de": "Sie trägt heute einen langen Rock.", "en": "She's wearing a long skirt today."},
+        {"de": "Ich ziehe einen dicken Pullover an.", "en": "I'm putting on a thick jumper."}
+      ],
+      "words": [{"de": "tragen (trägt)", "en": "to wear; to carry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Das ist mein {{c1::neues::neu}} Buch.",
+      "en": "That is my new book.",
+      "focus": "Nominativ neutral · nach Possessivartikel",
+      "explanation": "Possessive articles (*mein, dein, sein …*) decline like *ein*. In the neuter Nominativ *mein* has no ending, so the adjective shows the neuter: **-es** → **neues**.",
+      "pattern": "mein + Adj-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das ist mein neue Buch.", "why": "*mein* stands in the place of *das*, but unlike *das* it has no ending here. The adjective has to show the neuter with *-es*: *mein neues Buch*."},
+      "examples": [
+        {"de": "Das ist unser altes Auto.", "en": "That's our old car."},
+        {"de": "Wie findest du sein neues Fahrrad?", "en": "What do you think of his new bike?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie ist eine {{c1::interessante::interessant}} Person.",
+      "en": "She is an interesting person.",
+      "focus": "Nominativ feminin · Genus von *Person*",
+      "explanation": "*die Person* is always feminine, even when it refers to a man. After *sein* it is Nominativ → *eine* + **-e**: interessant + -e → **interessante**.",
+      "pattern": "eine + Adj-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Sie ist eine interessanter Person.", "why": "*-er* after *ein* signals a masculine noun. *Person* is feminine, so the ending is *-e*."},
+      "examples": [
+        {"de": "Er ist eine sehr ruhige Person.", "en": "He is a very calm person."},
+        {"de": "Berlin ist eine spannende Stadt.", "en": "Berlin is an exciting city."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich brauche einen {{c1::starken::stark}} Kaffee.",
+      "en": "I need a strong coffee.",
+      "focus": "Akkusativ maskulin · Objekt von *brauchen*",
+      "explanation": "*brauchen* takes an Akkusativ object. *Kaffee* is masculine → *einen*, and the adjective takes **-en**: stark + -en → **starken**.",
+      "pattern": "einen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich brauche ein starker Kaffee.", "why": "*ein starker Kaffee* is the Nominativ. As the object of *brauchen* the masculine phrase must be Akkusativ: first *einen*, then *starken*."},
+      "examples": [
+        {"de": "Ich nehme einen grünen Tee, bitte.", "en": "I'll have a green tea, please."},
+        {"de": "Nach dem Essen trinkt er einen kleinen Espresso.", "en": "After the meal he drinks a small espresso."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er hat ein {{c1::schönes::schön}} Lächeln.",
+      "en": "He has a beautiful smile.",
+      "focus": "Akkusativ neutral · Nomen aus Infinitiv",
+      "explanation": "*das Lächeln* (the smile) is a noun made from the verb *lächeln*; all such nouns are neuter. Neuter Akkusativ after *ein* → **-es**: schön + -es → **schönes**.",
+      "pattern": "ein + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er hat einen schönen Lächeln.", "why": "*einen* is masculine. Nouns made from an infinitive are neuter (*das Lächeln, das Essen*), so it is *ein schönes Lächeln*."},
+      "examples": [
+        {"de": "Sie hat ein lautes Lachen.", "en": "She has a loud laugh."},
+        {"de": "Wir haben ein spannendes Spiel gesehen.", "en": "We watched an exciting game."}
+      ],
+      "words": [{"de": "das Lächeln", "en": "smile"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir fahren mit einem {{c1::alten::alt}} Auto.",
+      "en": "We're driving an old car.",
+      "focus": "Dativ neutral · *mit* + Verkehrsmittel",
+      "explanation": "Means of transport take *mit* + Dativ (*mit dem Auto, mit einem Auto*). *Auto* is neuter → *einem*, and every Dativ adjective after an article takes **-en**: **alten**.",
+      "pattern": "mit + einem + Adj-**en** + Nomen (Dat. n.)",
+      "mistake": {"wrong": "Wir fahren mit einem altes Auto.", "why": "*-es* is the neuter ending for Nominativ/Akkusativ only. After *einem* the adjective takes *-en*."},
+      "examples": [
+        {"de": "Sie fährt mit einem neuen Fahrrad zur Arbeit.", "en": "She rides to work on a new bike."},
+        {"de": "Wir sind mit einem kleinen Boot zur Insel gefahren.", "en": "We went to the island in a small boat."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie ist mit einem {{c1::netten::nett}} Mann verheiratet.",
+      "en": "She's married to a nice man.",
+      "focus": "Dativ maskulin · *verheiratet mit*",
+      "explanation": "*verheiratet sein mit* takes the Dativ (English says *married to*). *Mann* is masculine → *einem*, adjective **-en** → **netten**.",
+      "pattern": "verheiratet mit + einem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Sie ist mit einen netten Mann verheiratet.", "why": "*einen* is the Akkusativ. *mit* always takes the Dativ, so the article is *einem*."},
+      "examples": [
+        {"de": "Er ist mit einer bekannten Sängerin verheiratet.", "en": "He is married to a well-known singer."},
+        {"de": "Sie ist mit einem jungen Arzt befreundet.", "en": "She is friends with a young doctor."}
+      ],
+      "words": [{"de": "verheiratet (mit + Dat.)", "en": "married (to)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das ist eine {{c1::gute::gut}} Idee.",
+      "en": "That's a good idea.",
+      "focus": "Nominativ feminin · häufige Reaktion",
+      "explanation": "*Das ist eine gute Idee* is a very common reaction to a suggestion. *Idee* is feminine Nominativ → *eine* + **-e**: gut + -e → **gute**.",
+      "pattern": "das ist + eine + Adj-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Das ist ein gute Idee.", "why": "*Idee* is feminine, so the article itself needs *-e*: *eine*. The adjective after *eine* takes *-e*."},
+      "examples": [
+        {"de": "Das ist eine schöne Überraschung.", "en": "That's a nice surprise."},
+        {"de": "Das war eine kluge Entscheidung.", "en": "That was a wise decision."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich habe ein {{c1::langes::lang}} Wochenende.",
+      "en": "I have a long weekend.",
+      "focus": "Akkusativ neutral · Kompositum",
+      "explanation": "*das Wochenende* is neuter: in a compound the last part gives the gender (*das Ende*). Neuter Akkusativ after *ein* → **-es**: lang + -es → **langes**.",
+      "pattern": "ein + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Ich habe einen langen Wochenende.", "why": "*Woche* is feminine, but the compound takes the gender of its last part *das Ende*. Neuter Akkusativ: *ein langes Wochenende*."},
+      "examples": [
+        {"de": "Wir planen ein ruhiges Wochenende.", "en": "We're planning a quiet weekend."},
+        {"de": "Sie hatte ein schweres Jahr.", "en": "She had a difficult year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er trägt einen {{c1::schwarzen::schwarz}} Hut.",
+      "en": "He's wearing a black hat.",
+      "focus": "Akkusativ maskulin · Farbadjektiv",
+      "explanation": "*Hut* is masculine and the Akkusativ object of *tragen* → *einen* + **-en** → **schwarzen**. Colour adjectives decline like all other adjectives (only a few loan words such as *lila* and *rosa* stay unchanged).",
+      "pattern": "einen + Farbe-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Er trägt einen schwarz Hut.", "why": "An adjective directly before a noun always needs an ending, also a colour: *einen schwarzen Hut*."},
+      "examples": [
+        {"de": "Sie trägt einen roten Schal.", "en": "She's wearing a red scarf."},
+        {"de": "Er hat sich einen blauen Anzug gekauft.", "en": "He bought himself a blue suit."}
+      ],
+      "words": [{"de": "der Hut (¨-e)", "en": "hat"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Das ist ein {{c1::guter::gut}} Vorschlag.",
+      "en": "That's a good suggestion.",
+      "focus": "Nominativ maskulin · Artikel ohne Endung",
+      "explanation": "*Vorschlag* is masculine, and after *das ist* it is Nominativ → *ein* with no ending. The adjective must carry the masculine signal, the *-r* of *der*: gut + -er → **guter**.",
+      "pattern": "ein + Adj-**er** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Das ist ein gut Vorschlag.", "why": "Before a noun the adjective always needs an ending. Here neither *ein* nor the adjective would show the gender: *ein guter Vorschlag*."},
+      "examples": [
+        {"de": "Das war ein schöner Abend.", "en": "That was a lovely evening."},
+        {"de": "Ist das ein neuer Trend?", "en": "Is that a new trend?"}
+      ],
+      "words": [{"de": "der Vorschlag (¨-e)", "en": "suggestion"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Sie hat ein {{c1::großes::groß}} Haus gekauft.",
+      "en": "She bought a big house.",
+      "focus": "Akkusativ neutral · Perfekt",
+      "explanation": "*Haus* is neuter and the Akkusativ object of *kaufen*. *ein* has no ending, so the adjective carries the *-s* of *das*: groß + -es → **großes**. The Partizip *gekauft* at the end does not change the ending.",
+      "pattern": "ein + Adj-**es** + Nomen (Akk. n.) … Partizip II",
+      "mistake": {"wrong": "Sie hat ein großen Haus gekauft.", "why": "*-en* after *ein* would need a masculine Akkusativ article *einen*. Neuter Akkusativ is *ein großes Haus*."},
+      "examples": [
+        {"de": "Wir haben ein gebrauchtes Auto gekauft.", "en": "We bought a used car."},
+        {"de": "Er hat ein teures Geschenk mitgebracht.", "en": "He brought an expensive present."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Ich suche eine {{c1::ruhige::ruhig}} Wohnung.",
+      "en": "I'm looking for a quiet flat.",
+      "focus": "Akkusativ feminin · Objekt von *suchen*",
+      "explanation": "*suchen* takes an Akkusativ object; *Wohnung* is feminine → *eine*. Feminine takes **-e** in both the Nominativ and the Akkusativ: ruhig + -e → **ruhige**.",
+      "pattern": "eine + Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Ich suche einen ruhigen Wohnung.", "why": "*einen* is masculine. *Wohnung* is feminine (all nouns in *-ung* are), so it stays *eine ruhige Wohnung*."},
+      "examples": [
+        {"de": "Wir suchen eine günstige Unterkunft.", "en": "We're looking for cheap accommodation."},
+        {"de": "Ich suche eine nette Mitbewohnerin.", "en": "I'm looking for a nice flatmate."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er ist ein {{c1::netter::nett}} Mensch.",
+      "en": "He is a nice person.",
+      "focus": "Nominativ maskulin · n-Deklination",
+      "explanation": "*Mensch* is masculine and Nominativ after *ist* → *ein* + **-er**: **netter**. *Mensch* belongs to the n-Deklination, so in the other cases the noun also changes: *einen netten Menschen, mit einem netten Menschen*.",
+      "pattern": "ein + Adj-**er** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Er ist ein netten Menschen.", "why": "The n-Deklination *-en* appears only outside the Nominativ singular. After *ist* the phrase is Nominativ: *ein netter Mensch*."},
+      "examples": [
+        {"de": "Er ist ein bekannter Journalist.", "en": "He is a well-known journalist."},
+        {"de": "Herr Yilmaz ist ein sehr höflicher Kunde.", "en": "Mr Yilmaz is a very polite customer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Wir haben einen {{c1::interessanten::interessant}} Film gesehen.",
+      "en": "We watched an interesting film.",
+      "focus": "Akkusativ maskulin · Perfekt",
+      "explanation": "*Film* is the masculine Akkusativ object of *sehen* → **einen**, and the adjective matches with **-en**: **interessanten**. Article and adjective both end in *-en*.",
+      "pattern": "einen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Wir haben ein interessanter Film gesehen.", "why": "*ein interessanter Film* is the Nominativ. As the object, the masculine phrase changes to *einen interessanten Film*."},
+      "examples": [
+        {"de": "Ich habe einen langen Brief geschrieben.", "en": "I wrote a long letter."},
+        {"de": "Sie hat einen tollen Job gefunden.", "en": "She has found a great job."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich wohne in einer {{c1::kleinen::klein}} Stadt.",
+      "en": "I live in a small town.",
+      "focus": "Dativ feminin · *in* + Ort (wo?)",
+      "explanation": "*wohnen* is a location → *in* + Dativ. *Stadt* is feminine → *einer*, and the adjective takes **-en**: **kleinen**.",
+      "pattern": "in + einer + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Ich wohne in einer kleine Stadt.", "why": "Learners keep the feminine *-e* from the Nominativ. In the Dativ (*einer*) the adjective ends in *-en*."},
+      "examples": [
+        {"de": "Er arbeitet in einer großen Bank.", "en": "He works at a big bank."},
+        {"de": "Sie studiert an einer bekannten Universität.", "en": "She studies at a well-known university."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Sie kam mit einem {{c1::alten::alt}} Auto.",
+      "en": "She came in an old car.",
+      "focus": "Dativ neutral · Präteritum",
+      "explanation": "*mit* + Dativ: *Auto* is neuter → *einem* + **-en**. Every Dativ form after an article takes *-en*, whatever the gender and article type. *kam* is the Präteritum of *kommen*.",
+      "pattern": "mit + einem + Adj-**en** + Nomen (Dat. n.)",
+      "mistake": {"wrong": "Sie kam mit ein altes Auto.", "why": "*ein altes Auto* is the Nominativ/Akkusativ form. *mit* requires the Dativ: *einem alten Auto*."},
+      "examples": [
+        {"de": "Er kam mit einem riesigen Blumenstrauß.", "en": "He came with a huge bunch of flowers."},
+        {"de": "Die Nachbarn kamen mit einem großen Hund.", "en": "The neighbours came with a big dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Das ist kein {{c1::gutes::gut}} Zeichen.",
+      "en": "That's not a good sign.",
+      "focus": "Nominativ neutral · nach *kein*",
+      "explanation": "*kein* declines exactly like *ein*. *Zeichen* is neuter Nominativ → *kein* has no ending, so the adjective takes **-es**: **gutes**.",
+      "pattern": "kein + Adj-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das ist kein gute Zeichen.", "why": "*kein* has no ending in the neuter Nominativ, just like *ein*. The adjective must show the neuter: *kein gutes Zeichen*."},
+      "examples": [
+        {"de": "Das ist kein schlechtes Angebot.", "en": "That's not a bad offer."},
+        {"de": "Das war kein einfaches Gespräch.", "en": "That wasn't an easy conversation."}
+      ],
+      "words": [{"de": "das Zeichen (-)", "en": "sign"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich habe {{c1::kalten::kalt}} Tee getrunken.",
+      "en": "I drank cold tea.",
+      "focus": "Akkusativ maskulin · ohne Artikel",
+      "explanation": "With **no article** the adjective takes the ending of the definite article: *den Tee* → kalt + -en → **kalten** *Tee*. *Tee* is masculine and the Akkusativ object of *trinken*.",
+      "pattern": "Adj-**en** + Nomen (Akk. m., ohne Artikel)",
+      "mistake": {"wrong": "Ich habe kalter Tee getrunken.", "why": "*kalter Tee* is the Nominativ (like *der Tee*). As the object it is Akkusativ, like *den Tee*: *kalten Tee*."},
+      "examples": [
+        {"de": "Wir trinken heißen Kakao.", "en": "We're drinking hot cocoa."},
+        {"de": "Er isst gern frischen Fisch.", "en": "He likes eating fresh fish."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wir brauchen {{c1::frische::frisch}} Luft.",
+      "en": "We need fresh air.",
+      "focus": "Akkusativ feminin · ohne Artikel",
+      "explanation": "No article: the adjective takes the ending of *die*, which is **-e**. *Luft* is feminine and the Akkusativ object of *brauchen* → frisch + -e → **frische**.",
+      "pattern": "Adj-**e** + Nomen (Akk. f., ohne Artikel)",
+      "mistake": {"wrong": "Wir brauchen frischen Luft.", "why": "*-en* would be the masculine Akkusativ (*frischen Saft*). *Luft* is feminine, and *die* → *-e*: *frische Luft*."},
+      "examples": [
+        {"de": "Wir suchen gute Musik für die Party.", "en": "We're looking for good music for the party."},
+        {"de": "Ich trinke gern heiße Schokolade.", "en": "I like drinking hot chocolate."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Sie trinkt Kaffee mit {{c1::warmer::warm}} Milch.",
+      "en": "She drinks coffee with warm milk.",
+      "focus": "Dativ feminin · ohne Artikel",
+      "explanation": "*mit* takes the Dativ, and there is no article. So the adjective takes the ending of the feminine Dativ article *der*: warm + -er → **warmer**.",
+      "pattern": "mit + Adj-**er** + Nomen (Dat. f., ohne Artikel)",
+      "mistake": {"wrong": "Sie trinkt Kaffee mit warmen Milch.", "why": "After *einer* the ending would be *-en*, but here there is no article. The adjective must show the Dativ itself, like *der*: *mit warmer Milch*."},
+      "examples": [
+        {"de": "Er schreibt mit roter Farbe.", "en": "He writes in red paint."},
+        {"de": "Wir backen das Brot mit frischer Hefe.", "en": "We bake the bread with fresh yeast."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Das sind {{c1::schöne::schön}} Blumen.",
+      "en": "Those are beautiful flowers.",
+      "focus": "Nominativ Plural · ohne Artikel",
+      "explanation": "*ein* has no plural, so the plural of *eine schöne Blume* has no article. Then the adjective takes the ending of *die*: **-e** → **schöne**. With a possessive or *kein* it would be *-en*: *meine schönen Blumen*.",
+      "pattern": "Adj-**e** + Nomen (Nom. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Das sind schönen Blumen.", "why": "*-en* in the plural needs an article in front (*die, keine, meine*). Without an article the plural adjective takes *-e* in the Nominativ and Akkusativ."},
+      "examples": [
+        {"de": "Das sind neue Regeln.", "en": "Those are new rules."},
+        {"de": "Hier wohnen viele junge Familien.", "en": "Lots of young families live here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Er arbeitet mit {{c1::netten::nett}} Leuten.",
+      "en": "He works with nice people.",
+      "focus": "Dativ Plural · ohne Artikel",
+      "explanation": "*mit* + Dativ; *Leute* only exists in the plural. Without an article the adjective takes the ending of *den* → **-en**, and the noun adds the Dativ plural *-n*: *netten Leuten*.",
+      "pattern": "mit + Adj-**en** + Nomen-n (Dat. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Er arbeitet mit nette Leute.", "why": "*nette Leute* is Nominativ/Akkusativ. In the Dativ plural both words change: *netten Leuten*."},
+      "examples": [
+        {"de": "Sie spricht gern mit alten Menschen.", "en": "She likes talking to old people."},
+        {"de": "Wir wohnen in einem Haus mit großen Fenstern.", "en": "We live in a house with big windows."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ich hätte gern ein {{c1::kaltes::kalt}} Bier.",
+      "en": "I'd like a cold beer.",
+      "focus": "Akkusativ neutral · höfliche Bestellung",
+      "explanation": "*Ich hätte gern* + Akkusativ is the standard polite way to order. *Bier* is neuter, and *ein* has no ending → the adjective takes **-es**: kalt + -es → **kaltes**.",
+      "pattern": "Ich hätte gern + ein + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Ich hätte gern ein kalten Bier.", "why": "*-en* after *ein* is impossible: with *ein* the adjective takes *-er* (m) or *-es* (n). *Bier* is neuter → *kaltes*."},
+      "examples": [
+        {"de": "Ich hätte gern ein großes Wasser.", "en": "I'd like a large water."},
+        {"de": "Wir hätten gern einen ruhigen Tisch am Fenster.", "en": "We'd like a quiet table by the window."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Meine {{c1::neuen::neu}} Nachbarn sind sehr freundlich.",
+      "en": "My new neighbours are very friendly.",
+      "focus": "Nominativ Plural · nach Possessivartikel",
+      "explanation": "*Nachbarn* is plural and the subject → Nominativ Plural *meine*. After a possessive (or *kein*) every plural adjective takes **-en**: neu + -en → **neuen**. *freundlich* after *sind* is predicative and has no ending.",
+      "pattern": "meine + Adj-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Meine neue Nachbarn sind sehr freundlich.", "why": "*meine* + *-e* is feminine singular (*meine neue Nachbarin*). With a plural noun after *meine* the adjective ends in *-en*."},
+      "examples": [
+        {"de": "Unsere alten Freunde kommen am Samstag.", "en": "Our old friends are coming on Saturday."},
+        {"de": "Deine neuen Schuhe sind toll.", "en": "Your new shoes are great."}
+      ],
+      "words": [{"de": "der Nachbar (-n)", "en": "neighbour"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir haben keine {{c1::frischen::frisch}} Eier mehr.",
+      "en": "We don't have any fresh eggs left.",
+      "focus": "Akkusativ Plural · nach *kein*",
+      "explanation": "*kein* has a plural (*keine*), unlike *ein*. *Eier* is the plural Akkusativ object of *haben* → *keine*, and after it the adjective takes **-en**: **frischen**. *kein … mehr* = no more / not any left.",
+      "pattern": "keine + Adj-**en** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Wir haben keine frische Eier mehr.", "why": "*keine* with a plural noun works like *die*: the adjective takes *-en*. *frische Eier* (with *-e*) is only correct without an article."},
+      "examples": [
+        {"de": "Ich habe keine sauberen Socken mehr.", "en": "I don't have any clean socks left."},
+        {"de": "Es gibt hier keine billigen Wohnungen.", "en": "There are no cheap flats here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Unser {{c1::neues::neu}} Büro liegt im Zentrum.",
+      "en": "Our new office is in the centre.",
+      "focus": "Nominativ neutral · nach *unser*",
+      "explanation": "The *-er* of *unser* belongs to the word itself, it is not an ending. In the neuter Nominativ *unser* has no ending, so the adjective takes **-es**: neu + -es → **neues**.",
+      "pattern": "unser + Adj-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Unser neuer Büro liegt im Zentrum.", "why": "Learners read *unser* like *der* and copy its *-er*. *Büro* is neuter, and *unser* has no ending here, so the adjective needs *-es*."},
+      "examples": [
+        {"de": "Euer altes Haus war viel größer.", "en": "Your old house was much bigger."},
+        {"de": "Unser kleines Team arbeitet sehr gut zusammen.", "en": "Our small team works together very well."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Das war ein {{c1::teures::teuer}} Abendessen.",
+      "en": "That was an expensive dinner.",
+      "focus": "Nominativ neutral · Stamm auf *-er*",
+      "explanation": "*Abendessen* is neuter Nominativ after *war* → *ein* + **-es**. *teuer* drops the *e* of its stem when an ending is added: teuer → teur- → **teures**.",
+      "pattern": "ein + Adj-**es** + Nomen (Nom. n.), teuer → teur-",
+      "mistake": {"wrong": "Das war ein teuer Abendessen.", "why": "Before a noun the adjective needs an ending. *ein* has no ending in the neuter Nominativ, so the adjective takes *-es*, and with an ending *teuer* loses the *e* before *r*: *ein teures Abendessen* (also *teure, teuren*; the same with *sauer → saures*)."},
+      "examples": [
+        {"de": "Wir haben ein saures Bonbon gegessen.", "en": "We ate a sour sweet."},
+        {"de": "Er fährt ein ziemlich teures Auto.", "en": "He drives a rather expensive car."}
+      ],
+      "words": [{"de": "das Abendessen (-)", "en": "dinner, evening meal"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir wohnen im fünften Stock eines {{c1::hohen::hoch}} Hauses.",
+      "en": "We live on the fifth floor of a tall building.",
+      "focus": "Genitiv neutral · *hoch*",
+      "explanation": "*eines … Hauses* says whose fifth floor → Genitiv; neuter Genitiv is *eines* + noun with *-es*. Every Genitiv adjective after an article takes **-en**. *hoch* loses the *c* before an ending: hoch → hoh- → **hohen**.",
+      "pattern": "eines + Adj-**en** + Nomen-(e)s (Gen. n.)",
+      "mistake": {"wrong": "Wir wohnen im fünften Stock eines hochen Hauses.", "why": "Before any ending *hoch* becomes *hoh-*: *ein hohes Haus, eines hohen Hauses*. Only without an ending does it stay *hoch* (*Das Haus ist hoch*)."},
+      "examples": [
+        {"de": "Das ist das Auto eines guten Freundes.", "en": "That's the car of a good friend."},
+        {"de": "Sie ist die Tochter einer bekannten Schauspielerin.", "en": "She is the daughter of a famous actress."}
+      ],
+      "words": [{"de": "der Stock (Stockwerke)", "en": "floor, storey"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ich habe meinem {{c1::kleinen::klein}} Bruder ein Fahrrad geschenkt.",
+      "en": "I gave my little brother a bike.",
+      "focus": "Dativ maskulin · nach Possessivartikel",
+      "explanation": "*schenken* has a Dativ object (the receiver) and an Akkusativ object (the gift). *Bruder* is masculine → Dativ *meinem*, and after it the adjective takes **-en**: **kleinen**.",
+      "pattern": "meinem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Ich habe meinem kleiner Bruder ein Fahrrad geschenkt.", "why": "*kleiner* is the masculine Nominativ after *mein*. When the article already shows the Dativ (*meinem*), the adjective ends in *-en*."},
+      "examples": [
+        {"de": "Sie hat ihrer besten Freundin alles erzählt.", "en": "She told her best friend everything."},
+        {"de": "Wir helfen unserem alten Nachbarn im Garten.", "en": "We're helping our old neighbour in the garden."}
+      ],
+      "words": [{"de": "schenken", "en": "to give (as a present)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wegen einer {{c1::wichtigen::wichtig}} Besprechung komme ich später.",
+      "en": "Because of an important meeting I'll be late.",
+      "focus": "Genitiv feminin · nach *wegen*",
+      "explanation": "*wegen* takes the Genitiv in standard German. *Besprechung* is feminine → Genitiv *einer* (the same form as the Dativ), and the adjective takes **-en**: **wichtigen**.",
+      "pattern": "wegen + einer + Adj-**en** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Wegen einer wichtige Besprechung komme ich später.", "why": "*-e* fits only the feminine Nominativ/Akkusativ (*eine wichtige Besprechung*). After *einer* (Genitiv or Dativ) the adjective takes *-en*."},
+      "examples": [
+        {"de": "Wegen eines kleinen Fehlers mussten wir alles wiederholen.", "en": "Because of a small mistake we had to repeat everything."},
+        {"de": "Trotz einer langen Pause war ich noch müde.", "en": "Despite a long break I was still tired."}
+      ],
+      "words": [{"de": "die Besprechung (-en)", "en": "meeting (at work)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Im Hotel haben wir leider ein {{c1::dunkles::dunkel}} Zimmer bekommen.",
+      "en": "Unfortunately we got a dark room at the hotel.",
+      "focus": "Akkusativ neutral · Stamm auf *-el*",
+      "explanation": "*Zimmer* is neuter and the Akkusativ object of *bekommen* → *ein* + **-es**. Adjectives in *-el* drop the *e* of the stem before an ending: dunkel → dunkl- → **dunkles**.",
+      "pattern": "ein + Adj-**es** + Nomen (Akk. n.), dunkel → dunkl-",
+      "mistake": {"wrong": "Im Hotel haben wir leider ein dunkeles Zimmer bekommen.", "why": "*-el* adjectives always lose the *e* before an ending: *dunkles, dunkle, dunklen*. The same applies to *eitel* and *nobel*."},
+      "examples": [
+        {"de": "Das ist ein ziemlich simples Rezept.", "en": "That's a fairly simple recipe."},
+        {"de": "Sie trägt ein dunkles Kleid.", "en": "She's wearing a dark dress."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Habt ihr euer {{c1::altes::alt}} Sofa schon verkauft?",
+      "en": "Have you already sold your old sofa?",
+      "focus": "Akkusativ neutral · nach *euer*",
+      "explanation": "*euer* (your, for *ihr*) declines like *ein*; its *-er* is part of the word. *Sofa* is the neuter Akkusativ object → *euer* has no ending, so the adjective takes **-es**: **altes**. With an ending *euer* drops the *e*: *eure, euren*.",
+      "pattern": "euer + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Habt ihr euer alte Sofa schon verkauft?", "why": "*euer* has no ending here, so the adjective must show the neuter with *-es*: *euer altes Sofa*."},
+      "examples": [
+        {"de": "Wann zeigt ihr uns eure neue Wohnung?", "en": "When are you going to show us your new flat?"},
+        {"de": "Ihr habt ein wunderschönes Haus.", "en": "You have a beautiful house."}
+      ],
+      "words": [],
+      "production_cue": "(you = ihr, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich frage morgen einen {{c1::erfahrenen::erfahren}} Kollegen.",
+      "en": "Tomorrow I'll ask an experienced colleague.",
+      "focus": "Akkusativ maskulin · n-Deklination",
+      "explanation": "*fragen* takes an Akkusativ object; *Kollege* is masculine → *einen*, and the adjective takes **-en**: **erfahrenen**. *Kollege* is an n-Deklination noun, so the noun also adds *-n*: *Kollegen*.",
+      "pattern": "einen + Adj-**en** + Nomen-n (Akk. m., n-Deklination)",
+      "mistake": {"wrong": "Ich frage morgen einen erfahrenen Kollege.", "why": "The adjective is correct, but *Kollege* belongs to the n-Deklination: every case except the Nominativ singular ends in *-n*."},
+      "examples": [
+        {"de": "Wir suchen einen jungen Praktikanten.", "en": "We're looking for a young intern."},
+        {"de": "Sie hat einen netten Polizisten nach dem Weg gefragt.", "en": "She asked a friendly police officer for directions."}
+      ],
+      "words": [{"de": "erfahren", "en": "experienced"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Wir haben ein {{c1::kleines::klein}}, gemütliches Café gefunden.",
+      "en": "We found a small, cosy café.",
+      "focus": "Akkusativ neutral · zwei Adjektive",
+      "explanation": "*Café* is neuter and the Akkusativ object → *ein* + **-es**. When two adjectives stand before the noun, both take the same ending: *ein* **kleines**, *gemütliches Café*. A comma separates equal adjectives.",
+      "pattern": "ein + Adj-**es**, Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Wir haben ein kleine, gemütliches Café gefunden.", "why": "Each adjective before the noun gets the full ending. After *ein* (neuter Akkusativ) both need *-es*."},
+      "examples": [
+        {"de": "Sie hat einen langen, interessanten Artikel geschrieben.", "en": "She wrote a long, interesting article."},
+        {"de": "Er wohnt in einer hellen, modernen Wohnung.", "en": "He lives in a bright, modern flat."}
+      ],
+      "words": [{"de": "gemütlich", "en": "cosy, comfortable"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wie geht es Ihrer {{c1::kranken::krank}} Mutter?",
+      "en": "How is your sick mother?",
+      "focus": "Dativ feminin · formelles *Ihr*",
+      "explanation": "*Wie geht es* + Dativ asks how someone is. *Mutter* is feminine → Dativ of the formal possessive *Ihr*: **Ihrer**. After it the adjective takes **-en**: krank + -en → **kranken**.",
+      "pattern": "es geht + Ihrer + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Wie geht es Ihre kranke Mutter?", "why": "*es geht* names the person in the Dativ (*Wie geht es dir?*). The feminine Dativ is *Ihrer kranken Mutter*, not the Nominativ form."},
+      "examples": [
+        {"de": "Wie geht es deinem neuen Kollegen?", "en": "How is your new colleague?"},
+        {"de": "Wie geht es eurer kleinen Tochter?", "en": "How is your little daughter?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the article words.",
+      "prompt": "Which words are followed by the mixed adjective endings?",
+      "answer": "**ein** and **kein**, and all possessive articles: **mein, dein, sein, ihr, unser, euer, Ihr**.",
+      "explanation": "All these words have the same endings: no ending in masculine Nominativ and neuter Nominativ/Akkusativ, otherwise *-e, -en, -em, -er, -es*. Only *ein* has no plural form: the plural of *ein neues Buch* is *neue Bücher* (no article), while *kein* and the possessives have plural forms (*keine, meine*).",
+      "examples": [
+        {"de": "Mein neuer Laptop ist sehr leicht.", "en": "My new laptop is very light."},
+        {"de": "Das ist kein neuer Laptop.", "en": "That's not a new laptop."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the strong slots.",
+      "prompt": "In which three slots does the adjective after *ein* differ from the adjective after *der*, and why?",
+      "answer": "**Masculine Nominativ** (*ein nett**er** Mann* vs. *der nette Mann*) and **neuter Nominativ and Akkusativ** (*ein klein**es** Kind* vs. *das kleine Kind*). In these slots *ein* has no ending, so the adjective takes the signal of *der* (-r) or *das* (-s).",
+      "explanation": "The gender and case must be visible once in the noun phrase. When the article shows them, the adjective is weak (*-e/-en*); when the article is bare *ein*, the adjective carries the strong ending.",
+      "examples": [
+        {"de": "Ein großer Hund wartet vor der Tür.", "en": "A big dog is waiting outside the door."},
+        {"de": "Der große Hund gehört meinem Nachbarn.", "en": "The big dog belongs to my neighbour."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the two plural phrases.",
+      "prompt": "Why is it *meine neuen Schuhe* but *neue Schuhe*?",
+      "answer": "After a possessive or *keine* the plural adjective takes **-en** (the article shows the plural). Without an article the adjective must show it itself with **-e** in the Nominativ/Akkusativ (the ending of *die*).",
+      "explanation": "*ein* has no plural, so *ein neuer Schuh* becomes *neue Schuhe*. Possessives and *kein* do have plural forms (*meine, keine*), and after them all plural adjectives end in *-en*, as after *die*.",
+      "examples": [
+        {"de": "Ich brauche neue Schuhe.", "en": "I need new shoes."},
+        {"de": "Meine neuen Schuhe sind bequem.", "en": "My new shoes are comfortable."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about *unser* and *euer*.",
+      "prompt": "Why is *unser neues Haus* correct, but not *unser neuer Haus*?",
+      "answer": "The *-er* of *unser* and *euer* is part of the word, not a case ending. In the neuter Nominativ/Akkusativ they have **no ending**, so the adjective takes **-es** as after *ein*.",
+      "explanation": "*unser* works like *ein*: *unser Haus, unsere Wohnung, unseren Garten, unserem Kind*. *euer* also drops its second *e* when an ending is added: *eure Wohnung, euren Garten*.",
+      "examples": [
+        {"de": "Unser neues Haus hat einen Garten.", "en": "Our new house has a garden."},
+        {"de": "Wir mögen euren neuen Hund.", "en": "We like your new dog."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Wir haben ein ___ Problem mit der Heizung.",
+      "options": ["großer", "großes", "großen", "große"],
+      "correct": "großes",
+      "answer": "Wir haben ein großes Problem mit der Heizung.",
+      "explanation": "*Problem* is neuter and the Akkusativ object of *haben*. *ein* has no ending, so the adjective takes *-es*. *großer* is masculine, *großen* needs *einen* or a Dativ, and *große* fits only a feminine noun."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Er wohnt mit seiner ___ Freundin zusammen.",
+      "options": ["neue", "neuen", "neuer"],
+      "correct": "neuen",
+      "answer": "Er wohnt mit seiner neuen Freundin zusammen.",
+      "explanation": "*mit* takes the Dativ; *Freundin* is feminine → *seiner*. After the article the Dativ adjective ends in *-en*. *neue* is the Nominativ/Akkusativ form, and *neuer* would only fit with no article (*mit neuer Energie*)."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Hast du keinen ___ Schirm dabei?",
+      "options": ["kleiner", "kleinen", "kleines"],
+      "correct": "kleinen",
+      "answer": "Hast du keinen kleinen Schirm dabei?",
+      "explanation": "*Schirm* is masculine and the Akkusativ object of *haben* → *keinen*. After *keinen* the adjective takes *-en*. *kleiner* is the masculine Nominativ, and *kleines* is neuter."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist ein sehr gute Film.",
+      "answer": "Das ist ein sehr guter Film.",
+      "explanation": "*Film* is masculine and Nominativ after *das ist*. *ein* has no ending, so the adjective must take *-er*: *ein sehr guter Film*. *sehr* is an adverb and takes no ending."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Meine alte Freunde besuchen mich am Wochenende.",
+      "answer": "Meine alten Freunde besuchen mich am Wochenende.",
+      "explanation": "*Freunde* is plural, and after the possessive *meine* every plural adjective ends in *-en*: *meine alten Freunde*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Unser neuer Auto ist leider schon kaputt.",
+      "answer": "Unser neues Auto ist leider schon kaputt.",
+      "explanation": "*Auto* is neuter. *unser* has no ending in the neuter Nominativ (its *-er* is part of the word), so the adjective takes *-es*: *unser neues Auto*."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace the definite article with *ein*. Adjust the adjective.",
+      "prompt": "Das alte Fahrrad steht im Keller.",
+      "answer": "Ein altes Fahrrad steht im Keller.",
+      "explanation": "Neuter Nominativ: *das* shows the gender, so the adjective is weak (*alte*). *ein* has no ending, so the adjective takes the strong neuter ending *-es*: *ein altes Fahrrad*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Make the subject plural (*der Schuh → die Schuhe*). Keep *mein* and change the verb.",
+      "prompt": "Mein neuer Schuh ist kaputt.",
+      "answer": "Meine neuen Schuhe sind kaputt.",
+      "explanation": "The plural of *mein* is *meine*, and after it the plural adjective takes *-en*: *neuer → neuen*. The verb agrees with the plural subject: *ist → sind*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite as *Das ist …*, so that the noun phrase is Nominativ.",
+      "prompt": "Ich habe einen neuen Laptop.",
+      "answer": "Das ist ein neuer Laptop.",
+      "explanation": "After *das ist* the noun phrase is Nominativ. Masculine *einen* (Akk.) becomes *ein* without an ending, so the adjective changes from *-en* to the strong *-er*: *ein neuer Laptop*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie",
+      "prompt": "einen / kauft / Wintermantel / sie / dicken",
+      "answer": "Sie kauft einen dicken Wintermantel.",
+      "explanation": "Subject *sie*, verb *kauft* in position 2, then the Akkusativ object: article *einen*, adjective *dicken*, noun *Wintermantel*. The adjective always stands between the article and the noun."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "mit / einer / Kollegin / arbeite / ich / netten / zusammen",
+      "answer": "Ich arbeite mit einer netten Kollegin zusammen.",
+      "explanation": "*zusammenarbeiten* is separable: *arbeite* in position 2, *zusammen* at the end. *mit* + Dativ: *einer netten Kollegin* (feminine Dativ, adjective *-en*). *Ich arbeite zusammen mit einer netten Kollegin.* (with *zusammen mit* as one unit) is also correct."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence: put the adjective from the second sentence in front of the noun.",
+      "prompt": "Ich habe ein Fahrrad. Es ist neu.",
+      "answer": "Ich habe ein neues Fahrrad.",
+      "explanation": "In *Es ist neu* the adjective is predicative and has no ending. In front of the noun it needs one: *Fahrrad* is neuter Akkusativ after *ein* → *-es*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: put the adjective from the second sentence in front of the noun.",
+      "prompt": "Wir wohnen in einer Wohnung. Die Wohnung ist hell.",
+      "answer": "Wir wohnen in einer hellen Wohnung.",
+      "explanation": "*wohnen in* + Dativ, and *Wohnung* is feminine → *einer*. In the Dativ the adjective after an article ends in *-en*: *in einer hellen Wohnung*."
+    }
+  ]
+}

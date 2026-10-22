@@ -1,0 +1,546 @@
+{
+  "topic_id": "themen-02-restaurant",
+  "level": "A1-A2",
+  "title_de": "02 Restaurant & Café",
+  "title_en": "Restaurant & café",
+  "intro": "Getting a table, ordering, asking about ingredients and paying. You speak to the staff with *Sie*; friends at your table say *du*. In German-speaking countries the waiter does not bring the bill until you ask for it.",
+  "phrases": [
+    {
+      "key": "t00",
+      "de": "Einen Tisch für zwei, bitte.",
+      "en": "A table for two, please.",
+      "usage": "Say it at the entrance when a waiter greets you. The answer is often *Haben Sie reserviert?* or *Kommen Sie bitte mit.* In many cafés you simply choose a free table yourself.",
+      "grammar": "*einen Tisch* is Akkusativ because the verb is left out (*Wir hätten gern einen Tisch*). *der Tisch* is masculine → *einen*. *für* takes the Akkusativ; the noun *Personen* after *zwei* is understood.",
+      "alternatives": [
+        {
+          "de": "Haben Sie einen Tisch für zwei Personen?",
+          "en": "Do you have a table for two people?"
+        },
+        {
+          "de": "Wir sind zu zweit.",
+          "en": "There are two of us."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Tisch (-e)",
+          "en": "table"
+        }
+      ]
+    },
+    {
+      "key": "t01",
+      "de": "Die Speisekarte, bitte.",
+      "en": "The menu, please.",
+      "usage": "Ask for the menu if the waiter does not bring it. It sounds more polite as a question: *Könnten wir bitte die Karte haben?* Careful: *das Menü* is a set meal (in Switzerland especially the lunch menu), not the menu card.",
+      "grammar": "Akkusativ with the verb left out (*Bringen Sie mir die Speisekarte*). In a compound the last part decides the gender: *die Speise* + *die Karte* → *die Speisekarte*. Feminine Akkusativ = Nominativ form *die*.",
+      "alternatives": [
+        {
+          "de": "Könnten wir bitte die Karte haben?",
+          "en": "Could we have the menu, please?"
+        },
+        {
+          "de": "Haben Sie auch eine Getränkekarte?",
+          "en": "Do you also have a drinks menu?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Speisekarte (-n)",
+          "en": "menu (card)"
+        },
+        {
+          "de": "das Menü (-s)",
+          "en": "set meal"
+        }
+      ]
+    },
+    {
+      "key": "t02",
+      "de": "Was empfehlen Sie?",
+      "en": "What do you recommend?",
+      "usage": "Ask the waiter when you cannot decide. The answer is often *Heute ist der Fisch sehr gut.* or *Ich empfehle Ihnen das Tagesgericht.*",
+      "grammar": "*empfehlen* is a strong verb with e → ie in the du- and er-forms (*du empfiehlst, er empfiehlt*); the Sie-form equals the infinitive. In a full sentence it takes a Dativ person and an Akkusativ thing: Ich empfehle **Ihnen** **den** Fisch.",
+      "alternatives": [
+        {
+          "de": "Was können Sie empfehlen?",
+          "en": "What can you recommend?"
+        },
+        {
+          "de": "Was ist heute besonders gut?",
+          "en": "What is especially good today?"
+        }
+      ],
+      "words": [
+        {
+          "de": "empfehlen (empfiehlt)",
+          "en": "to recommend"
+        }
+      ]
+    },
+    {
+      "key": "t03",
+      "de": "Ich hätte gern einen Kaffee.",
+      "en": "I'd like a coffee.",
+      "usage": "The standard polite way to order in cafés, shops and restaurants. The waiter answers *Gern.* or *Sonst noch etwas?* In Switzerland a plain *Kaffee* is usually a *Café crème* (a long espresso).",
+      "grammar": "*hätte* is the Konjunktiv II of *haben*; *hätte gern* = 'would like' and is softer than *ich will*. *der Kaffee* is masculine and the Akkusativ object → *einen Kaffee*. *gern* and *gerne* are both correct.",
+      "alternatives": [
+        {
+          "de": "Einen Kaffee, bitte.",
+          "en": "A coffee, please."
+        },
+        {
+          "de": "Ich möchte einen Kaffee.",
+          "en": "I'd like a coffee."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t04",
+      "de": "Ich nehme das Tagesgericht.",
+      "en": "I'll have the dish of the day.",
+      "usage": "Your decision when you order. The dish of the day is usually cheaper at lunchtime. In Switzerland restaurants often offer a *Tagesmenü* or *Menü 1 / Menü 2* at lunch.",
+      "grammar": "German uses the Präsens for the immediate future (*I'll have*). *nehmen* is irregular only in the du- and er-forms (*du nimmst, er nimmt*). *das Tagesgericht* is neuter; the Akkusativ has the same form as the Nominativ.",
+      "alternatives": [
+        {
+          "de": "Das Tagesgericht, bitte.",
+          "en": "The dish of the day, please."
+        },
+        {
+          "de": "Ich hätte gern das Tagesmenü.",
+          "en": "I'd like today's set menu."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Tagesgericht (-e)",
+          "en": "dish of the day"
+        }
+      ]
+    },
+    {
+      "key": "t05",
+      "de": "Mit oder ohne Milch?",
+      "en": "With or without milk?",
+      "usage": "The waiter or a host asks this when you order coffee or tea. Answer *Mit, bitte.* or *Ohne, danke.*",
+      "grammar": "*mit* takes the Dativ, *ohne* the Akkusativ. Two prepositions can share one noun. *Milch* is uncountable and has no article, so the case is not visible here.",
+      "alternatives": [
+        {
+          "de": "Möchten Sie Milch dazu?",
+          "en": "Would you like milk with it?"
+        },
+        {
+          "de": "Mit Milch und Zucker?",
+          "en": "With milk and sugar?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t06",
+      "de": "Noch einen Kaffee, bitte.",
+      "en": "Another coffee, please.",
+      "usage": "Order one more of the same thing. The waiter answers *Gern, kommt sofort.*",
+      "grammar": "*noch ein* means 'one more (of the same)'; *ein anderer Kaffee* would mean 'a different coffee'. The verb is left out, so *einen Kaffee* is the masculine Akkusativ object.",
+      "alternatives": [
+        {
+          "de": "Ich hätte gern noch einen Kaffee.",
+          "en": "I'd like another coffee."
+        },
+        {
+          "de": "Können wir noch zwei Bier haben?",
+          "en": "Can we have two more beers?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t07",
+      "de": "Ist hier noch frei?",
+      "en": "Is this seat free?",
+      "usage": "Ask people at a table or on a bench before you sit down, for example in a busy café or canteen. The answer is *Ja, bitte.* or *Nein, leider besetzt.*",
+      "grammar": "Yes/no question with the verb first. Spoken German leaves out the subject noun here; the full form is *Ist dieser Platz noch frei?* *noch* means 'still'; *frei* is predicative and has no ending.",
+      "alternatives": [
+        {
+          "de": "Ist hier noch ein Platz frei?",
+          "en": "Is there still a free seat here?"
+        },
+        {
+          "de": "Darf ich mich zu Ihnen setzen?",
+          "en": "May I join you?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t08",
+      "de": "Können wir bestellen?",
+      "en": "Can we order?",
+      "usage": "Tell the waiter that you are ready. The answer is *Ja, gern. Was darf es sein?* Equally common: *Wir möchten bestellen.*",
+      "grammar": "The modal *können* is in position 1, the infinitive *bestellen* at the end. *bestellen* has the inseparable prefix *be-*, so its Partizip II has no *ge-*: *bestellt*.",
+      "alternatives": [
+        {
+          "de": "Wir würden gern bestellen.",
+          "en": "We'd like to order."
+        },
+        {
+          "de": "Wir möchten bitte bestellen.",
+          "en": "We'd like to order, please."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t09",
+      "de": "Ich bin Vegetarier.",
+      "en": "I'm a vegetarian.",
+      "usage": "Tell the waiter before you order; they then point out suitable dishes. A woman says *Ich bin Vegetarierin.* For vegan food: *Ich esse vegan.*",
+      "grammar": "After *sein*, nouns for a role, profession or lifestyle normally have no article: *Ich bin Vegetarier.* (English needs 'a'). The feminine form adds *-in*.",
+      "alternatives": [
+        {
+          "de": "Ich esse kein Fleisch.",
+          "en": "I don't eat meat."
+        },
+        {
+          "de": "Haben Sie auch vegetarische Gerichte?",
+          "en": "Do you also have vegetarian dishes?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Vegetarier (-) / die Vegetarierin (-nen)",
+          "en": "vegetarian"
+        }
+      ]
+    },
+    {
+      "key": "t10",
+      "de": "Hat das Gluten?",
+      "en": "Does that contain gluten?",
+      "usage": "A short, colloquial question about an ingredient. More precise: *Ist da Gluten drin?* or, more formal, *Enthält das Gluten?* Many menus in Switzerland and Germany list the allergens (*Allergene*).",
+      "grammar": "Yes/no question with *haben* first. *das Gluten* is uncountable, so it has no article. The more formal verb *enthalten* also takes an Akkusativ object.",
+      "alternatives": [
+        {
+          "de": "Ist da Gluten drin?",
+          "en": "Is there gluten in it?"
+        },
+        {
+          "de": "Haben Sie auch glutenfreie Gerichte?",
+          "en": "Do you also have gluten-free dishes?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t11",
+      "de": "Ich bin allergisch gegen Nüsse.",
+      "en": "I'm allergic to nuts.",
+      "usage": "Say it clearly before you order; the staff will check with the kitchen. For a serious allergy add *Das ist sehr wichtig.* In southern Germany, Austria and Switzerland you will also hear *allergisch auf*.",
+      "grammar": "*allergisch* has the fixed preposition *gegen* + Akkusativ. *Nüsse* is the plural of *die Nuss* (Umlaut + *-e*). An allergy to one food can also be a compound noun: *eine Nussallergie*.",
+      "alternatives": [
+        {
+          "de": "Ich habe eine Nussallergie.",
+          "en": "I have a nut allergy."
+        },
+        {
+          "de": "Ich vertrage keine Nüsse.",
+          "en": "I can't tolerate nuts."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Nuss (Nüsse)",
+          "en": "nut"
+        }
+      ]
+    },
+    {
+      "key": "t12",
+      "de": "Das war sehr lecker.",
+      "en": "That was very tasty.",
+      "usage": "A compliment, often as the answer to *Hat es geschmeckt?* *lecker* is colloquial; more formal is *Das war ausgezeichnet.* In Switzerland people usually say *fein*: *Es war sehr fein.*",
+      "grammar": "*war* is the Präteritum of *sein*, the normal past form of this verb in speech. *lecker* is predicative after *sein*, so it has no ending.",
+      "alternatives": [
+        {
+          "de": "Es hat sehr gut geschmeckt.",
+          "en": "It tasted very good."
+        },
+        {
+          "de": "Das war ausgezeichnet.",
+          "en": "That was excellent."
+        }
+      ],
+      "words": [
+        {
+          "de": "lecker",
+          "en": "tasty, delicious"
+        }
+      ]
+    },
+    {
+      "key": "t13",
+      "de": "Die Rechnung, bitte.",
+      "en": "The bill, please.",
+      "usage": "Ask for the bill when you want to leave; the waiter will not bring it on their own. The next question is usually *Getrennt oder zusammen?*",
+      "grammar": "Akkusativ with the verb left out (*Bringen Sie mir die Rechnung*). *die Rechnung* is feminine (*-ung*), and the feminine Akkusativ equals the Nominativ.",
+      "alternatives": [
+        {
+          "de": "Könnten wir bitte die Rechnung haben?",
+          "en": "Could we have the bill, please?"
+        },
+        {
+          "de": "Wir möchten bitte zahlen.",
+          "en": "We'd like to pay, please."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Rechnung (-en)",
+          "en": "bill, invoice"
+        }
+      ]
+    },
+    {
+      "key": "t14",
+      "de": "Zahlen, bitte.",
+      "en": "Can I pay, please? / The bill, please.",
+      "usage": "The most common short way to ask for the bill, often said when the waiter passes your table. It is polite enough with *bitte*. The waiter answers *Gern, sofort.*",
+      "grammar": "A bare infinitive used as a short request, like *Bitte einsteigen!* There is no subject and no conjugated verb.",
+      "alternatives": [
+        {
+          "de": "Ich möchte bitte zahlen.",
+          "en": "I'd like to pay, please."
+        },
+        {
+          "de": "Können wir bitte zahlen?",
+          "en": "Can we pay, please?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t15",
+      "de": "Getrennt oder zusammen?",
+      "en": "Separately or together?",
+      "usage": "The waiter asks this when a group pays. *Getrennt* (each person pays for their own food) is very normal in German-speaking countries. Answer *Getrennt, bitte.* or *Zusammen, bitte.*",
+      "grammar": "Two adverbs without a verb; the full question is *Zahlen Sie getrennt oder zusammen?*",
+      "alternatives": [
+        {
+          "de": "Zahlen Sie zusammen oder getrennt?",
+          "en": "Are you paying together or separately?"
+        },
+        {
+          "de": "Alles zusammen?",
+          "en": "All on one bill?"
+        }
+      ],
+      "words": [
+        {
+          "de": "getrennt",
+          "en": "separately"
+        }
+      ]
+    },
+    {
+      "key": "t16",
+      "de": "Stimmt so.",
+      "en": "Keep the change.",
+      "usage": "When you pay cash, give a round amount and say *Stimmt so* to leave the rest as a tip (bill 18.40, you give 20). You can also name the total you want to pay: *Machen Sie zwanzig.* In Switzerland service is included in the price, so tips are small; many people just round up.",
+      "grammar": "An ellipsis of *Das stimmt so* ('that is right like this'); the subject *das* is left out, so the verb *stimmt* stands first.",
+      "alternatives": [
+        {
+          "de": "Machen Sie zwanzig.",
+          "en": "Make it twenty."
+        },
+        {
+          "de": "Der Rest ist für Sie.",
+          "en": "The rest is for you."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t17",
+      "de": "Können wir draußen sitzen?",
+      "en": "Can we sit outside?",
+      "usage": "Ask at the entrance in warm weather. The answer is *Ja, gern, suchen Sie sich einen Platz aus.* or *Draußen ist leider alles reserviert.* In Switzerland the spelling is *draussen*.",
+      "grammar": "*draußen* is an adverb of place. *sitzen* describes a position (no movement, no object); for the movement you use *sich setzen*: *Wir setzen uns nach draußen.*",
+      "alternatives": [
+        {
+          "de": "Haben Sie einen Tisch auf der Terrasse?",
+          "en": "Do you have a table on the terrace?"
+        },
+        {
+          "de": "Gibt es auch Plätze draußen?",
+          "en": "Are there seats outside too?"
+        }
+      ],
+      "words": [
+        {
+          "de": "draußen",
+          "en": "outside"
+        }
+      ]
+    },
+    {
+      "key": "t18",
+      "de": "Ein Glas Wasser, bitte.",
+      "en": "A glass of water, please.",
+      "usage": "In Germany water usually costs money; ask for *Leitungswasser* if you want tap water. In Switzerland tap water (*Hahnenwasser*) is often served free or for a small price.",
+      "grammar": "After a measure noun the substance follows directly without a preposition: *ein Glas Wasser* (not ✗ *ein Glas von Wasser*). *das Glas* is neuter → *ein* (Akkusativ, verb left out).",
+      "alternatives": [
+        {
+          "de": "Kann ich ein Glas Leitungswasser haben?",
+          "en": "Can I have a glass of tap water?"
+        },
+        {
+          "de": "Eine Flasche Mineralwasser, bitte.",
+          "en": "A bottle of mineral water, please."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Leitungswasser",
+          "en": "tap water (CH: Hahnenwasser)"
+        }
+      ]
+    },
+    {
+      "key": "t19",
+      "de": "Prost!",
+      "en": "Cheers!",
+      "usage": "The toast when you raise your glass with friends. It is polite to look each person in the eye while you clink glasses. *Zum Wohl!* is a little more formal and common with wine.",
+      "grammar": "An interjection from Latin *prosit* ('may it be good'). It has no grammatical form.",
+      "alternatives": [
+        {
+          "de": "Zum Wohl!",
+          "en": "Cheers! (more formal)"
+        },
+        {
+          "de": "Auf uns!",
+          "en": "To us!"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n01",
+      "de": "Wir haben auf den Namen Keller reserviert.",
+      "en": "We have a reservation under the name Keller.",
+      "usage": "Say it at the entrance when you have booked. The waiter checks the list and answers *Ja, Ihr Tisch ist dort hinten.* In Switzerland people often say *die Reservation*; in Germany and Austria *die Reservierung*.",
+      "grammar": "Fixed phrase *auf den Namen* + name: *auf* + Akkusativ, *der Name* → *den Namen* (n-Deklination). Perfekt with *haben*; verbs in *-ieren* have no *ge-*: *reserviert*.",
+      "alternatives": [
+        {
+          "de": "Ich habe einen Tisch für vier Personen reserviert.",
+          "en": "I booked a table for four people."
+        },
+        {
+          "de": "Wir haben eine Reservierung auf den Namen Keller.",
+          "en": "We have a reservation under the name Keller."
+        }
+      ],
+      "words": [
+        {
+          "de": "reservieren",
+          "en": "to book, to reserve"
+        }
+      ]
+    },
+    {
+      "key": "n02",
+      "de": "Was darf ich Ihnen bringen?",
+      "en": "What can I get you?",
+      "usage": "The waiter's typical question after you sit down. Answer with *Ich hätte gern ...* or, if you need time, *Wir brauchen noch einen Moment.*",
+      "grammar": "*dürfen* makes the offer very polite ('May I bring you ...?'). *bringen* takes a Dativ person (*Ihnen*, to whom) and an Akkusativ thing (*was*, what). The infinitive *bringen* is at the end.",
+      "alternatives": [
+        {
+          "de": "Was darf es sein?",
+          "en": "What would you like?"
+        },
+        {
+          "de": "Haben Sie schon gewählt?",
+          "en": "Have you decided?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n03",
+      "de": "Für mich den Salat, bitte.",
+      "en": "The salad for me, please.",
+      "usage": "The natural way to order when several people order one after another: each person says *Für mich ...*. The waiter repeats it or asks *Und zu trinken?*",
+      "grammar": "The verb (*Ich nehme* / *Ich hätte gern*) is left out, but its Akkusativ object remains: *der Salat* → **den** Salat. *für* also takes the Akkusativ: *für mich*.",
+      "alternatives": [
+        {
+          "de": "Ich nehme den Salat.",
+          "en": "I'll have the salad."
+        },
+        {
+          "de": "Und für mich bitte die Suppe.",
+          "en": "And the soup for me, please."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n04",
+      "de": "Entschuldigung, das habe ich nicht bestellt.",
+      "en": "Excuse me, I didn't order that.",
+      "usage": "A polite complaint when the wrong dish or drink arrives. The waiter normally apologises and checks the order. Keep the tone calm; *Entschuldigung* at the start softens it.",
+      "grammar": "Perfekt: *habe* + Partizip II *bestellt* (no *ge-* because of the prefix *be-*). The object *das* stands in the Vorfeld for emphasis, so the verb stays in position 2 and the subject *ich* follows it. *nicht* comes before the Partizip.",
+      "alternatives": [
+        {
+          "de": "Ich glaube, das ist nicht mein Gericht.",
+          "en": "I think this isn't my dish."
+        },
+        {
+          "de": "Ich hatte eigentlich die Pasta bestellt.",
+          "en": "I had actually ordered the pasta."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n05",
+      "de": "Hat es Ihnen geschmeckt?",
+      "en": "Did you enjoy your meal?",
+      "usage": "The waiter asks this when clearing the plates. The usual answer is *Ja, danke, sehr gut!* If something was wrong, this is the moment to say it politely.",
+      "grammar": "*schmecken* takes the Dativ: the person who likes the food is *Ihnen* (du: *dir*). Perfekt with *haben*: *hat ... geschmeckt*. *es* refers to the food.",
+      "alternatives": [
+        {
+          "de": "Hat's geschmeckt?",
+          "en": "Did you enjoy it? (spoken)"
+        },
+        {
+          "de": "War alles in Ordnung?",
+          "en": "Was everything all right?"
+        }
+      ],
+      "words": [
+        {
+          "de": "schmecken (+ Dat.)",
+          "en": "to taste (good) to someone"
+        }
+      ]
+    },
+    {
+      "key": "n06",
+      "de": "Guten Appetit!",
+      "en": "Enjoy your meal!",
+      "usage": "Said before people start eating, for example at lunch with colleagues. The answer is *Danke, gleichfalls!* In Switzerland you will hear *En Guete!* everywhere, also from people who otherwise speak Standard German.",
+      "grammar": "Akkusativ wish like *Guten Tag*: *der Appetit* is masculine, no article → strong ending **-en** → *guten*.",
+      "alternatives": [
+        {
+          "de": "Lass es dir schmecken!",
+          "en": "Enjoy your food! (informal)"
+        },
+        {
+          "de": "Mahlzeit!",
+          "en": "Enjoy! (lunchtime greeting at work, Germany)"
+        }
+      ],
+      "words": []
+    }
+  ]
+}

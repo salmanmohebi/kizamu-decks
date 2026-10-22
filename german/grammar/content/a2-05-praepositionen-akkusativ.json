@@ -1,0 +1,937 @@
+{
+  "topic_id": "a2-05-praepositionen-akkusativ",
+  "level": "A2",
+  "title_de": "Präpositionen mit Akkusativ",
+  "title_en": "Prepositions with the accusative",
+  "rule": {
+    "summary": "The prepositions **durch, für, gegen, ohne, um** always take the **Akkusativ**, whatever the verb is and whether there is movement or not. **bis** also takes the Akkusativ, but it usually stands without an article (*bis Montag, bis nächsten Freitag*); before an article it needs a second preposition (*bis zum Bahnhof*, Dativ). **entlang** normally follows its noun and then takes the Akkusativ (*den Fluss entlang*). The case is only visible on masculine singular articles (*den, einen, meinen*) and on pronouns (*mich, dich, ihn, uns, euch*).",
+    "table": "| Präposition | Bedeutung | Beispiel |\n|---|---|---|\n| **durch** | through; by means of | durch **den** Park, durch einen Freund |\n| **für** | for (person, purpose, planned period) | für **meinen** Bruder, für zwei Wochen |\n| **gegen** | against; at about (time) | gegen **die** Wand, gegen acht Uhr |\n| **ohne** | without | ohne **ihren** Mann, ohne Zucker |\n| **um** | around (place); at (clock time) | um **den** Tisch (herum), um acht Uhr |\n| **bis** | until, as far as | bis Montag, bis **nächsten** Sonntag |\n| **entlang** | along (after the noun) | **den** Fluss entlang |\n\n| Pronomen | ich | du | er | sie | es | wir | ihr | sie/Sie |\n|---|---|---|---|---|---|---|---|---|\n| Akkusativ | **mich** | **dich** | **ihn** | sie | es | **uns** | **euch** | sie/Sie |",
+    "steps": [
+      "Find the preposition. After *durch, für, gegen, ohne, um* the noun phrase is always Akkusativ. Do not ask *wo?* or *wohin?*: that question is only for Wechselpräpositionen (*in, an, auf …*).",
+      "Find the gender and number of the noun. Only masculine singular changes: *der → den, ein → einen, kein/mein → keinen/meinen*. Feminine, neuter and plural look like the Nominativ.",
+      "For a personal pronoun, use the Akkusativ form: *mich, dich, ihn, sie, es, uns, euch, sie/Sie* (never *mir, dir, ihm, Ihnen*).",
+      "Adjectives take the normal Akkusativ endings: *für einen guten Freund, durch den dunklen Wald, ohne große Probleme*.",
+      "With *bis*: no article before days, dates, clock times, place names and time phrases (*bis Freitag, bis Hamburg, bis nächsten Monat*). With an article add *zu* or *an*: *bis zum Ende, bis an die Grenze*.",
+      "In speech *für das, durch das, um das* often contract: *fürs, durchs, ums* (*fürs Frühstück, ums Haus*)."
+    ],
+    "pitfalls": [
+      "Dativ after *ohne* by analogy with *mit*: ✗ *ohne meinem Bruder* → ✓ *ohne meinen Bruder*. *mit* takes the Dativ, but its opposite *ohne* takes the Akkusativ.",
+      "Dativ pronouns after *für* or *gegen*: ✗ *für mir, gegen ihm* → ✓ *für mich, gegen ihn*.",
+      "*bis* directly before an article: ✗ *bis den Bahnhof* → ✓ *bis zum Bahnhof*.",
+      "*für* for a finished period in the past (English *for three years*): ✗ *Ich habe für drei Jahre in Wien gewohnt.* → ✓ *Ich habe drei Jahre (lang) in Wien gewohnt.* *für* + period is for a planned length: *Ich fahre für drei Wochen weg.*",
+      "*um* and *gegen* with clock times: *um acht Uhr* = exactly at eight; *gegen acht Uhr* = at about eight. ✗ *an acht Uhr* → ✓ *um acht Uhr*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Wir gehen {{c1::durch}} den Park.",
+      "en": "We walk through the park.",
+      "focus": "Akk.-Präposition · Bewegung von einer Seite zur anderen",
+      "explanation": "The movement enters the park on one side and leaves it on the other → **durch** (*through*). *durch* always takes the Akkusativ, so masculine *der Park* becomes *den Park*. The verb *gehen* does not decide the case here; that only happens with Wechselpräpositionen.",
+      "pattern": "gehen + **durch** + Akk. (den Park)",
+      "mistake": {"wrong": "Wir gehen durch dem Park.", "why": "*dem* is Dativ. Learners mix it up with *in dem Park* (Wechselpräposition, location). After *durch* the masculine article is always *den*."},
+      "examples": [
+        {"de": "Die Kinder rennen durch den Garten.", "en": "The children are running through the garden."},
+        {"de": "Abends spazieren wir durch den Hafen.", "en": "In the evening we stroll through the harbour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das Geschenk ist {{c1::für}} dich.",
+      "en": "The gift is for you.",
+      "focus": "Akk.-Präposition · Empfänger",
+      "explanation": "The person who receives the gift is named with **für** (*for*). *für* always takes the Akkusativ, and the Akkusativ of *du* is *dich*: *für dich*. The verb *sein* has no object of its own here; the whole phrase *für dich* is the predicate.",
+      "pattern": "sein + **für** + Akk.-Pronomen",
+      "mistake": {"wrong": "Das Geschenk ist für dir.", "why": "*dir* is the Dativ of *du*. *für* never takes the Dativ: *für mich, für dich, für ihn, für uns*."},
+      "examples": [
+        {"de": "Der Kuchen ist für euch.", "en": "The cake is for you (all)."},
+        {"de": "Die Blumen sind für ihn.", "en": "The flowers are for him."}
+      ],
+      "words": [{"de": "das Geschenk (-e)", "en": "gift, present"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er ist {{c1::gegen}} die Wand gefahren.",
+      "en": "He drove into the wall.",
+      "focus": "Akk.-Präposition · Aufprall",
+      "explanation": "**gegen** describes a movement that hits something with force. It always takes the Akkusativ; *Wand* is feminine, so the article stays *die*. The Perfekt uses *sein* because *fahren* is a verb of movement: *ist gefahren*.",
+      "pattern": "fahren + **gegen** + Akk. (Aufprall)",
+      "mistake": {"wrong": "Er ist gegen der Wand gefahren.", "why": "*der Wand* is the feminine Dativ. *gegen* only takes the Akkusativ, and feminine Akkusativ is *die Wand*."},
+      "examples": [
+        {"de": "Der Ball ist gegen das Fenster geflogen.", "en": "The ball flew against the window."},
+        {"de": "Sie ist im Dunkeln gegen einen Baum gelaufen.", "en": "She walked into a tree in the dark."}
+      ],
+      "words": [{"de": "die Wand (¨-e)", "en": "wall (inside a building)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie geht {{c1::ohne}} ihren Bruder ins Kino.",
+      "en": "She goes to the cinema without her brother.",
+      "focus": "Akk.-Präposition · Person ist nicht dabei",
+      "explanation": "The brother does not come along → **ohne** (*without*), which always takes the Akkusativ. *Bruder* is masculine, so the possessive *ihr* takes the Akkusativ ending: *ihren Bruder*. *ins Kino* (= *in das Kino*) is a separate phrase: a Wechselpräposition with Akkusativ for the direction.",
+      "pattern": "**ohne** + Possessivartikel-en + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Sie geht ohne ihrem Bruder ins Kino.", "why": "Learners copy the case of *mit* (*mit ihrem Bruder*, Dativ). Its opposite *ohne* takes the Akkusativ: *ohne ihren Bruder*."},
+      "examples": [
+        {"de": "Er fährt ohne seinen Sohn in den Urlaub.", "en": "He is going on holiday without his son."},
+        {"de": "Wir fangen ohne unseren Chef an.", "en": "We'll start without our boss."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wir treffen uns {{c1::um}} acht Uhr.",
+      "en": "We're meeting at eight o'clock.",
+      "focus": "Uhrzeit · genauer Zeitpunkt",
+      "explanation": "An exact clock time always takes **um**: *um acht Uhr* = at eight o'clock. The time *acht Uhr* shows no case, but *um* is an Akkusativ preposition. Days take *am* (*am Montag*), clock times never do.",
+      "pattern": "**um** + Uhrzeit",
+      "mistake": {"wrong": "Wir treffen uns an acht Uhr.", "why": "*an* (*am*) is for days and dates: *am Montag, am 3. Mai*. Before a clock time German uses *um*."},
+      "examples": [
+        {"de": "Der Film beginnt um Viertel nach neun.", "en": "The film starts at a quarter past nine."},
+        {"de": "Ich stehe jeden Tag um sechs Uhr auf.", "en": "I get up at six o'clock every day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Die Kinder laufen {{c1::um}} den Tisch.",
+      "en": "The children run around the table.",
+      "focus": "Akk.-Präposition · Bewegung im Kreis",
+      "explanation": "With a place, **um** describes a movement in a circle around something. *um* always takes the Akkusativ: masculine *der Tisch* → *um den Tisch*. To stress the full circle you can add *herum*: *um den Tisch herum*.",
+      "pattern": "**um** + Akk. (Kreis um einen Ort)",
+      "mistake": {"wrong": "Die Kinder laufen um dem Tisch.", "why": "*um* is never followed by the Dativ. The masculine Akkusativ article is *den*."},
+      "examples": [
+        {"de": "Die Erde dreht sich um die Sonne.", "en": "The earth turns around the sun."},
+        {"de": "Der Hund rennt um den Baum.", "en": "The dog runs around the tree."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich bleibe {{c1::bis}} morgen hier.",
+      "en": "I'll stay here until tomorrow.",
+      "focus": "Endpunkt einer Zeitspanne · Zeitadverb",
+      "explanation": "**bis** marks the end point of a period: the stay ends tomorrow. Before a time adverb (*morgen, heute, später*), a day or a clock time, *bis* stands alone without an article. The adverb *morgen* itself shows no case.",
+      "pattern": "**bis** + Zeitadverb (ohne Artikel)",
+      "mistake": {"wrong": "Ich bleibe bis zu morgen hier.", "why": "*bis zum / bis zur* is used before a noun with an article (*bis zum Abend*). Before an adverb like *morgen* the preposition *bis* stands alone."},
+      "examples": [
+        {"de": "Die Bibliothek ist bis Freitag geschlossen.", "en": "The library is closed until Friday."},
+        {"de": "Kannst du bis heute Abend warten?", "en": "Can you wait until this evening?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir spielen {{c1::gegen}} eine andere Mannschaft.",
+      "en": "We play against another team.",
+      "focus": "Akk.-Präposition · Gegner im Sport",
+      "explanation": "In sport the opponent is named with **gegen** + Akkusativ. *Mannschaft* is feminine, so the Akkusativ article *eine* looks like the Nominativ, and the adjective keeps *-e*: *eine andere Mannschaft*.",
+      "pattern": "spielen + **gegen** + Akk. (Gegner)",
+      "mistake": {"wrong": "Wir spielen gegen einer anderen Mannschaft.", "why": "*einer anderen* is the feminine Dativ. After *gegen* the feminine Akkusativ is *eine andere Mannschaft*."},
+      "examples": [
+        {"de": "Morgen spielt Bayern gegen Dortmund.", "en": "Tomorrow Bayern are playing against Dortmund."},
+        {"de": "Ich habe gestern gegen meinen Vater Schach gespielt.", "en": "Yesterday I played chess against my father."}
+      ],
+      "words": [{"de": "die Mannschaft (-en)", "en": "team"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich kann {{c1::ohne}} meinen Kaffee nicht arbeiten.",
+      "en": "I can't work without my coffee.",
+      "focus": "Akk.-Präposition · etwas fehlt",
+      "explanation": "The coffee is missing → **ohne** + Akkusativ. *Kaffee* is masculine, so *mein* takes the Akkusativ ending: *meinen Kaffee*. The modal *kann* is in position 2, *arbeiten* goes to the end, and *nicht* stands directly before the infinitive.",
+      "pattern": "**ohne** + meinen + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich kann ohne meinem Kaffee nicht arbeiten.", "why": "*meinem* is a Dativ form. *ohne* always takes the Akkusativ, so masculine *mein* becomes *meinen*."},
+      "examples": [
+        {"de": "Ohne meinen Kalender vergesse ich alle Termine.", "en": "Without my calendar I forget all my appointments."},
+        {"de": "Sie fährt nie ohne ihren Helm Fahrrad.", "en": "She never rides her bike without her helmet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er kauft Blumen {{c1::für}} seine Mutter.",
+      "en": "He is buying flowers for his mother.",
+      "focus": "Akk.-Präposition · Person, die etwas bekommt",
+      "explanation": "The mother is the person who will get the flowers → **für** + Akkusativ. *Mutter* is feminine, so the possessive is *seine*, the same form as in the Nominativ. Without a preposition, *kaufen* can take a Dativ object instead: *Er kauft seiner Mutter Blumen.*",
+      "pattern": "kaufen + Akk. + **für** + Akk. (Person)",
+      "mistake": {"wrong": "Er kauft Blumen für seiner Mutter.", "why": "*seiner* is the feminine Dativ. It is correct without a preposition (*seiner Mutter Blumen kaufen*), but after *für* you need the Akkusativ *seine*."},
+      "examples": [
+        {"de": "Ich koche heute für meine Eltern.", "en": "I'm cooking for my parents today."},
+        {"de": "Sie hat einen Pullover für ihren Freund gestrickt.", "en": "She knitted a jumper for her boyfriend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie ist {{c1::durch}} den Wald gegangen.",
+      "en": "She walked through the forest.",
+      "focus": "Akk.-Präposition · hinein und wieder hinaus · Perfekt",
+      "explanation": "Her way goes into the forest and out again → **durch** + Akkusativ. *Wald* is masculine → *den Wald*. In the Perfekt *gehen* takes *sein*: *ist gegangen*; the case after *durch* does not change with the tense.",
+      "pattern": "sein + **durch** + Akk. + Partizip II",
+      "mistake": {"wrong": "Sie ist durch dem Wald gegangen.", "why": "*dem Wald* is Dativ (as in *im Wald*, location). *durch* only takes the Akkusativ: *durch den Wald*."},
+      "examples": [
+        {"de": "Wir sind durch die Altstadt gebummelt.", "en": "We strolled through the old town."},
+        {"de": "Der Fluss fließt durch das ganze Tal.", "en": "The river flows through the whole valley."}
+      ],
+      "words": [{"de": "der Wald (¨-er)", "en": "forest, woods"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Das Auto fährt {{c1::um}} die Ecke.",
+      "en": "The car goes around the corner.",
+      "focus": "Akk.-Präposition · Richtung wechseln an einer Ecke",
+      "explanation": "The car turns at the corner and continues on the other side → **um** + Akkusativ. *Ecke* is feminine, so the article stays *die*. The phrase *um die Ecke* is fixed and also describes a short distance (*gleich um die Ecke* = just around the corner).",
+      "pattern": "fahren + **um** + Akk. (die Ecke)",
+      "mistake": {"wrong": "Das Auto fährt um der Ecke.", "why": "*der Ecke* is Dativ. *um* takes only the Akkusativ, and feminine *die* does not change in the Akkusativ."},
+      "examples": [
+        {"de": "Plötzlich kam ein Radfahrer um die Kurve.", "en": "Suddenly a cyclist came around the bend."},
+        {"de": "Die Bäckerei ist gleich um die Ecke.", "en": "The bakery is just around the corner."}
+      ],
+      "words": [{"de": "die Ecke (-n)", "en": "corner"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich arbeite {{c1::für}} eine deutsche Firma.",
+      "en": "I work for a German company.",
+      "focus": "Akk.-Präposition · Arbeitgeber",
+      "explanation": "*arbeiten* + **für** names the employer or client. *Firma* is feminine → Akkusativ *eine*, and the adjective after *eine* takes *-e*: *eine deutsche Firma*. *bei* + Dativ is also very common: *Ich arbeite bei einer deutschen Firma.*",
+      "pattern": "arbeiten + **für** + Akk. (Firma, Person)",
+      "mistake": {"wrong": "Ich arbeite für einer deutschen Firma.", "why": "*einer deutschen* is the Dativ form that follows *bei*. After *für* use the Akkusativ: *für eine deutsche Firma*."},
+      "examples": [
+        {"de": "Mein Bruder arbeitet für einen großen Verlag.", "en": "My brother works for a big publishing house."},
+        {"de": "Sie schreibt Artikel für eine Schweizer Zeitung.", "en": "She writes articles for a Swiss newspaper."}
+      ],
+      "words": [{"de": "die Firma (Firmen)", "en": "company, firm"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie kommt nicht {{c1::ohne}} ihre Tasche.",
+      "en": "She doesn't come without her bag.",
+      "focus": "Akk.-Präposition · Verneinung · Possessivartikel f.",
+      "explanation": "**ohne** + Akkusativ: *Tasche* is feminine, so *ihre Tasche* has the same form as in the Nominativ. *nicht* stands in front of *ohne* and negates the whole phrase: she always has her bag with her.",
+      "pattern": "nicht + **ohne** + Akk. (f.)",
+      "mistake": {"wrong": "Sie kommt nicht ohne ihrer Tasche.", "why": "*ihrer* is a Dativ (or Genitiv) form. After *ohne* the feminine possessive stays *ihre*."},
+      "examples": [
+        {"de": "Er verlässt das Haus nicht ohne seine Brille.", "en": "He doesn't leave the house without his glasses."},
+        {"de": "Ich fahre nicht ohne meine Familie in den Urlaub.", "en": "I'm not going on holiday without my family."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir fahren {{c1::durch}} die Schweiz.",
+      "en": "We're driving through Switzerland.",
+      "focus": "Akk.-Präposition · Reise quer über ein Land",
+      "explanation": "The trip crosses the country → **durch** + Akkusativ. *die Schweiz* is one of the few country names with an article (feminine), so the Akkusativ is *die Schweiz*. Country names without an article do not change: *durch Österreich*.",
+      "pattern": "fahren + **durch** + Land (Akk.)",
+      "mistake": {"wrong": "Wir fahren durch der Schweiz.", "why": "*der Schweiz* is Dativ (*in der Schweiz* = location). *durch* takes the Akkusativ: *durch die Schweiz*."},
+      "examples": [
+        {"de": "Im Sommer reisen wir durch die Türkei.", "en": "In summer we're travelling through Turkey."},
+        {"de": "Der Zug fährt durch Österreich nach Italien.", "en": "The train goes through Austria to Italy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Was hast du {{c1::gegen}} mich?",
+      "en": "What do you have against me?",
+      "focus": "Akk.-Präposition · Ablehnung einer Person",
+      "explanation": "*etwas gegen jemanden haben* means to dislike someone or to have a problem with them → **gegen**. *gegen* takes the Akkusativ, so *ich* becomes *mich*. In the question the W-word *was* is in position 1 and *hast* in position 2.",
+      "pattern": "etwas **gegen** + Akk. haben",
+      "mistake": {"wrong": "Was hast du gegen mir?", "why": "*mir* is the Dativ of *ich*. After *gegen* use the Akkusativ *mich*."},
+      "examples": [
+        {"de": "Hast du etwas gegen meine Freunde?", "en": "Do you have something against my friends?"},
+        {"de": "Die Nachbarn haben etwas gegen unseren Hund.", "en": "The neighbours have something against our dog."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Der Termin ist {{c1::um}} halb drei.",
+      "en": "The appointment is at half past two.",
+      "focus": "Uhrzeit · Termin",
+      "explanation": "*halb drei* means 2:30 (half an hour before three). A clock time always takes **um**, also with *halb, Viertel vor* and *Viertel nach*: *um halb drei, um Viertel vor drei*.",
+      "pattern": "sein + **um** + Uhrzeit",
+      "mistake": {"wrong": "Der Termin ist in halb drei.", "why": "*in* + time is a period from now (*in einer Stunde* = in an hour). For a point on the clock German uses *um*."},
+      "examples": [
+        {"de": "Das Meeting beginnt um Viertel vor zehn.", "en": "The meeting starts at a quarter to ten."},
+        {"de": "Mein Zug fährt um 7:12 Uhr.", "en": "My train leaves at 7:12."}
+      ],
+      "words": [{"de": "der Termin (-e)", "en": "appointment"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich bleibe {{c1::bis}} nächsten Sonntag.",
+      "en": "I'm staying until next Sunday.",
+      "focus": "Endpunkt · Zeitangabe mit *nächst-*",
+      "explanation": "**bis** can stand directly before a time phrase with *nächst-* or *kommend-*. The phrase is in the Akkusativ: *der Sonntag* is masculine, so the adjective takes *-en*: *nächsten Sonntag*. *bis zum nächsten Sonntag* (with *zu* + Dativ) means the same.",
+      "pattern": "**bis** + nächsten + Wochentag (Akk. m.)",
+      "mistake": {"wrong": "Ich bleibe bis nächster Sonntag.", "why": "*nächster Sonntag* is the Nominativ. After *bis* the time phrase is Akkusativ, so masculine *nächster* becomes *nächsten*."},
+      "examples": [
+        {"de": "Das Angebot gilt bis nächsten Montag.", "en": "The offer is valid until next Monday."},
+        {"de": "Die Ausstellung läuft bis kommenden Mittwoch.", "en": "The exhibition runs until this coming Wednesday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er läuft jeden Tag {{c1::durch}} die Stadt.",
+      "en": "He runs through the city every day.",
+      "focus": "Akk.-Präposition · Strecke im Inneren eines Ortes",
+      "explanation": "He runs from one part of the city to another → **durch** + Akkusativ. *Stadt* is feminine, so the article stays *die*. *jeden Tag* is also Akkusativ: a time phrase without a preposition (masculine *jeder* → *jeden*).",
+      "pattern": "laufen + **durch** + Akk. (f.)",
+      "mistake": {"wrong": "Er läuft jeden Tag durch der Stadt.", "why": "*der Stadt* is the feminine Dativ. *durch* takes the Akkusativ, and feminine Akkusativ is *die Stadt*."},
+      "examples": [
+        {"de": "Wir sind stundenlang durch das Museum gelaufen.", "en": "We walked through the museum for hours."},
+        {"de": "Die Touristen gehen durch die Fußgängerzone.", "en": "The tourists are walking through the pedestrian zone."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich brauche das {{c1::für}} morgen.",
+      "en": "I need that for tomorrow.",
+      "focus": "Akk.-Präposition · Zeitpunkt, an dem man etwas braucht",
+      "explanation": "**für** + a time names the day or occasion for which something is needed or planned: *für morgen*. The adverb *morgen* shows no case. Compare *bis morgen* (until tomorrow), which names the end of a period.",
+      "pattern": "brauchen + **für** + Zeitangabe",
+      "mistake": {"wrong": "Ich brauche das zu morgen.", "why": "*zu* is not used before a time adverb. The day for which something is planned takes *für*: *für morgen, für Montag*."},
+      "examples": [
+        {"de": "Hast du schon Pläne für das Wochenende?", "en": "Do you already have plans for the weekend?"},
+        {"de": "Ich habe einen Tisch für Freitagabend reserviert.", "en": "I've booked a table for Friday evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Das Geschenk ist {{c1::für}} meinen Neffen.",
+      "en": "The present is for my nephew.",
+      "focus": "Akk. maskulin · n-Deklination",
+      "explanation": "**für** + Akkusativ: *Neffe* is masculine → *meinen*. *Neffe* is also an n-Deklination noun, so it takes *-n* in the Akkusativ: *meinen Neffen*. Two endings show the case here, one on the article and one on the noun.",
+      "pattern": "**für** + meinen + Nomen-n (Akk. m., n-Deklination)",
+      "mistake": {"wrong": "Das Geschenk ist für meinen Neffe.", "why": "The article is right, but *Neffe* belongs to the n-Deklination: every case except the Nominativ singular ends in *-n* (*den Neffen*)."},
+      "examples": [
+        {"de": "Ich habe ein Buch für den Praktikanten.", "en": "I have a book for the intern."},
+        {"de": "Der Brief ist für Herrn Weber.", "en": "The letter is for Mr Weber."}
+      ],
+      "words": [{"de": "der Neffe (-n)", "en": "nephew"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Der Weg führt {{c1::durch}} den Wald.",
+      "en": "The path leads through the forest.",
+      "focus": "Akk.-Präposition · Verlauf eines Weges",
+      "explanation": "*führen* here means *to lead, to go* (said of a path or road). Nothing moves, but the path crosses the forest, so **durch** + Akkusativ is used for its course: *der Wald* → *den Wald*. The same works for roads, rivers and railway lines.",
+      "pattern": "Weg/Straße + führen + **durch** + Akk.",
+      "mistake": {"wrong": "Der Weg führt durch dem Wald.", "why": "There is no movement, but that does not matter: *durch* is not a Wechselpräposition and always takes the Akkusativ."},
+      "examples": [
+        {"de": "Die Straße führt durch ein kleines Dorf.", "en": "The road leads through a small village."},
+        {"de": "Die Bahnlinie führt durch einen langen Tunnel.", "en": "The railway line runs through a long tunnel."}
+      ],
+      "words": [{"de": "führen", "en": "to lead (path, road)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er hat nichts {{c1::gegen}} dich.",
+      "en": "He has nothing against you.",
+      "focus": "Akk.-Pronomen · Ablehnung (verneint)",
+      "explanation": "*nichts gegen jemanden haben* = not to dislike someone. **gegen** is used in a figurative sense here, but it still takes the Akkusativ: *du* → *dich*. *nichts* stands directly before the prepositional phrase.",
+      "pattern": "nichts **gegen** + Akk. haben",
+      "mistake": {"wrong": "Er hat nichts gegen dir.", "why": "*dir* is Dativ. In its literal and in its figurative meaning *gegen* takes the Akkusativ: *gegen dich*."},
+      "examples": [
+        {"de": "Ich habe nichts gegen eine kurze Pause.", "en": "I have nothing against a short break."},
+        {"de": "Sie hat nichts gegen Hunde.", "en": "She has nothing against dogs."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "{{c1::Ohne}} deine Hilfe schaffe ich das nicht.",
+      "en": "Without your help I won't manage it.",
+      "focus": "Akk.-Präposition · Bedingung im Vorfeld",
+      "explanation": "The help is necessary; if it is missing, the plan fails → **ohne**. *Hilfe* is feminine → Akkusativ *deine* (same as the Nominativ). The phrase stands in the Vorfeld, so the verb *schaffe* follows in position 2 and the subject *ich* comes after it.",
+      "pattern": "**Ohne** + Akk. + Verb + Subjekt …",
+      "mistake": {"wrong": "Ohne deiner Hilfe schaffe ich das nicht.", "why": "*deiner* is a Dativ form. After *ohne* the feminine possessive stays *deine*."},
+      "examples": [
+        {"de": "Ohne meine Brille sehe ich fast nichts.", "en": "Without my glasses I can hardly see anything."},
+        {"de": "Ohne unser Team geht das nicht.", "en": "It won't work without our team."}
+      ],
+      "words": [{"de": "schaffen", "en": "to manage (to do)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Wir sind einmal {{c1::um}} den Block gelaufen.",
+      "en": "We walked once around the block.",
+      "focus": "Akk.-Präposition · eine Runde",
+      "explanation": "*um den Block* = one full round past the buildings of a block → **um** + Akkusativ. *Block* is masculine → *den Block*. *einmal* counts the rounds, and *laufen* takes *sein* in the Perfekt.",
+      "pattern": "einmal **um** + Akk. laufen",
+      "mistake": {"wrong": "Wir sind einmal um dem Block gelaufen.", "why": "*dem* is the masculine Dativ. *um* is always followed by the Akkusativ: *um den Block*."},
+      "examples": [
+        {"de": "Der Läufer ist zweimal um das Stadion gelaufen.", "en": "The runner ran around the stadium twice."},
+        {"de": "Das Flugzeug kreist um den Flughafen.", "en": "The plane is circling around the airport."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Der Brief ist {{c1::für}} Sie.",
+      "en": "The letter is for you.",
+      "focus": "Akk.-Pronomen · formelle Anrede",
+      "explanation": "**für** + Akkusativ. The formal *Sie* has the same form in the Nominativ and the Akkusativ, so *für Sie* shows no visible change. Compare informal *für dich* (one person) and *für euch* (several people).",
+      "pattern": "**für** + Sie (Akk. = Nom.)",
+      "mistake": {"wrong": "Der Brief ist für Ihnen.", "why": "*Ihnen* is the Dativ of *Sie* (*Ich danke Ihnen*). After *für* the Akkusativ *Sie* is correct."},
+      "examples": [
+        {"de": "Ich habe eine Nachricht für Sie.", "en": "I have a message for you."},
+        {"de": "Herr Lang, für Sie ist ein Paket gekommen.", "en": "Mr Lang, a parcel has arrived for you."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir fahren {{c1::durch}} die Stadt.",
+      "en": "We're driving through the town.",
+      "focus": "Akk. feminin · Form wie Nominativ",
+      "explanation": "**durch** + Akkusativ: the feminine article *die* does not change in the Akkusativ, so *durch die Stadt* looks like the Nominativ. The case is only visible on masculine nouns (*durch den Tunnel*) and on pronouns (*durch ihn*).",
+      "pattern": "**durch** + die + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Wir fahren durch der Stadt.", "why": "Learners think *die* cannot be Akkusativ and change it. Feminine Akkusativ is *die*; *der Stadt* is Dativ."},
+      "examples": [
+        {"de": "Wir fahren durch die Innenstadt zum Bahnhof.", "en": "We're driving through the city centre to the station."},
+        {"de": "Ein kalter Wind weht durch die Straßen.", "en": "A cold wind is blowing through the streets."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Gegen}} acht Uhr sind wir da.",
+      "en": "We'll be there at about eight.",
+      "focus": "Uhrzeit · ungefähr",
+      "explanation": "With a clock time **gegen** means *at about, around*. *um acht Uhr* would mean exactly at eight. The time phrase is in the Vorfeld, so *sind* follows in position 2, and the Präsens refers to the future.",
+      "pattern": "**Gegen** + Uhrzeit (ungefähr)",
+      "mistake": {"wrong": "Bei acht Uhr sind wir da.", "why": "*bei* is not used with clock times. For an approximate time say *gegen acht Uhr* (or *um acht Uhr herum*); for an exact time say *um acht Uhr*."},
+      "examples": [
+        {"de": "Gegen Mittag hört der Regen auf.", "en": "The rain will stop around midday."},
+        {"de": "Er kommt meistens gegen sechs nach Hause.", "en": "He usually comes home at about six."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Sie kämpft {{c1::für}} ihre Rechte.",
+      "en": "She fights for her rights.",
+      "focus": "Akk. Plural · Ziel des Einsatzes",
+      "explanation": "*kämpfen* + **für** names what you want to win or protect. *Rechte* is the plural of *das Recht*, and the plural Akkusativ looks like the Nominativ: *ihre Rechte*. The opposite is *kämpfen gegen* (to fight against).",
+      "pattern": "kämpfen + **für** + Akk. (Pl.)",
+      "mistake": {"wrong": "Sie kämpft für ihren Rechten.", "why": "*ihren Rechten* is the Dativ plural (with the extra *-n*). After *für* the plural stays *ihre Rechte*."},
+      "examples": [
+        {"de": "Die Gewerkschaft kämpft für höhere Löhne.", "en": "The union is fighting for higher wages."},
+        {"de": "Viele junge Leute demonstrieren für den Klimaschutz.", "en": "Many young people demonstrate for climate protection."}
+      ],
+      "words": [{"de": "das Recht (-e)", "en": "right (legal)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ich mache das {{c1::ohne}} jeden Zweifel.",
+      "en": "I'll do it, without any doubt.",
+      "focus": "Akk. maskulin · nach *jeder*",
+      "explanation": "*ohne jeden Zweifel* is a fixed phrase: *without any doubt*. **ohne** takes the Akkusativ, *Zweifel* is masculine, so *jeder* takes the Akkusativ ending: *jeden*. In this phrase *jeder* means *any*, not *every*.",
+      "pattern": "**ohne** + jeden + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich mache das ohne jedem Zweifel.", "why": "*jedem* is the Dativ. *ohne* requires the Akkusativ: masculine *jeden*."},
+      "examples": [
+        {"de": "Sie hat ohne jeden Grund gekündigt.", "en": "She quit without any reason."},
+        {"de": "Das war ohne jede Frage der beste Film des Jahres.", "en": "That was without any question the best film of the year."}
+      ],
+      "words": [{"de": "der Zweifel (-)", "en": "doubt"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Um}} den See herum führt ein Weg.",
+      "en": "A path leads around the lake.",
+      "focus": "Akk.-Präposition · ganzer Kreis · mit *herum*",
+      "explanation": "*um … herum* frames the noun: **um** before it, *herum* after it. *herum* stresses that the path goes all the way around. *der See* (lake) is masculine → *den See*; the phrase is in the Vorfeld, so *führt* follows in position 2.",
+      "pattern": "**um** + Akk. + herum",
+      "mistake": {"wrong": "Um dem See herum führt ein Weg.", "why": "*herum* does not change the case. *um* still takes the Akkusativ: *um den See herum*."},
+      "examples": [
+        {"de": "Um das Haus herum wachsen Rosen.", "en": "Roses grow all around the house."},
+        {"de": "Wir saßen um das Feuer herum.", "en": "We sat around the fire."}
+      ],
+      "words": [{"de": "der See (-n)", "en": "lake (die See = the sea)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Er hat sich {{c1::gegen}} das Angebot entschieden.",
+      "en": "He decided against the offer.",
+      "focus": "Verb mit fester Präposition · Entscheidung (negativ)",
+      "explanation": "*sich entscheiden für / gegen* + Akkusativ: *für* = to choose something, **gegen** = to reject it. *Angebot* is neuter → Akkusativ *das Angebot*. The reflexive *sich* stands right after the auxiliary *hat*.",
+      "pattern": "sich entscheiden + **gegen** + Akk.",
+      "mistake": {"wrong": "Er hat sich gegen dem Angebot entschieden.", "why": "*dem* is Dativ. In fixed verb + preposition pairs *gegen* keeps its Akkusativ: *gegen das Angebot*."},
+      "examples": [
+        {"de": "Wir haben uns für die günstigere Wohnung entschieden.", "en": "We decided on the cheaper flat."},
+        {"de": "Viele Studenten entscheiden sich gegen ein Semester im Ausland.", "en": "Many students decide against a semester abroad."}
+      ],
+      "words": [{"de": "das Angebot (-e)", "en": "offer"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Der Zug fährt {{c1::durch}} einen Tunnel.",
+      "en": "The train goes through a tunnel.",
+      "focus": "Akk. maskulin · unbestimmter Artikel",
+      "explanation": "**durch** + Akkusativ: masculine *ein Tunnel* becomes *einen Tunnel*. This is where the Akkusativ is visible: masculine singular *ein → einen*, *der → den*. Feminine and neuter *eine/ein* would not change.",
+      "pattern": "**durch** + einen + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Der Zug fährt durch ein Tunnel.", "why": "*ein Tunnel* is the Nominativ. After *durch* masculine *ein* needs the Akkusativ ending: *einen Tunnel*."},
+      "examples": [
+        {"de": "Wir sind durch einen langen Flur gegangen.", "en": "We walked down a long corridor."},
+        {"de": "Ich gehe jeden Morgen durch einen kleinen Park zur Arbeit.", "en": "Every morning I walk through a small park to work."}
+      ],
+      "words": [{"de": "der Tunnel (-)", "en": "tunnel"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir bleiben {{c1::bis}} nächsten Freitag.",
+      "en": "We're staying until next Friday.",
+      "focus": "Endpunkt · ohne Artikel oder mit *zum*",
+      "explanation": "Two forms are correct: **bis** *nächsten Freitag* and *bis zum nächsten Freitag*. Without an article *bis* stands alone and the time phrase is Akkusativ (*nächsten*, masculine). With an article you need *bis zu* + Dativ (*zum* = *zu dem*).",
+      "pattern": "**bis** + Zeitangabe / **bis zum** + Zeitangabe",
+      "mistake": {"wrong": "Wir bleiben bis den nächsten Freitag.", "why": "*bis* does not combine directly with an article. Leave out the article (*bis nächsten Freitag*) or add *zu*: *bis zum nächsten Freitag*."},
+      "examples": [
+        {"de": "Ich habe noch bis nächsten Donnerstag Urlaub.", "en": "I'm still on holiday until next Thursday."},
+        {"de": "Das Büro bleibt bis zum ersten Januar geschlossen.", "en": "The office stays closed until the first of January."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Ich habe ein Geschenk für {{c1::ihn::er}} gekauft.",
+      "en": "I bought a present for him.",
+      "focus": "Personalpronomen · nach *für*",
+      "explanation": "*für* always takes the Akkusativ, so the pronoun must be in the Akkusativ. The Akkusativ of *er* is **ihn**; it is the only third-person pronoun that changes (*sie* and *es* stay the same).",
+      "pattern": "**für** + Akk.-Pronomen (er → ihn)",
+      "mistake": {"wrong": "Ich habe ein Geschenk für ihm gekauft.", "why": "*ihm* is the Dativ of *er*, used after *mit, von, zu …*. After *für* the Akkusativ *ihn* is required."},
+      "examples": [
+        {"de": "Wir haben lange auf ihn gewartet, aber ohne ihn angefangen.", "en": "We waited for him for a long time, but started without him."},
+        {"de": "Diese Aufgabe ist zu schwer für ihn.", "en": "This task is too difficult for him."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Am Wochenende radeln wir {{c1::den::der}} Rhein entlang.",
+      "en": "At the weekend we're cycling along the Rhine.",
+      "focus": "Akk. · Präposition nach dem Nomen",
+      "explanation": "*entlang* (along) usually stands **after** its noun, and then the noun is in the Akkusativ. *der Rhein* is masculine, so the article becomes **den**: *den Rhein entlang*. Before the noun, *entlang* takes the Dativ or Genitiv (*entlang dem Rhein*), but the form after the noun is the most common.",
+      "pattern": "**den** + Nomen + entlang (Akk. m.)",
+      "mistake": {"wrong": "Am Wochenende radeln wir der Rhein entlang.", "why": "*der Rhein* is the Nominativ. A noun after a preposition is never in the Nominativ; with *entlang* after the noun the masculine Akkusativ is *den Rhein*."},
+      "examples": [
+        {"de": "Gehen Sie diese Straße entlang bis zur Kirche.", "en": "Walk along this street as far as the church."},
+        {"de": "Wir sind den ganzen Strand entlanggelaufen.", "en": "We walked along the whole beach."}
+      ],
+      "words": [{"de": "radeln", "en": "to cycle (informal)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Gehen Sie geradeaus bis {{c1::zur::Präp. + Artikel}} Ampel.",
+      "en": "Go straight on as far as the traffic lights.",
+      "focus": "*bis* vor einem Nomen mit Artikel",
+      "explanation": "*bis* cannot stand directly before an article, so a second preposition is added: *bis zu*. Now *zu* decides the case → Dativ. *Ampel* is feminine, so *zu der* contracts to **zur**: *bis zur Ampel*.",
+      "pattern": "bis + **zur/zum** + Nomen (Dat.)",
+      "mistake": {"wrong": "Gehen Sie geradeaus bis die Ampel.", "why": "*bis* is not combined with an article. With a noun that needs an article, use *bis zu* + Dativ: *bis zur Ampel*."},
+      "examples": [
+        {"de": "Der Bus fährt nur bis zum Hauptbahnhof.", "en": "The bus only goes as far as the main station."},
+        {"de": "Sie hat bis zum letzten Tag gearbeitet.", "en": "She worked until the last day."}
+      ],
+      "words": [{"de": "die Ampel (-n)", "en": "traffic lights"}, {"de": "geradeaus", "en": "straight on"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich habe meine Frau {{c1::durch}} einen Freund kennengelernt.",
+      "en": "I met my wife through a friend.",
+      "focus": "Akk.-Präposition · Vermittler",
+      "explanation": "Here the preposition does not describe a place: it names the person who made the contact possible → **durch** (*through, by means of*). It still takes the Akkusativ: masculine *ein Freund* → *einen Freund*.",
+      "pattern": "**durch** + Akk. (Vermittler, Mittel)",
+      "mistake": {"wrong": "Ich habe meine Frau durch einem Freund kennengelernt.", "why": "*einem* is Dativ, perhaps copied from *mit einem Freund* or *von einem Freund*. *durch* always takes the Akkusativ: *durch einen Freund*."},
+      "examples": [
+        {"de": "Wir haben die Wohnung durch eine Anzeige gefunden.", "en": "We found the flat through an advert."},
+        {"de": "Ich habe durch Zufall von dem Job erfahren.", "en": "I heard about the job by chance."}
+      ],
+      "words": [{"de": "kennenlernen", "en": "to get to know, to meet (for the first time)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir fahren {{c1::für}} zwei Wochen nach Portugal.",
+      "en": "We're going to Portugal for two weeks.",
+      "focus": "Akk.-Präposition · geplante Dauer",
+      "explanation": "**für** + a period gives the planned length of a stay or trip: *für zwei Wochen*. The plan looks forward from now. For a finished period in the past German uses the Akkusativ without a preposition: *Wir waren zwei Wochen in Portugal.*",
+      "pattern": "**für** + Zeitraum (geplant)",
+      "mistake": {"wrong": "Wir fahren während zwei Wochen nach Portugal.", "why": "*während* means *during* an event or period (*während der Ferien*). For the planned length of a trip use *für* + Akkusativ."},
+      "examples": [
+        {"de": "Sie geht für ein Jahr nach Kanada.", "en": "She's going to Canada for a year."},
+        {"de": "Ich leihe dir mein Auto für das Wochenende.", "en": "I'll lend you my car for the weekend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Haben Sie etwas {{c1::gegen}} Kopfschmerzen?",
+      "en": "Do you have something for headaches?",
+      "focus": "Akk.-Präposition · Medikament und Krankheit",
+      "explanation": "In German a medicine works *against* an illness → **gegen** + Akkusativ: *etwas gegen Kopfschmerzen, Tabletten gegen Husten*. *Kopfschmerzen* is plural without an article, so the Akkusativ is not visible.",
+      "pattern": "Mittel/etwas + **gegen** + Krankheit (Akk.)",
+      "mistake": {"wrong": "Haben Sie etwas für Kopfschmerzen?", "why": "This copies English *for headaches*. The fixed standard combination is *etwas / ein Mittel gegen* + illness, because the medicine fights the problem (*ein Mittel gegen Schnupfen*). *für* is not the standard form here."},
+      "examples": [
+        {"de": "Der Arzt hat mir Tropfen gegen den Husten gegeben.", "en": "The doctor gave me drops for my cough."},
+        {"de": "Hilft Tee mit Honig gegen Halsschmerzen?", "en": "Does tea with honey help with a sore throat?"}
+      ],
+      "words": [{"de": "die Kopfschmerzen (Pl.)", "en": "headache"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Mannschaft hat gestern gegen {{c1::uns::wir}} verloren.",
+      "en": "The team lost to us yesterday.",
+      "focus": "Personalpronomen · Gegner",
+      "explanation": "*gegen* takes the Akkusativ, so *wir* becomes **uns**. For *wir* and *ihr* the Akkusativ and Dativ have the same form (*uns, euch*), but the case after *gegen* is still Akkusativ. English says *lost to us*, German *gegen uns verloren*.",
+      "pattern": "verlieren + **gegen** + Akk.-Pronomen",
+      "mistake": {"wrong": "Die Mannschaft hat gestern gegen wir verloren.", "why": "After a preposition a pronoun is never in the Nominativ. *gegen* needs the Akkusativ: *wir → uns*."},
+      "examples": [
+        {"de": "Wer spielt am Samstag gegen euch?", "en": "Who is playing against you on Saturday?"},
+        {"de": "Gegen ihn hat niemand eine Chance.", "en": "Nobody stands a chance against him."}
+      ],
+      "words": [{"de": "verlieren (gegen + Akk.)", "en": "to lose (to)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich brauche noch Brot {{c1::fürs::für + das}} Frühstück.",
+      "en": "I still need bread for breakfast.",
+      "focus": "Verschmelzung · Präposition + neutraler Artikel",
+      "explanation": "*das Frühstück* is neuter, and the Akkusativ after *für* is *das*. In everyday German *für das* often contracts to **fürs**. The same happens with *durch das → durchs* and *um das → ums*.",
+      "pattern": "**fürs** (= für das) + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Ich brauche noch Brot für den Frühstück.", "why": "*den* is the masculine Akkusativ, but *Frühstück* is neuter (*das Frühstück*). Neuter Akkusativ after *für* is *das*, in speech contracted to *fürs*."},
+      "examples": [
+        {"de": "Wir sparen Geld fürs neue Auto.", "en": "We're saving money for the new car."},
+        {"de": "Die Kinder laufen ums Haus.", "en": "The children are running around the house."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich trinke meinen Kaffee immer {{c1::ohne}} Zucker.",
+      "en": "I always drink my coffee without sugar.",
+      "focus": "Akk.-Präposition · Nomen mit Nullartikel",
+      "explanation": "**ohne** is very often used with a noun without an article: *ohne Zucker, ohne Milch, ohne Probleme*. The case is still Akkusativ, but it is not visible. *meinen Kaffee* is the separate Akkusativ object of *trinken*.",
+      "pattern": "**ohne** + Nomen ohne Artikel",
+      "mistake": {"wrong": "Ich trinke meinen Kaffee immer mit keinem Zucker.", "why": "German does not say *mit kein-* for *without*. The normal form is *ohne* + noun without an article: *ohne Zucker*."},
+      "examples": [
+        {"de": "Sie hat die Prüfung ohne Probleme bestanden.", "en": "She passed the exam without any problems."},
+        {"de": "Ohne Ticket darf man nicht in den Zug.", "en": "You're not allowed on the train without a ticket."}
+      ],
+      "words": [{"de": "der Zucker", "en": "sugar"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Touristen stehen um {{c1::den::der}} großen Brunnen herum.",
+      "en": "The tourists are standing around the big fountain.",
+      "focus": "Akk.-Präposition · Positionsverb *stehen*",
+      "explanation": "*stehen* describes a position, not a movement, but *um* is not a Wechselpräposition: it always takes the Akkusativ. *der Brunnen* is masculine → **den**, and the adjective takes *-en*: *um den großen Brunnen herum*.",
+      "pattern": "stehen + um + **den** + Adj-en + Nomen + herum (Akk. m.)",
+      "mistake": {"wrong": "Die Touristen stehen um dem großen Brunnen herum.", "why": "The question *wo?* only decides the case after Wechselpräpositionen (*in, an, auf …*). *um* takes the Akkusativ even with *stehen, sitzen, liegen*."},
+      "examples": [
+        {"de": "Die Gäste sitzen um den runden Tisch herum.", "en": "The guests are sitting around the round table."},
+        {"de": "Um den alten Turm herum liegen viele Steine.", "en": "Lots of stones are lying around the old tower."}
+      ],
+      "words": [{"de": "der Brunnen (-)", "en": "fountain; well"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ohne {{c1::euch::ihr}} macht die Party keinen Spaß.",
+      "en": "The party is no fun without you.",
+      "focus": "Personalpronomen · nach *ohne*",
+      "explanation": "*ohne* takes the Akkusativ, so the pronoun *ihr* (you, plural, informal) becomes **euch**. The phrase *ohne euch* is in the Vorfeld, so the verb *macht* follows in position 2.",
+      "pattern": "**ohne** + Akk.-Pronomen (ihr → euch)",
+      "mistake": {"wrong": "Ohne ihr macht die Party keinen Spaß.", "why": "*ihr* here is the Nominativ (subject form). After *ohne* the Akkusativ is required: *euch*."},
+      "examples": [
+        {"de": "Wir fahren nicht ohne euch los.", "en": "We won't leave without you."},
+        {"de": "Ohne dich ist es hier langweilig.", "en": "It's boring here without you."}
+      ],
+      "words": [{"de": "Spaß machen", "en": "to be fun"}],
+      "production_cue": "(you = ihr, several friends)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Dieser Zug fährt nur {{c1::bis}} Hamburg.",
+      "en": "This train only goes as far as Hamburg.",
+      "focus": "Endpunkt · Ortsname",
+      "explanation": "With a place, **bis** means *as far as*: the train stops in Hamburg and goes no further. City and country names without an article follow *bis* directly. With an article you would need *bis zum / bis zur* (*bis zur Grenze*).",
+      "pattern": "**bis** + Ortsname (ohne Artikel)",
+      "mistake": {"wrong": "Dieser Zug fährt nur bis zu Hamburg.", "why": "*bis zum / bis zur* is used before a noun with an article (*bis zum Bahnhof*). A city name has no article, so *bis* stands alone (in speech also *bis nach Hamburg*)."},
+      "examples": [
+        {"de": "Von hier bis Basel sind es noch 80 Kilometer.", "en": "From here to Basel it's still 80 kilometres."},
+        {"de": "Wir sind gestern bis Salzburg gefahren.", "en": "Yesterday we drove as far as Salzburg."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Akkusativ prepositions.",
+      "prompt": "Which prepositions always take the Akkusativ, and which two have special rules?",
+      "answer": "**durch, für, gegen, ohne, um** always take the Akkusativ. **bis** also takes the Akkusativ but normally stands without an article; **entlang** takes the Akkusativ when it follows the noun.",
+      "explanation": "These prepositions do not depend on movement or position: the case is fixed. A common memory aid is the order *durch – für – gegen – ohne – um*. *bis* needs *zu* before an article (*bis zum Ende*), and *entlang* before the noun takes the Dativ or Genitiv.",
+      "examples": [
+        {"de": "Ich habe den ganzen Tag ohne Pause gearbeitet.", "en": "I worked all day without a break."},
+        {"de": "Wir gehen das Ufer entlang.", "en": "We're walking along the shore."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about visible case forms.",
+      "prompt": "After an Akkusativ preposition, where can you actually see the Akkusativ?",
+      "answer": "On **masculine singular** articles and possessives (*den, einen, keinen, meinen*), on adjectives in that slot, on n-Deklination nouns (*den Kollegen*), and on the pronouns **mich, dich, ihn, uns, euch**. Feminine, neuter and plural forms look like the Nominativ.",
+      "explanation": "Only the masculine article changes between Nominativ and Akkusativ (*der → den, ein → einen*). That is why mistakes after *für, ohne, gegen* mostly show up with masculine nouns and with pronouns.",
+      "examples": [
+        {"de": "Das ist für den Chef.", "en": "That's for the boss (m)."},
+        {"de": "Das ist für die Chefin.", "en": "That's for the boss (f)."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *um acht Uhr* and *gegen acht Uhr*?",
+      "answer": "*um acht Uhr* = exactly at eight. *gegen acht Uhr* = at about eight, maybe a little before or after.",
+      "explanation": "Both prepositions take the Akkusativ, but the clock time shows no case. For an exact time, appointments and timetables use *um*. *gegen* is for approximate times; *um acht herum* means the same.",
+      "examples": [
+        {"de": "Die Prüfung beginnt pünktlich um neun Uhr.", "en": "The exam starts punctually at nine o'clock."},
+        {"de": "Ich bin gegen neun Uhr zu Hause.", "en": "I'll be home at about nine."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about *bis*.",
+      "prompt": "When does *bis* stand alone, and when do you need *bis zum / bis zur*?",
+      "answer": "Alone before words without an article: days, dates, clock times, time adverbs, place names, time phrases with *nächst-* (*bis Montag, bis 18 Uhr, bis morgen, bis Wien*). Before a noun with an article: **bis zu** + Dativ (*bis zum Bahnhof, bis zur Grenze*).",
+      "explanation": "*bis* cannot be followed directly by an article. In *bis zum*, the second preposition *zu* decides the case, so the noun is in the Dativ, not the Akkusativ. *bis an* / *bis in* + Akkusativ also exist: *bis an die Grenze*.",
+      "examples": [
+        {"de": "Der Laden hat bis 20 Uhr geöffnet.", "en": "The shop is open until 8 pm."},
+        {"de": "Wir laufen bis zur Brücke und dann zurück.", "en": "We'll walk as far as the bridge and then back."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about *für* with periods of time.",
+      "prompt": "Can you translate English *for three years* with *für drei Jahre* in every sentence?",
+      "answer": "No. *für* + period is for a **planned** length (*Er geht für drei Jahre nach Japan.*). For a finished period use the Akkusativ alone or with *lang* (*Er hat drei Jahre (lang) in Japan gelebt.*); for a period that still continues use *seit* + Dativ.",
+      "explanation": "English uses *for* in all three cases, German does not. ✗ *Ich habe für drei Jahre in Wien gewohnt* is a typical learner error. ✓ *Ich wohne seit drei Jahren in Wien* = I have lived in Vienna for three years (and still do).",
+      "examples": [
+        {"de": "Er geht für drei Jahre nach Japan.", "en": "He's going to Japan for three years."},
+        {"de": "Er hat drei Jahre lang in Japan gelebt.", "en": "He lived in Japan for three years."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Ich habe ein Buch für ___ Vater gekauft.",
+      "options": ["meinem", "meinen", "mein"],
+      "correct": "meinen",
+      "answer": "Ich habe ein Buch für meinen Vater gekauft.",
+      "explanation": "*für* takes the Akkusativ, and *Vater* is masculine → *meinen*. *meinem* is the Dativ (after *mit, von, zu*), and *mein* is the Nominativ form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the preposition that fits the meaning.",
+      "prompt": "Die Kinder tanzen ___ den Weihnachtsbaum herum.",
+      "options": ["durch", "um", "gegen", "ohne"],
+      "correct": "um",
+      "answer": "Die Kinder tanzen um den Weihnachtsbaum herum.",
+      "explanation": "*herum* belongs to *um*: *um … herum* = all around something. *durch* would mean through the tree, *gegen* would mean dancing into it, and *ohne* does not fit the meaning."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Kannst du das bitte für ___ erledigen? Ich habe keine Zeit.",
+      "options": ["mir", "mich", "ich"],
+      "correct": "mich",
+      "answer": "Kannst du das bitte für mich erledigen? Ich habe keine Zeit.",
+      "explanation": "*für* requires the Akkusativ: *ich → mich*. *mir* is the Dativ form, and *ich* is the Nominativ, which never follows a preposition."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ohne meinem Schlüssel gehe ich nicht aus dem Haus.",
+      "answer": "Ohne meinen Schlüssel gehe ich nicht aus dem Haus.",
+      "explanation": "*meinem* is the Dativ, copied from *mit meinem Schlüssel*. *ohne* takes the Akkusativ, and *Schlüssel* is masculine → *meinen Schlüssel*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Kollegen haben ohne ihm angefangen.",
+      "answer": "Die Kollegen haben ohne ihn angefangen.",
+      "explanation": "*ihm* is the Dativ of *er*. *ohne* takes the Akkusativ, so the pronoun must be *ihn*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir laufen zusammen bis den Bahnhof.",
+      "answer": "Wir laufen zusammen bis zum Bahnhof.",
+      "explanation": "*bis* cannot stand directly before an article. With *der Bahnhof* you need *bis zu* + Dativ: *zu dem → zum*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace the name with a personal pronoun.",
+      "prompt": "Meine Schwester arbeitet für Herrn Schulz.",
+      "answer": "Meine Schwester arbeitet für ihn.",
+      "explanation": "*Herr Schulz* is a man → pronoun *er*. After *für* the pronoun is Akkusativ: *ihn*. The n-Deklination ending of *Herrn* disappears together with the noun."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace *mit* with *ohne*. Change the case if necessary.",
+      "prompt": "Sie kommt mit ihrem Mann zur Hochzeit.",
+      "answer": "Sie kommt ohne ihren Mann zur Hochzeit.",
+      "explanation": "*mit* takes the Dativ (*ihrem Mann*), but *ohne* takes the Akkusativ. *Mann* is masculine, so *ihrem* becomes *ihren*. *zur Hochzeit* does not change."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace *die Straße* with *der Fluss*. Adjust the article.",
+      "prompt": "Wir gehen die Straße entlang.",
+      "answer": "Wir gehen den Fluss entlang.",
+      "explanation": "*entlang* after the noun takes the Akkusativ. With a feminine noun this is invisible (*die Straße*), but masculine *der Fluss* becomes *den Fluss*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Morgen",
+      "prompt": "durch / fahren / wir / den Gotthardtunnel / morgen",
+      "answer": "Morgen fahren wir durch den Gotthardtunnel.",
+      "explanation": "*Morgen* is in the Vorfeld, so the verb *fahren* comes in position 2 and the subject *wir* follows it. *durch den Gotthardtunnel* is Akkusativ (masculine *der Tunnel*). Without the given start: *Wir fahren morgen durch den Gotthardtunnel.*"
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Unsere",
+      "prompt": "gegen / spielt / den FC Basel / am Samstag / unsere Mannschaft",
+      "answer": "Unsere Mannschaft spielt am Samstag gegen den FC Basel.",
+      "explanation": "The subject *unsere Mannschaft* is in position 1, the verb *spielt* in position 2. The time *am Samstag* comes before the prepositional phrase. *der FC Basel* is masculine → *gegen den FC Basel*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence with *ohne*.",
+      "prompt": "Ich fahre in den Urlaub. Mein Hund kommt nicht mit.",
+      "answer": "Ich fahre ohne meinen Hund in den Urlaub.",
+      "explanation": "The dog does not come along → *ohne* + Akkusativ. *Hund* is masculine, so *mein* becomes *meinen*. The *ohne* phrase stands before the direction *in den Urlaub*."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Der Deutschkurs beginnt jeden Dienstag ___ halb sieben.",
+      "options": ["an", "um", "in", "für"],
+      "correct": "um",
+      "answer": "Der Deutschkurs beginnt jeden Dienstag um halb sieben.",
+      "explanation": "A clock time takes *um*. *an* (*am*) is for days and dates, *in* for periods from now (*in zehn Minuten*), and *für* does not mark a point in time."
+    }
+  ]
+}

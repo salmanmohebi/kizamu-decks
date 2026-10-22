@@ -1,0 +1,699 @@
+{
+  "topic_id": "b1-12-futur-1",
+  "level": "B1",
+  "title_de": "Futur I",
+  "title_en": "Future tense (Futur I)",
+  "rule": {
+    "summary": "The **Futur I** is formed with the conjugated verb **werden** + **infinitive** at the end of the clause (Satzklammer): *Ich* **werde** *morgen* **anrufen**. For simple plans with a time phrase, German usually prefers the **Präsens** (*Morgen rufe ich an.*). Futur I is used for **predictions** (*Es wird regnen.*), **promises and firm intentions** (*Ich werde dich nicht vergessen.*), **assumptions about the present**, often with *wohl, bestimmt, sicher* (*Er wird wohl im Stau stehen.*), and strong **demands** (*Du wirst jetzt aufräumen!*).",
+    "table": "| Person | werden | + Infinitiv |\n|---|---|---|\n| ich | **werde** | … kommen |\n| du | **wirst** | … kommen |\n| er / sie / es | **wird** | … kommen |\n| wir | **werden** | … kommen |\n| ihr | **werdet** | … kommen |\n| sie / Sie | **werden** | … kommen |",
+    "steps": [
+      "Decide if you need Futur I: prediction, promise, firm intention, assumption or demand. For a normal plan with *morgen, nächste Woche* etc., the Präsens is enough.",
+      "Conjugate *werden* for the subject: *werde, wirst, wird, werden, werdet, werden*. Note the irregular *du wirst* and *er wird*.",
+      "Main clause: *werden* in position 2 (or position 1 in yes/no questions), the **infinitive at the end**. Separable verbs stay together as one infinitive: *ankommen*.",
+      "With a modal verb, both infinitives go to the end, the modal last: *Wir werden früher aufstehen müssen.*",
+      "Nebensatz: infinitive first, then *werden* as the very last word: *…, dass es regnen* **wird**.",
+      "Do not confuse: *werden* + **infinitive** = Futur; *werden* + **Partizip II** = Passiv; *werden* alone + adjective/noun = *to become*."
+    ],
+    "pitfalls": [
+      "False friend *will*: ✗ *Es will morgen regnen.* → ✓ *Es wird morgen regnen.* German *will* means *wants*.",
+      "Conjugated verb instead of the infinitive: ✗ *Sie wird morgen kommt.* → ✓ *Sie wird morgen kommen.*",
+      "Infinitive not at the end: ✗ *Ich werde kaufen ein neues Auto.* → ✓ *Ich werde ein neues Auto kaufen.*",
+      "Wrong forms of *werden*: ✗ *du wirdst, er werdet* → ✓ *du wirst, er wird, ihr werdet*.",
+      "Overusing Futur I for every plan: *Ich werde morgen ins Kino gehen* is correct, but *Morgen gehe ich ins Kino* sounds more natural in everyday speech."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::werde::werden}} morgen einkaufen.",
+      "en": "I will go shopping tomorrow.",
+      "focus": "Futur I · 1. Person Singular · Absicht",
+      "explanation": "The speaker states an intention for tomorrow. Futur I = conjugated *werden* + infinitive; for *ich* the form is **werde**. The separable verb *einkaufen* stays together as one infinitive at the end. In everyday speech *Ich kaufe morgen ein* is just as common.",
+      "pattern": "Subjekt + werde + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Ich werde einkaufen morgen.", "why": "The infinitive closes the sentence (Satzklammer). Time expressions like *morgen* go in the Mittelfeld, before the infinitive."},
+      "examples": [
+        {"de": "Ich werde am Wochenende die Wohnung putzen.", "en": "I'm going to clean the flat at the weekend."},
+        {"de": "Ich werde nächste Woche mit meinem Chef sprechen.", "en": "I'll talk to my boss next week."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::wirst::werden}} bestimmt müde sein.",
+      "en": "You're bound to be tired.",
+      "focus": "Futur I · Vermutung · 2. Person Singular",
+      "explanation": "With *bestimmt*, the Futur I often expresses an **assumption**: after a long day the speaker supposes that you are (or will be) tired. The *du*-form of *werden* is irregular: **wirst** (no *-d-*). The infinitive *sein* stands at the end.",
+      "pattern": "du wirst + bestimmt + Adj. + sein (Vermutung)",
+      "mistake": {"wrong": "Du wirdst bestimmt müde sein.", "why": "The *du*-form of *werden* is *wirst*, without *d*. Compare *er wird*."},
+      "examples": [
+        {"de": "Nach dem langen Flug wirst du bestimmt hungrig sein.", "en": "After the long flight you're bound to be hungry."},
+        {"de": "Ihr werdet nach der Wanderung sicher durstig sein.", "en": "You'll surely be thirsty after the hike."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::wird::werden}} sicher kommen.",
+      "en": "He will certainly come.",
+      "focus": "Futur I · 3. Person Singular · Überzeugung",
+      "explanation": "The speaker is convinced about a future event; *sicher* makes the statement stronger. The 3rd person singular of *werden* is irregular: **wird** (no ending *-t*). *kommen* is the infinitive at the end.",
+      "pattern": "er/sie/es wird + Adverb + Infinitiv",
+      "mistake": {"wrong": "Er werdet sicher kommen.", "why": "*werdet* is the *ihr*-form. For *er/sie/es* the form is *wird*."},
+      "examples": [
+        {"de": "Sie wird sicher pünktlich sein.", "en": "She will certainly be on time."},
+        {"de": "Der Zug wird gleich abfahren.", "en": "The train will leave in a moment."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::werden::werden · wir}} im Sommer reisen.",
+      "en": "We will travel in the summer.",
+      "focus": "Futur I · 1. Person Plural · Plan",
+      "explanation": "A plan for the summer. For *wir* the form of *werden* is the same as the infinitive: **werden**. The main verb *reisen* is an infinitive at the end, not a Partizip II.",
+      "pattern": "wir werden + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Wir werden im Sommer gereist.", "why": "Futur I needs the infinitive (*reisen*). *werden* + Partizip II is the structure of the passive and makes no sense here."},
+      "examples": [
+        {"de": "Wir werden im Herbst umziehen.", "en": "We'll move in the autumn."},
+        {"de": "Wir werden uns nach dem Kurs wiedersehen.", "en": "We'll see each other again after the course."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie {{c1::werden::werden · sie (Pl.)}} bald ankommen.",
+      "en": "They will arrive soon.",
+      "focus": "Futur I · 3. Person Plural · trennbares Verb",
+      "explanation": "*sie* + plural verb form = *they* (or formal *Sie* = you). The form is **werden**. The separable verb *ankommen* is not split in the Futur: the whole infinitive stands at the end.",
+      "pattern": "sie werden + Adverb + Präfix+Infinitiv",
+      "mistake": {"wrong": "Sie werden bald kommen an.", "why": "Separable verbs only split when they are the finite verb. Here *werden* is finite, so *ankommen* stays together at the end."},
+      "examples": [
+        {"de": "Die Gäste werden gegen acht eintreffen.", "en": "The guests will arrive around eight."},
+        {"de": "Die Kinder werden heute bestimmt schnell einschlafen.", "en": "The children will surely fall asleep quickly tonight."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Es {{c1::wird::werden}} morgen regnen.",
+      "en": "It will rain tomorrow.",
+      "focus": "Futur I · Vorhersage · unpersönliches *es*",
+      "explanation": "Weather forecasts are a typical use of Futur I (prediction). *regnen* has the impersonal subject *es* → 3rd person singular **wird**. The infinitive *regnen* closes the sentence.",
+      "pattern": "Es wird + Zeitangabe + Infinitiv (Prognose)",
+      "mistake": {"wrong": "Es wird morgen regnet.", "why": "Only *werden* is conjugated. The main verb must be the infinitive: *regnen*."},
+      "examples": [
+        {"de": "Am Nachmittag wird es kühler werden.", "en": "In the afternoon it will get cooler."},
+        {"de": "Im Süden wird es heute Nacht schneien.", "en": "It will snow in the south tonight."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich {{c1::werde::werden}} dich nicht vergessen.",
+      "en": "I won't forget you.",
+      "focus": "Futur I · Versprechen · Negation",
+      "explanation": "A promise is a typical use of Futur I. For *ich* the form is **werde**. *nicht* negates the whole statement and stands near the end, before the infinitive *vergessen*; the pronoun *dich* comes before *nicht*.",
+      "pattern": "Ich werde + Pronomen + nicht + Infinitiv",
+      "mistake": {"wrong": "Ich wird dich nicht vergessen.", "why": "*wird* is the form for *er/sie/es*. With *ich* the form is *werde*."},
+      "examples": [
+        {"de": "Ich werde nie wieder so spät losfahren.", "en": "I'll never set off so late again."},
+        {"de": "Wir werden euch jeden Tag schreiben.", "en": "We'll write to you every day."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Du {{c1::wirst::werden}} es schaffen.",
+      "en": "You'll manage it.",
+      "focus": "Futur I · Ermutigung · 2. Person Singular",
+      "explanation": "The speaker encourages someone and expresses confidence about the future. *du* → **wirst**. The pronoun object *es* stands right after the finite verb, and the infinitive *schaffen* is at the end.",
+      "pattern": "du wirst + es + Infinitiv",
+      "mistake": {"wrong": "Du wirst es schaffst.", "why": "The person ending belongs only to *werden*. The main verb stays in the infinitive: *schaffen*."},
+      "examples": [
+        {"de": "Keine Sorge, du wirst die Stelle bekommen.", "en": "Don't worry, you'll get the job."},
+        {"de": "Du wirst dich schnell an die neue Stadt gewöhnen.", "en": "You'll quickly get used to the new city."}
+      ],
+      "words": [{"de": "schaffen", "en": "to manage, to make it"}],
+      "production_cue": "(informal du, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Wir {{c1::werden::werden · wir}} alles erklären.",
+      "en": "We will explain everything.",
+      "focus": "Futur I · Ankündigung · Satzklammer",
+      "explanation": "An announcement of what we intend to do. *wir* → **werden**. The object *alles* goes into the Mittelfeld, between *werden* and the infinitive *erklären* at the end.",
+      "pattern": "wir werden + Objekt + Infinitiv",
+      "mistake": {"wrong": "Wir werden erklären alles.", "why": "The infinitive must close the sentence. The object *alles* stands inside the bracket: *werden alles erklären*."},
+      "examples": [
+        {"de": "Wir werden die Ergebnisse am Freitag präsentieren.", "en": "We will present the results on Friday."},
+        {"de": "Die Ministerin wird morgen eine Erklärung abgeben.", "en": "The minister will make a statement tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Das {{c1::wird::werden}} schwierig.",
+      "en": "That will be difficult.",
+      "focus": "*werden* als Vollverb · Zukunftsbedeutung",
+      "explanation": "Here **wird** is not an auxiliary: it is the full verb *werden* (*to become / to turn out*) in the Präsens, with an adjective. It still refers to the future: *That is going to be difficult*. The full Futur I *Das wird schwierig werden* means the same but sounds heavier.",
+      "pattern": "Subjekt + wird + Adjektiv (Vollverb *werden*)",
+      "mistake": {"wrong": "Das will schwierig sein.", "why": "German *will* is the modal verb *wollen* (wants). The future in German is expressed with *werden*: *Das wird schwierig.*"},
+      "examples": [
+        {"de": "Die Prüfung wird bestimmt nicht leicht.", "en": "The exam certainly won't be easy."},
+        {"de": "Morgen wird es sonnig.", "en": "Tomorrow it'll be sunny."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Was {{c1::wirst::werden}} du nächstes Jahr machen?",
+      "en": "What will you do next year?",
+      "focus": "Futur I · W-Frage · 2. Person Singular",
+      "explanation": "In a W-question the question word is in position 1 and the finite verb in position 2: *Was* **wirst** *du …?* The infinitive *machen* stands at the end, after the time phrase.",
+      "pattern": "W-Wort + wirst + du + … + Infinitiv?",
+      "mistake": {"wrong": "Was du wirst nächstes Jahr machen?", "why": "In a direct W-question the finite verb comes right after the question word, before the subject: *Was wirst du …?*"},
+      "examples": [
+        {"de": "Wann wirst du mit dem Studium fertig sein?", "en": "When will you finish your degree?"},
+        {"de": "Wo werdet ihr im Urlaub übernachten?", "en": "Where will you stay on holiday?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich {{c1::werde::werden}} im Mai heiraten.",
+      "en": "I'll get married in May.",
+      "focus": "Futur I · Plan mit Zeitangabe",
+      "explanation": "A fixed plan with a time phrase: Futur I with **werde** for *ich*, infinitive *heiraten* at the end. Because *im Mai* already shows the future, the Präsens is equally correct: *Ich heirate im Mai.*",
+      "pattern": "Ich werde + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Im Mai ich werde heiraten.", "why": "If *im Mai* is in position 1, the finite verb must follow in position 2, before the subject: *Im Mai werde ich heiraten.*"},
+      "examples": [
+        {"de": "Im Juni werde ich mein Praktikum beginnen.", "en": "I'll start my internship in June."},
+        {"de": "Ich werde nächstes Jahr in Rente gehen.", "en": "I'm going to retire next year."}
+      ],
+      "words": [{"de": "heiraten", "en": "to get married"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie {{c1::wird::werden}} bestimmt anrufen.",
+      "en": "She'll definitely call.",
+      "focus": "Futur I · Erwartung · 3. Person Singular",
+      "explanation": "The speaker is confident about a future event; *bestimmt* strengthens the statement. *sie* (singular, she) → **wird**. *werden* is followed by a bare infinitive without *zu*: *anrufen*.",
+      "pattern": "sie wird + bestimmt + Infinitiv",
+      "mistake": {"wrong": "Sie wird bestimmt anzurufen.", "why": "Like modal verbs, *werden* takes the infinitive without *zu*: *wird anrufen*, not *anzurufen*."},
+      "examples": [
+        {"de": "Er wird bestimmt bald eine Antwort schicken.", "en": "He'll definitely send an answer soon."},
+        {"de": "Das Paket wird bestimmt morgen ankommen.", "en": "The parcel will definitely arrive tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir {{c1::werden::werden · wir}} morgen wandern gehen.",
+      "en": "We're going hiking tomorrow.",
+      "focus": "Futur I · zwei Infinitive am Ende",
+      "explanation": "*wandern gehen* is a verb combination with two infinitives (*gehen* + bare infinitive). In the Futur both stay at the end in the same order as in the infinitive form: *wandern gehen*. *wir* → **werden**.",
+      "pattern": "wir werden + … + Infinitiv + gehen",
+      "mistake": {"wrong": "Wir werden morgen gehen wandern.", "why": "The activity comes first and *gehen* last: *wandern gehen*, *schwimmen gehen*, *einkaufen gehen*."},
+      "examples": [
+        {"de": "Wir werden am Samstag schwimmen gehen.", "en": "We'll go swimming on Saturday."},
+        {"de": "Nach der Arbeit werde ich noch einkaufen gehen.", "en": "After work I'll go shopping."}
+      ],
+      "words": [{"de": "wandern", "en": "to hike"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er {{c1::wird::werden}} wahrscheinlich zu spät kommen.",
+      "en": "He'll probably be late.",
+      "focus": "Futur I · Wahrscheinlichkeit",
+      "explanation": "*wahrscheinlich* makes the statement a probable prediction. *er* → **wird**. The infinitive *kommen* is the last word; *zu spät* is an adverbial phrase in the Mittelfeld (here *zu* means *too*, not the infinitive particle).",
+      "pattern": "er wird + wahrscheinlich + … + Infinitiv",
+      "mistake": {"wrong": "Er wird wahrscheinlich kommen zu spät.", "why": "The infinitive must be at the very end. *zu spät* belongs in the Mittelfeld: *wird wahrscheinlich zu spät kommen*."},
+      "examples": [
+        {"de": "Der Flug wird wahrscheinlich Verspätung haben.", "en": "The flight will probably be delayed."},
+        {"de": "Die Preise werden wahrscheinlich weiter steigen.", "en": "Prices will probably keep rising."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das Wetter {{c1::wird::werden}} sich ändern.",
+      "en": "The weather will change.",
+      "focus": "Futur I · reflexives Verb",
+      "explanation": "*sich ändern* is reflexive. In the Futur the reflexive pronoun *sich* stays in the Mittelfeld right after **wird**, and the infinitive *ändern* goes to the end. *das Wetter* = *es* → 3rd person singular.",
+      "pattern": "Subjekt + wird + sich + Infinitiv",
+      "mistake": {"wrong": "Das Wetter wird ändern sich.", "why": "The reflexive pronoun does not follow the infinitive. *sich* stands after *wird*, and the infinitive comes last: *wird sich ändern*."},
+      "examples": [
+        {"de": "Die Situation wird sich bald verbessern.", "en": "The situation will soon improve."},
+        {"de": "Er wird sich bestimmt entschuldigen.", "en": "He'll definitely apologise."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Du {{c1::wirst::werden}} sehen, alles wird gut.",
+      "en": "You'll see, everything will be fine.",
+      "focus": "Futur I und *werden* als Vollverb",
+      "explanation": "This is a fixed phrase of reassurance. The first part is Futur I: **wirst** + infinitive *sehen*. In the second part *wird* is the full verb *werden* (become) with the adjective *gut*, in the Präsens with future meaning.",
+      "pattern": "Du wirst sehen (Futur I), … wird + Adj. (Vollverb)",
+      "mistake": {"wrong": "Du wirst gesehen, alles wird gut.", "why": "*wirst gesehen* is a passive (you are seen). Futur I needs the infinitive: *Du wirst sehen.*"},
+      "examples": [
+        {"de": "Ihr werdet sehen, das Konzert wird toll.", "en": "You'll see, the concert will be great."},
+        {"de": "Sie werden sehen, die Wohnung wird wunderschön.", "en": "You'll see, the flat will look wonderful."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir {{c1::werden::werden · wir}} es versuchen.",
+      "en": "We'll try.",
+      "focus": "Futur I · Absicht · Pronomenobjekt",
+      "explanation": "An intention: we plan to try. *wir* → **werden**. The pronoun *es* stands directly after the finite verb, and the infinitive *versuchen* is at the end. English often drops the object (*We'll try*), German keeps *es*.",
+      "pattern": "wir werden + es + Infinitiv",
+      "mistake": {"wrong": "Wir werden versuchen es.", "why": "The infinitive closes the sentence. The pronoun *es* comes early in the Mittelfeld: *werden es versuchen*."},
+      "examples": [
+        {"de": "Wir werden es noch einmal probieren.", "en": "We'll give it another go."},
+        {"de": "Ich werde es dir später erklären.", "en": "I'll explain it to you later."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich {{c1::werde::werden}} dir morgen Bescheid sagen.",
+      "en": "I'll let you know tomorrow.",
+      "focus": "Futur I · Versprechen · feste Wendung",
+      "explanation": "*jemandem Bescheid sagen* (to let someone know) is a fixed expression with a Dativ person. In the Futur I *ich* → **werde**, the Dativ *dir* and *morgen* go into the Mittelfeld, and the infinitive *sagen* ends the sentence.",
+      "pattern": "Ich werde + Dat. + Zeit + Bescheid + Infinitiv",
+      "mistake": {"wrong": "Ich wurde dir morgen Bescheid sagen.", "why": "*wurde* is the Präteritum of *werden* and does not fit *morgen*. The Futur needs the Präsens of *werden*: *ich werde*."},
+      "examples": [
+        {"de": "Ich werde dir heute Abend die Unterlagen schicken.", "en": "I'll send you the documents this evening."},
+        {"de": "Wir werden Ihnen nächste Woche Bescheid geben.", "en": "We'll let you know next week."}
+      ],
+      "words": [{"de": "jdm. Bescheid sagen", "en": "to let sb. know"}],
+      "production_cue": "(informal du, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie {{c1::werden::werden · sie (Pl.)}} es bald herausfinden.",
+      "en": "They will soon find out.",
+      "focus": "Futur I · Prognose · trennbares Verb",
+      "explanation": "A prediction about other people. Plural *sie* → **werden**. The unstressed pronoun *es* comes right after the finite verb, before *bald*, and the separable verb *herausfinden* stands unsplit at the end.",
+      "pattern": "sie werden + es + Adverb + Präfix+Infinitiv",
+      "mistake": {"wrong": "Sie werden bald es herausfinden.", "why": "An unstressed pronoun like *es* stands at the beginning of the Mittelfeld, directly after the finite verb: *werden es bald herausfinden*."},
+      "examples": [
+        {"de": "Die Forscher werden die Ursache bald finden.", "en": "The researchers will soon find the cause."},
+        {"de": "Die Eltern werden es sowieso merken.", "en": "The parents will notice anyway."}
+      ],
+      "words": [{"de": "herausfinden", "en": "to find out"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Ich hoffe, dass es morgen nicht regnen {{c1::wird::werden}}.",
+      "en": "I hope it won't rain tomorrow.",
+      "focus": "Futur I im *dass*-Satz · Verb am Ende",
+      "explanation": "In a Nebensatz the finite verb goes to the end. In the Futur I the infinitive *regnen* comes first and the conjugated **wird** is the very last word. *nicht* stands before the verb group.",
+      "pattern": "…, dass + Subjekt … Infinitiv + wird.",
+      "mistake": {"wrong": "Ich hoffe, dass es morgen nicht wird regnen.", "why": "In a *dass*-clause the conjugated verb is last: *regnen wird*, not *wird regnen*."},
+      "examples": [
+        {"de": "Ich glaube, dass sie die Wahl gewinnen wird.", "en": "I think she will win the election."},
+        {"de": "Er verspricht, dass er sich bessern wird.", "en": "He promises that he will improve."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Werdet::werden · ihr}} ihr rechtzeitig fertig sein?",
+      "en": "Will you be finished in time?",
+      "focus": "Futur I · Ja/Nein-Frage · 2. Person Plural",
+      "explanation": "In a yes/no question the finite verb comes first. For *ihr* the form of *werden* is **werdet** (regular ending *-et*). *fertig sein* is the infinitive group at the end.",
+      "pattern": "Werdet ihr … Infinitiv?",
+      "mistake": {"wrong": "Werden ihr rechtzeitig fertig sein?", "why": "*werden* is the form for *wir* and *sie/Sie*. With *ihr* the form is *werdet*."},
+      "examples": [
+        {"de": "Werdet ihr auch zur Hochzeit kommen?", "en": "Will you come to the wedding too?"},
+        {"de": "Wirst du morgen im Büro sein?", "en": "Will you be in the office tomorrow?"}
+      ],
+      "words": [{"de": "rechtzeitig", "en": "in time"}],
+      "production_cue": "(informal ihr, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Sie {{c1::werden::werden · Sie}} die Unterlagen in den nächsten Tagen per Post erhalten.",
+      "en": "You will receive the documents by post in the next few days.",
+      "focus": "Futur I · formelle Anrede · Ankündigung",
+      "explanation": "In formal letters and official information the Futur I is common for announcements. *Sie* (formal you) takes the same form as the plural: **werden**. The long Mittelfeld (*die Unterlagen in den nächsten Tagen per Post*) stands between *werden* and the infinitive *erhalten*.",
+      "pattern": "Sie werden + Objekt + Zeit + Art + Infinitiv",
+      "mistake": {"wrong": "Sie werden erhalten die Unterlagen in den nächsten Tagen per Post.", "why": "Even with a long Mittelfeld the infinitive must close the sentence: *werden die Unterlagen … per Post erhalten*."},
+      "examples": [
+        {"de": "Sie werden in Kürze eine Bestätigung per E-Mail bekommen.", "en": "You will shortly receive a confirmation by email."},
+        {"de": "Unser Techniker wird Sie morgen zwischen 8 und 12 Uhr besuchen.", "en": "Our technician will visit you tomorrow between 8 and 12."}
+      ],
+      "words": [{"de": "die Unterlagen (Pl.)", "en": "documents"}, {"de": "erhalten", "en": "to receive"}],
+      "production_cue": "(formal Sie, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Er ist noch nicht da. Er {{c1::wird::werden}} wohl im Stau stehen.",
+      "en": "He isn't here yet. He's probably stuck in traffic.",
+      "focus": "Futur I · Vermutung über die Gegenwart · *wohl*",
+      "explanation": "Here the Futur I does not refer to the future: with *wohl* it expresses an **assumption about the present** (he is probably in a traffic jam right now). The form is the normal Futur I: **wird** + infinitive *stehen*. English uses *probably* + present tense.",
+      "pattern": "wird + wohl + … + Infinitiv (Vermutung, jetzt)",
+      "mistake": {"wrong": "Er ist noch nicht da. Er ist wohl im Stau stehen.", "why": "*sein* + infinitive is not a German verb form. The assumption needs *werden* + infinitive (*Er wird wohl im Stau stehen*), or simply the Präsens with *wohl* (*Er steht wohl im Stau*)."},
+      "examples": [
+        {"de": "Das Telefon klingelt. Das wird wohl meine Mutter sein.", "en": "The phone is ringing. That'll be my mother."},
+        {"de": "Sie antwortet nicht. Sie wird wohl noch schlafen.", "en": "She isn't answering. She's probably still asleep."}
+      ],
+      "words": [{"de": "im Stau stehen", "en": "to be stuck in traffic"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wegen der Baustelle {{c1::werden::werden · wir}} wir früher aufstehen müssen.",
+      "en": "Because of the roadworks we'll have to get up earlier.",
+      "focus": "Futur I · Modalverb · Vorfeld",
+      "explanation": "*Wegen der Baustelle* fills the Vorfeld, so the finite verb **werden** follows in position 2 and the subject *wir* after it. With a modal verb both infinitives go to the end, and the modal comes last: *aufstehen müssen*.",
+      "pattern": "Vorfeld + werden + Subjekt … Infinitiv + Modalverb-Infinitiv",
+      "mistake": {"wrong": "Wegen der Baustelle werden wir müssen früher aufstehen.", "why": "In the Futur the modal verb is also an infinitive and stands at the very end, after the main verb: *früher aufstehen müssen*."},
+      "examples": [
+        {"de": "Wir werden das Projekt verschieben müssen.", "en": "We'll have to postpone the project."},
+        {"de": "Du wirst etwas länger warten müssen.", "en": "You'll have to wait a little longer."}
+      ],
+      "words": [{"de": "die Baustelle (-n)", "en": "construction site, roadworks"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Experten erwarten, dass die Energiepreise im nächsten Jahr weiter steigen {{c1::werden::werden · Plural}}.",
+      "en": "Experts expect that energy prices will keep rising next year.",
+      "focus": "Futur I · Prognose · Nebensatz · Plural",
+      "explanation": "A prognosis in a news style. The subject of the *dass*-clause is *die Energiepreise* (plural) → **werden**. As the finite verb in the Nebensatz it stands at the very end, after the infinitive *steigen*.",
+      "pattern": "…, dass + Subjekt (Pl.) … Infinitiv + werden.",
+      "mistake": {"wrong": "Experten erwarten, dass die Energiepreise im nächsten Jahr weiter steigen wird.", "why": "The verb agrees with the plural subject *die Energiepreise*: *werden*, not *wird*."},
+      "examples": [
+        {"de": "Man rechnet damit, dass die Arbeitslosigkeit sinken wird.", "en": "It is expected that unemployment will fall."},
+        {"de": "Die Regierung kündigt an, dass sie die Steuern senken wird.", "en": "The government announces that it will cut taxes."}
+      ],
+      "words": [{"de": "die Energiepreise (Pl.)", "en": "energy prices"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ab Montag {{c1::werde::werden}} ich jeden Morgen joggen.",
+      "en": "From Monday I'm going to go jogging every morning.",
+      "focus": "Futur I · Vorsatz · Zeitangabe im Vorfeld",
+      "explanation": "A firm intention (a new resolution). *Ab Montag* is in the Vorfeld, so the finite **werde** takes position 2 and *ich* follows. *joggen* is the infinitive at the end. Futur I makes the plan sound more determined than the Präsens.",
+      "pattern": "Zeitangabe + werde + ich … + Infinitiv",
+      "mistake": {"wrong": "Ab Montag ich werde jeden Morgen joggen.", "why": "After a time phrase in position 1, the finite verb must come before the subject: *Ab Montag werde ich …*"},
+      "examples": [
+        {"de": "Ab jetzt werde ich weniger Zucker essen.", "en": "From now on I'm going to eat less sugar."},
+        {"de": "Nächstes Jahr werde ich endlich den Führerschein machen.", "en": "Next year I'm finally going to get my driving licence."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Dieser Plan {{c1::wird::werden}} nicht funktionieren.",
+      "en": "This plan won't work.",
+      "focus": "Futur I · negative Prognose",
+      "explanation": "The speaker predicts a negative result. *Dieser Plan* (= *er*) → **wird**. *nicht* stands before the infinitive *funktionieren* and negates the whole prediction (*won't work*).",
+      "pattern": "Subjekt + wird + nicht + Infinitiv",
+      "mistake": {"wrong": "Dieser Plan wird funktionieren nicht.", "why": "The infinitive is the last element of the sentence. *nicht* comes before it: *wird nicht funktionieren*."},
+      "examples": [
+        {"de": "Das wird nicht lange dauern.", "en": "That won't take long."},
+        {"de": "Ohne Hilfe wird sie das nicht schaffen.", "en": "She won't manage that without help."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Morgen {{c1::fahre::fahren}} ich mit dem Zug nach Köln.",
+      "en": "Tomorrow I'm taking the train to Cologne.",
+      "focus": "Präsens mit Zukunftsbedeutung · Zeitangabe",
+      "explanation": "For a fixed plan with a time phrase (*morgen*), German normally uses the **Präsens**, not Futur I. *morgen* is in position 1, so the finite verb **fahre** follows and the subject comes after it. *Ich werde morgen … fahren* is correct but less natural in conversation.",
+      "pattern": "Zeitangabe + Präsens + Subjekt … (Zukunft)",
+      "mistake": {"wrong": "Morgen ich fahre mit dem Zug nach Köln.", "why": "*Morgen* fills position 1, so the finite verb must come next: *Morgen fahre ich …*"},
+      "examples": [
+        {"de": "Nächste Woche beginnt mein neuer Job.", "en": "My new job starts next week."},
+        {"de": "Am Freitag treffen wir uns mit Freunden.", "en": "On Friday we're meeting friends."}
+      ],
+      "words": [],
+      "production_cue": "(Präsens)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Du {{c1::wirst::werden}} jetzt sofort dein Zimmer aufräumen!",
+      "en": "You're going to tidy your room right now!",
+      "focus": "Futur I · nachdrückliche Aufforderung",
+      "explanation": "With stress and *jetzt sofort* the Futur I becomes a strong **demand** (stronger than the imperative *Räum dein Zimmer auf!*). *du* → **wirst**; the separable verb *aufräumen* stays together as infinitive at the end.",
+      "pattern": "Du wirst + jetzt + Objekt + Infinitiv!",
+      "mistake": {"wrong": "Du wirst jetzt sofort dein Zimmer räumen auf!", "why": "*aufräumen* is not split, because *wirst* is the finite verb. The complete infinitive stands at the end: *aufräumen*."},
+      "examples": [
+        {"de": "Ihr werdet euch jetzt bei ihm entschuldigen!", "en": "You are going to apologise to him now!"},
+        {"de": "Du wirst heute nicht mehr fernsehen!", "en": "You're not watching any more TV today!"}
+      ],
+      "words": [{"de": "aufräumen", "en": "to tidy up"}],
+      "production_cue": "(informal du, Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich bin sicher, dass sie sich über das Geschenk freuen {{c1::wird::werden}}.",
+      "en": "I'm sure she'll be pleased with the present.",
+      "focus": "Futur I im *dass*-Satz · reflexives Verb",
+      "explanation": "In the *dass*-clause the order is: subject, reflexive pronoun *sich*, the rest of the Mittelfeld, infinitive *freuen*, and finally the conjugated **wird**. *sie* is singular here (she) → *wird*.",
+      "pattern": "…, dass + Subjekt + sich … Infinitiv + wird.",
+      "mistake": {"wrong": "Ich bin sicher, dass sie wird sich über das Geschenk freuen.", "why": "In a Nebensatz *wird* cannot stand in position 2. It goes to the very end: *freuen wird*."},
+      "examples": [
+        {"de": "Ich glaube nicht, dass er sich beschweren wird.", "en": "I don't think he'll complain."},
+        {"de": "Wir hoffen, dass ihr euch bei uns wohlfühlen werdet.", "en": "We hope you'll feel at home with us."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wer {{c1::wird::werden}} die Kosten für die Reparatur übernehmen?",
+      "en": "Who will pay for the repair?",
+      "focus": "Futur I · Frage mit *wer* als Subjekt",
+      "explanation": "*wer* is the subject of the question and always takes the 3rd person singular → **wird**. The inseparable verb *übernehmen* (to take over, to cover the costs) is the infinitive at the end.",
+      "pattern": "Wer + wird + Objekt + Infinitiv?",
+      "mistake": {"wrong": "Wer werden die Kosten für die Reparatur übernehmen?", "why": "*wer* is always grammatically singular, even if you expect several people: *Wer wird …?*"},
+      "examples": [
+        {"de": "Wer wird die Präsentation halten?", "en": "Who will give the presentation?"},
+        {"de": "Wer wird sich um die Katze kümmern?", "en": "Who will look after the cat?"}
+      ],
+      "words": [{"de": "die Kosten übernehmen", "en": "to cover the costs"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Futur I.",
+      "prompt": "How is the Futur I formed, and where does each verb part go?",
+      "answer": "Conjugated **werden** (*werde, wirst, wird, werden, werdet, werden*) + **infinitive**. Main clause: *werden* in position 2, infinitive at the end. Nebensatz: infinitive, then *werden* last.",
+      "explanation": "The Futur I builds the same sentence bracket as modal verbs and the Perfekt. Only *werden* changes for the person; the main verb is always the plain infinitive, without *zu*.",
+      "examples": [
+        {"de": "Er wird nächste Woche umziehen.", "en": "He will move next week."},
+        {"de": "Ich weiß, dass er nächste Woche umziehen wird.", "en": "I know that he will move next week."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about when to use the Futur I.",
+      "prompt": "When do Germans use the Futur I instead of the Präsens for the future?",
+      "answer": "For **predictions** (*Es wird schneien.*), **promises and firm intentions** (*Ich werde pünktlich sein.*), **assumptions** (*Sie wird wohl krank sein.*) and **strong demands** (*Du wirst das jetzt machen!*). For normal plans with a time phrase, the **Präsens** is more common.",
+      "explanation": "The Präsens already has future meaning when the context or a time word shows it (*morgen, nächstes Jahr, bald*). The Futur I adds the idea of prediction, determination or supposition.",
+      "examples": [
+        {"de": "Nächsten Sommer fliegen wir nach Kanada.", "en": "Next summer we're flying to Canada."},
+        {"de": "Ich verspreche dir, ich werde mich ändern.", "en": "I promise you, I will change."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the three uses of *werden*.",
+      "prompt": "What is the difference between *Sie wird Ärztin*, *Sie wird operieren* and *Sie wird operiert*?",
+      "answer": "*wird* + **noun/adjective** = full verb *become* (*She is becoming a doctor*). *wird* + **infinitive** = **Futur I** (*She will operate*). *wird* + **Partizip II** = **Passiv** (*She is being operated on*).",
+      "explanation": "Look at the second verb form at the end of the clause: infinitive → future, Partizip II → passive, no verb → *become*. The meaning changes completely.",
+      "examples": [
+        {"de": "Mein Bruder wird nächstes Jahr dreißig.", "en": "My brother turns thirty next year."},
+        {"de": "Das Haus wird gerade renoviert.", "en": "The house is being renovated at the moment."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about Futur I for assumptions.",
+      "prompt": "How can the Futur I express an assumption about the present? Which words often appear with it?",
+      "answer": "**werden + infinitive** with **wohl, sicher, bestimmt, schon, wahrscheinlich** can mean *probably* + present: *Er wird wohl zu Hause sein* = *He is probably at home (now)*.",
+      "explanation": "The context shows that the time is now, not the future. English often uses *must* or *will* for this: *That'll be the postman.*",
+      "examples": [
+        {"de": "Es klingelt. Das wird der Paketbote sein.", "en": "The doorbell is ringing. That'll be the delivery man."},
+        {"de": "Sie wird schon wissen, was sie tut.", "en": "She'll know what she's doing."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Laut Wetterbericht ___ es morgen schneien.",
+      "options": ["wird", "will", "werde", "wurde"],
+      "correct": "wird",
+      "answer": "Laut Wetterbericht wird es morgen schneien.",
+      "explanation": "A forecast → Futur I, *es* → *wird*. *will* is *wollen* (wants), *werde* is the *ich*-form, and *wurde* is Präteritum, which does not fit *morgen*."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form of *werden*.",
+      "prompt": "___ ihr uns im Sommer besuchen?",
+      "options": ["Werdet", "Wird", "Werden", "Wirst"],
+      "correct": "Werdet",
+      "answer": "Werdet ihr uns im Sommer besuchen?",
+      "explanation": "The subject is *ihr* → *werdet*. *wird* is for *er/sie/es*, *werden* for *wir* and *sie/Sie*, *wirst* for *du*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct word order.",
+      "prompt": "Ich glaube, dass er die Stelle ___.",
+      "options": ["bekommen wird", "wird bekommen", "bekommen werden"],
+      "correct": "bekommen wird",
+      "answer": "Ich glaube, dass er die Stelle bekommen wird.",
+      "explanation": "In the *dass*-clause the finite verb is last: infinitive *bekommen*, then *wird*. *wird bekommen* is main-clause order, and *werden* does not agree with *er*."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nächste Woche ich werde meine Großeltern besuchen.",
+      "answer": "Nächste Woche werde ich meine Großeltern besuchen.",
+      "explanation": "*Nächste Woche* is in position 1, so the finite verb *werde* must come in position 2, before the subject *ich*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie wird morgen nach Paris fliegt.",
+      "answer": "Sie wird morgen nach Paris fliegen.",
+      "explanation": "Only *werden* is conjugated. The main verb at the end must be the infinitive: *fliegen*, not *fliegt*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ihr wird bestimmt viel Spaß haben.",
+      "answer": "Ihr werdet bestimmt viel Spaß haben.",
+      "explanation": "*wird* is the 3rd person singular. The form of *werden* for *ihr* is *werdet*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich glaube, dass es heute Abend wird regnen.",
+      "answer": "Ich glaube, dass es heute Abend regnen wird.",
+      "explanation": "In a *dass*-clause the conjugated verb goes to the very end. The order is infinitive + *wird*: *regnen wird*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Futur I.",
+      "prompt": "Ich rufe dich heute Abend an.",
+      "answer": "Ich werde dich heute Abend anrufen.",
+      "explanation": "*werden* takes position 2 (*werde*), and the separable verb *anrufen* goes to the end as one infinitive; it is no longer split."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Futur I.",
+      "prompt": "Die Firma stellt im Herbst neue Mitarbeiter ein.",
+      "answer": "Die Firma wird im Herbst neue Mitarbeiter einstellen.",
+      "explanation": "*die Firma* = *sie* (singular) → *wird*. The separable verb *einstellen* (to hire) joins at the end as one infinitive."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Express the assumption with the Futur I and *wohl*.",
+      "prompt": "Vermutlich ist sie beim Arzt.",
+      "answer": "Sie wird wohl beim Arzt sein.",
+      "explanation": "The adverb *vermutlich* is replaced by the Futur I + *wohl*, which also expresses an assumption about the present. *ist* becomes *wird … sein*, with *sein* at the end."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wir",
+      "prompt": "werden / wir / müssen / eine Lösung / finden / schnell",
+      "answer": "Wir werden schnell eine Lösung finden müssen.",
+      "explanation": "*werden* in position 2; at the end the main infinitive *finden* and then the modal infinitive *müssen*. *schnell* and the object stand in the Mittelfeld (*eine Lösung schnell finden* is also possible)."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a question.",
+      "prompt": "wirst / du / im Urlaub / machen / was",
+      "answer": "Was wirst du im Urlaub machen?",
+      "explanation": "W-question: question word *was* first, finite verb *wirst* second, then the subject, the Mittelfeld and the infinitive *machen* at the end."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join with *dass*. Keep the Futur I.",
+      "prompt": "Ich bin überzeugt. Du wirst die Prüfung bestehen.",
+      "answer": "Ich bin überzeugt, dass du die Prüfung bestehen wirst.",
+      "explanation": "In the *dass*-clause *wirst* moves to the end, after the infinitive *bestehen*. The rest of the order (subject, object) stays the same."
+    }
+  ]
+}

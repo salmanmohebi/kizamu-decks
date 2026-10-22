@@ -1,0 +1,713 @@
+{
+  "topic_id": "h13-infinitiv-perfekt-passiv",
+  "level": "B2",
+  "title_de": "Infinitivsätze in Vergangenheit und Passiv; anstatt/ohne/um … zu",
+  "title_en": "Infinitive clauses in the past and in the passive; anstatt/ohne/um … zu",
+  "rule": {
+    "summary": "A zu-infinitive clause can show time and voice, just like a finite verb. The **Infinitiv Perfekt** (Partizip II + *zu haben/zu sein*) shows that the action happened **before** the main verb; the **Infinitiv Passiv** (Partizip II + *zu werden*, in the Perfekt Partizip II + *worden zu sein*) shows that the subject **receives** the action. The infinitive conjunctions *um … zu*, *ohne … zu* and *(an)statt … zu* need the same subject in both parts; with a different subject you use *damit*, *ohne dass* or *(an)statt dass* + Nebensatz.",
+    "table": "| | Aktiv | Passiv |\n|---|---|---|\n| gleichzeitig / nachzeitig | (den Text) **zu lesen** · **anzukommen** | gelesen **zu werden** · eingeladen **zu werden** |\n| vorzeitig | gelesen **zu haben** · angekommen **zu sein** | gelesen **worden zu sein** · eingeladen **worden zu sein** |\n| finite form it replaces | *ich lese / ich habe gelesen / ich bin angekommen* | *ich werde eingeladen / ich bin eingeladen worden* |",
+    "steps": [
+      "Check the subject. An infinitive clause has no subject of its own: it takes the subject of the main clause (with *bitten, raten, erlauben* … the object). If the second action has a different subject, use a Nebensatz: *damit*, *ohne dass*, *(an)statt dass*.",
+      "Check the time relation to the main verb (not to the moment of speaking). Same time or later → Infinitiv Präsens (*zu lesen*). Earlier → Infinitiv Perfekt (*gelesen zu haben*). Words like *gestern, vorher, nie, damals* usually signal an earlier action.",
+      "Check the voice. Does the subject do the action or receive it? Receiving → passive: *eingeladen zu werden*; receiving and earlier → *eingeladen worden zu sein*.",
+      "Choose the auxiliary as in the finite Perfekt: *haben* for most verbs (and all reflexive verbs), *sein* for movement, change of state, *sein* and *bleiben*. The passive Perfekt always takes *sein* and the short participle **worden**.",
+      "Put *zu* directly before the last verb of the group: *gelesen zu haben, gelesen worden zu sein, arbeiten zu dürfen*. Only the simple Infinitiv Präsens of a separable verb has *zu* inside the word (*anzukommen*).",
+      "Commas: always before *um, ohne, (an)statt*, after a Korrelat (*daran, damit, es*) and after a noun (*die Angst, …*). After *scheinen* the infinitive belongs to the verb group, so there is no comma."
+    ],
+    "pitfalls": [
+      "*zu* inside the Partizip II: ✗ *angezukommen sein* → ✓ *angekommen zu sein*.",
+      "*geworden* in the passive: ✗ *eingeladen geworden zu sein* → ✓ *eingeladen worden zu sein*. *geworden* is only for *werden* = 'to become'.",
+      "*um … zu* with a new subject: ✗ *Sie spricht laut, um alle sie zu hören.* → ✓ *Sie spricht laut, damit alle sie hören.*",
+      "Mixing both constructions: ✗ *ohne dass zu fragen* → ✓ *ohne zu fragen* (same subject) or *ohne dass er fragt* (Nebensatz).",
+      "Infinitiv Präsens for an earlier action: ✗ *Er behauptet, gestern krank zu sein.* → ✓ *Er behauptet, gestern krank gewesen zu sein.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Der Bewerber behauptet, die Studie allein {{c1::durchgeführt zu haben::durchführen · vorzeitig}}.",
+      "en": "The applicant claims to have carried out the study on his own.",
+      "focus": "Infinitiv Perfekt Aktiv · trennbares Verb",
+      "explanation": "*behaupten* and the infinitive clause share the subject *der Bewerber*, so the clause replaces *dass er die Studie allein durchgeführt hat*. The study was done before the claim → Infinitiv Perfekt: Partizip II + *zu* + *haben*. *durchführen* forms its Perfekt with *haben*, and *zu* stands before the auxiliary: **durchgeführt zu haben**.",
+      "pattern": "behaupten, … + Partizip II + zu haben",
+      "mistake": {"wrong": "Der Bewerber behauptet, die Studie allein zu durchgeführt haben.", "why": "*zu* always stands directly before the last verb of the group. In the Infinitiv Perfekt that is the auxiliary: *durchgeführt zu haben*, never *zu durchgeführt haben*."},
+      "examples": [
+        {"de": "Die Firma bestreitet, Kundendaten an Dritte weitergegeben zu haben.", "en": "The company denies having passed on customer data to third parties."},
+        {"de": "Sie erinnert sich genau, den Schlüssel auf den Küchentisch gelegt zu haben.", "en": "She clearly remembers putting the key on the kitchen table."}
+      ],
+      "words": [{"de": "durchführen", "en": "to carry out, to conduct"}],
+      "production_cue": "(infinitive clause, no dass)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Sie bereut, das Angebot aus Zürich nicht {{c1::angenommen zu haben::annehmen · vorzeitig}}.",
+      "en": "She regrets not having accepted the offer from Zurich.",
+      "focus": "Infinitiv Perfekt Aktiv · Negation",
+      "explanation": "The decision against the offer lies before the regret → Infinitiv Perfekt. *annehmen* takes *haben* in the Perfekt (*sie hat angenommen*), so the form is **angenommen zu haben**. *nicht* negates the whole verb group and stands in front of it at the end of the clause: *nicht angenommen zu haben*.",
+      "pattern": "nicht + Partizip II + zu haben",
+      "mistake": {"wrong": "Sie bereut, das Angebot aus Zürich angenommen nicht zu haben.", "why": "*nicht* cannot split the participle from *zu haben*. The verb group stays together at the end, and *nicht* comes before it."},
+      "examples": [
+        {"de": "Er ärgert sich, die Anmeldefrist nicht beachtet zu haben.", "en": "He is annoyed that he did not pay attention to the registration deadline."},
+        {"de": "Wir bedauern, Sie nicht früher kontaktiert zu haben.", "en": "We regret not having contacted you earlier."}
+      ],
+      "words": [{"de": "bereuen", "en": "to regret"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich kann mich nicht daran erinnern, diese Rechnung jemals {{c1::erhalten zu haben::erhalten · vorzeitig}}.",
+      "en": "I can't remember ever having received this invoice.",
+      "focus": "Infinitiv Perfekt · nach Korrelat *daran*",
+      "explanation": "*sich erinnern an* + Akkusativ: the Korrelat *daran* in the main clause points forward to the infinitive clause, so the comma is obligatory. Receiving the invoice would lie before the remembering → Infinitiv Perfekt. *erhalten* has the inseparable prefix *er-*, so its Partizip II has no *ge-* and looks like the infinitive: **erhalten zu haben**.",
+      "pattern": "sich daran erinnern, … + Partizip II + zu haben",
+      "mistake": {"wrong": "Ich kann mich nicht daran erinnern, diese Rechnung jemals erhalten haben.", "why": "An infinitive clause after *sich daran erinnern* needs *zu*. In the Infinitiv Perfekt *zu* goes before *haben*: *erhalten zu haben*."},
+      "examples": [
+        {"de": "Er kann sich nicht daran erinnern, den Mietvertrag unterschrieben zu haben.", "en": "He can't remember signing the tenancy agreement."},
+        {"de": "Erinnerst du dich daran, das Bügeleisen ausgeschaltet zu haben?", "en": "Do you remember switching off the iron?"}
+      ],
+      "words": [{"de": "die Rechnung (-en)", "en": "invoice, bill"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Bei Bewerbungen ist es ein klarer Vorteil, schon einmal im Ausland {{c1::gearbeitet zu haben::arbeiten · vorzeitig}}.",
+      "en": "When you apply for jobs, it is a clear advantage to have already worked abroad.",
+      "focus": "Infinitiv Perfekt · Infinitivsatz als Subjekt",
+      "explanation": "The infinitive clause is the real subject of *ist*; *es* only keeps the place in the Mittelfeld. There is no named person: the clause refers to applicants in general. The work abroad lies before the present advantage → Infinitiv Perfekt. *arbeiten* forms its Perfekt with *haben*: **gearbeitet zu haben**.",
+      "pattern": "Es ist + Nomen/Adj., … + Partizip II + zu haben",
+      "mistake": {"wrong": "Bei Bewerbungen ist es ein klarer Vorteil, schon einmal im Ausland gearbeitet zu sein.", "why": "*arbeiten* is not a verb of movement or change of state and forms its Perfekt with *haben* (*ich habe gearbeitet*). The infinitive keeps the same auxiliary: *gearbeitet zu haben*."},
+      "examples": [
+        {"de": "Es ist beruhigend, alle Unterlagen rechtzeitig eingereicht zu haben.", "en": "It is reassuring to have submitted all the documents on time."},
+        {"de": "Es war ein Fehler, so lange mit der Entscheidung gewartet zu haben.", "en": "It was a mistake to have waited so long with the decision."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Nach der Prüfung hatte er das Gefühl, eine ganze Aufgabe {{c1::übersehen zu haben::übersehen · vorzeitig}}.",
+      "en": "After the exam he had the feeling that he had overlooked an entire question.",
+      "focus": "Infinitiv Perfekt · nach Nomen · untrennbares Präfix",
+      "explanation": "The infinitive clause depends on the noun *das Gefühl*, so the comma is obligatory. The overlooking happened before the feeling → Infinitiv Perfekt; after the past main verb *hatte* it corresponds to a Plusquamperfekt (*dass er … übersehen hatte*). *übersehen* (stress on *-se-*) is inseparable, so the Partizip II has no *ge-*: **übersehen zu haben**.",
+      "pattern": "das Gefühl haben, … + Partizip II + zu haben",
+      "mistake": {"wrong": "Nach der Prüfung hatte er das Gefühl, eine ganze Aufgabe übergesehen zu haben.", "why": "*über-* is inseparable in *übersehen* (to overlook), so the participle takes no *ge-*: *übersehen*. The form *übergesehen* does not exist in this meaning."},
+      "examples": [
+        {"de": "Sie hatte den Eindruck, das Wesentliche verstanden zu haben.", "en": "She had the impression that she had understood the essentials."},
+        {"de": "Die Ärztin hatte den Verdacht, die Diagnose zu früh gestellt zu haben.", "en": "The doctor suspected that she had made the diagnosis too early."}
+      ],
+      "words": [{"de": "übersehen", "en": "to overlook, to miss"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Zeuge gibt an, gegen 22 Uhr nach Hause {{c1::gekommen zu sein::kommen · vorzeitig}}.",
+      "en": "The witness states that he came home at around 10 p.m.",
+      "focus": "Infinitiv Perfekt · Bewegungsverb",
+      "explanation": "*angeben* (to state) takes a zu-infinitive when the subject is the same. Coming home lies before the statement → Infinitiv Perfekt. *kommen* is a verb of movement and forms its Perfekt with *sein* (*er ist gekommen*), so the infinitive also takes *sein*: **gekommen zu sein**.",
+      "pattern": "Partizip II (Bewegung) + zu sein",
+      "mistake": {"wrong": "Der Zeuge gibt an, gegen 22 Uhr nach Hause gekommen zu haben.", "why": "The auxiliary in the Infinitiv Perfekt is the same as in the Perfekt. *kommen* takes *sein*, so it must be *gekommen zu sein*."},
+      "examples": [
+        {"de": "Der Fahrer gibt zu, deutlich zu schnell gefahren zu sein.", "en": "The driver admits to having driven much too fast."},
+        {"de": "Sie erinnert sich, an jenem Abend früh eingeschlafen zu sein.", "en": "She remembers falling asleep early that evening."}
+      ],
+      "words": [{"de": "angeben", "en": "to state, to declare"}],
+      "production_cue": "(infinitive clause)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir sind froh, noch vor dem Unwetter an der Hütte {{c1::angekommen zu sein::ankommen · vorzeitig}}.",
+      "en": "We are glad to have arrived at the hut before the storm.",
+      "focus": "Infinitiv Perfekt · trennbares Verb mit *sein*",
+      "explanation": "*froh sein* takes a zu-infinitive, and *wir* is the subject of both parts. The arrival is already over → Infinitiv Perfekt with *sein*, because *ankommen* takes *sein* in the Perfekt. The participle *an-ge-kommen* already has its fixed form, so *zu* is not put inside it but before the auxiliary: **angekommen zu sein**.",
+      "pattern": "trennbares Verb: Partizip II + zu sein (not an-zu-…)",
+      "mistake": {"wrong": "Wir sind froh, noch vor dem Unwetter an der Hütte angezukommen sein.", "why": "*zu* goes inside a separable verb only in the Infinitiv Präsens (*anzukommen*). In the Infinitiv Perfekt the participle stays *angekommen* and *zu* stands before *sein*."},
+      "examples": [
+        {"de": "Sie ist erleichtert, trotz des Sturms heil gelandet zu sein.", "en": "She is relieved to have landed safely despite the storm."},
+        {"de": "Ich bin glücklich, damals nach Hamburg umgezogen zu sein.", "en": "I am happy that I moved to Hamburg back then."}
+      ],
+      "words": [{"de": "das Unwetter (-)", "en": "severe storm"}, {"de": "die Hütte (-n)", "en": "mountain hut, cabin"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Minister bestreitet, je Mitglied dieser Organisation {{c1::gewesen zu sein::sein · vorzeitig}}.",
+      "en": "The minister denies ever having been a member of this organisation.",
+      "focus": "Infinitiv Perfekt · Zustandsverb",
+      "explanation": "*bestreiten* (to deny) + zu-infinitive with the same subject. A membership would lie in the past → Infinitiv Perfekt. The verb *sein* forms its own Perfekt with *sein* (*er ist gewesen*), so the form is Partizip II *gewesen* + **zu sein**.",
+      "pattern": "gewesen zu sein (Perfekt von sein)",
+      "mistake": {"wrong": "Der Minister bestreitet, je Mitglied dieser Organisation gewesen zu haben.", "why": "In Standard German *sein* takes *sein* as its auxiliary (*er ist Mitglied gewesen*), so the infinitive is *gewesen zu sein*. *gewesen haben* is not standard."},
+      "examples": [
+        {"de": "Die Sängerin gibt zu, vor dem ersten Auftritt sehr nervös gewesen zu sein.", "en": "The singer admits to having been very nervous before her first performance."},
+        {"de": "Der Verdächtige behauptet, zur Tatzeit in Leipzig gewesen zu sein.", "en": "The suspect claims to have been in Leipzig at the time of the crime."}
+      ],
+      "words": [{"de": "bestreiten", "en": "to deny, to dispute"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Doktorandin hofft, zur Konferenz in Boston {{c1::eingeladen zu werden::einladen · Passiv}}.",
+      "en": "The doctoral student hopes to be invited to the conference in Boston.",
+      "focus": "Infinitiv Passiv · nachzeitig",
+      "explanation": "The doctoral student does not invite anyone; she is the person who receives the action → passive. The invitation still lies in the future → Infinitiv Passiv Präsens: Partizip II + *zu* + *werden*. *einladen* is separable, but the participle *ein-ge-laden* is fixed, so *zu* stands before *werden*: **eingeladen zu werden**.",
+      "pattern": "hoffen, … + Partizip II + zu werden",
+      "mistake": {"wrong": "Die Doktorandin hofft, zur Konferenz in Boston einzuladen.", "why": "*einzuladen* is active: she would invite someone, and the object is missing. She is the one who gets invited, so the passive infinitive *eingeladen zu werden* is needed."},
+      "examples": [
+        {"de": "Viele Freiberufler wünschen sich, endlich pünktlich bezahlt zu werden.", "en": "Many freelancers wish they would finally be paid on time."},
+        {"de": "Er hofft, nach der Probezeit fest angestellt zu werden.", "en": "He hopes to be given a permanent contract after the probation period."}
+      ],
+      "words": [{"de": "die Doktorandin (-nen)", "en": "(female) doctoral student"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Viele Patienten haben Angst, in der Praxis nicht ernst {{c1::genommen zu werden::nehmen · Passiv}}.",
+      "en": "Many patients are afraid of not being taken seriously at the doctor's.",
+      "focus": "Infinitiv Passiv · nach Nomen *Angst*",
+      "explanation": "The infinitive clause depends on the noun *Angst*, so the comma is obligatory. Doctors take the patients seriously (or not) → the patients receive the action → passive. The fear refers to now and the future → Infinitiv Passiv Präsens. *nehmen* is strong (Partizip II *genommen*): **genommen zu werden**.",
+      "pattern": "Angst haben, … + Partizip II + zu werden",
+      "mistake": {"wrong": "Viele Patienten haben Angst, in der Praxis nicht ernst zu genommen werden.", "why": "*zu* belongs before the last verb, *werden*: *genommen zu werden*. It is never placed in front of the participle."},
+      "examples": [
+        {"de": "Viele Mieter haben Angst, aus ihrem Viertel verdrängt zu werden.", "en": "Many tenants are afraid of being pushed out of their neighbourhood."},
+        {"de": "Kinder haben oft die Sorge, von den anderen ausgelacht zu werden.", "en": "Children are often worried about being laughed at by the others."}
+      ],
+      "words": [{"de": "ernst nehmen", "en": "to take seriously"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Beschäftigten verlangen, rechtzeitig über die geplante Umstrukturierung {{c1::informiert zu werden::informieren · Passiv}}.",
+      "en": "The employees demand to be informed in good time about the planned restructuring.",
+      "focus": "Infinitiv Passiv · Verb auf *-ieren*",
+      "explanation": "*verlangen* + zu-infinitive: the employees want the management to inform them, so they receive the action → passive. Verbs in *-ieren* form the Partizip II without *ge-* (*informiert*); then *zu werden* follows: **informiert zu werden**.",
+      "pattern": "verlangen, … + Partizip II (-iert) + zu werden",
+      "mistake": {"wrong": "Die Beschäftigten verlangen, rechtzeitig über die geplante Umstrukturierung informieren zu werden.", "why": "The passive is built with the Partizip II, not the infinitive: *informiert zu werden*. *informieren werden* is the structure of the Futur I, which has no zu-infinitive here."},
+      "examples": [
+        {"de": "Die Fluggäste verlangen, für die lange Verspätung entschädigt zu werden.", "en": "The passengers demand to be compensated for the long delay."},
+        {"de": "Sie bittet darum, nicht mehr zu Werbezwecken kontaktiert zu werden.", "en": "She asks not to be contacted for advertising purposes any more."}
+      ],
+      "words": [{"de": "die Beschäftigten", "en": "employees, staff"}, {"de": "die Umstrukturierung (-en)", "en": "restructuring"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Der Patient rechnet damit, schon morgen aus dem Krankenhaus {{c1::entlassen zu werden::entlassen · Passiv}}.",
+      "en": "The patient expects to be discharged from hospital as early as tomorrow.",
+      "focus": "Infinitiv Passiv · nach Korrelat *damit* · untrennbar",
+      "explanation": "*rechnen mit* → the Korrelat *damit* in the main clause points to the infinitive clause (comma obligatory). The hospital discharges the patient → passive; *morgen* shows that the action is still to come → Infinitiv Passiv Präsens. *ent-* is inseparable, so the Partizip II is *entlassen* without *ge-*: **entlassen zu werden**.",
+      "pattern": "damit rechnen, … + Partizip II + zu werden",
+      "mistake": {"wrong": "Der Patient rechnet damit, dass er schon morgen aus dem Krankenhaus entlassen zu werden.", "why": "This mixes a dass-clause and an infinitive clause. Either *damit, dass er morgen entlassen wird* (finite verb at the end) or *damit, morgen entlassen zu werden* (no *dass*, no subject)."},
+      "examples": [
+        {"de": "Die Abteilung rechnet damit, im nächsten Jahr aufgelöst zu werden.", "en": "The department expects to be dissolved next year."},
+        {"de": "Er hatte nicht damit gerechnet, so schnell zurückgerufen zu werden.", "en": "He had not expected to be called back so quickly."}
+      ],
+      "words": [{"de": "entlassen", "en": "to discharge (from hospital); to dismiss"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Die Anwohner beklagen, vor dem Bau der Umgehungsstraße nicht {{c1::angehört worden zu sein::anhören · Passiv, vorzeitig}}.",
+      "en": "The residents complain that they were not consulted before the bypass was built.",
+      "focus": "Infinitiv Passiv Perfekt · Negation",
+      "explanation": "The residents did not consult anyone; the authorities should have heard them → passive. The missing consultation lies before the complaint → Perfekt. The passive Perfekt is Partizip II + *worden* + *sein* (*sie sind angehört worden*), and in the infinitive *zu* comes before *sein*: **angehört worden zu sein**.",
+      "pattern": "nicht + Partizip II + worden zu sein",
+      "mistake": {"wrong": "Die Anwohner beklagen, vor dem Bau der Umgehungsstraße nicht angehört zu haben.", "why": "*angehört zu haben* is active: the residents would have listened to something, and the object is missing. They were the ones who should have been heard, so the passive *angehört worden zu sein* is needed."},
+      "examples": [
+        {"de": "Der Journalist berichtet, an der Grenze stundenlang festgehalten worden zu sein.", "en": "The journalist reports having been held at the border for hours."},
+        {"de": "Sie ärgert sich, bei der Planung des Projekts übergangen worden zu sein.", "en": "She is annoyed at having been passed over in the planning of the project."}
+      ],
+      "words": [{"de": "anhören", "en": "to consult, to give a hearing to"}, {"de": "die Umgehungsstraße (-n)", "en": "bypass (road)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Die Forscherin ist stolz, für den Deutschen Zukunftspreis {{c1::nominiert worden zu sein::nominieren · Passiv, vorzeitig}}.",
+      "en": "The researcher is proud to have been nominated for the German Future Prize.",
+      "focus": "Infinitiv Passiv Perfekt · nach *stolz sein*",
+      "explanation": "*stolz sein* + zu-infinitive with the same subject. A jury nominated her, so she receives the action → passive; the nomination is finished before the pride → Perfekt. *nominieren* forms the Partizip II without *ge-*: *nominiert* + *worden* + *zu sein* → **nominiert worden zu sein**.",
+      "pattern": "stolz sein, … + Partizip II + worden zu sein",
+      "mistake": {"wrong": "Die Forscherin ist stolz, für den Deutschen Zukunftspreis nominiert worden zu haben.", "why": "*werden* forms its Perfekt with *sein*, so the passive Perfekt always has *sein*: *sie ist nominiert worden* → *nominiert worden zu sein*."},
+      "examples": [
+        {"de": "Er ist dankbar, im neuen Team so herzlich aufgenommen worden zu sein.", "en": "He is grateful to have been welcomed so warmly in the new team."},
+        {"de": "Wir sind froh, rechtzeitig vor dem Hochwasser gewarnt worden zu sein.", "en": "We are glad to have been warned about the flood in time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Der Stürmer behauptet, im Strafraum absichtlich {{c1::gefoult worden zu sein::foulen · Passiv, vorzeitig}}.",
+      "en": "The striker claims to have been deliberately fouled in the penalty area.",
+      "focus": "Infinitiv Passiv Perfekt · Behauptung über sich selbst",
+      "explanation": "*behaupten* + infinitive: the claim is about the subject itself, *der Stürmer*. An opponent fouled him → passive; the foul happened before the claim → Perfekt. The infinitive replaces *dass er gefoult worden ist*: **gefoult worden zu sein**.",
+      "pattern": "behaupten, … + Partizip II + worden zu sein",
+      "mistake": {"wrong": "Der Stürmer behauptet, im Strafraum absichtlich gefoult zu worden sein.", "why": "*zu* stands only before the last verb of the cluster. The order is participle – *worden* – *zu sein*: *gefoult worden zu sein*."},
+      "examples": [
+        {"de": "Die Kundin behauptet, am Telefon falsch beraten worden zu sein.", "en": "The customer claims to have been given the wrong advice on the phone."},
+        {"de": "Der Häftling gibt an, während des Verhörs bedroht worden zu sein.", "en": "The prisoner states that he was threatened during the interrogation."}
+      ],
+      "words": [{"de": "der Strafraum (¨-e)", "en": "penalty area"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Der Angeklagte behauptet, das Opfer überhaupt nicht {{c1::zu kennen::kennen · gleichzeitig}}.",
+      "en": "The defendant claims not to know the victim at all.",
+      "focus": "Infinitiv Präsens · Gleichzeitigkeit",
+      "explanation": "Knowing (or not knowing) someone is a state at the time of the claim → simultaneous → Infinitiv Präsens: *zu* + infinitive, **zu kennen**. Compare *Er behauptet, das Opfer nie gekannt zu haben*: the Infinitiv Perfekt would place the state in the past, for example before the victim's death.",
+      "pattern": "behaupten, … + zu + Infinitiv (gleichzeitig)",
+      "mistake": {"wrong": "Der Angeklagte behauptet, er das Opfer überhaupt nicht zu kennen.", "why": "An infinitive clause cannot have its own subject; the subject comes from the main clause. Say either *behauptet, das Opfer nicht zu kennen* or *behauptet, er kenne das Opfer nicht*."},
+      "examples": [
+        {"de": "Die Firma behauptet, alle Datenschutzregeln einzuhalten.", "en": "The company claims to comply with all data protection rules."},
+        {"de": "Er gibt vor, von nichts zu wissen.", "en": "He pretends to know nothing about it."}
+      ],
+      "words": [{"de": "der Angeklagte (-n)", "en": "the defendant"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Die Kollegin behauptet, die Präsentation schon gestern {{c1::verschickt zu haben::verschicken}}.",
+      "en": "My colleague claims she already sent the presentation yesterday.",
+      "focus": "Zeitverhältnis · Zeitangabe im Infinitivsatz",
+      "explanation": "*gestern* places the sending before the present claim. The Infinitiv Präsens expresses the same time or a later time, so it cannot combine with *gestern* here → Infinitiv Perfekt. *verschicken* has the inseparable prefix *ver-* (no *ge-*) and takes *haben*: **verschickt zu haben**.",
+      "pattern": "Vergangenheitsadverb → Partizip II + zu haben",
+      "mistake": {"wrong": "Die Kollegin behauptet, die Präsentation schon gestern zu verschicken.", "why": "*zu verschicken* means 'at the same time or later' than *behauptet*, which contradicts *gestern*. A past action needs the Infinitiv Perfekt: *gestern verschickt zu haben*."},
+      "examples": [
+        {"de": "Der Mieter versichert, die Miete letzte Woche überwiesen zu haben.", "en": "The tenant assures us that he transferred the rent last week."},
+        {"de": "Sie behauptet, den Antrag bereits im März gestellt zu haben.", "en": "She claims to have submitted the application back in March."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Der Server scheint über Nacht {{c1::abgestürzt zu sein::abstürzen · vorzeitig}}.",
+      "en": "The server seems to have crashed overnight.",
+      "focus": "*scheinen* + Infinitiv Perfekt",
+      "explanation": "*scheinen* + zu-infinitive expresses an assumption based on evidence ('it looks as if'). The crash happened before the moment of speaking → Infinitiv Perfekt. *abstürzen* is a change of state and takes *sein* (*er ist abgestürzt*): **abgestürzt zu sein**. With *scheinen* there is no comma: the infinitive belongs to the verb group of the main clause.",
+      "pattern": "scheinen + Partizip II + zu sein/haben",
+      "mistake": {"wrong": "Der Server scheint über Nacht abgestürzt zu haben.", "why": "*abstürzen* is intransitive and describes a change of state, so it forms its Perfekt with *sein*. The infinitive must be *abgestürzt zu sein*."},
+      "examples": [
+        {"de": "Die Tarifverhandlungen scheinen endgültig gescheitert zu sein.", "en": "The wage negotiations seem to have failed for good."},
+        {"de": "Der letzte Zug scheint schon abgefahren zu sein.", "en": "The last train seems to have left already."}
+      ],
+      "words": [{"de": "abstürzen", "en": "to crash (computer, plane)"}],
+      "production_cue": "(scheinen)",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Das Manuskript scheint zu Lebzeiten des Autors nie {{c1::veröffentlicht worden zu sein::veröffentlichen · Passiv, vorzeitig}}.",
+      "en": "The manuscript seems never to have been published during the author's lifetime.",
+      "focus": "*scheinen* + Infinitiv Passiv Perfekt",
+      "explanation": "A manuscript cannot publish anything itself; someone published it (or not) → passive. *zu Lebzeiten des Autors* is in the past → Perfekt. The infinitive is the zu-form of *es ist nie veröffentlicht worden*: Partizip II + *worden* + **zu sein** → **veröffentlicht worden zu sein**.",
+      "pattern": "scheinen + Partizip II + worden zu sein",
+      "mistake": {"wrong": "Das Manuskript scheint zu Lebzeiten des Autors nie veröffentlicht zu haben.", "why": "*veröffentlicht zu haben* is active and would make the manuscript the publisher. The manuscript receives the action, so it must be the passive *veröffentlicht worden zu sein*."},
+      "examples": [
+        {"de": "Der Brief scheint nie geöffnet worden zu sein.", "en": "The letter seems never to have been opened."},
+        {"de": "Die Messwerte scheinen nachträglich manipuliert worden zu sein.", "en": "The measurements seem to have been manipulated afterwards."}
+      ],
+      "words": [{"de": "zu Lebzeiten", "en": "during (someone's) lifetime"}],
+      "production_cue": "(scheinen, passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Viele Bewerber schönen ihren Lebenslauf, {{c1::um::Zweck}} bei der Vorauswahl nicht {{c2::aussortiert zu werden::aussortieren · Passiv}}.",
+      "en": "Many applicants embellish their CV so as not to be weeded out in the pre-selection.",
+      "focus": "Zweck · gleiches Subjekt · Passiv",
+      "explanation": "c1: The applicants embellish, and the applicants would be sorted out → same subject → **um … zu**, not *damit*. c2: Inside the purpose clause the applicants receive the action → Infinitiv Passiv: *aussortiert* (*-ieren*, no *ge-*) + *zu werden* → **aussortiert zu werden**.",
+      "pattern": "…, um + Partizip II + zu werden",
+      "mistake": {"wrong": "Viele Bewerber schönen ihren Lebenslauf, damit bei der Vorauswahl nicht aussortiert zu werden.", "why": "*damit* is a conjunction for a Nebensatz with its own subject and a finite verb (*damit sie nicht aussortiert werden*). With a zu-infinitive the connector must be *um*."},
+      "examples": [
+        {"de": "Sie trägt eine große Sonnenbrille, um auf der Straße nicht erkannt zu werden.", "en": "She wears big sunglasses so as not to be recognised in the street."},
+        {"de": "Die Kinder verstecken sich im Keller, um nicht gefunden zu werden.", "en": "The children hide in the cellar so as not to be found."}
+      ],
+      "words": [{"de": "schönen", "en": "to embellish, to dress up (facts)"}, {"de": "aussortieren", "en": "to sort out, to weed out"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Universität stellt alle Formulare auch auf Englisch bereit, {{c1::damit::Zweck}} internationale Studierende sie ohne Hilfe ausfüllen können.",
+      "en": "The university also provides all forms in English so that international students can fill them in without help.",
+      "focus": "Zweck · Subjektwechsel",
+      "explanation": "The subject of the main clause is *die Universität*, but the people who fill in the forms are *internationale Studierende*. An infinitive clause has no place for a second subject, so *um … zu* is impossible → **damit** + Nebensatz with the finite verb at the end (*können*).",
+      "pattern": "…, damit + neues Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Die Universität stellt alle Formulare auch auf Englisch bereit, um internationale Studierende sie ohne Hilfe ausfüllen zu können.", "why": "*um … zu* takes the subject of the main clause (*die Universität*). The students are a new subject, so you need *damit internationale Studierende sie … ausfüllen können*."},
+      "examples": [
+        {"de": "Die Ärztin spricht bewusst langsam, damit der Patient alles versteht.", "en": "The doctor deliberately speaks slowly so that the patient understands everything."},
+        {"de": "Wir verschicken die Tagesordnung vorab, damit sich alle vorbereiten können.", "en": "We send out the agenda in advance so that everyone can prepare."}
+      ],
+      "words": [{"de": "bereitstellen", "en": "to provide, to make available"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Um in Deutschland als Arzt arbeiten {{c1::zu dürfen::dürfen}}, braucht man eine Approbation.",
+      "en": "To be allowed to work as a doctor in Germany, you need a licence to practise medicine.",
+      "focus": "*um … zu* · Modalverb im Infinitivsatz · Vorfeld",
+      "explanation": "With a modal verb in the infinitive clause, the modal is the last verb of the group and takes *zu*: *arbeiten* + **zu dürfen**. The whole *um*-clause fills the Vorfeld, so the finite verb *braucht* comes directly after the comma. The subject of both parts is *man*.",
+      "pattern": "Um … Infinitiv + zu + Modalverb, Verb + Subjekt …",
+      "mistake": {"wrong": "Um in Deutschland als Arzt zu arbeiten dürfen, braucht man eine Approbation.", "why": "*zu* belongs before the last verb of the cluster, which is the modal: *arbeiten zu dürfen*. *zu arbeiten dürfen* puts it before the wrong verb."},
+      "examples": [
+        {"de": "Um an der Prüfung teilnehmen zu können, muss man sich bis Freitag anmelden.", "en": "To be able to take the exam, you have to register by Friday."},
+        {"de": "Um den Kredit bekommen zu können, braucht das Start-up einen Businessplan.", "en": "To be able to get the loan, the start-up needs a business plan."}
+      ],
+      "words": [{"de": "die Approbation", "en": "licence to practise medicine"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Der Praktikant hat die alten Datensätze gelöscht, ohne vorher eine Sicherungskopie {{c1::angelegt zu haben::anlegen · vorzeitig}}.",
+      "en": "The intern deleted the old data records without having made a backup first.",
+      "focus": "*ohne … zu* · Infinitiv Perfekt",
+      "explanation": "*ohne … zu* says that an expected action did not take place; the subject of both actions is *der Praktikant*. *vorher* shows that the backup should have come before the deleting → Infinitiv Perfekt. *eine Kopie anlegen* takes *haben*: **angelegt zu haben**.",
+      "pattern": "…, ohne + … + Partizip II + zu haben",
+      "mistake": {"wrong": "Der Praktikant hat die alten Datensätze gelöscht, ohne dass vorher eine Sicherungskopie angelegt zu haben.", "why": "*ohne dass* introduces a Nebensatz with a subject and a finite verb. With a zu-infinitive you need plain *ohne*: *ohne vorher eine Sicherungskopie angelegt zu haben*."},
+      "examples": [
+        {"de": "Sie hat den Vertrag unterschrieben, ohne das Kleingedruckte gelesen zu haben.", "en": "She signed the contract without having read the small print."},
+        {"de": "Er ist losgefahren, ohne den Reifendruck geprüft zu haben.", "en": "He drove off without having checked the tyre pressure."}
+      ],
+      "words": [{"de": "die Sicherungskopie (-n)", "en": "backup copy"}, {"de": "der Datensatz (¨-e)", "en": "data record"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Die Nebenkosten wurden erhöht, {{c1::ohne dass::Negation · Begleitumstand}} die Mieter vorher informiert wurden.",
+      "en": "The service charges were increased without the tenants being informed beforehand.",
+      "focus": "fehlender Begleitumstand · Subjektwechsel",
+      "explanation": "The subject of the main clause is *die Nebenkosten*; the second clause has its own subject, *die Mieter*. Because an infinitive clause cannot name a new subject, you need **ohne dass** + Nebensatz with the verb at the end. *informiert wurden* is Passiv Präteritum, parallel to *wurden erhöht*.",
+      "pattern": "…, ohne dass + neues Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Die Nebenkosten wurden erhöht, ohne die Mieter vorher informiert zu werden.", "why": "The passive infinitive *informiert zu werden* has no place for *die Mieter*, and its subject would be *die Nebenkosten*. With a new subject use *ohne dass die Mieter vorher informiert wurden*."},
+      "examples": [
+        {"de": "Der Termin wurde verschoben, ohne dass uns jemand Bescheid gesagt hat.", "en": "The appointment was postponed without anyone letting us know."},
+        {"de": "Die Kinder spielten stundenlang im Wald, ohne dass sich ihre Eltern Sorgen machten.", "en": "The children played in the woods for hours without their parents worrying."}
+      ],
+      "words": [{"de": "die Nebenkosten (Pl.)", "en": "service charges, utility costs (on top of rent)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Er wurde zum Abteilungsleiter befördert, ohne sich je auf die Stelle {{c1::beworben zu haben::sich bewerben · vorzeitig}}.",
+      "en": "He was promoted to head of department without ever having applied for the position.",
+      "focus": "*ohne … zu* · Reflexivverb · Passiv im Hauptsatz",
+      "explanation": "The main clause is passive, but its subject *er* is also the person who did not apply → same subject → *ohne … zu* is correct. Applying would have come before the promotion → Infinitiv Perfekt. Reflexive verbs always form the Perfekt with *haben* (*er hat sich beworben*), and the pronoun *sich* stays near the start of the clause: **beworben zu haben**.",
+      "pattern": "ohne sich … + Partizip II + zu haben",
+      "mistake": {"wrong": "Er wurde zum Abteilungsleiter befördert, ohne sich je auf die Stelle beworben zu sein.", "why": "Reflexive verbs take *haben* in the Perfekt (*er hat sich beworben*), so the infinitive is *beworben zu haben*. The passive main clause does not change the auxiliary in the infinitive clause."},
+      "examples": [
+        {"de": "Sie hat die Wohnung gemietet, ohne sich die Umgebung angesehen zu haben.", "en": "She rented the flat without having looked at the area."},
+        {"de": "Er wurde eingestellt, ohne sich vorher persönlich vorgestellt zu haben.", "en": "He was hired without having had an interview in person beforehand."}
+      ],
+      "words": [{"de": "befördern", "en": "to promote"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Kein Patient darf operiert werden, ohne vorher ausführlich über die Risiken {{c1::aufgeklärt worden zu sein::aufklären · Passiv, vorzeitig}}.",
+      "en": "No patient may be operated on without having first been fully informed about the risks.",
+      "focus": "*ohne … zu* · Infinitiv Passiv Perfekt",
+      "explanation": "The subject *kein Patient* is the same in both parts, and in both parts it receives the action → passive. The briefing must come before the operation (*vorher*) → Perfekt: *aufgeklärt* + *worden* + **zu sein**. With three verb forms, *zu* still stands only before the last one.",
+      "pattern": "…, ohne + Partizip II + worden zu sein",
+      "mistake": {"wrong": "Kein Patient darf operiert werden, ohne vorher ausführlich über die Risiken aufgeklärt geworden zu sein.", "why": "In the passive, *werden* is an auxiliary, and its participle is the short form *worden*. *geworden* is only used for *werden* as a full verb ('to become')."},
+      "examples": [
+        {"de": "Niemand sollte entlassen werden, ohne vorher angehört worden zu sein.", "en": "Nobody should be dismissed without having been given a hearing first."},
+        {"de": "Die Daten dürfen nicht weitergegeben werden, ohne vorher anonymisiert worden zu sein.", "en": "The data may not be passed on without having been anonymised first."}
+      ],
+      "words": [{"de": "aufklären über", "en": "to inform (fully) about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Anstatt die Ursachen der Krise {{c1::zu bekämpfen::bekämpfen}}, behandelt die Regierung nur die Symptome.",
+      "en": "Instead of tackling the causes of the crisis, the government is only treating the symptoms.",
+      "focus": "*(an)statt … zu* · Infinitivsatz im Vorfeld",
+      "explanation": "*(an)statt … zu* names the expected action that is replaced by a different one. Both actions belong to *die Regierung* → infinitive: **zu bekämpfen**. The infinitive clause fills the Vorfeld, so the finite verb *behandelt* comes right after the comma, followed by the subject.",
+      "pattern": "Anstatt … zu + Infinitiv, Verb + Subjekt …",
+      "mistake": {"wrong": "Anstatt die Ursachen der Krise zu bekämpfen, die Regierung behandelt nur die Symptome.", "why": "The infinitive clause counts as position 1. The finite verb must follow in position 2: *…, behandelt die Regierung …*."},
+      "examples": [
+        {"de": "Statt sich zu entschuldigen, gab er seinen Kollegen die Schuld.", "en": "Instead of apologising, he blamed his colleagues."},
+        {"de": "Anstatt mit dem Auto zu pendeln, nimmt sie jetzt das Lastenrad.", "en": "Instead of commuting by car, she now takes the cargo bike."}
+      ],
+      "words": [{"de": "bekämpfen", "en": "to fight, to tackle"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "{{c1::Anstatt dass::Ersatzhandlung}} die Verursacher für die Schäden zahlen, wird die Rechnung an die Steuerzahler weitergereicht.",
+      "en": "Instead of those responsible paying for the damage, the bill is passed on to the taxpayers.",
+      "focus": "Ersatzhandlung · Subjektwechsel",
+      "explanation": "The first clause has its own subject, *die Verursacher*, which differs from the subject of the main clause, *die Rechnung*. An infinitive cannot carry a new subject → **anstatt dass** (or *statt dass*) + verb at the end (*zahlen*). The Nebensatz fills the Vorfeld, so the finite verb *wird* follows directly.",
+      "pattern": "Anstatt dass + Subjekt + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Anstatt die Verursacher für die Schäden zu zahlen, wird die Rechnung an die Steuerzahler weitergereicht.", "why": "In the infinitive clause *die Verursacher* becomes an object of *zahlen*, and the understood subject would be *die Rechnung*: the sentence makes no sense. A new subject needs *anstatt dass*."},
+      "examples": [
+        {"de": "Statt dass die Stadt neue Wohnungen baut, entstehen überall Bürogebäude.", "en": "Instead of the city building new flats, office buildings are going up everywhere."},
+        {"de": "Anstatt dass ihr Mann ihr hilft, muss sie den Umzug allein organisieren.", "en": "Instead of her husband helping her, she has to organise the move on her own."}
+      ],
+      "words": [{"de": "der Verursacher (-)", "en": "the party responsible (for damage)"}, {"de": "weiterreichen", "en": "to pass on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Statt für ihren Mut {{c1::gelobt zu werden::loben · Passiv}}, wurde die Whistleblowerin fristlos entlassen.",
+      "en": "Instead of being praised for her courage, the whistleblower was dismissed without notice.",
+      "focus": "*statt … zu* · Infinitiv Passiv",
+      "explanation": "The subject *die Whistleblowerin* is the same in both parts, and in both she receives the action → passive in the main clause and in the infinitive. The expected praise and the actual dismissal are alternatives at the same time → Infinitiv Passiv Präsens: *gelobt* + **zu werden**.",
+      "pattern": "Statt + Partizip II + zu werden, …",
+      "mistake": {"wrong": "Statt für ihren Mut zu loben, wurde die Whistleblowerin fristlos entlassen.", "why": "*zu loben* is active: it would mean that she was supposed to praise someone, and the object is missing. She is the one who should be praised, so the passive *gelobt zu werden* is needed."},
+      "examples": [
+        {"de": "Anstatt befördert zu werden, wurde er in eine kleine Filiale versetzt.", "en": "Instead of being promoted, he was transferred to a small branch."},
+        {"de": "Statt bestraft zu werden, bekam der Junge sogar noch eine Belohnung.", "en": "Instead of being punished, the boy even got a reward."}
+      ],
+      "words": [{"de": "fristlos entlassen", "en": "to dismiss without notice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Straße wurde gesperrt, {{c1::damit::Zweck}} die Feuerwehr ungehindert arbeiten konnte.",
+      "en": "The road was closed so that the fire brigade could work unhindered.",
+      "focus": "Zweck · Passiv im Hauptsatz · neues Subjekt",
+      "explanation": "The main clause is passive with the subject *die Straße*; the purpose clause has a different subject, *die Feuerwehr* → **damit**, not *um … zu*. The Nebensatz uses the Präteritum *konnte* to match the past main clause. Compare the same-subject version with an infinitive: *Die Feuerwehr sperrte die Straße, um ungehindert arbeiten zu können.*",
+      "pattern": "Passiv-Hauptsatz, damit + neues Subjekt + … + Verb",
+      "mistake": {"wrong": "Die Straße wurde gesperrt, um die Feuerwehr ungehindert arbeiten zu können.", "why": "An *um*-clause cannot name a subject of its own. Its understood subject would be *die Straße* or the unnamed people who closed the road, never *die Feuerwehr*; here *die Feuerwehr* is left without any role, because *arbeiten können* takes no object. The fire brigade is a new subject, so you need *damit die Feuerwehr … arbeiten konnte*."},
+      "examples": [
+        {"de": "Die Brücke wurde nachts gesperrt, damit die Bauarbeiten schneller vorankamen.", "en": "The bridge was closed at night so that the construction work progressed faster."},
+        {"de": "Das Konzert wurde in eine größere Halle verlegt, damit mehr Fans kommen konnten.", "en": "The concert was moved to a bigger hall so that more fans could come."}
+      ],
+      "words": [{"de": "ungehindert", "en": "unhindered"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Infinitiv Perfekt.",
+      "prompt": "How do you form the Infinitiv Perfekt of a zu-infinitive, and where does *zu* go with a separable verb like *anrufen*?",
+      "answer": "Partizip II + **zu** + *haben* or *sein* (the same auxiliary as in the Perfekt): *angerufen zu haben*, *abgereist zu sein*. *zu* always stands before the auxiliary and is never put inside the participle.",
+      "explanation": "Only the Infinitiv Präsens of a separable verb takes *zu* inside the word (*anzurufen*). In the Perfekt the participle already has its fixed form (*an-ge-rufen*), so *zu* moves to the last verb, the auxiliary. The choice of *haben* or *sein* follows the normal Perfekt rule.",
+      "examples": [
+        {"de": "Er gibt zu, seine Schwester seit Monaten nicht angerufen zu haben.", "en": "He admits that he hasn't called his sister for months."},
+        {"de": "Sie ist froh, einen Tag früher abgereist zu sein.", "en": "She is glad that she left a day earlier."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Give all four forms.",
+      "prompt": "What are the four zu-infinitive forms of *einladen* (active/passive × simultaneous/earlier)?",
+      "answer": "**einzuladen** (Aktiv, gleichzeitig) · **eingeladen zu haben** (Aktiv, vorzeitig) · **eingeladen zu werden** (Passiv, gleichzeitig) · **eingeladen worden zu sein** (Passiv, vorzeitig).",
+      "explanation": "Each form matches a finite form: *ich lade ein* → *einzuladen*; *ich habe eingeladen* → *eingeladen zu haben*; *ich werde eingeladen* → *eingeladen zu werden*; *ich bin eingeladen worden* → *eingeladen worden zu sein*. Take the verbs of the finite form, put the finite verb in the infinitive at the end, and place *zu* before it.",
+      "examples": [
+        {"de": "Wir freuen uns, Sie zu unserem Firmenjubiläum einzuladen.", "en": "We are pleased to invite you to our company anniversary."},
+        {"de": "Sie ist enttäuscht, nicht zur Feier eingeladen worden zu sein.", "en": "She is disappointed not to have been invited to the party."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the time relation.",
+      "prompt": "What is the difference between *Er behauptet, krank zu sein* and *Er behauptet, krank gewesen zu sein*?",
+      "answer": "The Infinitiv Präsens (*krank zu sein*) shows the **same time** as the main verb: he says he is ill now. The Infinitiv Perfekt (*krank gewesen zu sein*) shows a time **before** the main verb: he says he was ill, for example last week.",
+      "explanation": "The infinitive tense is always relative to the main verb, not to the moment of speaking. After a past main verb (*Er behauptete, krank gewesen zu sein*) the Infinitiv Perfekt works like a Plusquamperfekt. After verbs like *hoffen, planen, versprechen* the Infinitiv Präsens usually points to the future.",
+      "examples": [
+        {"de": "Sie hofft, die Stelle in Wien zu bekommen.", "en": "She hopes to get the job in Vienna."},
+        {"de": "Sie freut sich, die Stelle in Wien bekommen zu haben.", "en": "She is happy to have got the job in Vienna."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain when you need the dass-form.",
+      "prompt": "When can you use *um / ohne / (an)statt … zu*, and when do you need *damit / ohne dass / (an)statt dass*?",
+      "answer": "Use the infinitive only when the understood subject of the second action is the **subject of the main clause**. If the second action has a **different subject**, use *damit / ohne dass / (an)statt dass* + Nebensatz with its own subject and the verb at the end.",
+      "explanation": "An infinitive clause has no subject position, so a new subject cannot be named in it. With the same subject the infinitive is the normal choice; *damit* is also common then (*Ich lerne viel, damit ich die Prüfung bestehe*), while *ohne dass* and *statt dass* with the same subject sound heavy. After *ohne dass* the Konjunktiv II is also frequent: *ohne dass es jemand bemerkt hätte*.",
+      "examples": [
+        {"de": "Er ging früh los, um den Zug nicht zu verpassen.", "en": "He left early so as not to miss the train."},
+        {"de": "Er ging früh los, damit seine Frau das Auto nehmen konnte.", "en": "He left early so that his wife could take the car."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the form of the passive participle.",
+      "prompt": "Why is it *gerettet worden zu sein* and not *gerettet geworden zu sein*?",
+      "answer": "When *werden* is the **passive auxiliary**, its Partizip II is the short form **worden**. The long form *geworden* is only used for *werden* as a full verb ('to become'): *Sie ist Ärztin geworden.*",
+      "explanation": "The infinitive copies the finite passive Perfekt (*Sie sind gerettet worden*) and puts *zu* before *sein*. *sein* is the auxiliary because *werden* always forms its Perfekt with *sein*. So the passive Perfekt infinitive never contains *haben* and never contains *geworden*.",
+      "examples": [
+        {"de": "Die Bergsteiger sind froh, rechtzeitig gerettet worden zu sein.", "en": "The climbers are glad to have been rescued in time."},
+        {"de": "Er ist stolz, mit 25 schon Oberarzt geworden zu sein.", "en": "He is proud to have become a senior physician at 25."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite the dass-clause as an infinitive clause (Infinitiv Perfekt).",
+      "prompt": "Die Kundin gibt an, dass sie die Ware bereits zurückgeschickt hat.",
+      "answer": "Die Kundin gibt an, die Ware bereits zurückgeschickt zu haben.",
+      "explanation": "Both clauses have the same subject (*die Kundin* = *sie*), so *dass* and *sie* can be dropped. *hat zurückgeschickt* is Perfekt → Partizip II + *zu haben*. *zu* is not inserted into *zurückgeschickt*; it stands before *haben*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the dass-clause as an infinitive clause (passive).",
+      "prompt": "Der junge Künstler hofft, dass er bald von einer großen Galerie entdeckt wird.",
+      "answer": "Der junge Künstler hofft, bald von einer großen Galerie entdeckt zu werden.",
+      "explanation": "Same subject (*der Künstler* = *er*) → infinitive clause is possible. *entdeckt wird* is Passiv Präsens → Partizip II + *zu werden*. The agent *von einer großen Galerie* stays in the clause."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the dass-clause as an infinitive clause.",
+      "prompt": "Der Fahrgast beschwert sich, dass er vom Kontrolleur unfreundlich behandelt worden ist.",
+      "answer": "Der Fahrgast beschwert sich, vom Kontrolleur unfreundlich behandelt worden zu sein.",
+      "explanation": "*behandelt worden ist* is Passiv Perfekt. In the infinitive the finite *ist* becomes *zu sein* and moves to the end: *behandelt worden zu sein*. The subject *er* disappears because it is the same as *der Fahrgast*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Change the infinitive so that the action lies before the main verb (Infinitiv Perfekt).",
+      "prompt": "Ich bin froh, in diese Stadt umzuziehen.",
+      "answer": "Ich bin froh, in diese Stadt umgezogen zu sein.",
+      "explanation": "*umziehen* (to move house) forms its Perfekt with *sein*. In the Infinitiv Präsens *zu* is inside the separable verb (*umzuziehen*); in the Infinitiv Perfekt the participle *umgezogen* is followed by *zu sein*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie bedauert, nicht zur Hochzeit ihrer Cousine eingeladen geworden zu sein.",
+      "answer": "Sie bedauert, nicht zur Hochzeit ihrer Cousine eingeladen worden zu sein.",
+      "explanation": "In the passive, the participle of the auxiliary *werden* is *worden*, not *geworden*. The correct passive Perfekt infinitive is *eingeladen worden zu sein*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir sind erleichtert, trotz des Nebels sicher gelandet zu haben.",
+      "answer": "Wir sind erleichtert, trotz des Nebels sicher gelandet zu sein.",
+      "explanation": "Intransitive *landen* (the plane lands, we land) forms its Perfekt with *sein*: *wir sind gelandet*. The Infinitiv Perfekt uses the same auxiliary: *gelandet zu sein*. Only transitive *landen* (*Der Pilot hat das Flugzeug gelandet*) takes *haben*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich schicke dir den Link noch einmal, um du dich anmelden kannst.",
+      "answer": "Ich schicke dir den Link noch einmal, damit du dich anmelden kannst.",
+      "explanation": "The purpose clause has a new subject (*du*) and a finite verb (*kannst*). *um* only works with a zu-infinitive and the subject of the main clause, so the connector must be *damit*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat die Stelle in Singapur angenommen, ohne dass lange zu überlegen.",
+      "answer": "Er hat die Stelle in Singapur angenommen, ohne lange zu überlegen.",
+      "explanation": "*ohne dass* needs a Nebensatz with a subject and a finite verb. Here the subject is the same (*er*) and there is a zu-infinitive, so the connector is plain *ohne*: *ohne lange zu überlegen*."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Die Ärztin erklärt den Eingriff sehr genau, ___ die Patienten keine Angst haben.",
+      "options": ["um", "damit", "ohne dass", "statt"],
+      "correct": "damit",
+      "answer": "Die Ärztin erklärt den Eingriff sehr genau, damit die Patienten keine Angst haben.",
+      "explanation": "The second clause has its own subject (*die Patienten*) and a finite verb at the end → it is a purpose Nebensatz with *damit*. *um* and *statt* need a zu-infinitive without a subject. *ohne dass* would mean 'without the patients having no fear', which makes no sense here."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Der Nachbar hat das Paket angenommen, ___ den Empfang zu quittieren.",
+      "options": ["ohne", "ohne dass", "damit", "statt dass"],
+      "correct": "ohne",
+      "answer": "Der Nachbar hat das Paket angenommen, ohne den Empfang zu quittieren.",
+      "explanation": "The gap is followed by a zu-infinitive with the same subject (*der Nachbar*), so only an infinitive conjunction fits: *ohne … zu*. *ohne dass*, *damit* and *statt dass* introduce a Nebensatz with its own subject and a finite verb."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct infinitive form.",
+      "prompt": "Die Studentin fürchtet, bei der gestrigen Klausur ___.",
+      "options": ["durchgefallen zu sein", "durchzufallen sein", "durchgefallen zu haben", "durchgefallen worden zu sein"],
+      "correct": "durchgefallen zu sein",
+      "answer": "Die Studentin fürchtet, bei der gestrigen Klausur durchgefallen zu sein.",
+      "explanation": "*gestrigen* places the exam before the fear → Infinitiv Perfekt. *durchfallen* (to fail an exam) takes *sein*: *sie ist durchgefallen* → *durchgefallen zu sein*. *durchzufallen sein* puts *zu* in the wrong word, *zu haben* is the wrong auxiliary, and *worden* would make it passive, which *durchfallen* cannot be."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct infinitive form.",
+      "prompt": "Statt sorgfältig ___, wurde der Antrag ohne Begründung abgelehnt.",
+      "options": ["zu prüfen", "geprüft zu werden", "geprüft worden zu haben", "geprüft geworden zu sein"],
+      "correct": "geprüft zu werden",
+      "answer": "Statt sorgfältig geprüft zu werden, wurde der Antrag ohne Begründung abgelehnt.",
+      "explanation": "The understood subject is *der Antrag*, and an application is checked by someone → passive, at the same time as the rejection → *geprüft zu werden*. *zu prüfen* is active, as if the application checked something. *worden zu haben* has the wrong auxiliary, and *geworden* is not used in the passive."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join the sentences with *ohne … zu* (Infinitiv Perfekt).",
+      "prompt": "Er verließ den Unfallort. Er hatte die Polizei nicht verständigt.",
+      "answer": "Er verließ den Unfallort, ohne die Polizei verständigt zu haben.",
+      "explanation": "Same subject (*er*) → *ohne … zu*. The missing call to the police lies before leaving (Plusquamperfekt *hatte verständigt*) → Infinitiv Perfekt *verständigt zu haben*. *nicht* disappears, because *ohne* already expresses the negation."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the sentences with *statt dass*.",
+      "prompt": "Die Eltern machen die Hausaufgaben. Eigentlich sollten die Kinder sie selbst machen.",
+      "answer": "Die Eltern machen die Hausaufgaben, statt dass die Kinder sie selbst machen.",
+      "explanation": "The two actions have different subjects (*die Eltern* / *die Kinder*), so *statt … zu* is impossible and *statt dass* + Nebensatz is needed. *eigentlich sollten* is already contained in the meaning of *statt dass*, so the Nebensatz just has the finite verb *machen* at the end."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Join the sentences with *um … zu* (passive infinitive).",
+      "prompt": "Die Läuferin trainiert jeden Tag. Sie möchte für die Nationalmannschaft ausgewählt werden.",
+      "answer": "Die Läuferin trainiert jeden Tag, um für die Nationalmannschaft ausgewählt zu werden.",
+      "explanation": "Same subject (*die Läuferin* = *sie*) → *um … zu*. *möchte* expresses the purpose and is dropped, because *um … zu* already contains it. *ausgewählt werden* becomes the passive infinitive *ausgewählt zu werden*."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "in der U-Bahn / er / bestohlen / behauptet, / zu sein / worden",
+      "answer": "Er behauptet, in der U-Bahn bestohlen worden zu sein.",
+      "explanation": "The main clause is *Er behauptet*. In the infinitive clause all verbs stand at the end in the order participle – *worden* – *zu sein*, and the other parts (*in der U-Bahn*) come before them."
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Anstatt",
+      "prompt": "auf den Bus / nahm / anstatt / zu warten / ein Taxi / sie",
+      "answer": "Anstatt auf den Bus zu warten, nahm sie ein Taxi.",
+      "explanation": "The infinitive clause *Anstatt auf den Bus zu warten* fills the Vorfeld, so the finite verb *nahm* follows directly after the comma, then the subject *sie*. The other correct order starts with the main clause: *Sie nahm ein Taxi, anstatt auf den Bus zu warten.*"
+    }
+  ]
+}

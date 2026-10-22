@@ -1,0 +1,709 @@
+{
+  "topic_id": "h15-adjektivdeklination-komplett",
+  "level": "B1+",
+  "title_de": "Adjektivdeklination komplett: alle Typen, Zahlwörter, substantivierte Adjektive",
+  "title_en": "Adjective endings complete: all types, quantity words, nominalised adjectives",
+  "rule": {
+    "summary": "All three declensions follow one principle: the **strong signal** for case and gender (*-r, -s, -m, -n, -e*) must appear once in front of the noun. If the article word already shows it (*der, dieser, alle, keine, meine* in the plural), the adjective is **weak** (*-e/-en*). If there is no article word, or one without an ending (*ein, kein, mein* in Nom m, Nom/Akk n) or one that does not decline like an article (*viele, einige, wenige, mehrere, ein paar, zwei, drei*), the adjective is **strong**. Nominalised adjectives (*der Deutsche, ein Angestellter, etwas Neues*) keep exactly these adjective endings.",
+    "table": "| | m | f | n | Pl |\n|---|---|---|---|---|\n| Nom | der gut**e** · ein gut**er** · gut**er** Wein | die gut**e** · eine gut**e** · gut**e** Idee | das gut**e** · ein gut**es** · gut**es** Brot | die gut**en** · keine gut**en** · viele gut**e** Ideen |\n| Akk | den gut**en** · einen gut**en** · gut**en** Wein | die gut**e** · eine gut**e** · gut**e** Idee | das gut**e** · ein gut**es** · gut**es** Brot | die gut**en** · keine gut**en** · viele gut**e** Ideen |\n| Dat | dem gut**en** · einem gut**en** · gut**em** Wein | der gut**en** · einer gut**en** · gut**er** Idee | dem gut**en** · einem gut**en** · gut**em** Brot | den gut**en** · keinen gut**en** · vielen gut**en** Ideen |\n| Gen | des gut**en** · eines gut**en** · gut**en** Wein**es** | der gut**en** · einer gut**en** · gut**er** Idee | des gut**en** · eines gut**en** · gut**en** Brot**es** | der gut**en** · keiner gut**en** · vieler gut**er** Ideen |",
+    "steps": [
+      "Find gender, number and case of the noun (the verb or the preposition decides the case).",
+      "Look at the word before the adjective. Does it have a strong ending (*der, dieses, einem, alle, keine, meinen* …)? → weak adjective: **-e** in Nom sg and Akk f/n sg, otherwise **-en**.",
+      "No ending on the article word (*ein, kein, mein* in Nom m and Nom/Akk n) → the adjective takes the strong signal: *ein gut**er** Wein, mein neu**es** Auto*.",
+      "No article, or only *viele, einige, wenige, mehrere, ein paar, etwas, nichts*, a number (*zwei, drei …*) → strong ending, the same as the definite article (*gut**em** Wein* like *dem*). Exception: Genitiv m/n singular takes **-en**, because the noun already has *-(e)s*: *trotz stark**en** Regens*.",
+      "Several adjectives in a row all take the same ending: *bei kalt**em**, nass**em** Wetter*. Use a comma only if the adjectives are of equal rank (you could put *und* between them).",
+      "Check special cases: nominalised adjectives (capital letter, adjective endings), stems that lose a letter (*dunkel → dunkle, teuer → teure, hoch → hohe*), undeclined *rosa, lila* and place adjectives in *-er* (*Berliner, Kölner*)."
+    ],
+    "pitfalls": [
+      "Weak ending after *viele, einige, mehrere*: ✗ *viele kleinen Betriebe* → ✓ *viele kleine Betriebe*; but after *alle, beide, keine*: ✓ *alle kleinen Betriebe*.",
+      "Strong *-es* in the Genitiv without article: ✗ *wegen schlechtes Wetters* → ✓ *wegen schlechten Wetters*.",
+      "Forgetting that nominalised adjectives decline: ✗ *ein Angestellte der Stadt* (m) → ✓ *ein Angestellter der Stadt*; ✗ *mit etwas Neues* → ✓ *mit etwas Neuem*.",
+      "*alles* like *etwas*: ✗ *alles Gutes* → ✓ *alles Gute* (*alles* has a strong ending itself, so the adjective is weak).",
+      "Declining *lila* or the *-er* place adjectives: ✗ *ein lilanes Kleid, im Kölnern Dom* → ✓ *ein lila Kleid, im Kölner Dom*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Trotz {{c1::starken::stark}} Regens fand das Konzert im Freien statt.",
+      "en": "Despite heavy rain, the concert took place outdoors.",
+      "focus": "Genitiv maskulin · ohne Artikel",
+      "explanation": "*trotz* takes the Genitiv, and *der Regen* is masculine → Genitiv *Regens*. With no article the adjective would normally be strong (*-es*, like *des*), but in the masculine and neuter Genitiv the noun already shows the case with *-s*. So the adjective takes **-en**: stark + -en → **starken**.",
+      "pattern": "Präp. (Gen.) + Adj-**en** + Nomen-(e)s (m/n, ohne Artikel)",
+      "mistake": {"wrong": "Trotz starkes Regens fand das Konzert im Freien statt.", "why": "*-es* is the strong ending only in theory. In the Genitiv m/n without article it is replaced by *-en*, because *Regens* already carries the *-s* signal."},
+      "examples": [
+        {"de": "Wegen dichten Nebels wurde der Flughafen gesperrt.", "en": "The airport was closed because of thick fog."},
+        {"de": "Anfang nächsten Jahres zieht die Firma nach Leipzig.", "en": "At the beginning of next year the company is moving to Leipzig."}
+      ],
+      "words": [{"de": "im Freien", "en": "outdoors"}],
+      "production_cue": "(Genitiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Kündigung eines {{c1::langjährigen::langjährig}} Mitarbeiters hat das ganze Team schockiert.",
+      "en": "The dismissal of a long-standing employee shocked the whole team.",
+      "focus": "Genitiv maskulin · nach *eines*",
+      "explanation": "*die Kündigung* + whose? → Genitiv attribute. *Mitarbeiter* is masculine → *eines Mitarbeiters*. *eines* already has the strong ending *-es*, so the adjective is weak, and all Genitiv slots take **-en**: langjährig + -en → **langjährigen**.",
+      "pattern": "eines + Adj-**en** + Nomen-(e)s",
+      "mistake": {"wrong": "Die Kündigung eines langjähriges Mitarbeiters hat das ganze Team schockiert.", "why": "The strong signal *-es* is already on *eines*. The adjective must not repeat it; after any article word with an ending, the Genitiv adjective ends in *-en*."},
+      "examples": [
+        {"de": "Er ist der Sohn eines bekannten Dirigenten.", "en": "He is the son of a well-known conductor."},
+        {"de": "Das ist das Ergebnis einer gründlichen Analyse.", "en": "This is the result of a thorough analysis."}
+      ],
+      "words": [{"de": "langjährig", "en": "long-standing, of many years"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Zahl {{c1::arbeitsloser::arbeitslos}} Jugendlicher ist im vergangenen Jahr deutlich gesunken.",
+      "en": "The number of unemployed young people fell significantly last year.",
+      "focus": "Genitiv Plural · ohne Artikel",
+      "explanation": "*die Zahl* + Genitiv plural without an article. The strong ending is the same as the article *der* (Gen Pl) → **-er**: arbeitslos + -er → **arbeitsloser**. The noun *Jugendlicher* is itself a nominalised adjective, so it also takes the strong Genitiv plural *-er*.",
+      "pattern": "Adj-**er** + Nomen (Gen. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Die Zahl arbeitslosen Jugendlichen ist im vergangenen Jahr deutlich gesunken.", "why": "*-en* is the weak ending after *der*. Without an article the adjective must show the Genitiv plural itself with *-er*. With an article it would be *die Zahl der arbeitslosen Jugendlichen*."},
+      "examples": [
+        {"de": "Die Gesundheit älterer Menschen hängt stark von Bewegung ab.", "en": "The health of older people depends greatly on exercise."},
+        {"de": "Die Mieten großer Wohnungen sind stark gestiegen.", "en": "The rents of large flats have risen sharply."}
+      ],
+      "words": [{"de": "der/die Jugendliche (-n)", "en": "young person, adolescent"}],
+      "production_cue": "(Genitiv, no article)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Aufgrund {{c1::anhaltender::anhaltend}} Trockenheit ist das Grillen im Stadtpark verboten.",
+      "en": "Due to the ongoing drought, barbecues are banned in the city park.",
+      "focus": "Genitiv feminin · ohne Artikel",
+      "explanation": "*aufgrund* takes the Genitiv, and *die Trockenheit* is feminine. Without an article the adjective takes the ending of the article *der* (Gen f) → **-er**: anhaltend + -er → **anhaltender**. Feminine nouns get no *-s* in the Genitiv, so the *-en* exception does not apply here.",
+      "pattern": "Präp. (Gen.) + Adj-**er** + Nomen (f, ohne Artikel)",
+      "mistake": {"wrong": "Aufgrund anhaltenden Trockenheit ist das Grillen im Stadtpark verboten.", "why": "The *-en* exception is only for masculine and neuter nouns with Genitiv *-s*. A feminine noun shows nothing, so the adjective must carry the signal: *anhaltender*."},
+      "examples": [
+        {"de": "Wegen mangelnder Nachfrage wurde die Buslinie eingestellt.", "en": "The bus route was discontinued due to a lack of demand."},
+        {"de": "Trotz guter Vorbereitung hat sie die Prüfung nicht bestanden.", "en": "Despite good preparation she did not pass the exam."}
+      ],
+      "words": [{"de": "anhaltend", "en": "ongoing, persistent"}, {"de": "die Trockenheit", "en": "drought, dryness"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Wohnung meiner {{c1::älteren::alt · Komparativ}} Schwester liegt direkt am Rhein.",
+      "en": "My older sister's flat is right on the Rhine.",
+      "focus": "Genitiv feminin · Possessivartikel · Komparativ",
+      "explanation": "*die Wohnung* + whose? → Genitiv; *Schwester* is feminine → *meiner*. The comparative *älter* is declined like any adjective, and after *meiner* (strong ending) it is weak: älter + -en → **älteren**.",
+      "pattern": "meiner + Komparativ-**en** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Die Wohnung meiner älterer Schwester liegt direkt am Rhein.", "why": "The *-er* of *älter* is the comparative suffix, and it still needs a case ending. After *meiner* the Genitiv adjective is weak: *älter* + *-en* = *älteren*."},
+      "examples": [
+        {"de": "Das Auto meines jüngeren Bruders steht schon seit Wochen in der Werkstatt.", "en": "My younger brother's car has been at the garage for weeks."},
+        {"de": "Die Kinder unserer neuen Nachbarn gehen auf dieselbe Schule.", "en": "Our new neighbours' children go to the same school."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Nach der Reform mussten viele {{c1::kleine::klein}} Betriebe schließen.",
+      "en": "After the reform, many small businesses had to close.",
+      "focus": "Nominativ Plural · nach *viele*",
+      "explanation": "*viele* is not an article word: it declines like an adjective itself. So it does not take the signal away from the following adjective, and both have the same strong plural ending: Nominativ plural **-e** → *viele* **kleine** *Betriebe*.",
+      "pattern": "viele + Adj-**e** + Nomen (Nom./Akk. Pl.)",
+      "mistake": {"wrong": "Nach der Reform mussten viele kleinen Betriebe schließen.", "why": "*-en* is the weak plural ending after *die, alle, keine*. *viele* works like an adjective, so the next adjective is strong too: *viele kleine Betriebe*."},
+      "examples": [
+        {"de": "Viele junge Familien ziehen aus der Stadt aufs Land.", "en": "Many young families are moving from the city to the countryside."},
+        {"de": "Die App hat viele nützliche Funktionen.", "en": "The app has many useful features."}
+      ],
+      "words": [{"de": "der Betrieb (-e)", "en": "business, company"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Nach Aussagen mehrerer {{c1::unabhängiger::unabhängig}} Zeugen war die Ampel rot.",
+      "en": "According to several independent witnesses, the traffic light was red.",
+      "focus": "Genitiv Plural · nach *mehrere*",
+      "explanation": "*Aussagen* + whose? → Genitiv plural. *mehrere* declines like an adjective (*mehrerer*), so the following adjective is also strong and takes the same Genitiv plural ending **-er**: unabhängig + -er → **unabhängiger**.",
+      "pattern": "mehrerer + Adj-**er** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Nach Aussagen mehrerer unabhängigen Zeugen war die Ampel rot.", "why": "Only real article words (*der, aller, keiner*) make the adjective weak. *mehrerer* is a quantity word with adjective endings, so both words end in *-er*."},
+      "examples": [
+        {"de": "Das Gesetz wurde mit den Stimmen einiger kleinerer Parteien beschlossen.", "en": "The law was passed with the votes of some smaller parties."},
+        {"de": "Das Buch basiert auf den Erfahrungen vieler junger Ärztinnen.", "en": "The book is based on the experiences of many young female doctors."}
+      ],
+      "words": [{"de": "die Aussage (-n)", "en": "statement, testimony"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich brauche noch ein paar {{c1::ruhige::ruhig}} Tage, bevor ich die Masterarbeit abgebe.",
+      "en": "I still need a few quiet days before I hand in my master's thesis.",
+      "focus": "Akkusativ Plural · nach *ein paar*",
+      "explanation": "*ein paar* (= a few) never changes and has no case ending, so the adjective must show the case itself: strong Akkusativ plural **-e** → **ruhige** *Tage*. Note the spelling: *ein paar* (a few) with a small *p*, *ein Paar* (a pair) with a capital *P*.",
+      "pattern": "ein paar + Adj-**e** + Nomen (Pl.)",
+      "mistake": {"wrong": "Ich brauche noch ein paar ruhigen Tage, bevor ich die Masterarbeit abgebe.", "why": "*ein paar* is undeclined and gives no case signal. The adjective takes the strong ending: *ein paar ruhige Tage*; only the Dativ is *-en* (*nach ein paar ruhigen Tagen*)."},
+      "examples": [
+        {"de": "Wir haben ein paar interessante Vorschläge bekommen.", "en": "We have received a few interesting suggestions."},
+        {"de": "Nach ein paar anstrengenden Wochen fährt sie endlich in den Urlaub.", "en": "After a few exhausting weeks she is finally going on holiday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Nur wenige {{c1::junge::jung}} Menschen können sich in München eine eigene Wohnung leisten.",
+      "en": "Only a few young people can afford their own flat in Munich.",
+      "focus": "Nominativ Plural · nach *wenige*",
+      "explanation": "*wenige* is a quantity word with adjective endings, like *viele* and *einige*. The following adjective is strong: Nominativ plural **-e** → **junge**. The subject *wenige junge Menschen* is plural, so the verb is *können*.",
+      "pattern": "wenige + Adj-**e** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Nur wenige jungen Menschen können sich in München eine eigene Wohnung leisten.", "why": "After *wenige* the adjective is strong, not weak: *wenige junge Menschen*. The weak *-en* would only follow *die, diese, alle, keine* or a possessive."},
+      "examples": [
+        {"de": "Nur wenige große Unternehmen zahlen hier Gewerbesteuer.", "en": "Only a few large companies pay trade tax here."},
+        {"de": "Es gab nur wenige freie Plätze im Seminar.", "en": "There were only a few free places in the seminar."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Das Start-up hat im letzten Quartal drei {{c1::neue::neu}} Entwicklerinnen eingestellt.",
+      "en": "The start-up hired three new developers last quarter.",
+      "focus": "Akkusativ Plural · nach Zahlwort",
+      "explanation": "Cardinal numbers from *zwei* upwards have no case endings (except the rare Genitiv *zweier, dreier*). They give no signal, so the adjective is strong: Akkusativ plural **-e** → *drei* **neue** *Entwicklerinnen*.",
+      "pattern": "Zahl (≥ 2) + Adj-**e** + Nomen (Nom./Akk. Pl.)",
+      "mistake": {"wrong": "Das Start-up hat im letzten Quartal drei neuen Entwicklerinnen eingestellt.", "why": "A number is not an article word. Without *die* or *diese* before it, the adjective takes the strong ending: *drei neue*. With an article it would be *die drei neuen Entwicklerinnen*."},
+      "examples": [
+        {"de": "In der Altstadt haben zwei neue Cafés eröffnet.", "en": "Two new cafés have opened in the old town."},
+        {"de": "Die Firma beschäftigt fünfzig festangestellte Mitarbeiter.", "en": "The company employs fifty permanent staff."}
+      ],
+      "words": [{"de": "das Quartal (-e)", "en": "quarter (of a year)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Viele {{c1::andere::ander-}} Länder haben das Gesetz längst eingeführt.",
+      "en": "Many other countries introduced the law long ago.",
+      "focus": "*ander-* nach *viele* · Nominativ Plural",
+      "explanation": "*ander-* is declined like a normal adjective, not like an article. After *viele* it is strong: Nominativ plural **-e** → **andere**. After an article word it is weak: *alle anderen Länder, die anderen Länder*.",
+      "pattern": "viele/einige + andere + Nomen (Pl.)",
+      "mistake": {"wrong": "Viele anderen Länder haben das Gesetz längst eingeführt.", "why": "*viele* does not make the following adjective weak. *anderen* would need a real article word before it, as in *alle anderen Länder*."},
+      "examples": [
+        {"de": "Einige andere Teilnehmer hatten dasselbe Problem.", "en": "Some other participants had the same problem."},
+        {"de": "Wir haben auch mit mehreren anderen Anbietern gesprochen.", "en": "We have also spoken to several other providers."}
+      ],
+      "words": [{"de": "längst", "en": "long ago, for a long time"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Alle {{c1::neuen::neu}} Mitarbeiter müssen an einer Sicherheitsschulung teilnehmen.",
+      "en": "All new employees have to attend a safety training course.",
+      "focus": "Nominativ Plural · nach *alle*",
+      "explanation": "*alle* behaves like the definite article *die* in the plural: it has the strong ending *-e* and shows case and number. So the adjective is weak, and every weak plural ending is **-en**: neu + -en → **neuen**.",
+      "pattern": "alle + Adj-**en** + Nomen (Pl.)",
+      "mistake": {"wrong": "Alle neue Mitarbeiter müssen an einer Sicherheitsschulung teilnehmen.", "why": "*alle* is a *der*-word (like *die*), not a quantity word like *viele*. After it the adjective is weak: *alle neuen Mitarbeiter*."},
+      "examples": [
+        {"de": "Alle wichtigen Unterlagen liegen im Ordner auf meinem Schreibtisch.", "en": "All the important documents are in the folder on my desk."},
+        {"de": "Wir danken allen freiwilligen Helfern für ihren Einsatz.", "en": "We thank all the volunteers for their commitment."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Beide {{c1::großen::groß}} Volksparteien haben bei der Wahl deutlich verloren.",
+      "en": "Both major parties lost significantly in the election.",
+      "focus": "Nominativ Plural · nach *beide*",
+      "explanation": "*beide* (both) is treated like *alle*: the adjective after it is normally weak → **-en**: groß + -en → **großen**. With an article, *beide* itself becomes an adjective and is weak too: *die beiden großen Volksparteien*. The strong form *beide große* also occurs, but the weak *-en* is the usual standard form.",
+      "pattern": "beide + Adj-**en** + Nomen (Pl.)",
+      "mistake": {"wrong": "Die beide großen Volksparteien haben bei der Wahl deutlich verloren.", "why": "After the article *die*, *beide* is itself an adjective and must take the weak plural ending *-en*: *die beiden großen Volksparteien*. Without the article, *beide* has its own strong ending and the next adjective is weak: *Beide großen Volksparteien*."},
+      "examples": [
+        {"de": "Beide jungen Frauen haben ein Stipendium bekommen.", "en": "Both young women received a scholarship."},
+        {"de": "Die beiden ersten Kapitel kann man überspringen.", "en": "You can skip the first two chapters."}
+      ],
+      "words": [{"de": "die Volkspartei (-en)", "en": "major (catch-all) party"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "In dieser Gegend gibt es leider keine {{c1::bezahlbaren::bezahlbar}} Wohnungen mehr.",
+      "en": "Unfortunately, there are no more affordable flats in this area.",
+      "focus": "Akkusativ Plural · nach *keine*",
+      "explanation": "*es gibt* takes the Akkusativ. In the singular *kein* sometimes has no ending, but in the plural *keine* always has the strong ending *-e*, like *die*. So the plural adjective after *keine* is weak: **-en** → **bezahlbaren**.",
+      "pattern": "keine + Adj-**en** + Nomen (Pl.)",
+      "mistake": {"wrong": "In dieser Gegend gibt es leider keine bezahlbare Wohnungen mehr.", "why": "In the plural *keine* behaves like *die*, so the adjective is weak: *keine bezahlbaren Wohnungen*. Compare without article: *Es gibt kaum bezahlbare Wohnungen.*"},
+      "examples": [
+        {"de": "Wir haben leider keine freien Termine mehr.", "en": "Unfortunately we have no free appointments left."},
+        {"de": "Er hat keine großen Erwartungen an das Treffen.", "en": "He has no great expectations of the meeting."}
+      ],
+      "words": [{"de": "bezahlbar", "en": "affordable"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Unsere {{c1::treuen::treu}} Stammkunden erhalten zehn Prozent Rabatt.",
+      "en": "Our loyal regular customers receive a ten percent discount.",
+      "focus": "Nominativ Plural · nach Possessivartikel",
+      "explanation": "Possessive articles have no ending only in Nom m and Nom/Akk n singular. In the plural *unsere* has the strong ending *-e*, so the adjective is weak: **-en** → **treuen**.",
+      "pattern": "unsere/meine … (Pl.) + Adj-**en** + Nomen",
+      "mistake": {"wrong": "Unsere treue Stammkunden erhalten zehn Prozent Rabatt.", "why": "*-e* after a possessive is only possible in the singular (*unsere treue Kundin*). In the plural the possessive already carries the signal, so the adjective ends in *-en*."},
+      "examples": [
+        {"de": "Meine besten Freunde wohnen alle im Ausland.", "en": "My best friends all live abroad."},
+        {"de": "Ihre neuen Kollegen haben sie herzlich empfangen.", "en": "Her new colleagues welcomed her warmly."}
+      ],
+      "words": [{"de": "der Stammkunde (-n)", "en": "regular customer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Welche {{c1::konkreten::konkret}} Maßnahmen plant die Regierung gegen den Fachkräftemangel?",
+      "en": "What concrete measures is the government planning to tackle the skills shortage?",
+      "focus": "Akkusativ Plural · nach *welche*",
+      "explanation": "*welche* is a *der*-word: it has the same endings as the definite article (*welche* = *die* in the plural). The adjective after it is weak: **-en** → **konkreten**. *Maßnahmen* is the Akkusativ object of *plant*.",
+      "pattern": "welche/diese/solche + Adj-**en** + Nomen (Pl.)",
+      "mistake": {"wrong": "Welche konkrete Maßnahmen plant die Regierung gegen den Fachkräftemangel?", "why": "*welche* already shows plural and case like *die*. A plural adjective after a *der*-word is always weak: *welche konkreten Maßnahmen*."},
+      "examples": [
+        {"de": "Welche schriftlichen Unterlagen muss ich mitbringen?", "en": "Which written documents do I have to bring?"},
+        {"de": "Diese kurzen Videos erklären die wichtigsten Funktionen.", "en": "These short videos explain the most important features."}
+      ],
+      "words": [{"de": "der Fachkräftemangel", "en": "shortage of skilled workers"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Bei {{c1::kaltem, nassem::kalt, nass}} Wetter steigt die Zahl der Erkältungen.",
+      "en": "In cold, wet weather the number of colds rises.",
+      "focus": "zwei Adjektive · Dativ neutral · ohne Artikel",
+      "explanation": "*bei* takes the Dativ, *das Wetter* is neuter, and there is no article → strong Dativ ending **-em** (like *dem*). Several adjectives in a row all take the same ending: **kaltem, nassem**. The comma shows that they are of equal rank (*kalt und nass*).",
+      "pattern": "Adj-**em**, Adj-**em** + Nomen (Dat. m/n, ohne Artikel)",
+      "mistake": {"wrong": "Bei kaltem, nassen Wetter steigt die Zahl der Erkältungen.", "why": "The second adjective is not weakened by the first one. Both stand directly in the same noun phrase without an article, so both are strong: *kaltem, nassem*."},
+      "examples": [
+        {"de": "Mit frischem, regionalem Gemüse schmeckt die Suppe am besten.", "en": "The soup tastes best with fresh, regional vegetables."},
+        {"de": "Nach langem, hartem Training hat sie den Marathon geschafft.", "en": "After long, hard training she managed the marathon."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Der Vertrag mit dem {{c1::neuen amerikanischen::neu, amerikanisch}} Partner wurde gestern unterzeichnet.",
+      "en": "The contract with the new American partner was signed yesterday.",
+      "focus": "zwei Adjektive · Dativ maskulin · ohne Komma",
+      "explanation": "*mit* + Dativ, *der Partner* is masculine → *dem*. After *dem* both adjectives are weak: **neuen amerikanischen**. There is no comma, because *neu* describes the whole unit *amerikanischer Partner*; you could not put *und* between the two adjectives.",
+      "pattern": "dem + Adj-**en** Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Der Vertrag mit dem neuen amerikanischem Partner wurde gestern unterzeichnet.", "why": "*dem* already shows the Dativ, so every adjective after it is weak. The strong ending *-em* is not repeated on the second adjective."},
+      "examples": [
+        {"de": "Sie arbeitet für eine große deutsche Versicherung.", "en": "She works for a large German insurance company."},
+        {"de": "Wir haben die alten französischen Filme auf DVD gefunden.", "en": "We found the old French films on DVD."}
+      ],
+      "words": [{"de": "unterzeichnen", "en": "to sign (formally)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Wir suchen ab sofort eine {{c1::engagierte, teamfähige::engagiert, teamfähig}} Persönlichkeit.",
+      "en": "We are looking for a committed team player to start immediately.",
+      "focus": "zwei Adjektive · Akkusativ feminin · nach *eine*",
+      "explanation": "*suchen* takes the Akkusativ; *die Persönlichkeit* is feminine → *eine*. Feminine Akkusativ after *eine* is an **-e** slot, and both adjectives take it: **engagierte, teamfähige**. The comma separates two equal qualities (*engagiert und teamfähig*), typical of job advertisements.",
+      "pattern": "eine + Adj-**e**, Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Wir suchen ab sofort eine engagierte, teamfähigen Persönlichkeit.", "why": "Both adjectives belong to the same feminine Akkusativ noun after *eine*, so both end in *-e*. Changing the ending on the second adjective has no basis."},
+      "examples": [
+        {"de": "Die Stelle verlangt eine strukturierte, selbstständige Arbeitsweise.", "en": "The position requires a structured, independent way of working."},
+        {"de": "Sie hielt eine kurze, aber überzeugende Rede.", "en": "She gave a short but convincing speech."}
+      ],
+      "words": [{"de": "engagiert", "en": "committed, dedicated"}, {"de": "teamfähig", "en": "able to work in a team"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Mein Mitbewohner ist {{c1::Deutscher::deutsch}}, aber er ist in Kanada aufgewachsen.",
+      "en": "My flatmate is German, but he grew up in Canada.",
+      "focus": "substantiviertes Adjektiv · Nationalität · ohne Artikel",
+      "explanation": "Most nationalities are nouns (*Franzose, Italienerin*), but *Deutsche(r)* is a nominalised adjective. It is capitalised and declines like an adjective. After *ist* there is no article, so the masculine Nominativ ending is strong: **Deutscher** (like *ein Deutscher*; with *der*: *der Deutsche*).",
+      "pattern": "sein + Deutsch**er** (m) / Deutsch**e** (f)",
+      "mistake": {"wrong": "Mein Mitbewohner ist Deutsche, aber er ist in Kanada aufgewachsen.", "why": "*Deutsche* without an article is the feminine form (*Sie ist Deutsche*) or the plural. For a man without an article the strong masculine ending is needed: *Er ist Deutscher.*"},
+      "examples": [
+        {"de": "Seine Frau ist Deutsche, er selbst ist Schweizer.", "en": "His wife is German; he himself is Swiss."},
+        {"de": "Als Deutscher braucht man für Japan kein Visum.", "en": "As a German, you don't need a visa for Japan."}
+      ],
+      "words": [{"de": "der Mitbewohner (-)", "en": "flatmate, roommate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Laut einer Umfrage verbringen viele {{c1::Deutsche::deutsch}} ihren Urlaub am liebsten im eigenen Land.",
+      "en": "According to a survey, many Germans prefer to spend their holidays in their own country.",
+      "focus": "substantiviertes Adjektiv · Plural nach *viele*",
+      "explanation": "*Deutsche* declines like an adjective, so the rules for *viele* apply: strong Nominativ plural **-e** → *viele* **Deutsche**. With the article it is weak: *die Deutschen*; in the Dativ plural both forms end in *-en* (*mit vielen Deutschen*).",
+      "pattern": "viele/einige + Deutsch**e** · die Deutsch**en**",
+      "mistake": {"wrong": "Laut einer Umfrage verbringen viele Deutschen ihren Urlaub am liebsten im eigenen Land.", "why": "*viele* does not take the signal away, so the nominalised adjective is strong: *viele Deutsche*. *Deutschen* is the weak form after *die, alle, keine*."},
+      "examples": [
+        {"de": "Einige Deutsche, die ich kenne, sprechen fließend Japanisch.", "en": "Some Germans I know speak fluent Japanese."},
+        {"de": "Die Deutschen trinken im Durchschnitt mehr Kaffee als Bier.", "en": "On average, Germans drink more coffee than beer."}
+      ],
+      "words": [{"de": "die Umfrage (-n)", "en": "survey, poll"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Die Firma hat allen {{c1::Angestellten::angestellt}} eine Inflationsprämie gezahlt.",
+      "en": "The company paid all its employees an inflation bonus.",
+      "focus": "substantiviertes Adjektiv · Dativ Plural nach *allen*",
+      "explanation": "*der/die Angestellte* comes from the participle *angestellt* and declines like an adjective. *zahlen* takes the receiver in the Dativ → *allen* (Dativ plural, strong ending). After it the nominalised adjective is weak: **Angestellten**, written with a capital letter.",
+      "pattern": "allen + Nomen aus Adj-**en** (Dat. Pl.)",
+      "mistake": {"wrong": "Die Firma hat allen Angestellter eine Inflationsprämie gezahlt.", "why": "*Angestellter* is the strong masculine singular form (*ein Angestellter*). In the Dativ plural after *allen* the ending must be the weak *-en*: *allen Angestellten*."},
+      "examples": [
+        {"de": "Der Arzt hat mit den Angehörigen des Patienten gesprochen.", "en": "The doctor spoke with the patient's relatives."},
+        {"de": "Den Reisenden wurde ein Hotelzimmer angeboten.", "en": "The travellers were offered a hotel room."}
+      ],
+      "words": [{"de": "der/die Angestellte (-n)", "en": "employee, salaried worker"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Ein {{c1::Angestellter::angestellt}} der Stadtverwaltung soll vertrauliche Daten weitergegeben haben.",
+      "en": "An employee of the city administration is said to have passed on confidential data.",
+      "focus": "substantiviertes Adjektiv · Nominativ maskulin · nach *ein*",
+      "explanation": "The noun is a male employee and the subject → Nominativ masculine. *ein* has no ending here, so the nominalised adjective must carry the strong signal: **Angestellter** (like *ein netter Mann*). With *der* it would be weak: *der Angestellte*.",
+      "pattern": "ein + Nomen aus Adj-**er** (Nom. m.)",
+      "mistake": {"wrong": "Ein Angestellte der Stadtverwaltung soll vertrauliche Daten weitergegeben haben.", "why": "*Angestellte* without *-r* only fits after *der* (*der Angestellte*) or for a woman (*eine Angestellte*). After *ein* (masculine Nominativ) it needs *-er*."},
+      "examples": [
+        {"de": "Ein Bekannter von mir arbeitet bei der Lufthansa.", "en": "An acquaintance of mine works for Lufthansa."},
+        {"de": "Ein Reisender hat seinen Koffer im Zug vergessen.", "en": "A passenger left his suitcase on the train."}
+      ],
+      "words": [{"de": "vertraulich", "en": "confidential"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Viele Menschen haben Angst vor etwas {{c1::Unbekanntem::unbekannt}}.",
+      "en": "Many people are afraid of something unknown.",
+      "focus": "*etwas* + substantiviertes Adjektiv · Dativ",
+      "explanation": "After *etwas, nichts, viel, wenig* an adjective becomes a neuter noun (capital letter) with strong endings, because these words have no endings themselves. *Angst vor* takes the Dativ → strong neuter Dativ **-em**: **Unbekanntem**.",
+      "pattern": "Präp. (Dat.) + etwas/nichts + Adj-**em** (großgeschrieben)",
+      "mistake": {"wrong": "Viele Menschen haben Angst vor etwas Unbekanntes.", "why": "*Unbekanntes* is the Nominativ/Akkusativ form. *vor* expressing fear takes the Dativ, so the strong neuter ending is *-em*: *vor etwas Unbekanntem*."},
+      "examples": [
+        {"de": "Sie träumt von etwas Größerem als einem Bürojob.", "en": "She dreams of something bigger than an office job."},
+        {"de": "Mit nichts Geringerem als dem Nobelpreis wurde sie ausgezeichnet.", "en": "She was awarded nothing less than the Nobel Prize."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "In der Sitzung wurde leider nichts {{c1::Wichtiges::wichtig}} besprochen.",
+      "en": "Unfortunately, nothing important was discussed in the meeting.",
+      "focus": "*nichts* + substantiviertes Adjektiv · Nominativ",
+      "explanation": "*nichts* has no ending, so the nominalised adjective after it is strong neuter. *nichts Wichtiges* is the subject of the passive → Nominativ neuter **-es**: **Wichtiges**, written with a capital letter because it is a noun.",
+      "pattern": "nichts/etwas + Adj-**es** (Nom./Akk., großgeschrieben)",
+      "mistake": {"wrong": "In der Sitzung wurde leider nichts Wichtige besprochen.", "why": "*-e* would be a weak ending, but *nichts* gives no signal. The nominalised adjective must show neuter Nominativ itself: *nichts Wichtiges*."},
+      "examples": [
+        {"de": "Im Fernsehen läuft heute nichts Besonderes.", "en": "There's nothing special on TV today."},
+        {"de": "Sie hat uns etwas Erstaunliches erzählt.", "en": "She told us something astonishing."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Wir wünschen dir zum Geburtstag alles {{c1::Gute::gut}} und viel Erfolg im neuen Job!",
+      "en": "We wish you all the best for your birthday and every success in your new job!",
+      "focus": "*alles* + substantiviertes Adjektiv",
+      "explanation": "Unlike *etwas* and *nichts*, *alles* has a strong ending itself (*-es*, like *das*). So it works like an article, and the nominalised adjective after it is weak: Akkusativ neuter **-e** → **Gute**.",
+      "pattern": "alles + Adj-**e** (schwach, großgeschrieben)",
+      "mistake": {"wrong": "Wir wünschen dir zum Geburtstag alles Gutes und viel Erfolg im neuen Job!", "why": "*Gutes* is the strong form used after *etwas, viel, nichts* (*etwas Gutes*). *alles* already shows the strong signal, so the adjective is weak: *alles Gute*."},
+      "examples": [
+        {"de": "Er hat alles Wichtige auf einem Zettel notiert.", "en": "He wrote down everything important on a piece of paper."},
+        {"de": "Ich wünsche Ihnen alles Liebe für die Zukunft.", "en": "I wish you all the best for the future."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Wir können uns diese {{c1::teure::teuer}} Wohnung in der Innenstadt nicht leisten.",
+      "en": "We can't afford this expensive flat in the city centre.",
+      "focus": "Stammänderung · Akkusativ feminin · nach *diese*",
+      "explanation": "*sich leisten* takes an Akkusativ object; *die Wohnung* is feminine → *diese* + weak **-e**. *teuer* loses the *e* of its last syllable when an ending is added (after *au/eu*): teuer → teur- + -e → **teure**.",
+      "pattern": "teuer → teur**e**, sauer → saur**e**",
+      "mistake": {"wrong": "Wir können uns diese teuer Wohnung in der Innenstadt nicht leisten.", "why": "The *-er* of *teuer* belongs to the stem; it is not a case ending. In front of the noun the adjective still needs the weak ending *-e* after *diese*, and the unstressed *e* of the stem drops: *teur-* + *-e* → *teure* (the long form *teuere* is rare)."},
+      "examples": [
+        {"de": "Die teuren Mieten treiben viele Familien aus der Stadt.", "en": "The expensive rents are driving many families out of the city."},
+        {"de": "Er hat sich einen teuren Laptop gekauft, den er kaum benutzt.", "en": "He bought an expensive laptop that he hardly uses."}
+      ],
+      "words": [{"de": "sich etwas leisten", "en": "to afford something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Bei {{c1::hohem::hoch}} Fieber sollten Sie sofort einen Arzt aufsuchen.",
+      "en": "If you have a high fever, you should see a doctor immediately.",
+      "focus": "Stammänderung · Dativ neutral · ohne Artikel",
+      "explanation": "*bei* + Dativ, *das Fieber* is neuter, no article → strong Dativ **-em**. *hoch* changes its stem whenever it has an ending: the *c* disappears → *hoh-*: hoh + -em → **hohem**. Predicative it stays *hoch* (*Das Fieber ist hoch*).",
+      "pattern": "hoch → hoh**e**/hoh**em**/hoh**en** (vor dem Nomen)",
+      "mistake": {"wrong": "Bei hochem Fieber sollten Sie sofort einen Arzt aufsuchen.", "why": "*hoch* keeps its *c* only without an ending. In front of a noun it is always *hoh-*: *hohem Fieber, die hohen Preise*."},
+      "examples": [
+        {"de": "Bei hohem Wellengang ist das Baden verboten.", "en": "Swimming is forbidden when the waves are high."},
+        {"de": "Wegen der hohen Nachfrage sind die Tickets ausverkauft.", "en": "The tickets are sold out because of the high demand."}
+      ],
+      "words": [{"de": "aufsuchen", "en": "to go and see (a doctor, an office)"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Die Braut trug ein {{c1::lila::Farbe}} Kleid mit weißen Blumen.",
+      "en": "The bride wore a purple dress with white flowers.",
+      "focus": "Farbadjektiv aus Fremdwort · Endung?",
+      "explanation": "Colour words borrowed from other languages, such as **lila** and *rosa* (also *beige, orange*), are undeclined in standard German: *ein lila Kleid, mit einem rosa Schal*. Compare *weißen*, a normal adjective, which takes the strong Dativ plural *-en* after *mit*.",
+      "pattern": "ein lila/rosa + Nomen (keine Endung)",
+      "mistake": {"wrong": "Die Braut trug ein lilanes Kleid mit weißen Blumen.", "why": "*lilanes* and *rosanes* are colloquial and not standard. In writing use the undeclined form *ein lila Kleid* or the compound *ein lilafarbenes Kleid*."},
+      "examples": [
+        {"de": "Sie hat sich einen rosa Pullover gekauft.", "en": "She bought herself a pink jumper."},
+        {"de": "Das Logo steht auf einem lila Hintergrund.", "en": "The logo is on a purple background."}
+      ],
+      "words": [{"de": "die Braut (¨-e)", "en": "bride"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Türme des {{c1::Kölner::Köln}} Doms sind über 150 Meter hoch.",
+      "en": "The towers of Cologne Cathedral are over 150 metres high.",
+      "focus": "Ortsadjektiv auf *-er* · Genitiv",
+      "explanation": "Adjectives formed from place names with *-er* (*Kölner, Berliner, Schweizer, Frankfurter*) are always capitalised and never take an ending, in any case. So even in the Genitiv after *des* it stays **Kölner**; only the noun shows the case: *des Doms*.",
+      "pattern": "Ort + -er (unveränderlich) + Nomen",
+      "mistake": {"wrong": "Die Türme des Kölnern Doms sind über 150 Meter hoch.", "why": "The *-er* place adjectives are invariable: *der Kölner Dom, des Kölner Doms, im Kölner Dom*. They never add *-en* or *-e*."},
+      "examples": [
+        {"de": "Wir haben uns auf dem Berliner Weihnachtsmarkt kennengelernt.", "en": "We met at the Berlin Christmas market."},
+        {"de": "Der Preis für Schweizer Käse ist stark gestiegen.", "en": "The price of Swiss cheese has risen sharply."}
+      ],
+      "words": [{"de": "der Dom (-e)", "en": "cathedral"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the principle behind the three declensions.",
+      "prompt": "How can you decide between a weak and a strong adjective ending without learning three separate tables?",
+      "answer": "The strong case signal must appear **once** before the noun. If the article word has a strong ending (*der, dem, dieses, keine, meinen*), the adjective is **weak** (*-e/-en*). If there is no article word, or it has no ending (*ein, kein, mein* in Nom m and Nom/Akk n), the adjective takes the **strong** ending, which is the ending of the definite article (*-er, -es, -em, -en, -e*).",
+      "explanation": "The mixed declension is not a third system: after *ein* the adjective is strong exactly where *ein* has no ending, and weak everywhere else. The only exception to 'strong = article ending' is the Genitiv m/n without article, which takes *-en* (*trotz starken Regens*).",
+      "examples": [
+        {"de": "Dieser alte Wein ist teuer.", "en": "This old wine is expensive."},
+        {"de": "Alter Wein ist nicht immer besser.", "en": "Old wine is not always better."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Sort the plural words.",
+      "prompt": "Which plural words are followed by a strong adjective, and which by a weak one?",
+      "answer": "Strong (like no article): **viele, einige, wenige, mehrere, ein paar**, numbers (*zwei, drei …*), *andere*. Weak (*-en*): **die, diese, jene, welche, alle, beide, keine** and the possessives (*meine, unsere …*).",
+      "explanation": "The first group declines like adjectives, so they do not 'use up' the signal, and the adjective after them has the same ending: *viele gute Ideen, vieler guter Ideen*. The second group declines like the article *die*, so the adjective is weak in every plural case.",
+      "examples": [
+        {"de": "Einige gute Ideen wurden sofort umgesetzt.", "en": "Some good ideas were put into practice immediately."},
+        {"de": "Alle guten Ideen wurden sofort umgesetzt.", "en": "All the good ideas were put into practice immediately."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the exception in the Genitiv.",
+      "prompt": "Why is it *wegen schlechten Wetters* and not *wegen schlechtes Wetters*?",
+      "answer": "In the **Genitiv masculine and neuter singular** without an article, the noun itself already ends in *-(e)s*. The adjective therefore takes **-en** instead of the strong *-es*. In the feminine and plural Genitiv the strong *-er* stays: *wegen schlechter Planung*.",
+      "explanation": "This is the only place where the strong declension does not copy the article ending (*des*). Typical fixed phrases: *Anfang nächsten Jahres, Ende vorigen Monats, guten Mutes, reinen Gewissens*. Many speakers avoid the Genitiv here and use *wegen des schlechten Wetters*.",
+      "examples": [
+        {"de": "Ende vorigen Monats wurde die Filiale geschlossen.", "en": "The branch was closed at the end of last month."},
+        {"de": "Wegen schlechter Planung kam es zu langen Wartezeiten.", "en": "Poor planning led to long waiting times."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about nominalised adjectives.",
+      "prompt": "How do nominalised adjectives like *der Deutsche* or *die Angestellte* decline?",
+      "answer": "Exactly like an adjective in the same position, but with a capital letter: *der Deutsche · ein Deutscher · die Deutschen · (viele) Deutsche*; *der/die Angestellte · ein Angestellter · eine Angestellte · Angestellte (Pl.)*.",
+      "explanation": "The ending depends on the word before it, as if an invisible noun (*Mann, Frau, Leute*) followed: *ein Deutscher (Mann)*. Other common examples: *der/die Bekannte, Erwachsene, Verwandte, Jugendliche, Kranke, Reisende, Vorgesetzte*. *der Beamte / ein Beamter* also declines like an adjective, but its feminine form is the normal noun *die Beamtin*.",
+      "examples": [
+        {"de": "Der Vorgesetzte hat den Urlaub genehmigt.", "en": "The supervisor approved the leave."},
+        {"de": "Sie ist Angestellte bei einer Bank.", "en": "She is an employee at a bank."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the contrast.",
+      "prompt": "Why is it *etwas Schönes* and *nichts Neues*, but *alles Schöne*?",
+      "answer": "*etwas, nichts, viel, wenig* have **no ending**, so the nominalised neuter adjective is **strong** (*-es, -em*). *alles* has a strong ending itself (*-es*), so the adjective after it is **weak** (*-e, -en*): *alles Gute, mit allem Neuen*.",
+      "explanation": "In all cases the adjective becomes a neuter noun and is written with a capital letter. The Dativ shows the difference clearly: *mit etwas Neuem* (strong *-em*) but *mit allem Neuen* (weak *-en*). Exception to capitalisation: *etwas anderes* is usually written small.",
+      "examples": [
+        {"de": "Zum Abschied hat sie uns etwas Selbstgebackenes geschenkt.", "en": "As a farewell gift she gave us something home-baked."},
+        {"de": "Wir sind offen für alles Neue.", "en": "We are open to everything new."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about special stems.",
+      "prompt": "Which adjectives change their stem or never take an ending?",
+      "answer": "Stem change: *-el* drops the *e* (*dunkel → dunkle*), *-er* after *au/eu* drops the *e* (*teuer → teure, sauer → saure*), *hoch → hoh-* (*hohe*). No ending at all: borrowed colours *rosa, lila* (also *beige, orange*) and place adjectives in *-er* (*Berliner, Kölner, Schweizer*).",
+      "explanation": "The stem changes happen in every declined form (*im dunklen Keller, bei hohem Fieber*), but not in predicative use (*Der Keller ist dunkel*). The *-er* place adjectives are always capitalised. For *rosa* and *lila* colloquial forms like *rosane* exist, but standard German uses the undeclined form or *rosafarben*.",
+      "examples": [
+        {"de": "Im dunklen Treppenhaus ist sie gestolpert.", "en": "She tripped in the dark stairwell."},
+        {"de": "Das ist ein typisches Wiener Kaffeehaus.", "en": "This is a typical Viennese coffee house."}
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Anfang ___ Jahres beginnt der Umbau des Bahnhofs.",
+      "options": ["nächsten", "nächstes", "nächster"],
+      "correct": "nächsten",
+      "answer": "Anfang nächsten Jahres beginnt der Umbau des Bahnhofs.",
+      "explanation": "*Anfang* + Genitiv; *das Jahr* is neuter → *Jahres*. Without an article, Genitiv m/n takes *-en*, because the noun already ends in *-es*. *nächstes* is the Nom/Akk neuter form, and *nächster* would be Genitiv feminine or plural."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Im Notfall sollte man immer etwas ___ Wasser im Haus haben.",
+      "options": ["frisches", "frische", "frischen"],
+      "correct": "frisches",
+      "answer": "Im Notfall sollte man immer etwas frisches Wasser im Haus haben.",
+      "explanation": "Here *etwas* means 'some' and stands before a noun (*das Wasser*, neuter, Akkusativ). *etwas* has no ending, so the adjective is strong: *frisches*. *frische* and *frischen* are weak or plural forms that need an article word before them."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Die beiden ___ Kandidatinnen haben ein überzeugendes Konzept vorgelegt.",
+      "options": ["jungen", "junge", "junger"],
+      "correct": "jungen",
+      "answer": "Die beiden jungen Kandidatinnen haben ein überzeugendes Konzept vorgelegt.",
+      "explanation": "The article *die* carries the strong plural signal. After it, *beiden* is itself a weak adjective, and the next adjective is weak too: *-en* → *jungen*. Without the article the weak form is also the standard: *beide jungen Kandidatinnen*. *junge* would follow *viele* or no article, and *junger* is a strong masculine singular or Genitiv plural form."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Ein ___ hat den Unfall beobachtet und sofort die Polizei gerufen.",
+      "options": ["Reisender", "Reisende", "Reisenden"],
+      "correct": "Reisender",
+      "answer": "Ein Reisender hat den Unfall beobachtet und sofort die Polizei gerufen.",
+      "explanation": "*Reisende(r)* is a nominalised participle and declines like an adjective. *ein* in the masculine Nominativ has no ending, so the noun takes the strong *-er*: *ein Reisender*. *Reisende* fits *der Reisende* or a woman (*eine Reisende*), *Reisenden* the weak oblique or plural forms."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie hat ein dunkeles Zimmer im Erdgeschoss gemietet.",
+      "answer": "Sie hat ein dunkles Zimmer im Erdgeschoss gemietet.",
+      "explanation": "Adjectives in *-el* drop the *e* of the last syllable when they take an ending: *dunkel → dunkles*. The ending itself (*-es*, strong neuter Akkusativ after *ein*) is correct."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wegen der hochen Mieten ziehen viele Familien aufs Land.",
+      "answer": "Wegen der hohen Mieten ziehen viele Familien aufs Land.",
+      "explanation": "*hoch* becomes *hoh-* before every ending. The Genitiv plural after *der* is weak *-en*: *der hohen Mieten*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Einige gute Freunde von mir sind Angestellter bei der Bahn.",
+      "answer": "Einige gute Freunde von mir sind Angestellte bei der Bahn.",
+      "explanation": "The subject is plural, so the nominalised adjective after *sind* is plural too. Without an article the strong Nominativ plural ending is *-e*: *Angestellte*. *Angestellter* is masculine singular."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Zum Abschied wünschen wir Ihnen alles Gutes.",
+      "answer": "Zum Abschied wünschen wir Ihnen alles Gute.",
+      "explanation": "*alles* has its own strong ending, so the nominalised adjective after it is weak: *alles Gute*. The strong form *Gutes* belongs after *etwas* or *viel*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben uns auf dem Wienern Weihnachtsmarkt getroffen.",
+      "answer": "Wir haben uns auf dem Wiener Weihnachtsmarkt getroffen.",
+      "explanation": "Adjectives from place names with *-er* never take a case ending. After *dem* it stays *Wiener*, and only the noun phrase shows the Dativ through the article."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace *ein* with *mehrere* and make the sentence plural.",
+      "prompt": "Ein erfahrener Angestellter hat die Firma verlassen.",
+      "answer": "Mehrere erfahrene Angestellte haben die Firma verlassen.",
+      "explanation": "*mehrere* declines like an adjective, so both the adjective and the nominalised *Angestellte* are strong: Nominativ plural *-e*. The verb changes to the plural *haben*."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace *einige* with *alle*.",
+      "prompt": "Einige alte Gebäude in der Hafenstraße wurden abgerissen.",
+      "answer": "Alle alten Gebäude in der Hafenstraße wurden abgerissen.",
+      "explanation": "After *einige* the adjective is strong (*alte*). *alle* is a *der*-word, so the adjective becomes weak: *alle alten Gebäude*."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Replace *der* with *ein*. Adjust the endings.",
+      "prompt": "Der neue Vorgesetzte kommt aus Polen.",
+      "answer": "Ein neuer Vorgesetzter kommt aus Polen.",
+      "explanation": "*ein* (masculine Nominativ) has no ending, so the strong signal moves to the adjective and to the nominalised *Vorgesetzte*: both take *-er*. After *der* both were weak (*-e*)."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence: put both adjectives in front of the noun.",
+      "prompt": "Wir suchen eine Wohnung. Sie soll hell und ruhig sein.",
+      "answer": "Wir suchen eine helle, ruhige Wohnung.",
+      "explanation": "*suchen* + Akkusativ, *die Wohnung* is feminine → *eine*. Both adjectives take the same ending *-e*, and a comma replaces *und* because they are of equal rank."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence with *wegen* + Genitiv, without an article.",
+      "prompt": "Das Wetter war schlecht. Deshalb wurde das Spiel abgesagt.",
+      "answer": "Wegen schlechten Wetters wurde das Spiel abgesagt.",
+      "explanation": "*wegen* takes the Genitiv: *das Wetter* → *Wetters*. Without an article the adjective would be strong, but Genitiv m/n takes *-en* because the noun already has *-s*: *schlechten Wetters*."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "mit / einigen / Kollegen / ausländischen / arbeite / ich / zusammen",
+      "answer": "Ich arbeite mit einigen ausländischen Kollegen zusammen.",
+      "explanation": "*mit* takes the Dativ plural: *einigen* and the adjective both end in *-en* (strong Dativ plural), and the noun *Kollegen* is n-Deklination anyway. The separable prefix *zusammen* goes to the end. Also possible: *Mit einigen ausländischen Kollegen arbeite ich zusammen.*"
+    }
+  ]
+}

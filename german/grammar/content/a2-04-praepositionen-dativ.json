@@ -1,0 +1,927 @@
+{
+  "topic_id": "a2-04-praepositionen-dativ",
+  "level": "A2",
+  "title_de": "Präpositionen mit Dativ",
+  "title_en": "Prepositions with the dative",
+  "rule": {
+    "summary": "The prepositions **aus, bei, mit, nach, seit, von, zu** and also **gegenüber, außer, ab** always take the **Dativ**, whether they describe a place, a direction or a time. A noun or pronoun after them is in the Dativ: *mit dem Bus, bei mir, seit einem Jahr, zu den Kindern*. Several of them contract with *dem/der*: *zum, zur, beim, vom*.",
+    "table": "| Präposition | Bedeutung | Beispiel |\n|---|---|---|\n| aus | from, out of; material | aus Spanien, aus dem Haus, aus Holz |\n| bei | at someone's place; at a company; while | bei meinen Eltern, bei Siemens, beim Kochen |\n| mit | with; by (transport) | mit dir, mit dem Zug |\n| nach | to (cities, countries without article, home); after | nach Wien, nach Hause, nach dem Essen |\n| seit | since, for (still true now) | seit 2023, seit drei Jahr**en** |\n| von | from (person, start); of | von meiner Schwester, vom Bahnhof |\n| zu | to (people, places, events) | zum Arzt, zur Post, zu Hause |\n| gegenüber | opposite | gegenüber dem Bahnhof / dem Bahnhof gegenüber |\n| außer | except | außer mir |",
+    "steps": [
+      "Recognise the preposition: *aus, bei, mit, nach, seit, von, zu, gegenüber, außer, ab* → always Dativ, never Akkusativ.",
+      "Put the article in the Dativ: *dem* (m/n), *der* (f), *den* + noun **-n** (Pl.); *einem / einer*; possessives *meinem / meiner / meinen*.",
+      "Contract where it is normal: *zu dem → zum, zu der → zur, bei dem → beim, von dem → vom*. Do not contract when *dem/der* is stressed (*zu dem Arzt, nicht zu dem anderen*).",
+      "Choose *to* correctly: *nach* for cities, countries without an article and *nach Hause*; *zu* for people, buildings and events (*zum Arzt, zur Bank*); *in* + Akk. for countries with an article (*in die Schweiz*).",
+      "For time: *seit* + Präsens for something that started in the past and is still true (*Ich wohne seit zwei Jahren hier.*); *nach* = after (*nach dem Kurs*)."
+    ],
+    "pitfalls": [
+      "Akkusativ after *mit*: ✗ *mit den Zug* → ✓ *mit dem Zug*. *mit* never takes the Akkusativ, even with movement.",
+      "*zu Hause* and *nach Hause* mixed up: ✗ *Ich gehe zu Hause.* → ✓ *Ich gehe nach Hause.* (*zu Hause* = at home, *nach Hause* = home as a direction).",
+      "*nach* for people: ✗ *Ich fahre nach meiner Oma.* → ✓ *Ich fahre zu meiner Oma.*",
+      "Missing Dativ plural *-n* after *seit*: ✗ *seit drei Jahre* → ✓ *seit drei Jahren*.",
+      "Past tense with *seit* for an ongoing situation: ✗ *Ich habe seit zwei Jahren hier gewohnt* (meaning *I still live here*) → ✓ *Ich wohne seit zwei Jahren hier.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich komme {{c1::aus::Herkunft}} Deutschland.",
+      "en": "I come from Germany.",
+      "focus": "Herkunft · Land ohne Artikel",
+      "explanation": "Your country or city of origin takes **aus**. *Deutschland* is neuter and has no article, so no Dativ form is visible. With an article the Dativ shows: *aus der Schweiz, aus dem Iran*.",
+      "pattern": "kommen + aus + Land/Stadt",
+      "mistake": {"wrong": "Ich komme von Deutschland.", "why": "*von* is for a starting point or a person (*von meiner Schwester*). For the country you come from, German uses *aus*."},
+      "examples": [
+        {"de": "Meine Kollegin kommt aus Brasilien.", "en": "My colleague is from Brazil."},
+        {"de": "Wir kommen aus Hamburg.", "en": "We're from Hamburg."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Er wohnt {{c1::bei::Ort: Person}} seinen Eltern.",
+      "en": "He lives with his parents.",
+      "focus": "Ort · bei einer Person",
+      "explanation": "*bei* + a person means *at someone's home* (like French *chez*). It takes the Dativ: *Eltern* is plural → *seinen Eltern*. The noun already ends in *-n*, so no extra *-n*.",
+      "pattern": "wohnen + bei + Dat. (Person)",
+      "mistake": {"wrong": "Er wohnt bei seine Eltern.", "why": "*seine Eltern* is Nominativ/Akkusativ plural. *bei* always takes the Dativ, so the possessive needs *-en*: *bei seinen Eltern*."},
+      "examples": [
+        {"de": "Sie wohnt noch bei ihrer Mutter.", "en": "She still lives with her mother."},
+        {"de": "Ich übernachte bei einem Freund.", "en": "I'm staying the night at a friend's."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich fahre {{c1::mit::Verkehrsmittel}} dem Bus zur Arbeit.",
+      "en": "I go to work by bus.",
+      "focus": "Verkehrsmittel",
+      "explanation": "The means of transport takes **mit** + Dativ: *der Bus* → *mit dem Bus*. English *by bus* has no article, but German needs it. The goal *zur Arbeit* (= *zu der*) is a second Dativ phrase.",
+      "pattern": "fahren + mit + dem + Verkehrsmittel",
+      "mistake": {"wrong": "Ich fahre mit den Bus zur Arbeit.", "why": "*den Bus* is Akkusativ. *mit* always takes the Dativ, even with a movement verb: *mit dem Bus*."},
+      "examples": [
+        {"de": "Sie fährt mit der Straßenbahn in die Stadt.", "en": "She takes the tram into town."},
+        {"de": "Wir fahren mit dem Auto in den Urlaub.", "en": "We're going on holiday by car."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir fliegen morgen {{c1::nach::Ziel: Land}} Italien.",
+      "en": "We're flying to Italy tomorrow.",
+      "focus": "Ziel · Land ohne Artikel",
+      "explanation": "For cities and countries without an article, *to* is **nach**. *nach* takes the Dativ, but *Italien* has no article, so you see no ending. With an article you use *in* + Akk.: *in die Türkei*.",
+      "pattern": "fahren/fliegen + nach + Land/Stadt",
+      "mistake": {"wrong": "Wir fliegen morgen zu Italien.", "why": "*zu* is for people, buildings and events. For countries and cities without an article, German uses *nach*."},
+      "examples": [
+        {"de": "Nächste Woche fahre ich nach Wien.", "en": "Next week I'm going to Vienna."},
+        {"de": "Wann fliegt ihr nach Japan?", "en": "When are you flying to Japan?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich lerne Deutsch {{c1::seit::Zeit: Dauer bis jetzt}} einem Jahr.",
+      "en": "I've been learning German for a year.",
+      "focus": "Zeit · Beginn in der Vergangenheit, dauert noch an",
+      "explanation": "**seit** describes something that started in the past and is still going on. German then uses the Präsens (*ich lerne*), where English uses *I have been learning*. *seit* takes the Dativ: *ein Jahr* → *einem Jahr*.",
+      "pattern": "Präsens + seit + Dat. (Dauer)",
+      "mistake": {"wrong": "Ich lerne Deutsch seit ein Jahr.", "why": "*ein Jahr* is Nominativ/Akkusativ. *seit* always takes the Dativ: neuter *ein* → *einem Jahr*. (*für ein Jahr* would mean a planned period, not one that is still going on.)"},
+      "examples": [
+        {"de": "Sie spielt seit einem Monat Gitarre.", "en": "She has been playing the guitar for a month."},
+        {"de": "Wir warten seit einer Stunde.", "en": "We've been waiting for an hour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das Geschenk ist {{c1::von::Absender}} meiner Schwester.",
+      "en": "The present is from my sister.",
+      "focus": "Absender · Person",
+      "explanation": "The person who gives or sends something takes **von** + Dativ. *Schwester* is feminine → *meiner Schwester*.",
+      "pattern": "von + Dat. (Absender)",
+      "mistake": {"wrong": "Das Geschenk ist aus meiner Schwester.", "why": "*aus* is for origin from a place (country, building). A person who sends or gives something takes *von*."},
+      "examples": [
+        {"de": "Die Blumen sind von meinem Mann.", "en": "The flowers are from my husband."},
+        {"de": "Ich habe einen Brief von der Bank bekommen.", "en": "I got a letter from the bank."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich gehe {{c1::zum::zu + Artikel}} Arzt.",
+      "en": "I'm going to the doctor.",
+      "correction": "The legacy sentence had *zu dem Arzt*. In neutral speech the contraction *zum* is obligatory; *zu dem Arzt* only works with a stressed *dem* (*to that doctor*). The gap answer changes from *zu* to *zum*.",
+      "focus": "Ziel · Person/Praxis",
+      "explanation": "For people and their places (doctor, hairdresser) *to* is **zu** + Dativ. *Arzt* is masculine → *zu dem*, which is contracted to **zum** in normal use.",
+      "pattern": "gehen + zum (= zu dem) + Person (m.)",
+      "mistake": {"wrong": "Ich gehe zu den Arzt.", "why": "*den Arzt* is Akkusativ. *zu* always takes the Dativ, even with a movement: *zu dem Arzt*, contracted to *zum Arzt*."},
+      "examples": [
+        {"de": "Morgen muss ich zum Zahnarzt.", "en": "Tomorrow I have to go to the dentist."},
+        {"de": "Gehst du heute zum Friseur?", "en": "Are you going to the hairdresser's today?"}
+      ],
+      "words": [{"de": "der Arzt (¨-e)", "en": "doctor"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Die Bank ist {{c1::gegenüber::Lage: andere Seite}} dem Bahnhof.",
+      "en": "The bank is across from the station.",
+      "focus": "Lage · auf der anderen Seite",
+      "explanation": "**gegenüber** (opposite, across from) takes the Dativ: *der Bahnhof* → *dem Bahnhof*. It can also stand after the noun: *dem Bahnhof gegenüber*. With a pronoun it always follows: *mir gegenüber*.",
+      "pattern": "gegenüber + Dat. / Dat. + gegenüber",
+      "mistake": {"wrong": "Die Bank ist gegenüber den Bahnhof.", "why": "*den Bahnhof* is Akkusativ. *gegenüber* takes the Dativ: *dem Bahnhof*."},
+      "examples": [
+        {"de": "Die Haltestelle ist gegenüber dem Rathaus.", "en": "The stop is opposite the town hall."},
+        {"de": "Er sitzt mir gegenüber.", "en": "He is sitting opposite me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie kommt direkt {{c1::aus::Herkunft: Gebäude}} der Schule.",
+      "en": "She's coming straight from school.",
+      "focus": "Herkunft · aus einem Gebäude",
+      "explanation": "**aus** means *out of* a building or room. It takes the Dativ: *die Schule* → *aus der Schule*. The opposite direction is *in die Schule* (Akk.).",
+      "pattern": "kommen + aus + der + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Sie kommt direkt aus die Schule.", "why": "*die Schule* is Nominativ/Akkusativ. *aus* always takes the Dativ, so the feminine article is *der*."},
+      "examples": [
+        {"de": "Er kommt gerade aus dem Büro.", "en": "He's just coming out of the office."},
+        {"de": "Die Kinder rennen aus dem Haus.", "en": "The children run out of the house."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir treffen uns {{c1::bei::Ort: Wohnung}} mir zu Hause.",
+      "en": "We're meeting at my place.",
+      "focus": "Ort · Wohnung einer Person",
+      "explanation": "**bei** + a person = at that person's home. With a pronoun the Dativ form follows: *ich* → *bei mir*. *zu Hause* only makes the meaning clearer (*at my home*).",
+      "pattern": "bei + Dat.-Pronomen (+ zu Hause)",
+      "mistake": {"wrong": "Wir treffen uns bei mich zu Hause.", "why": "*mich* is Akkusativ. *bei* always takes the Dativ: *bei mir*."},
+      "examples": [
+        {"de": "Die Party ist bei uns.", "en": "The party is at our place."},
+        {"de": "Kann ich heute bei dir schlafen?", "en": "Can I sleep at your place tonight?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich gehe {{c1::mit::Begleitung}} meiner Freundin ins Kino.",
+      "en": "I'm going to the cinema with my girlfriend.",
+      "focus": "Begleitung · Person",
+      "explanation": "**mit** + Dativ names the person who goes with you. *Freundin* is feminine → *meiner Freundin*. *ins Kino* is a separate phrase with the Wechselpräposition *in* (direction → Akk.).",
+      "pattern": "mit + Dat. (Person) + Ziel",
+      "mistake": {"wrong": "Ich gehe mit meine Freundin ins Kino.", "why": "*meine* is Nominativ/Akkusativ. After *mit* the possessive needs the Dativ ending: *meiner Freundin*."},
+      "examples": [
+        {"de": "Er fährt mit seinem Vater zum Fußball.", "en": "He's going to the football with his father."},
+        {"de": "Sie geht mit ihrem Hund in den Park.", "en": "She's going to the park with her dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Nach::Zeit: später als}} dem Essen gehen wir spazieren.",
+      "en": "After dinner we go for a walk.",
+      "focus": "Zeit · später als ein Ereignis",
+      "explanation": "**nach** + Dativ also means *after* (time). *das Essen* → *nach dem Essen*. The time phrase stands in the Vorfeld, so the verb *gehen* follows and the subject *wir* comes after it.",
+      "pattern": "Nach + Dat. + Verb + Subjekt …",
+      "mistake": {"wrong": "Nach das Essen gehen wir spazieren.", "why": "*das Essen* is Nominativ/Akkusativ. *nach* always takes the Dativ: *nach dem Essen*."},
+      "examples": [
+        {"de": "Nach dem Film trinken wir noch etwas.", "en": "After the film we'll have a drink."},
+        {"de": "Nach der Prüfung hatte ich frei.", "en": "After the exam I had time off."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich komme gerade {{c1::vom::von + Artikel}} Sport.",
+      "en": "I've just come from training.",
+      "focus": "Ausgangspunkt · Aktivität",
+      "explanation": "**von** + Dativ names the place or activity you are coming back from. *der Sport* → *von dem*, normally contracted to **vom**.",
+      "pattern": "kommen + vom (= von dem) + Nomen (m./n.)",
+      "mistake": {"wrong": "Ich komme gerade aus dem Sport.", "why": "*aus* means *out of* an enclosed place. You come back from an activity or event with *von*: *vom Sport, vom Training*."},
+      "examples": [
+        {"de": "Sie kommt gerade vom Einkaufen.", "en": "She's just come back from shopping."},
+        {"de": "Wir kommen vom Flughafen.", "en": "We're coming from the airport."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er wohnt {{c1::seit::Zeit: Dauer bis jetzt}} drei Jahren in Berlin.",
+      "en": "He has lived in Berlin for three years.",
+      "focus": "Zeit · Dauer mit Plural",
+      "explanation": "**seit** + Präsens: he started living there three years ago and still does. *seit* takes the Dativ, so the plural *Jahre* adds *-n*: *seit drei Jahren*.",
+      "pattern": "Präsens + seit + Zahl + Nomen-**n** (Dat. Pl.)",
+      "mistake": {"wrong": "Er wohnt seit drei Jahre in Berlin.", "why": "After *seit* the plural noun is in the Dativ and needs *-n*: *Jahren*."},
+      "examples": [
+        {"de": "Sie arbeitet seit zwei Monaten hier.", "en": "She has been working here for two months."},
+        {"de": "Wir kennen uns seit vielen Jahren.", "en": "We've known each other for many years."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir fahren {{c1::nach::Richtung: heim}} Hause.",
+      "en": "We're going home.",
+      "focus": "Richtung · zur eigenen Wohnung",
+      "explanation": "*nach Hause* is the fixed phrase for *home* as a direction (*wohin?*). The old Dativ ending *-e* in *Hause* survives only in this phrase and in *zu Hause* (at home, *wo?*).",
+      "pattern": "gehen/fahren + nach Hause (wohin?)",
+      "mistake": {"wrong": "Wir fahren zu Hause.", "why": "*zu Hause* means *at home* (position). With a movement verb you need the direction: *nach Hause*."},
+      "examples": [
+        {"de": "Wann kommst du nach Hause?", "en": "When are you coming home?"},
+        {"de": "Nach der Party nehmen wir ein Taxi nach Hause.", "en": "After the party we'll take a taxi home."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das Café liegt {{c1::gegenüber::Lage: andere Seite}} der Bibliothek.",
+      "en": "The café is opposite the library.",
+      "focus": "Lage · auf der anderen Seite eines Gebäudes (f.)",
+      "explanation": "The preposition takes the Dativ, and *Bibliothek* is feminine → *der Bibliothek*. In everyday speech you also hear *gegenüber von der Bibliothek*; both are correct.",
+      "pattern": "liegen + gegenüber + der + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Das Café liegt gegenüber die Bibliothek.", "why": "*die Bibliothek* is Nominativ/Akkusativ. After *gegenüber* the feminine article is the Dativ *der*."},
+      "examples": [
+        {"de": "Die Apotheke liegt gegenüber der Post.", "en": "The pharmacy is opposite the post office."},
+        {"de": "Wir wohnen gegenüber der Kirche.", "en": "We live opposite the church."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie geht {{c1::zur::zu + Artikel}} Apotheke.",
+      "en": "She's going to the pharmacy.",
+      "focus": "Ziel · Gebäude (f.)",
+      "explanation": "To a shop, office or institution German often uses **zu** + Dativ. *Apotheke* is feminine → *zu der*, contracted to **zur**.",
+      "pattern": "gehen + zur (= zu der) + Nomen (f.)",
+      "mistake": {"wrong": "Sie geht zum Apotheke.", "why": "*zum* = *zu dem* is for masculine and neuter nouns. *Apotheke* is feminine → *zu der* = *zur*."},
+      "examples": [
+        {"de": "Ich bringe den Brief zur Post.", "en": "I'm taking the letter to the post office."},
+        {"de": "Er fährt zur Tankstelle.", "en": "He's driving to the petrol station."}
+      ],
+      "words": [{"de": "die Apotheke (-n)", "en": "pharmacy, chemist's"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich treffe mich {{c1::mit::Partner}} meinen Freunden.",
+      "en": "I'm meeting up with my friends.",
+      "focus": "*sich treffen* · Partner",
+      "explanation": "*sich treffen* names the other people with **mit** + Dativ. *Freunde* is plural → *meinen Freunden*, with possessive *-en* and the Dativ-plural *-n* on the noun.",
+      "pattern": "sich treffen + mit + Dat.",
+      "mistake": {"wrong": "Ich treffe mich mit meinen Freunde.", "why": "The possessive is correct, but the plural noun also needs the Dativ *-n*: *meinen Freunden*."},
+      "examples": [
+        {"de": "Sie trifft sich mit ihren Kolleginnen.", "en": "She's meeting up with her colleagues."},
+        {"de": "Wir treffen uns mit den Nachbarn im Garten.", "en": "We're meeting the neighbours in the garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Aus::Herkunft}} welchem Land kommen Sie?",
+      "en": "Which country are you from?",
+      "focus": "Herkunft · Frage mit *welch-*",
+      "explanation": "Origin takes **aus** + Dativ. In the question, *welch-* has the Dativ ending: *das Land* → *welchem Land*. The preposition stays in front of the question word in German.",
+      "pattern": "Aus + welchem + Nomen (Dat. n.) + Verb + Subjekt?",
+      "mistake": {"wrong": "Welches Land kommen Sie aus?", "why": "German does not put the preposition at the end like English. It stands before the question phrase, which is in the Dativ: *Aus welchem Land …?*"},
+      "examples": [
+        {"de": "Aus welcher Stadt kommst du?", "en": "Which city are you from?"},
+        {"de": "Aus welchem Grund hat er abgesagt?", "en": "For what reason did he cancel?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er ist heute {{c1::bei::Ort: Arbeitsplatz}} der Arbeit.",
+      "en": "He's at work today.",
+      "focus": "Ort · Arbeitsplatz",
+      "explanation": "*bei der Arbeit* means *at work* (busy with or at one's job). **bei** takes the Dativ: *die Arbeit* → *der Arbeit*. You also hear *auf der Arbeit* in everyday speech.",
+      "pattern": "sein + bei + der Arbeit",
+      "mistake": {"wrong": "Er ist heute bei die Arbeit.", "why": "*die* is Nominativ/Akkusativ. *bei* takes the Dativ, so the feminine article is *der*."},
+      "examples": [
+        {"de": "Meine Frau ist noch bei der Arbeit.", "en": "My wife is still at work."},
+        {"de": "Bist du morgen auch bei der Arbeit?", "en": "Are you at work tomorrow too?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich komme gerade {{c1::aus::Herkunft: Gebäude}} der Bibliothek.",
+      "en": "I've just come from the library.",
+      "focus": "Herkunft · aus einem Raum",
+      "explanation": "**aus** = out of an enclosed space (building, room). It always takes the Dativ: *die Bibliothek* → *aus der Bibliothek*. Compare: from a person → *von*.",
+      "pattern": "aus + der + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Ich komme gerade aus die Bibliothek.", "why": "*aus* is never followed by the Akkusativ. Feminine Dativ is *der*."},
+      "examples": [
+        {"de": "Sie kommt gerade aus der Dusche.", "en": "She's just getting out of the shower."},
+        {"de": "Er nimmt das Handy aus der Tasche.", "en": "He takes the phone out of his bag."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir fahren {{c1::mit::Verkehrsmittel}} dem Fahrrad zur Arbeit.",
+      "en": "We cycle to work.",
+      "focus": "Verkehrsmittel · Neutrum",
+      "explanation": "The means of transport takes **mit** + Dativ: *das Fahrrad* → *mit dem Fahrrad*. A more direct alternative is the verb *Rad fahren*: *Wir fahren Rad.*",
+      "pattern": "mit + dem + Verkehrsmittel (Dat. n.)",
+      "mistake": {"wrong": "Wir fahren mit das Fahrrad zur Arbeit.", "why": "*das* is Nominativ/Akkusativ. After *mit* the neuter article is the Dativ *dem*."},
+      "examples": [
+        {"de": "Sie fährt mit dem Schiff nach Norwegen.", "en": "She's going to Norway by ship."},
+        {"de": "Ich komme mit der U-Bahn.", "en": "I'm coming by underground."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Nach::Zeit: später als}} dem Kurs trinken wir noch einen Kaffee.",
+      "en": "After the class we'll have a coffee.",
+      "focus": "Zeit · später als ein Ereignis (m.)",
+      "explanation": "*nach* + Dativ = *after*: *der Kurs* → *nach dem Kurs*. The same preposition also means *to* for cities and countries without an article (*nach Berlin*); the context shows which meaning it has.",
+      "pattern": "Nach + dem + Nomen (Dat. m.) + Verb …",
+      "mistake": {"wrong": "Nach den Kurs trinken wir noch einen Kaffee.", "why": "*den Kurs* is Akkusativ. *nach* always takes the Dativ: *nach dem Kurs*."},
+      "examples": [
+        {"de": "Nach dem Urlaub fange ich einen neuen Job an.", "en": "After the holiday I'm starting a new job."},
+        {"de": "Nach dem Frühstück lese ich die Zeitung.", "en": "After breakfast I read the newspaper."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Sie übernachtet {{c1::bei::Ort: Person}} ihren Großeltern.",
+      "en": "She's staying overnight at her grandparents'.",
+      "focus": "Ort · bei Personen im Plural",
+      "explanation": "**bei** + person = at their home. *Großeltern* is plural → Dativ *ihren Großeltern*. The plural already ends in *-n*, so the noun does not change.",
+      "pattern": "bei + Dat. Pl. (Personen)",
+      "mistake": {"wrong": "Sie übernachtet zu ihren Großeltern.", "why": "*zu* shows a direction (*Sie fährt zu ihren Großeltern.*). For the place where she stays, use *bei*."},
+      "examples": [
+        {"de": "Die Kinder sind am Wochenende bei ihren Cousins.", "en": "The children are at their cousins' at the weekend."},
+        {"de": "Wir essen heute bei meinen Schwiegereltern.", "en": "We're eating at my parents-in-law's today."}
+      ],
+      "words": [{"de": "übernachten", "en": "to stay the night"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Das Geschenk ist {{c1::von::Absender}} meiner Tante.",
+      "en": "The present is from my aunt.",
+      "focus": "Absender · Person (f.)",
+      "explanation": "*von* + Dativ names the giver or sender. *Tante* is feminine → possessive Dativ *meiner*. In the passive and in book titles *von* also names the author: *ein Roman von Kafka*.",
+      "pattern": "von + meiner + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Das Geschenk ist von meine Tante.", "why": "*meine* is Nominativ/Akkusativ. After *von* the feminine possessive needs *-er*: *meiner Tante*."},
+      "examples": [
+        {"de": "Die Karte ist von unseren Nachbarn.", "en": "The card is from our neighbours."},
+        {"de": "Ich habe eine Nachricht von deinem Bruder.", "en": "I have a message from your brother."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "{{c1::Seit::Zeit: Dauer bis jetzt}} zwei Wochen habe ich Urlaub.",
+      "en": "I've been on holiday for two weeks.",
+      "focus": "Zeit · Dauer bis jetzt · Präsens",
+      "explanation": "The holiday started two weeks ago and is still going on → **seit** + Präsens (*habe*). *seit* takes the Dativ, and *Wochen* already ends in *-n*. The time phrase is in the Vorfeld, so *habe* follows directly.",
+      "pattern": "Seit + Dat. + Präsens",
+      "mistake": {"wrong": "Vor zwei Wochen habe ich Urlaub.", "why": "*vor zwei Wochen* means *two weeks ago* and needs a past tense (*Vor zwei Wochen hatte ich Urlaub.*). For a situation that continues until now, use *seit*."},
+      "examples": [
+        {"de": "Seit einer Woche regnet es.", "en": "It has been raining for a week."},
+        {"de": "Seit dem Unfall fährt er kein Auto mehr.", "en": "Since the accident he hasn't driven a car."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir gehen morgen {{c1::zum::zu + Artikel}} Arzt.",
+      "en": "We're going to the doctor tomorrow.",
+      "focus": "Ziel · Person (m.) · Kurzform",
+      "explanation": "*zu dem* is contracted to **zum** whenever *dem* is not stressed, which is the normal case. *der Arzt* is masculine → *zum Arzt*. For a woman doctor: *zur Ärztin*.",
+      "pattern": "zum (= zu dem) + Nomen (m./n.)",
+      "mistake": {"wrong": "Wir gehen morgen zur Arzt.", "why": "*zur* = *zu der* is for feminine nouns (*zur Ärztin*). *Arzt* is masculine → *zu dem* = *zum*."},
+      "examples": [
+        {"de": "Kommst du mit zum Bahnhof?", "en": "Are you coming to the station with me?"},
+        {"de": "Die Kinder gehen zum Spielplatz.", "en": "The children are going to the playground."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Gegenüber::Lage: andere Seite}} dem Bahnhof gibt es ein Café.",
+      "en": "Opposite the station there's a café.",
+      "focus": "Lage · im Vorfeld",
+      "explanation": "The preposition for *opposite* takes the Dativ (*dem Bahnhof*). It can stand before or after the noun: *gegenüber dem Bahnhof* or *dem Bahnhof gegenüber*. Here the place phrase is in the Vorfeld, so *gibt* follows.",
+      "pattern": "Gegenüber + Dat. + gibt es + Akk.",
+      "mistake": {"wrong": "Gegenüber den Bahnhof gibt es ein Café.", "why": "*den Bahnhof* is Akkusativ. This preposition takes the Dativ: *dem Bahnhof*."},
+      "examples": [
+        {"de": "Gegenüber dem Kino gibt es einen Parkplatz.", "en": "There's a car park opposite the cinema."},
+        {"de": "Dem Hotel gegenüber liegt ein Park.", "en": "Opposite the hotel there is a park."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich arbeite {{c1::seit::Zeitpunkt in der Vergangenheit}} 2023 in dieser Firma.",
+      "en": "I've worked for this company since 2023.",
+      "focus": "Zeit · Startpunkt, dauert noch an",
+      "explanation": "**seit** works with a duration (*seit zwei Jahren* = for) and with a starting point (*seit 2023* = since). In both cases the action continues, so German uses the Präsens. A year alone has no article and no visible case.",
+      "pattern": "Präsens + seit + Zeitpunkt",
+      "mistake": {"wrong": "Ich arbeite von 2023 in dieser Firma.", "why": "*von* for time needs an end point (*von 2023 bis 2025*). For a start in the past that continues until now, use *seit*: *seit 2023*."},
+      "examples": [
+        {"de": "Sie ist seit Montag krank.", "en": "She has been ill since Monday."},
+        {"de": "Wir wohnen seit dem Sommer in Graz.", "en": "We've lived in Graz since the summer."}
+      ],
+      "words": [{"de": "die Firma (Firmen)", "en": "company"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Fahren Sie {{c1::zur::zu + Artikel}} nächsten Kreuzung.",
+      "en": "Drive to the next junction.",
+      "focus": "Ziel · mit Adjektiv (f.)",
+      "explanation": "*zu der* → **zur** with the feminine noun *Kreuzung*. After *zur* (*der* = Dativ) the adjective takes the weak ending *-en*: *zur nächsten Kreuzung*.",
+      "pattern": "zur + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Fahren Sie zur nächste Kreuzung.", "why": "*zur* contains the Dativ article *der*, and after it the adjective needs *-en*: *nächsten*."},
+      "examples": [
+        {"de": "Gehen Sie bis zur zweiten Ampel.", "en": "Walk as far as the second set of traffic lights."},
+        {"de": "Bring das bitte zur neuen Adresse.", "en": "Please take that to the new address."}
+      ],
+      "words": [{"de": "die Kreuzung (-en)", "en": "junction, crossroads"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Außer::Ausnahme}} mir war niemand da.",
+      "en": "Apart from me nobody was there.",
+      "focus": "Ausnahme · mit Pronomen",
+      "explanation": "The preposition for *except, apart from* takes the Dativ: *ich* → *mir*. It is often used with *niemand, alle, nichts*.",
+      "pattern": "Außer + Dat. + …",
+      "mistake": {"wrong": "Außer mich war niemand da.", "why": "*mich* is Akkusativ. This preposition takes the Dativ: *außer mir*."},
+      "examples": [
+        {"de": "Außer meinem Bruder kennt ihn keiner.", "en": "Nobody knows him except my brother."},
+        {"de": "Alle waren pünktlich außer dir.", "en": "Everyone was on time except you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Sie kommt {{c1::aus::Herkunft: Land}} der Schweiz.",
+      "en": "She comes from Switzerland.",
+      "focus": "Herkunft · Land mit Artikel",
+      "explanation": "Some country names have an article: *die Schweiz, die Türkei, der Iran, die USA*. After the preposition the article shows the Dativ: *die Schweiz* → *aus der Schweiz*.",
+      "pattern": "aus + der/dem/den + Land mit Artikel",
+      "mistake": {"wrong": "Sie kommt aus Schweiz.", "why": "*Schweiz* always needs its article: *die Schweiz*. After *aus* it is Dativ: *aus der Schweiz*."},
+      "examples": [
+        {"de": "Mein Nachbar kommt aus der Türkei.", "en": "My neighbour is from Turkey."},
+        {"de": "Die Studentin kommt aus den USA.", "en": "The student is from the USA."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "{{c1::Beim::bei + Artikel}} Kochen höre ich Podcasts.",
+      "en": "While cooking I listen to podcasts.",
+      "focus": "Gleichzeitigkeit · nominalisierter Infinitiv",
+      "explanation": "An infinitive used as a noun is neuter and written with a capital letter: *das Kochen*. *bei dem Kochen* is contracted to **Beim** and means *while doing*. The verb *höre* follows in position 2.",
+      "pattern": "Beim + Infinitiv als Nomen + Verb …",
+      "mistake": {"wrong": "Bei Kochen höre ich Podcasts.", "why": "The nominalised infinitive needs the article: *bei dem Kochen*, which is contracted to *beim Kochen*."},
+      "examples": [
+        {"de": "Beim Joggen höre ich Musik.", "en": "I listen to music while jogging."},
+        {"de": "Beim Lesen schläft er oft ein.", "en": "He often falls asleep while reading."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir treffen uns {{c1::nach::Zeit: später als}} der Arbeit.",
+      "en": "We're meeting after work.",
+      "focus": "Zeit · später als ein Ereignis (f.)",
+      "explanation": "*nach* (after) takes the Dativ, and *Arbeit* is feminine → *der Arbeit*. This *der* is Dativ, not Genitiv: the feminine Dativ and Genitiv articles look the same.",
+      "pattern": "nach + der + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Wir treffen uns nach die Arbeit.", "why": "*die Arbeit* is Nominativ/Akkusativ. After *nach* the feminine article is the Dativ *der*."},
+      "examples": [
+        {"de": "Nach der Schule macht sie ihre Hausaufgaben.", "en": "After school she does her homework."},
+        {"de": "Er ruft dich nach der Besprechung an.", "en": "He'll call you after the meeting."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Am Wochenende fahre ich {{c1::zu::Ziel: Person}} meiner Oma.",
+      "en": "At the weekend I'm going to my grandma's.",
+      "focus": "Ziel · Person",
+      "explanation": "When the goal is a person, *to* is **zu** + Dativ, never *nach*. *Oma* is feminine → *zu meiner Oma*. Once you are there, it is *bei*: *Ich bin bei meiner Oma.*",
+      "pattern": "fahren/gehen + zu + Dat. (Person)",
+      "mistake": {"wrong": "Am Wochenende fahre ich nach meiner Oma.", "why": "*nach* as a direction is only for cities, countries without an article and *nach Hause*. To a person, use *zu*."},
+      "examples": [
+        {"de": "Kommst du heute Abend zu uns?", "en": "Are you coming to our place this evening?"},
+        {"de": "Ich gehe kurz zu meinem Nachbarn.", "en": "I'm just popping over to my neighbour's."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Seit {{c1::einer::ein}} Woche ist sie krank.",
+      "en": "She has been ill for a week.",
+      "focus": "Zeit · Dauer · Artikel nach *seit*",
+      "explanation": "*seit* takes the Dativ. *Woche* is feminine → indefinite Dativ **einer**. The illness started a week ago and continues, so German uses the Präsens *ist*.",
+      "pattern": "Seit + einer + Nomen (Dat. f.) + Präsens",
+      "mistake": {"wrong": "Seit eine Woche ist sie krank.", "why": "*eine* is Nominativ/Akkusativ. After *seit* the feminine article must be Dativ: *einer Woche*."},
+      "examples": [
+        {"de": "Seit einer Stunde suche ich meinen Schlüssel.", "en": "I've been looking for my key for an hour."},
+        {"de": "Seit einem Monat arbeitet er im Homeoffice.", "en": "He has been working from home for a month."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich habe eine Karte von den {{c1::Kindern::die Kinder}} bekommen.",
+      "en": "I got a card from the children.",
+      "focus": "Nomen im Dativ Plural nach *von*",
+      "explanation": "*von* takes the Dativ, so the plural article is *den* and the noun adds the Dativ-plural *-n*: *die Kinder* → *den* **Kindern**.",
+      "pattern": "von + den + Nomen-**n** (Dat. Pl.)",
+      "mistake": {"wrong": "Ich habe eine Karte von den Kinder bekommen.", "why": "The article *den* is right, but the noun also needs the Dativ-plural *-n*: *Kindern*."},
+      "examples": [
+        {"de": "Die Blumen sind von meinen Schülern.", "en": "The flowers are from my pupils."},
+        {"de": "Wir haben Post von unseren Freunden aus Kanada.", "en": "We've got post from our friends in Canada."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Mein Bruder arbeitet {{c1::bei::Arbeitgeber}} einer Versicherung.",
+      "en": "My brother works for an insurance company.",
+      "focus": "Arbeitgeber",
+      "explanation": "The company you work for takes **bei** + Dativ: *arbeiten bei Siemens, bei der Post*. *Versicherung* is feminine → *bei einer Versicherung*. English uses *for* or *at*; *für eine Firma arbeiten* is also heard, but *bei* is the standard choice for your employer.",
+      "pattern": "arbeiten + bei + Dat. (Firma)",
+      "mistake": {"wrong": "Mein Bruder arbeitet bei eine Versicherung.", "why": "*eine* is Nominativ/Akkusativ. *bei* takes the Dativ, so the feminine indefinite article is *einer*."},
+      "examples": [
+        {"de": "Sie arbeitet bei einer großen Bank.", "en": "She works at a big bank."},
+        {"de": "Ich mache ein Praktikum bei einem Verlag.", "en": "I'm doing an internship at a publishing house."}
+      ],
+      "words": [{"de": "die Versicherung (-en)", "en": "insurance (company)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Am Sonntag sind wir immer {{c1::zu::Ort: daheim}} Hause.",
+      "en": "On Sundays we're always at home.",
+      "focus": "Ort · die eigene Wohnung (wo?)",
+      "explanation": "*zu Hause* is the fixed phrase for *at home* (position, *wo?*). It goes with *sein, bleiben, arbeiten*. With a movement verb you need *nach Hause*.",
+      "pattern": "sein/bleiben + zu Hause (wo?)",
+      "mistake": {"wrong": "Am Sonntag sind wir immer nach Hause.", "why": "*nach Hause* is a direction and needs a movement verb (*Wir gehen nach Hause.*). *sein* describes a position: *zu Hause*."},
+      "examples": [
+        {"de": "Heute arbeite ich zu Hause.", "en": "Today I'm working from home."},
+        {"de": "Bleib lieber zu Hause!", "en": "You'd better stay at home!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Tisch ist {{c1::aus::Material}} Holz.",
+      "en": "The table is made of wood.",
+      "focus": "Material",
+      "explanation": "**aus** + Dativ also names the material something is made of. Materials usually have no article: *aus Holz, aus Glas, aus Metall*.",
+      "pattern": "sein + aus + Material",
+      "mistake": {"wrong": "Der Tisch ist aus das Holz.", "why": "*aus* never takes the Akkusativ (*das*), and a material after *aus* normally has no article: *aus Holz*. (*von Holz* for the material is old-fashioned; use *aus*.)"},
+      "examples": [
+        {"de": "Die Tasche ist aus Leder.", "en": "The bag is made of leather."},
+        {"de": "Die Flaschen sind aus Glas.", "en": "The bottles are made of glass."}
+      ],
+      "words": [{"de": "das Holz", "en": "wood"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Gehen Sie an der Ampel {{c1::nach::Richtung}} links.",
+      "en": "Turn left at the traffic lights.",
+      "focus": "Richtung · links/rechts",
+      "explanation": "Directions without a noun take **nach**: *nach links, nach rechts, nach oben, nach unten, nach vorne*. *an der Ampel* is a separate place phrase (Wechselpräposition, *wo?* → Dativ).",
+      "pattern": "nach + links/rechts/oben/unten",
+      "mistake": {"wrong": "Gehen Sie an der Ampel zu links.", "why": "*zu* is for a goal (person, building). For a direction like *left* or *right*, German uses *nach*."},
+      "examples": [
+        {"de": "Biegen Sie an der Kreuzung nach rechts ab.", "en": "Turn right at the junction."},
+        {"de": "Der Aufzug fährt nach oben.", "en": "The lift is going up."}
+      ],
+      "words": [{"de": "die Ampel (-n)", "en": "traffic lights"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich gehe jeden Tag {{c1::zu::Art der Bewegung}} Fuß zur Arbeit.",
+      "en": "I walk to work every day.",
+      "focus": "feste Wendung · ohne Verkehrsmittel",
+      "explanation": "*zu Fuß gehen* means *to walk, to go on foot*. It is a fixed phrase without an article. All other means of transport take *mit*: *mit dem Bus, mit dem Rad*.",
+      "pattern": "zu Fuß gehen",
+      "mistake": {"wrong": "Ich gehe jeden Tag mit dem Fuß zur Arbeit.", "why": "Feet are not a means of transport with *mit*. German uses the fixed phrase *zu Fuß*."},
+      "examples": [
+        {"de": "Zum Bahnhof sind es zu Fuß zehn Minuten.", "en": "It's ten minutes to the station on foot."},
+        {"de": "Gehen wir zu Fuß oder nehmen wir den Bus?", "en": "Shall we walk or take the bus?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Mit {{c1::dem::das}} Taxi dauert es nur zehn Minuten.",
+      "en": "By taxi it only takes ten minutes.",
+      "focus": "Verkehrsmittel · Artikel nach *mit*",
+      "explanation": "*mit* takes the Dativ, and *Taxi* is neuter → **dem** (neuter Dativ = masculine Dativ). The phrase stands in the Vorfeld, so the verb *dauert* follows.",
+      "pattern": "Mit + dem + Nomen (Dat. n.) + Verb …",
+      "mistake": {"wrong": "Mit das Taxi dauert es nur zehn Minuten.", "why": "*das* is Nominativ/Akkusativ. After *mit* the neuter article is *dem*."},
+      "examples": [
+        {"de": "Mit dem Flugzeug ist man in zwei Stunden in Rom.", "en": "By plane you're in Rome in two hours."},
+        {"de": "Mit dem Schiff dauert die Reise drei Tage.", "en": "By ship the journey takes three days."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Außer {{c1::meinem::mein}} Bruder kommen alle zur Party.",
+      "en": "Everyone is coming to the party except my brother.",
+      "focus": "Ausnahme · Possessivartikel",
+      "explanation": "The preposition for *except* takes the Dativ. *Bruder* is masculine → *mein* + -em → **meinem**. The verb *kommen* agrees with the subject *alle* (plural).",
+      "pattern": "Außer + meinem + Nomen (Dat. m.) + Verb + Subjekt",
+      "mistake": {"wrong": "Außer meinen Bruder kommen alle zur Party.", "why": "*meinen Bruder* is Akkusativ. After this preposition the masculine possessive needs the Dativ *-em*: *meinem Bruder*."},
+      "examples": [
+        {"de": "Außer der Chefin wusste es niemand.", "en": "Nobody knew it except the boss."},
+        {"de": "Außer einem Apfel habe ich heute nichts gegessen.", "en": "I haven't eaten anything today except an apple."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Bei {{c1::schlechtem::schlecht}} Wetter fahre ich mit dem Bus.",
+      "en": "When the weather is bad, I take the bus.",
+      "focus": "Bedingung · Adjektiv ohne Artikel",
+      "explanation": "*bei* + Dativ can describe a condition (*when there is …*). *Wetter* is neuter and has no article here, so the adjective carries the Dativ signal: schlecht + **-em** → *schlechtem*.",
+      "pattern": "bei + Adj-**em** + Nomen (Dat. n., ohne Artikel)",
+      "mistake": {"wrong": "Bei schlechten Wetter fahre ich mit dem Bus.", "why": "Without an article the adjective must show the Dativ itself: neuter Dativ *-em* → *schlechtem Wetter*. *-en* is only correct after an article that already shows the Dativ (*bei dem schlechten Wetter, bei diesem schlechten Wetter*)."},
+      "examples": [
+        {"de": "Bei gutem Wetter essen wir draußen.", "en": "When the weather is good, we eat outside."},
+        {"de": "Bei starkem Regen bleibt die Brücke gesperrt.", "en": "In heavy rain the bridge stays closed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Er kann nicht ans Telefon, er ist gerade {{c1::beim::bei + Artikel}} Arzt.",
+      "en": "He can't come to the phone, he's at the doctor's right now.",
+      "focus": "Ort · Praxis einer Person (wo?)",
+      "explanation": "At a person's place, including a doctor's practice, German uses **bei** + Dativ: *bei dem Arzt* → *beim Arzt*. Compare the direction: *Er geht zum Arzt.*",
+      "pattern": "sein + beim (= bei dem) + Person (m.)",
+      "mistake": {"wrong": "Er kann nicht ans Telefon, er ist gerade zum Arzt.", "why": "*zum Arzt* is a direction and needs a movement verb. With *sein* (position) the phrase is *beim Arzt*."},
+      "examples": [
+        {"de": "Ich war gestern beim Friseur.", "en": "I was at the hairdresser's yesterday."},
+        {"de": "Sie ist heute beim Zahnarzt.", "en": "She's at the dentist's today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "List the prepositions that always take the Dativ.",
+      "prompt": "Which common prepositions always take the Dativ?",
+      "answer": "**aus, bei, mit, nach, seit, von, zu**, and also **gegenüber, außer, ab**.",
+      "explanation": "These prepositions take the Dativ in every meaning: place, direction and time. They are different from the Wechselpräpositionen (*in, an, auf …*), which change between Akkusativ and Dativ. A common memory aid is to sing *aus – bei – mit – nach – seit – von – zu*.",
+      "examples": [
+        {"de": "Seit dem Umzug fahre ich mit dem Rad zur Uni.", "en": "Since the move I've been cycling to university."},
+        {"de": "Nach dem Kurs gehe ich zu meiner Freundin.", "en": "After the class I'm going to my girlfriend's."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain how to say *to* a place.",
+      "prompt": "When do you use *nach*, *zu* and *in* for English *to*?",
+      "answer": "**nach**: cities, countries without an article, *nach Hause*, directions (*nach links*). **zu** (+ Dat.): people, buildings, shops, events (*zu Anna, zum Bahnhof, zur Party*). **in** (+ Akk.): countries with an article and going inside a place (*in die Schweiz, ins Kino*).",
+      "explanation": "*nach* and *zu* are Dativ prepositions, but *nach* before a city or country shows no article. *in* is a Wechselpräposition and takes the Akkusativ for a direction. ✗ *nach die Türkei* → ✓ *in die Türkei*.",
+      "examples": [
+        {"de": "Wir fliegen nach Spanien und dann in die USA.", "en": "We're flying to Spain and then to the USA."},
+        {"de": "Ich muss noch zur Bank.", "en": "I still have to go to the bank."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the two phrases.",
+      "prompt": "What is the difference between *zu Hause* and *nach Hause*?",
+      "answer": "**zu Hause** = at home (position, *wo?*): *Ich bin zu Hause.* **nach Hause** = home as a direction (*wohin?*): *Ich gehe nach Hause.*",
+      "explanation": "The pattern is the same as *bei* (position) vs *zu* (direction) for people: *Ich bin beim Arzt / Ich gehe zum Arzt.* The *-e* in *Hause* is an old Dativ ending that only survives in these two phrases.",
+      "examples": [
+        {"de": "Bist du heute Abend zu Hause?", "en": "Are you at home this evening?"},
+        {"de": "Ich laufe nach Hause.", "en": "I'm walking home."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference between the two time prepositions.",
+      "prompt": "What is the difference between *seit zwei Jahren* and *vor zwei Jahren*?",
+      "answer": "**seit** + Dativ: started in the past and **still true now** → Präsens (*Ich wohne seit zwei Jahren hier.*). **vor** + Dativ: a point in the past, **finished** (= ago) → past tense (*Ich bin vor zwei Jahren hierhergezogen.*).",
+      "explanation": "Both take the Dativ, so the plural noun has *-n* in both: *seit/vor zwei Jahren*. English uses *for* + present perfect for *seit*, and *ago* for *vor*.",
+      "examples": [
+        {"de": "Er arbeitet seit drei Wochen bei uns.", "en": "He has been working with us for three weeks."},
+        {"de": "Er hat vor drei Wochen bei uns angefangen.", "en": "He started with us three weeks ago."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the short forms.",
+      "prompt": "Which contractions are formed with Dativ prepositions, and when are they not used?",
+      "answer": "**zum** (zu dem), **zur** (zu der), **beim** (bei dem), **vom** (von dem). They are not used when the article is stressed or means *that one*, or when a relative clause follows (*zu dem Arzt, den du mir empfohlen hast*).",
+      "explanation": "In normal speech and writing the contraction is the default: *zum Arzt, zur Arbeit, beim Bäcker, vom Bahnhof*. *mit, aus, nach, seit* have no standard contractions.",
+      "examples": [
+        {"de": "Ich hole dich vom Bahnhof ab.", "en": "I'll pick you up from the station."},
+        {"de": "Gehst du zu dem Arzt, den Lisa empfohlen hat?", "en": "Are you going to the doctor that Lisa recommended?"}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Ich fahre am Wochenende ___ meinem Bruder.",
+      "options": ["zu", "nach", "bei"],
+      "correct": "zu",
+      "answer": "Ich fahre am Wochenende zu meinem Bruder.",
+      "explanation": "*fahren* is a movement to a person → *zu*. *nach* is only for cities, countries and *nach Hause*. *bei* describes a position (*Ich bin bei meinem Bruder.*) and does not fit a movement verb."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct noun form.",
+      "prompt": "Er wohnt seit drei ___ in Wien.",
+      "options": ["Monate", "Monaten", "Monat"],
+      "correct": "Monaten",
+      "answer": "Er wohnt seit drei Monaten in Wien.",
+      "explanation": "*seit* takes the Dativ, and in the Dativ plural the noun adds *-n*: *Monate → Monaten*. *Monate* has no Dativ ending, and *Monat* is singular, which does not fit *drei*."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Ich bringe das Paket ___ Post.",
+      "options": ["zur", "zum", "nach"],
+      "correct": "zur",
+      "answer": "Ich bringe das Paket zur Post.",
+      "explanation": "*die Post* is feminine → *zu der* = *zur*. *zum* (= *zu dem*) is only for masculine and neuter nouns. *nach* cannot be used with a building."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich fahre mit den Zug nach Hamburg.",
+      "answer": "Ich fahre mit dem Zug nach Hamburg.",
+      "explanation": "*mit* always takes the Dativ. *der Zug* is masculine → Dativ *dem*. *den* is the Akkusativ, which is never possible after *mit*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nach der Arbeit gehe ich zu Hause.",
+      "answer": "Nach der Arbeit gehe ich nach Hause.",
+      "explanation": "*gehen* is a movement, so you need the direction *nach Hause*. *zu Hause* means *at home* and goes with *sein* or *bleiben*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich wohne seit zwei Jahre in Köln.",
+      "answer": "Ich wohne seit zwei Jahren in Köln.",
+      "explanation": "*seit* takes the Dativ. The plural *Jahre* must add the Dativ-plural *-n*: *seit zwei Jahren*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Im Sommer fahren wir nach die Türkei.",
+      "answer": "Im Sommer fahren wir in die Türkei.",
+      "explanation": "*die Türkei* is a country with an article. For such countries *to* is *in* + Akkusativ, not *nach*. *nach* only works for countries without an article (*nach Italien*)."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "The person has arrived. Rewrite the sentence with *sein* to say where she is now.",
+      "prompt": "Sie geht zum Friseur.",
+      "answer": "Sie ist beim Friseur.",
+      "explanation": "The direction *zu* (*zum Friseur*) becomes the position *bei* (*beim Friseur*). Both are Dativ prepositions; only the meaning changes from *wohin?* to *wo?*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with *wohnen* and *seit*. The person still lives there.",
+      "prompt": "Ich bin vor zwei Jahren nach Zürich gezogen.",
+      "answer": "Ich wohne seit zwei Jahren in Zürich.",
+      "explanation": "*vor* + past tense names a finished event (the move). *seit* + Präsens shows that the situation continues. *nach Zürich* (direction) becomes *in Zürich* (position, Dativ)."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "fahre / ich / mit dem Fahrrad / jeden Tag / zur Uni",
+      "answer": "Ich fahre jeden Tag mit dem Fahrrad zur Uni.",
+      "explanation": "The verb *fahre* is in position 2. In the Mittelfeld the usual order is time – manner – place: *jeden Tag* (time), *mit dem Fahrrad* (manner), *zur Uni* (place). *Jeden Tag fahre ich mit dem Fahrrad zur Uni* is also correct."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence with *nach* + a nominalised verb. Start with: Nach dem",
+      "prompt": "Ich dusche. Danach frühstücke ich.",
+      "answer": "Nach dem Duschen frühstücke ich.",
+      "explanation": "*duschen* becomes the neuter noun *das Duschen* (capital letter). *nach* takes the Dativ → *nach dem Duschen*. The phrase is in the Vorfeld, so the verb *frühstücke* comes before the subject *ich*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence with *beim* + a nominalised verb. Start with: Beim",
+      "prompt": "Ich fahre Auto. Dabei telefoniere ich nie.",
+      "answer": "Beim Autofahren telefoniere ich nie.",
+      "explanation": "*Auto fahren* becomes one neuter noun: *das Autofahren*. *bei dem* → *beim* expresses that two things happen at the same time. The verb *telefoniere* stays in position 2."
+    }
+  ]
+}

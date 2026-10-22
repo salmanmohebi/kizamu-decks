@@ -1,0 +1,1094 @@
+{
+  "topic_id": "a1-14-perfekt-sein",
+  "level": "A1",
+  "title_de": "Perfekt mit sein",
+  "title_en": "The Perfekt with sein",
+  "rule": {
+    "summary": "A smaller group of verbs forms the Perfekt with **sein** instead of *haben*. These are verbs **without an Akkusativ object** that express a **movement from A to B** (*gehen, fahren, fliegen*) or a **change of state** (*aufwachen, einschlafen, sterben, werden*), plus the exceptions **sein, bleiben** and **passieren**. The word order is the same as with *haben*: *sein* in position 2, the Partizip II at the end.",
+    "table": "| Gruppe | Infinitiv | Perfekt |\n|---|---|---|\n| Bewegung (A → B) | gehen, fahren, fliegen, kommen | **ist** gegangen, gefahren, geflogen, gekommen |\n| Bewegung (regelmäßig) | reisen, wandern | **ist** gereist, gewandert |\n| Zustandsänderung | aufwachen, einschlafen, sterben, wachsen | **ist** aufgewacht, eingeschlafen, gestorben, gewachsen |\n| Ausnahmen | sein, bleiben, werden, passieren | **ist** gewesen, geblieben, geworden, passiert |\n| *sein* konjugiert | | ich **bin**, du **bist**, er **ist**, wir **sind**, ihr **seid**, sie/Sie **sind** |",
+    "steps": [
+      "Does the verb have an Akkusativ object or a reflexive pronoun? Then use *haben* (*Ich habe das Auto gefahren.*).",
+      "No object: does the subject move from one place to another? → **sein** (*Ich bin nach Hause gegangen.*).",
+      "No object: does the subject change its state (begin, end, become something)? → **sein** (*Sie ist eingeschlafen.*). A state that continues (*schlafen, wohnen, stehen* in standard German) → *haben*.",
+      "Learn the exceptions with *sein*: *sein → gewesen, bleiben → geblieben, werden → geworden, passieren → passiert*.",
+      "Conjugate *sein* for the subject, put it in position 2 and the Partizip II at the end. The participle is built as usual (*ge-*, separable *an-ge-kommen*, *-ieren* without *ge-*)."
+    ],
+    "pitfalls": [
+      "Using *haben* with a verb of movement: ✗ *Ich habe nach Hause gegangen.* → ✓ *Ich bin nach Hause gegangen.*",
+      "Using *haben* with *bleiben* and *sein*: ✗ *Wir haben zu Hause geblieben.* → ✓ *Wir sind zu Hause geblieben.* Nothing moves, but these verbs always take *sein*.",
+      "Using *sein* when *fahren* has an object: ✗ *Er ist das Auto gefahren.* → ✓ *Er hat das Auto gefahren.* With an Akkusativ object *fahren* takes *haben*.",
+      "Mixing up *schlafen* and *einschlafen*: ✗ *Ich bin gut geschlafen.* → ✓ *Ich habe gut geschlafen.* / ✓ *Ich bin schnell eingeschlafen.*",
+      "Using the passive form *worden*: ✗ *Sie ist Ärztin worden.* → ✓ *Sie ist Ärztin geworden.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich bin nach Hause {{c1::gegangen::gehen}}.",
+      "en": "I went home.",
+      "focus": "Perfekt mit sein · Bewegung zu einem Ziel",
+      "explanation": "*nach Hause* is a destination: the subject moves from A to B and there is no object → *sein* (*bin*). *gehen* is strong with an irregular participle: **gegangen**.",
+      "pattern": "bin + Ziel + **ge**gang**en**",
+      "mistake": {
+        "wrong": "Ich habe nach Hause gegangen.",
+        "why": "*gehen* is a verb of movement without an object, so the auxiliary is *sein*: *Ich bin … gegangen.*"
+      },
+      "examples": [
+        {"de": "Ich bin zum Arzt gegangen.", "en": "I went to the doctor."},
+        {"de": "Er ist früh ins Bett gegangen.", "en": "He went to bed early."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wir sind nach Berlin {{c1::gefahren::fahren}}.",
+      "en": "We went to Berlin.",
+      "focus": "Perfekt mit sein · Bewegung mit Verkehrsmittel",
+      "explanation": "*fahren* without an object describes travel from A to B → *sein* (*sind*). It is strong, but unlike the present (*du fährst*) the participle has no umlaut: **gefahren**.",
+      "pattern": "sind + Ziel + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir haben nach Berlin gefahren.",
+        "why": "*fahren* has no Akkusativ object here; it expresses movement to a place. So the Perfekt needs *sein*: *Wir sind … gefahren.*"
+      },
+      "examples": [
+        {"de": "Wir sind nach Hamburg gefahren.", "en": "We went to Hamburg."},
+        {"de": "Sie ist in die Stadt gefahren.", "en": "She went into town."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er ist um sieben Uhr {{c1::aufgestanden::aufstehen}}.",
+      "en": "He got up at seven.",
+      "focus": "Perfekt mit sein · trennbares Verb, Zustandsänderung",
+      "explanation": "Getting up is a change of position and state (lying → standing) → *sein*. *aufstehen* is separable and built on *stehen* (*gestanden*): auf + ge + standen → **aufgestanden**.",
+      "pattern": "ist + Zeit + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Er ist um sieben Uhr geaufstanden.",
+        "why": "With a separable verb *ge-* goes between the prefix and the stem: *aufgestanden*."
+      },
+      "examples": [
+        {"de": "Ich bin um sechs Uhr aufgestanden.", "en": "I got up at six."},
+        {"de": "Sie ist sofort aufgestanden.", "en": "She got up at once."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie ist nach Paris {{c1::geflogen::fliegen}}.",
+      "en": "She flew to Paris.",
+      "focus": "Perfekt mit sein · Bewegung, starkes Verb",
+      "explanation": "Flying to a place is movement from A to B → *sein* (*ist*). *fliegen* is strong and changes *ie → o*: ge + flog + en → **geflogen**.",
+      "pattern": "ist + Ziel + **ge**-Stamm (ie → o)-**en**",
+      "mistake": {
+        "wrong": "Sie ist nach Paris gefliegen.",
+        "why": "The stem of *fliegen* changes in the participle: *fliegen – flog – geflogen*."
+      },
+      "examples": [
+        {"de": "Er ist nach Madrid geflogen.", "en": "He flew to Madrid."},
+        {"de": "Wir sind nach New York geflogen.", "en": "We flew to New York."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Bist du gestern zu Hause {{c1::geblieben::bleiben}}?",
+      "en": "Did you stay home yesterday?",
+      "focus": "Perfekt mit sein · Ausnahme ohne Bewegung",
+      "explanation": "*bleiben* means the opposite of movement, but it is a fixed exception: it always takes *sein*. It is strong (*ei → ie*): **geblieben**. In the yes/no question *bist* is in position 1.",
+      "pattern": "Bist du + … + **ge**-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Hast du gestern zu Hause geblieben?",
+        "why": "*bleiben* never takes *haben* in the Perfekt. The correct auxiliary is *sein*: *Bist du … geblieben?*"
+      },
+      "examples": [
+        {"de": "Bist du lange im Büro geblieben?", "en": "Did you stay long at the office?"},
+        {"de": "Ist er im Bett geblieben?", "en": "Did he stay in bed?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich bin letzte Woche krank {{c1::gewesen::sein}}.",
+      "en": "I was ill last week.",
+      "focus": "Perfekt von sein",
+      "explanation": "The verb *sein* forms its own Perfekt with *sein*: *ich bin … **gewesen***. The participle is irregular. In everyday speech the Präteritum *ich war krank* is more common, but the Perfekt is also correct.",
+      "pattern": "bin + Zeit + Adjektiv + **gewesen**",
+      "mistake": {
+        "wrong": "Ich habe letzte Woche krank gewesen.",
+        "why": "The Perfekt of *sein* always uses *sein* as auxiliary: *Ich bin krank gewesen.*"
+      },
+      "examples": [
+        {"de": "Wir sind sehr müde gewesen.", "en": "We were very tired."},
+        {"de": "Er ist noch nie in Spanien gewesen.", "en": "He has never been to Spain."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das Kind ist schnell {{c1::eingeschlafen::einschlafen}}.",
+      "en": "The child fell asleep quickly.",
+      "focus": "Perfekt mit sein · Beginn eines Zustands",
+      "explanation": "*einschlafen* = to start sleeping, a change of state (awake → asleep) → *sein*. It is separable and built on strong *schlafen*: ein + ge + schlafen → **eingeschlafen**.",
+      "pattern": "ist + Adverb + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Das Kind hat schnell eingeschlafen.",
+        "why": "*schlafen* (a state) takes *haben*, but *einschlafen* (a change into a state) takes *sein*: *ist eingeschlafen*."
+      },
+      "examples": [
+        {"de": "Ich bin vor dem Fernseher eingeschlafen.", "en": "I fell asleep in front of the TV."},
+        {"de": "Er ist im Zug eingeschlafen.", "en": "He fell asleep on the train."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir sind im See {{c1::geschwommen::schwimmen}}.",
+      "en": "We swam in the lake.",
+      "focus": "Perfekt mit sein · Bewegungsart",
+      "explanation": "*schwimmen* is a verb of movement and normally takes *sein*, even without a destination. It is strong (*i → o*): **geschwommen**. (For the pure activity, *hat geschwommen* is also heard.)",
+      "pattern": "sind + Ort + **ge**-Stamm (i → o)-**en**",
+      "mistake": {
+        "wrong": "Wir sind im See geschwimmt.",
+        "why": "*schwimmen* is a strong verb. Its participle changes the vowel and ends in *-en*: *geschwommen*."
+      },
+      "examples": [
+        {"de": "Sie ist im Fluss geschwommen.", "en": "She swam in the river."},
+        {"de": "Ich bin heute im Hallenbad geschwommen.", "en": "I swam at the indoor pool today."}
+      ],
+      "words": [{"de": "der See", "en": "lake"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er ist Lehrer {{c1::geworden::werden}}.",
+      "en": "He became a teacher.",
+      "focus": "Perfekt mit sein · werden",
+      "explanation": "*werden* describes a change of state (he was not a teacher, now he is) → always *sein*. The participle is **geworden**. As with *sein*, the job has no article: *Lehrer*.",
+      "pattern": "ist + Nomen + **geworden**",
+      "mistake": {
+        "wrong": "Er hat Lehrer geworden.",
+        "why": "*werden* is a change of state and always uses *sein* in the Perfekt: *Er ist Lehrer geworden.*"
+      },
+      "examples": [
+        {"de": "Mein Bruder ist Koch geworden.", "en": "My brother became a cook."},
+        {"de": "Sie ist Mutter geworden.", "en": "She has become a mother."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie ist nach Italien {{c1::gereist::reisen}}.",
+      "en": "She travelled to Italy.",
+      "focus": "Perfekt mit sein · regelmäßiges Bewegungsverb",
+      "explanation": "*reisen* is a verb of movement → *sein*. It is regular, so the participle is ge + reis + t → **gereist**. Not every *sein*-verb is strong.",
+      "pattern": "ist + Ziel + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie hat nach Italien gereist.",
+        "why": "*reisen* expresses travel to a place without an object, so it takes *sein*: *Sie ist … gereist.*"
+      },
+      "examples": [
+        {"de": "Wir sind durch Europa gereist.", "en": "We travelled around Europe."},
+        {"de": "Er ist nach Kanada gereist.", "en": "He travelled to Canada."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich bin zu spät {{c1::gekommen::kommen}}.",
+      "en": "I was late.",
+      "focus": "Perfekt mit sein · kommen",
+      "explanation": "*kommen* is movement towards a place → *sein* (*bin*). It is strong, and the participle keeps the vowel: **gekommen**. *zu spät kommen* = to be late.",
+      "pattern": "bin + zu spät + **ge**komm**en**",
+      "mistake": {
+        "wrong": "Ich bin zu spät gekommt.",
+        "why": "*kommen* is a strong verb, so the participle ends in *-en*: *gekommen*."
+      },
+      "examples": [
+        {"de": "Der Zug ist pünktlich gekommen.", "en": "The train came on time."},
+        {"de": "Bist du mit dem Auto gekommen?", "en": "Did you come by car?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir sind fünf Kilometer {{c1::gelaufen::laufen}}.",
+      "en": "We ran five kilometres.",
+      "focus": "Perfekt mit sein · Strecke",
+      "explanation": "*fünf Kilometer* is a distance (Akkusativ of measure), not an Akkusativ object. So *laufen* still takes *sein*. The participle is **gelaufen**, without the umlaut of *er läuft*.",
+      "pattern": "sind + Strecke + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir haben fünf Kilometer gelaufen.",
+        "why": "A distance is not an object. *laufen* is a verb of movement and takes *sein*: *Wir sind … gelaufen.*"
+      },
+      "examples": [
+        {"de": "Sie ist zehn Kilometer gelaufen.", "en": "She ran ten kilometres."},
+        {"de": "Wir sind 20 Kilometer gewandert.", "en": "We hiked 20 kilometres."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir sind nach London {{c1::geflogen::fliegen}}.",
+      "en": "We flew to London.",
+      "focus": "Perfekt mit sein · Bewegung zu einem Ziel",
+      "explanation": "*nach London* names the destination → movement → *sein* (*sind* for *wir*). *fliegen – flog – geflogen*: **geflogen**.",
+      "pattern": "sind + nach + Ort + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir sind nach London geflogt.",
+        "why": "*fliegen* is strong: the participle has *o* and the ending *-en*: *geflogen*."
+      },
+      "examples": [
+        {"de": "Ihr seid nach Lissabon geflogen.", "en": "You (pl.) flew to Lisbon."},
+        {"de": "Meine Eltern sind nach Rom geflogen.", "en": "My parents flew to Rome."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie ist um neun Uhr {{c1::aufgewacht::aufwachen}}.",
+      "en": "She woke up at nine.",
+      "focus": "Perfekt mit sein · Zustandsänderung, regelmäßig",
+      "explanation": "Waking up is a change of state (asleep → awake) → *sein*. *aufwachen* is separable and regular: auf + ge + wacht → **aufgewacht**.",
+      "pattern": "ist + Zeit + Präfix-**ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie hat um neun Uhr aufgewacht.",
+        "why": "*aufwachen* is a change of state without an object, so it takes *sein*: *Sie ist aufgewacht.*"
+      },
+      "examples": [
+        {"de": "Ich bin mitten in der Nacht aufgewacht.", "en": "I woke up in the middle of the night."},
+        {"de": "Das Baby ist früh aufgewacht.", "en": "The baby woke up early."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich bin gestern in Hamburg {{c1::angekommen::ankommen}}.",
+      "en": "I arrived in Hamburg yesterday.",
+      "focus": "Perfekt mit sein · trennbares Bewegungsverb",
+      "explanation": "Arriving is the end of a movement → *sein*. *ankommen* is separable, and *kommen* is strong: an + ge + kommen → **angekommen**. Note *in Hamburg* (Dativ, *wo?*): with *ankommen* German uses the place of arrival, not *nach*.",
+      "pattern": "bin + Zeit + in + Ort + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Ich bin gestern in Hamburg geankommen.",
+        "why": "*ge-* must stand between the prefix *an* and the stem: *angekommen*."
+      },
+      "examples": [
+        {"de": "Wir sind spät in Zürich angekommen.", "en": "We arrived in Zurich late."},
+        {"de": "Sie ist gestern in Wien angekommen.", "en": "She arrived in Vienna yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er ist eine Stunde lang {{c1::gelaufen::laufen}}.",
+      "en": "He ran for an hour.",
+      "focus": "Perfekt mit sein · Dauer",
+      "explanation": "*laufen* is a verb of movement and keeps *sein* even with a duration and no destination. Strong participle without umlaut: **gelaufen**.",
+      "pattern": "ist + Dauer + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Er ist eine Stunde lang gelauft.",
+        "why": "*laufen* is strong: *laufen – lief – gelaufen*. A regular ending *-t* is wrong."
+      },
+      "examples": [
+        {"de": "Sie ist den ganzen Tag gewandert.", "en": "She hiked all day."},
+        {"de": "Er ist zwei Stunden geschwommen.", "en": "He swam for two hours."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie ist mit dem Fahrrad zum Bahnhof {{c1::gefahren::fahren}}.",
+      "en": "She cycled to the station.",
+      "focus": "Perfekt mit sein · Verkehrsmittel + Ziel",
+      "explanation": "*mit dem Fahrrad* is the means of transport (Dativ), not an Akkusativ object. The subject moves to *zum Bahnhof* → *sein*: *ist* … **gefahren**.",
+      "pattern": "ist + mit + Verkehrsmittel + Ziel + **ge**fahr**en**",
+      "mistake": {
+        "wrong": "Sie hat mit dem Fahrrad zum Bahnhof gefahren.",
+        "why": "*fahren* takes *haben* only with an Akkusativ object (*Sie hat das Auto gefahren*). Here it is movement to a place → *ist gefahren*."
+      },
+      "examples": [
+        {"de": "Er ist mit dem Bus zur Arbeit gefahren.", "en": "He went to work by bus."},
+        {"de": "Wir sind mit dem Zug nach Bern gefahren.", "en": "We went to Bern by train."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir sind den ganzen Tag zu Hause {{c1::geblieben::bleiben}}.",
+      "en": "We stayed home all day.",
+      "focus": "Perfekt mit sein · Ausnahme",
+      "explanation": "*bleiben* is an exception: no movement, but always *sein*. The participle is strong: **geblieben**. *den ganzen Tag* is an Akkusativ of time, not an object.",
+      "pattern": "sind + Zeit + Ort + **ge**blieb**en**",
+      "mistake": {
+        "wrong": "Wir sind den ganzen Tag zu Hause gebleibt.",
+        "why": "*bleiben* is strong and changes *ei → ie*: *geblieben*."
+      },
+      "examples": [
+        {"de": "Er ist eine Woche in Berlin geblieben.", "en": "He stayed in Berlin for a week."},
+        {"de": "Sie sind bis Mitternacht geblieben.", "en": "They stayed until midnight."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Bist du gut {{c1::angekommen::ankommen}}?",
+      "en": "Did you arrive safely?",
+      "focus": "Perfekt mit sein · Ja/Nein-Frage",
+      "explanation": "*ankommen* (end of a journey) takes *sein*; in the question *bist* moves to position 1. Separable + strong: **angekommen**. *Bist du gut angekommen?* is the usual question after a trip.",
+      "pattern": "Bist du + Adverb + Präfix-**ge**-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Hast du gut angekommen?",
+        "why": "*ankommen* is a verb of movement without an object, so the auxiliary is *sein*: *Bist du … angekommen?*"
+      },
+      "examples": [
+        {"de": "Seid ihr gut angekommen?", "en": "Did you (pl.) arrive safely?"},
+        {"de": "Ist der Brief schon angekommen?", "en": "Has the letter arrived yet?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Mein Großvater ist letztes Jahr {{c1::gestorben::sterben}}.",
+      "en": "My grandfather died last year.",
+      "focus": "Perfekt mit sein · Zustandsänderung",
+      "explanation": "*sterben* is the change from alive to dead → *sein*. It is strong and changes *e → o*: **gestorben**.",
+      "pattern": "ist + Zeit + **ge**-Stamm (e → o)-**en**",
+      "mistake": {
+        "wrong": "Mein Großvater hat letztes Jahr gestorben.",
+        "why": "*sterben* is a change of state and always takes *sein*: *ist gestorben*."
+      },
+      "examples": [
+        {"de": "Ihr Hund ist letzte Woche gestorben.", "en": "Her dog died last week."},
+        {"de": "Der Schauspieler ist gestern gestorben.", "en": "The actor died yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich bin nach Wien {{c1::geflogen::fliegen}}.",
+      "en": "I flew to Vienna.",
+      "focus": "Perfekt mit sein · Bewegung von A nach B",
+      "explanation": "Movement from A to B (*nach Wien*) without an object → *sein*. The participle of *fliegen* is **geflogen** (*ie → o*, ending *-en*).",
+      "pattern": "bin + nach + Ort + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Ich habe nach Wien geflogen.",
+        "why": "Flying to a destination is movement, so the auxiliary is *sein*: *Ich bin … geflogen.*"
+      },
+      "examples": [
+        {"de": "Ich bin nach Athen geflogen.", "en": "I flew to Athens."},
+        {"de": "Sie ist nach Tokio geflogen.", "en": "She flew to Tokyo."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir sind zu Fuß {{c1::gegangen::gehen}}.",
+      "en": "We walked.",
+      "focus": "Perfekt mit sein · unregelmäßiges Partizip",
+      "explanation": "*gehen* takes *sein* (movement). Its participle is very irregular: the stem changes to *gang-*: **gegangen**. *zu Fuß* = on foot.",
+      "pattern": "sind + Art + **ge**gang**en**",
+      "mistake": {
+        "wrong": "Wir sind zu Fuß gegeht.",
+        "why": "*gehen* has an irregular participle: *gehen – ging – gegangen*."
+      },
+      "examples": [
+        {"de": "Ich bin zu Fuß zur Schule gegangen.", "en": "I walked to school."},
+        {"de": "Sie sind langsam gegangen.", "en": "They walked slowly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Sie ist um sechs {{c1::aufgewacht::aufwachen}}.",
+      "en": "She woke up at six.",
+      "focus": "Perfekt mit sein · Zustandsänderung",
+      "explanation": "Change of state (asleep → awake) → *sein*. *wachen* is regular, so the separable verb gives auf + ge + wach + t → **aufgewacht**.",
+      "pattern": "ist + Zeit + Präfix-**ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie ist um sechs aufgewachen.",
+        "why": "*aufwachen* is regular, so the participle ends in *-t*: *aufgewacht*."
+      },
+      "examples": [
+        {"de": "Er ist um fünf aufgewacht.", "en": "He woke up at five."},
+        {"de": "Wir sind zu spät aufgewacht.", "en": "We woke up too late."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Der Bus ist zu spät {{c1::angekommen::ankommen}}.",
+      "en": "The bus arrived too late.",
+      "focus": "Perfekt mit sein · trennbares Verb",
+      "explanation": "*ankommen* is movement → *sein*. Separable verbs put *ge-* between the prefix and the stem: an + ge + kommen → **angekommen**.",
+      "pattern": "ist + … + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Der Bus ist zu spät angekommt.",
+        "why": "*kommen* is strong, so *ankommen* also has the ending *-en*: *angekommen*."
+      },
+      "examples": [
+        {"de": "Das Paket ist heute angekommen.", "en": "The parcel arrived today."},
+        {"de": "Der Flug ist pünktlich angekommen.", "en": "The flight arrived on time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Bist du schon einmal in Japan {{c1::gewesen::sein}}?",
+      "en": "Have you ever been to Japan?",
+      "focus": "Perfekt von sein · Erfahrung",
+      "explanation": "*sein* forms its own Perfekt with *sein*: **bist … gewesen**. *schon einmal* asks about a life experience (English *ever*). Note *in Japan* (where you were), not *nach Japan*.",
+      "pattern": "Bist du + schon einmal + in + Ort + **gewesen**?",
+      "mistake": {
+        "wrong": "Hast du schon einmal in Japan gewesen?",
+        "why": "The Perfekt of *sein* never uses *haben*: *Bist du … gewesen?*"
+      },
+      "examples": [
+        {"de": "Bist du schon einmal in Island gewesen?", "en": "Have you ever been to Iceland?"},
+        {"de": "Ich bin noch nie in Asien gewesen.", "en": "I have never been to Asia."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Er ist letztes Jahr nach Berlin {{c1::umgezogen::umziehen}}.",
+      "en": "He moved to Berlin last year.",
+      "focus": "Perfekt mit sein · Ortswechsel",
+      "explanation": "*umziehen* (to move house) is a change of place → *sein*. It is separable and strong: um + ge + zogen → **umgezogen**. Careful: *sich umziehen* (to change clothes) is reflexive and takes *haben*.",
+      "pattern": "ist + Zeit + Ziel + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Er hat letztes Jahr nach Berlin umgezogen.",
+        "why": "Moving to a new home is a change of place without an object, so it takes *sein*: *Er ist umgezogen.*"
+      },
+      "examples": [
+        {"de": "Wir sind nach München umgezogen.", "en": "We moved to Munich."},
+        {"de": "Sie ist in eine kleinere Wohnung umgezogen.", "en": "She moved into a smaller flat."}
+      ],
+      "words": [{"de": "umziehen", "en": "to move (house)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Ich bin drei Kilometer {{c1::gelaufen::laufen}}.",
+      "en": "I ran three kilometres.",
+      "focus": "Perfekt mit sein · Strecke als Maßangabe",
+      "explanation": "*drei Kilometer* looks like an Akkusativ object, but it is only a measure of distance. *laufen* stays a verb of movement → *sein* + **gelaufen**.",
+      "pattern": "bin + Strecke + **ge**lauf**en**",
+      "mistake": {
+        "wrong": "Ich habe drei Kilometer gelaufen.",
+        "why": "A distance is not a real object (you cannot ask *Wen oder was?*). The auxiliary stays *sein*."
+      },
+      "examples": [
+        {"de": "Er ist einen Marathon gelaufen.", "en": "He ran a marathon."},
+        {"de": "Ich bin heute sieben Kilometer gelaufen.", "en": "I ran seven kilometres today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Was ist hier {{c1::passiert::passieren}}?",
+      "en": "What happened here?",
+      "focus": "Perfekt mit sein · Verb auf -ieren",
+      "explanation": "*passieren* (to happen) takes *sein*, like *geschehen*. As an *-ieren* verb it has no *ge-*: **passiert**.",
+      "pattern": "Was + ist + … + Stamm-**iert**?",
+      "mistake": {
+        "wrong": "Was hat hier passiert?",
+        "why": "*passieren* is one of the exceptions with *sein*: *Was ist passiert?*"
+      },
+      "examples": [
+        {"de": "Was ist gestern passiert?", "en": "What happened yesterday?"},
+        {"de": "Zum Glück ist nichts passiert.", "en": "Luckily nothing happened."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Wir sind spät {{c1::eingeschlafen::einschlafen}}.",
+      "en": "We fell asleep late.",
+      "focus": "Perfekt mit sein · trennbares starkes Verb",
+      "explanation": "*einschlafen* = the change into sleep → *sein*. The participle follows strong *schlafen*: ein + ge + schlafen → **eingeschlafen**.",
+      "pattern": "sind + Adverb + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir sind spät eingeschlaft.",
+        "why": "*schlafen* is strong, so *einschlafen* ends in *-en*: *eingeschlafen*."
+      },
+      "examples": [
+        {"de": "Die Kinder sind sofort eingeschlafen.", "en": "The children fell asleep at once."},
+        {"de": "Ich bin auf dem Sofa eingeschlafen.", "en": "I fell asleep on the sofa."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Sie sind mit dem Zug {{c1::gefahren::fahren}}.",
+      "en": "They travelled by train.",
+      "focus": "Perfekt mit sein · Verkehrsmittel",
+      "explanation": "*mit dem Zug* names the means of transport; there is no Akkusativ object → *fahren* takes *sein*. *sind* agrees with *sie* (they): **gefahren**.",
+      "pattern": "sind + mit + Verkehrsmittel + **ge**fahr**en**",
+      "mistake": {
+        "wrong": "Sie haben mit dem Zug gefahren.",
+        "why": "*fahren* without an object is movement → *sein*: *Sie sind mit dem Zug gefahren.*"
+      },
+      "examples": [
+        {"de": "Wir sind mit dem Schiff gefahren.", "en": "We went by boat."},
+        {"de": "Ich bin mit der U-Bahn gefahren.", "en": "I went by underground."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Meine Großmutter ist 2019 {{c1::gestorben::sterben}}.",
+      "en": "My grandmother died in 2019.",
+      "focus": "Perfekt mit sein · Jahreszahl",
+      "explanation": "*sterben* always takes *sein*. Strong participle with *e → o*: **gestorben**. A year stands alone in German (*2019*) or with *im Jahr* (*im Jahr 2019*), never with *in* alone.",
+      "pattern": "ist + Jahr + **ge**storb**en**",
+      "mistake": {
+        "wrong": "Meine Großmutter ist 2019 gesterben.",
+        "why": "The vowel of *sterben* changes to *o* in the participle: *gestorben*."
+      },
+      "examples": [
+        {"de": "Mein Onkel ist 2015 gestorben.", "en": "My uncle died in 2015."},
+        {"de": "Die Sängerin ist 2021 gestorben.", "en": "The singer died in 2021."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich bin im Meer {{c1::geschwommen::schwimmen}}.",
+      "en": "I swam in the sea.",
+      "focus": "Perfekt mit sein · starkes Verb i → o",
+      "explanation": "*schwimmen* is a verb of movement → *sein* in standard German. Strong participle with *i → o*: **geschwommen**.",
+      "pattern": "bin + Ort + **ge**schwomm**en**",
+      "mistake": {
+        "wrong": "Ich bin im Meer geschwommt.",
+        "why": "*schwimmen* is strong; the participle ends in *-en*: *geschwommen*."
+      },
+      "examples": [
+        {"de": "Wir sind über den See geschwommen.", "en": "We swam across the lake."},
+        {"de": "Sie ist im Pool geschwommen.", "en": "She swam in the pool."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Der Preis ist stark {{c1::gestiegen::steigen}}.",
+      "en": "The price rose sharply.",
+      "focus": "Perfekt mit sein · Veränderung",
+      "explanation": "*steigen* (to rise) describes a change → *sein*. Strong verb with *ei → ie*: **gestiegen**. *fallen* and *wachsen* work the same way.",
+      "pattern": "ist + Adverb + **ge**-Stamm (ei → ie)-**en**",
+      "mistake": {
+        "wrong": "Der Preis hat stark gestiegen.",
+        "why": "*steigen* has no object and describes a change, so it takes *sein*: *ist gestiegen*."
+      },
+      "examples": [
+        {"de": "Die Miete ist wieder gestiegen.", "en": "The rent has gone up again."},
+        {"de": "Die Temperatur ist stark gefallen.", "en": "The temperature dropped sharply."}
+      ],
+      "words": [{"de": "steigen", "en": "to rise"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wann bist du {{c1::abgefahren::abfahren}}?",
+      "en": "When did you leave?",
+      "focus": "Perfekt mit sein · trennbares Bewegungsverb",
+      "explanation": "*abfahren* (to leave, depart) is the start of a movement → *sein*. Separable + strong: ab + ge + fahren → **abgefahren**.",
+      "pattern": "Wann + bist + du + Präfix-**ge**-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Wann hast du abgefahren?",
+        "why": "*abfahren* expresses movement without an object, so it takes *sein*: *Wann bist du abgefahren?*"
+      },
+      "examples": [
+        {"de": "Wann ist der Zug abgefahren?", "en": "When did the train leave?"},
+        {"de": "Wann seid ihr losgefahren?", "en": "When did you (pl.) set off?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Sie ist Ärztin {{c1::geworden::werden}}.",
+      "en": "She became a doctor.",
+      "focus": "Perfekt mit sein · werden als Vollverb",
+      "explanation": "*werden* (to become) always takes *sein*. As a full verb its participle is **geworden**. The short form *worden* is only used in the passive (*Das Haus ist gebaut worden*).",
+      "pattern": "ist + Nomen + **geworden**",
+      "mistake": {
+        "wrong": "Sie ist Ärztin worden.",
+        "why": "*worden* is the passive participle. When *werden* means *to become*, the participle is *geworden*."
+      },
+      "examples": [
+        {"de": "Er ist Ingenieur geworden.", "en": "He became an engineer."},
+        {"de": "Mein Freund ist Pilot geworden.", "en": "My friend became a pilot."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Wir sind lange {{c1::geblieben::bleiben}}.",
+      "en": "We stayed a long time.",
+      "focus": "Perfekt mit sein · Ausnahme ohne Bewegung",
+      "explanation": "*bleiben* takes *sein* even though nothing moves — learn it with *sein* and *werden*. The participle is strong: **geblieben**.",
+      "pattern": "sind + Dauer + **ge**blieb**en**",
+      "mistake": {
+        "wrong": "Wir haben lange geblieben.",
+        "why": "*bleiben* is an exception and always takes *sein*: *Wir sind lange geblieben.*"
+      },
+      "examples": [
+        {"de": "Sie ist nur kurz geblieben.", "en": "She only stayed for a short time."},
+        {"de": "Ich bin zwei Tage geblieben.", "en": "I stayed for two days."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Seid::sein}} ihr gestern ins Kino {{c2::gegangen::gehen}}?",
+      "en": "Did you go to the cinema yesterday?",
+      "focus": "Perfekt mit sein · Hilfsverb für ihr + Partizip II",
+      "explanation": "c1: *gehen* takes *sein*, and the form for *ihr* is **Seid** (in position 1 of a yes/no question). c2: the irregular participle **gegangen** goes to the end.",
+      "pattern": "Seid + ihr + … + **ge**gang**en**?",
+      "mistake": {
+        "wrong": "Habt ihr gestern ins Kino gegangen?",
+        "why": "*ins Kino gehen* is movement to a place, so the auxiliary is *sein*: *Seid ihr … gegangen?*"
+      },
+      "examples": [
+        {"de": "Seid ihr schon nach Hause gegangen?", "en": "Have you (pl.) gone home already?"},
+        {"de": "Seid ihr mit dem Taxi gekommen?", "en": "Did you (pl.) come by taxi?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Mein Vater {{c1::hat::haben oder sein}} mich zum Bahnhof gefahren.",
+      "en": "My father drove me to the station.",
+      "focus": "Hilfsverbwahl · fahren mit Akkusativobjekt",
+      "explanation": "Here *fahren* has an Akkusativ object (*mich*): the father drives someone. With an object the Perfekt takes **haben**: *hat … gefahren*. Without an object it would be *Er ist zum Bahnhof gefahren.*",
+      "pattern": "hat + Akk.-Objekt + Ziel + **ge**fahr**en**",
+      "mistake": {
+        "wrong": "Mein Vater ist mich zum Bahnhof gefahren.",
+        "why": "*sein* is impossible with an Akkusativ object. *jemanden fahren* (to drive someone) takes *haben*."
+      },
+      "examples": [
+        {"de": "Sie hat das Auto in die Garage gefahren.", "en": "She drove the car into the garage."},
+        {"de": "Wer hat den Bus gefahren?", "en": "Who drove the bus?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Kind ist vom Fahrrad {{c1::gefallen::fallen}}.",
+      "en": "The child fell off the bike.",
+      "focus": "Perfekt mit sein · Bewegung nach unten",
+      "explanation": "Falling is a movement (from the bike to the ground) → *sein*. *fallen* is strong and keeps its vowel: **gefallen**. The same form is the participle of *gefallen* (to please), but that verb takes *haben*: *Der Film hat mir gefallen.*",
+      "pattern": "ist + von + Dat. + **ge**fall**en**",
+      "mistake": {
+        "wrong": "Das Kind hat vom Fahrrad gefallen.",
+        "why": "*fallen* is a movement without an object → *sein*. *hat gefallen* belongs to the verb *gefallen* (to please)."
+      },
+      "examples": [
+        {"de": "Das Glas ist vom Tisch gefallen.", "en": "The glass fell off the table."},
+        {"de": "Der Apfel ist vom Baum gefallen.", "en": "The apple fell from the tree."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Am Wochenende sind wir in den Bergen {{c1::gewandert::wandern}}.",
+      "en": "At the weekend we went hiking in the mountains.",
+      "focus": "Perfekt mit sein · regelmäßiges Bewegungsverb",
+      "explanation": "*wandern* is a verb of movement → *sein*, even without a destination. It is regular: ge + wander + t → **gewandert**. The time phrase in position 1 puts *sind* before the subject *wir*.",
+      "pattern": "Zeit + sind + wir + Ort + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Am Wochenende haben wir in den Bergen gewandert.",
+        "why": "*wandern* is a verb of movement, so the Perfekt takes *sein*: *sind … gewandert*."
+      },
+      "examples": [
+        {"de": "Letzten Sommer sind wir durch die Alpen gewandert.", "en": "Last summer we hiked through the Alps."},
+        {"de": "Im Urlaub sind wir viel gewandert.", "en": "We did a lot of hiking on holiday."}
+      ],
+      "words": [{"de": "wandern", "en": "to hike"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie sind im Park spazieren {{c1::gegangen::gehen}}.",
+      "en": "They went for a walk in the park.",
+      "focus": "Perfekt mit sein · Verbindung spazieren gehen",
+      "explanation": "In *spazieren gehen* the verb *gehen* decides the auxiliary → *sein*. Only *gehen* becomes a participle (**gegangen**); *spazieren* stays an infinitive in front of it.",
+      "pattern": "sind + Ort + spazieren + **ge**gang**en**",
+      "mistake": {
+        "wrong": "Sie haben im Park spazieren gegangen.",
+        "why": "The auxiliary depends on *gehen*, a verb of movement → *sein*: *Sie sind spazieren gegangen.*"
+      },
+      "examples": [
+        {"de": "Wir sind gestern einkaufen gegangen.", "en": "We went shopping yesterday."},
+        {"de": "Er ist am Abend schwimmen gegangen.", "en": "He went swimming in the evening."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "In Frankfurt sind wir {{c1::umgestiegen::umsteigen}}.",
+      "en": "We changed trains in Frankfurt.",
+      "focus": "Perfekt mit sein · trennbares Verb, Reise",
+      "explanation": "*umsteigen* (to change trains/buses) is a movement from one vehicle to another → *sein*. It is separable and strong (*ei → ie*): um + ge + stiegen → **umgestiegen**.",
+      "pattern": "Ort + sind + wir + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "In Frankfurt sind wir umgesteigt.",
+        "why": "*steigen* is strong: *steigen – stieg – gestiegen*. So *umsteigen* gives *umgestiegen*."
+      },
+      "examples": [
+        {"de": "Am Marktplatz sind wir ausgestiegen.", "en": "We got off at the market square."},
+        {"de": "In Köln ist sie in den ICE eingestiegen.", "en": "In Cologne she got on the ICE."}
+      ],
+      "words": [{"de": "umsteigen", "en": "to change (trains, buses)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wann {{c1::sind::sein}} deine Eltern {{c2::zurückgekommen::zurückkommen}}?",
+      "en": "When did your parents come back?",
+      "focus": "Perfekt mit sein · Hilfsverb + trennbares Partizip",
+      "explanation": "c1: *zurückkommen* is movement → *sein*; the subject *deine Eltern* is plural → **sind**. c2: separable + strong: zurück + ge + kommen → **zurückgekommen**.",
+      "pattern": "W-Wort + sind + Subjekt (Pl.) + Präfix-**ge**-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Wann ist deine Eltern zurückgekommen?",
+        "why": "The auxiliary agrees with the plural subject *deine Eltern*: *sind*, not *ist*."
+      },
+      "examples": [
+        {"de": "Wann sind die Gäste gekommen?", "en": "When did the guests come?"},
+        {"de": "Wann ist dein Bruder zurückgekommen?", "en": "When did your brother come back?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Plötzlich ist es kalt {{c1::geworden::werden}}.",
+      "en": "Suddenly it got cold.",
+      "focus": "Perfekt mit sein · Wetter, Veränderung",
+      "explanation": "*werden* + adjective describes a change of state (warm → cold) → *sein*. With the impersonal subject *es* the auxiliary is *ist*: *ist … **geworden***.",
+      "pattern": "Zeitadverb + ist + es + Adjektiv + **geworden**",
+      "mistake": {
+        "wrong": "Plötzlich hat es kalt geworden.",
+        "why": "*werden* always takes *sein* in the Perfekt, also with *es*: *Es ist kalt geworden.*"
+      },
+      "examples": [
+        {"de": "Langsam ist es dunkel geworden.", "en": "Slowly it got dark."},
+        {"de": "Am Abend ist es windig geworden.", "en": "In the evening it got windy."}
+      ],
+      "words": [{"de": "plötzlich", "en": "suddenly"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Der Hund ist über die Straße {{c1::gerannt::rennen}}.",
+      "en": "The dog ran across the street.",
+      "focus": "Perfekt mit sein · gemischtes Verb",
+      "explanation": "*rennen* (to run fast) is movement → *sein*. It is a mixed verb: the stem changes *e → a*, but the ending is *-t*: ge + rann + t → **gerannt**.",
+      "pattern": "ist + über + Akk. + **ge**rann**t**",
+      "mistake": {
+        "wrong": "Der Hund ist über die Straße gerennt.",
+        "why": "*rennen* is a mixed verb with a stem change: *rennen – rannte – gerannt*."
+      },
+      "examples": [
+        {"de": "Die Kinder sind in den Garten gerannt.", "en": "The children ran into the garden."},
+        {"de": "Ich bin zum Bus gerannt.", "en": "I ran for the bus."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir sind letzten Monat in eine neue Wohnung {{c1::eingezogen::einziehen}}.",
+      "en": "We moved into a new flat last month.",
+      "focus": "Perfekt mit sein · Ortswechsel, trennbar",
+      "explanation": "*einziehen* (to move in) is a change of place → *sein*. It is separable and strong (*ziehen – zog – gezogen*): ein + ge + zogen → **eingezogen**. *in eine Wohnung* = direction → Akkusativ.",
+      "pattern": "sind + Zeit + in + Akk. + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir haben letzten Monat in eine neue Wohnung eingezogen.",
+        "why": "Moving into a home is a change of place without an object → *sein*: *Wir sind eingezogen.*"
+      },
+      "examples": [
+        {"de": "Die neuen Nachbarn sind gestern eingezogen.", "en": "The new neighbours moved in yesterday."},
+        {"de": "Sie ist im Mai ausgezogen.", "en": "She moved out in May."}
+      ],
+      "words": [{"de": "einziehen", "en": "to move in"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Bist::sein}} du schon einmal Ski {{c2::gefahren::fahren}}?",
+      "en": "Have you ever been skiing?",
+      "focus": "Perfekt mit sein · Ski fahren",
+      "explanation": "c1: *Ski fahren* is a movement activity; *Ski* is not an Akkusativ object here but part of a fixed phrase → *sein*: **Bist** (position 1 in a yes/no question). c2: **gefahren**, strong without umlaut.",
+      "pattern": "Bist du + schon einmal + Ski + **ge**fahr**en**?",
+      "mistake": {
+        "wrong": "Hast du schon einmal Ski gefahren?",
+        "why": "*Ski fahren* takes *sein* like *fahren* without an object: *Bist du Ski gefahren?*"
+      },
+      "examples": [
+        {"de": "Bist du schon einmal Snowboard gefahren?", "en": "Have you ever been snowboarding?"},
+        {"de": "Wir sind letzten Winter Ski gefahren.", "en": "We went skiing last winter."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Mein Sohn ist dieses Jahr zehn Zentimeter {{c1::gewachsen::wachsen}}.",
+      "en": "My son has grown ten centimetres this year.",
+      "focus": "Perfekt mit sein · Zustandsänderung",
+      "explanation": "*wachsen* (to grow) is a change of state → *sein*. It is strong; the participle drops the umlaut of *er wächst*: **gewachsen**. *zehn Zentimeter* is a measure, not an object.",
+      "pattern": "ist + Zeit + Maß + **ge**wachs**en**",
+      "mistake": {
+        "wrong": "Mein Sohn hat dieses Jahr zehn Zentimeter gewachsen.",
+        "why": "*wachsen* describes a change, has no real object and takes *sein*: *ist gewachsen*."
+      },
+      "examples": [
+        {"de": "Die Stadt ist schnell gewachsen.", "en": "The town has grown quickly."},
+        {"de": "Der Baum ist sehr hoch gewachsen.", "en": "The tree has grown very tall."}
+      ],
+      "words": [{"de": "wachsen", "en": "to grow"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the choice of auxiliary.",
+      "prompt": "Which verbs form the Perfekt with *sein*?",
+      "answer": "Verbs **without an Akkusativ object** that express **movement from A to B** (*gehen, fahren, fliegen, kommen*) or a **change of state** (*aufwachen, einschlafen, sterben, wachsen*), plus **sein, bleiben, werden, passieren**.",
+      "explanation": "Ask two questions: Is there an Akkusativ object? → *haben*. Does the subject move or change? → *sein*. Reflexive verbs always take *haben*, even if they describe movement (*sich beeilen*).",
+      "examples": [
+        {"de": "Er ist ins Büro gefahren.", "en": "He drove to the office."},
+        {"de": "Er hat sich beeilt.", "en": "He hurried."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the exceptions.",
+      "prompt": "Why do *bleiben* and *sein* take *sein* in the Perfekt, although nothing moves?",
+      "answer": "They are fixed exceptions to the rule: **ist geblieben**, **ist gewesen**. *werden* (**ist geworden**) and *passieren* (**ist passiert**) also always take *sein*.",
+      "explanation": "There is no movement or change, so you must learn these verbs by heart. In southern Germany, Austria and Switzerland, *stehen, sitzen, liegen* also take *sein* (*ich bin gesessen*); standard German in the north uses *haben*.",
+      "examples": [
+        {"de": "Ich bin im Urlaub in Italien gewesen.", "en": "I was in Italy on holiday."},
+        {"de": "Sie ist bei ihrer Freundin geblieben.", "en": "She stayed at her friend's place."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *fahren*.",
+      "prompt": "When does *fahren* take *haben* and when *sein*?",
+      "answer": "**sein** when the subject moves (*Ich bin nach Bern gefahren.*). **haben** when there is an Akkusativ object, i.e. you drive a vehicle or a person (*Ich habe das Auto gefahren. Ich habe dich gefahren.*).",
+      "explanation": "The same rule works for *fliegen* (*Der Pilot hat das Flugzeug geflogen*) and other movement verbs that can take an object. The object is the signal for *haben*.",
+      "examples": [
+        {"de": "Wir sind nach Graz gefahren.", "en": "We went to Graz."},
+        {"de": "Gestern habe ich das Auto von Anna gefahren.", "en": "Yesterday I drove Anna's car."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about state and change of state.",
+      "prompt": "Why is it *Ich habe geschlafen* but *Ich bin eingeschlafen*?",
+      "answer": "*schlafen* is a **state** that continues → *haben*. *einschlafen* is a **change** into a new state (awake → asleep) → *sein*. The same contrast: *wachen* vs *aufwachen*.",
+      "explanation": "The prefix often adds the idea of beginning or ending. Then the verb expresses a change and takes *sein*. Verbs for a continuing state (*schlafen, wohnen, arbeiten*) take *haben*.",
+      "examples": [
+        {"de": "Ich habe acht Stunden geschlafen.", "en": "I slept for eight hours."},
+        {"de": "Ich bin um elf Uhr eingeschlafen.", "en": "I fell asleep at eleven."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about verbs that look similar.",
+      "prompt": "*kommen* takes *sein*. Why does *bekommen* take *haben*?",
+      "answer": "*bekommen* (to get, receive) is not a verb of movement and has an **Akkusativ object** → **haben**: *Ich habe einen Brief bekommen.* *kommen* has no object and expresses movement → *Ich bin gekommen.*",
+      "explanation": "The auxiliary depends on the meaning and the object, not on the form of the verb. *bekommen* also has no *ge-*, because *be-* is inseparable.",
+      "examples": [
+        {"de": "Er ist um acht gekommen.", "en": "He came at eight."},
+        {"de": "Er hat eine Antwort bekommen.", "en": "He got an answer."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Wir ___ gestern lange spazieren gegangen.",
+      "options": ["haben", "sind", "seid"],
+      "correct": "sind",
+      "answer": "Wir sind gestern lange spazieren gegangen.",
+      "explanation": "*spazieren gehen* depends on *gehen*, a verb of movement → *sein*. For *wir* the form is *sind*; *seid* is for *ihr*, and *haben* is the wrong auxiliary."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Der Zug ___ pünktlich abgefahren.",
+      "options": ["hat", "ist", "sind"],
+      "correct": "ist",
+      "answer": "Der Zug ist pünktlich abgefahren.",
+      "explanation": "*abfahren* is the start of a movement and has no object → *sein*. *der Zug* is singular → *ist*. *sind* is plural, and *hat* is the wrong auxiliary."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Ich bin heute sehr früh ___.",
+      "options": ["aufgestanden", "aufgesteht", "geaufstanden"],
+      "correct": "aufgestanden",
+      "answer": "Ich bin heute sehr früh aufgestanden.",
+      "explanation": "*aufstehen* is separable, so *ge-* goes after *auf*, and *stehen* has the strong participle *gestanden*: *aufgestanden*. *aufgesteht* has a regular ending, and *geaufstanden* puts *ge-* in front of the prefix."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Meine Schwester hat in Hamburg geblieben.",
+      "answer": "Meine Schwester ist in Hamburg geblieben.",
+      "explanation": "*bleiben* is an exception and always takes *sein*: *ist geblieben*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Seid ihr gut nach Hause gekommt?",
+      "answer": "Seid ihr gut nach Hause gekommen?",
+      "explanation": "The auxiliary *seid* is correct, but *kommen* is strong: the participle is *gekommen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er ist seinen Sohn zur Schule gefahren.",
+      "answer": "Er hat seinen Sohn zur Schule gefahren.",
+      "explanation": "*seinen Sohn* is an Akkusativ object: he drives someone. With an object *fahren* takes *haben*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Ich fahre nach München.",
+      "answer": "Ich bin nach München gefahren.",
+      "explanation": "Movement to a destination without an object → *sein*. *bin* is in position 2, and the strong participle *gefahren* (no umlaut) goes to the end."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite the question in the Perfekt.",
+      "prompt": "Wann kommst du an?",
+      "answer": "Wann bist du angekommen?",
+      "explanation": "*ankommen* takes *sein*. The auxiliary *bist* replaces *kommst* in position 2, and the prefix *an* becomes part of the participle *angekommen* at the end."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Das Wetter wird schlecht.",
+      "answer": "Das Wetter ist schlecht geworden.",
+      "explanation": "*werden* is a change of state and always takes *sein*. The participle of the full verb is *geworden* (not *worden*)."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Gestern",
+      "prompt": "ist / sie / gestern / nach Rom / geflogen",
+      "answer": "Gestern ist sie nach Rom geflogen.",
+      "explanation": "*Gestern* is in position 1, the auxiliary *ist* in position 2, then the subject *sie*. The destination comes before the participle *geflogen* at the end. Without the fixed start: *Sie ist gestern nach Rom geflogen.*"
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "du / bist / wann / aufgestanden / heute",
+      "answer": "Wann bist du heute aufgestanden?",
+      "explanation": "The question word *wann* is in position 1 and the auxiliary *bist* in position 2. *heute* stands in the middle, and the participle *aufgestanden* is last."
+    }
+  ]
+}

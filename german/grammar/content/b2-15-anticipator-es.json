@@ -1,0 +1,812 @@
+{
+  "topic_id": "b2-15-anticipator-es",
+  "level": "B2",
+  "title_de": "Pronomen \"es\" als Platzhalter",
+  "title_en": "The pronoun es as placeholder and correlate",
+  "rule": {
+    "summary": "Besides 'it', the pronoun *es* has three grammatical jobs. As a **formal subject** it fills the subject slot of verbs that have no real actor (*es regnet, es gibt, es geht um*); this *es* always stays. As a **Korrelat** it points forward to a *dass*-clause, *ob*/w-clause or *zu*-infinitive that comes later (*Es ist wichtig, dass …*). As a **Vorfeld-Platzhalter** it only fills position 1 so that the real subject can come later as new information (*Es kamen viele Gäste.*). The Korrelat and the placeholder disappear when another element takes the Vorfeld.",
+    "table": "| Funktion | Beispiel | Anderes Element im Vorfeld |\n|---|---|---|\n| Formales Subjekt: Wetter, Zeit, Geräusche | **Es** regnet. **Es** ist spät. **Es** klingelt. | Heute regnet **es**. (bleibt) |\n| Feste Ausdrücke | **es** gibt, **es** geht um, **es** handelt sich um, **es** fehlt an, **es** heißt | Hier gibt **es** … (bleibt) |\n| Korrelat für Subjektsatz | **Es** ist wichtig, dass du kommst. | Dass du kommst, ist wichtig. (fällt weg) |\n| Korrelat für Objektsatz | Ich halte **es** für richtig, dass … | Dass …, halte ich für richtig. (fällt weg) |\n| Vorfeld-Platzhalter | **Es** kamen viele Gäste. | Zur Party kamen viele Gäste. (fällt weg) |\n| Unpersönliches Passiv | **Es** wird hier nicht geraucht. | Hier wird nicht geraucht. (fällt weg) |",
+    "steps": [
+      "Ask whether the verb has a real subject. Weather, time and noise verbs (*regnen, spät sein, klingeln*) and fixed expressions (*es gibt, es geht um, es handelt sich um, es fehlt an, es heißt*) have only the formal subject *es* → it stays in every position, also in Nebensätze and questions.",
+      "Is the real subject or object a clause (*dass, ob, w-*, *zu*-infinitive) at the end of the sentence? Then *es* in the main clause is a Korrelat that announces it.",
+      "Is the real subject a noun phrase placed after the verb (*Es kamen viele Gäste*)? Then *es* is only a Vorfeld placeholder, and the finite verb agrees with the real subject: *Es kam ein Gast / Es kamen viele Gäste*.",
+      "Put another element in the Vorfeld: the Korrelat for a Vorfeld clause and the placeholder disappear (*Zur Party kamen viele Gäste*); the formal subject moves behind the verb (*Heute gibt es …*).",
+      "In a Nebensatz or a yes/no question there is no Vorfeld, so a placeholder *es* is impossible there: *…, weil viele Gäste kamen*."
+    ],
+    "pitfalls": [
+      "Keeping *es* when the clause is in the Vorfeld: ✗ *Dass du kommst, freut es mich.* → ✓ *Dass du kommst, freut mich.*",
+      "Making the verb agree with *es* instead of the real subject: ✗ *Es kam viele Gäste.* → ✓ *Es kamen viele Gäste.* But *es gibt* is always singular: ✗ *Es geben viele Probleme.* → ✓ *Es gibt viele Probleme.*",
+      "Dropping the formal subject: ✗ *Heute gibt viele Angebote.* → ✓ *Heute gibt es viele Angebote.* ✗ *Uns fehlt an Zeit.* → ✓ *Uns fehlt es an Zeit.*",
+      "Using the placeholder in a Nebensatz or after another Vorfeld element: ✗ *…, weil es viele Leute kamen.* → ✓ *…, weil viele Leute kamen.* ✗ *Hier wird es nicht geraucht.* → ✓ *Hier wird nicht geraucht.*",
+      "Making the person the subject as in English: ✗ *Ich falle schwer, das zu glauben.* → ✓ *Es fällt mir schwer, das zu glauben.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Es}} ist wichtig, dass du pünktlich kommst.",
+      "en": "It's important that you come on time.",
+      "focus": "Korrelat · Subjektsatz mit *dass*",
+      "explanation": "The real subject of *ist wichtig* is the *dass*-clause (What is important? – that you come on time). German puts this long clause at the end and fills the Vorfeld with the Korrelat **Es**, which points forward to it. If the clause itself stands in the Vorfeld, *es* disappears: *Dass du pünktlich kommst, ist wichtig.*",
+      "pattern": "Es + sein + Adj., dass-Satz (Subjektsatz)",
+      "mistake": {
+        "wrong": "Dass du pünktlich kommst, ist es wichtig.",
+        "why": "In the Vorfeld the *dass*-clause is already the subject of *ist wichtig*. The Korrelat *es* would be a second subject, so it must be dropped."
+      },
+      "examples": [
+        {"de": "Es ist entscheidend, dass alle Teilnehmer ihren Ausweis mitbringen.", "en": "It is essential that all participants bring their ID."},
+        {"de": "Es ist notwendig, dass wir das Budget neu planen.", "en": "It is necessary for us to plan the budget again."}
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Es}} geht um deine Zukunft.",
+      "en": "It's about your future.",
+      "focus": "fester Ausdruck · *gehen um* + Akk.",
+      "explanation": "*es geht um* + Akkusativ means 'it is about / the issue is'. Here **Es** is a formal subject: it has no meaning of its own, but the expression cannot work without it. Unlike a Korrelat, it does not disappear when another element is in the Vorfeld; it moves behind the verb: *In diesem Gespräch geht es um deine Zukunft.*",
+      "pattern": "es geht um + Akk.",
+      "mistake": {
+        "wrong": "In diesem Gespräch geht um deine Zukunft.",
+        "why": "In *es geht um* the *es* is the obligatory formal subject. With *In diesem Gespräch* in the Vorfeld it stands after the verb: *geht es um*."
+      },
+      "examples": [
+        {"de": "Es geht um die Sicherheit der Patienten.", "en": "It is about the safety of the patients."},
+        {"de": "Bei der Wahl geht es um sehr viel.", "en": "A lot is at stake in the election."}
+      ],
+      "words": [{"de": "die Zukunft", "en": "future"}],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Es}} handelt sich um eine schwierige Frage.",
+      "en": "We are dealing with a difficult question.",
+      "focus": "fester Ausdruck · *sich handeln um*",
+      "explanation": "*es handelt sich um* + Akkusativ means 'it is a matter of / we are dealing with'. The subject is always the formal **Es**, and *sich* is always third person singular. The thing you name follows *um* in the Akkusativ: *eine schwierige Frage*.",
+      "pattern": "es handelt sich um + Akk.",
+      "mistake": {
+        "wrong": "Das handelt sich um eine schwierige Frage.",
+        "why": "*sich handeln um* cannot take a real subject such as *das*. Say *Es handelt sich um eine schwierige Frage* or simply *Das ist eine schwierige Frage*."
+      },
+      "examples": [
+        {"de": "Es handelt sich um ein rein technisches Problem.", "en": "It is a purely technical problem."},
+        {"de": "Bei dem Täter handelt es sich um einen 30-jährigen Mann.", "en": "The perpetrator is a 30-year-old man."}
+      ],
+      "words": [{"de": "sich handeln um", "en": "to be a matter of, to be about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Es}} kommt darauf an, was du willst.",
+      "en": "It depends on what you want.",
+      "focus": "fester Ausdruck · *ankommen auf* + Akk.",
+      "explanation": "*ankommen auf* in the meaning 'to depend on' takes the formal subject **Es** (in speech also *das*: *Das kommt darauf an.*). The *auf*-object here is the w-clause *was du willst*, so the Pronominaladverb *darauf* stands in the main clause as its Korrelat. The verb is separable: *kommt … an*.",
+      "pattern": "es kommt darauf an, w-/ob-Satz",
+      "mistake": {
+        "wrong": "Es kommt an, was du willst.",
+        "why": "Without *darauf* the verb *ankommen* means 'to arrive', and the clause has no link to the verb. When the *auf*-object is a clause, *darauf* must announce it."
+      },
+      "examples": [
+        {"de": "Es kommt darauf an, wie das Wetter morgen wird.", "en": "It depends on what the weather is like tomorrow."},
+        {"de": "Es kommt ganz darauf an, ob wir rechtzeitig fertig werden.", "en": "It all depends on whether we finish in time."}
+      ],
+      "words": [{"de": "ankommen auf + Akk.", "en": "to depend on"}],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Es}} regnet schon den ganzen Tag.",
+      "en": "It has been raining all day.",
+      "focus": "formales Subjekt · Wetterverb",
+      "explanation": "Weather verbs (*regnen, schneien, donnern, stürmen*) have no real actor, but a German finite verb needs a subject, so **Es** fills the subject slot. This *es* stays in every position: *Schon den ganzen Tag regnet es.* German uses the Präsens with *schon* for an action that started in the past and is still going on; English uses the present perfect continuous.",
+      "pattern": "Es + Wetterverb (3. Sg.)",
+      "mistake": {
+        "wrong": "Heute regnet schon den ganzen Tag.",
+        "why": "Weather *es* is a formal subject, not a Vorfeld placeholder. With *Heute* in the Vorfeld it stands after the verb: *Heute regnet es schon den ganzen Tag.*"
+      },
+      "examples": [
+        {"de": "Es hat die ganze Nacht gestürmt.", "en": "There was a storm all night."},
+        {"de": "Es schneit seit heute Morgen ununterbrochen.", "en": "It has been snowing non-stop since this morning."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Es}} ist kalt heute.",
+      "en": "It's cold today.",
+      "focus": "formales Subjekt · *sein* + Wetteradjektiv",
+      "explanation": "With *sein* + a weather adjective (*kalt, warm, windig, neblig*), **Es** is the formal subject. *heute* after the adjective is typical of spoken German; the neutral orders are *Es ist heute kalt* and *Heute ist es kalt*, and in both the *es* stays. Compare *Mir ist kalt* ('I feel cold'): with a Dativ person the *es* is not needed.",
+      "pattern": "Es + sein + Adj. (Wetter)",
+      "mistake": {
+        "wrong": "Heute ist kalt.",
+        "why": "When the sentence is about the weather, *es* is the obligatory formal subject. It moves behind the verb: *Heute ist es kalt.* Only a sensation with a Dativ person works without it (*Mir ist kalt*)."
+      },
+      "examples": [
+        {"de": "An der Küste ist es oft sehr windig.", "en": "It is often very windy on the coast."},
+        {"de": "Es ist draußen schon dunkel.", "en": "It is already dark outside."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Es}} tut mir leid, dass ich zu spät bin.",
+      "en": "I'm sorry I'm late.",
+      "focus": "Korrelat · *leidtun* + Dativ",
+      "explanation": "In *leidtun* the person who is sorry is the Dativ (*mir*), and the subject is the thing you regret: here the *dass*-clause. **Es** stands in the Vorfeld as the Korrelat for this clause. In speech the *es* is often left out at the start: *Tut mir leid.*",
+      "pattern": "Es tut + Dat. + leid, dass-Satz",
+      "mistake": {
+        "wrong": "Ich tue leid, dass ich zu spät bin.",
+        "why": "English 'I am sorry' has the person as subject, but *leidtun* does not: the person is Dativ (*mir*), and the subject is the regretted fact, announced by *es*."
+      },
+      "examples": [
+        {"de": "Es tut uns leid, dass Sie so lange warten mussten.", "en": "We are sorry that you had to wait so long."},
+        {"de": "Es tut mir leid, dass ich dich nicht angerufen habe.", "en": "I'm sorry that I didn't call you."}
+      ],
+      "words": [{"de": "leidtun (+ Dat.)", "en": "to be sorry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Es}} freut mich, dass du da bist.",
+      "en": "I'm glad that you are here.",
+      "focus": "Korrelat · *freuen* ohne *sich*",
+      "explanation": "*freuen* without *sich* has the cause of the joy as subject and the person as Akkusativ object (*mich*). The cause is the *dass*-clause, so **Es** is its Korrelat in the Vorfeld. Other orders: *Dass du da bist, freut mich.* / *Mich freut (es), dass du da bist*; after a Vorfeld object the *es* is optional with this verb.",
+      "pattern": "Es freut + Akk., dass-Satz",
+      "mistake": {
+        "wrong": "Ich freue, dass du da bist.",
+        "why": "*freuen* is either reflexive with the person as subject (*Ich freue mich, dass …*) or has the cause as subject (*Es freut mich, dass …*). *Ich freue* without an object is not possible."
+      },
+      "examples": [
+        {"de": "Es freut uns, dass das Projekt so gut angekommen ist.", "en": "We are pleased that the project was so well received."},
+        {"de": "Es freut mich, dass Sie sich für die Stelle interessieren.", "en": "I'm pleased that you are interested in the position."}
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Es}} ist nicht leicht, immer geduldig zu sein.",
+      "en": "It's not easy to always be patient.",
+      "focus": "Korrelat · Infinitivsatz mit *zu*",
+      "explanation": "The subject of *ist nicht leicht* is the infinitive clause *immer geduldig zu sein*. **Es** in the Vorfeld announces it, and the clause follows after a comma. If the infinitive clause opens the sentence, it is the subject itself, and the verb must follow directly: *Immer geduldig zu sein ist nicht leicht.*",
+      "pattern": "Es + sein + Adj., zu-Infinitiv",
+      "mistake": {
+        "wrong": "Immer geduldig zu sein, es ist nicht leicht.",
+        "why": "The infinitive clause already fills the Vorfeld, so the finite verb *ist* must come next, and the Korrelat *es* disappears: *Immer geduldig zu sein ist nicht leicht.*"
+      },
+      "examples": [
+        {"de": "Es ist gar nicht so einfach, eine günstige Wohnung zu finden.", "en": "It isn't that easy to find a cheap flat."},
+        {"de": "Es ist anstrengend, jeden Tag zwei Stunden zu pendeln.", "en": "It is exhausting to commute two hours every day."}
+      ],
+      "words": [{"de": "geduldig", "en": "patient"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Es}} gibt viele Möglichkeiten.",
+      "en": "There are many possibilities.",
+      "focus": "fester Ausdruck · *geben* + Akk.",
+      "explanation": "*es gibt* + Akkusativ = 'there is / there are'. **Es** is the grammatical subject, and the thing that exists is the Akkusativ object (*viele Möglichkeiten*). Because the subject is always *es*, the verb is always singular, even with a plural object: *es gibt*, never *es geben*.",
+      "pattern": "es gibt + Akk. (Sg. oder Pl.)",
+      "mistake": {
+        "wrong": "Es geben viele Möglichkeiten.",
+        "why": "*viele Möglichkeiten* is the Akkusativ object, not the subject. The subject is *es*, so the verb stays in the third person singular: *gibt*."
+      },
+      "examples": [
+        {"de": "Es gibt keinen Grund zur Sorge.", "en": "There is no reason to worry."},
+        {"de": "Gibt es hier in der Nähe eine Apotheke?", "en": "Is there a pharmacy near here?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Es}} fehlt uns an Zeit.",
+      "en": "We are short of time.",
+      "focus": "fester Ausdruck · *fehlen an* + Dat.",
+      "explanation": "*es fehlt (jemandem) an* + Dativ means 'there is a lack of'. **Es** is the formal subject, *uns* is the Dativ of the person, and the missing thing follows *an* in the Dativ. This *es* stays when the Dativ comes first: *Uns fehlt es an Zeit.* Compare *Uns fehlt die Zeit*: without *an*, the missing thing is the Nominativ subject.",
+      "pattern": "es fehlt + Dat. + an + Dat.",
+      "mistake": {
+        "wrong": "Uns fehlt an Zeit.",
+        "why": "With *fehlen an* the only possible subject is *es*, so it cannot be dropped. With *Uns* in the Vorfeld it moves behind the verb: *Uns fehlt es an Zeit.*"
+      },
+      "examples": [
+        {"de": "Es fehlt an qualifizierten Pflegekräften.", "en": "There is a shortage of qualified nursing staff."},
+        {"de": "In vielen Schulen fehlt es an modernen Computern.", "en": "Many schools lack modern computers."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Es}} kamen viele Gäste zur Party.",
+      "en": "Many guests came to the party.",
+      "focus": "Vorfeld-Platzhalter · Subjekt nach dem Verb",
+      "explanation": "The subject is *viele Gäste*. **Es** only fills the Vorfeld, so the subject can come after the verb as new information. Because *es* is not the subject, the verb agrees with *viele Gäste*: plural **kamen**. With another element in the Vorfeld, *es* disappears: *Zur Party kamen viele Gäste.*",
+      "pattern": "Es + Verb (kongruent mit Subjekt) + Subjekt",
+      "mistake": {
+        "wrong": "Es kam viele Gäste zur Party.",
+        "why": "The placeholder *es* does not control the verb. The real subject *viele Gäste* is plural, so the verb must be *kamen*."
+      },
+      "examples": [
+        {"de": "Es meldeten sich über hundert Freiwillige.", "en": "More than a hundred volunteers came forward."},
+        {"de": "Es standen zwei Polizisten vor der Tür.", "en": "Two police officers were standing at the door."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Es}} hat keinen Sinn, weiter zu warten.",
+      "en": "There's no point in waiting any longer.",
+      "focus": "Korrelat · Infinitivsatz als Subjekt",
+      "explanation": "What has no sense? – *weiter zu warten*. The infinitive clause is the subject, and **Es** announces it from the Vorfeld. *keinen Sinn* is the Akkusativ object of *haben*. When the infinitive clause moves to the front, the Korrelat is not used: *Weiter zu warten hat keinen Sinn.*",
+      "pattern": "Es hat keinen Sinn, zu-Infinitiv",
+      "mistake": {
+        "wrong": "Weiter zu warten hat es keinen Sinn.",
+        "why": "The infinitive clause in the Vorfeld is already the subject. *es* has nothing left to stand for and must be removed."
+      },
+      "examples": [
+        {"de": "Es hat keinen Zweck, mit ihm darüber zu streiten.", "en": "It is pointless to argue with him about it."},
+        {"de": "Es hat wenig Sinn, das Gerät noch zu reparieren.", "en": "There is little point in repairing the device."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Es}} bleibt nicht mehr viel Zeit.",
+      "en": "There isn't much time left.",
+      "focus": "Vorfeld-Platzhalter · *bleiben*",
+      "explanation": "The subject of *bleibt* is *nicht mehr viel Zeit*. **Es** only fills the Vorfeld so that this new information can come at the end. If another element takes position 1, the placeholder disappears: *Uns bleibt nicht mehr viel Zeit.* With a plural subject the verb changes: *Es bleiben nur noch drei Tage.*",
+      "pattern": "Es + Verb + Subjekt (neue Information)",
+      "mistake": {
+        "wrong": "Uns bleibt es nicht mehr viel Zeit.",
+        "why": "*es* here is only a placeholder for the Vorfeld. Once *Uns* fills the Vorfeld, *es* has no function and must go."
+      },
+      "examples": [
+        {"de": "Es bleiben nur noch wenige Tage bis zur Wahl.", "en": "There are only a few days left until the election."},
+        {"de": "Es bleibt kaum Zeit für Pausen.", "en": "There is hardly any time left for breaks."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Es}} stört mich nicht.",
+      "en": "It doesn't bother me.",
+      "focus": "Personalpronomen · Bezug auf den Kontext",
+      "explanation": "Here **Es** is an ordinary personal pronoun: it refers to something already mentioned (the music, the noise, the situation). As a real subject it stays when the object comes first: *Mich stört es nicht.* If a clause follows, the same *es* becomes a Korrelat: *Es stört mich nicht, wenn du Musik hörst.*",
+      "pattern": "Es (= Personalpronomen) + Verb + Akk.",
+      "mistake": {
+        "wrong": "Mich stört nicht.",
+        "why": "Without a following clause, *es* is the only subject of *stört*. It can only be left out when a clause takes over the subject role: *Mich stört nicht, dass …*"
+      },
+      "examples": [
+        {"de": "Es interessiert mich nicht besonders.", "en": "It doesn't really interest me."},
+        {"de": "Es überrascht mich nicht.", "en": "It doesn't surprise me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Es}} ist mir egal.",
+      "en": "I don't care.",
+      "focus": "Personalpronomen · *egal sein* + Dativ",
+      "explanation": "*egal sein* takes the person in the Dativ (*mir*) and the thing that does not matter as subject. Here that thing is not named, so **Es** refers to the situation. Without a clause it cannot be dropped: *Mir ist es egal* or *Mir ist das egal*. Only with a following clause can it go: *Mir ist egal, was die anderen denken.*",
+      "pattern": "Es ist + Dat. + egal",
+      "mistake": {
+        "wrong": "Mir ist egal.",
+        "why": "*egal sein* needs a subject. With no clause after it, *es* (or *das*) must stay: *Mir ist es egal.*"
+      },
+      "examples": [
+        {"de": "Es ist uns völlig egal, wer gewinnt.", "en": "We don't care at all who wins."},
+        {"de": "Ist es Ihnen recht, wenn wir den Termin verschieben?", "en": "Is it all right with you if we postpone the appointment?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Es}} reicht mir!",
+      "en": "I've had enough!",
+      "focus": "fester Ausdruck · Ungeduld",
+      "explanation": "*Es reicht (mir)!* expresses that your patience is at an end. **Es** is a fixed formal subject and *mir* is the Dativ of the person. With *mir* in the Vorfeld, the *es* stays and is often shortened in speech: *Mir reicht's!*",
+      "pattern": "Es reicht + Dat.!",
+      "mistake": {
+        "wrong": "Mir reicht!",
+        "why": "*reichen* needs a subject, and in this expression it is always *es*. With *Mir* in front: *Mir reicht es!* / *Mir reicht's!*"
+      },
+      "examples": [
+        {"de": "Jetzt reicht es aber!", "en": "That's enough now!"},
+        {"de": "Es reicht mir langsam mit deinen Ausreden!", "en": "I'm getting tired of your excuses!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Es}} dauert lange, eine Sprache zu lernen.",
+      "en": "It takes a long time to learn a language.",
+      "focus": "Korrelat · Infinitivsatz nach *dauern*",
+      "explanation": "What takes a long time? – *eine Sprache zu lernen*. This infinitive clause is the subject of *dauert*, and **Es** stands for it in the Vorfeld. The alternative without Korrelat starts with the clause: *Eine Sprache zu lernen dauert lange.*",
+      "pattern": "Es dauert + Zeitangabe, zu-Infinitiv",
+      "mistake": {
+        "wrong": "Eine Sprache zu lernen, es dauert lange.",
+        "why": "This copies the English pattern. In German the infinitive clause fills the Vorfeld, the verb must come in position 2, and *es* is dropped: *Eine Sprache zu lernen dauert lange.*"
+      },
+      "examples": [
+        {"de": "Es dauert ein paar Wochen, sich an die Zeitverschiebung zu gewöhnen.", "en": "It takes a few weeks to get used to the time difference."},
+        {"de": "Es dauerte Stunden, alle Daten zu sichern.", "en": "It took hours to back up all the data."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Es}} ärgert mich, dass er zu spät kommt.",
+      "en": "It annoys me that he's late.",
+      "focus": "Korrelat · *ärgern* ohne *sich*",
+      "explanation": "*ärgern* without *sich* has the cause as subject and the person as Akkusativ object (*mich*). The cause is the *dass*-clause, and **Es** announces it from the Vorfeld. With the person as subject you need the reflexive form and *darüber*: *Ich ärgere mich darüber, dass er zu spät kommt.*",
+      "pattern": "Es ärgert + Akk., dass-Satz",
+      "mistake": {
+        "wrong": "Dass er zu spät kommt, ärgert es mich.",
+        "why": "The *dass*-clause in the Vorfeld is already the subject. The Korrelat *es* must disappear: *Dass er zu spät kommt, ärgert mich.*"
+      },
+      "examples": [
+        {"de": "Es ärgert sie, dass niemand ihr geholfen hat.", "en": "It annoys her that nobody helped her."},
+        {"de": "Es beunruhigt viele Eltern, dass die Schule geschlossen wird.", "en": "It worries many parents that the school is being closed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Es}} fällt mir schwer, das zu glauben.",
+      "en": "I find that hard to believe.",
+      "focus": "Korrelat · *schwerfallen* + Dativ",
+      "explanation": "In *schwerfallen* the person is in the Dativ (*mir*), and the subject is the difficult activity: the infinitive clause *das zu glauben*. **Es** announces this clause from the Vorfeld. English 'I find it hard' has the person as subject; German does not.",
+      "pattern": "Es fällt + Dat. + schwer, zu-Infinitiv",
+      "mistake": {
+        "wrong": "Ich falle schwer, das zu glauben.",
+        "why": "*ich* cannot be the subject of *schwerfallen*. The person is Dativ (*mir*), and the subject is the infinitive clause, announced by *es*."
+      },
+      "examples": [
+        {"de": "Es fällt ihm leicht, neue Leute kennenzulernen.", "en": "He finds it easy to meet new people."},
+        {"de": "Es fiel uns schwer, die alte Wohnung aufzugeben.", "en": "We found it hard to give up the old flat."}
+      ],
+      "words": [{"de": "schwerfallen (+ Dat.)", "en": "to be hard for someone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Ich halte {{c1::es}} für unfair, dass Praktikanten oft kein Gehalt bekommen.",
+      "en": "I think it's unfair that interns often don't get paid.",
+      "focus": "Korrelat · Objektsatz nach *halten für*",
+      "explanation": "*halten für* needs an Akkusativ object: *Ich halte etwas für unfair.* Here the object is the *dass*-clause at the end, and **es** stands in the Mittelfeld as its Korrelat. With *halten für* this *es* is obligatory in the Mittelfeld; it only disappears when the clause moves to the Vorfeld: *Dass Praktikanten oft kein Gehalt bekommen, halte ich für unfair.*",
+      "pattern": "halten + es + für + Adj., dass-Satz (Objektsatz)",
+      "mistake": {
+        "wrong": "Ich halte für unfair, dass Praktikanten oft kein Gehalt bekommen.",
+        "why": "*halten für* needs its Akkusativ object in the Mittelfeld, before *für unfair*. The clause at the end cannot fill that place, so *es* must stand there as Korrelat."
+      },
+      "examples": [
+        {"de": "Wir halten es für sinnvoll, die Sitzung zu verschieben.", "en": "We think it makes sense to postpone the meeting."},
+        {"de": "Die Ärztin hält es für möglich, dass die Symptome vom Stress kommen.", "en": "The doctor thinks it possible that the symptoms come from stress."}
+      ],
+      "words": [{"de": "halten für", "en": "to consider, to regard as"}, {"de": "der Praktikant (-en)", "en": "intern"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Als wir im Hotel ankamen, war {{c1::es}} schon nach Mitternacht.",
+      "en": "When we arrived at the hotel, it was already past midnight.",
+      "focus": "formales Subjekt · Uhrzeit nach Nebensatz",
+      "explanation": "Clock times and times of day are expressed with **es** + *sein*: *Es ist halb acht. Es ist spät.* Here the *als*-clause fills the Vorfeld, so the finite verb *war* comes next and *es* follows it. Like weather *es*, this time *es* is a formal subject and is never dropped.",
+      "pattern": "Nebensatz, sein + es + Zeitangabe",
+      "mistake": {
+        "wrong": "Als wir im Hotel ankamen, war schon nach Mitternacht.",
+        "why": "*war* has no subject here. The time is always expressed with the formal subject *es*, also when a Nebensatz stands in the Vorfeld."
+      },
+      "examples": [
+        {"de": "Es ist gleich halb acht.", "en": "It's almost half past seven."},
+        {"de": "Wie spät ist es eigentlich?", "en": "What time is it, actually?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "In vielen Großstädten gibt {{c1::es}} kaum noch bezahlbare Wohnungen.",
+      "en": "In many big cities there are hardly any affordable flats left.",
+      "focus": "fester Ausdruck · nach Vorfeld-Ortsangabe",
+      "explanation": "*es gibt* is a fixed expression: **es** is the subject and *bezahlbare Wohnungen* is the Akkusativ object (plural, same form as the Nominativ). Because *es* is the real subject and not a placeholder, it stays when *In vielen Großstädten* fills the Vorfeld; it simply moves behind the verb.",
+      "pattern": "Ortsangabe + gibt + es + Akk.",
+      "mistake": {
+        "wrong": "In vielen Großstädten gibt kaum noch bezahlbare Wohnungen.",
+        "why": "This confuses *es gibt* with the Vorfeld placeholder. In *es gibt* the *es* is the subject and is obligatory in every position."
+      },
+      "examples": [
+        {"de": "Auf dem Land gibt es oft keinen Hausarzt mehr.", "en": "In rural areas there is often no family doctor any more."},
+        {"de": "Gibt es in Ihrer Firma flexible Arbeitszeiten?", "en": "Are there flexible working hours at your company?"}
+      ],
+      "words": [{"de": "bezahlbar", "en": "affordable"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Es {{c1::wurden::werden}} in der Studie mehrere Fehler entdeckt.",
+      "en": "Several errors were discovered in the study.",
+      "focus": "Vorfeld-Platzhalter · Verbkongruenz im Passiv",
+      "explanation": "This is a Passiv Präteritum: *werden* + Partizip II (*entdeckt*). The subject is *mehrere Fehler* (plural); *Es* only fills the Vorfeld so that the subject can come later as new information. The finite verb agrees with the real subject, not with *es*: plural → **wurden**.",
+      "pattern": "Es + werden (Pl.) + … + Subjekt (Pl.) + Partizip II",
+      "mistake": {
+        "wrong": "Es wurde in der Studie mehrere Fehler entdeckt.",
+        "why": "*es* is not the subject here, so it does not make the verb singular. *mehrere Fehler* is plural → *wurden*."
+      },
+      "examples": [
+        {"de": "Es wurden zwei neue Mitarbeiterinnen eingestellt.", "en": "Two new (female) employees were hired."},
+        {"de": "Es wurden bisher keine Verletzten gemeldet.", "en": "No injuries have been reported so far."}
+      ],
+      "words": [],
+      "production_cue": "(Passiv Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Es}} wird in diesem Gebäude nicht geraucht.",
+      "en": "There is no smoking in this building.",
+      "focus": "unpersönliches Passiv · ohne Subjekt",
+      "explanation": "*rauchen* is used here without an object, so its passive has no subject at all (unpersönliches Passiv). **Es** only fills the Vorfeld to keep the verb in position 2, and the verb is always third person singular. As soon as another element comes first, *es* disappears: *In diesem Gebäude wird nicht geraucht.*",
+      "pattern": "Es + wird + … + Partizip II (ohne Subjekt)",
+      "mistake": {
+        "wrong": "In diesem Gebäude wird es nicht geraucht.",
+        "why": "In the unpersönliches Passiv *es* is only a Vorfeld placeholder. With *In diesem Gebäude* in position 1, it must be left out."
+      },
+      "examples": [
+        {"de": "Es wird bis spät in die Nacht gefeiert.", "en": "People celebrate until late at night."},
+        {"de": "Es wurde lange über den Vorschlag diskutiert.", "en": "The proposal was discussed for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(Passiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Meiner Großmutter geht {{c1::es}} nach der Operation schon viel besser.",
+      "en": "My grandmother is already feeling much better after the operation.",
+      "focus": "fester Ausdruck · Befinden + Dativ",
+      "explanation": "Health and well-being are expressed with *es geht* + Dativ (*Wie geht es dir?*). The person is not the subject: *meiner Großmutter* is feminine Dativ (*meine → meiner*). The formal subject **es** stays even when the Dativ fills the Vorfeld; it moves behind the verb.",
+      "pattern": "Dat. + geht + es + Adv.",
+      "mistake": {
+        "wrong": "Meiner Großmutter geht nach der Operation schon viel besser.",
+        "why": "*gehen* in the sense of 'to feel' always has the formal subject *es*. The Dativ in the Vorfeld does not replace it."
+      },
+      "examples": [
+        {"de": "Wie geht es Ihrem Vater?", "en": "How is your father?"},
+        {"de": "Den Patienten geht es den Umständen entsprechend gut.", "en": "The patients are as well as can be expected."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "In diesen Schuhen läuft {{c1::es}} sich auch auf langen Strecken bequem.",
+      "en": "These shoes are comfortable to walk in, even over long distances.",
+      "focus": "unpersönliche Konstruktion · Verb + *sich* + Adverb",
+      "explanation": "*Es läuft sich bequem* means 'one can walk comfortably'. This impersonal reflexive construction (*es sitzt sich gut, es schläft sich schlecht*) has no real actor, so **es** is the formal subject and is obligatory. With *In diesen Schuhen* in the Vorfeld, *es* follows the verb, and the pronoun *es* comes before the reflexive *sich*.",
+      "pattern": "Vorfeld + Verb + es + sich + Adverb",
+      "mistake": {
+        "wrong": "In diesen Schuhen läuft sich auch auf langen Strecken bequem.",
+        "why": "*laufen* is active and needs a subject. In this construction the only subject is *es*, so it cannot be left out."
+      },
+      "examples": [
+        {"de": "Auf diesem Sofa sitzt es sich sehr gemütlich.", "en": "This sofa is very comfortable to sit on."},
+        {"de": "Bei dieser Hitze schläft es sich schlecht.", "en": "It's hard to sleep in this heat."}
+      ],
+      "words": [{"de": "die Strecke (-n)", "en": "distance, route"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Im Bericht heißt {{c1::es}}, dass die Arbeitslosigkeit gesunken ist.",
+      "en": "The report says that unemployment has fallen.",
+      "focus": "fester Ausdruck · Inhalt einer Quelle wiedergeben",
+      "explanation": "*es heißt* + *dass*-clause (or main clause) reports what a text says or what people say, without naming an author. The **es** is fixed and obligatory: with *Im Bericht* in the Vorfeld, it follows the verb. The *dass*-clause gives the content; the verb *ist* goes to the end.",
+      "pattern": "Quelle + heißt + es, dass-Satz",
+      "mistake": {
+        "wrong": "Im Bericht heißt, dass die Arbeitslosigkeit gesunken ist.",
+        "why": "In the meaning 'it says', *heißen* always has the subject *es*. It is not a Vorfeld placeholder, so it stays after *Im Bericht heißt*."
+      },
+      "examples": [
+        {"de": "Es heißt, der Minister wolle zurücktreten.", "en": "It is said that the minister wants to resign."},
+        {"de": "In der Anleitung heißt es, man solle das Gerät nicht öffnen.", "en": "The instructions say that you should not open the device."}
+      ],
+      "words": [{"de": "die Arbeitslosigkeit", "en": "unemployment"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Es}} ist noch völlig unklar, ob das Projekt weiter finanziert wird.",
+      "en": "It is still completely unclear whether the project will continue to be funded.",
+      "focus": "Korrelat · Subjektsatz mit *ob*",
+      "explanation": "The subject of *ist unklar* is the indirect question *ob das Projekt weiter finanziert wird*. A Korrelat can announce not only *dass*-clauses but also *ob*- and w-clauses, so **Es** fills the Vorfeld here. The *ob*-clause has the passive verb group *finanziert wird* at the end.",
+      "pattern": "Es + sein + Adj., ob-Satz",
+      "mistake": {
+        "wrong": "Ob das Projekt weiter finanziert wird, ist es noch völlig unklar.",
+        "why": "When the *ob*-clause opens the sentence, it is the subject itself. The Korrelat *es* must then be dropped: *…, ist noch völlig unklar.*"
+      },
+      "examples": [
+        {"de": "Es ist fraglich, ob der Termin gehalten werden kann.", "en": "It is doubtful whether the deadline can be met."},
+        {"de": "Es ist erstaunlich, wie schnell sich die Technik entwickelt.", "en": "It is amazing how quickly the technology is developing."}
+      ],
+      "words": [{"de": "finanzieren", "en": "to fund, to finance"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Es {{c1::sind::sein}} noch drei Plätze im Abendkurs frei.",
+      "en": "There are still three places free in the evening course.",
+      "focus": "Vorfeld-Platzhalter · Kongruenz mit *sein*",
+      "explanation": "The subject is *drei Plätze*, so the verb must be plural: **sind**. *Es* only fills the Vorfeld; it is not the subject. This differs from *es gibt*, where *es* is the subject and the verb is always singular: *Es gibt noch drei freie Plätze.*",
+      "pattern": "Es + sein (Pl.) + Subjekt (Pl.) + Adj.",
+      "mistake": {
+        "wrong": "Es ist noch drei Plätze im Abendkurs frei.",
+        "why": "This mixes the pattern with *es gibt*. With *sein*, *es* is only a placeholder, and the verb agrees with the plural subject *drei Plätze* → *sind*."
+      },
+      "examples": [
+        {"de": "Es sind schon alle Tickets verkauft.", "en": "All the tickets have already been sold."},
+        {"de": "Es waren über tausend Menschen auf dem Platz.", "en": "There were over a thousand people in the square."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Hat {{c1::es}} gerade an der Tür geklingelt?",
+      "en": "Did someone just ring the doorbell?",
+      "focus": "formales Subjekt · Geräuschverb in der Frage",
+      "explanation": "Verbs for sounds whose source is unknown or unimportant (*klingeln, klopfen, knallen*) take the formal subject **es**: *Es hat geklingelt* = someone rang the bell. In a yes/no question the finite verb *hat* stands first and *es* follows it. This *es* is a real subject, so it is used even though questions have no Vorfeld.",
+      "pattern": "Hat + es + … + Partizip II? (Geräusch)",
+      "mistake": {
+        "wrong": "Hat gerade an der Tür geklingelt?",
+        "why": "*klingeln* in this meaning needs the formal subject *es*. Only the Vorfeld placeholder disappears in questions, not the formal subject."
+      },
+      "examples": [
+        {"de": "Es klopft an der Tür.", "en": "There is a knock at the door."},
+        {"de": "Plötzlich hat es draußen laut geknallt.", "en": "Suddenly there was a loud bang outside."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Das Spiel fällt aus, weil {{c1::es}} seit Tagen ununterbrochen regnet.",
+      "en": "The match is cancelled because it has been raining non-stop for days.",
+      "focus": "formales Subjekt · im Nebensatz",
+      "explanation": "A Nebensatz has no Vorfeld, so a pure placeholder *es* is impossible there (*…, weil viele Zuschauer kamen*). Weather *es* is different: it is the formal subject of *regnen*, so it also appears in the Nebensatz, directly after *weil*. The finite verb *regnet* goes to the end.",
+      "pattern": "…, weil + es + … + Wetterverb",
+      "mistake": {
+        "wrong": "Das Spiel fällt aus, weil seit Tagen ununterbrochen regnet.",
+        "why": "*regnen* has no subject in this clause. Weather *es* is obligatory in main clauses and Nebensätze alike."
+      },
+      "examples": [
+        {"de": "Wir bleiben drinnen, weil es draußen stürmt.", "en": "We're staying inside because there's a storm outside."},
+        {"de": "Ich nehme den Bus, wenn es schneit.", "en": "I take the bus when it snows."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Korrelat es.",
+      "prompt": "In *Es ist wichtig, dass …*, what does *es* stand for, and when must it disappear?",
+      "answer": "It is a **Korrelat** for the subject clause that follows. When the clause itself moves to the Vorfeld, *es* is dropped: *Dass …, ist wichtig.* In the Mittelfeld it usually stays (*Heute ist es wichtig, dass …*); with some verbs it is optional (*Mich freut, dass …*).",
+      "explanation": "The Korrelat exists because German likes to put long clauses at the end of the sentence. It keeps the subject (or object) place filled while the clause waits in the Nachfeld. If the clause is not at the end, the Korrelat is not needed.",
+      "examples": [
+        {"de": "Es ist erstaunlich, wie schnell die Kinder Deutsch gelernt haben.", "en": "It is amazing how quickly the children learned German."},
+        {"de": "Wie schnell die Kinder Deutsch gelernt haben, ist erstaunlich.", "en": "How quickly the children learned German is amazing."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the Vorfeld placeholder.",
+      "prompt": "In *Es kamen viele Gäste*, is *es* the subject? What follows from that?",
+      "answer": "No. *es* is only a **Vorfeld-Platzhalter**; the subject is *viele Gäste*. So the verb agrees with the real subject (*kamen*, plural), and *es* disappears when another element is in the Vorfeld, in yes/no questions and in Nebensätze.",
+      "explanation": "The placeholder lets the subject come after the verb as new information while the verb stays in position 2. Because it is not a sentence part, it has no other place: *Zur Party kamen viele Gäste. / Kamen viele Gäste? / …, weil viele Gäste kamen.*",
+      "examples": [
+        {"de": "Es fehlen noch zwei Unterschriften.", "en": "Two signatures are still missing."},
+        {"de": "Auf dem Formular fehlen noch zwei Unterschriften.", "en": "Two signatures are still missing on the form."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the obligatory es.",
+      "prompt": "Which kinds of *es* can never be dropped, even when another element fills the Vorfeld?",
+      "answer": "The **formal subject**: weather and time (*es regnet, es ist spät*), sounds (*es klingelt*), impersonal reflexive constructions (*es sitzt sich gut*) and fixed expressions (*es gibt, es geht um, es handelt sich um, es fehlt an, es heißt, es geht + Dat.*).",
+      "explanation": "These verbs have no other subject, so *es* is a real sentence part. It moves behind the finite verb when something else is in position 1, and it also appears in questions and Nebensätze.",
+      "examples": [
+        {"de": "Nachts gibt es hier keinen Bus.", "en": "There is no bus here at night."},
+        {"de": "In der nächsten Sitzung geht es um das Budget.", "en": "The next meeting will be about the budget."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about es as an object Korrelat.",
+      "prompt": "When does *es* announce an object clause, and is it obligatory there?",
+      "answer": "When the Akkusativ object of the verb is a *dass*-clause or *zu*-infinitive. With *halten für* and *finden* + adjective, *es* is normally obligatory in the Mittelfeld; with *bedauern* it is optional; with *wissen, sagen, glauben* it is not used (*Ich weiß, dass …*).",
+      "explanation": "Verbs like *halten für* and *finden* + adjective need the Akkusativ object in the Mittelfeld, before the predicative adjective (*für* + adjective / *finden* + adjective), so the clause at the end cannot fill that slot. Verbs of saying and thinking take the clause directly as object.",
+      "examples": [
+        {"de": "Ich finde es schade, dass du nicht mitkommst.", "en": "I think it's a pity that you aren't coming along."},
+        {"de": "Wir bedauern, dass der Termin verschoben werden muss.", "en": "We regret that the appointment has to be postponed."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about es with sensations.",
+      "prompt": "Why is it *Heute ist es kalt*, but *Mir ist kalt* without *es*?",
+      "answer": "In *es ist kalt* (weather) *es* is the formal subject and must stay. With a Dativ person and a physical or emotional feeling (*mir ist kalt / schlecht / schwindlig*), *es* is only a Vorfeld placeholder (*Es ist mir kalt*, rare); when the Dativ fills the Vorfeld, it disappears.",
+      "explanation": "The two sentences describe different things: the temperature outside versus how a person feels. Learners often say ✗ *Heute ist kalt* by analogy with *Mir ist kalt*, but the weather *es* never disappears.",
+      "examples": [
+        {"de": "Mir ist schwindlig, ich muss mich kurz hinsetzen.", "en": "I feel dizzy, I need to sit down for a moment."},
+        {"de": "Draußen ist es eiskalt.", "en": "It's freezing outside."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite the sentence. Start with: Zur Eröffnung der Ausstellung",
+      "prompt": "Es kamen viele Besucher zur Eröffnung der Ausstellung.",
+      "answer": "Zur Eröffnung der Ausstellung kamen viele Besucher.",
+      "explanation": "*es* was only a Vorfeld placeholder; the subject is *viele Besucher*. When the prepositional phrase takes the Vorfeld, *es* is removed and the verb *kamen* (plural) stays in position 2."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Move the infinitive clause into the Vorfeld.",
+      "prompt": "Es ist schwer, einen guten Handwerker zu finden.",
+      "answer": "Einen guten Handwerker zu finden ist schwer.",
+      "explanation": "The infinitive clause is the subject. In the Vorfeld it replaces the Korrelat, so *es* disappears and *ist* follows directly. A comma after the Vorfeld infinitive clause is optional."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the sentence. Start with: Es",
+      "prompt": "Dass das Projekt scheitert, ist nicht ausgeschlossen.",
+      "answer": "Es ist nicht ausgeschlossen, dass das Projekt scheitert.",
+      "explanation": "The *dass*-clause moves to the end of the sentence, and the Korrelat *es* fills the empty Vorfeld. The verb *ist* stays in position 2."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the passive sentence. Start with: Es",
+      "prompt": "Am Wochenende wird in der Firma nicht gearbeitet.",
+      "answer": "Es wird am Wochenende in der Firma nicht gearbeitet.",
+      "explanation": "This is an unpersönliches Passiv without a subject. When the time phrase leaves the Vorfeld, the placeholder *es* must fill position 1; *am Wochenende* moves into the Mittelfeld. The verb stays singular: *wird*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Dass er gekündigt hat, überrascht es mich nicht.",
+      "answer": "Dass er gekündigt hat, überrascht mich nicht.",
+      "explanation": "The *dass*-clause in the Vorfeld is the subject of *überrascht*. The Korrelat *es* is a second subject and must be removed."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Im Supermarkt gibt heute viele Sonderangebote.",
+      "answer": "Im Supermarkt gibt es heute viele Sonderangebote.",
+      "explanation": "In *es gibt* the *es* is the subject, not a placeholder. It stays when another element is in the Vorfeld and stands directly after *gibt*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es wartete schon zwanzig Leute vor dem Eingang.",
+      "answer": "Es warteten schon zwanzig Leute vor dem Eingang.",
+      "explanation": "*es* is only the Vorfeld placeholder. The subject *zwanzig Leute* is plural, so the verb must be plural: *warteten*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe gelesen, dass es gestern in Berlin Tausende Menschen demonstriert haben.",
+      "answer": "Ich habe gelesen, dass gestern in Berlin Tausende Menschen demonstriert haben.",
+      "explanation": "A *dass*-clause has no Vorfeld, so the placeholder *es* is impossible there. The subject *Tausende Menschen* needs no placeholder."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Zur Konferenz ___ über 300 Teilnehmer.",
+      "options": ["kam es", "kamen es", "kamen"],
+      "correct": "kamen",
+      "answer": "Zur Konferenz kamen über 300 Teilnehmer.",
+      "explanation": "*Zur Konferenz* fills the Vorfeld, so the placeholder *es* is not used, and the verb agrees with the plural subject *über 300 Teilnehmer*. *kam es* is wrong in number and keeps the placeholder; *kamen es* keeps the placeholder after another Vorfeld element."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Morgen ___ in ganz Bayern stark schneien.",
+      "options": ["soll es", "soll", "sollen es"],
+      "correct": "soll es",
+      "answer": "Morgen soll es in ganz Bayern stark schneien.",
+      "explanation": "*schneien* has only the formal subject *es*, which stays after *Morgen soll*. *soll* alone leaves the verb without a subject. *sollen* is plural, but the subject *es* is singular."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Bei dem Fund",
+      "prompt": "es / sich / um / handelt / bei dem Fund / eine römische Münze",
+      "answer": "Bei dem Fund handelt es sich um eine römische Münze.",
+      "explanation": "*handelt* is in position 2. The formal subject *es* stays in the Mittelfeld and comes before the reflexive *sich*. *um eine römische Münze* (Akkusativ) closes the sentence. The other order is *Es handelt sich bei dem Fund um eine römische Münze.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Mir",
+      "prompt": "es / schwer / mir / fällt / Nein / zu sagen",
+      "answer": "Mir fällt es schwer, Nein zu sagen.",
+      "explanation": "*Mir* (Dativ) is in the Vorfeld, *fällt* in position 2, the Korrelat *es* in the Mittelfeld and the separable part *schwer* at the end of the main clause. The infinitive clause *Nein zu sagen* follows after a comma. Also correct: *Es fällt mir schwer, Nein zu sagen.*"
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence. Start with: Es — turn the first sentence into a dass-clause.",
+      "prompt": "Er hat sich nicht entschuldigt. Das wundert mich.",
+      "answer": "Es wundert mich, dass er sich nicht entschuldigt hat.",
+      "explanation": "The fact in the first sentence becomes the subject clause of *wundern*. *Es* fills the Vorfeld as Korrelat, *mich* is the Akkusativ object, and in the *dass*-clause the finite verb *hat* goes to the end."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence. Start with: Es — turn the first sentence into a zu-infinitive clause.",
+      "prompt": "Man sollte die Flüge früh buchen. Das lohnt sich.",
+      "answer": "Es lohnt sich, die Flüge früh zu buchen.",
+      "explanation": "The activity becomes an infinitive clause with *zu*, which is the subject of *sich lohnen*. *man* and *sollte* disappear because an infinitive clause has no subject and no modal here. *Es* is the Korrelat in the Vorfeld."
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+{
+  "topic_id": "a1-01-sein",
+  "level": "A1",
+  "title_de": "Personalpronomen + sein (Präsens)",
+  "title_en": "Personal pronouns + the verb sein (present tense)",
+  "rule": {
+    "summary": "**sein** ('to be') links the subject with information about it: an adjective (*Ich bin müde.*), a noun in the Nominativ (*Er ist Lehrer.*), a place or origin (*Wir sind zu Hause. Sie ist aus Berlin.*) or an age (*Ich bin 25.*). It is the most irregular verb in German: the forms **bin, bist, ist, sind, seid** have to be learned by heart. The verb form also shows which person a pronoun means: *sie ist* = she, *sie sind* = they, *Sie sind* = formal you.",
+    "table": "| Person | Pronomen | sein | Beispiel |\n|---|---|---|---|\n| 1. Sg. | ich | **bin** | Ich bin müde. |\n| 2. Sg. (informell) | du | **bist** | Du bist nett. |\n| 3. Sg. | er / sie / es | **ist** | Sie ist aus Wien. |\n| 1. Pl. | wir | **sind** | Wir sind zu Hause. |\n| 2. Pl. (informell) | ihr | **seid** | Ihr seid pünktlich. |\n| 3. Pl. / formell | sie / Sie | **sind** | Sie sind Lehrer. |",
+    "steps": [
+      "Find the subject. A pronoun takes its form from the table. A noun subject in the singular takes **ist** (*der Kaffee ist*), a plural noun takes **sind** (*die Eltern sind*). Two subjects joined with *und* are plural; *X und ich* = *wir* → **sind**.",
+      "Check *sie / Sie*: with **ist** it means 'she'; with **sind** it means 'they' or formal 'you' (one or more people).",
+      "Place the verb: in a statement and a W-question it is in position 2 (*Heute ist es kalt. Wo bist du?*); in a yes/no question it is in position 1 (*Bist du müde?*).",
+      "Complete the predicate: an adjective has no ending (*ist heiß*), a noun is in the Nominativ (*ist mein Freund*), a profession or nationality normally has no article (*ist Ärztin*).",
+      "Negate: **nicht** before adjectives, places and nouns with *der/die/das* or a possessive (*ist nicht mein Koffer*); **kein** before nouns with *ein* or no article (*ist kein Arzt*)."
+    ],
+    "pitfalls": [
+      "*seid* and *seit* sound the same: ✗ *Ihr seit müde.* → ✓ *Ihr seid müde.* *seid* (with *d*) is the verb; *seit* (with *t*) is the preposition 'since'.",
+      "Formal *Sie* with a singular verb: ✗ *Ist Sie Herr Kraus?* → ✓ *Sind Sie Herr Kraus?* Formal *Sie* always takes *sind*, even when you speak to one person.",
+      "*das* with a plural noun: ✗ *Das ist meine Eltern.* → ✓ *Das sind meine Eltern.* The verb agrees with the noun after it, not with *das*.",
+      "Body feelings with *ich*: ✗ *Ich bin kalt.* (= I am a cold, unfriendly person) → ✓ *Mir ist kalt.* The person is in the Dativ and the verb is always *ist*.",
+      "Subject before the verb after a time word: ✗ *Morgen wir sind in Rom.* → ✓ *Morgen sind wir in Rom.* The verb stays in position 2."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::bin::sein}} müde.",
+      "en": "I am tired.",
+      "focus": "*ich* + Adjektiv",
+      "explanation": "The subject is *ich* (1st person singular). The *ich*-form of *sein* is **bin**; it does not look like the infinitive at all, so learn it as a separate word. *müde* is a predicative adjective after *sein* and has no ending.",
+      "pattern": "ich + **bin** + Adjektiv",
+      "mistake": {"wrong": "Ich ist müde.", "why": "*ist* is the form for *er/sie/es*. With *ich* the only correct form is *bin*."},
+      "examples": [
+        {"de": "Ich bin heute krank.", "en": "I am ill today."},
+        {"de": "Ich bin ziemlich nervös.", "en": "I am quite nervous."}
+      ],
+      "words": [{"de": "müde", "en": "tired"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::bist::sein}} sehr nett.",
+      "en": "You are very nice.",
+      "focus": "*du* + Adjektiv",
+      "explanation": "*du* is the informal singular 'you' (for friends, family, children). Its form is **bist**. Like the *du*-form of almost every German verb, it ends in *-st*. *sehr* is an adverb that makes *nett* stronger; *nett* has no ending after *sein*.",
+      "pattern": "du + **bist** + (sehr) + Adjektiv",
+      "mistake": {"wrong": "Du ist sehr nett.", "why": "*ist* belongs to *er/sie/es*. With *du* the verb ends in *-st*: *du bist*."},
+      "examples": [
+        {"de": "Du bist wirklich lustig.", "en": "You are really funny."},
+        {"de": "Du bist heute so ruhig.", "en": "You are so quiet today."}
+      ],
+      "words": [{"de": "nett", "en": "nice, kind"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::ist::sein}} Lehrer.",
+      "en": "He is a teacher.",
+      "focus": "*er* + Beruf",
+      "explanation": "*er* (3rd person singular) takes **ist**. A profession after *sein* normally has no article in German: *Er ist Lehrer*. English needs *a teacher*, German does not.",
+      "pattern": "er + **ist** + Beruf (ohne Artikel)",
+      "mistake": {"wrong": "Er bist Lehrer.", "why": "*bist* is only for *du*. For *er/sie/es* the form is *ist*."},
+      "examples": [
+        {"de": "Er ist Koch in einem Hotel.", "en": "He is a cook in a hotel."},
+        {"de": "Mein Nachbar ist Busfahrer.", "en": "My neighbour is a bus driver."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie {{c1::ist::sein}} aus Berlin.",
+      "en": "She is from Berlin.",
+      "focus": "*sie* (Singular) + Herkunft",
+      "explanation": "With the verb **ist**, *Sie* at the start of the sentence can only mean 'she', because *ist* is 3rd person singular. With *sind* the same word would mean 'they' or formal 'you'. *aus* + city or country gives the origin.",
+      "pattern": "sie (= she) + **ist** + aus + Ort",
+      "mistake": {"wrong": "Sie bist aus Berlin.", "why": "*bist* is the *du*-form. *sie* in the meaning 'she' takes *ist*."},
+      "examples": [
+        {"de": "Sie ist aus der Schweiz.", "en": "She is from Switzerland."},
+        {"de": "Meine Frau ist aus Polen.", "en": "My wife is from Poland."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Es {{c1::ist::sein}} heute kalt.",
+      "en": "It is cold today.",
+      "focus": "Wetter · unpersönliches *es*",
+      "explanation": "Weather is described with the impersonal subject *es* + *sein*. *es* is 3rd person singular → **ist**. *es* has no real meaning here; it only fills the subject slot, like English *it*. The time word *heute* normally stands before the predicative adjective *kalt*.",
+      "pattern": "es + **ist** + (Zeit) + Adjektiv (Wetter)",
+      "mistake": {"wrong": "Heute es ist kalt.", "why": "If *heute* is in position 1, the verb must still be in position 2, and *es* moves behind it: *Heute ist es kalt.*"},
+      "examples": [
+        {"de": "Es ist heute sehr windig.", "en": "It is very windy today."},
+        {"de": "Im Sommer ist es hier oft heiß.", "en": "In summer it is often hot here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true,
+      "correction": "Legacy word order was 'Es ist kalt heute.' The time adverb was placed after the adjective, which is only a spoken afterthought. Neutral word order: 'Es ist heute kalt.'"
+    },
+    {
+      "key": "g05",
+      "de": "Wir {{c1::sind::sein}} Studenten.",
+      "en": "We are students.",
+      "focus": "*wir* + Nomen im Plural",
+      "explanation": "*wir* (1st person plural) takes **sind**. The noun after *sein* agrees with the plural subject: *Studenten*, not *Student*. As with professions, there is no article.",
+      "pattern": "wir + **sind** + Nomen (Plural, ohne Artikel)",
+      "mistake": {"wrong": "Wir seid Studenten.", "why": "*seid* belongs to *ihr*. *wir* takes *sind*, the same form as *sie/Sie*."},
+      "examples": [
+        {"de": "Wir sind Nachbarn.", "en": "We are neighbours."},
+        {"de": "Wir sind alte Freunde.", "en": "We are old friends."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ihr {{c1::seid::sein}} schon hier.",
+      "en": "You (all) are already here.",
+      "focus": "*ihr* + Ort",
+      "explanation": "*ihr* is the informal plural 'you' (two or more people you say *du* to). Its form is **seid**, written with *d*. *schon* means 'already'.",
+      "pattern": "ihr + **seid** + Ortsangabe",
+      "mistake": {"wrong": "Ihr seit schon hier.", "why": "*seit* with *t* is the preposition 'since' (*seit Montag*). The verb form for *ihr* is *seid* with *d*."},
+      "examples": [
+        {"de": "Ihr seid noch im Büro.", "en": "You (all) are still at the office."},
+        {"de": "Ihr seid jetzt in Wien.", "en": "You (all) are in Vienna now."}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie {{c1::sind::sein}} aus Deutschland.",
+      "en": "They are from Germany.",
+      "focus": "*sie* (Plural) + Herkunft",
+      "explanation": "*sie* + **sind** = 'they' (3rd person plural). At the start of a sentence *Sie* is always written with a capital letter, so only the context shows if it means 'they' or formal 'you'; both take *sind*. Only *ist* would mean 'she'.",
+      "pattern": "sie (= they) + **sind** + aus + Land",
+      "mistake": {"wrong": "Sie seid aus Deutschland.", "why": "*seid* is only for *ihr*. 'They' and formal 'you' take *sind*."},
+      "examples": [
+        {"de": "Sie sind aus Italien und wohnen jetzt in Köln.", "en": "They are from Italy and now live in Cologne."},
+        {"de": "Unsere Gäste sind aus Japan.", "en": "Our guests are from Japan."}
+      ],
+      "words": [],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich {{c1::bin::sein}} 25 Jahre alt.",
+      "en": "I am 25 years old.",
+      "focus": "Alter · *ich*",
+      "explanation": "German gives the age with *sein*, as English does: *ich* → **bin** + number + *Jahre alt*. You can leave out *Jahre alt*: *Ich bin 25.* The verb *haben* is never used for age.",
+      "pattern": "ich + **bin** + Zahl + Jahre alt",
+      "mistake": {"wrong": "Ich habe 25 Jahre.", "why": "Some languages (Spanish, French, Persian) use 'have' for age. German always uses *sein*: *Ich bin 25 (Jahre alt).*"},
+      "examples": [
+        {"de": "Mein Sohn ist sieben Jahre alt.", "en": "My son is seven years old."},
+        {"de": "Ich bin fast vierzig.", "en": "I am almost forty."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::sind::sein}} zu Hause.",
+      "en": "We are at home.",
+      "focus": "*wir* + Ort (wo?)",
+      "explanation": "*wir* → **sind**. *zu Hause* answers the question *wo?* (where?) and describes a location, which fits the state verb *sein*. For a movement towards home German uses *nach Hause* with a verb of motion: *Wir gehen nach Hause.*",
+      "pattern": "wir + **sind** + zu Hause (wo?)",
+      "mistake": {"wrong": "Wir sind nach Hause.", "why": "*nach Hause* is a direction and needs a motion verb (*gehen, fahren*). *sein* describes a location, so it needs *zu Hause*."},
+      "examples": [
+        {"de": "Wir sind gerade im Supermarkt.", "en": "We are at the supermarket right now."},
+        {"de": "Wir sind noch im Kino.", "en": "We are still at the cinema."}
+      ],
+      "words": [{"de": "zu Hause", "en": "at home"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das {{c1::ist::sein}} sehr interessant.",
+      "en": "That is very interesting.",
+      "focus": "*das* (Demonstrativpronomen) + Adjektiv",
+      "explanation": "*das* is a demonstrative pronoun here ('that'). It refers to a whole situation or idea, not to one noun. It is 3rd person singular → **ist**.",
+      "pattern": "das + **ist** + Adjektiv",
+      "mistake": {"wrong": "Das sind sehr interessant.", "why": "*Das sind* is only used before a plural noun (*Das sind meine Bücher.*). Before an adjective *das* is singular: *Das ist interessant.*"},
+      "examples": [
+        {"de": "Das ist wirklich schade.", "en": "That is really a pity."},
+        {"de": "Das ist ganz einfach.", "en": "That is really easy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Bist::sein}} du Student?",
+      "en": "Are you a student?",
+      "focus": "Ja/Nein-Frage · *du*",
+      "explanation": "In a yes/no question the conjugated verb is in position 1 and the subject follows. *du* → **bist**; it has a capital *B* only because it starts the sentence. As in a statement, *Student* has no article after *sein*.",
+      "pattern": "**Bist** + du + Nomen?",
+      "mistake": {"wrong": "Ist du Student?", "why": "*ist* belongs to *er/sie/es*. The verb must match *du* also in a question: *Bist du …?*"},
+      "examples": [
+        {"de": "Bist du auch Ärztin?", "en": "Are you a doctor too?"},
+        {"de": "Bist du schon wach?", "en": "Are you awake yet?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir {{c1::sind::sein}} hungrig.",
+      "en": "We are hungry.",
+      "focus": "*wir* + Adjektiv (Zustand)",
+      "explanation": "*wir* → **sind**. *hungrig sein* is correct, but in everyday German *Hunger haben* is more common: *Wir haben Hunger.* Both mean 'We are hungry'.",
+      "pattern": "wir + **sind** + Adjektiv",
+      "mistake": {"wrong": "Wir sein hungrig.", "why": "*sein* is the infinitive. With *wir* the conjugated form is *sind*."},
+      "examples": [
+        {"de": "Wir sind sehr zufrieden.", "en": "We are very satisfied."},
+        {"de": "Wir sind ganz nass.", "en": "We are completely wet."}
+      ],
+      "words": [{"de": "hungrig", "en": "hungry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Du {{c1::bist::sein}} mein bester Freund.",
+      "en": "You are my best friend.",
+      "focus": "*du* + Nomen im Nominativ",
+      "explanation": "*du* → **bist**. *sein* never takes an Akkusativ object: the noun after it is in the Nominativ, like the subject. So it is *mein bester Freund* (masculine Nominativ), not *meinen besten Freund*.",
+      "pattern": "du + **bist** + Nominativ",
+      "mistake": {"wrong": "Du bist meinen besten Freund.", "why": "*meinen besten Freund* is Akkusativ. *sein* links two Nominativ phrases: *Du bist mein bester Freund.*"},
+      "examples": [
+        {"de": "Du bist ein guter Koch.", "en": "You are a good cook."},
+        {"de": "Du bist ein echter Freund.", "en": "You are a true friend."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er {{c1::ist::sein}} sehr klug.",
+      "en": "He is very clever.",
+      "focus": "*er* + Adjektiv",
+      "explanation": "*er* → **ist**. *klug* stands after *sein*, so it is predicative and has no ending, even though *er* is masculine. An ending only appears before a noun: *ein kluger Mann*.",
+      "pattern": "er + **ist** + Adjektiv (ohne Endung)",
+      "mistake": {"wrong": "Er ist sehr kluger.", "why": "A predicative adjective after *sein* never takes an ending. *kluger* is only possible before a noun: *ein kluger Mann*."},
+      "examples": [
+        {"de": "Er ist sehr fleißig.", "en": "He is very hard-working."},
+        {"de": "Mein Opa ist noch fit.", "en": "My grandpa is still fit."}
+      ],
+      "words": [{"de": "klug", "en": "clever, smart"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ihr {{c1::seid::sein}} willkommen.",
+      "en": "You (all) are welcome.",
+      "focus": "*ihr* + Adjektiv",
+      "explanation": "*ihr* → **seid**. *willkommen sein* means 'to be welcome' as a guest. It is not the answer to *Danke*; for 'You're welcome' German says *Bitte* or *Gern geschehen*.",
+      "pattern": "ihr + **seid** + Adjektiv",
+      "mistake": {"wrong": "Ihr sind willkommen.", "why": "*sind* is for *wir* and *sie/Sie*. With *ihr* the form is *seid*."},
+      "examples": [
+        {"de": "Ihr seid sehr mutig.", "en": "You (all) are very brave."},
+        {"de": "Ihr seid so laut!", "en": "You (all) are so loud!"}
+      ],
+      "words": [{"de": "willkommen", "en": "welcome"}],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das {{c1::ist::sein}} keine gute Idee.",
+      "en": "That's not a good idea.",
+      "focus": "*das* + Negation eines Nomens",
+      "explanation": "*das* → **ist**. A noun with *ein/eine* (or with no article) is negated with *kein*: *eine gute Idee → keine gute Idee*. *nicht* is used for adjectives (*Das ist nicht gut.*).",
+      "pattern": "das + **ist** + kein- + (Adj.) + Nomen",
+      "mistake": {"wrong": "Das ist nicht eine gute Idee.", "why": "*nicht ein-* is replaced by *kein-*: *keine gute Idee*. (*nicht eine* is only used for emphasis: 'not a single one'.)"},
+      "examples": [
+        {"de": "Das ist kein Problem.", "en": "That's no problem."},
+        {"de": "Das ist keine schlechte Frage.", "en": "That is not a bad question."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie {{c1::sind::sein}} schon weg.",
+      "en": "They are already gone.",
+      "focus": "*sie* (Plural) + Adverb",
+      "explanation": "The form **sind** shows that *Sie* is plural here ('they'); 'She is already gone' would be *Sie ist schon weg*. *schon* stands after the verb, and *weg sein* means 'to be gone, to have left'.",
+      "pattern": "sie (= they) + **sind** + schon + weg",
+      "mistake": {"wrong": "Sie schon sind weg.", "why": "*schon* cannot stand between the subject and the verb (English *they already are*). In a statement the verb is in position 2: *Sie sind schon weg.*"},
+      "examples": [
+        {"de": "Die Gäste sind schon weg.", "en": "The guests have already left."},
+        {"de": "Die Kinder sind schon im Bett.", "en": "The children are already in bed."}
+      ],
+      "words": [{"de": "weg sein", "en": "to be gone, to have left"}],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich {{c1::bin::sein}} aus dem Iran.",
+      "en": "I am from Iran.",
+      "focus": "*ich* + Herkunft · Land mit Artikel",
+      "explanation": "*ich* → **bin**. Most country names have no article (*aus Deutschland*), but a few keep it: *der Iran → aus dem Iran*, *die Türkei → aus der Türkei*. *aus* always takes the Dativ.",
+      "pattern": "ich + **bin** + aus + dem/der + Land",
+      "mistake": {"wrong": "Ich bist aus dem Iran.", "why": "*bist* is the *du*-form. *ich* always takes *bin*."},
+      "examples": [
+        {"de": "Ich bin aus der Türkei.", "en": "I am from Turkey."},
+        {"de": "Ich bin aus den USA.", "en": "I am from the USA."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir {{c1::sind::sein}} bereit.",
+      "en": "We are ready.",
+      "focus": "*wir* + Adjektiv",
+      "explanation": "*wir* → **sind**. *bereit* (ready, prepared) is predicative and has no ending. For 'finished with a task' German usually says *fertig*: *Wir sind fertig.*",
+      "pattern": "wir + **sind** + Adjektiv",
+      "mistake": {"wrong": "Wir bin bereit.", "why": "*bin* only goes with *ich*. *wir* takes the plural form *sind*."},
+      "examples": [
+        {"de": "Wir sind jetzt fertig.", "en": "We are finished now."},
+        {"de": "Wir sind bereit für die Prüfung.", "en": "We are ready for the exam."}
+      ],
+      "words": [{"de": "bereit", "en": "ready, prepared"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ihr {{c1::seid::sein}} heute sehr leise.",
+      "en": "You (all) are very quiet today.",
+      "focus": "*ihr* + Zeit + Adjektiv",
+      "explanation": "*ihr* → **seid**, written with *-d* at the end (not *seit*, the preposition 'since'). Do not mix it up with *sind* (*wir, sie/Sie*). The time word *heute* comes after the verb and before the adjective. *leise* (quiet) has no ending after *sein*.",
+      "pattern": "ihr + **seid** + Zeit + Adjektiv",
+      "mistake": {"wrong": "Ihr ist heute sehr leise.", "why": "*ist* is 3rd person singular. *ihr* is the plural 'you' and needs *seid*."},
+      "examples": [
+        {"de": "Ihr seid heute sehr früh wach.", "en": "You (all) are awake very early today."},
+        {"de": "Ihr seid heute sehr fleißig.", "en": "You (all) are very hard-working today."}
+      ],
+      "words": [{"de": "leise", "en": "quiet (not loud)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Sind::sein}} Sie Frau Weber?",
+      "en": "Are you Mrs Weber?",
+      "focus": "Ja/Nein-Frage · formelles *Sie*",
+      "explanation": "Formal *Sie* always takes the plural form **sind**, even when you speak to one person. In a yes/no question the verb comes first: *Sind Sie …?* A name after *sein* has no article.",
+      "pattern": "**Sind** + Sie + Name?",
+      "mistake": {"wrong": "Ist Sie Frau Weber?", "why": "Formal *Sie* takes *sind*, also for one person. *Ist sie …?* would mean 'Is she …?'."},
+      "examples": [
+        {"de": "Sind Sie Herr Brandt?", "en": "Are you Mr Brandt?"},
+        {"de": "Sind Sie neu hier?", "en": "Are you new here?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Meine Eltern {{c1::sind::sein}} im Urlaub.",
+      "en": "My parents are on holiday.",
+      "focus": "Nomen im Plural als Subjekt",
+      "explanation": "*Eltern* is a plural noun. A plural noun subject is like *sie* (they) → **sind**, even without a pronoun. *im Urlaub sein* means 'to be on holiday' (*im* = *in dem*).",
+      "pattern": "Nomen (Plural) + **sind** + Ortsangabe",
+      "mistake": {"wrong": "Meine Eltern ist im Urlaub.", "why": "*Eltern* is plural, so the verb must be plural too: *sind*."},
+      "examples": [
+        {"de": "Meine Großeltern sind sehr aktiv.", "en": "My grandparents are very active."},
+        {"de": "Die Läden sind sonntags geschlossen.", "en": "The shops are closed on Sundays."}
+      ],
+      "words": [{"de": "die Eltern (Pl.)", "en": "parents"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Das {{c1::ist::sein}} nicht mein Koffer.",
+      "en": "That is not my suitcase.",
+      "focus": "Negation · Nomen mit Possessivartikel",
+      "explanation": "*das* → **ist**, and *nicht* follows the verb. A noun with a possessive (*mein, dein, unser …*) is negated with *nicht*, not *kein*. *kein* only replaces *ein* or no article.",
+      "pattern": "das + **ist** + nicht + Possessiv + Nomen",
+      "mistake": {"wrong": "Das ist kein mein Koffer.", "why": "*kein* cannot stand before a possessive. With *mein/dein* you negate with *nicht*: *nicht mein Koffer*."},
+      "examples": [
+        {"de": "Das ist nicht meine Jacke.", "en": "That is not my jacket."},
+        {"de": "Das ist nicht unser Auto.", "en": "That isn't our car."}
+      ],
+      "words": [{"de": "der Koffer (-)", "en": "suitcase"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Wo {{c1::bist::sein}} du gerade?",
+      "en": "Where are you right now?",
+      "focus": "W-Frage · *du*",
+      "explanation": "In a W-question the question word is in position 1 and the verb in position 2: *Wo* – **bist** – *du*. *du* → *bist*. *gerade* means 'right now'.",
+      "pattern": "W-Wort + **bist** + du + …?",
+      "mistake": {"wrong": "Wo du bist gerade?", "why": "In a direct question the verb comes directly after the question word, and the subject follows it: *Wo bist du gerade?*"},
+      "examples": [
+        {"de": "Wann bist du morgen im Büro?", "en": "When are you at the office tomorrow?"},
+        {"de": "Warum bist du so traurig?", "en": "Why are you so sad?"}
+      ],
+      "words": [{"de": "gerade", "en": "right now, at the moment"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Wir {{c1::sind::sein}} seit Montag hier.",
+      "en": "We have been here since Monday.",
+      "focus": "*wir* + *seit* (Dauer bis jetzt)",
+      "explanation": "*wir* → **sind**. A state that started in the past and is still true now takes the Präsens + *seit* in German, where English uses the present perfect (*have been*). Do not mix up the preposition *seit* with the verb form *seid*.",
+      "pattern": "wir + **sind** + seit + Zeitpunkt",
+      "mistake": {"wrong": "Wir seid seit Montag hier.", "why": "*seid* is the *ihr*-form; with *wir* it is *sind*. The word *seit* after the verb is the preposition 'since', not a verb."},
+      "examples": [
+        {"de": "Ich bin seit zwei Jahren in Deutschland.", "en": "I have been in Germany for two years."},
+        {"de": "Sie ist seit Mai verheiratet.", "en": "She has been married since May."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Ich {{c1::bin::sein}} Ingenieur von Beruf.",
+      "en": "I am an engineer by profession.",
+      "focus": "Beruf · ohne Artikel",
+      "explanation": "*ich* → **bin**. A profession after *sein* has no article: *Ingenieur*, not *ein Ingenieur*. You need *ein* only with an adjective: *Ich bin ein guter Ingenieur.* *von Beruf* means 'by profession'.",
+      "pattern": "ich + **bin** + Beruf + von Beruf",
+      "mistake": {"wrong": "Ich bin ein Ingenieur von Beruf.", "why": "With *von Beruf* (and normally after *sein*) a profession has no article. *ein* is only needed with an adjective: *ein guter Ingenieur*."},
+      "examples": [
+        {"de": "Meine Mutter ist Ärztin von Beruf.", "en": "My mother is a doctor by profession."},
+        {"de": "Er ist Elektriker von Beruf.", "en": "He is an electrician by profession."}
+      ],
+      "words": [{"de": "von Beruf", "en": "by profession"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Der Kaffee {{c1::ist::sein}} noch heiß.",
+      "en": "The coffee is still hot.",
+      "focus": "Nomen im Singular als Subjekt · Adjektiv",
+      "explanation": "*der Kaffee* is a singular noun (= *er*) → **ist**. *heiß* is predicative and has no ending. Compare the adjective before the noun, which does have one: *der heiße Kaffee*.",
+      "pattern": "Nomen (Sg.) + **ist** + Adjektiv (ohne Endung)",
+      "mistake": {"wrong": "Der Kaffee ist noch heiße.", "why": "After *sein* the adjective stays in its base form: *ist heiß*. The ending *-e* is only used before a noun: *der heiße Kaffee*."},
+      "examples": [
+        {"de": "Die Suppe ist noch warm.", "en": "The soup is still warm."},
+        {"de": "Das Wasser ist sehr kalt.", "en": "The water is very cold."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Du {{c1::bist::sein}} nicht allein.",
+      "en": "You are not alone.",
+      "focus": "*du* + Negation",
+      "explanation": "*du* → **bist**. It ends in *-st*, like the *du*-form of almost all German verbs. *nicht* comes after the verb and directly before the adjective *allein*.",
+      "pattern": "du + **bist** + nicht + Adjektiv",
+      "mistake": {"wrong": "Du nicht bist allein.", "why": "In a main clause *nicht* never comes before the conjugated verb. Verb in position 2, then *nicht*: *Du bist nicht allein.*"},
+      "examples": [
+        {"de": "Du bist nicht schuld.", "en": "It is not your fault."},
+        {"de": "Du bist heute nicht pünktlich.", "en": "You are not on time today."}
+      ],
+      "words": [{"de": "allein", "en": "alone"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Es {{c1::ist::sein}} Viertel nach acht.",
+      "en": "It is a quarter past eight.",
+      "focus": "Uhrzeit · unpersönliches *es*",
+      "explanation": "Clock times use the impersonal subject *es* + **ist**. The verb is always singular, even with a plural number: *Es ist zwei Uhr.* *Viertel nach acht* = 8:15.",
+      "pattern": "es + **ist** + Uhrzeit",
+      "mistake": {"wrong": "Es sind Viertel nach acht.", "why": "With clock times the subject is always singular *es*, so the verb is *ist*, never *sind*."},
+      "examples": [
+        {"de": "Es ist halb drei.", "en": "It is half past two."},
+        {"de": "Es ist genau zehn Uhr.", "en": "It is exactly ten o'clock."}
+      ],
+      "words": [{"de": "Viertel nach", "en": "quarter past"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Herr Klein, {{c1::sind::sein}} Sie müde?",
+      "en": "Mr Klein, are you tired?",
+      "focus": "Anrede + Ja/Nein-Frage · formell",
+      "explanation": "The name *Herr Klein* is a form of address, separated by a comma. It stands outside the sentence and does not take position 1, so the yes/no question still starts with the verb. Formal *Sie* → **sind**.",
+      "pattern": "Anrede, + **sind** + Sie + …?",
+      "mistake": {"wrong": "Herr Klein, bist Sie müde?", "why": "*bist* is the *du*-form. When you call someone *Herr Klein*, you use *Sie*, and *Sie* takes *sind*."},
+      "examples": [
+        {"de": "Frau Lang, sind Sie heute im Büro?", "en": "Mrs Lang, are you at the office today?"},
+        {"de": "Herr Doktor, sind Sie sicher?", "en": "Doctor, are you sure?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Sie {{c1::ist::sein}} meine Schwester.",
+      "en": "She is my sister.",
+      "focus": "*sie* (Singular) + Nomen",
+      "explanation": "The verb shows the meaning of *Sie*: **ist** = 'she'. 'They are my sisters' would be *Sie sind meine Schwestern*. *meine Schwester* is in the Nominativ after *sein*.",
+      "pattern": "sie (= she) + **ist** + Nominativ",
+      "mistake": {"wrong": "Sie bist meine Schwester.", "why": "*bist* is the *du*-form. 'She' is 3rd person singular → *ist*. (*Sie sind …* would mean 'they' or formal 'you', and that does not fit one sister.)"},
+      "examples": [
+        {"de": "Sie ist meine Chefin.", "en": "She is my boss."},
+        {"de": "Sie ist unsere Nachbarin.", "en": "She is our neighbour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Wir {{c1::sind::sein}} alle bereit.",
+      "en": "We are all ready.",
+      "focus": "*wir* + *alle*",
+      "explanation": "*wir* → **sind**. *alle* refers back to the subject *wir* ('all of us'). It stands after the verb (*Wir sind alle …*) or directly after *wir* (*Wir alle sind …*), but never before *wir*. It does not change the verb form.",
+      "pattern": "wir + **sind** + alle + Adjektiv",
+      "mistake": {"wrong": "Alle wir sind bereit.", "why": "*alle* cannot stand before the pronoun *wir*. Correct: *Wir sind alle bereit* or *Wir alle sind bereit*."},
+      "examples": [
+        {"de": "Wir sind alle aus Spanien.", "en": "We are all from Spain."},
+        {"de": "Sie sind alle sehr nett.", "en": "They are all very nice."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ich {{c1::bin::sein}} nicht sicher.",
+      "en": "I am not sure.",
+      "focus": "*ich* + Negation + Adjektiv",
+      "explanation": "*ich* → **bin**. An adjective after *sein* is negated with *nicht*, which stands directly before it: *bin nicht sicher*. *kein* is only used before nouns.",
+      "pattern": "ich + **bin** + nicht + Adjektiv",
+      "mistake": {"wrong": "Ich bin kein sicher.", "why": "*kein* only negates nouns. An adjective is negated with *nicht*: *Ich bin nicht sicher.*"},
+      "examples": [
+        {"de": "Ich bin nicht verheiratet.", "en": "I am not married."},
+        {"de": "Ich bin nicht zufrieden.", "en": "I am not satisfied."}
+      ],
+      "words": [{"de": "sicher", "en": "sure; safe"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Ihr {{c1::seid::sein}} sehr willkommen.",
+      "en": "You (all) are very welcome.",
+      "focus": "*ihr* vs. formelles *Sie*",
+      "explanation": "*ihr* is for a group of people you say *du* to (friends, family, children). It takes **seid**. A group that you address formally gets *Sie sind*: *Sie sind sehr willkommen.*",
+      "pattern": "ihr + **seid** + sehr + Adjektiv",
+      "mistake": {"wrong": "Ihr bist sehr willkommen.", "why": "*bist* is singular (*du*). *ihr* is plural and takes *seid*."},
+      "examples": [
+        {"de": "Ihr seid sehr großzügig.", "en": "You (all) are very generous."},
+        {"de": "Ihr seid sehr gute Gastgeber.", "en": "You (all) are very good hosts."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "{{c1::Ist::sein}} das dein Fahrrad?",
+      "en": "Is that your bicycle?",
+      "focus": "Ja/Nein-Frage · *das* + Nomen im Singular",
+      "explanation": "*das* as a demonstrative ('that') works for every gender: *Ist das dein Fahrrad / deine Tasche / dein Hund?* The verb **ist** comes first in the question and agrees with the singular noun *Fahrrad*. With a plural noun it would be *Sind das deine Schuhe?*",
+      "pattern": "**Ist** + das + Possessiv + Nomen (Sg.)?",
+      "mistake": {"wrong": "Sind das dein Fahrrad?", "why": "*Sind das …?* is only used with a plural noun. *Fahrrad* is singular → *Ist das dein Fahrrad?*"},
+      "examples": [
+        {"de": "Ist das deine Tasche?", "en": "Is that your bag?"},
+        {"de": "Ist das Ihr Platz?", "en": "Is that your seat?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Das {{c1::sind::sein}} meine Kinder.",
+      "en": "These are my children.",
+      "focus": "*das* + Nomen im Plural",
+      "explanation": "In *Das ist … / Das sind …* the verb agrees with the noun after it, not with *das*. *Kinder* is plural → **sind**. English changes the pronoun (*that is → these are*); German always keeps *das*.",
+      "pattern": "das + **sind** + Nomen (Plural)",
+      "mistake": {"wrong": "Das ist meine Kinder.", "why": "*Kinder* is plural, so the verb must be plural: *Das sind meine Kinder.* *Das ist* only goes with a singular noun."},
+      "examples": [
+        {"de": "Das sind meine Kollegen aus Berlin.", "en": "These are my colleagues from Berlin."},
+        {"de": "Das sind unsere Nachbarn.", "en": "Those are our neighbours."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Woher {{c1::sind::sein}} Sie?",
+      "en": "Where are you from?",
+      "focus": "W-Frage · formelles *Sie*",
+      "explanation": "*woher* asks for the origin; the answer uses *aus* (*Ich bin aus Kanada.*). Formal *Sie* → **sind**. The verb stays in position 2, directly after the question word.",
+      "pattern": "W-Wort + **sind** + Sie?",
+      "mistake": {"wrong": "Woher Sie sind?", "why": "In a direct W-question the verb comes directly after the question word: *Woher sind Sie?* The verb goes to the end only in a subordinate clause."},
+      "examples": [
+        {"de": "Wie lange sind Sie schon in Zürich?", "en": "How long have you been in Zurich?"},
+        {"de": "Wo sind Sie im Moment?", "en": "Where are you at the moment?"}
+      ],
+      "words": [{"de": "woher", "en": "where from"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Am Wochenende {{c1::sind::sein}} wir in München.",
+      "en": "We are in Munich at the weekend.",
+      "focus": "Inversion · Zeitangabe im Vorfeld",
+      "explanation": "*Am Wochenende* stands in position 1 (Vorfeld). The verb **sind** must stay in position 2, so the subject *wir* moves behind the verb: *Am Wochenende – sind – wir*. The form does not change: *wir* → *sind*.",
+      "pattern": "Zeitangabe + **sind** + wir + Ort",
+      "mistake": {"wrong": "Am Wochenende wir sind in München.", "why": "German main clauses are verb-second: only one element comes before the verb. After *Am Wochenende* the verb follows directly, then the subject."},
+      "examples": [
+        {"de": "Morgen bin ich in Basel.", "en": "Tomorrow I am in Basel."},
+        {"de": "Im Sommer sind wir oft am See.", "en": "In summer we are often at the lake."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Anna und ich {{c1::sind::sein}} Kollegen.",
+      "en": "Anna and I are colleagues.",
+      "focus": "zwei Subjekte mit *und*",
+      "explanation": "*Anna und ich* is one subject that refers to two people, the same as *wir* → **sind**. The verb does not agree with the nearest word *ich* (*bin*), because the whole subject is plural.",
+      "pattern": "X + und + ich (= wir) + **sind** + Nomen",
+      "mistake": {"wrong": "Anna und ich bin Kollegen.", "why": "*bin* agrees only with *ich*. *Anna und ich* together are *wir*, so the verb is plural: *sind*."},
+      "examples": [
+        {"de": "Mein Bruder und ich sind Zwillinge.", "en": "My brother and I are twins."},
+        {"de": "Paul und Maria sind verheiratet.", "en": "Paul and Maria are married."}
+      ],
+      "words": [{"de": "der Kollege (-n)", "en": "colleague"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Seid::sein}} ihr schon fertig?",
+      "en": "Are you (all) finished already?",
+      "focus": "Ja/Nein-Frage · *ihr*",
+      "explanation": "A yes/no question starts with the verb. *ihr* → **seid**; the capital *S* is only there because it is the first word. *fertig sein* means 'to be finished'.",
+      "pattern": "**Seid** + ihr + Adjektiv?",
+      "mistake": {"wrong": "Sind ihr schon fertig?", "why": "*sind* goes with *wir* and *sie/Sie*. In a question *ihr* keeps its own form: *Seid ihr …?*"},
+      "examples": [
+        {"de": "Seid ihr auch aus Graz?", "en": "Are you (all) from Graz too?"},
+        {"de": "Seid ihr heute Abend da?", "en": "Are you (all) around this evening?"}
+      ],
+      "words": [{"de": "fertig", "en": "finished, ready"}],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wie alt {{c1::ist::sein}} dein Bruder?",
+      "en": "How old is your brother?",
+      "focus": "Alter · W-Frage · Nomen als Subjekt",
+      "explanation": "*Wie alt* asks for the age and fills position 1. The subject is *dein Bruder*, a singular noun (= *er*) → **ist**. The possessive *dein* does not make it a *du*-sentence.",
+      "pattern": "Wie alt + **ist** + Possessiv + Nomen (Sg.)?",
+      "mistake": {"wrong": "Wie alt bist dein Bruder?", "why": "*bist* only goes with the subject *du*. Here the subject is *dein Bruder* (3rd person singular), so the verb is *ist*."},
+      "examples": [
+        {"de": "Wie alt ist eure Tochter?", "en": "How old is your daughter?"},
+        {"de": "Wie alt ist das Haus?", "en": "How old is the house?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Er {{c1::ist::sein}} kein Arzt, sondern Krankenpfleger.",
+      "en": "He is not a doctor but a nurse.",
+      "focus": "Beruf · Negation mit *kein*",
+      "explanation": "*er* → **ist**. A profession without an article is normally negated with *kein*: *Er ist Arzt → Er ist kein Arzt*. *kein* is in the Nominativ (*kein Arzt*), because *sein* takes the Nominativ. *sondern* introduces the correct alternative after the negation.",
+      "pattern": "er + **ist** + kein + Beruf, sondern + Beruf",
+      "mistake": {"wrong": "Er ist keinen Arzt, sondern Krankenpfleger.", "why": "*keinen* is Akkusativ. After *sein* the noun stays in the Nominativ: *kein Arzt*."},
+      "examples": [
+        {"de": "Ich bin kein Tourist, ich wohne hier.", "en": "I am not a tourist, I live here."},
+        {"de": "Sie ist keine Studentin mehr.", "en": "She is no longer a student."}
+      ],
+      "words": [{"de": "der Krankenpfleger (-)", "en": "(male) nurse"}, {"de": "sondern", "en": "but (after a negation)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Entschuldigung, wo {{c1::ist::sein}} die Toilette?",
+      "en": "Excuse me, where is the toilet?",
+      "focus": "W-Frage · Ort · Nomen im Singular",
+      "explanation": "*wo?* + *sein* asks for a location. The subject *die Toilette* is a singular noun (= *sie*) → **ist**, and it comes after the verb. *Entschuldigung* is outside the sentence (comma) and does not count as position 1.",
+      "pattern": "wo + **ist** + Nomen (Sg.)?",
+      "mistake": {"wrong": "Entschuldigung, wo sind die Toilette?", "why": "*Toilette* is singular → *ist*. *sind* would need a plural noun: *Wo sind die Toiletten?*"},
+      "examples": [
+        {"de": "Wo ist der Ausgang?", "en": "Where is the exit?"},
+        {"de": "Wo ist hier eine Apotheke?", "en": "Where is there a pharmacy around here?"}
+      ],
+      "words": [{"de": "Entschuldigung", "en": "excuse me, sorry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wie {{c1::ist::sein}} Ihr Name?",
+      "en": "What is your name?",
+      "focus": "W-Frage · *Ihr* + Nomen als Subjekt",
+      "explanation": "The subject is *Ihr Name*, a singular noun (3rd person) → **ist**. The formal possessive *Ihr* does not make the verb plural; only the pronoun *Sie* itself takes *sind*. For a name German usually asks *Wie …?*, not *Was …?*.",
+      "pattern": "Wie + **ist** + Ihr + Nomen (Sg.)?",
+      "mistake": {"wrong": "Wie sind Ihr Name?", "why": "*sind* would agree with *Sie*, but the subject is *Ihr Name* (singular). The verb agrees with the noun: *ist*."},
+      "examples": [
+        {"de": "Wie ist Ihre Telefonnummer?", "en": "What is your phone number?"},
+        {"de": "Wie ist deine Adresse?", "en": "What is your address?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Mir {{c1::ist::sein}} kalt.",
+      "en": "I'm cold.",
+      "focus": "Dativ + *sein* · Körpergefühl",
+      "explanation": "For a body feeling (cold, hot, sick) German uses a Dativ pronoun + *sein* + adjective. *Mir* is not the subject. The sentence has no subject at all, and in this case the verb is always 3rd person singular **ist**.",
+      "pattern": "Dativ (mir/dir/ihm …) + **ist** + Adjektiv",
+      "mistake": {"wrong": "Mir bin kalt.", "why": "*mir* is Dativ, not the subject, so the verb does not agree with it: it is always *ist*. (*Ich bin kalt* is a different sentence: 'I am a cold, unfriendly person'.)"},
+      "examples": [
+        {"de": "Mir ist schlecht.", "en": "I feel sick."},
+        {"de": "Ist dir warm genug?", "en": "Are you warm enough?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Sie {{c1::sind::sein}} sehr freundlich, Frau Berger.",
+      "en": "You are very kind, Mrs Berger.",
+      "focus": "formelles *Sie* · eine Person",
+      "explanation": "The name *Frau Berger* at the end shows that *Sie* is the formal 'you', addressed to one person. Formal *Sie* always takes **sind**, the plural form, even for one person.",
+      "pattern": "Sie (formell) + **sind** + Adjektiv, + Anrede",
+      "mistake": {"wrong": "Sie bist sehr freundlich, Frau Berger.", "why": "Do not mix the *du*-form *bist* with *Sie*. Formal *Sie* takes *sind*."},
+      "examples": [
+        {"de": "Sie sind sehr hilfsbereit, Herr Wolf.", "en": "You are very helpful, Mr Wolf."},
+        {"de": "Frau Kaya, Sie sind heute sehr früh hier.", "en": "Mrs Kaya, you are here very early today."}
+      ],
+      "words": [{"de": "freundlich", "en": "friendly, kind"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Das Zimmer ist klein, aber es {{c1::ist::sein}} sauber.",
+      "en": "The room is small, but it is clean.",
+      "focus": "Personalpronomen für ein Nomen (Neutrum)",
+      "explanation": "*es* replaces the neuter noun *das Zimmer*. A personal pronoun follows the grammatical gender of the noun: *der Tisch → er*, *die Lampe → sie*, *das Zimmer → es*. All three take **ist**.",
+      "pattern": "Nomen (n.) … es + **ist** + Adjektiv",
+      "mistake": {"wrong": "Das Zimmer ist klein, aber er ist sauber.", "why": "*Zimmer* is neuter, so the pronoun is *es*, not *er*. English *it* can be *er, sie* or *es* in German, depending on the gender of the noun."},
+      "examples": [
+        {"de": "Der Tisch ist alt, aber er ist stabil.", "en": "The table is old, but it is sturdy."},
+        {"de": "Die Wohnung ist teuer, aber sie ist sehr hell.", "en": "The flat is expensive, but it is very bright."}
+      ],
+      "words": [{"de": "sauber", "en": "clean"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form sind.",
+      "prompt": "Which subjects take the form *sind*, and how do you tell them apart?",
+      "answer": "**wir**, **sie** (they), formal **Sie** (you, one or more people) and every plural noun subject (*die Kinder, Anna und Paul*). Inside a sentence the capital letter separates *Sie* (formal) from *sie* (they); at the start of a sentence only the context does.",
+      "explanation": "*sind* is the plural form, and formal *Sie* is grammatically plural, even for one person. The singular *sie* (she) is the only *sie* that takes *ist*. So the verb form often tells you which *sie* is meant.",
+      "examples": [
+        {"de": "Die Kinder sind im Garten.", "en": "The children are in the garden."},
+        {"de": "Wann sind Sie im Büro, Frau Roth?", "en": "When are you at the office, Mrs Roth?"}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about articles after sein.",
+      "prompt": "When do you use an article with a profession or nationality after *sein*?",
+      "answer": "Normally **no article**: *Er ist Koch. Sie ist Spanierin.* You need **ein/eine** when an adjective describes the person: *Er ist ein guter Koch.*",
+      "explanation": "Without an adjective the noun only names a group (a job, a nationality), so German leaves out the article, unlike English *a cook*. With an adjective it describes one person, and the indefinite article is needed.",
+      "examples": [
+        {"de": "Sie ist Architektin.", "en": "She is an architect."},
+        {"de": "Sie ist eine sehr gute Architektin.", "en": "She is a very good architect."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two sentences.",
+      "prompt": "Why does German say *Mir ist kalt* and not *Ich bin kalt* for 'I am cold'?",
+      "answer": "Body feelings (*kalt, warm, heiß, schlecht, schwindlig*) use **Dativ + ist + adjective**. The person is in the Dativ (*mir, dir, ihm, uns …*), and the verb is always *ist*. *Ich bin kalt* describes a character: 'I am a cold person'.",
+      "explanation": "*Mir ist kalt* has no subject (*mir* is a Dativ, not a Nominativ). A verb without a subject is always 3rd person singular, so it stays *ist* for every person. Only the Dativ pronoun changes.",
+      "examples": [
+        {"de": "Ihm ist schwindlig.", "en": "He feels dizzy."},
+        {"de": "Uns ist warm.", "en": "We are warm."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about Das ist / Das sind.",
+      "prompt": "In *Das ist …* and *Das sind …*, what decides the verb form?",
+      "answer": "The noun after the verb. Singular noun → **Das ist** (*Das ist mein Sohn.*). Plural noun → **Das sind** (*Das sind meine Söhne.*). The word *das* itself never changes.",
+      "explanation": "*das* here only points at something; it has no number of its own. The verb agrees with the predicate noun. English changes the pronoun instead (*this is / these are*).",
+      "examples": [
+        {"de": "Das ist meine Mutter.", "en": "This is my mother."},
+        {"de": "Das sind meine Großeltern.", "en": "These are my grandparents."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about negation after sein.",
+      "prompt": "After *sein*, when do you negate with *nicht* and when with *kein*?",
+      "answer": "**kein** replaces *ein* or no article before a noun (*Er ist kein Arzt. Das ist kein Fehler.*). **nicht** negates adjectives, places and nouns with *der/die/das* or a possessive (*Ich bin nicht müde. Das ist nicht mein Handy.*).",
+      "explanation": "*kein* is the negative form of *ein*, so it only works where *ein* or no article would stand. A noun with a definite article or a possessive keeps that word and takes *nicht* before it.",
+      "examples": [
+        {"de": "Das ist keine Lösung.", "en": "That is not a solution."},
+        {"de": "Das ist nicht die Lösung.", "en": "That is not the solution."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "___ ihr morgen auch im Kurs?",
+      "options": ["Seid", "Seit", "Sind", "Bist"],
+      "correct": "Seid",
+      "answer": "Seid ihr morgen auch im Kurs?",
+      "explanation": "The subject is *ihr*, so the verb is *seid*. *Seit* is the preposition 'since', not a verb. *Sind* is for *wir* and *sie/Sie*, and *Bist* is the singular *du*-form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form of sein.",
+      "prompt": "Herr und Frau Yilmaz ___ aus der Türkei.",
+      "options": ["ist", "sind", "seid"],
+      "correct": "sind",
+      "answer": "Herr und Frau Yilmaz sind aus der Türkei.",
+      "explanation": "Two people joined with *und* form a plural subject (= *sie*, they) → *sind*. *ist* is singular, and *seid* is only for *ihr*."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form of sein.",
+      "prompt": "Das ___ meine Freunde aus Wien.",
+      "options": ["ist", "sind", "seid"],
+      "correct": "sind",
+      "answer": "Das sind meine Freunde aus Wien.",
+      "explanation": "After *das* the verb agrees with the noun that follows. *Freunde* is plural → *sind*. *ist* would need a singular noun (*Das ist mein Freund*), and *seid* belongs to *ihr*."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct word for 'I don't feel well'.",
+      "prompt": "___ ist nicht gut, ich bleibe heute zu Hause.",
+      "options": ["Mir", "Ich", "Mich"],
+      "correct": "Mir",
+      "answer": "Mir ist nicht gut, ich bleibe heute zu Hause.",
+      "explanation": "A body feeling uses the Dativ + *ist*: *Mir ist nicht gut* = 'I don't feel well'. *Ich* would need the verb *bin* (and *Ich bin nicht gut* means 'I am not good at it'). *Mich* is Akkusativ and is not used here."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Mein Onkel sind Koch.",
+      "answer": "Mein Onkel ist Koch.",
+      "explanation": "*Mein Onkel* is one person, a singular noun subject (= *er*). The verb must be singular: *ist*, not *sind*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Seit ihr Geschwister?",
+      "answer": "Seid ihr Geschwister?",
+      "explanation": "*Seit* (with *t*) is the preposition 'since'. The verb form for *ihr* is *seid*, with *d*. The two words sound the same, so check the spelling."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Heute ich bin sehr müde.",
+      "answer": "Heute bin ich sehr müde.",
+      "explanation": "*Heute* is in position 1, so the verb *bin* must come next in position 2, and the subject *ich* follows it. Two elements before the verb (*Heute ich*) are not possible in a German main clause."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er ist kein krank.",
+      "answer": "Er ist nicht krank.",
+      "explanation": "*krank* is an adjective. Adjectives after *sein* are negated with *nicht*; *kein* only negates nouns (*Er ist kein Patient.*)."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Change the subject to wir. Change the verb and the noun.",
+      "prompt": "Ich bin Lehrerin.",
+      "answer": "Wir sind Lehrerinnen.",
+      "explanation": "*ich bin* becomes *wir sind*. The predicate noun agrees with the plural subject, so *Lehrerin* becomes the plural *Lehrerinnen* (double *n*). There is still no article."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make it a yes/no question.",
+      "prompt": "Du bist aus Österreich.",
+      "answer": "Bist du aus Österreich?",
+      "explanation": "In a yes/no question the verb *bist* moves to position 1 and the subject *du* follows. The form of the verb does not change."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Ask the same question formally (Sie).",
+      "prompt": "Bist du verheiratet?",
+      "answer": "Sind Sie verheiratet?",
+      "explanation": "Formal *Sie* replaces *du*, and the verb changes from *bist* to the plural form *sind*. *Sie* is written with a capital letter, and the verb still stands in position 1."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace the subject with a personal pronoun.",
+      "prompt": "Der Kuchen ist sehr lecker.",
+      "answer": "Er ist sehr lecker.",
+      "explanation": "*Kuchen* is masculine (*der Kuchen*), so the pronoun is *er*, even though English says *it*. The verb stays *ist*, because *er* is 3rd person singular."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Heute",
+      "prompt": "ist / sehr / das Wetter / heute / schön",
+      "answer": "Heute ist das Wetter sehr schön.",
+      "explanation": "*Heute* is in position 1, the verb *ist* in position 2, and the subject *das Wetter* follows the verb. *sehr* stands directly before the adjective *schön*. Without the fixed start the neutral order is *Das Wetter ist heute sehr schön.*"
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Mein Mann",
+      "prompt": "nicht / zu Hause / mein Mann / ist / leider",
+      "answer": "Mein Mann ist leider nicht zu Hause.",
+      "explanation": "Subject in position 1, *ist* in position 2. *leider* comes before the negation, and *nicht* stands directly before the place *zu Hause*. Another correct order: *Leider ist mein Mann nicht zu Hause.*"
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence with the subject Mein Freund und ich.",
+      "prompt": "Ich bin müde. Mein Freund ist auch müde.",
+      "answer": "Mein Freund und ich sind müde.",
+      "explanation": "*Mein Freund und ich* is a plural subject (= *wir*), so *bin* and *ist* become *sind*. *auch* is no longer needed, because one sentence now covers both people."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence with the subject Lisa und Paul.",
+      "prompt": "Lisa ist Studentin. Paul ist Student.",
+      "answer": "Lisa und Paul sind Studenten.",
+      "explanation": "Two people form a plural subject → *sind*, and the noun after *sein* is plural too. For a mixed group the masculine plural *Studenten* is the usual form (also possible: *Studierende*)."
+    }
+  ]
+}

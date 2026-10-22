@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-01",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "past-simple-with-a-finished-time-i-saw-it-yesterday",
+      "term": "past simple with a finished time: I saw it yesterday",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The past simple describes an action or state at a finished time in the past, especially when that time is named: *yesterday*, *last week*, *in 2019*, *two days ago*, *when I was a kid*.",
+      "usage": "It is the normal tense for saying what happened and when. With a finished time expression, English does not allow the present perfect, even though German, French and many other languages use their perfect tense here. The time can also be clear from the situation without being named (*Did you see the game?* = last night's game).",
+      "pattern": "past simple + finished time (yesterday, last …, … ago, in 2019, when …)",
+      "examples": [
+        "I **saw** her at the grocery store **yesterday**.",
+        "We **moved** to Portland **three years ago**.",
+        "The old museum **opened in 1998** after ten years of planning."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I {{watched}} the new episode last night, and it was great.",
+        "hint": "Add *last night*: I've watched the new episode, and it was great."
+      },
+      "mistake": {
+        "wrong": "I have seen him yesterday.",
+        "right": "I saw him yesterday.",
+        "why": "A finished time like *yesterday* needs the past simple; the present perfect cannot go with it."
+      }
+    },
+    {
+      "id": "present-perfect-for-life-experience-have-you-ever-been-to-ja",
+      "term": "present perfect for life experience: Have you ever been to Japan?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect presents an experience as something that happened at some time in your life up to now, without saying when.",
+      "usage": "Use it with *ever* in questions and with *never*, *once*, *twice* or *before* in statements. As soon as you give or ask about the time, switch to the past simple: *Have you ever been to Japan? — Yes, I went in 2018.* In casual American speech, *Did you ever …?* is also common for experience.",
+      "pattern": "have / has (ever / never) + past participle, with no time given",
+      "examples": [
+        "**Have** you **ever tried** Ethiopian food?",
+        "I grew up in Miami, so **I've never seen** snow.",
+        "**We've stayed** at that hotel before; the rooms are tiny."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Have you ever eaten}} anything really spicy, like ghost peppers?",
+        "hint": "Ask about life experience with *ever* (present perfect): you / ever / eat anything really spicy, like ghost peppers?"
+      },
+      "mistake": {
+        "wrong": "Yes, I've been there in 2018.",
+        "right": "Yes, I went there in 2018.",
+        "why": "The present perfect presents the experience itself; once you add a finished time, switch to the past simple."
+      }
+    },
+    {
+      "id": "when-questions-in-the-past-simple-when-did-you-arrive",
+      "term": "When-questions in the past simple: When did you arrive?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Questions with *when* (and *what time*, *how long ago*) ask about a point in finished time, so they take the past simple, not the present perfect.",
+      "usage": "*When did you arrive?* is correct in both American and British English; *When have you arrived?* is not. The present perfect fits *How long have you …?*, which asks about a period up to now, not a point in time. The only common exception is a rhetorical question with *ever*: *When have I ever lied to you?*",
+      "pattern": "When / What time + did + subject + base verb?",
+      "examples": [
+        "**When did** you **get** back from Mexico?",
+        "**What time did** the kids **go** to bed last night?",
+        "**When did** the store **start** charging for bags?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{When did you start}} learning Spanish? You speak it so well.",
+        "hint": "Ask for the time: You started learning Spanish at some point. (when?)"
+      },
+      "mistake": {
+        "wrong": "When have you arrived?",
+        "right": "When did you arrive?",
+        "why": "*When* asks for a finished point in time, which needs the past simple."
+      }
+    },
+    {
+      "id": "present-perfect-for-unfinished-states-i-ve-known-her-for-yea",
+      "term": "present perfect for unfinished states: I've known her for years",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect with *for* or *since* describes a state that began in the past and is still true now: *I've known her for years* = I met her years ago and still know her.",
+      "usage": "Typical with state verbs such as *know*, *be*, *have*, *live*, *like* and *own*. *For* takes a length of time (*for ten years*), *since* a starting point (*since 2015*, *since college*). The present simple is wrong here, and the past simple would mean the state is over (*I knew her for years* = not anymore).",
+      "pattern": "have / has + past participle (state verb) + for + period / since + starting point",
+      "examples": [
+        "**I've known** Marco **since** we were in kindergarten.",
+        "My parents **have had** the same car **for** fifteen years.",
+        "**She's been** a nurse **for** almost a decade."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I've had}} this laptop since college, and it still works fine.",
+        "hint": "Combine: I got this laptop in college. I still have it, and it still works fine."
+      },
+      "mistake": {
+        "wrong": "I live here since 2019.",
+        "right": "I've lived here since 2019.",
+        "why": "A state that started in the past and continues now needs the present perfect, not the present simple."
+      }
+    },
+    {
+      "id": "how-long-have-you-how-long-have-you-lived-here",
+      "term": "How long have you …?: How long have you lived here?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*How long have you* + past participle asks about the length of a situation from its start until now.",
+      "usage": "Use it for situations that are still true: *How long have you lived here?* means since when, up to today. *How long do you live here?* is a common error from languages that use a present tense here, and *How long are you here for?* asks about the future: how much longer you'll stay. With activity verbs, the continuous is common: *How long have you been waiting?*",
+      "pattern": "How long + have / has + subject + past participle?",
+      "examples": [
+        "**How long have** you **lived** in Chicago?",
+        "**How long have** your parents **been** married?",
+        "**How long has** she **had** that cough?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{How long have you known}} each other? You seem like old friends.",
+        "hint": "Ask about the length of time up to now: You know each other. (how long?)"
+      },
+      "mistake": {
+        "wrong": "How long do you live here?",
+        "right": "How long have you lived here?",
+        "why": "For a situation from the past up to now, English uses the present perfect, not the present simple."
+      }
+    },
+    {
+      "id": "it-s-been-since-it-s-been-two-years-since-we-met",
+      "term": "It's been … since: It's been two years since we met",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*It's been* + a period + *since* + past simple says how much time has passed between an event and now.",
+      "usage": "Very common in speech and messages, especially when you reconnect with someone (*It's been ages since we talked!*). The *since* clause takes the past simple, because the event itself is finished. *It has been* is more formal, and *It's two years since …* is also heard, mainly in British English.",
+      "pattern": "It's been + period + since + past simple",
+      "examples": [
+        "**It's been** five years **since** I **quit** smoking.",
+        "Wow, **it's been** ages **since** we **talked**!",
+        "**It's been** a week **since** the storm, and some streets are still closed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It's been three months since}} I last went to the gym.",
+        "hint": "Say how much time has passed: I last went to the gym three months ago."
+      },
+      "mistake": {
+        "wrong": "It's been two years since we have met.",
+        "right": "It's been two years since we met.",
+        "why": "The *since* clause names a finished event, so it takes the past simple."
+      }
+    },
+    {
+      "id": "us-past-simple-with-just-already-and-yet-did-you-eat-yet",
+      "term": "US past simple with just, already and yet: Did you eat yet?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In American English, the past simple is common with *just*, *already* and *yet*, where British English normally uses the present perfect: *Did you eat yet?* = *Have you eaten yet?*",
+      "usage": "Both forms are correct in the US, and the present perfect is still common, especially in writing. The past simple sounds relaxed and natural in conversation and text messages. British listeners understand it but notice it as American.",
+      "pattern": "Did you … yet? / I already + past simple / I just + past simple",
+      "examples": [
+        "**Did** you **eat yet**? There's leftover pasta in the fridge.",
+        "I **already paid** for the tickets, so don't worry about it.",
+        "She **just left**; you might catch her in the parking lot."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Did you see}} the new Spider-Man movie yet?",
+        "hint": "Say it the relaxed American way, without *have*: Have you seen the new Spider-Man movie yet?"
+      },
+      "mistake": {
+        "wrong": "Did you already ate?",
+        "right": "Did you already eat?",
+        "why": "In the past simple, *did* carries the past tense, so the main verb stays in the base form."
+      }
+    },
+    {
+      "id": "been-vs-gone-she-s-been-to-paris-she-s-gone-to-paris",
+      "term": "been vs. gone: She's been to Paris / She's gone to Paris",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Has been to* a place means the person went and came back; *has gone to* means the person went and is still there or on the way.",
+      "usage": "*Been* is the usual choice for life experience (*I've been to Paris twice*). *Gone* explains why someone is absent (*She's gone to the store; she'll be back soon*). Use *been to* with a place; *been in* means you have stayed there for a period, often until now (*I've been in Paris since Monday*).",
+      "pattern": "have / has been to + place (went and came back) vs. have / has gone to + place (is there now)",
+      "examples": [
+        "**I've been to** Mexico City twice, and I'd love to go back.",
+        "Dad's not here; **he's gone to** the hardware store.",
+        "**Have** you ever **been to** a baseball game?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "You can't talk to Lena right now; she's {{gone}} to the gym.",
+        "hint": "*been* or *gone*? She went to the gym and isn't back yet."
+      },
+      "mistake": {
+        "wrong": "I've gone to London three times.",
+        "right": "I've been to London three times.",
+        "why": "For visits that are over, use *been*; *gone* means the person is still there."
+      }
+    },
+    {
+      "id": "present-perfect-continuous-for-duration-i-ve-been-waiting-fo",
+      "term": "present perfect continuous for duration: I've been waiting for an hour",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect continuous describes an activity that started in the past and is still going on now, usually with how long: *for an hour*, *since nine*, *all day*.",
+      "usage": "It focuses on the activity and how long it has lasted, and it is very common in speech (*I've been waiting for an hour!*). It goes with activity verbs like *wait, work, study, rain*, not with state verbs (*I've known her*, not *I've been knowing her*). Many languages use a present tense here, so *I wait since an hour* is a common error.",
+      "pattern": "have / has been + -ing + for / since / all day",
+      "examples": [
+        "**I've been waiting** for the bus for forty minutes.",
+        "**It's been raining** since early this morning.",
+        "**They've been renovating** their kitchen all summer."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{She's been studying}} for the bar exam since January, so she's exhausted.",
+        "hint": "Combine, focusing on the ongoing activity: She started studying for the bar exam in January, and she's still studying."
+      },
+      "mistake": {
+        "wrong": "I wait here since an hour.",
+        "right": "I've been waiting here for an hour.",
+        "why": "For an activity from the past up to now, use the present perfect continuous, with *for* before a length of time."
+      }
+    },
+    {
+      "id": "present-perfect-continuous-for-a-visible-result-have-you-bee",
+      "term": "present perfect continuous for a visible result: Have you been running?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect continuous can explain something we see, hear or feel now by a recent activity, which may have just stopped: *You're out of breath. Have you been running?*",
+      "usage": "Common in everyday speech when you notice traces: red eyes, wet streets, a messy kitchen. The activity is often over, but its effects are still visible. The present perfect simple focuses on a completed result instead: *Someone's eaten my sandwich* (it's gone) vs. *Someone's been eating my sandwich* (part of it is missing).",
+      "pattern": "have / has been + -ing (explains what we notice now)",
+      "examples": [
+        "The sidewalk's all wet. **Has** it **been raining**?",
+        "Sorry about the mess; **I've been painting** the bathroom.",
+        "You smell like smoke. **Have** you **been sitting** by the campfire?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your hands are covered in flour. {{Have you been baking}}?",
+        "hint": "Ask about the recent activity that explains the flour (not *were you*): you / bake?"
+      },
+      "mistake": {
+        "wrong": "You're out of breath. Have you run?",
+        "right": "You're out of breath. Have you been running?",
+        "why": "To explain a result we can see now, use the continuous; *Have you run?* asks about a completed run."
+      }
+    },
+    {
+      "id": "present-perfect-simple-vs-continuous-i-ve-written-three-emai",
+      "term": "present perfect simple vs. continuous: I've written three emails / I've been writing all day",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect simple focuses on what is completed and how much or how many (*I've written three emails*); the continuous focuses on the activity itself and how long it has lasted (*I've been writing all day*).",
+      "usage": "Use the simple with numbers and finished results, and the continuous with *all day*, *for hours* and work that is still going on. Compare *I've painted the room* (it's done) with *I've been painting the room* (maybe not done, and that's why I'm tired). With a number of finished items, the continuous is wrong: *I've been writing three emails*.",
+      "pattern": "have done (how much / how many) vs. have been doing (how long)",
+      "examples": [
+        "**I've read** four chapters, but **I've been reading** since lunch.",
+        "**We've been cleaning** all morning, and **we've** only **finished** the kitchen.",
+        "**She's been training** for months, and **she's lost** fifteen pounds."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "So far, {{I've cleaned}} three rooms, but I still have the garage to do.",
+        "hint": "Simple or continuous? Count the finished rooms: So far, I clean three rooms."
+      },
+      "mistake": {
+        "wrong": "I've been writing three emails this morning.",
+        "right": "I've written three emails this morning.",
+        "why": "When you count finished items, use the simple; the continuous is for the activity and how long it lasts."
+      }
+    },
+    {
+      "id": "past-continuous-for-an-interrupted-action-i-was-cooking-when",
+      "term": "past continuous for an interrupted action: I was cooking when the phone rang",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The past continuous describes a longer action in progress at a past moment; a shorter event in the past simple interrupts it: *I was cooking when the phone rang*.",
+      "usage": "Very common in stories, where the past continuous sets the scene and the past simple moves the action forward. *When* usually introduces the short event, and *while* the longer one (*While I was driving, …*). Using the past simple for both changes the meaning: *I cooked when the phone rang* means the cooking came after the call.",
+      "pattern": "past continuous (background) + when + past simple (short event)",
+      "examples": [
+        "**I was cooking** dinner **when** the power **went** out.",
+        "**We were driving** home **when** we **saw** a deer on the road.",
+        "She **slipped** while she **was getting** off the train."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I {{was taking}} a shower when the doorbell rang.",
+        "hint": "Combine (take): I was in the middle of a shower, and then the doorbell rang."
+      },
+      "mistake": {
+        "wrong": "I cooked when the phone rang, so I didn't answer.",
+        "right": "I was cooking when the phone rang, so I didn't answer.",
+        "why": "For a longer action already in progress when something happened, use the past continuous."
+      }
+    },
+    {
+      "id": "was-going-to-for-a-changed-plan-i-was-going-to-call-you-but",
+      "term": "was going to for a changed plan: I was going to call you, but …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Was / were going to* + base verb describes a past plan or intention that did not happen, or that has changed.",
+      "usage": "Very common in apologies and explanations, often with *but*: *I was going to call you, but my phone died*. It also introduces a question or request politely: *I was going to ask if you're free on Saturday*. In fast speech it sounds like *was gonna*.",
+      "pattern": "was / were going to + base verb (, but …)",
+      "examples": [
+        "Sorry, **I was going to** text you back, but I fell asleep.",
+        "**We were going to** drive to Maine, but the car broke down.",
+        "**I was going to** ask: are you free on Saturday?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{We were going to eat}} outside, but it started to rain.",
+        "hint": "Rewrite with be going to, as a plan that didn't happen: We planned to eat outside, but it started to rain."
+      },
+      "mistake": {
+        "wrong": "I should call you yesterday, but I forgot.",
+        "right": "I was going to call you yesterday, but I forgot.",
+        "why": "*Should* + base verb cannot refer to a past plan; for a plan that didn't happen, use *was going to* (or *was supposed to*)."
+      }
+    },
+    {
+      "id": "past-perfect-for-the-earlier-past-when-we-arrived-the-train",
+      "term": "past perfect for the earlier past: When we arrived, the train had left",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The past perfect (*had* + past participle) shows that one past event happened before another past event or moment: *When we arrived, the train had left* = it left first.",
+      "usage": "Use it when the order is not obvious or matters for the meaning, especially in stories and explanations. If you tell events in the order they happened, the past simple is enough (*The train left, and then we arrived*). In speech, *had* is usually contracted: *we'd*, *she'd*.",
+      "pattern": "had + past participle (the earlier past)",
+      "examples": [
+        "When I got to the theater, the movie **had** already **started**.",
+        "I didn't recognize her; **she'd cut** her hair really short.",
+        "He was nervous because he **had** never **flown** before."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "When I got home, my roommate {{had eaten}} all the leftovers.",
+        "hint": "Show this happened before I got home: My roommate ate all the leftovers."
+      },
+      "mistake": {
+        "wrong": "When we got to the station, the train left.",
+        "right": "When we got to the station, the train had left.",
+        "why": "With the past simple, the train seems to leave at the moment you arrive; the past perfect shows it left before."
+      }
+    },
+    {
+      "id": "past-perfect-with-by-the-time-by-the-time-we-got-there-it-ha",
+      "term": "past perfect with by the time: By the time we got there, it had started",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*By the time* + past simple marks a past moment, and the past perfect in the main clause shows that something was already complete at that moment.",
+      "usage": "Typical in stories about being too late (*By the time the firefighters arrived, the fire had spread*). The *by the time* clause itself takes the past simple, not the past perfect. For the future, the same pattern uses the present simple and the future perfect: *By the time you get here, we'll have eaten*.",
+      "pattern": "By the time + past simple, subject + had + past participle",
+      "examples": [
+        "**By the time** we **got** to the party, most people **had left**.",
+        "**By the time** I **found** my keys, the bus **had gone**.",
+        "**By the time** she **was** thirty, she **had lived** in six countries."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "By the time the movie ended, the kids {{had fallen}} asleep on the couch.",
+        "hint": "Show it was already complete: The kids fell asleep on the couch before the movie ended."
+      },
+      "mistake": {
+        "wrong": "By the time we had arrived, the show started.",
+        "right": "By the time we arrived, the show had started.",
+        "why": "The *by the time* clause takes the past simple; the past perfect goes in the main clause, for what was already complete."
+      }
+    },
+    {
+      "id": "will-for-instant-decisions-i-ll-get-the-door",
+      "term": "will for instant decisions: I'll get the door",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Will* ('ll) expresses a decision made at the moment of speaking, often as a reaction to something you just heard or saw.",
+      "usage": "Typical when ordering, offering help or reacting: *I'll have the salmon*, *I'll get it*. It is almost always contracted (*I'll*). If you decided earlier, use *going to* or the present continuous instead: *I'm going to have the salmon; I decided on the way here*.",
+      "pattern": "I'll + base verb (decided now)",
+      "examples": [
+        "Someone's at the door. — **I'll get** it!",
+        "That looks great; **I'll have** the chicken tacos, please.",
+        "It's too hot in here. **I'll open** a window."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The trash is full? No problem, {{I'll take}} it out.",
+        "hint": "React with a decision made right now, using *will*: The trash is full? No problem, I take it out."
+      },
+      "mistake": {
+        "wrong": "I take the salmon, please.",
+        "right": "I'll take the salmon, please.",
+        "why": "A decision made at the moment of speaking needs *will*; the present simple sounds like a schedule or a habit."
+      }
+    },
+    {
+      "id": "will-for-offers-and-promises-i-ll-send-it-tonight",
+      "term": "will for offers and promises: I'll send it tonight",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Will* ('ll) is used to offer help and to promise something about the future: *I'll send it tonight* = I promise to.",
+      "usage": "Promises are often made stronger with *I promise*, and negative promises use *won't* (*I won't tell anyone*). For offers as questions, Americans usually say *Should I …?* or *Do you want me to …?*; *Shall I …?* sounds British or very formal in the US. The present simple (*I send it tonight*) does not work as a promise.",
+      "pattern": "I'll + base verb (offer, promise) / I won't + base verb",
+      "examples": [
+        "Don't worry about the dishes; **I'll do** them later.",
+        "**I'll call** you as soon as I land, I promise.",
+        "**I won't tell** anyone, I swear."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your bags look heavy; {{I'll carry}} the big one for you.",
+        "hint": "Offer help, using *will*: I carry the big one for you."
+      },
+      "mistake": {
+        "wrong": "I send you the file tonight.",
+        "right": "I'll send you the file tonight.",
+        "why": "Promises and offers about the future need *will*; the present simple is for schedules and habits."
+      }
+    },
+    {
+      "id": "will-for-predictions-from-opinion-i-think-it-ll-be-fine",
+      "term": "will for predictions from opinion: I think it'll be fine",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Will* makes a prediction based on your opinion, knowledge or experience rather than on evidence you can see right now: *I think it'll be fine*.",
+      "usage": "It usually comes with *I think*, *I'm sure*, *probably*, *I bet* or *I doubt*. The negative is normally *I don't think it'll …*, rather than *I think it won't …*. *Probably* goes after *will* but before *won't*: *It'll probably rain*, *It probably won't rain*.",
+      "pattern": "I think / I'm sure / probably + will ('ll) + base verb",
+      "examples": [
+        "Don't worry about the interview; **I'm sure you'll do** great.",
+        "**I don't think** the store **will be** open this late.",
+        "Tickets **will probably sell** out fast, so let's buy them now."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Take a jacket; {{it'll probably be}} cold by the lake tonight.",
+        "hint": "Predict from your opinion, with *will* and *probably*: Maybe it is cold by the lake tonight."
+      },
+      "mistake": {
+        "wrong": "I'm sure you pass the test.",
+        "right": "I'm sure you'll pass the test.",
+        "why": "A prediction from your own opinion needs *will*; the present simple *you pass* does not make a prediction here."
+      }
+    },
+    {
+      "id": "going-to-for-plans-i-m-going-to-apply-for-the-job",
+      "term": "going to for plans: I'm going to apply for the job",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be going to* + base verb expresses an intention: something you decided before the moment of speaking.",
+      "usage": "Use it for plans and intentions in all registers; in fast speech it sounds like *gonna*. If the plan is a fixed arrangement with a time and other people, the present continuous is more natural (*I'm meeting Sam at six*). *Will* would suggest you are deciding right now.",
+      "pattern": "am / is / are going to + base verb (decided earlier)",
+      "examples": [
+        "**We're going to repaint** the living room this weekend.",
+        "**She's going to study** nursing in Boston.",
+        "**I'm not going to buy** a new phone this year; this one's fine."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I've finally decided: {{I'm going to learn}} to swim this summer.",
+        "hint": "State the plan you already made, using *going to*: I learn to swim this summer."
+      },
+      "mistake": {
+        "wrong": "I will visit my sister next weekend; I booked the flight last month.",
+        "right": "I'm going to visit my sister next weekend; I booked the flight last month.",
+        "why": "*Will* is not wrong here, but it sounds like a decision made on the spot; for a plan already made, natives use *going to* or the present continuous."
+      }
+    },
+    {
+      "id": "going-to-for-predictions-from-evidence-look-at-those-clouds",
+      "term": "going to for predictions from evidence: Look at those clouds, it's going to rain",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be going to* makes a prediction based on evidence you can see or know now: *Look at those clouds; it's going to rain*.",
+      "usage": "The evidence is in the present situation, so the event seems to be already on its way. *Will* is more typical for predictions from opinion (*I think it'll rain tomorrow*). In warnings about something that is about to happen, *going to* is the natural choice: *Watch out, you're going to fall!*",
+      "pattern": "(evidence now) + am / is / are going to + base verb",
+      "examples": [
+        "Watch out! That glass **is going to fall**.",
+        "We're stuck in traffic; **we're going to be** late for the movie.",
+        "My battery's at two percent, so my phone **is going to die** any second."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The baby's rubbing her eyes; {{she's going to fall}} asleep any minute.",
+        "hint": "Predict from what you can see (not *will*): She falls asleep any minute."
+      },
+      "mistake": {
+        "wrong": "Be careful, the ladder falls!",
+        "right": "Be careful, the ladder's going to fall!",
+        "why": "For something you can see is about to happen, English uses *going to*, not the present simple."
+      }
+    },
+    {
+      "id": "present-continuous-for-arrangements-i-m-meeting-sarah-at-thr",
+      "term": "present continuous for arrangements: I'm meeting Sarah at three",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present continuous describes a fixed personal arrangement in the future, usually with a time and other people: *I'm meeting Sarah at three*.",
+      "usage": "It is the most natural way to talk about calendar plans, appointments and trips (*We're flying to Denver on Friday*). A future time is usually stated or clear from the context, so it isn't confused with now. It is not used for things nobody can arrange: *It's raining tomorrow* is wrong; use *will* or *going to*.",
+      "pattern": "am / is / are + -ing + future time (arranged plan)",
+      "examples": [
+        "**We're having** dinner with the Garcias on Saturday.",
+        "**I'm getting** my hair cut tomorrow at ten.",
+        "**They're flying** to Lisbon next week for a wedding."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Sorry, I can't make it on Thursday; {{I'm meeting}} a friend for lunch.",
+        "hint": "Give an arrangement that is already fixed, in the present continuous: I meet a friend for lunch."
+      },
+      "mistake": {
+        "wrong": "I meet my brother tomorrow at six.",
+        "right": "I'm meeting my brother tomorrow at six.",
+        "why": "For personal arrangements, English uses the present continuous; the present simple is for timetables."
+      }
+    },
+    {
+      "id": "present-simple-for-timetables-the-train-leaves-at-6-15",
+      "term": "present simple for timetables: The train leaves at 6:15",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present simple can refer to future events that are fixed by a schedule or timetable: transportation, classes, games, shows and opening hours.",
+      "usage": "Typical with *leave, arrive, start, begin, open, close*: *The train leaves at 6:15*, *The game starts at seven*. It sounds official and fixed, like reading from a schedule. Personal plans usually take the present continuous (*I'm meeting a friend*), though travel plans can take either (*I leave / I'm leaving on Monday*).",
+      "pattern": "present simple + scheduled time (leave, start, open, arrive …)",
+      "examples": [
+        "Hurry up! The movie **starts** at eight.",
+        "What time **does** the museum **open** on Sundays?",
+        "Our flight **lands** in Atlanta at noon tomorrow."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The last bus to the airport {{leaves}} at eleven forty, so don't miss it.",
+        "hint": "State the timetable: The last bus to the airport (leave) at eleven forty."
+      },
+      "mistake": {
+        "wrong": "The bus is leaving every twenty minutes.",
+        "right": "The bus leaves every twenty minutes.",
+        "why": "A regular schedule takes the present simple; the continuous is for one specific, arranged event."
+      }
+    },
+    {
+      "id": "future-continuous-for-an-action-in-progress-this-time-tomorr",
+      "term": "future continuous for an action in progress: This time tomorrow I'll be flying",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The future continuous (*will be* + -ing) describes an action that will be in progress at a particular moment in the future: *This time tomorrow, I'll be flying to Tokyo*.",
+      "usage": "Common with *this time tomorrow*, *at eight tonight* and *when you get here*. It pictures you in the middle of the activity, so it is useful for explaining why you won't be available (*Don't call at nine; I'll be driving*). In speech it is contracted: *I'll be*, *we'll be*.",
+      "pattern": "will be + -ing (+ future time point)",
+      "examples": [
+        "**This time next week**, **we'll be lying** on a beach in Mexico.",
+        "When you land, **I'll be waiting** for you at arrivals.",
+        "At ten tomorrow, **she'll be taking** her driving test."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Don't call me around five; {{I'll be sitting}} in traffic on the freeway.",
+        "hint": "Say what will be in progress then: I sit in traffic on the freeway."
+      },
+      "mistake": {
+        "wrong": "This time tomorrow I will fly to Tokyo.",
+        "right": "This time tomorrow I'll be flying to Tokyo.",
+        "why": "For an action in progress at a future moment, use *will be* + -ing; *will fly* presents it as a single event."
+      }
+    },
+    {
+      "id": "future-perfect-by-friday-i-ll-have-finished",
+      "term": "future perfect: By Friday, I'll have finished",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The future perfect (*will have* + past participle) says that an action will be complete before a certain time in the future.",
+      "usage": "It usually comes with *by* + a time (*by Friday*, *by then*, *by the time you get here*), and *by* means *not later than*, not *until*. It is common for deadlines and milestones. In speech it is contracted: *I'll have*, *we'll have*.",
+      "pattern": "will have + past participle + by + time",
+      "examples": [
+        "**By** the end of the month, **we'll have paid** off the car.",
+        "Ask me again in May; **I'll have made** a decision by then.",
+        "**By** June, **they'll have been** married for twenty years."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Call me after six; {{I'll have finished}} work by then.",
+        "hint": "Say it will be complete before six: I finish work before then."
+      },
+      "mistake": {
+        "wrong": "By Friday I have finished the report.",
+        "right": "By Friday I'll have finished the report.",
+        "why": "For something that will be complete before a future time, use *will have* + past participle, not the present perfect."
+      }
+    },
+    {
+      "id": "be-about-to-the-meeting-is-about-to-start",
+      "term": "be about to: The meeting is about to start",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be about to* + base verb says that something will happen very soon, in the next moments.",
+      "usage": "Common in speech and stories: *I was about to call you* means I was just going to. It is not used with a later time like *tomorrow* or *next week*; use *going to* or *will* for that. In American speech, *I'm not about to* often means *I refuse to*: *I'm not about to apologize*.",
+      "pattern": "am / is / are / was / were about to + base verb",
+      "examples": [
+        "Hurry, the game **is about to start**!",
+        "**I was about to** call you; you must be a mind reader.",
+        "Please sit down; the plane **is about to take** off."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Quick, take a picture! The sun {{is about to disappear}} behind the mountain.",
+        "hint": "Say it will happen in a moment (not *going to*): The sun disappears behind the mountain very soon."
+      },
+      "mistake": {
+        "wrong": "The meeting is about to start next week.",
+        "right": "The meeting starts next week.",
+        "why": "*Be about to* means in the next moments, so it does not go with a later time like *next week*."
+      }
+    },
+    {
+      "id": "stative-verbs-i-know-i-believe-not-i-m-knowing",
+      "term": "stative verbs: I know / I believe, not 'I'm knowing'",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Verbs for states rather than actions, such as knowing, believing, wanting, liking and owning, are normally used in simple forms, not continuous ones: *I know*, not *I'm knowing*.",
+      "usage": "Common stative verbs are *know, believe, understand, mean, want, need, prefer, like, love, own, belong, seem*. They take the simple form even for right now (*I need help right now*). Some have a second, action meaning that can be continuous (*think*, *have*, *see*), and casual speech uses *I'm loving …* for enthusiasm (*I'm loving this weather*), but not writing.",
+      "pattern": "simple form for states: I know / I want / it belongs to …",
+      "examples": [
+        "**I don't understand** why the meeting got canceled.",
+        "This umbrella **belongs** to my neighbor.",
+        "Sorry, **I don't remember** your name. Was it Dan or Don?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Do you know}} what time the bank opens on Saturdays?",
+        "hint": "Correct the verb form: Are you knowing what time the bank opens on Saturdays?"
+      },
+      "mistake": {
+        "wrong": "I'm wanting a new phone.",
+        "right": "I want a new phone.",
+        "why": "*Want* describes a state, so it stays in the simple form even when you mean right now."
+      }
+    },
+    {
+      "id": "have-for-possession-vs-action-i-have-a-car-i-m-having-lunch",
+      "term": "have for possession vs. action: I have a car / I'm having lunch",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Have* meaning *own* or *possess* is stative and stays simple (*I have a car*); *have* in action phrases like *have lunch*, *have a party* or *have fun* can be continuous (*I'm having lunch*).",
+      "usage": "Action phrases include *have breakfast*, *have a meeting*, *have a baby*, *have a good time* and *have trouble with*. *I'm having a car* is wrong, but *I'm having car trouble* is fine, because it describes an experience. For showers and breaks, Americans usually say *take*, not *have*.",
+      "pattern": "have (= own): simple only / have lunch, a party, fun, trouble: simple or continuous",
+      "examples": [
+        "**We're having** a barbecue on Sunday; want to come?",
+        "**They have** a cabin near Lake Tahoe.",
+        "**Are** you **having** a good time?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Can I call you back? {{We're having}} people over for dinner.",
+        "hint": "Say what's happening right now: We have people over for dinner."
+      },
+      "mistake": {
+        "wrong": "I'm having two brothers.",
+        "right": "I have two brothers.",
+        "why": "*Have* for family, possessions and features is stative, so it stays in the simple form."
+      }
+    },
+    {
+      "id": "think-for-opinion-vs-process-i-think-so-i-m-thinking-about-i",
+      "term": "think for opinion vs. process: I think so / I'm thinking about it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Think* meaning *believe* or *have an opinion* is stative (*I think so*); *think* meaning *consider* or *use your mind* can be continuous (*I'm thinking about it*).",
+      "usage": "Opinion: *I think it's too expensive*. Process: *I'm thinking about moving*, *I'm thinking of quitting*, *What are you thinking about?* In casual American speech, *I'm thinking* + a suggestion sounds tentative and friendly (*I'm thinking we order pizza*), but for a plain opinion the simple form is the standard choice.",
+      "pattern": "I think (that) … (opinion) / I'm thinking about / of + noun or -ing (considering)",
+      "examples": [
+        "**I think** this restaurant is a little overpriced.",
+        "**I'm thinking about** what you said yesterday; you might be right.",
+        "You look worried. What **are** you **thinking about**?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'm not sure yet whether to take the job; {{I'm still thinking about}} it.",
+        "hint": "Say you are still considering it: I still consider it."
+      },
+      "mistake": {
+        "wrong": "Are you thinking it's a good idea?",
+        "right": "Do you think it's a good idea?",
+        "why": "To ask for someone's opinion, use the simple form; the continuous is for considering something."
+      }
+    },
+    {
+      "id": "present-simple-vs-continuous-i-work-in-zurich-i-m-working-fr",
+      "term": "present simple vs. continuous: I work in Zurich / I'm working from home this week",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present simple describes permanent situations and habits (*I work in Zurich*); the present continuous describes temporary situations around now (*I'm working from home this week*).",
+      "usage": "Time words help: *usually*, *every day* and *always* go with the simple; *this week*, *at the moment*, *these days* and *for now* go with the continuous. The choice shows how you see the situation: *I live in Denver* (it's my home) vs. *I'm living in Denver* (for now). Many languages use one present tense for both, so learners often pick the wrong one.",
+      "pattern": "present simple (permanent, habit) vs. am / is / are + -ing (temporary, around now)",
+      "examples": [
+        "**I usually take** the train, but **I'm driving** this week.",
+        "My sister **lives** in Boston, but **she's staying** with us until June.",
+        "**He works** as a nurse, but **he's taking** a few months off."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My car's in the shop, so {{I'm biking}} to work this week.",
+        "hint": "Describe a temporary situation: I bike to work this week."
+      },
+      "mistake": {
+        "wrong": "This week I work from home.",
+        "right": "This week I'm working from home.",
+        "why": "A temporary situation around now takes the present continuous; the simple sounds like a permanent arrangement or a schedule."
+      }
+    },
+    {
+      "id": "gotten-as-the-us-past-participle-it-s-gotten-worse",
+      "term": "gotten as the US past participle: It's gotten worse",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In American English, *gotten* is the past participle of *get* when it means *become*, *receive*, *obtain* or *move*: *It's gotten worse*, *I've gotten three calls*.",
+      "usage": "British English uses *got* in all these senses. In American English, *have got* without *-ten* is used for possession and obligation: *I've got a car*, *I've got to go*. So *I've gotten a car* means *I've bought or received one*, not *I own one*.",
+      "pattern": "have / has gotten (= become, received, obtained) vs. have got (= have, must)",
+      "examples": [
+        "Traffic downtown **has gotten** so much worse this year.",
+        "**I've gotten** three calls from that number today.",
+        "**Have** you **gotten** used to the cold yet?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My son {{has gotten}} really tall since last summer.",
+        "hint": "Use *get*, the American way: My son has become really tall since last summer."
+      },
+      "mistake": {
+        "wrong": "She's gotten two kids.",
+        "right": "She's got two kids.",
+        "why": "For possession, Americans say *have got* (or *have*); *has gotten* would mean she recently got them."
+      }
+    },
+    {
+      "id": "be-being-adjective-for-temporary-behavior-you-re-being-rude",
+      "term": "be being + adjective for temporary behavior: You're being rude",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be being* + adjective describes how someone is behaving right now, as opposed to their usual character: *You're being rude* = you're acting rudely at the moment.",
+      "usage": "It is used with adjectives for behavior, such as *rude, silly, nice, careful, difficult, stubborn, ridiculous*. It often sounds critical or teasing: *Stop being so dramatic*. It does not work with feelings or states you don't control: *I'm being tired* and *She's being tall* are wrong.",
+      "pattern": "am / is / are being + behavior adjective",
+      "examples": [
+        "**You're being** ridiculous; it's just a scratch.",
+        "**He's being** really nice today; I wonder what he wants.",
+        "Sorry, **I was being** stupid; of course you're right."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Normally Sam's very patient, but today {{he's being}} difficult.",
+        "hint": "Describe his behavior right now, unlike his character: Today he is difficult."
+      },
+      "mistake": {
+        "wrong": "I'm being tired today.",
+        "right": "I'm tired today.",
+        "why": "*Be being* is only for behavior; feelings and physical states take the simple *be*."
+      }
+    },
+    {
+      "id": "just-for-a-very-recent-action-i-ve-just-sent-it",
+      "term": "just for a very recent action: I've just sent it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Just* with the present perfect means a moment ago: *I've just sent it*. American English also uses *just* with the past simple: *I just sent it*.",
+      "usage": "*Just* goes between *have* and the past participle (*I've just eaten*), or before the past simple verb. In the US, the past simple version is more common in speech, and both are fine in writing. With a finished time like *five minutes ago*, only the past simple works: *I just saw him five minutes ago*.",
+      "pattern": "have / has just + past participle; (US) just + past simple",
+      "examples": [
+        "**I've just sent** you the address; check your phone.",
+        "**We just got** home; can I call you back in ten minutes?",
+        "Careful, the floor **has just been** cleaned."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Sorry, you missed her. {{She's just left}} for the airport.",
+        "hint": "Use the present perfect with *just*: She left a moment ago."
+      },
+      "mistake": {
+        "wrong": "I've just seen him five minutes ago.",
+        "right": "I just saw him five minutes ago.",
+        "why": "*Five minutes ago* is a finished time, so it needs the past simple, even with *just*."
+      }
+    },
+    {
+      "id": "present-perfect-for-news-scientists-have-discovered-a-new-sp",
+      "term": "present perfect for news: Scientists have discovered a new species",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect announces new information as news that matters now; the details that follow (when, where, how) switch to the past simple.",
+      "usage": "Typical in news reports, announcements and personal news: *Scientists have discovered …*, *Maria's had her baby!* Once you add details with a time, use the past simple: *She was born at 3 a.m. on Tuesday*. In American conversation, the past simple is also common for the first announcement (*Guess what, I got the job!*).",
+      "pattern": "have / has + past participle (the news), then past simple (the details)",
+      "examples": [
+        "Police **have arrested** a man after a break-in downtown; it **happened** around midnight.",
+        "Good news: **we've found** an apartment! We **signed** the lease yesterday.",
+        "Astronomers **have spotted** a new comet; they first **saw** it last Tuesday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Breaking news: a tornado {{has hit}} a small town in Kansas. It touched down just after four this afternoon.",
+        "hint": "Announce it as news: A tornado hits a small town in Kansas."
+      },
+      "mistake": {
+        "wrong": "Scientists have discovered a new species of frog. They have found it in Peru in 2023.",
+        "right": "Scientists have discovered a new species of frog. They found it in Peru in 2023.",
+        "why": "After the headline, the details with a finished time take the past simple."
+      }
+    },
+    {
+      "id": "present-perfect-with-an-unfinished-period-i-ve-had-three-cof",
+      "term": "present perfect with an unfinished period: I've had three coffees today",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With a period that is not over yet (*today, this week, this month, this year*), the present perfect is used for what has happened so far: *I've had three coffees today*.",
+      "usage": "The choice shows whether the period is still running: *I've had three coffees this morning* (it's still morning) vs. *I had three coffees this morning* (it's now afternoon). It is typical with counts and *so far*. In casual American speech, the past simple is also common here (*I had three coffees today*).",
+      "pattern": "have / has + past participle + today / this week / this year / so far",
+      "examples": [
+        "**I've had** three coffees **today**, and it's not even noon.",
+        "**We've been** to the beach twice **this summer**.",
+        "**Has** it **rained** at all **this month**?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I've sent}} out twenty job applications this month and heard nothing back.",
+        "hint": "The month isn't over yet (present perfect): I send out twenty job applications this month and hear nothing back."
+      },
+      "mistake": {
+        "wrong": "I've seen her this morning. (said in the evening)",
+        "right": "I saw her this morning.",
+        "why": "Once the morning is over, it is a finished period and needs the past simple."
+      }
+    },
+    {
+      "id": "the-first-time-present-perfect-it-s-the-first-time-i-ve-trie",
+      "term": "the first time + present perfect: It's the first time I've tried this",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After *It's / This is the first (second, third …) time*, English uses the present perfect: *It's the first time I've tried this*.",
+      "usage": "The pattern counts experiences up to now, so it follows the logic of the present perfect. The present simple (*It's the first time I try this*) is a common transfer error from German, French, Spanish and Italian. In a past story, the pattern shifts back to the past perfect: *It was the first time I'd seen snow*.",
+      "pattern": "It's / This is the first time + subject + have / has + past participle",
+      "examples": [
+        "**It's the first time I've been** to a hockey game.",
+        "**This is the third time she's called** today.",
+        "**It was the first time I'd seen** my dad cry."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This is the first time {{I've driven}} in snow, so I'm a little nervous.",
+        "hint": "Correct it: This is the first time I drive in snow, so I'm a little nervous."
+      },
+      "mistake": {
+        "wrong": "It's the first time I eat sushi.",
+        "right": "It's the first time I've eaten sushi.",
+        "why": "After *It's the first time*, use the present perfect, because you are counting experiences up to now."
+      }
+    },
+    {
+      "id": "present-perfect-for-repeated-actions-we-ve-met-several-times",
+      "term": "present perfect for repeated actions: We've met several times",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect with a number of times (*twice, several times, three times*) says how often something has happened up to now, without a finished time.",
+      "usage": "The period is still open, so more repeats are possible: *We've met several times* (and may meet again). *She's won the race three times* suggests her career is still going, while *She won the race three times* fits if she has retired. With a finished time, the past simple is required: *I called twice yesterday*.",
+      "pattern": "have / has + past participle + number of times / several times",
+      "examples": [
+        "**We've met** a few times at school events.",
+        "**I've watched** that movie at least ten times.",
+        "My phone **has died** three times this week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My aunt loves the Boston Marathon; {{she's run}} it four times.",
+        "hint": "Count up to now (present perfect): She runs it four times."
+      },
+      "mistake": {
+        "wrong": "I was in Paris three times.",
+        "right": "I've been to Paris three times.",
+        "why": "To count experiences up to now, use the present perfect; the past simple suggests a finished period."
+      }
+    },
+    {
+      "id": "haven-t-in-period-us-i-haven-t-seen-him-in-years",
+      "term": "haven't … in + period (US): I haven't seen him in years",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In American English, negative present perfect sentences often use *in* + a period instead of *for*: *I haven't seen him in years* = *for years*.",
+      "usage": "Very common in speech and informal writing, especially with *years, ages, months, weeks, a while* and *a long time*. *For* is also correct and is still the more usual choice in British English. In plain positive sentences use *for* (*I've lived here for years*); *in* + period also follows superlatives and *the first time* (*the best pizza I've had in years*).",
+      "pattern": "haven't / hasn't + past participle + in + period (US) = for + period",
+      "examples": [
+        "**I haven't seen** him **in** years; does he still live in Ohio?",
+        "**We haven't had** a real vacation **in** ages.",
+        "**It hasn't rained in** weeks, so the lawn is completely brown."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I haven't talked to}} my cousin in over a year; I should call her.",
+        "hint": "Rewrite, American style: The last time I talked to my cousin was over a year ago; I should call her."
+      },
+      "mistake": {
+        "wrong": "I haven't seen him since years.",
+        "right": "I haven't seen him in years.",
+        "why": "*Since* needs a starting point (*since 2019*); with a length of time, use *in* or *for*."
+      }
+    },
+    {
+      "id": "present-perfect-continuous-with-lately-i-ve-been-feeling-tir",
+      "term": "present perfect continuous with lately: I've been feeling tired lately",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present perfect continuous with *lately* or *recently* describes a situation or repeated activity in the recent past that is probably still going on.",
+      "usage": "Common in conversation about health, mood, work and habits: *I've been feeling tired lately*, *Have you been sleeping OK?* *Lately* usually goes at the end of the clause. *Recently* with the past simple or the present perfect simple usually describes a single event instead (*I recently moved*).",
+      "pattern": "have / has been + -ing + lately / recently",
+      "examples": [
+        "**I've been sleeping** badly **lately**; maybe it's the heat.",
+        "**Have** you **been working** out **lately**? You look great.",
+        "Gas prices **have been going** up **recently**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My neighbor {{has been playing}} loud music every night lately.",
+        "hint": "Describe a recent habit that's still going on: My neighbor plays loud music every night lately."
+      },
+      "mistake": {
+        "wrong": "I'm feeling tired since last week.",
+        "right": "I've been feeling tired since last week.",
+        "why": "For a situation from the recent past up to now, use the present perfect continuous, not the present."
+      }
+    },
+    {
+      "id": "while-past-continuous-while-i-was-working-he-was-sleeping",
+      "term": "while + past continuous: While I was working, he was sleeping",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*While* + past continuous, with the past continuous in the main clause too, describes two longer actions that were in progress at the same time in the past.",
+      "usage": "Common in stories when you set a scene with two parallel activities: *While I was cleaning, my husband was making lunch*. Neither action interrupts the other, so both are continuous. For a short event that interrupts a longer one, use *when* + past simple instead.",
+      "pattern": "While + past continuous, past continuous",
+      "examples": [
+        "**While I was cooking**, the kids **were setting** the table.",
+        "**While** my wife **was driving**, I **was trying** to read the map.",
+        "Someone **was taking** notes **while** the manager **was talking**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "While I {{was mowing}} the lawn, my son was washing the car.",
+        "hint": "Two actions at the same time: I mow the lawn; my son washes the car."
+      },
+      "mistake": {
+        "wrong": "During I was cooking, the kids were playing outside.",
+        "right": "While I was cooking, the kids were playing outside.",
+        "why": "*During* is a preposition and needs a noun (*during dinner*); before a clause, use *while*."
+      }
+    },
+    {
+      "id": "when-past-simple-vs-past-continuous-when-he-arrived-we-ate-w",
+      "term": "when + past simple vs. past continuous: When he arrived, we ate / were eating",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a *when* clause, the past simple in the main clause means the action came after the event (*When he arrived, we ate*); the past continuous means it was already in progress (*When he arrived, we were eating*).",
+      "usage": "The choice changes the story: with the simple, he arrived and then we started eating; with the continuous, we had started before he came. Use the continuous for the background scene and the simple for reactions and next steps.",
+      "pattern": "When + past simple, past simple (then) / past continuous (already in progress)",
+      "examples": [
+        "**When** the alarm **went** off, everyone **left** the building.",
+        "**When** I **got** home, my roommates **were watching** a movie.",
+        "**When** she **heard** the news, she **called** her mother right away."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "When we got to the beach, it {{was raining}}, so we stayed in the car.",
+        "hint": "Show the rain had already started: When we got to the beach, it rained, so we stayed in the car."
+      },
+      "mistake": {
+        "wrong": "When I came in, they had dinner, so I sat down with them.",
+        "right": "When I came in, they were having dinner, so I sat down with them.",
+        "why": "For an action already in progress at that moment, use the past continuous; the simple suggests it started after you came in."
+      }
+    },
+    {
+      "id": "past-perfect-not-needed-with-before-after-after-i-finished-i",
+      "term": "past perfect not needed with before / after: After I finished, I left",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When *before* or *after* already shows the order of two past events, the past simple is enough: *After I finished, I left*.",
+      "usage": "The past perfect is still correct (*After I had finished, I left*), but it sounds more careful, and in speech the past simple is normal. With *before*, the past perfect can stress that something was not complete yet: *He left before I'd had a chance to say goodbye*. Putting both clauses in the past perfect (*After I had finished, I had left*) is wrong.",
+      "pattern": "After / Before + past simple, past simple",
+      "examples": [
+        "**After** we **ate**, we **went** for a walk by the river.",
+        "She **brushed** her teeth **before** she **went** to bed.",
+        "**After** the kids **went** to bed, we **watched** a movie."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{After I finished}} my shift, I went straight to bed.",
+        "hint": "Combine with *after* + subject + past simple (no past perfect): I finished my shift. Then I went straight to bed."
+      },
+      "mistake": {
+        "wrong": "After I had had lunch, I had gone back to work.",
+        "right": "After I had lunch, I went back to work.",
+        "why": "*After* already shows the order, so the past simple is enough, and the later event (*went back*) should not be in the past perfect."
+      }
+    },
+    {
+      "id": "when-past-simple-vs-past-perfect-when-i-arrived-she-left-had",
+      "term": "when + past simple vs. past perfect: When I arrived, she left / had left",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*When I arrived, she left* means she left after I arrived, maybe because of it; *When I arrived, she had left* means she left before I arrived.",
+      "usage": "Use the past perfect when the main event was already complete at the *when* moment, and the past simple for an event that followed it. The wrong choice can reverse the story: *When the police came, the thieves ran away* (they saw the police) vs. *had run away* (they were already gone).",
+      "pattern": "When + past simple, past simple (after) / had + past participle (before)",
+      "examples": [
+        "**When** I **got** to the office, everyone **had gone** home.",
+        "**When** the teacher **walked** in, the students **stopped** talking.",
+        "**When** we **opened** the fridge, someone **had eaten** all the cake."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "When I finally called back, the store {{had sold}} the last one.",
+        "hint": "Show it happened before your call: The store sold the last one; then I called back."
+      },
+      "mistake": {
+        "wrong": "When I arrived at the party, Jake left, so I never saw him.",
+        "right": "When I arrived at the party, Jake had left, so I never saw him.",
+        "why": "If he left before you arrived, use the past perfect; the past simple means he left after you arrived."
+      }
+    },
+    {
+      "id": "past-perfect-continuous-i-had-been-waiting-for-an-hour-when",
+      "term": "past perfect continuous: I had been waiting for an hour when …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The past perfect continuous (*had been* + -ing) says how long an activity had been going on up to a moment in the past: *I had been waiting for an hour when the bus finally came*.",
+      "usage": "It is the past version of the present perfect continuous and often comes with *for*, *since* or *all day*. It also explains a past result (*Her eyes were red; she'd been crying*). In speech, *had* is contracted: *I'd been*, *we'd been*.",
+      "pattern": "had been + -ing (+ for / since) + when / before + past simple",
+      "examples": [
+        "**We'd been driving** for six hours when the car broke down.",
+        "**She'd been working** there for ten years before she got promoted.",
+        "The ground was wet because **it had been raining** all night."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I'd been studying}} for three hours when my friends called and invited me out.",
+        "hint": "Say how long, up to that moment: I studied for three hours; then my friends called and invited me out."
+      },
+      "mistake": {
+        "wrong": "We were living there for ten years when the house burned down.",
+        "right": "We'd been living there for ten years when the house burned down.",
+        "why": "To say how long something had lasted up to a past moment, use the past perfect continuous."
+      }
+    },
+    {
+      "id": "future-continuous-for-polite-questions-will-you-be-using-the",
+      "term": "future continuous for polite questions: Will you be using the car tonight?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Will you be* + -ing asks about someone's plans in a neutral, polite way, without sounding like a request or pressure: *Will you be using the car tonight?*",
+      "usage": "*Will you use the car tonight?* can sound like a request or an order; *Will you be using …?* just asks about plans, often before you ask a favor. It is also common in service situations: *Will you be paying with cash?* or *How many will be joining us?*",
+      "pattern": "Will you be + -ing …? (neutral question about plans)",
+      "examples": [
+        "**Will** you **be joining** us for dinner on Friday?",
+        "**Will** you **be using** your bike this weekend? Mine has a flat tire.",
+        "Hello, **will** you **be checking** any bags today?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Will you be going}} past the post office later? I need to mail a package.",
+        "hint": "Make it a neutral question about plans, in the future continuous: Are you going past the post office later?"
+      },
+      "mistake": {
+        "wrong": "Do you use the car tonight?",
+        "right": "Will you be using the car tonight?",
+        "why": "The present simple doesn't ask about future plans; *Will you be* + -ing is the polite, neutral choice."
+      }
+    },
+    {
+      "id": "hope-present-for-the-future-i-hope-it-goes-well",
+      "term": "hope + present for the future: I hope it goes well",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After *hope*, the present simple often refers to the future: *I hope it goes well* = I hope it will go well.",
+      "usage": "Both *I hope it goes well* and *I hope it'll go well* are correct; the present is more common in speech and short messages (*Hope you feel better soon!*). Don't confuse it with *wish*, which takes a past form for unreal situations (*I wish it were sunny*): you *hope* for possible things and *wish* for unlikely or impossible ones.",
+      "pattern": "hope (that) + present simple (future meaning)",
+      "examples": [
+        "**I hope** you **have** a great time in Portugal!",
+        "**Hope** you **feel** better soon; let me know if you need anything.",
+        "**We hope** the rain **stops** before the game."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Good luck tomorrow! {{I hope you get}} the job.",
+        "hint": "Use *hope* with the present for the future: Good luck tomorrow! I want you to get the job."
+      },
+      "mistake": {
+        "wrong": "I wish you get the job.",
+        "right": "I hope you get the job.",
+        "why": "*Wish* + clause is for unreal or unlikely situations; for something possible in the future, use *hope*."
+      }
+    },
+    {
+      "id": "see-in-simple-vs-continuous-i-see-i-m-seeing-a-client-tomorr",
+      "term": "see in simple vs. continuous: I see / I'm seeing a client tomorrow",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*See* in the simple form means *perceive* or *understand* (*I see what you mean*); in the continuous it means *meet*, *visit* or *date* (*I'm seeing a client tomorrow*, *She's seeing someone*).",
+      "usage": "*I see* is a common short reply that shows you understand. The continuous is for appointments (*I'm seeing the doctor at four*), and *be seeing someone* means *be dating them*. *I'm seeing* in the sense of *I understand* is wrong.",
+      "pattern": "see (= understand, perceive): simple / be seeing (= meet, date): continuous",
+      "examples": [
+        "**I see** what you mean; the couch is too big for this room.",
+        "**We're seeing** a real estate agent tomorrow about a new apartment.",
+        "**Is** your brother **seeing** anyone, or is he still single?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I can't do lunch on Friday; {{I'm seeing}} my doctor at noon.",
+        "hint": "Use *see* for an appointment: I have an appointment with my doctor at noon."
+      },
+      "mistake": {
+        "wrong": "I'm seeing what you mean.",
+        "right": "I see what you mean.",
+        "why": "*See* meaning *understand* is stative, so it stays simple; *I'm seeing* is for meetings and dating."
+      }
+    },
+    {
+      "id": "senses-with-can-i-can-hear-music-not-i-m-hearing",
+      "term": "senses with can: I can hear music, not 'I'm hearing'",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With *see*, *hear*, *smell*, *taste* and *feel* for something you notice right now, English normally uses *can* instead of the continuous: *I can hear music*.",
+      "usage": "*Can* describes what reaches your senses at the moment: *I can smell smoke*, *Can you see the stage?* The continuous forms have other meanings: *I'm seeing* = meeting or dating, and *I'm hearing that …* = people are telling me (*I'm hearing good things about the new chef*). *Look*, *listen* and *watch* are action verbs and do take the continuous.",
+      "pattern": "can + see / hear / smell / taste / feel (perception right now)",
+      "examples": [
+        "**I can hear** the neighbors' TV through the wall.",
+        "**Can** you **see** the mountains from your window?",
+        "**I can smell** something burning; did you leave the oven on?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Turn the radio down; {{I can't hear}} what you're saying.",
+        "hint": "Use *can* with a sense verb: I don't hear what you're saying."
+      },
+      "mistake": {
+        "wrong": "I'm seeing the mountains from here.",
+        "right": "I can see the mountains from here.",
+        "why": "For something in view right now, use *can see*; *I'm seeing* usually means meeting or dating someone."
+      }
+    },
+    {
+      "id": "present-continuous-for-changing-situations-prices-are-rising",
+      "term": "present continuous for changing situations: Prices are rising",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The present continuous describes trends and situations that are gradually changing around now: *Prices are rising*, *The kids are growing up fast*.",
+      "usage": "Common in news, business and conversation with verbs of change: *rise, fall, grow, increase, get, become, improve, change*. *Get* + comparative is very typical in speech: *It's getting colder*, *My English is getting better*. The present simple would describe a general fact, not a current trend.",
+      "pattern": "am / is / are + -ing (change verbs: get, grow, rise, improve …)",
+      "examples": [
+        "Rents **are going up** all over the city.",
+        "**It's getting** dark earlier every day.",
+        "My Spanish **is improving**, but slowly."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your daughter {{is getting}} taller every time I see her.",
+        "hint": "Describe a change in progress, with *get*: Your daughter becomes taller every time I see her."
+      },
+      "mistake": {
+        "wrong": "The weather gets colder these days.",
+        "right": "The weather is getting colder these days.",
+        "why": "A change in progress around now needs the present continuous; the simple sounds like a general rule."
+      }
+    },
+    {
+      "id": "historical-present-in-stories-so-i-walk-in-and-he-says",
+      "term": "historical present in stories: So I walk in, and he says …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In spoken stories and jokes, speakers often switch to the present tense for past events to make them more vivid: *So I walk in, and he says …*",
+      "usage": "Very common in casual American storytelling, often with *so* and with *says* or *goes* to report speech (*and she goes, \"No way!\"*). Background actions take the present continuous (*So I'm standing in line …*), and jokes use the same pattern (*A guy walks into a bar …*). In emails, reports and formal writing, tell past events in the past tense.",
+      "pattern": "So I + present simple …, and he / she says / goes …",
+      "examples": [
+        "**So I'm standing** in line, and this guy **cuts** right in front of me.",
+        "A man **walks** into a library and **asks** for a burger.",
+        "Then my sister **calls** and **goes**, \"Are you sitting down?\""
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "So yesterday I {{walk}} into the kitchen, and there's water all over the floor.",
+        "hint": "Tell it as a lively spoken story, in the present: So yesterday I walked into the kitchen, and there was water all over the floor."
+      },
+      "mistake": {
+        "wrong": "(in a complaint email) Yesterday the delivery arrives late, and the box is damaged.",
+        "right": "Yesterday the delivery arrived late, and the box was damaged.",
+        "why": "The historical present belongs to casual spoken stories; in emails and formal writing, report past events in the past tense."
+      }
+    },
+    {
+      "id": "have-vs-have-got-in-questions-do-you-have-a-minute-us",
+      "term": "have vs. have got in questions: Do you have a minute? (US)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "For possession and availability, American English usually asks *Do you have …?* and says *I don't have …*; *Have you got …?* sounds more British.",
+      "usage": "Americans do use *I've got* in casual statements (*I've got two kids*, *I've got a question*), but questions and negatives with *do* are the standard (*Do you have a minute?*, *I don't have time*). *Have you a pen?*, with neither *do* nor *got*, sounds old-fashioned. *Do you have* is also normal in British English today.",
+      "pattern": "Do you have …? / I don't have … (US) vs. Have you got …? / I haven't got … (more British)",
+      "examples": [
+        "Excuse me, **do you have** this jacket in a medium?",
+        "Sorry, **I don't have** any cash on me.",
+        "**Does** your building **have** a gym?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Do you have}} any plans for Thanksgiving this year?",
+        "hint": "Ask the American way: Have you got any plans for Thanksgiving this year?"
+      },
+      "mistake": {
+        "wrong": "Have you a pen?",
+        "right": "Do you have a pen?",
+        "why": "For possession, a question with *have* needs *do* (or *got*); *Have you a pen?* sounds old-fashioned."
+      }
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "topic_id": "b1-11-plusquamperfekt",
+  "level": "B1",
+  "title_de": "Plusquamperfekt",
+  "title_en": "Past perfect (Plusquamperfekt)",
+  "rule": {
+    "summary": "The **Plusquamperfekt** is the *past in the past*: it shows that one past event happened **before** another past event or a point in the past. It is formed with the **Präteritum of *haben* or *sein*** (*hatte, war*) + **Partizip II** at the end. The choice of *haben* or *sein* is the same as in the Perfekt. You need it mainly in narratives and reports, often with *nachdem, als, bevor* or *weil*: *Als ich ankam,* **war** *der Zug schon* **abgefahren**.",
+    "table": "| Person | mit *haben* | mit *sein* |\n|---|---|---|\n| ich | **hatte** … gegessen | **war** … gegangen |\n| du | **hattest** … gegessen | **warst** … gegangen |\n| er / sie / es | **hatte** … gegessen | **war** … gegangen |\n| wir | **hatten** … gegessen | **waren** … gegangen |\n| ihr | **hattet** … gegessen | **wart** … gegangen |\n| sie / Sie | **hatten** … gegessen | **waren** … gegangen |",
+    "steps": [
+      "Check the time order: did this event happen **before** another past event? Then use the Plusquamperfekt for the earlier event; the later event is usually in the Präteritum (or Perfekt).",
+      "Choose the auxiliary as in the Perfekt: **sein** for movement from A to B (*gehen, fahren, ankommen*), change of state (*einschlafen, werden, sterben*) and *sein, bleiben, passieren*; **haben** for all other verbs, including reflexive verbs and verbs with an Akkusativ object.",
+      "Put the auxiliary into the **Präteritum** and conjugate it: *hatte, hattest, hatten, hattet* / *war, warst, waren, wart*.",
+      "Form the Partizip II: *ge-…-t* (*gemacht*), *ge-…-en* (*gegessen*), separable *an-ge-rufen*, no *ge-* with inseparable prefixes (*be-, er-, ver-, ent-*, inseparable *über-* …) and with *-ieren* (*erkannt, überlegt, diskutiert*).",
+      "Word order: main clause → auxiliary in position 2, Partizip II at the end (Satzklammer). Nebensatz → Partizip II, then the auxiliary as the very last word (*nachdem sie gegessen* **hatte**)."
+    ],
+    "pitfalls": [
+      "Wrong auxiliary: ✗ *Der Zug hatte schon abgefahren.* → ✓ *Der Zug war schon abgefahren.* (movement → *sein*)",
+      "Same tense after *nachdem*: ✗ *Nachdem er aß, ging er.* → ✓ *Nachdem er gegessen hatte, ging er.*",
+      "Confusing *hatte* (Plusquamperfekt) with *hätte* (Konjunktiv II): ✗ *Ich hätte schon gegessen, als er kam.* → ✓ *Ich hatte schon gegessen, als er kam.*",
+      "Auxiliary not at the end of the Nebensatz: ✗ *…, weil er hatte den Bus verpasst.* → ✓ *…, weil er den Bus verpasst hatte.*",
+      "Using the Plusquamperfekt with no earlier/later relation, as a general past tense. For a simple story in order, the Präteritum or Perfekt is enough."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::hatte::haben/sein}} schon gegessen, als er kam.",
+      "en": "I had already eaten when he came.",
+      "focus": "Plusquamperfekt im Hauptsatz · *als* + Präteritum",
+      "explanation": "Two past events: first I ate, then he came. The earlier one is in the Plusquamperfekt, the later one (*als er kam*) in the Präteritum. *essen* is not a verb of movement or change of state → auxiliary *haben*, Präteritum for *ich*: **hatte** + *gegessen*.",
+      "pattern": "hatte + … + Partizip II, als + Präteritum",
+      "mistake": {"wrong": "Ich war schon gegessen, als er kam.", "why": "*essen* forms the Perfekt and Plusquamperfekt with *haben* (*ich habe gegessen* → *ich hatte gegessen*). *sein* is only for movement or change of state."},
+      "examples": [
+        {"de": "Wir hatten schon bestellt, als die Kollegen ins Restaurant kamen.", "en": "We had already ordered when the colleagues came into the restaurant."},
+        {"de": "Sie hatte den Kuchen schon gebacken, als die Gäste klingelten.", "en": "She had already baked the cake when the guests rang the bell."}
+      ],
+      "words": [],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Nachdem wir angekommen {{c1::waren::haben/sein}}, gingen wir essen.",
+      "en": "After we had arrived, we went to eat.",
+      "focus": "*nachdem*-Satz · Bewegungsverb · Verb am Ende",
+      "explanation": "The arrival came first, so the *nachdem*-clause is in the Plusquamperfekt while the main clause is in the Präteritum. *ankommen* is a movement to a goal → auxiliary *sein*; Präteritum for *wir*: **waren**. In the Nebensatz it stands at the very end, after the Partizip *angekommen*.",
+      "pattern": "Nachdem + … Partizip II + waren, Präteritum …",
+      "mistake": {"wrong": "Nachdem wir angekommen hatten, gingen wir essen.", "why": "*ankommen* is a verb of movement and takes *sein*: *wir sind angekommen* → *wir waren angekommen*."},
+      "examples": [
+        {"de": "Nachdem sie aufgestanden war, machte sie sich einen Tee.", "en": "After she had got up, she made herself a tea."},
+        {"de": "Nachdem die Gäste abgereist waren, war das Hotel fast leer.", "en": "After the guests had left, the hotel was almost empty."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie {{c1::hatte::haben/sein}} das Buch schon gelesen, bevor sie den Film sah.",
+      "en": "She had already read the book before she saw the film.",
+      "focus": "Plusquamperfekt · Satzklammer · *bevor*",
+      "explanation": "Reading came before seeing the film. The main clause contains the earlier event, so it is in the Plusquamperfekt: *lesen* takes *haben* → **hatte** … *gelesen*. The auxiliary is in position 2 and the Partizip II closes the main clause; *das Buch* stands inside the bracket.",
+      "pattern": "Subjekt + hatte + Objekt + Partizip II, bevor + Präteritum",
+      "mistake": {"wrong": "Sie hatte schon gelesen das Buch, bevor sie den Film sah.", "why": "The Partizip II belongs at the end of the main clause (Satzklammer). The object goes between *hatte* and *gelesen*."},
+      "examples": [
+        {"de": "Er hatte die Wohnung schon gekündigt, bevor er die neue Stelle fand.", "en": "He had already given notice on the flat before he found the new job."},
+        {"de": "Wir hatten die Tickets schon gebucht, bevor die Preise stiegen.", "en": "We had already booked the tickets before the prices went up."}
+      ],
+      "words": [],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::waren::sein}} müde, weil wir lange gearbeitet hatten.",
+      "en": "We were tired because we had worked for a long time.",
+      "focus": "Präteritum im Hauptsatz · Plusquamperfekt im *weil*-Satz",
+      "explanation": "The gap is the main verb *sein* in the **Präteritum**: being tired is the later state, the reference point in the past → **waren**. The cause, the long work, happened before, so the *weil*-clause is in the Plusquamperfekt: *gearbeitet hatten* (with *haben*).",
+      "pattern": "Präteritum (später), weil + … Partizip II + hatten (früher)",
+      "mistake": {"wrong": "Wir waren müde, weil wir lange gearbeitet waren.", "why": "*arbeiten* takes *haben* in all perfect tenses: *wir haben gearbeitet* → *wir hatten gearbeitet*. Only the main verb *waren* (tired) is a form of *sein*."},
+      "examples": [
+        {"de": "Sie war glücklich, weil sie die Prüfung bestanden hatte.", "en": "She was happy because she had passed the exam."},
+        {"de": "Der Rasen war nass, weil es in der Nacht geregnet hatte.", "en": "The lawn was wet because it had rained during the night."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Bevor er anrief, {{c1::hatte::haben/sein}} ich schon geschlafen.",
+      "en": "Before he called, I had already been asleep.",
+      "focus": "Plusquamperfekt nach *bevor*-Satz · Zustandsverb",
+      "explanation": "The sleeping started before the call. The fronted *bevor*-clause fills the Vorfeld, so the auxiliary comes next, then the subject. *schlafen* is a state, not a change → *haben*: **hatte** … *geschlafen*.",
+      "pattern": "Bevor + Präteritum, hatte + Subjekt … Partizip II",
+      "mistake": {"wrong": "Bevor er anrief, war ich schon geschlafen.", "why": "*schlafen* describes a state and takes *haben*. Only *einschlafen* (falling asleep, a change of state) takes *sein*: *ich war eingeschlafen*."},
+      "examples": [
+        {"de": "Bevor der Film anfing, hatten wir schon das ganze Popcorn gegessen.", "en": "Before the film started, we had already eaten all the popcorn."},
+        {"de": "Bevor sie nach Deutschland zog, hatte sie zwei Jahre Deutsch gelernt.", "en": "Before she moved to Germany, she had learned German for two years."}
+      ],
+      "words": [],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er {{c1::hatte::haben/sein}} viel gelernt, deshalb bestand er die Prüfung.",
+      "en": "He had studied a lot; that's why he passed the exam.",
+      "focus": "Plusquamperfekt · Grund vor der Folge",
+      "explanation": "The studying came before passing the exam. The first clause is in the Plusquamperfekt, *lernen* takes *haben* → **hatte** … *gelernt*. After *deshalb* (an adverb in position 1) the verb *bestand* comes next, then the subject.",
+      "pattern": "hatte + … Partizip II, deshalb + Präteritum + Subjekt",
+      "mistake": {"wrong": "Er hätte viel gelernt, deshalb bestand er die Prüfung.", "why": "*hätte* is Konjunktiv II and means *would have* (an unreal situation). The real earlier fact needs the indicative *hatte*, without umlaut."},
+      "examples": [
+        {"de": "Sie hatte gut geschlafen, deshalb war sie fit.", "en": "She had slept well, so she felt fit."},
+        {"de": "Wir hatten zu viel gegessen, deshalb gingen wir noch spazieren.", "en": "We had eaten too much, so we went for a walk."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Nachdem die Kinder gegessen {{c1::hatten::haben/sein}}, gingen sie ins Bett.",
+      "en": "After the children had eaten, they went to bed.",
+      "focus": "*nachdem*-Satz · Subjekt im Plural",
+      "explanation": "Eating came first → Plusquamperfekt in the *nachdem*-clause. *essen* takes *haben*, and the subject *die Kinder* is plural, so the Präteritum form is **hatten**. It is the last word of the Nebensatz.",
+      "pattern": "Nachdem + Subjekt (Pl.) … Partizip II + hatten, Präteritum …",
+      "mistake": {"wrong": "Nachdem die Kinder gegessen hatte, gingen sie ins Bett.", "why": "The auxiliary agrees with the subject. *die Kinder* is plural (*sie*), so the form is *hatten*."},
+      "examples": [
+        {"de": "Nachdem die Studierenden die Klausur geschrieben hatten, gingen sie feiern.", "en": "After the students had written the exam, they went out to celebrate."},
+        {"de": "Nachdem meine Eltern das Haus verkauft hatten, zogen sie ans Meer.", "en": "After my parents had sold the house, they moved to the coast."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich {{c1::hatte::haben/sein}} ihn nie zuvor gesehen.",
+      "en": "I had never seen him before.",
+      "focus": "Plusquamperfekt · Erfahrung vor einem Zeitpunkt",
+      "explanation": "The reference point is a moment in the past (e.g. the day we met); *nie zuvor* means *never before that moment*. *sehen* takes *haben* → **hatte**; the strong Partizip II is *gesehen*.",
+      "pattern": "hatte + Objekt + nie zuvor + Partizip II",
+      "mistake": {"wrong": "Ich hatte ihn nie zuvor gesieht.", "why": "*sehen* is a strong verb. Its Partizip II ends in *-en* and keeps the vowel: *gesehen*."},
+      "examples": [
+        {"de": "Sie hatte so etwas noch nie erlebt.", "en": "She had never experienced anything like that."},
+        {"de": "Wir hatten den Ort nie zuvor besucht.", "en": "We had never visited the place before."}
+      ],
+      "words": [{"de": "zuvor", "en": "before (that)"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie {{c1::war::sein}} schon weg, als ich ankam.",
+      "en": "She had already left when I arrived.",
+      "focus": "Zustand im Präteritum · *weg sein* · Vergleich",
+      "explanation": "Careful: here **war** is the Präteritum of *weg sein* (to be gone), not an auxiliary. It describes the state that results from an earlier action, so English translates it with *had left*. The full Plusquamperfekt would be *Sie war schon weggegangen*, again with *sein*, because *weggehen* is a movement.",
+      "pattern": "war + schon weg (Zustand) = war … weggegangen",
+      "mistake": {"wrong": "Sie hatte schon weggegangen, als ich ankam.", "why": "*weggehen* is a verb of movement and takes *sein*: *sie war weggegangen*. With *haben* the Plusquamperfekt is wrong."},
+      "examples": [
+        {"de": "Als wir ankamen, war das Konzert schon vorbei.", "en": "When we arrived, the concert was already over."},
+        {"de": "Die Tür war zu, als ich zurückkam.", "en": "The door was closed when I came back."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::hatten::haben/sein}} alles geplant, aber das Wetter war schlecht.",
+      "en": "We had planned everything, but the weather was bad.",
+      "focus": "Plusquamperfekt · Plan vor dem Ereignis",
+      "explanation": "The planning was finished before the bad weather came, so it is in the Plusquamperfekt; *war schlecht* is the Präteritum of the later situation. *planen* takes *haben* → for *wir*: **hatten**; regular Partizip II *geplant*.",
+      "pattern": "hatten + Objekt + Partizip II, aber + Präteritum",
+      "mistake": {"wrong": "Wir hatten alles planen, aber das Wetter war schlecht.", "why": "The Plusquamperfekt needs the Partizip II, not the infinitive: *geplant*."},
+      "examples": [
+        {"de": "Sie hatte sich so auf den Urlaub gefreut, aber dann wurde sie krank.", "en": "She had been so looking forward to the holiday, but then she got ill."},
+        {"de": "Er hatte genug Geld gespart, aber die Wohnung war schon vermietet.", "en": "He had saved enough money, but the flat was already rented out."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Nachdem wir angerufen {{c1::hatten::haben/sein}}, kam das Taxi.",
+      "en": "After we had called, the taxi came.",
+      "focus": "*nachdem*-Satz · trennbares Verb",
+      "explanation": "The call came first → Plusquamperfekt in the *nachdem*-clause. *anrufen* takes *haben* (it is not a movement) → **hatten** for *wir*. The separable verb puts *-ge-* between prefix and stem: *an-ge-rufen*.",
+      "pattern": "Nachdem + … Präfix-ge-Partizip + hatten, Präteritum …",
+      "mistake": {"wrong": "Nachdem wir angeruft hatten, kam das Taxi.", "why": "*rufen* is a strong verb: the Partizip II is *gerufen*, so *anrufen* → *angerufen*, not *angeruft*."},
+      "examples": [
+        {"de": "Nachdem sie das Licht ausgemacht hatte, schlief sie sofort ein.", "en": "After she had switched off the light, she fell asleep at once."},
+        {"de": "Nachdem er die Tür abgeschlossen hatte, merkte er, dass das Fenster offen war.", "en": "After he had locked the door, he noticed that the window was open."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Er sagte, dass er das Buch gelesen {{c1::hatte::haben/sein}}.",
+      "en": "He said that he had read the book.",
+      "focus": "Plusquamperfekt im *dass*-Satz · Verb am Ende",
+      "explanation": "The reading happened before he said it, so the *dass*-clause is in the Plusquamperfekt. In the Nebensatz the Partizip II *gelesen* comes first and the auxiliary **hatte** is the last word. (In formal reported speech you would also find the Konjunktiv I: *dass er das Buch gelesen habe*.)",
+      "pattern": "…, dass + Subjekt … Partizip II + hatte.",
+      "mistake": {"wrong": "Er sagte, dass er hatte das Buch gelesen.", "why": "In a *dass*-clause the finite verb goes to the end: *dass er das Buch gelesen hatte*."},
+      "examples": [
+        {"de": "Sie erzählte, dass sie in Japan gewesen war.", "en": "She said that she had been to Japan."},
+        {"de": "Wir merkten, dass jemand die Tür geöffnet hatte.", "en": "We noticed that somebody had opened the door."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Bevor sie sprach, {{c1::hatte::haben/sein}} sie lange überlegt.",
+      "en": "Before she spoke, she had thought for a long time.",
+      "focus": "Plusquamperfekt · untrennbares Verb",
+      "explanation": "Thinking came before speaking → Plusquamperfekt in the main clause, with the auxiliary right after the *bevor*-clause. *überlegen* (to think about, consider) takes *haben* → **hatte**. It is inseparable (stress on *-le-*), so the Partizip II has no *ge-*: *überlegt*.",
+      "pattern": "Bevor + Präteritum, hatte + Subjekt … Partizip II (ohne ge-)",
+      "mistake": {"wrong": "Bevor sie sprach, hatte sie lange geüberlegt.", "why": "Verbs with an inseparable prefix (*über-* in *überlegen*, *be-, er-, ver-*) form the Partizip II without *ge-*: *überlegt*."},
+      "examples": [
+        {"de": "Bevor er unterschrieb, hatte er den Vertrag genau gelesen.", "en": "Before he signed, he had read the contract carefully."},
+        {"de": "Bevor wir die Wohnung mieteten, hatten wir sie zweimal besichtigt.", "en": "Before we rented the flat, we had viewed it twice."}
+      ],
+      "words": [{"de": "überlegen", "en": "to think (about), to consider"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich {{c1::war::haben/sein}} noch nie in Berlin gewesen.",
+      "en": "I had never been to Berlin.",
+      "focus": "Plusquamperfekt von *sein*",
+      "explanation": "*sein* itself forms its perfect tenses with *sein*: *ich bin gewesen* → Plusquamperfekt **war** … *gewesen*. *noch nie* refers to the time before a past moment (e.g. *until that trip*).",
+      "pattern": "war + … + gewesen",
+      "mistake": {"wrong": "Ich hatte noch nie in Berlin gewesen.", "why": "In German *sein* takes *sein* as its auxiliary (unlike English *had been*): *ich war gewesen*."},
+      "examples": [
+        {"de": "Bis zu dieser Reise waren wir noch nie im Ausland gewesen.", "en": "Until that trip we had never been abroad."},
+        {"de": "Er war vorher noch nie so nervös gewesen.", "en": "He had never been so nervous before."}
+      ],
+      "words": [],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Nachdem das Konzert begonnen {{c1::hatte::haben/sein}}, kamen wir an.",
+      "en": "We arrived after the concert had started.",
+      "focus": "*nachdem*-Satz · *beginnen*",
+      "explanation": "The concert started first, then we arrived (we were late). *beginnen* forms its perfect tenses with *haben*, although it describes a start: *hat begonnen* → **hatte** … *begonnen*. The Partizip has no *ge-* because *be-* is an inseparable prefix.",
+      "pattern": "Nachdem + … Partizip II + hatte, Präteritum …",
+      "mistake": {"wrong": "Nachdem das Konzert begann, kamen wir an.", "why": "With *nachdem* the two clauses cannot have the same tense. The earlier event needs the Plusquamperfekt: *begonnen hatte*."},
+      "examples": [
+        {"de": "Nachdem die Sitzung begonnen hatte, durfte niemand mehr hinein.", "en": "After the meeting had started, nobody was allowed in."},
+        {"de": "Nachdem das Spiel angefangen hatte, fing es an zu regnen.", "en": "After the match had started, it began to rain."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie {{c1::war::haben/sein}} schon eingeschlafen, als ich nach Hause kam.",
+      "en": "She had already fallen asleep when I came home.",
+      "focus": "Plusquamperfekt · Zustandsveränderung",
+      "explanation": "*einschlafen* is a change of state (awake → asleep), so it takes *sein*: *sie ist eingeschlafen* → **war** … *eingeschlafen*. This happened before my arrival (*als ich nach Hause kam*, Präteritum).",
+      "pattern": "war + schon + Partizip II, als + Präteritum",
+      "mistake": {"wrong": "Sie hatte schon eingeschlafen, als ich nach Hause kam.", "why": "Verbs of change of state (*einschlafen, aufwachen, werden*) take *sein*. Compare *schlafen* (a state) with *haben*."},
+      "examples": [
+        {"de": "Die Pflanzen waren schon vertrocknet, als wir aus dem Urlaub kamen.", "en": "The plants had already dried up when we came back from holiday."},
+        {"de": "Das Baby war gerade aufgewacht, als der Besuch kam.", "en": "The baby had just woken up when the visitors arrived."}
+      ],
+      "words": [{"de": "einschlafen", "en": "to fall asleep"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Bevor du kamst, {{c1::hatte::haben/sein}} ich schon angefangen.",
+      "en": "Before you came, I had already started.",
+      "focus": "Plusquamperfekt · trennbares Verb · *bevor*",
+      "explanation": "I started before you arrived → the main clause is in the Plusquamperfekt. *anfangen* takes *haben* → **hatte**. It is separable, so *-ge-* goes between prefix and stem: *an-ge-fangen*.",
+      "pattern": "Bevor + Präteritum, hatte + Subjekt + schon + Präfix-ge-Partizip",
+      "mistake": {"wrong": "Bevor du kamst, hatte ich schon geanfangen.", "why": "With separable verbs *ge-* stands after the prefix, not before it: *angefangen*."},
+      "examples": [
+        {"de": "Bevor der Lehrer kam, hatten die Schüler schon aufgeräumt.", "en": "Before the teacher came, the pupils had already tidied up."},
+        {"de": "Bevor wir uns trafen, hatte sie schon eingekauft.", "en": "Before we met, she had already done the shopping."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir {{c1::waren::haben/sein}} schon abgereist, als das Hotel anrief.",
+      "en": "We had already left when the hotel called.",
+      "focus": "Plusquamperfekt · Bewegungsverb · *als*",
+      "explanation": "*abreisen* means leaving a place on a journey → a movement verb with *sein*: *wir sind abgereist* → **waren** … *abgereist*. The departure happened before the call (*als das Hotel anrief*, Präteritum).",
+      "pattern": "waren + schon + Partizip II, als + Präteritum",
+      "mistake": {"wrong": "Wir hatten schon abgereist, als das Hotel anrief.", "why": "*abreisen* expresses movement away from a place, so it takes *sein*: *waren abgereist*."},
+      "examples": [
+        {"de": "Die Mieter waren schon ausgezogen, als der Brief ankam.", "en": "The tenants had already moved out when the letter arrived."},
+        {"de": "Der Bus war schon abgefahren, als wir an die Haltestelle kamen.", "en": "The bus had already left when we got to the stop."}
+      ],
+      "words": [{"de": "abreisen", "en": "to leave (on a journey), to check out"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er {{c1::hatte::haben/sein}} mich nicht erkannt.",
+      "en": "He hadn't recognised me.",
+      "focus": "Plusquamperfekt · Partizip ohne *ge-*",
+      "explanation": "The sentence tells what had happened before another moment in the story (e.g. before he apologised). *erkennen* takes *haben* → **hatte**. It has the inseparable prefix *er-*, so the Partizip II has no *ge-*: *erkannt* (mixed verb: *erkannte – erkannt*).",
+      "pattern": "hatte + Objekt + nicht + Partizip II",
+      "mistake": {"wrong": "Er hatte mich nicht geerkannt.", "why": "Verbs with *er-* (*erkennen, erzählen, erklären*) never take *ge-* in the Partizip II: *erkannt*."},
+      "examples": [
+        {"de": "Sie hatte die Frage nicht verstanden.", "en": "She hadn't understood the question."},
+        {"de": "Niemand hatte den Fehler bemerkt.", "en": "Nobody had noticed the mistake."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Nachdem wir uns kennengelernt {{c1::hatten::haben/sein}}, schrieben wir uns oft.",
+      "en": "After we had met, we often wrote to each other.",
+      "focus": "*nachdem*-Satz · reflexives Verb",
+      "explanation": "Meeting came first → Plusquamperfekt in the *nachdem*-clause. *sich kennenlernen* is reflexive (here reciprocal: *each other*), and reflexive verbs always take *haben* → **hatten**. *kennengelernt* is written as one word.",
+      "pattern": "Nachdem + Subjekt + sich … Partizip II + hatten, Präteritum …",
+      "mistake": {"wrong": "Nachdem wir uns kennengelernt waren, schrieben wir uns oft.", "why": "Reflexive verbs form the perfect tenses with *haben*: *wir haben uns kennengelernt* → *wir hatten uns kennengelernt*."},
+      "examples": [
+        {"de": "Nachdem sie sich verabschiedet hatten, fuhren sie los.", "en": "After they had said goodbye, they drove off."},
+        {"de": "Nachdem er sich beruhigt hatte, konnten wir reden.", "en": "After he had calmed down, we were able to talk."}
+      ],
+      "words": [{"de": "sich kennenlernen", "en": "to meet (for the first time), to get to know"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Als ich am Bahnhof ankam, {{c1::war::haben/sein}} der Zug schon abgefahren.",
+      "en": "When I arrived at the station, the train had already left.",
+      "focus": "Plusquamperfekt nach *als*-Satz · Bewegungsverb",
+      "explanation": "The *als*-clause gives the past reference point (Präteritum). The train's departure was earlier → Plusquamperfekt. *abfahren* is movement → *sein*; third person singular: **war** … *abgefahren*. The auxiliary comes right after the comma.",
+      "pattern": "Als + Präteritum, war + Subjekt + schon + Partizip II",
+      "mistake": {"wrong": "Als ich am Bahnhof ankam, hatte der Zug schon abgefahren.", "why": "*abfahren* is a verb of movement and takes *sein* in all perfect tenses: *der Zug war abgefahren*."},
+      "examples": [
+        {"de": "Als die Polizei kam, war der Dieb schon geflohen.", "en": "When the police came, the thief had already escaped."},
+        {"de": "Als ich aufwachte, war mein Mann schon zur Arbeit gefahren.", "en": "When I woke up, my husband had already gone to work."}
+      ],
+      "words": [{"de": "abfahren", "en": "to leave, to depart"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Hattest::haben/sein · du}} du vorher schon einmal Sushi gegessen?",
+      "en": "Had you ever eaten sushi before?",
+      "focus": "Ja/Nein-Frage · 2. Person Singular",
+      "explanation": "In a yes/no question the auxiliary comes first. *essen* takes *haben*; the Präteritum of *haben* for *du* is **hattest**. *vorher* points to a moment in the past (e.g. before your trip to Japan).",
+      "pattern": "Hattest du … Partizip II?",
+      "mistake": {"wrong": "Hast du vorher schon einmal Sushi gegessen gehabt?", "why": "*hast … gegessen gehabt* mixes Perfekt and an extra *gehabt*. This double form is not standard German. The Plusquamperfekt is simply *hattest … gegessen*."},
+      "examples": [
+        {"de": "Hattest du den Schlüssel nicht eingesteckt?", "en": "Hadn't you put the key in your pocket?"},
+        {"de": "Hattet ihr das Hotel schon bezahlt?", "en": "Had you already paid for the hotel?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ihr {{c1::wart::haben/sein · ihr}} gerade gegangen, als Oma anrief.",
+      "en": "You had just left when Grandma called.",
+      "focus": "Plusquamperfekt · 2. Person Plural · Bewegungsverb",
+      "explanation": "*gehen* (leave) is movement → *sein*. The Präteritum of *sein* for *ihr* is **wart** (without *-e-*, unlike *ihr hattet*). *gerade* stresses that the leaving happened just before the call.",
+      "pattern": "Ihr wart + gerade + Partizip II, als + Präteritum",
+      "mistake": {"wrong": "Ihr wartet gerade gegangen, als Oma anrief.", "why": "*wartet* is a form of *warten* (to wait). The Präteritum of *sein* for *ihr* is *wart*."},
+      "examples": [
+        {"de": "Wart ihr schon einmal in Wien gewesen?", "en": "Had you ever been to Vienna?"},
+        {"de": "Ihr wart zu spät losgefahren, deshalb habt ihr den Anfang verpasst.", "en": "You had set off too late, so you missed the beginning."}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Er {{c1::war::haben/sein}} den ganzen Tag im Bett geblieben, weil er Fieber hatte.",
+      "en": "He had stayed in bed all day because he had a temperature.",
+      "focus": "Plusquamperfekt · *bleiben*",
+      "explanation": "*bleiben* is not a movement, but it is one of the special verbs that take *sein* (like *sein* and *passieren*): *er ist geblieben* → **war** … *geblieben*. In the *weil*-clause *hatte* is the main verb *haben* (Präteritum), not an auxiliary.",
+      "pattern": "war + … + geblieben",
+      "mistake": {"wrong": "Er hatte den ganzen Tag im Bett geblieben, weil er Fieber hatte.", "why": "*bleiben* always takes *sein* in Standard German: *er war geblieben*."},
+      "examples": [
+        {"de": "Wir waren nur eine Nacht in Prag geblieben.", "en": "We had stayed in Prague for only one night."},
+        {"de": "Sie war ruhig geblieben, obwohl alle laut wurden.", "en": "She had stayed calm although everyone got loud."}
+      ],
+      "words": [{"de": "Fieber haben", "en": "to have a temperature"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Niemand wusste genau, was in der Nacht passiert {{c1::war::haben/sein}}.",
+      "en": "Nobody knew exactly what had happened during the night.",
+      "focus": "indirekte Frage · *passieren* · Verb am Ende",
+      "explanation": "*passieren* (and *geschehen*) takes *sein*: *es ist passiert* → **war** … *passiert*. The event was before the moment of not knowing (*wusste*, Präteritum). In the indirect question with *was* the auxiliary stands at the end. *-ieren* verbs have no *ge-*.",
+      "pattern": "…, was + … Partizip II + war.",
+      "mistake": {"wrong": "Niemand wusste genau, was in der Nacht passiert hatte.", "why": "*passieren* takes *sein* in all perfect tenses (*Was ist passiert?*), so the Plusquamperfekt is *passiert war*."},
+      "examples": [
+        {"de": "Sie konnte nicht glauben, was geschehen war.", "en": "She couldn't believe what had happened."},
+        {"de": "Später erfuhren wir, warum der Unfall passiert war.", "en": "Later we found out why the accident had happened."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Sie hatte sich gut auf das Gespräch {{c1::vorbereitet::vorbereiten}}, deshalb war sie ruhig.",
+      "en": "She had prepared well for the meeting, so she was calm.",
+      "focus": "Partizip II · Verb mit *vor-* und *be-*",
+      "explanation": "*vorbereiten* has two prefixes: separable *vor-* and inseparable *be-*. Because of *be-*, no *ge-* is added: **vorbereitet**. Reflexive *sich vorbereiten* takes *haben* → *hatte sich … vorbereitet*.",
+      "pattern": "hatte + sich + … + Partizip II (vor-be-reitet)",
+      "mistake": {"wrong": "Sie hatte sich gut auf das Gespräch vorgebereitet, deshalb war sie ruhig.", "why": "When a verb contains the inseparable prefix *be-*, the Partizip II has no *ge-*, even with the separable *vor-* in front: *vorbereitet*."},
+      "examples": [
+        {"de": "Er hatte sich nicht bei uns verabschiedet.", "en": "He hadn't said goodbye to us."},
+        {"de": "Wir hatten das Problem schon vorher erkannt.", "en": "We had already recognised the problem beforehand."}
+      ],
+      "words": [{"de": "das Gespräch (-e)", "en": "conversation, talk, meeting"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir hatten das Thema lange {{c1::diskutiert::diskutieren}}, bevor die Chefin eine Lösung fand.",
+      "en": "We had discussed the topic for a long time before the boss found a solution.",
+      "focus": "Partizip II · Verben auf *-ieren*",
+      "explanation": "The discussion came first → Plusquamperfekt with *haben*. Verbs ending in *-ieren* form the Partizip II without *ge-* and with *-t*: diskutieren → **diskutiert**. The participle closes the main clause before the comma.",
+      "pattern": "hatten + … + -iert, bevor + Präteritum",
+      "mistake": {"wrong": "Wir hatten das Thema lange gediskutiert, bevor die Chefin eine Lösung fand.", "why": "Verbs ending in *-ieren* never take *ge-*: *diskutiert, studiert, telefoniert*."},
+      "examples": [
+        {"de": "Sie hatte in Leipzig studiert, bevor sie nach Zürich ging.", "en": "She had studied in Leipzig before she went to Zurich."},
+        {"de": "Er hatte das Paket schon reklamiert, bevor die Firma sich meldete.", "en": "He had already complained about the parcel before the company got in touch."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich wusste nicht, dass du schon umgezogen {{c1::warst::haben/sein · du}}.",
+      "en": "I didn't know that you had already moved.",
+      "focus": "*dass*-Satz · 2. Person Singular · Ortswechsel",
+      "explanation": "*umziehen* (to move house) is a change of place → *sein*. For *du* the Präteritum of *sein* is **warst**. It is the last word in the *dass*-clause, after the Partizip *umgezogen*.",
+      "pattern": "…, dass du … Partizip II + warst.",
+      "mistake": {"wrong": "Ich wusste nicht, dass du schon umgezogen hattest.", "why": "*umziehen* in the sense *move house* takes *sein*: *du bist umgezogen* → *du warst umgezogen*."},
+      "examples": [
+        {"de": "Er hatte nicht gemerkt, dass sie schon gegangen war.", "en": "He hadn't noticed that she had already left."},
+        {"de": "Wir wussten nicht, dass ihr schon angekommen wart.", "en": "We didn't know that you had already arrived."}
+      ],
+      "words": [{"de": "umziehen", "en": "to move (house)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Als die Feuerwehr kam, {{c1::hatten::haben/sein}} die Nachbarn das Feuer schon gelöscht.",
+      "en": "When the fire brigade arrived, the neighbours had already put out the fire.",
+      "focus": "Plusquamperfekt · Subjekt im Plural nach dem Verb",
+      "explanation": "The neighbours acted before the fire brigade arrived → Plusquamperfekt. *löschen* has an Akkusativ object and takes *haben*; the subject *die Nachbarn* is plural → **hatten**. The subject follows the verb because the *als*-clause fills the Vorfeld.",
+      "pattern": "Als + Präteritum, hatten + Subjekt (Pl.) + Objekt + Partizip II",
+      "mistake": {"wrong": "Als die Feuerwehr kam, hatte die Nachbarn das Feuer schon gelöscht.", "why": "The subject is *die Nachbarn* (plural), even though it stands after the verb. The auxiliary must agree: *hatten*."},
+      "examples": [
+        {"de": "Als der Arzt kam, hatten die Sanitäter den Patienten schon versorgt.", "en": "When the doctor came, the paramedics had already treated the patient."},
+        {"de": "Als ich nach Hause kam, hatten die Kinder schon gegessen.", "en": "When I came home, the children had already eaten."}
+      ],
+      "words": [{"de": "das Feuer löschen", "en": "to put out the fire"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Es {{c1::war::haben/sein}} schon dunkel geworden, als wir das Dorf erreichten.",
+      "en": "It had already got dark when we reached the village.",
+      "focus": "Plusquamperfekt · *werden*",
+      "explanation": "*werden* is a change of state and takes *sein*: *es ist dunkel geworden* → **war** … *geworden*. Note that as a full verb *werden* has the Partizip *geworden* (with *ge-*). The darkness came before our arrival.",
+      "pattern": "war + Adjektiv + geworden, als + Präteritum",
+      "mistake": {"wrong": "Es hatte schon dunkel geworden, als wir das Dorf erreichten.", "why": "*werden* expresses a change of state, so it takes *sein*: *es war geworden*."},
+      "examples": [
+        {"de": "Das Wetter war plötzlich schlecht geworden.", "en": "The weather had suddenly turned bad."},
+        {"de": "Sie war mit der Zeit selbstbewusster geworden.", "en": "She had become more self-confident over time."}
+      ],
+      "words": [{"de": "erreichen", "en": "to reach"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Nachdem sie ihr Studium {{c1::abgeschlossen::abschließen}} hatte, zog sie nach Hamburg.",
+      "en": "After she had finished her degree, she moved to Hamburg.",
+      "focus": "Partizip II · trennbares starkes Verb",
+      "explanation": "*abschließen* is separable and strong: *ab* + *ge* + *schlossen* → **abgeschlossen** (vowel change *ie → o*). It takes *haben* (Akkusativ object *ihr Studium*), and *hatte* closes the *nachdem*-clause. *zog* is the Präteritum of *ziehen*.",
+      "pattern": "Nachdem + … Präfix-ge-Partizip (stark) + hatte, Präteritum …",
+      "mistake": {"wrong": "Nachdem sie ihr Studium abgeschließt hatte, zog sie nach Hamburg.", "why": "*schließen* is a strong verb: Partizip II *geschlossen*. So *abschließen* → *abgeschlossen*."},
+      "examples": [
+        {"de": "Nachdem er den Vertrag unterschrieben hatte, bekam er den Schlüssel.", "en": "After he had signed the contract, he got the key."},
+        {"de": "Nachdem wir die Wohnung gefunden hatten, kündigten wir die alte.", "en": "After we had found the flat, we gave notice on the old one."}
+      ],
+      "words": [{"de": "das Studium abschließen", "en": "to finish one's degree"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Weil er seinen Schlüssel vergessen {{c1::hatte::haben/sein}}, musste er beim Nachbarn klingeln.",
+      "en": "Because he had forgotten his key, he had to ring the neighbour's bell.",
+      "focus": "*weil*-Satz im Vorfeld · Grund vor der Folge",
+      "explanation": "Forgetting the key happened before he had to ring. *vergessen* takes *haben* → **hatte**, the last word of the *weil*-clause. The Partizip II of *vergessen* has no *ge-* (prefix *ver-*). The main clause starts with *musste*.",
+      "pattern": "Weil + … Partizip II + hatte, Modalverb (Prät.) + Subjekt … Infinitiv",
+      "mistake": {"wrong": "Weil er seinen Schlüssel vergessen war, musste er beim Nachbarn klingeln.", "why": "*vergessen* has an Akkusativ object and expresses no movement, so it takes *haben*: *vergessen hatte*."},
+      "examples": [
+        {"de": "Weil sie den Wecker nicht gehört hatte, kam sie zu spät.", "en": "Because she hadn't heard the alarm, she was late."},
+        {"de": "Weil wir nicht reserviert hatten, bekamen wir keinen Tisch.", "en": "Because we hadn't booked, we didn't get a table."}
+      ],
+      "words": [{"de": "klingeln", "en": "to ring (the bell)"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Plusquamperfekt.",
+      "prompt": "How is the Plusquamperfekt formed, and how do you choose the auxiliary?",
+      "answer": "**Präteritum of *haben* or *sein*** (*hatte, war*) + **Partizip II**. The auxiliary is the same as in the Perfekt: *ich habe gegessen* → *ich* **hatte** *gegessen*; *ich bin gegangen* → *ich* **war** *gegangen*.",
+      "explanation": "Only the auxiliary changes from Präsens to Präteritum; the participle stays the same. So if you know the Perfekt of a verb, you already know its Plusquamperfekt.",
+      "examples": [
+        {"de": "Sie hatte das Fenster geöffnet.", "en": "She had opened the window."},
+        {"de": "Wir waren schon nach Hause gefahren.", "en": "We had already driven home."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the use of the Plusquamperfekt.",
+      "prompt": "When do you use the Plusquamperfekt instead of the Präteritum or Perfekt?",
+      "answer": "When an action was **completed before another past action or a past moment** (the reference point). The earlier action → Plusquamperfekt; the later action → Präteritum or Perfekt.",
+      "explanation": "The Plusquamperfekt always needs a reference point in the past, given by another clause or a time phrase (*damals, bis dahin, vorher*). For one simple past event or a list of events in their real order, you do not need it.",
+      "examples": [
+        {"de": "Als ich ins Büro kam, hatte das Meeting schon begonnen.", "en": "When I got to the office, the meeting had already started."},
+        {"de": "Bis 2020 hatte er noch nie ein Flugzeug genommen.", "en": "Until 2020 he had never taken a plane."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about verbs with *sein*.",
+      "prompt": "Which verbs form the Plusquamperfekt with *war* instead of *hatte*?",
+      "answer": "Verbs of **movement from A to B** (*gehen, fahren, fliegen, ankommen, umziehen*), verbs of **change of state** (*einschlafen, aufwachen, werden, sterben, wachsen*), and the special verbs **sein, bleiben, passieren / geschehen**.",
+      "explanation": "All other verbs take *hatte*, including all reflexive verbs (*hatte mich gefreut*) and verbs with an Akkusativ object (*hatte den Bus genommen*). Careful with pairs: *schlafen* → *hatte geschlafen*, but *einschlafen* → *war eingeschlafen*.",
+      "examples": [
+        {"de": "Die Blumen waren über Nacht gewachsen.", "en": "The flowers had grown overnight."},
+        {"de": "Er hatte die ganze Nacht geschlafen.", "en": "He had slept the whole night."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two forms.",
+      "prompt": "What is the difference between *Ich hatte angerufen* and *Ich hätte angerufen*?",
+      "answer": "*hatte angerufen* (indicative Plusquamperfekt): it **really happened** before another past moment. *hätte angerufen* (Konjunktiv II Vergangenheit): it **did not happen**; *I would have called*.",
+      "explanation": "The only difference in form is the umlaut, but the meaning is opposite: fact vs. unreal situation. *hätte* usually appears with a condition (*wenn ich Zeit gehabt hätte*) or a regret.",
+      "examples": [
+        {"de": "Ich hatte angerufen, aber niemand war zu Hause.", "en": "I had called, but nobody was at home."},
+        {"de": "Ich hätte angerufen, wenn ich deine Nummer gehabt hätte.", "en": "I would have called if I had had your number."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Als wir am Gate ankamen, ___ das Flugzeug schon gestartet.",
+      "options": ["war", "hatte", "ist", "wurde"],
+      "correct": "war",
+      "answer": "Als wir am Gate ankamen, war das Flugzeug schon gestartet.",
+      "explanation": "*starten* (take off) is a movement here and takes *sein* → *war gestartet*. *hatte* is the wrong auxiliary, *ist* would be Perfekt (wrong tense for an earlier past event), and *wurde* would form a passive."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Er ___ den Brief schon geschrieben, bevor sie anrief.",
+      "options": ["hatte", "war", "hätte", "wird"],
+      "correct": "hatte",
+      "answer": "Er hatte den Brief schon geschrieben, bevor sie anrief.",
+      "explanation": "Writing happened before the call → Plusquamperfekt with *haben* (Akkusativ object, no movement): *hatte geschrieben*. *war* is the wrong auxiliary, *hätte* is Konjunktiv II (would have), and *wird* belongs to the Futur or the passive, not to a past-in-the-past."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Nachdem die Besucher ___, schlossen wir das Museum.",
+      "options": ["gegangen waren", "gegangen hatten", "gingen", "gegangen sind"],
+      "correct": "gegangen waren",
+      "answer": "Nachdem die Besucher gegangen waren, schlossen wir das Museum.",
+      "explanation": "The main clause is in the Präteritum, so the *nachdem*-clause needs the Plusquamperfekt. *gehen* is movement → *sein*: *gegangen waren*. *hatten* is the wrong auxiliary, *gingen* is the same tense as the main clause, and *sind* is Perfekt."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nachdem sie den Film gesehen hat, ging sie schlafen.",
+      "answer": "Nachdem sie den Film gesehen hatte, ging sie schlafen.",
+      "explanation": "The main clause is in the Präteritum (*ging*), so the earlier action needs the Plusquamperfekt: *hatte*, not the Perfekt *hat*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir hatten schon nach Hause gegangen.",
+      "answer": "Wir waren schon nach Hause gegangen.",
+      "explanation": "*gehen* is a verb of movement and takes *sein*. The Präteritum of *sein* for *wir* is *waren*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Bevor das Meeting begann, war er die Präsentation noch einmal geübt.",
+      "answer": "Bevor das Meeting begann, hatte er die Präsentation noch einmal geübt.",
+      "explanation": "*üben* has an Akkusativ object (*die Präsentation*) and is not a movement, so the auxiliary is *haben*: *hatte geübt*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er erzählte, dass er im Urlaub krank geworden hatte.",
+      "answer": "Er erzählte, dass er im Urlaub krank geworden war.",
+      "explanation": "*werden* is a change of state and takes *sein*: *er war krank geworden*. The auxiliary stays at the end of the *dass*-clause."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Plusquamperfekt.",
+      "prompt": "Sie hat den letzten Bus verpasst.",
+      "answer": "Sie hatte den letzten Bus verpasst.",
+      "explanation": "The Perfekt auxiliary *hat* changes to its Präteritum *hatte*; the Partizip II *verpasst* stays at the end."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Plusquamperfekt.",
+      "prompt": "Wir sind früh aufgestanden.",
+      "answer": "Wir waren früh aufgestanden.",
+      "explanation": "*aufstehen* takes *sein* (change of position), so *sind* becomes its Präteritum *waren*. The separable participle *aufgestanden* does not change."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite in the Plusquamperfekt.",
+      "prompt": "Ich habe mich in der Altstadt verlaufen.",
+      "answer": "Ich hatte mich in der Altstadt verlaufen.",
+      "explanation": "*sich verlaufen* (to get lost) is reflexive, so it takes *haben* although it is about walking. *habe* → *hatte*; *verlaufen* has no *ge-* because of *ver-*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "hatte / er / vergessen / den Termin / völlig",
+      "answer": "Er hatte den Termin völlig vergessen.",
+      "explanation": "The auxiliary *hatte* is in position 2 and the Partizip II *vergessen* closes the sentence (Satzklammer). The object and the adverb stand in the Mittelfeld. Also possible: *Den Termin hatte er völlig vergessen.*"
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join with *nachdem*. The first sentence happened first.",
+      "prompt": "Sie beendete ihre Ausbildung. Sie fand sofort eine Stelle.",
+      "answer": "Nachdem sie ihre Ausbildung beendet hatte, fand sie sofort eine Stelle.",
+      "explanation": "The earlier action goes into the *nachdem*-clause in the Plusquamperfekt: *beendet hatte* (*beenden*: no *ge-* because of *be-*). The main clause stays in the Präteritum and starts with *fand*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join with *als*. Put the earlier event (the film starting) in the Plusquamperfekt.",
+      "prompt": "Ich kam am Kino an. Der Film begann schon.",
+      "answer": "Als ich am Kino ankam, hatte der Film schon begonnen.",
+      "explanation": "*als* + Präteritum gives the reference point. The film had started before that → *hatte begonnen* (*beginnen* takes *haben*). The auxiliary comes directly after the comma."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join with *weil*.",
+      "prompt": "Er war müde. Er hatte die ganze Nacht gearbeitet.",
+      "answer": "Er war müde, weil er die ganze Nacht gearbeitet hatte.",
+      "explanation": "In the *weil*-clause the auxiliary *hatte* moves to the end, after the Partizip II *gearbeitet*. The Präteritum in the main clause and the Plusquamperfekt in the *weil*-clause show the time order."
+    }
+  ]
+}

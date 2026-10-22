@@ -1,0 +1,1149 @@
+{
+  "topic_id": "h16-genitiv-vertiefung",
+  "level": "B2",
+  "title_de": "Genitiv-Vertiefung: Attribute, Eigennamen, n-Deklination, wessen",
+  "title_en": "The Genitiv in depth: attributes, proper names, n-declension, wessen",
+  "rule": {
+    "summary": "A **Genitivattribut** describes a noun more closely and normally follows it directly: *die Folgen **des Klimawandels***. Masculine and neuter nouns add **-es**, **-s**, **-(e)n** or **-ns**, depending on the noun type; feminine and plural nouns add nothing. Proper names take **-s** (or only an apostrophe after an s-sound) and can also stand before the noun: *Annas Wohnung, Max' Hund*. When nothing in the phrase can show the Genitiv (bare plural, mass noun, number), you need **von + Dativ**; in everyday speech *von* + Dativ also replaces the Genitiv in general.",
+    "table": "| Nomentyp | Genitiv Singular | Beispiel |\n|---|---|---|\n| m/n, einsilbig | **-es** (oft auch -s) | des Tag**es**, des Kind**es** |\n| m/n auf -s, -ß, -x, -z, -tz | **-es** (Pflicht) | des Haus**es**, des Fuß**es**, des Satz**es** |\n| m/n auf -nis | **-nisses** | des Ereig**nisses** |\n| m/n mehrsilbig, unbetonte Endung (-el, -en, -er, -chen) | **-s** | des Computer**s**, des Wagen**s** |\n| Fremdwörter auf -us, -ismus | keine Endung | des Virus, des Kapitalismus |\n| n-Deklination | **-(e)n** | des Student**en**, des Kunde**n**, des Herr**n** |\n| Name, Gedanke, Glaube, Wille …; das Herz | **-ns / -ens** | des Name**ns**, des Herz**ens** |\n| alle Feminina, alle Plurale | keine Endung | der Schweiz, der Bewerber |\n| Eigenname ohne Artikel | **-s** / nur **'** nach s-Laut | Anna**s**, Goethe**s**, Max**'**, Klaus**'** |\n| Eigenname mit Artikel | keine Endung | des jungen Mozart |",
+    "steps": [
+      "Find the head noun and ask *wessen?* (whose? of what?). The Genitivattribut stands directly after this noun, before prepositional attributes and relative clauses.",
+      "Choose the article by gender and number: **des** (m/n), **der** (f, Plural); *eines/einer, meines/meiner, dieses/dieser*.",
+      "Masculine and neuter nouns need an ending. Check the noun type: -es, -s, none (-us/-ismus), n-Deklination -(e)n, or -ns (*Name, Gedanke, Herz*). Feminine and plural nouns never add an ending.",
+      "Proper names without an article: add **-s** without an apostrophe; after *-s, -ß, -x, -z, -tz* write only **'**. A name before the noun replaces the article (*Annas Wohnung*). A name with an article or with *Titel + Artikel* stays without ending.",
+      "If the phrase has no article and no adjective (bare plural, mass noun, number), the Genitiv is not visible → use **von + Dativ**. With an adjective a Genitiv is possible again: *der Bau neuer Wohnungen*.",
+      "Ask with **wessen** + noun without article: *Wessen Unterschrift fehlt?*"
+    ],
+    "pitfalls": [
+      "Normal *-s* on n-Deklination nouns: ✗ *des Students* → ✓ *des Studenten*; and pure n-Deklination on *-ns* nouns: ✗ *des Namen* → ✓ *des Namens*.",
+      "Article before a prenominal name: ✗ *die Annas Wohnung* → ✓ *Annas Wohnung*. The name already takes the article slot.",
+      "English apostrophe: ✗ *Anna's Buch*, ✗ *Klaus's Werkstatt* → ✓ *Annas Buch*, ✓ *Klaus' Werkstatt*.",
+      "Bare plural or mass noun as a Genitiv: ✗ *der Bau Wohnungen*, ✗ *der Konsum Alkohols* → ✓ *der Bau von Wohnungen*, ✓ *der Konsum von Alkohol*.",
+      "Wrong ending choice: ✗ *des Computeres*, ✗ *des Haus*, ✗ *des Kapitalismusses* → ✓ *des Computers*, ✓ *des Hauses*, ✓ *des Kapitalismus*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Die Folgen {{c1::des Klimawandels::der Klimawandel}} sind in den Alpen deutlich sichtbar.",
+      "en": "The consequences of climate change are clearly visible in the Alps.",
+      "focus": "Genitiv maskulin · Nomen auf unbetontes *-el*",
+      "explanation": "*die Folgen* – the consequences of what? → Genitivattribut after the noun. *der Klimawandel* is masculine → article **des**. The noun ends in the unstressed syllable *-el*, so it takes only **-s**: Klimawandel + -s → **des Klimawandels**.",
+      "pattern": "Nomen + des + Nomen(-el)-**s**",
+      "mistake": {
+        "wrong": "Die Folgen des Klimawandeles sind in den Alpen deutlich sichtbar.",
+        "why": "*-es* is not added after an unstressed final syllable (*-el, -en, -er*). These nouns only take *-s*."
+      },
+      "examples": [
+        {
+          "de": "Die Qualität des Leitungswassers ist in dieser Region sehr gut.",
+          "en": "The quality of the tap water in this region is very good."
+        },
+        {
+          "de": "Der Bau des neuen Tunnels hat sich um zwei Jahre verzögert.",
+          "en": "The construction of the new tunnel has been delayed by two years."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Klimawandel",
+          "en": "climate change"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Im Laufe {{c1::des Tages::der Tag}} ziehen von Westen Gewitter auf.",
+      "en": "In the course of the day, thunderstorms will move in from the west.",
+      "focus": "Genitiv maskulin · einsilbiges Nomen",
+      "explanation": "*im Laufe* is followed by a Genitiv (in the course of what?). *der Tag* is masculine and has only one syllable. Monosyllabic masculine and neuter nouns usually take **-es**: Tag + -es → **des Tages**. *des Tags* is also correct, but *-es* is more common in written texts.",
+      "pattern": "im Laufe + des + Nomen-**es**",
+      "mistake": {
+        "wrong": "Im Laufe des Tag ziehen von Westen Gewitter auf.",
+        "why": "After *des* a masculine noun cannot stay without ending. It needs *-es* or *-s*: *des Tages / des Tags*."
+      },
+      "examples": [
+        {
+          "de": "Die Stille des Waldes tat ihm nach der Operation gut.",
+          "en": "The silence of the forest did him good after the operation."
+        },
+        {
+          "de": "Der Duft des frischen Brotes zog durch das ganze Haus.",
+          "en": "The smell of the fresh bread spread through the whole house."
+        }
+      ],
+      "words": [
+        {
+          "de": "aufziehen (Gewitter)",
+          "en": "to gather, to move in (storm)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Sanierung {{c1::des Hauses::das Haus}} hat fast ein Jahr gedauert.",
+      "en": "The renovation of the house took almost a year.",
+      "focus": "Genitiv neutral · Stamm auf *-s*",
+      "explanation": "*das Haus* is neuter → Genitiv article **des**. The stem already ends in *-s*, so a simple *-s* cannot be added; the ending must be **-es**: Haus + -es → **des Hauses**. The same is true for stems in *-ß, -x, -z, -tz*: *des Fußes, des Reflexes, des Satzes*.",
+      "pattern": "des + Nomen(-s/-ß/-x/-z)-**es**",
+      "mistake": {
+        "wrong": "Die Sanierung des Haus hat fast ein Jahr gedauert.",
+        "why": "A neuter noun after *des* needs a Genitiv ending. After an s-sound only *-es* is possible: *des Hauses*."
+      },
+      "examples": [
+        {
+          "de": "Die Höhe des Zinssatzes hängt von der Laufzeit ab.",
+          "en": "The level of the interest rate depends on the term."
+        },
+        {
+          "de": "Das Ende des Prozesses ist noch nicht absehbar.",
+          "en": "The end of the trial is not yet in sight."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Sanierung",
+          "en": "renovation, refurbishment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Rechenleistung {{c1::des neuen Computers::der neue Computer}} hat uns überrascht.",
+      "en": "The processing power of the new computer surprised us.",
+      "focus": "Genitiv maskulin · Lehnwort mit Adjektiv",
+      "explanation": "*der Computer* → Genitiv article **des**. After *des* the adjective is weak and takes **-en**: **neuen**. *Computer* is a normal masculine noun with an unstressed final *-er*, so it adds **-s**: **des neuen Computers**.",
+      "pattern": "des + Adj-**en** + Nomen(-er)-**s**",
+      "mistake": {
+        "wrong": "Die Rechenleistung des neuen Computer hat uns überrascht.",
+        "why": "English loanwords such as *Computer, Laptop, Server* are declined like German nouns. Masculine and neuter loanwords need the Genitiv *-s*."
+      },
+      "examples": [
+        {
+          "de": "Die Akkulaufzeit des alten Laptops ist viel zu kurz.",
+          "en": "The battery life of the old laptop is far too short."
+        },
+        {
+          "de": "Der Ausfall des zentralen Servers legte das ganze Netzwerk lahm.",
+          "en": "The failure of the central server paralysed the whole network."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Rechenleistung",
+          "en": "computing/processing power"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Bedeutung {{c1::dieses Ereignisses::dieses Ereignis}} wurde lange unterschätzt.",
+      "en": "The significance of this event was underestimated for a long time.",
+      "focus": "Genitiv neutral · Nomen auf *-nis*",
+      "explanation": "*dieses* has the same endings as *des* → neuter Genitiv **dieses**. Nouns in *-nis* double the *s* before every ending: Ereignis → Ereignis**ses**. The same doubling appears in the plural: *die Ereignisse*.",
+      "pattern": "dieses + Nomen(-nis)-**ses**",
+      "mistake": {
+        "wrong": "Die Bedeutung dieses Ereignises wurde lange unterschätzt.",
+        "why": "The *s* of *-nis* is always doubled before an ending: *-nisses*, never *-nises*."
+      },
+      "examples": [
+        {
+          "de": "Die Veröffentlichung des Ergebnisses ist für Freitag geplant.",
+          "en": "The publication of the result is planned for Friday."
+        },
+        {
+          "de": "Die Bedingungen des Bündnisses wurden neu verhandelt.",
+          "en": "The terms of the alliance were renegotiated."
+        }
+      ],
+      "words": [
+        {
+          "de": "unterschätzen",
+          "en": "to underestimate"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Kritik {{c1::des Kapitalismus::der Kapitalismus}} steht im Mittelpunkt seines Werks.",
+      "en": "The critique of capitalism is at the centre of his work.",
+      "focus": "Genitiv maskulin · Fremdwort auf *-ismus*",
+      "explanation": "Foreign nouns in *-ismus* and many nouns in *-us* (*der Organismus, der Rhythmus, das Virus*) take no Genitiv ending. Only the article shows the case: **des Kapitalismus**. Compare *seines Werks*: *Werk* is a normal neuter noun and takes *-s* or *-es*.",
+      "pattern": "des + Nomen(-ismus) ohne Endung",
+      "mistake": {
+        "wrong": "Die Kritik des Kapitalismusses steht im Mittelpunkt seines Werks.",
+        "why": "Nouns in *-ismus* do not add *-ses*. The article *des* alone marks the Genitiv."
+      },
+      "examples": [
+        {
+          "de": "Die Struktur dieses Organismus ist erstaunlich komplex.",
+          "en": "The structure of this organism is surprisingly complex."
+        },
+        {
+          "de": "Die Ausbreitung des Virus wurde durch strenge Maßnahmen gebremst.",
+          "en": "The spread of the virus was slowed down by strict measures."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Masterarbeit {{c1::des Studenten::der Student}} wurde von zwei Professorinnen begutachtet.",
+      "en": "The student's master's thesis was assessed by two professors.",
+      "focus": "Genitiv · n-Deklination",
+      "explanation": "*Student* is n-Deklination: a masculine person noun with the stressed ending *-ent*. These nouns take **-(e)n** in every form except the Nominativ singular, and this replaces the normal Genitiv *-s*: **des Studenten**.",
+      "pattern": "des + Nomen(n-Dekl.)-**en**",
+      "mistake": {
+        "wrong": "Die Masterarbeit des Students wurde von zwei Professorinnen begutachtet.",
+        "why": "n-Deklination nouns never take the Genitiv *-s*. The ending is *-en*: *des Studenten, des Präsidenten*."
+      },
+      "examples": [
+        {
+          "de": "Der Vortrag des Doktoranden dauerte über eine Stunde.",
+          "en": "The doctoral student's talk lasted over an hour."
+        },
+        {
+          "de": "Die Diagnose des Spezialisten bestätigte den Verdacht.",
+          "en": "The specialist's diagnosis confirmed the suspicion."
+        }
+      ],
+      "words": [
+        {
+          "de": "begutachten",
+          "en": "to assess, to review (expert)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Brieftasche {{c1::des älteren Herrn::der ältere Herr}} wurde im Zug gefunden.",
+      "en": "The elderly gentleman's wallet was found on the train.",
+      "focus": "Genitiv · Sonderfall *Herr*",
+      "explanation": "*Herr* is n-Deklination, but in the singular it takes only **-n** (*den, dem, des Herrn*); **-en** is the plural (*die Herren*). After *des* the adjective is weak: alt → älter (Komparativ) + -en → **des älteren Herrn**.",
+      "pattern": "des + Adj-**en** + Herr**n**",
+      "mistake": {
+        "wrong": "Die Brieftasche des älteren Herren wurde im Zug gefunden.",
+        "why": "*Herren* is the plural form. In the singular Genitiv the form is *des Herrn*."
+      },
+      "examples": [
+        {
+          "de": "Die Anwältin des Herrn Krause hat Berufung eingelegt.",
+          "en": "Mr Krause's lawyer has filed an appeal."
+        },
+        {
+          "de": "Der Hut des Herrn in der ersten Reihe versperrte mir die Sicht.",
+          "en": "The hat of the gentleman in the first row blocked my view."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Brieftasche",
+          "en": "wallet"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Herkunft {{c1::des Namens::der Name}} ist bis heute umstritten.",
+      "en": "The origin of the name is still disputed today.",
+      "focus": "Genitiv · gemischte Deklination",
+      "explanation": "*Name* belongs to a small group (*Name, Gedanke, Glaube, Wille, Buchstabe, Friede, Funke, Same*). Like the n-Deklination they take *-n* in the Akkusativ and Dativ (*den/dem Namen*), but in the Genitiv they add **-ns**: Name → **des Namens**.",
+      "pattern": "des + Nomen(-e)-**ns**",
+      "mistake": {
+        "wrong": "Die Herkunft des Namen ist bis heute umstritten.",
+        "why": "*Name* is not a pure n-Deklination noun. Its Genitiv needs *-ns*: *des Namens*."
+      },
+      "examples": [
+        {
+          "de": "Die Form des Buchstabens hat sich im Laufe der Jahrhunderte verändert.",
+          "en": "The shape of the letter has changed over the centuries."
+        },
+        {
+          "de": "Die Kraft des Glaubens wird in dem Roman eindrucksvoll beschrieben.",
+          "en": "The power of faith is described impressively in the novel."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Herkunft",
+          "en": "origin"
+        },
+        {
+          "de": "umstritten",
+          "en": "disputed, controversial"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er hörte auf die Stimme {{c1::seines Herzens::sein Herz}} und zog nach Lissabon.",
+      "en": "He listened to the voice of his heart and moved to Lisbon.",
+      "focus": "Genitiv neutral · Sonderform",
+      "explanation": "*die Stimme* – whose voice? → Genitivattribut. *sein* takes the Genitiv neuter ending → **seines**. *das Herz* is the only neuter noun with mixed declension: *das Herz, dem Herzen,* Genitiv **des Herzens** with *-ens*. (Some medical texts use *des Herzes*, but general language uses *Herzens*.)",
+      "pattern": "seines + Herz**ens**",
+      "mistake": {
+        "wrong": "Er hörte auf die Stimme seinem Herzen und zog nach Lissabon.",
+        "why": "*seinem Herzen* is Dativ. A noun that describes another noun needs the Genitiv: *seines Herzens*."
+      },
+      "examples": [
+        {
+          "de": "Die Entscheidung kam aus der Tiefe ihres Herzens.",
+          "en": "The decision came from the depths of her heart."
+        },
+        {
+          "de": "Die Bedeutung des Friedens wird vielen erst in Krisenzeiten bewusst.",
+          "en": "Many people only realise the importance of peace in times of crisis."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Auf Wunsch {{c1::des Kunden::der Kunde}} wurde der Liefertermin verschoben.",
+      "en": "At the customer's request, the delivery date was postponed.",
+      "focus": "Genitiv · maskuline Personenbezeichnung auf *-e*",
+      "explanation": "Masculine person nouns ending in *-e* (*Kunde, Kollege, Junge, Zeuge*) are n-Deklination. Their Genitiv adds only **-n**: **des Kunden**. *auf Wunsch* + Genitiv is a fixed formal phrase; *Wunsch* has no article here.",
+      "pattern": "auf Wunsch + des + Nomen(-e)-**n**",
+      "mistake": {
+        "wrong": "Auf Wunsch des Kundes wurde der Liefertermin verschoben.",
+        "why": "*Kunde* follows the n-Deklination. The Genitiv ending is *-n*, never *-s*."
+      },
+      "examples": [
+        {
+          "de": "Die Aussage des Zeugen widersprach der Version der Polizei.",
+          "en": "The witness's statement contradicted the police's version."
+        },
+        {
+          "de": "Das Spielzeug des kleinen Jungen lag überall im Flur.",
+          "en": "The little boy's toys were lying all over the hallway."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Liefertermin",
+          "en": "delivery date"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Aussagen {{c1::des Kandidaten Schulz::der Kandidat Schulz}} sorgten für heftige Kritik.",
+      "en": "Candidate Schulz's statements caused fierce criticism.",
+      "focus": "Genitiv · Artikel + Titel + Name",
+      "explanation": "If a title or job noun with an article stands before a name, the article and the title carry the Genitiv, and the name stays without ending. *Kandidat* is n-Deklination → **des Kandidaten**; the name stays **Schulz**.",
+      "pattern": "des + Titel(-en/-s) + Name ohne Endung",
+      "mistake": {
+        "wrong": "Die Aussagen des Kandidat Schulz sorgten für heftige Kritik.",
+        "why": "The title noun must be declined even before a name: *Kandidat* is n-Deklination → *des Kandidaten*. Only the name stays uninflected."
+      },
+      "examples": [
+        {
+          "de": "Die Rede der Ministerin Berger wurde mehrmals unterbrochen.",
+          "en": "Minister Berger's speech was interrupted several times."
+        },
+        {
+          "de": "Die Bilder des Malers Paul Klee hängen im zweiten Stock.",
+          "en": "The paintings by the painter Paul Klee hang on the second floor."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "{{c1::Annas::Anna}} neue Wohnung liegt direkt am Kanal.",
+      "en": "Anna's new flat is right by the canal.",
+      "focus": "Eigenname vor dem Nomen",
+      "explanation": "A name without an article can stand before the noun as a Genitiv: Anna + **-s** → **Annas**, written without an apostrophe. This prenominal Genitiv takes the place of the article, so the adjective takes the ending it would have without an article (feminine Nominativ: *neue*; masculine: *Annas neuer Freund*).",
+      "pattern": "Name-**s** + (Adj) + Nomen, ohne Artikel",
+      "mistake": {
+        "wrong": "Die Annas neue Wohnung liegt direkt am Kanal.",
+        "why": "A prenominal name already fills the article slot. An extra article (*die Annas …*) is wrong."
+      },
+      "examples": [
+        {
+          "de": "Pauls ältere Schwester studiert Medizin in Wien.",
+          "en": "Paul's older sister is studying medicine in Vienna."
+        },
+        {
+          "de": "Deutschlands größter Hafen liegt in Hamburg.",
+          "en": "Germany's largest port is in Hamburg."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Die Werke {{c1::Goethes::Goethe}} werden bis heute an Schulen gelesen.",
+      "en": "Goethe's works are still read in schools today.",
+      "focus": "Eigenname nach dem Nomen · gehobener Stil",
+      "explanation": "A name can also follow the noun. Then the head noun keeps its article (*die Werke*) and the name takes **-s**: **Goethes**. This order is typical of formal and academic writing; in everyday language *Goethes Werke* or *die Werke von Goethe* is more common.",
+      "pattern": "Art. + Nomen + Name-**s**",
+      "mistake": {
+        "wrong": "Die Werke des Goethes werden bis heute an Schulen gelesen.",
+        "why": "A name in the Genitiv has no article; the *-s* ending alone marks the case. With an article (*des jungen Goethe*) the name would lose the *-s*."
+      },
+      "examples": [
+        {
+          "de": "Die Sinfonien Beethovens gehören zum Repertoire jedes großen Orchesters.",
+          "en": "Beethoven's symphonies are part of the repertoire of every major orchestra."
+        },
+        {
+          "de": "Die Thesen Luthers lösten eine Bewegung aus, die ganz Europa veränderte.",
+          "en": "Luther's theses started a movement that changed all of Europe."
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal style: name after the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "{{c1::Max'::Max}} Hund bellt jede Nacht stundenlang.",
+      "en": "Max's dog barks for hours every night.",
+      "focus": "Eigenname auf *-x* · Schreibung",
+      "explanation": "Names that end in *-s, -ss, -ß, -x, -z* or *-tz* cannot add another *-s*. In writing you add only an **apostrophe**: Max → **Max'**. Because this form sounds like the base name, speakers usually say *der Hund von Max*.",
+      "pattern": "Name(-x/-z/-s)**'** + Nomen",
+      "mistake": {
+        "wrong": "Maxs Hund bellt jede Nacht stundenlang.",
+        "why": "After *-x* no *-s* is added. The Genitiv is shown only by the apostrophe: *Max'*."
+      },
+      "examples": [
+        {
+          "de": "Felix' Bruder arbeitet bei der Feuerwehr.",
+          "en": "Felix's brother works for the fire brigade."
+        },
+        {
+          "de": "Fritz' Großeltern stammen aus Schlesien.",
+          "en": "Fritz's grandparents come from Silesia."
+        }
+      ],
+      "words": [
+        {
+          "de": "bellen",
+          "en": "to bark"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "{{c1::Klaus'::Klaus}} Werkstatt ist samstags geschlossen.",
+      "en": "Klaus's workshop is closed on Saturdays.",
+      "focus": "Eigenname auf *-s* · Schreibung",
+      "explanation": "*Klaus* already ends in *-s*, so no second *-s* is added; only an **apostrophe** shows the Genitiv: **Klaus'**. Here the apostrophe is obligatory, because without it the reader could not see the Genitiv at all.",
+      "pattern": "Name(-s)**'** + Nomen",
+      "mistake": {
+        "wrong": "Klaus's Werkstatt ist samstags geschlossen.",
+        "why": "German does not use the English *'s*. After a name in *-s* you write only the apostrophe: *Klaus'*."
+      },
+      "examples": [
+        {
+          "de": "Agnes' Mann arbeitet als Pilot bei einer Frachtfluggesellschaft.",
+          "en": "Agnes's husband works as a pilot for a cargo airline."
+        },
+        {
+          "de": "Andreas' Wohnung ist größer als unsere.",
+          "en": "Andreas's flat is bigger than ours."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Werkstatt",
+          "en": "workshop, garage"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "In den Briefen {{c1::des jungen Mozart::der junge Mozart}} spürt man bereits seinen Ehrgeiz.",
+      "en": "In the letters of the young Mozart you can already sense his ambition.",
+      "focus": "Eigenname mit Artikel und Adjektiv",
+      "explanation": "When a name has an article and an adjective, the article carries the Genitiv (**des**), the adjective is weak (**jungen**), and the name normally stays without *-s*: **des jungen Mozart**. Without an article the name itself takes the ending: *Mozarts Briefe*.",
+      "pattern": "des + Adj-**en** + Name ohne Endung",
+      "mistake": {
+        "wrong": "In den Briefen des junge Mozart spürt man bereits seinen Ehrgeiz.",
+        "why": "After *des* the adjective is weak, and every Genitiv slot after an article takes *-en*: *des jungen*."
+      },
+      "examples": [
+        {
+          "de": "Die Bilder des späten Picasso wirken oft wie Kinderzeichnungen.",
+          "en": "The paintings of the late Picasso often look like children's drawings."
+        },
+        {
+          "de": "Viele Romane des alten Fontane spielen in Berlin.",
+          "en": "Many of the novels of the old Fontane are set in Berlin."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Ehrgeiz",
+          "en": "ambition"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Die Bevölkerung {{c1::Österreichs::Österreich}} ist in den letzten Jahren gewachsen.",
+      "en": "Austria's population has grown in recent years.",
+      "focus": "Ländername ohne Artikel",
+      "explanation": "Most country and city names are neuter and used without an article. In the Genitiv they behave like personal names and add **-s**: **Österreichs**. The name can also stand before the noun: *Österreichs Bevölkerung*.",
+      "pattern": "Nomen + Ländername-**s**",
+      "mistake": {
+        "wrong": "Die Bevölkerung des Österreichs ist in den letzten Jahren gewachsen.",
+        "why": "*Österreich* is used without an article, so there is no *des*. The *-s* ending alone marks the Genitiv."
+      },
+      "examples": [
+        {
+          "de": "Die Altstadt Prags gehört zum UNESCO-Welterbe.",
+          "en": "Prague's old town is a UNESCO World Heritage Site."
+        },
+        {
+          "de": "Die Exporte Chinas sind im letzten Quartal gesunken.",
+          "en": "China's exports fell in the last quarter."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Neutralität {{c1::der Schweiz::die Schweiz}} wird international respektiert.",
+      "en": "Switzerland's neutrality is respected internationally.",
+      "focus": "Ländername mit Artikel · feminin",
+      "explanation": "Some country names are always used with an article: feminine *die Schweiz, die Türkei, die Ukraine*, plural *die USA, die Niederlande* (a few masculine ones such as *der Irak, der Iran* are also used without an article). They decline like normal nouns. *Schweiz* is feminine → Genitiv **der**, and like all feminine nouns it adds no ending: **der Schweiz**.",
+      "pattern": "Nomen + der + Ländername (f.)",
+      "mistake": {
+        "wrong": "Die Neutralität von Schweiz wird international respektiert.",
+        "why": "*Schweiz* is never used without its article. Formal: *der Schweiz*; with *von* you would still need the article: *von der Schweiz*."
+      },
+      "examples": [
+        {
+          "de": "Die Hauptstadt der Türkei ist nicht Istanbul, sondern Ankara.",
+          "en": "The capital of Turkey is not Istanbul but Ankara."
+        },
+        {
+          "de": "Die Zollpolitik der USA hat weltweite Folgen.",
+          "en": "The tariff policy of the USA has global consequences."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "{{c1::Herrn Lehmanns::Herr Lehmann}} Büro liegt im dritten Stock.",
+      "en": "Mr Lehmann's office is on the third floor.",
+      "focus": "*Herr* + Name vor dem Nomen",
+      "explanation": "Without an article, the name carries the Genitiv and takes **-s**: *Lehmanns*. *Herr* is still declined as an n-Deklination noun before the name: **Herrn**. Other titles such as *Frau, Professor, Dr.* stay unchanged (*Frau Kellers Büro*).",
+      "pattern": "Herr**n** + Name-**s** + Nomen",
+      "mistake": {
+        "wrong": "Herr Lehmanns Büro liegt im dritten Stock.",
+        "why": "*Herr* is declined in every case except the Nominativ, also directly before a name: *Herrn Lehmanns Büro*."
+      },
+      "examples": [
+        {
+          "de": "Frau Dr. Kellers Sprechstunde fällt heute aus.",
+          "en": "Dr Keller's consultation hours are cancelled today."
+        },
+        {
+          "de": "Professor Hubers Vorlesung beginnt erst um zehn.",
+          "en": "Professor Huber's lecture doesn't start until ten."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Entdeckung {{c1::des Penicillins::das Penicillin}} durch Alexander Fleming veränderte die Medizin.",
+      "en": "The discovery of penicillin by Alexander Fleming changed medicine.",
+      "focus": "Genitivattribut + Präpositionalattribut · Reihenfolge",
+      "explanation": "*die Entdeckung* comes from *etwas entdecken*. The object of the verb becomes the Genitivattribut (**des Penicillins**), and the person who acts is added with *durch*. The Genitiv stands directly after the noun; the *durch* phrase follows it. *Penicillin* is neuter and has several syllables → *-s*.",
+      "pattern": "Nomen + Genitiv (Objekt) + durch + Akk. (Agens)",
+      "mistake": {
+        "wrong": "Die Entdeckung durch Alexander Fleming des Penicillins veränderte die Medizin.",
+        "why": "The Genitivattribut must follow its noun directly; a prepositional attribute comes after it."
+      },
+      "examples": [
+        {
+          "de": "Die Eroberung Mexikos durch die Spanier begann im Jahr 1519.",
+          "en": "The conquest of Mexico by the Spanish began in 1519."
+        },
+        {
+          "de": "Die Prüfung des Antrags durch die Behörde kann mehrere Wochen dauern.",
+          "en": "The examination of the application by the authority can take several weeks."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Die Ergebnisse der Umfrage {{c1::des Instituts::das Institut}} werden morgen veröffentlicht.",
+      "en": "The results of the institute's survey will be published tomorrow.",
+      "focus": "Genitivkette",
+      "explanation": "In a Genitiv chain each attribute depends on the noun directly before it: *die Ergebnisse* → *der Umfrage* (feminine) → **des Instituts** (neuter, several syllables → *-s*). Each link takes the article of its own noun. Chains like this are typical of formal writing; more than two links are hard to read.",
+      "pattern": "Nomen + Gen.-Attribut + Gen.-Attribut",
+      "mistake": {
+        "wrong": "Die Ergebnisse der Umfrage der Instituts werden morgen veröffentlicht.",
+        "why": "The article is chosen for each noun separately. *Institut* is neuter → *des Instituts*, not *der* from the noun before it."
+      },
+      "examples": [
+        {
+          "de": "Der Bericht des Vorstands der Stiftung liegt jetzt vor.",
+          "en": "The report of the foundation's board is now available."
+        },
+        {
+          "de": "Die Renovierung der Kirche des Dorfes wird durch Spenden finanziert.",
+          "en": "The renovation of the village church is being financed by donations."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Umfrage",
+          "en": "survey, poll"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Die Zahl {{c1::der Bewerber::die Bewerber (Pl.)}}, die einen Studienplatz in Medizin suchen, steigt jedes Jahr.",
+      "en": "The number of applicants looking for a place to study medicine rises every year.",
+      "focus": "Genitiv Plural · vor einem Relativsatz",
+      "explanation": "In the plural the Genitiv article is **der** for all genders, and the noun adds no ending: **der Bewerber**. The Genitivattribut stands directly after *Zahl*; the relative clause comes after it and refers to *Bewerber* (plural → *die … suchen*). The main verb agrees with *Zahl*: *steigt*.",
+      "pattern": "Nomen + der + Nomen (Pl.) + , Relativsatz",
+      "mistake": {
+        "wrong": "Die Zahl den Bewerbern, die einen Studienplatz in Medizin suchen, steigt jedes Jahr.",
+        "why": "*den Bewerbern* is Dativ plural, the form after *von*. Without *von* the attribute must be Genitiv: *der Bewerber*."
+      },
+      "examples": [
+        {
+          "de": "Der Anteil der Frauen, die in Führungspositionen arbeiten, liegt bei knapp 30 Prozent.",
+          "en": "The proportion of women who work in management positions is just under 30 per cent."
+        },
+        {
+          "de": "Die Mehrheit der Mitglieder, die an der Versammlung teilnahmen, stimmte dagegen.",
+          "en": "The majority of the members who attended the meeting voted against it."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Studienplatz",
+          "en": "university place"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "{{c1::Wessen::Frage: Besitzer}} Unterschrift fehlt noch auf dem Antrag?",
+      "en": "Whose signature is still missing on the application?",
+      "focus": "Frage nach dem Genitivattribut",
+      "explanation": "**wessen** is the Genitiv of *wer* and asks about the owner or the person something belongs to. It stands directly before the noun and replaces the article: *wessen Unterschrift*. The answer is a Genitiv or a name: *Die Unterschrift des Vermieters.*",
+      "pattern": "Wessen + Nomen (ohne Artikel) + Verb …?",
+      "mistake": {
+        "wrong": "Wessen die Unterschrift fehlt noch auf dem Antrag?",
+        "why": "*wessen* already takes the article position. An extra *die* is wrong."
+      },
+      "examples": [
+        {
+          "de": "Wessen Idee war es eigentlich, im Februar an die Ostsee zu fahren?",
+          "en": "Whose idea was it, actually, to go to the Baltic Sea in February?"
+        },
+        {
+          "de": "Weißt du, wessen Jacke hier hängt?",
+          "en": "Do you know whose jacket is hanging here?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Unterschrift",
+          "en": "signature"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Mit {{c1::wessen::Frage: Besitzer}} Erlaubnis haben Sie das Labor betreten?",
+      "en": "With whose permission did you enter the laboratory?",
+      "focus": "Fragewort nach einer Präposition",
+      "explanation": "*wessen* can follow a preposition. It never changes its form; the preposition governs the noun after it: *mit* + Dativ → *Erlaubnis* (feminine Dativ, no visible ending). An adjective after *wessen* would show the Dativ with a strong ending: *mit wessen altem Auto*.",
+      "pattern": "Präp. + wessen + Nomen (Kasus der Präp.)",
+      "mistake": {
+        "wrong": "Mit wem Erlaubnis haben Sie das Labor betreten?",
+        "why": "*wem* is the Dativ of *wer* and cannot stand before a noun. Before a noun you always need *wessen*, whatever the preposition."
+      },
+      "examples": [
+        {
+          "de": "Auf wessen Kosten wurde das Abendessen bestellt?",
+          "en": "At whose expense was the dinner ordered?"
+        },
+        {
+          "de": "In wessen Auftrag arbeitet diese Agentur?",
+          "en": "On whose behalf is this agency working?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Erlaubnis",
+          "en": "permission"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Kennst du eigentlich die Freundin von {{c1::meinem::mein}} Bruder?",
+      "en": "Do you actually know my brother's girlfriend?",
+      "focus": "gesprochene Sprache · Ersatz für den Genitiv",
+      "explanation": "In everyday speech the Genitivattribut is often replaced by **von + Dativ**. *von* always takes the Dativ → *mein Bruder* becomes *von* **meinem** *Bruder*. In formal writing you would say *die Freundin meines Bruders*.",
+      "pattern": "Nomen + von + Dativ (gesprochen)",
+      "mistake": {
+        "wrong": "Kennst du eigentlich die Freundin von meines Bruders?",
+        "why": "*von* is a Dativ preposition. Use either *von meinem Bruder* (spoken) or *meines Bruders* (written), not a mix."
+      },
+      "examples": [
+        {
+          "de": "Wir haben im Garten von unseren Nachbarn gegrillt.",
+          "en": "We had a barbecue in our neighbours' garden."
+        },
+        {
+          "de": "Die Wohnung von meiner Tante ist riesig.",
+          "en": "My aunt's flat is huge."
+        }
+      ],
+      "words": [],
+      "production_cue": "(spoken, with von)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Der Bau {{c1::von Sozialwohnungen::Sozialwohnungen (Pl.)}} soll stärker staatlich gefördert werden.",
+      "en": "The construction of social housing is to receive more state support.",
+      "focus": "Plural ohne Artikel und ohne Adjektiv",
+      "explanation": "*Sozialwohnungen* is a plural without article or adjective. Such a bare plural cannot show the Genitiv (it looks like Nominativ/Akkusativ), so **von + Dativ** is required even in formal texts: **von Sozialwohnungen**. With an adjective the Genitiv becomes possible: *der Bau neuer Sozialwohnungen*.",
+      "pattern": "Nomen + von + Nomen (Pl., ohne Artikel)",
+      "mistake": {
+        "wrong": "Der Bau Sozialwohnungen soll stärker staatlich gefördert werden.",
+        "why": "A bare plural cannot be a Genitivattribut because nothing marks the case. Use *von* or add an adjective."
+      },
+      "examples": [
+        {
+          "de": "Die Preise von Eigentumswohnungen sind in München stark gestiegen.",
+          "en": "The prices of owner-occupied flats in Munich have risen sharply."
+        },
+        {
+          "de": "Die Betreuung von Kindern unter drei Jahren ist in vielen Städten teuer.",
+          "en": "Childcare for children under three is expensive in many cities."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Sozialwohnung",
+          "en": "social/council flat"
+        },
+        {
+          "de": "fördern",
+          "en": "to support, to fund"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Der Konsum {{c1::von Alkohol::Alkohol}} ist bei Jugendlichen deutlich zurückgegangen.",
+      "en": "Alcohol consumption among young people has fallen significantly.",
+      "focus": "Stoffname ohne Artikel",
+      "explanation": "A mass noun without an article (*Alkohol, Zucker, Strom*) cannot show the Genitiv: there is no *des*, and a bare *Alkohols* after a noun is not acceptable. So **von + Dativ** is used: **von Alkohol**. With an adjective a formal Genitiv is possible: *der Konsum hochprozentigen Alkohols*.",
+      "pattern": "Nomen + von + Stoffname (ohne Artikel)",
+      "mistake": {
+        "wrong": "Der Konsum Alkohols ist bei Jugendlichen deutlich zurückgegangen.",
+        "why": "A Genitiv noun without article or adjective cannot follow another noun. Use *von Alkohol* or the compound *Alkoholkonsum*."
+      },
+      "examples": [
+        {
+          "de": "Die Zufuhr von Sauerstoff muss ständig kontrolliert werden.",
+          "en": "The supply of oxygen must be monitored constantly."
+        },
+        {
+          "de": "Der Verbrauch von Strom ist im Winter am höchsten.",
+          "en": "Electricity consumption is highest in winter."
+        }
+      ],
+      "words": [
+        {
+          "de": "zurückgehen",
+          "en": "to decrease, to decline"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Die Integration {{c1::ausländischer::ausländisch}} Fachkräfte ist eine zentrale Aufgabe der Politik.",
+      "en": "The integration of foreign skilled workers is a central task for policymakers.",
+      "focus": "Genitiv Plural ohne Artikel · mit Adjektiv",
+      "explanation": "There is no article, so the adjective must show the case with the strong ending. The strong Genitiv plural ending is **-er**: ausländisch + -er → **ausländischer Fachkräfte**. This is the formal alternative to *von ausländischen Fachkräften*.",
+      "pattern": "Nomen + Adj-**er** + Nomen (Gen. Pl., ohne Artikel)",
+      "mistake": {
+        "wrong": "Die Integration ausländischen Fachkräfte ist eine zentrale Aufgabe der Politik.",
+        "why": "*-en* is the weak ending after an article (*der ausländischen Fachkräfte*). Without an article the Genitiv plural adjective takes *-er*."
+      },
+      "examples": [
+        {
+          "de": "Die Rechte geflüchteter Kinder müssen besser geschützt werden.",
+          "en": "The rights of refugee children must be better protected."
+        },
+        {
+          "de": "Die Analyse großer Datenmengen erfordert viel Rechenkapazität.",
+          "en": "The analysis of large amounts of data requires a lot of computing capacity."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Fachkraft (¨-e)",
+          "en": "skilled worker"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Ein Team {{c1::von::Genitiv-Ersatz + Dat.}} zwölf Forschern hat die Daten ausgewertet.",
+      "en": "A team of twelve researchers analysed the data.",
+      "focus": "Zahlwort ohne Artikel",
+      "explanation": "Numbers above *drei* have no Genitiv form (only *zweier* and *dreier* exist, mainly in formal writing: *die Aussagen zweier Zeugen*), and *zwölf Forscher* has no article. So the Genitiv cannot be shown, and you need **von** + Dativ: *von zwölf Forschern* (Dativ plural *-n*).",
+      "pattern": "Nomen + von + Zahl + Nomen-**n** (Dat. Pl.)",
+      "mistake": {
+        "wrong": "Ein Team zwölf Forscher hat die Daten ausgewertet.",
+        "why": "*zwölf Forscher* without *von* has no case marking, so it cannot work as a Genitivattribut."
+      },
+      "examples": [
+        {
+          "de": "Eine Gruppe von zwanzig Schülern besucht morgen den Landtag.",
+          "en": "A group of twenty pupils is visiting the state parliament tomorrow."
+        },
+        {
+          "de": "Sie ist Mutter von vier Kindern und leitet nebenbei eine Firma.",
+          "en": "She is a mother of four and runs a company on the side."
+        }
+      ],
+      "words": [
+        {
+          "de": "auswerten",
+          "en": "to analyse, to evaluate"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Genitiv endings of masculine and neuter nouns.",
+      "prompt": "In the Genitiv singular, when does a masculine or neuter noun take -es, when -s, and when no ending?",
+      "answer": "**-es**: obligatory after *-s, -ß, -x, -z, -tz* (*des Hauses, des Satzes*), usual after one syllable (*des Tages*). **-s**: after an unstressed final syllable and after vowels (*des Computers, des Wagens, des Autos*) and for many foreign words (*des Systems*). **No ending**: foreign words in *-us/-ismus* (*des Virus*). n-Deklination nouns take *-(e)n* instead.",
+      "explanation": "The choice depends on pronunciation. *-es* adds a syllable where *-s* alone cannot be pronounced or where the word is very short. Polysyllabic nouns with an unstressed last syllable never take *-es* (✗ *des Lehreres*). Feminine nouns never take any Genitiv ending.",
+      "examples": [
+        {
+          "de": "Die Ausstattung des Busses war erstaunlich modern.",
+          "en": "The equipment of the bus was surprisingly modern."
+        },
+        {
+          "de": "Der Inhalt des Pakets war beschädigt.",
+          "en": "The contents of the parcel were damaged."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the mixed declension.",
+      "prompt": "Which masculine nouns take -ns in the Genitiv, and how are *das Herz* and *der Herr* special?",
+      "answer": "***Name, Gedanke, Glaube, Wille, Buchstabe, Friede, Funke, Same***: *-n* in Akkusativ/Dativ, **-ns** in the Genitiv (*des Namens, des Gedankens*). ***das Herz***: *dem Herzen*, Genitiv **des Herzens**. ***der Herr***: n-Deklination with only **-n** in the singular (*des Herrn*), **-en** in the plural (*die Herren*).",
+      "explanation": "These nouns mix the n-Deklination (*-n* in the other cases) with the normal Genitiv *-s*. Learners often treat them as pure n-Deklination (✗ *des Gedanken*) or confuse *Herrn* (singular) with *Herren* (plural).",
+      "examples": [
+        {
+          "de": "Die Frage nach der Freiheit des Willens beschäftigt Philosophen seit der Antike.",
+          "en": "The question of free will has occupied philosophers since antiquity."
+        },
+        {
+          "de": "Das ist der Koffer des Herrn aus Zimmer zwölf.",
+          "en": "That is the suitcase of the gentleman from room twelve."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about proper names in the Genitiv.",
+      "prompt": "How do you form the Genitiv of a personal name, and when do you write an apostrophe?",
+      "answer": "Without an article: name + **-s**, no apostrophe (*Annas, Goethes*), before the noun (*Annas Buch*) or, in formal style, after it (*die Werke Goethes*). After *-s, -ss, -ß, -x, -z, -tz*: only an **apostrophe** (*Klaus', Max', Fritz'*). With an article: **no ending** on the name (*des jungen Mozart, des Kandidaten Schulz*).",
+      "explanation": "A name before the noun replaces the article, so ✗ *die Annas Wohnung* is wrong. The English *'s* (✗ *Anna's*) is not standard in normal texts. The official rules allow an apostrophe before *-s* only to make the base form of a name clear (*Andrea's Blumenladen*, so that it is not read as *Andreas*); this is typical of shop names.",
+      "examples": [
+        {
+          "de": "Sarahs Präsentation hat alle überzeugt.",
+          "en": "Sarah's presentation convinced everyone."
+        },
+        {
+          "de": "Viele Gedichte Heines wurden vertont.",
+          "en": "Many of Heine's poems were set to music."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about von + Dativ.",
+      "prompt": "When must you use von + Dativ instead of a Genitivattribut, even in formal writing?",
+      "answer": "When nothing in the phrase can show the Genitiv: a **plural without article or adjective** (*der Bau von Wohnungen*), a **mass noun without article** (*der Konsum von Alkohol*), a **number** without article (*ein Team von zwölf Forschern*), and a **personal pronoun** (*ein Freund von mir*).",
+      "explanation": "The Genitiv must be visible on an article or an adjective. If you add an adjective, the Genitiv is possible again: *der Bau neuer Wohnungen*. In speech, *von* + Dativ also replaces normal Genitivs (*das Auto von meinem Bruder*), but in formal writing this sounds colloquial.",
+      "examples": [
+        {
+          "de": "Ein Freund von mir arbeitet bei der Polizei.",
+          "en": "A friend of mine works for the police."
+        },
+        {
+          "de": "Die Entsorgung von Plastikmüll kostet die Stadt jedes Jahr Millionen.",
+          "en": "The disposal of plastic waste costs the city millions every year."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the position of Genitiv attributes.",
+      "prompt": "Where does a Genitivattribut stand when a noun has other attributes, and can a noun have one Genitiv before it and one after it?",
+      "answer": "After the noun the order is **Genitivattribut → Präpositionalattribut → Relativsatz** (*die Forderung der Gewerkschaft nach höheren Löhnen, die …*). A name can stand before the noun, and then a second Genitiv after the noun is possible: the name is the agent, the postnominal Genitiv the object (*Peters Beschreibung des Unfalls*).",
+      "explanation": "Two Genitivs after the same noun are not possible (✗ *die Beschreibung des Unfalls des Zeugen* in the sense \"the witness's description\"). Add the agent with *durch* instead: *die Beschreibung des Unfalls durch den Zeugen*. A common noun in front of the noun (*des Vaters Haus*) is old-fashioned or poetic.",
+      "examples": [
+        {
+          "de": "Peters Beschreibung des Unfalls war sehr genau.",
+          "en": "Peter's description of the accident was very precise."
+        },
+        {
+          "de": "Die Kritik der Opposition an der Reform war ungewöhnlich scharf.",
+          "en": "The opposition's criticism of the reform was unusually sharp."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about Genitivs of time.",
+      "prompt": "Why do German speakers say *eines Tages* and also *eines Nachts*, although *Nacht* is feminine?",
+      "answer": "***eines Tages, eines Morgens, eines Abends*** are fixed adverbial Genitivs of time (*one day, one evening*), used without a preposition. ***eines Nachts*** is formed by analogy with *eines Tages*: a feminine noun with a masculine Genitiv form. It is the only correct form in this expression.",
+      "explanation": "The regular feminine Genitiv would be *einer Nacht*, but in this time expression only *eines Nachts* is used. These Genitivs refer to an unspecified moment and are typical of narrative texts. Similar fixed Genitivs: *meines Wissens* (as far as I know), *letzten Endes* (in the end).",
+      "examples": [
+        {
+          "de": "Eines Abends stand plötzlich ein alter Freund vor der Tür.",
+          "en": "One evening an old friend suddenly appeared at the door."
+        },
+        {
+          "de": "Eines Nachts hörte sie seltsame Geräusche im Keller.",
+          "en": "One night she heard strange noises in the cellar."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct Genitiv form.",
+      "prompt": "Die Einführung ___ wird sich um mehrere Monate verzögern.",
+      "options": [
+        "des neuen Systems",
+        "des neuen Systemes",
+        "des neuen System"
+      ],
+      "correct": "des neuen Systems",
+      "answer": "Die Einführung des neuen Systems wird sich um mehrere Monate verzögern.",
+      "explanation": "*das System* is neuter → *des*, and after *des* the adjective takes *-en*. Foreign words like *System, Problem* take only *-s* in the Genitiv in current standard German, so *Systemes* (an old form) is wrong here. *des neuen System* has no Genitiv ending at all, which a neuter noun after *des* needs."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct Genitiv form of the name.",
+      "prompt": "___ Vorschlag wurde nach langer Diskussion angenommen.",
+      "options": [
+        "Thomas'",
+        "Thomas's",
+        "Thomases",
+        "Des Thomas"
+      ],
+      "correct": "Thomas'",
+      "answer": "Thomas' Vorschlag wurde nach langer Diskussion angenommen.",
+      "explanation": "*Thomas* ends in *-s*, so the Genitiv is shown only by an apostrophe. *Thomas's* is the English form. *Thomases* is not a German Genitiv form of a name. A name in the Genitiv has no article, so *Des Thomas* is wrong."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct form for a formal text.",
+      "prompt": "Die Interessen ___ werden in der Debatte oft übersehen.",
+      "options": [
+        "kleiner Unternehmen",
+        "kleinen Unternehmen",
+        "kleine Unternehmen"
+      ],
+      "correct": "kleiner Unternehmen",
+      "answer": "Die Interessen kleiner Unternehmen werden in der Debatte oft übersehen.",
+      "explanation": "There is no article, so the adjective must show the Genitiv plural with the strong ending *-er*. *kleinen* is the weak ending after an article (*der kleinen Unternehmen*) or a Dativ plural (*von kleinen Unternehmen*). *kleine* is Nominativ/Akkusativ plural and cannot be a Genitivattribut."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the correct question word.",
+      "prompt": "___ Laptop liegt da noch im Besprechungsraum?",
+      "options": [
+        "Wessen",
+        "Wem",
+        "Wer",
+        "Wessen der"
+      ],
+      "correct": "Wessen",
+      "answer": "Wessen Laptop liegt da noch im Besprechungsraum?",
+      "explanation": "You ask for the owner of the laptop, so you need the Genitiv *wessen* directly before the noun. *Wem* (Dativ) and *Wer* (Nominativ) cannot stand before a noun. *wessen* replaces the article, so *Wessen der Laptop* is wrong."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Gutachten des Experts wurde vor Gericht verlesen.",
+      "answer": "Das Gutachten des Experten wurde vor Gericht verlesen.",
+      "explanation": "*Experte* is a masculine person noun in *-e* → n-Deklination. The Genitiv is *des Experten*; the English-like *Experts* is wrong. The same applies to *Kollege, Kunde, Zeuge*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Meinungen Ärzte gehen in dieser Frage auseinander.",
+      "answer": "Die Meinungen von Ärzten gehen in dieser Frage auseinander.",
+      "explanation": "*Ärzte* is a bare plural: no article, no adjective, so it cannot show the Genitiv. You need *von* + Dativ plural (*von Ärzten*). If you mean specific doctors, *der Ärzte* is also correct."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir waren gestern auf der Lenas Geburtstagsparty.",
+      "answer": "Wir waren gestern auf Lenas Geburtstagsparty.",
+      "explanation": "*Lenas* is a prenominal Genitiv and fills the article slot of *Geburtstagsparty*. An extra article (*der*) is wrong. In speech you could also say *auf der Geburtstagsparty von Lena*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Entwicklung des Gedanken lässt sich im ganzen Buch verfolgen.",
+      "answer": "Die Entwicklung des Gedankens lässt sich im ganzen Buch verfolgen.",
+      "explanation": "*Gedanke* belongs to the mixed group (*Name, Glaube, Wille …*). It has *-n* in the Akkusativ and Dativ, but in the Genitiv it needs *-ns*: *des Gedankens*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Büro des Direktor liegt im Erdgeschoss.",
+      "answer": "Das Büro des Direktors liegt im Erdgeschoss.",
+      "explanation": "*Direktor* is a normal masculine noun, not n-Deklination (although its plural is *Direktoren*). After *des* it needs the Genitiv *-s*: *des Direktors*. The same applies to *Doktor, Professor, Autor*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Rewrite for a formal text: replace von + Dativ with a Genitivattribut.",
+      "prompt": "Die Kinder von meiner Kollegin gehen auf dieselbe Schule wie unsere.",
+      "answer": "Die Kinder meiner Kollegin gehen auf dieselbe Schule wie unsere.",
+      "explanation": "*von meiner Kollegin* (Dativ) becomes the Genitiv *meiner Kollegin*. For a feminine noun the Dativ and Genitiv forms of *mein* are the same (*meiner*), so only *von* disappears. The noun *Kollegin* has no ending."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Put the name in front of the noun (prenominal Genitiv).",
+      "prompt": "Die Doktorarbeit von Jonas wurde mit einem Preis ausgezeichnet.",
+      "answer": "Jonas' Doktorarbeit wurde mit einem Preis ausgezeichnet.",
+      "explanation": "The prenominal name replaces the article *die*. *Jonas* ends in *-s*, so the Genitiv is shown only by an apostrophe: *Jonas'*. No second *-s* is added."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Replace von + Dativ with a Genitivattribut. Add the adjective *erneuerbar*.",
+      "prompt": "Der Ausbau von Energien wird vom Staat gefördert.",
+      "answer": "Der Ausbau erneuerbarer Energien wird vom Staat gefördert.",
+      "explanation": "The bare plural *Energien* needs *von*. With the adjective *erneuerbar*, the Genitiv becomes visible: no article → strong ending, Genitiv plural *-er* → *erneuerbarer Energien*."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Vorschlag",
+      "prompt": "wurde / des Ministers / im Ausschuss / der Vorschlag / abgelehnt",
+      "answer": "Der Vorschlag des Ministers wurde im Ausschuss abgelehnt.",
+      "explanation": "The Genitivattribut *des Ministers* belongs to *der Vorschlag* and must stand directly after it; together they fill the Vorfeld. The finite verb *wurde* is in position 2, the Partizip II *abgelehnt* at the end. Another correct order: *Im Ausschuss wurde der Vorschlag des Ministers abgelehnt.*"
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Forderung",
+      "prompt": "nach höheren Löhnen / wurde / die Forderung / abgelehnt / der Gewerkschaft / vom Arbeitgeberverband",
+      "answer": "Die Forderung der Gewerkschaft nach höheren Löhnen wurde vom Arbeitgeberverband abgelehnt.",
+      "explanation": "A noun with several attributes: first the Genitivattribut (*der Gewerkschaft*), then the prepositional attribute (*nach höheren Löhnen*). The whole noun phrase is the Vorfeld, *wurde* is in position 2, *abgelehnt* closes the Satzklammer."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence: replace *Sein Name* with *der Name* + a Genitivattribut (*mein neuer Kollege*).",
+      "prompt": "Ich habe einen neuen Kollegen. Sein Name ist schwer auszusprechen.",
+      "answer": "Der Name meines neuen Kollegen ist schwer auszusprechen.",
+      "explanation": "*mein neuer Kollege* becomes a Genitivattribut of *der Name*: *meines* (masculine Genitiv), the adjective after *meines* is weak (*neuen*), and *Kollege* is n-Deklination (*Kollegen*). *Der Name* stays the Nominativ subject."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Make one question with *wessen*.",
+      "prompt": "Vor der Tür steht ein Fahrrad. Wem gehört es?",
+      "answer": "Wessen Fahrrad steht vor der Tür?",
+      "explanation": "*Wem gehört es?* asks for the owner with *gehören* + Dativ. With *wessen* the owner question becomes part of the noun phrase: *wessen Fahrrad*, without an article, as the subject of *steht*."
+    }
+  ]
+}

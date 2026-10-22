@@ -1,0 +1,562 @@
+{
+  "topic_id": "themen-04-reisen",
+  "level": "A1-A2",
+  "title_de": "04 Reisen & Transport",
+  "title_en": "Travel & transport",
+  "intro": "Train, bus, plane and taxi: buying tickets, platforms, changing trains, delays, luggage. With staff and strangers you use *Sie*. In Switzerland a ticket is usually *ein Billett*, and many people travel with a *Halbtax* (half-fare card) or a *GA* (general travel pass).",
+  "phrases": [
+    {
+      "key": "t00",
+      "de": "Eine Fahrkarte nach Berlin, bitte.",
+      "en": "One ticket to Berlin, please.",
+      "usage": "Say it at the ticket counter. The staff then ask *Einfach oder hin und zurück?* and *Erste oder zweite Klasse?* In Germany people also say *Ticket*; in Switzerland *Billett*.",
+      "grammar": "*nach* + a city or country name without article expresses the destination. *eine Fahrkarte* is the Akkusativ object of a left-out verb (*Ich hätte gern ...*); *die Fahrkarte* is feminine.",
+      "alternatives": [
+        {
+          "de": "Einmal Berlin, bitte.",
+          "en": "One to Berlin, please."
+        },
+        {
+          "de": "Ein Billett nach Bern, bitte.",
+          "en": "A ticket to Bern, please. (Switzerland)"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Fahrkarte (-n)",
+          "en": "ticket (CH: das Billett)"
+        }
+      ]
+    },
+    {
+      "key": "t01",
+      "de": "Hin und zurück.",
+      "en": "Round trip.",
+      "usage": "The answer to *Einfach oder hin und zurück?* The opposite is *Einfach* (one way). In Switzerland you often hear *retour*: *Einmal Zürich retour.*",
+      "grammar": "Two adverbs of direction without a verb: *hin* ('there, away from the speaker') and *zurück* ('back'). The noun is *die Rückfahrkarte*.",
+      "alternatives": [
+        {
+          "de": "Eine Rückfahrkarte, bitte.",
+          "en": "A return ticket, please."
+        },
+        {
+          "de": "Einmal Zürich retour, bitte.",
+          "en": "A return to Zurich, please. (Switzerland)"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t02",
+      "de": "Wann fährt der nächste Zug?",
+      "en": "When does the next train leave?",
+      "usage": "Ask at the information desk or another passenger. The answer is a time and a platform: *Um 14.32 Uhr von Gleis 7.*",
+      "grammar": "*fahren* has the vowel change a → ä in the du- and er-forms: *der Zug fährt*. *nächst-* is the superlative of *nah*; after *der* it takes the weak ending **-e**: *der nächste Zug*.",
+      "alternatives": [
+        {
+          "de": "Wann geht der nächste Zug nach Basel?",
+          "en": "When is the next train to Basel?"
+        },
+        {
+          "de": "Wann fährt der nächste Bus?",
+          "en": "When does the next bus leave?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t03",
+      "de": "Auf welchem Gleis?",
+      "en": "On which platform?",
+      "usage": "A short follow-up question after you hear the departure time. The answer is *Gleis 7.* or *Auf Gleis 7.*",
+      "grammar": "*welch-* has the same endings as *der*. *das Gleis* is neuter, and *auf* + Dativ (position) → auf welch**em** Gleis. For the departure point people also say *von*: *Von welchem Gleis fährt der Zug ab?*",
+      "alternatives": [
+        {
+          "de": "Von welchem Gleis fährt der Zug ab?",
+          "en": "Which platform does the train leave from?"
+        },
+        {
+          "de": "Auf welchem Gleis kommt der Zug an?",
+          "en": "Which platform does the train arrive at?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gleis (-e)",
+          "en": "platform, track"
+        }
+      ]
+    },
+    {
+      "key": "t04",
+      "de": "Muss ich umsteigen?",
+      "en": "Do I have to change?",
+      "usage": "Ask when you buy a ticket or check a connection. The answer is *Ja, in Olten.* or *Nein, der Zug fährt direkt.*",
+      "grammar": "*umsteigen* is separable (*Ich steige in Olten um.*), but after the modal *muss* it stays together at the end. Perfekt with *sein*: *Ich bin umgestiegen.*",
+      "alternatives": [
+        {
+          "de": "Wo muss ich umsteigen?",
+          "en": "Where do I have to change?"
+        },
+        {
+          "de": "Ist das eine direkte Verbindung?",
+          "en": "Is that a direct connection?"
+        }
+      ],
+      "words": [
+        {
+          "de": "umsteigen",
+          "en": "to change (trains, buses)"
+        }
+      ]
+    },
+    {
+      "key": "t05",
+      "de": "Wo ist der Hauptbahnhof?",
+      "en": "Where is the main train station?",
+      "usage": "Ask in a city with several stations. Signs and timetables often write *Hbf* (Germany) or *HB* (Switzerland, e.g. *Zürich HB*).",
+      "grammar": "Compound noun: *Haupt-* ('main') + *der Bahnhof* → masculine. Nominativ subject of *ist*.",
+      "alternatives": [
+        {
+          "de": "Wie komme ich zum Hauptbahnhof?",
+          "en": "How do I get to the main station?"
+        },
+        {
+          "de": "Ist der Hauptbahnhof weit von hier?",
+          "en": "Is the main station far from here?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t06",
+      "de": "Wann kommt der Bus?",
+      "en": "When does the bus come?",
+      "usage": "Ask someone at the bus stop. The answer is *In fünf Minuten.* or *Laut Fahrplan um Viertel nach.*",
+      "grammar": "*kommen* describes the arrival from the speaker's point of view. Präsens for a future event.",
+      "alternatives": [
+        {
+          "de": "Kommt der Bus bald?",
+          "en": "Is the bus coming soon?"
+        },
+        {
+          "de": "Wann fährt hier der nächste Bus ab?",
+          "en": "When does the next bus leave from here?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t07",
+      "de": "Hält dieser Bus am Marktplatz?",
+      "en": "Does this bus stop at the marketplace?",
+      "usage": "Ask the driver as you get on, or another passenger. The answer is *Ja.* or *Nein, da müssen Sie die Linie 4 nehmen.*",
+      "grammar": "*halten* has the vowel change a → ä: *er hält*. *dieser* has the same endings as *der*: masculine Nominativ → *dieser Bus*. *am* = *an dem* (Dativ, position).",
+      "alternatives": [
+        {
+          "de": "Fährt dieser Bus zum Marktplatz?",
+          "en": "Does this bus go to the marketplace?"
+        },
+        {
+          "de": "Hält der Bus auch am Bahnhof?",
+          "en": "Does the bus also stop at the station?"
+        }
+      ],
+      "words": [
+        {
+          "de": "halten (hält)",
+          "en": "to stop"
+        }
+      ]
+    },
+    {
+      "key": "t08",
+      "de": "Der Zug hat Verspätung.",
+      "en": "The train is delayed.",
+      "usage": "You hear it in announcements, often with the delay: *Der Zug hat circa zehn Minuten Verspätung.* You can also say it to explain why you are late.",
+      "grammar": "Fixed expression *Verspätung haben*, without an article. The amount comes directly before the noun: *zehn Minuten Verspätung*. The adjective form is *verspätet*.",
+      "alternatives": [
+        {
+          "de": "Der Zug ist verspätet.",
+          "en": "The train is late."
+        },
+        {
+          "de": "Der Zug kommt zehn Minuten später.",
+          "en": "The train is arriving ten minutes later."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Verspätung (-en)",
+          "en": "delay"
+        }
+      ]
+    },
+    {
+      "key": "t09",
+      "de": "Ist dieser Platz frei?",
+      "en": "Is this seat free?",
+      "usage": "Ask on a train or bus before you sit down. The answer is *Ja, bitte.* or *Nein, der ist besetzt / reserviert.* On long-distance trains, reserved seats are marked above the seat.",
+      "grammar": "*der Platz* is masculine; *dieser* with the masculine Nominativ ending **-er**. *frei* is predicative and has no ending.",
+      "alternatives": [
+        {
+          "de": "Sitzt hier schon jemand?",
+          "en": "Is anyone sitting here?"
+        },
+        {
+          "de": "Ist der Platz noch frei?",
+          "en": "Is the seat still free?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t10",
+      "de": "Wo ist der Ausgang?",
+      "en": "Where is the exit?",
+      "usage": "Useful at stations, airports and big buildings. Signs show *Ausgang*, *Notausgang* (emergency exit) and the opposite *Eingang*.",
+      "grammar": "*der Ausgang* is masculine (nouns formed from verbs without a suffix, like *ausgehen* → *der Ausgang*, are mostly masculine). Nominativ subject.",
+      "alternatives": [
+        {
+          "de": "Wo geht es hier raus?",
+          "en": "How do I get out of here?"
+        },
+        {
+          "de": "Wo ist der Ausgang Richtung Zentrum?",
+          "en": "Where is the exit towards the centre?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Ausgang (-gänge)",
+          "en": "exit"
+        }
+      ]
+    },
+    {
+      "key": "t11",
+      "de": "Bitte einsteigen!",
+      "en": "All aboard!",
+      "usage": "You hear this in announcements or from the conductor just before departure, often with *Die Türen schließen.* You do not normally say it yourself.",
+      "grammar": "The bare infinitive is used for impersonal commands in announcements and signs. In the infinitive the separable verb *einsteigen* is not split.",
+      "alternatives": [
+        {
+          "de": "Einsteigen, bitte!",
+          "en": "Please get on board!"
+        }
+      ],
+      "words": [
+        {
+          "de": "einsteigen",
+          "en": "to get on (a train, bus)"
+        }
+      ]
+    },
+    {
+      "key": "t12",
+      "de": "Wir sind angekommen.",
+      "en": "We have arrived.",
+      "usage": "Tell family or friends that you arrived, often as a text message: *Sind gut angekommen!*",
+      "grammar": "Perfekt with *sein*, because *ankommen* is a change of place. In the Partizip II of a separable verb, *-ge-* goes between prefix and stem: an**ge**kommen.",
+      "alternatives": [
+        {
+          "de": "Wir sind gut angekommen.",
+          "en": "We arrived safely."
+        },
+        {
+          "de": "Wir sind da!",
+          "en": "We're here!"
+        }
+      ],
+      "words": [
+        {
+          "de": "ankommen",
+          "en": "to arrive"
+        }
+      ]
+    },
+    {
+      "key": "t13",
+      "de": "Können Sie mir helfen, das Gepäck zu tragen?",
+      "en": "Can you help me carry the luggage?",
+      "usage": "Ask a stranger or staff, for example on station stairs. People usually answer *Ja, klar.*",
+      "grammar": "*helfen* takes the Dativ → *mir*. The task follows as an Infinitiv mit *zu* after a comma: *das Gepäck zu tragen*. *das Gepäck* is singular and uncountable (one word for all your bags).",
+      "alternatives": [
+        {
+          "de": "Könnten Sie mir bitte mit dem Koffer helfen?",
+          "en": "Could you help me with the suitcase, please?"
+        },
+        {
+          "de": "Können Sie mir beim Tragen helfen?",
+          "en": "Can you help me carry this?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gepäck",
+          "en": "luggage"
+        }
+      ]
+    },
+    {
+      "key": "t14",
+      "de": "Ich habe meinen Koffer verloren.",
+      "en": "I lost my suitcase.",
+      "usage": "Say it at the lost and found office (*Fundbüro*). If an airline lost your bag, the more exact sentence at the baggage desk is *Mein Koffer ist nicht angekommen.*",
+      "grammar": "Perfekt with *haben*. *verlieren* is a strong verb, and with the inseparable prefix *ver-* the Partizip II has no *ge-*: *verloren*. *der Koffer* is masculine → Akkusativ *meinen Koffer*.",
+      "alternatives": [
+        {
+          "de": "Mein Koffer ist nicht angekommen.",
+          "en": "My suitcase didn't arrive."
+        },
+        {
+          "de": "Mein Gepäck ist verloren gegangen.",
+          "en": "My luggage has been lost."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Koffer (-)",
+          "en": "suitcase"
+        }
+      ]
+    },
+    {
+      "key": "t15",
+      "de": "Wann landet das Flugzeug?",
+      "en": "When does the plane land?",
+      "usage": "Ask when you pick someone up at the airport. The answer is a time, maybe with *Es hat Verspätung.*",
+      "grammar": "*landen* has a stem in *-d*, so the 3rd person singular adds *-et*: *landet*. Perfekt with *sein*: *Das Flugzeug ist gelandet.*",
+      "alternatives": [
+        {
+          "de": "Wann kommt der Flug aus Berlin an?",
+          "en": "When does the flight from Berlin arrive?"
+        },
+        {
+          "de": "Ist das Flugzeug schon gelandet?",
+          "en": "Has the plane landed yet?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t16",
+      "de": "Ist dieser Flug pünktlich?",
+      "en": "Is this flight on time?",
+      "usage": "Ask at the gate or the information desk. The answer is *Ja, laut Plan.* or *Nein, er hat 30 Minuten Verspätung.*",
+      "grammar": "*der Flug* is masculine → *dieser Flug* (Nominativ). *pünktlich* is predicative and has no ending.",
+      "alternatives": [
+        {
+          "de": "Startet der Flug pünktlich?",
+          "en": "Is the flight leaving on time?"
+        },
+        {
+          "de": "Hat der Flug Verspätung?",
+          "en": "Is the flight delayed?"
+        }
+      ],
+      "words": [
+        {
+          "de": "pünktlich",
+          "en": "on time, punctual"
+        }
+      ]
+    },
+    {
+      "key": "t17",
+      "de": "Wo ist das Taxi?",
+      "en": "Where is the taxi?",
+      "usage": "Use it when you have ordered a taxi and cannot see it. To find taxis in general, ask *Wo ist der Taxistand?* or *Wo finde ich hier ein Taxi?*",
+      "grammar": "*das Taxi* is neuter (plural *die Taxis*). The definite article *das* refers to one specific taxi, for example the one you ordered.",
+      "alternatives": [
+        {
+          "de": "Wo ist der Taxistand?",
+          "en": "Where is the taxi rank?"
+        },
+        {
+          "de": "Wo finde ich hier ein Taxi?",
+          "en": "Where can I find a taxi here?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t18",
+      "de": "Können Sie mich zum Flughafen bringen?",
+      "en": "Can you take me to the airport?",
+      "usage": "Say it to a taxi driver. The answer is *Natürlich. Welches Terminal?* In a taxi the short form *Zum Flughafen, bitte.* is also normal.",
+      "grammar": "*bringen* takes an Akkusativ object → *mich*. *zu* always takes the Dativ: *zu dem* → *zum*; *der Flughafen* is masculine.",
+      "alternatives": [
+        {
+          "de": "Zum Flughafen, bitte.",
+          "en": "To the airport, please."
+        },
+        {
+          "de": "Bitte bringen Sie mich zum Bahnhof.",
+          "en": "Please take me to the station."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Flughafen (-häfen)",
+          "en": "airport"
+        }
+      ]
+    },
+    {
+      "key": "t19",
+      "de": "Wie viel kostet die Fahrt?",
+      "en": "How much is the ride?",
+      "usage": "Ask the taxi driver before the ride or at the end. The answer is *Ungefähr 40 Franken.* Taxis in Switzerland are expensive, so asking first is normal.",
+      "grammar": "*die Fahrt* is feminine (from *fahren*) and the subject → *die*. *wie viel* is written as two words.",
+      "alternatives": [
+        {
+          "de": "Was kostet die Fahrt zum Flughafen?",
+          "en": "How much is the ride to the airport?"
+        },
+        {
+          "de": "Was macht das?",
+          "en": "What do I owe you?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Fahrt (-en)",
+          "en": "ride, journey"
+        }
+      ]
+    },
+    {
+      "key": "n01",
+      "de": "Wo kann ich eine Fahrkarte kaufen?",
+      "en": "Where can I buy a ticket?",
+      "usage": "Ask at a station. The answer is *Am Automaten*, *am Schalter* or *in der App*. On trains, trams and the underground you usually need the ticket before you get on (on some buses you can buy it from the driver); travelling without one (*schwarzfahren*) costs a fine.",
+      "grammar": "W-question with the modal *kann* in position 2 and the infinitive *kaufen* at the end. *eine Fahrkarte* is the Akkusativ object (feminine).",
+      "alternatives": [
+        {
+          "de": "Wo ist der Fahrkartenautomat?",
+          "en": "Where is the ticket machine?"
+        },
+        {
+          "de": "Kann ich das Ticket im Zug kaufen?",
+          "en": "Can I buy the ticket on the train?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Automat (-en)",
+          "en": "(ticket) machine"
+        }
+      ]
+    },
+    {
+      "key": "n02",
+      "de": "Fährt dieser Zug nach Basel?",
+      "en": "Does this train go to Basel?",
+      "usage": "Ask on the platform before you get on. The answer is *Ja, steigen Sie ein.* or *Nein, der Zug nach Basel fährt auf Gleis 8.*",
+      "grammar": "Yes/no question: the verb *fährt* (a → ä) comes first. *nach* + city without article for the destination. *dieser* = masculine Nominativ.",
+      "alternatives": [
+        {
+          "de": "Ist das der Zug nach Basel?",
+          "en": "Is this the train to Basel?"
+        },
+        {
+          "de": "Hält dieser Zug in Olten?",
+          "en": "Does this train stop in Olten?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n03",
+      "de": "Wo muss ich aussteigen?",
+      "en": "Where do I have to get off?",
+      "usage": "Ask the driver or another passenger when you do not know the stop. The answer is *An der nächsten Haltestelle.* or *In drei Stationen.*",
+      "grammar": "*aussteigen* is separable (*Ich steige hier aus.*), but after *muss* it stays together at the end. Compare *einsteigen* (get on) and *umsteigen* (change).",
+      "alternatives": [
+        {
+          "de": "An welcher Haltestelle muss ich aussteigen?",
+          "en": "At which stop do I have to get off?"
+        },
+        {
+          "de": "Können Sie mir sagen, wann ich aussteigen muss?",
+          "en": "Can you tell me when I have to get off?"
+        }
+      ],
+      "words": [
+        {
+          "de": "aussteigen",
+          "en": "to get off"
+        }
+      ]
+    },
+    {
+      "key": "n04",
+      "de": "Ich habe meinen Anschluss verpasst.",
+      "en": "I missed my connection.",
+      "usage": "Say it at the information desk after a delay. Staff will show you the next connection and tell you whether your ticket is still valid.",
+      "grammar": "Perfekt with *haben*; *verpassen* has the prefix *ver-*, so no *ge-*: *verpasst*. *der Anschluss* is masculine → Akkusativ *meinen Anschluss*.",
+      "alternatives": [
+        {
+          "de": "Ich habe den Zug verpasst.",
+          "en": "I missed the train."
+        },
+        {
+          "de": "Ich erreiche meinen Anschluss nicht mehr.",
+          "en": "I won't make my connection."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anschluss (-schlüsse)",
+          "en": "connection (train)"
+        },
+        {
+          "de": "verpassen",
+          "en": "to miss"
+        }
+      ]
+    },
+    {
+      "key": "n05",
+      "de": "Der Zug fällt heute aus.",
+      "en": "The train is cancelled today.",
+      "usage": "You hear and read this in announcements and on displays. Often a replacement bus is offered: *Ersatzbusse* (Germany: *Schienenersatzverkehr*).",
+      "grammar": "*ausfallen* is separable and has the vowel change a → ä: *er fällt ... aus*; the prefix *aus* goes to the end. The noun is *der Ausfall*.",
+      "alternatives": [
+        {
+          "de": "Der Zug wurde gestrichen.",
+          "en": "The train has been cancelled."
+        },
+        {
+          "de": "Die Verbindung fällt aus.",
+          "en": "The connection is cancelled."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausfallen (fällt aus)",
+          "en": "to be cancelled"
+        }
+      ]
+    },
+    {
+      "key": "n06",
+      "de": "Erste oder zweite Klasse?",
+      "en": "First or second class?",
+      "usage": "The ticket seller asks this. Answer *Zweite, bitte.* In Switzerland they will also ask *Haben Sie ein Halbtax?*",
+      "grammar": "Ordinal numbers decline like adjectives. Here there is no article before feminine *Klasse*, so the ending is **-e**: *erste, zweite*. With an article: *in der ersten Klasse*. In the fixed phrase *erster Klasse fahren* the Genitiv is used.",
+      "alternatives": [
+        {
+          "de": "Möchten Sie erste oder zweite Klasse?",
+          "en": "Would you like first or second class?"
+        },
+        {
+          "de": "Fahren Sie erster oder zweiter Klasse?",
+          "en": "Are you travelling first or second class?"
+        }
+      ],
+      "words": []
+    }
+  ]
+}

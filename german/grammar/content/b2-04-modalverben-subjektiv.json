@@ -1,0 +1,734 @@
+{
+  "topic_id": "b2-04-modalverben-subjektiv",
+  "level": "B2",
+  "title_de": "Modalverben subjektiv (Vermutung)",
+  "title_en": "Modal verbs for assumptions and claims (subjective use)",
+  "rule": {
+    "summary": "Modal verbs have a second, **subjective** use: they show how sure the speaker is about a fact, or where the information comes from, not ability, permission or obligation. *Er muss krank sein* = I am almost sure he is ill. *Er soll reich sein* = people say he is rich. *Er will Arzt sein* = he claims to be a doctor. For assumptions about the past the modal stays in the present (or Konjunktiv II) and is followed by the **Infinitiv Perfekt**: *Er muss verschlafen haben. Sie dürfte schon angekommen sein.*",
+    "table": "| Modalverb | Bedeutung | Beispiel |\n|---|---|---|\n| **muss** | fast sicher (Schlussfolgerung aus Indizien) | Er muss krank sein. |\n| **müsste** | ziemlich sicher, erwartet | Der Bus müsste gleich kommen. |\n| **dürfte** | wahrscheinlich (vorsichtig, oft Presse) | Das dürfte kein Problem sein. |\n| **sollte** | erwartet, wenn alles normal läuft | Zwei Stunden sollten reichen. |\n| **kann** | möglich | Das kann gut sein. |\n| **könnte** | vielleicht | Sie könnte es vergessen haben. |\n| **mag** | möglich, eingeräumt (gehoben) | Das mag sein, aber … |\n| **kann nicht** | unmöglich | Das kann nicht stimmen. |\n| **muss nicht** | nicht unbedingt | Das muss nicht stimmen. |\n| **soll** | andere sagen es (Fremdbehauptung) | Er soll sehr reich sein. |\n| **will** | das Subjekt sagt es selbst (Eigenbehauptung, Zweifel) | Er will nichts gesehen haben. |",
+    "steps": [
+      "Decide which meaning you need: obligation, ability or permission of the subject (objective) or the speaker's judgement or source (subjective). Paraphrase test: *Ich bin sicher, dass … / Es ist möglich, dass … / Man sagt, dass … / Er behauptet, dass …*.",
+      "Choose the modal by degree of certainty (*muss > müsste > dürfte > kann > könnte*; *kann nicht* = impossible) or by source (*soll* = others say, *will* = he says about himself).",
+      "Present or future: modal + infinitive (*Er muss krank sein. Sie dürfte bald kommen.*).",
+      "Past: modal (present or Konjunktiv II) + Partizip II + *haben/sein* (*Er muss verschlafen haben. Er muss angekommen sein.*); passive: Partizip II + *worden sein* (*gebaut worden sein*). The auxiliary is the same as in the Perfekt of the main verb.",
+      "In a Nebensatz the finite modal goes to the very end: *…, dass er den Zug verpasst haben muss.*"
+    ],
+    "pitfalls": [
+      "Perfekt of the modal for a past assumption: ✗ *Er hat verschlafen müssen.* (= he was forced to oversleep) → ✓ *Er muss verschlafen haben.*",
+      "Indicative *darf* for probability: ✗ *Das darf kein Problem sein.* → ✓ *Das dürfte kein Problem sein.* Only the Konjunktiv II *dürfte* means *probably*.",
+      "*muss nicht* for *can't*: ✗ *Sie muss nicht zu Hause sein, das Licht ist aus.* → ✓ *Sie kann nicht zu Hause sein, …* (*muss nicht* = not necessarily).",
+      "Translating *is said to* word for word: ✗ *Er wird gesagt, reich zu sein.* → ✓ *Er soll reich sein.*",
+      "Wrong auxiliary in the Infinitiv Perfekt: ✗ *Er muss schon angekommen haben.* → ✓ *Er muss schon angekommen sein.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Er {{c1::muss::fast sicher}} sehr klug sein, denn er hat alles richtig gemacht.",
+      "en": "He must be very clever – he got everything right.",
+      "focus": "Subjektive Modalität · Schlussfolgerung · Gegenwart",
+      "explanation": "This is not an obligation but a conclusion: the speaker sees the evidence (*er hat alles richtig gemacht*) and is almost sure. That strong inference is expressed by **muss** + infinitive (*sein*). The *denn*-clause gives the reason for the conclusion.",
+      "pattern": "Subjekt + **muss** + Adjektiv + sein (Schlussfolgerung)",
+      "mistake": {"wrong": "Er musst sehr klug sein, denn er hat alles richtig gemacht.", "why": "Modal verbs have no *-t* in the 3rd person singular: *er muss, er kann, er will*. *musst* is the *du*-form."},
+      "examples": [
+        {"de": "Sie muss sehr müde sein, sie hat die ganze Nacht gearbeitet.", "en": "She must be very tired – she worked all night."},
+        {"de": "Das Restaurant muss gut sein, es ist immer voll.", "en": "The restaurant must be good – it's always full."}
+      ],
+      "words": [],
+      "production_cue": "(conclusion, not obligation)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie {{c1::kann::ausgeschlossen}} nicht zu Hause sein, das Licht ist aus.",
+      "en": "She can't be at home – the lights are off.",
+      "focus": "Subjektive Modalität · Unmöglichkeit",
+      "explanation": "*kann nicht* + infinitive says that the speaker considers something impossible: from the evidence (the lights are off) he concludes that she is not at home. It is the negative counterpart of subjective *muss*: *Sie muss zu Hause sein* ↔ *Sie* **kann** *nicht zu Hause sein*.",
+      "pattern": "Subjekt + **kann nicht** + Ort + sein (Unmöglichkeit)",
+      "mistake": {"wrong": "Sie muss nicht zu Hause sein, das Licht ist aus.", "why": "*muss nicht* means *not necessarily*, which does not fit the evidence. For *can't be* (impossible) German uses *kann nicht*. Note: English *mustn't* is not *muss nicht* either."},
+      "examples": [
+        {"de": "Er kann nicht im Büro sein, sein Mantel ist weg.", "en": "He can't be in the office – his coat is gone."},
+        {"de": "Das kann nicht der richtige Weg sein, hier endet die Straße.", "en": "This can't be the right way – the road ends here."}
+      ],
+      "words": [],
+      "production_cue": "(impossible)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::soll::Hörensagen}} sehr reich sein.",
+      "en": "He is said to be very rich.",
+      "focus": "Subjektive Modalität · Fremdbehauptung",
+      "explanation": "Subjective *sollen* passes on what other people say: *Man sagt, dass er sehr reich ist.* The speaker does not vouch for it. The form is **soll** + infinitive in the indicative present.",
+      "pattern": "Subjekt + **soll** + Adjektiv + sein (Hörensagen)",
+      "mistake": {"wrong": "Er wird gesagt, sehr reich zu sein.", "why": "This is a word-for-word translation of *He is said to be*. German expresses hearsay with *sollen* (*Er soll reich sein*) or with *Man sagt, …*."},
+      "examples": [
+        {"de": "Das neue Café soll sehr gemütlich sein.", "en": "The new café is said to be very cosy."},
+        {"de": "Der Film soll auf einer wahren Geschichte beruhen.", "en": "The film is said to be based on a true story."}
+      ],
+      "words": [],
+      "production_cue": "(hearsay)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Du {{c1::dürftest::wahrscheinlich}} müde sein nach der langen Reise.",
+      "en": "You're probably tired after the long journey.",
+      "focus": "Subjektive Modalität · Wahrscheinlichkeit · Konjunktiv II",
+      "explanation": "*dürfte* (Konjunktiv II of *dürfen*) expresses a careful, polite assumption: *Wahrscheinlich bist du müde.* Only the Konjunktiv II has this meaning; for *du* the form is **dürftest**. Placing *nach der langen Reise* after the infinitive is typical of speech; in writing it usually comes before *müde sein*.",
+      "pattern": "Subjekt + **dürfte** + Adjektiv + sein (Wahrscheinlichkeit)",
+      "mistake": {"wrong": "Du darfst müde sein nach der langen Reise.", "why": "The indicative *darfst* expresses permission: *you are allowed to be tired*. Probability needs the Konjunktiv II *dürftest*."},
+      "examples": [
+        {"de": "Ihr dürftet nach der Wanderung hungrig sein.", "en": "You're probably hungry after the hike."},
+        {"de": "Sie dürften die Antwort schon kennen.", "en": "You probably know the answer already."}
+      ],
+      "words": [],
+      "production_cue": "(probably, informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er {{c1::will::eigene Behauptung}} ein berühmter Arzt sein.",
+      "en": "He claims to be a famous doctor.",
+      "focus": "Subjektive Modalität · Eigenbehauptung",
+      "explanation": "Subjective *wollen* reports a claim the subject makes about himself, usually with doubt: *Er behauptet, dass er ein berühmter Arzt ist.* The form is **will** + infinitive. After *sein* the noun phrase is Nominativ: *ein berühmter Arzt*.",
+      "pattern": "Subjekt + **will** + Nomen (Nom.) + sein (Eigenbehauptung)",
+      "mistake": {"wrong": "Er willt ein berühmter Arzt sein.", "why": "*wollen* has the irregular singular *will*, with no *-t* in the 1st and 3rd person: *ich will, er will*."},
+      "examples": [
+        {"de": "Sie will eine Expertin für Steuerrecht sein.", "en": "She claims to be an expert in tax law."},
+        {"de": "Der Mann will Polizist sein, aber er hat keinen Ausweis.", "en": "The man claims to be a police officer, but he has no ID."}
+      ],
+      "words": [],
+      "production_cue": "(he claims)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie {{c1::muss::fast sicher}} schon zu Hause sein, ihr Auto steht da.",
+      "en": "She must be home already – her car is there.",
+      "focus": "Subjektive Modalität · Schlussfolgerung aus einem Indiz",
+      "explanation": "The evidence (*ihr Auto steht da*) makes the speaker almost sure → **muss** + infinitive. The infinitive *sein* stands at the end of the clause; only the modal verb is conjugated.",
+      "pattern": "Subjekt + **muss** + schon + Ort + sein",
+      "mistake": {"wrong": "Sie muss schon zu Hause ist, ihr Auto steht da.", "why": "After a modal verb the second verb is an infinitive at the end of the clause: *muss … sein*, not a conjugated form."},
+      "examples": [
+        {"de": "Der Zug muss schon weg sein, der Bahnsteig ist leer.", "en": "The train must have gone already – the platform is empty."},
+        {"de": "Die Nachbarn müssen im Urlaub sein, der Briefkasten ist voll.", "en": "The neighbours must be on holiday – the letter box is full."}
+      ],
+      "words": [],
+      "production_cue": "(conclusion)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das {{c1::kann::ausgeschlossen}} nicht wahr sein!",
+      "en": "That can't be true!",
+      "focus": "Subjektive Modalität · Unmöglichkeit · Ausruf",
+      "explanation": "*kann nicht* + infinitive expresses that the speaker considers something impossible; here it is a reaction of surprise or shock. *nicht* stands before the predicative adjective *wahr*, and the infinitive *sein* closes the clause.",
+      "pattern": "Das + **kann nicht** + Adjektiv + sein!",
+      "mistake": {"wrong": "Das kann wahr nicht sein!", "why": "*nicht* negates *wahr sein* and stands directly before the predicative adjective: *nicht wahr sein*."},
+      "examples": [
+        {"de": "Das kann nicht dein Ernst sein!", "en": "You can't be serious!"},
+        {"de": "Das kann nicht so teuer sein!", "en": "That can't be so expensive!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Er {{c1::soll::Hörensagen}} viele Sprachen sprechen.",
+      "en": "He is said to speak many languages.",
+      "focus": "Subjektive Modalität · Fremdbehauptung · Vollverb",
+      "explanation": "Subjective *sollen* works with any verb, not only with *sein*: *Man sagt, er spricht viele Sprachen* → *Er* **soll** *viele Sprachen sprechen*. The context decides between hearsay and obligation; here nobody orders him to speak languages.",
+      "pattern": "Subjekt + **soll** + Objekt + Infinitiv (Hörensagen)",
+      "mistake": {"wrong": "Er soll viele Sprachen zu sprechen.", "why": "Modal verbs take a bare infinitive without *zu*: *soll … sprechen*."},
+      "examples": [
+        {"de": "Die Firma soll bald 200 Stellen abbauen.", "en": "The company is said to be cutting 200 jobs soon."},
+        {"de": "Die Sängerin soll in Wien wohnen.", "en": "The singer is said to live in Vienna."}
+      ],
+      "words": [],
+      "production_cue": "(hearsay)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das {{c1::dürfte::wahrscheinlich}} kein Problem sein.",
+      "en": "That probably won't be a problem.",
+      "focus": "Subjektive Modalität · Wahrscheinlichkeit · Negation",
+      "explanation": "**dürfte** + infinitive is a careful, slightly formal way of saying *wahrscheinlich*: *Das ist wahrscheinlich kein Problem.* The noun is negated with *kein*, exactly as in the sentence without the modal.",
+      "pattern": "Das + **dürfte** + kein + Nomen + sein",
+      "mistake": {"wrong": "Das dürfte nicht ein Problem sein.", "why": "A noun with an indefinite article (or none) is negated with *kein*, not *nicht ein*: *kein Problem*."},
+      "examples": [
+        {"de": "Der Termin dürfte kein Hindernis sein.", "en": "The date probably won't be an obstacle."},
+        {"de": "Die Reparatur dürfte keine große Sache sein.", "en": "The repair probably won't be a big deal."}
+      ],
+      "words": [],
+      "production_cue": "(probably)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie {{c1::will::eigene Behauptung}} alles gewusst haben.",
+      "en": "She claims to have known everything.",
+      "focus": "Subjektive Modalität · Eigenbehauptung · Vergangenheit",
+      "explanation": "The claim is about the past, so the modal stays in the present and takes the Infinitiv Perfekt: Partizip II + *haben*. *wissen* takes *haben* in the Perfekt → **will** … *gewusst haben* = *Sie behauptet, dass sie alles gewusst hat.*",
+      "pattern": "Subjekt + **will** + Objekt + Partizip II + haben",
+      "mistake": {"wrong": "Sie will alles gewusst sein.", "why": "The auxiliary in the Infinitiv Perfekt is the same as in the Perfekt: *sie hat gewusst* → *gewusst haben*."},
+      "examples": [
+        {"de": "Der Schüler will die Hausaufgaben gemacht haben.", "en": "The pupil claims to have done his homework."},
+        {"de": "Die Zeugin will den Täter erkannt haben.", "en": "The witness claims to have recognised the perpetrator."}
+      ],
+      "words": [],
+      "production_cue": "(she claims)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er {{c1::muss::fast sicher}} verschlafen haben.",
+      "en": "He must have overslept.",
+      "focus": "Subjektive Modalität · Schlussfolgerung · Vergangenheit",
+      "explanation": "For a conclusion about the past the modal verb stays in the present (**muss**), and the past is shown by the Infinitiv Perfekt *verschlafen haben*. The speaker is almost sure that he overslept.",
+      "pattern": "Subjekt + **muss** + Partizip II + haben",
+      "mistake": {"wrong": "Er hat verschlafen müssen.", "why": "The Perfekt of the modal (*hat … müssen*) is objective: he was forced to oversleep. A conclusion about the past needs *muss* + Infinitiv Perfekt: *muss verschlafen haben*."},
+      "examples": [
+        {"de": "Sie muss den Schlüssel im Büro vergessen haben.", "en": "She must have left the key at the office."},
+        {"de": "Der Hund muss das Essen vom Tisch geholt haben.", "en": "The dog must have taken the food off the table."}
+      ],
+      "words": [{"de": "verschlafen", "en": "to oversleep"}],
+      "production_cue": "(conclusion about the past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie {{c1::könnte::vielleicht}} es vergessen haben.",
+      "en": "She might have forgotten it.",
+      "focus": "Subjektive Modalität · Möglichkeit · Vergangenheit",
+      "explanation": "*könnte* (Konjunktiv II of *können*) expresses a weak possibility: *Vielleicht hat sie es vergessen.* For the past it takes the Infinitiv Perfekt *vergessen haben*. Compared with *kann*, **könnte** is more careful and less certain.",
+      "pattern": "Subjekt + **könnte** + Objekt + Partizip II + haben",
+      "mistake": {"wrong": "Sie hätte es vergessen können.", "why": "*hätte … können* is the objective Konjunktiv II of the past: it would have been possible for her to forget it (but she did not). An assumption about what probably happened needs *könnte … vergessen haben*."},
+      "examples": [
+        {"de": "Der Brief könnte in der Post verloren gegangen sein.", "en": "The letter might have got lost in the post."},
+        {"de": "Er könnte den Termin falsch notiert haben.", "en": "He might have written down the date wrongly."}
+      ],
+      "words": [],
+      "production_cue": "(perhaps)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Es {{c1::soll::Hörensagen}} morgen regnen.",
+      "en": "It's supposed to rain tomorrow.",
+      "focus": "Subjektive Modalität · Fremdbehauptung · Zukunft",
+      "explanation": "The source is the weather forecast: *Laut Wetterbericht regnet es morgen.* Subjective **soll** + infinitive passes this on. Like the Präsens, it can refer to the future without *werden*.",
+      "pattern": "Es + **soll** + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Es soll morgen regnen werden.", "why": "*sollen* combines with the plain infinitive (*regnen*), which can already refer to the future. Adding *werden* produces an impossible double infinitive."},
+      "examples": [
+        {"de": "Am Wochenende soll es über 30 Grad warm werden.", "en": "It is supposed to get warmer than 30 degrees at the weekend."},
+        {"de": "Die neue Linie soll im Dezember in Betrieb gehen.", "en": "The new line is supposed to go into service in December."}
+      ],
+      "words": [],
+      "production_cue": "(according to the forecast)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er {{c1::muss::fast sicher}} schon angekommen sein.",
+      "en": "He must have arrived already.",
+      "focus": "Subjektive Modalität · Vergangenheit · *sein*-Verb",
+      "explanation": "*ankommen* forms its Perfekt with *sein* (*er ist angekommen*), so the Infinitiv Perfekt is *angekommen sein*. With **muss** the speaker is almost sure about this past event.",
+      "pattern": "Subjekt + **muss** + Partizip II + sein",
+      "mistake": {"wrong": "Er muss schon angekommen haben.", "why": "*ankommen* is a verb of movement with *sein* in the Perfekt, so the Infinitiv Perfekt is *angekommen sein*."},
+      "examples": [
+        {"de": "Die Gäste müssen schon gegangen sein, die Gläser sind leer.", "en": "The guests must have left already – the glasses are empty."},
+        {"de": "Die Kinder müssen eingeschlafen sein, es ist ganz still.", "en": "The children must have fallen asleep – it's completely quiet."}
+      ],
+      "words": [],
+      "production_cue": "(conclusion about the past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie {{c1::dürfte::wahrscheinlich}} bald kommen.",
+      "en": "She's likely to come soon.",
+      "focus": "Subjektive Modalität · Wahrscheinlichkeit · Zukunft",
+      "explanation": "*dürfte* + infinitive gives a careful prediction: *Wahrscheinlich kommt sie bald.* The umlaut is essential: **dürfte** is the Konjunktiv II and carries the meaning of probability.",
+      "pattern": "Subjekt + **dürfte** + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Sie durfte bald kommen.", "why": "*durfte* (no umlaut) is the Präteritum and means *she was allowed to come soon*. Probability needs the Konjunktiv II with umlaut: *dürfte*."},
+      "examples": [
+        {"de": "Der Preis dürfte im Herbst weiter steigen.", "en": "The price is likely to rise further in the autumn."},
+        {"de": "Die Entscheidung dürfte nächste Woche fallen.", "en": "The decision is likely to be made next week."}
+      ],
+      "words": [],
+      "production_cue": "(probably)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das {{c1::kann::ausgeschlossen}} nicht stimmen.",
+      "en": "That can't be right.",
+      "focus": "Subjektive Modalität · Unmöglichkeit · Vollverb",
+      "explanation": "*kann nicht* + infinitive says that the speaker considers something impossible: *Es ist unmöglich, dass das stimmt.* *stimmen* here means *to be correct*.",
+      "pattern": "Subjekt + **kann nicht** + Infinitiv (Unmöglichkeit)",
+      "mistake": {"wrong": "Das darf nicht stimmen.", "why": "*darf nicht* expresses a prohibition (*must not*), not impossibility. To say that something is impossible, German uses *kann nicht*."},
+      "examples": [
+        {"de": "Die Rechnung kann nicht stimmen, wir hatten nur zwei Getränke.", "en": "The bill can't be right – we only had two drinks."},
+        {"de": "Er kann nicht schon wieder krank sein.", "en": "He can't be ill again."}
+      ],
+      "words": [],
+      "production_cue": "(impossible)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er {{c1::will::eigene Behauptung}} den Schlüssel verloren haben.",
+      "en": "He claims to have lost the key.",
+      "focus": "Subjektive Modalität · Eigenbehauptung · Vergangenheit",
+      "explanation": "*Er behauptet, dass er den Schlüssel verloren hat.* With subjective **will** the past is shown by the Infinitiv Perfekt *verloren haben* (*verlieren* takes *haben*). The speaker suggests that he may not be telling the truth.",
+      "pattern": "Subjekt + **will** + Akk. + Partizip II + haben",
+      "mistake": {"wrong": "Er will den Schlüssel verloren zu haben.", "why": "*zu* belongs to the paraphrase with *behaupten* (*Er behauptet, den Schlüssel verloren zu haben*). After a modal verb the Infinitiv Perfekt has no *zu*."},
+      "examples": [
+        {"de": "Die Angeklagte will das Geld nur geliehen haben.", "en": "The defendant claims to have only borrowed the money."},
+        {"de": "Mein Sohn will sein Zimmer schon aufgeräumt haben.", "en": "My son claims to have tidied his room already."}
+      ],
+      "words": [],
+      "production_cue": "(he claims)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie {{c1::soll::Hörensagen}} sehr nett sein.",
+      "en": "She's said to be very nice.",
+      "focus": "Subjektive Modalität · Fremdbehauptung · Wortstellung",
+      "explanation": "**soll** + infinitive passes on what others say: *Alle sagen, dass sie sehr nett ist.* In a main clause the modal is in position 2 and the infinitive *sein* at the end; in a *dass*-clause the modal moves to the very end.",
+      "pattern": "Subjekt + **soll** + Adjektiv + sein",
+      "mistake": {"wrong": "Man sagt, dass sie soll sehr nett sein.", "why": "In a *dass*-clause the conjugated modal verb goes to the end, after the infinitive: *dass sie sehr nett sein soll*."},
+      "examples": [
+        {"de": "Der neue Mitbewohner soll sehr ordentlich sein.", "en": "The new flatmate is said to be very tidy."},
+        {"de": "Die Prüferin soll ziemlich streng sein.", "en": "The examiner is said to be quite strict."}
+      ],
+      "words": [],
+      "production_cue": "(hearsay)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das {{c1::muss::fast sicher}} ein Missverständnis gewesen sein.",
+      "en": "That must have been a misunderstanding.",
+      "focus": "Subjektive Modalität · Vergangenheit von *sein*",
+      "explanation": "The Infinitiv Perfekt of *sein* is *gewesen sein*, because *sein* forms its Perfekt with *sein*. **muss** + *gewesen sein* = *Ich bin sicher, dass das ein Missverständnis war.*",
+      "pattern": "Subjekt + **muss** + Nomen + gewesen sein",
+      "mistake": {"wrong": "Das muss ein Missverständnis gewesen haben.", "why": "*sein* forms its Perfekt with *sein* (*es ist gewesen*), so the Infinitiv Perfekt is *gewesen sein*."},
+      "examples": [
+        {"de": "Das muss ein Versehen gewesen sein.", "en": "That must have been an oversight."},
+        {"de": "Die Frau am Telefon muss seine Schwester gewesen sein.", "en": "The woman on the phone must have been his sister."}
+      ],
+      "words": [{"de": "das Missverständnis (-se)", "en": "misunderstanding"}],
+      "production_cue": "(conclusion about the past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er {{c1::dürfte::wahrscheinlich}} das nicht wissen.",
+      "en": "He probably doesn't know that.",
+      "focus": "Subjektive Modalität · Wahrscheinlichkeit · Negation",
+      "explanation": "*dürfte* + infinitive = *Wahrscheinlich weiß er das nicht.* *nicht* comes after the definite object *das* and before the infinitive. Out of context the sentence could also mean *he should not be allowed to know that*, but the subjective reading is the usual one.",
+      "pattern": "Subjekt + **dürfte** + Objekt + nicht + Infinitiv",
+      "mistake": {"wrong": "Er dürfte nicht das wissen.", "why": "A definite object such as *das* normally stands before *nicht*. *nicht das* would contrast *das* with something else (*nicht das, sondern …*)."},
+      "examples": [
+        {"de": "Sie dürfte die Antwort nicht kennen.", "en": "She probably doesn't know the answer."},
+        {"de": "Die Kinder dürften den Film noch nicht kennen.", "en": "The children probably haven't seen the film yet."}
+      ],
+      "words": [],
+      "production_cue": "(probably)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Der Bus {{c1::müsste::Erwartung (ziemlich sicher)}} gleich kommen.",
+      "en": "The bus should be here any minute.",
+      "focus": "Subjektive Modalität · Erwartung · Konjunktiv II",
+      "explanation": "*müsste* (Konjunktiv II of *müssen*) expresses a confident expectation based on knowledge, for example the timetable: *Nach dem Fahrplan kommt der Bus gleich.* It is a little less certain than *muss*, because the speaker reasons from what normally happens.",
+      "pattern": "Subjekt + **müsste** + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Der Bus musste gleich kommen.", "why": "*musste* (no umlaut) is the Präteritum and means *had to come*. The expectation needs the Konjunktiv II with umlaut: *müsste*."},
+      "examples": [
+        {"de": "Das Paket müsste morgen ankommen.", "en": "The parcel should arrive tomorrow."},
+        {"de": "Der Akku müsste noch zwei Stunden reichen.", "en": "The battery should last another two hours."}
+      ],
+      "words": [],
+      "production_cue": "(expectation)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Was in dem Artikel steht, {{c1::muss::Notwendigkeit}} nicht stimmen.",
+      "en": "What it says in the article isn't necessarily true.",
+      "focus": "Subjektive Modalität · *nicht unbedingt*",
+      "explanation": "Negated subjective *müssen* means *not necessarily*: **muss** *nicht stimmen* = it may be true or false. Compare *kann nicht stimmen* (impossible). The Vorfeld here is a whole clause (*Was in dem Artikel steht*), so the modal follows directly in position 2.",
+      "pattern": "Vorfeld + **muss nicht** + Infinitiv (nicht unbedingt)",
+      "mistake": {"wrong": "Was in dem Artikel steht, kann nicht stimmen.", "why": "*kann nicht* says that it is impossible for the article to be right, a much stronger claim than intended. *not necessarily* is *muss nicht*."},
+      "examples": [
+        {"de": "Ein teurer Wein muss nicht besser sein.", "en": "An expensive wine isn't necessarily better."},
+        {"de": "Eine Erkältung muss nicht gleich Fieber bedeuten.", "en": "A cold doesn't necessarily mean a fever."}
+      ],
+      "words": [],
+      "production_cue": "(not necessarily)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Kirche {{c1::soll::Hörensagen}} im 12. Jahrhundert gebaut worden sein.",
+      "en": "The church is said to have been built in the 12th century.",
+      "focus": "Subjektive Modalität · Fremdbehauptung · Passiv Vergangenheit",
+      "explanation": "The information comes from other sources (a guidebook, tradition). The past passive infinitive is Partizip II + *worden* + *sein*: *gebaut worden sein*. **soll** stands in position 2, and the three-part infinitive closes the clause.",
+      "pattern": "Subjekt + **soll** + … + Partizip II + worden + sein",
+      "mistake": {"wrong": "Die Kirche soll im 12. Jahrhundert gebaut geworden sein.", "why": "In the passive the participle of *werden* is *worden*, not *geworden*: *gebaut worden sein*."},
+      "examples": [
+        {"de": "Das Bild soll im Krieg gestohlen worden sein.", "en": "The painting is said to have been stolen during the war."},
+        {"de": "Der Vertrag soll schon im Mai unterschrieben worden sein.", "en": "The contract is said to have been signed back in May."}
+      ],
+      "words": [],
+      "production_cue": "(hearsay, passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Er {{c1::will::eigene Behauptung}} die ganze Strecke zu Fuß gegangen sein.",
+      "en": "He claims to have walked the whole way.",
+      "focus": "Subjektive Modalität · Eigenbehauptung · *sein*-Verb",
+      "explanation": "*gehen* (movement) forms its Perfekt with *sein*, so the Infinitiv Perfekt is *gegangen sein*. **will** + *gegangen sein* = *Er behauptet, dass er die ganze Strecke zu Fuß gegangen ist*, and the speaker doubts it.",
+      "pattern": "Subjekt + **will** + … + Partizip II + sein",
+      "mistake": {"wrong": "Er will die ganze Strecke zu Fuß gegangen haben.", "why": "*gehen* is a verb of movement with *sein* in the Perfekt (*er ist gegangen*), so the Infinitiv Perfekt is *gegangen sein*."},
+      "examples": [
+        {"de": "Sie will um zehn Uhr schon zu Hause gewesen sein.", "en": "She claims to have been at home by ten o'clock."},
+        {"de": "Der Fahrer will nur 50 gefahren sein.", "en": "The driver claims to have been doing only 50."}
+      ],
+      "words": [{"de": "die Strecke (-n)", "en": "distance, route"}],
+      "production_cue": "(he claims)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie {{c1::dürfte::wahrscheinlich}} den Zug verpasst haben.",
+      "en": "She has probably missed the train.",
+      "focus": "Subjektive Modalität · Wahrscheinlichkeit · Vergangenheit",
+      "explanation": "*dürfte* + Infinitiv Perfekt is a careful assumption about the past: *Wahrscheinlich hat sie den Zug verpasst.* *verpassen* takes *haben* → *verpasst haben*. The modal stays in the Konjunktiv II; subjective **dürfte** has no past form of its own.",
+      "pattern": "Subjekt + **dürfte** + Akk. + Partizip II + haben",
+      "mistake": {"wrong": "Sie dürfte den Zug verpasst.", "why": "After the modal you need the complete Infinitiv Perfekt: Partizip II + *haben*. The participle alone cannot follow a modal verb."},
+      "examples": [
+        {"de": "Der Täter dürfte das Land schon verlassen haben.", "en": "The perpetrator has probably already left the country."},
+        {"de": "Die meisten Gäste dürften die Rede nicht gehört haben.", "en": "Most of the guests probably didn't hear the speech."}
+      ],
+      "words": [],
+      "production_cue": "(probably)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Ermittler sind überzeugt, dass der Täter das Haus gut gekannt haben {{c1::muss::fast sicher}}.",
+      "en": "The investigators are convinced that the perpetrator must have known the house well.",
+      "focus": "Subjektive Modalität · Nebensatz · Verbstellung",
+      "explanation": "In a *dass*-clause the conjugated modal goes to the very end, after the Infinitiv Perfekt: *gekannt haben* **muss**. The meaning stays subjective: the investigators conclude from the evidence that he knew the house.",
+      "pattern": "…, dass + Subjekt + … + Partizip II + haben + **muss**",
+      "mistake": {"wrong": "Die Ermittler sind überzeugt, dass der Täter das Haus gut muss gekannt haben.", "why": "With a subjective modal and an Infinitiv Perfekt, the finite modal stands last in the Nebensatz: *gekannt haben muss*. Only the Ersatzinfinitiv construction (*dass er hat kommen müssen*) moves the finite verb forward."},
+      "examples": [
+        {"de": "Es ist klar, dass jemand die Tür offen gelassen haben muss.", "en": "It is clear that someone must have left the door open."},
+        {"de": "Wir glauben nicht, dass er das allein geschafft haben kann.", "en": "We don't believe that he can have managed that on his own."}
+      ],
+      "words": [{"de": "der Ermittler (-)", "en": "investigator"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Das {{c1::mag::Einräumung}} sein, aber es ändert nichts an der Situation.",
+      "en": "That may be so, but it doesn't change the situation.",
+      "focus": "Subjektive Modalität · Einräumung · gehoben",
+      "explanation": "Subjective *mögen* (**mag**) concedes that something may be true before an objection follows with *aber*: *Das ist vielleicht so, aber …*. It belongs to a slightly formal style; in everyday speech people often say *Das kann sein, aber …*.",
+      "pattern": "Subjekt + **mag** + Infinitiv, aber …",
+      "mistake": {"wrong": "Das mag zu sein, aber es ändert nichts an der Situation.", "why": "*mögen* is a modal verb and takes a bare infinitive without *zu*: *mag sein*."},
+      "examples": [
+        {"de": "Er mag ein guter Redner sein, aber er hat keine Erfahrung.", "en": "He may be a good speaker, but he has no experience."},
+        {"de": "Die Idee mag ungewöhnlich klingen, aber sie funktioniert.", "en": "The idea may sound unusual, but it works."}
+      ],
+      "words": [],
+      "production_cue": "(concession, formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Frau {{c1::mochte::Schätzung · Präteritum (Erzählung)}} etwa sechzig Jahre alt sein.",
+      "en": "The woman was perhaps about sixty years old.",
+      "focus": "Subjektive Modalität · Schätzung · Erzählung",
+      "explanation": "In narrative texts *mögen* in the Präteritum (**mochte**) expresses the narrator's estimate: *Sie war vielleicht etwa sechzig.* This literary use is common in novels and is mainly something to recognise when reading. Words like *etwa* or *ungefähr* often go with it.",
+      "pattern": "Subjekt + **mochte** + etwa + Zahl + sein (Erzählung)",
+      "mistake": {"wrong": "Die Frau möchte etwa sechzig Jahre alt sein.", "why": "*möchte* expresses a wish: *she would like to be sixty*. The estimate in a past narrative is *mochte* (Präteritum, no umlaut)."},
+      "examples": [
+        {"de": "Der Fremde mochte etwa dreißig sein.", "en": "The stranger was perhaps about thirty."},
+        {"de": "Es mochten an die hundert Menschen auf dem Platz sein.", "en": "There were perhaps about a hundred people in the square."}
+      ],
+      "words": [],
+      "production_cue": "(literary estimate, past narrative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Er {{c1::kann::ausgeschlossen}} den Brief nicht gelesen haben, er war doch im Urlaub.",
+      "en": "He can't have read the letter – he was on holiday, after all.",
+      "focus": "Subjektive Modalität · Unmöglichkeit · Vergangenheit",
+      "explanation": "*kann nicht* + Infinitiv Perfekt says that a past event is impossible: *Es ist unmöglich, dass er den Brief gelesen hat.* *lesen* takes *haben* → *gelesen haben*. The particle *doch* in the second clause points to a fact that both speakers know.",
+      "pattern": "Subjekt + **kann** + Objekt + nicht + Partizip II + haben",
+      "mistake": {"wrong": "Er kann den Brief nicht gelesen sein, er war doch im Urlaub.", "why": "*lesen* takes *haben* in the Perfekt (*er hat gelesen*), so the Infinitiv Perfekt is *gelesen haben*."},
+      "examples": [
+        {"de": "Sie kann das Geld nicht genommen haben, sie war gar nicht im Raum.", "en": "She can't have taken the money – she wasn't even in the room."},
+        {"de": "Das Kind kann die Tür nicht allein geöffnet haben.", "en": "The child can't have opened the door on its own."}
+      ],
+      "words": [],
+      "production_cue": "(impossible, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Das {{c1::könnte::vielleicht}} schwierig werden.",
+      "en": "That could get difficult.",
+      "focus": "Subjektive Modalität · Möglichkeit · Zukunft",
+      "explanation": "*könnte* + infinitive expresses a careful possibility, here about the future: *Vielleicht wird das schwierig.* *werden* (to become) is the infinitive after the modal. **könnte** sounds more tentative than *kann*.",
+      "pattern": "Subjekt + **könnte** + Adjektiv + werden",
+      "mistake": {"wrong": "Das könnte schwierig wird.", "why": "After a modal verb the second verb is an infinitive at the end of the clause: *könnte … werden*."},
+      "examples": [
+        {"de": "Es könnte heute Abend noch regnen.", "en": "It might still rain this evening."},
+        {"de": "Der Plan könnte an den Kosten scheitern.", "en": "The plan could fail because of the costs."}
+      ],
+      "words": [],
+      "production_cue": "(possibility)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Das Fenster {{c1::muss::fast sicher}} aufgebrochen worden sein.",
+      "en": "The window must have been forced open.",
+      "focus": "Subjektive Modalität · Schlussfolgerung · Passiv Vergangenheit",
+      "explanation": "The speaker concludes from the evidence that someone forced the window. The past passive infinitive is Partizip II + *worden* + *sein* → *aufgebrochen worden sein*, after **muss**. This form is typical of police and news reports.",
+      "pattern": "Subjekt + **muss** + Partizip II + worden + sein",
+      "mistake": {"wrong": "Das Fenster muss aufgebrochen sein worden.", "why": "The order of the passive infinitive is fixed: Partizip II – *worden* – *sein*: *aufgebrochen worden sein*."},
+      "examples": [
+        {"de": "Der Brief muss geöffnet worden sein.", "en": "The letter must have been opened."},
+        {"de": "Die Daten müssen gelöscht worden sein.", "en": "The data must have been deleted."}
+      ],
+      "words": [{"de": "aufbrechen", "en": "to break open, to force"}],
+      "production_cue": "(conclusion, passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Lieferung {{c1::sollte::Erwartung, wenn alles normal läuft}} spätestens am Freitag ankommen.",
+      "en": "The delivery should arrive by Friday at the latest.",
+      "focus": "Subjektive Modalität · Erwartung · Konjunktiv II",
+      "explanation": "*sollte* (Konjunktiv II of *sollen*) expresses what the speaker expects if everything goes normally: *Normalerweise kommt die Lieferung bis Freitag.* Unlike subjective *soll*, **sollte** is not hearsay but the speaker's own expectation.",
+      "pattern": "Subjekt + **sollte** + Zeitangabe + Infinitiv",
+      "mistake": {"wrong": "Die Lieferung sollte spätestens am Freitag angekommen.", "why": "After the modal the main verb must be an infinitive: *sollte … ankommen*. The participle *angekommen* alone is not possible; with past meaning it would be *angekommen sein*."},
+      "examples": [
+        {"de": "Zwei Stunden sollten für die Prüfung reichen.", "en": "Two hours should be enough for the exam."},
+        {"de": "Mit dem neuen Navi sollten wir den Weg leicht finden.", "en": "With the new satnav we should find the way easily."}
+      ],
+      "words": [{"de": "die Lieferung (-en)", "en": "delivery"}],
+      "production_cue": "(expectation)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the degree of certainty.",
+      "prompt": "Order these subjective modal verbs by how certain the speaker is: *kann, muss, dürfte, könnte, müsste*.",
+      "answer": "**muss** (almost certain) > **müsste** (confident expectation) > **dürfte** (probable) > **kann** (possible) > **könnte** (perhaps). At the negative end: **kann nicht** (impossible).",
+      "explanation": "The scale is approximate, but the order is reliable: indicative *muss* is the strongest, and the Konjunktiv II forms are more careful. *dürfte* is very common in news and formal writing. *soll* and *will* are outside this scale: they show the source of the information, not the degree of certainty.",
+      "examples": [
+        {"de": "Er muss im Stau stehen.", "en": "He must be stuck in traffic."},
+        {"de": "Er könnte im Stau stehen.", "en": "He might be stuck in traffic."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain how to tell the objective and the subjective use apart.",
+      "prompt": "Compare *Er muss heute arbeiten.* and *Er muss krank sein.* How can you tell objective from subjective use?",
+      "answer": "**Objective** = obligation, ability or permission of the subject: *Er muss heute arbeiten* (he is obliged to). **Subjective** = the speaker's judgement: *Er muss krank sein* (I am almost sure he is ill). Test: the subjective use can be paraphrased with *Ich bin sicher / Es ist möglich / Man sagt, dass …*.",
+      "explanation": "Typical signs of the subjective use: the infinitive is *sein* or *haben*, or an Infinitiv Perfekt follows (*verschlafen haben*); often the subject cannot control the action at all (*Es muss geregnet haben*).",
+      "examples": [
+        {"de": "Sie muss morgen früh aufstehen.", "en": "She has to get up early tomorrow."},
+        {"de": "Es muss in der Nacht geregnet haben.", "en": "It must have rained during the night."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about assumptions about the past.",
+      "prompt": "How do you express an assumption about the past with a subjective modal verb?",
+      "answer": "Modal verb in the **present** (or Konjunktiv II) + **Infinitiv Perfekt** (Partizip II + *haben/sein*): *Sie **muss** die Nachricht falsch **verstanden haben**. Er **dürfte** schon **angekommen sein**.*",
+      "explanation": "The Perfekt or Präteritum of the modal (*hat … müssen, musste*) gives the objective meaning: *Sie hat lange warten müssen* = she was obliged to wait. The auxiliary in the Infinitiv Perfekt is the same as in the Perfekt of the main verb.",
+      "examples": [
+        {"de": "Sie muss die Nachricht falsch verstanden haben.", "en": "She must have misunderstood the message."},
+        {"de": "Sie hat lange warten müssen.", "en": "She had to wait a long time."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference between the two claim verbs.",
+      "prompt": "What is the difference between subjective *sollen* and subjective *wollen*?",
+      "answer": "***sollen*** = **others** say it about the subject (Fremdbehauptung): *Er soll reich sein* = people say he is rich. ***wollen*** = the **subject** says it about himself (Eigenbehauptung), usually with doubt: *Er will reich sein* = he claims to be rich.",
+      "explanation": "Both pass on a statement without confirming it, but *wollen* almost always sounds sceptical. With an Infinitiv Perfekt both refer to the past: *Sie soll/will das Geld gefunden haben.*",
+      "examples": [
+        {"de": "Sie soll das Geld gefunden haben.", "en": "She is said to have found the money."},
+        {"de": "Sie will das Geld gefunden haben.", "en": "She claims to have found the money."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about *dürfte*.",
+      "prompt": "Why does probability need *dürfte* and not *darf*?",
+      "answer": "Only the **Konjunktiv II *dürfte*** has the subjective meaning *probably*. The indicative ***darf*** always expresses **permission**: *Das darf kein Problem sein* = that must not become a problem.",
+      "explanation": "There are similar pairs: *müsste/musste* and *könnte/konnte*. The forms without umlaut are Präteritum and objective (*had to, was able to*); the umlaut forms are Konjunktiv II and can be subjective.",
+      "examples": [
+        {"de": "Die Mieten dürften weiter steigen.", "en": "Rents are likely to keep rising."},
+        {"de": "Hier darf man nicht parken.", "en": "You are not allowed to park here."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective *dürfte*.",
+      "prompt": "Wahrscheinlich ist er schon zu Hause.",
+      "answer": "Er dürfte schon zu Hause sein.",
+      "explanation": "*wahrscheinlich* + indicative = *dürfte* + infinitive. The finite verb *ist* becomes the infinitive *sein* at the end, and *wahrscheinlich* disappears because *dürfte* carries its meaning."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective *sollen*.",
+      "prompt": "Man sagt, dass die Firma pleite ist.",
+      "answer": "Die Firma soll pleite sein.",
+      "explanation": "*Man sagt, dass …* = hearsay → *soll* + infinitive. The subject of the *dass*-clause becomes the subject of the new main clause."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective *wollen*.",
+      "prompt": "Er behauptet, dass er den Unfall nicht verursacht hat.",
+      "answer": "Er will den Unfall nicht verursacht haben.",
+      "explanation": "A claim about oneself = *wollen*. The claim refers to the past, so *hat verursacht* becomes the Infinitiv Perfekt *verursacht haben*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective *müssen*.",
+      "prompt": "Ich bin sicher, dass sie den Termin vergessen hat.",
+      "answer": "Sie muss den Termin vergessen haben.",
+      "explanation": "*Ich bin sicher, dass …* = a strong conclusion → *muss*. The past reference becomes the Infinitiv Perfekt *vergessen haben*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with subjective *können*.",
+      "prompt": "Es ist unmöglich, dass das Paket heute angekommen ist.",
+      "answer": "Das Paket kann heute nicht angekommen sein.",
+      "explanation": "Impossibility = *kann nicht*. *ankommen* takes *sein*, so the Infinitiv Perfekt is *angekommen sein*, with *nicht* in front of it."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with *könnte*.",
+      "prompt": "Vielleicht hat der Kollege die Mail nicht gelesen.",
+      "answer": "Der Kollege könnte die Mail nicht gelesen haben.",
+      "explanation": "*vielleicht* = a weak possibility → *könnte*. The past is shown by *gelesen haben*, and *nicht* stays before the infinitive group."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Stadt soll im Mittelalter gegründet sein worden.",
+      "answer": "Die Stadt soll im Mittelalter gegründet worden sein.",
+      "explanation": "The past passive infinitive has a fixed order: Partizip II – *worden* – *sein*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er muss gestern sehr krank gewesen haben.",
+      "answer": "Er muss gestern sehr krank gewesen sein.",
+      "explanation": "*sein* forms its Perfekt with *sein* (*er ist gewesen*), so the Infinitiv Perfekt is *gewesen sein*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es dürfte morgen schneien werden.",
+      "answer": "Es dürfte morgen schneien.",
+      "explanation": "*dürfte* + plain infinitive can already refer to the future. *werden* cannot be added after the infinitive."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the situation.",
+      "prompt": "Das Licht brennt noch. Es ___ noch jemand im Büro sein.",
+      "options": ["muss", "soll", "will"],
+      "correct": "muss",
+      "answer": "Das Licht brennt noch. Es muss noch jemand im Büro sein.",
+      "explanation": "The speaker draws a conclusion from evidence (the light) → *muss*. *soll* would mean that other people say so, and *will* needs a subject that makes a claim about itself."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the situation.",
+      "prompt": "Ich habe gehört, der neue Chef ___ sehr streng sein.",
+      "options": ["soll", "will", "muss"],
+      "correct": "soll",
+      "answer": "Ich habe gehört, der neue Chef soll sehr streng sein.",
+      "explanation": "*Ich habe gehört* shows that the information comes from others → *soll*. *will* would mean that the boss claims it himself, and *muss* is a conclusion from evidence, which does not fit *ich habe gehört*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Sie wohnt erst seit zwei Wochen hier. Sie ___ die Stadt noch nicht gut kennen.",
+      "options": ["dürfte", "darf", "durfte"],
+      "correct": "dürfte",
+      "answer": "Sie wohnt erst seit zwei Wochen hier. Sie dürfte die Stadt noch nicht gut kennen.",
+      "explanation": "A careful assumption → Konjunktiv II *dürfte*. *darf* expresses permission, and *durfte* is the Präteritum (*was allowed to*)."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "haben / er / den Bus / verpasst / muss",
+      "answer": "Er muss den Bus verpasst haben.",
+      "explanation": "The modal *muss* is in position 2; the Infinitiv Perfekt *verpasst haben* closes the sentence, with the object *den Bus* in the Mittelfeld."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das Schloss",
+      "prompt": "sein / soll / gebaut / das Schloss / im 16. Jahrhundert / worden",
+      "answer": "Das Schloss soll im 16. Jahrhundert gebaut worden sein.",
+      "explanation": "*soll* in position 2 marks hearsay. The time phrase is in the Mittelfeld, and the passive Infinitiv Perfekt *gebaut worden sein* stands at the end. Also correct: *Im 16. Jahrhundert soll das Schloss gebaut worden sein.*"
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Join the sentences with *weil* and express *wahrscheinlich* with *dürfte*.",
+      "prompt": "Sie hat nicht angerufen. Sie hat die Nummer wahrscheinlich verloren.",
+      "answer": "Sie hat nicht angerufen, weil sie die Nummer verloren haben dürfte.",
+      "explanation": "*wahrscheinlich* + Perfekt → *dürfte* + Infinitiv Perfekt. In the *weil*-clause the finite modal goes to the very end: *verloren haben dürfte*."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence with subjective *wollen*.",
+      "prompt": "Er behauptet es. Er war gestern den ganzen Tag in der Bibliothek.",
+      "answer": "Er will gestern den ganzen Tag in der Bibliothek gewesen sein.",
+      "explanation": "His own claim about the past → *will* + Infinitiv Perfekt. *war* becomes *gewesen sein*, because *sein* takes *sein* in the Perfekt."
+    }
+  ]
+}

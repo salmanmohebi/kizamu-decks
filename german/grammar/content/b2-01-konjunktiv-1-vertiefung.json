@@ -1,0 +1,726 @@
+{
+  "topic_id": "b2-01-konjunktiv-1-vertiefung",
+  "level": "B2",
+  "title_de": "Konjunktiv I (Vertiefung)",
+  "title_en": "Konjunktiv I in depth",
+  "rule": {
+    "summary": "At B2 you read and write the Konjunktiv I in all persons, in all three time levels (Gegenwart, Vergangenheit, Zukunft) and in the passive. It is the standard form of reported speech in news, reports, minutes and academic texts: the writer passes on a statement without taking responsibility for it. In a news text the Konjunktiv I alone can mark several sentences as reported speech, without a new *sagte*. When the Konjunktiv I looks like the indicative, you switch to the Konjunktiv II or the *würde*-form.",
+    "table": "| Zeitstufe | Aktiv | Passiv |\n|---|---|---|\n| Gegenwart | er **komme** / er **mache** | es **werde** gemacht |\n| Vergangenheit | er **sei** gekommen / er **habe** gemacht | es **sei** gemacht **worden** |\n| Zukunft | er **werde** kommen | es **werde** gemacht werden |\n| Modalverb, Gegenwart | er **müsse** arbeiten | es **müsse** gemacht werden |\n| Modalverb, Vergangenheit | er **habe** arbeiten **müssen** | es **habe** gemacht werden **müssen** |\n| Ersatz (Plural) | sie **hätten** / **kämen** / **würden** kommen | sie **würden** gemacht |",
+    "steps": [
+      "Identify the time of the original statement, not of the reporting verb: present → *er komme*; any past tense (Perfekt, Präteritum, Plusquamperfekt) → *er sei gekommen / habe gemacht*; future → *er werde kommen*.",
+      "Build the finite form from the infinitive stem + Konjunktiv ending (*-e, -est, -e, -en, -et, -en*); *sein* is irregular (*sei, seist, sei, seien, seiet, seien*). Only the finite verb changes; infinitives and participles stay at the end.",
+      "Check whether the form is clear. *er/sie/es*-forms and all forms of *sein* are always clear; *ich* is clear only for *sein*, the modal verbs and *wissen* (*ich sei, ich müsse, ich wisse*). If the form equals the indicative, take the Konjunktiv II (*hätten, kämen, wüssten*); if that equals the Präteritum, take *würde* + infinitive.",
+      "In the passive, use *werde* + Partizip II (present) and *sei* + Partizip II + *worden* (past). With modal verbs in the past, use *habe* + infinitive + modal infinitive (Ersatzinfinitiv).",
+      "Shift pronouns, possessives and the person addressed to the reporter's point of view, and turn imperatives into *sollen* (order) or *mögen* (polite request): „Warten Sie!“ → *ich solle warten*; *er möge warten*."
+    ],
+    "pitfalls": [
+      "Copying the English tense shift: ✗ *Der Minister sagte, er sei interessiert gewesen.* (for „Ich bin interessiert.“) → ✓ *Der Minister sagte, er sei interessiert.*",
+      "*geworden* in the passive: ✗ *Der Verdächtige sei festgenommen geworden.* → ✓ *Der Verdächtige sei festgenommen worden.* *geworden* is only for the full verb: *sie sei berühmt geworden*.",
+      "*haben* with a passive or with a *sein*-verb: ✗ *Das Problem habe gelöst worden.* → ✓ *Das Problem sei gelöst worden.*",
+      "Partizip of the modal instead of the Ersatzinfinitiv: ✗ *er habe nicht landen gekonnt* → ✓ *er habe nicht landen können*.",
+      "A plural Konjunktiv I that looks like the indicative: ✗ (unclear) *Die Mieter klagen, sie bekommen keine Antwort.* → ✓ *…, sie bekämen keine Antwort.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Der Minister sagte, er {{c1::sei::sein}} an Reformen interessiert.",
+      "en": "The minister said he was interested in reforms.",
+      "focus": "Konjunktiv I · Gegenwart · Pressesprache",
+      "explanation": "The minister's words were „Ich bin an Reformen interessiert.“, a statement about the present. The Konjunktiv I keeps this time: **sei**, although *sagte* is in the past and English shifts to *was*. This is typical news style: the journalist reports the claim without taking a position.",
+      "pattern": "Redeeinleitung (Prät.), er + **sei** + Adjektiv + Präp.",
+      "mistake": {"wrong": "Der Minister sagte, er sei an Reformen interessiert gewesen.", "why": "*sei … gewesen* reports a past statement („Ich war interessiert.“) and suggests he is no longer interested. The time in reported speech follows the original words, not *sagte*."},
+      "examples": [
+        {"de": "Die Kanzlerin sagte, sie sei zu Gesprächen bereit.", "en": "The chancellor said she was ready for talks."},
+        {"de": "Der Konzernchef sagte, er sei mit den Zahlen zufrieden.", "en": "The CEO said he was satisfied with the figures."}
+      ],
+      "words": [],
+      "production_cue": "(news style, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie behauptete, sie {{c1::habe::haben/sein}} alles gewusst.",
+      "en": "She claimed she had known everything.",
+      "focus": "Konjunktiv I · Vergangenheit · Hilfsverb",
+      "explanation": "Her words were „Ich habe alles gewusst.“ or „Ich wusste alles.“ Both become the same past form: Konjunktiv I auxiliary + Partizip II. *wissen* takes *haben*, and the 3rd person singular is **habe** → *sie habe alles gewusst*.",
+      "pattern": "sie + **habe** + … + Partizip II",
+      "mistake": {"wrong": "Sie behauptete, sie sei alles gewusst.", "why": "The auxiliary is the same as in the Perfekt. *wissen* has an Akkusativ object (*alles*) and takes *haben*: *ich habe alles gewusst* → *sie habe alles gewusst*. *sei* is only for *sein*-verbs and the passive."},
+      "examples": [
+        {"de": "Der Manager behauptete, er habe von den Verlusten nichts gewusst.", "en": "The manager claimed he had known nothing about the losses."},
+        {"de": "Die Sportlerin behauptete, sie habe das Mittel nie genommen.", "en": "The athlete claimed she had never taken the substance."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Der Zeuge sagte, der Mann {{c1::sei::haben/sein}} schnell weggelaufen.",
+      "en": "The witness said the man had run away quickly.",
+      "focus": "Konjunktiv I · Vergangenheit · Bewegungsverb",
+      "explanation": "*weglaufen* is a verb of movement without an object, so its Perfekt uses *sein* (*er ist weggelaufen*). The past Konjunktiv I keeps this auxiliary: **sei** + *weggelaufen*. The separable verb stands as one Partizip II at the end.",
+      "pattern": "Subjekt + **sei** + … + Partizip II (Bewegung)",
+      "mistake": {"wrong": "Der Zeuge sagte, der Mann habe schnell weggelaufen.", "why": "The auxiliary does not change in reported speech. *weglaufen* (movement) takes *sein*: *er sei weggelaufen*."},
+      "examples": [
+        {"de": "Die Nachbarin sagte, der Hund sei über den Zaun gesprungen.", "en": "The neighbour said the dog had jumped over the fence."},
+        {"de": "Der Kassierer sagte, die Täter seien mit einem Motorrad geflohen.", "en": "The cashier said the perpetrators had fled on a motorbike."}
+      ],
+      "words": [{"de": "der Zeuge (-n, n-Dekl.)", "en": "witness"}],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er meinte, das {{c1::sei::sein}} eine gute Idee.",
+      "en": "He said that was a good idea.",
+      "focus": "Konjunktiv I · Meinung · Subjekt *das*",
+      "explanation": "*meinen* reports an opinion: „Das ist eine gute Idee.“ The subject *das* is 3rd person singular, so the Konjunktiv I is the irregular form **sei**. With it the writer passes on his opinion without sharing it.",
+      "pattern": "meinen, das + **sei** + Nomen (Nom.)",
+      "mistake": {"wrong": "Er meinte, das seie eine gute Idee.", "why": "*seie* does not exist. *sein* is irregular in the Konjunktiv I: *ich sei, er sei*, with no *-e* ending."},
+      "examples": [
+        {"de": "Die Expertin meinte, das sei ein wichtiger Schritt.", "en": "The expert said that was an important step."},
+        {"de": "Mein Betreuer meinte, das sei ein spannendes Thema für eine Masterarbeit.", "en": "My supervisor said that was an exciting topic for a master's thesis."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie behauptete, sie {{c1::habe::haben/sein}} ihn nie gesehen.",
+      "en": "She claimed she had never seen him.",
+      "focus": "Konjunktiv I · Vergangenheit · Negation im Mittelfeld",
+      "explanation": "The original could be „Ich habe ihn nie gesehen.“ or „Ich sah ihn nie.“ Reported speech has only one past form: **habe** + Partizip II. The pronoun *ihn* and *nie* stay in the Mittelfeld between *habe* and *gesehen*.",
+      "pattern": "sie + **habe** + Pronomen + nie + Partizip II",
+      "mistake": {"wrong": "Sie behauptete, sie habe ihn nie gesehen gehabt.", "why": "Standard German has no Konjunktiv I form with an extra *gehabt*. Even an original Plusquamperfekt becomes *habe + Partizip II*."},
+      "examples": [
+        {"de": "Der Verdächtige behauptete, er habe die Frau nie getroffen.", "en": "The suspect claimed he had never met the woman."},
+        {"de": "Die Firma behauptete, sie habe nie Kundendaten weitergegeben.", "en": "The company claimed it had never passed on any customer data."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Der Bericht sagt, die Wirtschaft {{c1::werde::werden}} wachsen.",
+      "en": "The report says the economy will grow.",
+      "focus": "Konjunktiv I · Futur · Prognose",
+      "explanation": "A forecast in the Futur I („Die Wirtschaft wird wachsen.“) is reported with the Konjunktiv I of the auxiliary: *werd-* + -e → **werde**, with the infinitive at the end. This is the usual way economic news passes on the forecasts of institutes and reports.",
+      "pattern": "Subjekt + **werde** + … + Infinitiv (Futur)",
+      "mistake": {"wrong": "Der Bericht sagt, die Wirtschaft wurde wachsen.", "why": "*wurde* + infinitive is not a German tense. The Futur in reported speech is *werde* + infinitive; *würde* + infinitive is only a replacement where *werde* is unclear (plural)."},
+      "examples": [
+        {"de": "Die Studie sagt, die Zahl der Pflegekräfte werde weiter sinken.", "en": "The study says the number of care workers will continue to fall."},
+        {"de": "Das Institut erwartet, die Inflation werde im Herbst zurückgehen.", "en": "The institute expects inflation to fall in the autumn."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, future)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie sagt, sie {{c1::wisse::wissen}} nicht, was zu tun ist.",
+      "en": "She says she doesn't know what to do.",
+      "focus": "Konjunktiv I · unregelmäßiges Verb · Hauptsatzstellung",
+      "explanation": "*wissen* is irregular in the indicative (*sie weiß*), but the Konjunktiv I is regular: *wiss-* + -e → **wisse**. The reported clause has verb-second order. In the dependent clause *was zu tun ist* the indicative is acceptable; *was zu tun sei* is the more formal choice.",
+      "pattern": "sie + **wisse** + nicht, + W-Satz",
+      "mistake": {"wrong": "Sie sagt, sie wisst nicht, was zu tun ist.", "why": "The Konjunktiv I has no *-t* in the 3rd person singular; *wisst* is the *ihr*-form of the indicative. Correct: *sie wisse*."},
+      "examples": [
+        {"de": "Der Bürgermeister sagt, er wisse nicht, wie die Stadt das bezahlen soll.", "en": "The mayor says he doesn't know how the town is supposed to pay for it."},
+        {"de": "Die Patientin sagt, sie wisse nicht, wann die Schmerzen angefangen haben.", "en": "The patient says she doesn't know when the pain started."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Er sagte, er {{c1::komme::kommen}} später.",
+      "en": "He said he was coming later.",
+      "focus": "Konjunktiv I · Gegenwart mit Zukunftsbezug",
+      "explanation": "His words were „Ich komme später.“, a present form with future meaning. In reported speech the present Konjunktiv I stays: *komm-* + -e → **komme**. The past reporting verb *sagte* does not change it.",
+      "pattern": "er + Stamm-**e** + Zeitangabe",
+      "mistake": {"wrong": "Er sagte, er sei später gekommen.", "why": "*sei … gekommen* reports a past event („Ich bin später gekommen.“). He announced a future action, so the present Konjunktiv I *komme* is needed."},
+      "examples": [
+        {"de": "Die Kollegin sagte, sie arbeite heute von zu Hause.", "en": "The colleague said she was working from home today."},
+        {"de": "Der Kurier sagte, er liefere das Paket morgen.", "en": "The courier said he would deliver the parcel tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Die Polizei meldete, der Verdächtige {{c1::sei::haben/sein}} festgenommen worden.",
+      "en": "The police reported that the suspect had been arrested.",
+      "focus": "Konjunktiv I · Passiv · Vergangenheit",
+      "explanation": "The original is the Perfekt Passiv: „Der Verdächtige ist festgenommen worden.“ The passive always forms its perfect tenses with *sein*, so the Konjunktiv I is **sei** + Partizip II + *worden*. In the passive, *werden* has the short participle *worden*, without *ge-*.",
+      "pattern": "Subjekt + **sei** + Partizip II + worden",
+      "mistake": {"wrong": "Die Polizei meldete, der Verdächtige sei festgenommen geworden.", "why": "*geworden* is the participle of the full verb *werden* (to become). In the passive the form is *worden*: *sei festgenommen worden*."},
+      "examples": [
+        {"de": "Die Agentur meldete, das Gemälde sei gestohlen worden.", "en": "The agency reported that the painting had been stolen."},
+        {"de": "Die Feuerwehr meldete, alle Bewohner seien gerettet worden.", "en": "The fire brigade reported that all residents had been rescued."}
+      ],
+      "words": [{"de": "der Verdächtige (adj. Nomen)", "en": "suspect"}, {"de": "festnehmen", "en": "to arrest"}],
+      "production_cue": "(Konjunktiv I, passive, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er sagte, er {{c1::habe::haben/sein}} das nicht gewollt.",
+      "en": "He said he had not intended that.",
+      "focus": "Konjunktiv I · Vergangenheit · Modalverb als Vollverb",
+      "explanation": "Here *wollen* has no second infinitive (*das nicht wollen* = not intend it), so its Perfekt uses the normal Partizip II *gewollt*. Reported in the past: **habe** + *gewollt*. With an infinitive it would be the Ersatzinfinitiv: *er habe das nicht sagen wollen*.",
+      "pattern": "er + **habe** + Akk. + nicht + gewollt",
+      "mistake": {"wrong": "Er sagte, er habe das nicht wollen.", "why": "Without a second infinitive the modal verb needs its Partizip II *gewollt*. The infinitive form *wollen* is only used when another infinitive stands before it (*sagen wollen*)."},
+      "examples": [
+        {"de": "Die Spielerin sagte, sie habe den Wechsel nicht gewollt.", "en": "The player said she had not wanted the transfer."},
+        {"de": "Der Bürgermeister sagte, er habe diesen Streit nie gewollt.", "en": "The mayor said he had never wanted this dispute."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie behauptet, sie {{c1::sei::sein}} unschuldig.",
+      "en": "She claims she is innocent.",
+      "focus": "Konjunktiv I · Distanz · Singular",
+      "explanation": "*behaupten* plus the Konjunktiv I gives a double distance: the writer reports her claim and does not say whether it is true. Her words „Ich bin unschuldig.“ → singular *sie* → **sei**.",
+      "pattern": "behaupten, sie + **sei** + Adjektiv",
+      "mistake": {"wrong": "Sie behauptet, sie seien unschuldig.", "why": "*seien* is the plural form. As written, the sentence would mean that she claims *they* are innocent. Her own words were „Ich bin unschuldig.“, so *sie* means *she*, one person, and the form is *sei*."},
+      "examples": [
+        {"de": "Der Angeklagte behauptet, er sei Opfer einer Verwechslung.", "en": "The defendant claims he is the victim of a mix-up."},
+        {"de": "Die Firma behauptet, das Produkt sei völlig ungefährlich.", "en": "The company claims the product is completely harmless."}
+      ],
+      "words": [{"de": "unschuldig", "en": "innocent"}],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Der Lehrer sagte, die Prüfung {{c1::werde::werden}} schwierig sein.",
+      "en": "The teacher said the exam would be difficult.",
+      "focus": "Konjunktiv I · Futur · Verbklammer",
+      "explanation": "„Die Prüfung wird schwierig sein.“ is Futur I. Only the finite auxiliary goes into the Konjunktiv I: **werde**. The infinitive *sein* stays unchanged at the end, so the clause has the frame *werde … sein*. English uses *would* because of *said*; German keeps *werde*.",
+      "pattern": "Subjekt + **werde** + Adjektiv + sein",
+      "mistake": {"wrong": "Der Lehrer sagte, die Prüfung werde schwierig sei.", "why": "Only the finite verb takes the Konjunktiv I. The infinitive at the end stays an infinitive: *werde … sein*."},
+      "examples": [
+        {"de": "Der Arzt sagte, die Behandlung werde lange dauern.", "en": "The doctor said the treatment would take a long time."},
+        {"de": "Die Trainerin sagte, das Finale werde sehr eng werden.", "en": "The coach said the final would be very close."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, future)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie meinte, das Problem {{c1::sei::haben/sein}} gelöst worden.",
+      "en": "She said the problem had been solved.",
+      "focus": "Konjunktiv I · Passiv Vergangenheit · Hilfsverb",
+      "explanation": "Her words were „Das Problem ist gelöst worden.“ (Perfekt Passiv). The passive always forms its perfect tenses with *sein*, so the Konjunktiv I is **sei** … *gelöst worden*, even though *lösen* takes *haben* in the active (*sie hat es gelöst*).",
+      "pattern": "Subjekt + **sei** + Partizip II + worden",
+      "mistake": {"wrong": "Sie meinte, das Problem habe gelöst worden.", "why": "Active *lösen* takes *haben*, but the passive Perfekt always takes *sein*: *es ist gelöst worden* → *es sei gelöst worden*."},
+      "examples": [
+        {"de": "Der Sprecher meinte, die Panne sei schnell behoben worden.", "en": "The spokesman said the breakdown had been fixed quickly."},
+        {"de": "Die Hausverwaltung meinte, der Schaden sei bereits gemeldet worden.", "en": "The property management said the damage had already been reported."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, passive, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er sagte, er {{c1::müsse::müssen}} dringend gehen.",
+      "en": "He said he urgently had to leave.",
+      "focus": "Konjunktiv I · Modalverb · Gegenwart",
+      "explanation": "His words: „Ich muss dringend gehen.“ The Konjunktiv I of a modal verb comes from the infinitive, so it has the umlaut: *müss-* + -e → **müsse** (indicative *er muss*). The infinitive *gehen* stays at the end.",
+      "pattern": "er + **müsse** + Adverb + Infinitiv",
+      "mistake": {"wrong": "Er sagte, er musse dringend gehen.", "why": "*musse* does not exist. The Konjunktiv I starts from the infinitive *müssen* and keeps the *ü*: *müsse*."},
+      "examples": [
+        {"de": "Die Pilotin sagte, sie müsse sofort landen.", "en": "The pilot said she had to land immediately."},
+        {"de": "Der Patient sagte, er müsse jede Nacht mehrmals aufstehen.", "en": "The patient said he had to get up several times every night."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie meinte, sie {{c1::könne::können}} es nicht erklären.",
+      "en": "She said she couldn't explain it.",
+      "focus": "Konjunktiv I · Modalverb · Zeitbezug",
+      "explanation": "Her words were in the present: „Ich kann es nicht erklären.“ English uses *couldn't* after *said*, but German keeps the present Konjunktiv I: *könn-* + -e → **könne**.",
+      "pattern": "sie + **könne** + Akk. + nicht + Infinitiv",
+      "mistake": {"wrong": "Sie meinte, sie konnte es nicht erklären.", "why": "*konnte* is the Präteritum indicative and refers to a moment in the past (*she was not able to then*). Her statement was about the present, so the Konjunktiv I is *könne*."},
+      "examples": [
+        {"de": "Der Techniker meinte, er könne den Fehler nicht finden.", "en": "The technician said he couldn't find the fault."},
+        {"de": "Die Wissenschaftlerin meinte, sie könne das Ergebnis noch nicht bestätigen.", "en": "The scientist said she could not confirm the result yet."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Der Politiker behauptete, er {{c1::habe::haben/sein}} die Wahrheit gesagt.",
+      "en": "The politician claimed he had told the truth.",
+      "focus": "Konjunktiv I · Vergangenheit · ohne *dass*",
+      "explanation": "*behaupten* already signals doubt, and the Konjunktiv I adds neutral distance. The original „Ich habe die Wahrheit gesagt.“ is a Perfekt with *haben*, so the 3rd person singular is **habe** + *gesagt*. Without *dass* the clause has verb-second order.",
+      "pattern": "behaupten, er + **habe** + Akk. + Partizip II",
+      "mistake": {"wrong": "Der Politiker behauptete, dass er habe die Wahrheit gesagt.", "why": "After *dass* the finite verb goes to the end: *dass er die Wahrheit gesagt habe*. Verb-second (*er habe …*) is only possible without *dass*."},
+      "examples": [
+        {"de": "Die Abgeordnete behauptete, sie habe alle Regeln beachtet.", "en": "The MP claimed she had followed all the rules."},
+        {"de": "Der Trainer behauptete, er habe von dem Doping nichts gemerkt.", "en": "The coach claimed he had not noticed anything about the doping."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie sagte, sie {{c1::wolle::wollen}} später kommen.",
+      "en": "She said she wanted to come later.",
+      "focus": "Konjunktiv I · Modalverb · Absicht",
+      "explanation": "Her words: „Ich will später kommen.“ The indicative *will* has a different vowel, but the Konjunktiv I is built from the infinitive: *woll-* + -e → **wolle**. The Präteritum *wollte* would not be clear, because it is also the Konjunktiv II form.",
+      "pattern": "sie + **wolle** + … + Infinitiv",
+      "mistake": {"wrong": "Sie sagte, sie wille später kommen.", "why": "*wille* mixes the indicative stem *will* with the Konjunktiv ending. The Konjunktiv I starts from the infinitive *wollen*: *wolle*."},
+      "examples": [
+        {"de": "Der Investor sagte, er wolle das Unternehmen nicht verkaufen.", "en": "The investor said he did not want to sell the company."},
+        {"de": "Die Autorin sagte, sie wolle als Nächstes einen Krimi schreiben.", "en": "The author said she wanted to write a crime novel next."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Er erzählte, er {{c1::sei::haben/sein}} in Italien gewesen.",
+      "en": "He told us he had been in Italy.",
+      "focus": "Konjunktiv I · Vergangenheit · Hilfsverb",
+      "explanation": "*sein* forms its Perfekt with itself: *ich bin gewesen*. So the past Konjunktiv I contains *sein* twice: **sei** … *gewesen*. The original could be „Ich war in Italien.“ or „Ich bin in Italien gewesen.“",
+      "pattern": "er + **sei** + Ort + gewesen",
+      "mistake": {"wrong": "Er erzählte, er habe in Italien gewesen.", "why": "*sein* never takes *haben* as its auxiliary: *ich bin gewesen* → *er sei gewesen*."},
+      "examples": [
+        {"de": "Die Studentin erzählte, sie sei ein Jahr in Kanada gewesen.", "en": "The student said she had spent a year in Canada."},
+        {"de": "Der Nachbar erzählte, er sei früher Lehrer gewesen.", "en": "The neighbour said he had been a teacher in the past."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Die Zeitung berichtet, der Präsident {{c1::habe::haben/sein}} eine Rede gehalten.",
+      "en": "The newspaper reports that the president gave a speech.",
+      "focus": "Konjunktiv I · Vergangenheit · Pressebericht",
+      "explanation": "The newspaper reports a past event: „Der Präsident hat eine Rede gehalten.“ *eine Rede halten* has an Akkusativ object and takes *haben*, so → **habe** + *gehalten*. The reporting verb *berichtet* is in the present, but that has no effect on the form in the reported clause.",
+      "pattern": "Subjekt + **habe** + Akk. + Partizip II",
+      "mistake": {"wrong": "Die Zeitung berichtet, der Präsident sei eine Rede gehalten.", "why": "*eine Rede halten* has an Akkusativ object and takes *haben*: *er hat eine Rede gehalten* → *er habe … gehalten*."},
+      "examples": [
+        {"de": "Der Sender berichtet, die Ministerpräsidentin habe ein Abkommen unterzeichnet.", "en": "The broadcaster reports that the state premier signed an agreement."},
+        {"de": "Die Agentur berichtet, der Konzern habe tausend Stellen gestrichen.", "en": "The agency reports that the corporation has cut a thousand jobs."}
+      ],
+      "words": [],
+      "production_cue": "(news style, Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie sagt, sie {{c1::dürfe::dürfen}} nicht darüber sprechen.",
+      "en": "She says she is not allowed to talk about it.",
+      "focus": "Konjunktiv I · Modalverb · Erlaubnis",
+      "explanation": "Her words: „Ich darf nicht darüber sprechen.“ The indicative singular has the stem *darf-*, but the Konjunktiv I uses the infinitive: *dürf-* + -e → **dürfe**. *darüber* refers back to the topic and stands in the Mittelfeld.",
+      "pattern": "sie + **dürfe** + nicht + Präpositionaladverb + Infinitiv",
+      "mistake": {"wrong": "Sie sagt, sie darfe nicht darüber sprechen.", "why": "*darfe* mixes the indicative stem *darf* with the Konjunktiv ending. Start from the infinitive *dürfen* → *dürfe*."},
+      "examples": [
+        {"de": "Der Arzt sagt, er dürfe keine Auskunft über Patienten geben.", "en": "The doctor says he is not allowed to give out information about patients."},
+        {"de": "Die Sprecherin sagt, sie dürfe sich zu laufenden Verfahren nicht äußern.", "en": "The spokeswoman says she is not allowed to comment on ongoing proceedings."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Wir haben dem Vermieter geschrieben, wir {{c1::seien::sein}} mit der Mieterhöhung nicht einverstanden.",
+      "en": "We wrote to the landlord that we did not agree to the rent increase.",
+      "focus": "Konjunktiv I · 1. Person Plural",
+      "explanation": "Reported speech also works for your own earlier words: „Wir sind nicht einverstanden.“ For most verbs the *wir*-form of the Konjunktiv I equals the indicative, but *sein* has its own form in every person: *wir sind* → *wir* **seien**. So no Konjunktiv II is needed.",
+      "pattern": "wir + **seien** + mit + Dat. + einverstanden",
+      "mistake": {"wrong": "Wir haben dem Vermieter geschrieben, wir seid mit der Mieterhöhung nicht einverstanden.", "why": "*seid* is the indicative *ihr*-form. The Konjunktiv I of *sein* for *wir* is *seien*."},
+      "examples": [
+        {"de": "Wir haben der Bank mitgeteilt, wir seien umgezogen.", "en": "We informed the bank that we had moved."},
+        {"de": "Wir erklärten dem Personal, wir seien Freunde der Patientin.", "en": "We explained to the staff that we were friends of the patient."}
+      ],
+      "words": [{"de": "die Mieterhöhung (-en)", "en": "rent increase"}, {"de": "einverstanden sein (mit + Dat.)", "en": "to agree (to)"}],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Chefin sagte zu mir, ich {{c1::sei::sein}} die Richtige für das Projekt.",
+      "en": "The boss told me I was the right person for the project.",
+      "focus": "Konjunktiv I · 1. Person Singular · Perspektivwechsel",
+      "explanation": "Her words were „Sie sind die Richtige für das Projekt.“ (formal *Sie*, addressed to me). In the report the person addressed is the reporter, so *Sie* becomes *ich*. *sein* has a clear Konjunktiv I for *ich* as well: **sei** (indicative *ich bin*).",
+      "pattern": "sagen zu + Dat., ich + **sei** + Nomen (Nom.)",
+      "mistake": {"wrong": "Die Chefin sagte zu mir, Sie seien die Richtige für das Projekt.", "why": "The pronoun must change to the reporter's point of view. The original *Sie* meant me, so in the report it is *ich sei*."},
+      "examples": [
+        {"de": "Der Professor sagte zu mir, ich sei gut vorbereitet.", "en": "The professor told me I was well prepared."},
+        {"de": "Meine Ärztin sagte zu mir, ich sei völlig gesund.", "en": "My doctor told me I was perfectly healthy."}
+      ],
+      "words": [{"de": "der/die Richtige (adj. Nomen)", "en": "the right person"}],
+      "production_cue": "(Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Ministerium teilte mit, die Brücke {{c1::werde::werden}} ab Mai saniert.",
+      "en": "The ministry announced that the bridge would be renovated from May.",
+      "focus": "Konjunktiv I · Passiv · Gegenwart",
+      "explanation": "The original is the Präsens Passiv: „Die Brücke wird ab Mai saniert.“ The passive auxiliary goes into the Konjunktiv I: **werde**, and the Partizip II *saniert* stays at the end. As in the indicative, the present passive can refer to the future (*ab Mai*).",
+      "pattern": "Subjekt + **werde** + … + Partizip II (Passiv)",
+      "mistake": {"wrong": "Das Ministerium teilte mit, die Brücke werde ab Mai sanieren.", "why": "With the infinitive *sanieren* the sentence becomes active Futur and says that the bridge itself will renovate something. The passive needs the Partizip II: *werde … saniert*."},
+      "examples": [
+        {"de": "Die Stadt teilte mit, der Bahnhof werde komplett umgebaut.", "en": "The city announced that the station would be completely rebuilt."},
+        {"de": "Die Universität teilte mit, das Gebäude werde im Winter nicht geheizt.", "en": "The university announced that the building would not be heated in winter."}
+      ],
+      "words": [{"de": "sanieren", "en": "to renovate, to refurbish"}],
+      "production_cue": "(Konjunktiv I, passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "In dem Bericht heißt es, die Daten {{c1::seien::haben/sein}} manipuliert worden.",
+      "en": "The report says that the data had been manipulated.",
+      "focus": "Konjunktiv I · Passiv Vergangenheit · Plural",
+      "explanation": "*es heißt* (it says, it is stated) introduces reported speech without a person as speaker. *die Daten* is plural, and the Perfekt Passiv uses *sein*: *sind manipuliert worden* → **seien** manipuliert worden. *seien* is clear in the plural, so no Konjunktiv II is needed.",
+      "pattern": "es heißt, Subjekt (Pl.) + **seien** + Partizip II + worden",
+      "mistake": {"wrong": "In dem Bericht heißt es, die Daten sei manipuliert worden.", "why": "*die Daten* is a plural noun, so the auxiliary must be plural too: *seien*, not *sei*."},
+      "examples": [
+        {"de": "In der Erklärung heißt es, die Verträge seien gekündigt worden.", "en": "The statement says the contracts had been terminated."},
+        {"de": "Im Polizeibericht heißt es, zwei Personen seien leicht verletzt worden.", "en": "The police report says two people were slightly injured."}
+      ],
+      "words": [{"de": "es heißt", "en": "it says, it is stated"}],
+      "production_cue": "(Konjunktiv I, passive, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Der Pilot erklärte, er {{c1::habe::haben/sein}} wegen des Nebels nicht landen können.",
+      "en": "The pilot explained that he had not been able to land because of the fog.",
+      "focus": "Konjunktiv I · Vergangenheit · Modalverb + Infinitiv",
+      "explanation": "Original: „Ich konnte wegen des Nebels nicht landen.“ The past of a modal verb with another infinitive is *haben* + infinitive + modal infinitive (Ersatzinfinitiv), so in reported speech: **habe** … *landen können*. *landen* alone would take *sein*, but the auxiliary here belongs to *können*, which always takes *haben*.",
+      "pattern": "er + **habe** + … + Infinitiv + Modalverb (Infinitiv)",
+      "mistake": {"wrong": "Der Pilot erklärte, er habe wegen des Nebels nicht landen gekonnt.", "why": "When a modal verb has another infinitive, its Perfekt uses the infinitive *können*, not the participle *gekonnt* (Ersatzinfinitiv): *habe … landen können*."},
+      "examples": [
+        {"de": "Die Firma erklärte, sie habe die Frist nicht einhalten können.", "en": "The company explained that it had not been able to meet the deadline."},
+        {"de": "Die Zeugin erklärte, sie habe den Raum nicht verlassen dürfen.", "en": "The witness explained that she had not been allowed to leave the room."}
+      ],
+      "words": [{"de": "der Nebel", "en": "fog"}],
+      "production_cue": "(Konjunktiv I, past, with können)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Viele Mieter klagen, sie {{c1::bekämen::bekommen}} keine Antwort von der Hausverwaltung.",
+      "en": "Many tenants complain that they get no answer from the property management.",
+      "focus": "Ersatzform · starkes Verb · Plural",
+      "explanation": "The original is „Wir bekommen keine Antwort.“ The Konjunktiv I *sie bekommen* equals the indicative, so it is replaced by the Konjunktiv II. Strong verbs form it from the Präteritum stem with umlaut: *bekam-* → **bekämen**, clearly different from the Präteritum *bekamen*.",
+      "pattern": "sie (Pl.) + Konj. II (starkes Verb) + Akk.",
+      "mistake": {"wrong": "Viele Mieter klagen, sie bekomme keine Antwort von der Hausverwaltung.", "why": "*sie bekomme* would mean that one woman gets no answer. The tenants speak about themselves („Wir bekommen …“), so *sie* means *they* and the verb must be plural. The plural Konjunktiv I *bekommen* is unclear, so use the Konjunktiv II *bekämen*."},
+      "examples": [
+        {"de": "Die Pflegekräfte klagen, sie bekämen zu wenig Anerkennung.", "en": "The care workers complain that they get too little recognition."},
+        {"de": "Viele Eltern sagen, sie fänden keinen Kitaplatz.", "en": "Many parents say they cannot find a nursery place."}
+      ],
+      "words": [{"de": "die Hausverwaltung (-en)", "en": "property management"}],
+      "production_cue": "(reported speech, clear form)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Gewerkschaften warnen, die Reformen {{c1::würden::werden → Konj. II}} vor allem Geringverdiener belasten.",
+      "en": "The unions warn that the reforms will mainly put a burden on low earners.",
+      "focus": "Ersatzform · *würde*-Form · Plural",
+      "explanation": "The warning is „Die Reformen belasten vor allem Geringverdiener.“ The Konjunktiv I *sie belasten* equals the indicative, and the Konjunktiv II *sie belasteten* equals the Präteritum. When both are unclear, use **würden** + infinitive: *würden … belasten*.",
+      "pattern": "Subjekt (Pl.) + **würden** + … + Infinitiv",
+      "mistake": {"wrong": "Die Gewerkschaften warnen, die Reformen werde vor allem Geringverdiener belasten.", "why": "*werde* is singular and does not fit *die Reformen*. The plural *werden* would equal the indicative, so the clear replacement is *würden*."},
+      "examples": [
+        {"de": "Kritiker warnen, die neuen Regeln würden kleine Betriebe benachteiligen.", "en": "Critics warn that the new rules will put small businesses at a disadvantage."},
+        {"de": "Die Anwohner fürchten, die Bauarbeiten würden monatelang dauern.", "en": "The residents fear the construction work will last for months."}
+      ],
+      "words": [{"de": "der Geringverdiener (-)", "en": "low earner"}, {"de": "belasten", "en": "to burden"}],
+      "production_cue": "(reported speech, würde-Form)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Minister sprach von einem Erfolg. Man {{c1::habe::haben/sein}} alle Ziele erreicht.",
+      "en": "The minister spoke of a success: they had reached all their goals, he said.",
+      "focus": "Berichtete Rede · ohne Redeeinleitung",
+      "explanation": "The second sentence has no *sagte* and no *dass*, but the Konjunktiv I **habe** shows that it is still the minister's statement. News texts often report several sentences this way. *man* is 3rd person singular, and *erreichen* takes *haben* → *man habe … erreicht*.",
+      "pattern": "Satz 1 (Indikativ). Satz 2 mit **Konj. I** (ohne *sagte*)",
+      "mistake": {"wrong": "Der Minister sprach von einem Erfolg. Man hat alle Ziele erreicht.", "why": "Without a reporting verb the indicative *hat* turns the second sentence into the journalist's own statement of fact. Only the Konjunktiv I *habe* keeps it as the minister's claim."},
+      "examples": [
+        {"de": "Die Sprecherin wies die Vorwürfe zurück. Das Unternehmen habe immer korrekt gehandelt.", "en": "The spokeswoman rejected the accusations: the company had always acted correctly, she said."},
+        {"de": "Der Trainer war zufrieden. Die Mannschaft habe gut gekämpft.", "en": "The coach was satisfied: the team had fought well, he said."}
+      ],
+      "words": [{"de": "das Ziel (-e)", "en": "goal, target"}],
+      "production_cue": "(news style, no reporting verb in the second sentence)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Ärztin sagte, ich {{c1::solle::sollen}} mich ein paar Tage schonen.",
+      "en": "The doctor told me to take it easy for a few days.",
+      "focus": "Indirekte Aufforderung · Imperativ im Bericht",
+      "explanation": "The original is an imperative: „Schonen Sie sich ein paar Tage!“ An imperative cannot stay in reported speech, so it is expressed with *sollen*: Konjunktiv I *ich* **solle** (indicative *ich soll*). The infinitive *schonen* goes to the end, and the reflexive pronoun changes to *mich*.",
+      "pattern": "Imperativ → Subjekt + **solle** + … + Infinitiv",
+      "mistake": {"wrong": "Die Ärztin sagte, schonen Sie sich ein paar Tage.", "why": "The imperative only works in direct speech with quotation marks. In reported speech it becomes *sollen* + infinitive: *ich solle mich … schonen*."},
+      "examples": [
+        {"de": "Mein Vater sagte, ich solle vorsichtig fahren.", "en": "My father told me to drive carefully."},
+        {"de": "Der Polizist sagte, der Fahrer solle sofort anhalten.", "en": "The police officer said the driver was to stop immediately."}
+      ],
+      "words": [{"de": "sich schonen", "en": "to take it easy, to rest"}],
+      "production_cue": "(reported command)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Journalistin wollte wissen, warum die Regierung so lange gewartet {{c1::habe::haben/sein}}.",
+      "en": "The journalist wanted to know why the government had waited so long.",
+      "focus": "Indirekte W-Frage · Vergangenheit · Verb am Ende",
+      "explanation": "The question was „Warum hat die Regierung so lange gewartet?“ The question word *warum* stays and sends the finite verb to the end: *gewartet* **habe**. *warten* takes *haben*, and the 3rd person singular Konjunktiv I is *habe*.",
+      "pattern": "wissen wollen, W-Wort + … + Partizip II + **habe**",
+      "mistake": {"wrong": "Die Journalistin wollte wissen, warum hat die Regierung so lange gewartet.", "why": "An indirect question is a Nebensatz: the finite verb goes to the end (*gewartet habe*). Verb-second order belongs to the direct question."},
+      "examples": [
+        {"de": "Der Richter fragte, wann der Zeuge das Haus verlassen habe.", "en": "The judge asked when the witness had left the house."},
+        {"de": "Die Kommission wollte wissen, wie viel das Projekt gekostet habe.", "en": "The commission wanted to know how much the project had cost."}
+      ],
+      "words": [],
+      "production_cue": "(reported question, Konjunktiv I, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Man {{c1::nehme::nehmen}} 200 Gramm Mehl und zwei Eier.",
+      "en": "Take 200 grams of flour and two eggs.",
+      "focus": "Konjunktiv I · Anleitung · Subjekt *man*",
+      "explanation": "Outside reported speech, the Konjunktiv I with *man* gives an instruction, typically in traditional recipes and formal instructions. The form is regular: infinitive stem *nehm-* + **-e** → **nehme**, without the vowel change of *man nimmt*. Modern recipes mostly use the infinitive (*200 Gramm Mehl nehmen*) instead.",
+      "pattern": "Man + Stamm-**e** + Akk. (Anleitung)",
+      "mistake": {"wrong": "Man nimm 200 Gramm Mehl und zwei Eier.", "why": "*nimm* is the *du*-imperative and cannot have the subject *man*. The instruction form with *man* is the Konjunktiv I *nehme*, built from the infinitive stem."},
+      "examples": [
+        {"de": "Man gebe einen Esslöffel Zucker dazu.", "en": "Add a tablespoon of sugar."},
+        {"de": "Man lasse den Teig eine Stunde ruhen.", "en": "Let the dough rest for an hour."}
+      ],
+      "words": [{"de": "das Mehl", "en": "flour"}],
+      "production_cue": "(traditional recipe style with man)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Sängerin erzählte, sie {{c1::sei::haben/sein}} erst mit dreißig berühmt geworden.",
+      "en": "The singer said she had only become famous at thirty.",
+      "focus": "Konjunktiv I · Vergangenheit · Vollverb (to become)",
+      "explanation": "Here *werden* is a full verb (*berühmt werden* = to become famous). Its Perfekt uses *sein* and the participle *geworden*: *ich bin berühmt geworden*. In reported speech: **sei** … *geworden*.",
+      "pattern": "sie + **sei** + … + Adjektiv + geworden",
+      "mistake": {"wrong": "Die Sängerin erzählte, sie sei erst mit dreißig berühmt worden.", "why": "*worden* (without *ge-*) is only the passive auxiliary. The full verb *werden* has the participle *geworden*: *sei berühmt geworden*."},
+      "examples": [
+        {"de": "Der Gründer erzählte, er sei mit 25 Millionär geworden.", "en": "The founder said he had become a millionaire at 25."},
+        {"de": "Die Ärztin erzählte, sie sei während der Pandemie oft krank geworden.", "en": "The doctor said she had often fallen ill during the pandemic."}
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, past)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about clear and unclear Konjunktiv I forms.",
+      "prompt": "Which Konjunktiv I forms are clearly different from the indicative, and which are not?",
+      "answer": "Always clear: the **3rd person singular** of every verb (*er komme, er habe*), the *du*/*ihr* forms (*du kommest, ihr kommet*) and **all forms of *sein***. The *ich*-form is clear only for *sein*, the modal verbs and *wissen* (*ich sei, ich müsse, ich wisse*). The **plural** (*wir/sie kommen, haben*) equals the indicative.",
+      "explanation": "Unclear forms are replaced: first by the Konjunktiv II (*sie hätten, wir kämen*), and by *würde* + infinitive if the Konjunktiv II equals the Präteritum (*sie würden arbeiten*). The *du*/*ihr* forms are clear but sound very formal, so in speech they are often replaced by the Konjunktiv II too (*du hättest, ihr wärt*).",
+      "examples": [
+        {"de": "Die Ministerin sagt, ich müsse mich gedulden.", "en": "The minister says I have to be patient."},
+        {"de": "Die Forscher sagen, sie hätten einen neuen Wirkstoff entdeckt.", "en": "The researchers say they have discovered a new active substance."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about time levels and the passive.",
+      "prompt": "Name the three time levels of the Konjunktiv I in the active and in the passive (example: *bauen*, 3rd person singular).",
+      "answer": "Gegenwart: *er **baue*** / *es **werde** gebaut*. Vergangenheit: *er **habe** gebaut* / *es **sei** gebaut **worden***. Zukunft: *er **werde** bauen* / *es **werde** gebaut werden*.",
+      "explanation": "The Konjunktiv I has only these three time levels; all past tenses of the original collapse into one past form. The passive past always uses *sei* + Partizip II + *worden*, even when the active verb takes *haben*.",
+      "examples": [
+        {"de": "Die Gemeinde teilt mit, die Schule werde erweitert.", "en": "The municipality announces that the school will be extended."},
+        {"de": "Die Gemeinde teilt mit, die Schule sei 1970 gebaut worden.", "en": "The municipality states that the school was built in 1970."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the two participles of *werden*.",
+      "prompt": "When do you write *sei … geworden* and when *sei … worden*?",
+      "answer": "***geworden*** is the participle of the full verb *werden* (to become): *er sei krank geworden*. ***worden*** is the participle of the passive auxiliary: *er sei operiert worden*.",
+      "explanation": "Test: if there is another Partizip II right before it (*operiert, gebaut*), it is the passive → *worden*. If there is an adjective or noun (*krank, Arzt*), *werden* means *become* → *geworden*. Both take *sein*.",
+      "examples": [
+        {"de": "Der Spieler sagte, er sei am Knie operiert worden.", "en": "The player said he had had knee surgery."},
+        {"de": "Die Moderatorin sagte, sie sei vor Aufregung ganz blass geworden.", "en": "The presenter said she had gone quite pale with excitement."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about modal verbs in the past.",
+      "prompt": "How do you report a past statement with a modal verb, e.g. „Ich musste lange warten.“?",
+      "answer": "**habe** + infinitive + modal verb in the **infinitive** (Ersatzinfinitiv): *er **habe** lange warten **müssen***. Without another verb, the normal participle is used: *er habe es nicht **gewollt***.",
+      "explanation": "Modal verbs always take *haben*, even if the main verb takes *sein* (*er habe nicht kommen können*). In a *dass*-clause *habe* moves before the two infinitives: *dass er lange habe warten müssen*.",
+      "examples": [
+        {"de": "Die Reisende sagt, sie habe drei Stunden am Flughafen warten müssen.", "en": "The traveller says she had to wait at the airport for three hours."},
+        {"de": "Er beschwerte sich, dass er lange habe warten müssen.", "en": "He complained that he had had to wait a long time."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about reported commands and requests.",
+      "prompt": "How do you report an imperative such as „Warten Sie hier!“ or „Bitte warten Sie hier.“?",
+      "answer": "A command → ***sollen***: *Er sagte, ich **solle** hier warten.* A polite request → ***mögen*** (formal): *Er bat, ich **möge** hier warten.*",
+      "explanation": "The imperative has no reported form, so a modal verb carries the meaning. *möge* sounds formal and polite and is typical of written reports and minutes. In the plural, *sollen* is replaced by *sollten*, because *sie sollen* equals the indicative.",
+      "examples": [
+        {"de": "Die Schaffnerin sagte, wir sollten im Zug bleiben.", "en": "The conductor told us to stay on the train."},
+        {"de": "Der Vorsitzende bat, man möge sich kurz fassen.", "en": "The chairman asked people to keep it brief."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*. Use clear forms.",
+      "prompt": "Die Ärzte warnen: „Wir haben zu wenig Personal, und die Patienten warten zu lange.“",
+      "answer": "Die Ärzte warnen, sie hätten zu wenig Personal, und die Patienten würden zu lange warten.",
+      "explanation": "*wir* becomes *sie*. Both verbs are plural: *sie haben* equals the indicative → Konjunktiv II *hätten*; *sie warten* equals the indicative and *warteten* equals the Präteritum → *würden … warten*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*.",
+      "prompt": "Der Stadtführer sagt: „Das Rathaus wurde 1912 errichtet.“",
+      "answer": "Der Stadtführer sagt, das Rathaus sei 1912 errichtet worden.",
+      "explanation": "The original is a Präteritum Passiv. Every past tense becomes the one past form, and the passive past is *sei* + Partizip II + *worden*: *sei … errichtet worden*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*.",
+      "prompt": "Der Architekt sagt: „Ich konnte die Pläne nicht rechtzeitig fertigstellen.“",
+      "answer": "Der Architekt sagt, er habe die Pläne nicht rechtzeitig fertigstellen können.",
+      "explanation": "*konnte* is a past form of a modal verb with another infinitive. In reported speech: *habe* + *fertigstellen* + *können* (Ersatzinfinitiv), with both infinitives at the end."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the reported speech as direct speech with a colon and quotation marks.",
+      "prompt": "Die Ministerin erklärte, sie werde nicht zurücktreten.",
+      "answer": "Die Ministerin erklärte: „Ich werde nicht zurücktreten.“",
+      "explanation": "In direct speech the minister speaks about herself, so *sie* becomes *ich*, and the Konjunktiv I *werde* becomes the indicative *werde* (for *ich* both forms are the same). The comma is replaced by a colon and quotation marks."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Change the command into reported speech with a modal verb (no *dass*).",
+      "prompt": "Die Polizei sagte den Anwohnern: „Bleiben Sie in Ihren Häusern!“",
+      "answer": "Die Polizei sagte den Anwohnern, sie sollten in ihren Häusern bleiben.",
+      "explanation": "An imperative becomes *sollen* + infinitive. The addressees are plural, and *sie sollen* equals the indicative, so the Konjunktiv II *sollten* is used. *Ihren* (formal *Sie*) becomes *ihren* (their)."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Sprecherin sagte, die Straße sei wegen des Unfalls gesperrt geworden.",
+      "answer": "Die Sprecherin sagte, die Straße sei wegen des Unfalls gesperrt worden.",
+      "explanation": "*gesperrt* is a Partizip II, so this is a passive. The passive auxiliary has the participle *worden*, not *geworden*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Trainer sagte, die Mannschaft habe sehr gut gespielt und sei verdient gewonnen.",
+      "answer": "Der Trainer sagte, die Mannschaft habe sehr gut gespielt und habe verdient gewonnen.",
+      "explanation": "*gewinnen* forms its Perfekt with *haben* (*sie hat gewonnen*), so the Konjunktiv I auxiliary is *habe*, not *sei*. It is also possible to leave out the second *habe*: *… habe sehr gut gespielt und verdient gewonnen*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Zeitung schreibt, der Schauspieler seie schwer erkrankt.",
+      "answer": "Die Zeitung schreibt, der Schauspieler sei schwer erkrankt.",
+      "explanation": "*seie* does not exist; the Konjunktiv I of *sein* in the 3rd person singular is *sei*. *erkranken* takes *sein* in the Perfekt, so *sei … erkrankt* is the correct past form."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "The authority's words were: „Die Anträge werden bis Ende Mai bearbeitet.“ Choose the correct form for a formal report.",
+      "prompt": "Die Behörde teilte mit, die Anträge ___ bis Ende Mai bearbeitet.",
+      "options": ["werde", "würden", "wurden"],
+      "correct": "würden",
+      "answer": "Die Behörde teilte mit, die Anträge würden bis Ende Mai bearbeitet.",
+      "explanation": "*die Anträge* is plural, and the present passive Konjunktiv I *sie werden bearbeitet* equals the indicative, so *würden* replaces it. *werde* is singular. *wurden* is the Präteritum indicative: it would change the time of the original statement (*were* processed) and would not mark it as reported speech."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Der Sprecher sagte, der Minister ___ von dem Plan nichts gewusst.",
+      "options": ["sei", "habe", "werde"],
+      "correct": "habe",
+      "answer": "Der Sprecher sagte, der Minister habe von dem Plan nichts gewusst.",
+      "explanation": "*wissen* forms its Perfekt with *haben*, so the past Konjunktiv I is *habe … gewusst*. *sei* is for *sein*-verbs and the passive. *werde* + Partizip II would be a passive (*werde gewusst*), which makes no sense here."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct form for a polite reported request.",
+      "prompt": "Die Organisatoren baten, man ___ pünktlich erscheinen.",
+      "options": ["möge", "mag", "möchten"],
+      "correct": "möge",
+      "answer": "Die Organisatoren baten, man möge pünktlich erscheinen.",
+      "explanation": "A polite request in reported speech uses the Konjunktiv I of *mögen*: *man möge*. *mag* is the indicative and means *likes*. *möchten* is plural and does not fit *man*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Unternehmer",
+      "prompt": "erklärte, / der Unternehmer / er / habe / den Vertrag / nie / unterschreiben / wollen",
+      "answer": "Der Unternehmer erklärte, er habe den Vertrag nie unterschreiben wollen.",
+      "explanation": "Without *dass* the reported clause has verb-second order: *er habe*. The object and *nie* fill the Mittelfeld, and the two infinitives stand at the end: main verb first, modal verb last (*unterschreiben wollen*). Also correct, with the object in first position: *Der Unternehmer erklärte, den Vertrag habe er nie unterschreiben wollen.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Zeitung",
+      "prompt": "berichtet, / die Zeitung / dass / der Bürgermeister / wiedergewählt / worden / sei",
+      "answer": "Die Zeitung berichtet, dass der Bürgermeister wiedergewählt worden sei.",
+      "explanation": "After *dass* the verbs go to the end in the order Partizip II – *worden* – finite auxiliary: *wiedergewählt worden sei*. This is the passive past in the Konjunktiv I."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Report both sentences as the minister's words in one sentence. Start with *Die Ministerin sagte, …* and join the clauses with *und*.",
+      "prompt": "Die Lage ist ernst. Die Regierung muss sofort handeln.",
+      "answer": "Die Ministerin sagte, die Lage sei ernst und die Regierung müsse sofort handeln.",
+      "explanation": "Both clauses are reported with verb-second order and the Konjunktiv I: *ist* → *sei*, *muss* → *müsse* (stem of *müssen* with umlaut). *und* joins two main clauses, so no comma is needed before it."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence that starts with *Der Kunde fragt, …*. Report the question with the Konjunktiv I.",
+      "prompt": "Der Kunde hat eine Frage. „Wann wurde das Paket verschickt?“",
+      "answer": "Der Kunde fragt, wann das Paket verschickt worden sei.",
+      "explanation": "The question word *wann* stays and sends the verbs to the end. *wurde verschickt* is a Präteritum Passiv, so the reported form is the passive past: *verschickt worden sei*."
+    }
+  ]
+}

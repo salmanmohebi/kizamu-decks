@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-05",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "zero-article-with-abstract-nouns-happiness-is",
+      "term": "zero article with abstract nouns: Happiness is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Abstract nouns used in a general sense take no article (*Happiness is …*, *Life is short*); *the* appears when the noun is made specific (*the happiness of children*).",
+      "usage": "A very common error for learners whose languages use an article here, such as French, Spanish, German or Greek. The noun becomes specific through an *of*-phrase, a relative clause or the context (*the history of Japan*, *the life she wanted*). Some general nouns usually keep *the* in fixed uses: *the environment*, *the economy*, *the future*.",
+      "pattern": "Ø + abstract noun (general) / the + abstract noun + of-phrase or clause (specific)",
+      "examples": [
+        "**Patience** isn't one of my strengths, especially in traffic.",
+        "They say **money** can't buy **happiness**, but it certainly helps with the rent.",
+        "**Trust** takes years to build and only seconds to lose."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The history}} of this old building is more interesting than you'd think.",
+        "hint": "General or specific? Complete with history: ___ of this old building is more interesting than you'd think."
+      },
+      "mistake": {
+        "wrong": "The life is too short to stay angry.",
+        "right": "Life is too short to stay angry.",
+        "why": "In a general statement, an abstract noun takes no article."
+      }
+    },
+    {
+      "id": "generic-plural-without-the-dogs-are-loyal",
+      "term": "generic plural without the: Dogs are loyal",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A plural noun with no article talks about a whole class in general: *Dogs are loyal* means dogs in general; *The dogs are loyal* means particular dogs.",
+      "usage": "The most common way to make general statements in both speech and writing. Adding *the* makes the noun refer to a group the listener can identify (*The dogs next door bark all night*). Uncountable nouns work the same way (*Coffee keeps me awake*).",
+      "pattern": "Ø + plural noun (general) / the + plural noun (specific group)",
+      "examples": [
+        "**Cats** are generally much more independent than **dogs**.",
+        "**Teenagers** need more sleep than most parents realize.",
+        "I've never really been into **horror movies**, even as a teenager."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Bees}} are essential for growing fruit and vegetables.",
+        "hint": "Correct the article for a general statement: The bees are essential for growing fruit and vegetables."
+      },
+      "mistake": {
+        "wrong": "The women live longer than the men on average.",
+        "right": "Women live longer than men on average.",
+        "why": "In a general statement, a plural noun takes no article; *the women* would mean a specific group."
+      }
+    },
+    {
+      "id": "a-number-of-vs-the-number-of",
+      "term": "a number of vs. the number of",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A number of* + plural noun means *several* or *many* and takes a plural verb; *the number of* + plural noun refers to the number itself and takes a singular verb.",
+      "usage": "Common in news, reports and conversation. *A number of* is a slightly vague, polite way to say *several* (*A number of people have asked …*). With *the number of*, the verb agrees with *number*: *The number of cases is rising*.",
+      "pattern": "a number of + plural noun + plural verb / the number of + plural noun + singular verb",
+      "examples": [
+        "**A number of** neighbors **have** complained about the noise from the new bar.",
+        "**The number of** cars on our street **has** doubled since the new school opened.",
+        "**A growing number of** young families **are** choosing to rent instead of buy."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "A number of parents {{have}} asked the school to start classes later.",
+        "hint": "Choose has or have: A number of parents ___ asked the school to start classes later."
+      },
+      "mistake": {
+        "wrong": "The number of accidents are increasing.",
+        "right": "The number of accidents is increasing.",
+        "why": "The subject is *number*, so the verb is singular; only *a number of* takes a plural verb."
+      }
+    },
+    {
+      "id": "singular-they-someone-left-their-phone",
+      "term": "singular they: Someone left their phone",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*They, them, their* can refer to one person whose gender is unknown or not important, or to a person who uses *they* as their pronoun: *Someone left their phone.*",
+      "usage": "Normal in speech for centuries and now accepted in writing by major American style guides such as AP and APA. It is much smoother than *he or she*. The verb stays plural even for one person (*they are*, *they were*).",
+      "pattern": "someone / anyone / every + noun / a person … + they / them / their (+ plural verb)",
+      "examples": [
+        "Someone left **their** umbrella in the break room.",
+        "If a customer complains, **they** usually get a free dessert.",
+        "Alex said **they're** running late, so let's start without **them**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Every guest should bring {{their}} own towel to the pool party.",
+        "hint": "Replace his or her: Every guest should bring his or her own towel to the pool party."
+      },
+      "mistake": {
+        "wrong": "Ask the new student if they has a laptop.",
+        "right": "Ask the new student if they have a laptop.",
+        "why": "Singular *they* still takes a plural verb: *they have*, *they are*, *they were*."
+      }
+    },
+    {
+      "id": "collective-nouns-in-american-english-the-team-is",
+      "term": "collective nouns in American English: The team is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In American English, collective nouns like *team, family, company, staff* and *band* usually take a singular verb (*The team is …*); British English often uses a plural verb (*The team are …*).",
+      "usage": "American editors and most speakers treat the group as one unit (*The committee has decided*). A later pronoun is often *they*, even in US English (*The team is happy with their result*), although editors prefer *its*. Some nouns are always plural (*the police are*), and plural team names take plural verbs (*the Yankees are*).",
+      "pattern": "the team / family / company / staff / band + is / has (US)",
+      "examples": [
+        "**The team is** playing its last home game of the season tonight.",
+        "**My family has** lived in this town for four generations.",
+        "**The company is** cutting jobs again, so everyone's nervous."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The band {{is}} going on tour across the Midwest next spring.",
+        "hint": "Use American agreement: The band ___ going on tour across the Midwest next spring."
+      },
+      "mistake": {
+        "wrong": "The police is investigating the robbery.",
+        "right": "The police are investigating the robbery.",
+        "why": "*Police* is always plural, in American English too; the singular verb is for nouns like *team* and *family*."
+      }
+    },
+    {
+      "id": "uncountable-nouns-research-feedback-advice-no-plural",
+      "term": "uncountable nouns: research, feedback, advice (no plural)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Nouns like *research, feedback, advice, information, equipment, furniture* and *luggage* are uncountable in English: they take no plural *-s* and no *a/an*.",
+      "usage": "Use *some, much, a lot of*, or a counting word: *a piece of advice*, *a study* (for one piece of research), *a comment* (for one piece of feedback). Many of these nouns are countable in other languages, so learners from many backgrounds add *-s*. The verb is singular (*The feedback was helpful*).",
+      "pattern": "Ø / some / much / a lot of + advice / feedback / research / information + singular verb; a piece of + noun",
+      "examples": [
+        "My grandfather gave me one great piece of **advice**: never sign anything you haven't read.",
+        "Thanks for the **feedback** on my presentation; it was really helpful.",
+        "How much **luggage** are you bringing on the trip?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Can you give me some {{advice}} on buying a used car?",
+        "hint": "Correct the noun: Can you give me some advices on buying a used car?"
+      },
+      "mistake": {
+        "wrong": "We got many feedbacks from our customers.",
+        "right": "We got a lot of feedback from our customers.",
+        "why": "*Feedback* is uncountable: no plural and no *many*; use *a lot of* or *much*."
+      }
+    },
+    {
+      "id": "most-people-vs-most-of-the-people-vs-the-most",
+      "term": "most people vs. most of the people vs. the most",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Most* + noun means the majority in general (*most people*); *most of the* + noun means the majority of a specific group (*most of the people at the party*); *the most* means the largest amount (*She got the most votes*).",
+      "usage": "*The most of people* and *most of people* are common errors for learners from many languages. *Most of* needs a determiner, a pronoun or a name after it (*most of the, most of my, most of them, most of Texas*). *The most* is a superlative, not a word for a majority.",
+      "pattern": "most + noun (general) / most of + the / my / these + noun (specific) / the most + noun (largest amount)",
+      "examples": [
+        "**Most people** I know would rather text than call.",
+        "**Most of the** guests left before midnight, but a few stayed to help clean up.",
+        "The kid who sold **the most** cookies won a free week at summer camp."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Most of the people}} in my building are retired teachers.",
+        "hint": "Correct the error, keeping of: Most of people in my building are retired teachers."
+      },
+      "mistake": {
+        "wrong": "The most of my friends are married now.",
+        "right": "Most of my friends are married now.",
+        "why": "Use *most of* + *my / the / these* for a majority; *the most* is only for the largest amount."
+      }
+    },
+    {
+      "id": "agreement-with-the-head-noun-the-quality-of-the-products-is",
+      "term": "agreement with the head noun: The quality of the products is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The verb agrees with the head (main) noun of the subject, not with the noun closest to it: *The quality of the products is …*",
+      "usage": "Long subjects with *of*-phrases, relative clauses or other modifiers make this easy to get wrong, for native speakers too. Find the main noun first (*quality*, not *products*). Quantity words like *a lot of*, *the majority of* and fractions are the exception: there, the noun after *of* decides.",
+      "pattern": "head noun + (of / in / with … + other noun) + verb agreeing with the head noun",
+      "examples": [
+        "**The quality** of the photos **is** much better on the new phone.",
+        "**The list** of things I need to do before the trip **keeps** getting longer.",
+        "**One** of my neighbors **has** three German shepherds."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The cost of all these repairs {{is}} higher than the car is worth.",
+        "hint": "Choose is or are: The cost of all these repairs ___ higher than the car is worth."
+      },
+      "mistake": {
+        "wrong": "The price of these shoes are ridiculous.",
+        "right": "The price of these shoes is ridiculous.",
+        "why": "The verb agrees with *price*, not with *shoes*, the noun closest to it."
+      }
+    },
+    {
+      "id": "there-s-plural-noun-in-speech-there-s-a-lot-of-people",
+      "term": "there's + plural noun in speech: There's a lot of people",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In casual speech, many native speakers use *there's* before a plural noun (*There's a lot of people here*, *There's two options*); in writing, *there are* is expected.",
+      "usage": "Extremely common in everyday conversation, especially with *a lot of*, numbers and lists, and most listeners don't notice it. The full form *there is* + plural noun sounds much more wrong than the contraction. In emails, essays and formal talks, use *there are*.",
+      "pattern": "there's + plural noun (casual speech) / there are + plural noun (writing)",
+      "examples": [
+        "**There's a lot of people** waiting outside; I think the doors open at eight.",
+        "Honestly, **there's two ways** we can do this, and neither one is great.",
+        "**There's** some cookies in the jar if you're hungry."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{There are}} three issues we need to discuss before Friday's meeting.",
+        "hint": "Make it suitable for writing: There's three issues we need to discuss before Friday's meeting."
+      },
+      "mistake": {
+        "wrong": "There is many reasons to visit Chicago.",
+        "right": "There are many reasons to visit Chicago.",
+        "why": "The full form *there is* before a plural noun sounds wrong even to native ears; write *there are*."
+      }
+    },
+    {
+      "id": "between-you-and-me-not-i",
+      "term": "between you and me (not I)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a preposition like *between, for, with* or *to*, use object pronouns: *between you and me*, *for Sarah and me*; *between you and I* is a hypercorrection.",
+      "usage": "Many native speakers say *between you and I* or *for John and I*, because they were taught that *me and John* is wrong and now avoid *me* everywhere. It is common even among educated speakers, but editors treat it as an error and many listeners notice it. Quick test: remove the other person (*for me*, not *for I*).",
+      "pattern": "preposition + you / him / her / name + and + me",
+      "examples": [
+        "**Between you and me**, I don't think he's going to last long in that job.",
+        "Thanks for having **my wife and me** over last night.",
+        "Grandma left the lake house to **my brother and me**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The waiter brought a free dessert for Sarah and {{me}}.",
+        "hint": "Correct the pronoun: The waiter brought a free dessert for Sarah and I."
+      },
+      "mistake": {
+        "wrong": "Just between you and I, the party was a disaster.",
+        "right": "Just between you and me, the party was a disaster.",
+        "why": "*Between* is a preposition, so it takes the object form *me*."
+      }
+    },
+    {
+      "id": "pronoun-case-in-compound-subjects-he-and-i-went-not-me-and-h",
+      "term": "pronoun case in compound subjects: He and I went (not me and him)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In a subject, use subject pronouns: *He and I went*, *My sister and I live …*; *Me and him went* is very informal.",
+      "usage": "*Me and him went* is extremely common in casual American speech, but many listeners consider it nonstandard, and it is avoided in writing. Politeness puts *I* last (*my wife and I*). Quick test: remove the other person (*I went*, not *me went*).",
+      "pattern": "he / she / they / name + and + I + verb",
+      "examples": [
+        "**My brother and I** used to fight over the TV remote every night.",
+        "**She and her husband** just bought a small farm in Vermont.",
+        "**He and I** have been friends since kindergarten."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Jake and I}} drove to Nashville for the weekend.",
+        "hint": "Make it correct for writing: Me and Jake drove to Nashville for the weekend."
+      },
+      "mistake": {
+        "wrong": "Him and his wife are moving to Florida next year.",
+        "right": "He and his wife are moving to Florida next year.",
+        "why": "In a subject, use subject pronouns: *he and his wife*, *she and I*."
+      }
+    },
+    {
+      "id": "compound-adjective-with-a-number-a-ten-minute-walk",
+      "term": "compound adjective with a number: a ten-minute walk",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A number + noun used as an adjective before another noun is hyphenated, and the noun stays singular: *a ten-minute walk*, *a three-year-old girl*, *a 40-hour week*.",
+      "usage": "Very common in speech and writing for time, distance, age, money and size. The noun is singular because it acts as an adjective (*a two-hour meeting*, not *a two-hours meeting*); after a verb, the normal plural returns (*The walk takes ten minutes*). Ages follow the same rule: *a five-year-old*, but *She is five years old*.",
+      "pattern": "a + number-noun (singular, hyphenated) + noun",
+      "examples": [
+        "The hotel is a **ten-minute walk** from the beach.",
+        "We just adopted a **two-year-old** rescue dog from the shelter.",
+        "She works **twelve-hour shifts** at the hospital three days a week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "It was an exhausting {{five-hour}} flight, and the baby cried the whole time.",
+        "hint": "Use a compound adjective: The flight lasted five hours and was exhausting, and the baby cried the whole time."
+      },
+      "mistake": {
+        "wrong": "We're planning a two-weeks vacation in Mexico.",
+        "right": "We're planning a two-week vacation in Mexico.",
+        "why": "In a compound adjective before a noun, the noun stays singular."
+      }
+    },
+    {
+      "id": "every-other-every-few-every-other-day",
+      "term": "every other / every few: every other day",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Every other* + singular noun means *every second one*: *every other day* is one day yes, one day no. *Every few* + plural noun means *at short, regular intervals*: *every few minutes*.",
+      "usage": "Common in all registers. Note the number: *every other week* (singular), but *every few weeks* and *every two weeks* (plural). *Every other* can also mean *all the others* (*Every other kid in class has a phone*), so the context decides.",
+      "pattern": "every other + singular noun / every few, two, three + plural noun",
+      "examples": [
+        "I run **every other day** and do yoga on the days in between.",
+        "The bus comes **every few minutes** during rush hour.",
+        "We get together with my college roommates **every other summer**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Water the plant {{every other day}} in summer and once a week in winter.",
+        "hint": "Rewrite with every: Water the plant on alternate days in summer and once a week in winter."
+      },
+      "mistake": {
+        "wrong": "My son sees his dad every other weeks.",
+        "right": "My son sees his dad every other week.",
+        "why": "*Every other* takes a singular noun; only *every few* and *every two* take a plural."
+      }
+    },
+    {
+      "id": "quite-a-few-quite-a-bit-many-much",
+      "term": "quite a few / quite a bit (= many / much)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Quite a few* + plural noun means *a fairly large number*, and *quite a bit (of)* means *a fairly large amount*, despite the words *few* and *bit*.",
+      "usage": "Very common in American conversation and informal writing; it is a relaxed, slightly understated way to say *many* or *a lot*. *Quite a bit* also works with comparatives and verbs (*quite a bit colder*, *He travels quite a bit*). Don't confuse it with *a few*, which means some, or *few*, which means not many.",
+      "pattern": "quite a few + plural noun / quite a bit of + uncountable noun / quite a bit + comparative",
+      "examples": [
+        "**Quite a few** of my friends have moved to Austin recently.",
+        "Fixing the roof is going to cost **quite a bit** more than we planned.",
+        "She's put on **quite a bit of** muscle since she started lifting."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "There were {{quite a few}} people at the farmers market this morning.",
+        "hint": "Say it casually, using few: There were many people at the farmers market this morning."
+      },
+      "mistake": {
+        "wrong": "Quite a few people came, so the room was almost empty.",
+        "right": "Only a few people came, so the room was almost empty.",
+        "why": "*Quite a few* means a fairly large number; for a small number, say *only a few* or *not many*."
+      }
+    },
+    {
+      "id": "a-couple-plural-without-of-us-informal-a-couple-weeks",
+      "term": "a couple + plural without of (US informal): a couple weeks",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In informal American English, *of* is often dropped after *a couple*: *a couple weeks* and *a couple bucks* mean *a couple of weeks* and *a couple of dollars*.",
+      "usage": "Very common in American speech and casual writing; British speakers notice it as American. In careful writing, use *a couple of*. In both forms, *a couple* often means *two or a few*, not exactly two.",
+      "pattern": "a couple (of) + plural noun",
+      "examples": [
+        "I'll be out of town for **a couple weeks** in July.",
+        "Can you lend me **a couple bucks** for parking?",
+        "We met **a couple years** ago at a friend's barbecue."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'll call you back in {{a couple minutes}}; I'm just pulling into the garage.",
+        "hint": "Say it the casual American way (drop one word): I'll call you back in a couple of minutes; I'm just pulling into the garage."
+      },
+      "mistake": {
+        "wrong": "I need a couple day off after the move.",
+        "right": "I need a couple days off after the move.",
+        "why": "Even without *of*, the noun after *a couple* stays plural."
+      }
+    },
+    {
+      "id": "as-many-as-as-much-as-number",
+      "term": "as many as / as much as + number",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Stresses that a number or amount is surprisingly large: *As many as 500 people showed up* means 500, which is a lot.",
+      "usage": "Common in news, reports and speech, often with an estimate or an upper limit. Use *as many as* with countable nouns and *as much as* with money, percentages and uncountable amounts (*as much as $500*, *as much as a foot of snow*). The opposite emphasis is *as few as* or *as little as* (*for as little as $5*).",
+      "pattern": "as many as + number + plural noun / as much as + amount",
+      "examples": [
+        "**As many as** 20,000 fans lined the streets for the championship parade.",
+        "Prices at the airport can be **as much as** 50 percent higher than downtown.",
+        "Some nights the baby wakes up **as many as** five times."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The storm could bring {{as much as}} a foot of snow to the mountains.",
+        "hint": "Stress that the amount is surprisingly large: The storm could bring up to a foot of snow to the mountains."
+      },
+      "mistake": {
+        "wrong": "As much as 300 people were evacuated.",
+        "right": "As many as 300 people were evacuated.",
+        "why": "*People* are countable, so use *as many as*; *as much as* is for amounts like money or snow."
+      }
+    },
+    {
+      "id": "much-in-affirmative-sentences-there-is-much-to-do",
+      "term": "much in affirmative sentences: There is much to do",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In positive statements, *much* as a quantifier sounds formal or literary; in speech people say *a lot of* or *lots of*: *There's a lot to do*.",
+      "usage": "*Much* is normal in questions and negatives (*Not much*, *How much …?*) and after *too, so, as* and *very* (*too much*, *so much*). Without those words, positive *much* appears mainly in formal writing (*Much has been written about …*). *Much of* + *the / this* is less formal and is common in news and speech too.",
+      "pattern": "much (+ uncountable noun) in positive statements (formal) / a lot (of) in speech",
+      "examples": [
+        "**Much** has changed in this neighborhood since I was a kid.",
+        "There is **much** to admire in her latest novel, despite its slow start.",
+        "Officials say **much** of the flood damage could have been prevented."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "There is {{much}} to learn from the way they handled the crisis.",
+        "hint": "Make it formal: There is a lot to learn from the way they handled the crisis."
+      },
+      "mistake": {
+        "wrong": "I drank much coffee this morning.",
+        "right": "I drank a lot of coffee this morning.",
+        "why": "In a positive spoken sentence, *much* + noun sounds wrong; use *a lot of*, or keep *much* for questions, negatives and *too much*."
+      }
+    },
+    {
+      "id": "generic-the-singular-the-smartphone-changed",
+      "term": "generic the + singular: The smartphone changed …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*The* + singular countable noun can refer to a whole class, especially inventions, species and musical instruments: *The smartphone changed how we live.*",
+      "usage": "Typical of formal or semi-formal writing, documentaries and lectures; in conversation, the plural without *the* is more common (*Smartphones changed …*). It is the normal form for statements about a whole kind, such as an invention or a species (*Who invented the telephone?*). *A* + noun can describe a typical member, but not the kind as a whole.",
+      "pattern": "the + singular countable noun (= the whole class)",
+      "examples": [
+        "**The smartphone** has completely changed the way people date.",
+        "Most people think Edison invented **the light bulb**, but the story is more complicated.",
+        "**The bald eagle** was once an endangered species in the United States."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The printing press}} changed European history forever.",
+        "hint": "Rewrite about the invention as a whole, with the + singular: Printing presses changed European history forever."
+      },
+      "mistake": {
+        "wrong": "A computer has changed the way we work.",
+        "right": "The computer has changed the way we work.",
+        "why": "*A computer* means one example; to talk about the invention as a whole, use *the computer* or *computers*."
+      }
+    },
+    {
+      "id": "the-adjective-the-rich-the-unemployed",
+      "term": "the + adjective: the rich, the unemployed",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*The* + adjective refers to a whole group of people with that quality and takes a plural verb: *The rich are getting richer.*",
+      "usage": "Common in news, essays and speeches (*the rich, the young, the injured, the unemployed*). The adjective never takes *-s*, and for one person you add a noun (*an unemployed neighbor*); style guides such as AP and APA now prefer *homeless people* and *older adults* to *the homeless* and *the elderly*. Nationality words in *-sh*, *-ch* and *-ese* work the same way (*the French*).",
+      "pattern": "the + adjective (= people who are …) + plural verb",
+      "examples": [
+        "Fashion trends often start with **the young** and slowly spread to everyone else.",
+        "Several of **the injured were** flown to the hospital by helicopter.",
+        "The city runs a free job training program for **the unemployed**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Malibu has long been a playground for {{the rich and famous}}.",
+        "hint": "Shorten with the + adjective: Malibu has long been a playground for people who are rich and famous."
+      },
+      "mistake": {
+        "wrong": "The rich is getting richer.",
+        "right": "The rich are getting richer.",
+        "why": "*The* + adjective means a group of people, so it takes a plural verb."
+      }
+    },
+    {
+      "id": "a-an-with-an-uncountable-adjective-a-good-education",
+      "term": "a / an with an uncountable + adjective: a good education",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Some uncountable nouns take *a/an* when an adjective or an *of*-phrase describes a particular kind: *a good education*, *a deep knowledge of*, *a healthy respect for*.",
+      "usage": "Common with *education, knowledge, understanding, respect, interest, love* and *fear*, and with some qualities (*a quiet confidence*). The noun still has no plural, and without the adjective the article usually goes away (*Education matters*). Nouns like *advice, information, news* and *furniture* never take *a*, even with an adjective.",
+      "pattern": "a / an + adjective + uncountable noun (education, knowledge, understanding, respect …)",
+      "examples": [
+        "Her parents worked two jobs so she could get **a good education**.",
+        "He has **a deep knowledge** of Civil War history.",
+        "Growing up near the ocean gave me **a healthy respect** for the water."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "She has {{an}} excellent understanding of how small businesses work.",
+        "hint": "Add the missing article: She has excellent understanding of how small businesses work."
+      },
+      "mistake": {
+        "wrong": "That's a great news!",
+        "right": "That's great news!",
+        "why": "*News* is uncountable and never takes *a*, even with an adjective; for one item, say *a piece of news*."
+      }
+    },
+    {
+      "id": "countable-and-uncountable-senses-experience-vs-an-experience",
+      "term": "countable and uncountable senses: experience vs. an experience",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Some nouns change meaning when they become countable: *experience* (skill gained over time) vs. *an experience* (one event); also *time / a time*, *room / a room*, *paper / a paper*.",
+      "usage": "Very common in job interviews, résumés and storytelling: *five years of experience*, but *an amazing experience*. Saying *I have an experience in sales* sounds like one event, not job knowledge. Choose the form by asking whether you mean a general quality or one separate thing.",
+      "pattern": "experience (uncountable: skill) / an experience, experiences (countable: events)",
+      "examples": [
+        "She has ten years of **experience** in emergency medicine.",
+        "Swimming with dolphins in Hawaii was **an unforgettable experience**.",
+        "We had **a great time** at your wedding, and the food was amazing."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Do you have any {{experience}} working with young children?",
+        "hint": "Countable or uncountable? (job skill) Do you have any ___ working with young children?"
+      },
+      "mistake": {
+        "wrong": "I have an experience in project management.",
+        "right": "I have experience in project management.",
+        "why": "Job knowledge is uncountable *experience*; *an experience* is a single event."
+      }
+    },
+    {
+      "id": "none-of-singular-or-plural-verb",
+      "term": "none of + singular or plural verb",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*None of* + plural noun can take a singular or a plural verb: *None of my friends has / have a car.* Both are correct.",
+      "usage": "The plural verb is more common in speech and in most modern writing; the singular sounds more formal and careful. With an uncountable noun, the verb is always singular (*None of the money was spent*). The idea that *none* must be singular is a myth, although some editors still prefer it.",
+      "pattern": "none of + plural noun + plural verb (common) / singular verb (formal); none of + uncountable noun + singular verb",
+      "examples": [
+        "**None of** my friends **have** kids yet, so I'll be the first.",
+        "**None of** the proposals **was** approved by the city council.",
+        "**None of** the food **was** wasted; the kids finished everything."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "None of the information in the brochure {{was}} up to date.",
+        "hint": "Choose was or were (uncountable noun): None of the information in the brochure ___ up to date."
+      },
+      "mistake": {
+        "wrong": "None of my friends don't have a car.",
+        "right": "None of my friends have a car.",
+        "why": "*None* is already negative, so the verb stays positive."
+      }
+    },
+    {
+      "id": "each-every-singular-verb-each-of-them-has",
+      "term": "each / every + singular verb: Each of them has …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Each* and *every* take a singular verb, even in *each of* + plural noun: *Each of them has a key.*",
+      "usage": "Common in all registers. After *each of*, the noun is plural but the verb stays singular (*Each of the rooms has a view*); *every* is followed by a singular noun (*Every room has a view*). When *each* comes after a plural subject, the verb is plural (*They each have a key*).",
+      "pattern": "each / every + singular noun + singular verb / each of + plural noun + singular verb / plural subject + each + plural verb",
+      "examples": [
+        "**Each of** the kids **has** their own room in the new house.",
+        "**Every** house on our street **has** a big front porch.",
+        "My brothers **each have** a different opinion about what Dad should do."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Each of the apartments {{has}} its own washer and dryer.",
+        "hint": "Choose has or have: Each of the apartments ___ its own washer and dryer."
+      },
+      "mistake": {
+        "wrong": "Every students needs a laptop for this class.",
+        "right": "Every student needs a laptop for this class.",
+        "why": "*Every* takes a singular noun and a singular verb."
+      }
+    },
+    {
+      "id": "neither-of-plural-noun-neither-of-them-is-are",
+      "term": "neither of + plural noun: Neither of them is / are",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Neither of* + plural noun can take a singular verb (formal, traditional) or a plural verb (common in speech): *Neither of them is / are ready.*",
+      "usage": "In conversation and informal writing, the plural verb is normal; careful writers and exams prefer the singular. The noun after *neither of* is always plural (*neither of the options*), while *neither* without *of* takes a singular noun and verb (*Neither option is perfect*).",
+      "pattern": "neither of + plural noun / pronoun + is (formal) / are (common); neither + singular noun + singular verb",
+      "examples": [
+        "**Neither of** my parents **is** very good with technology.",
+        "**Neither of** us **are** big fans of camping, so let's book a cabin.",
+        "**Neither** restaurant **was** open after ten, so we ended up getting pizza."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Neither of my brothers {{lives}} nearby, so I only see them on holidays.",
+        "hint": "Use the formal singular verb: Neither of my brothers ___ (live) nearby, so I only see them on holidays."
+      },
+      "mistake": {
+        "wrong": "Neither of the answer is correct.",
+        "right": "Neither of the answers is correct.",
+        "why": "After *neither of*, the noun is plural; only *neither* without *of* takes a singular noun (*neither answer*)."
+      }
+    },
+    {
+      "id": "either-or-neither-nor-agreement",
+      "term": "either … or / neither … nor agreement",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When two subjects are joined by *either … or* or *neither … nor*, the verb agrees with the one closer to it: *Neither the kids nor their father was home.*",
+      "usage": "This is the rule in careful writing; in speech, people often use a plural verb anyway. Many writers put the plural subject second, so the verb can be plural and sound natural (*Neither the father nor the kids were home*). The same rule applies to pronouns (*Either you or Jake has to stay*).",
+      "pattern": "either / neither + A + or / nor + B + verb agreeing with B",
+      "examples": [
+        "**Either** my mom **or** my sisters **are** picking us up at the airport.",
+        "**Neither** the manager **nor** the other employees **were** told about the closure.",
+        "**Either** you **or** Jake **has** to stay with Grandma tonight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Neither the coach nor the players {{want}} to talk to reporters after the loss.",
+        "hint": "Make the verb agree with the closer subject: Neither the coach nor the players ___ (want) to talk to reporters after the loss."
+      },
+      "mistake": {
+        "wrong": "Either the kids or their mother are going to call you.",
+        "right": "Either the kids or their mother is going to call you.",
+        "why": "In careful writing, the verb agrees with the nearer subject, *their mother*; or reverse the order and use *are*."
+      }
+    },
+    {
+      "id": "data-and-media-as-singular-us",
+      "term": "data and media as singular (US)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In most American usage, *data* is treated as a singular mass noun (*The data is clear*), and *the media* often takes a singular verb too; *data are* survives mainly in formal science writing.",
+      "usage": "News, business and tech writing mostly use *data is*, while many scientific journals and APA style keep *data are*. Either way, *data* has no *-s* plural and no *a*: one item is *a data point*. *The media* can take either verb; the singular is common when it means the press as one institution.",
+      "pattern": "the data is / shows (common US) / the data are / show (formal science); the media is / are",
+      "examples": [
+        "**The sales data shows** a big jump every December.",
+        "**The data are** consistent with a small effect, but the sample is too small to be sure.",
+        "**The media has** been camped outside the courthouse all week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The data from my fitness tracker {{suggests}} that I sleep only six hours a night.",
+        "hint": "Use the common American singular: The data from my fitness tracker ___ (suggest) that I sleep only six hours a night."
+      },
+      "mistake": {
+        "wrong": "We collected a lot of datas.",
+        "right": "We collected a lot of data.",
+        "why": "*Data* is already plural in origin and never takes *-s*; for one item, say *a data point*."
+      }
+    },
+    {
+      "id": "classical-plurals-criteria-phenomena-hypotheses",
+      "term": "classical plurals: criteria, phenomena, hypotheses",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Some Greek and Latin nouns keep their classical plurals: *criterion → criteria*, *phenomenon → phenomena*, *hypothesis → hypotheses*, *analysis → analyses*.",
+      "usage": "The classical forms are standard in formal and academic writing, and *a criteria* or *this phenomena* is a common error, even among native speakers. *Criteria* used as a singular is heard in speech, but careful listeners notice it. Plurals in *-ses* end in a *seez* sound (*analyses*, *crises*).",
+      "pattern": "criterion / criteria, phenomenon / phenomena, hypothesis / hypotheses, analysis / analyses",
+      "examples": [
+        "The main **criterion** for the scholarship is financial need.",
+        "The northern lights are one of the natural **phenomena** that bring tourists to Iceland in winter.",
+        "Doctors tested several **hypotheses** before finding the cause of her fever."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Price was the only {{criterion}} we used to pick the hotel.",
+        "hint": "Use the correct singular: Price was the only criteria we used to pick the hotel."
+      },
+      "mistake": {
+        "wrong": "This phenomena is common in big cities.",
+        "right": "This phenomenon is common in big cities.",
+        "why": "*Phenomena* is the plural; the singular is *phenomenon*."
+      }
+    },
+    {
+      "id": "plural-looking-singulars-news-politics-economics",
+      "term": "plural-looking singulars: news, politics, economics",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Some nouns end in *-s* but take a singular verb: *news*, subject names like *economics, physics* and *mathematics*, and sports like *gymnastics*.",
+      "usage": "*News* is uncountable: *The news is good*, never *the news are*, and one item is *a piece of news*. *Politics* is singular as a field (*Politics is a tough business*) but usually plural when it means someone's views (*His politics are hard to pin down*). *Statistics* works the same way: singular as a subject, plural for the numbers.",
+      "pattern": "news / economics / physics / gymnastics + singular verb",
+      "examples": [
+        "**The news is** on at six if you want to catch the weather.",
+        "**Economics was** my favorite class in my first year of college.",
+        "**Gymnastics is** one of the hardest sports to judge fairly."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'm afraid the news from the vet {{isn't}} very good.",
+        "hint": "Choose isn't or aren't: I'm afraid the news from the vet ___ very good."
+      },
+      "mistake": {
+        "wrong": "The news are really bad today.",
+        "right": "The news is really bad today.",
+        "why": "*News* is uncountable and always takes a singular verb."
+      }
+    },
+    {
+      "id": "amounts-as-singular-ten-dollars-is",
+      "term": "amounts as singular: Ten dollars is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A plural amount of money, time, distance or weight takes a singular verb when it is seen as one sum: *Ten dollars is too much for a coffee.*",
+      "usage": "Normal in all registers: *Three weeks is a long time*, *Five miles is too far to walk*. A plural verb is used when you think of the separate units, especially with *the last* or *the past* (*The last three weeks have been crazy*).",
+      "pattern": "plural amount (money / time / distance / weight) + singular verb",
+      "examples": [
+        "**Fifteen dollars is** way too much for a sandwich.",
+        "**Two hours is** a long time to sit in a waiting room with a sick kid.",
+        "**Ten pounds is** a lot to lose in a month."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Three hundred dollars {{seems}} like a lot for a pair of sneakers.",
+        "hint": "Choose seem or seems: Three hundred dollars ___ like a lot for a pair of sneakers."
+      },
+      "mistake": {
+        "wrong": "Twenty dollars are enough for the taxi.",
+        "right": "Twenty dollars is enough for the taxi.",
+        "why": "The amount is treated as one sum, so the verb is singular."
+      }
+    },
+    {
+      "id": "along-with-as-well-as-the-verb-agrees-with-the-first-subject",
+      "term": "along with / as well as: the verb agrees with the first subject",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Phrases added with *along with, as well as, together with* or *in addition to* do not make the subject plural; the verb agrees with the first noun: *The CEO, along with two managers, is …*",
+      "usage": "Common in news and formal writing, where the added phrase is often between commas. If you want a plural verb, use *and* (*The CEO and two managers are …*). In casual speech, people often use a plural verb anyway, but editors treat that as an error.",
+      "pattern": "subject + (along with / as well as / together with + noun) + verb agreeing with the subject",
+      "examples": [
+        "My sister, **along with** her three kids, **is** staying with us for the holidays.",
+        "The coach, **as well as** several players, **has** been suspended for the next game.",
+        "The price, **together with** shipping, **comes** to just under a hundred dollars."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The mayor, along with two council members, {{plans}} to attend the opening.",
+        "hint": "Make the verb agree with the first subject: The mayor, along with two council members, ___ (plan) to attend the opening."
+      },
+      "mistake": {
+        "wrong": "The teacher, as well as the students, were surprised.",
+        "right": "The teacher, as well as the students, was surprised.",
+        "why": "In careful writing, *as well as* does not make the subject plural, so the verb agrees with *the teacher*."
+      }
+    },
+    {
+      "id": "the-majority-of-plural-verb",
+      "term": "the majority of + plural verb",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With *the majority of* + plural noun, the verb is plural because it agrees with the noun after *of*: *The majority of voters are …*",
+      "usage": "Common in news, surveys and reports. *The majority* alone can take either verb; the singular treats the group as one body (*The majority has spoken*). With uncountable nouns, *most of* sounds more natural than *the majority of* (*most of the work*).",
+      "pattern": "the majority of + plural noun + plural verb / the majority (alone) + singular or plural verb",
+      "examples": [
+        "**The majority of** our customers **are** repeat buyers.",
+        "**The majority of** the kids in my son's class **walk** to school.",
+        "**The vast majority of** residents **want** the old theater to be restored."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The majority of the apartments in this building {{have}} balconies.",
+        "hint": "Choose has or have: The majority of the apartments in this building ___ balconies."
+      },
+      "mistake": {
+        "wrong": "The majority of people thinks the new park is a good idea.",
+        "right": "The majority of people think the new park is a good idea.",
+        "why": "The verb agrees with *people*, the noun after *of*, so it is plural."
+      }
+    },
+    {
+      "id": "percentages-and-fractions-60-of-people-are",
+      "term": "percentages and fractions: 60% of people are …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With percentages and fractions + *of*, the verb agrees with the noun after *of*: *60 percent of people are …*, but *60 percent of the money is …*",
+      "usage": "Common in news, reports and presentations: a plural noun takes a plural verb, and an uncountable or singular noun takes a singular verb (*Half of the cake was gone*). *The percentage of* takes a singular verb, like *the number of*. American English usually writes *percent* as one word.",
+      "pattern": "percentage / fraction + of + noun → the verb agrees with that noun",
+      "examples": [
+        "About **70 percent of** the houses in our neighborhood **were** built before 1950.",
+        "**Half of** the pizza **was** gone before I even got to the party.",
+        "**Two-thirds of** the students **were** out sick on Friday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Forty percent of the budget {{goes}} to salaries.",
+        "hint": "Choose go or goes: Forty percent of the budget ___ to salaries."
+      },
+      "mistake": {
+        "wrong": "Half of the cookies is gone.",
+        "right": "Half of the cookies are gone.",
+        "why": "The verb agrees with *cookies*, the noun after *of*."
+      }
+    },
+    {
+      "id": "a-great-deal-of-vs-a-great-many",
+      "term": "a great deal of vs. a great many",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A great deal of* + uncountable noun means *a large amount of*; *a great many* + plural noun, with no *of*, means *a large number of*.",
+      "usage": "Both sound formal or slightly old-fashioned; in speech, *a lot of* is far more common. *A great many* takes *of* only before a determiner or pronoun (*a great many of them*). *A great deal* also works as an adverb (*She travels a great deal*).",
+      "pattern": "a great deal of + uncountable noun / a great many + plural noun",
+      "examples": [
+        "Raising twins takes **a great deal of** patience.",
+        "**A great many** families lost their homes in the flood.",
+        "She has traveled **a great deal** since she retired."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{A great many}} visitors have complained about the parking.",
+        "hint": "Make it formal (plural noun): Many visitors have complained about the parking."
+      },
+      "mistake": {
+        "wrong": "A great deal of people came to the funeral.",
+        "right": "A great many people came to the funeral.",
+        "why": "*A great deal of* is only for uncountable nouns; with plural nouns, use *a great many* or *a lot of*."
+      }
+    },
+    {
+      "id": "few-vs-a-few",
+      "term": "few vs. a few",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Few* + plural noun means *not many*, with a negative feel (*Few people came*); *a few* means *some, a small number*, with a positive or neutral feel.",
+      "usage": "*Few* alone sounds formal; in speech, people say *not many* or *very few*. *Only a few* is negative in meaning, like *few*, while *quite a few* means *many*. The choice changes the message: *I have a few friends here* is fine, but *I have few friends here* is sad.",
+      "pattern": "few + plural noun (= not many) / a few + plural noun (= some)",
+      "examples": [
+        "**Few** people know that she wrote the song herself.",
+        "I've already made **a few** friends at my new gym.",
+        "**Very few** tourists know about the little beach behind the lighthouse."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I still have {{a few}} questions about the lease before I sign it.",
+        "hint": "Positive meaning (some): I still have ___ questions about the lease before I sign it."
+      },
+      "mistake": {
+        "wrong": "I have few friends here, so I'm never lonely.",
+        "right": "I have a few friends here, so I'm never lonely.",
+        "why": "*Few* sounds negative (not enough); *a few* means some."
+      }
+    },
+    {
+      "id": "little-vs-a-little",
+      "term": "little vs. a little",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Little* + uncountable noun means *not much*, with a negative feel (*There's little hope*); *a little* means *some, a small amount*, with a positive or neutral feel.",
+      "usage": "*Little* in this sense sounds formal or written; in speech, people say *not much* or *very little*. Do not confuse it with *little* meaning *small* (*a little house*). *A little* also works as an adverb before adjectives and comparatives (*a little tired*, *a little more*).",
+      "pattern": "little + uncountable noun (= not much) / a little + uncountable noun (= some)",
+      "examples": [
+        "There's **little** chance of rain this weekend, so let's plan the picnic.",
+        "Could you add **a little** more milk to my coffee?",
+        "He showed **very little** interest in taking over the family business."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Unfortunately, there's {{little}} we can do until the insurance company calls back.",
+        "hint": "Negative meaning, one word (not much): Unfortunately, there's ___ we can do until the insurance company calls back."
+      },
+      "mistake": {
+        "wrong": "Sadly, there's a little chance he'll be ready for the final.",
+        "right": "Sadly, there's little chance he'll be ready for the final.",
+        "why": "*A little* means some; for the negative idea *not much*, drop *a*."
+      }
+    },
+    {
+      "id": "whom-in-formal-english-to-whom-for-whom",
+      "term": "whom in formal English: to whom, for whom",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Whom* is the object form of *who*; formal English uses it after prepositions (*to whom, for whom, with whom*) and as the object in a relative clause.",
+      "usage": "In everyday American speech, *whom* is fading: people say *Who did you talk to?* and *the woman I met*. It survives in formal letters, legal and academic writing and fixed phrases (*To whom it may concern*). Directly after a preposition, *whom* is still required (*with whom*, not *with who*).",
+      "pattern": "preposition + whom / whom as object (formal); who … + preposition at the end (everyday)",
+      "examples": [
+        "She married a man **whom** she had met only twice.",
+        "I'd like to thank the colleagues **with whom** I worked most closely.",
+        "The award goes to a teacher **for whom** no student was ever a lost cause."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{To whom}} should I address the letter?",
+        "hint": "Make it formal: Who should I address the letter to?"
+      },
+      "mistake": {
+        "wrong": "Whom is calling, please?",
+        "right": "Who is calling, please?",
+        "why": "*Whom* is only an object; as the subject of a verb, use *who*."
+      }
+    },
+    {
+      "id": "whose-for-things-a-company-whose-profits",
+      "term": "whose for things: a company whose profits …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Whose* can refer to things as well as people: *a company whose profits fell*, *a house whose roof leaks*.",
+      "usage": "Normal in all registers, and much smoother than *of which* (*a house the roof of which leaks* sounds very formal). Some learners believe *whose* is only for people and build awkward sentences to avoid it. Don't confuse it with *who's* (= *who is* or *who has*), which sounds the same.",
+      "pattern": "noun (thing or person) + whose + noun + verb",
+      "examples": [
+        "We stayed in an old hotel **whose** elevator broke down twice a day.",
+        "It's one of those bands **whose** songs everyone knows but nobody can name.",
+        "Investors are pulling out of companies **whose** profits depend on a single product."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I bought a used car {{whose}} previous owner was a mechanic.",
+        "hint": "Join with a relative clause: I bought a used car. Its previous owner was a mechanic."
+      },
+      "mistake": {
+        "wrong": "It's a company who's profits keep falling.",
+        "right": "It's a company whose profits keep falling.",
+        "why": "*Who's* means *who is* or *who has*; the possessive relative word is *whose*."
+      }
+    },
+    {
+      "id": "all-vs-whole-the-whole-day-all-day",
+      "term": "all vs. whole: the whole day / all day",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Whole* goes with singular countable nouns and comes after *the, a* or *my* (*the whole day*, *my whole life*); *all* comes before *the* or *my* and goes with plurals, uncountables and time words (*all day*, *all the money*, *all my friends*).",
+      "usage": "For time, *all day*, *all week* and *the whole day* mean the same. With uncountable nouns, use *all* (*all the money*, not *the whole money*). *Whole* + plural noun means complete units (*Whole families were evacuated*), which is different from *all*.",
+      "pattern": "the / a / my + whole + singular noun / all (the / my) + uncountable or plural noun",
+      "examples": [
+        "I spent **the whole day** cleaning out the garage.",
+        "It rained **all week**, so the kids were bouncing off the walls.",
+        "She ate **the whole pizza** by herself in one sitting."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I've lived in Ohio {{my whole life}}, and I've never seen a tornado.",
+        "hint": "Rewrite with whole: I've lived in Ohio all my life, and I've never seen a tornado."
+      },
+      "mistake": {
+        "wrong": "He spent the whole money on a new TV.",
+        "right": "He spent all the money on a new TV.",
+        "why": "*Whole* is for singular countable nouns; with an uncountable noun like *money*, use *all*."
+      }
+    },
+    {
+      "id": "hyphenated-compound-adjectives-a-well-known-author-she-is-we",
+      "term": "hyphenated compound adjectives: a well-known author / she is well known",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A compound adjective is hyphenated before a noun (*a well-known author*), but after a verb the hyphen is often dropped (*She is well known*).",
+      "usage": "The hyphen before a noun shows that the words form one modifier. After a verb, style guides differ: Chicago style drops the hyphen (*well known*), while AP style and many dictionaries keep it (*well-known*). Adverbs ending in *-ly* never take a hyphen (*a highly paid job*).",
+      "pattern": "well-known / up-to-date / long-term + noun; be + well known / up to date",
+      "examples": [
+        "Her mother is a **well-known** author of children's books.",
+        "Make sure your passport is **up to date** before you book the trip.",
+        "We're looking for a **long-term** solution, not a quick fix."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "It's a {{family-owned}} restaurant that's been around since 1952.",
+        "hint": "Put the compound adjective before the noun: The restaurant is owned by a family and has been around since 1952."
+      },
+      "mistake": {
+        "wrong": "She has a highly-paid job in finance.",
+        "right": "She has a highly paid job in finance.",
+        "why": "AP, Chicago and other major style guides never hyphenate after an *-ly* adverb, because the *-ly* already shows how the words connect."
+      }
+    },
+    {
+      "id": "noun-noun-vs-s-vs-of-the-car-door-the-company-s-success",
+      "term": "noun + noun vs. 's vs. of: the car door, the company's success",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "English uses a noun modifier for types and fixed combinations (*the car door*, *a coffee cup*), *'s* for owners, people and organizations (*the company's success*), and *of* for parts of things and long phrases (*the end of the movie*).",
+      "usage": "*'s* is most natural with people, animals, organizations, places and time (*Sarah's car*, *the city's budget*, *today's news*); *of* is preferred with things and long noun phrases (*the top of the page*). A noun modifier names a type, not an owner: *a coffee cup* is for coffee, while *a cup of coffee* has coffee in it.",
+      "pattern": "noun + noun (type) / owner + 's + noun / the + part + of + thing",
+      "examples": [
+        "The **car door** hasn't closed properly since the accident.",
+        "**The company's success** surprised everyone, including its founders.",
+        "I always fall asleep before **the end of the movie**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I really value {{my mother's opinion}} on big decisions.",
+        "hint": "Use the most natural possessive form: I really value the opinion of my mother on big decisions."
+      },
+      "mistake": {
+        "wrong": "We stayed at the house of my parents for a week.",
+        "right": "We stayed at my parents' house for a week.",
+        "why": "With people as owners, English uses *'s* (or *s'*); *the house of my parents* sounds translated."
+      }
+    },
+    {
+      "id": "double-possessive-a-friend-of-mine",
+      "term": "double possessive: a friend of mine",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A, an, this* or *that* + noun + *of* + possessive (*mine, yours, Sarah's*) means one of several, or adds feeling: *a friend of mine*, *that dog of yours*.",
+      "usage": "Normal in all registers, and needed because *a* and *my* cannot stand together (*a my friend* is impossible). *A friend of mine* presents someone new, while *my friend* suggests someone the listener already knows about. With *this* or *that*, it often sounds emotional or critical (*that brother of yours*).",
+      "pattern": "a / an / this / that + noun + of + mine / yours / his / hers / ours / theirs / name's",
+      "examples": [
+        "**A friend of mine** runs a bakery downtown; you should try her croissants.",
+        "Is that **a cousin of yours**? He looks just like you.",
+        "**That dog of theirs** barks every time someone walks by."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{A colleague of mine}} recommended this dentist, and she's great.",
+        "hint": "Rewrite with a double possessive: One of my colleagues recommended this dentist, and she's great."
+      },
+      "mistake": {
+        "wrong": "She's a friend of me from college.",
+        "right": "She's a friend of mine from college.",
+        "why": "In this pattern, *of* is followed by the possessive pronoun *mine*, not *me*."
+      }
+    },
+    {
+      "id": "time-possessive-a-week-s-notice-two-years-experience",
+      "term": "time possessive: a week's notice, two years' experience",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*'s* (singular) or *s'* (plural) after a time noun expresses a length of time: *a week's notice*, *two years' experience*, *a day's work*.",
+      "usage": "Common in job ads, contracts and everyday speech (*an hour's drive*, *a good night's sleep*). For plurals, the apostrophe goes after the *s* (*three months' rent*). American English often uses *of* with experience instead (*five years of experience*), and casual writing sometimes drops the apostrophe.",
+      "pattern": "a + time noun + 's + noun / number + plural time noun + s' + noun",
+      "examples": [
+        "I gave my boss **two weeks' notice** on Monday.",
+        "The cabin is about **an hour's drive** from Denver.",
+        "There's nothing like **a good night's sleep** before a big game."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The landlord wants {{three months'}} rent as a security deposit.",
+        "hint": "Rewrite with a time possessive: The landlord wants rent for three months as a security deposit."
+      },
+      "mistake": {
+        "wrong": "She has five year's experience in sales.",
+        "right": "She has five years' experience in sales.",
+        "why": "With a plural time noun, the apostrophe goes after the *s*: *years'*."
+      }
+    },
+    {
+      "id": "than-me-vs-than-i-am",
+      "term": "than me vs. than I (am)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After *than* and *as*, an object pronoun is normal in everyday English (*She's taller than me*); a subject pronoun followed by a verb is the careful form (*She's taller than I am*).",
+      "usage": "*Than me* is standard in speech and informal writing. *Than I* with no verb (*taller than I*) sounds stiff to most Americans, so *than I am* is the safe choice in formal writing. Sometimes it matters: *She likes you more than I do* is clear, while *She likes you more than me* can also mean *more than she likes me*.",
+      "pattern": "than / as + me / him / her (everyday) / than / as + I am / he does (careful)",
+      "examples": [
+        "My little brother is already taller **than me**.",
+        "She's been at the company longer **than I have**.",
+        "Nobody loves this town as much **as he does**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My sister earns a lot more {{than I do}}, but she works twice as hard.",
+        "hint": "Make it careful style, with a verb: My sister earns a lot more than me, but she works twice as hard."
+      },
+      "mistake": {
+        "wrong": "He runs much faster than I am.",
+        "right": "He runs much faster than I do.",
+        "why": "The verb after *than* must match the first verb: *runs* → *I do*, *is taller* → *I am*."
+      }
+    },
+    {
+      "id": "misused-myself-contact-john-or-myself",
+      "term": "misused myself: Contact John or myself",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Myself* is reflexive (*I hurt myself*) or emphatic (*I did it myself*); it needs *I* as the subject of the same clause and is not a polite replacement for *me*.",
+      "usage": "*Please contact John or myself* and *John and myself will attend* are very common in business English, even among native speakers, because *myself* feels more formal. Many editors and careful listeners treat it as an error. Use *me* as an object and *I* as a subject.",
+      "pattern": "I + verb + myself (reflexive) / I … myself (emphasis); otherwise me / I",
+      "examples": [
+        "I cut **myself** while I was chopping onions last night.",
+        "I built the whole deck **myself**, and it only took two weekends.",
+        "If you have any questions, contact Lisa or **me** directly."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Please contact {{me}} directly if the package doesn't arrive.",
+        "hint": "Correct the pronoun: Please contact myself directly if the package doesn't arrive."
+      },
+      "mistake": {
+        "wrong": "Please send the documents to John or myself.",
+        "right": "Please send the documents to John or me.",
+        "why": "*Myself* needs *I* as the subject in the same clause; otherwise use *me*."
+      }
+    },
+    {
+      "id": "the-with-geographic-names-the-netherlands-the-alps",
+      "term": "the with geographic names: the Netherlands, the Alps",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Most country, city, lake and single-mountain names take no article, but plural names, rivers, oceans, seas, mountain ranges and names with *Republic, Kingdom* or *States* take *the*: *the Netherlands, the Alps, the Amazon, the United States*.",
+      "usage": "Single places with a simple proper name have no article (*Canada, Lake Tahoe, Mount Rainier*). Plural names and names that contain a common noun like *republic* or *kingdom* take *the* (*the Philippines, the Dominican Republic*). Rivers take *the* even though lakes do not (*the Mississippi* vs. *Lake Michigan*).",
+      "pattern": "the + plural names / rivers / oceans / seas / mountain ranges / Republic, Kingdom, States",
+      "examples": [
+        "We spent two weeks hiking in **the Rockies** last summer.",
+        "She grew up in **the Netherlands** but moved to **Canada** at sixteen.",
+        "The town sits right on **the Mississippi**, so it floods every few years."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My grandparents crossed {{the Atlantic}} by ship in 1956.",
+        "hint": "Add the if needed: My grandparents crossed ___ (Atlantic) by ship in 1956."
+      },
+      "mistake": {
+        "wrong": "My parents live in Philippines.",
+        "right": "My parents live in the Philippines.",
+        "why": "Plural country names take *the*: *the Philippines*, *the Netherlands*, *the United States*."
+      }
+    },
+    {
+      "id": "institution-nouns-in-the-hospital-us-go-to-college",
+      "term": "institution nouns: in the hospital (US), go to college",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "American English says *in the hospital*, with *the*, but uses no article with *college, school, class, jail* and *bed* when you mean their normal purpose: *go to college*, *be in school*.",
+      "usage": "British English says *in hospital* and *go to university*; Americans say *in the hospital* and *go to college*, where *college* means any university-level study. Use *the* when you mean the building itself, visited for another reason (*I picked her up at the school*).",
+      "pattern": "in the hospital (US) / go to college / be in school / go to bed / be in jail",
+      "examples": [
+        "My dad's **in the hospital** after a minor heart attack, but he's doing fine.",
+        "Our daughter starts **college** in Michigan this fall.",
+        "The kids are **in school** until three, so I have the afternoon free."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After the accident, she was in {{the}} hospital for a week.",
+        "hint": "Say it the American way: After the accident, she was in hospital for a week."
+      },
+      "mistake": {
+        "wrong": "I'm tired, so I'm going to the bed now.",
+        "right": "I'm tired, so I'm going to bed now.",
+        "why": "Used for its normal purpose, *bed* takes no article, like *school*, *college* and *class*."
+      }
+    },
+    {
+      "id": "adjective-a-noun-after-so-too-how-too-big-a-risk",
+      "term": "adjective + a + noun after so / too / how: too big a risk",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After *so, too, as* and *how*, the adjective comes before *a/an*: *too big a risk*, *so good a deal*, *as strong a team as*.",
+      "usage": "*Too* and *how* + adjective + *a* are normal in speech and writing (*How big a problem is it?*), while *so* + adjective + *a* sounds formal and speech prefers *such a* (*such a good deal*). *Too big of a risk* is very common in American speech, but editors remove the *of* in writing. It works only with *a / an* + a singular countable noun.",
+      "pattern": "so / too / as / how + adjective + a / an + noun",
+      "examples": [
+        "Quitting without another job lined up was **too big a risk** for us.",
+        "It wasn't **as bad a winter as** everyone had predicted.",
+        "**How big a tip** should we leave for a table of twelve?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "That's {{too important a decision}} to make in a hurry.",
+        "hint": "Rewrite with too + adjective + a: That decision is too important to make in a hurry."
+      },
+      "mistake": {
+        "wrong": "It's a too big risk.",
+        "right": "It's too big a risk.",
+        "why": "After *too*, the adjective comes before *a*."
+      }
+    },
+    {
+      "id": "quite-a-noun-that-s-quite-a-story",
+      "term": "quite a + noun: That's quite a story",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Quite a / an* + noun means a remarkable, unusual or impressive example of something: *That's quite a story* means *that's a remarkable story*.",
+      "usage": "Informal and very common in speech, often as a reaction (*That was quite a game!*). It can be admiring or slightly ironic, depending on the tone. With an adjective, the meaning is weaker: *quite a long time* means *a fairly long time*.",
+      "pattern": "quite a / an + noun (= a remarkable …)",
+      "examples": [
+        "Running a marathon at seventy is **quite an achievement**.",
+        "Wow, that's **quite a view** from your balcony.",
+        "She's **quite a character**; everyone in town knows her."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Ten inches of snow overnight? That was {{quite a storm}}.",
+        "hint": "React with quite: That was a remarkable storm."
+      },
+      "mistake": {
+        "wrong": "That's a quite story.",
+        "right": "That's quite a story.",
+        "why": "*Quite* comes before *a*, not after it."
+      }
+    },
+    {
+      "id": "kind-of-sort-of-agreement-these-kinds-of-things",
+      "term": "kind of / sort of agreement: these kinds of things",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In careful English, the demonstrative matches *kind* or *sort*: *this kind of problem* (singular), *these kinds of problems* (plural).",
+      "usage": "*These kind of things* is very common in American speech, even from educated speakers, but editors correct it in writing. Use *this kind of* + singular or uncountable noun, and *these kinds of* + plural noun. *Kind of* as an informal adverb (*kind of tired* = a bit tired) is a different use.",
+      "pattern": "this / that kind of + noun / these / those kinds of + plural noun",
+      "examples": [
+        "I love **these kinds of** small, family-run restaurants.",
+        "**This kind of** weather always gives me a headache.",
+        "We don't usually get **those kinds of** questions from customers."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{These kinds of mistakes are}} easy to avoid if you use a checklist.",
+        "hint": "Make it plural: This kind of mistake is easy to avoid if you use a checklist."
+      },
+      "mistake": {
+        "wrong": "I don't really like these kind of movies.",
+        "right": "I don't really like these kinds of movies.",
+        "why": "In writing, *these* needs a plural noun (*these kinds*); or keep everything singular (*this kind of movie*)."
+      }
+    },
+    {
+      "id": "any-no-matter-which-any-student-can",
+      "term": "any (= no matter which): Any student can …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Stressed *any* in a positive sentence means *every one, no matter which*: *Any student can join* means every student, without exception.",
+      "usage": "Common in speech and writing; in speech, *any* is stressed (*ANY doctor will tell you that*). It is usually followed by a singular countable or an uncountable noun, and it differs from unstressed *any* in questions and negatives (*Do you have any questions?*). *Anyone, anything* and *any time* work the same way.",
+      "pattern": "any + singular noun (stressed) = every one, no matter which",
+      "examples": [
+        "**Any** doctor will tell you that sleep matters as much as exercise.",
+        "Come by **any time**; we're home all weekend.",
+        "**Any** kid in the neighborhood can join the summer league for free."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Any pharmacy}} can fill this prescription, so don't drive across town.",
+        "hint": "Say it with any: Every pharmacy, no matter which one, can fill this prescription, so don't drive across town."
+      },
+      "mistake": {
+        "wrong": "Any student can't enter the building after nine.",
+        "right": "No student can enter the building after nine.",
+        "why": "*Any* cannot be the subject of a negative verb; use *no* + noun instead."
+      }
+    }
+  ]
+}

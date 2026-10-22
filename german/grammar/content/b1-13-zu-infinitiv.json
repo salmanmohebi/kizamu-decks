@@ -1,0 +1,718 @@
+{
+  "topic_id": "b1-13-zu-infinitiv",
+  "level": "B1",
+  "title_de": "zu + Infinitiv (Infinitivsätze)",
+  "title_en": "Infinitive clauses with zu",
+  "rule": {
+    "summary": "An infinitive clause with **zu** (Infinitivsatz) replaces a *dass* clause when it is clear who does the action: the subject of the main clause (*Ich hoffe, bald zu kommen*), the object of the main verb (*Ich bitte dich, zu warten*), or people in general after *es ist* + adjective (*Es ist wichtig, früh aufzustehen*). The clause has no subject and no finite verb; **zu** + infinitive stands at its very end. With **um … zu**, **ohne … zu** and **(an)statt … zu** it expresses a purpose, a missing action or an alternative.",
+    "table": "| Trigger | Beispiel |\n|---|---|\n| Verb: *versuchen, vergessen, anfangen, aufhören, vorhaben, planen, hoffen, versprechen* | Ich versuche, mehr **zu lesen**. |\n| Verb + Objekt: *bitten, raten, empfehlen, erlauben, verbieten* | Ich bitte dich, **zu warten**. |\n| *es ist* + Adjektiv, *es macht Spaß, es freut mich* | Es ist wichtig, früh **aufzustehen**. |\n| Nomen: *Zeit, Lust, Angst, Möglichkeit* | Ich habe keine Zeit, **zu kochen**. |\n| **um … zu** (Zweck) | Er spart, **um** ein Auto **zu kaufen**. |\n| **ohne … zu** | Er ging, **ohne** etwas **zu sagen**. |\n| **(an)statt … zu** | Sie arbeitet, **statt zu schlafen**. |\n| trennbares Verb | an**zu**rufen, auf**zu**stehen, kennen**zu**lernen |\n| untrennbares Verb | **zu** bezahlen, **zu** verstehen, **zu** entspannen |",
+    "steps": [
+      "Check who does the second action. Same person as the subject of the main clause, the object of the main verb (*bitten, raten*), or people in general (*es ist wichtig*) → infinitive clause. A new subject → *dass* clause with a finite verb.",
+      "Check the main verb: modal verbs, *werden*, *lassen* and *sehen/hören* take a bare infinitive without *zu*. Most other verbs, and all adjectives and nouns, need *zu*.",
+      "Leave out the subject and put **zu** + infinitive at the end of the clause. Objects, adverbs and reflexive pronouns stand in front of it (*den Text zu verstehen, mich zu entspannen*).",
+      "Separable verb → *zu* between prefix and stem, written as one word (*einzukaufen*). Inseparable prefix (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) → *zu* stays separate (*zu verstehen*).",
+      "Purpose → **um … zu**; without doing → **ohne … zu**; instead of doing → **(an)statt … zu**. Put a comma before these clauses."
+    ],
+    "pitfalls": [
+      "*zu* after a modal verb: ✗ *Ich muss morgen früh zu arbeiten.* → ✓ *Ich muss morgen früh arbeiten.*",
+      "Wrong place of *zu*: ✗ *zu anrufen* → ✓ *anzurufen* (separable); ✗ *bezuzahlen* → ✓ *zu bezahlen* (inseparable).",
+      "A subject inside the infinitive clause: ✗ *Ich hoffe, du bald gesund zu werden.* → ✓ *Ich hoffe, dass du bald gesund wirst.*",
+      "English *for* / *in order to* in the wrong place: ✗ *Ich gehe ins Bett für zu schlafen.* → ✓ *Ich gehe ins Bett, um zu schlafen.* But no *um* after *es ist* + adjective: ✗ *Es ist schwer, um Deutsch zu lernen.* → ✓ *Es ist schwer, Deutsch zu lernen.*",
+      "Objects after the infinitive: ✗ *Ich versuche, zu lernen die Wörter.* → ✓ *Ich versuche, die Wörter zu lernen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich habe vor, nach Berlin {{c1::zu}} fahren.",
+      "en": "I plan to go to Berlin.",
+      "focus": "Infinitivsatz nach *vorhaben*",
+      "explanation": "*vorhaben* (to plan, to intend) is separable: *habe* is in position 2 and the prefix *vor* closes the main clause before the comma. The plan follows as an infinitive clause. The person who travels is the subject *ich*, so the clause has no subject of its own and ends with **zu** + *fahren*.",
+      "pattern": "vorhaben, … **zu** + Infinitiv",
+      "mistake": {"wrong": "Ich habe vor, nach Berlin fahren.", "why": "*vorhaben* is a full verb, not a modal verb. The second verb needs *zu*: *nach Berlin zu fahren*."},
+      "examples": [
+        {"de": "Wir haben vor, im Herbst nach Leipzig zu ziehen.", "en": "We're planning to move to Leipzig in the autumn."},
+        {"de": "Hast du vor, heute Abend noch zu arbeiten?", "en": "Are you planning to work this evening?"}
+      ],
+      "words": [{"de": "vorhaben", "en": "to plan, to intend"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Es ist wichtig, früh {{c1::aufzustehen::aufstehen}}.",
+      "en": "It's important to get up early.",
+      "focus": "*es ist* + Adjektiv · trennbares Verb",
+      "explanation": "After *es ist* + adjective (*wichtig*) the infinitive clause says what is important; *es* only holds the place of this clause. *aufstehen* is separable, so *zu* goes between the prefix and the stem, written as one word: auf + zu + stehen → **aufzustehen**.",
+      "pattern": "Es ist + Adj., … Präfix-**zu**-Verb",
+      "mistake": {"wrong": "Es ist wichtig, früh zu aufstehen.", "why": "With a separable verb *zu* does not stand before the whole verb. It goes inside, between prefix and stem: *aufzustehen*."},
+      "examples": [
+        {"de": "Es ist besser, rechtzeitig anzufangen.", "en": "It's better to start in good time."},
+        {"de": "Es ist nicht nötig, sich vorher anzumelden.", "en": "It isn't necessary to register in advance."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie versucht, mehr Sport {{c1::zu}} machen.",
+      "en": "She's trying to do more sport.",
+      "focus": "Infinitivsatz nach *versuchen*",
+      "explanation": "*versuchen* (to try) is completed by an infinitive clause with *zu*. The subject *sie* is the same for both actions, so it is not repeated. The object *mehr Sport* stands before the infinitive, and **zu** + *machen* closes the clause.",
+      "pattern": "versuchen, + Objekt + **zu** + Infinitiv",
+      "mistake": {"wrong": "Sie versucht, zu machen mehr Sport.", "why": "In an infinitive clause *zu* + infinitive is always the last element. Objects and adverbs come before it: *mehr Sport zu machen*."},
+      "examples": [
+        {"de": "Er versucht, weniger Zucker zu essen.", "en": "He's trying to eat less sugar."},
+        {"de": "Ich versuche, jeden Tag zehn neue Wörter zu lernen.", "en": "I try to learn ten new words every day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich habe vergessen, dich {{c1::anzurufen::anrufen}}.",
+      "en": "I forgot to call you.",
+      "focus": "Perfekt im Hauptsatz · trennbares Verb",
+      "explanation": "The main clause is in the Perfekt: *habe … vergessen*. The Partizip II closes the main clause, and the infinitive clause follows after the comma. *anrufen* is separable → an + zu + rufen → **anzurufen**. The Akkusativ pronoun *dich* stands before the infinitive.",
+      "pattern": "hat vergessen, + Objekt + Präfix-**zu**-Verb",
+      "mistake": {"wrong": "Ich habe vergessen, dich zu anrufen.", "why": "*anrufen* is separable (*Ich rufe dich an*), so *zu* goes between *an* and *rufen*: *anzurufen*, written as one word."},
+      "examples": [
+        {"de": "Hast du vergessen, den Herd auszuschalten?", "en": "Did you forget to switch off the cooker?"},
+        {"de": "Sie hat vergessen, ihre Schwester einzuladen.", "en": "She forgot to invite her sister."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Es macht Spaß, mit dir {{c1::zu}} reden.",
+      "en": "It's fun talking to you.",
+      "focus": "Infinitivsatz nach *es macht Spaß*",
+      "explanation": "In *Es macht Spaß* the word *es* is only a placeholder; the real subject is the infinitive clause *mit dir zu reden* (what is fun?). The prepositional phrase *mit dir* stands first, and **zu** + *reden* closes the clause.",
+      "pattern": "Es macht Spaß, … **zu** + Infinitiv",
+      "mistake": {"wrong": "Es macht Spaß, mit dir reden.", "why": "*Spaß machen* is not a modal verb construction. The verb in the clause needs *zu*: *mit dir zu reden*."},
+      "examples": [
+        {"de": "Es macht Spaß, mit Freunden zu kochen.", "en": "It's fun to cook with friends."},
+        {"de": "Macht es dir Spaß, im Chor zu singen?", "en": "Do you enjoy singing in the choir?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir hoffen, bald {{c1::zu}} kommen.",
+      "en": "We hope to come soon.",
+      "focus": "Infinitivsatz nach *hoffen* · gleiches Subjekt",
+      "explanation": "Two statements with the same subject: *Wir hoffen* + *Wir kommen bald*. Because *wir* is already the subject of *hoffen*, the second clause loses its subject and its finite verb: *bald* **zu** *kommen*. With a different subject you would need *dass*.",
+      "pattern": "hoffen, … **zu** + Infinitiv (Subjekt = Subjekt)",
+      "mistake": {"wrong": "Wir hoffen, dass wir bald zu kommen.", "why": "This mixes two structures. Use either a *dass* clause with a finite verb (*dass wir bald kommen*) or an infinitive clause without a subject (*bald zu kommen*)."},
+      "examples": [
+        {"de": "Ich hoffe, dich bald wiederzusehen.", "en": "I hope to see you again soon."},
+        {"de": "Sie hofft, im Sommer mehr Zeit zu haben.", "en": "She hopes to have more time in the summer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Es ist nicht leicht, eine neue Sprache {{c1::zu}} lernen.",
+      "en": "It's not easy to learn a new language.",
+      "focus": "*es ist* + Adjektiv · Akkusativobjekt",
+      "explanation": "*Es ist nicht leicht* is followed by the clause that says what is not easy. *eine neue Sprache* is the Akkusativ object of *lernen* and stands before it; **zu** + *lernen* comes last. The clause is general: it is about anyone, so no subject is needed.",
+      "pattern": "Es ist nicht + Adj., + Objekt + **zu** + Infinitiv",
+      "mistake": {"wrong": "Es ist nicht leicht, um eine neue Sprache zu lernen.", "why": "*um … zu* expresses a purpose (in order to). Here the clause is the real subject of *es ist nicht leicht*, not a purpose, so it takes plain *zu*."},
+      "examples": [
+        {"de": "Es ist nicht einfach, eine günstige Wohnung zu finden.", "en": "It isn't easy to find an affordable flat."},
+        {"de": "Es ist schwierig, alle Termine im Kopf zu behalten.", "en": "It's difficult to keep all the appointments in your head."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich gehe ins Bett, um {{c1::zu}} schlafen.",
+      "en": "I'm going to bed to sleep.",
+      "focus": "Zweck · *um* …",
+      "explanation": "*um … zu* gives the purpose (*Wozu gehe ich ins Bett?*). *um* opens the infinitive clause and **zu** + infinitive closes it; here nothing stands between them, so the clause is just *um zu schlafen*. This works because the subject of both actions is *ich*.",
+      "pattern": "Hauptsatz, **um** … **zu** + Infinitiv",
+      "mistake": {"wrong": "Ich gehe ins Bett, für zu schlafen.", "why": "This copies English *for*. German expresses a purpose with *um … zu*, never with *für* + verb."},
+      "examples": [
+        {"de": "Er spart Geld, um ein Auto zu kaufen.", "en": "He's saving money to buy a car."},
+        {"de": "Sie geht in die Küche, um Tee zu machen.", "en": "She's going into the kitchen to make tea."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er ging weg, ohne etwas {{c1::zu}} sagen.",
+      "en": "He left without saying anything.",
+      "focus": "*ohne* … · fehlende Handlung",
+      "explanation": "*ohne … zu* says that an expected action did not happen. *ohne* opens the clause, the object *etwas* stands in the middle, and **zu** *sagen* closes it. English uses *without* + -ing; German never uses a participle here, always *zu* + infinitive.",
+      "pattern": "Hauptsatz, **ohne** … **zu** + Infinitiv",
+      "mistake": {"wrong": "Er ging weg, ohne etwas sagen.", "why": "Without *zu*, *ohne* can only be a preposition with a noun (*ohne ein Wort*). Before a verb it needs *zu*: *ohne etwas zu sagen*."},
+      "examples": [
+        {"de": "Sie kaufte das Kleid, ohne den Preis anzusehen.", "en": "She bought the dress without looking at the price."},
+        {"de": "Er fuhr los, ohne sich anzuschnallen.", "en": "He drove off without putting on his seat belt."}
+      ],
+      "words": [{"de": "weggehen", "en": "to leave, to go away"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie arbeitet, statt {{c1::zu}} schlafen.",
+      "en": "She's working instead of sleeping.",
+      "focus": "Alternative · *statt* …",
+      "explanation": "*(an)statt … zu* names the action that someone does not do; the main clause says what they do instead. Here the clause is very short: *statt* **zu** *schlafen*. *statt* and *anstatt* mean the same; *anstatt* is a little more formal.",
+      "pattern": "Hauptsatz, **(an)statt** … **zu** + Infinitiv",
+      "mistake": {"wrong": "Sie arbeitet, statt schlafen.", "why": "Without *zu*, *statt* is a preposition and needs a noun (*statt einer Pause*). Before a verb it must be *statt … zu*."},
+      "examples": [
+        {"de": "Er schreibt Nachrichten, statt zuzuhören.", "en": "He's writing messages instead of listening."},
+        {"de": "Wir nehmen die Treppe, statt auf den Aufzug zu warten.", "en": "We're taking the stairs instead of waiting for the lift."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Es freut mich, dich {{c1::zu}} sehen.",
+      "en": "I'm glad to see you.",
+      "focus": "Infinitivsatz nach *es freut mich*",
+      "explanation": "In *Es freut mich* the person who is glad is the Akkusativ object *mich*, and the same person does the seeing, so no new subject is needed. The object pronoun *dich* stands before **zu** *sehen*. The same meaning with a reflexive verb: *Ich freue mich, dich zu sehen*.",
+      "pattern": "Es freut mich, + Objekt + **zu** + Infinitiv",
+      "mistake": {"wrong": "Es freut mich, zu sehen dich.", "why": "Object pronouns are not placed after the infinitive. In the clause *zu sehen* comes last: *dich zu sehen*."},
+      "examples": [
+        {"de": "Es freut mich, von dir zu hören.", "en": "I'm glad to hear from you."},
+        {"de": "Es freut uns, Ihnen unser neues Angebot vorzustellen.", "en": "We're pleased to present our new offer to you."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Hör auf, so laut {{c1::zu}} reden!",
+      "en": "Stop talking so loudly!",
+      "focus": "Imperativ von *aufhören* + Infinitivsatz",
+      "explanation": "*Hör auf* is the du-imperative of the separable verb *aufhören*. The prefix *auf* closes the main clause before the comma; the action that should stop follows as an infinitive clause: *so laut* **zu** *reden*. English uses -ing (*stop talking*), German uses *zu* + infinitive.",
+      "pattern": "Hör auf, … **zu** + Infinitiv!",
+      "mistake": {"wrong": "Hör so laut zu reden auf!", "why": "The infinitive clause does not go inside the main clause. *auf* closes the main clause, then the clause follows: *Hör auf, so laut zu reden!*"},
+      "examples": [
+        {"de": "Hör endlich auf, dich zu beschweren!", "en": "Will you stop complaining!"},
+        {"de": "Hören Sie bitte auf, hier zu rauchen!", "en": "Please stop smoking here!"}
+      ],
+      "words": [{"de": "aufhören", "en": "to stop"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich habe Lust, ins Kino {{c1::zu}} gehen.",
+      "en": "I feel like going to the cinema.",
+      "focus": "Infinitivsatz nach Nomen · *Lust haben*",
+      "explanation": "The infinitive clause explains the noun *Lust* (what do I feel like?). *ins Kino* comes first, **zu** *gehen* last. Because the clause depends on a noun, the comma is required.",
+      "pattern": "Lust haben, … **zu** + Infinitiv",
+      "mistake": {"wrong": "Ich habe Lust auf ins Kino gehen.", "why": "*Lust auf* is followed by a noun (*Lust auf Kino*). With a verb you need an infinitive clause: *Lust, ins Kino zu gehen*."},
+      "examples": [
+        {"de": "Hast du Lust, am Samstag schwimmen zu gehen?", "en": "Do you feel like going swimming on Saturday?"},
+        {"de": "Ich habe heute keine Lust, zu kochen.", "en": "I don't feel like cooking today."}
+      ],
+      "words": [{"de": "Lust haben", "en": "to feel like (doing sth.)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir planen, im Juli {{c1::zu}} heiraten.",
+      "en": "We're planning to get married in July.",
+      "focus": "Infinitivsatz nach *planen*",
+      "explanation": "*planen* is a full verb and takes an infinitive clause with *zu*. The time phrase *im Juli* stands before the infinitive, and **zu** *heiraten* closes the clause. Compare the modal verb *wollen*, which takes no *zu*: *Wir wollen im Juli heiraten.*",
+      "pattern": "planen, + Zeitangabe + **zu** + Infinitiv",
+      "mistake": {"wrong": "Wir planen, im Juli heiraten.", "why": "Only modal verbs (and a few others like *werden, lassen*) take a bare infinitive. *planen* needs *zu*."},
+      "examples": [
+        {"de": "Die Firma plant, im nächsten Jahr neue Leute einzustellen.", "en": "The company is planning to hire new people next year."},
+        {"de": "Wir planen, am Wochenende an den See zu fahren.", "en": "We're planning to drive to the lake at the weekend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Es ist gefährlich, allein nachts {{c1::zu}} laufen.",
+      "en": "It's dangerous to walk alone at night.",
+      "focus": "*es ist* + Adjektiv · Stellung von *zu*",
+      "explanation": "*Es ist gefährlich* is completed by the clause that says what is dangerous. The adverbs *allein* and *nachts* stand before the infinitive, and **zu** comes directly before *laufen* (the order *nachts allein* is more common, but both are possible). Nothing can stand between *zu* and the infinitive.",
+      "pattern": "Es ist + Adj., + Adverbien + **zu** + Infinitiv",
+      "mistake": {"wrong": "Es ist gefährlich, zu allein nachts laufen.", "why": "*zu* belongs directly to the infinitive. Adverbs go in front of *zu*, not between *zu* and the verb."},
+      "examples": [
+        {"de": "Es ist gefährlich, bei Gewitter im See zu schwimmen.", "en": "It's dangerous to swim in the lake during a thunderstorm."},
+        {"de": "Es ist verboten, hier schneller als 30 zu fahren.", "en": "It's forbidden to drive faster than 30 here."}
+      ],
+      "words": [{"de": "laufen", "en": "to walk, to run"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Es ist Zeit, {{c1::zu}} gehen.",
+      "en": "It's time to go.",
+      "focus": "Infinitiv nach Nomen · *Zeit*",
+      "explanation": "The infinitive explains the noun *Zeit* (time for what?). Here it is a bare infinitive without other words: **zu** *gehen*. Because it depends on a noun, the comma is usual.",
+      "pattern": "Es ist Zeit, **zu** + Infinitiv",
+      "mistake": {"wrong": "Es ist Zeit für gehen.", "why": "German does not use *für* + verb. After a noun like *Zeit* the action follows as *zu* + infinitive."},
+      "examples": [
+        {"de": "Es ist Zeit, nach Hause zu fahren.", "en": "It's time to drive home."},
+        {"de": "Jetzt ist es Zeit, Abschied zu nehmen.", "en": "Now it's time to say goodbye."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie hat angefangen, Deutsch {{c1::zu}} lernen.",
+      "en": "She has started learning German.",
+      "focus": "Perfekt von *anfangen* + Infinitivsatz",
+      "explanation": "*anfangen* is in the Perfekt (*hat angefangen*); the Partizip II closes the main clause. What she started follows as an infinitive clause: *Deutsch* **zu** *lernen*. English allows *start learning* with -ing, but German always needs *zu* + infinitive here.",
+      "pattern": "hat angefangen, + Objekt + **zu** + Infinitiv",
+      "mistake": {"wrong": "Sie hat angefangen, Deutsch lernen.", "why": "*anfangen* belongs to the verbs with *zu*. Only modal verbs and a few others (*werden, lassen, sehen, hören*) take a bare infinitive."},
+      "examples": [
+        {"de": "Er hat angefangen, jeden Morgen zu joggen.", "en": "He has started jogging every morning."},
+        {"de": "Wir haben angefangen, das Bad zu renovieren.", "en": "We've started renovating the bathroom."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich verspreche, pünktlich {{c1::zu}} sein.",
+      "en": "I promise to be on time.",
+      "focus": "Infinitivsatz nach *versprechen* · *sein*",
+      "explanation": "*versprechen* takes an infinitive clause when the person who promises also does the action (*ich*). The verb *sein* has its normal infinitive form; the adjective *pünktlich* stands before it: *pünktlich* **zu** *sein*.",
+      "pattern": "versprechen, + Adj. + **zu** sein",
+      "mistake": {"wrong": "Ich verspreche, ich pünktlich zu sein.", "why": "An infinitive clause never has its own subject. The subject *ich* is already in the main clause."},
+      "examples": [
+        {"de": "Er verspricht, nächstes Mal vorsichtiger zu sein.", "en": "He promises to be more careful next time."},
+        {"de": "Wir versprechen, leise zu sein.", "en": "We promise to be quiet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Es ist schwer, ohne Hilfe {{c1::zu}} arbeiten.",
+      "en": "It's hard to work without help.",
+      "focus": "*es ist* + Adjektiv · Präposition im Infinitivsatz",
+      "explanation": "Careful: here *ohne* is a preposition with a noun (*ohne Hilfe*), not the connector *ohne … zu*. The infinitive clause after *Es ist schwer* is *ohne Hilfe zu arbeiten*, and the verb still needs its own **zu**.",
+      "pattern": "Es ist + Adj., + Präp.-Gruppe + **zu** + Infinitiv",
+      "mistake": {"wrong": "Es ist schwer, ohne Hilfe arbeiten.", "why": "*ohne* belongs to *Hilfe* here, so it does not replace *zu*. The infinitive after *es ist schwer* needs *zu*."},
+      "examples": [
+        {"de": "Es ist schwer, ohne Auto auf dem Land zu leben.", "en": "It's hard to live in the countryside without a car."},
+        {"de": "Es ist angenehm, mit offenem Fenster zu schlafen.", "en": "It's pleasant to sleep with the window open."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Du brauchst nicht {{c1::zu}} kommen.",
+      "en": "You don't need to come.",
+      "focus": "*brauchen* + *nicht* · Ersatz für *müssen*",
+      "explanation": "*nicht brauchen* + **zu** + infinitive is the usual negation of *müssen* (you don't have to). Unlike *müssen*, *brauchen* in this meaning takes *zu*. It is used with *nicht, kein* or *nur*: *Du brauchst nur anzurufen.*",
+      "pattern": "nicht/nur brauchen + **zu** + Infinitiv",
+      "mistake": {"wrong": "Du musst nicht zu kommen.", "why": "*müssen* is a modal verb and never takes *zu*: *Du musst nicht kommen.* Only *brauchen* takes *zu*. (In speech *Du brauchst nicht kommen* is common, but standard German keeps *zu*.)"},
+      "examples": [
+        {"de": "Sie brauchen keine Formulare auszufüllen.", "en": "You don't need to fill in any forms."},
+        {"de": "Ihr braucht heute nicht zu kochen.", "en": "You don't need to cook today."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Ich bitte dich, das Fenster {{c1::zuzumachen::zumachen}}.",
+      "en": "I'm asking you to close the window.",
+      "focus": "Infinitivsatz nach *bitten* · trennbares Verb",
+      "explanation": "With *bitten* the person who must act is the Akkusativ object *dich*, not the subject *ich*. An infinitive clause is still correct, because this person is already named in the main clause. *zumachen* is separable (prefix *zu-*), so the particle goes inside: zu + zu + machen → **zuzumachen**.",
+      "pattern": "jemanden bitten, … Präfix-**zu**-Verb",
+      "mistake": {"wrong": "Ich bitte dich, das Fenster zu zumachen.", "why": "The prefix and the infinitive particle are both *zu*, but they form one word: *zuzumachen*, like *aufzumachen*."},
+      "examples": [
+        {"de": "Er bittet uns, die Tür abzuschließen.", "en": "He asks us to lock the door."},
+        {"de": "Die Lehrerin bittet die Schüler, ihre Handys auszuschalten.", "en": "The teacher asks the pupils to switch off their phones."}
+      ],
+      "words": [{"de": "zumachen", "en": "to close, to shut"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Sie lernt Deutsch, {{c1::um::Zweck}} in Wien zu studieren.",
+      "en": "She's learning German in order to study in Vienna.",
+      "focus": "Zweck · gleiches Subjekt",
+      "explanation": "The clause gives the purpose (*Wozu lernt sie Deutsch?*). The subject of both actions is *sie*, so German uses **um** … *zu*: *um* opens the clause, *zu studieren* closes it, and *in Wien* stands between them.",
+      "pattern": "Hauptsatz, **um** + Ergänzung + zu + Infinitiv",
+      "mistake": {"wrong": "Sie lernt Deutsch, damit sie in Wien zu studieren.", "why": "*damit* opens a normal Nebensatz with a finite verb and no *zu*: *damit sie in Wien studieren kann*. With the same subject, *um … zu* is the normal choice."},
+      "examples": [
+        {"de": "Er nimmt ein Taxi, um den Zug nicht zu verpassen.", "en": "He's taking a taxi so as not to miss the train."},
+        {"de": "Wir sparen jeden Monat, um im Sommer nach Kanada zu fliegen.", "en": "We save every month so that we can fly to Canada in the summer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Sie hat den Vertrag unterschrieben, ohne ihn genau {{c1::durchzulesen::durchlesen}}.",
+      "en": "She signed the contract without reading it carefully.",
+      "focus": "*ohne … zu* · trennbares Verb",
+      "explanation": "*ohne … zu* names the action that did not happen. The pronoun *ihn* (= *den Vertrag*) is the Akkusativ object inside the clause and stands before the verb. *durchlesen* is separable (*Ich lese den Text durch*) → durch + zu + lesen → **durchzulesen**.",
+      "pattern": "Hauptsatz, ohne + Objekt + Präfix-**zu**-Verb",
+      "mistake": {"wrong": "Sie hat den Vertrag unterschrieben, ohne ihn genau zu durchlesen.", "why": "*durch-* is a separable prefix here, so *zu* goes between prefix and stem: *durchzulesen*. Compare inseparable *unterschreiben* → *zu unterschreiben*."},
+      "examples": [
+        {"de": "Er ist losgefahren, ohne das Licht einzuschalten.", "en": "He drove off without switching on the lights."},
+        {"de": "Sie hat das Gerät benutzt, ohne die Anleitung anzuschauen.", "en": "She used the device without looking at the instructions."}
+      ],
+      "words": [{"de": "der Vertrag (¨-e)", "en": "contract"}, {"de": "durchlesen", "en": "to read through"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Anstatt den Bus zu nehmen, {{c1::fährt er::er · fahren}} mit dem Fahrrad zur Arbeit.",
+      "en": "Instead of taking the bus, he cycles to work.",
+      "focus": "Hauptsatz nach vorangestelltem Infinitivsatz",
+      "explanation": "The infinitive clause *Anstatt den Bus zu nehmen* stands at the start and fills position 1 (Vorfeld) of the whole sentence. So the finite verb of the main clause comes directly after the comma, in position 2, and the subject follows: **fährt er**.",
+      "pattern": "Infinitivsatz (Vorfeld), + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Anstatt den Bus zu nehmen, er fährt mit dem Fahrrad zur Arbeit.", "why": "A clause in the Vorfeld counts as position 1. The main clause therefore starts with the verb: *fährt er*, not *er fährt*."},
+      "examples": [
+        {"de": "Statt den Fehler zuzugeben, beschuldigt er seine Kollegen.", "en": "Instead of admitting the mistake, he blames his colleagues."},
+        {"de": "Um Zeit zu sparen, kochen wir am Sonntag für die ganze Woche.", "en": "To save time, we cook for the whole week on Sunday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Hast du Zeit, mir beim Umzug {{c1::zu helfen::helfen}}?",
+      "en": "Do you have time to help me with the move?",
+      "focus": "Infinitivsatz nach Nomen · *Zeit haben*",
+      "explanation": "The infinitive clause explains the noun *Zeit* (time for what?), so a comma is required. *helfen* takes the Dativ, so *mir* is the Dativ object; it stands before the verb, and **zu helfen** closes the clause.",
+      "pattern": "Nomen (Zeit/Lust/Möglichkeit), … **zu** + Infinitiv",
+      "mistake": {"wrong": "Hast du Zeit, mir beim Umzug helfen?", "why": "After a noun such as *Zeit, Lust, Angst* or *Möglichkeit* the verb needs *zu*: *mir beim Umzug zu helfen*."},
+      "examples": [
+        {"de": "Hast du Lust, am Samstag mit uns zu grillen?", "en": "Do you fancy having a barbecue with us on Saturday?"},
+        {"de": "Wir haben leider keine Möglichkeit, den Termin zu verschieben.", "en": "Unfortunately we have no way of postponing the appointment."}
+      ],
+      "words": [{"de": "der Umzug (¨-e)", "en": "move (to a new home)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Nach der Arbeit versuche ich, {{c1::mich zu entspannen::sich entspannen}}.",
+      "en": "After work I try to relax.",
+      "focus": "Reflexives Verb im Infinitivsatz",
+      "explanation": "*sich entspannen* is reflexive. In the infinitive clause the reflexive pronoun agrees with the person who relaxes, the subject *ich* → **mich**. The pronoun stands before *zu*, and *zu* stays separate because *ent-* is an inseparable prefix: **mich zu entspannen**.",
+      "pattern": "versuchen, + Reflexivpronomen (= Subjekt) + zu + Infinitiv",
+      "mistake": {"wrong": "Nach der Arbeit versuche ich, sich zu entspannen.", "why": "*sich* is only for the 3rd person and *Sie*. The pronoun follows the real actor: *ich* → *mich*."},
+      "examples": [
+        {"de": "Wir versuchen, uns jeden Tag ein bisschen zu bewegen.", "en": "We try to get a bit of exercise every day."},
+        {"de": "Versuch doch, dich zu beruhigen!", "en": "Do try to calm down!"}
+      ],
+      "words": [{"de": "sich entspannen", "en": "to relax"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich hoffe, {{c1::dass::Konjunktion}} du bald wieder gesund wirst.",
+      "en": "I hope you get well again soon.",
+      "focus": "Subjektwechsel nach *hoffen*",
+      "explanation": "The subject of *hoffen* is *ich*, but the person who gets well is *du*. An infinitive clause cannot show a new subject, so here you need a **dass** clause with its own subject and the finite verb *wirst* at the end.",
+      "pattern": "hoffen, **dass** + neues Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Ich hoffe, du bald wieder gesund zu werden.", "why": "An infinitive clause has no subject. When the subjects differ (*ich* / *du*), use *dass* + finite verb."},
+      "examples": [
+        {"de": "Wir hoffen, dass ihr gut angekommen seid.", "en": "We hope you've arrived safely."},
+        {"de": "Sie hofft, dass ihr Sohn die Prüfung besteht.", "en": "She hopes her son passes the exam."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Arzt hat mir geraten, weniger Kaffee {{c1::zu trinken::trinken}}.",
+      "en": "The doctor advised me to drink less coffee.",
+      "focus": "Infinitivsatz nach *raten* + Dativ",
+      "explanation": "*raten* takes a Dativ (*mir*), and this Dativ person is the one who should act. So the subjects differ (*der Arzt* / *ich*), but an infinitive clause is still correct, because the actor is named in the main clause. The same works with *empfehlen, erlauben, verbieten*. The clause ends with **zu trinken**.",
+      "pattern": "jemandem raten, + Objekt + **zu** + Infinitiv",
+      "mistake": {"wrong": "Der Arzt hat mir geraten, zu trinken weniger Kaffee.", "why": "The object *weniger Kaffee* stands before the infinitive. *zu trinken* is the last element of the clause."},
+      "examples": [
+        {"de": "Meine Kollegin hat mir empfohlen, den Kurs online zu machen.", "en": "My colleague recommended that I take the course online."},
+        {"de": "Die Ärztin hat ihm verboten, schwer zu heben.", "en": "The doctor has told him not to lift anything heavy."}
+      ],
+      "words": [{"de": "raten (+ Dat.)", "en": "to advise"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Mir ist es wichtig, regelmäßig mit meinen Eltern {{c1::zu telefonieren::telefonieren}}.",
+      "en": "It's important to me to talk to my parents on the phone regularly.",
+      "focus": "*mir ist es wichtig* · Verb ohne Präfix",
+      "explanation": "*Mir ist es wichtig* (Dativ *mir* = for me) is a variant of *Es ist wichtig*. With *mir* in the Vorfeld, *es* moves into the Mittelfeld, where it still points to the infinitive clause. *telefonieren* has no prefix, so the form is simply **zu telefonieren**.",
+      "pattern": "Mir ist es + Adj., … **zu** + Infinitiv",
+      "mistake": {"wrong": "Mir ist es wichtig, regelmäßig mit meinen Eltern telefonieren.", "why": "After an adjective like *wichtig* there is no modal verb to license a bare infinitive. The verb needs *zu*."},
+      "examples": [
+        {"de": "Ihr ist es wichtig, jeden Abend etwas Zeit für sich zu haben.", "en": "It's important to her to have some time to herself every evening."},
+        {"de": "Ihm ist es peinlich, vor der Klasse zu singen.", "en": "He's embarrassed to sing in front of the class."}
+      ],
+      "words": [{"de": "regelmäßig", "en": "regularly"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Vergiss nicht, die Rechnung {{c1::zu bezahlen::bezahlen}}!",
+      "en": "Don't forget to pay the bill!",
+      "focus": "*vergessen* · untrennbares Präfix",
+      "explanation": "*vergessen* is completed by an infinitive clause with *zu*. *bezahlen* has the inseparable prefix *be-* (*ich bezahle*, not *ich zahle … be*), so *zu* stays a separate word before the whole verb: **zu bezahlen**. Compare separable *abholen* → *abzuholen*.",
+      "pattern": "vergessen, … **zu** + untrennbares Verb",
+      "mistake": {"wrong": "Vergiss nicht, die Rechnung bezuzahlen!", "why": "*be-* is not a separable prefix, so *zu* cannot go inside the verb. It stands before it: *zu bezahlen*."},
+      "examples": [
+        {"de": "Vergiss nicht, deine Großeltern zu besuchen!", "en": "Don't forget to visit your grandparents!"},
+        {"de": "Vergessen Sie nicht, das Formular zu unterschreiben!", "en": "Don't forget to sign the form!"}
+      ],
+      "words": [{"de": "die Rechnung (-en)", "en": "bill, invoice"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Viele Menschen haben Angst, vor Publikum {{c1::zu sprechen::sprechen}}.",
+      "en": "Many people are afraid of speaking in front of an audience.",
+      "focus": "Infinitivsatz nach Nomen · *Angst haben*",
+      "explanation": "The infinitive clause says what people are afraid of; it depends on the noun *Angst*, so the comma is required. English uses *of* + -ing, German uses no preposition here and puts **zu sprechen** at the end. (*vor Publikum* is a prepositional phrase inside the clause.)",
+      "pattern": "Angst haben, … **zu** + Infinitiv",
+      "mistake": {"wrong": "Viele Menschen haben Angst von vor Publikum sprechen.", "why": "This copies English *afraid of speaking*. German needs an infinitive clause: *Angst, vor Publikum zu sprechen* (or *Angst davor, … zu sprechen*)."},
+      "examples": [
+        {"de": "Er hat Angst, seinen Job zu verlieren.", "en": "He's afraid of losing his job."},
+        {"de": "Sie hat keine Angst, Fehler zu machen.", "en": "She isn't afraid of making mistakes."}
+      ],
+      "words": [{"de": "das Publikum", "en": "audience"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich freue mich, Sie endlich persönlich {{c1::kennenzulernen::kennenlernen}}.",
+      "en": "I'm pleased to finally meet you in person.",
+      "focus": "*sich freuen* · trennbares Verb mit *kennen*",
+      "explanation": "*sich freuen* takes an infinitive clause when the same person is glad and acts (*ich*). *kennenlernen* behaves like a separable verb (*Ich lerne ihn kennen*), so *zu* goes before *lernen*: kennen + zu + lernen → **kennenzulernen**, one word.",
+      "pattern": "sich freuen, + Objekt + kennen**zu**lernen",
+      "mistake": {"wrong": "Ich freue mich, Sie endlich persönlich zu kennenlernen.", "why": "*kennen* works like a separable prefix here, so *zu* stands between *kennen* and *lernen*: *kennenzulernen*."},
+      "examples": [
+        {"de": "Ich freue mich, euch am Wochenende wiederzusehen.", "en": "I'm looking forward to seeing you again at the weekend."},
+        {"de": "Er freut sich, nächste Woche mit dem neuen Job anzufangen.", "en": "He's looking forward to starting the new job next week."}
+      ],
+      "words": [{"de": "kennenlernen", "en": "to get to know, to meet (for the first time)"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about when an infinitive clause is possible.",
+      "prompt": "When can you replace a dass clause with a zu-infinitive clause?",
+      "answer": "When the actor of the second clause is already clear: it is the **subject** of the main clause (*Er verspricht, zu kommen*), the **object** of the main verb (*Ich bitte dich, zu warten*), or people **in general** (*Es ist wichtig, …*). With a new subject you need **dass**.",
+      "explanation": "An infinitive clause has no subject, so the listener must find the actor in the main clause. If the actor is a third person who is not named there, only a *dass* clause can show it.",
+      "examples": [
+        {"de": "Er verspricht, morgen pünktlich zu kommen.", "en": "He promises to come on time tomorrow."},
+        {"de": "Er verspricht, dass seine Frau morgen auch kommt.", "en": "He promises that his wife will come tomorrow too."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the position of zu in the verb.",
+      "prompt": "Where does zu go with separable verbs, and where with inseparable verbs?",
+      "answer": "Separable verbs: *zu* goes **between prefix and stem**, one word: auf**zu**räumen, ein**zu**kaufen, kennen**zu**lernen. Inseparable prefixes (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*): *zu* stands **before** the verb as a separate word: **zu** verstehen, **zu** bezahlen.",
+      "explanation": "The rule follows the Partizip II: where *ge-* goes in the participle, *zu* goes in the infinitive (*auf-ge-räumt → auf-zu-räumen*). Verbs that have no *ge-* (inseparable prefix, *-ieren*) take a separate *zu* in front (*zu telefonieren*).",
+      "examples": [
+        {"de": "Wir fangen gleich an, das Zimmer aufzuräumen.", "en": "We're about to start tidying the room."},
+        {"de": "Es ist schwer, diesen Text zu verstehen.", "en": "It's hard to understand this text."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about infinitives without zu.",
+      "prompt": "Which verbs are followed by an infinitive without zu?",
+      "answer": "The **modal verbs** (*können, müssen, dürfen, sollen, wollen, möchten*), **werden** (Futur), **lassen**, the perception verbs **sehen** and **hören**, and motion verbs like **gehen** and **fahren** (*einkaufen gehen*). Almost all other verbs take *zu*.",
+      "explanation": "Learners often put *zu* after *möchten* or *müssen* because English *to* follows *want* and *have*. In German these verbs build one verb unit with a bare infinitive. *brauchen* is the opposite case: in *nicht/nur brauchen* standard German uses *zu*.",
+      "examples": [
+        {"de": "Ich kann heute leider nicht kommen.", "en": "Unfortunately I can't come today."},
+        {"de": "Ich habe heute leider keine Zeit, vorbeizukommen.", "en": "Unfortunately I have no time to drop by today."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two ways to express a purpose.",
+      "prompt": "When do you use um … zu and when damit?",
+      "answer": "**um … zu** when the subject of the purpose is the same as in the main clause. **damit** + Nebensatz (verb at the end, no *zu*) when the subjects are different; *damit* is also possible with the same subject.",
+      "explanation": "*um … zu* cannot show a new subject. In *Ich erkläre es dir, damit du es verstehst* the one who understands is *du*, not *ich*, so only *damit* works. Never combine them: ✗ *damit … zu*.",
+      "examples": [
+        {"de": "Ich lerne viel, um die Prüfung zu bestehen.", "en": "I'm studying a lot to pass the exam."},
+        {"de": "Ich erkläre es dir noch einmal, damit du es verstehst.", "en": "I'll explain it to you again so that you understand it."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about commas.",
+      "prompt": "When must you put a comma before a zu-infinitive clause?",
+      "answer": "When the clause starts with **um, ohne, (an)statt** (also *außer, als*); when it depends on a **noun** (*Ich habe keine Zeit, …*); and when a word like **es** or **daran** points to it (*Ich liebe es, …*, *Er denkt daran, …*). After a plain verb such as *versuchen* the comma is optional.",
+      "explanation": "After a verb such as *beschließen, versuchen, vergessen* the comma may be left out, but most writers set it because it makes the sentence clearer. Setting it before a real infinitive clause is never wrong. But *brauchen* and *scheinen* + *zu* form one verb unit with the infinitive and take no comma: *Du brauchst nicht zu kommen.*",
+      "examples": [
+        {"de": "Ich habe keine Zeit, ins Fitnessstudio zu gehen.", "en": "I have no time to go to the gym."},
+        {"de": "Er hat beschlossen, den Job zu wechseln.", "en": "He has decided to change jobs."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the word that fits the purpose clause.",
+      "prompt": "Er fährt nach Hamburg, ___ seine Großmutter zu besuchen.",
+      "options": ["um", "damit", "für", "weil"],
+      "correct": "um",
+      "answer": "Er fährt nach Hamburg, um seine Großmutter zu besuchen.",
+      "explanation": "The clause gives a purpose and has the same subject (*er*), and it ends with *zu besuchen* → *um … zu*. *damit* and *weil* open a Nebensatz with a finite verb and no *zu* (*weil er … besuchen will*). *für* cannot introduce a verb."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Es ist gesund, jeden Tag spazieren ___.",
+      "options": ["gehen", "zu gehen", "zugehen", "gehen zu"],
+      "correct": "zu gehen",
+      "answer": "Es ist gesund, jeden Tag spazieren zu gehen.",
+      "explanation": "After *es ist* + adjective the verb needs *zu*. *spazieren gehen* is written as two words, so *zu* stands before the last verb: *spazieren zu gehen*. *gehen* lacks *zu*, *zugehen* is a different verb (to happen, to close), and *gehen zu* has the wrong order."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Wir haben heute keine Lust, ___.",
+      "options": ["auszugehen", "zu ausgehen", "ausgehen", "ausgezugehen"],
+      "correct": "auszugehen",
+      "answer": "Wir haben heute keine Lust, auszugehen.",
+      "explanation": "*Lust haben* is followed by *zu* + infinitive. *ausgehen* is separable, so *zu* goes between *aus* and *gehen*: *auszugehen*. *zu ausgehen* puts *zu* in the wrong place, *ausgehen* has no *zu*, and *ausgezugehen* mixes in the *ge-* of the participle."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe vergessen, die Tür zu abschließen.",
+      "answer": "Ich habe vergessen, die Tür abzuschließen.",
+      "explanation": "*abschließen* is separable (*Ich schließe die Tür ab*). *zu* must go between the prefix and the stem: *abzuschließen*, written as one word."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir möchten morgen ins Museum zu gehen.",
+      "answer": "Wir möchten morgen ins Museum gehen.",
+      "explanation": "*möchten* is a modal verb. Modal verbs take a bare infinitive at the end of the clause, never *zu*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich gehe zum Supermarkt, um Milch kaufen.",
+      "answer": "Ich gehe zum Supermarkt, um Milch zu kaufen.",
+      "explanation": "*um* starts a purpose clause, and it always needs *zu* before the infinitive at the end: *um Milch zu kaufen*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie versucht, zu verstehen den Text.",
+      "answer": "Sie versucht, den Text zu verstehen.",
+      "explanation": "In an infinitive clause *zu* + infinitive is the last element. The Akkusativ object *den Text* must come before it."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace the dass clause with an infinitive clause.",
+      "prompt": "Ich hoffe, dass ich bald eine Wohnung finde.",
+      "answer": "Ich hoffe, bald eine Wohnung zu finden.",
+      "explanation": "Both clauses have the subject *ich*, so an infinitive clause is possible. Delete *dass* and the subject, change the finite verb *finde* to the infinitive and put *zu* before it: *bald eine Wohnung zu finden*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with the verb in brackets as the main verb (Präsens).",
+      "prompt": "Lena lernt jeden Tag Vokabeln. (versuchen)",
+      "answer": "Lena versucht, jeden Tag Vokabeln zu lernen.",
+      "explanation": "*versuchen* becomes the finite verb in position 2. The old sentence becomes an infinitive clause without subject: *jeden Tag Vokabeln* stays in front, *zu lernen* goes to the end."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Report the request with bitten + zu-infinitive.",
+      "prompt": "Sie sagt zu ihrem Mann: „Kauf bitte Brot!“",
+      "answer": "Sie bittet ihren Mann, Brot zu kaufen.",
+      "explanation": "*bitten* takes the person as an Akkusativ object (*ihren Mann*), and this person is the actor of the request. The imperative *Kauf!* becomes the infinitive clause *Brot zu kaufen*; *bitte* is not needed any more."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with ohne … zu.",
+      "prompt": "Sie verließ das Büro. Sie verabschiedete sich nicht.",
+      "answer": "Sie verließ das Büro, ohne sich zu verabschieden.",
+      "explanation": "The second sentence names an action that did not happen, with the same subject → *ohne … zu*. The negation *nicht* disappears, because *ohne* already means *not*. The reflexive pronoun *sich* stays and comes before *zu verabschieden*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with statt … zu.",
+      "prompt": "Er sieht fern. Eigentlich sollte er lernen.",
+      "answer": "Er sieht fern, statt zu lernen.",
+      "explanation": "The second sentence names the action he does not do. *statt … zu* replaces it with an infinitive clause: the subject and the modal verb *sollte* disappear, and *lernen* gets *zu*."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "versprochen / hat / mir / anzurufen / er / heute Abend",
+      "answer": "Er hat mir versprochen, heute Abend anzurufen.",
+      "explanation": "The main clause in the Perfekt: *Er hat mir versprochen* (Dativ *mir* in the Mittelfeld, participle at the end). The infinitive clause follows after the comma, with *anzurufen* last. *Er hat mir heute Abend versprochen, anzurufen* is also grammatical, but then *heute Abend* belongs to the promise, not to the call."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Es",
+      "prompt": "ist / neue Leute / es / kennenzulernen / schön",
+      "answer": "Es ist schön, neue Leute kennenzulernen.",
+      "explanation": "*Es ist schön* is the main clause; *es* points to the infinitive clause. The object *neue Leute* comes before *kennenzulernen*. Also correct, without *es*: *Neue Leute kennenzulernen ist schön.*"
+    }
+  ]
+}

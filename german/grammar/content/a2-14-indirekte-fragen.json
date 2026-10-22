@@ -1,0 +1,942 @@
+{
+  "topic_id": "a2-14-indirekte-fragen",
+  "level": "A2",
+  "title_de": "Indirekte Fragen (ob, W-Fragen)",
+  "title_en": "Indirect questions (ob, W-questions)",
+  "rule": {
+    "summary": "An indirect question is a question inside a longer sentence (*Weißt du, …? Ich frage mich, … Können Sie mir sagen, …?*). It is a Nebensatz, so the finite verb goes to the **end**. A W-question keeps its question word (*wo, wann, warum, wie viel, wem, mit wem …*); a yes/no question is introduced with **ob** (English *if / whether*). Indirect questions sound more polite than direct ones and are very frequent in service situations.",
+    "table": "| direkte Frage | indirekte Frage |\n|---|---|\n| Wo **ist** der Bahnhof? | Können Sie mir sagen, wo der Bahnhof **ist**? |\n| Wann **fängt** der Film **an**? | Weißt du, wann der Film **anfängt**? |\n| Warum **hat** er nicht **angerufen**? | Ich verstehe nicht, warum er nicht angerufen **hat**. |\n| **Kommt** er morgen? | Ich weiß nicht, **ob** er morgen **kommt**. |\n| **Kannst** du mir helfen? | Sie fragt, **ob** ich ihr helfen **kann**. |",
+    "steps": [
+      "Look at the direct question: does it start with a W-word? Keep that word (with its preposition: *mit wem, woher*). Is it a yes/no question? Use **ob**.",
+      "Put a comma after the introducing clause (*Ich weiß nicht, …*).",
+      "After the W-word or *ob*: subject, then the other parts, then the finite verb **last**; separable verbs stay together, auxiliaries and modals come after the other verb (*angerufen hat, helfen kann*).",
+      "Check the case of *wer*: subject → *wer*, Akkusativ → *wen*, Dativ → *wem*, possessive → *wessen* + noun.",
+      "Punctuation: a question mark only if the main clause is a question (*Weißt du, …?*); otherwise a full stop (*Ich weiß nicht, …*)."
+    ],
+    "pitfalls": [
+      "Direct-question order inside the Nebensatz: ✗ *Weißt du, wo ist der Bahnhof?* → ✓ *Weißt du, wo der Bahnhof ist?*",
+      "*wenn* for English *if*: ✗ *Ich weiß nicht, wenn er kommt.* → ✓ *Ich weiß nicht, ob er kommt.*",
+      "*dass* instead of *ob*: ✗ *Sie fragt, dass ich Zeit habe.* → ✓ *Sie fragt, ob ich Zeit habe.* After *fragen* and *sich fragen* use *ob*, never *dass*.",
+      "Split separable verb: ✗ *…, wann der Kurs fängt an.* → ✓ *…, wann der Kurs anfängt.*",
+      "Preposition at the end (English style): ✗ *…, wem sie mit arbeitet.* → ✓ *…, mit wem sie arbeitet.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich weiß nicht, {{c1::ob::ja/nein}} er kommt.",
+      "en": "I don't know if he's coming.",
+      "focus": "Ja/Nein-Frage · indirekt",
+      "explanation": "The direct question is *Kommt er?*, a yes/no question without a W-word. In indirect form it is introduced with **ob**, and the verb *kommt* goes to the end. The main clause is a statement, so the sentence ends with a full stop.",
+      "pattern": "Ich weiß nicht, ob + Subjekt + Verb.",
+      "mistake": {"wrong": "Ich weiß nicht, wenn er kommt.", "why": "English *if* has two meanings. For 'whether' German uses *ob*; *wenn* is only for conditions and time."},
+      "examples": [
+        {"de": "Ich weiß nicht, ob sie noch im Büro ist.", "en": "I don't know if she's still in the office."},
+        {"de": "Wir wissen nicht, ob es morgen regnet.", "en": "We don't know whether it will rain tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie fragt, {{c1::ob::ja/nein}} ich Zeit habe.",
+      "en": "She's asking if I have time.",
+      "focus": "Wiedergabe einer Ja/Nein-Frage",
+      "explanation": "She asked *Hast du Zeit?*. To report this yes/no question, use *fragen* + **ob**. The person changes from *du* to *ich*, and *habe* goes to the end of the Nebensatz.",
+      "pattern": "fragen, ob + Subjekt + … + Verb",
+      "mistake": {"wrong": "Sie fragt, dass ich Zeit habe.", "why": "*dass* introduces a statement, not a question. After *fragen* a yes/no question is always introduced with *ob*."},
+      "examples": [
+        {"de": "Er fragt, ob wir einen Parkplatz brauchen.", "en": "He's asking if we need a parking space."},
+        {"de": "Die Kellnerin fragt, ob wir schon bestellen möchten.", "en": "The waitress is asking if we'd like to order yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Können Sie mir sagen, {{c1::wo::Ort}} der Bahnhof ist?",
+      "en": "Can you tell me where the station is?",
+      "focus": "Höfliche Frage nach dem Ort",
+      "explanation": "The direct question *Wo ist der Bahnhof?* is put inside the polite frame *Können Sie mir sagen, …?*. The W-word **wo** stays, but the verb *ist* moves to the end. The whole sentence is a question, so it ends with a question mark.",
+      "pattern": "Können Sie mir sagen, W-Wort + Subjekt + Verb?",
+      "mistake": {"wrong": "Können Sie mir sagen, wo ist der Bahnhof?", "why": "The question order *wo ist* belongs only to the direct question. In the indirect question the verb goes to the end: *wo der Bahnhof ist*."},
+      "examples": [
+        {"de": "Können Sie mir sagen, wo die nächste Apotheke ist?", "en": "Can you tell me where the nearest pharmacy is?"},
+        {"de": "Können Sie mir sagen, wo ich ein Ticket kaufen kann?", "en": "Can you tell me where I can buy a ticket?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich frage mich, {{c1::wann::Zeit}} der Film beginnt.",
+      "en": "I wonder when the film starts.",
+      "focus": "Frage nach der Zeit · *sich fragen*",
+      "explanation": "*sich fragen* (to wonder) introduces a question you ask yourself. The question asks for a time, so the W-word is **wann**. In the Nebensatz *beginnt* comes last. The main clause is a statement, so a full stop ends the sentence.",
+      "pattern": "Ich frage mich, wann + Subjekt + Verb.",
+      "mistake": {"wrong": "Ich frage mich, wenn der Film beginnt.", "why": "*wenn* is a conjunction ('when, if'), not a question word. A question about the time always uses *wann*."},
+      "examples": [
+        {"de": "Ich frage mich, wann der Handwerker endlich kommt.", "en": "I wonder when the tradesman is finally coming."},
+        {"de": "Sie fragt sich, wann ihr Paket ankommt.", "en": "She wonders when her parcel will arrive."}
+      ],
+      "words": [{"de": "sich fragen", "en": "to wonder"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Weißt du, {{c1::wer::Person, Nom.}} das ist?",
+      "en": "Do you know who that is?",
+      "focus": "Frage nach einer Person · Nominativ",
+      "explanation": "The direct question is *Wer ist das?*. **wer** is the Nominativ form, because with *sein* the person is in the Nominativ. In the indirect question the verb *ist* moves to the end: *wer das ist*.",
+      "pattern": "Weißt du, wer + das + ist?",
+      "mistake": {"wrong": "Weißt du, wer ist das?", "why": "This keeps the order of the direct question. After *Weißt du,* the question becomes a Nebensatz: *wer das ist*."},
+      "examples": [
+        {"de": "Weißt du, wer heute Abend kocht?", "en": "Do you know who's cooking tonight?"},
+        {"de": "Weißt du, wer die Party organisiert?", "en": "Do you know who's organising the party?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sag mir, {{c1::was::Sache}} du machst.",
+      "en": "Tell me what you're doing.",
+      "focus": "Frage nach einer Sache · Imperativ davor",
+      "explanation": "The direct question is *Was machst du?*. After the imperative *Sag mir* it becomes an indirect question with **was** and the verb *machst* at the end. The main clause is a request, not a question, so the sentence ends with a full stop.",
+      "pattern": "Imperativ + mir, W-Wort + Subjekt + Verb.",
+      "mistake": {"wrong": "Sag mir, was machst du.", "why": "After *Sag mir,* the question is a Nebensatz, so the verb goes to the end: *was du machst*."},
+      "examples": [
+        {"de": "Sag mir, was du brauchst.", "en": "Tell me what you need."},
+        {"de": "Erzähl mal, was du am Wochenende gemacht hast.", "en": "Tell me what you did at the weekend."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich verstehe nicht, {{c1::warum::Grund}} er das macht.",
+      "en": "I don't understand why he's doing that.",
+      "focus": "Frage nach dem Grund",
+      "explanation": "The question asks for a reason, so the W-word is **warum**. In the Nebensatz the subject *er* follows the W-word, then the object *das*, and the verb *macht* is last. *nicht* in the main clause belongs to *verstehe*.",
+      "pattern": "Ich verstehe nicht, warum + Subjekt + Objekt + Verb.",
+      "mistake": {"wrong": "Ich verstehe nicht, warum er macht das.", "why": "The object *das* comes before the verb, and the verb closes the Nebensatz: *warum er das macht*."},
+      "examples": [
+        {"de": "Ich verstehe nicht, warum der Zug so oft Verspätung hat.", "en": "I don't understand why the train is so often late."},
+        {"de": "Sie versteht nicht, warum ihr Computer so langsam ist.", "en": "She doesn't understand why her computer is so slow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie weiß nicht, {{c1::wie::Art und Weise}} es funktioniert.",
+      "en": "She doesn't know how it works.",
+      "focus": "Frage nach der Art und Weise",
+      "explanation": "The question asks about the method (*how?*), so the W-word is **wie**. The subject *es* follows directly, and the verb *funktioniert* goes to the end. *-ieren* verbs are regular: *es funktioniert*.",
+      "pattern": "Sie weiß nicht, wie + Subjekt + Verb.",
+      "mistake": {"wrong": "Sie weiß nicht, wie funktioniert es.", "why": "*wie funktioniert es* is the direct question. Inside the sentence it becomes *wie es funktioniert*."},
+      "examples": [
+        {"de": "Er weiß nicht, wie man diesen Drucker bedient.", "en": "He doesn't know how to use this printer."},
+        {"de": "Ich weiß nicht, wie das passiert ist.", "en": "I don't know how that happened."}
+      ],
+      "words": [{"de": "funktionieren", "en": "to work, to function"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich frage mich, {{c1::ob::ja/nein}} das richtig ist.",
+      "en": "I wonder if that's right.",
+      "focus": "Zweifel · *sich fragen* + Ja/Nein-Frage",
+      "explanation": "The question in my head is *Ist das richtig?*, a yes/no question. After *sich fragen* it is introduced with **ob**. In the Nebensatz the subject *das*, then *richtig*, and the verb *ist* last.",
+      "pattern": "Ich frage mich, ob + Subjekt + … + Verb.",
+      "mistake": {"wrong": "Ich frage mich, dass das richtig ist.", "why": "You cannot 'wonder that'. *sich fragen* introduces a question, and a yes/no question needs *ob*."},
+      "examples": [
+        {"de": "Ich frage mich, ob der Preis fair ist.", "en": "I wonder if the price is fair."},
+        {"de": "Er fragt sich, ob er die richtige Entscheidung getroffen hat.", "en": "He wonders whether he made the right decision."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Können Sie sehen, {{c1::welche::welch- → Nom. f.}} Tasche meine ist?",
+      "en": "Can you see which bag is mine?",
+      "focus": "Auswahl · *welch-* + Nomen",
+      "explanation": "*welch-* asks for a choice between several things and takes the endings of *der/die/das*. *Tasche* is feminine and the subject of *ist* → **welche**. *welche Tasche* stays together at the start of the Nebensatz, and *ist* goes to the end; *meine* is the possessive pronoun ('mine').",
+      "pattern": "…, welch- + Nomen + … + Verb?",
+      "mistake": {"wrong": "Können Sie sehen, welche Tasche ist meine?", "why": "In the indirect question the verb *ist* cannot follow the question phrase directly; it goes to the end: *welche Tasche meine ist*."},
+      "examples": [
+        {"de": "Weißt du, welcher Bus zum Krankenhaus fährt?", "en": "Do you know which bus goes to the hospital?"},
+        {"de": "Ich weiß nicht, welches Kleid ich nehmen soll.", "en": "I don't know which dress to take."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er fragt, {{c1::ob::ja/nein}} wir morgen kommen.",
+      "en": "He's asking if we're coming tomorrow.",
+      "focus": "Wiedergabe · Personwechsel",
+      "explanation": "He asked us *Kommt ihr morgen?*. When we report it, *ihr* becomes *wir*, and the yes/no question is introduced with **ob**. The time *morgen* stands in the middle, and *kommen* goes to the end.",
+      "pattern": "fragen, ob + Subjekt + Zeit + Verb",
+      "mistake": {"wrong": "Er fragt, kommen wir morgen.", "why": "A reported yes/no question cannot keep the direct question form. It needs *ob* and the verb at the end: *ob wir morgen kommen*."},
+      "examples": [
+        {"de": "Sie fragt, ob wir am Samstag Zeit haben.", "en": "She's asking if we have time on Saturday."},
+        {"de": "Mein Chef fragt, ob ich heute länger bleiben kann.", "en": "My boss is asking if I can stay longer today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich weiß nicht, {{c1::wo::Ort}} mein Schlüssel ist.",
+      "en": "I don't know where my key is.",
+      "focus": "Ort (Position) · *sein*",
+      "explanation": "The question asks for a position, not a direction, so the W-word is **wo** (compare *wohin* for a direction). The subject *mein Schlüssel* follows, and *ist* closes the Nebensatz.",
+      "pattern": "Ich weiß nicht, wo + Subjekt + sein.",
+      "mistake": {"wrong": "Ich weiß nicht, wohin mein Schlüssel ist.", "why": "*wohin* asks for a direction and needs a verb of movement (*wohin ich ihn gelegt habe*). With *sein* (position) the question word is *wo*. (Colloquial *wo mein Schlüssel hin ist* asks a different question: 'where my key has gone'.)"},
+      "examples": [
+        {"de": "Ich weiß nicht, wo meine Brille ist.", "en": "I don't know where my glasses are."},
+        {"de": "Weißt du, wo die Kinder sind?", "en": "Do you know where the children are?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wissen Sie, {{c1::wann::Zeit}} der Bus kommt?",
+      "en": "Do you know when the bus is coming?",
+      "focus": "Frage nach der Zeit · formell",
+      "explanation": "*Wissen Sie, …?* is a polite way to ask a stranger. The question asks for a time → **wann**. The subject *der Bus* follows the W-word and *kommt* goes to the end; the main clause is a question, so a question mark ends the sentence.",
+      "pattern": "Wissen Sie, wann + Subjekt + Verb?",
+      "mistake": {"wrong": "Wissen Sie, wann kommt der Bus?", "why": "*wann kommt der Bus* is direct-question order. In the indirect question the verb moves to the end: *wann der Bus kommt*."},
+      "examples": [
+        {"de": "Wissen Sie, wann die Bank öffnet?", "en": "Do you know when the bank opens?"},
+        {"de": "Wissen Sie, wann der Arzt wieder Sprechstunde hat?", "en": "Do you know when the doctor has office hours again?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er fragt, {{c1::wer::Person, Nom.}} der neue Kollege ist.",
+      "en": "He's asking who the new colleague is.",
+      "focus": "Person · Nominativ mit *sein*",
+      "explanation": "With *sein* both sides are in the Nominativ: *Wer ist der neue Kollege?*. So the W-word is the Nominativ **wer**. In the indirect question *der neue Kollege* follows, and *ist* goes to the end.",
+      "pattern": "fragen, wer + Nomen (Nom.) + ist",
+      "mistake": {"wrong": "Er fragt, wen der neue Kollege ist.", "why": "*wen* is Akkusativ. *sein* does not take an Akkusativ object; both parts are Nominativ, so it must be *wer*."},
+      "examples": [
+        {"de": "Sie fragt, wer der Chef hier ist.", "en": "She's asking who the boss is here."},
+        {"de": "Wir fragen uns, wer die neue Nachbarin ist.", "en": "We wonder who the new neighbour is."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sag mir, {{c1::wo::Ort}} du wohnst.",
+      "en": "Tell me where you live.",
+      "focus": "Ort · *wohnen*",
+      "explanation": "*wohnen* describes a place where you are, so the W-word is **wo**. After the imperative *Sag mir* the question is a Nebensatz: subject *du*, verb *wohnst* at the end. The sentence is a request and ends with a full stop.",
+      "pattern": "Sag mir, wo + Subjekt + Verb.",
+      "mistake": {"wrong": "Sag mir, wo wohnst du.", "why": "The direct question *Wo wohnst du?* changes its order inside the sentence: *wo du wohnst*."},
+      "examples": [
+        {"de": "Sag mir, wo du arbeitest.", "en": "Tell me where you work."},
+        {"de": "Schreib mir, wo ihr übernachtet.", "en": "Write and tell me where you're staying."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich weiß nicht, {{c1::wie viel::Menge/Preis}} das kostet.",
+      "en": "I don't know how much that costs.",
+      "focus": "Frage nach dem Preis",
+      "explanation": "**wie viel** (how much, written as two words) counts as one question word and opens the Nebensatz. The subject *das* follows, and *kostet* is last.",
+      "pattern": "Ich weiß nicht, wie viel + Subjekt + kosten.",
+      "mistake": {"wrong": "Ich weiß nicht, wie viel kostet das.", "why": "After the question word the subject comes first and the verb goes to the end: *wie viel das kostet*."},
+      "examples": [
+        {"de": "Ich weiß nicht, wie viel Geld wir noch haben.", "en": "I don't know how much money we have left."},
+        {"de": "Weißt du, wie viel ein Ticket nach Prag kostet?", "en": "Do you know how much a ticket to Prague costs?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie fragt, {{c1::ob::ja/nein}} ich heute Zeit habe.",
+      "en": "She's asking if I have time today.",
+      "focus": "Ja/Nein-Frage · Zeitangabe im Mittelfeld",
+      "explanation": "The direct question was *Hast du heute Zeit?*. In the indirect form **ob** comes first, then *ich*, then the time *heute* and the object *Zeit*, and *habe* at the very end.",
+      "pattern": "fragen, ob + Subjekt + Zeit + Objekt + Verb",
+      "mistake": {"wrong": "Sie fragt, ob ich habe heute Zeit.", "why": "*ob* starts a Nebensatz, so *habe* cannot stay in position 2. It goes to the end: *ob ich heute Zeit habe*."},
+      "examples": [
+        {"de": "Er fragt, ob ich heute Abend mitkomme.", "en": "He's asking if I'm coming along this evening."},
+        {"de": "Die Lehrerin fragt, ob wir morgen frei haben.", "en": "The teacher is asking if we have the day off tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Können Sie mir sagen, {{c1::wo::Ort}} der Ausgang ist?",
+      "en": "Can you tell me where the exit is?",
+      "focus": "Höfliche Bitte um Information",
+      "explanation": "*Können Sie mir sagen, …?* makes a request for information polite. The question asks for a place → **wo**. The subject *der Ausgang* follows and *ist* goes to the end.",
+      "pattern": "Können Sie mir sagen, wo + Subjekt + ist?",
+      "mistake": {"wrong": "Können Sie mir sagen, wo ist der Ausgang?", "why": "Inside the polite frame the question is a Nebensatz, so the verb goes to the end: *wo der Ausgang ist*."},
+      "examples": [
+        {"de": "Können Sie mir sagen, wo die Toiletten sind?", "en": "Can you tell me where the toilets are?"},
+        {"de": "Könnten Sie mir sagen, wo hier eine Bushaltestelle ist?", "en": "Could you tell me where there's a bus stop around here?"}
+      ],
+      "words": [{"de": "der Ausgang (¨-e)", "en": "exit"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich frage mich, {{c1::was::Sache}} sie denkt.",
+      "en": "I wonder what she's thinking.",
+      "focus": "Frage nach einer Sache · *sich fragen*",
+      "explanation": "The direct question is *Was denkt sie?*. **was** asks for the content (the Akkusativ object of *denken*). In the Nebensatz the subject *sie* follows *was*, and *denkt* is last.",
+      "pattern": "Ich frage mich, was + Subjekt + Verb.",
+      "mistake": {"wrong": "Ich frage mich, was denkt sie.", "why": "*was denkt sie* is the direct question. Inside the sentence the verb goes to the end: *was sie denkt*."},
+      "examples": [
+        {"de": "Ich frage mich, was er jetzt macht.", "en": "I wonder what he's doing now."},
+        {"de": "Wir fragen uns, was das Wort bedeutet.", "en": "We wonder what the word means."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Weißt du, {{c1::warum::Grund}} er nicht kommt?",
+      "en": "Do you know why he isn't coming?",
+      "focus": "Grund · Negation im Nebensatz",
+      "explanation": "The question asks for a reason → **warum**. In the Nebensatz *nicht* stands directly before the verb, and the verb *kommt* is the last word. The main clause *Weißt du* is a question, so the sentence ends with a question mark.",
+      "pattern": "Weißt du, warum + Subjekt + nicht + Verb?",
+      "mistake": {"wrong": "Weißt du, warum er kommt nicht?", "why": "In a Nebensatz *nicht* comes before the finite verb, which is the last word: *warum er nicht kommt*."},
+      "examples": [
+        {"de": "Weißt du, warum der Laden heute nicht aufmacht?", "en": "Do you know why the shop isn't opening today?"},
+        {"de": "Weißt du, warum sie nicht antwortet?", "en": "Do you know why she isn't answering?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Weißt du, wo der Bahnhof {{c1::ist::sein}}?",
+      "en": "Do you know where the station is?",
+      "focus": "Verbposition in der indirekten Frage",
+      "explanation": "An indirect question is a Nebensatz, so the finite verb **ist** goes to the very end. The W-word *wo* opens the clause and the subject *der Bahnhof* follows.",
+      "pattern": "Weißt du, wo + Subjekt + Verb?",
+      "mistake": {"wrong": "Weißt du, wo ist der Bahnhof?", "why": "The verb stays in second position only in the direct question (*Wo ist der Bahnhof?*). In the indirect question it moves to the end."},
+      "examples": [
+        {"de": "Weißt du, wo das Rathaus ist?", "en": "Do you know where the town hall is?"},
+        {"de": "Weißt du, wo mein Handy liegt?", "en": "Do you know where my phone is?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Ich weiß nicht, {{c1::ob::ja/nein}} sich das lohnt.",
+      "en": "I don't know whether that's worth it.",
+      "focus": "Ja/Nein-Frage · reflexives Verb",
+      "explanation": "The direct question is *Lohnt sich das?*, a yes/no question, so the indirect form starts with **ob**. In the Nebensatz the reflexive pronoun *sich* often comes before the subject *das* (with a personal pronoun the subject comes first: *ob er sich freut*), and *lohnt* goes to the end.",
+      "pattern": "Ich weiß nicht, ob sich + Subjekt + Verb.",
+      "mistake": {"wrong": "Ich weiß nicht, ob lohnt sich das.", "why": "*ob* starts a Nebensatz, so the verb *lohnt* must go to the end: *ob sich das lohnt*."},
+      "examples": [
+        {"de": "Ich weiß nicht, ob sich die Reparatur noch lohnt.", "en": "I don't know whether the repair is still worth it."},
+        {"de": "Wir wissen nicht, ob sich der Aufwand lohnt.", "en": "We don't know whether the effort is worth it."}
+      ],
+      "words": [{"de": "sich lohnen", "en": "to be worth it"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Können Sie mir sagen, wie viel das {{c1::kostet::kosten}}?",
+      "en": "Can you tell me how much that costs?",
+      "focus": "Höfliche Preisfrage · Verb am Ende",
+      "explanation": "This polite formula is very useful in shops and offices. The question phrase *wie viel* opens the Nebensatz, the subject *das* follows, and **kostet** is the last word.",
+      "pattern": "Können Sie mir sagen, wie viel + Subjekt + kostet?",
+      "mistake": {"wrong": "Können Sie mir sagen, wie viel kostet das?", "why": "The direct-question order *kostet das* is not possible inside the sentence. The verb goes to the end: *wie viel das kostet*."},
+      "examples": [
+        {"de": "Können Sie mir sagen, wie viel die Fahrkarte kostet?", "en": "Can you tell me how much the ticket costs?"},
+        {"de": "Können Sie mir sagen, wie viel ich noch bezahlen muss?", "en": "Can you tell me how much I still have to pay?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er fragt, wann der Film {{c1::anfängt::anfangen}}.",
+      "en": "He's asking when the film starts.",
+      "focus": "Trennbares Verb in der indirekten Frage",
+      "explanation": "*anfangen* is separable. In the direct question it splits (*Wann fängt der Film an?*), but in the Nebensatz prefix and verb join at the end: **anfängt**. Keep the vowel change *a → ä* of the 3rd person singular.",
+      "pattern": "fragen, wann + Subjekt + Präfix·Verb",
+      "mistake": {"wrong": "Er fragt, wann der Film fängt an.", "why": "In a Nebensatz a separable verb is not split: *wann der Film anfängt*."},
+      "examples": [
+        {"de": "Sie fragt, wann der Kurs aufhört.", "en": "She's asking when the course ends."},
+        {"de": "Ich weiß nicht, wann der Zug abfährt.", "en": "I don't know when the train leaves."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ich möchte wissen, warum du nicht {{c1::angerufen::anrufen → Partizip II}} hast.",
+      "en": "I'd like to know why you didn't call.",
+      "focus": "Perfekt in der indirekten Frage",
+      "explanation": "In the Perfekt the Nebensatz ends with two verbs: first the Partizip II **angerufen**, then the finite auxiliary *hast*. *anrufen* is separable, so *-ge-* goes between prefix and stem: *an-ge-rufen*.",
+      "pattern": "…, warum + Subjekt + nicht + Partizip II + Hilfsverb",
+      "mistake": {"wrong": "Ich möchte wissen, warum du hast nicht angerufen.", "why": "The finite auxiliary *hast* is the last word of the Nebensatz, after the participle: *warum du nicht angerufen hast*."},
+      "examples": [
+        {"de": "Ich möchte wissen, warum ihr nichts gesagt habt.", "en": "I'd like to know why you didn't say anything."},
+        {"de": "Sie will wissen, wann er nach Hause gekommen ist.", "en": "She wants to know when he came home."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Sie hat gefragt, {{c1::ob::ja/nein}} wir Hilfe brauchen.",
+      "en": "She asked whether we needed help.",
+      "focus": "Ja/Nein-Frage · Hauptsatz im Perfekt",
+      "explanation": "The main clause is in the Perfekt (*hat gefragt*), but the question itself can stay in the present: *brauchen*. **ob** introduces it alone; it is never combined with *dass*. English usually shifts the tense (*needed*); German does not have to.",
+      "pattern": "hat gefragt, ob + Subjekt + Objekt + Verb",
+      "mistake": {"wrong": "Sie hat gefragt, ob dass wir Hilfe brauchen.", "why": "*ob* is already the conjunction of the Nebensatz. A second conjunction (*dass*) is not possible."},
+      "examples": [
+        {"de": "Er hat gefragt, ob wir einen Tisch reserviert haben.", "en": "He asked whether we had reserved a table."},
+        {"de": "Die Ärztin hat gefragt, ob ich Medikamente nehme.", "en": "The doctor asked whether I was taking any medication."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wissen Sie, wem dieser Koffer {{c1::gehört::gehören}}?",
+      "en": "Do you know who this suitcase belongs to?",
+      "focus": "Dativ-Fragewort · *gehören*",
+      "explanation": "*gehören* takes the owner in the Dativ (*Der Koffer gehört mir*), so the question word is the Dativ form *wem*. The subject *dieser Koffer* follows, and **gehört** goes to the end.",
+      "pattern": "Wissen Sie, wem + Subjekt + gehört?",
+      "mistake": {"wrong": "Wissen Sie, wer dieser Koffer gehört?", "why": "*wer* is Nominativ, but the owner after *gehören* is Dativ. The correct question word is *wem*."},
+      "examples": [
+        {"de": "Weißt du, wem das Fahrrad vor der Tür gehört?", "en": "Do you know who the bike outside the door belongs to?"},
+        {"de": "Wissen Sie, wem ich das Formular geben soll?", "en": "Do you know who I should give the form to?"}
+      ],
+      "words": [{"de": "der Koffer (-)", "en": "suitcase"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich habe keine Ahnung, was das {{c1::bedeutet::bedeuten}}.",
+      "en": "I have no idea what that means.",
+      "focus": "*keine Ahnung haben* + indirekte Frage",
+      "explanation": "*Ich habe keine Ahnung, …* (I have no idea) is a very common way to introduce an indirect question. *was* opens the Nebensatz, *das* is the subject, and **bedeutet** is last. *bedeuten* has a stem in *-t*, so it adds *-et*.",
+      "pattern": "Ich habe keine Ahnung, was + Subjekt + Verb.",
+      "mistake": {"wrong": "Ich habe keine Ahnung, was bedeutet das.", "why": "That is the order of the direct question. In the indirect question the verb goes to the end: *was das bedeutet*."},
+      "examples": [
+        {"de": "Ich habe keine Ahnung, wo wir sind.", "en": "I have no idea where we are."},
+        {"de": "Er hat keine Ahnung, wie man einen Reifen wechselt.", "en": "He has no idea how to change a tyre."}
+      ],
+      "words": [{"de": "keine Ahnung haben", "en": "to have no idea"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Sag mir bitte, wen du {{c1::eingeladen::einladen → Partizip II}} hast.",
+      "en": "Please tell me who you invited.",
+      "focus": "Akkusativ-Fragewort · Perfekt",
+      "explanation": "*einladen* takes an Akkusativ object (*Ich lade ihn ein*), so the question word is the Akkusativ *wen*. In the Nebensatz the Partizip II **eingeladen** (*ein-ge-laden*) comes before the auxiliary *hast*.",
+      "pattern": "…, wen + Subjekt + Partizip II + Hilfsverb",
+      "mistake": {"wrong": "Sag mir bitte, wer du eingeladen hast.", "why": "*wer* would be the subject, but the subject is *du*. The invited person is the Akkusativ object, so it must be *wen*."},
+      "examples": [
+        {"de": "Sag mir, wen du gestern getroffen hast.", "en": "Tell me who you met yesterday."},
+        {"de": "Weißt du, wen sie geheiratet hat?", "en": "Do you know who she married?"}
+      ],
+      "words": [{"de": "einladen", "en": "to invite"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Er will wissen, wie lange wir {{c1::bleiben::Verb · wir-Form}}.",
+      "en": "He wants to know how long we're staying.",
+      "focus": "Mehrteiliges Fragewort · Dauer",
+      "explanation": "*wie lange* (how long) counts as one question phrase and opens the Nebensatz together. The subject *wir* follows, and the verb **bleiben** goes to the end.",
+      "pattern": "…, wie lange + Subjekt + Verb",
+      "mistake": {"wrong": "Er will wissen, wie lange bleiben wir.", "why": "*wie lange bleiben wir* is direct-question order. In the Nebensatz: *wie lange wir bleiben*."},
+      "examples": [
+        {"de": "Sie will wissen, wie lange die Fahrt dauert.", "en": "She wants to know how long the journey takes."},
+        {"de": "Ich weiß nicht, wie lange er schon hier wohnt.", "en": "I don't know how long he has been living here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich frage mich, {{c1::ob::ja/nein}} das eine gute Idee war.",
+      "en": "I wonder whether that was a good idea.",
+      "focus": "Zweifel an einer Entscheidung · Präteritum",
+      "explanation": "*sich fragen, ob* expresses internal doubt. The yes/no question *War das eine gute Idee?* becomes a Nebensatz with **ob**, and *war* (Präteritum of *sein*) is the last word.",
+      "pattern": "Ich frage mich, ob + Subjekt + … + war.",
+      "mistake": {"wrong": "Ich frage mich, ob das war eine gute Idee.", "why": "The finite verb *war* must go behind *eine gute Idee* to the end: *ob das eine gute Idee war*."},
+      "examples": [
+        {"de": "Ich frage mich, ob das Hotel wirklich so gut war.", "en": "I wonder whether the hotel was really that good."},
+        {"de": "Sie fragt sich, ob die Entscheidung richtig war.", "en": "She wonders whether the decision was right."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Können Sie erklären, wie das {{c1::funktioniert::funktionieren}}?",
+      "en": "Can you explain how that works?",
+      "focus": "*-ieren*-Verb am Ende",
+      "explanation": "*funktionieren* is a regular *-ieren* verb: *es funktioniert*. It simply moves to the end of the indirect question after the subject *das*. *-ieren* verbs also form the Perfekt without *ge-* (*hat funktioniert*).",
+      "pattern": "Können Sie erklären, wie + Subjekt + Verb?",
+      "mistake": {"wrong": "Können Sie erklären, wie funktioniert das?", "why": "After *erklären* the question is a Nebensatz, so the verb goes to the end: *wie das funktioniert*."},
+      "examples": [
+        {"de": "Können Sie erklären, wie man das Formular ausfüllt?", "en": "Can you explain how to fill in the form?"},
+        {"de": "Kannst du mir zeigen, wie die App funktioniert?", "en": "Can you show me how the app works?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Wir wissen noch nicht, mit wem sie {{c1::arbeitet::arbeiten}}.",
+      "en": "We don't know yet who she's working with.",
+      "focus": "Präposition + Fragewort",
+      "explanation": "*mit* takes the Dativ, so the question word is *wem*. The preposition always stays in front of the question word: *mit wem*. *arbeitet* (stem in *-t* + *-et*) is the last word.",
+      "pattern": "…, Präposition + W-Wort + Subjekt + Verb",
+      "mistake": {"wrong": "Wir wissen noch nicht, wem sie mit arbeitet.", "why": "German does not put the preposition at the end like English (*who … with*). It stays in front of the question word: *mit wem sie arbeitet*."},
+      "examples": [
+        {"de": "Ich weiß nicht, mit wem er telefoniert.", "en": "I don't know who he's on the phone with."},
+        {"de": "Sie fragt, für wen das Geschenk ist.", "en": "She's asking who the present is for."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Sie hat gefragt, {{c1::wessen::Besitzer}} Auto vor der Tür steht.",
+      "en": "She asked whose car was parked outside the door.",
+      "focus": "Genitiv-Fragewort + Nomen",
+      "explanation": "**wessen** is the Genitiv of *wer* and asks for the owner. It stands directly before the noun, without an article: *wessen Auto*. The whole phrase opens the Nebensatz, and *steht* goes to the end.",
+      "pattern": "…, wessen + Nomen + … + Verb",
+      "mistake": {"wrong": "Sie hat gefragt, wessen das Auto vor der Tür steht.", "why": "*wessen* already does the job of the article. The noun follows directly: *wessen Auto*."},
+      "examples": [
+        {"de": "Weißt du, wessen Jacke das ist?", "en": "Do you know whose jacket that is?"},
+        {"de": "Niemand weiß, wessen Idee das war.", "en": "Nobody knows whose idea that was."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Ich bin nicht sicher, {{c1::ob::ja/nein}} der Laden heute geöffnet hat.",
+      "en": "I'm not sure whether the shop is open today.",
+      "focus": "Unsicherheit · Ja/Nein-Frage",
+      "explanation": "*nicht sicher sein* (to be unsure) is followed by an indirect yes/no question with **ob**. *geöffnet haben* means 'to be open'; in the Nebensatz the finite *hat* is last, after *geöffnet*.",
+      "pattern": "Ich bin nicht sicher, ob + Subjekt + … + Verb.",
+      "mistake": {"wrong": "Ich bin nicht sicher, wenn der Laden heute geöffnet hat.", "why": "English *I'm not sure if* uses *if* in the sense of 'whether': there are two possible answers (yes or no). That is an open question, so German needs *ob*; *wenn* is only for conditions and time."},
+      "examples": [
+        {"de": "Ich bin nicht sicher, ob ich die Tür abgeschlossen habe.", "en": "I'm not sure whether I locked the door."},
+        {"de": "Sie ist nicht sicher, ob der Termin noch steht.", "en": "She's not sure whether the appointment is still on."}
+      ],
+      "words": [{"de": "geöffnet haben", "en": "to be open (shop)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Kannst du mal nachsehen, {{c1::ob::ja/nein}} noch Milch im Kühlschrank ist?",
+      "en": "Can you check if there's any milk left in the fridge?",
+      "focus": "Englisch *if* · Ja/Nein-Frage",
+      "explanation": "English says *check if*, but this *if* means 'whether', so German needs **ob**. *nachsehen, ob …* (to check whether) is very common. Note the order in the Nebensatz: *noch Milch im Kühlschrank* in the middle, *ist* last.",
+      "pattern": "nachsehen, ob + … + Verb?",
+      "mistake": {"wrong": "Kannst du mal nachsehen, wenn noch Milch im Kühlschrank ist?", "why": "*wenn* means 'when / in case'. For an open yes/no question (*Ist noch Milch da?*) the conjunction is *ob*."},
+      "examples": [
+        {"de": "Kannst du nachsehen, ob die Post schon da ist?", "en": "Can you check if the post has come?"},
+        {"de": "Ich sehe mal nach, ob das Fenster zu ist.", "en": "I'll just check whether the window is closed."}
+      ],
+      "words": [{"de": "nachsehen", "en": "to check, to have a look"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Darf ich fragen, {{c1::woher::Herkunft}} Sie kommen?",
+      "en": "May I ask where you're from?",
+      "focus": "Höfliche Frage nach der Herkunft",
+      "explanation": "*Darf ich fragen, …?* makes a personal question polite. The question asks for the origin, so the W-word is **woher** (*Woher kommen Sie?*). In the Nebensatz *Sie* follows and *kommen* is last.",
+      "pattern": "Darf ich fragen, woher + Subjekt + Verb?",
+      "mistake": {"wrong": "Darf ich fragen, wo Sie herkommen von?", "why": "German has no preposition at the end. The origin is expressed with *woher* (or *wo … her*), never with *von* at the end: *woher Sie kommen*."},
+      "examples": [
+        {"de": "Darf ich fragen, wie alt Sie sind?", "en": "May I ask how old you are?"},
+        {"de": "Darf ich fragen, was Sie beruflich machen?", "en": "May I ask what you do for a living?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wir haben noch nicht entschieden, {{c1::wohin::Richtung/Ziel}} wir im Sommer fahren.",
+      "en": "We haven't decided yet where we're going in the summer.",
+      "focus": "Richtung / Ziel · Verb der Bewegung",
+      "explanation": "*fahren* is a verb of movement, and the question asks for the destination, so the W-word is **wohin** (*Wohin fahren wir?*). English uses *where* for both position and direction. In the Nebensatz *im Sommer* stands in the middle and *fahren* at the end.",
+      "pattern": "…, wohin + Subjekt + Zeit + Bewegungsverb",
+      "mistake": {"wrong": "Wir haben noch nicht entschieden, wo wir im Sommer fahren.", "why": "*wo* asks for a position. With a movement to a destination (*fahren*) the question word is *wohin*."},
+      "examples": [
+        {"de": "Ich weiß noch nicht, wohin ich nach dem Studium ziehe.", "en": "I don't know yet where I'll move after my studies."},
+        {"de": "Sag mir, wohin ich die Kiste stellen soll.", "en": "Tell me where I should put the box."}
+      ],
+      "words": [{"de": "entscheiden", "en": "to decide"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich weiß nicht, was ich anziehen {{c1::soll::sollen}}.",
+      "en": "I don't know what to wear.",
+      "focus": "Indirekte Frage · Modalverb am Ende",
+      "explanation": "*Was soll ich anziehen?* becomes *was ich anziehen soll*. In the Nebensatz the separable infinitive *anziehen* stays whole, and the finite modal **soll** is the last word. English often uses *what to* + infinitive here; German needs a full clause with *sollen*.",
+      "pattern": "…, was + Subjekt + Infinitiv + Modalverb",
+      "mistake": {"wrong": "Ich weiß nicht, was ich soll anziehen.", "why": "The finite modal *soll* goes to the end, behind the infinitive: *was ich anziehen soll*."},
+      "examples": [
+        {"de": "Er weiß nicht, wen er fragen soll.", "en": "He doesn't know who to ask."},
+        {"de": "Wir wissen nicht, wie wir das bezahlen sollen.", "en": "We don't know how we're supposed to pay for that."}
+      ],
+      "words": [{"de": "anziehen", "en": "to put on (clothes)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Hast du eine Ahnung, ob der Zug schon {{c1::abgefahren::abfahren → Partizip II}} ist?",
+      "en": "Do you have any idea whether the train has already left?",
+      "focus": "Ja/Nein-Frage · Perfekt mit *sein*",
+      "explanation": "*abfahren* is a movement verb, so its Perfekt uses *sein*. In the *ob* clause the Partizip II **abgefahren** (*ab-ge-fahren*) comes first and the finite auxiliary *ist* is last.",
+      "pattern": "…, ob + Subjekt + schon + Partizip II + sein?",
+      "mistake": {"wrong": "Hast du eine Ahnung, ob der Zug ist schon abgefahren?", "why": "The auxiliary *ist* is the finite verb of the Nebensatz, so it goes to the very end: *ob der Zug schon abgefahren ist*."},
+      "examples": [
+        {"de": "Weißt du, ob die Gäste schon angekommen sind?", "en": "Do you know whether the guests have already arrived?"},
+        {"de": "Ich weiß nicht, ob er schon ausgezogen ist.", "en": "I don't know whether he has already moved out."}
+      ],
+      "words": [{"de": "abfahren", "en": "to leave, to depart"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Kannst du mir sagen, {{c1::wie oft::Häufigkeit}} der Bus am Sonntag fährt?",
+      "en": "Can you tell me how often the bus runs on Sundays?",
+      "focus": "Frage nach der Häufigkeit",
+      "explanation": "**wie oft** (how often) is a question phrase of two words that stays together at the start of the Nebensatz. The subject *der Bus* follows, then the time *am Sonntag*, and the verb *fährt* last.",
+      "pattern": "…, wie oft + Subjekt + Zeit + Verb?",
+      "mistake": {"wrong": "Kannst du mir sagen, wie oft fährt der Bus am Sonntag?", "why": "*wie oft fährt der Bus* is direct-question order. In the indirect question the verb goes to the end: *wie oft der Bus am Sonntag fährt*."},
+      "examples": [
+        {"de": "Weißt du, wie oft er ins Fitnessstudio geht?", "en": "Do you know how often he goes to the gym?"},
+        {"de": "Ich frage mich, wie oft man die Pflanze gießen muss.", "en": "I wonder how often you have to water the plant."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich möchte gern wissen, {{c1::wann::Zeit}} das Büro morgen aufmacht.",
+      "en": "I'd like to know when the office opens tomorrow.",
+      "focus": "Aussage mit indirekter Frage · Satzzeichen",
+      "explanation": "The main clause *Ich möchte gern wissen* is a statement, not a question, so the sentence ends with a full stop, even though it asks for information. The W-word **wann** asks for the time, and the separable verb *aufmacht* stays together at the end.",
+      "pattern": "Ich möchte wissen, wann + … + Verb.",
+      "mistake": {"wrong": "Ich möchte gern wissen, wann macht das Büro morgen auf.", "why": "This is direct-question order with a split verb. In the indirect question: *wann das Büro morgen aufmacht*."},
+      "examples": [
+        {"de": "Ich möchte wissen, wann die Ergebnisse kommen.", "en": "I'd like to know when the results are coming."},
+        {"de": "Wir würden gern wissen, wie lange die Baustelle noch dauert.", "en": "We'd like to know how much longer the roadworks will take."}
+      ],
+      "words": [{"de": "aufmachen", "en": "to open"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Er hat mich gefragt, in {{c1::welchem::welch- → Dat. m.}} Stadtteil ich wohne.",
+      "en": "He asked me which part of town I live in.",
+      "focus": "*welch-* nach Präposition · Dativ",
+      "explanation": "*wohnen in* describes a location, so *in* takes the Dativ. *Stadtteil* is masculine (*der Stadtteil*), so *welch-* takes the Dativ ending of *dem*: **welchem**. The preposition stays in front: *in welchem Stadtteil*, and *wohne* goes to the end.",
+      "pattern": "…, Präposition + welch- + Nomen + Subjekt + Verb",
+      "mistake": {"wrong": "Er hat mich gefragt, welchem Stadtteil ich wohne in.", "why": "The preposition cannot go to the end as in English. It stays at the front of the question phrase: *in welchem Stadtteil ich wohne*."},
+      "examples": [
+        {"de": "Sie wollte wissen, in welcher Abteilung ich arbeite.", "en": "She wanted to know which department I work in."},
+        {"de": "Weißt du, mit welchem Zug sie kommen?", "en": "Do you know which train they're coming on?"}
+      ],
+      "words": [{"de": "der Stadtteil (-e)", "en": "district, part of town"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Weißt du, {{c1::was für ein::Art/Sorte}} Auto er fährt?",
+      "en": "Do you know what kind of car he drives?",
+      "focus": "Frage nach der Art · Neutrum Akkusativ",
+      "explanation": "**was für ein** asks for the kind or type, not for one item from a list (that would be *welch-*). *ein* takes the normal case ending: *Auto* is neuter Akkusativ → *ein*. The whole phrase *was für ein Auto* opens the Nebensatz, and *fährt* is last.",
+      "pattern": "…, was für ein + Nomen + Subjekt + Verb?",
+      "mistake": {"wrong": "Weißt du, was für ein Auto fährt er?", "why": "Even with a long question phrase the verb goes to the end in the indirect question: *was für ein Auto er fährt*."},
+      "examples": [
+        {"de": "Ich weiß nicht, was für eine Wohnung sie sucht.", "en": "I don't know what kind of flat she's looking for."},
+        {"de": "Sag mir, was für einen Kuchen du möchtest.", "en": "Tell me what kind of cake you'd like."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Ob::ja/nein}} wir morgen kommen, wissen wir noch nicht.",
+      "en": "We don't know yet whether we're coming tomorrow.",
+      "focus": "Indirekte Frage im Vorfeld",
+      "explanation": "The *ob* clause can also stand at the start of the sentence for emphasis. It then fills position 1, so the main clause continues with its finite verb: *wissen wir*. Inside the Nebensatz the order does not change: *kommen* is last.",
+      "pattern": "Ob + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Ob wir morgen kommen, wir wissen noch nicht.", "why": "The *ob* clause is position 1, so the main clause must start with its verb: *wissen wir noch nicht*."},
+      "examples": [
+        {"de": "Ob das Konzert stattfindet, entscheidet der Veranstalter morgen.", "en": "The organiser will decide tomorrow whether the concert takes place."},
+        {"de": "Wann er zurückkommt, hat er nicht gesagt.", "en": "He didn't say when he's coming back."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Niemand weiß, {{c1::wer::Person, Nom.}} das Fenster kaputt gemacht hat.",
+      "en": "Nobody knows who broke the window.",
+      "focus": "Frage nach dem Täter · Nominativ",
+      "explanation": "The unknown person is the subject of *kaputt gemacht hat*, so the question word is the Nominativ **wer**. Because *wer* is itself the subject, the object *das Fenster* follows it directly, and the verbs *kaputt gemacht hat* close the Nebensatz.",
+      "pattern": "…, wer + Objekt + Partizip II + Hilfsverb",
+      "mistake": {"wrong": "Niemand weiß, wen das Fenster kaputt gemacht hat.", "why": "*wen* is Akkusativ (the object). The person who broke the window is the subject, so the question word is *wer*."},
+      "examples": [
+        {"de": "Weißt du, wer den letzten Kaffee getrunken hat?", "en": "Do you know who drank the last coffee?"},
+        {"de": "Keiner weiß, wer die Blumen geschickt hat.", "en": "No one knows who sent the flowers."}
+      ],
+      "words": [{"de": "kaputt machen", "en": "to break"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "How does the word order change when a direct W-question becomes an indirect question?",
+      "answer": "The **W-word stays at the front**, the subject follows, and the **finite verb moves to the end**: *Wo wohnt sie? → Weißt du, wo sie **wohnt**?* Separable verbs join again (*anfängt*), and with two verbs the finite one is last (*angerufen hat*).",
+      "explanation": "An indirect question is a Nebensatz. The W-word works like a conjunction, so the rules of *weil* and *dass* apply. Only the introducing main clause keeps its normal order (*Weißt du*, *Ich weiß nicht*).",
+      "examples": [
+        {"de": "Weißt du, wie spät es ist?", "en": "Do you know what time it is?"},
+        {"de": "Ich frage mich, wann sie zurückruft.", "en": "I wonder when she'll call back."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about yes/no questions.",
+      "prompt": "How do you make a yes/no question indirect, and why is English 'if' a trap?",
+      "answer": "Use **ob** + verb at the end: *Kommt er? → Ich weiß nicht, ob er kommt.* English *if* can mean 'whether' (→ **ob**) or 'in case' (→ **wenn**). In indirect questions it always means 'whether', so German uses *ob*.",
+      "explanation": "A yes/no question has no W-word, so German needs a conjunction to start the Nebensatz: *ob*. *dass* is also wrong, because it introduces a fact, not an open question.",
+      "examples": [
+        {"de": "Weißt du, ob die Bäckerei sonntags offen hat?", "en": "Do you know if the bakery is open on Sundays?"},
+        {"de": "Wenn die Bäckerei offen hat, hole ich Brötchen.", "en": "If the bakery is open, I'll get some rolls."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about punctuation.",
+      "prompt": "When does a sentence with an indirect question end with a question mark, and when with a full stop?",
+      "answer": "The **main clause** decides. If it is a question (*Weißt du, …? Können Sie mir sagen, …?*), use a question mark. If it is a statement or a request (*Ich weiß nicht, … / Sag mir, …*), use a full stop.",
+      "explanation": "The indirect question itself is only a Nebensatz and does not set the punctuation. A comma always separates it from the main clause.",
+      "examples": [
+        {"de": "Wissen Sie, ob hier noch ein Platz frei ist?", "en": "Do you know if this seat is free?"},
+        {"de": "Ich möchte wissen, ob hier noch ein Platz frei ist.", "en": "I'd like to know if this seat is free."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the case forms of wer.",
+      "prompt": "Which form of wer do you use in an indirect question, and how do you decide?",
+      "answer": "**wer** (Nominativ, subject), **wen** (Akkusativ object), **wem** (Dativ: after Dativ verbs like *helfen, gehören* or Dativ prepositions like *mit*), **wessen** + noun (owner).",
+      "explanation": "Put the answer into the direct sentence and check its case: *Er hilft **dem Mann*** → *wem*; *Sie hat **den Mann** geheiratet* → *wen*. With a preposition, the preposition decides the case and stays in front: *mit wem, für wen*.",
+      "examples": [
+        {"de": "Weißt du, wem wir helfen sollen?", "en": "Do you know who we should help?"},
+        {"de": "Ich weiß nicht, für wen diese Nachricht ist.", "en": "I don't know who this message is for."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about when to use indirect questions.",
+      "prompt": "Why are indirect questions so common in everyday German, and which introductions are typical?",
+      "answer": "They make a question **more polite** and less direct. Typical introductions: *Können/Könnten Sie mir sagen, …? Wissen Sie, …? Darf ich fragen, …? Ich möchte wissen, … Ich frage mich, … Ich weiß nicht, …*",
+      "explanation": "A direct question to a stranger (*Wo ist die Post?*) can sound abrupt. With *Können Sie mir sagen, wo die Post ist?* you ask the same thing in a polite way. *Könnten Sie* (Konjunktiv II) is even more polite.",
+      "examples": [
+        {"de": "Könnten Sie mir sagen, wo ich mich anmelden muss?", "en": "Could you tell me where I have to register?"},
+        {"de": "Darf ich fragen, wie lange Sie schon hier arbeiten?", "en": "May I ask how long you've been working here?"}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Make the question indirect. Start with: Können Sie mir sagen, …",
+      "prompt": "Wo ist hier die Toilette?",
+      "answer": "Können Sie mir sagen, wo hier die Toilette ist?",
+      "explanation": "The W-word *wo* stays at the front of the Nebensatz. The verb *ist* moves to the end, and *hier die Toilette* stays in the middle. The main clause is a question, so the sentence keeps its question mark."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Make the question indirect. Start with: Wissen Sie, …",
+      "prompt": "Fährt dieser Bus zum Flughafen?",
+      "answer": "Wissen Sie, ob dieser Bus zum Flughafen fährt?",
+      "explanation": "This is a yes/no question, so the indirect form starts with *ob*. The verb *fährt* moves from position 1 to the end of the Nebensatz."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Make the question indirect. Start with: Ich weiß nicht, …",
+      "prompt": "Wann fängt die Besprechung an?",
+      "answer": "Ich weiß nicht, wann die Besprechung anfängt.",
+      "explanation": "*wann* stays at the front. The separable verb *anfangen* is no longer split: *fängt … an* becomes *anfängt* at the end. The main clause is a statement, so the sentence ends with a full stop."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Make the question indirect. Start with: Niemand versteht, …",
+      "prompt": "Warum hat sie gekündigt?",
+      "answer": "Niemand versteht, warum sie gekündigt hat.",
+      "explanation": "In the Perfekt the finite auxiliary *hat* moves to the end, behind the Partizip II *gekündigt*. The question word *warum* opens the Nebensatz."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Arzt fragt, wenn ich Allergien habe.",
+      "answer": "Der Arzt fragt, ob ich Allergien habe.",
+      "explanation": "The doctor's question is *Haben Sie Allergien?*, a yes/no question. After *fragen* it is introduced with *ob*, not *wenn*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Können Sie mir sagen, wie spät ist es?",
+      "answer": "Können Sie mir sagen, wie spät es ist?",
+      "explanation": "The indirect question still has direct-question order (*ist es*). In the Nebensatz the subject comes first and the verb goes to the end: *wie spät es ist*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich weiß nicht, wem das gemacht hat.",
+      "answer": "Ich weiß nicht, wer das gemacht hat.",
+      "explanation": "The unknown person is the subject of *gemacht hat*, so the question word must be the Nominativ *wer*. *wem* is Dativ."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er fragt, ob du morgen kommst mit.",
+      "answer": "Er fragt, ob du morgen mitkommst.",
+      "explanation": "In the *ob* clause the separable verb *mitkommen* is not split. Prefix and verb go together to the end: *mitkommst*."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Ich frage mich, ___ sie die E-Mail schon gelesen hat.",
+      "options": ["dass", "ob", "wenn"],
+      "correct": "ob",
+      "answer": "Ich frage mich, ob sie die E-Mail schon gelesen hat.",
+      "explanation": "*sich fragen* introduces a question, and *Hat sie die E-Mail schon gelesen?* is a yes/no question → *ob*. *dass* would state a fact, and *wenn* expresses a condition or time, not a question."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct question word.",
+      "prompt": "Weißt du, ___ dieses Handy gehört?",
+      "options": ["wer", "wen", "wem"],
+      "correct": "wem",
+      "answer": "Weißt du, wem dieses Handy gehört?",
+      "explanation": "*gehören* takes the owner in the Dativ (*Das Handy gehört mir*), so the question word is *wem*. *wer* is Nominativ (the subject here is *dieses Handy*), and *wen* is Akkusativ."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct question word.",
+      "prompt": "Ich weiß nicht, ___ ich hier parken darf.",
+      "options": ["wo", "wohin", "woher"],
+      "correct": "wo",
+      "answer": "Ich weiß nicht, wo ich hier parken darf.",
+      "explanation": "*parken* describes where the car stands (a position), so the question word is *wo*. *wohin* asks for a destination with a verb of movement, and *woher* asks for an origin."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: put the question into the first sentence as an indirect question.",
+      "prompt": "Ich möchte wissen: Wie lange dauert der Kurs?",
+      "answer": "Ich möchte wissen, wie lange der Kurs dauert.",
+      "explanation": "*wie lange* stays together at the front of the Nebensatz, the subject *der Kurs* follows, and *dauert* moves to the end. The main clause is a statement, so a full stop ends the sentence."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Report the question in one sentence. The question was asked to me, so *du* becomes *ich*.",
+      "prompt": "Sie fragt: Bist du schon fertig?",
+      "answer": "Sie fragt, ob ich schon fertig bin.",
+      "explanation": "A yes/no question is reported with *ob*. The person changes from *du* to *ich*, so the verb changes too (*bist → bin*), and it goes to the end of the Nebensatz."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Können Sie mir sagen",
+      "prompt": "wann / der nächste Zug / nach Bern / fährt / können Sie mir sagen",
+      "answer": "Können Sie mir sagen, wann der nächste Zug nach Bern fährt?",
+      "explanation": "After the polite frame comes the indirect question: *wann* + subject *der nächste Zug* + destination *nach Bern* + verb *fährt* at the end. The main clause is a question, so the sentence ends with a question mark."
+    }
+  ]
+}

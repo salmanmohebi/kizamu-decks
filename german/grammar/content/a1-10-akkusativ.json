@@ -1,0 +1,1538 @@
+{
+  "topic_id": "a1-10-akkusativ",
+  "level": "A1",
+  "title_de": "Akkusativ (direktes Objekt)",
+  "title_en": "The accusative (direct object)",
+  "rule": {
+    "summary": "The **Akkusativ** is the case of the direct object: the person or thing that the action is done to (question *Wen?* / *Was?*). Most verbs with one object take it (*haben, sehen, kaufen, brauchen, kennen, suchen, mögen*), and so do *es gibt*, the prepositions *für, durch, ohne, gegen, um*, and time phrases without a preposition (*jeden Tag*). Only the **masculine singular** changes its article: *der → den, ein → einen, kein → keinen, mein → meinen*. Feminine, neuter and plural look the same as in the Nominativ. Personal pronouns change too (*ich → mich, er → ihn*).",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | der / ein / kein / mein Tisch | die / eine / keine / meine Lampe | das / ein / kein / mein Buch | die / – / keine / meine Bücher |\n| Akk | **den / einen / keinen / meinen** Tisch | die / eine / keine / meine Lampe | das / ein / kein / mein Buch | die / – / keine / meine Bücher |\n| Pronomen | er → **ihn** | sie → sie | es → es | sie → sie |",
+    "steps": [
+      "Find the verb and the subject (*Wer?/Was?* does the action → Nominativ).",
+      "Ask *Wen?* or *Was?* + verb + subject: the answer is the direct object → Akkusativ. Also use the Akkusativ after *es gibt*, after *für, durch, ohne, gegen, um*, and for time phrases like *jeden Tag, nächsten Montag*.",
+      "Check the gender of the object. Masculine singular → **den / einen / keinen / meinen / diesen**. Feminine, neuter, plural → no change.",
+      "For pronouns use the Akkusativ forms: *mich, dich, ihn, sie, es, uns, euch, sie, Sie*. A masculine thing is also *ihn* (*der Rock → ihn*).",
+      "n-Deklination nouns add *-(e)n* in the Akkusativ: *den Studenten, den Kollegen, den Menschen*.",
+      "After *sein, werden, bleiben* there is no Akkusativ: *Das ist ein Hund.*"
+    ],
+    "pitfalls": [
+      "Keeping the Nominativ article: ✗ *Ich sehe der Mann.* → ✓ *Ich sehe den Mann.*",
+      "Adding *-en* to feminine or neuter nouns: ✗ *einen Buch, einen Tasche* → ✓ *ein Buch, eine Tasche*.",
+      "Possessive without ending: ✗ *Ich besuche mein Bruder.* → ✓ *Ich besuche meinen Bruder.*",
+      "Using *es* for every thing: ✗ *Der Rock? Ich finde es schön.* → ✓ *Ich finde ihn schön.*",
+      "Using the Dativ with Akkusativ verbs: ✗ *Ich rufe meinem Vater an. Ich frage dem Lehrer.* → ✓ *meinen Vater, den Lehrer*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich habe {{c1::einen::ein-}} Bruder.",
+      "en": "I have a brother.",
+      "focus": "Akkusativ · Objekt von *haben*",
+      "explanation": "*haben* takes an Akkusativ object: *Wen habe ich?* → *Bruder*. *der Bruder* is masculine, and the masculine Akkusativ of *ein* is **einen**.",
+      "pattern": "haben + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich habe ein Bruder.",
+        "why": "*ein Bruder* is the Nominativ. As the object of *haben* the masculine noun needs *einen*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe einen Sohn.",
+          "en": "I have a son."
+        },
+        {
+          "de": "Wir haben einen Garten.",
+          "en": "We have a garden."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie kauft {{c1::einen::ein-}} Apfel.",
+      "en": "She buys an apple.",
+      "focus": "Akkusativ · Objekt von *kaufen*",
+      "explanation": "*kaufen* takes an Akkusativ object: *Was kauft sie?* → *einen Apfel*. *Apfel* is masculine (*der Apfel*), so *ein* becomes **einen**.",
+      "pattern": "kaufen + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie kauft eine Apfel.",
+        "why": "*eine* is feminine. *Apfel* is masculine, and the masculine Akkusativ is *einen*."
+      },
+      "examples": [
+        {
+          "de": "Er kauft einen Kuchen.",
+          "en": "He buys a cake."
+        },
+        {
+          "de": "Ich kaufe einen Regenschirm.",
+          "en": "I'm buying an umbrella."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich sehe {{c1::den::der/die/das}} Mann dort.",
+      "en": "I see the man over there.",
+      "focus": "Akkusativ · Objekt von *sehen*",
+      "explanation": "The subject is *ich*; the man is the person I see, so he is the Akkusativ object (*Wen sehe ich?*). The masculine article changes: der → **den**. The noun *Mann* itself does not change.",
+      "pattern": "sehen + den + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich sehe der Mann dort.",
+        "why": "*der Mann* is the Nominativ (subject form). Here the man is the object, so the article is *den*."
+      },
+      "examples": [
+        {
+          "de": "Ich sehe den Turm.",
+          "en": "I can see the tower."
+        },
+        {
+          "de": "Siehst du den Hund dort?",
+          "en": "Can you see the dog over there?"
+        }
+      ],
+      "words": [
+        {
+          "de": "dort",
+          "en": "there, over there"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir essen {{c1::einen::ein-}} Salat.",
+      "en": "We're eating a salad.",
+      "focus": "Akkusativ · Objekt von *essen*",
+      "explanation": "*essen* takes an Akkusativ object (*Was essen wir?*). *der Salat* is masculine → **einen** Salat.",
+      "pattern": "essen + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir essen ein Salat.",
+        "why": "*Salat* is masculine. As an object it needs the Akkusativ ending *-en*: *einen Salat*."
+      },
+      "examples": [
+        {
+          "de": "Wir essen einen Burger.",
+          "en": "We're eating a burger."
+        },
+        {
+          "de": "Er isst einen Joghurt.",
+          "en": "He's eating a yoghurt."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er liest {{c1::ein::ein-}} Buch.",
+      "en": "He's reading a book.",
+      "focus": "Akkusativ · Objekt von *lesen*",
+      "explanation": "*lesen* takes an Akkusativ object. *Buch* is neuter (*das Buch*), and neuter articles do not change in the Akkusativ: **ein** Buch.",
+      "pattern": "lesen + ein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Er liest einen Buch.",
+        "why": "The ending *-en* is only for masculine nouns. *Buch* is neuter, so it stays *ein Buch*."
+      },
+      "examples": [
+        {
+          "de": "Sie liest ein Magazin.",
+          "en": "She's reading a magazine."
+        },
+        {
+          "de": "Ich schreibe ein Gedicht.",
+          "en": "I'm writing a poem."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich brauche {{c1::eine::ein-}} Tasche.",
+      "en": "I need a bag.",
+      "focus": "Akkusativ · Objekt von *brauchen*",
+      "explanation": "*brauchen* takes an Akkusativ object. *Tasche* is feminine, and feminine articles keep their Nominativ form in the Akkusativ: **eine** Tasche.",
+      "pattern": "brauchen + eine + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Ich brauche einen Tasche.",
+        "why": "*einen* is only masculine. Feminine nouns keep *eine* in the Akkusativ."
+      },
+      "examples": [
+        {
+          "de": "Wir brauchen eine Pause.",
+          "en": "We need a break."
+        },
+        {
+          "de": "Er braucht eine Brille.",
+          "en": "He needs glasses."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Er hat {{c1::keinen::kein-}} Hund.",
+      "en": "He doesn't have a dog.",
+      "focus": "Akkusativ · Negation",
+      "explanation": "*kein* has the same endings as *ein*. *Hund* is masculine and the Akkusativ object of *haben*, so the negation is **keinen**, like *einen Hund*.",
+      "pattern": "haben + keinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Er hat kein Hund.",
+        "why": "*kein Hund* is Nominativ. The masculine Akkusativ needs *-en*: *keinen Hund*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat keinen Führerschein.",
+          "en": "She doesn't have a driving licence."
+        },
+        {
+          "de": "Wir haben keinen Fernseher.",
+          "en": "We don't have a TV."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich kenne {{c1::den::der/die/das}} Lehrer gut.",
+      "en": "I know the teacher well.",
+      "focus": "Akkusativ · Objekt von *kennen*",
+      "explanation": "*kennen* takes an Akkusativ object (*Wen kenne ich?*). *der Lehrer* is masculine → **den** Lehrer. The adverb *gut* follows the object.",
+      "pattern": "kennen + den + Nomen (Akk. m.) + Adverb",
+      "mistake": {
+        "wrong": "Ich kenne dem Lehrer gut.",
+        "why": "*dem* is Dativ. *kennen* is not a Dativ verb; it takes the Akkusativ: *den Lehrer*."
+      },
+      "examples": [
+        {
+          "de": "Ich kenne den Weg.",
+          "en": "I know the way."
+        },
+        {
+          "de": "Kennst du den Arzt?",
+          "en": "Do you know the doctor?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Trinkst du {{c1::einen::ein-}} Kaffee?",
+      "en": "Are you having a coffee?",
+      "focus": "Akkusativ · Ja/Nein-Frage",
+      "explanation": "In the question the verb comes first, but *einen Kaffee* is still the object of *trinken*. *der Kaffee* is masculine → **einen**. *einen Kaffee* means one cup of coffee.",
+      "pattern": "Verb + du + einen + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Trinkst du ein Kaffee?",
+        "why": "The word order of a question does not change the case. *Kaffee* is a masculine object → *einen Kaffee*."
+      },
+      "examples": [
+        {
+          "de": "Trinkst du einen Saft?",
+          "en": "Are you having a juice?"
+        },
+        {
+          "de": "Trinken wir noch einen Tee?",
+          "en": "Shall we have another tea?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir suchen {{c1::die::der/die/das}} Schule.",
+      "en": "We're looking for the school.",
+      "focus": "Akkusativ · Objekt von *suchen*",
+      "explanation": "*suchen* takes a direct Akkusativ object, without a preposition (English *look for*). *Schule* is feminine, and *die* stays **die** in the Akkusativ.",
+      "pattern": "suchen + die + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Wir suchen den Schule.",
+        "why": "*den* is only for masculine nouns. *Schule* is feminine, so the article stays *die*."
+      },
+      "examples": [
+        {
+          "de": "Wir suchen die Post.",
+          "en": "We're looking for the post office."
+        },
+        {
+          "de": "Ich suche die Toilette.",
+          "en": "I'm looking for the toilet."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich finde {{c1::das::der/die/das}} Buch interessant.",
+      "en": "I find the book interesting.",
+      "focus": "Akkusativ · *finden* + Objekt + Adjektiv",
+      "explanation": "With an opinion, *finden* has an Akkusativ object and an adjective: *etwas interessant finden*. *das Buch* is neuter, so it stays **das** in the Akkusativ. The adjective has no ending.",
+      "pattern": "finden + das + Nomen (Akk. n.) + Adjektiv",
+      "mistake": {
+        "wrong": "Ich finde den Buch interessant.",
+        "why": "*den* is masculine. *Buch* is neuter: *das Buch*, also in the Akkusativ."
+      },
+      "examples": [
+        {
+          "de": "Ich finde das Essen lecker.",
+          "en": "I think the food is delicious."
+        },
+        {
+          "de": "Wir finden das Hotel zu teuer.",
+          "en": "We think the hotel is too expensive."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie nimmt {{c1::den::der/die/das}} Bus nach Hause.",
+      "en": "She takes the bus home.",
+      "focus": "Akkusativ · Verkehrsmittel nehmen",
+      "explanation": "*den Bus nehmen* means 'to take the bus'. *nehmen* takes the Akkusativ, and *der Bus* is masculine → **den** Bus. The direction *nach Hause* is a separate phrase.",
+      "pattern": "nehmen + den + Verkehrsmittel (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie nimmt der Bus nach Hause.",
+        "why": "The bus is the object of *nimmt*, not the subject. Masculine Akkusativ → *den Bus*."
+      },
+      "examples": [
+        {
+          "de": "Wir nehmen den Aufzug.",
+          "en": "We're taking the lift."
+        },
+        {
+          "de": "Er nimmt den Schlüssel mit.",
+          "en": "He takes the key with him."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Hast du {{c1::einen::ein-}} Stift?",
+      "en": "Do you have a pen?",
+      "focus": "Akkusativ · Frage mit *haben*",
+      "explanation": "*haben* takes the Akkusativ, also in a question. *der Stift* is masculine → **einen** Stift.",
+      "pattern": "Hast du + einen + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Hast du ein Stift?",
+        "why": "The pen is the object of *hast*. Masculine objects need *einen*."
+      },
+      "examples": [
+        {
+          "de": "Hast du einen Moment?",
+          "en": "Do you have a moment?"
+        },
+        {
+          "de": "Habt ihr einen Drucker?",
+          "en": "Do you have a printer?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich brauche {{c1::einen::ein-}} neuen Mantel.",
+      "en": "I need a new coat.",
+      "focus": "Akkusativ · mit Adjektiv",
+      "explanation": "*brauchen* + Akkusativ, and *der Mantel* is masculine → **einen**. With *einen* the adjective also ends in *-en*: *einen neuen Mantel*.",
+      "pattern": "einen + Adj-en + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich brauche ein neuen Mantel.",
+        "why": "The article also needs the Akkusativ ending: *einen neuen Mantel*, not *ein neuen*."
+      },
+      "examples": [
+        {
+          "de": "Er sucht einen neuen Job.",
+          "en": "He's looking for a new job."
+        },
+        {
+          "de": "Wir kaufen einen großen Tisch.",
+          "en": "We're buying a big table."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie schreibt {{c1::einen::ein-}} Brief.",
+      "en": "She is writing a letter.",
+      "focus": "Akkusativ · Objekt von *schreiben*",
+      "explanation": "*schreiben* takes the thing you write as an Akkusativ object. *der Brief* is masculine → **einen** Brief.",
+      "pattern": "schreiben + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie schreibt eine Brief.",
+        "why": "*Brief* is masculine, not feminine. The masculine Akkusativ is *einen*."
+      },
+      "examples": [
+        {
+          "de": "Er schreibt einen Bericht.",
+          "en": "He is writing a report."
+        },
+        {
+          "de": "Ich schreibe einen Text.",
+          "en": "I'm writing a text."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir mögen {{c1::den::der/die/das}} Lehrer.",
+      "en": "We like the teacher.",
+      "focus": "Akkusativ · Objekt von *mögen*",
+      "explanation": "*mögen* takes an Akkusativ object. *den Lehrer* is masculine singular (one teacher). Careful: *die Lehrer* would be the plural, so the article is the only thing that shows the number here.",
+      "pattern": "mögen + den + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir mögen der Lehrer.",
+        "why": "*der Lehrer* is the Nominativ. The subject is *wir*, so the teacher is the object: *den Lehrer*."
+      },
+      "examples": [
+        {
+          "de": "Wir mögen den Winter.",
+          "en": "We like winter."
+        },
+        {
+          "de": "Ich mag den Geruch von Kaffee.",
+          "en": "I like the smell of coffee."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Möchtest du {{c1::einen::ein-}} Tee?",
+      "en": "Would you like a tea?",
+      "focus": "Akkusativ · Objekt von *möchten*",
+      "explanation": "*möchten* is followed by an Akkusativ object (what you would like). *der Tee* is masculine → **einen** Tee. This is a polite offer.",
+      "pattern": "möchten + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Möchtest du ein Tee?",
+        "why": "*Tee* is a masculine object, so it needs *einen*."
+      },
+      "examples": [
+        {
+          "de": "Möchtest du einen Keks?",
+          "en": "Would you like a biscuit?"
+        },
+        {
+          "de": "Möchtest du einen Löffel?",
+          "en": "Would you like a spoon?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich verstehe {{c1::die::der/die/das}} Frage nicht.",
+      "en": "I don't understand the question.",
+      "focus": "Akkusativ · Objekt von *verstehen*",
+      "explanation": "*verstehen* takes an Akkusativ object. *Frage* is feminine, so the article stays **die**. *nicht* comes after the object here, because it negates the whole sentence.",
+      "pattern": "verstehen + die + Nomen (Akk. f.) + nicht",
+      "mistake": {
+        "wrong": "Ich verstehe der Frage nicht.",
+        "why": "*der* before a feminine noun is Dativ. *verstehen* takes the Akkusativ, and feminine Akkusativ is *die*."
+      },
+      "examples": [
+        {
+          "de": "Ich verstehe die Aufgabe nicht.",
+          "en": "I don't understand the task."
+        },
+        {
+          "de": "Er versteht die Regel.",
+          "en": "He understands the rule."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er ruft {{c1::seinen::sein-}} Vater an.",
+      "en": "He's calling his father.",
+      "focus": "Akkusativ · Possessivartikel · *anrufen*",
+      "explanation": "*anrufen* takes an Akkusativ object (unlike *telefonieren mit* + Dativ). Possessives have the same endings as *ein*, so masculine Akkusativ → *sein* + *-en* → **seinen** Vater.",
+      "pattern": "anrufen + seinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Er ruft seinem Vater an.",
+        "why": "*seinem* is Dativ. *anrufen* takes the Akkusativ: *seinen Vater*."
+      },
+      "examples": [
+        {
+          "de": "Sie ruft ihren Freund an.",
+          "en": "She's calling her boyfriend."
+        },
+        {
+          "de": "Ich rufe meinen Chef an.",
+          "en": "I'm calling my boss."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie isst {{c1::keinen::kein-}} Fisch.",
+      "en": "She doesn't eat fish.",
+      "focus": "Akkusativ · Negation ohne Artikel",
+      "explanation": "*Fisch* here means fish in general (no article). It is negated with *kein-*, and as the masculine Akkusativ object of *essen* it becomes **keinen** Fisch.",
+      "pattern": "essen + keinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie isst kein Fisch.",
+        "why": "*Fisch* is masculine. In the Akkusativ *kein* needs *-en*: *keinen Fisch*."
+      },
+      "examples": [
+        {
+          "de": "Er isst keinen Käse.",
+          "en": "He doesn't eat cheese."
+        },
+        {
+          "de": "Ich trinke keinen Wein.",
+          "en": "I don't drink wine."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich lese {{c1::den::der/die/das}} Artikel später.",
+      "en": "I'll read the article later.",
+      "focus": "Akkusativ · Objekt von *lesen*",
+      "explanation": "*der Artikel* is masculine, and as the object of *lesen* it changes to **den**. Only the masculine article changes in the Akkusativ; *die* and *das* stay the same. The Präsens with *später* refers to the future.",
+      "pattern": "lesen + den + Nomen (Akk. m.) + Zeit",
+      "mistake": {
+        "wrong": "Ich lese der Artikel später.",
+        "why": "*der Artikel* is the subject form. The article is the object of *lese*: *den Artikel*."
+      },
+      "examples": [
+        {
+          "de": "Ich mache den Test morgen.",
+          "en": "I'll do the test tomorrow."
+        },
+        {
+          "de": "Er repariert den Computer später.",
+          "en": "He'll repair the computer later."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Artikel (-)",
+          "en": "article"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Sie besucht {{c1::ihren::ihr-}} Onkel.",
+      "en": "She is visiting her uncle.",
+      "focus": "Akkusativ · Possessivartikel",
+      "explanation": "*besuchen* takes the Akkusativ. Possessive articles take the same endings as *ein*: masculine Akkusativ → *ihr* + *-en* → **ihren** Onkel.",
+      "pattern": "besuchen + ihren + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie besucht ihr Onkel.",
+        "why": "*ihr* without an ending is Nominativ m or neuter. *Onkel* is a masculine object → *ihren*."
+      },
+      "examples": [
+        {
+          "de": "Er besucht seinen Opa.",
+          "en": "He is visiting his grandpa."
+        },
+        {
+          "de": "Wir besuchen unseren Lehrer.",
+          "en": "We're visiting our teacher."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Wir nehmen {{c1::die::der/die/das}} Straßenbahn.",
+      "en": "We're taking the tram.",
+      "focus": "Akkusativ · Kompositum",
+      "explanation": "*Straßenbahn* is a compound, and the last part *die Bahn* makes it feminine. Feminine *die* stays **die** in the Akkusativ, so nothing changes.",
+      "pattern": "nehmen + die + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Wir nehmen den Straßenbahn.",
+        "why": "*den* is only for masculine nouns. *Straßenbahn* is feminine (*die Bahn*), so it stays *die*."
+      },
+      "examples": [
+        {
+          "de": "Ich nehme die U-Bahn.",
+          "en": "I take the underground."
+        },
+        {
+          "de": "Sie nimmt die Treppe.",
+          "en": "She takes the stairs."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Straßenbahn (-en)",
+          "en": "tram"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er trägt {{c1::das::der/die/das}} schwere Paket.",
+      "en": "He is carrying the heavy parcel.",
+      "focus": "Akkusativ · mit Adjektiv",
+      "explanation": "*das Paket* is neuter, and neuter is identical in Nominativ and Akkusativ: **das** schwere Paket. The adjective after *das* takes *-e*, as in the Nominativ.",
+      "pattern": "tragen + das + Adj-e + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Er trägt den schweren Paket.",
+        "why": "*den … -en* is the masculine pattern. *Paket* is neuter: *das schwere Paket*."
+      },
+      "examples": [
+        {
+          "de": "Sie trägt das kleine Kind.",
+          "en": "She is carrying the small child."
+        },
+        {
+          "de": "Wir tragen das große Bett.",
+          "en": "We're carrying the big bed."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Paket (-e)",
+          "en": "parcel"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Kennst du {{c1::diesen::dieser}} Film?",
+      "en": "Do you know this film?",
+      "focus": "Akkusativ · nach *dieser*",
+      "explanation": "*dieser* has the same endings as *der*: *der → den*, so *dieser → **diesen***. *der Film* is masculine and the object of *kennen*.",
+      "pattern": "kennen + diesen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Kennst du dieser Film?",
+        "why": "*dieser* is the Nominativ. The masculine Akkusativ is *diesen*, matching *den*."
+      },
+      "examples": [
+        {
+          "de": "Kennst du diesen Mann?",
+          "en": "Do you know this man?"
+        },
+        {
+          "de": "Ich mag diesen Song.",
+          "en": "I like this song."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich frage {{c1::den::der/die/das}} Kellner.",
+      "en": "I'll ask the waiter.",
+      "focus": "Akkusativ · Objekt von *fragen*",
+      "explanation": "*fragen* takes the person you ask in the Akkusativ: *jemanden fragen*. *der Kellner* → **den** Kellner. Compare *antworten*, which takes the Dativ (*dem Kellner antworten*).",
+      "pattern": "fragen + den + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich frage dem Kellner.",
+        "why": "*fragen* is an Akkusativ verb, not a Dativ verb. The correct form is *den Kellner*."
+      },
+      "examples": [
+        {
+          "de": "Ich frage den Arzt.",
+          "en": "I'll ask the doctor."
+        },
+        {
+          "de": "Fragst du den Busfahrer?",
+          "en": "Will you ask the bus driver?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Kellner (-)",
+          "en": "waiter"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Sie liebt {{c1::ihn::er}} sehr.",
+      "en": "She loves him very much.",
+      "focus": "Akkusativ · Personalpronomen",
+      "explanation": "*lieben* takes an Akkusativ object. The personal pronoun *er* has the Akkusativ form **ihn**. It is the only 3rd-person pronoun that changes (*sie → sie, es → es*).",
+      "pattern": "Verb + ihn (Akk. von er)",
+      "mistake": {
+        "wrong": "Sie liebt ihm sehr.",
+        "why": "*ihm* is the Dativ form. *lieben* takes the Akkusativ: *ihn*."
+      },
+      "examples": [
+        {
+          "de": "Ich kenne ihn gut.",
+          "en": "I know him well."
+        },
+        {
+          "de": "Wir sehen ihn morgen.",
+          "en": "We'll see him tomorrow."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ruf {{c1::mich::ich}} bitte morgen an.",
+      "en": "Please call me tomorrow.",
+      "focus": "Akkusativ · Pronomen · Imperativ",
+      "explanation": "*anrufen* takes an Akkusativ object, so *ich* becomes **mich**. In the imperative the pronoun comes right after the verb, and the prefix *an* goes to the end.",
+      "pattern": "Imperativ + mich + … + Präfix",
+      "mistake": {
+        "wrong": "Ruf mir bitte morgen an.",
+        "why": "*mir* is Dativ. With *anrufen* the person is in the Akkusativ: *Ruf mich an.*"
+      },
+      "examples": [
+        {
+          "de": "Besuch mich bald!",
+          "en": "Come and visit me soon!"
+        },
+        {
+          "de": "Hol mich bitte ab!",
+          "en": "Please pick me up!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Der Hund beißt {{c1::keinen::kein-}} Menschen.",
+      "en": "The dog doesn't bite anybody.",
+      "focus": "Akkusativ · n-Deklination",
+      "explanation": "*der Mensch* is an n-Deklination noun: in the Akkusativ the noun itself adds *-en* → *Menschen*. The article takes the masculine Akkusativ ending too: **keinen** Menschen.",
+      "pattern": "keinen + Nomen-en (Akk. m., n-Deklination)",
+      "mistake": {
+        "wrong": "Der Hund beißt keinen Mensch.",
+        "why": "*Mensch* belongs to the n-Deklination, so the noun also needs *-en* in the Akkusativ: *keinen Menschen*."
+      },
+      "examples": [
+        {
+          "de": "Ich kenne keinen Polizisten.",
+          "en": "I don't know any police officers."
+        },
+        {
+          "de": "Sie hat keinen Kollegen im Büro.",
+          "en": "She has no colleague in the office."
+        }
+      ],
+      "words": [
+        {
+          "de": "beißen",
+          "en": "to bite"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wir suchen {{c1::unseren::unser-}} Hausschlüssel.",
+      "en": "We're looking for our house key.",
+      "focus": "Akkusativ · Possessivartikel",
+      "explanation": "*der Hausschlüssel* is masculine (last part *der Schlüssel*) and the object of *suchen*. The Akkusativ ending goes on the possessive: *unser* + *-en* → **unseren**. The noun does not change.",
+      "pattern": "suchen + unseren + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir suchen unser Hausschlüssel.",
+        "why": "*unser* without an ending fits only Nominativ m or neuter. A masculine object needs *unseren*."
+      },
+      "examples": [
+        {
+          "de": "Ich suche meinen Ausweis.",
+          "en": "I'm looking for my ID card."
+        },
+        {
+          "de": "Er sucht seinen Geldbeutel.",
+          "en": "He's looking for his wallet."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich verstehe {{c1::dich::du}} am Telefon schlecht.",
+      "en": "I can hardly understand you on the phone.",
+      "focus": "Akkusativ · Personalpronomen",
+      "explanation": "*verstehen* takes an Akkusativ object, so *du* becomes **dich**. Pronoun objects usually come early in the Mittelfeld, before *am Telefon* and *schlecht*.",
+      "pattern": "verstehen + dich (Akk. von du) + …",
+      "mistake": {
+        "wrong": "Ich verstehe dir am Telefon schlecht.",
+        "why": "*dir* is the Dativ form. *verstehen* takes the Akkusativ: *dich*."
+      },
+      "examples": [
+        {
+          "de": "Ich höre dich nicht.",
+          "en": "I can't hear you."
+        },
+        {
+          "de": "Siehst du mich?",
+          "en": "Can you see me?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Sie hat {{c1::uns::wir}} eingeladen.",
+      "en": "She invited us.",
+      "focus": "Akkusativ · Pronomen · Perfekt",
+      "explanation": "*einladen* takes an Akkusativ object, so *wir* becomes **uns**. *uns* is also the Dativ form, so you only need one form for both cases. In the Perfekt the pronoun stands between *hat* and the Partizip II.",
+      "pattern": "hat + uns + Partizip II",
+      "mistake": {
+        "wrong": "Sie hat wir eingeladen.",
+        "why": "*wir* is the subject form. As the object the pronoun must be *uns*."
+      },
+      "examples": [
+        {
+          "de": "Er hat uns abgeholt.",
+          "en": "He picked us up."
+        },
+        {
+          "de": "Die Lehrerin hat uns gefragt.",
+          "en": "The teacher asked us."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Ich brauche {{c1::einen::ein-}} Termin beim Arzt.",
+      "en": "I need an appointment with the doctor.",
+      "focus": "Akkusativ · Objekt von *brauchen*",
+      "explanation": "*brauchen* takes the Akkusativ, and *der Termin* is masculine → **einen** Termin. *beim Arzt* (= *bei dem Arzt*) is a separate phrase with *bei* + Dativ; it does not change the object.",
+      "pattern": "brauchen + einen + Nomen (Akk. m.) + bei + Dat.",
+      "mistake": {
+        "wrong": "Ich brauche ein Termin beim Arzt.",
+        "why": "*Termin* is masculine. As the object of *brauchen* it needs *einen*."
+      },
+      "examples": [
+        {
+          "de": "Wir brauchen einen Plan.",
+          "en": "We need a plan."
+        },
+        {
+          "de": "Sie braucht einen Babysitter.",
+          "en": "She needs a babysitter."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Termin (-e)",
+          "en": "appointment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Er stellt {{c1::die::der/die/das}} Frage noch einmal.",
+      "en": "He asks the question once again.",
+      "focus": "Akkusativ · feste Verbindung *eine Frage stellen*",
+      "explanation": "German says *eine Frage stellen* (literally 'to put a question'), with *Frage* as the Akkusativ object. *Frage* is feminine, so the article stays **die**. *noch einmal* follows the object.",
+      "pattern": "eine/die Frage stellen (Akk. f.)",
+      "mistake": {
+        "wrong": "Er stellt der Frage noch einmal.",
+        "why": "*der* before a feminine noun is Dativ or Genitiv. The question is the Akkusativ object: *die Frage*."
+      },
+      "examples": [
+        {
+          "de": "Darf ich eine Frage stellen?",
+          "en": "May I ask a question?"
+        },
+        {
+          "de": "Sie stellt die Frage auf Englisch.",
+          "en": "She asks the question in English."
+        }
+      ],
+      "words": [
+        {
+          "de": "eine Frage stellen",
+          "en": "to ask a question"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Ich mag {{c1::euch::ihr}} alle.",
+      "en": "I like you all.",
+      "focus": "Akkusativ · Personalpronomen (Plural)",
+      "explanation": "*mögen* takes an Akkusativ object. The Akkusativ form of *ihr* (you, plural) is **euch**, which is also the Dativ form. *alle* follows the pronoun.",
+      "pattern": "Verb + euch (Akk. von ihr) + alle",
+      "mistake": {
+        "wrong": "Ich mag ihr alle.",
+        "why": "*ihr* is the subject form. As the object it becomes *euch*."
+      },
+      "examples": [
+        {
+          "de": "Wir besuchen euch morgen.",
+          "en": "We'll visit you tomorrow."
+        },
+        {
+          "de": "Ich rufe euch später an.",
+          "en": "I'll call you later."
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Trink {{c1::das::der/die/das}} Wasser aus.",
+      "en": "Drink up the water.",
+      "focus": "Akkusativ · Imperativ · trennbares Verb",
+      "explanation": "*austrinken* (to drink up) is separable and takes an Akkusativ object. *das Wasser* is neuter, so the article does not change: **das** Wasser. The prefix *aus* goes to the end.",
+      "pattern": "Imperativ + das + Nomen (Akk. n.) + Präfix",
+      "mistake": {
+        "wrong": "Trink den Wasser aus.",
+        "why": "*den* is masculine. *Wasser* is neuter: *das Wasser*, also in the Akkusativ."
+      },
+      "examples": [
+        {
+          "de": "Iss bitte das Gemüse auf!",
+          "en": "Please eat up the vegetables!"
+        },
+        {
+          "de": "Mach das Fenster zu!",
+          "en": "Close the window!"
+        }
+      ],
+      "words": [
+        {
+          "de": "austrinken",
+          "en": "to drink up"
+        }
+      ],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Den::der/die/das}} Film kenne ich schon.",
+      "en": "I already know that film.",
+      "focus": "Akkusativ im Vorfeld",
+      "explanation": "The object can stand in position 1 when it is the topic. The verb stays in position 2 and the subject *ich* follows it. Only the article **Den** shows that the film is the object, not the subject.",
+      "pattern": "Den + Nomen (Akk., Pos. 1) + Verb + Subjekt",
+      "mistake": {
+        "wrong": "Der Film kenne ich schon.",
+        "why": "Position 1 is not always the subject. The film is still the object of *kennen*, so it needs *den*."
+      },
+      "examples": [
+        {
+          "de": "Den Kuchen backe ich selbst.",
+          "en": "I'm baking the cake myself."
+        },
+        {
+          "de": "Den Schlüssel finde ich nicht.",
+          "en": "I can't find the key."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Wen::wer → Akk.}} siehst du dort?",
+      "en": "Who can you see there?",
+      "focus": "Fragewort im Akkusativ",
+      "explanation": "*wer* asks for the subject, **wen** asks for the Akkusativ object. Here *du* is the subject, and the person you see is the object, so the question word is *wen*.",
+      "pattern": "Wen + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Wer siehst du dort?",
+        "why": "*wer* is Nominativ and would be the subject, but the subject is *du*. For the object ask *wen*."
+      },
+      "examples": [
+        {
+          "de": "Wen fragst du?",
+          "en": "Who are you asking?"
+        },
+        {
+          "de": "Wen besuchen Sie morgen?",
+          "en": "Who are you visiting tomorrow?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Geschenk ist für {{c1::meinen::mein-}} Vater.",
+      "en": "The present is for my father.",
+      "focus": "Akkusativ · nach *für*",
+      "explanation": "*für* always takes the Akkusativ. *der Vater* is masculine, so the possessive takes *-en*: **meinen** Vater. The other Akkusativ prepositions are *durch, ohne, gegen, um*.",
+      "pattern": "für + meinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Das Geschenk ist für mein Vater.",
+        "why": "After *für* the noun is Akkusativ. Masculine *mein* needs *-en*: *für meinen Vater*."
+      },
+      "examples": [
+        {
+          "de": "Die Blumen sind für meine Mutter.",
+          "en": "The flowers are for my mother."
+        },
+        {
+          "de": "Der Brief ist für deinen Bruder.",
+          "en": "The letter is for your brother."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Er läuft jeden Morgen durch {{c1::den::der/die/das}} Park.",
+      "en": "He runs through the park every morning.",
+      "focus": "Akkusativ · nach *durch*",
+      "explanation": "*durch* always takes the Akkusativ: *der Park → durch **den** Park*. The time phrase *jeden Morgen* is in the Akkusativ too, which is why it is *jeden*, not *jeder*.",
+      "pattern": "durch + den + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Er läuft jeden Morgen durch dem Park.",
+        "why": "*dem* is Dativ. *durch* is an Akkusativ preposition: *durch den Park*."
+      },
+      "examples": [
+        {
+          "de": "Wir fahren durch den Tunnel.",
+          "en": "We're driving through the tunnel."
+        },
+        {
+          "de": "Sie geht durch die Stadt.",
+          "en": "She's walking through the town."
+        }
+      ],
+      "words": [
+        {
+          "de": "laufen",
+          "en": "to run, to walk"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Kennst du meine Eltern? – Ja, ich kenne {{c1::sie::meine Eltern → Pronomen}} gut.",
+      "en": "Do you know my parents? – Yes, I know them well.",
+      "focus": "Akkusativ · Pronomen Plural",
+      "explanation": "*meine Eltern* is plural and the object of *kennen*. The plural pronoun is **sie**, and it has the same form in the Nominativ and the Akkusativ. Only the verb and the word order show that it is the object here.",
+      "pattern": "kennen + sie (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Kennst du meine Eltern? – Ja, ich kenne ihnen gut.",
+        "why": "*ihnen* is the Dativ plural. *kennen* takes the Akkusativ, which is *sie*."
+      },
+      "examples": [
+        {
+          "de": "Siehst du die Kinder? – Ja, ich sehe sie.",
+          "en": "Can you see the children? – Yes, I can see them."
+        },
+        {
+          "de": "Wo sind die Schlüssel? – Ich suche sie noch.",
+          "en": "Where are the keys? – I'm still looking for them."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wo ist mein Handy? Ich sehe {{c1::es::das Handy → Pronomen}} nicht.",
+      "en": "Where is my phone? I can't see it.",
+      "focus": "Akkusativ · Pronomen für ein Neutrum",
+      "explanation": "The pronoun follows the gender of the noun it replaces. *das Handy* is neuter, so the pronoun is **es**, which is the same in the Nominativ and the Akkusativ.",
+      "pattern": "das-Nomen → es (Akk. n.)",
+      "mistake": {
+        "wrong": "Wo ist mein Handy? Ich sehe ihn nicht.",
+        "why": "*ihn* replaces a masculine noun. *Handy* is neuter, so the pronoun is *es*."
+      },
+      "examples": [
+        {
+          "de": "Das Buch ist super. Ich lese es gerade.",
+          "en": "The book is great. I'm reading it at the moment."
+        },
+        {
+          "de": "Wo ist das Auto? Ich finde es nicht.",
+          "en": "Where is the car? I can't find it."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wie findest du den Rock? – Ich finde {{c1::ihn::der Rock → Pronomen}} schön.",
+      "en": "What do you think of the skirt? – I think it's nice.",
+      "focus": "Akkusativ · Pronomen für eine maskuline Sache",
+      "explanation": "English uses *it* for every thing, but German uses the gender of the noun. *der Rock* is masculine, so the Akkusativ pronoun is **ihn**, the same as for a man.",
+      "pattern": "der-Nomen (Sache) → ihn (Akk. m.)",
+      "mistake": {
+        "wrong": "Wie findest du den Rock? – Ich finde es schön.",
+        "why": "Here the pronoun must refer back to *den Rock*. *es* would refer to a neuter noun (or to the situation in general), not to the skirt. *der Rock* is masculine, so the Akkusativ pronoun is *ihn*: *Ich finde ihn schön.*"
+      },
+      "examples": [
+        {
+          "de": "Der Salat ist frisch. Ich nehme ihn.",
+          "en": "The salad is fresh. I'll take it."
+        },
+        {
+          "de": "Wo ist der Schlüssel? Ich habe ihn.",
+          "en": "Where is the key? I've got it."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Rock (¨-e)",
+          "en": "skirt"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich gehe {{c1::jeden::jeder}} Tag schwimmen.",
+      "en": "I go swimming every day.",
+      "focus": "Akkusativ · Zeitangabe ohne Präposition",
+      "explanation": "Time phrases without a preposition that say *when* or *how often* are in the Akkusativ. *der Tag* is masculine, and *jeder* has the same endings as *der*: **jeden** Tag.",
+      "pattern": "jeden + Zeitnomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich gehe jeder Tag schwimmen.",
+        "why": "*jeder* is Nominativ. A time phrase like this is Akkusativ, so the masculine form is *jeden*."
+      },
+      "examples": [
+        {
+          "de": "Wir sehen uns jeden Montag.",
+          "en": "We see each other every Monday."
+        },
+        {
+          "de": "Sie arbeitet jede Woche 40 Stunden.",
+          "en": "She works 40 hours every week."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wir besuchen morgen unseren {{c1::Kollegen::der Kollege}} im Krankenhaus.",
+      "en": "Tomorrow we're visiting our colleague in hospital.",
+      "focus": "Akkusativ · n-Deklination",
+      "explanation": "*der Kollege* is an n-Deklination noun (masculine, ends in *-e*, names a person). In the Akkusativ both the possessive and the noun change: *unseren* **Kollegen**.",
+      "pattern": "unseren + Nomen-n (Akk. m., n-Deklination)",
+      "mistake": {
+        "wrong": "Wir besuchen morgen unseren Kollege im Krankenhaus.",
+        "why": "The article ending alone is not enough. An n-Deklination noun adds *-n* outside the Nominativ: *Kollegen*."
+      },
+      "examples": [
+        {
+          "de": "Ich frage den Kunden.",
+          "en": "I'll ask the customer."
+        },
+        {
+          "de": "Kennst du den Jungen?",
+          "en": "Do you know the boy?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Krankenhaus (¨-er)",
+          "en": "hospital"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir besuchen am Sonntag {{c1::unsere::unser-}} Großeltern.",
+      "en": "We're visiting our grandparents on Sunday.",
+      "focus": "Akkusativ · Plural",
+      "explanation": "*Großeltern* is plural. In the plural the Akkusativ is the same as the Nominativ: the possessive ends in *-e* → **unsere** Großeltern. The *-en* ending is only for masculine singular.",
+      "pattern": "besuchen + unsere + Pluralnomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Wir besuchen am Sonntag unseren Großeltern.",
+        "why": "*unseren* is the masculine singular Akkusativ (or Dativ plural). A plural object takes *unsere*."
+      },
+      "examples": [
+        {
+          "de": "Ich rufe meine Freunde an.",
+          "en": "I'm calling my friends."
+        },
+        {
+          "de": "Sie liebt ihre Kinder sehr.",
+          "en": "She loves her children very much."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Großeltern (Pl.)",
+          "en": "grandparents"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich verkaufe {{c1::mein::mein-}} Auto.",
+      "en": "I'm selling my car.",
+      "focus": "Akkusativ · Possessivartikel · Neutrum",
+      "explanation": "*das Auto* is neuter, and neuter possessives have no ending in the Akkusativ, just like *ein*: **mein** Auto. Do not add the masculine *-en*.",
+      "pattern": "verkaufen + mein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Ich verkaufe meinen Auto.",
+        "why": "*meinen* is masculine. *Auto* is neuter, so the possessive stays *mein*."
+      },
+      "examples": [
+        {
+          "de": "Er verkauft sein Fahrrad.",
+          "en": "He's selling his bike."
+        },
+        {
+          "de": "Wir vermieten unser Haus.",
+          "en": "We're renting out our house."
+        }
+      ],
+      "words": [
+        {
+          "de": "verkaufen",
+          "en": "to sell"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Der Junge ruft {{c1::den::der/die/das}} Hund.",
+      "en": "The boy calls the dog.",
+      "focus": "Subjekt und Objekt · zwei maskuline Nomen",
+      "explanation": "Both nouns are masculine. *Der Junge* is the subject (Nominativ), and the dog is the object (Akkusativ) → **den** Hund. With two masculine nouns, the articles *der* and *den* are what show who does what.",
+      "pattern": "der + Nomen (Nom.) + Verb + den + Nomen (Akk.)",
+      "mistake": {
+        "wrong": "Der Junge ruft der Hund.",
+        "why": "With *der … der* the sentence has two subjects. The dog is the object of *ruft*, so it must be *den Hund*."
+      },
+      "examples": [
+        {
+          "de": "Der Vater sucht den Sohn.",
+          "en": "The father is looking for the son."
+        },
+        {
+          "de": "Der Lehrer lobt den Schüler.",
+          "en": "The teacher praises the pupil."
+        }
+      ],
+      "words": [
+        {
+          "de": "rufen",
+          "en": "to call (out to)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Akkusativ forms.",
+      "prompt": "Which article forms change in the Akkusativ?",
+      "answer": "Only the **masculine singular**: *der → **den***, *ein → **einen***, *kein → **keinen***, *mein → **meinen***, *dieser → **diesen***. Feminine, neuter and plural are the same as in the Nominativ.",
+      "explanation": "So the first question is always: is the object masculine? If yes, add the *-n* signal (*den, einen*). The noun itself only changes when it belongs to the n-Deklination (*den Studenten*).",
+      "examples": [
+        {
+          "de": "Der Löffel ist sauber.",
+          "en": "The spoon is clean."
+        },
+        {
+          "de": "Ich brauche den Löffel.",
+          "en": "I need the spoon."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about finding the object.",
+      "prompt": "How do you find the Akkusativ object in a sentence?",
+      "answer": "Find the subject (*Wer/Was* does the action?), then ask **Wen?** or **Was?** + verb + subject. The answer is the direct object in the Akkusativ. The position in the sentence does not decide it.",
+      "explanation": "German can put the object in position 1 (*Den Film kenne ich.*). So you must look at the article and the verb, not the word order. After *sein* there is no object: *Das ist ein Film.* is Nominativ.",
+      "examples": [
+        {
+          "de": "Den Brief schreibt meine Schwester.",
+          "en": "My sister is writing the letter."
+        },
+        {
+          "de": "Meine Schwester schreibt den Brief.",
+          "en": "My sister is writing the letter."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about personal pronouns.",
+      "prompt": "What are the Akkusativ forms of the personal pronouns?",
+      "answer": "*ich → **mich**, du → **dich**, er → **ihn**, sie → sie, es → es, wir → **uns**, ihr → **euch**, sie → sie, Sie → Sie*.",
+      "explanation": "In the 3rd person only *er → ihn* changes. *uns* and *euch* are also the Dativ forms, but *mich/mir* and *dich/dir* are different, so keep them apart. For things, the pronoun follows the gender: *der Tisch → ihn*.",
+      "examples": [
+        {
+          "de": "Ich vermisse dich.",
+          "en": "I miss you."
+        },
+        {
+          "de": "Der Tisch ist alt, aber ich mag ihn.",
+          "en": "The table is old, but I like it."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about prepositions.",
+      "prompt": "Which prepositions always take the Akkusativ?",
+      "answer": "**für, durch, ohne, gegen, um** (also *bis* and *entlang* when it follows the noun).",
+      "explanation": "After these prepositions the noun is always Akkusativ, whatever the verb: *für den Chef, ohne meinen Mann, um den See*. Do not confuse them with Wechselpräpositionen like *in* or *auf*, which can take Akkusativ or Dativ.",
+      "examples": [
+        {
+          "de": "Wir gehen ohne den Hund spazieren.",
+          "en": "We're going for a walk without the dog."
+        },
+        {
+          "de": "Er fährt gegen einen Baum.",
+          "en": "He drives into a tree."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Ich nehme ___ Zug um acht.",
+      "options": [
+        "der",
+        "den",
+        "dem"
+      ],
+      "correct": "den",
+      "answer": "Ich nehme den Zug um acht.",
+      "explanation": "*nehmen* takes the Akkusativ, and *der Zug* is masculine → *den Zug*. *der* is the Nominativ (subject), and *dem* is the Dativ."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Kennst du ___ Frau dort?",
+      "options": [
+        "die",
+        "den",
+        "der"
+      ],
+      "correct": "die",
+      "answer": "Kennst du die Frau dort?",
+      "explanation": "*Frau* is feminine, and feminine stays *die* in the Akkusativ. *den* is masculine, and *der* before a feminine noun would be Dativ or Genitiv."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Der Kuchen ist lecker. Ich esse ___ gern.",
+      "options": [
+        "er",
+        "ihn",
+        "es"
+      ],
+      "correct": "ihn",
+      "answer": "Der Kuchen ist lecker. Ich esse ihn gern.",
+      "explanation": "*der Kuchen* is masculine and the object of *essen* → Akkusativ *ihn*. *er* is the subject form, and *es* would replace a neuter noun."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Das ist ein Geschenk für ___.",
+      "options": [
+        "du",
+        "dich",
+        "dir"
+      ],
+      "correct": "dich",
+      "answer": "Das ist ein Geschenk für dich.",
+      "explanation": "*für* always takes the Akkusativ, and the Akkusativ of *du* is *dich*. *du* is the subject form, and *dir* is Dativ."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich rufe der Arzt an.",
+      "answer": "Ich rufe den Arzt an.",
+      "explanation": "The mistake is the article. *anrufen* takes an Akkusativ object, and *der Arzt* is masculine → *den Arzt*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er kauft einen Brot.",
+      "answer": "Er kauft ein Brot.",
+      "explanation": "The mistake: *-en* was added to a neuter noun. *das Brot* is neuter, so the Akkusativ is *ein Brot*, the same as the Nominativ."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich liebe du.",
+      "answer": "Ich liebe dich.",
+      "explanation": "The mistake is the pronoun. *du* is the subject form; as the object of *lieben* it must be the Akkusativ *dich*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir besuchen unser Onkel.",
+      "answer": "Wir besuchen unseren Onkel.",
+      "explanation": "The mistake: the possessive has no Akkusativ ending. *Onkel* is masculine, so *unser* becomes *unseren*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich kenne den Student.",
+      "answer": "Ich kenne den Studenten.",
+      "explanation": "The mistake is the noun. *der Student* is an n-Deklination noun and adds *-en* in the Akkusativ: *den Studenten*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace the object with a pronoun.",
+      "prompt": "Ich kenne den Mann.",
+      "answer": "Ich kenne ihn.",
+      "explanation": "*den Mann* is a masculine Akkusativ object, and the masculine Akkusativ pronoun is *ihn*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Replace *die Tasche* with *der Koffer*. Adjust the article.",
+      "prompt": "Ich trage die Tasche.",
+      "answer": "Ich trage den Koffer.",
+      "explanation": "Feminine *die* stays the same in the Akkusativ, but *Koffer* is masculine, so the object article changes to *den*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Start the sentence with the object.",
+      "prompt": "Ich trinke den Tee ohne Zucker.",
+      "answer": "Den Tee trinke ich ohne Zucker.",
+      "explanation": "The object *den Tee* moves to position 1, the verb *trinke* stays in position 2, and the subject *ich* comes after it. The article *den* still shows that the tea is the object."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the two sentences with *und*. Replace the repeated object with a pronoun and leave out the repeated subject.",
+      "prompt": "Ich kaufe den Pullover. Ich trage den Pullover heute.",
+      "answer": "Ich kaufe den Pullover und trage ihn heute.",
+      "explanation": "With *und* the second *ich* can be left out. *den Pullover* is a masculine Akkusativ object, so the pronoun is *ihn*, not *es*."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "kauft / einen / Fahrschein / am Automaten / er",
+      "answer": "Er kauft am Automaten einen Fahrschein.",
+      "explanation": "The verb *kauft* is in position 2. *der Fahrschein* is the masculine Akkusativ object → *einen Fahrschein*. New information (*einen Fahrschein*) often comes late in the Mittelfeld; *Er kauft einen Fahrschein am Automaten.* is also correct."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "du / wen / anrufen / willst",
+      "answer": "Wen willst du anrufen?",
+      "explanation": "*Wen* (Akkusativ of *wer*) is in position 1, the modal *willst* in position 2, the subject *du* follows, and the infinitive *anrufen* goes to the end. *anrufen* takes the Akkusativ, so the question word is *wen*."
+    },
+    {
+      "key": "d20",
+      "type": "concept",
+      "instruction": "Answer the question about Akkusativ and Nominativ after sein.",
+      "prompt": "Why is it *Ich habe einen Hund* but *Das ist ein Hund*?",
+      "answer": "*haben* has a direct object → **Akkusativ** (*einen*). *sein* has no object; the noun after it describes the subject → **Nominativ** (*ein*). The same is true for *werden* and *bleiben*.",
+      "explanation": "Ask *Wen/Was habe ich?* → object. With *sein* both sides name the same thing (*das = ein Hund*), so both are Nominativ. This is a very common mistake: ✗ *Das ist einen Hund.*",
+      "examples": [
+        {
+          "de": "Er wird ein guter Arzt.",
+          "en": "He will be a good doctor."
+        },
+        {
+          "de": "Er hat einen guten Arzt.",
+          "en": "He has a good doctor."
+        }
+      ]
+    }
+  ]
+}

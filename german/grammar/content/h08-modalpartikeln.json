@@ -1,0 +1,1113 @@
+{
+  "topic_id": "h08-modalpartikeln",
+  "level": "B1+",
+  "title_de": "Modalpartikeln (doch, ja, mal, eben, halt, denn, wohl, schon, eigentlich)",
+  "title_en": "Modal particles (doch, ja, mal, eben, halt, denn, wohl, schon, eigentlich)",
+  "rule": {
+    "summary": "Modalpartikeln (*ja, doch, mal, eben, halt, denn, wohl, schon, eigentlich, bloß, nur*) are short, unstressed words of spoken German. They do not change the facts of a sentence; they show the speaker's attitude: shared knowledge, surprise, impatience, resignation, politeness, assumption. They have no ending, cannot stand alone in the Vorfeld, cannot be asked about, and each one is only possible in certain sentence types. Without them, spoken German often sounds cold or abrupt.",
+    "table": "| Partikel | Satzart | Ton | Beispiel |\n|---|---|---|---|\n| **ja** | Aussage, Ausruf | known fact; surprise | *Das weißt du **ja**.* · *Du bist **ja** braun geworden!* |\n| **doch** | Aussage, Aufforderung, Wunsch | reminder, reproach; urging | *Ich hab's dir **doch** gesagt.* · *Komm **doch** mit!* |\n| **mal** | Aufforderung, Bitte | softer, casual | *Hilf mir **mal** kurz.* |\n| **eben / halt** | Aussage, Aufforderung | resignation: that's how it is | *Dann warten wir **halt**.* |\n| **denn** | Frage | interest; surprise, reproach | *Wie geht's **denn**?* |\n| **wohl** | Aussage, *ob*-Frage | assumption; wondering | *Er ist **wohl** krank.* |\n| **schon** | Aussage, Aufforderung, rhetorische Frage | reassurance; concession; impatience | *Das wird **schon**.* |\n| **eigentlich** | Frage, Aussage | by the way; actually, in principle | *Wie alt bist du **eigentlich**?* |\n| **bloß / nur** | Aufforderung, Wunsch, W-Frage | warning; strong wish; despair | *Pass **bloß** auf!* · *Wenn ich **nur** wüsste …* |",
+    "steps": [
+      "Identify the sentence type: statement, question, imperative or wish. It limits the choice (*denn* only in questions, *mal* mainly in requests, *ja* not in questions).",
+      "Choose the attitude: known fact → *ja*; reminder, reproach or urging → *doch*; softer request → *mal*; resignation → *eben/halt*; interest in a question → *denn*; assumption → *wohl*; reassurance or concession → *schon*; by the way / in principle → *eigentlich*; warning, wish or despair → *bloß/nur*.",
+      "Place the particle in the Mittelfeld: after the finite verb and after unstressed pronouns (*sich, mir, es, das*), but before *nicht* and before the new information of the sentence.",
+      "In combinations keep the usual order: *ja doch, ja wohl, doch mal, denn eigentlich, halt mal*. *mal* is normally last.",
+      "Keep the particle unstressed. Stressed **DOCH** means 'after all, contrary to expectation'; stressed **JA** in an imperative is a strong warning."
+    ],
+    "pitfalls": [
+      "Particle in the Vorfeld: ✗ *Mal kannst du mir helfen?* → ✓ *Kannst du mir mal helfen?* Modal particles always stand in the Mittelfeld.",
+      "*denn* outside questions: ✗ *Das ist denn schön!* → ✓ *Das ist ja schön!* As a modal particle *denn* only appears in questions.",
+      "*ja* in a question: ✗ *Wo wohnst du ja?* → ✓ *Wo wohnst du denn?*",
+      "Particle after *nicht*: ✗ *Das ist nicht ja schlimm.* → ✓ *Das ist ja nicht schlimm.*",
+      "Particle before an unstressed pronoun: ✗ *Setz doch dich!* → ✓ *Setz dich doch!*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Du bist {{c1::ja}} völlig durchnässt! Hattest du keinen Schirm dabei?",
+      "en": "You're completely soaked! Didn't you have an umbrella with you?",
+      "focus": "Ausruf · plötzliche Überraschung",
+      "explanation": "In an exclamation, unstressed **ja** marks surprise about something the speaker has just noticed: the friend comes in wet, and the speaker reacts spontaneously. It does not add new information; it makes the sentence sound like a real reaction instead of a neutral report. *ja* stands right after the finite verb, before the new information *völlig durchnässt*.",
+      "pattern": "Subjekt + Verb + ja + neue Information!",
+      "mistake": {
+        "wrong": "Du bist völlig ja durchnässt! Hattest du keinen Schirm dabei?",
+        "why": "A modal particle cannot break up a phrase. *völlig durchnässt* is one unit, so *ja* must stand before it: *Du bist ja völlig durchnässt!*"
+      },
+      "examples": [
+        {
+          "de": "Das ist ja eine tolle Überraschung!",
+          "en": "What a lovely surprise!"
+        },
+        {
+          "de": "Ihr habt ja die ganze Wohnung umgestellt!",
+          "en": "You've rearranged the whole flat!"
+        }
+      ],
+      "words": [
+        {
+          "de": "durchnässt",
+          "en": "soaked, drenched"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir können ruhig länger bleiben, wir haben {{c1::ja}} morgen frei.",
+      "en": "We can easily stay longer – we've got tomorrow off, after all.",
+      "focus": "Aussage · bekannte Tatsache · kein Widerspruch",
+      "explanation": "**ja** presents *wir haben morgen frei* as a fact that both speakers already know. It turns the second clause into a friendly justification ('as you know'), without any conflict. *doch* would add the feeling that the listener has forgotten it or disagrees.",
+      "pattern": "Aussage, + Subjekt + Verb + ja + … (Begründung)",
+      "mistake": {
+        "wrong": "Wir können ruhig länger bleiben, wir haben denn morgen frei.",
+        "why": "As a modal particle, *denn* is only possible in questions. The conjunction *denn* ('because') would have to begin the clause: *…, denn wir haben morgen frei.*"
+      },
+      "examples": [
+        {
+          "de": "Nimm ruhig das Auto, ich brauche es ja heute nicht.",
+          "en": "Feel free to take the car – I don't need it today anyway."
+        },
+        {
+          "de": "Du musst nicht so laut sprechen, ich sitze ja direkt neben dir.",
+          "en": "You don't need to speak so loudly – I'm sitting right next to you."
+        }
+      ],
+      "words": [
+        {
+          "de": "ruhig",
+          "en": "(particle) easily, feel free to"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Sag das {{c1::ja}} nicht deiner Mutter!",
+      "en": "Whatever you do, don't tell your mother that!",
+      "focus": "Aufforderung · betont · Warnung",
+      "explanation": "In an imperative, **ja** is **stressed** and turns the request into a strong warning, almost a threat ('don't you dare'). Unstressed *ja* is not possible in imperatives; the stress is what makes this use work. Like all particles it comes before *nicht*, but after the unstressed pronoun *das*.",
+      "pattern": "Imperativ + Pronomen + JA (betont) + nicht + …!",
+      "mistake": {
+        "wrong": "Sag das nicht ja deiner Mutter!",
+        "why": "A modal particle always stands before the negation *nicht*: *Sag das ja nicht …*. After *nicht* the particle is in the wrong position."
+      },
+      "examples": [
+        {
+          "de": "Komm ja nicht wieder so spät nach Hause!",
+          "en": "Don't you dare come home that late again!"
+        },
+        {
+          "de": "Vergiss ja nicht, die Miete zu überweisen!",
+          "en": "Whatever you do, don't forget to transfer the rent!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du, warning)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich dachte, er hätte keine Lust, aber dann ist er {{c1::doch}} noch gekommen.",
+      "en": "I thought he wasn't in the mood, but then he came after all.",
+      "focus": "betont · gegen die Erwartung",
+      "explanation": "Here **doch** is **stressed** and means 'after all, contrary to what was expected': the first clause states the expectation (*er hätte keine Lust*), and *doch* contradicts it. In this use it is closer to an adverb than to an unstressed modal particle. The combination *doch noch* ('in the end, after all') has a fixed order.",
+      "pattern": "Erwartung, aber + … + DOCH (betont) + (noch) + Verb",
+      "mistake": {
+        "wrong": "Ich dachte, er hätte keine Lust, aber dann ist er noch doch gekommen.",
+        "why": "The fixed combination is *doch noch*: *doch* comes first. *noch doch* is not possible."
+      },
+      "examples": [
+        {
+          "de": "Die Prognosen waren schlecht, aber die Partei hat die Wahl doch gewonnen.",
+          "en": "The forecasts were bad, but the party won the election after all."
+        },
+        {
+          "de": "Wir hatten kaum noch Hoffnung, aber die Wohnung haben wir doch noch bekommen.",
+          "en": "We had almost given up hope, but we got the flat in the end."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Setzen Sie sich {{c1::doch}}! Der Kaffee ist gleich fertig.",
+      "en": "Do sit down! The coffee will be ready in a moment.",
+      "focus": "Aufforderung · freundliche Einladung",
+      "explanation": "In an imperative, unstressed **doch** makes the request a warm invitation and removes the guest's hesitation ('please, go ahead'). Without it, *Setzen Sie sich!* can sound like an order. The reflexive pronoun *sich* is unstressed, so it comes before the particle.",
+      "pattern": "Imperativ + (Pronomen) + doch!",
+      "mistake": {
+        "wrong": "Setzen Sie doch sich! Der Kaffee ist gleich fertig.",
+        "why": "Unstressed pronouns (*sich, mir, es*) stand directly after the verb and its subject, before the modal particle: *Setzen Sie sich doch!*"
+      },
+      "examples": [
+        {
+          "de": "Nehmen Sie doch noch ein Stück Kuchen!",
+          "en": "Do have another piece of cake!"
+        },
+        {
+          "de": "Bleib doch zum Abendessen!",
+          "en": "Why don't you stay for dinner?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Das habe ich dir {{c1::doch}} schon dreimal erklärt!",
+      "en": "I've already explained that to you three times!",
+      "focus": "Aussage · Erinnerung mit Vorwurf",
+      "explanation": "Unstressed **doch** in a statement reminds the listener of something they should know, and here it adds a clear reproach: 'you know this, why do you ask again?'. *ja* would only mark the fact as known, without the impatience. *doch* stands after the unstressed pronoun *dir*.",
+      "pattern": "Vorfeld + Verb + Subjekt + Pronomen + doch + … !",
+      "mistake": {
+        "wrong": "Das habe ich dir mal schon dreimal erklärt!",
+        "why": "*mal* softens requests or means *einmal* ('once'). It cannot express a reproach, and 'once' contradicts *dreimal*. A reproachful reminder needs *doch*."
+      },
+      "examples": [
+        {
+          "de": "Wir hatten doch gesagt, dass wir uns um acht treffen!",
+          "en": "But we said we'd meet at eight!"
+        },
+        {
+          "de": "Du weißt doch, dass ich keine Nüsse vertrage!",
+          "en": "You know I can't eat nuts!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wäre ich {{c1::doch}} nur zu Hause geblieben!",
+      "en": "If only I had stayed at home!",
+      "focus": "Wunschsatz · Konjunktiv II · Bedauern",
+      "explanation": "A wish sentence with the verb first and Konjunktiv II (*wäre … geblieben*) needs **doch** (often together with *nur* or *bloß*). The particles mark it as an unreal wish and express regret. Without them, the sentence sounds like an unfinished *if*-clause.",
+      "pattern": "Verb (Konj. II) + Subjekt + doch + nur/bloß + … !",
+      "mistake": {
+        "wrong": "Wäre ich nur doch zu Hause geblieben!",
+        "why": "In a wish sentence the order of the particles is fixed: *doch* comes before *nur* or *bloß* → *Wäre ich doch nur …*. *nur doch* is not possible. (Leaving out both particles is also wrong: then the verb-first clause reads as an unfinished condition, 'If I had stayed at home …'.)"
+      },
+      "examples": [
+        {
+          "de": "Hätte ich doch bloß nicht auf ihn gehört!",
+          "en": "If only I hadn't listened to him!"
+        },
+        {
+          "de": "Käme der Bus doch endlich!",
+          "en": "If only the bus would finally come!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Du kommst {{c1::doch}} morgen zu meiner Verteidigung, oder?",
+      "en": "You are coming to my thesis defence tomorrow, aren't you?",
+      "focus": "Aussagesatz als Frage · Bestätigung erhofft, leichte Sorge",
+      "explanation": "The sentence has statement word order but works as a question. Unstressed **doch** shows that the speaker expects 'yes' and is a little worried about the answer: 'you haven't forgotten, have you?'. The tag *oder?* asks for confirmation.",
+      "pattern": "Subjekt + Verb + doch + …, oder?",
+      "mistake": {
+        "wrong": "Du kommst denn morgen zu meiner Verteidigung, oder?",
+        "why": "*denn* only works in real questions with question word order (*Kommst du denn morgen?*). In a sentence with statement word order that asks for confirmation, the particle is *doch*."
+      },
+      "examples": [
+        {
+          "de": "Du hast doch den Schlüssel eingesteckt, oder?",
+          "en": "You did take the key, didn't you?"
+        },
+        {
+          "de": "Das Meeting ist doch erst um zehn, oder?",
+          "en": "The meeting isn't until ten, is it?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Verteidigung (-en)",
+          "en": "(thesis) defence"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Kannst du {{c1::mal}} kurz das Fenster zumachen? Es zieht.",
+      "en": "Could you close the window for a second? There's a draught.",
+      "focus": "Bitte · abgeschwächt",
+      "explanation": "**mal** (from *einmal*) makes the request sound small and casual: it is no big effort, just quickly. A request without it (*Kannst du das Fenster zumachen?*) is correct but sounds more direct. *mal* stands early in the Mittelfeld, here before *kurz*.",
+      "pattern": "Modalverb + Subjekt + mal + … + Infinitiv?",
+      "mistake": {
+        "wrong": "Kannst du kurz das Fenster zumachen mal?",
+        "why": "*mal* is not an English-style tag like 'for a sec'. It must stand in the Mittelfeld, before the infinitive at the end: *Kannst du mal kurz das Fenster zumachen?*"
+      },
+      "examples": [
+        {
+          "de": "Kannst du mir mal kurz den Laptop geben?",
+          "en": "Can you pass me the laptop for a second?"
+        },
+        {
+          "de": "Könnten Sie mal nachsehen, ob noch Plätze frei sind?",
+          "en": "Could you check whether there are still seats available?"
+        }
+      ],
+      "words": [
+        {
+          "de": "es zieht",
+          "en": "there is a draught"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Schauen Sie sich {{c1::mal}} die Zahlen auf Seite drei an.",
+      "en": "Take a look at the figures on page three.",
+      "focus": "Aufforderung · Sie · beiläufig, abgeschwächt",
+      "explanation": "In an imperative, **mal** softens an instruction into a friendly suggestion, which is useful in professional situations (meetings, presentations). The reflexive pronoun *sich* comes first, then *mal*, then the new information *die Zahlen*; the separable prefix *an* closes the sentence.",
+      "pattern": "Imperativ (Sie) + sich + mal + Objekt + Präfix",
+      "mistake": {
+        "wrong": "Mal schauen Sie sich die Zahlen auf Seite drei an.",
+        "why": "A modal particle cannot stand before the verb. In the imperative the verb comes first, and *mal* stays in the Mittelfeld: *Schauen Sie sich mal …*"
+      },
+      "examples": [
+        {
+          "de": "Lesen Sie sich mal den zweiten Absatz durch.",
+          "en": "Have a read through the second paragraph."
+        },
+        {
+          "de": "Hören Sie sich mal diese Aufnahme an.",
+          "en": "Have a listen to this recording."
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ruf {{c1::doch mal::2 Partikeln}} beim Kundenservice an, vielleicht können die dir weiterhelfen.",
+      "en": "Why don't you give customer service a call? Maybe they can help you.",
+      "focus": "Aufforderung · Vorschlag · Kombination",
+      "explanation": "*doch* makes the imperative a suggestion ('why don't you …'), and *mal* makes it sound small and easy. Together, **doch mal** is the most typical way to give friendly advice in spoken German. The order is fixed: *doch* before *mal*.",
+      "pattern": "Imperativ + doch mal + … + Präfix",
+      "mistake": {
+        "wrong": "Ruf mal doch beim Kundenservice an, vielleicht können die dir weiterhelfen.",
+        "why": "In combinations *mal* comes last. The only possible order is *doch mal*."
+      },
+      "examples": [
+        {
+          "de": "Frag doch mal deine Nachbarin, ob sie eine Bohrmaschine hat.",
+          "en": "Why don't you ask your neighbour if she has a drill?"
+        },
+        {
+          "de": "Probier doch mal die neue Bäckerei an der Ecke aus.",
+          "en": "Why don't you try the new bakery on the corner?"
+        }
+      ],
+      "words": [
+        {
+          "de": "weiterhelfen",
+          "en": "to help (with a problem)"
+        }
+      ],
+      "production_cue": "(du, suggestion)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wenn der Zug ausfällt, müssen wir {{c1::eben::Resignation (auch standardsprachlich)}} ein Taxi nehmen.",
+      "en": "If the train is cancelled, we'll just have to take a taxi.",
+      "focus": "Aussage · Notlösung · Resignation",
+      "explanation": "**eben** presents the taxi as the only logical solution that one has to accept: 'that's the way it is, there is nothing else to do'. *halt* means the same but is more colloquial and more southern; *eben* is also used in neutral and northern German. The particle stands before the new information *ein Taxi*.",
+      "pattern": "…, müssen wir + eben + Objekt + Infinitiv",
+      "mistake": {
+        "wrong": "Wenn der Zug ausfällt, müssen wir ein Taxi nehmen eben.",
+        "why": "*eben* must stand in the Mittelfeld, before the infinitive that closes the clause. After the infinitive it is in the wrong place."
+      },
+      "examples": [
+        {
+          "de": "Wenn kein Platz mehr frei ist, stehen wir eben.",
+          "en": "If there are no seats left, we'll just stand."
+        },
+        {
+          "de": "Wenn das Restaurant voll ist, kochen wir eben zu Hause.",
+          "en": "If the restaurant is full, we'll just cook at home."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausfallen",
+          "en": "to be cancelled"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Er hat {{c1::halt::Resignation (umgangssprachlich)}} noch nicht so viel Erfahrung, das musst du verstehen.",
+      "en": "He just doesn't have that much experience yet – you have to understand that.",
+      "focus": "Aussage · Erklärung, die man akzeptieren muss",
+      "explanation": "**halt** presents the lack of experience as a simple fact that cannot be changed and should be accepted. This makes the sentence an excuse for the colleague, not a criticism. Like all particles, *halt* comes before the negation *noch nicht*.",
+      "pattern": "Subjekt + Verb + halt + (noch) nicht + …",
+      "mistake": {
+        "wrong": "Er hat noch nicht halt so viel Erfahrung, das musst du verstehen.",
+        "why": "Modal particles stand before the negation, not after it: *Er hat halt noch nicht …*"
+      },
+      "examples": [
+        {
+          "de": "Sie ist halt noch neu im Team.",
+          "en": "She's just still new on the team."
+        },
+        {
+          "de": "Das Haus ist halt schon über hundert Jahre alt.",
+          "en": "Well, the house is over a hundred years old."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Wenn dir das Angebot nicht passt, dann such dir {{c1::eben::Resignation (auch standardsprachlich)}} einen anderen Anbieter.",
+      "en": "If you don't like the offer, then just look for another provider.",
+      "focus": "Aufforderung · ungeduldige Konsequenz",
+      "explanation": "In an imperative, **eben** presents the action as the obvious consequence: 'then simply do that'. Here it sounds a little impatient or annoyed, because the speaker does not want to discuss the offer any longer. *eben* follows the unstressed pronoun *dir* and comes before the new information.",
+      "pattern": "dann + Imperativ + Pronomen + eben + …",
+      "mistake": {
+        "wrong": "Wenn dir das Angebot nicht passt, dann such dir denn einen anderen Anbieter.",
+        "why": "*denn* as a modal particle only occurs in questions, never in an imperative. To present the obvious consequence, use *eben* or *halt*."
+      },
+      "examples": [
+        {
+          "de": "Wenn du keine Lust hast, dann bleib eben zu Hause.",
+          "en": "If you don't feel like it, then just stay at home."
+        },
+        {
+          "de": "Wenn Sie es eilig haben, nehmen Sie eben die Expresslieferung.",
+          "en": "If you're in a hurry, just choose express delivery."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anbieter (-)",
+          "en": "provider, supplier"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Ich habe abgesagt, weil ich {{c1::halt::Resignation (umgangssprachlich)}} keine Lust auf so große Partys habe.",
+      "en": "I declined because I just don't like such big parties.",
+      "focus": "*weil*-Satz · Begründung ohne Diskussion",
+      "explanation": "Modal particles are also possible in causal Nebensätze. **halt** marks the reason as simple and final: 'that's just how I am, there is nothing more to explain'. It stands after the subject *ich* and before the new information *keine Lust*.",
+      "pattern": "weil + Subjekt + halt + … + Verb",
+      "mistake": {
+        "wrong": "Ich habe abgesagt, weil ich keine Lust halt auf so große Partys habe.",
+        "why": "*keine Lust auf so große Partys* is one phrase. The particle cannot go inside it; it stands before it: *weil ich halt keine Lust …*"
+      },
+      "examples": [
+        {
+          "de": "Ich fahre mit dem Rad, weil ich halt gern draußen bin.",
+          "en": "I cycle because I just like being outdoors."
+        },
+        {
+          "de": "Wir sind umgezogen, weil die alte Wohnung halt zu klein war.",
+          "en": "We moved because the old flat was simply too small."
+        }
+      ],
+      "words": [
+        {
+          "de": "absagen",
+          "en": "to decline, to cancel"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Was machst du {{c1::denn}} hier? Ich dachte, du wärst in Berlin.",
+      "en": "What are you doing here? I thought you were in Berlin.",
+      "focus": "W-Frage · Überraschung",
+      "explanation": "In a question, **denn** connects the question to the situation and shows real interest; here it expresses surprise at meeting the friend unexpectedly. Without *denn*, *Was machst du hier?* can sound cold or even hostile. *denn* comes directly after the subject pronoun.",
+      "pattern": "W-Wort + Verb + Subjekt + denn + …?",
+      "mistake": {
+        "wrong": "Was machst du ja hier? Ich dachte, du wärst in Berlin.",
+        "why": "Unstressed *ja* is only possible in statements and exclamations. In questions, the particle of interest or surprise is *denn*."
+      },
+      "examples": [
+        {
+          "de": "Wo wart ihr denn so lange?",
+          "en": "Where have you been all this time?"
+        },
+        {
+          "de": "Wer hat dir denn das erzählt?",
+          "en": "Who told you that?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Was ist {{c1::denn}} mit dir los? Du siehst so blass aus.",
+      "en": "What's wrong with you? You look so pale.",
+      "focus": "W-Frage · Sorge",
+      "explanation": "Here **denn** shows concern: the speaker has noticed something (the pale face) and wants to know the reason. The question is linked to what the speaker sees, which makes it sound caring rather than neutral. *denn* is in the Mittelfeld, before *mit dir los*.",
+      "pattern": "W-Wort + Verb + denn + … ?",
+      "mistake": {
+        "wrong": "Was ist doch mit dir los? Du siehst so blass aus.",
+        "why": "Unstressed *doch* does not occur in a real W-question that asks for new information. The particle for interest and concern in questions is *denn*."
+      },
+      "examples": [
+        {
+          "de": "Warum bist du denn so schlecht gelaunt?",
+          "en": "Why are you in such a bad mood?"
+        },
+        {
+          "de": "Was hat der Arzt denn gesagt?",
+          "en": "What did the doctor say?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Hast du {{c1::denn}} nicht gemerkt, dass der Akku fast leer war?",
+      "en": "Didn't you notice that the battery was almost dead?",
+      "focus": "Entscheidungsfrage · Verwunderung, Vorwurf",
+      "explanation": "In a negative yes/no question, **denn** expresses surprise and a mild reproach: the speaker cannot understand how the listener missed it. It stands after the subject *du* and before *nicht*.",
+      "pattern": "Verb + Subjekt + denn + nicht + Partizip II, dass …?",
+      "mistake": {
+        "wrong": "Hast du nicht denn gemerkt, dass der Akku fast leer war?",
+        "why": "The particle must come before the negation: *Hast du denn nicht gemerkt …?*"
+      },
+      "examples": [
+        {
+          "de": "Hast du denn keinen Wecker gestellt?",
+          "en": "Didn't you set an alarm?"
+        },
+        {
+          "de": "Habt ihr denn nicht vorher angerufen?",
+          "en": "Didn't you call beforehand?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Akku (-s)",
+          "en": "(rechargeable) battery"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Ihr Mantel hängt nicht mehr da, sie ist {{c1::wohl}} schon nach Hause gegangen.",
+      "en": "Her coat isn't there any more – she's probably gone home already.",
+      "focus": "Aussage · Vermutung aufgrund eines Hinweises",
+      "explanation": "Unstressed **wohl** turns the statement into an assumption: the speaker concludes it from a clue (the missing coat) but is not sure. It is close to *wahrscheinlich* or *vermutlich*. *wohl* stands early in the Mittelfeld, before *schon*.",
+      "pattern": "Subjekt + Verb + wohl + … + Partizip II",
+      "mistake": {
+        "wrong": "Ihr Mantel hängt nicht mehr da, sie ist schon nach Hause gegangen wohl.",
+        "why": "*wohl* is not a tag at the end of the sentence. It must stand in the Mittelfeld, before the Partizip II: *sie ist wohl schon … gegangen*."
+      },
+      "examples": [
+        {
+          "de": "Das Licht ist aus, die Nachbarn sind wohl im Urlaub.",
+          "en": "The light is off – the neighbours are probably on holiday."
+        },
+        {
+          "de": "Die Straße ist nass, es hat wohl in der Nacht geregnet.",
+          "en": "The street is wet – it probably rained during the night."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Das ist {{c1::ja wohl::2 Partikeln}} nicht dein Ernst!",
+      "en": "You can't be serious!",
+      "focus": "Ausruf · Empörung · Kombination",
+      "explanation": "The combination **ja wohl** in an exclamation expresses indignation: *ja* treats the point as obvious, *wohl* as something the listener surely cannot deny. Together they say 'this is clearly unacceptable'. Order: *ja* before *wohl*, both before *nicht*.",
+      "pattern": "… + Verb + ja wohl + nicht + …!",
+      "mistake": {
+        "wrong": "Ist das ja wohl nicht dein Ernst?",
+        "why": "*ja* (and *ja wohl*) is not possible in a question with verb-first order. The indignation is expressed as a statement: *Das ist ja wohl nicht dein Ernst!*"
+      },
+      "examples": [
+        {
+          "de": "Das kann ja wohl nicht wahr sein!",
+          "en": "That can't be true!"
+        },
+        {
+          "de": "Du hast ja wohl nicht vor, so zur Hochzeit zu gehen!",
+          "en": "Surely you're not planning to go to the wedding like that!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Ob sie die Stelle in Zürich {{c1::wohl}} bekommt?",
+      "en": "I wonder whether she'll get the job in Zurich.",
+      "focus": "selbstständiger *ob*-Satz · Nachdenken",
+      "explanation": "An independent *ob*-clause with **wohl** is a question the speaker asks himself: 'I wonder whether …'. *wohl* marks uncertainty and does not demand an answer from the listener. As in every *ob*-clause, the finite verb *bekommt* goes to the end.",
+      "pattern": "Ob + Subjekt + … + wohl + … + Verb?",
+      "mistake": {
+        "wrong": "Ob sie die Stelle in Zürich bekommt wohl?",
+        "why": "In an *ob*-clause the finite verb is the last word; nothing can follow it. *wohl* belongs in the Mittelfeld before the verb."
+      },
+      "examples": [
+        {
+          "de": "Ob das Wetter am Samstag wohl hält?",
+          "en": "I wonder whether the weather will hold on Saturday."
+        },
+        {
+          "de": "Ob er sich wohl noch an mich erinnert?",
+          "en": "I wonder whether he still remembers me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Mach dir keine Sorgen, du findest {{c1::schon}} eine passende Wohnung.",
+      "en": "Don't worry, you'll find a suitable flat, I'm sure.",
+      "focus": "Aussage · Beruhigung",
+      "explanation": "Unstressed **schon** expresses reassurance: the speaker is confident that things will work out, even if the listener doubts it. The Präsens *findest* refers to the future here. *schon* stands before the new information *eine passende Wohnung*.",
+      "pattern": "Subjekt + Verb + schon + … (Zukunft)",
+      "mistake": {
+        "wrong": "Mach dir keine Sorgen, schon findest du eine passende Wohnung.",
+        "why": "A modal particle cannot fill the Vorfeld. In the Vorfeld, *schon* can only be the time adverb 'already, right away' (*Klick hier, und schon …*), which makes no sense here, and the reassurance is lost. The particle must stay in the Mittelfeld: *du findest schon …*"
+      },
+      "examples": [
+        {
+          "de": "Das wird schon wieder, du musst nur Geduld haben.",
+          "en": "It'll be all right again, you just have to be patient."
+        },
+        {
+          "de": "Keine Panik, wir schaffen das schon.",
+          "en": "Don't panic – we'll manage it, I'm sure."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Die Lage ist {{c1::schon::Modalpartikel}} toll, aber für 1.800 Euro Kaltmiete hätte ich mehr erwartet.",
+      "en": "The location is great, admittedly, but for 1,800 euros rent excluding bills I would have expected more.",
+      "focus": "Aussage · Einräumung mit *aber*",
+      "explanation": "In *schon …, aber …*, **schon** concedes one point ('yes, that's true') before the speaker makes a stronger counterpoint. The particle is usually unstressed, with the stress on *toll*; a stressed *SCHON* makes the concession stronger. It stands directly before the predicative adjective.",
+      "pattern": "X ist schon + Adjektiv, aber …",
+      "mistake": {
+        "wrong": "Die Lage ist toll schon, aber für 1.800 Euro Kaltmiete hätte ich mehr erwartet.",
+        "why": "The particle comes before the new information, not after it: *ist schon toll*."
+      },
+      "examples": [
+        {
+          "de": "Das Handy ist schon gut, aber der Akku hält nicht lange.",
+          "en": "The phone is good, I'll admit, but the battery doesn't last long."
+        },
+        {
+          "de": "Er ist schon nett, aber manchmal etwas anstrengend.",
+          "en": "He's nice enough, but sometimes a bit tiring."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Kaltmiete",
+          "en": "rent excluding heating and utilities"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Jetzt komm {{c1::schon}}, alle warten auf dich!",
+      "en": "Come on, everyone's waiting for you!",
+      "focus": "Aufforderung · Ungeduld",
+      "explanation": "In an imperative, **schon** expresses impatience: the speaker has waited long enough and pushes the listener ('come on!'). *doch* can also push someone (*Jetzt komm doch endlich!*), but *komm schon* is the fixed way to say 'come on', and it sounds less friendly.",
+      "pattern": "(Jetzt) + Imperativ + schon!",
+      "mistake": {
+        "wrong": "Jetzt komm eigentlich, alle warten auf dich!",
+        "why": "*eigentlich* is used in questions and statements, never in imperatives. To push someone impatiently, use *schon*."
+      },
+      "examples": [
+        {
+          "de": "Nun sag schon, wie war das Vorstellungsgespräch?",
+          "en": "Come on, tell me – how was the job interview?"
+        },
+        {
+          "de": "Mach schon, der Bus fährt gleich ab!",
+          "en": "Hurry up, the bus is about to leave!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du, impatient)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Wer liest {{c1::schon}} die ganzen AGB, bevor er auf „Akzeptieren“ klickt?",
+      "en": "Who actually reads all the terms and conditions before clicking 'Accept'?",
+      "focus": "rhetorische W-Frage · Antwort: niemand",
+      "explanation": "In a W-question, **schon** makes it rhetorical: the speaker expects the answer 'nobody' and does not want information. The question is really a statement (*Niemand liest die AGB.*). Compare *Wer liest denn die AGB?*, which is a real question.",
+      "pattern": "W-Wort + Verb + schon + …? (= niemand / nichts)",
+      "mistake": {
+        "wrong": "Wer liest halt die ganzen AGB, bevor er auf „Akzeptieren“ klickt?",
+        "why": "*halt* is only possible in statements and imperatives, not in questions. A rhetorical W-question uses *schon*."
+      },
+      "examples": [
+        {
+          "de": "Wer hat heutzutage schon Zeit, jeden Tag frisch zu kochen?",
+          "en": "Who has time to cook fresh food every day these days?"
+        },
+        {
+          "de": "Was weiß man schon über die Zukunft?",
+          "en": "What does anyone really know about the future?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die AGB (Pl.)",
+          "en": "terms and conditions"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Wie heißt {{c1::eigentlich}} deine neue Kollegin?",
+      "en": "By the way, what's your new colleague's name?",
+      "focus": "W-Frage · neues Thema",
+      "explanation": "In a question, **eigentlich** introduces a new topic casually, like English 'by the way': the speaker has just thought of it. It makes the question less abrupt. *eigentlich* can stand before or after the subject *deine neue Kollegin*.",
+      "pattern": "W-Wort + Verb + eigentlich + Subjekt?",
+      "mistake": {
+        "wrong": "Wie heißt ja deine neue Kollegin?",
+        "why": "Unstressed *ja* is not possible in questions. A casual 'by the way' question takes *eigentlich*."
+      },
+      "examples": [
+        {
+          "de": "Seit wann wohnst du eigentlich in Leipzig?",
+          "en": "By the way, how long have you been living in Leipzig?"
+        },
+        {
+          "de": "Was macht eigentlich dein Bruder beruflich?",
+          "en": "By the way, what does your brother do for a living?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Ich habe {{c1::eigentlich}} keine Zeit, aber für dich mache ich eine Ausnahme.",
+      "en": "I don't really have time, but I'll make an exception for you.",
+      "focus": "Aussage · im Prinzip, aber …",
+      "explanation": "In a statement, **eigentlich** means 'in principle, strictly speaking': it states the normal situation and prepares a contrast (*aber …*). Unlike *ja* or *doch*, *eigentlich* is also an adverb and can stand in the Vorfeld: *Eigentlich habe ich keine Zeit, aber …*.",
+      "pattern": "Subjekt + Verb + eigentlich + kein/nicht …, aber …",
+      "mistake": {
+        "wrong": "Ich habe keine eigentlich Zeit, aber für dich mache ich eine Ausnahme.",
+        "why": "The particle cannot stand inside the noun phrase *keine Zeit*. It comes before the whole phrase: *Ich habe eigentlich keine Zeit.*"
+      },
+      "examples": [
+        {
+          "de": "Wir wollten eigentlich nach Italien, aber dann haben wir uns für Portugal entschieden.",
+          "en": "We actually wanted to go to Italy, but then we decided on Portugal."
+        },
+        {
+          "de": "Das Museum ist eigentlich montags geschlossen, aber heute gibt es eine Sonderöffnung.",
+          "en": "The museum is normally closed on Mondays, but today there is a special opening."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Fass {{c1::bloß::Warnung, ≈ nur}} nicht den Herd an, der ist noch heiß!",
+      "en": "Don't touch the cooker, whatever you do – it's still hot!",
+      "focus": "Aufforderung · Warnung",
+      "explanation": "In an imperative, **bloß** (or *nur*) turns the instruction into an urgent warning ('whatever you do, don't …'). It is stronger than *doch* and sounds worried. *bloß* stands before *nicht*; after *nicht* it would mean 'only'.",
+      "pattern": "Imperativ + bloß + nicht + … !",
+      "mistake": {
+        "wrong": "Fass nicht bloß den Herd an, der ist noch heiß!",
+        "why": "*nicht bloß* means 'not only' (*nicht nur*), so the sentence would say 'don't touch only the cooker'. As a warning particle *bloß* must come before *nicht*."
+      },
+      "examples": [
+        {
+          "de": "Sag bloß nichts von der Überraschung!",
+          "en": "Don't you dare say anything about the surprise!"
+        },
+        {
+          "de": "Verlier nur nicht wieder deinen Pass!",
+          "en": "Whatever you do, don't lose your passport again!"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Herd (-e)",
+          "en": "cooker, stove"
+        }
+      ],
+      "production_cue": "(du, warning)",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Wenn ich {{c1::nur::Wunsch, ≈ bloß}} mehr Zeit für meine Familie hätte!",
+      "en": "If only I had more time for my family!",
+      "focus": "Wunschsatz mit *wenn* · Konjunktiv II",
+      "explanation": "An independent *wenn*-clause with Konjunktiv II and **nur** (or *bloß*, *doch*) expresses a strong unreal wish: 'if only …'. The particle is required; without it the clause sounds like an unfinished condition. The finite verb *hätte* stays at the end, as in every *wenn*-clause.",
+      "pattern": "Wenn + Subjekt + nur + … + Verb (Konj. II)!",
+      "mistake": {
+        "wrong": "Wenn ich nur mehr Zeit für meine Familie habe!",
+        "why": "An unreal wish needs Konjunktiv II: *hätte*, not the indicative *habe*."
+      },
+      "examples": [
+        {
+          "de": "Wenn es nur endlich aufhören würde zu regnen!",
+          "en": "If only it would finally stop raining!"
+        },
+        {
+          "de": "Wenn ich bloß besser Französisch sprechen könnte!",
+          "en": "If only I could speak French better!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Wo habe ich {{c1::bloß::Ratlosigkeit, ≈ nur}} meinen Ausweis hingelegt?",
+      "en": "Where on earth did I put my ID card?",
+      "focus": "W-Frage an sich selbst · Ratlosigkeit",
+      "explanation": "In a W-question, **bloß** (or *nur*) expresses helplessness or despair: the speaker asks himself and has no idea of the answer ('where on earth …?'). It is not a request for information from someone else.",
+      "pattern": "W-Wort + Verb + Subjekt + bloß + … + Partizip II?",
+      "mistake": {
+        "wrong": "Wo habe ich mal meinen Ausweis hingelegt?",
+        "why": "*mal* softens requests; it does not fit a question for information. Despair in a W-question is expressed with *bloß* or *nur*."
+      },
+      "examples": [
+        {
+          "de": "Was ist nur mit dem Drucker los?",
+          "en": "What on earth is wrong with the printer?"
+        },
+        {
+          "de": "Wie soll ich das bloß bis Freitag schaffen?",
+          "en": "How on earth am I supposed to manage that by Friday?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Ausweis (-e)",
+          "en": "ID card"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about modal particles in general.",
+      "prompt": "What makes a word like *ja, doch* or *mal* a modal particle, and where in the sentence does it stand?",
+      "answer": "It is **unstressed**, has **no ending**, does not change the facts but adds the **speaker's attitude**, cannot be asked about and cannot stand alone in the **Vorfeld**. It stands in the **Mittelfeld**: after unstressed pronouns, before *nicht* and before the new information.",
+      "explanation": "You can delete a modal particle and the sentence stays grammatical and true, but its tone changes. Many particles also exist as other words (*ja* = yes, *doch* = but, *eben* = just now, *schon* = already); only the unstressed use in the Mittelfeld is the modal particle.",
+      "examples": [
+        {
+          "de": "Das hast du mir ja gar nicht erzählt!",
+          "en": "You never told me that!"
+        },
+        {
+          "de": "Gib mir doch bitte mal die Butter.",
+          "en": "Could you pass me the butter, please?"
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about sentence types.",
+      "prompt": "Which particles are typical in questions, which in statements, and which in imperatives?",
+      "answer": "**Questions:** *denn, eigentlich, wohl* (also in *ob*-clauses), *bloß/nur* (W-questions), *schon* (rhetorical). **Statements:** *ja, doch, eben, halt, wohl, schon, eigentlich*. **Imperatives:** *doch, mal, eben, halt, schon, bloß/nur*, stressed *JA*.",
+      "explanation": "These limits are strict: as a modal particle *denn* practically never appears in a statement (only in fixed combinations like *Das ist denn doch zu viel!*), unstressed *ja* never in a question, *eigentlich* never in an imperative. Checking the sentence type first removes most wrong choices.",
+      "examples": [
+        {
+          "de": "Wie lange dauert der Kurs denn?",
+          "en": "How long does the course last?"
+        },
+        {
+          "de": "Hilf mir mal mit den Koffern.",
+          "en": "Give me a hand with the suitcases."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two particles.",
+      "prompt": "In a statement, what is the difference between *ja* and unstressed *doch*?",
+      "answer": "**ja**: the speaker assumes the listener knows the fact and agrees; there is **no conflict**. **doch**: the speaker reminds the listener of something they seem to have **forgotten or to contradict**; it often sounds like a reproach.",
+      "explanation": "*Das Museum ist ja montags zu* just refers to common knowledge. *Das Museum ist doch montags zu!* reacts to a plan that ignores this fact ('but you know it's closed on Mondays'). Both are unstressed and stand in the same position.",
+      "examples": [
+        {
+          "de": "Du kennst Thomas ja, er kommt immer zu spät.",
+          "en": "You know Thomas – he's always late."
+        },
+        {
+          "de": "Du kennst Thomas doch, warum hast du dich auf ihn verlassen?",
+          "en": "But you know Thomas – why did you rely on him?"
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about stressed DOCH.",
+      "prompt": "What are the uses of **stressed** *DOCH*, and how do they differ from the unstressed modal particle?",
+      "answer": "1. Answer to a **negative question or statement**: *Kommst du nicht mit? – DOCH!* (= yes, I am). 2. Inside a sentence: **'after all, contrary to expectation'**: *Er hat es DOCH geschafft.* The unstressed particle only adds tone (reminder, reproach, urging).",
+      "explanation": "Stress changes the meaning: stressed *DOCH* contradicts an expectation or a negative statement, so it carries content. Unstressed *doch* can be left out without changing the facts. English 'yes' after a negative question corresponds to German *doch*, not *ja*.",
+      "examples": [
+        {
+          "de": "Du hast keinen Hunger, oder? – Doch, ich habe sogar großen Hunger.",
+          "en": "You're not hungry, are you? – Yes, I am, actually very hungry."
+        },
+        {
+          "de": "Am Ende hat der Antrag doch geklappt.",
+          "en": "In the end the application worked out after all."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the contrast between eben and halt.",
+      "prompt": "Do *eben* and *halt* differ in meaning as modal particles? Where else can *eben* appear?",
+      "answer": "As modal particles they mean the same: **resignation, 'that's just how it is'**. *halt* is more **colloquial** and more common in southern Germany, Austria and Switzerland; *eben* is also used in neutral and northern German. *eben* is also a time adverb (**'just now'**) and, stressed, an answer word (**'exactly'**).",
+      "explanation": "Because *eben* has several meanings, context decides: *Er ist eben gegangen* can mean 'he has just left' or 'well, he left'. *halt* does not have this ambiguity. Both can be combined with *mal* (*halt mal, eben mal*).",
+      "examples": [
+        {
+          "de": "So ist das Leben halt.",
+          "en": "That's life."
+        },
+        {
+          "de": "Sie hat eben angerufen, du sollst zurückrufen.",
+          "en": "She just called – you're supposed to call back."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about combinations.",
+      "prompt": "In which order do modal particles stand when two of them are combined?",
+      "answer": "The usual combinations have a fixed order: **ja doch, ja wohl, doch mal, denn eigentlich, halt mal, eben mal, doch nur/bloß**. *ja* comes first, *mal* comes last.",
+      "explanation": "Each particle keeps its meaning: in *doch mal*, *doch* urges and *mal* softens; in *ja wohl*, *ja* marks the obvious and *wohl* the assumption that nobody can deny it. Reversed orders like *mal doch* or *eigentlich denn* are not possible.",
+      "examples": [
+        {
+          "de": "Wie spät ist es denn eigentlich?",
+          "en": "So what time is it, actually?"
+        },
+        {
+          "de": "Warte halt mal kurz, ich bin gleich fertig.",
+          "en": "Just wait a moment, I'm almost done."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "concept",
+      "instruction": "Answer the question about bloß and nur.",
+      "prompt": "In which three sentence types are *bloß* and *nur* modal particles, and what do they mean in a normal statement?",
+      "answer": "As modal particles: in **imperatives** (warning: *Pass bloß auf!*), in **wish sentences** with Konjunktiv II (*Wenn ich nur …!*, *Hätte ich doch bloß …!*) and in **W-questions** (despair: *Was soll ich nur tun?*). In a normal statement they are focus words meaning **'only'**: *Ich habe bloß zehn Euro.*",
+      "explanation": "The position relative to *nicht* shows the difference: *Sag bloß nichts!* (warning) vs. *nicht bloß* (= not only). In wishes they are needed to mark the clause as a complete wish.",
+      "examples": [
+        {
+          "de": "Was habe ich mir bloß dabei gedacht?",
+          "en": "What on earth was I thinking?"
+        },
+        {
+          "de": "Ich wollte nur kurz Hallo sagen.",
+          "en": "I only wanted to say hello quickly."
+        }
+      ]
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Add *doch mal* to turn the instruction into friendly advice.",
+      "prompt": "Frag deinen Betreuer, ob er dir eine Verlängerung gibt.",
+      "answer": "Frag doch mal deinen Betreuer, ob er dir eine Verlängerung gibt.",
+      "explanation": "*doch mal* goes into the Mittelfeld right after the imperative, before the new information *deinen Betreuer*. *doch* makes it a suggestion, *mal* makes it sound easy. *Frag deinen Betreuer doch mal, …* is also correct."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Turn the *wenn*-wish into a wish with the verb first and *doch*.",
+      "prompt": "Wenn ich nur nicht so viel gegessen hätte!",
+      "answer": "Hätte ich doch nur nicht so viel gegessen!",
+      "explanation": "Without *wenn*, the finite verb *hätte* moves to position 1, and the Partizip II *gegessen* stays at the end. *doch* is added before *nur* (fixed order *doch nur*), and both particles stand before *nicht*. *Hätte ich doch nicht so viel gegessen!* without *nur* is also correct."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Add a particle that makes the question sound interested and friendly.",
+      "prompt": "Woran forschst du gerade?",
+      "answer": "Woran forschst du denn gerade?",
+      "explanation": "*denn* is the typical particle of interest in questions. It stands after the subject pronoun *du* and before the time adverb *gerade*. Without it the question sounds like an interview."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Turn the advice into an urgent warning: use the imperative (du) and *bloß*.",
+      "prompt": "Du solltest nicht zu spät zum Vorstellungsgespräch kommen.",
+      "answer": "Komm bloß nicht zu spät zum Vorstellungsgespräch!",
+      "explanation": "The imperative of *kommen* (du) is *komm*. *bloß* turns it into a worried warning and must stand before *nicht*. *Komm ja nicht zu spät …!* with stressed *ja* has a similar effect."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Add *halt* to express resignation.",
+      "prompt": "Dann kaufen wir morgen ein.",
+      "answer": "Dann kaufen wir halt morgen ein.",
+      "explanation": "*halt* comes after the subject *wir* and before the new information *morgen*. It shows that the speaker accepts the situation (e.g. the shop is closed) and the plan is a compromise."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Was hast du ja am Wochenende gemacht?",
+      "answer": "Was hast du denn am Wochenende gemacht?",
+      "explanation": "Unstressed *ja* is impossible in a question. The particle of interest in questions is *denn* (or *eigentlich* for a new topic)."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Hilf doch mir mal beim Umzug!",
+      "answer": "Hilf mir doch mal beim Umzug!",
+      "explanation": "The unstressed pronoun *mir* must come directly after the verb, before the particles. *doch mal* follows it."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe nicht ja gesagt, dass es leicht wird.",
+      "answer": "Ich habe ja nicht gesagt, dass es leicht wird.",
+      "explanation": "Modal particles stand before the negation. *ja* must come before *nicht*: *Ich habe ja nicht gesagt …* ('I never said, as you know, …')."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Komm herein doch, die Tür ist offen!",
+      "answer": "Komm doch herein, die Tür ist offen!",
+      "explanation": "The particle *doch* cannot stand after the separable prefix *herein*: the prefix closes the Satzklammer, and nothing of the Mittelfeld may follow it. In the imperative the verb comes first, *doch* stays in the Mittelfeld, and *herein* goes to the end: *Komm doch herein!*"
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the particle that fits the context.",
+      "prompt": "– Du hast den Termin vergessen! – Nein, ich habe ihn ___ abgesagt. Hast du meine Nachricht nicht gelesen?",
+      "options": [
+        "doch",
+        "denn",
+        "mal"
+      ],
+      "correct": "doch",
+      "answer": "– Du hast den Termin vergessen! – Nein, ich habe ihn doch abgesagt. Hast du meine Nachricht nicht gelesen?",
+      "explanation": "The speaker contradicts the reproach and reminds the other person of a fact they should know → unstressed *doch*. *denn* is only possible in questions. *mal* softens requests and does not fit a statement about a past action."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the particle that fits the context.",
+      "prompt": "Ich bin mir nicht sicher, aber der Zug hat ___ Verspätung – der Bahnsteig ist voller Leute.",
+      "options": [
+        "wohl",
+        "denn",
+        "mal"
+      ],
+      "correct": "wohl",
+      "answer": "Ich bin mir nicht sicher, aber der Zug hat wohl Verspätung – der Bahnsteig ist voller Leute.",
+      "explanation": "The speaker draws a conclusion from a clue and is not sure → *wohl* (assumption). *denn* needs a question. *mal* is for requests and makes no sense in a statement of assumption."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the particle that makes the question rhetorical.",
+      "prompt": "Wer kann sich ___ eine Wohnung in der Münchner Innenstadt leisten?",
+      "options": [
+        "schon",
+        "ja",
+        "halt"
+      ],
+      "correct": "schon",
+      "answer": "Wer kann sich schon eine Wohnung in der Münchner Innenstadt leisten?",
+      "explanation": "*schon* in a W-question makes it rhetorical: the expected answer is 'hardly anyone'. Unstressed *ja* and *halt* are not possible in questions at all."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the particle that fits the context.",
+      "prompt": "– Warum fährst du mit dem Rad? – Das Auto ist ___ in der Werkstatt, das hab ich dir gestern erzählt.",
+      "options": [
+        "ja",
+        "denn",
+        "eigentlich"
+      ],
+      "correct": "ja",
+      "answer": "– Warum fährst du mit dem Rad? – Das Auto ist ja in der Werkstatt, das hab ich dir gestern erzählt.",
+      "explanation": "The speaker refers to a fact the listener already knows (*das hab ich dir gestern erzählt*) → *ja*. *denn* is only for questions. *eigentlich* would mean 'in principle' and would need a contrast (*eigentlich …, aber …*), which is missing."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Put the particles directly after the verb.",
+      "prompt": "deiner Betreuerin / doch / schreib / mal / eine E-Mail",
+      "answer": "Schreib doch mal deiner Betreuerin eine E-Mail.",
+      "explanation": "The imperative *schreib* comes first, then the particles in the fixed order *doch mal*. A noun object can stand before or after the particles, so *Schreib deiner Betreuerin doch mal eine E-Mail* is also correct; *mal doch* is not."
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das",
+      "prompt": "ja / nicht / du / hast / gewusst / das",
+      "answer": "Das hast du ja nicht gewusst.",
+      "explanation": "*Das* fills the Vorfeld, *hast* is in position 2, and the subject pronoun *du* follows. The particle *ja* comes after the pronoun and before *nicht*; the Partizip II *gewusst* closes the sentence."
+    }
+  ]
+}

@@ -1,0 +1,1063 @@
+{
+  "topic_id": "b2-18-negation-vertiefung",
+  "level": "B2",
+  "title_de": "Negation (Vertiefung)",
+  "title_en": "Negation in depth",
+  "rule": {
+    "summary": "German negates with *nicht*, with the article *kein-*, and with negative words that replace a positive word: *nichts* (← *etwas*), *niemand* (← *jemand*), *nie* (← *immer, schon einmal*), *nirgendwo* (← *irgendwo*), *keinesfalls* (← *auf jeden Fall*). One negation word per clause is enough; standard German has no double negation. Where *nicht* stands decides what is negated: the whole sentence (Satznegation) or only one element (Sondernegation, often with *sondern*).",
+    "table": "| positiv | negativ | Beispiel |\n|---|---|---|\n| etwas, alles | **nichts** | Ich habe **nichts** gehört. |\n| jemand, jeder | **niemand** (Akk. *-en*, Dat. *-em*), **keiner** | **Niemand** war da. |\n| immer, schon einmal | **nie**, niemals, **noch nie** | Ich war **noch nie** in Wien. |\n| irgendwo, überall | **nirgendwo**, nirgends | Ich finde ihn **nirgends**. |\n| ein / Ø + Nomen | **kein-** | Sie hat **keine** Zeit. |\n| schon | **noch nicht**, **noch kein-** | Er ist **noch nicht** da. |\n| noch | **nicht mehr**, **kein- … mehr** | Es gibt **keine** Karten **mehr**. |\n| sowohl … als auch | **weder … noch** | **weder** Bier **noch** Wein |\n| auf jeden Fall | **keinesfalls**, keineswegs | Das geht **keinesfalls**. |",
+    "steps": [
+      "*kein-* or *nicht*? A noun with *ein* or with no article (also plural and uncountable nouns) → *kein-* with *ein*-endings. Everything else → *nicht*: nouns with *der/die/das* or a possessive, names, pronouns, verbs, adjectives, adverbs.",
+      "Satznegation: put *nicht* as far right as possible in the Mittelfeld — after the subject, pronouns, definite objects and most time adverbs (*heute, dieses Jahr*).",
+      "But *nicht* stays before the second part of the Satzklammer (Partizip II, infinitive, prefix), before a predicative adjective or noun (*nicht kaputt*), before directional and prepositional complements (*nicht nach Berlin, nicht auf ihn*) and before manner adverbs (*nicht pünktlich*).",
+      "Sondernegation: put *nicht* directly before the one element you negate and give the correction with *sondern*: *nicht mit dem Auto, sondern mit dem Zug*.",
+      "Use only one negation word: *nicht etwas → nichts*, *nicht jemand → niemand*, *nicht irgendwo → nirgendwo*, *nicht jemals → nie*. To contradict a negative question, answer *Doch*."
+    ],
+    "pitfalls": [
+      "*nicht* with a noun that needs *kein*: ✗ *Ich habe nicht Zeit.* → ✓ *Ich habe keine Zeit.*",
+      "Copying English 'not … anybody / anything': ✗ *Ich kenne nicht jemanden.* → ✓ *Ich kenne niemanden.* Double negation: ✗ *Niemand hat nichts gesagt.* → ✓ *Niemand hat etwas gesagt.*",
+      "*nicht* in the wrong place: ✗ *Ich habe nicht deine Nachricht bekommen.* → ✓ *Ich habe deine Nachricht nicht bekommen.* ✗ *Wir fahren in den Urlaub nicht.* → ✓ *Wir fahren nicht in den Urlaub.*",
+      "*nicht mehr* with a noun: ✗ *Wir haben nicht mehr Lust.* ('not more') → ✓ *Wir haben keine Lust mehr.* ('no longer')",
+      "Wrong connector or answer: ✗ *nicht …, aber …* for a correction → ✓ *nicht …, sondern …*; ✗ *weder … oder* → ✓ *weder … noch*; ✗ *Hast du keinen Hunger? – Ja!* → ✓ *Doch!*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich habe heute {{c1::nichts::≠ etwas}} gegessen.",
+      "en": "I haven't eaten anything today.",
+      "focus": "Negationspronomen · Akkusativobjekt",
+      "explanation": "**nichts** is the negative of *etwas* and replaces the Akkusativ object of *essen*. Its form never changes. In the Perfekt it stands in the Mittelfeld before the Partizip II *gegessen*. English needs 'not … anything'; German uses one word.",
+      "pattern": "haben + nichts + Partizip II",
+      "mistake": {
+        "wrong": "Ich habe heute nicht etwas gegessen.",
+        "why": "German does not copy 'not … anything'. *nicht* + *etwas* becomes one word: *nichts*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe den ganzen Tag nichts getrunken.",
+          "en": "I haven't drunk anything all day."
+        },
+        {
+          "de": "Sie hat mir nichts davon erzählt.",
+          "en": "She didn't tell me anything about it."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Niemand::≠ jemand}} hat das gesagt.",
+      "en": "Nobody said that.",
+      "focus": "Negationspronomen · Subjekt",
+      "explanation": "**Niemand** = 'nobody', the negative of *jemand*. Here it is the subject (Nominativ) and takes a singular verb: *hat*. The negation is complete; no *nicht* is added.",
+      "pattern": "Niemand (Nom.) + Verb (3. Sg.)",
+      "mistake": {
+        "wrong": "Niemand hat das nicht gesagt.",
+        "why": "Standard German has no double negation. *niemand* already negates the clause; an extra *nicht* would cancel it."
+      },
+      "examples": [
+        {
+          "de": "Niemand hat mir Bescheid gesagt.",
+          "en": "Nobody let me know."
+        },
+        {
+          "de": "Niemand wusste die Antwort.",
+          "en": "Nobody knew the answer."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich war {{c1::nie::≠ schon einmal}} in Berlin.",
+      "en": "I have never been to Berlin.",
+      "focus": "Negationsadverb · Zeit",
+      "explanation": "**nie** = 'never', the negative of *immer* or *schon einmal*. With *sein*, the Präteritum *war* is common for life experiences: *Ich war nie in Berlin* = *Ich bin nie in Berlin gewesen*. For 'never up to now', German often says *noch nie*.",
+      "pattern": "sein + nie + Ortsangabe",
+      "mistake": {
+        "wrong": "Ich war nicht jemals in Berlin.",
+        "why": "This copies English 'not ever'. German uses the single negative word *nie* (or *niemals*)."
+      },
+      "examples": [
+        {
+          "de": "Wir waren noch nie in Asien.",
+          "en": "We have never been to Asia."
+        },
+        {
+          "de": "Sie war nie verheiratet.",
+          "en": "She was never married."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir haben ihn {{c1::nirgendwo::≠ irgendwo}} gefunden.",
+      "en": "We didn't find him anywhere.",
+      "focus": "Negationsadverb · Ort",
+      "explanation": "**nirgendwo** (also *nirgends*) = 'nowhere', the negative of *irgendwo*. The pronoun *ihn* comes first in the Mittelfeld, then the negation word, then the Partizip II *gefunden* at the end. English says 'not … anywhere'; German uses one word.",
+      "pattern": "haben + Pronomen + nirgendwo + Partizip II",
+      "mistake": {
+        "wrong": "Wir haben ihn nicht irgendwo gefunden.",
+        "why": "*nicht* + *irgendwo* is not used for 'nowhere'. The negative form is *nirgendwo*."
+      },
+      "examples": [
+        {
+          "de": "Ich finde meinen Schlüssel nirgends.",
+          "en": "I can't find my key anywhere."
+        },
+        {
+          "de": "In der Altstadt gibt es nirgendwo einen Parkplatz.",
+          "en": "There isn't a parking space anywhere in the old town."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das stimmt {{c1::keinesfalls::unter keinen Umständen}}.",
+      "en": "That's by no means true.",
+      "focus": "starke Negation · Adverb",
+      "explanation": "**keinesfalls** ('in no case, by no means') is a strong form of *nicht* and stands in the same place, after the finite verb. For facts, the synonym *keineswegs* is more usual (*Das stimmt keineswegs*); *keinesfalls* is typical of rules and decisions (*Sie dürfen das Gerät keinesfalls öffnen*).",
+      "pattern": "Verb + keinesfalls",
+      "mistake": {
+        "wrong": "Das stimmt keinenfalls.",
+        "why": "The adverb is a fixed old Genitiv form: *keines Falles* → *keinesfalls*. The form with *-en* exists only in *auf keinen Fall*."
+      },
+      "examples": [
+        {
+          "de": "Das ist keineswegs selbstverständlich.",
+          "en": "That is by no means a matter of course."
+        },
+        {
+          "de": "Diese Behauptung trifft keinesfalls zu.",
+          "en": "This claim is by no means accurate."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie hat {{c1::keine::Negationsartikel}} Zeit.",
+      "en": "She has no time.",
+      "focus": "*kein-* · Nomen ohne Artikel",
+      "explanation": "In *Sie hat Zeit* the noun has no article. Nouns with no article or with *ein* are negated with *kein-*, not with *nicht*. *kein* takes the endings of *ein*: *Zeit* is feminine Akkusativ → **keine**.",
+      "pattern": "kein- (Endung wie ein) + Nomen",
+      "mistake": {
+        "wrong": "Sie hat nicht Zeit.",
+        "why": "A noun without an article is negated with *kein-*: *keine Zeit*."
+      },
+      "examples": [
+        {
+          "de": "Er hat keinen Führerschein.",
+          "en": "He doesn't have a driving licence."
+        },
+        {
+          "de": "Ich habe kein Bargeld dabei.",
+          "en": "I don't have any cash on me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich kenne {{c1::niemanden::niemand → Akk.}} hier.",
+      "en": "I don't know anybody here.",
+      "focus": "Negationspronomen · Akkusativ",
+      "explanation": "*kennen* takes an Akkusativ object. *niemand* has case endings: Akkusativ **niemanden**, Dativ *niemandem*. In everyday speech the form without ending (*niemand*) is also accepted, but *niemanden* is the standard written form.",
+      "pattern": "Verb + niemanden (Akk.)",
+      "mistake": {
+        "wrong": "Ich kenne nicht jemanden hier.",
+        "why": "English 'not … anybody' is one word in German: *niemanden*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben dort niemanden getroffen.",
+          "en": "We didn't meet anyone there."
+        },
+        {
+          "de": "Sie hat niemanden um Hilfe gebeten.",
+          "en": "She didn't ask anyone for help."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Er hat {{c1::nichts::≠ alles}} verstanden.",
+      "en": "He didn't understand anything.",
+      "focus": "Negationspronomen · Satzklammer",
+      "explanation": "**nichts** replaces the Akkusativ object of *verstehen* and stands inside the Satzklammer, before the Partizip II. Compare the partial negation *nicht alles* ('not everything') with *nichts* ('nothing at all').",
+      "pattern": "haben + nichts + Partizip II",
+      "mistake": {
+        "wrong": "Er hat verstanden nichts.",
+        "why": "The Partizip II closes the Satzklammer. *nichts* is part of the Mittelfeld and must come before *verstanden*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat von dem Vortrag nichts mitbekommen.",
+          "en": "She didn't catch anything of the talk."
+        },
+        {
+          "de": "Der Zeuge hat nichts bemerkt.",
+          "en": "The witness didn't notice anything."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Wir haben {{c1::keine::Negationsartikel}} Lust mehr.",
+      "en": "We don't feel like it anymore.",
+      "focus": "*kein- … mehr* · nicht länger",
+      "explanation": "*Lust haben* has no article, so it is negated with *kein-*: feminine Akkusativ → **keine**. *mehr* after the noun adds 'no longer': *keine Lust mehr*. With nouns that are negated with *kein-* (no article or *ein*), 'not anymore' is *kein … mehr*; with a definite noun it is *nicht mehr* (*Ich habe das Auto nicht mehr*).",
+      "pattern": "kein- + Nomen + mehr",
+      "mistake": {
+        "wrong": "Wir haben nicht mehr Lust.",
+        "why": "*nicht mehr* + noun means 'not more' (a comparison). 'No longer' with a noun is *kein … mehr*: *keine Lust mehr*."
+      },
+      "examples": [
+        {
+          "de": "Für das Konzert gibt es keine Karten mehr.",
+          "en": "There are no tickets left for the concert."
+        },
+        {
+          "de": "Ich habe keinen Hunger mehr.",
+          "en": "I'm not hungry anymore."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich habe {{c1::nie::≠ schon mal}} davon gehört.",
+      "en": "I have never heard of it.",
+      "focus": "Negationsadverb · vor Pronominaladverb",
+      "explanation": "**nie** stands before the Pronominaladverb *davon* (= *von der Sache*) and the Partizip II *gehört*. When you mean 'never up to now', *noch nie* is more precise: *Davon habe ich noch nie gehört.*",
+      "pattern": "haben + nie + davon + Partizip II",
+      "mistake": {
+        "wrong": "Ich habe nie nichts davon gehört.",
+        "why": "This double negation is dialect, not standard German. In the standard language *nie* alone negates the clause."
+      },
+      "examples": [
+        {
+          "de": "Ich habe noch nie so gut gegessen.",
+          "en": "I have never eaten so well."
+        },
+        {
+          "de": "Er hat nie darüber gesprochen.",
+          "en": "He never talked about it."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Nichts::≠ alles}} ist unmöglich.",
+      "en": "Nothing is impossible.",
+      "focus": "Negationspronomen · Subjekt",
+      "explanation": "**Nichts** is the subject here (Nominativ); it has the same form in every case. A subject *nichts* takes a singular verb: *ist*. The sentence is the opposite of *Alles ist möglich*.",
+      "pattern": "Nichts (Nom.) + Verb (3. Sg.)",
+      "mistake": {
+        "wrong": "Nicht ist unmöglich.",
+        "why": "*nicht* is an adverb and cannot be a subject. The pronoun 'nothing' is *nichts*."
+      },
+      "examples": [
+        {
+          "de": "Nichts hat sich geändert.",
+          "en": "Nothing has changed."
+        },
+        {
+          "de": "Nichts ist so beständig wie der Wandel.",
+          "en": "Nothing is as constant as change."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Niemand::≠ jeder}} kann perfekt sein.",
+      "en": "Nobody can be perfect.",
+      "focus": "Negationspronomen · mit Modalverb",
+      "explanation": "**Niemand** is the subject and goes with the modal verb *kann* (3rd person singular); the infinitive *sein* closes the sentence. Compare *Nicht jeder kann …* ('not everybody can', partial negation) with *Niemand kann …* ('nobody can', total negation).",
+      "pattern": "Niemand + Modalverb + … + Infinitiv",
+      "mistake": {
+        "wrong": "Nicht jemand kann perfekt sein.",
+        "why": "*nicht jemand* does not exist. 'Nobody' is *niemand*; 'not everybody' would be *nicht jeder*."
+      },
+      "examples": [
+        {
+          "de": "Niemand darf das Gebäude verlassen.",
+          "en": "Nobody may leave the building."
+        },
+        {
+          "de": "Niemand muss sich dafür schämen.",
+          "en": "Nobody needs to be ashamed of that."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie raucht {{c1::nicht mehr::≠ noch}}.",
+      "en": "She doesn't smoke anymore.",
+      "focus": "Negation · nicht länger (Verb)",
+      "explanation": "**nicht mehr** = 'no longer': she smoked before, now she doesn't. It negates the verb, so it stands at the end of the main clause. The positive question is *Raucht sie noch?* With a noun you use *kein … mehr*: *Sie raucht keine Zigaretten mehr.*",
+      "pattern": "Verb + nicht mehr",
+      "mistake": {
+        "wrong": "Sie raucht nicht noch.",
+        "why": "The negation of *noch* is *nicht mehr*, not *nicht noch*."
+      },
+      "examples": [
+        {
+          "de": "Er wohnt nicht mehr in Hamburg.",
+          "en": "He doesn't live in Hamburg anymore."
+        },
+        {
+          "de": "Das Geschäft an der Ecke gibt es nicht mehr.",
+          "en": "The shop on the corner no longer exists."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich gehe heute {{c1::nicht::Satznegation}} arbeiten.",
+      "en": "I'm not going to work today.",
+      "focus": "Position · vor dem Infinitiv",
+      "explanation": "*gehen* + infinitive (*arbeiten gehen*) forms a Satzklammer, and the infinitive *arbeiten* is its second part. In Satznegation **nicht** stands after the time adverb *heute* and directly before the infinitive at the end.",
+      "pattern": "gehen + Zeit + nicht + Infinitiv",
+      "mistake": {
+        "wrong": "Ich gehe heute arbeiten nicht.",
+        "why": "*nicht* cannot follow the second part of the Satzklammer. It must stand before the infinitive: *nicht arbeiten*."
+      },
+      "examples": [
+        {
+          "de": "Wir gehen heute Abend nicht essen.",
+          "en": "We're not going out to eat tonight."
+        },
+        {
+          "de": "Sie geht morgen nicht schwimmen.",
+          "en": "She isn't going swimming tomorrow."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir haben {{c1::nicht genug::≠ genug}} Geld.",
+      "en": "We don't have enough money.",
+      "focus": "Negation · vor Mengenwort",
+      "explanation": "*genug* is not an article, so *genug Geld* is negated with **nicht** before *genug*: 'not enough'. The same applies to *viel* and *alle*: *nicht viel Zeit, nicht alle Leute*. *kein Geld* would mean 'no money at all'.",
+      "pattern": "nicht + genug/viel + Nomen",
+      "mistake": {
+        "wrong": "Wir haben kein genug Geld.",
+        "why": "*kein* replaces an article and cannot stand before *genug*. Negate the quantity word with *nicht*: *nicht genug*."
+      },
+      "examples": [
+        {
+          "de": "Es gibt nicht genug Wohnungen für alle.",
+          "en": "There aren't enough flats for everyone."
+        },
+        {
+          "de": "Wir hatten nicht viel Zeit für die Prüfung.",
+          "en": "We didn't have much time for the exam."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das Auto ist {{c1::nicht::Satznegation}} kaputt.",
+      "en": "The car isn't broken.",
+      "focus": "Position · vor prädikativem Adjektiv",
+      "explanation": "With *sein* + predicative adjective, **nicht** stands directly before the adjective, because the adjective completes the predicate. *kein* is impossible here, because *kaputt* is not a noun.",
+      "pattern": "sein + nicht + Adjektiv",
+      "mistake": {
+        "wrong": "Das Auto ist kein kaputt.",
+        "why": "*kein* only negates nouns. An adjective after *sein* is negated with *nicht*."
+      },
+      "examples": [
+        {
+          "de": "Die Suppe ist nicht heiß genug.",
+          "en": "The soup isn't hot enough."
+        },
+        {
+          "de": "Der Weg zum Bahnhof ist nicht weit.",
+          "en": "It isn't far to the station."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie kommt {{c1::nie::≠ immer}} pünktlich.",
+      "en": "She is never on time.",
+      "focus": "Negationsadverb · vor Art und Weise",
+      "explanation": "**nie** = *zu keiner Zeit*, the opposite of *immer*. It takes the place that *nicht* would take: before the manner adverb *pünktlich*, which belongs closely to the verb *kommen*.",
+      "pattern": "Verb + nie + Modaladverb",
+      "mistake": {
+        "wrong": "Sie kommt pünktlich nie.",
+        "why": "Negation words stand before manner adverbs: *nie pünktlich*, like *nicht pünktlich*."
+      },
+      "examples": [
+        {
+          "de": "Er antwortet nie rechtzeitig auf E-Mails.",
+          "en": "He never answers emails in time."
+        },
+        {
+          "de": "Der Bus fährt hier nie pünktlich ab.",
+          "en": "The bus never leaves on time here."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das geht {{c1::keinesfalls::auf keinen Fall}}.",
+      "en": "That's absolutely out of the question.",
+      "focus": "starke Negation · Ablehnung",
+      "explanation": "*Das geht nicht* = 'that's not possible'. **keinesfalls** makes it a categorical refusal: 'that is out of the question'. It stands where *nicht* would stand. Synonyms: *auf keinen Fall, unter keinen Umständen*.",
+      "pattern": "Das geht + keinesfalls",
+      "mistake": {
+        "wrong": "Das geht auf keinesfalls.",
+        "why": "This mixes two forms. Either the adverb *keinesfalls* or the prepositional phrase *auf keinen Fall*."
+      },
+      "examples": [
+        {
+          "de": "Das kommt keinesfalls in Frage.",
+          "en": "That is completely out of the question."
+        },
+        {
+          "de": "Wir werden keinesfalls nachgeben.",
+          "en": "We will under no circumstances give in."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich kann {{c1::nichts::≠ etwas}} dafür.",
+      "en": "It's not my fault.",
+      "focus": "fester Ausdruck · Schuld zurückweisen",
+      "explanation": "*nichts für etwas können* is a fixed expression: 'it's not my fault, I can't help it'. **nichts** is the object of *können*, and *dafür* refers to the problem. The positive form appears mainly in questions: *Was kann ich dafür?*",
+      "pattern": "nichts + für + Akk. / dafür + können",
+      "mistake": {
+        "wrong": "Ich kann nicht dafür.",
+        "why": "The expression needs the object *nichts*. *nicht dafür können* is not idiomatic."
+      },
+      "examples": [
+        {
+          "de": "Sie kann nichts für die Verspätung.",
+          "en": "The delay is not her fault."
+        },
+        {
+          "de": "Der Hund kann doch nichts dafür.",
+          "en": "It's not the dog's fault."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Nirgendwo::≠ irgendwo}} sah er sie.",
+      "en": "He didn't see her anywhere.",
+      "focus": "Negationsadverb · im Vorfeld",
+      "explanation": "**Nirgendwo** can stand in the Vorfeld for emphasis. The finite verb *sah* then follows in position 2, and the subject *er* comes after it. The neutral order is *Er sah sie nirgendwo.* The style is literary.",
+      "pattern": "Nirgendwo + Verb + Subjekt + Objekt",
+      "mistake": {
+        "wrong": "Nirgendwo er sah sie.",
+        "why": "A negation word in the Vorfeld counts as position 1, so the finite verb must follow directly: *Nirgendwo sah er sie.*"
+      },
+      "examples": [
+        {
+          "de": "Nirgends ist es so schön wie zu Hause.",
+          "en": "There's no place like home."
+        },
+        {
+          "de": "Nie habe ich so viel gelacht.",
+          "en": "I have never laughed so much."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Der Bericht ist {{c1::noch nicht::≠ schon}} fertig, ich brauche noch zwei Tage.",
+      "en": "The report isn't finished yet; I need two more days.",
+      "focus": "Negation · 'not yet'",
+      "explanation": "**noch nicht** = 'not yet', the negation of *schon*: the report is not finished, but it will be. The two words stay together in this order, and like *nicht* they stand before the predicative adjective *fertig*.",
+      "pattern": "sein + noch nicht + Adjektiv",
+      "mistake": {
+        "wrong": "Der Bericht ist nicht noch fertig, ich brauche noch zwei Tage.",
+        "why": "The fixed order is *noch nicht*. *nicht noch* is not a negation of *schon*."
+      },
+      "examples": [
+        {
+          "de": "Die Gäste sind noch nicht da.",
+          "en": "The guests aren't here yet."
+        },
+        {
+          "de": "Wir haben noch nicht gegessen.",
+          "en": "We haven't eaten yet."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Auf meine Bewerbung habe ich {{c1::noch keine::≠ schon eine}} Antwort bekommen.",
+      "en": "I haven't received a reply to my application yet.",
+      "focus": "Negation · 'not yet' mit Nomen",
+      "explanation": "With a noun that would take *ein*, 'not yet' is **noch kein-**: *noch keine Antwort*. *kein* takes the *ein*-endings: *Antwort* is feminine Akkusativ → *keine*. The phrase stands before the Partizip II *bekommen*.",
+      "pattern": "noch kein- + Nomen",
+      "mistake": {
+        "wrong": "Auf meine Bewerbung habe ich noch nicht Antwort bekommen.",
+        "why": "*Antwort* here has no article, so it must be negated with *kein-*: *noch keine Antwort*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben noch keinen Termin für die Hochzeit.",
+          "en": "We don't have a date for the wedding yet."
+        },
+        {
+          "de": "Sie hat noch kein Visum.",
+          "en": "She doesn't have a visa yet."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Bewerbung (-en)",
+          "en": "job application"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wir sind nicht mit dem Auto gefahren, {{c1::sondern::Korrektur}} mit dem Zug.",
+      "en": "We didn't go by car but by train.",
+      "focus": "Negation eines Satzglieds · Korrektur",
+      "explanation": "Here *nicht* negates only one Satzglied, *mit dem Auto* (Sondernegation), so it stands directly before it. The correct information follows with **sondern** ('but rather'), which replaces the negated element. *aber* would only add a contrast and cannot introduce a correction.",
+      "pattern": "nicht + Satzglied …, sondern + Satzglied",
+      "mistake": {
+        "wrong": "Wir sind nicht mit dem Auto gefahren, aber mit dem Zug.",
+        "why": "After a negation, the correct alternative is introduced with *sondern*, not *aber*."
+      },
+      "examples": [
+        {
+          "de": "Das Treffen ist nicht am Montag, sondern am Dienstag.",
+          "en": "The meeting isn't on Monday but on Tuesday."
+        },
+        {
+          "de": "Sie hat nicht Medizin studiert, sondern Jura.",
+          "en": "She didn't study medicine but law."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Er spricht {{c1::weder}} Englisch {{c1::noch}} Französisch.",
+      "en": "He speaks neither English nor French.",
+      "focus": "zweiteilige Negation",
+      "explanation": "**weder … noch** negates two elements at once ('neither … nor'). Both parts carry the negation, so no *nicht* or *kein* is added. The second part is always *noch*, never *oder*.",
+      "pattern": "weder + X + noch + Y",
+      "mistake": {
+        "wrong": "Er spricht weder Englisch oder Französisch.",
+        "why": "*weder* is always completed by *noch*. *oder* belongs to *entweder … oder*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben weder Zeit noch Geld für eine lange Reise.",
+          "en": "We have neither the time nor the money for a long trip."
+        },
+        {
+          "de": "Sie hat weder angerufen noch geschrieben.",
+          "en": "She neither called nor wrote."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie hat {{c1::niemandem::niemand → Dat.}} von ihren Plänen erzählt.",
+      "en": "She didn't tell anyone about her plans.",
+      "focus": "Negationspronomen · Dativ",
+      "explanation": "*erzählen* takes the person in the Dativ (*jemandem von etwas erzählen*). The Dativ of *niemand* is **niemandem**. This one word negates the whole sentence; no *nicht* is added.",
+      "pattern": "Verb + niemandem (Dat.) + von + Dat.",
+      "mistake": {
+        "wrong": "Sie hat nicht niemandem von ihren Plänen erzählt.",
+        "why": "Two negation words cancel each other in standard German. *niemandem* alone is enough."
+      },
+      "examples": [
+        {
+          "de": "Wir haben niemandem von der Überraschung erzählt.",
+          "en": "We didn't tell anyone about the surprise."
+        },
+        {
+          "de": "Ich habe das Geheimnis niemandem verraten.",
+          "en": "I didn't reveal the secret to anyone."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Leider habe ich deine Nachricht {{c1::nicht::Satznegation}} bekommen.",
+      "en": "Unfortunately I didn't get your message.",
+      "focus": "Position · nach bestimmtem Objekt",
+      "explanation": "In Satznegation **nicht** stands as far right as possible in the Mittelfeld: after the definite object *deine Nachricht* and before the Partizip II *bekommen*. *deine Nachricht* has a possessive, so *kein* is impossible.",
+      "pattern": "haben + bestimmtes Objekt + nicht + Partizip II",
+      "mistake": {
+        "wrong": "Leider habe ich nicht deine Nachricht bekommen.",
+        "why": "*nicht* before the object makes it a Sondernegation ('not your message, but someone else's'). Without *sondern* the sentence sounds incomplete."
+      },
+      "examples": [
+        {
+          "de": "Ich habe den Film leider nicht gesehen.",
+          "en": "Unfortunately I didn't see the film."
+        },
+        {
+          "de": "Er hat seine Hausaufgaben nicht gemacht.",
+          "en": "He didn't do his homework."
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir fahren dieses Jahr {{c1::nicht::Satznegation}} in den Urlaub.",
+      "en": "We're not going on holiday this year.",
+      "focus": "Position · vor Richtungsangabe",
+      "explanation": "*in den Urlaub fahren* has a directional complement (*wohin?*). Such complements belong closely to the verb, so **nicht** stands before them, not at the very end. The time expression *dieses Jahr* comes before *nicht*.",
+      "pattern": "Verb + Zeit + nicht + Richtungsangabe",
+      "mistake": {
+        "wrong": "Wir fahren dieses Jahr in den Urlaub nicht.",
+        "why": "A directional complement is part of the predicate. *nicht* must stand before it: *nicht in den Urlaub*."
+      },
+      "examples": [
+        {
+          "de": "Sie zieht nicht nach Berlin.",
+          "en": "She isn't moving to Berlin."
+        },
+        {
+          "de": "Wir gehen heute nicht ins Kino.",
+          "en": "We're not going to the cinema today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Hast du keinen Hunger? – {{c1::Doch::Widerspruch}}, ich habe großen Hunger.",
+      "en": "Aren't you hungry? – Yes, I am, I'm very hungry.",
+      "focus": "Antwort auf negative Frage · Widerspruch",
+      "explanation": "To contradict a negative question or statement, German answers **Doch**, not *Ja*. *Nein* would confirm the negation (*Nein, ich habe keinen Hunger*). The question uses *kein-* because *Hunger haben* has no article.",
+      "pattern": "negative Frage – Doch, + positive Aussage",
+      "mistake": {
+        "wrong": "Hast du keinen Hunger? – Ja, ich habe großen Hunger.",
+        "why": "*Ja* answers only positive questions. After a negative question the contradiction is *Doch*."
+      },
+      "examples": [
+        {
+          "de": "Kommst du nicht mit? – Doch, ich komme gleich.",
+          "en": "Aren't you coming? – Yes, I'll be right there."
+        },
+        {
+          "de": "Hast du das nicht gewusst? – Doch, natürlich.",
+          "en": "Didn't you know that? – Of course I did."
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Er hat sich für die Hilfe {{c1::nicht einmal::≠ sogar}} bedankt.",
+      "en": "He didn't even say thank you for the help.",
+      "focus": "verstärkte Negation · Minimum",
+      "explanation": "**nicht einmal** (colloquial *nicht mal*) = 'not even': not even the minimum happened. It is the negative counterpart of *sogar*. Like *nicht*, it stands in the Mittelfeld before the Partizip II *bedankt*.",
+      "pattern": "nicht einmal + Partizip II",
+      "mistake": {
+        "wrong": "Er hat sich für die Hilfe nicht sogar bedankt.",
+        "why": "English 'not even' is not *nicht sogar*. The German form is *nicht einmal*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat mich nicht einmal angesehen.",
+          "en": "She didn't even look at me."
+        },
+        {
+          "de": "Er kann nicht einmal ein Ei kochen.",
+          "en": "He can't even boil an egg."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich bedanken für",
+          "en": "to say thank you for"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich habe überhaupt {{c1::keine::Negationsartikel}} Ahnung, wovon du sprichst.",
+      "en": "I have no idea at all what you're talking about.",
+      "focus": "verstärkte Negation · mit Nomen",
+      "explanation": "*Ahnung haben* has no article, so it is negated with *kein-*: feminine Akkusativ → **keine**. *überhaupt* (or *gar*) before *kein* or *nicht* strengthens the negation: 'no idea at all'. The w-clause *wovon du sprichst* has the verb at the end.",
+      "pattern": "überhaupt / gar + kein- + Nomen",
+      "mistake": {
+        "wrong": "Ich habe überhaupt nicht Ahnung, wovon du sprichst.",
+        "why": "*überhaupt* does not change the rule: a noun without article is negated with *kein-*. *überhaupt nicht* is used with verbs and adjectives."
+      },
+      "examples": [
+        {
+          "de": "Das ist gar kein Problem.",
+          "en": "That's no problem at all."
+        },
+        {
+          "de": "Wir hatten überhaupt keine Chance.",
+          "en": "We had no chance at all."
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Von den Bewerbern hat {{c1::keiner::kein- als Pronomen}} die Anforderungen erfüllt.",
+      "en": "None of the applicants met the requirements.",
+      "focus": "Negationspronomen · ohne Nomen",
+      "explanation": "When *kein* stands without a noun, it is a pronoun and takes the full endings of *dieser*: masculine Nominativ **keiner**, feminine *keine*, neuter *kein(e)s*. Here it means 'none of the applicants' and is the subject, with a singular verb (*hat*).",
+      "pattern": "von + Dat. Pl. + keiner (Pronomen) + Verb (Sg.)",
+      "mistake": {
+        "wrong": "Von den Bewerbern hat kein die Anforderungen erfüllt.",
+        "why": "*kein* without ending is only possible before a noun (*kein Bewerber*). As a pronoun it needs the ending: *keiner*."
+      },
+      "examples": [
+        {
+          "de": "Von meinen Freunden hatte keiner Zeit.",
+          "en": "None of my friends had time."
+        },
+        {
+          "de": "Ich wollte noch ein Brötchen kaufen, aber es gab keins mehr.",
+          "en": "I wanted to buy another roll, but there were none left."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Anforderung (-en)",
+          "en": "requirement"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "In der Zeitung stand {{c1::nichts Neues::nichts + neu}}.",
+      "en": "There was nothing new in the newspaper.",
+      "focus": "Negationspronomen + nominalisiertes Adjektiv",
+      "explanation": "After *nichts* (also *etwas, viel, wenig*) an adjective becomes a neuter noun: capital letter and ending **-es** → *nichts Neues*. *nichts* itself never changes. The phrase is the subject of *stand*.",
+      "pattern": "nichts + Adjektiv-**es** (großgeschrieben)",
+      "mistake": {
+        "wrong": "In der Zeitung stand nichts Neu.",
+        "why": "After *nichts* the adjective is nominalized and needs the neuter ending *-es*: *nichts Neues*."
+      },
+      "examples": [
+        {
+          "de": "Er hat nichts Interessantes erzählt.",
+          "en": "He didn't say anything interesting."
+        },
+        {
+          "de": "Es gibt nichts Schöneres als einen freien Tag.",
+          "en": "There's nothing nicer than a day off."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about nicht and kein.",
+      "prompt": "When do you negate with *kein-* and when with *nicht*?",
+      "answer": "**kein-** for nouns with *ein* or with no article (also plurals and uncountable nouns): *ein Auto → kein Auto, Zeit → keine Zeit*. **nicht** for everything else: nouns with *der/die/das* or a possessive, names, pronouns, verbs, adjectives, adverbs.",
+      "explanation": "*kein* is the negative form of the article *ein*, so it takes the *ein*-endings. When the noun already has a definite or possessive article, there is no place for *kein*, and *nicht* is used instead.",
+      "examples": [
+        {
+          "de": "Ich habe kein Auto.",
+          "en": "I don't have a car."
+        },
+        {
+          "de": "Ich habe das Auto nicht verkauft.",
+          "en": "I didn't sell the car."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the position of nicht.",
+      "prompt": "Where does *nicht* stand when it negates the whole sentence (Satznegation)?",
+      "answer": "As far right as possible in the Mittelfeld: after the subject, pronouns, definite objects and most time adverbs. But **before** the second part of the Satzklammer, predicative adjectives and nouns, directional and prepositional complements, and manner adverbs.",
+      "explanation": "*nicht* stays before everything that belongs closely to the verb. That is why it is *Ich warte nicht auf den Bus* (prepositional object), but *Ich sehe den Bus nicht* (definite Akkusativ object).",
+      "examples": [
+        {
+          "de": "Ich kann heute leider nicht kommen.",
+          "en": "Unfortunately I can't come today."
+        },
+        {
+          "de": "Er wartet nicht auf den Bus.",
+          "en": "He isn't waiting for the bus."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about Satznegation and Sondernegation.",
+      "prompt": "What is the difference between *Ich habe den Chef nicht angerufen* and *Ich habe nicht den Chef angerufen, …*?",
+      "answer": "The first is **Satznegation**: the call did not happen. The second is **Sondernegation**: *nicht* directly before *den Chef* negates only that element, and a correction with **sondern** is expected: *…, sondern seine Assistentin.*",
+      "explanation": "Moving *nicht* to the left of an element focuses the negation on it. In speech this element is stressed. Without *sondern*, a Sondernegation sounds incomplete.",
+      "examples": [
+        {
+          "de": "Ich habe nicht den Chef angerufen, sondern seine Assistentin.",
+          "en": "I didn't call the boss but his assistant."
+        },
+        {
+          "de": "Ich habe den Chef gestern nicht angerufen.",
+          "en": "I didn't call the boss yesterday."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about 'no longer'.",
+      "prompt": "How do you say 'no longer / not anymore' with a verb and with a noun? What does *nicht mehr* + noun mean?",
+      "answer": "With a verb or adjective: **nicht mehr** (*Sie raucht nicht mehr*). With a noun without article or with *ein*: **kein- … mehr** (*Ich habe keine Zeit mehr*); with a definite noun: *nicht mehr* (*Ich habe das Auto nicht mehr*). *nicht mehr* + noun is a comparison: *nicht mehr Geld* = 'not more money'.",
+      "explanation": "In *kein … mehr* the article *kein* negates the noun and *mehr* after it adds 'no longer'. The 'not yet' pair works the same way: *noch nicht* with verbs and adjectives, *noch kein-* with nouns.",
+      "examples": [
+        {
+          "de": "Ich habe kein Geld mehr.",
+          "en": "I don't have any money left."
+        },
+        {
+          "de": "Ich habe nicht mehr Geld als du.",
+          "en": "I don't have more money than you."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about negation words.",
+      "prompt": "Why can't you say ✗ *Ich habe nicht nichts gesagt* for 'I didn't say anything' in standard German, and how do you translate 'not … anybody / anywhere / ever'?",
+      "answer": "Standard German allows only **one** negation word per clause; two negations cancel each other. 'not … anything' → **nichts**, 'not … anybody' → **niemand**, 'not … anywhere' → **nirgendwo**, 'not … ever' → **nie**.",
+      "explanation": "Double negation exists in some dialects, but not in the standard language. English 'not … any-' combinations become a single German n-word.",
+      "examples": [
+        {
+          "de": "Ich habe nirgendwo einen Parkplatz gefunden.",
+          "en": "I couldn't find a parking space anywhere."
+        },
+        {
+          "de": "Hast du jemanden gesehen? – Nein, niemanden.",
+          "en": "Did you see anyone? – No, nobody."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Negate the whole sentence (Satznegation).",
+      "prompt": "Ich habe das Paket abgeholt.",
+      "answer": "Ich habe das Paket nicht abgeholt.",
+      "explanation": "*das Paket* has a definite article, so you use *nicht*. It stands after the definite object and before the Partizip II *abgeholt*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Negate the object with kein-.",
+      "prompt": "Wir brauchen einen neuen Drucker.",
+      "answer": "Wir brauchen keinen neuen Drucker.",
+      "explanation": "*einen* is the indefinite article, so it is replaced by *kein-* with the same ending: masculine Akkusativ → *keinen*. The adjective keeps its ending *-en*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Make the sentence negative: 'not yet … anything'.",
+      "prompt": "Er hat schon etwas gegessen.",
+      "answer": "Er hat noch nichts gegessen.",
+      "explanation": "The negation of *schon* is *noch nicht*, and *nicht* + *etwas* becomes *nichts*. Together: *noch nichts*. No extra *nicht* is added."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with the meaning 'no longer'.",
+      "prompt": "Sie wohnt noch in Köln.",
+      "answer": "Sie wohnt nicht mehr in Köln.",
+      "explanation": "The negation of *noch* is *nicht mehr*. It stands before the place complement *in Köln*, which belongs closely to *wohnen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe nicht Geschwister.",
+      "answer": "Ich habe keine Geschwister.",
+      "explanation": "*Geschwister* is a plural noun without an article, so it is negated with *kein-*: plural Akkusativ → *keine*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er ist nicht Lehrer, aber Arzt.",
+      "answer": "Er ist nicht Lehrer, sondern Arzt.",
+      "explanation": "The second part corrects the negated element, so the connector must be *sondern*. (*Er ist kein Lehrer, sondern Arzt* is also correct.)"
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake in the answer.",
+      "prompt": "Hast du das nicht gehört? – Ja, ich habe es gehört.",
+      "answer": "Hast du das nicht gehört? – Doch, ich habe es gehört.",
+      "explanation": "The question is negative, and the answer contradicts it. In that case German uses *Doch*, not *Ja*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben das Problem gelöst nicht.",
+      "answer": "Wir haben das Problem nicht gelöst.",
+      "explanation": "*nicht* cannot stand after the Partizip II, which closes the Satzklammer. It comes after the definite object *das Problem* and before *gelöst*."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct negation.",
+      "prompt": "Ich habe ___ Lust, heute Abend auszugehen.",
+      "options": [
+        "nicht",
+        "keine",
+        "nichts"
+      ],
+      "correct": "keine",
+      "answer": "Ich habe keine Lust, heute Abend auszugehen.",
+      "explanation": "*Lust haben* has no article, so it takes *kein-*: feminine Akkusativ → *keine*. *nicht* cannot negate a noun without article, and *nichts* is a pronoun that cannot stand before a noun."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct negation.",
+      "prompt": "Das ist ___ meine Tasche, sondern deine.",
+      "options": [
+        "kein",
+        "nicht",
+        "keine"
+      ],
+      "correct": "nicht",
+      "answer": "Das ist nicht meine Tasche, sondern deine.",
+      "explanation": "*meine Tasche* has a possessive article, so *kein-* is impossible and you need *nicht*. It stands directly before *meine Tasche* because it is a Sondernegation with *sondern*."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Sie hat bei dem Projekt ___ geholfen.",
+      "options": [
+        "niemanden",
+        "niemandem",
+        "nichts"
+      ],
+      "correct": "niemandem",
+      "answer": "Sie hat bei dem Projekt niemandem geholfen.",
+      "explanation": "*helfen* takes the Dativ → *niemandem*. *niemanden* is the Akkusativ form, and *nichts* refers to things, not to the person who is helped."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Leider",
+      "prompt": "nicht / leider / ich / kommen / kann / zu deiner Party",
+      "answer": "Leider kann ich nicht zu deiner Party kommen.",
+      "explanation": "*kann* is in position 2 and the infinitive *kommen* closes the sentence. *nicht* stands before the directional complement *zu deiner Party*. *Leider kann ich zu deiner Party nicht kommen* is also possible; it puts more weight on the party."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join the two sentences with weder … noch.",
+      "prompt": "Er trinkt keinen Kaffee. Er trinkt auch keinen Tee.",
+      "answer": "Er trinkt weder Kaffee noch Tee.",
+      "explanation": "*weder … noch* carries the negation for both nouns, so *kein-* disappears and the nouns stand without article. *auch* is no longer needed."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the two sentences with sondern.",
+      "prompt": "Sie ist nicht in Paris. Sie ist in Rom.",
+      "answer": "Sie ist nicht in Paris, sondern in Rom.",
+      "explanation": "*nicht in Paris* is a Sondernegation; *sondern* introduces the correct place. The repeated *sie ist* is left out after *sondern*, and a comma stands before it."
+    }
+  ]
+}

@@ -1,0 +1,1269 @@
+{
+  "part_id": "06-work-academic-03",
+  "category": "work-academic",
+  "entries": [
+    {
+      "id": "according-to",
+      "term": "according to",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces the source of a statement, number or claim: the information comes from this person, document or organization, not from the writer.",
+      "usage": "Used everywhere, from news to papers: *according to the CDC*, *according to Smith (2020)*, *according to our model*. In academic writing it reports a claim without endorsing it, so for a finding you accept, a reporting verb is often stronger: *Smith (2020) showed that…*. Never use it for your own view; say *in my view* or *I think*, not *according to me*.",
+      "pattern": "according to + source (a person, a study, a report, the data)",
+      "examples": [
+        "**According to** the hospital's own records, wait times in the emergency room doubled over the winter.",
+        "**According to** Smith and Lee (2019), the effect disappears once household income is taken into account.",
+        "**According to** the app, the next bus is still twelve minutes away."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{According to}} the manufacturer, the battery should last about ten hours on a single charge.",
+        "hint": "names the company as the source of the claim (two words; not *Per* or *Based on*)"
+      },
+      "mistake": {
+        "wrong": "According to me, the second method is more reliable.",
+        "right": "In my view, the second method is more reliable.",
+        "why": "*According to* reports what someone else says; for your own opinion, use *in my view*, *I think* or *I'd argue*."
+      },
+      "related": "*per* — shorter, common in US business writing (*per the contract*); *as reported by* — more formal; *in my view* — for your own opinion."
+    },
+    {
+      "id": "this-suggests-that",
+      "term": "this suggests that …",
+      "spoken_term": "this suggests that",
+      "label": "hedging phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A cautious way to say what a result probably means, without claiming that it proves it.",
+      "usage": "Standard in results and discussion sections, right after you report a finding. It is the normal middle level of certainty, between *this shows that* (strong) and *this may indicate that* (weak). Make sure *this* points clearly to one finding; editors often flag a vague *This* at the start of a sentence, so *This drop suggests that…* is clearer.",
+      "pattern": "This (result / pattern / drop) suggests that + clause",
+      "examples": [
+        "Patients who slept less than six hours healed more slowly. **This suggests that** sleep plays a role in wound repair.",
+        "**These results suggest that** the protein is needed for early cell division but not for later stages.",
+        "All the complaints started right after the update. **That suggests** the new login page is the problem."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Shark teeth were found in rock layers hundreds of miles from the coast. {{This suggests that}} the region was once underwater.",
+        "hint": "cautious: the finding points to this (not *This shows*, *This means*, *This indicates* or *This implies*)"
+      },
+      "related": "*this shows that* — stronger, for clear evidence; *this indicates that* — similar, slightly more technical; *this may indicate that* — weaker, more hedged."
+    },
+    {
+      "id": "by-contrast",
+      "term": "by contrast",
+      "label": "discourse marker",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a second thing that is clearly different from the one just described, to highlight the difference.",
+      "usage": "Common in papers, reports and formal comparisons, usually at the start of a sentence: *By contrast, model B…*. *In contrast* means the same, and *in contrast to X* works inside a sentence. Learners often use *on the contrary* here, but that phrase rejects a statement as false; it does not compare two things.",
+      "pattern": "A does X. By contrast, B does Y.",
+      "examples": [
+        "Urban districts saw enrollment fall by eight percent. **By contrast**, rural districts held steady.",
+        "The older drug must be taken three times a day. **By contrast**, the new one needs only a weekly injection.",
+        "Our smaller model trains in an hour on a single GPU. **By contrast**, the baseline needs two days on eight GPUs."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Summer heat in Phoenix is usually dry. {{By contrast}}, Houston summers are hot and humid.",
+        "hint": "highlights a sharp difference (two words, starting with a preposition other than *In*)"
+      },
+      "mistake": {
+        "wrong": "Model A overfits after ten epochs. On the contrary, model B stays stable.",
+        "right": "Model A overfits after ten epochs. By contrast, model B stays stable.",
+        "why": "*On the contrary* says the previous statement is false; to compare two different things, use *by contrast* or *in contrast*."
+      },
+      "related": "*in contrast* — same meaning; *in contrast to / with X* — inside a sentence; *on the other hand* — less formal, also for pros and cons; *conversely* — the reverse relation holds."
+    },
+    {
+      "id": "the-results-show-that",
+      "term": "the results show that …",
+      "spoken_term": "the results show that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A direct way to report what the findings of a study demonstrate, with more confidence than *suggest*.",
+      "usage": "Common in abstracts and results sections. Use it for clear, well-supported findings; for an interpretation, *suggest* is safer, and reviewers object to *prove* for experimental results. In abstracts, *Our results show* or *We find that* sounds more direct than *The results of this study show*.",
+      "pattern": "The / Our results show that + clause",
+      "examples": [
+        "**The results show that** children who walked to school were more alert in morning classes.",
+        "**Our results show that** the new alloy keeps its strength at temperatures above 900 degrees.",
+        "**The results** of the customer survey **show that** most people cancel because of the price, not the service."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The results show that}} the new road surface cut traffic noise by about a third.",
+        "hint": "confident report of the outcomes — four words starting with *The* (the noun is not *data* or *findings*; the verb is not *suggest* or *demonstrate*)"
+      },
+      "mistake": {
+        "wrong": "The results show, that the treatment works best in younger patients.",
+        "right": "The results show that the treatment works best in younger patients.",
+        "why": "English puts no comma between the verb and a *that*-clause; the comma comes from German punctuation before *dass*."
+      },
+      "related": "*the results suggest that* — more cautious; *we find that* — common in economics and CS abstracts; *demonstrate* — stronger, for very clear evidence."
+    },
+    {
+      "id": "in-addition-to",
+      "term": "in addition (to)",
+      "spoken_term": "in addition to",
+      "label": "linking phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*In addition* adds another point to what was just said; *in addition to X* means *as well as X*.",
+      "usage": "*In addition,* at the start of a sentence is common in papers, reports and formal emails; in speech, *also* or *plus* is more natural. *In addition to* is followed by a noun or an *-ing* form, never by a bare verb. Don't start several sentences in a row with *In addition*, *Furthermore* and *Moreover*; varied or no linkers read better.",
+      "pattern": "In addition, + clause; in addition to + noun / -ing",
+      "examples": [
+        "**In addition to** blood pressure, we recorded heart rate and oxygen levels every fifteen minutes.",
+        "The new schedule reduced overtime costs. **In addition**, nurses reported less stress and fewer sick days.",
+        "**In addition to** teaching two classes, she runs the university's writing center."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In addition to}} free breakfast, the hotel offers a shuttle to the airport.",
+        "hint": "adds to what was already mentioned (three words starting with *In*; not *On top of* or *As well as*)"
+      },
+      "mistake": {
+        "wrong": "In addition to improve accuracy, the method also reduces memory use.",
+        "right": "In addition to improving accuracy, the method also reduces memory use.",
+        "why": "*To* in *in addition to* is a preposition, so the verb after it takes *-ing*."
+      },
+      "related": "*also* / *plus* — more natural in speech; *furthermore* — formal, adds a further supporting point; *besides* — less formal, often adds another reason."
+    },
+    {
+      "id": "as-a-result-of",
+      "term": "as a result (of)",
+      "spoken_term": "as a result of",
+      "label": "linking phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*As a result* introduces a consequence of what was just described; *as a result of X* means *because of X*.",
+      "usage": "Common in papers, reports, news and careful speech. *As a result* stands alone at the start of a sentence (*As a result, sales fell*), while *as a result of* needs a noun or *-ing* form after it. Before a full clause, use *because* instead: *because prices rose*, not *as a result of prices rose*.",
+      "pattern": "As a result, + clause; as a result of + noun / -ing",
+      "examples": [
+        "The clinic switched to text-message reminders. **As a result**, missed appointments fell by a third.",
+        "Thousands of flights were canceled **as a result of** the snowstorm.",
+        "**As a result of** a coding error, the survey weights for 2019 were too low."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The bridge was closed for repairs. {{As a result}}, traffic downtown was backed up for hours.",
+        "hint": "introduces the consequence (three words starting with *As*; not *As a consequence*)"
+      },
+      "mistake": {
+        "wrong": "As a result of the factory closed, many families moved away.",
+        "right": "Because the factory closed, many families moved away.",
+        "why": "*As a result of* is followed by a noun phrase (*the closure of the factory*); before a full clause, use *because*."
+      },
+      "related": "*consequently* — more formal, one word; *because of* — plainer than *as a result of*; *as a consequence* — formal equivalent."
+    },
+    {
+      "id": "previous-studies-have-shown-that",
+      "term": "previous studies have shown that …",
+      "spoken_term": "previous studies have shown that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces findings from earlier research that your own study builds on, extends or tests.",
+      "usage": "Typical in the introduction and discussion, followed by citations. The present perfect presents the findings as still relevant; for one dated study, the simple past is normal (*Lee (2018) showed that…*). Reviewers expect real citations after it, so never use it for a vague claim you can't back up.",
+      "pattern": "Previous / Earlier studies have shown that… (+ citations)",
+      "examples": [
+        "**Previous studies have shown that** regular physical activity lowers the risk of type 2 diabetes.",
+        "**Earlier studies have shown that** honeybees can learn to recognize human faces.",
+        "**Previous studies have shown that** households spend a large share of a tax refund within a few months."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Previous studies have shown that}} music lessons can improve children's memory, but the effects are small.",
+        "hint": "earlier research found this (five words, plural noun; not *Prior …*, *Earlier …* or *… demonstrated that*)"
+      },
+      "mistake": {
+        "wrong": "Previous studies have showed that the effect is small.",
+        "right": "Previous studies have shown that the effect is small.",
+        "why": "The standard past participle of *show* is *shown*; *have showed* is rare and looks like an error to most editors."
+      },
+      "related": "*prior work has shown* — common in CS; *it has been shown that* — passive, vague without a citation; *there is evidence that* — more cautious."
+    },
+    {
+      "id": "in-this-paper-we-propose",
+      "term": "in this paper, we propose …",
+      "spoken_term": "in this paper, we propose",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The standard sentence in an abstract or introduction that states the paper's main contribution, such as a new method, model or framework.",
+      "usage": "Very common in CS, engineering and statistics abstracts and at the end of the introduction. Use the simple present; *In this paper, we will propose* sounds like a plan rather than what the paper does. Medicine and the social sciences more often write *In this study, we examine…*, and many abstracts simply say *Here, we propose…*.",
+      "pattern": "In this paper, we propose + a method / framework / model (for…)",
+      "examples": [
+        "**In this paper, we propose** a simple method for spotting fake product reviews using only the text.",
+        "To close this gap, **in this paper we propose** a low-cost sensor that measures soil moisture with a phone camera.",
+        "The method **we propose in this paper** runs on an ordinary laptop in under a minute."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In this paper, we propose}} a new way to measure inflation using prices collected from online stores.",
+        "hint": "states the main contribution (not *study* or *work*; the verb is not *present* or *introduce*)"
+      },
+      "mistake": {
+        "wrong": "In this paper, we will propose a new method for detecting leaks.",
+        "right": "In this paper, we propose a new method for detecting leaks.",
+        "why": "A style point: the paper already contains the method, so the simple present is standard; *will* makes it sound like a future plan."
+      },
+      "related": "*we present* / *we introduce* — close alternatives; *here we show that* — common in Nature-style abstracts for a finding; *this paper proposes* — same, without *we*."
+    },
+    {
+      "id": "a-significant-increase-in-something",
+      "term": "a significant increase (in something)",
+      "spoken_term": "a significant increase in",
+      "label": "adjective + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A rise that is large enough to matter, or, in statistics, one that is unlikely to be due to chance.",
+      "usage": "Common in results sections, reports and news. In a paper, readers take *significant* to mean *statistically significant*, so report the test, and write *substantial* or *large* if you only mean big. The thing that rises follows *in*; the size of the rise follows *of*: *an increase of 12% in sales*.",
+      "pattern": "a significant increase in + noun; an increase of + amount",
+      "examples": [
+        "The treatment group showed **a significant increase in** bone density compared with the placebo group.",
+        "Economists reported **a significant increase in** small-business loans after the rate cut.",
+        "We've seen **a significant increase in** calls to the help desk since the update."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new reading program led to {{a significant increase in}} test scores, and the result held up in a second trial.",
+        "hint": "a statistically meaningful rise (four words; the noun is not *rise* or *improvement*)"
+      },
+      "mistake": {
+        "wrong": "We found a significant increase of hospital admissions.",
+        "right": "We found a significant increase in hospital admissions.",
+        "why": "The thing that goes up follows *in*; *of* introduces the amount (*an increase of 15%*)."
+      },
+      "related": "*a substantial increase* — large, without a statistical claim; *a marked increase* — clearly noticeable; *a significant decrease in* — the opposite."
+    },
+    {
+      "id": "compared-with",
+      "term": "compared with",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When measured or judged against something else.",
+      "usage": "Very common in results sections, reports and everyday comparisons: *compared with the control group*, *down 20% compared with last year*. *Compared to* is just as common in American English, and most writers use the two interchangeably. Put the phrase close to the thing being compared, so the reader knows which two things you mean.",
+      "pattern": "X (is higher / fell …) compared with Y; Compared with Y, X…",
+      "examples": [
+        "**Compared with** the placebo group, patients on the new drug reported fewer migraines per month.",
+        "Home prices in the county rose eleven percent **compared with** the same month last year.",
+        "**Compared with** our old apartment, this place feels huge."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Compared with}} last winter, the city spent far less on snow removal this year.",
+        "hint": "used to set two things side by side (past participle + preposition; the preposition is not *to*)"
+      },
+      "mistake": {
+        "wrong": "Comparing to the baseline, our model uses half the memory.",
+        "right": "Compared with the baseline, our model uses half the memory.",
+        "why": "The model is being compared, not doing the comparing, so the past participle is needed."
+      },
+      "related": "*compared to* — same, very common in US English; *relative to* — more technical, for ratios or baselines; *in comparison with* — longer and more formal."
+    },
+    {
+      "id": "relative-to",
+      "term": "relative to",
+      "label": "prepositional phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In comparison with a reference point or baseline, often when a change or ratio is measured against it.",
+      "usage": "Common in scientific and economic writing and in technical talks: *a 30% speedup relative to the baseline*, *prices relative to income*. It sounds more technical than *compared with* and fits best when there is a clear reference value. Don't write *relatively to*: *relatively* is an adverb meaning *fairly* (*relatively small*).",
+      "pattern": "X relative to a baseline / reference / Y",
+      "examples": [
+        "**Relative to** household income, rents in the city have nearly doubled since 2000.",
+        "The new solver cuts runtime by forty percent **relative to** the standard method.",
+        "Each star's brightness is measured **relative to** a reference star in the same image."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The team's spending on travel rose sharply {{relative to}} its overall budget.",
+        "hint": "technical: judged against a reference point (adjective + preposition; not *compared with* or *compared to*)"
+      },
+      "mistake": {
+        "wrong": "The error dropped by half relatively to the baseline.",
+        "right": "The error dropped by half relative to the baseline.",
+        "why": "The fixed phrase uses the adjective *relative*; *relatively* means *fairly*, as in *relatively small*."
+      },
+      "related": "*compared with* — plainer; *in proportion to* — about matching size or rate; *relatively* — adverb: fairly, or in comparison."
+    },
+    {
+      "id": "with-respect-to",
+      "term": "with respect to",
+      "label": "prepositional phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Concerning, or in relation to; in math, *with respect to x* names the variable you differentiate or integrate by.",
+      "usage": "Standard in math and physics (*the derivative of f with respect to x*) and common in formal writing (*the groups were similar with respect to age*). In plain prose it can sound stiff, so *for*, *about* or *in* is often better. The abbreviation *w.r.t.* is fine in notes and code comments, not in a paper.",
+      "pattern": "with respect to + variable / aspect; differentiate f with respect to x",
+      "examples": [
+        "We take the derivative of the loss **with respect to** each weight and move each weight in the opposite direction.",
+        "The two groups were similar **with respect to** age, income and education.",
+        "The velocity of the ball is measured **with respect to** the moving train, not the ground."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Differentiate the position {{with respect to}} time, and you get the velocity.",
+        "hint": "names the variable you differentiate by (three words; not *in terms of*)"
+      },
+      "related": "*in terms of* — about one aspect, less technical; *with regard to* — concerning, more general (not *with regards to*); *regarding* — one-word alternative."
+    },
+    {
+      "id": "in-terms-of",
+      "term": "in terms of",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Regarding one particular aspect or measure, when you judge or compare something.",
+      "usage": "Very common in papers, meetings and everyday speech: *in terms of accuracy*, *in terms of cost*. It works well for naming the dimension of a comparison, but learners overuse it as a vague connector (*In terms of the results, they show…*), where a direct verb is clearer. *Terms* is always plural in this phrase.",
+      "pattern": "X is better / worse in terms of + measure",
+      "examples": [
+        "The two models are almost identical **in terms of** accuracy, but one is much faster.",
+        "**In terms of** cost, the bus is the cheapest way to get from the airport to downtown.",
+        "The hospital ranks near the top **in terms of** patient safety but near the bottom for wait times."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The apartment is perfect {{in terms of}} location, but it's tiny and has no washer.",
+        "hint": "as far as one aspect is concerned (three words starting with *in*; not *regarding*)"
+      },
+      "mistake": {
+        "wrong": "In term of speed, the new version is better.",
+        "right": "In terms of speed, the new version is better.",
+        "why": "The fixed phrase always uses the plural *terms*."
+      },
+      "related": "*with respect to* — more formal; *as far as … is concerned* — longer, spoken; *-wise* — informal suffix (*cost-wise*)."
+    },
+    {
+      "id": "as-shown-in-figure-2",
+      "term": "as shown in (Figure 2)",
+      "spoken_term": "as shown in Figure 2",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Points the reader to a figure or table where a result can be seen.",
+      "usage": "Standard in results sections and reports: *As shown in Figure 2, the error falls with sample size*. Use it when the figure really supports the claim, and don't start every paragraph with it; *(Figure 2)* after the claim is often shorter. Capitalize *Figure* and *Table* with a number, and use no article: *in Figure 2*, not *in the Figure 2*.",
+      "pattern": "As shown in Figure / Table N, + clause",
+      "examples": [
+        "**As shown in Figure 2**, the error decreases steadily as the sample size grows.",
+        "**As shown in Table 1**, the two groups did not differ in age or body mass index.",
+        "**As shown in the chart on page 3**, online sales overtook store sales in March."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{As shown in}} Table 3, households with children spent more on food but less on travel.",
+        "hint": "points the reader to the table with the plainest verb (three words; not *As seen in*, *As listed in* or *As reported in*)"
+      },
+      "mistake": {
+        "wrong": "As shown in the Figure 2, accuracy drops at night.",
+        "right": "As shown in Figure 2, accuracy drops at night.",
+        "why": "A numbered figure or table works like a name, so it takes no article."
+      },
+      "related": "*see Figure 2* — shorter, in parentheses; *as illustrated in* — slightly more formal; *Figure 2 shows that* — makes the figure the subject."
+    },
+    {
+      "id": "our-contributions-are-as-follows",
+      "term": "our contributions are as follows",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a list, usually with bullets, of the main new things a paper offers.",
+      "usage": "Typical at the end of the introduction in CS and engineering papers, followed by a colon and two to four bullets. Each bullet should name something concrete (a method, a dataset, a proof, a result), not repeat the abstract. Papers in other fields more often describe their contribution in one or two sentences.",
+      "pattern": "Our (main) contributions are as follows: (bullets)",
+      "examples": [
+        "**Our main contributions are as follows**: a new dataset of hospital discharge notes, a labeling tool, and a baseline model.",
+        "**Our contributions are as follows**: first, we build a panel of farm-level prices; second, we estimate how drought affects them.",
+        "In summary, **our contributions are as follows**: a faster solver for sparse systems and a proof that it always converges."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Our contributions are as follows}}: a new benchmark for weather forecasting, an open-source library, and a study of common errors.",
+        "hint": "introduces the list of what is new in the paper (five words, starting with *Our*)"
+      },
+      "mistake": {
+        "wrong": "Our main contributions are the followings:",
+        "right": "Our main contributions are as follows:",
+        "why": "*Following* used as a noun never takes *-s*; before a list, the usual phrase is *as follows* (or *the following*)."
+      },
+      "related": "*we make the following contributions* — same, with a verb; *in summary, we* — introduces a short recap; *the rest of the paper is organized as follows* — introduces the section outline."
+    },
+    {
+      "id": "a-limitation-of-this-work",
+      "term": "a limitation of this work",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A weakness or restriction of a study that the authors state openly, such as a small sample or a narrow setting.",
+      "usage": "Standard in the discussion or in a separate *Limitations* section: *A limitation of this work is that…*. Honest limits make reviewers trust you more, but explain why each one does not undo your main claim. Medical and social-science papers often open this paragraph with *This study has several limitations*.",
+      "pattern": "A (major / key) limitation of this work / study is that…",
+      "examples": [
+        "**A limitation of this work** is that all patients came from a single hospital in Ohio.",
+        "**A key limitation of this study** is its reliance on self-reported income.",
+        "We acknowledge **a limitation of this work**: the survey was only available in English."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{A limitation of this work}} is that we tested the app only on young, healthy volunteers.",
+        "hint": "honest admission of a weakness (five words starting with *A*; the noun is not *weakness* or *drawback*; the last word is not *study*)"
+      },
+      "related": "*a caveat* — a warning attached to a claim; *a shortcoming* — a weakness, more critical; *future work* — what the authors plan to do about it."
+    },
+    {
+      "id": "an-order-of-magnitude",
+      "term": "an order of magnitude",
+      "label": "noun phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A factor of about ten: *an order of magnitude faster* means roughly ten times faster.",
+      "usage": "Common in science, engineering and tech talk, and in educated everyday speech: *an order of magnitude cheaper*, *two orders of magnitude more data* (about 100 times). It describes rough scale, so don't use it for a factor of two or three. *On the order of* is different: it means *approximately*.",
+      "pattern": "an order of magnitude + faster / larger / more…; two orders of magnitude",
+      "examples": [
+        "The new detector is **an order of magnitude** more sensitive than the one it replaced.",
+        "Solar panels have become more than **an order of magnitude** cheaper over the past two decades.",
+        "Our first estimate was off by **an order of magnitude**: the repairs cost nearly ten times what we'd planned."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Switching from plain Python loops to NumPy made the code {{an order of magnitude}} faster.",
+        "hint": "by a factor of roughly ten (four words; not *ten times*)"
+      },
+      "related": "*on the order of* — approximately (*on the order of seconds*); *by a factor of ten* — exactly or about ten times; *orders of magnitude* — loosely, a huge amount."
+    },
+    {
+      "id": "in-the-context-of",
+      "term": "in the context of",
+      "label": "prepositional phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Within a particular situation, field or setting that shapes how something should be understood.",
+      "usage": "Common in introductions, discussion sections and reports: *in the context of language models*, *in the context of rising interest rates*. *Discuss X in the context of Y* is a standard discussion-section move that relates your result to earlier work. It is often wordy, though; *for*, *in* or *during* may say the same thing more briefly.",
+      "pattern": "in the context of + field / setting / event",
+      "examples": [
+        "We discuss these findings **in the context of** earlier work on childhood obesity.",
+        "**In the context of** rising interest rates, many families are putting off buying a home.",
+        "The joke made sense **in the context of** the whole conversation, but not on its own."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "These results should be read {{in the context of}} a very unusual flu season.",
+        "hint": "taking the surrounding situation into account (four words; not *in light of* or *against the backdrop of*)"
+      },
+      "mistake": {
+        "wrong": "We discuss the results in the frame of earlier studies.",
+        "right": "We discuss the results in the context of earlier studies.",
+        "why": "*In the frame of* copies German *im Rahmen von*; English uses *in the context of* or *as part of*."
+      },
+      "related": "*in light of* — considering a new fact; *within the framework of* — inside a formal theory or structure; *as part of* — one piece of a larger project."
+    },
+    {
+      "id": "as-a-function-of",
+      "term": "as a function of",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Showing how one quantity changes when another quantity changes; the second one is the input, usually on the x-axis.",
+      "usage": "Standard in figure captions, results sections and talks: *Figure 3 shows accuracy as a function of training time*. The quantity that changes comes first and the input second: *temperature as a function of depth*. Outside science, *X is a function of Y* means *X depends on Y* (*success is a function of preparation*) and sounds formal.",
+      "pattern": "Y as a function of X; plot Y as a function of X",
+      "examples": [
+        "Figure 3 shows test accuracy **as a function of** the number of training examples.",
+        "We measured the boiling point of water **as a function of** altitude.",
+        "Blood alcohol level was plotted **as a function of** time since the last drink."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The graph plots the price of a used car {{as a function of}} its mileage.",
+        "hint": "math phrase: Y changes as X changes (four words; not *against* or *versus*)"
+      },
+      "related": "*plotted against* — common in captions: Y against X; *versus* — in plot titles (*loss vs. epoch*); *depend on* — the plain verb."
+    },
+    {
+      "id": "refer-to-something-as-something",
+      "term": "refer to something as something",
+      "label": "verb pattern",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To give something a name or label, especially a short name that you then use in the rest of a text or talk.",
+      "usage": "Very common in papers when you introduce a term: *We refer to this as the warm-up phase*; in the passive, *this is referred to as…*. You need both *to* and *as*. With *call* there is no *as*: *we call this X*.",
+      "pattern": "refer to X as Y; X is referred to as Y",
+      "examples": [
+        "**We refer to** this two-step method **as** SplitFit in the rest of the paper.",
+        "Areas with no supermarket within a mile are often **referred to as** food deserts.",
+        "Everyone at the office **refers to** the windowless meeting room **as** the cave."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Throughout this report, these energy-saving homes {{are referred to as}} passive houses.",
+        "hint": "get a label (passive verb + two prepositions; not *described*, *known* or *called*)"
+      },
+      "mistake": {
+        "wrong": "We call this approach as early stopping.",
+        "right": "We refer to this approach as early stopping.",
+        "why": "*Call* takes no *as* (*we call it X*); *refer to* needs both *to* and *as*."
+      },
+      "related": "*call X Y* — plainer, no *as*; *dub* — journalistic, often playful; *hereafter referred to as* — very formal, for a defined term."
+    },
+    {
+      "id": "the-effect-of-something-on-something",
+      "term": "the effect of something on something",
+      "label": "noun pattern",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The standard way to name a cause and its result: the effect *of* the cause *on* the outcome.",
+      "usage": "Everywhere in titles, research questions and results: *the effect of sleep on memory*. The cause follows *of* and the outcome follows *on*; *to* and *for* are wrong here. Don't confuse the noun *effect* with the verb *affect*: *X affects Y*, but *the effect of X on Y*.",
+      "pattern": "the effect of (cause) on (outcome); have an effect on",
+      "examples": [
+        "We studied **the effect of** screen time **on** sleep quality in teenagers.",
+        "**The effect of** the tax credit **on** employment was small but positive.",
+        "Nobody expected **the effect** the new highway would have **on** local shops."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The study measured {{the effect of}} caffeine on reaction time in night-shift nurses.",
+        "hint": "how the cause changes the outcome (three words, singular noun; not *impact* or *influence*)"
+      },
+      "mistake": {
+        "wrong": "We measured the effect of temperature to battery life.",
+        "right": "We measured the effect of temperature on battery life.",
+        "why": "The outcome follows *on*; *effect to* and *effect for* are common learner errors."
+      },
+      "related": "*the impact of X on Y* — same pattern, a bit stronger; *the influence of X on Y* — more indirect; *affect* — the verb: *X affects Y*."
+    },
+    {
+      "id": "one-possible-explanation-is-that",
+      "term": "one possible explanation is that …",
+      "spoken_term": "one possible explanation is that",
+      "label": "hedging phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A cautious way to offer a reason for a result while admitting that other reasons may exist.",
+      "usage": "Typical in the discussion section, especially for surprising or negative results. It offers a hypothesis, not a finding, so follow it with supporting evidence or a test, and use *Another explanation is that…* for the next one. In formal writing, use *is that*, not *is because*.",
+      "pattern": "One possible explanation (for X) is that…; Another explanation is that…",
+      "examples": [
+        "**One possible explanation is that** older patients were more likely to skip doses.",
+        "**One possible explanation for** the drop in sales **is that** customers moved to online stores.",
+        "The model did worse on recent posts. **One possible explanation is that** online slang changes quickly."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Fewer birds nested in the park this spring. {{One possible explanation is that}} the late frost killed many insects.",
+        "hint": "a cautious reason, not the only one (five words starting with *One*; the adjective is not *likely* or *plausible*; the noun is not *reason*)"
+      },
+      "mistake": {
+        "wrong": "One possible explanation is because the sensors overheated.",
+        "right": "One possible explanation is that the sensors overheated.",
+        "why": "After *explanation is* or *reason is*, formal writing uses *that*; *is because* is common in speech, but editors correct it."
+      },
+      "related": "*a likely explanation* — more confident; *this may be because* — shorter, also cautious; *we speculate that* — clearly marks a guess."
+    },
+    {
+      "id": "be-correlated-with",
+      "term": "be correlated with",
+      "label": "verb + preposition",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To change together with another variable, so that one tends to be high (or low) when the other is high, without showing that one causes the other.",
+      "usage": "Standard in results sections: *income was strongly correlated with life expectancy*. Give the strength or direction (*weakly*, *strongly*, *positively*, *negatively*), and don't switch to causal verbs such as *leads to* unless your design supports them. *Correlated to* also appears, but *correlated with* is far more common in careful writing.",
+      "pattern": "X is (strongly / weakly / positively / negatively) correlated with Y",
+      "examples": [
+        "Hours of sleep were **positively correlated with** exam scores, but the effect was small.",
+        "Ice cream sales **are correlated with** drowning deaths because both rise in summer.",
+        "In our data, the number of hospital beds **was** only weakly **correlated with** patient outcomes."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Shoe size {{is correlated with}} reading ability in children, simply because older kids have bigger feet.",
+        "hint": "statistical link, not causation (three words; not *is linked to*, *is related to* or *is associated with*)"
+      },
+      "related": "*be associated with* — similar, often for categories or risks; *correlate with* — the active verb; *cause* — a much stronger claim that needs a causal design."
+    },
+    {
+      "id": "as-described-in-section-3",
+      "term": "as described in (Section 3)",
+      "spoken_term": "as described in Section 3",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Sends the reader to the part of the paper or report where the details are explained.",
+      "usage": "Common in methods and results sections, to avoid repeating details: *We filtered the data as described in Section 3*. Capitalize *Section* when it has a number. In biology and medicine, *as previously described* + a citation is the usual way to refer to a published protocol.",
+      "pattern": "as described in Section N / Appendix A; as previously described (+ citation)",
+      "examples": [
+        "We cleaned the survey responses **as described in Section 3**, removing duplicates and incomplete forms.",
+        "Tissue samples were stained **as previously described**, with one change to the washing step.",
+        "The device was calibrated **as described in Appendix B** before each measurement."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Samples were frozen and shipped to the central lab {{as described in}} Section 2.3.",
+        "hint": "points to where the procedure is explained (three words; not *as outlined in*, *as detailed in* or *as explained in*)"
+      },
+      "related": "*see Section 3* — shorter, in parentheses; *as outlined in* — similar, for a summary; *as previously described* — refers to an earlier publication."
+    },
+    {
+      "id": "in-this-section-we",
+      "term": "in this section, we …",
+      "spoken_term": "in this section, we",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The usual first words of a section, saying in one sentence what the section does.",
+      "usage": "Common in CS, math, engineering and economics papers, followed by a present-tense verb: *In this section, we describe the data*. One such sentence helps readers; a whole paragraph that only lists what is coming wastes space. If you prefer to avoid *we*, write *This section describes…*.",
+      "pattern": "In this section, we + present tense (describe / present / show / review)…",
+      "examples": [
+        "**In this section, we** describe how the households in our sample were selected and interviewed.",
+        "Having defined the model, **in this section we** prove that it always has a unique solution.",
+        "**In this section, we** turn to the question of why the effect is stronger in rural clinics."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In this section, we}} explain how the interviews were recorded, transcribed and coded.",
+        "hint": "standard opening that says what this part of the paper does (four words; not *Here we* or *In this chapter*)"
+      },
+      "related": "*This section describes…* — same, without *we*; *the next section* — points forward; *in what follows* — formal, for the rest of the text."
+    },
+    {
+      "id": "we-observe-that",
+      "term": "we observe that …",
+      "spoken_term": "we observe that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A standard way to report something you see in your data or experiments, before interpreting it.",
+      "usage": "Common in results sections of CS, physics and engineering papers: *We observe that the loss plateaus after 10,000 steps*. It reports what you see; to say what it means, move on to *this suggests that*. *We can observe that* adds nothing, and medicine and the social sciences more often write *We found that*.",
+      "pattern": "We observe that + clause; we observe a + noun (*a sharp drop*)",
+      "examples": [
+        "**We observe that** the error grows rapidly once the time step exceeds 0.1 seconds.",
+        "In all three cities, **we observe** a sharp drop in bike traffic after the first snowfall.",
+        "**We observed that** mice fed during the day, when they normally sleep, gained more weight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{We observe that}} the batteries lose capacity faster when they are charged to one hundred percent every night.",
+        "hint": "reports what the experiments show (three words; not *We find*, *We see*, *We note* or *We notice*)"
+      },
+      "related": "*we find that* — common in economics and abstracts; *we note that* — draws attention to a detail; *it can be seen that* — passive, wordier."
+    },
+    {
+      "id": "the-aim-of-this-study-is-to",
+      "term": "the aim of this study is to …",
+      "spoken_term": "the aim of this study is to",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "States the main goal of a study, usually in the abstract or at the end of the introduction.",
+      "usage": "Common in medicine, education and the social sciences; abstracts often use the past tense (*The aim of this study was to…*), while CS papers prefer *In this paper, we…*. Follow it with a precise verb (*to assess*, *to compare*, *to estimate*), not a vague one like *to deal with*. *This study aims to…* is a shorter alternative.",
+      "pattern": "The aim of this study is / was to + verb (assess / compare / estimate…)",
+      "examples": [
+        "**The aim of this study was to** compare two exercise programs for adults with chronic back pain.",
+        "**The aim of this study is to** measure how a long summer break affects reading skills in young children.",
+        "As a first step, **the aim of this study is to** find out whether parents will actually use the app."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The aim of this study is to}} identify which factors predict early dropout from nursing school.",
+        "hint": "states the main target of the research (seven words; the first noun is not *goal*, *purpose* or *objective*, and the second is not *paper*)"
+      },
+      "related": "*this study aims to* — shorter; *the purpose of this study* — equally common; *we set out to* — less formal, tells the story of the research."
+    },
+    {
+      "id": "data-were-collected-from",
+      "term": "data were collected (from)",
+      "spoken_term": "data were collected from",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A standard passive sentence in a methods section that says where, when or how the data were gathered.",
+      "usage": "A typical first sentence of a methods subsection: *Data were collected from 12 clinics between 2019 and 2021*. The passive keeps the focus on the data, not on the researchers. Many journals and style guides treat *data* as plural (*data were*), while *data is* is common in American tech writing and speech, so follow the journal's style.",
+      "pattern": "Data were collected from + source (+ between… / using…)",
+      "examples": [
+        "**Data were collected from** 1,200 households in three counties between March and June 2022.",
+        "**Data were collected** through online surveys and follow-up phone interviews.",
+        "Water samples **were collected from** six sites along the river every two weeks."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Data were collected from}} medical records at four hospitals in rural Texas.",
+        "hint": "passive phrase for where the information came from (four words, plural verb; the verb is not *obtained*, *gathered*, *drawn* or *extracted*)"
+      },
+      "related": "*we collected data from* — active voice, now widely accepted; *data were obtained from* — common for existing records; *data collection* — the noun phrase."
+    },
+    {
+      "id": "furthermore",
+      "term": "furthermore",
+      "label": "adverb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˈfɝðɚˌmɔr/",
+      "respelling": "FUR-ther-mor",
+      "meaning": "In addition; adds a further point that supports or extends the argument just made.",
+      "usage": "Used in formal writing (papers, reports, policy texts) at the start of a sentence, followed by a comma. It should add a new point that supports the same argument, not just introduce the next sentence. Learners overuse it, together with *Moreover*; native writers use both sparingly, and in speech *also* or *plus* sounds more natural.",
+      "examples": [
+        "The treatment was well tolerated. **Furthermore**, patients needed fewer hospital visits during the trial.",
+        "The proposal is too expensive. **Furthermore**, it doesn't solve the traffic problem downtown.",
+        "The algorithm is simple to implement. **Furthermore**, it scales linearly with the number of users."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The proposed site is close to two major highways. {{Furthermore}}, the city already owns the land, so no purchase is needed.",
+        "hint": "formal: adds another point in the same direction (one word; not *Moreover*, *Additionally*, *Further* or *Also*)"
+      },
+      "related": "*moreover* — very similar, slightly stronger; *in addition* — more neutral; *what's more* — less formal, spoken."
+    },
+    {
+      "id": "unlike-prior-work",
+      "term": "unlike prior work",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Contrasts your approach or finding with earlier research, to show what is new about it.",
+      "usage": "Common in introductions and related-work sections, especially in CS and engineering. Strictly, *unlike* compares two things of the same kind, so *Unlike prior methods, ours…* is cleaner than *Unlike prior work, we…*, though both are common. Make sure the claim is accurate; reviewers notice when a cited paper already did what you call new.",
+      "pattern": "Unlike prior work / earlier studies, + we / our method…",
+      "examples": [
+        "**Unlike prior work**, our method does not require any labeled training data.",
+        "**Unlike earlier studies**, which relied on food diaries, this study uses grocery store receipts.",
+        "**Unlike prior work**, we measure the effect at room temperature rather than near absolute zero."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Unlike prior work}}, our model predicts traffic for the whole city, not just major highways.",
+        "hint": "contrasts our approach with earlier research (three words; the middle word is a short formal synonym of *earlier*, not *previous* or *past*)"
+      },
+      "mistake": {
+        "wrong": "Different from prior work, we use no labeled data.",
+        "right": "Unlike prior work, we use no labeled data.",
+        "why": "*Different from* at the start of a sentence sounds non-native here; editors change it to *Unlike* or *In contrast to*."
+      },
+      "related": "*in contrast to prior work* — same, more formal; *existing approaches* — a common way to name prior work; *building on* — the opposite move: continuing earlier work."
+    },
+    {
+      "id": "the-rest-of-the-paper-is-organized-as-follows",
+      "term": "the rest of the paper is organized as follows",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a short outline of the paper's remaining sections, usually at the end of the introduction.",
+      "usage": "Standard at the end of the introduction in CS, engineering and economics papers, followed by one short sentence per section. Short papers often skip it, and it should say what each section does, not just list titles. Use the present tense: *Section 4 presents the results*.",
+      "pattern": "The rest / remainder of the paper is organized as follows. Section 2…",
+      "examples": [
+        "**The rest of the paper is organized as follows**: Section 2 describes the data, and Section 3 presents the model.",
+        "**The remainder of this paper is organized as follows**. Section 2 reviews the literature on rural banking.",
+        "**The rest of this article is organized as follows**: we first describe the field site, then the survey, then the results."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The rest of the paper is organized as follows}}. Section 2 introduces the notation, and Section 3 proves the main theorem.",
+        "hint": "introduces the outline of the remaining sections (nine words; not *remainder* or *structured*)"
+      },
+      "mistake": {
+        "wrong": "The rest of the paper is organized as follow.",
+        "right": "The rest of the paper is organized as follows.",
+        "why": "*As follows* is a fixed phrase that always ends in *-s*, whatever the subject."
+      },
+      "related": "*the remainder of the paper* — same, more formal; *structured as follows* — a common alternative; *our contributions are as follows* — introduces the list of contributions."
+    },
+    {
+      "id": "by-a-factor-of-two",
+      "term": "by a factor of (two)",
+      "spoken_term": "by a factor of two",
+      "label": "prepositional phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Multiplied or divided by the stated number: *faster by a factor of two* means twice as fast.",
+      "usage": "Common in science, engineering and economics: *reduced the error by a factor of three*. It works for both increases and decreases, which avoids the unclear *three times less*. For a factor of about ten, scientists often say *an order of magnitude*.",
+      "pattern": "increase / reduce / differ by a factor of N",
+      "examples": [
+        "The new compression scheme reduces file sizes **by a factor of two** without visible loss of quality.",
+        "Rents in the two neighborhoods differ **by a factor of three**.",
+        "Cooling the sample increased its conductivity **by a factor of ten**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Better caching cut the page's loading time {{by a factor of}} four.",
+        "hint": "multiplied or divided by this number (four words, two of them prepositions)"
+      },
+      "mistake": {
+        "wrong": "The new code reduces memory use by factor two.",
+        "right": "The new code reduces memory use by a factor of two.",
+        "why": "English needs *a* and *of*; *by factor two* copies German *um den Faktor zwei*."
+      },
+      "related": "*twice / three times as fast* — plainer; *an order of magnitude* — a factor of about ten; *-fold* — formal (*a threefold increase*)."
+    },
+    {
+      "id": "it-is-well-known-that",
+      "term": "it is well known that …",
+      "spoken_term": "it is well known that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a fact that experts in the field widely accept, so it needs no new evidence.",
+      "usage": "Common in introductions of math, physics, engineering and medical papers, ideally with a textbook reference or citation. Use it only for truly standard facts; reviewers object when it hides a claim that is still debated. In speech, people say *we all know that* or *as everyone knows*.",
+      "pattern": "It is well known that + clause; as is well known, …",
+      "examples": [
+        "**It is well known that** smoking during pregnancy increases the risk of low birth weight.",
+        "**It is well known that** the simple estimator is biased when samples are small.",
+        "**It is well known that** steel bridges expand in hot weather, which is why engineers leave small gaps."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It is well known that}} the Moon's gravity is the main cause of ocean tides.",
+        "hint": "a standard fact the whole field accepts (five words; not *widely …*, *… established* or *It is a fact*)"
+      },
+      "mistake": {
+        "wrong": "As it is well known, light travels faster than sound.",
+        "right": "As is well known, light travels faster than sound.",
+        "why": "The short form is *as is well known*, without *it*; *it* belongs only in the full form *It is well known that…*."
+      },
+      "related": "*it is widely accepted that* — similar, slightly more cautious; *it is well established that* — strong, for firm evidence; *as is well known* — short form inside a sentence."
+    },
+    {
+      "id": "there-has-been-growing-interest-in",
+      "term": "there has been growing interest in",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that more and more researchers or people have started to pay attention to a topic, usually to show why a study matters.",
+      "usage": "A classic first sentence of an introduction or abstract: *In recent years, there has been growing interest in…*. Because it is so common, it can sound generic, so move quickly to the specific problem. The preposition is *in*; *interest for* is a common learner error.",
+      "pattern": "There has been growing / increasing interest in + noun / -ing",
+      "examples": [
+        "**There has been growing interest in** using wastewater to track outbreaks of disease in cities.",
+        "**There has been growing interest in** four-day workweeks among both employers and employees.",
+        "Over the last decade, **there has been growing interest in** materials that can repair themselves."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{There has been growing interest in}} urban farming, especially on unused rooftops.",
+        "hint": "trend opener: attention to a topic keeps going up (six words; present perfect; not *increasing* or *rising*)"
+      },
+      "mistake": {
+        "wrong": "There has been growing interest for self-driving trucks.",
+        "right": "There has been growing interest in self-driving trucks.",
+        "why": "*Interest* takes *in*; *interest for* copies German *Interesse für*."
+      },
+      "related": "*attract attention* — draw interest; *a growing body of research* — more and more studies; *a hot topic* — informal: something many people are discussing."
+    },
+    {
+      "id": "little-is-known-about",
+      "term": "little is known about",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that very little research or knowledge exists on a topic, which shows a gap that your study can fill.",
+      "usage": "Common in introductions and abstracts to state a research gap: *Little is known about how…*. Without *a*, *little* is negative (almost nothing); *a little is known* would mean *some*, which loses the point. Make sure the claim is true, since a reviewer who knows the literature will check.",
+      "pattern": "Little is known about + noun / how / whether…",
+      "examples": [
+        "**Little is known about** what giant squid eat in the deep ocean.",
+        "**Little is known about** how small businesses in rural areas use online banking.",
+        "Despite its popularity, **little is known about** the long-term effects of intermittent fasting."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Little is known about}} the early life of the composer, since few of his letters survive.",
+        "hint": "a gap in knowledge: almost no information exists (four words, passive; not *Not much…*)"
+      },
+      "mistake": {
+        "wrong": "A little is known about the long-term effects.",
+        "right": "Little is known about the long-term effects.",
+        "why": "*Little* without *a* means *almost nothing*; *a little* means *some*, so the sentence no longer states a gap."
+      },
+      "related": "*remains poorly understood* — similar, about mechanisms; *few studies have examined* — more precise; *much is known about* — the opposite."
+    },
+    {
+      "id": "remain-a-challenge",
+      "term": "remain a challenge",
+      "label": "verb + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To still be a difficult problem that has not been solved, despite earlier efforts.",
+      "usage": "Common in introductions, abstracts and reports: *Accurate early diagnosis remains a challenge*. *Remain* implies that people have already tried, so it fits after a summary of progress. Common variants are *remains a major / key challenge* and the adjective form *remains challenging*.",
+      "pattern": "X remains a (major / key / open) challenge (for…)",
+      "examples": [
+        "Despite decades of research, early detection of pancreatic cancer **remains a challenge**.",
+        "Finding affordable childcare **remains a** major **challenge** for working parents in the city.",
+        "Training models that work well in low-resource languages **remains an open challenge**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Even with modern ships, sailing through the Northwest Passage {{remains a challenge}} because of shifting ice.",
+        "hint": "verb of continuing + a noun for a difficulty (three words; the noun is not *problem*; not *poses a*)"
+      },
+      "related": "*pose a challenge* — create a difficulty; *an open problem* — math and CS term for an unsolved question; *remain elusive* — still not achieved or understood."
+    },
+    {
+      "id": "we-hypothesize-that",
+      "term": "we hypothesize that …",
+      "spoken_term": "we hypothesize that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "States an idea that you will test, or that could explain a result, without claiming it is true yet.",
+      "usage": "Used in introductions and grant proposals to state a testable prediction (*We hypothesize that X increases Y*), and in discussions to suggest a cause you have not tested. A good hypothesis is specific enough to be proven wrong. The verb is stressed on the second syllable: hy-POTH-uh-size.",
+      "pattern": "We hypothesize that + clause (present or *will*)",
+      "examples": [
+        "**We hypothesize that** children who nap after lessons will remember new words better.",
+        "**We hypothesize that** the drop in accidents reflects the new speed cameras rather than the weather.",
+        "Based on the pilot data, **we hypothesized that** the enzyme would stop working below ten degrees."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{We hypothesize that}} trees near busy roads grow more slowly because of air pollution.",
+        "hint": "propose an idea to be tested (three words; the verb comes from the noun *hypothesis*)"
+      },
+      "related": "*we predict that* — states an expected result; *our hypothesis is that* — noun form; *we speculate that* — a guess with less support."
+    },
+    {
+      "id": "without-loss-of-generality",
+      "term": "without loss of generality",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In a proof, says that the special case you assume covers all cases, because the others work the same way or can be turned into it.",
+      "usage": "Standard in math, theoretical CS and physics proofs: *Without loss of generality, assume x ≥ y*. Use it only when the other cases follow by symmetry or by renaming; otherwise it hides a gap in the proof. In notes and on whiteboards it is often shortened to *WLOG*.",
+      "pattern": "Without loss of generality, (we) assume (that)…",
+      "examples": [
+        "**Without loss of generality**, assume that x is at least as large as y.",
+        "**Without loss of generality**, we place the origin at the center of the sphere.",
+        "**Without loss of generality**, we number the nodes so that node one has the highest degree."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Without loss of generality}}, we assume that the two charges lie on the x-axis.",
+        "hint": "proof phrase: this special case covers every case (four words)"
+      },
+      "related": "*by symmetry* — the reason the special case is enough; *for simplicity* — a simplification that may lose something; *in general* — for all cases."
+    },
+    {
+      "id": "for-simplicity",
+      "term": "for simplicity",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that you assume, ignore or choose something only to make an explanation, model or notation easier.",
+      "usage": "Common in papers, textbooks and talks: *For simplicity, we assume the noise is Gaussian*. Unlike *without loss of generality*, it admits that the simplification may lose something, so say whether the results still hold. *For the sake of simplicity* means the same but is longer.",
+      "pattern": "For simplicity, we assume / ignore / write…",
+      "examples": [
+        "**For simplicity**, we assume that all households have the same number of children.",
+        "**For simplicity**, we drop the time index t for the rest of this section.",
+        "**For simplicity**, I'll round all the prices to the nearest dollar."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{For simplicity}}, the map shows only the main roads, not every side street.",
+        "hint": "reason: making it less complicated (two words; not *For clarity* or *For convenience*)"
+      },
+      "mistake": {
+        "wrong": "For simplicity reasons, we ignore friction.",
+        "right": "For simplicity, we ignore friction.",
+        "why": "*For simplicity reasons* copies German *aus Einfachheitsgründen*; English says *for simplicity* or *for the sake of simplicity*."
+      },
+      "related": "*for convenience* — to make work easier, not necessarily simpler; *without loss of generality* — the simplification loses nothing; *to keep things simple* — spoken."
+    },
+    {
+      "id": "it-follows-that",
+      "term": "it follows that …",
+      "spoken_term": "it follows that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a conclusion that must be true because of what was just stated.",
+      "usage": "Typical in proofs, theoretical arguments and formal reasoning: *Since f is continuous, it follows that…*. It claims logical necessity, so use it only when the step really follows; for an empirical result, *this suggests that* is safer. *It does not follow that* is a polite way to point out a flawed argument.",
+      "pattern": "(Since / If …,) it follows that + clause; it does not follow that…",
+      "examples": [
+        "Since every term in the series is positive, **it follows that** the sum is greater than zero.",
+        "Just because the lease says nothing about pets, **it doesn't follow that** pets are allowed.",
+        "Prices rose faster than wages last year. **It follows that** real wages fell."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Every student in the class passed the exam, and Maria is in the class. {{It follows that}} Maria passed.",
+        "hint": "this must be true given the facts above (three words; the verb normally means *come after*)"
+      },
+      "related": "*therefore* / *hence* — one-word alternatives; *this implies that* — similar, common in math; *it does not follow that* — the reasoning is flawed."
+    },
+    {
+      "id": "in-turn",
+      "term": "in turn",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "As the next step in a chain of causes: A affects B, and B *in turn* affects C.",
+      "usage": "Common in papers, explanations and news to describe a chain of effects: *Higher rates reduce borrowing, which in turn slows growth*. It usually comes after *which* or after the subject (*this, in turn, …*). It can also mean *one after another* (*each student spoke in turn*), so make the chain clear.",
+      "pattern": "A affects B, which in turn affects C; B, in turn, …",
+      "examples": [
+        "Poor sleep raises stress hormones, which **in turn** increase appetite.",
+        "Faster storage cuts loading time; this, **in turn**, keeps the GPUs busy.",
+        "Her old professor mentored her, and she, **in turn**, now mentors young scientists."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Warmer winters let more beetles survive, and the beetles {{in turn}} kill more pine trees.",
+        "hint": "marks the next step of a chain of effects (two words; not *then* or *thus*)"
+      },
+      "related": "*in return* — as an exchange (*help in return*); *consequently* — as a result, more formal; *by turns* — alternately (*by turns funny and sad*)."
+    },
+    {
+      "id": "in-what-follows",
+      "term": "in what follows",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In the rest of this text, from this point on; it points the reader forward.",
+      "usage": "Used in papers, books and long reports, usually at the start of a sentence: *In what follows, we assume that n is large*. It can set a convention for the rest of the text or introduce the next part of the argument. In talks, *from now on* or *in the next few slides* sounds more natural.",
+      "pattern": "In what follows, we + verb…",
+      "examples": [
+        "**In what follows**, all prices are given in 2020 dollars.",
+        "**In what follows**, I argue that the decline of local newspapers has made city governments less accountable.",
+        "**In what follows**, we set the speed of light equal to one."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In what follows}}, we assume that all workers are paid by the hour.",
+        "hint": "points forward to the rest of the text (three words; not *In the following* or *From now on*)"
+      },
+      "mistake": {
+        "wrong": "In the following, we assume that all firms are identical.",
+        "right": "In what follows, we assume that all firms are identical.",
+        "why": "Not wrong, but *In the following* without a noun reads like German *Im Folgenden*; native writers usually say *In what follows* or *Below*."
+      },
+      "related": "*below* — shorter, for a nearby passage; *hereafter* — very formal, for the rest of a text or a defined term; *the following section* — names a specific part."
+    },
+    {
+      "id": "interpret-something-with-caution",
+      "term": "interpret something with caution",
+      "label": "verb phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To be careful about drawing strong conclusions from a result, because of weaknesses such as a small sample or a biased design.",
+      "usage": "Standard in discussion and limitations sections, almost always in the passive: *These results should be interpreted with caution*. Always say why (*given the small sample*), or it sounds like an empty disclaimer. In news and everyday speech, *treat with caution* or *take with a grain of salt* is more common.",
+      "pattern": "X should be interpreted with caution (given / because…)",
+      "examples": [
+        "Because only forty patients took part, these results **should be interpreted with caution**.",
+        "The survey had a low response rate, so the findings **must be interpreted with caution**.",
+        "Early sales figures **should be interpreted with caution**, since many orders came in during the holiday sale."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The trial lasted only six weeks, so its findings {{should be interpreted with caution}}.",
+        "hint": "warning: don't draw strong conclusions (five words, passive; the verb is not *treated*, *viewed* or *read*)"
+      },
+      "related": "*take with a grain of salt* — informal, American; *treat with caution* — similar, more general; *a caveat* — a warning attached to a result."
+    },
+    {
+      "id": "in-recent-years",
+      "term": "in recent years",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "During the last few years, up to now; often used to introduce a recent trend.",
+      "usage": "A very common first phrase in introductions, reports and news: *In recent years, X has become…*. It usually goes with the present perfect, because the period runs up to now. It is also an overused opening, so add a date or a number soon after.",
+      "pattern": "In recent years, + present perfect (*has grown*, *have become*)",
+      "examples": [
+        "**In recent years**, e-bikes have become a common sight in American cities.",
+        "**In recent years**, deep learning has changed how radiologists analyze medical images.",
+        "The neighborhood has changed a lot **in recent years**; half the old shops are gone."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In recent years}}, more and more people have started working from home at least once a week.",
+        "hint": "time frame running up to the present (three words; not *Lately*, *Recently* or *Over the past decade*)"
+      },
+      "mistake": {
+        "wrong": "In recent years, the number of electric cars increased sharply.",
+        "right": "In recent years, the number of electric cars has increased sharply.",
+        "why": "Because the period runs up to the present, the present perfect is the normal tense; the simple past makes it sound like a closed period."
+      },
+      "related": "*recently* — one word, more neutral; *lately* — informal, for things still going on; *over the past decade* — more precise."
+    },
+    {
+      "id": "in-practice",
+      "term": "in practice",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In real situations, as opposed to what should happen in theory or according to the rules.",
+      "usage": "Common in papers, meetings and everyday speech, often after a statement about theory or rules: *In theory, the method scales linearly; in practice, memory is the bottleneck*. It points to what really happens. Don't confuse it with *a practice* (a doctor's or lawyer's business) or *practice* as training (*soccer practice*).",
+      "pattern": "In theory, X. In practice, Y.",
+      "examples": [
+        "In theory, the trains run every ten minutes; **in practice**, you can wait half an hour.",
+        "The algorithm is exponential in the worst case but runs fast **in practice**.",
+        "The new rule sounds strict, but **in practice** few doctors have changed how they prescribe."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The law says landlords must fix the heating within a day, but {{in practice}} tenants often wait for weeks.",
+        "hint": "contrast with what the rules say (two words; not *in reality* or *in real life*)"
+      },
+      "mistake": {
+        "wrong": "In the practice, most users never change the default settings.",
+        "right": "In practice, most users never change the default settings.",
+        "why": "The phrase has no article; *in the practice* copies German *in der Praxis*."
+      },
+      "related": "*in theory* — the contrast; *in reality* — similar, a bit stronger; *put into practice* — start using an idea or plan."
+    },
+    {
+      "id": "not-surprisingly",
+      "term": "not surprisingly",
+      "label": "sentence adverb",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "As one would expect; introduces a result or fact that is no surprise, given what came before.",
+      "usage": "Common in papers, journalism and speech, usually at the start of a sentence: *Not surprisingly, the larger model performs better*. It tells the reader that a result confirms expectations, so use it for the expected result and save attention for the surprising one. *Unsurprisingly* is the one-word equivalent.",
+      "examples": [
+        "**Not surprisingly**, the larger model performs better on long documents.",
+        "**Not surprisingly**, ticket prices went up as soon as the band announced its last tour.",
+        "Patients who missed more doses were, **not surprisingly**, less likely to recover fully."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After a week of heavy rain, the river was, {{not surprisingly}}, well above its normal level.",
+        "hint": "signals an expected result (two words, starting with a negative; not *of course* or *as expected*)"
+      },
+      "related": "*unsurprisingly* — same, one word; *as expected* — more neutral; *predictably* — can sound critical or ironic."
+    },
+    {
+      "id": "be-proportional-to",
+      "term": "be proportional to",
+      "label": "adjective + preposition",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To change at the same rate as another quantity: if one doubles, the other doubles too.",
+      "usage": "Standard in math, physics and engineering, and in formal writing about fair shares (*fees proportional to income*). *Directly proportional to* stresses that both go up together; *inversely proportional to* means one rises as the other falls. The preposition is always *to*.",
+      "pattern": "Y is (directly / inversely / roughly) proportional to X",
+      "examples": [
+        "The force on the spring **is proportional to** how far it is stretched.",
+        "In this model, memory use **is proportional to** the square of the sequence length.",
+        "In Finland, speeding fines **are** roughly **proportional to** the driver's income."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In an ideal gas at constant volume, the pressure {{is proportional to}} the absolute temperature.",
+        "hint": "math relation: doubles when the other doubles (three words; not *depends on* or *scales with*)"
+      },
+      "related": "*scale with* — informal, grow along with; *inversely proportional to* — one goes up as the other goes down; *in proportion to* — prepositional phrase (*paid in proportion to hours worked*)."
+    },
+    {
+      "id": "up-to-50",
+      "term": "up to (50%)",
+      "spoken_term": "up to fifty percent",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "As much as the stated amount: the maximum, not the typical value.",
+      "usage": "Common in abstracts, product claims and news: *up to 3x faster*, *discounts of up to 50%*. It reports the best case, so careful readers and reviewers will ask for the average too; give both if you can. For a range, write *between 20 and 50 percent*.",
+      "pattern": "up to + number (+ faster / more / percent)",
+      "examples": [
+        "The new caching layer makes queries **up to** three times faster.",
+        "The store is offering discounts of **up to** fifty percent on winter coats.",
+        "The power company says that insulating your attic can cut heating bills by **up to** a quarter."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In heavy traffic, the trip to the airport can take {{up to}} two hours.",
+        "hint": "the maximum, not the typical time (two words; not *until* or *at most*)"
+      },
+      "mistake": {
+        "wrong": "The new battery lasts until 50% longer.",
+        "right": "The new battery lasts up to 50% longer.",
+        "why": "*Until* is only for time; German *bis zu* becomes *up to* for amounts."
+      },
+      "related": "*as much as* — similar, stresses the large size; *at most* — the upper limit, more neutral; *on average* — the typical value, which readers also want."
+    },
+    {
+      "id": "computationally-expensive",
+      "term": "computationally expensive",
+      "label": "adverb + adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Needing a lot of computing time, memory or energy to run.",
+      "usage": "Standard in CS, physics, engineering and statistics papers and in tech talk: *exact inference is computationally expensive*. In speech, engineers often just say *expensive* (*that loop is really expensive*), meaning slow, not costly in money. *Computationally intensive* and *computationally costly* are close variants.",
+      "pattern": "computationally expensive / intensive / costly; too computationally expensive to + verb",
+      "examples": [
+        "Simulating every molecule in the cell would be far too **computationally expensive**.",
+        "Weather models are **computationally expensive**, so forecasters run them on large supercomputers.",
+        "Rendering a single frame of the animated film was so **computationally expensive** that it took hours."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Searching every possible move is {{computationally expensive}}, so chess engines prune the search tree.",
+        "hint": "describes heavy demands on processing time and memory (two words; not *…intensive* or *…costly*)"
+      },
+      "related": "*computationally cheap* — the opposite; *resource-intensive* — needing much time, money or hardware; *scale poorly* — get much slower as the problem grows."
+    },
+    {
+      "id": "state-of-the-art",
+      "term": "state-of-the-art",
+      "label": "adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˌsteɪt əv ði ˈɑrt/",
+      "meaning": "The most advanced or best currently available; as a noun phrase, *the state of the art* is the current best level of a field.",
+      "usage": "Everywhere in tech, medicine and ML: *state-of-the-art results*, *a state-of-the-art hospital*. Hyphenate it before a noun, but not as a noun phrase: *we advance the state of the art*. ML researchers often say *SOTA*, but reviewers prefer a concrete comparison with named methods to the bare claim.",
+      "pattern": "state-of-the-art + noun; the state of the art in + field",
+      "examples": [
+        "The hospital just opened a **state-of-the-art** cancer center with its own imaging lab.",
+        "Our method sets a new **state of the art** on three translation benchmarks.",
+        "The stadium's **state-of-the-art** sound system cost more than the scoreboard."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new lab is equipped with {{state-of-the-art}} microscopes that can image single molecules.",
+        "hint": "describes the newest, most advanced kind (four hyphenated words; not *cutting-edge* or *top-of-the-line*)"
+      },
+      "mistake": {
+        "wrong": "Our model outperforms the state-of-the-arts on all tasks.",
+        "right": "Our model outperforms state-of-the-art methods on all tasks.",
+        "why": "*State of the art* names one level, so it has no plural; as an adjective it needs a noun such as *methods*."
+      },
+      "related": "*cutting-edge* — newest, a bit more promotional; *leading-edge* — similar; *SOTA* — informal ML shorthand for the best published result."
+    }
+  ]
+}

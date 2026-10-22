@@ -1,0 +1,697 @@
+{
+  "topic_id": "b2-10-modalsaetze",
+  "level": "B2",
+  "title_de": "Modalsätze (indem, dadurch dass, ohne dass …)",
+  "title_en": "Clauses of manner and means (indem, dadurch dass, ohne dass …)",
+  "rule": {
+    "summary": "Modalsätze answer the question *wie?* or *auf welche Weise?*. **indem** and **dadurch, dass** name the means or method (English *by …-ing*); **ohne dass** / **ohne … zu** say that an expected accompanying action does not happen (*without …-ing*); **(an)statt dass** / **(an)statt … zu** name an expected action that is replaced by another one (*instead of …-ing*). All of them are Nebensätze with the finite verb at the end. *ohne* and *(an)statt* also have an infinitive form with *zu*, which is preferred when both clauses have the same subject.",
+    "table": "| Konnektor | Funktion | Subjekte | Beispiel |\n|---|---|---|---|\n| **indem** | Mittel (by …-ing) | gleich oder verschieden | Sie spart Geld, **indem** sie selbst kocht. |\n| **dadurch, dass** | Mittel / Ursache, auch bei Zuständen | gleich oder verschieden | Er ist **dadurch** bekannt geworden, **dass** er einen Blog schrieb. |\n| **ohne dass** | fehlender Begleitumstand | meist verschieden | Er ging, **ohne dass** ihn jemand sah. |\n| **ohne … zu** | fehlender Begleitumstand | gleich | Er ging, **ohne** sich um**zu**drehen. |\n| **(an)statt dass** | Ersatz (instead of) | meist verschieden | **Statt dass** du hilfst, schaust du zu. |\n| **(an)statt … zu** | Ersatz (instead of) | gleich | **Statt** auf**zu**räumen, schläft er. |",
+    "steps": [
+      "Ask what the clause does: does it name the method (*by …-ing*)? → **indem** or **dadurch, dass**. Does an expected action not happen? → **ohne**. Is one action replaced by another? → **(an)statt**.",
+      "Choose between *indem* and *dadurch, dass*: *indem* needs a main clause in which someone does something (an action or a result someone brings about). If the main clause is a state or an event, or if you want to stress the cause, use **dadurch, dass**; *dadurch* can also stand in the main clause (*Er hat es dadurch geschafft, dass …*).",
+      "For *ohne* and *(an)statt*, compare the subjects: same subject → infinitive phrase **ohne/(an)statt … zu** + infinitive at the end (no subject). Different subjects → only **ohne dass / (an)statt dass** + full Nebensatz. *indem* and *dadurch, dass* have no infinitive form.",
+      "Build the Nebensatz: conjunction – subject – Mittelfeld – finite verb at the end (*indem sie jeden Tag übt*). Separable verbs stay joined (*indem er das Licht ausmacht*); in the infinitive, *zu* goes between prefix and stem (*ohne anzurufen*).",
+      "If the Nebensatz or the infinitive phrase comes first, it fills position 1: the main clause continues with the finite verb (*Indem man früh aufsteht, gewinnt man Zeit.*). Always separate the clauses with a comma."
+    ],
+    "pitfalls": [
+      "Writing *in dem* for the conjunction: ✗ *Sie lernt, in dem sie übt.* → ✓ *Sie lernt, indem sie übt.* *in dem* (two words) is a preposition + article or relative pronoun (*das Haus, in dem ich wohne*).",
+      "Using an infinitive with *indem* (English *by doing*): ✗ *indem zu üben* → ✓ *indem sie übt*. Only *ohne* and *(an)statt* can take *zu* + infinitive.",
+      "Using *ohne … zu* with two different subjects: ✗ *Er ging, ohne seine Frau es zu merken.* → ✓ *Er ging, ohne dass seine Frau es merkte.*",
+      "Adding *nicht* after *ohne*: ✗ *Er ging, ohne dass ihn niemand sah.* → ✓ *Er ging, ohne dass ihn jemand sah.* *ohne* already negates the clause.",
+      "Mixing *dadurch* with *indem*: ✗ *Sie hat dadurch Geld gespart, indem sie selbst kochte.* → ✓ *Sie hat dadurch Geld gespart, dass sie selbst kochte.* or *Sie hat Geld gespart, indem sie selbst kochte.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich lerne Deutsch, {{c1::indem::Mittel}} ich jeden Tag übe.",
+      "en": "I learn German by practising every day.",
+      "focus": "Mittel (wie?) · Nebensatz nachgestellt",
+      "explanation": "The Nebensatz answers *Wie lerne ich Deutsch?* and names the method, so it starts with **indem**. After the conjunction come the subject *ich* and the Mittelfeld (*jeden Tag*); the finite verb *übe* goes to the end. The same subject in both clauses is normal with *indem*.",
+      "pattern": "Hauptsatz, indem + Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Ich lerne Deutsch, indem ich übe jeden Tag.", "why": "*indem* introduces a Nebensatz, so the finite verb must stand at the very end: *indem ich jeden Tag übe*."},
+      "examples": [
+        {"de": "Er hält sich fit, indem er jeden Morgen joggt.", "en": "He keeps fit by jogging every morning."},
+        {"de": "Wir sparen Heizkosten, indem wir nachts die Temperatur senken.", "en": "We save on heating costs by lowering the temperature at night."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie hat abgenommen, {{c1::indem::Mittel}} sie weniger gegessen hat.",
+      "en": "She lost weight by eating less.",
+      "focus": "Mittel · Perfekt im Nebensatz",
+      "explanation": "*weniger essen* is the method that led to the result *abgenommen* → **indem**. In the Perfekt the Partizip II comes first and the auxiliary last: *gegessen hat*. English uses *by + -ing*, but German needs a full clause with its own subject *sie* and a finite verb.",
+      "pattern": "Hauptsatz (Perfekt), indem + … + Partizip II + hat",
+      "mistake": {"wrong": "Sie hat abgenommen, indem weniger zu essen.", "why": "*indem* has no infinitive form. Unlike *ohne … zu* and *statt … zu*, it always needs a subject and a finite verb: *indem sie weniger gegessen hat*."},
+      "examples": [
+        {"de": "Er hat seine Schulden abbezahlt, indem er zwei Jahre lang sparsam gelebt hat.", "en": "He paid off his debts by living frugally for two years."},
+        {"de": "Die Stadt hat den Verkehr reduziert, indem sie die Busse kostenlos gemacht hat.", "en": "The city has reduced traffic by making the buses free."}
+      ],
+      "words": [{"de": "abnehmen", "en": "to lose weight"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er ist erfolgreich, {{c1::dadurch dass::Mittel/Ursache · 2 Wörter}} er hart arbeitet.",
+      "en": "He is successful through working hard.",
+      "focus": "Mittel/Ursache · Hauptsatz mit Zustand",
+      "explanation": "The main clause *Er ist erfolgreich* describes a state, not an action. **dadurch dass** fits a state, because it expresses the means and the cause at the same time; *indem* needs an action in the main clause. Placed together after the comma, *dadurch dass* works like one conjunction, and *arbeitet* goes to the end.",
+      "pattern": "Hauptsatz (Zustand), dadurch dass + … + Verb (Ende)",
+      "mistake": {"wrong": "Er ist erfolgreich, dadurch er hart arbeitet.", "why": "*dadurch* alone is an adverb and cannot introduce a Nebensatz. The conjunction needs *dass*: *dadurch dass er hart arbeitet*."},
+      "examples": [
+        {"de": "Die Wohnung ist günstig, dadurch dass sie weit außerhalb liegt.", "en": "The flat is cheap because it is far out of town."},
+        {"de": "Das Medikament ist gut verträglich, dadurch dass es pflanzlich ist.", "en": "The medicine is well tolerated because it is plant-based."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie ging weg, {{c1::ohne dass::'without' · anderes Subjekt}} jemand es bemerkte.",
+      "en": "She left without anyone noticing.",
+      "focus": "fehlender Begleitumstand · anderes Subjekt",
+      "explanation": "The Nebensatz says what did *not* happen at the same time: nobody noticed. The subjects differ (*sie* – *jemand*), so the infinitive form *ohne … zu* is impossible; you need **ohne dass** + Nebensatz with *bemerkte* at the end. There is no *nicht*: *ohne* already carries the negation.",
+      "pattern": "Hauptsatz, ohne dass + anderes Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Sie ging weg, ohne jemand es zu bemerken.", "why": "*ohne … zu* only works when both clauses have the same subject. Here the subject changes from *sie* to *jemand*, so it must be *ohne dass jemand es bemerkte*."},
+      "examples": [
+        {"de": "Der Zug fuhr ab, ohne dass eine Durchsage kam.", "en": "The train left without any announcement being made."},
+        {"de": "Er hat das Auto genommen, ohne dass seine Eltern davon wussten.", "en": "He took the car without his parents knowing about it."}
+      ],
+      "words": [{"de": "bemerken", "en": "to notice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Statt dass::'instead of' · Nebensatz · kurze Form}} er schläft, arbeitet er die ganze Nacht.",
+      "en": "Instead of sleeping, he's working all night.",
+      "focus": "Ersatz · Nebensatz im Vorfeld",
+      "explanation": "The Nebensatz names the expected action (*schlafen*) that is replaced by another one (*arbeiten*). It stands in position 1, so the main clause starts with the finite verb: *arbeitet er*. Both clauses have the subject *er*, so the infinitive version *Statt zu schlafen, arbeitet er …* is more common; **statt dass** is still correct. Also correct here: *Anstatt dass* (the long form, same meaning, a little more formal).",
+      "pattern": "Statt dass + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Statt dass er schläft, er arbeitet die ganze Nacht.", "why": "The whole Nebensatz fills position 1, so the finite verb *arbeitet* must come directly after the comma, before the subject."},
+      "examples": [
+        {"de": "Statt dass sie sich ausruht, putzt sie die ganze Wohnung.", "en": "Instead of resting, she cleans the whole flat."},
+        {"de": "Statt dass er für die Prüfung lernt, spielt er stundenlang am Handy.", "en": "Instead of studying for the exam, he plays on his phone for hours."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Du verbesserst dein Deutsch, {{c1::indem::Mittel}} du Bücher liest.",
+      "en": "You improve your German by reading books.",
+      "focus": "Mittel · du-Form",
+      "explanation": "**indem** names the method of improving. In the Nebensatz the subject *du* comes right after the conjunction, and the finite verb goes to the end. *lesen* changes its vowel in the du-form: du **liest**.",
+      "pattern": "Hauptsatz, indem + du + … + Verb (Ende)",
+      "mistake": {"wrong": "Du verbesserst dein Deutsch, in dem du Bücher liest.", "why": "*in dem* (two words) is a preposition + article or relative pronoun (*das Buch, in dem …*). The conjunction of means is written as one word: *indem*."},
+      "examples": [
+        {"de": "Du lernst neue Wörter schneller, indem du sie laut wiederholst.", "en": "You learn new words faster by repeating them out loud."},
+        {"de": "Du entlastest deinen Rücken, indem du öfter aufstehst.", "en": "You take the strain off your back by standing up more often."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie hat es geschafft, {{c1::indem::Mittel}} sie nie aufgegeben hat.",
+      "en": "She made it by never giving up.",
+      "focus": "Mittel · trennbares Verb im Perfekt",
+      "explanation": "**indem** introduces the method that led to success. The separable verb *aufgeben* forms the Partizip II *aufgegeben*, and the auxiliary *hat* follows it at the end of the Nebensatz. The negation *nie* stands in the Mittelfeld, before the verbs.",
+      "pattern": "Hauptsatz, indem + … + nie + Partizip II + hat",
+      "mistake": {"wrong": "Sie hat es geschafft, indem sie hat nie aufgegeben.", "why": "In a Nebensatz the auxiliary does not stay in second position. Both verbs go to the end, auxiliary last: *indem sie nie aufgegeben hat*."},
+      "examples": [
+        {"de": "Er hat die Prüfung bestanden, indem er alte Klausuren durchgearbeitet hat.", "en": "He passed the exam by working through old exam papers."},
+        {"de": "Sie hat den Streit beendet, indem sie sich als Erste entschuldigt hat.", "en": "She ended the argument by being the first to apologise."}
+      ],
+      "words": [{"de": "es schaffen", "en": "to make it, to manage"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Indem::Mittel}} man früh aufsteht, gewinnt man Zeit.",
+      "en": "By getting up early, you gain time.",
+      "focus": "Mittel · Nebensatz im Vorfeld · *man*",
+      "explanation": "The **indem** clause stands in position 1 of the whole sentence. The main clause therefore starts with the finite verb *gewinnt*, followed by the subject *man* (pattern: verb – comma – verb). In the Nebensatz the separable verb stays joined at the end: *aufsteht*.",
+      "pattern": "Indem + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Indem man früh aufsteht, man gewinnt Zeit.", "why": "A Nebensatz in front counts as position 1. The finite verb *gewinnt* must come next, so the subject *man* moves behind it."},
+      "examples": [
+        {"de": "Indem man regelmäßig lüftet, verhindert man Schimmel.", "en": "By airing the room regularly, you prevent mould."},
+        {"de": "Indem man Fahrgemeinschaften bildet, spart man Benzin.", "en": "By sharing car journeys, you save petrol."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er hat alle überrascht, {{c1::dadurch dass::Mittel/Ursache · 2 Wörter}} er die Wahrheit sagte.",
+      "en": "He surprised everyone by telling the truth.",
+      "focus": "Mittel/Ursache · Präteritum im Nebensatz",
+      "explanation": "Telling the truth is both the way he surprised people and the cause of the surprise. **dadurch dass** stresses this cause–effect link; *indem* is also possible here, because the main clause is an action. The Nebensatz uses the Präteritum *sagte*, while the main clause is in the Perfekt; this mix is common. Also correct here: *indem* (neutral; it names only the method, without stressing the cause).",
+      "pattern": "Hauptsatz, dadurch dass + … + Verb (Ende)",
+      "mistake": {"wrong": "Er hat alle überrascht, durch dass er die Wahrheit sagte.", "why": "*durch* is a preposition and cannot be combined with *dass*. The conjunction is *dadurch dass* (or split: *dadurch …, dass*)."},
+      "examples": [
+        {"de": "Sie hat das Team motiviert, dadurch dass sie selbst mitgearbeitet hat.", "en": "She motivated the team by working alongside them herself."},
+        {"de": "Der Politiker hat viele Stimmen verloren, dadurch dass er seine Versprechen gebrochen hat.", "en": "The politician lost many votes by breaking his promises."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir vertrieben uns auf der Reise die Zeit, {{c1::indem::Mittel}} wir viel lasen.",
+      "en": "We passed the time on the journey by reading a lot.",
+      "correction": "The old sentence was *Die Reise verging schnell, indem wir viel sahen.* *vergehen* is an event that nobody does, so it cannot have a means, and *indem* did not fit. The main clause was rewritten with an action (*sich die Zeit vertreiben*); the cloze answer *indem* is unchanged.",
+      "focus": "Mittel · Präteritum · Handlung im Hauptsatz",
+      "explanation": "*sich die Zeit vertreiben* (to pass the time) is something *wir* do on purpose, and *viel lesen* is the method → **indem**. Both verbs are in the Präteritum; in the Nebensatz *lasen* goes to the end. A main clause without an agent (*Die Reise verging schnell*) does not fit *indem*.",
+      "pattern": "Hauptsatz (Handlung), indem + … + Verb (Ende)",
+      "mistake": {"wrong": "Die Reise verging schnell, indem wir viel lasen.", "why": "*vergehen* is not an action, so it cannot have a method. Use a causal clause (*…, weil wir viel lasen*) or keep *indem* with an agent in the main clause."},
+      "examples": [
+        {"de": "Die Kinder vertrieben sich die Wartezeit, indem sie Karten spielten.", "en": "The children passed the waiting time by playing cards."},
+        {"de": "Wir hielten uns im Zelt warm, indem wir eng zusammenrückten.", "en": "We kept warm in the tent by moving close together."}
+      ],
+      "words": [{"de": "sich (Dat.) die Zeit vertreiben", "en": "to pass the time"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir können Energie sparen, {{c1::indem::Mittel}} wir das Licht ausmachen.",
+      "en": "We can save energy by switching off the lights.",
+      "focus": "Mittel · Modalverb im Hauptsatz",
+      "explanation": "The main clause has a modal verb (*können* + infinitive *sparen*); the **indem** clause says how this is possible. In the Nebensatz the separable verb *ausmachen* is not split, because the finite verb goes to the end: *wir das Licht ausmachen*.",
+      "pattern": "Modalverb + … + Infinitiv, indem + … + trennbares Verb (Ende)",
+      "mistake": {"wrong": "Wir können Energie sparen, indem wir machen das Licht aus.", "why": "The split *machen … aus* belongs in a main clause. In the Nebensatz the verb goes to the end and is written as one word: *ausmachen*."},
+      "examples": [
+        {"de": "Wir können Plastik vermeiden, indem wir eigene Taschen mitbringen.", "en": "We can avoid plastic by bringing our own bags."},
+        {"de": "Man kann Wasser sparen, indem man kürzer duscht.", "en": "You can save water by taking shorter showers."}
+      ],
+      "words": [{"de": "ausmachen", "en": "to switch off"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Indem::Mittel}} sie viel reiste, lernte sie viele Kulturen kennen.",
+      "en": "By travelling a lot, she got to know many cultures.",
+      "focus": "Mittel · Präteritum · Nebensatz im Vorfeld",
+      "explanation": "The **indem** clause in position 1 names the means; the main clause continues with the finite verb *lernte*, then the subject *sie*. In the main clause *kennenlernen* is split (*lernte … kennen*); in the Nebensatz *reiste* stands at the end.",
+      "pattern": "Indem + … + Verb, + finites Verb + Subjekt … + Präfix",
+      "mistake": {"wrong": "Indem sie reiste viel, lernte sie viele Kulturen kennen.", "why": "Inside the *indem* clause the finite verb must be last: *indem sie viel reiste*."},
+      "examples": [
+        {"de": "Indem er im Ausland arbeitete, sammelte er wertvolle Erfahrungen.", "en": "By working abroad, he gained valuable experience."},
+        {"de": "Indem sie jeden Abend Nachrichten hörte, verbesserte sie ihr Hörverstehen.", "en": "By listening to the news every evening, she improved her listening comprehension."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Er beendete das Gespräch, {{c1::ohne dass::'without' · neues Subjekt}} sie es merkte.",
+      "en": "He ended the conversation without her noticing.",
+      "focus": "fehlender Begleitumstand · Subjektwechsel",
+      "explanation": "There are two subjects: *er* ends the conversation, *sie* does not notice. That requires **ohne dass**; *ohne es zu merken* would mean that *he* did not notice. English *without her noticing* has no German *-ing* equivalent: the subject *sie* and the finite verb *merkte* must be written out.",
+      "pattern": "Hauptsatz, ohne dass + anderes Subjekt + … + Verb (Ende)",
+      "mistake": {"wrong": "Er beendete das Gespräch, ohne dass sie es nicht merkte.", "why": "*ohne dass* already contains the negation. An extra *nicht* creates a double negation and changes the meaning."},
+      "examples": [
+        {"de": "Die Kollegin verließ den Raum, ohne dass der Chef es sah.", "en": "The colleague left the room without the boss seeing it."},
+        {"de": "Sie änderten den Plan, ohne dass die Mitglieder abstimmen konnten.", "en": "They changed the plan without the members being able to vote."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie wurde reich, {{c1::indem::Mittel}} sie klug investierte.",
+      "en": "She got rich by investing wisely.",
+      "focus": "Mittel · Hauptsatz mit *werden*",
+      "explanation": "*reich werden* is a result she brought about, and *klug investieren* is how she did it → **indem**. *klug* is used as an adverb and has no ending. The Präteritum of the regular verb *investieren* (*investierte*) closes the Nebensatz.",
+      "pattern": "Hauptsatz (Ergebnis), indem + … + Verb (Ende)",
+      "mistake": {"wrong": "Sie wurde reich, damit sie klug investierte.", "why": "*damit* expresses a purpose (*so that*). Investing wisely is the method, not the goal, so the conjunction is *indem*."},
+      "examples": [
+        {"de": "Er wurde bekannt, indem er witzige Videos drehte.", "en": "He became famous by making funny videos."},
+        {"de": "Das Start-up erschloss schnell neue Märkte, indem es früh internationale Partner suchte.", "en": "The start-up quickly opened up new markets by looking for international partners early on."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Indem::Mittel}} du übst, wirst du besser.",
+      "en": "By practising, you get better.",
+      "focus": "Mittel · kurzer Nebensatz im Vorfeld",
+      "explanation": "A short **indem** clause in position 1: *üben* is the method, *besser werden* the result. Because the Nebensatz fills the Vorfeld, *wirst* follows the comma directly and *du* comes after it.",
+      "pattern": "Indem + Subjekt + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Indem du übst, du wirst besser.", "why": "After a Nebensatz in position 1 the finite verb comes first in the main clause: *wirst du besser*."},
+      "examples": [
+        {"de": "Indem du laut liest, trainierst du die Aussprache.", "en": "By reading aloud, you train your pronunciation."},
+        {"de": "Indem du Pausen machst, bleibst du konzentriert.", "en": "By taking breaks, you stay focused."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er gewann das Spiel, {{c1::dadurch dass::Mittel/Ursache · 2 Wörter}} er konzentriert blieb.",
+      "en": "He won the match by staying focused.",
+      "focus": "Mittel/Ursache · Zustand im Nebensatz",
+      "explanation": "*konzentriert bleiben* is the reason he won and the way he won. **dadurch dass** works well, because the Nebensatz describes a state (*bleiben*), not an active step. The conjunction can also be split: *Er gewann das Spiel dadurch, dass er konzentriert blieb.* Also correct here: *indem* (possible because *gewann* is an action; it names only the method).",
+      "pattern": "Hauptsatz, dadurch dass + … + Verb (Ende)",
+      "mistake": {"wrong": "Er gewann das Spiel, sodass er konzentriert blieb.", "why": "*sodass* introduces a consequence. Staying focused is the cause of the win, not its result, so the sentence needs *dadurch dass*."},
+      "examples": [
+        {"de": "Sie bekam die Stelle, dadurch dass sie fließend Chinesisch sprach.", "en": "She got the job because she spoke fluent Chinese."},
+        {"de": "Wir erreichten den Anschlusszug, dadurch dass er Verspätung hatte.", "en": "We caught the connecting train because it was delayed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Statt dass::'instead of' · Nebensatz · kurze Form}} ich anrufe, schicke ich eine E-Mail.",
+      "en": "Instead of calling, I'll send an email.",
+      "focus": "Ersatz · gleiches Subjekt",
+      "explanation": "Both clauses have the subject *ich*, so *Statt anzurufen, schicke ich eine E-Mail* is the more natural version, but **statt dass** is grammatically correct. In the Nebensatz the separable verb *anrufen* stays joined at the end. In the infinitive version *zu* goes between prefix and stem: *anzurufen*. Also correct here: *Anstatt dass* (the long form, same meaning, a little more formal).",
+      "pattern": "Statt dass + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Statt zu anrufen, schicke ich eine E-Mail.", "why": "With a separable verb, *zu* stands between the prefix and the stem and is written in one word: *Statt anzurufen*."},
+      "examples": [
+        {"de": "Statt dass wir ein Taxi nehmen, gehen wir zu Fuß.", "en": "Instead of taking a taxi, we'll walk."},
+        {"de": "Statt dass ich heute koche, bestellen wir Pizza.", "en": "Instead of me cooking today, we'll order pizza."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir lernen schneller, {{c1::indem::Mittel}} wir aktiv mitmachen.",
+      "en": "We learn faster by actively taking part.",
+      "focus": "Mittel · trennbares Verb am Ende",
+      "explanation": "**indem** names the method that makes learning faster. In the Nebensatz *mitmachen* stays joined at the end; in a main clause it would be split (*Wir machen aktiv mit*). *aktiv* is an adverb here and has no ending.",
+      "pattern": "Hauptsatz, indem + … + trennbares Verb (Ende)",
+      "mistake": {"wrong": "Wir lernen schneller, indem wir aktiv machen mit.", "why": "A separable verb is not split in a Nebensatz. The finite verb goes to the end as one word: *mitmachen*."},
+      "examples": [
+        {"de": "Wir verstehen den Stoff besser, indem wir im Seminar nachfragen.", "en": "We understand the material better by asking questions in the seminar."},
+        {"de": "Die Gruppe kommt schneller voran, indem alle mitarbeiten.", "en": "The group makes faster progress by everyone working together."}
+      ],
+      "words": [{"de": "mitmachen", "en": "to take part, to join in"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Sie löste das Problem, {{c1::indem::Mittel}} sie alle Optionen prüfte.",
+      "en": "She solved the problem by checking all the options.",
+      "focus": "Mittel · Objekt im Nebensatz",
+      "explanation": "*das Problem lösen* is the result, *alle Optionen prüfen* the method → **indem**. Inside the Nebensatz the object *alle Optionen* stands in the Mittelfeld and *prüfte* closes the clause. In nominal style this would be *durch die Prüfung aller Optionen*.",
+      "pattern": "Hauptsatz, indem + Subjekt + Objekt + Verb (Ende)",
+      "mistake": {"wrong": "Sie löste das Problem, um alle Optionen zu prüfen.", "why": "*um … zu* expresses a purpose (*in order to*). Checking the options was the method, not the goal, so the sentence needs *indem*."},
+      "examples": [
+        {"de": "Er reparierte das Fahrrad, indem er die Kette ersetzte.", "en": "He repaired the bike by replacing the chain."},
+        {"de": "Die Forscherin bestätigte die Hypothese, indem sie das Experiment wiederholte.", "en": "The researcher confirmed the hypothesis by repeating the experiment."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Indem::Mittel}} er Sport macht, bleibt er gesund.",
+      "en": "By doing sport, he stays healthy.",
+      "focus": "Mittel · Nebensatz im Vorfeld · *bleiben*",
+      "explanation": "The **indem** clause in position 1 says how he stays healthy. The finite verb *bleibt* follows the comma directly, then the subject *er*. *Sport machen* is a fixed verb–noun combination: in the Nebensatz *Sport* stands just before *macht*.",
+      "pattern": "Indem + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Indem er macht Sport, bleibt er gesund.", "why": "*indem* sends the finite verb to the end of its clause: *indem er Sport macht*."},
+      "examples": [
+        {"de": "Indem sie viel Wasser trinkt, beugt sie Kopfschmerzen vor.", "en": "By drinking a lot of water, she prevents headaches."},
+        {"de": "Indem er jeden Tag spazieren geht, baut er Stress ab.", "en": "By going for a walk every day, he reduces stress."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Er verließ die Sitzung, {{c1::ohne::Fehlen}} sich zu verabschieden.",
+      "en": "He left the meeting without saying goodbye.",
+      "focus": "fehlender Begleitumstand · gleiches Subjekt · Infinitiv",
+      "explanation": "Leaving and (not) saying goodbye have the same subject *er*, so German uses the short form **ohne … zu** + infinitive at the end instead of *ohne dass er sich verabschiedete*. The reflexive pronoun *sich* stays inside the infinitive phrase. English *without saying* becomes *ohne … zu* + infinitive, never a bare infinitive.",
+      "pattern": "Hauptsatz, ohne + … + zu + Infinitiv",
+      "mistake": {"wrong": "Er verließ die Sitzung, ohne sich verabschieden.", "why": "*ohne* + infinitive always needs *zu*: *ohne sich zu verabschieden*."},
+      "examples": [
+        {"de": "Sie stieg ins Auto, ohne sich anzuschnallen.", "en": "She got into the car without putting on her seatbelt."},
+        {"de": "Er antwortete, ohne lange nachzudenken.", "en": "He answered without thinking for long."}
+      ],
+      "words": [{"de": "sich verabschieden", "en": "to say goodbye"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Anstatt::Ersatz · lange Form}} mit dem Auto zu fahren, nimmt sie jeden Tag das Fahrrad.",
+      "en": "Instead of driving, she takes her bike every day.",
+      "focus": "Ersatz · gleiches Subjekt · Infinitiv im Vorfeld",
+      "explanation": "*mit dem Auto fahren* is the expected action that she replaces. The subject is the same (*sie*), so **anstatt … zu** + infinitive is used. The infinitive phrase in position 1 counts as one part, so the finite verb *nimmt* comes right after the comma. *statt* and *anstatt* mean the same; *anstatt* is slightly more formal.",
+      "pattern": "Anstatt + … + zu + Infinitiv, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Anstatt mit dem Auto fahren, nimmt sie jeden Tag das Fahrrad.", "why": "*(an)statt* + infinitive always needs *zu*: *anstatt mit dem Auto zu fahren*."},
+      "examples": [
+        {"de": "Anstatt Fleisch zu kaufen, probiert er vegetarische Rezepte aus.", "en": "Instead of buying meat, he tries out vegetarian recipes."},
+        {"de": "Anstatt sich zu beschweren, sucht sie eine Lösung.", "en": "Instead of complaining, she looks for a solution."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Firma hat {{c1::dadurch::Korrelat}} viel Geld gespart, dass sie ihre Büroflächen verkleinert hat.",
+      "en": "The company saved a lot of money by reducing its office space.",
+      "focus": "Mittel · getrennte Form mit Korrelat",
+      "explanation": "The two parts of *dadurch dass* can be separated: **dadurch** stands in the Mittelfeld of the main clause, and *dass* starts the Nebensatz after the Satzklammer *hat … gespart*. The split form puts extra stress on the means. The comma then stands before *dass*, not before *dadurch*.",
+      "pattern": "Hauptsatz mit dadurch …, dass + … + Verb (Ende)",
+      "mistake": {"wrong": "Die Firma hat dadurch viel Geld gespart, indem sie ihre Büroflächen verkleinert hat.", "why": "*dadurch* in the main clause must be taken up by *dass*. *dadurch …, indem* mixes two conjunctions; standard German uses *dadurch …, dass* or only *indem*."},
+      "examples": [
+        {"de": "Er hat sich dadurch verletzt, dass er ohne Aufwärmen trainiert hat.", "en": "He injured himself by training without warming up."},
+        {"de": "Die Kleinstadt wurde dadurch bekannt, dass dort jedes Jahr ein Filmfestival stattfindet.", "en": "The small town became known because a film festival takes place there every year."}
+      ],
+      "words": [{"de": "verkleinern", "en": "to reduce, to make smaller"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der Vertrag wurde verlängert, ohne dass man uns {{c1::gefragt hat::fragen, Perfekt}}.",
+      "en": "The contract was extended without anyone asking us.",
+      "focus": "fehlender Begleitumstand · Verbstellung im Perfekt",
+      "explanation": "The main clause is passive, the Nebensatz has the subject *man* → different subjects → *ohne dass*. In the Perfekt the Partizip II comes first and the auxiliary last: **gefragt hat**. *man … uns* corresponds to English *without anyone asking us*.",
+      "pattern": "Passiv-Hauptsatz, ohne dass + man + … + Partizip II + hat",
+      "mistake": {"wrong": "Der Vertrag wurde verlängert, ohne dass man hat uns gefragt.", "why": "*ohne dass* introduces a Nebensatz, so the auxiliary *hat* must go to the very end, after the Partizip II: *gefragt hat*."},
+      "examples": [
+        {"de": "Die Miete wurde erhöht, ohne dass uns jemand informiert hat.", "en": "The rent was raised without anyone informing us."},
+        {"de": "Das Treffen wurde abgesagt, ohne dass man einen Grund genannt hat.", "en": "The meeting was cancelled without any reason being given."}
+      ],
+      "words": [{"de": "verlängern", "en": "to extend, to renew"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Anstatt dass::'instead of' · Nebensatz · lange Form}} die Regierung die Steuern senkt, steigen die Abgaben weiter.",
+      "en": "Instead of the government cutting taxes, the charges keep rising.",
+      "focus": "Ersatz · Subjektwechsel",
+      "explanation": "The subjects differ (*die Regierung* – *die Abgaben*), so the infinitive form *anstatt … zu* is impossible; only **anstatt dass** + Nebensatz works. The expected development (lower taxes) does not happen, and another one takes its place. The Nebensatz fills position 1, so *steigen* comes right after the comma. Also correct here: *Statt dass* (the short form, same meaning, more common in speech).",
+      "pattern": "Anstatt dass + Subjekt A + … + Verb, + Verb + Subjekt B …",
+      "mistake": {"wrong": "Anstatt die Regierung die Steuern zu senken, steigen die Abgaben weiter.", "why": "*anstatt … zu* has no subject of its own and needs the same subject as the main clause. With a new subject (*die Regierung*) you must use *anstatt dass die Regierung die Steuern senkt*."},
+      "examples": [
+        {"de": "Anstatt dass die Schüler selbst recherchieren, gibt ihnen die Lehrerin alle Antworten.", "en": "Instead of the pupils doing their own research, the teacher gives them all the answers."},
+        {"de": "Anstatt dass die Preise sinken, werden Lebensmittel immer teurer.", "en": "Instead of prices falling, food keeps getting more expensive."}
+      ],
+      "words": [{"de": "die Abgabe (-n)", "en": "levy, charge"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Sie verbesserte ihre Aussprache, indem sie sich beim Sprechen {{c1::aufnahm::aufnehmen, Präteritum}}.",
+      "en": "She improved her pronunciation by recording herself speaking.",
+      "focus": "Mittel · trennbares Verb im Präteritum am Ende",
+      "explanation": "In an *indem* clause the finite verb goes to the end, and a separable verb is then written as one word: main clause *sie nahm sich auf* → Nebensatz *sie sich* **aufnahm**. *sich aufnehmen* here means *to record oneself*. The main clause names the result, the Nebensatz the method.",
+      "pattern": "Hauptsatz, indem + … + Präfix+Verb (Präteritum, Ende)",
+      "mistake": {"wrong": "Sie verbesserte ihre Aussprache, indem sie sich beim Sprechen nahm auf.", "why": "The split *nahm … auf* only occurs in main clauses. In the *indem* clause the verb stands at the end in one word: *aufnahm*."},
+      "examples": [
+        {"de": "Er beruhigte das Baby, indem er ihm leise ein Lied vorsang.", "en": "He calmed the baby by quietly singing it a song."},
+        {"de": "Wir schützten die Pflanzen vor Frost, indem wir sie nachts abdeckten.", "en": "We protected the plants from frost by covering them at night."}
+      ],
+      "words": [{"de": "die Aussprache", "en": "pronunciation"}, {"de": "aufnehmen", "en": "to record"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wie hast du den Fehler gefunden? – {{c1::Indem::Mittel}} ich den Code Zeile für Zeile geprüft habe.",
+      "en": "How did you find the bug? – By checking the code line by line.",
+      "focus": "Antwort auf *wie?* · Nebensatz ohne Hauptsatz",
+      "explanation": "A Modalsatz answers the question *wie?*. In a short answer the **indem** clause can stand alone, without a main clause, like English *By …-ing*. It is still a Nebensatz: subject *ich* after the conjunction, verbs at the end (*geprüft habe*).",
+      "pattern": "Wie …? – Indem + Subjekt + … + Verb(en) (Ende).",
+      "mistake": {"wrong": "Wie hast du den Fehler gefunden? – Indem ich habe den Code Zeile für Zeile geprüft.", "why": "A stand-alone *indem* answer is still a Nebensatz. The auxiliary goes to the end: *Indem ich den Code Zeile für Zeile geprüft habe.*"},
+      "examples": [
+        {"de": "Wie hast du so schnell Spanisch gelernt? – Indem ich ein Jahr in Madrid gewohnt habe.", "en": "How did you learn Spanish so fast? – By living in Madrid for a year."},
+        {"de": "Wie habt ihr die Wohnung gefunden? – Indem wir jeden Tag die Anzeigen gelesen haben.", "en": "How did you find the flat? – By reading the ads every day."}
+      ],
+      "words": [{"de": "der Fehler (-)", "en": "mistake; (IT) bug"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Er hat den Vertrag unterschrieben, ohne ihn genau {{c1::gelesen zu haben::lesen · Vorzeitigkeit}}.",
+      "en": "He signed the contract without having read it carefully.",
+      "focus": "ohne … zu · Infinitiv Perfekt",
+      "explanation": "The reading should have happened *before* the signing, so the infinitive phrase uses the Infinitiv Perfekt: Partizip II + **zu haben** → *gelesen zu haben*. The subject is the same (*er*), so *ohne … zu* is correct. *ihn* refers to *den Vertrag* (masculine Akkusativ).",
+      "pattern": "Hauptsatz, ohne + … + Partizip II + zu haben/sein",
+      "mistake": {"wrong": "Er hat den Vertrag unterschrieben, ohne ihn genau zu gelesen haben.", "why": "In the Infinitiv Perfekt *zu* stands directly before the auxiliary: *gelesen zu haben*, not *zu gelesen haben*."},
+      "examples": [
+        {"de": "Sie hat die Stelle angenommen, ohne das Team kennengelernt zu haben.", "en": "She accepted the job without having met the team."},
+        {"de": "Er ist abgereist, ohne sich bei uns bedankt zu haben.", "en": "He left without having thanked us."}
+      ],
+      "words": [{"de": "unterschreiben", "en": "to sign"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Durch::Mittel · Präposition}} gezielte Werbung hat der Verein viele neue Mitglieder gewonnen.",
+      "en": "Through targeted advertising, the club has gained many new members.",
+      "focus": "Mittel · Nominalstil statt Nebensatz",
+      "explanation": "Instead of a Modalsatz (*indem er gezielt geworben hat*), formal German often uses the preposition **durch** + Akkusativ. *Werbung* is feminine and has no article here, so the adjective takes the strong ending: *gezielte Werbung*. The prepositional phrase fills position 1, and the finite verb *hat* follows.",
+      "pattern": "Durch + Nomen (Akk.) + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Indem gezielte Werbung hat der Verein viele neue Mitglieder gewonnen.", "why": "*indem* is a conjunction and needs a full Nebensatz with subject and verb. In front of a noun phrase use the preposition *durch*."},
+      "examples": [
+        {"de": "Durch den Einsatz neuer Maschinen wurde die Produktion schneller.", "en": "Through the use of new machines, production became faster."},
+        {"de": "Durch tägliches Üben hat sie ihr Ziel erreicht.", "en": "Through daily practice, she reached her goal."}
+      ],
+      "words": [{"de": "gezielt", "en": "targeted"}, {"de": "der Verein (-e)", "en": "club, association"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er hat uns geholfen, ohne dass wir ihn darum gebeten {{c1::hätten::haben → Konj. II}}.",
+      "en": "He helped us without us having asked him to.",
+      "focus": "fehlender Begleitumstand · Konjunktiv II",
+      "explanation": "In *ohne dass* clauses the Konjunktiv II is often used, because the action in the Nebensatz did not actually happen. **hätten** (Konjunktiv II of *haben*) + *gebeten* = Konjunktiv II der Vergangenheit. The Indikativ *gebeten haben* is also correct; the Konjunktiv II sounds more formal. *darum* refers to the request (*jemanden um etwas bitten*).",
+      "pattern": "Hauptsatz, ohne dass + … + Partizip II + hätte(n)",
+      "mistake": {"wrong": "Er hat uns geholfen, ohne wir ihn darum gebeten hätten.", "why": "*ohne* alone cannot introduce a clause with its own subject. A Nebensatz needs *ohne dass*: *ohne dass wir ihn darum gebeten hätten*."},
+      "examples": [
+        {"de": "Sie hat den Fehler korrigiert, ohne dass man es ihr gesagt hätte.", "en": "She corrected the mistake without anyone having told her to."},
+        {"de": "Die Preise stiegen, ohne dass es jemand verhindert hätte.", "en": "Prices rose without anyone having prevented it."}
+      ],
+      "words": [{"de": "jemanden um etwas bitten", "en": "to ask someone for something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Sie hat den Antrag abgeschickt, ohne ihn noch einmal {{c1::durchzulesen::durchlesen}}.",
+      "en": "She sent off the application without reading it through again.",
+      "focus": "ohne … zu · trennbares Verb",
+      "explanation": "Same subject (*sie*) → *ohne … zu* + infinitive. *durchlesen* is separable, so *zu* goes between prefix and stem, all in one word: durch + zu + lesen → **durchzulesen**. The simple infinitive is normal here; the Infinitiv Perfekt *ohne ihn noch einmal durchgelesen zu haben* is also correct and stresses that the reading should have come before the sending.",
+      "pattern": "Hauptsatz, ohne + … + Präfix-zu-Verb",
+      "mistake": {"wrong": "Sie hat den Antrag abgeschickt, ohne ihn noch einmal zu durchlesen.", "why": "With separable verbs *zu* is placed between the prefix and the stem: *durchzulesen*, not *zu durchlesen*."},
+      "examples": [
+        {"de": "Er ist losgefahren, ohne vorher vollzutanken.", "en": "He set off without filling up the tank first."},
+        {"de": "Sie hat die Wohnung verlassen, ohne das Licht auszuschalten.", "en": "She left the flat without switching off the light."}
+      ],
+      "words": [{"de": "der Antrag (¨-e)", "en": "application (form)"}, {"de": "durchlesen", "en": "to read through"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Indem die Zentralbank die Zinsen senkt, {{c1::will::wollen}} sie die Wirtschaft ankurbeln.",
+      "en": "By lowering interest rates, the central bank wants to boost the economy.",
+      "focus": "Nebensatz im Vorfeld · finites Verb im Hauptsatz",
+      "explanation": "The whole *indem* clause is position 1. The finite verb of the main clause, the modal **will**, must come next, followed by the subject *sie*; the infinitive *ankurbeln* closes the Satzklammer. The 3rd person singular of *wollen* is irregular: *sie will* (no ending).",
+      "pattern": "Indem + … + Verb, + Modalverb + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Indem die Zentralbank die Zinsen senkt, sie will die Wirtschaft ankurbeln.", "why": "The *indem* clause already occupies position 1, so the finite verb *will* must come directly after the comma: *…, will sie die Wirtschaft ankurbeln*."},
+      "examples": [
+        {"de": "Indem das Museum seine Öffnungszeiten verlängert, möchte es mehr Berufstätige erreichen.", "en": "By extending its opening hours, the museum wants to reach more working people."},
+        {"de": "Indem die Schule digitale Tafeln anschafft, will sie den Unterricht modernisieren.", "en": "By buying digital whiteboards, the school wants to modernise its teaching."}
+      ],
+      "words": [{"de": "der Zins (-en)", "en": "interest (rate)"}, {"de": "ankurbeln", "en": "to boost, to stimulate"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the difference between the two connectors of means.",
+      "prompt": "When do you use *indem* and when is *dadurch, dass* the better choice?",
+      "answer": "Both name the means. **indem** needs a main clause with an action someone does or a result someone brings about. **dadurch, dass** also works with states, events and causes, and it can be split: *dadurch* in the main clause, *dass* at the start of the Nebensatz.",
+      "explanation": "*Sie überzeugte die Jury, indem …* has an agent who acts, so *indem* fits. *Der Unfall entstand …* is an event with no agent, so only *dadurch, dass* is natural. When both are possible, *dadurch, dass* stresses the cause–effect link more.",
+      "examples": [
+        {"de": "Sie überzeugte die Jury, indem sie klare Zahlen präsentierte.", "en": "She convinced the jury by presenting clear figures."},
+        {"de": "Der Unfall entstand dadurch, dass ein Fahrer zu schnell fuhr.", "en": "The accident happened because a driver was going too fast."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the subject rule.",
+      "prompt": "When can you use *ohne … zu*, and when must you use *ohne dass*?",
+      "answer": "**ohne … zu** + infinitive only when the main clause and the infinitive phrase have the **same subject**. With **different subjects**, only **ohne dass** + Nebensatz is possible. The same rule applies to *(an)statt … zu* / *(an)statt dass*.",
+      "explanation": "The infinitive phrase has no subject of its own; German takes it from the main clause. In the first example *er* does not refuel. In the second, the people who had not got in are *wir*, so the subject must be written out with *ohne dass*.",
+      "examples": [
+        {"de": "Er fuhr los, ohne zu tanken.", "en": "He drove off without filling up."},
+        {"de": "Er fuhr los, ohne dass wir eingestiegen waren.", "en": "He drove off without us having got in."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about infinitive forms.",
+      "prompt": "Which modal connectors have an infinitive form with *zu*, and which do not?",
+      "answer": "**ohne … zu** and **(an)statt … zu** exist. **indem** and **dadurch, dass** have no infinitive form (✗ *indem zu üben*); they always need a Nebensatz with subject and finite verb.",
+      "explanation": "English *by + -ing* tempts learners to write *indem* + infinitive. German has no such structure; you need *indem sie übt* or a nominal phrase with *durch* (*durch Üben*). *ohne* and *(an)statt*, on the other hand, are like *um … zu*: they combine with *zu* + infinitive.",
+      "examples": [
+        {"de": "Statt zu jammern, packte sie mit an.", "en": "Instead of complaining, she pitched in."},
+        {"de": "Sie half den Nachbarn, indem sie beim Umzug mit anpackte.", "en": "She helped the neighbours by lending a hand with the move."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about negation.",
+      "prompt": "Why is there no *nicht* or *niemand* in a sentence like *Er ging, ohne dass ihn jemand sah*?",
+      "answer": "**ohne** already negates the Nebensatz (*nobody saw him*). An extra *nicht* or *niemand* creates a double negation. Use positive words inside the clause: *jemand, etwas, je* instead of *niemand, nichts, nie*.",
+      "explanation": "English uses *anyone/anything* after *without* for the same reason. In German, *ohne dass niemand …* or *ohne nicht zu …* is wrong in standard language; the clause after *ohne* must stay positive.",
+      "examples": [
+        {"de": "Sie gewann das Rennen, ohne dass jemand mit ihrem Sieg gerechnet hatte.", "en": "She won the race without anyone having expected her to win."},
+        {"de": "Er schlief ein, ohne etwas zu essen.", "en": "He fell asleep without eating anything."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "combine",
+      "instruction": "Join the sentences with *indem*. The second sentence becomes the Nebensatz.",
+      "prompt": "Der Konzern senkt seine Emissionen. Er stellt auf Solarstrom um.",
+      "answer": "Der Konzern senkt seine Emissionen, indem er auf Solarstrom umstellt.",
+      "explanation": "Switching to solar power is the method → *indem*. In the Nebensatz the separable verb *umstellen* goes to the end in one word: *er … umstellt*."
+    },
+    {
+      "key": "d06",
+      "type": "combine",
+      "instruction": "Join the sentences with *ohne … zu*.",
+      "prompt": "Sie hat gekündigt. Sie hat nicht mit ihrem Chef gesprochen.",
+      "answer": "Sie hat gekündigt, ohne mit ihrem Chef zu sprechen.",
+      "explanation": "Both sentences have the subject *sie*, so the infinitive form is possible. The subject and *nicht* disappear: *ohne* carries the negation. To stress that the talk would have come first, the Infinitiv Perfekt is also correct: *ohne mit ihrem Chef gesprochen zu haben*."
+    },
+    {
+      "key": "d07",
+      "type": "combine",
+      "instruction": "Join the sentences with *ohne dass*.",
+      "prompt": "Die Software wurde aktualisiert. Die Nutzer wurden nicht informiert.",
+      "answer": "Die Software wurde aktualisiert, ohne dass die Nutzer informiert wurden.",
+      "explanation": "The subjects differ (*die Software* – *die Nutzer*), so only *ohne dass* works. *nicht* is dropped because *ohne* already negates. In the passive Nebensatz the auxiliary *wurden* goes to the end, after the Partizip II."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with *statt … zu*, because both clauses have the same subject.",
+      "prompt": "Statt dass sie den Bus nimmt, geht sie zu Fuß.",
+      "answer": "Statt den Bus zu nehmen, geht sie zu Fuß.",
+      "explanation": "With the same subject (*sie*), the infinitive version is shorter and more natural. Drop *dass* and the subject, and put *zu* + infinitive at the end: *den Bus zu nehmen*. The infinitive phrase still fills position 1, so *geht* follows the comma."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace the *indem* clause with the preposition *durch* + a noun (*Mülltrennung*).",
+      "prompt": "Indem man den Müll trennt, schützt man die Umwelt.",
+      "answer": "Durch Mülltrennung schützt man die Umwelt.",
+      "explanation": "*durch* + Akkusativ is the nominal version of *indem*. The verb phrase *den Müll trennen* becomes the noun *Mülltrennung*. The prepositional phrase in position 1 is followed directly by the finite verb *schützt*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Use the split form *dadurch …, dass* instead of *indem*.",
+      "prompt": "Sie hat die Prüfung bestanden, indem sie jeden Tag gelernt hat.",
+      "answer": "Sie hat die Prüfung dadurch bestanden, dass sie jeden Tag gelernt hat.",
+      "explanation": "*dadurch* goes into the Mittelfeld of the main clause, before the Partizip II *bestanden*. The Nebensatz then starts with *dass*, and the comma moves to the position before *dass*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir lösen den Konflikt, in dem wir offen miteinander reden.",
+      "answer": "Wir lösen den Konflikt, indem wir offen miteinander reden.",
+      "explanation": "The conjunction of means is one word: *indem*. *in dem* (two words) is a preposition with an article or a relative pronoun, as in *der Raum, in dem wir reden*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie verließ die Party, ohne dass sich bei den Gastgebern zu bedanken.",
+      "answer": "Sie verließ die Party, ohne sich bei den Gastgebern zu bedanken.",
+      "explanation": "The sentence mixes the two forms. With the same subject (*sie*) use the infinitive form *ohne … zu* without *dass*. *ohne dass* would need its own subject and a finite verb (*ohne dass sie sich bedankte*)."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er bekam die Stelle, dadurch dass er hatte gute Kontakte.",
+      "answer": "Er bekam die Stelle, dadurch dass er gute Kontakte hatte.",
+      "explanation": "*dadurch dass* introduces a Nebensatz, so the finite verb *hatte* must go to the end of the clause."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Die Wohnung wurde verkauft, ___ die Mieter gefragt wurden.",
+      "options": ["ohne dass", "ohne", "indem", "statt"],
+      "correct": "ohne dass",
+      "answer": "Die Wohnung wurde verkauft, ohne dass die Mieter gefragt wurden.",
+      "explanation": "The tenants are a new subject, so you need a full Nebensatz with *ohne dass*. *ohne* alone cannot introduce a clause with a subject. *indem* would make asking the tenants the method of selling, which makes no sense. *statt* alone would need *zu* + infinitive."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the connector that fits the meaning.",
+      "prompt": "Man kann Stress abbauen, ___ man abends das Handy weglegt.",
+      "options": ["indem", "damit", "ohne dass", "statt dass"],
+      "correct": "indem",
+      "answer": "Man kann Stress abbauen, indem man abends das Handy weglegt.",
+      "explanation": "Putting the phone away is the method of reducing stress → *indem*. *damit* would express a purpose (reducing stress so that you put the phone away). *ohne dass* and *statt dass* would mean the opposite: the phone is not put away."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Indem",
+      "prompt": "indem / er / täglich / Stellenanzeigen / las / fand / er / eine neue Stelle",
+      "answer": "Indem er täglich Stellenanzeigen las, fand er eine neue Stelle.",
+      "explanation": "In the Nebensatz the subject *er* follows *indem*, and the finite verb *las* goes to the end. The Nebensatz is position 1, so the main clause starts with *fand*, then the subject *er*. *Indem er Stellenanzeigen täglich las* is possible but less natural."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Anstatt",
+      "prompt": "anstatt / auf den Techniker / zu / warten / repariert / sie / die Heizung / selbst",
+      "answer": "Anstatt auf den Techniker zu warten, repariert sie die Heizung selbst.",
+      "explanation": "In the infinitive phrase *zu warten* comes last, after the prepositional object *auf den Techniker*. The phrase fills position 1, so *repariert* follows the comma, then *sie*. *selbst* stands at the end of the Mittelfeld to stress that she does it herself; *repariert sie selbst die Heizung* is also correct."
+    }
+  ]
+}

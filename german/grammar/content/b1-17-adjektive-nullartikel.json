@@ -1,0 +1,710 @@
+{
+  "topic_id": "b1-17-adjektive-nullartikel",
+  "level": "B1",
+  "title_de": "Adjektivdeklination ohne Artikel (Nullartikel)",
+  "title_en": "Adjective endings without an article",
+  "rule": {
+    "summary": "When no article stands before the noun (mass nouns like *Kaffee, Milch, Wasser*, plurals without article, many fixed phrases), nothing else shows case, gender and number, so the adjective takes the **strong** endings. They are almost the endings of the definite article: heiß**er** Kaffee (*der*), kalt**e** Milch (*die*), kalt**es** Wasser (*das*), mit heiß**em** Wasser (*dem*). Only the masculine and neuter Genitiv differ: **-en** (*trotz schlecht**en** Wetters*), because the noun already shows the Genitiv with *-(e)s*. The same endings are used after numbers and after *viele, einige, wenige, mehrere, ein paar*.",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | heiß**er** Kaffee | kalt**e** Milch | kalt**es** Wasser | gut**e** Freunde |\n| Akk | heiß**en** Kaffee | kalt**e** Milch | kalt**es** Wasser | gut**e** Freunde |\n| Dat | heiß**em** Kaffee | kalt**er** Milch | kalt**em** Wasser | gut**en** Freunde**n** |\n| Gen | heiß**en** Kaffee**s** | kalt**er** Milch | kalt**en** Wasser**s** | gut**er** Freunde |",
+    "steps": [
+      "Check that no article stands before the adjective: no *der/dieser/jeder*, no *ein/kein/mein*. Numbers (*zwei, drei*), *viele, einige, wenige, mehrere, ein paar* and *viel/wenig* do not count as articles.",
+      "Find the gender, the number and the case of the noun (subject → Nominativ; verb or preposition → Akkusativ, Dativ or Genitiv).",
+      "Put the ending of the definite article on the adjective: *der* → **-er**, *die* → **-e**, *das* → **-es**, *den* → **-en**, *dem* → **-em**; feminine Dativ/Genitiv *der* → **-er**; plural Nom/Akk *die* → **-e**, Dat *den* → **-en**, Gen *der* → **-er**.",
+      "Exception: masculine and neuter Genitiv singular → **-en** (*trotz starken Regens*), not *-es*.",
+      "Several adjectives all take the same ending (*guter italienischer Kaffee*). Watch the stems (*dunkel → dunkles, teuer → teurer, hoch → hohe*) and the Dativ plural *-n* on the noun (*mit kleinen Kindern*)."
+    ],
+    "pitfalls": [
+      "Weak ending without an article: ✗ *Kalte Wasser ist gesund.* → ✓ *Kaltes Wasser ist gesund.* (*-e* is the weak ending after *das*.)",
+      "Dativ masculine/neuter with *-en*: ✗ *mit heißen Wasser* → ✓ *mit heißem Wasser*.",
+      "Plural *-en* after numbers or *viele*: ✗ *viele neuen Häuser* → ✓ *viele neue Häuser* (but *alle neuen Häuser*).",
+      "Genitiv masculine/neuter with *-es*: ✗ *trotz schlechtes Wetters* → ✓ *trotz schlechten Wetters*.",
+      "Fixed phrases are Akkusativ: ✗ *Herzliche Glückwunsch!* → ✓ *Herzlichen Glückwunsch!*; ✓ *Vielen Dank!*, *Guten Appetit!*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich trinke gern {{c1::heißen::heiß}} Kaffee.",
+      "en": "I like drinking hot coffee.",
+      "focus": "Akkusativ maskulin · ohne Artikel",
+      "explanation": "*Kaffee* is masculine and the Akkusativ object of *trinken*. There is no article, so the adjective shows the case itself with the ending of *den*: heiß + **-en** → **heißen**.",
+      "pattern": "Adj-**en** + Nomen (Akk. m., ohne Artikel)",
+      "mistake": {"wrong": "Ich trinke gern heißer Kaffee.", "why": "*-er* is the Nominativ form (*Heißer Kaffee ist lecker*). As an Akkusativ object the masculine adjective takes *-en*, like *den*."},
+      "examples": [
+        {"de": "Ich esse gern frischen Fisch.", "en": "I like eating fresh fish."},
+        {"de": "Möchtest du schwarzen Tee?", "en": "Would you like black tea?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie trinkt {{c1::kalte::kalt}} Milch.",
+      "en": "She drinks cold milk.",
+      "focus": "Akkusativ feminin · Stoffname",
+      "explanation": "*Milch* is feminine (*die Milch*) and an uncountable mass noun, so it is used without an article. The feminine Akkusativ is the same as the Nominativ; the article would be *die*, so the adjective ends in **-e**: kalt + -e → **kalte**.",
+      "pattern": "Adj-**e** + Nomen (Akk. f., ohne Artikel)",
+      "mistake": {"wrong": "Sie trinkt kalten Milch.", "why": "*-en* in the Akkusativ belongs only to masculine nouns. Feminine nouns keep *-e* in the Nominativ and Akkusativ."},
+      "examples": [
+        {"de": "Ich kaufe frische Sahne für den Kuchen.", "en": "I'm buying fresh cream for the cake."},
+        {"de": "Er isst gern scharfe Soße.", "en": "He likes spicy sauce."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er hat {{c1::frisches::frisch}} Brot gekauft.",
+      "en": "He bought fresh bread.",
+      "focus": "Akkusativ neutral · Perfekt",
+      "explanation": "*Brot* is neuter (*das Brot*) and the Akkusativ object of *kaufen*. Neuter Akkusativ = Nominativ, article *das*, so the strong ending is **-es**: frisch + -es → **frisches**. The Perfekt does not change the ending.",
+      "pattern": "Adj-**es** + Nomen (Akk. n., ohne Artikel)",
+      "mistake": {"wrong": "Er hat frische Brot gekauft.", "why": "*-e* is the weak ending after *das* (*das frische Brot*). Without an article the neuter adjective must show *-es* itself."},
+      "examples": [
+        {"de": "Wir haben gutes Olivenöl mitgebracht.", "en": "We brought good olive oil."},
+        {"de": "Sie hat neues Geschirr bestellt.", "en": "She has ordered new dishes."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir kaufen {{c1::neue::neu}} Schuhe.",
+      "en": "We're buying new shoes.",
+      "focus": "Akkusativ Plural · ohne Artikel",
+      "explanation": "*Schuhe* is plural without an article. The plural Akkusativ article would be *die*, so the strong ending is **-e**: neu + -e → **neue**. With the article it would be *die neuen Schuhe*.",
+      "pattern": "Adj-**e** + Nomen (Akk. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Wir kaufen neuen Schuhe.", "why": "In the plural, *-en* belongs after an article (*die neuen Schuhe*) or in the Dativ (*mit neuen Schuhen*). Nominativ and Akkusativ plural without article take *-e*."},
+      "examples": [
+        {"de": "Ich brauche warme Socken.", "en": "I need warm socks."},
+        {"de": "Sie sucht günstige Flüge nach Lissabon.", "en": "She's looking for cheap flights to Lisbon."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Schwarzer::schwarz}} Kaffee schmeckt bitter.",
+      "en": "Black coffee tastes bitter.",
+      "focus": "Nominativ maskulin · Subjekt",
+      "explanation": "*Kaffee* is the masculine subject → Nominativ. The article would be *der*, so the adjective takes **-er**: schwarz + -er → **Schwarzer** (capital letter as the first word). *bitter* after *schmeckt* is not declined.",
+      "pattern": "Adj-**er** + Nomen (Nom. m., ohne Artikel)",
+      "mistake": {"wrong": "Schwarze Kaffee schmeckt bitter.", "why": "*-e* is the weak ending after *der* (*der schwarze Kaffee*). Without an article the adjective must show the masculine signal *-er*."},
+      "examples": [
+        {"de": "Guter Kaffee kostet Geld.", "en": "Good coffee costs money."},
+        {"de": "Kalter Tee ist im Sommer erfrischend.", "en": "Cold tea is refreshing in summer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Frische::frisch}} Luft tut gut.",
+      "en": "Fresh air does you good.",
+      "focus": "Nominativ feminin · Subjekt",
+      "explanation": "*Luft* is feminine and the subject → Nominativ. The article would be *die*, so the ending is **-e**: **Frische**. In the feminine Nominativ and Akkusativ the strong and the weak ending are the same: *frische Luft / die frische Luft*.",
+      "pattern": "Adj-**e** + Nomen (Nom. f., ohne Artikel)",
+      "mistake": {"wrong": "Frischer Luft tut gut.", "why": "*-er* is the masculine Nominativ (or the feminine Dativ/Genitiv). *Luft* is feminine and the subject, so it takes *-e*."},
+      "examples": [
+        {"de": "Gute Musik macht gute Laune.", "en": "Good music puts you in a good mood."},
+        {"de": "Klare Kommunikation ist im Team wichtig.", "en": "Clear communication is important in a team."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Kaltes::kalt}} Wasser ist gesund.",
+      "en": "Cold water is healthy.",
+      "focus": "Nominativ neutral · Subjekt",
+      "explanation": "*Wasser* is neuter (*das Wasser*) and the subject. Without an article the adjective carries the signal of *das*: kalt + **-es** → **Kaltes**.",
+      "pattern": "Adj-**es** + Nomen (Nom. n., ohne Artikel)",
+      "mistake": {"wrong": "Kalte Wasser ist gesund.", "why": "*kalte* would need the article *das* in front (*das kalte Wasser*). Without an article the neuter Nominativ ending is *-es*."},
+      "examples": [
+        {"de": "Frisches Gemüse ist gesund.", "en": "Fresh vegetables are healthy."},
+        {"de": "Gutes Essen braucht Zeit.", "en": "Good food takes time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Junge::jung}} Leute reisen viel.",
+      "en": "Young people travel a lot.",
+      "focus": "Nominativ Plural · Subjekt",
+      "explanation": "*Leute* exists only in the plural and is the subject → Nominativ Plural. Without an article the ending is **-e**, like the article *die*: jung + -e → **Junge**.",
+      "pattern": "Adj-**e** + Nomen (Nom. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Jungen Leute reisen viel.", "why": "*-en* in the Nominativ plural only follows *die, alle, keine, meine* … (*die jungen Leute*). Without any article the ending is *-e*."},
+      "examples": [
+        {"de": "Kleine Kinder schlafen viel.", "en": "Small children sleep a lot."},
+        {"de": "Ältere Menschen brauchen oft Hilfe im Alltag.", "en": "Older people often need help in everyday life."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich mag Tee mit {{c1::warmer::warm}} Milch.",
+      "en": "I like tea with warm milk.",
+      "focus": "Dativ feminin · nach *mit*",
+      "explanation": "*mit* always takes the Dativ. *Milch* is feminine, so the Dativ article would be *der*, and the adjective takes **-er**: warm + -er → **warmer**. Careful: this *-er* is not masculine; it is the feminine Dativ.",
+      "pattern": "mit + Adj-**er** + Nomen (Dat. f., ohne Artikel)",
+      "mistake": {"wrong": "Ich mag Tee mit warme Milch.", "why": "*-e* is only Nominativ/Akkusativ feminine. After *mit* the feminine Dativ without article ends in *-er*."},
+      "examples": [
+        {"de": "Er spricht mit leiser Stimme.", "en": "He speaks in a quiet voice."},
+        {"de": "Das Kind malt mit bunter Kreide.", "en": "The child is drawing with coloured chalk."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Mit {{c1::heißem::heiß}} Wasser putze ich besser.",
+      "en": "I clean better with hot water.",
+      "focus": "Dativ neutral · nach *mit* · Vorfeld",
+      "explanation": "*mit* + Dativ, and *Wasser* is neuter → the article would be *dem*, so the ending is **-em**: heiß + -em → **heißem**. The prepositional phrase fills the Vorfeld, so the verb follows directly: *putze ich*.",
+      "pattern": "mit + Adj-**em** + Nomen (Dat. n., ohne Artikel)",
+      "mistake": {"wrong": "Mit heißen Wasser putze ich besser.", "why": "*-en* is the weak Dativ ending after *dem* (*mit dem heißen Wasser*). Without the article the adjective needs *-em*."},
+      "examples": [
+        {"de": "Mit gutem Werkzeug geht die Arbeit schneller.", "en": "With good tools the work goes faster."},
+        {"de": "Er wäscht sich die Hände mit warmem Wasser.", "en": "He washes his hands with warm water."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Bei {{c1::starkem::stark}} Wind bleibe ich zu Hause.",
+      "en": "When there's a strong wind, I stay at home.",
+      "focus": "Dativ maskulin · nach *bei*",
+      "explanation": "*bei* takes the Dativ. *Wind* is masculine → the Dativ article would be *dem* → **-em**: stark + -em → **starkem**. *bei* + weather means *when there is …*.",
+      "pattern": "bei + Adj-**em** + Nomen (Dat. m., ohne Artikel)",
+      "mistake": {"wrong": "Bei starken Wind bleibe ich zu Hause.", "why": "Masculine and neuter Dativ without an article end in *-em*, like *dem*. *-en* would need the article (*bei dem starken Wind*)."},
+      "examples": [
+        {"de": "Bei dichtem Nebel fahren die Fähren nicht.", "en": "The ferries don't run in thick fog."},
+        {"de": "Bei hohem Fieber sollten Sie zum Arzt gehen.", "en": "If you have a high temperature, you should see a doctor."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich brauche dringend {{c1::frische::frisch}} Tomaten.",
+      "en": "I urgently need fresh tomatoes.",
+      "focus": "Akkusativ Plural · Objekt von *brauchen*",
+      "explanation": "*Tomaten* is plural without an article and the Akkusativ object of *brauchen* → strong plural ending **-e**: **frische**. *dringend* is an adverb here and takes no ending.",
+      "pattern": "Adj-**e** + Nomen (Akk. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Ich brauche dringend frischen Tomaten.", "why": "Without an article the plural Akkusativ ending is *-e*. *-en* would be correct after *die* (*die frischen Tomaten*)."},
+      "examples": [
+        {"de": "Wir suchen erfahrene Mitarbeiter.", "en": "We're looking for experienced staff."},
+        {"de": "Ich habe reife Bananen gekauft.", "en": "I bought ripe bananas."}
+      ],
+      "words": [{"de": "dringend", "en": "urgently"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Er trinkt nur {{c1::deutsches::deutsch}} Bier.",
+      "en": "He only drinks German beer.",
+      "focus": "Akkusativ neutral · Nationalitätsadjektiv",
+      "explanation": "*Bier* is neuter and the Akkusativ object. *nur* is a particle, not an article, so it does not change the ending: no article → **-es**: deutsch + -es → **deutsches**. Nationality adjectives are written in lower case.",
+      "pattern": "nur + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er trinkt nur deutsche Bier.", "why": "*deutsche* would need *das* in front (*das deutsche Bier*). Without an article the neuter Akkusativ needs *-es*."},
+      "examples": [
+        {"de": "Sie kauft nur regionales Gemüse.", "en": "She only buys local vegetables."},
+        {"de": "Wir essen gern japanisches Essen.", "en": "We like eating Japanese food."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Gute::gut}} Freunde sind wichtig.",
+      "en": "Good friends are important.",
+      "focus": "Nominativ Plural · allgemeine Aussage",
+      "explanation": "A general statement about friends, so there is no article: *Freunde* is the plural subject → Nominativ → **-e**: **Gute**. Compare with a possessive: *meine guten Freunde* (after *meine* the plural ending is *-en*).",
+      "pattern": "Adj-**e** + Nomen (Nom. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Guten Freunde sind wichtig.", "why": "Without an article the Nominativ plural is *-e*. *guten* is only right after an article or possessive (*meine guten Freunde*)."},
+      "examples": [
+        {"de": "Gute Ideen brauchen Zeit.", "en": "Good ideas need time."},
+        {"de": "Neue Kollegen sind bei uns immer willkommen.", "en": "New colleagues are always welcome here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie isst gern {{c1::italienische::italienisch}} Pizza.",
+      "en": "She likes eating Italian pizza.",
+      "focus": "Akkusativ feminin · allgemeine Bedeutung",
+      "explanation": "*Pizza* is feminine (*die Pizza*). Here it means pizza in general, so there is no article. Feminine Akkusativ → **-e**: italienisch + -e → **italienische**.",
+      "pattern": "Adj-**e** + Nomen (Akk. f., ohne Artikel)",
+      "mistake": {"wrong": "Sie isst gern italienisches Pizza.", "why": "*-es* is the neuter ending. *Pizza* is feminine, so the Akkusativ ending is *-e*."},
+      "examples": [
+        {"de": "Ich mag französische Musik.", "en": "I like French music."},
+        {"de": "Sie liest gern spanische Literatur.", "en": "She likes reading Spanish literature."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir kochen mit {{c1::frischen::frisch}} Zutaten.",
+      "en": "We cook with fresh ingredients.",
+      "focus": "Dativ Plural · nach *mit*",
+      "explanation": "*mit* + Dativ, and *Zutaten* is plural → Dativ plural, article would be *den* → **-en**. This is the only plural slot with *-en* without an article. *Zutaten* already ends in *-n*, so the noun adds no extra *-n*.",
+      "pattern": "mit + Adj-**en** + Nomen-(n) (Dat. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Wir kochen mit frische Zutaten.", "why": "*-e* is the plural Nominativ/Akkusativ ending. After *mit* the plural is Dativ, so the adjective needs *-en*."},
+      "examples": [
+        {"de": "Sie arbeitet mit kleinen Gruppen.", "en": "She works with small groups."},
+        {"de": "Das Hotel wirbt mit günstigen Preisen.", "en": "The hotel advertises low prices."}
+      ],
+      "words": [{"de": "die Zutat (-en)", "en": "ingredient"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Roter::rot}} Wein passt zu Fleisch.",
+      "en": "Red wine goes well with meat.",
+      "focus": "Nominativ maskulin · Adjektiv statt Kompositum",
+      "explanation": "*Wein* is the masculine subject → Nominativ → **-er**: **Roter**. As one word German says *Rotwein*; with a separate adjective it is *roter Wein*. *zu Fleisch* is also without an article, because it means meat in general.",
+      "pattern": "Adj-**er** + Nomen (Nom. m., ohne Artikel)",
+      "mistake": {"wrong": "Rote Wein passt zu Fleisch.", "why": "The masculine Nominativ without an article must show *-er*: *roter Wein*. *rote* would need *der* in front."},
+      "examples": [
+        {"de": "Weißer Wein passt gut zu Fisch.", "en": "White wine goes well with fish."},
+        {"de": "Grüner Tee enthält Koffein.", "en": "Green tea contains caffeine."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie trägt {{c1::elegante::elegant}} Kleidung.",
+      "en": "She wears elegant clothes.",
+      "focus": "Akkusativ feminin · Sammelbegriff",
+      "explanation": "*Kleidung* is a feminine collective noun (*die Kleidung*, singular in German, plural *clothes* in English). Used without an article as the Akkusativ object of *tragen* → **-e**: **elegante**.",
+      "pattern": "Adj-**e** + Nomen (Akk. f., ohne Artikel)",
+      "mistake": {"wrong": "Sie trägt eleganten Kleidung.", "why": "*Kleidung* is feminine singular. Only masculine nouns take *-en* in the Akkusativ."},
+      "examples": [
+        {"de": "Im Winter braucht man warme Kleidung.", "en": "In winter you need warm clothes."},
+        {"de": "Für die Wanderung brauchst du wetterfeste Kleidung.", "en": "For the hike you need weatherproof clothing."}
+      ],
+      "words": [{"de": "die Kleidung", "en": "clothes, clothing"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich nehme {{c1::warmes::warm}} Brot mit Butter.",
+      "en": "I'll have warm bread with butter.",
+      "focus": "Akkusativ neutral · Bestellung",
+      "explanation": "*Brot* is neuter and the Akkusativ object of *nehmen* → no article → **-es**: warm + -es → **warmes**. *mit Butter* has no adjective, so no ending question arises there.",
+      "pattern": "Adj-**es** + Nomen (Akk. n., ohne Artikel)",
+      "mistake": {"wrong": "Ich nehme warmen Brot mit Butter.", "why": "*-en* in the Akkusativ is masculine. *Brot* is neuter, so the strong ending is *-es*."},
+      "examples": [
+        {"de": "Ich nehme stilles Wasser, bitte.", "en": "I'll have still water, please."},
+        {"de": "Wir bestellen frisches Obst als Nachtisch.", "en": "We're ordering fresh fruit for dessert."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Bei {{c1::schönem::schön}} Wetter gehen wir wandern.",
+      "en": "When the weather is nice, we go hiking.",
+      "focus": "Dativ neutral · nach *bei*",
+      "explanation": "*bei* + Dativ, *Wetter* is neuter → the article would be *dem* → **-em**: schön + -em → **schönem**. Compare the Genitiv *trotz schönen Wetters*, which takes *-en*.",
+      "pattern": "bei + Adj-**em** + Nomen (Dat. n., ohne Artikel)",
+      "mistake": {"wrong": "Bei schönes Wetter gehen wir wandern.", "why": "*-es* is Nominativ/Akkusativ neuter. *bei* requires the Dativ, so the ending is *-em*."},
+      "examples": [
+        {"de": "Bei gutem Licht werden die Fotos schärfer.", "en": "In good light the photos come out sharper."},
+        {"de": "Bei schlechtem Wetter fällt das Konzert aus.", "en": "If the weather is bad, the concert will be cancelled."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Herzlichen::herzlich}} Glückwunsch zum Geburtstag!",
+      "en": "Happy birthday!",
+      "focus": "feste Wendung · Glückwunsch",
+      "explanation": "Many wishes are short forms of *Ich wünsche dir …*, so the noun is an Akkusativ object without an article. *Glückwunsch* is masculine → Akkusativ → **-en**: **Herzlichen**. The same in *Vielen Dank*, *Guten Morgen*, *Guten Appetit*.",
+      "pattern": "Adj-**en** + Nomen (Akk. m., Wunsch)",
+      "mistake": {"wrong": "Herzliche Glückwunsch zum Geburtstag!", "why": "*-e* would be feminine or plural. *Glückwunsch* is masculine and Akkusativ, so the ending is *-en*."},
+      "examples": [
+        {"de": "Vielen Dank für Ihre Hilfe!", "en": "Thank you very much for your help!"},
+        {"de": "Guten Appetit und viel Spaß beim Essen!", "en": "Enjoy your meal and have fun!"}
+      ],
+      "words": [{"de": "der Glückwunsch (¨-e)", "en": "congratulations, good wishes"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Trotz {{c1::schlechten::schlecht}} Wetters sind viele Leute gekommen.",
+      "en": "Despite the bad weather, a lot of people came.",
+      "focus": "Genitiv neutral · nach *trotz*",
+      "explanation": "*trotz* takes the Genitiv, and *Wetter* is neuter → *Wetters*. This is the one exception in the strong declension: masculine and neuter Genitiv take **-en**, not *-es*, because the noun already shows the Genitiv with *-s*: **schlechten**.",
+      "pattern": "trotz + Adj-**en** + Nomen-**s** (Gen. n., ohne Artikel)",
+      "mistake": {"wrong": "Trotz schlechtes Wetters sind viele Leute gekommen.", "why": "The Genitiv signal is already on the noun (*Wetters*). The adjective takes *-en* in masculine and neuter Genitiv."},
+      "examples": [
+        {"de": "Wegen starken Regens wurde das Spiel abgesagt.", "en": "Because of heavy rain, the match was called off."},
+        {"de": "Trotz hohen Fiebers ist er zur Arbeit gegangen.", "en": "Despite a high temperature, he went to work."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Er ist ein großer Liebhaber {{c1::klassischer::klassisch}} Musik.",
+      "en": "He's a great lover of classical music.",
+      "focus": "Genitiv feminin · Attribut",
+      "explanation": "*klassischer Musik* is a Genitiv attribute (a lover of what?). *Musik* is feminine → Genitiv article would be *der* → strong **-er**: klassisch + -er → **klassischer**. *ein großer Liebhaber* is a different pattern (after *ein*); only the Genitiv phrase has no article.",
+      "pattern": "Nomen + Adj-**er** + Nomen (Gen. f., ohne Artikel)",
+      "mistake": {"wrong": "Er ist ein großer Liebhaber klassische Musik.", "why": "*klassische Musik* is Nominativ/Akkusativ. As a Genitiv attribute the feminine adjective needs *-er*."},
+      "examples": [
+        {"de": "Das ist ein Zeichen guter Zusammenarbeit.", "en": "That's a sign of good cooperation."},
+        {"de": "Die Stadt ist ein Ort großer Vielfalt.", "en": "The city is a place of great diversity."}
+      ],
+      "words": [{"de": "der Liebhaber (-)", "en": "lover, enthusiast"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Viele Familien mit {{c1::kleinen::klein}} Kindern suchen eine größere Wohnung.",
+      "en": "Many families with small children are looking for a bigger flat.",
+      "focus": "Dativ Plural · Nomen mit *-n*",
+      "explanation": "*mit* + Dativ, *Kinder* is plural → Dativ plural. Without an article the adjective ends in **-en** (from *den*): **kleinen**. The noun also adds the Dativ-plural **-n**: *Kinder → Kindern*.",
+      "pattern": "mit + Adj-**en** + Nomen-**n** (Dat. Pl.)",
+      "mistake": {"wrong": "Viele Familien mit kleinen Kinder suchen eine größere Wohnung.", "why": "The adjective is right, but in the Dativ plural the noun itself needs *-n*: *Kindern*."},
+      "examples": [
+        {"de": "Das Hotel ist ideal für Gäste mit kleinen Hunden.", "en": "The hotel is ideal for guests with small dogs."},
+        {"de": "Wir arbeiten mit erfahrenen Partnern zusammen.", "en": "We work with experienced partners."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "In der Stadt gibt es viele {{c1::günstige::günstig}} Restaurants.",
+      "en": "There are many cheap restaurants in the town.",
+      "focus": "Akkusativ Plural · nach *viele*",
+      "explanation": "*viele* is not an article; it is a quantity word that is declined like an adjective. So the adjective after it also takes the strong ending: *es gibt* + Akkusativ plural → **-e**: **günstige**. The same after *einige, wenige, mehrere, ein paar*. After *alle* or *keine* it would be *-en*.",
+      "pattern": "viele + Adj-**e** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "In der Stadt gibt es viele günstigen Restaurants.", "why": "*viele* does not count as an article, so the adjective keeps the strong ending *-e*. Compare *alle günstigen Restaurants*."},
+      "examples": [
+        {"de": "Im Kurs sind einige neue Teilnehmer.", "en": "There are some new participants in the course."},
+        {"de": "Wir haben mehrere interessante Angebote bekommen.", "en": "We've received several interesting offers."}
+      ],
+      "words": [{"de": "günstig", "en": "cheap, good value"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wir haben drei {{c1::große::groß}} Zimmer und einen Balkon.",
+      "en": "We have three large rooms and a balcony.",
+      "focus": "Akkusativ Plural · nach Zahlwort",
+      "explanation": "Numbers like *zwei, drei, vier* have no case ending, so they work like no article. *Zimmer* is plural (same form as the singular) and the Akkusativ object of *haben* → strong plural **-e**: **große**.",
+      "pattern": "Zahl + Adj-**e** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Wir haben drei großen Zimmer und einen Balkon.", "why": "A number does not show case, so the adjective takes the strong plural ending *-e*, not *-en*."},
+      "examples": [
+        {"de": "Sie hat zwei kleine Kinder.", "en": "She has two small children."},
+        {"de": "Ich habe fünf neue Nachrichten.", "en": "I have five new messages."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Dunkles::dunkel}} Brot ist gesünder als Weißbrot.",
+      "en": "Dark bread is healthier than white bread.",
+      "focus": "Nominativ neutral · Adjektiv auf *-el*",
+      "explanation": "*Brot* is the neuter subject → Nominativ, no article → **-es**. Adjectives ending in *-el* drop the *e* of the stem before an ending: dunkel → dunkl- → **Dunkles**.",
+      "pattern": "Adj(-el → -l)-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Dunkeles Brot ist gesünder als Weißbrot.", "why": "With *-el* adjectives the stem *e* drops before every ending: *dunkles*, not *dunkeles*."},
+      "examples": [
+        {"de": "Ich trinke gern dunkles Bier.", "en": "I like drinking dark beer."},
+        {"de": "Das Sofa ist aus edlem Leder.", "en": "The sofa is made of fine leather."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "In Großstädten sind {{c1::hohe::hoch}} Mieten ein großes Problem.",
+      "en": "In big cities, high rents are a big problem.",
+      "focus": "Nominativ Plural · *hoch*",
+      "explanation": "*Mieten* is the plural subject → Nominativ plural, no article → **-e**. *hoch* loses its *c* before every ending: hoch → hoh- → **hohe**. (*ein großes Problem* is the predicative noun after *sind*, with *-es* after *ein*.)",
+      "pattern": "Adj (hoch → hoh-)-**e** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "In Großstädten sind hoche Mieten ein großes Problem.", "why": "Before an ending *hoch* becomes *hoh-*: *hohe Mieten*. The form *hoch* is only used without an ending (*Die Mieten sind hoch.*)."},
+      "examples": [
+        {"de": "Hohe Preise schrecken viele Kunden ab.", "en": "High prices put off many customers."},
+        {"de": "Hohe Temperaturen sind für alte Menschen gefährlich.", "en": "High temperatures are dangerous for old people."}
+      ],
+      "words": [{"de": "die Miete (-n)", "en": "rent"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Lieber::lieb}} Thomas, vielen Dank für deine Nachricht.",
+      "en": "Dear Thomas, thank you very much for your message.",
+      "focus": "Anrede im Brief · Nominativ",
+      "explanation": "In the greeting of a letter the name stands in the Nominativ without an article. Thomas is a man → masculine Nominativ, strong **-er**: **Lieber** Thomas. For a woman: *Liebe Anna*; for several people: *Liebe Kolleginnen und Kollegen*. *vielen Dank* is masculine Akkusativ (*-en*).",
+      "pattern": "Lieb**er** + Name (m.) / Lieb**e** + Name (f., Pl.)",
+      "mistake": {"wrong": "Liebe Thomas, vielen Dank für deine Nachricht.", "why": "*Liebe* is for a woman or for several people. For one man the Nominativ ending is *-er*: *Lieber Thomas*."},
+      "examples": [
+        {"de": "Lieber Herr Wagner, vielen Dank für Ihre schnelle Antwort.", "en": "Dear Mr Wagner, thank you very much for your quick reply."},
+        {"de": "Liebe Eltern, ich schreibe euch aus Rom.", "en": "Dear Mum and Dad, I'm writing to you from Rome."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir haben Ihre Nachricht mit {{c1::großer::groß}} Freude gelesen.",
+      "en": "We read your message with great pleasure.",
+      "focus": "Dativ feminin · abstraktes Nomen",
+      "explanation": "*mit* + Dativ; *Freude* is feminine → the Dativ article would be *der* → strong **-er**: groß + -er → **großer**. Abstract nouns like *Freude, Sorgfalt, Mühe* are often used after *mit* without an article.",
+      "pattern": "mit + Adj-**er** + Nomen (Dat. f., ohne Artikel)",
+      "mistake": {"wrong": "Wir haben Ihre Nachricht mit große Freude gelesen.", "why": "*große* is Nominativ/Akkusativ feminine. After *mit* the feminine noun is Dativ, so without an article the ending is *-er*."},
+      "examples": [
+        {"de": "Sie hat die Aufgabe mit großer Sorgfalt erledigt.", "en": "She did the task with great care."},
+        {"de": "Er hat mit lauter Stimme gesungen.", "en": "He sang in a loud voice."}
+      ],
+      "words": [{"de": "die Freude (-n)", "en": "joy, pleasure"}],
+      "production_cue": "(formal Sie, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Hier gibt es guten {{c1::italienischen::italienisch}} Kaffee.",
+      "en": "You can get good Italian coffee here.",
+      "focus": "zwei Adjektive · Akkusativ maskulin",
+      "explanation": "*es gibt* takes the Akkusativ, and *Kaffee* is masculine → **-en**. When two adjectives stand before a noun without an article, both take the same strong ending: *guten* **italienischen** *Kaffee*.",
+      "pattern": "Adj-**en** + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Hier gibt es guten italienische Kaffee.", "why": "Every adjective in front of the noun takes the same ending. Both need *-en* here: *guten italienischen Kaffee*."},
+      "examples": [
+        {"de": "Wir trinken heißen grünen Tee.", "en": "We're drinking hot green tea."},
+        {"de": "Sie kauft frisches regionales Gemüse.", "en": "She buys fresh local vegetables."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Flasche besteht aus {{c1::recyceltem::recycelt}} Plastik.",
+      "en": "The bottle is made of recycled plastic.",
+      "focus": "Dativ neutral · Partizip als Adjektiv",
+      "explanation": "*aus* always takes the Dativ, and *Plastik* is neuter (*das Plastik*). No article → strong Dativ **-em**. Participles used as adjectives (*recycelt*) take the same endings: recycelt + -em → **recyceltem**.",
+      "pattern": "aus + Adj-**em** + Nomen (Dat. n., Material)",
+      "mistake": {"wrong": "Die Flasche besteht aus recycelten Plastik.", "why": "*-en* is the weak Dativ after *dem*. Without an article the neuter Dativ ending is *-em*: *aus recyceltem Plastik*."},
+      "examples": [
+        {"de": "Der Tisch ist aus massivem Holz.", "en": "The table is made of solid wood."},
+        {"de": "Die Tasche ist aus weichem Leder.", "en": "The bag is made of soft leather."}
+      ],
+      "words": [{"de": "bestehen aus (+ Dat.)", "en": "to be made of, to consist of"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the strong endings.",
+      "prompt": "Why does the adjective take strong endings when there is no article, and how can you find them quickly?",
+      "answer": "Case, gender and number must be shown once in the noun phrase. Without an article the **adjective** has to show them, so it takes the ending of the **definite article**: *der → -er, die → -e, das → -es, den → -en, dem → -em*.",
+      "explanation": "Think of the article and move its ending to the adjective: *der Kaffee → heißer Kaffee*, *dem Wasser → heißem Wasser*. Only the masculine/neuter Genitiv breaks this rule (*-en*).",
+      "examples": [
+        {"de": "Frischer Saft ist leider teuer.", "en": "Fresh juice is expensive, unfortunately."},
+        {"de": "Wir sitzen gern bei warmem Wetter draußen.", "en": "We like sitting outside in warm weather."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the Genitiv.",
+      "prompt": "What is special about the strong Genitiv ending in the masculine and neuter singular?",
+      "answer": "It is **-en**, not *-es*: *trotz schlecht**en** Wetter**s***, *wegen stark**en** Regen**s***. The noun already shows the Genitiv with *-(e)s*, so the adjective does not repeat it. Feminine and plural Genitiv take **-er** (*klassischer Musik, guter Freunde*).",
+      "explanation": "In everyday German the Genitiv without article is rare outside fixed phrases and after *trotz, wegen, während*. In writing it is common: *ein Liebhaber guten Weins, die Folgen langer Trockenheit*.",
+      "examples": [
+        {"de": "Wegen dichten Nebels wurde der Flughafen geschlossen.", "en": "The airport was closed because of thick fog."},
+        {"de": "Während langer Wartezeiten lesen viele Leute auf dem Handy.", "en": "During long waits many people read on their phones."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about which words count as an article.",
+      "prompt": "After which words do adjectives take the strong plural ending -e, and after which -en?",
+      "answer": "Strong **-e** (Nom/Akk Pl.) after **no article**, numbers (*zwei, drei*), **viele, einige, wenige, mehrere, ein paar**. Weak **-en** after **die, diese, alle, beide** and after **keine, meine, deine** …",
+      "explanation": "Words like *viele* or numbers do not carry the full article ending, so the adjective must show the plural itself. *alle* and *keine/meine* do carry it, so the adjective after them is weak.",
+      "examples": [
+        {"de": "Viele junge Leute ziehen in die Stadt.", "en": "Many young people move to the city."},
+        {"de": "Alle jungen Leute im Dorf kennen sich.", "en": "All the young people in the village know each other."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about fixed phrases.",
+      "prompt": "Why do we say Guten Morgen, Vielen Dank and Mit freundlichen Grüßen?",
+      "answer": "They are noun phrases without an article. *Guten Morgen* and *Vielen Dank* are masculine **Akkusativ** (short for *Ich wünsche Ihnen … / Ich sage …*) → **-en**. *Mit freundlichen Grüßen* is **Dativ plural** after *mit* → **-en**.",
+      "explanation": "The *-en* has different reasons in each phrase. Other examples: *Schönes Wochenende!* (Akk. n., *-es*), *Gute Reise!* (Akk. f., *-e*), *Lieber Thomas* (Nom. m., *-er*).",
+      "examples": [
+        {"de": "Schönes Wochenende und gute Erholung!", "en": "Have a nice weekend and a good rest!"},
+        {"de": "Vielen Dank und viele Grüße an deine Familie!", "en": "Many thanks, and best wishes to your family!"}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the plural without article.",
+      "prompt": "Which ending does a plural adjective without article take in each case?",
+      "answer": "Nominativ and Akkusativ **-e** (*neue Häuser*), Dativ **-en** + noun **-n** (*in neuen Häusern*), Genitiv **-er** (*der Bau neuer Häuser*).",
+      "explanation": "The endings copy the plural article *die – die – den – der*. Learners often use *-en* everywhere in the plural; that is only correct after an article or in the Dativ.",
+      "examples": [
+        {"de": "Hier entstehen neue Wohnungen.", "en": "New flats are being built here."},
+        {"de": "Die Stadt plant den Bau neuer Schulen.", "en": "The city is planning the construction of new schools."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Ich esse jeden Morgen Joghurt mit ___ Obst.",
+      "options": ["frischem", "frischen", "frisches", "frischer"],
+      "correct": "frischem",
+      "answer": "Ich esse jeden Morgen Joghurt mit frischem Obst.",
+      "explanation": "*mit* + Dativ, *Obst* is neuter → like *dem* → *-em*. *frischen* would need an article, *frisches* is Nominativ/Akkusativ neuter, and *frischer* is masculine Nominativ or feminine Dativ."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Zum Glück hatten wir im Urlaub ___ Wetter.",
+      "options": ["schönes", "schöne", "schönen", "schöner"],
+      "correct": "schönes",
+      "answer": "Zum Glück hatten wir im Urlaub schönes Wetter.",
+      "explanation": "*Wetter* is neuter and the Akkusativ object of *haben* → like *das* → *-es*. *schöne* would need *das* in front, *schönen* is masculine Akkusativ or Dativ plural, *schöner* is masculine Nominativ."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Mein Vater trinkt morgens immer ___ Tee.",
+      "options": ["grünen", "grüner", "grüne", "grünes"],
+      "correct": "grünen",
+      "answer": "Mein Vater trinkt morgens immer grünen Tee.",
+      "explanation": "*Tee* is masculine and the Akkusativ object of *trinken* → like *den* → *-en*. *grüner* is the Nominativ, *grüne* feminine or plural, *grünes* neuter."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich koche die Nudeln in gesalzenen Wasser.",
+      "answer": "Ich koche die Nudeln in gesalzenem Wasser.",
+      "explanation": "*in* + Dativ (where?), *Wasser* is neuter → without an article the ending is *-em*, like *dem*. *-en* would only be right with the article: *in dem gesalzenen Wasser*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben im Urlaub viele interessanten Leute kennengelernt.",
+      "answer": "Wir haben im Urlaub viele interessante Leute kennengelernt.",
+      "explanation": "*viele* is not an article, so the adjective takes the strong plural Akkusativ ending *-e*. *-en* would follow *alle* or *die*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich möchte bitte frisches Orangensaft.",
+      "answer": "Ich möchte bitte frischen Orangensaft.",
+      "explanation": "A compound noun has the gender of its last part: *der Saft* → *der Orangensaft*, masculine. As an Akkusativ object without article the ending is *-en*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Trotz starkes Verkehrs sind wir pünktlich angekommen.",
+      "answer": "Trotz starken Verkehrs sind wir pünktlich angekommen.",
+      "explanation": "*trotz* + Genitiv, *Verkehr* is masculine → *Verkehrs*. In the masculine and neuter Genitiv the strong adjective ending is *-en*, not *-es*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Make a general statement: remove the article and change the adjective ending.",
+      "prompt": "Das frische Brot ist lecker.",
+      "answer": "Frisches Brot ist lecker.",
+      "explanation": "With *das* the adjective is weak (*-e*). Without the article it must show the neuter Nominativ itself → *-es*: *Frisches Brot*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Remove the article and change the adjective ending.",
+      "prompt": "Mit dem warmen Wasser geht es besser.",
+      "answer": "Mit warmem Wasser geht es besser.",
+      "explanation": "After *dem* the Dativ adjective is weak (*-en*). Without the article it takes the strong Dativ ending *-em*, the ending of *dem* itself."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make the object plural and leave out the article.",
+      "prompt": "Ich kaufe einen großen Apfel.",
+      "answer": "Ich kaufe große Äpfel.",
+      "explanation": "The plural has no indefinite article, so the adjective takes the strong Akkusativ plural ending *-e*. The noun gets its plural with umlaut: *Apfel → Äpfel*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence: put the adjective from the first sentence in front of the noun (no article).",
+      "prompt": "Der Tee ist heiß. Ich trinke gern Tee.",
+      "answer": "Ich trinke gern heißen Tee.",
+      "explanation": "In the first sentence *heiß* is predicative and has no ending. In front of the noun it needs one: *Tee* is the masculine Akkusativ object without an article → *heißen Tee*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie",
+      "prompt": "trinkt / Wasser / mit / sie / Zitrone / warmes / gern",
+      "answer": "Sie trinkt gern warmes Wasser mit Zitrone.",
+      "explanation": "*trinkt* is in position 2 and *gern* follows it. *warmes Wasser* is the neuter Akkusativ object without article (*-es*); *mit Zitrone* describes the water and comes after it. *Sie trinkt warmes Wasser gern mit Zitrone* is also grammatical, but then *gern* refers to the lemon."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Bei",
+      "prompt": "Straßen / fahren / bei / langsam / glatten / wir",
+      "answer": "Bei glatten Straßen fahren wir langsam.",
+      "explanation": "*bei* + Dativ plural without article → *glatten Straßen* (*-en*, and the noun already ends in *-n*). The phrase fills the Vorfeld, so the verb *fahren* follows, then *wir*."
+    }
+  ]
+}

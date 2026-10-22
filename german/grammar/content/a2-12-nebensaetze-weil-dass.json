@@ -1,0 +1,940 @@
+{
+  "topic_id": "a2-12-nebensaetze-weil-dass",
+  "level": "A2",
+  "title_de": "Nebensätze mit weil und dass",
+  "title_en": "Subordinate clauses with weil and dass",
+  "rule": {
+    "summary": "**weil** (because) and **dass** (that) introduce a subordinate clause (Nebensatz). In a Nebensatz the finite verb goes to the **very end**; the subject usually follows the conjunction directly. *weil* gives a reason; *dass* gives the content of what someone says, thinks, hopes or feels (*Ich glaube, dass …*, *Es ist wichtig, dass …*). A comma always separates the Nebensatz from the main clause.",
+    "table": "| Hauptsatz | Nebensatz | Verben am Ende |\n|---|---|---|\n| Ich bleibe zu Hause, | weil ich krank **bin**. | 1 Verb |\n| Er kommt nicht, | weil er arbeiten **muss**. | Infinitiv + Modalverb |\n| Sie sagt, | dass sie den Brief geschrieben **hat**. | Partizip II + Hilfsverb |\n| Ich weiß, | dass du heute **mitkommst**. | trennbares Verb zusammen |\n| **Weil** es regnet, | **bleiben** wir drinnen. | Nebensatz zuerst → Verb, Verb |",
+    "steps": [
+      "Choose the conjunction: a reason → **weil**; the content of a statement, thought, hope or feeling → **dass**.",
+      "Put a comma before the conjunction (or after the Nebensatz if it comes first).",
+      "Right after the conjunction usually comes the subject, then pronouns, objects, time and place, and *nicht*.",
+      "Put the finite verb last. With two verbs: infinitive or Partizip II first, then the finite modal or auxiliary (*arbeiten muss*, *gekommen ist*). Separable verbs stay in one piece (*mitkommt*).",
+      "If the Nebensatz comes first, it fills position 1: the main clause starts with its finite verb (*Weil es regnet, bleiben wir …*)."
+    ],
+    "pitfalls": [
+      "Verb in position 2 after *weil*: ✗ *…, weil ich habe keine Zeit.* → ✓ *…, weil ich keine Zeit habe.* (The first form is heard in speech but is not standard.)",
+      "Wrong order of two verbs: ✗ *…, weil er muss arbeiten.* → ✓ *…, weil er arbeiten muss.* ✗ *…, dass sie ist gekommen.* → ✓ *…, dass sie gekommen ist.*",
+      "No verb first after a leading Nebensatz: ✗ *Weil es regnet, wir bleiben zu Hause.* → ✓ *Weil es regnet, bleiben wir zu Hause.*",
+      "Spelling: ✗ *Ich hoffe, das du kommst.* → ✓ *Ich hoffe, dass du kommst.* The conjunction always has *ss*; *das* is the article or pronoun.",
+      "Mixing *weil* and *denn*: ✗ *…, denn ich krank bin.* → ✓ *…, denn ich bin krank.* / *…, weil ich krank bin.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich gehe nach Hause, weil ich müde {{c1::bin::sein}}.",
+      "en": "I'm going home because I'm tired.",
+      "focus": "Grund · Nebensatz",
+      "explanation": "*weil* introduces a Nebensatz that gives the reason. In a Nebensatz the finite verb goes to the very end: *weil* + *ich* + *müde* + **bin**. Compare *denn ich bin müde*, where the verb stays in position 2.",
+      "pattern": "Hauptsatz, weil + Subjekt + … + Verb",
+      "mistake": {"wrong": "Ich gehe nach Hause, weil ich bin müde.", "why": "You often hear this order in casual speech, but in standard German the verb after *weil* goes to the end: *weil ich müde bin*."},
+      "examples": [
+        {"de": "Er nimmt eine Tablette, weil er Kopfschmerzen hat.", "en": "He's taking a tablet because he has a headache."},
+        {"de": "Wir essen schon jetzt, weil wir Hunger haben.", "en": "We're eating now already because we're hungry."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie lernt Deutsch, weil sie in Berlin arbeiten {{c1::will::wollen}}.",
+      "en": "She's learning German because she wants to work in Berlin.",
+      "focus": "Grund · Modalverb im Nebensatz",
+      "explanation": "The Nebensatz has two verbs: the infinitive *arbeiten* and the finite modal *wollen*. The infinitive comes first and the finite modal is the very last word: *arbeiten* **will**. The *sie*-form of *wollen* has a vowel change and no ending: *sie will*.",
+      "pattern": "…, weil + Subjekt + … + Infinitiv + Modalverb",
+      "mistake": {"wrong": "Sie lernt Deutsch, weil sie will in Berlin arbeiten.", "why": "This is main-clause order. In the Nebensatz the finite modal moves to the end, behind the infinitive: *weil sie in Berlin arbeiten will*."},
+      "examples": [
+        {"de": "Er spart, weil er ein Auto kaufen möchte.", "en": "He's saving because he'd like to buy a car."},
+        {"de": "Ich gehe früh schlafen, weil ich morgen fit sein muss.", "en": "I'm going to bed early because I have to be fit tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir bleiben drinnen, weil es {{c1::regnet::regnen}}.",
+      "en": "We're staying inside because it's raining.",
+      "focus": "Grund · kurzer Nebensatz",
+      "explanation": "This Nebensatz has only the subject *es* and the verb. The verb still takes the last position, which here comes directly after the subject: *weil es* **regnet**. Weather verbs always have the subject *es*.",
+      "pattern": "…, weil + es + Verb",
+      "mistake": {"wrong": "Wir bleiben drinnen, weil regnet es.", "why": "*weil* does not cause inversion. The subject follows the conjunction directly, and the verb comes last: *weil es regnet*."},
+      "examples": [
+        {"de": "Wir fahren langsam, weil es schneit.", "en": "We're driving slowly because it's snowing."},
+        {"de": "Die Straßen sind glatt, weil es friert.", "en": "The roads are icy because it's freezing."}
+      ],
+      "words": [{"de": "drinnen", "en": "inside, indoors"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er ist glücklich, weil er Urlaub {{c1::hat::haben}}.",
+      "en": "He's happy because he's on holiday.",
+      "focus": "Grund · Nomen + Verb am Ende",
+      "explanation": "*Urlaub haben* (to be on holiday) is a noun + verb phrase. In the Nebensatz the noun stays in front and the finite verb **hat** closes the clause. *haben* is irregular in the 3rd person singular: *er hat*.",
+      "pattern": "…, weil + Subjekt + Nomen + haben",
+      "mistake": {"wrong": "Er ist glücklich, weil er hat Urlaub.", "why": "In the *weil* clause the verb must go behind *Urlaub* to the end: *weil er Urlaub hat*."},
+      "examples": [
+        {"de": "Die Kinder sind froh, weil sie heute schulfrei haben.", "en": "The children are happy because they have no school today."},
+        {"de": "Sie ist nervös, weil sie morgen eine Prüfung hat.", "en": "She's nervous because she has an exam tomorrow."}
+      ],
+      "words": [{"de": "Urlaub haben", "en": "to be on holiday"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich glaube, dass das richtig {{c1::ist::sein}}.",
+      "en": "I think that's right.",
+      "focus": "Meinung · Inhaltssatz",
+      "explanation": "*glauben* is followed by a *dass* clause with the content of the opinion. The verb is last: *dass das richtig* **ist**. Two similar words stand side by side here: *dass* is the conjunction (double *s*), *das* is the pronoun 'that' and the subject of the clause.",
+      "pattern": "Ich glaube, dass + Subjekt + … + Verb",
+      "mistake": {"wrong": "Ich glaube, dass das ist richtig.", "why": "After *dass* the clause is a Nebensatz, so *ist* cannot stay in position 2. It goes to the end: *dass das richtig ist*."},
+      "examples": [
+        {"de": "Ich glaube, dass der Laden schon zu ist.", "en": "I think the shop is already closed."},
+        {"de": "Ich glaube, dass die Antwort falsch ist.", "en": "I think the answer is wrong."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie sagt, dass sie morgen {{c1::kommt::kommen}}.",
+      "en": "She says that she's coming tomorrow.",
+      "focus": "Wiedergabe · Zeitangabe im Nebensatz",
+      "explanation": "*sagen* + *dass* reports a statement. The time expression *morgen* stands in the middle of the clause, and the verb **kommt** is at the end. German uses the present tense for a planned future action, like English *is coming*.",
+      "pattern": "sagen, dass + Subjekt + Zeit + Verb",
+      "mistake": {"wrong": "Sie sagt, dass sie kommt morgen.", "why": "In the Nebensatz the time expression comes before the verb, and the verb is the last word: *dass sie morgen kommt*."},
+      "examples": [
+        {"de": "Er sagt, dass er heute später nach Hause kommt.", "en": "He says he's coming home later today."},
+        {"de": "Die Lehrerin sagt, dass der Test nächste Woche stattfindet.", "en": "The teacher says the test is taking place next week."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich denke, dass er Recht {{c1::hat::haben}}.",
+      "en": "I think he's right.",
+      "focus": "Meinung · feste Verbindung",
+      "explanation": "*denken, dass* gives an opinion. The fixed phrase *Recht haben* (to be right) keeps the noun before the verb, and **hat** goes to the end. Since the 2006 spelling rules both *Recht haben* and *recht haben* are correct.",
+      "pattern": "denken, dass + Subjekt + Recht + haben",
+      "mistake": {"wrong": "Ich denke, dass er hat Recht.", "why": "*dass* starts a Nebensatz, so the finite verb moves behind *Recht* to the end: *dass er Recht hat*."},
+      "examples": [
+        {"de": "Ich denke, dass wir genug Zeit haben.", "en": "I think we have enough time."},
+        {"de": "Ich denke, dass sie die Stelle bekommt.", "en": "I think she'll get the job."}
+      ],
+      "words": [{"de": "Recht haben / recht haben", "en": "to be right"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir hoffen, dass das Wetter besser {{c1::wird::werden}}.",
+      "en": "We hope the weather will get better.",
+      "focus": "Hoffnung · Zukunft im Präsens",
+      "explanation": "*hoffen, dass* expresses a hope about the future. German uses the present tense here: **wird** is the 3rd person singular of *werden* (to become); English needs *will get*. The comparative *besser* comes before the finite verb, which is last.",
+      "pattern": "hoffen, dass + Subjekt + Adjektiv + werden",
+      "mistake": {"wrong": "Wir hoffen, dass das Wetter wird besser.", "why": "*wird* is the finite verb of the Nebensatz and must stand at the end: *dass das Wetter besser wird*."},
+      "examples": [
+        {"de": "Ich hoffe, dass der Zug pünktlich ist.", "en": "I hope the train is on time."},
+        {"de": "Sie hofft, dass ihr Sohn die Prüfung schafft.", "en": "She hopes her son passes the exam."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Es ist gut, dass du hier {{c1::bist::sein}}.",
+      "en": "It's good that you're here.",
+      "focus": "*Es ist* + Adjektiv + Inhaltssatz",
+      "explanation": "After *Es ist* + adjective (*gut, schön, wichtig, schade*) a *dass* clause says what is good. *es* is only a placeholder for this clause. The *du*-form of *sein* is **bist**, and it stands at the end.",
+      "pattern": "Es ist + Adjektiv, dass + Subjekt + … + Verb",
+      "mistake": {"wrong": "Es ist gut, dass du bist hier.", "why": "*hier* belongs in the middle of the Nebensatz; the verb *bist* closes it: *dass du hier bist*."},
+      "examples": [
+        {"de": "Es ist schön, dass ihr Zeit habt.", "en": "It's nice that you have time."},
+        {"de": "Es ist schade, dass das Konzert ausfällt.", "en": "It's a pity that the concert is cancelled."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich weiß, dass du Deutsch {{c1::lernst::lernen}}.",
+      "en": "I know that you're learning German.",
+      "focus": "Wissen · Objekt vor dem Verb",
+      "explanation": "*wissen, dass* states a known fact. The object *Deutsch* stands in the middle, and the finite verb **lernst** (stem *lern-* + *-st* for *du*) is the last word. The main clause *Ich weiß* keeps normal order.",
+      "pattern": "wissen, dass + Subjekt + Objekt + Verb",
+      "mistake": {"wrong": "Ich weiß, dass lernst du Deutsch.", "why": "There is no inversion after *dass*. The subject *du* follows the conjunction, and the verb goes to the end: *dass du Deutsch lernst*."},
+      "examples": [
+        {"de": "Ich weiß, dass er in Graz wohnt.", "en": "I know that he lives in Graz."},
+        {"de": "Wir wissen, dass ihr viel arbeitet.", "en": "We know that you work a lot."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie ist traurig, weil ihre Katze krank {{c1::ist::sein}}.",
+      "en": "She's sad because her cat is sick.",
+      "focus": "Grund · Nomen als Subjekt im Nebensatz",
+      "explanation": "The subject of the Nebensatz is a noun phrase, *ihre Katze*, and it is different from the subject of the main clause (*sie*). It follows *weil* directly; then come the adjective *krank* and the verb **ist** at the end.",
+      "pattern": "…, weil + Nomen-Subjekt + Adjektiv + sein",
+      "mistake": {"wrong": "Sie ist traurig, weil ist ihre Katze krank.", "why": "*weil* is not followed by the verb. Subject first, verb last: *weil ihre Katze krank ist*."},
+      "examples": [
+        {"de": "Er ist sauer, weil sein Auto kaputt ist.", "en": "He's annoyed because his car is broken."},
+        {"de": "Wir sind froh, weil unser Sohn wieder gesund ist.", "en": "We're glad because our son is healthy again."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich freue mich, dass du mich {{c1::besuchst::besuchen}}.",
+      "en": "I'm glad that you're visiting me.",
+      "focus": "*sich freuen* + Inhaltssatz · Pronomen im Nebensatz",
+      "explanation": "*sich freuen, dass* (to be glad that) is followed by a *dass* clause. The first *mich* is the reflexive pronoun of *sich freuen*; the second *mich* is the Akkusativ object of *besuchen*. In the Nebensatz the object pronoun stays right after the subject *du*, and **besuchst** goes to the end.",
+      "pattern": "sich freuen, dass + Subjekt + Pronomen + Verb",
+      "mistake": {"wrong": "Ich freue mich, dass du besuchst mich.", "why": "The pronoun object stays in the middle of the Nebensatz, and the verb moves to the end: *dass du mich besuchst*."},
+      "examples": [
+        {"de": "Ich freue mich, dass ihr uns helft.", "en": "I'm glad that you're helping us."},
+        {"de": "Wir freuen uns, dass du uns einlädst.", "en": "We're glad that you're inviting us."}
+      ],
+      "words": [{"de": "sich freuen, dass …", "en": "to be glad that …"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie weint, weil ihr Hund krank {{c1::ist::sein}}.",
+      "en": "She's crying because her dog is sick.",
+      "focus": "Grund · Possessivartikel im Nebensatz",
+      "explanation": "*ihr Hund* (her dog) is the subject of the Nebensatz; *ihr* refers back to *sie*. Order: *weil* + subject + *krank* + **ist**. The comma before *weil* is always required.",
+      "pattern": "…, weil + Possessiv + Nomen + Adjektiv + sein",
+      "mistake": {"wrong": "Sie weint, denn ihr Hund krank ist.", "why": "This mixes *denn* with *weil* word order. Either *weil ihr Hund krank ist* (verb last) or *denn ihr Hund ist krank* (verb in position 2)."},
+      "examples": [
+        {"de": "Er lacht, weil sein Freund einen Witz erzählt.", "en": "He's laughing because his friend is telling a joke."},
+        {"de": "Das Mädchen weint, weil ihr Eis auf den Boden gefallen ist.", "en": "The girl is crying because her ice cream fell on the ground."}
+      ],
+      "words": [{"de": "weinen", "en": "to cry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich nehme einen Pullover, weil es kalt {{c1::wird::werden}}.",
+      "en": "I'm taking a sweater because it's getting cold.",
+      "focus": "Grund · *werden* als Vollverb",
+      "explanation": "*kalt werden* means 'to get cold'; *wird* is the irregular 3rd person singular of *werden*. Here *werden* is a full verb (to become), not the future auxiliary. In the Nebensatz the adjective comes first and **wird** is last.",
+      "pattern": "…, weil es + Adjektiv + werden",
+      "mistake": {"wrong": "Ich nehme einen Pullover, weil es wird kalt.", "why": "*wird* is the finite verb of the *weil* clause, so it goes to the end: *weil es kalt wird*."},
+      "examples": [
+        {"de": "Wir gehen nach Hause, weil es dunkel wird.", "en": "We're going home because it's getting dark."},
+        {"de": "Sie zieht eine Jacke an, weil es abends kühl wird.", "en": "She's putting on a jacket because it gets cool in the evening."}
+      ],
+      "words": [{"de": "der Pullover (-)", "en": "sweater, jumper"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er kommt nicht, weil er keine Zeit {{c1::hat::haben}}.",
+      "en": "He's not coming because he has no time.",
+      "focus": "Grund · Negation mit *kein* im Nebensatz",
+      "explanation": "The main clause has *nicht*, the Nebensatz has *keine*. The negated object *keine Zeit* stays in the middle of the Nebensatz; only the finite verb **hat** moves to the end: *weil* + *er* + *keine Zeit* + *hat*.",
+      "pattern": "…, weil + Subjekt + kein- + Nomen + Verb",
+      "mistake": {"wrong": "Er kommt nicht, weil er hat keine Zeit.", "why": "In the *weil* clause *hat* must follow *keine Zeit*, at the very end: *weil er keine Zeit hat*."},
+      "examples": [
+        {"de": "Sie kauft das Kleid nicht, weil sie kein Geld hat.", "en": "She isn't buying the dress because she has no money."},
+        {"de": "Wir gehen nicht ins Kino, weil wir keine Lust haben.", "en": "We're not going to the cinema because we don't feel like it."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir wissen, dass du Recht {{c1::hast::haben}}.",
+      "en": "We know that you're right.",
+      "focus": "Wissen · Konjunktion nötig",
+      "explanation": "The *du*-form of *haben* is irregular: **hast** (the *b* drops). It goes to the end of the *dass* clause, after *Recht*. The main clause has the plural subject *wir*, so its verb is *wissen*.",
+      "pattern": "wissen, dass + du + Recht + hast",
+      "mistake": {"wrong": "Wir wissen, du Recht hast.", "why": "Verb-final order needs a conjunction. Without *dass* the clause would be a main clause with the verb second (*du hast Recht*); with verb-final order you must say *dass du Recht hast*."},
+      "examples": [
+        {"de": "Wir wissen, dass ihr müde seid.", "en": "We know that you're tired."},
+        {"de": "Alle wissen, dass er gern kocht.", "en": "Everyone knows that he likes cooking."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie hofft, dass ihre Eltern bald {{c1::kommen::Verb · 3. Pl.}}.",
+      "en": "She hopes her parents will come soon.",
+      "focus": "Hoffnung · Subjekt im Plural",
+      "explanation": "The subject of the *dass* clause is plural, *ihre Eltern*, so the verb is **kommen** (3rd person plural = the infinitive form). It goes to the end; *bald* stays in the middle. As usual with *hoffen*, German uses the present tense for the future.",
+      "pattern": "hoffen, dass + Subjekt (Pl.) + Zeit + Verb",
+      "mistake": {"wrong": "Sie hofft, dass ihre Eltern kommen bald.", "why": "The time adverb *bald* comes before the verb, and the verb is the last word of the Nebensatz: *dass ihre Eltern bald kommen*."},
+      "examples": [
+        {"de": "Er hofft, dass seine Freunde ihn besuchen.", "en": "He hopes his friends will visit him."},
+        {"de": "Wir hoffen, dass die Preise bald sinken.", "en": "We hope prices will go down soon."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich glaube, dass du das gut {{c1::machst::machen}}.",
+      "en": "I think you're doing that well.",
+      "focus": "Meinung · *das* als Objekt im Nebensatz",
+      "explanation": "Here *dass* is the conjunction and *das* is the Akkusativ object ('that'). Order in the Nebensatz: *dass* + subject *du* + object *das* + adverb *gut* + **machst**.",
+      "pattern": "glauben, dass + Subjekt + Objekt + Adverb + Verb",
+      "mistake": {"wrong": "Ich glaube, dass du machst das gut.", "why": "The verb *machst* cannot stay in position 2 in a *dass* clause; it goes after *das gut* to the end."},
+      "examples": [
+        {"de": "Ich glaube, dass sie das schnell lernt.", "en": "I think she'll learn that quickly."},
+        {"de": "Ich glaube, dass er das allein schafft.", "en": "I think he can manage that on his own."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Es tut mir leid, dass du krank {{c1::bist::sein}}.",
+      "en": "I'm sorry that you're ill.",
+      "focus": "Mitgefühl · *Es tut mir leid* + Inhaltssatz",
+      "explanation": "*Es tut mir leid, dass …* expresses sympathy or an apology; *leid* is written in lower case in this phrase. The *dass* clause ends with **bist**, the *du*-form of *sein*.",
+      "pattern": "Es tut mir leid, dass + Subjekt + … + Verb",
+      "mistake": {"wrong": "Es tut mir leid, dass du bist krank.", "why": "*bist* is the finite verb of the Nebensatz and must come after *krank*: *dass du krank bist*."},
+      "examples": [
+        {"de": "Es tut mir leid, dass ihr so lange warten müsst.", "en": "I'm sorry that you have to wait so long."},
+        {"de": "Es tut mir leid, dass dein Urlaub so kurz war.", "en": "I'm sorry that your holiday was so short."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir denken, dass alles in Ordnung {{c1::ist::sein}}.",
+      "en": "We think everything is fine.",
+      "focus": "Meinung · *alles* als Subjekt",
+      "explanation": "*alles* is grammatically singular, so the verb is **ist**, not *sind*. *in Ordnung* stands before the verb, which closes the *dass* clause.",
+      "pattern": "denken, dass + alles + … + ist",
+      "mistake": {"wrong": "Wir denken, dass ist alles in Ordnung.", "why": "After *dass* the subject comes first and the verb last: *dass alles in Ordnung ist*."},
+      "examples": [
+        {"de": "Wir denken, dass niemand zu Hause ist.", "en": "We think nobody is at home."},
+        {"de": "Ich denke, dass alles gut geht.", "en": "I think everything will go well."}
+      ],
+      "words": [{"de": "in Ordnung", "en": "fine, all right"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich bleibe heute zu Hause, weil ich krank {{c1::bin::sein}}.",
+      "en": "I'm staying at home today because I'm ill.",
+      "focus": "Grund · Verb ganz am Ende",
+      "explanation": "The main clause gives the result (*zu Hause bleiben*), the Nebensatz gives the reason. A comma separates them. In the Nebensatz the finite verb is the very last word: **bin**.",
+      "pattern": "Hauptsatz, weil + Subjekt + Adjektiv + sein",
+      "mistake": {"wrong": "Ich bleibe heute zu Hause, weil bin ich krank.", "why": "*weil* does not count as position 1, and a Nebensatz never has inversion. Subject first, verb last: *weil ich krank bin*."},
+      "examples": [
+        {"de": "Sie geht heute nicht zur Arbeit, weil sie Fieber hat.", "en": "She isn't going to work today because she has a temperature."},
+        {"de": "Ich rufe den Arzt an, weil mein Rücken wehtut.", "en": "I'm calling the doctor because my back hurts."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Sie sagt, dass sie später {{c1::kommt::kommen}}.",
+      "en": "She says that she's coming later.",
+      "focus": "Inhaltssatz als Objekt von *sagen*",
+      "explanation": "The *dass* clause is the content of what she says, the object of *sagen*. It is a Nebensatz, so *sie* follows the conjunction, the adverb *später* stands in the middle, and **kommt** is last. Without *dass*: *Sie sagt, sie kommt später.*",
+      "pattern": "sagen, dass + Subjekt + Adverb + Verb",
+      "mistake": {"wrong": "Sie sagt, dass kommt sie später.", "why": "A *dass* clause has no inversion. The subject comes right after *dass*, and the verb is at the end: *dass sie später kommt*."},
+      "examples": [
+        {"de": "Mein Kollege sagt, dass er heute im Homeoffice arbeitet.", "en": "My colleague says he's working from home today."},
+        {"de": "Der Kellner sagt, dass die Küche gleich schließt.", "en": "The waiter says the kitchen is closing soon."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Ich weiß, dass du recht {{c1::hast::haben}}.",
+      "en": "I know that you're right.",
+      "focus": "Hauptsatz normal · nur der Nebensatz ändert sich",
+      "explanation": "Only the Nebensatz changes its order; the main clause *Ich weiß* keeps the verb in position 2. In the *dass* clause, **hast** goes to the end after *recht*. *recht haben* may be written with a small or a capital *r*.",
+      "pattern": "Subjekt + Verb (Pos. 2), dass + … + Verb",
+      "mistake": {"wrong": "Ich weiß, dass du hast recht.", "why": "Only the verb of the *dass* clause changes its place: *hast* goes to the very end, behind *recht*. The main clause *Ich weiß* keeps its verb in position 2."},
+      "examples": [
+        {"de": "Ich weiß, dass du keine Zeit hast.", "en": "I know that you don't have time."},
+        {"de": "Er weiß, dass seine Frau gern reist.", "en": "He knows that his wife likes travelling."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er kommt nicht, weil er arbeiten {{c1::muss::müssen}}.",
+      "en": "He isn't coming because he has to work.",
+      "focus": "Grund · Modalverb zuletzt",
+      "explanation": "With a modal in the Nebensatz, the **modal** is the last word and the infinitive comes just before it: *arbeiten* **muss**. *müssen* has a vowel change in the singular: *ich/er muss*.",
+      "pattern": "…, weil + Subjekt + Infinitiv + Modalverb",
+      "mistake": {"wrong": "Er kommt nicht, weil er muss arbeiten.", "why": "*muss arbeiten* is main-clause order. In the Nebensatz the finite modal moves behind the infinitive: *weil er arbeiten muss*."},
+      "examples": [
+        {"de": "Ich kann nicht mitkommen, weil ich lernen muss.", "en": "I can't come along because I have to study."},
+        {"de": "Sie bleibt im Büro, weil sie noch telefonieren muss.", "en": "She's staying in the office because she still has to make a phone call."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Es tut mir leid, dass ich zu spät {{c1::gekommen::kommen → Partizip II}} bin.",
+      "en": "I'm sorry that I came late.",
+      "focus": "Inhaltssatz · Perfekt mit *sein*",
+      "explanation": "In the Perfekt the Nebensatz ends with two verbs: first the Partizip II **gekommen**, then the finite auxiliary *bin*. *kommen* forms the Perfekt with *sein*. In a main clause the order is reversed: *Ich bin zu spät gekommen.*",
+      "pattern": "…, dass + Subjekt + … + Partizip II + Hilfsverb",
+      "mistake": {"wrong": "Es tut mir leid, dass ich bin zu spät gekommen.", "why": "In the Nebensatz the auxiliary *bin* is the finite verb and must be the very last word: *dass ich zu spät gekommen bin*."},
+      "examples": [
+        {"de": "Es tut mir leid, dass ich deinen Geburtstag vergessen habe.", "en": "I'm sorry that I forgot your birthday."},
+        {"de": "Er ärgert sich, dass er den Zug verpasst hat.", "en": "He's annoyed that he missed the train."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich glaube nicht, dass das {{c1::stimmt::stimmen}}.",
+      "en": "I don't think that's true.",
+      "focus": "Negation im Hauptsatz",
+      "explanation": "German usually puts *nicht* in the main clause (*Ich glaube nicht, dass …*), like English *I don't think …*. The *dass* clause itself is positive: *dass das* **stimmt**. *stimmen* here means 'to be true, to be correct'.",
+      "pattern": "Ich glaube nicht, dass + Subjekt + Verb",
+      "mistake": {"wrong": "Ich glaube nicht, dass stimmt das.", "why": "After *dass* the subject *das* comes first and the verb *stimmt* goes to the end."},
+      "examples": [
+        {"de": "Ich glaube nicht, dass er heute noch kommt.", "en": "I don't think he's coming today."},
+        {"de": "Ich glaube nicht, dass das Restaurant sonntags offen hat.", "en": "I don't think the restaurant is open on Sundays."}
+      ],
+      "words": [{"de": "stimmen", "en": "to be true, to be correct"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Weil das Wetter schlecht {{c1::war::sein → Präteritum}}, sind wir zu Hause geblieben.",
+      "en": "Because the weather was bad, we stayed at home.",
+      "focus": "Nebensatz zuerst · Verb, Verb",
+      "explanation": "The Nebensatz comes first and fills position 1 of the whole sentence. Inside it the verb **war** is last. The main clause then starts with its finite verb *sind* (position 2), so two verbs meet at the comma: *…war, sind wir …*",
+      "pattern": "Weil + … + Verb, + Verb (Hauptsatz) + Subjekt …",
+      "mistake": {"wrong": "Weil das Wetter schlecht war, wir sind zu Hause geblieben.", "why": "The *weil* clause already fills position 1. The main clause must continue with the finite verb: *…, sind wir zu Hause geblieben*."},
+      "examples": [
+        {"de": "Weil der Film langweilig war, sind wir früher gegangen.", "en": "Because the film was boring, we left early."},
+        {"de": "Weil sie krank war, hat sie die Party abgesagt.", "en": "Because she was ill, she cancelled the party."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Wir hoffen, dass es dir bald besser {{c1::geht::gehen}}.",
+      "en": "We hope you'll feel better soon.",
+      "focus": "Inhaltssatz · Befinden + Dativ",
+      "explanation": "*Es geht dir gut / besser* has the subject *es* and the person in the Dativ (*dir*). In the *dass* clause the order is *es* + *dir* + *bald besser* + **geht**: the Nominativ pronoun first, then the Dativ pronoun, and the verb at the end.",
+      "pattern": "hoffen, dass es + Dativ + … + geht",
+      "mistake": {"wrong": "Wir hoffen, dass es geht dir bald besser.", "why": "The verb *geht* is the finite verb of the Nebensatz and must be at the end: *dass es dir bald besser geht*."},
+      "examples": [
+        {"de": "Ich hoffe, dass es deiner Mutter wieder gut geht.", "en": "I hope your mother is well again."},
+        {"de": "Wir hoffen, dass es euch in Berlin gefällt.", "en": "We hope you like it in Berlin."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich habe gehört, dass sie umgezogen {{c1::ist::sein}}.",
+      "en": "I heard that she has moved.",
+      "focus": "Inhaltssatz · Hilfsverb am Ende",
+      "explanation": "*umziehen* (to move house) is a change of place, so it forms the Perfekt with *sein*. In the Nebensatz the auxiliary **ist** is the last word, after the Partizip II *umgezogen*. The main clause is in the Perfekt too: *Ich habe gehört*.",
+      "pattern": "…, dass + Subjekt + Partizip II + sein",
+      "mistake": {"wrong": "Ich habe gehört, dass sie ist umgezogen.", "why": "The auxiliary *ist* is the finite verb of the Nebensatz, so it goes behind the participle: *dass sie umgezogen ist*."},
+      "examples": [
+        {"de": "Ich habe gehört, dass er nach Spanien gezogen ist.", "en": "I heard that he has moved to Spain."},
+        {"de": "Sie hat erzählt, dass ihre Tochter nach London gegangen ist.", "en": "She told us that her daughter has gone to London."}
+      ],
+      "words": [{"de": "umziehen", "en": "to move (house)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Sie ist zufrieden, weil sie den Job {{c1::bekommen::bekommen → Partizip II}} hat.",
+      "en": "She's happy because she got the job.",
+      "focus": "Grund · Perfekt · untrennbares Präfix",
+      "explanation": "*bekommen* has the inseparable prefix *be-*, so its Partizip II has no *ge-*: **bekommen** looks like the infinitive. In the Nebensatz the participle comes first and the auxiliary *hat* last, the reverse of the main clause *Sie hat den Job bekommen*.",
+      "pattern": "…, weil + Subjekt + Objekt + Partizip II + haben",
+      "mistake": {"wrong": "Sie ist zufrieden, weil sie den Job hat bekommen.", "why": "In a Nebensatz the finite auxiliary is the last word: *weil sie den Job bekommen hat*."},
+      "examples": [
+        {"de": "Er ist glücklich, weil er eine Wohnung gefunden hat.", "en": "He's happy because he found a flat."},
+        {"de": "Wir sind stolz, weil unsere Tochter die Prüfung bestanden hat.", "en": "We're proud because our daughter passed the exam."}
+      ],
+      "words": [{"de": "zufrieden", "en": "satisfied, content"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Es ist wichtig, dass du jeden Tag {{c1::übst::üben}}.",
+      "en": "It's important that you practise every day.",
+      "focus": "Rat · *Es ist wichtig* + Inhaltssatz",
+      "explanation": "*Es ist wichtig, dass …* is a common way to give advice. Order in the Nebensatz: *dass* + subject *du* + time *jeden Tag* + **übst**. *jeden Tag* is Akkusativ, a time expression without a preposition.",
+      "pattern": "Es ist wichtig, dass + Subjekt + Zeit + Verb",
+      "mistake": {"wrong": "Es ist wichtig, dass übst du jeden Tag.", "why": "A *dass* clause never starts with the verb. The subject follows *dass*, and *übst* goes to the end."},
+      "examples": [
+        {"de": "Es ist wichtig, dass ihr genug schlaft.", "en": "It's important that you get enough sleep."},
+        {"de": "Es ist wichtig, dass Kinder viel draußen spielen.", "en": "It's important that children play outside a lot."}
+      ],
+      "words": [{"de": "üben", "en": "to practise"}],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich frage mich, warum er nicht {{c1::antwortet::antworten}}.",
+      "en": "I wonder why he isn't answering.",
+      "focus": "Indirekte Frage · auch ein Nebensatz",
+      "explanation": "This is an indirect question, another kind of Nebensatz. The question word *warum* works like *weil* or *dass*: the finite verb **antwortet** goes to the end. *antworten* has a stem ending in *-t*, so the 3rd person singular needs an extra *e*: *antwortet*.",
+      "pattern": "…, W-Wort + Subjekt + … + Verb",
+      "mistake": {"wrong": "Ich frage mich, warum antwortet er nicht.", "why": "That is the order of a direct question. In an indirect question the verb goes to the end: *warum er nicht antwortet*."},
+      "examples": [
+        {"de": "Ich frage mich, warum der Bus heute so spät kommt.", "en": "I wonder why the bus is so late today."},
+        {"de": "Weißt du, warum sie heute nicht da ist?", "en": "Do you know why she isn't here today?"}
+      ],
+      "words": [{"de": "sich fragen", "en": "to wonder"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Er sagt, er {{c1::hat::haben}} keine Zeit.",
+      "en": "He says he has no time.",
+      "focus": "Ohne Konjunktion · Hauptsatz-Wortstellung",
+      "explanation": "After verbs of saying and thinking (*sagen, glauben, denken, meinen*) you can leave out *dass*. The second clause is then a main clause with the verb in position 2: *er* **hat** *keine Zeit*. With *dass* it is *Er sagt, dass er keine Zeit hat.* In formal writing, reported speech often uses Konjunktiv I: *er habe*.",
+      "pattern": "sagen, + Hauptsatz (Verb Pos. 2)",
+      "mistake": {"wrong": "Er sagt, er keine Zeit hat.", "why": "Without *dass* there is no Nebensatz, so the verb cannot go to the end. Either *er hat keine Zeit* or *dass er keine Zeit hat*."},
+      "examples": [
+        {"de": "Sie meint, der Test ist nicht so schwer.", "en": "She thinks the test isn't that hard."},
+        {"de": "Ich glaube, wir haben noch genug Zeit.", "en": "I think we still have enough time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir gehen ins Bett, weil wir morgen früh {{c1::aufstehen::trennbares Verb · Infinitiv}} müssen.",
+      "en": "We're going to bed because we have to get up early tomorrow.",
+      "focus": "Grund · trennbares Verb + Modalverb",
+      "explanation": "With a modal in the Nebensatz, the separable verb stays in one piece as an infinitive (**aufstehen**), and the finite modal *müssen* comes last. Compare the main clause: *Wir müssen morgen früh aufstehen.*",
+      "pattern": "…, weil + Subjekt + … + trennbarer Infinitiv + Modalverb",
+      "mistake": {"wrong": "Wir gehen ins Bett, weil wir müssen morgen früh aufstehen.", "why": "The finite modal *müssen* must be the last word of the Nebensatz, behind the infinitive: *aufstehen müssen*."},
+      "examples": [
+        {"de": "Sie bleibt zu Hause, weil sie die Wohnung aufräumen will.", "en": "She's staying at home because she wants to tidy the flat."},
+        {"de": "Er fährt früh los, weil er vorher noch tanken muss.", "en": "He's leaving early because he still has to get petrol first."}
+      ],
+      "words": [{"de": "aufstehen", "en": "to get up"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Weil::Grund}} der Aufzug kaputt ist, nehmen wir die Treppe.",
+      "en": "Because the lift is broken, we're taking the stairs.",
+      "focus": "Grund · Nebensatz am Satzanfang",
+      "explanation": "The reason comes first, so the conjunction must be **weil**: a *denn* clause can never open a sentence. The whole Nebensatz fills position 1, so the main clause continues with its finite verb: *ist, nehmen wir*.",
+      "pattern": "Weil + Subjekt + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Denn der Aufzug kaputt ist, nehmen wir die Treppe.", "why": "*denn* cannot stand at the start and never has verb-final order. A reason before the main clause needs *weil*."},
+      "examples": [
+        {"de": "Weil die Bibliothek heute geschlossen ist, lerne ich zu Hause.", "en": "Because the library is closed today, I'm studying at home."},
+        {"de": "Weil meine Kollegin krank ist, arbeite ich heute länger.", "en": "Because my colleague is ill, I'm working longer today."}
+      ],
+      "words": [{"de": "der Aufzug (¨-e)", "en": "lift, elevator"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich bin froh, {{c1::dass::Inhaltssatz}} die Prüfung endlich vorbei ist.",
+      "en": "I'm glad that the exam is finally over.",
+      "focus": "Gefühl + Inhaltssatz",
+      "explanation": "Adjectives of feeling or certainty (*froh, traurig, enttäuscht, sicher*) are often followed by a **dass** clause that names the content of the feeling: what am I glad about? *weil* is also possible, but *dass* is the usual choice. In the Nebensatz *endlich vorbei* comes before the verb *ist*.",
+      "pattern": "Subjekt + sein + Adjektiv, dass + … + Verb",
+      "mistake": {"wrong": "Ich bin froh, dass die Prüfung ist endlich vorbei.", "why": "*ist* is the finite verb of the Nebensatz and must be the last word: *dass die Prüfung endlich vorbei ist*."},
+      "examples": [
+        {"de": "Wir sind froh, dass alle gesund sind.", "en": "We're glad that everyone is healthy."},
+        {"de": "Sie ist enttäuscht, dass niemand angerufen hat.", "en": "She's disappointed that nobody called."}
+      ],
+      "words": [{"de": "vorbei sein", "en": "to be over"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Er kann heute nicht kommen, weil er seine Tochter vom Kindergarten {{c1::abholen muss::abholen + müssen}}.",
+      "en": "He can't come today because he has to pick his daughter up from nursery.",
+      "focus": "Zwei Verben am Ende · trennbares Verb",
+      "explanation": "Two verbs end the Nebensatz: the infinitive **abholen** (the separable verb stays together) and then the finite modal **muss**. The modal is always the very last word: *abholen muss*, never *muss abholen*.",
+      "pattern": "…, weil + Subjekt + … + Infinitiv + Modalverb",
+      "mistake": {"wrong": "Er kann heute nicht kommen, weil er muss seine Tochter vom Kindergarten abholen.", "why": "That is main-clause order. In a *weil* clause the finite modal moves to the end: *weil er seine Tochter … abholen muss*."},
+      "examples": [
+        {"de": "Sie ist im Stress, weil sie bis Freitag umziehen muss.", "en": "She's stressed because she has to move by Friday."},
+        {"de": "Wir beeilen uns, weil wir um acht Uhr losfahren wollen.", "en": "We're hurrying because we want to set off at eight."}
+      ],
+      "words": [{"de": "abholen", "en": "to pick up, to collect"}, {"de": "der Kindergarten (¨)", "en": "nursery school"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Es ist schön, dass ihr euch so gut {{c1::versteht::verstehen}}.",
+      "en": "It's nice that you get on so well.",
+      "focus": "Reflexivpronomen im Nebensatz",
+      "explanation": "*sich verstehen* (to get on with each other) is reflexive. In the Nebensatz the reflexive pronoun *euch* stays directly after the subject *ihr*, and the finite verb **versteht** (*ihr*-form: stem + *-t*) goes to the end.",
+      "pattern": "…, dass + Subjekt + Reflexivpronomen + … + Verb",
+      "mistake": {"wrong": "Es ist schön, dass ihr versteht euch so gut.", "why": "Only the verb moves to the end; the reflexive pronoun stays right after the subject: *dass ihr euch so gut versteht*."},
+      "examples": [
+        {"de": "Ich finde es gut, dass du dich für Politik interessierst.", "en": "I think it's good that you're interested in politics."},
+        {"de": "Es ist toll, dass sie sich jeden Tag bewegt.", "en": "It's great that she exercises every day."}
+      ],
+      "words": [{"de": "sich gut verstehen", "en": "to get on well"}],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Dass::Inhaltssatz}} er gekündigt hat, überrascht mich nicht.",
+      "en": "It doesn't surprise me that he has quit his job.",
+      "focus": "Inhaltssatz im Vorfeld",
+      "explanation": "A **dass** clause can also stand in position 1. Then it is the subject of the main clause, and the main verb *überrascht* follows directly after the comma. The more common order is *Es überrascht mich nicht, dass er gekündigt hat.*",
+      "pattern": "Dass + … + Verb, Verb (Hauptsatz) + …",
+      "mistake": {"wrong": "Dass er gekündigt hat, es überrascht mich nicht.", "why": "The *dass* clause is already the subject in position 1. The main clause continues with its verb, and there is no extra *es*: *…, überrascht mich nicht*."},
+      "examples": [
+        {"de": "Dass du so früh gekommen bist, freut mich.", "en": "I'm pleased that you came so early."},
+        {"de": "Dass der Zug Verspätung hat, ist leider normal.", "en": "Unfortunately, it's normal for the train to be late."}
+      ],
+      "words": [{"de": "kündigen", "en": "to quit (a job), to hand in one's notice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Hast du schon gehört, {{c1::dass::Konjunktion}} das Konzert morgen ausfällt?",
+      "en": "Have you heard that tomorrow's concert is cancelled?",
+      "focus": "Schreibung · Konjunktion vor Artikel",
+      "explanation": "Two similar words stand side by side: **dass**, the conjunction that starts the Nebensatz, and *das*, the article of *Konzert*. Test: if you can replace the word with *dieses* or *welches*, write *das*; if not, it is the conjunction with *ss*. *ausfallen* is separable, but in the Nebensatz it stays together at the end: *ausfällt*.",
+      "pattern": "Frage, dass + das + Nomen + … + Verb?",
+      "mistake": {"wrong": "Hast du schon gehört, das das Konzert morgen ausfällt?", "why": "The first word is the conjunction, not an article: you cannot replace it with *dieses*. The conjunction is always written *dass*."},
+      "examples": [
+        {"de": "Wusstest du, dass das Museum montags geschlossen ist?", "en": "Did you know that the museum is closed on Mondays?"},
+        {"de": "Ich finde, dass das Essen hier zu salzig ist.", "en": "I think the food here is too salty."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir sind zu Hause geblieben, weil unser Sohn Fieber {{c1::hatte::haben → Präteritum}}.",
+      "en": "We stayed at home because our son had a temperature.",
+      "focus": "Grund · Präteritum im Nebensatz",
+      "explanation": "The main clause is in the Perfekt, the Nebensatz uses the Präteritum of *haben*: **hatte**. For *haben* and *sein* the Präteritum is normal, even in speech. It is the only verb of the Nebensatz, so it stands at the end.",
+      "pattern": "Perfekt-Hauptsatz, weil + … + hatte/war",
+      "mistake": {"wrong": "Wir sind zu Hause geblieben, weil unser Sohn hatte Fieber.", "why": "The tense does not change the rule: in the *weil* clause *hatte* goes to the end, after *Fieber*."},
+      "examples": [
+        {"de": "Ich bin nicht gekommen, weil ich keine Zeit hatte.", "en": "I didn't come because I had no time."},
+        {"de": "Sie hat ein Taxi genommen, weil es schon so spät war.", "en": "She took a taxi because it was already so late."}
+      ],
+      "words": [{"de": "Fieber haben", "en": "to have a temperature"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Sie ist so müde, weil sie heute um vier Uhr {{c1::aufgestanden::aufstehen → Partizip II}} ist.",
+      "en": "She's so tired because she got up at four o'clock today.",
+      "focus": "Grund · Perfekt eines trennbaren Verbs",
+      "explanation": "*aufstehen* is separable and forms the Perfekt with *sein*. The Partizip II puts *-ge-* between the prefix and the stem: *auf-ge-standen* → **aufgestanden**. In the Nebensatz the participle comes before the auxiliary *ist*, which is the last word.",
+      "pattern": "…, weil + Subjekt + … + Partizip II + sein",
+      "mistake": {"wrong": "Sie ist so müde, weil sie heute um vier Uhr ist aufgestanden.", "why": "The auxiliary *ist* is the finite verb and goes to the very end, behind the participle: *aufgestanden ist*."},
+      "examples": [
+        {"de": "Er hat Hunger, weil er nicht gefrühstückt hat.", "en": "He's hungry because he didn't have breakfast."},
+        {"de": "Ich bin nervös, weil mein Flug noch nicht angekommen ist.", "en": "I'm nervous because my flight hasn't arrived yet."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Weißt du, dass sie ihm das Geld schon {{c1::zurückgegeben::zurückgeben → Partizip II}} hat?",
+      "en": "Do you know that she's already given him the money back?",
+      "focus": "Inhaltssatz nach Frage · Dativ und Akkusativ",
+      "explanation": "The *dass* clause depends on the question *Weißt du*, so the sentence ends with a question mark. Inside it: subject *sie*, Dativ pronoun *ihm*, Akkusativ *das Geld*, the adverb *schon*, then the Partizip II **zurückgegeben** and the auxiliary *hat* last.",
+      "pattern": "Weißt du, dass + Subjekt + Dat. + Akk. + Partizip II + haben?",
+      "mistake": {"wrong": "Weißt du, dass sie hat ihm das Geld schon zurückgegeben?", "why": "The question form is only in the main clause (*Weißt du*). The *dass* clause keeps Nebensatz order with *hat* at the end."},
+      "examples": [
+        {"de": "Weißt du, dass er ihr einen Ring geschenkt hat?", "en": "Do you know that he gave her a ring?"},
+        {"de": "Wusstest du, dass Anna uns ihr Auto geliehen hat?", "en": "Did you know that Anna lent us her car?"}
+      ],
+      "words": [{"de": "zurückgeben", "en": "to give back"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Der Arzt sagt, dass ich mehr Wasser trinken {{c1::soll::sollen}}.",
+      "en": "The doctor says I should drink more water.",
+      "focus": "Rat einer anderen Person · Modalverb",
+      "explanation": "*sollen* in a *dass* clause after *sagen* reports advice or an instruction from another person. The infinitive *trinken* comes first, and the finite modal **soll** is last. The *ich*- and *er*-forms of *sollen* have no ending: *ich soll*.",
+      "pattern": "sagen, dass + Subjekt + … + Infinitiv + sollen",
+      "mistake": {"wrong": "Der Arzt sagt, dass ich soll mehr Wasser trinken.", "why": "In the *dass* clause the finite modal *soll* goes to the end, behind the infinitive: *trinken soll*."},
+      "examples": [
+        {"de": "Meine Chefin sagt, dass ich den Bericht heute schicken soll.", "en": "My boss says I should send the report today."},
+        {"de": "Der Lehrer sagt, dass wir die Wörter lernen sollen.", "en": "The teacher says we should learn the words."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich bin traurig, weil du nicht {{c1::mitkommst::mitkommen}}.",
+      "en": "I'm sad because you're not coming along.",
+      "focus": "Grund · trennbares Verb im Präsens",
+      "explanation": "*mitkommen* is separable. In a main clause it splits (*Du kommst nicht mit.*), but in the Nebensatz prefix and verb join again at the end: **mitkommst**. *nicht* stands directly before the verb.",
+      "pattern": "…, weil + Subjekt + nicht + Präfix·Verb",
+      "mistake": {"wrong": "Ich bin traurig, weil du kommst nicht mit.", "why": "In a Nebensatz a separable verb is not split: the whole verb goes to the end as one word, *mitkommst*."},
+      "examples": [
+        {"de": "Ich bin froh, weil der Kurs bald anfängt.", "en": "I'm glad because the course starts soon."},
+        {"de": "Er ist sauer, weil sein Bruder nie aufräumt.", "en": "He's annoyed because his brother never tidies up."}
+      ],
+      "words": [{"de": "mitkommen", "en": "to come along"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Warum lernst du Deutsch? – {{c1::Weil::Grund}} ich in Wien studieren möchte.",
+      "en": "Why are you learning German? – Because I'd like to study in Vienna.",
+      "focus": "Antwort auf *Warum?*",
+      "explanation": "In an answer to *Warum?* the reason clause can stand alone; the main clause is understood from the question. Only **weil** works here, because a *denn* clause always needs a clause in front of it. The word order is still Nebensatz order: *möchte* at the end.",
+      "pattern": "Warum …? – Weil + Subjekt + … + Verb.",
+      "mistake": {"wrong": "Warum lernst du Deutsch? – Denn ich möchte in Wien studieren.", "why": "*denn* can only join two clauses in one sentence; it cannot start an answer. Answer a *warum* question with *weil* and verb-final order."},
+      "examples": [
+        {"de": "Warum kommst du so spät? – Weil der Bus nicht gefahren ist.", "en": "Why are you so late? – Because the bus didn't run."},
+        {"de": "Warum ist Paul nicht da? – Weil er heute arbeiten muss.", "en": "Why isn't Paul here? – Because he has to work today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about verb position in the Nebensatz.",
+      "prompt": "Where does the finite verb go in a weil- or dass-clause, and what is the order when there are two verbs?",
+      "answer": "The finite verb goes to the **very end**. With two verbs, the infinitive or Partizip II comes first and the finite verb last: *arbeiten **muss***, *gekommen **ist***, *gemacht **hat***.",
+      "explanation": "In a main clause the finite verb is in position 2 and the other verb at the end (*Er muss arbeiten.*). In the Nebensatz the finite verb leaves position 2 and moves behind the other verb. Separable verbs are not split: *dass er heute anruft*.",
+      "examples": [
+        {"de": "Ich weiß, dass sie heute länger arbeiten muss.", "en": "I know that she has to work longer today."},
+        {"de": "Er ist sauer, weil ihm niemand geholfen hat.", "en": "He's annoyed because nobody helped him."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Compare the two conjunctions of reason.",
+      "prompt": "weil and denn both mean 'because'. What are the differences?",
+      "answer": "**weil** starts a Nebensatz: verb at the end; the clause can come first or stand alone as an answer to *Warum?*. **denn** joins two main clauses: verb in position 2; the *denn* clause always comes second.",
+      "explanation": "The meaning is the same, but the grammar is different. *weil* is a subordinating conjunction, *denn* a coordinating one (position 0). That is why *Weil ich müde bin, …* is correct, but a sentence cannot start with *denn*.",
+      "examples": [
+        {"de": "Weil ich müde bin, gehe ich früh ins Bett.", "en": "Because I'm tired, I'm going to bed early."},
+        {"de": "Ich gehe früh ins Bett, denn ich bin müde.", "en": "I'm going to bed early because I'm tired."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about sentences that start with a Nebensatz.",
+      "prompt": "What happens in the main clause when the weil- or dass-clause comes first?",
+      "answer": "The Nebensatz fills **position 1**, so the main clause starts with its **finite verb**, followed by the subject: *Weil es regnet, **bleiben wir** zu Hause.* Two verbs meet at the comma.",
+      "explanation": "German main clauses keep the finite verb in position 2. When the whole Nebensatz is in position 1, the verb of the main clause must come right after it. A common mistake is to start the main clause with the subject (*✗ wir bleiben*).",
+      "examples": [
+        {"de": "Weil der Kühlschrank leer ist, gehen wir einkaufen.", "en": "Because the fridge is empty, we're going shopping."},
+        {"de": "Dass er so gut Spanisch spricht, wusste ich nicht.", "en": "I didn't know that he speaks Spanish so well."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the use of dass.",
+      "prompt": "After which kinds of expressions do you typically use a dass-clause, and when can you leave dass out?",
+      "answer": "After verbs of saying, thinking, knowing and feeling (*sagen, glauben, denken, hoffen, wissen, sich freuen*) and after *Es ist* + adjective (*Es ist wichtig, dass …*). After verbs of saying and thinking you can leave out *dass*; then the clause has **main-clause order** (*Er sagt, er kommt.*).",
+      "explanation": "A *dass* clause gives the content of a statement, thought or feeling; it is not a reason. Without *dass* there is no Nebensatz, so the verb returns to position 2. After *Es ist wichtig* or *sich freuen*, *dass* is normally kept.",
+      "examples": [
+        {"de": "Ich hoffe, dass ihr gut angekommen seid.", "en": "I hope you arrived safely."},
+        {"de": "Sie meint, das Wetter wird morgen besser.", "en": "She thinks the weather will be better tomorrow."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about spelling.",
+      "prompt": "How do you decide between dass and das?",
+      "answer": "**dass** is the conjunction that starts a Nebensatz. **das** is an article or a pronoun. Test: if you can replace the word with *dieses*, *welches* or *es*, write *das*; otherwise write *dass*.",
+      "explanation": "Both words sound the same, so learners often mix them up in writing. In *Ich glaube, dass das stimmt* the first word starts the clause (not replaceable) and the second is the subject pronoun (*dieses stimmt*).",
+      "examples": [
+        {"de": "Ich wusste nicht, dass das Kino so voll ist.", "en": "I didn't know that the cinema is so full."},
+        {"de": "Das Buch, das du mir geliehen hast, ist toll.", "en": "The book that you lent me is great."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "combine",
+      "instruction": "Join the two sentences with *weil*.",
+      "prompt": "Ich kaufe heute ein. Morgen ist der Supermarkt geschlossen.",
+      "answer": "Ich kaufe heute ein, weil der Supermarkt morgen geschlossen ist.",
+      "explanation": "The second sentence is the reason, so it becomes the *weil* clause. After *weil* the subject *der Supermarkt* comes first, the time *morgen* follows, and the verb *ist* moves to the end."
+    },
+    {
+      "key": "d07",
+      "type": "combine",
+      "instruction": "Join the two sentences with *dass*.",
+      "prompt": "Ich weiß. Du hast morgen Geburtstag.",
+      "answer": "Ich weiß, dass du morgen Geburtstag hast.",
+      "explanation": "The second sentence is the content of *Ich weiß*, so it becomes a *dass* clause. The verb *hast* moves from position 2 to the end, behind *Geburtstag*."
+    },
+    {
+      "key": "d08",
+      "type": "combine",
+      "instruction": "Join the two sentences with *weil*. Start with the *weil* clause.",
+      "prompt": "Er hat den Bus verpasst. Er kommt zu spät.",
+      "answer": "Weil er den Bus verpasst hat, kommt er zu spät.",
+      "explanation": "In the *weil* clause the auxiliary *hat* goes to the end, after *verpasst*. The Nebensatz fills position 1, so the main clause starts with the verb *kommt*, followed by *er*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace *denn* with *weil*. Change the word order where necessary.",
+      "prompt": "Ich lerne heute Abend, denn ich schreibe morgen einen Test.",
+      "answer": "Ich lerne heute Abend, weil ich morgen einen Test schreibe.",
+      "explanation": "*denn* keeps the verb in position 2; *weil* starts a Nebensatz. So *schreibe* moves to the end, and the rest (*morgen einen Test*) stays in the middle."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Put the *weil* clause at the beginning of the sentence.",
+      "prompt": "Wir nehmen ein Taxi, weil wir viel Gepäck haben.",
+      "answer": "Weil wir viel Gepäck haben, nehmen wir ein Taxi.",
+      "explanation": "The Nebensatz keeps its own order. In front it fills position 1, so the main clause starts with the finite verb *nehmen*, and *wir* follows it."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Put the *dass* clause into the Perfekt.",
+      "prompt": "Ich glaube, dass sie die E-Mail liest.",
+      "answer": "Ich glaube, dass sie die E-Mail gelesen hat.",
+      "explanation": "*lesen* forms the Perfekt with *haben* and the Partizip II *gelesen*. In the Nebensatz the participle comes first and the finite auxiliary *hat* is the last word."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich bin froh, weil ich habe bald Urlaub.",
+      "answer": "Ich bin froh, weil ich bald Urlaub habe.",
+      "explanation": "The verb *habe* is in position 2, but *weil* starts a Nebensatz. The finite verb must go to the end: *weil ich bald Urlaub habe*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich glaube, dass er heute muss arbeiten.",
+      "answer": "Ich glaube, dass er heute arbeiten muss.",
+      "explanation": "With a modal in the Nebensatz, the infinitive comes first and the finite modal last. *muss arbeiten* must become *arbeiten muss*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Weil ich krank war, ich bin zu Hause geblieben.",
+      "answer": "Weil ich krank war, bin ich zu Hause geblieben.",
+      "explanation": "The *weil* clause is in position 1, so the main clause must start with its finite verb. *ich bin* must be inverted to *bin ich*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich hoffe, das du bald wieder gesund bist.",
+      "answer": "Ich hoffe, dass du bald wieder gesund bist.",
+      "explanation": "The word after the comma is the conjunction that starts the Nebensatz, not an article or pronoun. It is written with *ss*: *dass*."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Ich glaube, ___ der Film um acht Uhr beginnt.",
+      "options": ["weil", "dass", "das", "denn"],
+      "correct": "dass",
+      "answer": "Ich glaube, dass der Film um acht Uhr beginnt.",
+      "explanation": "*glauben* needs a clause with the content of the opinion: *dass*. *weil* would give a reason, which does not fit after *Ich glaube*. *das* is an article or pronoun, and *denn* would need the verb in position 2."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct word for this word order.",
+      "prompt": "Wir können nicht schwimmen gehen, ___ das Wasser zu kalt ist.",
+      "options": ["denn", "weil", "dass"],
+      "correct": "weil",
+      "answer": "Wir können nicht schwimmen gehen, weil das Wasser zu kalt ist.",
+      "explanation": "The second clause is a reason with the verb *ist* at the end, so only *weil* fits. *denn* would need *denn das Wasser ist zu kalt*. *dass* does not give a reason and does not fit after *nicht schwimmen gehen*."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich warte draußen",
+      "prompt": "weil / meinen Schlüssel / habe / ich / vergessen / ich warte draußen",
+      "answer": "Ich warte draußen, weil ich meinen Schlüssel vergessen habe.",
+      "explanation": "After the main clause comes the *weil* clause: subject *ich*, object *meinen Schlüssel*, then the Partizip II *vergessen* and the finite auxiliary *habe* at the very end."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Es ist schade",
+      "prompt": "dass / kommen / du / kannst / nicht / es ist schade",
+      "answer": "Es ist schade, dass du nicht kommen kannst.",
+      "explanation": "*Es ist schade* is followed by a *dass* clause. Inside it: subject *du*, then *nicht*, then the infinitive *kommen* and the finite modal *kannst* as the last word."
+    }
+  ]
+}

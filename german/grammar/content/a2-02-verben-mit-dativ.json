@@ -1,0 +1,1482 @@
+{
+  "topic_id": "a2-02-verben-mit-dativ",
+  "level": "A2",
+  "title_de": "Verben mit Dativ",
+  "title_en": "Verbs with a dative object",
+  "rule": {
+    "summary": "Some verbs have their only object in the **Dativ**, not in the Akkusativ. One group describes actions towards a person (*helfen, danken, antworten, gratulieren, glauben, vertrauen, folgen, begegnen, zuhören*). A second group describes how something affects a person (*gefallen, schmecken, passen, stehen, fehlen, gehören, wehtun, leidtun*): here the **thing is the subject** and the **person is in the Dativ**, often the opposite of English (*I like the flat* → *Die Wohnung gefällt mir.*). The case cannot be guessed from English, so learn each verb with *+ Dat.*",
+    "table": "| Gruppe | Verben | Beispiel |\n|---|---|---|\n| Person → Person | helfen, danken, antworten, gratulieren, glauben, vertrauen, zuhören, zustimmen, widersprechen | *Ich helfe **dir**.* |\n| Sache (Subjekt) → Person (Dativ) | gefallen, schmecken, passen, stehen, fehlen, gehören, wehtun, leidtun, einfallen, schaden | *Die Suppe schmeckt **mir**.* |\n| Perfekt mit *sein* | begegnen, folgen | *Ich **bin** ihm begegnet.* |\n| Dativ-Pronomen | ich → **mir**, du → **dir**, er/es → **ihm**, sie → **ihr**, wir → **uns**, ihr → **euch**, sie → **ihnen**, Sie → **Ihnen** | |",
+    "steps": [
+      "Check the verb: is it on the Dativ list (*helfen, danken, gefallen, gehören …*)? Then its object is Dativ, even when English uses a direct object.",
+      "Find the person or thing in the Dativ and give it the Dativ form: *dem/einem/meinem* (m/n), *der/einer/meiner* (f), *den/meinen* + *-n* (Pl), or a Dativ pronoun (*mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen*).",
+      "With *gefallen, schmecken, passen, stehen, fehlen, gehören, wehtun*: the thing is the subject, so the verb agrees with the thing (*Die Schuhe gefallen mir.*), not with the person.",
+      "Perfekt: most Dativ verbs use *haben* (*Ich habe ihm geholfen.*), but *begegnen* and *folgen* are movement verbs and use *sein* (*Wir sind ihr begegnet.*).",
+      "Separable verbs keep the Dativ: *zuhören, zustimmen, wehtun, leidtun, einfallen* → the prefix goes to the end (*Er hört mir nicht zu.*)."
+    ],
+    "pitfalls": [
+      "Akkusativ because English has a direct object: ✗ *Ich helfe dich.* → ✓ *Ich helfe dir.* (also *danken, antworten, gratulieren, folgen*).",
+      "Making the person the subject of *gefallen*: ✗ *Ich gefalle das Buch.* → ✓ *Das Buch gefällt mir.*",
+      "Reversing *fehlen*: ✗ *Ich fehle dich.* (for *I miss you*) → ✓ *Du fehlst mir.* The person who is missed is the subject.",
+      "*haben* with *begegnen*: ✗ *Ich habe ihm begegnet.* → ✓ *Ich bin ihm begegnet.*",
+      "Mixing up *passen* and *stehen*: *Die Hose passt mir* = it is the right size; *Die Hose steht mir* = it looks good on me."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich helfe {{c1::meiner::mein}} Mutter im Haushalt.",
+      "en": "I help my mother with the housework.",
+      "focus": "Objekt von *helfen* · Possessivartikel",
+      "explanation": "*helfen* always takes a Dativ object (*Wem helfe ich?*). *Mutter* is feminine, so the possessive *mein* takes the feminine Dativ ending *-er* → **meiner**. *im Haushalt* is a separate Dativ after *in* (place).",
+      "pattern": "helfen + Dat. (meiner + Nomen f.)",
+      "mistake": {
+        "wrong": "Ich helfe meine Mutter im Haushalt.",
+        "why": "English *help my mother* has a direct object, but *helfen* is a Dativ verb. *meine* is Akkusativ; the Dativ is *meiner*."
+      },
+      "examples": [
+        {
+          "de": "Er hilft seiner Tochter bei den Hausaufgaben.",
+          "en": "He helps his daughter with her homework."
+        },
+        {
+          "de": "Wir helfen unserer Oma beim Einkaufen.",
+          "en": "We help our grandma with the shopping."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Haushalt",
+          "en": "household, housework"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das Kleid gefällt {{c1::der::die}} Frau sehr.",
+      "en": "The woman likes the dress a lot.",
+      "focus": "Person nach *gefallen*",
+      "explanation": "With *gefallen* the thing is the subject (*das Kleid*) and the person who likes it is in the Dativ. *Frau* is feminine → Dativ **der**. Literally: *the dress pleases the woman*.",
+      "pattern": "Sache (Nom.) + gefallen + Person (Dat.)",
+      "mistake": {
+        "wrong": "Das Kleid gefällt die Frau sehr.",
+        "why": "*die Frau* is Nominativ/Akkusativ. The person after *gefallen* is always Dativ, so feminine *die* becomes *der*."
+      },
+      "examples": [
+        {
+          "de": "Der Garten gefällt der Nachbarin.",
+          "en": "The neighbour likes the garden."
+        },
+        {
+          "de": "Die Stadt gefällt dem Besucher sehr.",
+          "en": "The visitor likes the town a lot."
+        }
+      ],
+      "words": [
+        {
+          "de": "gefallen (+ Dat.)",
+          "en": "to be liked by, to please"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das Buch gehört {{c1::dem::das}} Kind.",
+      "en": "The book belongs to the child.",
+      "focus": "Besitzer nach *gehören*",
+      "explanation": "*gehören* has the thing as subject and the owner in the Dativ. *Kind* is neuter, and the neuter Dativ article is **dem**.",
+      "pattern": "Sache (Nom.) + gehören + Besitzer (Dat.)",
+      "mistake": {
+        "wrong": "Das Buch gehört das Kind.",
+        "why": "*das Kind* is Nominativ/Akkusativ. *gehören* takes a Dativ, and neuter *das* becomes *dem*."
+      },
+      "examples": [
+        {
+          "de": "Das Auto gehört dem Nachbarn.",
+          "en": "The car belongs to the neighbour."
+        },
+        {
+          "de": "Die Tasche gehört der Lehrerin.",
+          "en": "The bag belongs to the teacher."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er dankt {{c1::dem::der}} Lehrer für die Hilfe.",
+      "en": "He thanks the teacher for the help.",
+      "focus": "Objekt von *danken*",
+      "explanation": "*danken* takes the person in the Dativ and the reason with *für* + Akkusativ (*für die Hilfe*). *Lehrer* is masculine → **dem**.",
+      "pattern": "danken + Dat. (Person) + für + Akk. (Grund)",
+      "mistake": {
+        "wrong": "Er dankt den Lehrer für die Hilfe.",
+        "why": "English *thank the teacher* has a direct object, but *danken* is a Dativ verb: *dem Lehrer*. The Akkusativ in this sentence is only after *für*."
+      },
+      "examples": [
+        {
+          "de": "Sie dankt dem Arzt für die schnelle Hilfe.",
+          "en": "She thanks the doctor for the quick help."
+        },
+        {
+          "de": "Wir danken dem Team für die gute Arbeit.",
+          "en": "We thank the team for the good work."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie antwortet {{c1::dem::der}} Polizisten.",
+      "en": "She answers the police officer.",
+      "focus": "Objekt von *antworten* · n-Deklination",
+      "explanation": "*antworten* takes the person in the Dativ → masculine **dem**. *Polizist* is an n-Deklination noun, so it adds *-en* outside the Nominativ singular: *dem Polizisten*.",
+      "pattern": "antworten + dem + Nomen-**en** (Dat. m., n-Deklination)",
+      "mistake": {
+        "wrong": "Sie antwortet dem Polizist.",
+        "why": "The Dativ article *dem* is right, but *Polizist* belongs to the n-Deklination: outside the Nominativ singular it always ends in *-en* → *dem Polizisten*."
+      },
+      "examples": [
+        {
+          "de": "Der Schüler antwortet dem Direktor höflich.",
+          "en": "The pupil answers the head teacher politely."
+        },
+        {
+          "de": "Bitte antworten Sie dem Kunden heute noch.",
+          "en": "Please answer the customer today."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Polizist (-en)",
+          "en": "police officer (n-Deklination)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich glaube {{c1::dir::du}} nicht.",
+      "en": "I don't believe you.",
+      "focus": "Person nach *glauben*",
+      "explanation": "*glauben* takes the person you believe in the Dativ. The Dativ of *du* is **dir**. The content you believe would be Akkusativ: *Das glaube ich dir nicht.*",
+      "pattern": "glauben + Dat. (Person)",
+      "mistake": {
+        "wrong": "Ich glaube dich nicht.",
+        "why": "*dich* is the Akkusativ of *du*. A person after *glauben* is always Dativ: *dir*."
+      },
+      "examples": [
+        {
+          "de": "Glaubst du ihm?",
+          "en": "Do you believe him?"
+        },
+        {
+          "de": "Die Richterin glaubt dem Zeugen nicht.",
+          "en": "The judge doesn't believe the witness."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Diese Schuhe passen {{c1::mir::ich}} nicht.",
+      "en": "These shoes don't fit me.",
+      "focus": "Person nach *passen* · Größe",
+      "explanation": "*passen* means *to be the right size* and takes the person in the Dativ. The Dativ of *ich* is **mir**. The plural subject *diese Schuhe* makes the verb plural: *passen*.",
+      "pattern": "Sache (Nom.) + passen + Person (Dat.)",
+      "mistake": {
+        "wrong": "Diese Schuhe passen mich nicht.",
+        "why": "*mich* is Akkusativ. *passen* takes the person in the Dativ: *mir*."
+      },
+      "examples": [
+        {
+          "de": "Die Jeans passt mir perfekt.",
+          "en": "The jeans fit me perfectly."
+        },
+        {
+          "de": "Passt dir der Helm?",
+          "en": "Does the helmet fit you?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Das Essen schmeckt {{c1::den::die (Pl.)}} Gästen.",
+      "en": "The guests like the food.",
+      "focus": "Person nach *schmecken* · Plural",
+      "explanation": "*schmecken* works like *gefallen*: the food is the subject, the people who like it are in the Dativ. *Gäste* is plural → **den**, and the noun adds *-n*: *den Gästen*.",
+      "pattern": "Essen (Nom.) + schmecken + Person (Dat.)",
+      "mistake": {
+        "wrong": "Das Essen schmeckt die Gäste.",
+        "why": "*die Gäste* is Nominativ/Akkusativ. The person after *schmecken* is Dativ plural: *den Gästen*."
+      },
+      "examples": [
+        {
+          "de": "Die Pizza schmeckt den Kindern.",
+          "en": "The children like the pizza."
+        },
+        {
+          "de": "Der Kuchen schmeckt meinem Vater sehr.",
+          "en": "My father really likes the cake."
+        }
+      ],
+      "words": [
+        {
+          "de": "schmecken (+ Dat.)",
+          "en": "to taste good to someone"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Du fehlst {{c1::mir::ich}} sehr.",
+      "en": "I miss you a lot.",
+      "focus": "Person nach *fehlen*",
+      "explanation": "*fehlen* is the opposite of English *miss*: the person who is missed is the subject (*du*), and the person who misses is in the Dativ. The Dativ of *ich* is **mir**: *Du fehlst mir* = *I miss you*.",
+      "pattern": "vermisste Person (Nom.) + fehlen + Person (Dat.)",
+      "mistake": {
+        "wrong": "Ich fehle dich sehr.",
+        "why": "This copies English *I miss you*. With *fehlen* the missed person is the subject: *Du fehlst mir.* (Alternative with Akkusativ: *Ich vermisse dich.*)"
+      },
+      "examples": [
+        {
+          "de": "Ihr fehlt uns.",
+          "en": "We miss you."
+        },
+        {
+          "de": "Meine Freunde fehlen mir.",
+          "en": "I miss my friends."
+        }
+      ],
+      "words": [
+        {
+          "de": "fehlen (+ Dat.)",
+          "en": "to be missed by"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich gratuliere {{c1::meinem::mein}} Freund zum Geburtstag.",
+      "en": "I'm congratulating my friend on his birthday.",
+      "focus": "Objekt von *gratulieren* · Possessivartikel",
+      "explanation": "*gratulieren* takes the person in the Dativ and the occasion with *zu* + Dativ. *Freund* is masculine → *mein* + -em → **meinem**. *zum* = *zu dem*.",
+      "pattern": "gratulieren + Dat. + zu + Dat.",
+      "mistake": {
+        "wrong": "Ich gratuliere meinen Freund zum Geburtstag.",
+        "why": "*meinen Freund* is masculine Akkusativ. *gratulieren* is a Dativ verb: *meinem Freund*."
+      },
+      "examples": [
+        {
+          "de": "Wir gratulieren unserem Chef zur Beförderung.",
+          "en": "We congratulate our boss on his promotion."
+        },
+        {
+          "de": "Sie gratuliert ihrem Bruder zum Abschluss.",
+          "en": "She congratulates her brother on his graduation."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir begegnen {{c1::einer::ein}} alten Freundin.",
+      "en": "We run into an old friend.",
+      "focus": "Objekt von *begegnen* · mit Adjektiv",
+      "explanation": "*begegnen* (to meet by chance) takes a Dativ object. *Freundin* is feminine → indefinite Dativ **einer**. After *einer* the adjective takes *-en*: *einer alten Freundin*.",
+      "pattern": "begegnen + einer + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {
+        "wrong": "Wir begegnen eine alte Freundin.",
+        "why": "English *meet someone* has a direct object, but *begegnen* takes the Dativ: *einer alten Freundin*."
+      },
+      "examples": [
+        {
+          "de": "Im Zug begegne ich oft einem alten Kollegen.",
+          "en": "I often run into an old colleague on the train."
+        },
+        {
+          "de": "Auf dem Markt begegnen wir einer Nachbarin.",
+          "en": "At the market we run into a neighbour."
+        }
+      ],
+      "words": [
+        {
+          "de": "begegnen (+ Dat.)",
+          "en": "to run into, to meet by chance"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Kannst du {{c1::deinem::dein}} Bruder helfen?",
+      "en": "Can you help your brother?",
+      "focus": "Objekt von *helfen* · mit Modalverb",
+      "explanation": "With a modal verb the infinitive *helfen* goes to the end, but it still needs a Dativ object. *Bruder* is masculine → *dein* + -em → **deinem**.",
+      "pattern": "Modalverb + Dat. + … + helfen",
+      "mistake": {
+        "wrong": "Kannst du deinen Bruder helfen?",
+        "why": "*deinen Bruder* is Akkusativ. The modal verb does not change the case: *helfen* always takes the Dativ."
+      },
+      "examples": [
+        {
+          "de": "Kannst du deiner Kollegin kurz helfen?",
+          "en": "Can you help your colleague for a moment?"
+        },
+        {
+          "de": "Willst du deinem Vater im Garten helfen?",
+          "en": "Do you want to help your father in the garden?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Die Jacke gefällt {{c1::mir::ich}} sehr.",
+      "en": "I really like the jacket.",
+      "focus": "Person nach *gefallen* · Pronomen",
+      "explanation": "*gefallen*: the jacket is the subject, so the verb is 3rd person singular (*gefällt*), and the person who likes it is the Dativ pronoun **mir**. English turns this around: *I like the jacket*.",
+      "pattern": "Sache (Nom.) + gefällt + mir (Dat.)",
+      "mistake": {
+        "wrong": "Ich gefalle die Jacke sehr.",
+        "why": "*Ich gefalle* means *I am liked*. The jacket must be the subject, and the person who likes it is Dativ: *Die Jacke gefällt mir.*"
+      },
+      "examples": [
+        {
+          "de": "Das Bild gefällt mir gut.",
+          "en": "I like the picture."
+        },
+        {
+          "de": "Gefällt dir mein neuer Haarschnitt?",
+          "en": "Do you like my new haircut?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Du fehlst {{c1::deiner::dein}} Mutter.",
+      "en": "Your mother misses you.",
+      "focus": "Person nach *fehlen* · Possessivartikel",
+      "explanation": "With *fehlen* the person who misses someone is in the Dativ. *Mutter* is feminine → *dein* + -er → **deiner**. The subject *du* is the person who is missed.",
+      "pattern": "vermisste Person (Nom.) + fehlen + Dat.",
+      "mistake": {
+        "wrong": "Du fehlst deine Mutter.",
+        "why": "*deine Mutter* is Nominativ/Akkusativ. The one who misses you is in the Dativ: *deiner Mutter*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinder fehlen ihrer Oma.",
+          "en": "Their grandma misses the children."
+        },
+        {
+          "de": "Der Hund fehlt meinem Sohn sehr.",
+          "en": "My son misses the dog a lot."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir helfen {{c1::einer::ein}} Nachbarin.",
+      "en": "We're helping a neighbour.",
+      "focus": "Objekt von *helfen* · unbestimmter Artikel",
+      "explanation": "*helfen* takes the Dativ. *Nachbarin* is feminine (*-in*) → indefinite Dativ **einer**.",
+      "pattern": "helfen + einer + Nomen (Dat. f.)",
+      "mistake": {
+        "wrong": "Wir helfen eine Nachbarin.",
+        "why": "*eine* is Nominativ/Akkusativ. After *helfen* the feminine indefinite article must be Dativ: *einer*."
+      },
+      "examples": [
+        {
+          "de": "Er hilft einer Touristin mit dem Fahrplan.",
+          "en": "He helps a tourist with the timetable."
+        },
+        {
+          "de": "Ich helfe einer Freundin beim Umzug.",
+          "en": "I'm helping a friend with her move."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er antwortet {{c1::dem::der}} Chef nicht.",
+      "en": "He doesn't answer the boss.",
+      "focus": "Objekt von *antworten* · Negation",
+      "explanation": "*antworten* takes the person in the Dativ → masculine **dem**. *nicht* stands at the end and negates the whole sentence; it does not change the case.",
+      "pattern": "antworten + Dat. + nicht",
+      "mistake": {
+        "wrong": "Er antwortet den Chef nicht.",
+        "why": "*den Chef* is Akkusativ. The person you answer is Dativ: *dem Chef*. (The thing you answer is *auf* + Akk.: *auf die Frage*.)"
+      },
+      "examples": [
+        {
+          "de": "Sie antwortet dem Vermieter nicht.",
+          "en": "She doesn't answer the landlord."
+        },
+        {
+          "de": "Warum antwortest du dem Lehrer nicht?",
+          "en": "Why don't you answer the teacher?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Diese Hose passt {{c1::ihm::er}} nicht.",
+      "en": "These trousers don't fit him.",
+      "focus": "Person nach *passen* · Pronomen",
+      "explanation": "*passen* takes the person in the Dativ. The Dativ of *er* is **ihm**. German *die Hose* is singular (English *trousers* is plural), so the verb is singular: *passt*.",
+      "pattern": "Sache (Nom.) + passen + ihm (Dat.)",
+      "mistake": {
+        "wrong": "Diese Hose passt ihn nicht.",
+        "why": "*ihn* is the Akkusativ of *er*. *passen* needs the Dativ form *ihm*."
+      },
+      "examples": [
+        {
+          "de": "Das Hemd passt ihm nicht mehr.",
+          "en": "The shirt doesn't fit him any more."
+        },
+        {
+          "de": "Die Brille passt ihr gut.",
+          "en": "The glasses fit her well."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Hose (-n)",
+          "en": "trousers, pants"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das Hotel hat {{c1::uns::wir}} sehr gefallen.",
+      "en": "We liked the hotel very much.",
+      "focus": "Person nach *gefallen* · Perfekt",
+      "explanation": "In the Perfekt, *gefallen* uses *haben* and the Partizip II is also *gefallen* (no extra *ge-*). The hotel is the subject; the people who liked it are the Dativ pronoun **uns** (Dativ of *wir*).",
+      "pattern": "Sache (Nom.) + hat + Dat. + gefallen",
+      "mistake": {
+        "wrong": "Wir haben das Hotel sehr gefallen.",
+        "why": "This makes *wir* the subject, as in English. With *gefallen* the hotel is the subject and *wir* becomes the Dativ *uns*: *Das Hotel hat uns gefallen.*"
+      },
+      "examples": [
+        {
+          "de": "Die Reise hat uns sehr gefallen.",
+          "en": "We really enjoyed the trip."
+        },
+        {
+          "de": "Das Konzert hat ihnen gut gefallen.",
+          "en": "They liked the concert."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Vertraust du {{c1::mir::ich}}?",
+      "en": "Do you trust me?",
+      "focus": "Objekt von *vertrauen*",
+      "explanation": "*vertrauen* takes the person or thing you trust in the Dativ. The Dativ of *ich* is **mir**. In a yes/no question the verb comes first: *Vertraust du mir?*",
+      "pattern": "vertrauen + Dat.",
+      "mistake": {
+        "wrong": "Vertraust du mich?",
+        "why": "*mich* is Akkusativ. *vertrauen* is a Dativ verb: *mir*."
+      },
+      "examples": [
+        {
+          "de": "Ich vertraue meiner Ärztin.",
+          "en": "I trust my doctor."
+        },
+        {
+          "de": "Vertraut ihr dem neuen System?",
+          "en": "Do you trust the new system?"
+        }
+      ],
+      "words": [
+        {
+          "de": "vertrauen (+ Dat.)",
+          "en": "to trust"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich folge {{c1::dem::der}} Wagen.",
+      "en": "I'm following the car.",
+      "focus": "Objekt von *folgen*",
+      "explanation": "*folgen* takes a Dativ object. *Wagen* is masculine → **dem**. *Wagen* has the same form in all singular cases, so only the article shows the Dativ.",
+      "pattern": "folgen + Dat.",
+      "mistake": {
+        "wrong": "Ich verfolge dem Wagen.",
+        "why": "Do not mix up the two verbs. *verfolgen* (to chase, to pursue) takes the Akkusativ: *Ich verfolge den Wagen.* Only *folgen* takes the Dativ: *Ich folge dem Wagen.*"
+      },
+      "examples": [
+        {
+          "de": "Folgen Sie dem Schild nach links.",
+          "en": "Follow the sign to the left."
+        },
+        {
+          "de": "Wir folgen dem Weg bis zum See.",
+          "en": "We follow the path to the lake."
+        }
+      ],
+      "words": [
+        {
+          "de": "folgen (+ Dat.)",
+          "en": "to follow"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Diese Farbe {{c1::gefällt::gefallen}} mir nicht.",
+      "en": "I don't like this colour.",
+      "focus": "Verbform · Sache als Subjekt",
+      "explanation": "The subject is *diese Farbe* (3rd person singular), not *ich*. So the verb is **gefällt**, with the vowel change *a → ä* in the 3rd person singular. *mir* is the Dativ person.",
+      "pattern": "Sache (Nom., 3. Sg.) + gefällt + Dat.",
+      "mistake": {
+        "wrong": "Diese Farbe gefalle mir nicht.",
+        "why": "*gefalle* is the *ich*-form. The verb agrees with the subject *diese Farbe*: *gefällt*."
+      },
+      "examples": [
+        {
+          "de": "Die Idee gefällt mir.",
+          "en": "I like the idea."
+        },
+        {
+          "de": "Das Wetter gefällt uns heute nicht.",
+          "en": "We don't like the weather today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Der Film hat {{c1::uns::wir}} sehr gefallen.",
+      "en": "We liked the film very much.",
+      "focus": "Person nach *gefallen* · Perfekt",
+      "explanation": "The Perfekt keeps the same structure: *der Film* is the subject (*hat*), and the people who liked it are Dativ. The Dativ of *wir* is **uns**.",
+      "pattern": "Sache + hat + Dat. + gefallen",
+      "mistake": {
+        "wrong": "Der Film ist uns sehr gefallen.",
+        "why": "*gefallen* contains *fallen*, but it is not a movement verb: its Perfekt uses *haben*. The Dativ *uns* is correct."
+      },
+      "examples": [
+        {
+          "de": "Die Ausstellung hat mir gut gefallen.",
+          "en": "I liked the exhibition."
+        },
+        {
+          "de": "Hat dir das Buch gefallen?",
+          "en": "Did you like the book?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Kannst du {{c1::mir::ich}} kurz zuhören?",
+      "en": "Can you listen to me for a moment?",
+      "focus": "Objekt von *zuhören* · trennbares Verb",
+      "explanation": "*zuhören* takes the person in the Dativ → **mir**. It is separable, but with a modal verb the infinitive stays together at the end: *zuhören*. In the Präsens: *Du hörst mir nicht zu.*",
+      "pattern": "Modalverb + Dat. + zuhören",
+      "mistake": {
+        "wrong": "Kannst du mich kurz zuhören?",
+        "why": "*mich* is Akkusativ. *zuhören* takes the Dativ, like English *listen to me* with a preposition: *mir*."
+      },
+      "examples": [
+        {
+          "de": "Hör mir bitte zu!",
+          "en": "Please listen to me!"
+        },
+        {
+          "de": "Die Kinder hören der Lehrerin aufmerksam zu.",
+          "en": "The children listen to the teacher attentively."
+        }
+      ],
+      "words": [
+        {
+          "de": "zuhören (+ Dat.)",
+          "en": "to listen to"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Ich {{c1::vertraue::vertrauen}} meinen Kollegen.",
+      "en": "I trust my colleagues.",
+      "focus": "Verb mit Dativ · Plural-Objekt",
+      "explanation": "*vertrauen* is a regular verb: ich **vertraue**. Its object is Dativ plural here: *meinen Kollegen*. *Kollege* is n-Deklination, so the plural already ends in *-n* and needs no extra Dativ *-n*.",
+      "pattern": "ich + vertraue + Dat. Pl.",
+      "mistake": {
+        "wrong": "Ich vertraue meine Kollegen.",
+        "why": "*meine Kollegen* is Akkusativ plural. *vertrauen* needs the Dativ plural possessive *meinen*."
+      },
+      "examples": [
+        {
+          "de": "Wir vertrauen unseren Kunden.",
+          "en": "We trust our customers."
+        },
+        {
+          "de": "Sie vertraut ihren Eltern.",
+          "en": "She trusts her parents."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Das {{c1::tut::leidtun}} mir wirklich leid.",
+      "en": "I'm really sorry about that.",
+      "focus": "feste Wendung · trennbares Verb",
+      "explanation": "*leidtun* is separable: the stem *tun* is conjugated and *leid* goes to the end. The subject is *das* (3rd person singular) → **tut**; the person who is sorry is in the Dativ (*mir*).",
+      "pattern": "Sache (Nom.) + tut + Dat. + leid",
+      "mistake": {
+        "wrong": "Ich tue wirklich leid.",
+        "why": "The person who is sorry is not the subject. *leidtun* needs the Dativ person and a thing or *es/das* as subject: *Das tut mir leid. / Es tut mir leid.*"
+      },
+      "examples": [
+        {
+          "de": "Es tut uns leid, dass wir zu spät sind.",
+          "en": "We're sorry that we're late."
+        },
+        {
+          "de": "Der alte Mann tut mir leid.",
+          "en": "I feel sorry for the old man."
+        }
+      ],
+      "words": [
+        {
+          "de": "leidtun (+ Dat.)",
+          "en": "to be sorry; to feel sorry for"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Die Schuhe {{c1::stehen::Verb: gut aussehen an}} dir gut.",
+      "en": "The shoes look good on you.",
+      "focus": "Verbwahl · Aussehen, nicht Größe",
+      "explanation": "*stehen* + Dativ means *to suit, to look good on someone*. *passen* + Dativ means *to be the right size*. The subject *die Schuhe* is plural → **stehen**.",
+      "pattern": "Kleidung (Nom.) + stehen + Dat. + gut",
+      "mistake": {
+        "wrong": "Die Schuhe stehen dich gut.",
+        "why": "*dich* is Akkusativ. In this meaning *stehen* takes the Dativ person: *dir*."
+      },
+      "examples": [
+        {
+          "de": "Die neue Brille steht dir.",
+          "en": "The new glasses suit you."
+        },
+        {
+          "de": "Rot steht ihr sehr gut.",
+          "en": "Red really suits her."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir {{c1::gratulieren::Glückwünsche aussprechen}} dir zum Geburtstag.",
+      "en": "We congratulate you on your birthday.",
+      "focus": "Verb mit Dativ · Anlass mit *zu*",
+      "explanation": "**gratulieren** takes the person in the Dativ (*dir*) and the occasion with *zu* + Dativ (*zum Geburtstag*). The *wir*-form is the same as the infinitive.",
+      "pattern": "gratulieren + Dat. + zu + Dat.",
+      "mistake": {
+        "wrong": "Wir gratulieren dich zum Geburtstag.",
+        "why": "*dich* is Akkusativ. *gratulieren* takes the Dativ: *dir*."
+      },
+      "examples": [
+        {
+          "de": "Ich gratuliere Ihnen zur bestandenen Prüfung.",
+          "en": "Congratulations on passing the exam."
+        },
+        {
+          "de": "Wir gratulieren euch zur Hochzeit.",
+          "en": "Congratulations on your wedding."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Er {{c1::widerspricht::widersprechen}} seinem Lehrer oft.",
+      "en": "He often contradicts his teacher.",
+      "focus": "Verbform · starkes Verb mit Dativ",
+      "explanation": "*widersprechen* (to contradict) is built on *sprechen* and keeps its vowel change *e → i*: er **widerspricht**. The prefix *wider-* is not separable. The person is Dativ: *seinem Lehrer*.",
+      "pattern": "widersprechen + Dat.",
+      "mistake": {
+        "wrong": "Er widersprecht seinem Lehrer oft.",
+        "why": "Like *sprechen → spricht*, the 3rd person singular has *i*: *widerspricht*."
+      },
+      "examples": [
+        {
+          "de": "Ich widerspreche dir nur ungern.",
+          "en": "I don't like contradicting you."
+        },
+        {
+          "de": "Die Zahlen widersprechen dem Bericht.",
+          "en": "The figures contradict the report."
+        }
+      ],
+      "words": [
+        {
+          "de": "widersprechen (+ Dat.)",
+          "en": "to contradict"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Das Essen {{c1::schmeckt::schmecken}} den Kindern nicht.",
+      "en": "The children don't like the food.",
+      "focus": "Verbform · Essen als Subjekt",
+      "explanation": "*schmecken* works like *gefallen*: the food is the subject, so the verb agrees with *das Essen* (3rd person singular) → **schmeckt**, not with *den Kindern*.",
+      "pattern": "Essen (Nom.) + schmeckt + Dat. Pl.",
+      "mistake": {
+        "wrong": "Das Essen schmecken den Kindern nicht.",
+        "why": "The verb does not agree with the Dativ object *den Kindern*. The subject is *das Essen* (singular) → *schmeckt*."
+      },
+      "examples": [
+        {
+          "de": "Der Fisch schmeckt meinem Mann nicht.",
+          "en": "My husband doesn't like the fish."
+        },
+        {
+          "de": "Schmeckt dir die Suppe?",
+          "en": "Do you like the soup?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ich {{c1::begegne::begegnen}} ihm manchmal im Park.",
+      "en": "I sometimes run into him in the park.",
+      "focus": "Verbform · Bewegungsverb mit Dativ",
+      "explanation": "*begegnen* is regular, but because the stem ends in *-n* after a consonant, it keeps the *e* in some forms (*du begegnest, er begegnet*). ich → **begegne**. It takes the Dativ (*ihm*) and forms the Perfekt with *sein*: *Ich bin ihm begegnet.*",
+      "pattern": "begegnen + Dat. (Perfekt: sein)",
+      "mistake": {
+        "wrong": "Ich begegne ihn manchmal im Park.",
+        "why": "*ihn* is Akkusativ. *begegnen* takes the Dativ: *ihm*."
+      },
+      "examples": [
+        {
+          "de": "Sie begegnet ihrem Ex-Freund im Supermarkt.",
+          "en": "She runs into her ex-boyfriend in the supermarket."
+        },
+        {
+          "de": "Wir begegnen den Nachbarn oft im Treppenhaus.",
+          "en": "We often run into the neighbours on the stairs."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Bitte {{c1::folgen::hinterhergehen}} Sie mir.",
+      "en": "Please follow me.",
+      "focus": "Verbwahl · Höflichkeitsform",
+      "explanation": "**folgen** + Dativ means *to follow*. In the formal imperative the verb comes first after *bitte*, followed by *Sie*: *Bitte folgen Sie mir.* The Perfekt uses *sein*: *Er ist mir gefolgt.*",
+      "pattern": "Bitte + Verb + Sie + Dat.",
+      "mistake": {
+        "wrong": "Bitte folgen Sie mich.",
+        "why": "*mich* is Akkusativ. *folgen* takes the Dativ: *mir*."
+      },
+      "examples": [
+        {
+          "de": "Folgen Sie bitte der Beschilderung.",
+          "en": "Please follow the signs."
+        },
+        {
+          "de": "Folgt dem Reiseleiter!",
+          "en": "Follow the tour guide!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Der Mantel {{c1::passt::passen}} ihr nicht mehr.",
+      "en": "The coat doesn't fit her any more.",
+      "focus": "Verbform · Größe",
+      "explanation": "*passen* (the right size) agrees with the subject *der Mantel* → **passt** (stem *pass-* + *-t*). *ihr* is the Dativ of *sie* (singular). *nicht mehr* means *no longer*.",
+      "pattern": "Kleidung (Nom.) + passt + Dat. + nicht mehr",
+      "mistake": {
+        "wrong": "Der Mantel passt sie nicht mehr.",
+        "why": "*sie* is Nominativ/Akkusativ. *passen* takes the Dativ person: *ihr*."
+      },
+      "examples": [
+        {
+          "de": "Die Schuhe passen dem Kind nicht mehr.",
+          "en": "The shoes don't fit the child any more."
+        },
+        {
+          "de": "Der Anzug passt ihm noch.",
+          "en": "The suit still fits him."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie {{c1::hilft::helfen}} ihrer Mutter im Garten.",
+      "en": "She helps her mother in the garden.",
+      "focus": "Verbform · Vokalwechsel",
+      "explanation": "*helfen* is a strong verb with *e → i* in the *du*- and *er/sie/es*-forms: du hilfst, sie **hilft**. Its object is Dativ: *ihrer Mutter*.",
+      "pattern": "sie + hilft + Dat.",
+      "mistake": {
+        "wrong": "Sie helft ihrer Mutter im Garten.",
+        "why": "*helft* is the *ihr*-form. For *sie* (singular) the stem changes to *i*: *hilft*."
+      },
+      "examples": [
+        {
+          "de": "Der Opa hilft seinem Enkel beim Lernen.",
+          "en": "Grandpa helps his grandson with his studies."
+        },
+        {
+          "de": "Hilfst du mir mit dem Koffer?",
+          "en": "Will you help me with the suitcase?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wie {{c1::gefällt::gefallen}} Ihnen die Wohnung?",
+      "en": "How do you like the flat?",
+      "focus": "Verbform · W-Frage",
+      "explanation": "The subject is *die Wohnung* (3rd person singular), even though it stands at the end → **gefällt**. *Ihnen* is the formal Dativ, with a capital *I*.",
+      "pattern": "Wie + gefällt + Dat. + Sache (Nom.)?",
+      "mistake": {
+        "wrong": "Wie gefallen Sie die Wohnung?",
+        "why": "This makes *Sie* the subject. The flat is the subject (*gefällt*), and the person is in the Dativ: *Ihnen*."
+      },
+      "examples": [
+        {
+          "de": "Wie gefällt dir die neue Arbeit?",
+          "en": "How do you like the new job?"
+        },
+        {
+          "de": "Wie gefällt euch Berlin?",
+          "en": "How do you like Berlin?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Wohnung (-en)",
+          "en": "flat, apartment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Tun {{c1::dir::du}} die Füße noch weh?",
+      "en": "Do your feet still hurt?",
+      "focus": "Person nach *wehtun*",
+      "explanation": "*wehtun* takes the person in the Dativ (*dir*), and the body part is the subject (*die Füße*, plural → *tun*). Because the Dativ *dir* already shows whose feet they are, German normally uses the article, not a possessive: *die Füße* (not usually *deine Füße*).",
+      "pattern": "wehtun: Körperteil (Nom.) + Person (Dat.)",
+      "mistake": {
+        "wrong": "Tun dich die Füße noch weh?",
+        "why": "*dich* is Akkusativ. *wehtun* takes the person in the Dativ: *dir*."
+      },
+      "examples": [
+        {
+          "de": "Mir tut der Kopf weh.",
+          "en": "I have a headache."
+        },
+        {
+          "de": "Dem Spieler tut das Knie weh.",
+          "en": "The player's knee hurts."
+        }
+      ],
+      "words": [
+        {
+          "de": "wehtun (+ Dat.)",
+          "en": "to hurt"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Gestern {{c1::bin::Hilfsverb}} ich meinem Lehrer im Supermarkt begegnet.",
+      "en": "Yesterday I ran into my teacher in the supermarket.",
+      "focus": "Perfekt · *begegnen*",
+      "explanation": "*begegnen* has a Dativ object, but it forms the Perfekt with **sein**, because it describes coming together while moving. So: *ich bin … begegnet*. *meinem Lehrer* is the Dativ object.",
+      "pattern": "sein + Dat. + begegnet",
+      "mistake": {
+        "wrong": "Gestern habe ich meinem Lehrer im Supermarkt begegnet.",
+        "why": "Most Dativ verbs use *haben*, but *begegnen* (like *folgen*) uses *sein* in the Perfekt."
+      },
+      "examples": [
+        {
+          "de": "Wir sind einem Fuchs im Wald begegnet.",
+          "en": "We came across a fox in the forest."
+        },
+        {
+          "de": "Bist du der neuen Nachbarin schon begegnet?",
+          "en": "Have you met the new neighbour yet?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Der Hund ist {{c1::den::die (Pl.)}} Kindern bis nach Hause gefolgt.",
+      "en": "The dog followed the children all the way home.",
+      "focus": "Objekt von *folgen* · Perfekt",
+      "explanation": "*folgen* takes the Dativ and forms the Perfekt with *sein* (*ist gefolgt*). *Kinder* is plural → Dativ **den**, and the noun adds *-n*: *den Kindern*.",
+      "pattern": "sein + den + Nomen-**n** (Dat. Pl.) + gefolgt",
+      "mistake": {
+        "wrong": "Der Hund ist die Kinder bis nach Hause gefolgt.",
+        "why": "English *follow the children* has a direct object, but *folgen* takes the Dativ: *den Kindern*."
+      },
+      "examples": [
+        {
+          "de": "Die Touristen sind dem Reiseleiter gefolgt.",
+          "en": "The tourists followed the tour guide."
+        },
+        {
+          "de": "Wir sind den Schildern zum Ausgang gefolgt.",
+          "en": "We followed the signs to the exit."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Kannst du das Fenster zumachen? {{c1::Mir::ich}} ist kalt.",
+      "en": "Can you close the window? I'm cold.",
+      "focus": "Person bei *sein* + Adjektiv (Gefühl)",
+      "explanation": "For physical feelings German uses *sein* + adjective with the person in the Dativ: **mir** ist kalt / warm / schlecht / langweilig. There is no real subject; *es* is left out when the Dativ stands in the Vorfeld (*Es ist mir kalt* is also possible).",
+      "pattern": "Dat. + ist + Adjektiv (kalt, warm, schlecht)",
+      "mistake": {
+        "wrong": "Kannst du das Fenster zumachen? Ich bin kalt.",
+        "why": "*Ich bin kalt* describes your character (*I am a cold person*). For feeling cold the person is in the Dativ: *Mir ist kalt.*"
+      },
+      "examples": [
+        {
+          "de": "Nach der Fahrt ist ihm schlecht.",
+          "en": "He feels sick after the journey."
+        },
+        {
+          "de": "Ist dir nicht zu warm?",
+          "en": "Aren't you too warm?"
+        }
+      ],
+      "words": [
+        {
+          "de": "zumachen",
+          "en": "to close"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich habe {{c1::ihm::er}} beim Umzug geholfen.",
+      "en": "I helped him with his move.",
+      "focus": "Objekt von *helfen* · Perfekt",
+      "explanation": "*helfen* forms the Perfekt with *haben* and the irregular Partizip II *geholfen*. The object is still Dativ: the Dativ of *er* is **ihm**. *beim Umzug* (= *bei dem*) names the task.",
+      "pattern": "haben + Dat. + bei + Dat. + geholfen",
+      "mistake": {
+        "wrong": "Ich habe ihn beim Umzug geholfen.",
+        "why": "*ihn* is Akkusativ. The tense changes nothing: *helfen* takes the Dativ → *ihm*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben ihr bei der Bewerbung geholfen.",
+          "en": "We helped her with the application."
+        },
+        {
+          "de": "Hat er dir beim Kochen geholfen?",
+          "en": "Did he help you with the cooking?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "In diesem Punkt stimme ich {{c1::meinem::mein}} Kollegen zu.",
+      "en": "On this point I agree with my colleague.",
+      "focus": "Objekt von *zustimmen* · trennbares Verb",
+      "explanation": "*zustimmen* (to agree with) takes the person in the Dativ; the prefix *zu* goes to the end. *Kollege* is masculine → *mein* + -em → **meinem**, and as an n-Deklination noun it becomes *Kollegen*.",
+      "pattern": "stimmen + Dat. + … + zu",
+      "mistake": {
+        "wrong": "In diesem Punkt stimme ich mit meinem Kollegen zu.",
+        "why": "This copies English *agree with*. *zustimmen* takes a plain Dativ object without a preposition: *ich stimme meinem Kollegen zu*."
+      },
+      "examples": [
+        {
+          "de": "Da stimme ich dir völlig zu.",
+          "en": "I completely agree with you there."
+        },
+        {
+          "de": "Die Mehrheit stimmt dem Vorschlag zu.",
+          "en": "The majority agrees to the proposal."
+        }
+      ],
+      "words": [
+        {
+          "de": "zustimmen (+ Dat.)",
+          "en": "to agree with"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Rauchen schadet {{c1::der::die}} Gesundheit.",
+      "en": "Smoking damages your health.",
+      "focus": "Objekt von *schaden*",
+      "explanation": "*schaden* (to harm, to damage) takes a Dativ object, also for things. *Gesundheit* is feminine → Dativ **der**. The subject is the nominalised verb *Rauchen*.",
+      "pattern": "Subjekt + schaden + Dat.",
+      "mistake": {
+        "wrong": "Rauchen schadet die Gesundheit.",
+        "why": "English *damage your health* has a direct object, but *schaden* takes the Dativ: *der Gesundheit*."
+      },
+      "examples": [
+        {
+          "de": "Zu viel Zucker schadet den Zähnen.",
+          "en": "Too much sugar damages your teeth."
+        },
+        {
+          "de": "Ein kurzer Spaziergang schadet niemandem.",
+          "en": "A short walk doesn't hurt anyone."
+        }
+      ],
+      "words": [
+        {
+          "de": "schaden (+ Dat.)",
+          "en": "to harm, to damage"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Fotos gefallen {{c1::meiner::mein}} Oma sehr.",
+      "en": "My grandma likes the photos very much.",
+      "focus": "Person nach *gefallen* · Subjekt im Plural",
+      "explanation": "The subject is *die Fotos* (plural), so the verb is plural: *gefallen*. The person who likes them is Dativ: *Oma* is feminine → *mein* + -er → **meiner**.",
+      "pattern": "Sache Pl. (Nom.) + gefallen + Dat.",
+      "mistake": {
+        "wrong": "Die Fotos gefällt meiner Oma sehr.",
+        "why": "The verb agrees with the subject *die Fotos* (plural) → *gefallen*, not with the Dativ person."
+      },
+      "examples": [
+        {
+          "de": "Die Blumen gefallen meiner Mutter.",
+          "en": "My mother likes the flowers."
+        },
+        {
+          "de": "Die neuen Regeln gefallen den Mitarbeitern nicht.",
+          "en": "The employees don't like the new rules."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Sein Name fällt {{c1::mir::ich}} gerade nicht ein.",
+      "en": "I can't think of his name right now.",
+      "focus": "Person nach *einfallen*",
+      "explanation": "*einfallen* (to come to mind) works like *gefallen*: the idea or name is the subject, the person is in the Dativ → **mir**. It is separable: *fällt … ein*.",
+      "pattern": "Sache (Nom.) + fällt + Dat. + ein",
+      "mistake": {
+        "wrong": "Sein Name fällt mich gerade nicht ein.",
+        "why": "*mich* is Akkusativ. With *einfallen* the name is the subject and the person it comes to is in the Dativ: *mir*."
+      },
+      "examples": [
+        {
+          "de": "Mir fällt keine Lösung ein.",
+          "en": "I can't think of a solution."
+        },
+        {
+          "de": "Fällt dir eine gute Idee ein?",
+          "en": "Can you think of a good idea?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einfallen (+ Dat.)",
+          "en": "to come to mind, to think of"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Meiner::mein}} Schwester tut der Hund leid.",
+      "en": "My sister feels sorry for the dog.",
+      "focus": "Person nach *leidtun* · Dativ im Vorfeld",
+      "explanation": "With *leidtun* the person who feels pity is in the Dativ, and the one she pities is the subject (*der Hund*). *Schwester* is feminine → **Meiner**. The Dativ can stand in the Vorfeld; the subject then follows the verb.",
+      "pattern": "Dat. + tut + Subjekt + leid",
+      "mistake": {
+        "wrong": "Meine Schwester tut der Hund leid.",
+        "why": "*meine Schwester* looks like a second Nominativ; the subject is already *der Hund*. The person who feels sorry must be Dativ: *meiner Schwester*."
+      },
+      "examples": [
+        {
+          "de": "Den Kindern tut die Katze leid.",
+          "en": "The children feel sorry for the cat."
+        },
+        {
+          "de": "Dem Lehrer tut der Schüler leid.",
+          "en": "The teacher feels sorry for the pupil."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich danke {{c1::euch::ihr}} für die schöne Feier.",
+      "en": "Thank you (all) for the lovely party.",
+      "focus": "Objekt von *danken* · Pronomen 2. Person Plural",
+      "explanation": "*danken* takes the person in the Dativ. The Dativ of *ihr* is **euch** (the same as the Akkusativ). The reason follows with *für* + Akkusativ.",
+      "pattern": "danken + euch (Dat.) + für + Akk.",
+      "mistake": {
+        "wrong": "Ich bedanke euch für die schöne Feier.",
+        "why": "*sich bedanken* is reflexive and needs *bei*: *Ich bedanke mich bei euch.* With *danken* the person is a plain Dativ object: *Ich danke euch.*"
+      },
+      "examples": [
+        {
+          "de": "Wir danken euch für die Einladung.",
+          "en": "Thank you for the invitation."
+        },
+        {
+          "de": "Ich danke euch für eure Geduld.",
+          "en": "Thank you all for your patience."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Feier (-n)",
+          "en": "party, celebration"
+        }
+      ],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Hat {{c1::Ihnen::Sie (formell)}} der Kuchen geschmeckt?",
+      "en": "Did you enjoy the cake?",
+      "focus": "Person nach *schmecken* · Perfekt · formell",
+      "explanation": "With *schmecken* the food is the subject (*der Kuchen*), and the person who enjoys it is in the Dativ. The formal Dativ of *Sie* is **Ihnen** (capital *I*). A short Dativ pronoun usually comes before a noun subject: *Hat Ihnen der Kuchen …*",
+      "pattern": "Hat + Dat.-Pronomen + Subjekt + geschmeckt?",
+      "mistake": {
+        "wrong": "Hat Sie der Kuchen geschmeckt?",
+        "why": "*Sie* is the Nominativ/Akkusativ. With *schmecken* the person is in the Dativ: *Ihnen*."
+      },
+      "examples": [
+        {
+          "de": "Hat euch die Suppe geschmeckt?",
+          "en": "Did you (all) like the soup?"
+        },
+        {
+          "de": "Hat dir der Salat geschmeckt?",
+          "en": "Did you like the salad?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Kuchen (-)",
+          "en": "cake"
+        }
+      ],
+      "production_cue": "(formal Sie, Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the structure of *gefallen*-type verbs.",
+      "prompt": "With *gefallen, schmecken, passen, fehlen*, which part of the sentence is the subject, and which is the Dativ?",
+      "answer": "The **thing** (or the person who is missed) is the **subject**; the **person** who likes, tastes, wears or misses it is the **Dativ** object. The verb agrees with the subject.",
+      "explanation": "English often makes the person the subject (*I like the city*). German turns it around: *Die Stadt gefällt mir.* With a plural thing, the verb is plural: *Die Schuhe gefallen mir.*",
+      "examples": [
+        {
+          "de": "Die Berge gefallen meinem Mann.",
+          "en": "My husband likes the mountains."
+        },
+        {
+          "de": "Der Tee schmeckt mir nicht.",
+          "en": "I don't like the tea."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the Perfekt.",
+      "prompt": "Which common Dativ verbs form the Perfekt with *sein* instead of *haben*?",
+      "answer": "**begegnen** (*ist begegnet*) and **folgen** (*ist gefolgt*). Also *passieren* (*Was ist dir passiert?*). Most other Dativ verbs use *haben*: *hat geholfen, hat gedankt, hat gefallen*.",
+      "explanation": "*begegnen* and *folgen* describe a movement in space, so they behave like *gehen* and *kommen*. The Dativ object stays the same in the Perfekt.",
+      "examples": [
+        {
+          "de": "Wir sind dem Fluss bis zur Brücke gefolgt.",
+          "en": "We followed the river to the bridge."
+        },
+        {
+          "de": "Was ist dir passiert?",
+          "en": "What happened to you?"
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the two sentences.",
+      "prompt": "What is the difference between *Der Film gefällt mir* and *Ich mag den Film*?",
+      "answer": "Both mean *I like the film*. With **gefallen** the film is the subject and the person is Dativ (*mir*). With **mögen** the person is the subject and the film is Akkusativ (*den Film*).",
+      "explanation": "*gefallen* is often used for a first impression of something you see or hear (*Wie gefällt dir die Wohnung?*); *mögen* is common for long-term likes, people and food (*Ich mag Käse.*). Do not mix the structures: ✗ *Ich gefalle den Film.*",
+      "examples": [
+        {
+          "de": "Das Konzert gefällt mir.",
+          "en": "I like the concert."
+        },
+        {
+          "de": "Ich mag klassische Musik.",
+          "en": "I like classical music."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *Das Hemd passt dir* and *Das Hemd steht dir*?",
+      "answer": "**passen** + Dativ: the size is right (*it fits you*). **stehen** + Dativ: it looks good on you (*it suits you*). Both take the person in the Dativ.",
+      "explanation": "*passen* is also used for dates and plans: *Passt dir Freitag?* (*Does Friday suit you?*). *stehen* in this meaning is only for clothes, colours, hairstyles and similar.",
+      "examples": [
+        {
+          "de": "Der Pullover passt mir, aber die Farbe steht mir nicht.",
+          "en": "The jumper fits me, but the colour doesn't suit me."
+        },
+        {
+          "de": "Passt Ihnen der Termin um zehn?",
+          "en": "Does the appointment at ten suit you?"
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about *fehlen*.",
+      "prompt": "How do you say *I miss you* with *fehlen*, and why is it different from English?",
+      "answer": "**Du fehlst mir.** With *fehlen* the person who is missed is the **subject** (*du*), and the person who misses is the **Dativ** (*mir*), the opposite of English.",
+      "explanation": "*fehlen* literally means *to be missing*: *You are missing to me.* With the Akkusativ verb *vermissen* the order is like English: *Ich vermisse dich.* *fehlen* can also mean *to be absent*: *Wer fehlt heute?*",
+      "examples": [
+        {
+          "de": "Meine Familie fehlt mir.",
+          "en": "I miss my family."
+        },
+        {
+          "de": "Ich vermisse meine Familie.",
+          "en": "I miss my family."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Die Suppe schmeckt ___ nicht.",
+      "options": [
+        "mich",
+        "mir",
+        "ich"
+      ],
+      "correct": "mir",
+      "answer": "Die Suppe schmeckt mir nicht.",
+      "explanation": "*schmecken* takes the person in the Dativ → *mir*. *mich* is Akkusativ, and *ich* is Nominativ, but the subject is already *die Suppe*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary verb.",
+      "prompt": "Gestern ___ ich im Bus einem Bekannten begegnet.",
+      "options": [
+        "bin",
+        "habe",
+        "hat"
+      ],
+      "correct": "bin",
+      "answer": "Gestern bin ich im Bus einem Bekannten begegnet.",
+      "explanation": "*begegnen* forms the Perfekt with *sein*: *ich bin begegnet*. *habe* is wrong for this verb, and *hat* is also the wrong person for *ich*."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct article and adjective.",
+      "prompt": "Kannst du ___ Kollegin helfen?",
+      "options": [
+        "die neue",
+        "der neuen",
+        "den neuen"
+      ],
+      "correct": "der neuen",
+      "answer": "Kannst du der neuen Kollegin helfen?",
+      "explanation": "*helfen* takes the Dativ; *Kollegin* is feminine → *der*, and after *der* (Dativ) the adjective ends in *-en*. *die neue* is Nominativ/Akkusativ; *den neuen* is masculine Akkusativ or Dativ plural."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich helfe dich gern.",
+      "answer": "Ich helfe dir gern.",
+      "explanation": "*helfen* is a Dativ verb, so the pronoun must be *dir*, not the Akkusativ *dich*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake in the sentence structure.",
+      "prompt": "Ich gefalle die Wohnung sehr.",
+      "answer": "Die Wohnung gefällt mir sehr.",
+      "explanation": "With *gefallen* the person cannot be the subject (*Ich gefalle* = *I am liked*). The flat is the subject (*gefällt*), and the person who likes it is the Dativ *mir*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben ihm im Park begegnet.",
+      "answer": "Wir sind ihm im Park begegnet.",
+      "explanation": "*begegnen* takes the Dativ (*ihm* is correct), but it forms the Perfekt with *sein*, not *haben*: *wir sind begegnet*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Say the same with *gefallen* instead of *mögen*.",
+      "prompt": "Ich mag den Film.",
+      "answer": "Der Film gefällt mir.",
+      "explanation": "With *gefallen* the film becomes the subject (*den Film* → *der Film*), and the person *ich* becomes the Dativ *mir*. The verb agrees with *der Film*: *gefällt*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Er folgt dem Wegweiser.",
+      "answer": "Er ist dem Wegweiser gefolgt.",
+      "explanation": "*folgen* forms the Perfekt with *sein* (*ist*) and the Partizip II *gefolgt*. The Dativ object *dem Wegweiser* does not change."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace the Dativ noun with a pronoun.",
+      "prompt": "Das Kleid passt meiner Schwester nicht.",
+      "answer": "Das Kleid passt ihr nicht.",
+      "explanation": "*meiner Schwester* is feminine Dativ singular, so the pronoun is *ihr* (Dativ of *sie*). The Akkusativ *sie* would be wrong after *passen*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die neuen Möbel",
+      "prompt": "gefallen / die neuen Möbel / uns / sehr / haben",
+      "answer": "Die neuen Möbel haben uns sehr gefallen.",
+      "explanation": "*haben* agrees with the plural subject *die neuen Möbel* and stands in position 2; *gefallen* (Partizip II) goes to the end. The Dativ pronoun *uns* comes right after the finite verb, before *sehr*."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Du",
+      "prompt": "zuhören / du / mir / musst / besser",
+      "answer": "Du musst mir besser zuhören.",
+      "explanation": "The modal verb *musst* is in position 2, and the infinitive *zuhören* goes to the end. The Dativ pronoun *mir* stands early in the Mittelfeld, before the adverb *besser*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with *weil*.",
+      "prompt": "Ich helfe dir gern. Du hast mir auch geholfen.",
+      "answer": "Ich helfe dir gern, weil du mir auch geholfen hast.",
+      "explanation": "*weil* sends the finite verb *hast* to the end of the Nebensatz, after the Partizip II *geholfen*. Both Dativ pronouns stay the same: *dir* after *helfen* in the main clause, *mir* after *helfen* in the Nebensatz. A comma separates the main clause and the Nebensatz."
+    }
+  ]
+}

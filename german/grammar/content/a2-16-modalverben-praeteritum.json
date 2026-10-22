@@ -1,0 +1,942 @@
+{
+  "topic_id": "a2-16-modalverben-praeteritum",
+  "level": "A2",
+  "title_de": "Modalverben im Präteritum",
+  "title_en": "Modal verbs in the Präteritum (simple past)",
+  "rule": {
+    "summary": "When you talk about the past, the modal verbs *können, müssen, dürfen, wollen, sollen* and *mögen* normally take the **Präteritum**, in writing and also in everyday speech. Other verbs usually take the Perfekt in speech. The form is regular: infinitive stem, umlaut dropped, then **-te** and the person ending (*können → konnte*). The modal verb is the finite verb in position 2, and the second verb stands at the end as an infinitive without *zu*: *Ich konnte gestern nicht kommen.*",
+    "table": "| | können | müssen | dürfen | wollen | sollen | mögen |\n|---|---|---|---|---|---|---|\n| ich | konn**te** | muss**te** | durf**te** | woll**te** | soll**te** | moch**te** |\n| du | konn**test** | muss**test** | durf**test** | woll**test** | soll**test** | moch**test** |\n| er/sie/es | konn**te** | muss**te** | durf**te** | woll**te** | soll**te** | moch**te** |\n| wir | konn**ten** | muss**ten** | durf**ten** | woll**ten** | soll**ten** | moch**ten** |\n| ihr | konn**tet** | muss**tet** | durf**tet** | woll**tet** | soll**tet** | moch**tet** |\n| sie/Sie | konn**ten** | muss**ten** | durf**ten** | woll**ten** | soll**ten** | moch**ten** |",
+    "steps": [
+      "Take the stem of the infinitive: *können → könn-*, *müssen → müss-*, *dürfen → dürf-*.",
+      "Drop the umlaut: *könn- → konn-*, *müss- → muss-*, *dürf- → durf-*. *wollen* and *sollen* have no umlaut. *mögen* also changes *g* to *ch*: **moch-**.",
+      "Add **-te** and the person ending: *ich/er* **-te**, *du* **-test**, *wir/sie/Sie* **-ten**, *ihr* **-tet**. The *ich*-form and the *er*-form are always the same.",
+      "Word order: the modal verb is in position 2 (position 1 in a yes/no question), and the infinitive goes to the end without *zu*: *Wir mussten lange warten.* In a *weil/dass* clause the modal verb moves to the very end: *…, weil ich arbeiten musste.*",
+      "For a wish in the past use **wollte**: *möchte* has no Präteritum of its own (*Ich möchte einen Tee.* → *Ich wollte einen Tee.*)."
+    ],
+    "pitfalls": [
+      "Keeping the umlaut: ✗ *Gestern könnte ich nicht kommen.* → ✓ *Gestern konnte ich nicht kommen.* With umlaut, *könnte, müsste, dürfte, möchte* are Konjunktiv II (*could, would have to, might, would like*).",
+      "Building a past form of *möchte*: ✗ *Ich möchtete ein Eis.* → ✓ *Ich wollte ein Eis.*",
+      "Wrong stem for *mögen*: ✗ *Er mögte keinen Kaffee.* → ✓ *Er mochte keinen Kaffee.* The *g* becomes *ch* and the umlaut drops.",
+      "Adding *zu* or a Partizip II after the modal: ✗ *Wir mussten lange zu warten.* / ✗ *Wir mussten lange gewartet.* → ✓ *Wir mussten lange warten.*",
+      "Using *nicht müssen* for English *must not*: ✗ *Dort musste man nicht rauchen.* (= it was not necessary) when you mean a ban → ✓ *Dort durfte man nicht rauchen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::konnte::können}} gestern nicht kommen.",
+      "en": "I couldn't come yesterday.",
+      "focus": "Präteritum · *ich* · Möglichkeit in der Vergangenheit",
+      "explanation": "*gestern* puts the sentence in the past, and modal verbs normally take the Präteritum. *können* drops its umlaut and adds *-te*: könn- → konn- + -te → **konnte**. The *ich*-form has no further ending, and the infinitive *kommen* closes the sentence.",
+      "pattern": "ich + **konnte** + … + Infinitiv",
+      "mistake": {"wrong": "Ich könnte gestern nicht kommen.", "why": "*könnte* with umlaut is Konjunktiv II (*I could / would be able to*) and does not fit with *gestern*. The real past form has no umlaut: *konnte*."},
+      "examples": [
+        {"de": "Ich konnte am Montag nicht zum Kurs kommen.", "en": "I couldn't come to the class on Monday."},
+        {"de": "Ich konnte letzte Nacht nicht einschlafen.", "en": "I couldn't fall asleep last night."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::musstest::müssen}} viel arbeiten.",
+      "en": "You had to work a lot.",
+      "focus": "Präteritum · *du*-Form · Pflicht",
+      "explanation": "*müssen* drops the umlaut in the Präteritum: müss- → muss- + -te → *musste*. The *du*-form adds **-st**: musste + -st → **musstest**. The second verb *arbeiten* stays an infinitive at the end.",
+      "pattern": "du + **musstest** + … + Infinitiv",
+      "mistake": {"wrong": "Du musstet viel arbeiten.", "why": "*-tet* is the ending for *ihr* (*ihr musstet*). With *du* the Präteritum ending is *-test*: *du musstest*."},
+      "examples": [
+        {"de": "Du musstest damals jeden Tag pendeln.", "en": "You had to commute every day back then."},
+        {"de": "Du musstest als Kind früh aufstehen, oder?", "en": "You had to get up early as a child, didn't you?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::wollte::wollen}} ins Kino gehen.",
+      "en": "He wanted to go to the cinema.",
+      "focus": "Präteritum · *er*-Form · Wunsch/Plan",
+      "explanation": "*wollen* has no umlaut to drop, so the stem stays *woll-*: woll- + -te → **wollte**. The *er*-form is the same as the *ich*-form and has no *-t* at the end. *ins Kino gehen* gives the plan; *gehen* stands at the end.",
+      "pattern": "er + **wollte** + … + Infinitiv",
+      "mistake": {"wrong": "Er willte ins Kino gehen.", "why": "*will* is only the Präsens singular stem (*er will*). The Präteritum is built from the infinitive stem *woll-*: *er wollte*."},
+      "examples": [
+        {"de": "Er wollte am Wochenende seine Eltern besuchen.", "en": "He wanted to visit his parents at the weekend."},
+        {"de": "Sie wollte nach dem Abitur ein Jahr reisen.", "en": "She wanted to travel for a year after finishing school."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::durften::dürfen}} im Park spielen.",
+      "en": "We were allowed to play in the park.",
+      "focus": "Präteritum · *wir* · Erlaubnis",
+      "explanation": "*dürfen* expresses permission. In the Präteritum the umlaut drops: dürf- → durf- + -te → *durfte*. With *wir* the ending is **-n**: **durften**. *spielen* is the infinitive at the end.",
+      "pattern": "wir + **durften** + … + Infinitiv",
+      "mistake": {"wrong": "Wir durfte im Park spielen.", "why": "*durfte* is the form for *ich* and *er/sie/es*. *wir* needs the plural ending *-n*: *wir durften*."},
+      "examples": [
+        {"de": "Wir durften im Museum keine Fotos machen.", "en": "We weren't allowed to take photos in the museum."},
+        {"de": "Wir durften am letzten Schultag früher nach Hause gehen.", "en": "We were allowed to go home earlier on the last day of school."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie {{c1::mochte::mögen}} den Film nicht.",
+      "en": "She didn't like the film.",
+      "focus": "Präteritum · *mögen* als Vollverb",
+      "explanation": "Here *mögen* is a full verb with an Akkusativ object (*den Film*), not a helper verb with an infinitive. Its Präteritum changes the stem twice: the umlaut drops and *g* becomes *ch*: mög- → moch- + -te → **mochte**. The Perfekt *Sie hat den Film nicht gemocht* is also correct, but *mochte* is more common.",
+      "pattern": "sie + **mochte** + Akk.-Objekt (+ nicht)",
+      "mistake": {"wrong": "Sie mögte den Film nicht.", "why": "There is no form *mögte*. The Präteritum of *mögen* drops the umlaut and changes *g* to *ch*: *mochte*."},
+      "examples": [
+        {"de": "Er mochte das Essen in der Kantine nicht.", "en": "He didn't like the food in the canteen."},
+        {"de": "Mein Opa mochte laute Musik überhaupt nicht.", "en": "My grandpa didn't like loud music at all."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ihr {{c1::solltet::sollen}} pünktlich sein.",
+      "en": "You (all) were supposed to be on time.",
+      "focus": "Präteritum · *ihr*-Form · Auftrag",
+      "explanation": "*sollen* has no umlaut: soll- + -te → *sollte*, and the *ihr*-form adds **-t**: **solltet**. *sollen* reports a duty that comes from another person (a teacher, a parent). Note: *solltet* is also the Konjunktiv II form (*you should be on time*), so the context decides between past and advice.",
+      "pattern": "ihr + **solltet** + … + Infinitiv",
+      "mistake": {"wrong": "Ihr solltest pünktlich sein.", "why": "*-test* is the *du*-ending. With *ihr* the Präteritum ending is *-tet*: *ihr solltet*."},
+      "examples": [
+        {"de": "Ihr solltet gestern die Küche aufräumen.", "en": "You were supposed to tidy the kitchen yesterday."},
+        {"de": "Ihr solltet das Formular schon letzte Woche abgeben.", "en": "You were supposed to hand in the form last week."}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich {{c1::konnte::können}} kein Wort sagen.",
+      "en": "I couldn't say a word.",
+      "focus": "Präteritum · Satzklammer mit Modalverb",
+      "explanation": "The modal verb *konnte* (könn- → konn- + -te) is in position 2, and the infinitive *sagen* closes the Satzklammer at the end. The object with the negation, *kein Wort*, stands in the middle. The *ich*-form has no extra ending: **konnte**.",
+      "pattern": "ich + **konnte** + kein + Nomen + Infinitiv",
+      "mistake": {"wrong": "Ich konnte sagen kein Wort.", "why": "The infinitive must go to the end of the main clause: *Ich konnte kein Wort sagen.* Only the modal verb is in position 2."},
+      "examples": [
+        {"de": "Ich konnte vor Aufregung nichts essen.", "en": "I couldn't eat anything because I was so nervous."},
+        {"de": "Ich konnte keinen Parkplatz finden.", "en": "I couldn't find a parking space."}
+      ],
+      "words": [{"de": "die Aufregung", "en": "excitement, nervousness"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir {{c1::mussten::müssen}} zu Fuß gehen.",
+      "en": "We had to walk.",
+      "focus": "Präteritum · *wir* · Notwendigkeit",
+      "explanation": "*müssen* drops the umlaut: müss- → muss- + -te, and *wir* adds **-n** → **mussten**. *zu Fuß* (on foot) is a fixed phrase; the *zu* in it has nothing to do with the infinitive. After a modal verb the infinitive *gehen* has no *zu*.",
+      "pattern": "wir + **mussten** + … + Infinitiv (ohne *zu*)",
+      "mistake": {"wrong": "Wir mussten zu Fuß zu gehen.", "why": "Modal verbs take a bare infinitive, never *zu* + infinitive. The *zu* of *zu Fuß* belongs only to the phrase *zu Fuß*."},
+      "examples": [
+        {"de": "Wir mussten mit dem Taxi zum Flughafen fahren.", "en": "We had to take a taxi to the airport."},
+        {"de": "Wir mussten das Auto in der Werkstatt lassen.", "en": "We had to leave the car at the garage."}
+      ],
+      "words": [{"de": "zu Fuß gehen", "en": "to walk, to go on foot"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er {{c1::wollte::wollen}} ein Eis essen.",
+      "en": "He wanted to eat an ice cream.",
+      "focus": "Präteritum · Wunsch in der Vergangenheit",
+      "explanation": "In the present a wish is often *er möchte ein Eis essen*. *möchte* has no Präteritum, so for the past you use *wollen*: woll- + -te → **wollte**. *ein Eis* is the Akkusativ object of *essen*, and *essen* stands at the end.",
+      "pattern": "er + **wollte** + Akk.-Objekt + Infinitiv",
+      "mistake": {"wrong": "Er möchtete ein Eis essen.", "why": "*möchte* is already a Konjunktiv II form and has no past form *möchtete*. A wish in the past is expressed with *wollte*."},
+      "examples": [
+        {"de": "Er wollte nach dem Training eine Pizza bestellen.", "en": "He wanted to order a pizza after training."},
+        {"de": "Sie wollte unbedingt einen Hund haben.", "en": "She really wanted to have a dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Konntest::können}} du gestern schlafen?",
+      "en": "Were you able to sleep yesterday?",
+      "focus": "Ja/Nein-Frage · *du* · Präteritum",
+      "explanation": "In a yes/no question the finite verb comes first. *gestern* shows the past, so *können* is in the Präteritum: konn- + -te + -st → **Konntest**. *schlafen* stays an infinitive at the end.",
+      "pattern": "**Konntest** + du + … + Infinitiv?",
+      "mistake": {"wrong": "Kannst du gestern schlafen?", "why": "*kannst* is Präsens and does not match *gestern*. For the past you need the Präteritum *konntest*."},
+      "examples": [
+        {"de": "Konntest du den Arzt erreichen?", "en": "Were you able to reach the doctor?"},
+        {"de": "Konntest du die Aufgabe allein lösen?", "en": "Were you able to solve the task on your own?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie {{c1::durfte::dürfen}} nicht ausgehen.",
+      "en": "She wasn't allowed to go out.",
+      "focus": "Präteritum · trennbares Verb im Infinitiv",
+      "explanation": "*dürfen* drops the umlaut: dürf- → durf- + -te → **durfte** (*sie* = she, so no plural ending). The separable verb *ausgehen* is the infinitive here, so it stays in one word at the end. *durfte nicht* = she did not have permission.",
+      "pattern": "sie + **durfte** + nicht + trennbares Verb (Infinitiv)",
+      "mistake": {"wrong": "Sie durfte nicht gehen aus.", "why": "After a modal verb a separable verb is an infinitive and stays together: *ausgehen*. It only splits when it is itself the finite verb (*Sie ging nicht aus.*)."},
+      "examples": [
+        {"de": "Er durfte nach der Operation nicht aufstehen.", "en": "He wasn't allowed to get up after the operation."},
+        {"de": "Ich durfte das Paket erst zu Hause aufmachen.", "en": "I wasn't allowed to open the parcel until I got home."}
+      ],
+      "words": [{"de": "ausgehen", "en": "to go out (in the evening)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir {{c1::sollten::sollen}} um acht Uhr da sein.",
+      "en": "We were supposed to be there at eight.",
+      "focus": "Präteritum · *wir* · Auftrag/Plan",
+      "explanation": "*sollen* expresses an instruction or plan from another person: someone told us to be there at eight. soll- + -te + -n → **sollten**. *da* is a place adverb, so the infinitive *sein* is needed at the end. Without context *sollten* can also be Konjunktiv II (*we should be there*).",
+      "pattern": "wir + **sollten** + Zeit + da + sein",
+      "mistake": {"wrong": "Wir sollten um acht Uhr da.", "why": "The infinitive *sein* cannot be left out with a place adverb like *da* (where?). A verb of movement can be left out after a modal verb only when a direction (where to?) follows: *Wir sollten um acht ins Büro.*"},
+      "examples": [
+        {"de": "Wir sollten die Wohnung bis Mittag verlassen.", "en": "We were supposed to leave the flat by noon."},
+        {"de": "Die Gäste sollten um sieben Uhr kommen.", "en": "The guests were supposed to come at seven."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich {{c1::wollte::wollen}} dich gestern anrufen.",
+      "en": "I wanted to call you yesterday.",
+      "focus": "Präteritum statt Perfekt · Modalverb + Infinitiv",
+      "explanation": "With a time in the past, *wollen* takes the Präteritum: woll- + -te → **wollte**. *dich* is the Akkusativ object of *anrufen*, and the separable verb stays together at the end. The sentence often implies that the call did not happen.",
+      "pattern": "ich + **wollte** + Pronomen + Zeit + Infinitiv",
+      "mistake": {"wrong": "Ich habe dich gestern anrufen gewollt.", "why": "With a second verb, the Perfekt of a modal uses the infinitive, not *gewollt* (*Ich habe dich anrufen wollen*), and this form is heavy and rare. Simply use the Präteritum: *Ich wollte dich anrufen.*"},
+      "examples": [
+        {"de": "Ich wollte dich heute Morgen abholen.", "en": "I wanted to pick you up this morning."},
+        {"de": "Ich wollte dir eigentlich eine Karte schreiben.", "en": "I actually wanted to write you a card."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er {{c1::konnte::können}} damals kein Englisch.",
+      "en": "He couldn't speak English back then.",
+      "focus": "Präteritum · *können* als Vollverb (Sprache)",
+      "explanation": "Here *können* is a full verb with an Akkusativ object: *eine Sprache können* = to know/speak a language. No second verb is needed. *damals* (back then) shows the past → könn- → konn- + -te → **konnte**.",
+      "pattern": "er + **konnte** + (kein) + Sprache",
+      "mistake": {"wrong": "Er kannte damals kein Englisch.", "why": "*kannte* is the Präteritum of *kennen* (to know a person or a place). For a language you use *können*: *Er konnte kein Englisch.*"},
+      "examples": [
+        {"de": "Sie konnte damals schon gut Französisch.", "en": "Back then she already spoke good French."},
+        {"de": "Mein Vater konnte als junger Mann kein Wort Deutsch.", "en": "As a young man my father couldn't speak a word of German."}
+      ],
+      "words": [{"de": "damals", "en": "back then, at that time"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir {{c1::mussten::müssen}} sehr lange warten.",
+      "en": "We had to wait a very long time.",
+      "focus": "Präteritum · Modalverb + Infinitiv",
+      "explanation": "*müssen* → muss- + -te, with the *wir*-ending **-n**: **mussten**. The modal verb already carries the past tense, so the second verb stays a plain infinitive: *warten*, not a Partizip II.",
+      "pattern": "wir + **mussten** + Adverb + Infinitiv",
+      "mistake": {"wrong": "Wir mussten sehr lange gewartet.", "why": "The past tense is shown only once, on the modal verb. The second verb is always the infinitive: *mussten … warten*."},
+      "examples": [
+        {"de": "Wir mussten auf der Autobahn zwei Stunden im Stau stehen.", "en": "We had to sit in a traffic jam on the motorway for two hours."},
+        {"de": "Wir mussten das Formular dreimal ausfüllen.", "en": "We had to fill in the form three times."}
+      ],
+      "words": [{"de": "der Stau (-s)", "en": "traffic jam"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Durftest::dürfen}} du als Kind oft fernsehen?",
+      "en": "Were you allowed to watch a lot of TV as a child?",
+      "focus": "Ja/Nein-Frage · *du* · Erlaubnis früher",
+      "explanation": "*als Kind* places the question in the past. *dürfen* drops the umlaut: durf- + -te + -st → **Durftest**, in position 1 because it is a yes/no question. The separable verb *fernsehen* stays together as an infinitive at the end.",
+      "pattern": "**Durftest** + du + Zeit + Infinitiv?",
+      "mistake": {"wrong": "Darfst du als Kind oft fernsehen?", "why": "*darfst* is Präsens. *als Kind* refers to the past, so you need the Präteritum *durftest*."},
+      "examples": [
+        {"de": "Durftest du als Teenager allein in den Urlaub fahren?", "en": "Were you allowed to go on holiday alone as a teenager?"},
+        {"de": "Durftest du bei deinen Großeltern lange aufbleiben?", "en": "Were you allowed to stay up late at your grandparents' house?"}
+      ],
+      "words": [{"de": "fernsehen", "en": "to watch TV"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie {{c1::wollte::wollen}} Lehrerin werden.",
+      "en": "She wanted to become a teacher.",
+      "focus": "Präteritum · Berufswunsch",
+      "explanation": "A career wish in the past: woll- + -te → **wollte** (*sie* = she, singular). The infinitive *werden* closes the sentence. A profession after *werden* normally has no article: *Lehrerin werden*.",
+      "pattern": "sie + **wollte** + Beruf + werden",
+      "mistake": {"wrong": "Sie wollt Lehrerin werden.", "why": "*wollt* is the *ihr*-form of the Präsens (*ihr wollt*). The Präteritum always contains *-te*: *sie wollte*."},
+      "examples": [
+        {"de": "Mein Sohn wollte früher Feuerwehrmann werden.", "en": "My son used to want to be a firefighter."},
+        {"de": "Er wollte nach dem Studium Ingenieur werden.", "en": "He wanted to become an engineer after his studies."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich {{c1::sollte::sollen}} dir Grüße sagen.",
+      "en": "I was supposed to pass on greetings to you.",
+      "focus": "Präteritum · *sollen* = Auftrag von einer anderen Person",
+      "explanation": "Someone asked me to greet you, so *sollen* reports this request: soll- + -te → **sollte**. *jemandem Grüße sagen* is the everyday spoken phrase (*dir* = Dativ, *Grüße* = Akkusativ); in more formal style you say *jemandem Grüße ausrichten*. The infinitive *sagen* stands at the end.",
+      "pattern": "ich + **sollte** + Dat. + Akk. + Infinitiv",
+      "mistake": {"wrong": "Ich sollte dir Grüße zu sagen.", "why": "A modal verb takes the bare infinitive, never *zu* + infinitive. *zu sagen* is only used after verbs like *versuchen* or *vergessen*: *Ich habe vergessen, dir Grüße zu sagen.*"},
+      "examples": [
+        {"de": "Ich sollte dir das Buch zurückgeben.", "en": "I was supposed to give the book back to you."},
+        {"de": "Ich sollte den Kollegen die neuen Termine schicken.", "en": "I was supposed to send the colleagues the new dates."}
+      ],
+      "words": [{"de": "jemandem Grüße sagen / ausrichten", "en": "to pass on someone's regards"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir {{c1::durften::dürfen}} um zehn ins Bett gehen.",
+      "en": "We were allowed to go to bed at ten.",
+      "focus": "Präteritum · *wir* · Erlaubnis",
+      "explanation": "*dürfen* gives permission: we could stay up until ten. durf- + -te + -n → **durften**. The modal verb is in position 2, and the infinitive *gehen* closes the sentence after the direction *ins Bett*.",
+      "pattern": "wir + **durften** + Zeit + Richtung + Infinitiv",
+      "mistake": {"wrong": "Um zehn wir durften ins Bett gehen.", "why": "If a time phrase starts the sentence, the modal verb must still be in position 2 and the subject comes after it: *Um zehn durften wir ins Bett gehen.*"},
+      "examples": [
+        {"de": "Wir durften in den Ferien bis Mitternacht aufbleiben.", "en": "During the holidays we were allowed to stay up until midnight."},
+        {"de": "Wir durften nach der Prüfung früher nach Hause.", "en": "We were allowed to go home earlier after the exam."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er {{c1::mochte::mögen}} keine Tomaten.",
+      "en": "He didn't like tomatoes.",
+      "focus": "*mögen* als Vollverb · *er*-Form",
+      "explanation": "*mögen* is a full verb here with the Akkusativ object *keine Tomaten*. Präteritum: mög- → moch- + -te → **mochte**. With *er* there is no extra ending, because the *er*-form equals the *ich*-form.",
+      "pattern": "er + **mochte** + kein- + Nomen (Akk.)",
+      "mistake": {"wrong": "Er mochten keine Tomaten.", "why": "*mochten* is the plural form (*wir/sie/Sie*). The subject *er* is singular: *er mochte*."},
+      "examples": [
+        {"de": "Meine Schwester mochte keine Pilze.", "en": "My sister didn't like mushrooms."},
+        {"de": "Als Kind mochte er keinen Fisch.", "en": "As a child he didn't like fish."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich {{c1::konnte::können}} dich nicht erreichen.",
+      "en": "I couldn't reach you.",
+      "focus": "Präteritum · *ich*-Form ohne Endung",
+      "explanation": "The modal verb loses its umlaut and adds *-te*: können → **konnte**. The *ich*-form has no ending after *-te*. *dich* is the Akkusativ object of *erreichen* (to reach someone by phone).",
+      "pattern": "ich + **konnte** + Akk. + nicht + Infinitiv",
+      "mistake": {"wrong": "Ich konntest dich nicht erreichen.", "why": "*-test* is only for *du*. With *ich* the form ends in *-te*: *ich konnte*."},
+      "examples": [
+        {"de": "Ich konnte den Techniker den ganzen Tag nicht erreichen.", "en": "I couldn't reach the technician all day."},
+        {"de": "Ich konnte die Datei leider nicht öffnen.", "en": "Unfortunately I couldn't open the file."}
+      ],
+      "words": [{"de": "erreichen", "en": "to reach (also by phone)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir {{c1::mussten::müssen}} eine Stunde warten.",
+      "en": "We had to wait for an hour.",
+      "focus": "Präteritum statt Perfekt · Dauer",
+      "explanation": "*müssen* → muss- + -te + -n → **mussten**. *eine Stunde* is an Akkusativ of time (how long?). Even in conversation Germans use the Präteritum here, because the Perfekt *wir haben eine Stunde warten müssen* is long and needs two infinitives.",
+      "pattern": "wir + **mussten** + Zeitdauer + Infinitiv",
+      "mistake": {"wrong": "Wir haben eine Stunde warten gemusst.", "why": "With a second verb the Perfekt of *müssen* is not *gemusst* but the infinitive *müssen* (*haben … warten müssen*). The normal choice is the short Präteritum *wir mussten warten*."},
+      "examples": [
+        {"de": "Wir mussten zwei Wochen auf einen Termin warten.", "en": "We had to wait two weeks for an appointment."},
+        {"de": "Wir mussten einen ganzen Tag im Hotel bleiben.", "en": "We had to stay in the hotel for a whole day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er {{c1::wollte::wollen}} eigentlich mitkommen.",
+      "en": "He actually wanted to come along.",
+      "focus": "Präteritum · Plan, der nicht geklappt hat",
+      "explanation": "*wollte* (woll- + -te) gives a past plan, and *eigentlich* signals that the plan did not happen. The separable verb *mitkommen* stays in one word, because it is the infinitive at the end.",
+      "pattern": "er + **wollte** + eigentlich + Infinitiv",
+      "mistake": {"wrong": "Er wollte eigentlich kommen mit.", "why": "A separable verb is split only when it is the finite verb. After a modal verb it is an infinitive and stays together: *mitkommen*."},
+      "examples": [
+        {"de": "Sie wollte eigentlich früher anfangen.", "en": "She actually wanted to start earlier."},
+        {"de": "Wir wollten eigentlich im Garten grillen.", "en": "We actually wanted to have a barbecue in the garden."}
+      ],
+      "words": [{"de": "eigentlich", "en": "actually (often: but it did not happen)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Sie {{c1::durfte::dürfen}} als Kind nicht fernsehen.",
+      "en": "As a child she wasn't allowed to watch TV.",
+      "focus": "Präteritum · Verbot in der Kindheit",
+      "explanation": "*als Kind* (without an article) describes a past phase of life. *nicht dürfen* = it was not permitted: dürf- → durf- + -te → **durfte**. *fernsehen* is the infinitive at the end.",
+      "pattern": "sie + **durfte** + als Kind + nicht + Infinitiv",
+      "mistake": {"wrong": "Sie dürfte als Kind nicht fernsehen.", "why": "*dürfte* with umlaut is Konjunktiv II (*might / would be allowed*). A fact about her childhood needs the Präteritum *durfte*."},
+      "examples": [
+        {"de": "Er durfte als Kind keine Süßigkeiten essen.", "en": "As a child he wasn't allowed to eat sweets."},
+        {"de": "Ich durfte als Schüler nicht allein Zug fahren.", "en": "As a schoolboy I wasn't allowed to travel by train alone."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "{{c1::Konntest::können}} du gut schlafen?",
+      "en": "Were you able to sleep well?",
+      "focus": "Ja/Nein-Frage · *du*-Endung",
+      "explanation": "This is the typical question after a night in a new place. The *du*-form puts **-st** after the Präteritum marker *-te*: konn- + -te + -st → **Konntest**. The verb is first because it is a yes/no question.",
+      "pattern": "**Konntest** + du + Adverb + Infinitiv?",
+      "mistake": {"wrong": "Konnte du gut schlafen?", "why": "*konnte* is the form for *ich* and *er/sie/es*. With *du* the ending *-st* is needed: *Konntest du …?*"},
+      "examples": [
+        {"de": "Konntest du in der Bibliothek gut arbeiten?", "en": "Were you able to work well in the library?"},
+        {"de": "Konntest du im Zug gut lesen?", "en": "Were you able to read well on the train?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich {{c1::sollte::sollen}} eigentlich lernen.",
+      "en": "I was supposed to be studying.",
+      "focus": "*sollen* · Präteritum oder Konjunktiv II",
+      "explanation": "*sollen* has no umlaut, so the Präteritum and the Konjunktiv II have the same form: **sollte**. As Präteritum it means *I was supposed to study* (someone expected it); as Konjunktiv II it means *I really should study*. *eigentlich* shows that I did not, or do not, do it.",
+      "pattern": "ich + **sollte** + eigentlich + Infinitiv",
+      "mistake": {"wrong": "Ich sollt eigentlich lernen.", "why": "The *ich*-form of the Präteritum ends in *-te*: *ich sollte*. *sollt* is the *ihr*-form of the Präsens."},
+      "examples": [
+        {"de": "Er sollte eigentlich das Bad putzen.", "en": "He was supposed to clean the bathroom."},
+        {"de": "Wir sollten eigentlich schon um neun im Büro sein.", "en": "We were supposed to be at the office at nine already."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir {{c1::mochten::mögen}} den Film nicht.",
+      "en": "We didn't like the film.",
+      "focus": "*mögen* als Vollverb · *wir*",
+      "explanation": "*mögen* changes *ö* to *o* and *g* to *ch* in the Präteritum: moch- + -te, and *wir* adds **-n** → **mochten**. *den Film* is the Akkusativ object; there is no second verb.",
+      "pattern": "wir + **mochten** + Akk.-Objekt + nicht",
+      "mistake": {"wrong": "Wir mochtet den Film nicht.", "why": "*-tet* is the *ihr*-ending. With *wir* the plural ending is *-ten*: *wir mochten*."},
+      "examples": [
+        {"de": "Wir mochten das Hotel sehr.", "en": "We liked the hotel a lot."},
+        {"de": "Die Kinder mochten die neue Lehrerin sofort.", "en": "The children liked the new teacher straight away."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Sie {{c1::wollten::wollen}} nur helfen.",
+      "en": "They only wanted to help.",
+      "focus": "Präteritum · Plural *sie*",
+      "explanation": "The English *they* shows plural *sie* → woll- + -te + -n → **wollten**. *nur* stands directly before the infinitive and limits it: helping was their only aim. *helfen* is the bare infinitive at the end.",
+      "pattern": "sie (Pl.) + **wollten** + nur + Infinitiv",
+      "mistake": {"wrong": "Sie wollten nur zu helfen.", "why": "Modal verbs never take *zu*: *wollten … helfen*. Compare *Sie versuchten nur zu helfen*, where *versuchen* needs *zu*."},
+      "examples": [
+        {"de": "Die Nachbarn wollten nur kurz Hallo sagen.", "en": "The neighbours only wanted to say hello quickly."},
+        {"de": "Meine Eltern wollten nur das Beste für mich.", "en": "My parents only wanted the best for me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Er {{c1::musste::müssen}} den Termin verschieben.",
+      "en": "He had to postpone the appointment.",
+      "focus": "Satzklammer · Präteritum + Infinitiv am Ende",
+      "explanation": "In the past the Satzklammer works the same way as in the present: the finite modal verb **musste** (müss- → muss- + -te) is in position 2, the infinitive *verschieben* is at the end, and the object *den Termin* stands between them.",
+      "pattern": "er + **musste** + Akk.-Objekt + Infinitiv",
+      "mistake": {"wrong": "Er musste verschieben den Termin.", "why": "The infinitive closes the Satzklammer. The object goes in the middle: *Er musste den Termin verschieben.*"},
+      "examples": [
+        {"de": "Sie musste die Reise absagen.", "en": "She had to cancel the trip."},
+        {"de": "Der Lehrer musste die Prüfung um eine Woche verschieben.", "en": "The teacher had to postpone the exam by a week."}
+      ],
+      "words": [{"de": "verschieben", "en": "to postpone"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ihr {{c1::durftet::dürfen}} nicht rein.",
+      "en": "You (all) weren't allowed in.",
+      "focus": "*ihr*-Form · Modalverb ohne Infinitiv",
+      "explanation": "The *ihr*-form ends in **-tet**: durf- + -te + -t → **durftet**. In spoken German a modal verb can stand without an infinitive when a direction is given: *rein* (= *herein/hinein*) replaces *reingehen*.",
+      "pattern": "ihr + **durftet** + nicht + Richtung",
+      "mistake": {"wrong": "Ihr durfte nicht rein.", "why": "*durfte* is singular (*ich/er*). With *ihr* the Präteritum ends in *-tet*: *ihr durftet*."},
+      "examples": [
+        {"de": "Ihr durftet nicht ins Wasser, oder?", "en": "You weren't allowed in the water, were you?"},
+        {"de": "Ihr durftet erst nach dem Konzert hinter die Bühne.", "en": "You weren't allowed backstage until after the concert."}
+      ],
+      "words": [{"de": "rein (ugs.)", "en": "in (= herein/hinein)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich {{c1::konnte::können}} gestern nicht kommen, weil ich krank war.",
+      "en": "I couldn't come yesterday because I was ill.",
+      "focus": "Hauptsatz + *weil*-Satz · Präteritum",
+      "explanation": "In the main clause the modal verb **konnte** is in position 2 and *kommen* closes the clause. In the *weil*-clause the finite verb goes to the end: *weil ich krank war* (*war* is the Präteritum of *sein*, not a modal). A modal verb in a *weil*-clause would also go to the end: *weil ich arbeiten musste*.",
+      "pattern": "ich + **konnte** + … + Infinitiv, weil … + Verb",
+      "mistake": {"wrong": "Gestern ich konnte nicht kommen, weil ich krank war.", "why": "When *gestern* starts the main clause, the modal verb must be in position 2: *Gestern konnte ich nicht kommen, …*"},
+      "examples": [
+        {"de": "Er konnte nicht mitspielen, weil er verletzt war.", "en": "He couldn't play because he was injured."},
+        {"de": "Wir konnten nicht landen, weil das Wetter zu schlecht war.", "en": "We couldn't land because the weather was too bad."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Als Studentin {{c1::musste::müssen}} sie viel arbeiten.",
+      "en": "As a student she had to work a lot.",
+      "focus": "Inversion · Präteritum *er/sie*",
+      "explanation": "*Als Studentin* (as a student, a past role) fills the Vorfeld, so the modal verb **musste** stays in position 2 and the subject *sie* follows it. *sie* + singular verb = she; the *sie*-singular form equals the *ich*-form.",
+      "pattern": "Vorfeld + **musste** + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Als Studentin sie musste viel arbeiten.", "why": "Only one element can stand before the finite verb. After *Als Studentin* comes the verb, then the subject: *Als Studentin musste sie …*"},
+      "examples": [
+        {"de": "Als Praktikant musste er oft Kaffee kochen.", "en": "As an intern he often had to make coffee."},
+        {"de": "Als Kellnerin musste sie jedes Wochenende arbeiten.", "en": "As a waitress she had to work every weekend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Wir {{c1::konnten::können}} das Problem endlich lösen.",
+      "en": "We were finally able to solve the problem.",
+      "focus": "Präteritum · Erfolg (*was able to*)",
+      "explanation": "*konnten* (konn- + -te + -n) here means *managed to / were able to*: a success in the past. The Akkusativ object *das Problem* and the adverb *endlich* stand in the Mittelfeld, and the infinitive *lösen* closes the sentence.",
+      "pattern": "wir + **konnten** + Objekt + endlich + Infinitiv",
+      "mistake": {"wrong": "Wir konnten das Problem endlich gelöst.", "why": "After a modal verb the second verb is the infinitive, not the Partizip II: *konnten … lösen*."},
+      "examples": [
+        {"de": "Wir konnten die Wohnung endlich renovieren.", "en": "We were finally able to renovate the flat."},
+        {"de": "Sie konnte ihren Koffer am Ende doch noch finden.", "en": "In the end she was able to find her suitcase after all."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Wollte::wollen}} er nicht schon längst da sein?",
+      "en": "Wasn't he going to be here ages ago?",
+      "focus": "Frage · nicht erfülltes Vorhaben",
+      "explanation": "*wollte* here reports his own plan or promise (*he said he would be here*), which has not come true. The verb **Wollte** (woll- + -te) starts the question; *nicht* and *schon längst* express surprise. *da sein* closes the sentence.",
+      "pattern": "**Wollte** + Subjekt + nicht + schon längst + da sein?",
+      "mistake": {"wrong": "Wollt er nicht schon längst da sein?", "why": "*wollt* is the Präsens *ihr*-form. The Präteritum with *er* is *wollte*."},
+      "examples": [
+        {"de": "Wollte sie nicht schon gestern zurückrufen?", "en": "Wasn't she going to call back yesterday?"},
+        {"de": "Wollten die Handwerker nicht schon um acht kommen?", "en": "Weren't the workmen going to come at eight?"}
+      ],
+      "words": [{"de": "längst", "en": "long ago, for a long time"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Gestern {{c1::musste::müssen}} er bis neun Uhr im Büro bleiben.",
+      "en": "Yesterday he had to stay at the office until nine.",
+      "focus": "Präteritum · *er* · Zeitangabe im Vorfeld",
+      "explanation": "*Gestern* fills the Vorfeld, so the modal verb follows in position 2 and the subject *er* comes after it. müss- → muss- + -te → **musste**, with no ending for *er*. *bleiben* is the infinitive at the end.",
+      "pattern": "Zeit + **musste** + er + … + Infinitiv",
+      "mistake": {"wrong": "Gestern muss er bis neun Uhr im Büro bleiben.", "why": "*muss* is Präsens and contradicts *gestern*. The past form is the Präteritum *musste*."},
+      "examples": [
+        {"de": "Letzte Woche musste sie jeden Tag Überstunden machen.", "en": "Last week she had to work overtime every day."},
+        {"de": "Am Freitag musste er den Bericht fertig schreiben.", "en": "On Friday he had to finish writing the report."}
+      ],
+      "words": [{"de": "die Überstunde (-n)", "en": "overtime (hour)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Meine Schwester {{c1::wollte::möchte → Vergangenheit}} ein Zimmer in Hamburg mieten, aber alles war zu teuer.",
+      "en": "My sister wanted to rent a room in Hamburg, but everything was too expensive.",
+      "focus": "Wunsch in der Vergangenheit · Ersatz für *möchte*",
+      "explanation": "In the present she would say *Ich möchte ein Zimmer mieten*. *möchte* has no Präteritum, so for a past wish German uses *wollen*: woll- + -te → **wollte**. The *aber*-clause shows that the wish did not work out.",
+      "pattern": "*möchte* (heute) → **wollte** (früher) + Infinitiv",
+      "mistake": {"wrong": "Meine Schwester möchte ein Zimmer in Hamburg mieten, aber alles war zu teuer.", "why": "*möchte* is a present form. It clashes with the past *war* in the second clause. The past of a wish is *wollte*."},
+      "examples": [
+        {"de": "Wir wollten ein Doppelzimmer, aber es gab nur noch Einzelzimmer.", "en": "We wanted a double room, but there were only single rooms left."},
+        {"de": "Er wollte ein Ticket für Freitag, aber der Zug war ausgebucht.", "en": "He wanted a ticket for Friday, but the train was fully booked."}
+      ],
+      "words": [{"de": "mieten", "en": "to rent"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Musstet::müssen}} ihr am Samstag auch arbeiten?",
+      "en": "Did you have to work on Saturday too?",
+      "focus": "Ja/Nein-Frage · *ihr*-Form",
+      "explanation": "The question is addressed to several people (*ihr*). müss- → muss- + -te, and the *ihr*-ending **-t** gives **musstet**. In a yes/no question the finite verb comes first, and *arbeiten* goes to the end.",
+      "pattern": "**Musstet** + ihr + … + Infinitiv?",
+      "mistake": {"wrong": "Musstest ihr am Samstag auch arbeiten?", "why": "*-test* is the *du*-ending. For *ihr* the Präteritum ending is *-tet*: *Musstet ihr …?*"},
+      "examples": [
+        {"de": "Konntet ihr vom Hotel aus das Meer sehen?", "en": "Could you see the sea from the hotel?"},
+        {"de": "Durftet ihr in der Schule Handys benutzen?", "en": "Were you allowed to use mobile phones at school?"}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Zum Glück {{c1::musste::müssen}} ich die Prüfung nicht wiederholen.",
+      "en": "Luckily, I didn't have to retake the exam.",
+      "focus": "*nicht müssen* = nicht nötig",
+      "explanation": "*nicht müssen* means that something was not necessary (*didn't have to*). It is not a ban. *Zum Glück* is in the Vorfeld, so **musste** (muss- + -te) follows in position 2, then the subject *ich*.",
+      "pattern": "**musste** + nicht + Infinitiv = *didn't have to*",
+      "mistake": {"wrong": "Zum Glück durfte ich die Prüfung nicht wiederholen.", "why": "*nicht dürfen* means *was not allowed to*, which makes no sense with *zum Glück* here. English *didn't have to* is *nicht müssen*."},
+      "examples": [
+        {"de": "Am Sonntag mussten wir nicht früh aufstehen.", "en": "On Sunday we didn't have to get up early."},
+        {"de": "Sie musste für das Ticket nichts bezahlen.", "en": "She didn't have to pay anything for the ticket."}
+      ],
+      "words": [{"de": "wiederholen", "en": "to repeat, to retake"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie kam zu spät, weil sie ihr Kind zur Kita bringen {{c1::musste::müssen}}.",
+      "en": "She was late because she had to take her child to nursery.",
+      "focus": "*weil*-Satz · Modalverb am Ende",
+      "explanation": "In a *weil*-clause the finite verb goes to the very end. With a modal verb this means: infinitive first, then the modal verb: *bringen* **musste**. müss- → muss- + -te → *musste*, with no ending for *sie* (she).",
+      "pattern": "…, weil + Subjekt + … + Infinitiv + **Modalverb (Prät.)**",
+      "mistake": {"wrong": "Sie kam zu spät, weil sie musste ihr Kind zur Kita bringen.", "why": "*weil* sends the finite verb to the end of the clause: *…, weil sie ihr Kind zur Kita bringen musste.*"},
+      "examples": [
+        {"de": "Er blieb zu Hause, weil er auf den Handwerker warten musste.", "en": "He stayed at home because he had to wait for the workman."},
+        {"de": "Ich habe nichts gesagt, weil ich nicht lügen wollte.", "en": "I didn't say anything because I didn't want to lie."}
+      ],
+      "words": [{"de": "die Kita (-s)", "en": "nursery, daycare centre"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Nach dem Unfall {{c1::musste::müssen}} er sofort ins Krankenhaus.",
+      "en": "After the accident he had to go to hospital straight away.",
+      "focus": "Modalverb ohne Infinitiv · Richtung",
+      "explanation": "With a direction (*wohin?*) a modal verb can stand without a verb of movement: *ins Krankenhaus* (müssen) = *ins Krankenhaus fahren/gehen*. The Präteritum is **musste** (muss- + -te). *Nach dem Unfall* is in the Vorfeld, so *er* follows the verb.",
+      "pattern": "**musste** + Richtung (ohne Infinitiv)",
+      "mistake": {"wrong": "Nach dem Unfall musste er sofort im Krankenhaus.", "why": "The verb of movement can be left out only with a direction (*wohin?*: *ins Krankenhaus*, *zur Arbeit*, *nach Hause*). *im Krankenhaus* (Dativ after *in*) is a location (*wo?*) and needs a verb: *im Krankenhaus bleiben*."},
+      "examples": [
+        {"de": "Am Montag musste ich schon um sieben zur Arbeit.", "en": "On Monday I had to go to work at seven already."},
+        {"de": "Wir wollten nach dem Essen noch in die Stadt.", "en": "After the meal we still wanted to go into town."}
+      ],
+      "words": [{"de": "der Unfall (¨-e)", "en": "accident"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Konnten::können}} Sie gestern mit Frau Weber sprechen?",
+      "en": "Were you able to speak to Ms Weber yesterday?",
+      "focus": "Höflichkeitsform *Sie* · Präteritum vs. Konjunktiv II",
+      "explanation": "The formal *Sie* takes the plural form: konn- + -te + -n → **Konnten**, first in a yes/no question. This is a real past question because of *gestern*. Do not confuse it with the polite request *Könnten Sie …?* (Konjunktiv II, with umlaut).",
+      "pattern": "**Konnten** + Sie + Zeit + … + Infinitiv?",
+      "mistake": {"wrong": "Könnten Sie gestern mit Frau Weber sprechen?", "why": "*Könnten* (with umlaut) is Konjunktiv II, used for polite requests about now or the future. With *gestern* you need the Präteritum *Konnten*."},
+      "examples": [
+        {"de": "Konnten Sie das Problem mit der Heizung lösen?", "en": "Were you able to solve the problem with the heating?"},
+        {"de": "Mussten Sie lange auf Ihr Visum warten?", "en": "Did you have to wait long for your visa?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Laut Fahrplan {{c1::sollte::sollen}} der Zug um 8:15 Uhr ankommen, aber er hatte Verspätung.",
+      "en": "According to the timetable the train was supposed to arrive at 8:15, but it was late.",
+      "focus": "*sollen* · Plan/Erwartung in der Vergangenheit",
+      "explanation": "*sollen* here gives a plan made by others (the timetable), which was not fulfilled. soll- + -te → **sollte**, singular for *der Zug*. The separable verb *ankommen* stays together as the infinitive at the end.",
+      "pattern": "**sollte** + Infinitiv, aber … (Plan nicht erfüllt)",
+      "mistake": {"wrong": "Laut Fahrplan soll der Zug um 8:15 Uhr ankommen, aber er hatte Verspätung.", "why": "*soll* is Präsens, but the second clause (*hatte*) is in the past. The plan also belongs to the past: *sollte*."},
+      "examples": [
+        {"de": "Das Paket sollte am Dienstag kommen, aber es kam erst am Freitag.", "en": "The parcel was supposed to come on Tuesday, but it only came on Friday."},
+        {"de": "Die Sitzung sollte eine Stunde dauern, aber sie dauerte drei.", "en": "The meeting was supposed to last an hour, but it lasted three."}
+      ],
+      "words": [{"de": "laut (+ Dat./Gen.)", "en": "according to"}, {"de": "die Verspätung (-en)", "en": "delay"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Früher {{c1::durfte::dürfen}} man in Restaurants noch rauchen.",
+      "en": "In the past you were still allowed to smoke in restaurants.",
+      "focus": "Präteritum · *man* · frühere Erlaubnis",
+      "explanation": "*man* (one, people in general) always takes the 3rd person singular: durf- + -te → **durfte**. *Früher* in the Vorfeld puts the modal verb in position 2 before *man*. *noch* means that this has changed since then.",
+      "pattern": "Früher + **durfte** + man + … + Infinitiv",
+      "mistake": {"wrong": "Früher durften man in Restaurants noch rauchen.", "why": "*man* is grammatically singular, even if it means many people: *man durfte*, not *man durften*."},
+      "examples": [
+        {"de": "Früher konnte man hier im See baden.", "en": "In the past you could swim in the lake here."},
+        {"de": "Früher musste man für jede Überweisung zur Bank gehen.", "en": "In the past you had to go to the bank for every transfer."}
+      ],
+      "words": [{"de": "früher", "en": "in the past, formerly"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Meine Eltern {{c1::wollten::wollen}} letztes Jahr nach Spanien umziehen.",
+      "en": "My parents wanted to move to Spain last year.",
+      "focus": "Präteritum · Plural-Subjekt · trennbares Verb",
+      "explanation": "*Meine Eltern* = *sie* (plural), so the verb needs **-n**: woll- + -te + -n → **wollten**. The separable verb *umziehen* (to move house) is an infinitive and stays together at the end.",
+      "pattern": "Plural-Subjekt + **wollten** + … + trennbares Verb (Infinitiv)",
+      "mistake": {"wrong": "Meine Eltern wollte letztes Jahr nach Spanien umziehen.", "why": "*Meine Eltern* is plural. *wollte* is singular; the plural form is *wollten*."},
+      "examples": [
+        {"de": "Unsere Nachbarn wollten im Sommer ausziehen.", "en": "Our neighbours wanted to move out in the summer."},
+        {"de": "Die Studenten wollten die Präsentation verschieben.", "en": "The students wanted to postpone the presentation."}
+      ],
+      "words": [{"de": "umziehen", "en": "to move (house)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Warum {{c1::konntest::können}} du nicht früher Bescheid sagen?",
+      "en": "Why couldn't you let me know earlier?",
+      "focus": "W-Frage · *du* · Vorwurf",
+      "explanation": "In a W-question the question word is in position 1 and the finite verb in position 2: *Warum* **konntest** *du …*. The *du*-ending is *-st* after *-te*. *Bescheid sagen* (to let someone know) is the infinitive phrase at the end.",
+      "pattern": "W-Wort + **konntest** + du + … + Infinitiv?",
+      "mistake": {"wrong": "Warum du konntest nicht früher Bescheid sagen?", "why": "In a W-question the finite verb comes directly after the question word, before the subject: *Warum konntest du …?*"},
+      "examples": [
+        {"de": "Warum musstest du so früh gehen?", "en": "Why did you have to leave so early?"},
+        {"de": "Wann solltest du den Schlüssel abgeben?", "en": "When were you supposed to hand in the key?"}
+      ],
+      "words": [{"de": "Bescheid sagen", "en": "to let someone know"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wir {{c1::wollten::wollen}} gerade gehen, als das Telefon klingelte.",
+      "en": "We were just about to leave when the phone rang.",
+      "focus": "*wollte gerade* · Handlung kurz vor dem Beginn",
+      "explanation": "*wollen* + *gerade* in the Präteritum means *was/were just about to*: the action was about to start when something interrupted it. woll- + -te + -n → **wollten**. The *als*-clause gives the single event in the past, with its verb at the end.",
+      "pattern": "**wollten** + gerade + Infinitiv, als + … + Verb (Prät.)",
+      "mistake": {"wrong": "Wir wollen gerade gehen, als das Telefon klingelte.", "why": "The *als*-clause describes the past, so the main clause must be in the past too: *wollten*, not the Präsens *wollen*."},
+      "examples": [
+        {"de": "Ich wollte gerade duschen, als der Strom ausfiel.", "en": "I was just about to take a shower when the power went off."},
+        {"de": "Sie wollte gerade einschlafen, als das Baby weinte.", "en": "She was just about to fall asleep when the baby cried."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about how the Präteritum of modal verbs is formed.",
+      "prompt": "How do you form the Präteritum of a modal verb?",
+      "answer": "Infinitive stem **without umlaut** + **-te** + ending: könn- → **konnte**, müss- → **musste**, dürf- → **durfte**. *wollen → wollte* and *sollen → sollte* have no umlaut. *mögen* also changes *g* to *ch*: **mochte**.",
+      "explanation": "Modal verbs behave like regular (weak) verbs in the Präteritum: they all have the marker *-te*. The only changes are in the stem: the umlaut disappears, and *mögen* gets *ch*. The person endings are the normal Präteritum endings (-, -st, -, -n, -t, -n after *-te*).",
+      "examples": [
+        {"de": "Sie musste den Bericht bis Freitag schreiben.", "en": "She had to write the report by Friday."},
+        {"de": "Wir durften die Küche nicht benutzen.", "en": "We weren't allowed to use the kitchen."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the person endings.",
+      "prompt": "Which persons share the same Präteritum form of a modal verb?",
+      "answer": "*ich* and *er/sie/es* (**konnte**, **wollte**) — the *er*-form never adds *-t*. *wir*, *sie* (plural) and *Sie* also share one form (**konnten**, **wollten**).",
+      "explanation": "After the marker *-te* the *ich*- and *er*-forms have no ending. This is why *ich musste* and *er musste* look the same; the subject shows the person. Only *du* (*-test*) and *ihr* (*-tet*) have their own forms.",
+      "examples": [
+        {"de": "Ich konnte die Antwort nicht finden.", "en": "I couldn't find the answer."},
+        {"de": "Mein Kollege konnte sie auch nicht finden.", "en": "My colleague couldn't find it either."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the choice of tense.",
+      "prompt": "Why do Germans use the Präteritum of modal verbs even in conversation, where most other verbs take the Perfekt?",
+      "answer": "The Perfekt of a modal verb with a second verb is long and needs two infinitives (*Ich habe nicht kommen können*). The Präteritum is short and clear (*Ich konnte nicht kommen*), so it is the normal past form in speech too.",
+      "explanation": "Like *sein* (*war*) and *haben* (*hatte*), modal verbs are an exception to the rule \"Perfekt in speech\". The Perfekt with a Partizip II (*gekonnt, gemocht*) exists only when the modal verb has no second verb: *Sie hat den Film nicht gemocht.*",
+      "examples": [
+        {"de": "Ich konnte dir leider nicht antworten.", "en": "Unfortunately I couldn't answer you."},
+        {"de": "Er musste gestern Überstunden machen.", "en": "He had to work overtime yesterday."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference between the two forms.",
+      "prompt": "What is the difference between *konnte* and *könnte*?",
+      "answer": "**konnte** (no umlaut) is Präteritum: a fact in the past (*was able to*). **könnte** (umlaut) is Konjunktiv II: *could / would be able to*, for polite requests or hypothetical ideas. The same pairs: *musste/müsste*, *durfte/dürfte*, *mochte/möchte*. *wollte* and *sollte* look the same in both.",
+      "explanation": "The umlaut is the sign of the Konjunktiv II. A past time word (*gestern, damals, als Kind*) needs the form without umlaut. For *wollte* and *sollte* only the context shows which meaning is meant.",
+      "examples": [
+        {"de": "Am Wochenende konnte ich nicht schwimmen gehen.", "en": "At the weekend I couldn't go swimming."},
+        {"de": "Könnten Sie mir morgen beim Umzug helfen?", "en": "Could you help me with the move tomorrow?"}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *nicht müssen* and *nicht dürfen* in the past?",
+      "answer": "**nicht müssen** = it was not necessary (*didn't have to*). **nicht dürfen** = it was forbidden (*wasn't allowed to*). English *must not* corresponds to *nicht dürfen*.",
+      "explanation": "Learners often translate *must not* with *nicht müssen*, but in German *nicht müssen* only removes the obligation. A ban always needs *dürfen* + *nicht* or *kein*.",
+      "examples": [
+        {"de": "Am Feiertag mussten wir nicht arbeiten.", "en": "On the public holiday we didn't have to work."},
+        {"de": "Im Krankenhaus durften wir keine Blumen mitbringen.", "en": "We weren't allowed to bring flowers into the hospital."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Gestern ___ ich leider nicht zum Training kommen.",
+      "options": ["kann", "konnte", "könnte", "konntest"],
+      "correct": "konnte",
+      "answer": "Gestern konnte ich leider nicht zum Training kommen.",
+      "explanation": "*Gestern* needs the Präteritum, and *ich* takes the form without ending: *konnte*. *kann* is Präsens, *könnte* (with umlaut) is Konjunktiv II, and *konntest* is the *du*-form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Als Kind ___ ich keinen Spinat.",
+      "options": ["möchte", "mochte", "mögte", "mag"],
+      "correct": "mochte",
+      "answer": "Als Kind mochte ich keinen Spinat.",
+      "explanation": "*Als Kind* refers to the past, so *mögen* takes the Präteritum: *mochte* (no umlaut, *g* → *ch*). *möchte* is Konjunktiv II (*would like*), *mögte* does not exist, and *mag* is Präsens."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the verb that fits the meaning.",
+      "prompt": "Das war verboten: In der Bibliothek ___ wir nicht laut sprechen.",
+      "options": ["mussten", "durften", "wollten"],
+      "correct": "durften",
+      "answer": "Das war verboten: In der Bibliothek durften wir nicht laut sprechen.",
+      "explanation": "*verboten* means there was a ban, and a ban is *nicht dürfen*. *mussten nicht* would mean it was not necessary, and *wollten nicht* would describe our own wish, not a rule."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Letztes Jahr müssten wir oft Überstunden machen.",
+      "answer": "Letztes Jahr mussten wir oft Überstunden machen.",
+      "explanation": "*Letztes Jahr* is a fact in the past, so you need the Präteritum *mussten* without umlaut. *müssten* is Konjunktiv II (*we would have to*)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Kinder durfte am Wochenende lange aufbleiben.",
+      "answer": "Die Kinder durften am Wochenende lange aufbleiben.",
+      "explanation": "The subject *Die Kinder* is plural, so the verb needs the plural ending *-n*: *durften*. *durfte* is the singular form for *ich* and *er/sie/es*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er konnte nicht schlafen, weil er musste früh aufstehen.",
+      "answer": "Er konnte nicht schlafen, weil er früh aufstehen musste.",
+      "explanation": "In a *weil*-clause the finite verb goes to the end. With a modal verb the order at the end is infinitive + modal verb: *aufstehen musste*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Präteritum.",
+      "prompt": "Wir müssen um sieben Uhr am Bahnhof sein.",
+      "answer": "Wir mussten um sieben Uhr am Bahnhof sein.",
+      "explanation": "Only the modal verb changes: *müssen* → *mussten* (umlaut drops, *-te* + *-n* for *wir*). The infinitive *sein* stays at the end, unchanged."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the past.",
+      "prompt": "Ich möchte ein Ticket nach Wien kaufen.",
+      "answer": "Ich wollte ein Ticket nach Wien kaufen.",
+      "explanation": "*möchte* has no Präteritum. For a wish in the past German uses the Präteritum of *wollen*: *ich wollte*. The rest of the sentence stays the same."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the question in the Präteritum.",
+      "prompt": "Könnt ihr den Weg finden?",
+      "answer": "Konntet ihr den Weg finden?",
+      "explanation": "Präsens *ihr könnt* → Präteritum *ihr konntet*: the umlaut drops and *-te* + *-t* is added. The verb stays in position 1 of the yes/no question."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Präteritum.",
+      "prompt": "Du darfst das Handy im Unterricht nicht benutzen.",
+      "answer": "Du durftest das Handy im Unterricht nicht benutzen.",
+      "explanation": "*darfst* has a different vowel in the Präsens singular; the Präteritum comes from the infinitive *dürfen*: dürf- → durf- + -te + -st → *durftest*. *benutzen* stays at the end."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Meine Freundin",
+      "prompt": "nicht / mitkommen / konnte / leider / meine Freundin",
+      "answer": "Meine Freundin konnte leider nicht mitkommen.",
+      "explanation": "The finite modal verb *konnte* is in position 2 after the subject. *leider* and *nicht* stand in the Mittelfeld, and the infinitive *mitkommen* closes the sentence. Another correct order: *Leider konnte meine Freundin nicht mitkommen.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in order to make a yes/no question.",
+      "prompt": "du / als Kind / Klavier / spielen / musstest",
+      "answer": "Musstest du als Kind Klavier spielen?",
+      "explanation": "In a yes/no question the finite verb *musstest* comes first, then the subject *du*. The infinitive *spielen* goes to the end, after the object *Klavier*."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join the two sentences with *aber*.",
+      "prompt": "Wir wollten das Konzert besuchen. Es gab keine Karten mehr.",
+      "answer": "Wir wollten das Konzert besuchen, aber es gab keine Karten mehr.",
+      "explanation": "*aber* joins two main clauses and does not change the word order (position 0). *wollten* expresses the plan, and the second clause says why it did not happen. A comma comes before *aber*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the two sentences with *weil*.",
+      "prompt": "Ich bin früh nach Hause gegangen. Ich musste am nächsten Morgen arbeiten.",
+      "answer": "Ich bin früh nach Hause gegangen, weil ich am nächsten Morgen arbeiten musste.",
+      "explanation": "*weil* sends the finite verb to the end of its clause. The modal verb *musste* moves behind the infinitive: *arbeiten musste*. The main clause stays in the Perfekt, because *gehen* is a normal verb."
+    }
+  ]
+}

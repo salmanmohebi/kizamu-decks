@@ -1,0 +1,17 @@
+# Python
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+
+# Generated data (audio, Anki profiles, packages, logs) lives in $KIZAMU_DATA or here
+data/
+*.apkg
+*.colpkg
+*.anki2
+*.anki21
+*.anki21b
+
+# Local
+.DS_Store
+.claude/settings.local.json

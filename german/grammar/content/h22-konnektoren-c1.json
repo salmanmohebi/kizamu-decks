@@ -1,0 +1,711 @@
+{
+  "topic_id": "h22-konnektoren-c1",
+  "level": "C1",
+  "title_de": "Konnektoren für Fortgeschrittene (zumal, sofern, es sei denn, geschweige denn …)",
+  "title_en": "Advanced connectors (zumal, sofern, es sei denn, geschweige denn …)",
+  "rule": {
+    "summary": "C1 texts link ideas with precise connectors: an extra reason (**zumal**), a condition (**sofern, soweit, vorausgesetzt, angenommen**), an exception (**es sei denn**), an escalation after a negation (**geschweige denn**), a contrast (**wohingegen, während**), a limitation (**insofern … als, allerdings**), a concession (**dennoch, nichtsdestotrotz, immerhin**), a consequence (**folglich, infolgedessen**) and an alternative (**andernfalls**). For each connector you must know its word order: subordinating conjunctions send the verb to the end, adverbs take a place in the clause (in the Vorfeld they cause inversion), and *es sei denn*, *vorausgesetzt* and *angenommen* are followed by a main clause or a *dass*-clause.",
+    "table": "| Konnektor | Bedeutung | Wortstellung | Beispiel |\n|---|---|---|---|\n| **zumal** | especially since (extra reason) | Nebensatz: Verb am Ende | …, zumal es schon spät **ist**. |\n| **sofern / soweit** | provided that / as far as | Nebensatz: Verb am Ende | Sofern nichts dazwischen**kommt**, … |\n| **es sei denn** | unless | nachgestellt; danach Hauptsatz (V2) oder *dass* | …, es sei denn, es **regnet**. |\n| **vorausgesetzt / angenommen** | provided that / assuming | + Hauptsatz (V2) oder *, dass* + Verb am Ende | …, vorausgesetzt, ich **bekomme** frei. |\n| **geschweige denn** | let alone | nach Negation; + Satzglied oder *dass*-Satz | kaum Zeit, geschweige denn Geld |\n| **wohingegen / während** | whereas | Nebensatz: Verb am Ende (*wohingegen* meist nachgestellt) | …, wohingegen ich lieber ans Meer **fahre**. |\n| **insofern … als** | in so far as | *insofern* im Hauptsatz, *als* + Verb am Ende | insofern wichtig, als es … **schafft** |\n| **dennoch, nichtsdestotrotz, immerhin, allerdings, folglich, infolgedessen, andernfalls** | concession, positive aspect, restriction, consequence, alternative | Adverb: Vorfeld → Verb direkt danach; oder Mittelfeld | Folglich **wurde** der Antrag abgelehnt. |",
+    "steps": [
+      "Decide the logical relation: extra reason, condition, exception, escalation, contrast, limitation, concession, consequence or alternative.",
+      "Check the type of the connector. Conjunction (*zumal, sofern, soweit, wohingegen, während, als* after *insofern*) → Nebensatz, finite verb at the end.",
+      "Adverb (*dennoch, nichtsdestotrotz, immerhin, allerdings, folglich, infolgedessen, andernfalls*) → it is a normal part of the clause. In position 1 the finite verb follows directly (inversion); it can also stand in the Mittelfeld.",
+      "*es sei denn* always follows the main clause; after it comes a comma and a main clause (verb second) or *dass* + verb at the end. *vorausgesetzt* and *angenommen* work the same way; *angenommen* often goes with Konjunktiv II.",
+      "*geschweige denn* needs a negative first part (*nicht, kein, kaum, nie, nicht einmal*) and introduces an even less likely case: a phrase in the same function or a *dass*-clause.",
+      "Watch the register: *zumal, sofern, insofern … als, nichtsdestotrotz, infolgedessen, andernfalls* are formal and typical of written texts; in speech people often use *weil, wenn, trotzdem, deshalb, sonst*."
+    ],
+    "pitfalls": [
+      "Inversion missing after an adverb: ✗ *Folglich der Antrag wurde abgelehnt.* → ✓ *Folglich wurde der Antrag abgelehnt.*",
+      "Main-clause order after a conjunction: ✗ *…, zumal es ist schon spät.* → ✓ *…, zumal es schon spät ist.* And ✗ *zumal dass* → ✓ *zumal (da)*.",
+      "Verb at the end after *es sei denn* without *dass*: ✗ *…, es sei denn, es in Strömen regnet.* → ✓ *…, es sei denn, es regnet in Strömen.*",
+      "*geschweige denn* without a negation, or with *dann*: ✗ *Ich habe Zeit, geschweige denn Geld.* ✗ *geschweige dann* → ✓ *Ich habe kaum Zeit, geschweige denn Geld.*",
+      "*insofern … dass*: ✗ *insofern wichtig, dass …* → ✓ *insofern wichtig, als …*; and the adverb *infolgedessen* vs. the preposition *infolge* + Gen.: ✗ *infolgedessen des Streiks* → ✓ *infolge des Streiks*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Ich würde das Angebot ablehnen, {{c1::zumal::zusätzlicher Grund}} die Bezahlung auch nicht besonders gut ist.",
+      "en": "I would turn down the offer, especially since the pay isn't particularly good either.",
+      "focus": "zusätzlicher Grund · Nebensatz",
+      "explanation": "**zumal** (*especially since*) adds a reason that makes an already given or obvious conclusion even stronger. It is a subordinating conjunction: the finite verb *ist* goes to the end. The *zumal*-clause normally follows the main clause.",
+      "pattern": "Hauptsatz, **zumal** + Subj. … Verb",
+      "mistake": {"wrong": "Ich würde das Angebot ablehnen, zumal dass die Bezahlung auch nicht besonders gut ist.", "why": "*zumal* is itself a conjunction. It can combine with *da* or *wenn* (*zumal da …*), but never with *dass*."},
+      "examples": [
+        {"de": "Wir sollten jetzt aufbrechen, zumal es draußen schon dunkel wird.", "en": "We should set off now, especially as it is already getting dark outside."},
+        {"de": "Die Entscheidung überrascht, zumal der Vorstand das Projekt lange unterstützt hat.", "en": "The decision is surprising, especially since the board supported the project for a long time."}
+      ],
+      "words": [{"de": "zumal", "en": "especially since"}],
+      "production_cue": "(use zumal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Umzug war extrem anstrengend, zumal wir kein Auto {{c1::hatten::haben, Präteritum}}.",
+      "en": "The move was extremely exhausting, especially as we didn't have a car.",
+      "focus": "*zumal* · Position des finiten Verbs",
+      "explanation": "*zumal* introduces a Nebensatz, so the finite verb **hatten** comes last. The tense follows the main clause (Präteritum: *war*). The clause gives an extra reason why the move was hard.",
+      "pattern": "…, zumal + Subj. + … + **Verb** (Ende)",
+      "mistake": {"wrong": "Der Umzug war extrem anstrengend, zumal wir hatten kein Auto.", "why": "*zumal* is not an adverb but a subordinating conjunction. Its clause needs verb-final order: *zumal wir kein Auto hatten*."},
+      "examples": [
+        {"de": "Die Wartezeit war ärgerlich, zumal wir einen festen Termin hatten.", "en": "The waiting time was annoying, especially since we had a fixed appointment."},
+        {"de": "Der Rücktritt kam überraschend, zumal sie erst seit einem Jahr im Amt war.", "en": "The resignation came as a surprise, especially as she had only been in office for a year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Sofern::Bedingung · formell, 'provided that'}} nichts dazwischenkommt, beginnen die Bauarbeiten im März.",
+      "en": "Provided nothing gets in the way, construction work will begin in March.",
+      "focus": "Bedingung · formell",
+      "explanation": "**sofern** (*provided that, if*) introduces a condition; it is more formal than *wenn* or *falls*. The *sofern*-clause fills the Vorfeld, so the main clause continues with the finite verb: *beginnen die Bauarbeiten*.",
+      "pattern": "**Sofern** + … Verb, + Verb + Subj. …",
+      "mistake": {"wrong": "Sofern nichts dazwischenkommt, die Bauarbeiten beginnen im März.", "why": "The *sofern*-clause is position 1 of the main clause. The finite verb *beginnen* must follow directly after the comma."},
+      "examples": [
+        {"de": "Sofern Sie keine Einwände haben, schließen wir die Sitzung jetzt.", "en": "Provided you have no objections, we will now close the meeting."},
+        {"de": "Sofern das Wetter mitspielt, findet das Sommerfest im Innenhof statt.", "en": "If the weather cooperates, the summer party will take place in the courtyard."}
+      ],
+      "words": [{"de": "dazwischenkommen", "en": "to get in the way, come up"}],
+      "production_cue": "(formal condition)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Fahrtkosten werden erstattet, sofern die Belege bis Monatsende {{c1::eingereicht werden::einreichen, Passiv}}.",
+      "en": "Travel expenses are reimbursed provided that the receipts are submitted by the end of the month.",
+      "focus": "*sofern* · Verbklammer im Nebensatz",
+      "explanation": "In the *sofern*-clause the whole verb group goes to the end, with the finite verb last: Partizip II + **werden** (Passiv Präsens). *einreichen* is separable, so the Partizip II is *eingereicht*.",
+      "pattern": "…, sofern + Subj. … Partizip II + **werden**",
+      "mistake": {"wrong": "Die Fahrtkosten werden erstattet, sofern werden die Belege bis Monatsende eingereicht.", "why": "*sofern* is a subordinating conjunction, not an adverb. It does not cause inversion; the finite verb goes to the end."},
+      "examples": [
+        {"de": "Der Rabatt gilt nur, sofern die Bestellung online aufgegeben wird.", "en": "The discount only applies if the order is placed online."},
+        {"de": "Haustiere sind erlaubt, sofern sie angeleint werden.", "en": "Pets are allowed provided that they are kept on a lead."}
+      ],
+      "words": [{"de": "der Beleg", "en": "receipt"}, {"de": "erstatten", "en": "to reimburse"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Soweit::Einschränkung · 'as far as'}} ich informiert bin, ist die Stelle noch nicht besetzt.",
+      "en": "As far as I know, the position has not been filled yet.",
+      "focus": "Einschränkung des Wissens",
+      "explanation": "**soweit** (*as far as*) limits a statement to what the speaker knows or can judge (*soweit ich weiß, soweit ich sehe*). It is a subordinating conjunction (verb *bin* at the end), and the main clause continues with the finite verb *ist*.",
+      "pattern": "**Soweit** ich + … Verb, + Verb + Subj. …",
+      "mistake": {"wrong": "Soweit ich bin informiert, ist die Stelle noch nicht besetzt.", "why": "*soweit* introduces a Nebensatz, so its finite verb *bin* must be at the end: *Soweit ich informiert bin, …*"},
+      "examples": [
+        {"de": "Soweit ich weiß, hat die Ausstellung montags geschlossen.", "en": "As far as I know, the exhibition is closed on Mondays."},
+        {"de": "Soweit wir das beurteilen können, ist das Gebäude stabil.", "en": "As far as we can judge, the building is stable."}
+      ],
+      "words": [{"de": "besetzen", "en": "to fill (a position)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Das Konzert findet im Freien statt, {{c1::es sei denn::Ausnahme · 3 Wörter}}, es regnet in Strömen.",
+      "en": "The concert will take place outdoors unless it pours with rain.",
+      "focus": "Ausnahme · 'unless'",
+      "explanation": "**es sei denn** (*unless*) names the only case in which the main statement does not apply. It always follows the main clause, and after it comes a comma and a main clause with verb second: *es regnet in Strömen*.",
+      "pattern": "Hauptsatz, **es sei denn**, + Hauptsatz (V2)",
+      "mistake": {"wrong": "Das Konzert findet im Freien statt, es sei denn, regnet es in Strömen.", "why": "After *es sei denn,* comes a normal main clause with verb second: *es regnet*. *regnet es* (verb first) would be a question or a condition without *wenn*."},
+      "examples": [
+        {"de": "Ich komme zur Feier, es sei denn, mein Zug fällt aus.", "en": "I'll come to the party unless my train is cancelled."},
+        {"de": "Die Bibliothek bleibt geöffnet, es sei denn, es gibt einen Feueralarm.", "en": "The library stays open unless there is a fire alarm."}
+      ],
+      "words": [{"de": "in Strömen regnen", "en": "to pour with rain"}],
+      "production_cue": "(unless)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir fahren mit dem Bus nach Hause, es sei denn, du {{c1::holst::abholen}} uns mit dem Auto ab.",
+      "en": "We'll take the bus home unless you pick us up by car.",
+      "focus": "*es sei denn* · Wortstellung danach",
+      "explanation": "After *es sei denn,* the clause has main-clause order: subject *du*, finite verb **holst** in second position, separable prefix *ab* at the end. It is not a Nebensatz, so the verb does not go to the end.",
+      "pattern": "…, es sei denn, + Subj. + **Verb** + … + Präfix",
+      "mistake": {"wrong": "Wir fahren mit dem Bus nach Hause, es sei denn, du uns mit dem Auto abholst.", "why": "Verb-final order is only possible with *dass* (*es sei denn, dass du uns abholst*). Without *dass* the verb is in position 2: *du holst uns … ab*."},
+      "examples": [
+        {"de": "Ich nehme den letzten Zug, es sei denn, Paul bringt mich nach Hause.", "en": "I'll take the last train unless Paul drives me home."},
+        {"de": "Die Ware wird morgen geliefert, es sei denn, Sie sagen den Termin ab.", "en": "The goods will be delivered tomorrow unless you cancel the appointment."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Vertrag verlängert sich automatisch um ein Jahr, es sei denn, dass er drei Monate vorher gekündigt {{c1::wird::werden}}.",
+      "en": "The contract is automatically extended by one year unless it is terminated three months in advance.",
+      "focus": "*es sei denn, dass* · Verb am Ende",
+      "explanation": "*es sei denn* can also be followed by *dass*. Then the clause is a Nebensatz and the finite verb goes to the end: *gekündigt* **wird** (Passiv Präsens). This variant is typical of legal and contract language.",
+      "pattern": "…, es sei denn, **dass** + Subj. … Partizip II + **wird**",
+      "mistake": {"wrong": "Der Vertrag verlängert sich automatisch um ein Jahr, es sei denn, dass er drei Monate vorher wird gekündigt.", "why": "In a *dass*-clause the finite verb comes after the Partizip II, at the very end: *gekündigt wird*."},
+      "examples": [
+        {"de": "Die Frist gilt für alle, es sei denn, dass ein ärztliches Attest vorliegt.", "en": "The deadline applies to everyone unless a medical certificate is provided."},
+        {"de": "Wir veröffentlichen keine Namen, es sei denn, dass die Betroffenen zustimmen.", "en": "We do not publish any names unless the people concerned agree."}
+      ],
+      "words": [{"de": "kündigen", "en": "to terminate (a contract)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich habe kaum Zeit zum Schlafen, {{c1::geschweige denn::'let alone' · 2 Wörter}} für ein Hobby.",
+      "en": "I hardly have time to sleep, let alone for a hobby.",
+      "focus": "Steigerung nach Negation",
+      "explanation": "**geschweige denn** (*let alone*) follows a negative statement (*kaum Zeit*) and adds a case that is even less likely. Here it is followed only by a phrase that matches the first part (*Zeit zum Schlafen* → *für ein Hobby*), so no verb is needed.",
+      "pattern": "Negation …, **geschweige denn** + Satzglied",
+      "mistake": {"wrong": "Ich habe kaum Zeit zum Schlafen, geschweige dann für ein Hobby.", "why": "The fixed form is *geschweige denn*, with *denn*. *dann* (*then*) is a time adverb and does not belong in this connector."},
+      "examples": [
+        {"de": "Er spricht kein Wort Französisch, geschweige denn Arabisch.", "en": "He doesn't speak a word of French, let alone Arabic."},
+        {"de": "Wir haben das Geld für eine Renovierung nicht, geschweige denn für einen Neubau.", "en": "We don't have the money for a renovation, let alone for a new building."}
+      ],
+      "words": [{"de": "geschweige denn", "en": "let alone"}],
+      "production_cue": "(let alone)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Viele Erstsemester können {{c1::kaum::fast nicht}} eine E-Mail korrekt formulieren, geschweige denn eine Hausarbeit schreiben.",
+      "en": "Many first-year students can hardly write an email correctly, let alone write a term paper.",
+      "focus": "Voraussetzung für *geschweige denn*",
+      "explanation": "*geschweige denn* only works after a negative or restrictive first part: *nicht, kein, nie, nicht einmal* or **kaum**. The second part (*eine Hausarbeit schreiben*) is parallel to the first (*eine E-Mail korrekt formulieren*) and depends on the same modal verb *können*.",
+      "pattern": "**kaum/nicht** …, geschweige denn + paralleles Satzglied",
+      "mistake": {"wrong": "Viele Erstsemester können eine E-Mail korrekt formulieren, geschweige denn eine Hausarbeit schreiben.", "why": "Without a negation *geschweige denn* makes no sense: it means *and even less*. The first part must be negative (*kaum, nicht, nicht einmal*)."},
+      "examples": [
+        {"de": "Die Kinder konnten nicht einmal schwimmen, geschweige denn tauchen.", "en": "The children couldn't even swim, let alone dive."},
+        {"de": "Ich habe den Roman nie gelesen, geschweige denn verstanden.", "en": "I've never read the novel, let alone understood it."}
+      ],
+      "words": [{"de": "das Erstsemester", "en": "first-year student"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "In Hamburg regnete es den ganzen Tag, wohingegen in München die Sonne {{c1::schien::scheinen, Präteritum}}.",
+      "en": "In Hamburg it rained all day, whereas in Munich the sun was shining.",
+      "focus": "Gegensatz · Wortstellung nach *wohingegen*",
+      "explanation": "**wohingegen** (*whereas*) contrasts two facts. It is a subordinating conjunction, so the finite verb **schien** goes to the end. The *wohingegen*-clause normally stands after the main clause.",
+      "pattern": "Hauptsatz, **wohingegen** + … + Verb (Ende)",
+      "mistake": {"wrong": "In Hamburg regnete es den ganzen Tag, wohingegen schien in München die Sonne.", "why": "*wohingegen* is not an adverb like *dagegen*; it introduces a Nebensatz with verb-final order: *wohingegen in München die Sonne schien*."},
+      "examples": [
+        {"de": "Die Mieten sind stark gestiegen, wohingegen die Löhne kaum gewachsen sind.", "en": "Rents have risen sharply, whereas wages have hardly grown."},
+        {"de": "Meine Schwester liebt Horrorfilme, wohingegen ich mich schon bei Krimis fürchte.", "en": "My sister loves horror films, whereas I get scared even by crime dramas."}
+      ],
+      "words": [{"de": "wohingegen", "en": "whereas"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "{{c1::Während::Gegensatz · Nebensatz vorn}} die Mieten in den Städten explodieren, stehen auf dem Land viele Häuser leer.",
+      "en": "While rents in the cities are exploding, many houses in the countryside are standing empty.",
+      "focus": "Gegensatz im Vorfeld",
+      "explanation": "Here **während** does not mean *during the same time* but expresses a contrast (*whereas*). In front of the main clause *während* is the normal choice; *wohingegen* usually follows the main clause. The main clause continues with the finite verb *stehen*.",
+      "pattern": "**Während** + … Verb, + Verb + Subj. … (Gegensatz)",
+      "mistake": {"wrong": "Während die Mieten in den Städten explodieren, auf dem Land stehen viele Häuser leer.", "why": "The *während*-clause already fills the Vorfeld. The finite verb *stehen* must come directly after the comma: *…, stehen auf dem Land viele Häuser leer*."},
+      "examples": [
+        {"de": "Während die eine Hälfte der Befragten zustimmte, lehnte die andere den Vorschlag ab.", "en": "While one half of those surveyed agreed, the other half rejected the proposal."},
+        {"de": "Während Kaffee hier sehr günstig ist, kostet Tee ein Vermögen.", "en": "While coffee is very cheap here, tea costs a fortune."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Die Studie ist {{c1::insofern::Teil 1 von '… als'}} bemerkenswert, als sie erstmals Langzeitdaten auswertet.",
+      "en": "The study is remarkable in so far as it analyses long-term data for the first time.",
+      "focus": "zweiteiliger Konnektor · Einschränkung",
+      "explanation": "**insofern … als** (*in so far as, in that*) limits a judgement to one aspect. *insofern* stands in the main clause next to the adjective, and *als* opens the Nebensatz with the verb at the end. *insofern, als* can also stand together after the main clause.",
+      "pattern": "… **insofern** + Adj., **als** + Subj. … Verb",
+      "mistake": {"wrong": "Die Studie ist insofern bemerkenswert, dass sie erstmals Langzeitdaten auswertet.", "why": "The partner of *insofern* is *als*, not *dass*: *insofern bemerkenswert, als …*."},
+      "examples": [
+        {"de": "Der Vorschlag ist insofern sinnvoll, als er keine zusätzlichen Kosten verursacht.", "en": "The proposal makes sense in that it does not cause any additional costs."},
+        {"de": "Die Lage hat sich insofern verbessert, als wieder mehr Lehrkräfte eingestellt werden.", "en": "The situation has improved in so far as more teachers are being hired again."}
+      ],
+      "words": [{"de": "auswerten", "en": "to analyse, evaluate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Das Ergebnis ist insofern überraschend, als die Experten mit dem Gegenteil {{c1::gerechnet hatten::rechnen, Plusquamperfekt}}.",
+      "en": "The result is surprising in that the experts had expected the opposite.",
+      "focus": "*insofern … als* · Verbgruppe am Ende",
+      "explanation": "The *als*-clause is a Nebensatz: Partizip II + finite auxiliary at the end: *gerechnet* **hatten**. The Plusquamperfekt shows that the expectation existed before the result. *rechnen mit* + Dativ = *to expect*.",
+      "pattern": "insofern + Adj., als + Subj. … Partizip II + **hatten**",
+      "mistake": {"wrong": "Das Ergebnis ist insofern überraschend, als hatten die Experten mit dem Gegenteil gerechnet.", "why": "*als* after *insofern* is a subordinating conjunction; the finite verb *hatten* goes to the end, after *gerechnet*."},
+      "examples": [
+        {"de": "Die Wahl war insofern historisch, als zuvor noch nie eine Frau gewonnen hatte.", "en": "The election was historic in that no woman had ever won before."},
+        {"de": "Der Fund ist insofern wertvoll, als niemand mit einer so alten Siedlung gerechnet hatte.", "en": "The find is valuable in that nobody had expected such an old settlement."}
+      ],
+      "words": [{"de": "rechnen mit", "en": "to expect"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Wir können das Projekt bis Juni abschließen, {{c1::vorausgesetzt::Bedingung · Partizip II}}, dass alle Daten rechtzeitig vorliegen.",
+      "en": "We can complete the project by June, provided that all the data is available in time.",
+      "focus": "Bedingung · Partizip als Konnektor",
+      "explanation": "**vorausgesetzt, dass** (*provided that*) names a necessary condition. The participle *vorausgesetzt* is followed by a comma and a *dass*-clause with the verb at the end (*vorliegen*). It usually follows the main clause.",
+      "pattern": "Hauptsatz, **vorausgesetzt**, dass + … Verb",
+      "mistake": {"wrong": "Wir können das Projekt bis Juni abschließen, vorausgesetzt, dass alle Daten liegen rechtzeitig vor.", "why": "The *dass*-clause is a Nebensatz: the separable verb stays together at the end: *dass alle Daten rechtzeitig vorliegen*."},
+      "examples": [
+        {"de": "Die Wanderung ist leicht, vorausgesetzt, dass man gutes Schuhwerk trägt.", "en": "The hike is easy, provided that you wear good footwear."},
+        {"de": "Der Kredit wird bewilligt, vorausgesetzt, dass Sie ein festes Einkommen nachweisen.", "en": "The loan will be approved, provided that you can prove a regular income."}
+      ],
+      "words": [{"de": "vorliegen", "en": "to be available"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Ich komme gern mit, vorausgesetzt, ich {{c1::bekomme::bekommen}} am Freitag frei.",
+      "en": "I'd be happy to come along, provided I get Friday off.",
+      "focus": "*vorausgesetzt* ohne *dass*",
+      "explanation": "Without *dass*, *vorausgesetzt* is followed by a main clause: subject *ich*, finite verb **bekomme** in second position. This short form is common in speech and writing.",
+      "pattern": "…, vorausgesetzt, + Subj. + **Verb** + … (V2)",
+      "mistake": {"wrong": "Ich komme gern mit, vorausgesetzt, ich am Freitag freibekomme.", "why": "Without *dass* the clause after *vorausgesetzt* has verb-second order: *ich bekomme am Freitag frei*. Verb-final needs *dass*."},
+      "examples": [
+        {"de": "Wir grillen am Samstag, vorausgesetzt, das Wetter hält.", "en": "We'll have a barbecue on Saturday, provided the weather holds."},
+        {"de": "Die Reparatur dauert zwei Tage, vorausgesetzt, die Ersatzteile sind auf Lager.", "en": "The repair takes two days, provided the spare parts are in stock."}
+      ],
+      "words": [{"de": "freibekommen", "en": "to get time off"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "{{c1::Angenommen::Hypothese · Partizip II}}, die Prognosen stimmen, dann steigt der Meeresspiegel bis 2100 um einen Meter.",
+      "en": "Assuming the forecasts are right, sea level will rise by one metre by 2100.",
+      "focus": "Hypothese · Partizip als Konnektor",
+      "explanation": "**angenommen** (*assuming, suppose*) introduces a hypothesis. Like *vorausgesetzt*, it is followed by a main clause (*die Prognosen stimmen*) or by *dass* + verb at the end. The main clause is often resumed with *dann*, which takes the Vorfeld and is followed by the verb.",
+      "pattern": "**Angenommen**, + Hauptsatz, **dann** + Verb + Subj. …",
+      "mistake": {"wrong": "Angenommen, die Prognosen stimmen, dann der Meeresspiegel steigt bis 2100 um einen Meter.", "why": "*dann* fills the Vorfeld of the main clause, so the finite verb *steigt* must follow directly: *dann steigt der Meeresspiegel*."},
+      "examples": [
+        {"de": "Angenommen, der Zug ist pünktlich, dann sind wir um acht in Bern.", "en": "Assuming the train is on time, we'll be in Bern at eight."},
+        {"de": "Angenommen, dass die Zahlen stimmen, dann müssen wir das Budget kürzen.", "en": "Assuming the figures are correct, we will have to cut the budget."}
+      ],
+      "words": [{"de": "der Meeresspiegel", "en": "sea level"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Angenommen, du {{c1::hättest::haben → Konj. II}} ein ganzes Jahr frei – was würdest du machen?",
+      "en": "Suppose you had a whole year off – what would you do?",
+      "focus": "*angenommen* + Irrealis",
+      "explanation": "When the assumption is unreal or unlikely, *angenommen* goes with the Konjunktiv II: *du* **hättest**. The main clause or question then also uses the Konjunktiv II (*würdest … machen*).",
+      "pattern": "Angenommen, + Subj. + **KII** … – **würde** + Infinitiv",
+      "mistake": {"wrong": "Angenommen, wenn du ein ganzes Jahr frei hättest – was würdest du machen?", "why": "*angenommen* already introduces the hypothesis. It is followed by a main clause or by *dass*, not by *wenn*."},
+      "examples": [
+        {"de": "Angenommen, wir verlören den Großkunden – wie lange könnten wir durchhalten?", "en": "Suppose we lost our major client – how long could we hold out?"},
+        {"de": "Angenommen, sie hätte das Angebot aus Japan akzeptiert, dann wäre sie jetzt in Tokio.", "en": "Suppose she had accepted the offer from Japan, she would be in Tokyo now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Verhandlungen waren zäh. Nichtsdestotrotz {{c1::haben beide Seiten::beide Seiten / haben}} am Ende einen Kompromiss gefunden.",
+      "en": "The negotiations were tough. Nevertheless, both sides found a compromise in the end.",
+      "focus": "Konzessivadverb im Vorfeld",
+      "explanation": "**nichtsdestotrotz** (*nevertheless*, formal) is an adverb, not a conjunction. In position 1 it fills the Vorfeld, so the finite verb **haben** follows immediately and the subject **beide Seiten** comes after it (inversion).",
+      "pattern": "**Nichtsdestotrotz** + Verb + Subj. + … Partizip II",
+      "mistake": {"wrong": "Die Verhandlungen waren zäh. Nichtsdestotrotz beide Seiten haben am Ende einen Kompromiss gefunden.", "why": "*nichtsdestotrotz* takes the Vorfeld itself; the subject cannot stand in front of the verb as well. Correct: *Nichtsdestotrotz haben beide Seiten …*"},
+      "examples": [
+        {"de": "Die Kritik war heftig. Nichtsdestotrotz hält die Regierung an ihrem Kurs fest.", "en": "The criticism was fierce. Nevertheless, the government is sticking to its course."},
+        {"de": "Das Budget ist knapp. Nichtsdestotrotz will die Schule eine Theater-AG anbieten.", "en": "The budget is tight. Nonetheless, the school wants to offer a drama club."}
+      ],
+      "words": [{"de": "zäh", "en": "tough, slow (negotiations)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Die Kritik war berechtigt; {{c1::dennoch::Gegengrund · formell, kurz}} hat sie mich verletzt.",
+      "en": "The criticism was justified; even so, it hurt me.",
+      "focus": "Konzessivadverb · formelle Variante",
+      "explanation": "**dennoch** is the formal equivalent of *trotzdem*: the second fact happens although the first would lead you to expect otherwise. It is an adverb; here it fills the Vorfeld, so the finite verb *hat* follows directly. It can also stand in the Mittelfeld: *sie hat mich dennoch verletzt*. *nichtsdestotrotz* (longer, also formal) and the neutral *trotzdem* are also correct here.",
+      "pattern": "…; **dennoch** + Verb + Subj. …",
+      "mistake": {"wrong": "Die Kritik war berechtigt; trotz hat sie mich verletzt.", "why": "*trotz* is a preposition and needs a Genitiv noun (*trotz der Kritik*). As a sentence adverb you need *dennoch* or *trotzdem*."},
+      "examples": [
+        {"de": "Das Angebot war verlockend; dennoch hat er abgelehnt.", "en": "The offer was tempting; even so, he turned it down."},
+        {"de": "Die Straße war gesperrt; dennoch fuhren einige Autofahrer weiter.", "en": "The road was closed; nevertheless, some drivers carried on."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Wir haben das Spiel verloren, aber {{c1::immerhin::positiver Aspekt}} haben wir zwei Tore geschossen.",
+      "en": "We lost the game, but at least we scored two goals.",
+      "focus": "positiver Aspekt trotz negativer Lage",
+      "explanation": "**immerhin** (*at least, after all*) points to a positive aspect in a negative situation. It is an adverb: after *aber* (position 0, outside the clause) it fills the Vorfeld, so the finite verb *haben* follows and then the subject *wir*. *wenigstens* and *zumindest* are close synonyms and would also be correct here.",
+      "pattern": "…, aber **immerhin** + Verb + Subj. …",
+      "mistake": {"wrong": "Wir haben das Spiel verloren, aber immerhin wir haben zwei Tore geschossen.", "why": "*aber* does not count as a position, but *immerhin* does: it is the Vorfeld. The verb must follow it directly: *immerhin haben wir*."},
+      "examples": [
+        {"de": "Der Urlaub war verregnet, aber immerhin war das Hotel gut.", "en": "The holiday was rainy, but at least the hotel was good."},
+        {"de": "Sie hat den Preis nicht gewonnen, aber immerhin stand sie im Finale.", "en": "She didn't win the prize, but at least she made it to the final."}
+      ],
+      "words": [{"de": "immerhin", "en": "at least, after all"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Die Brücke ist marode und muss {{c1::infolgedessen::Folge · formell}} für Lastwagen gesperrt werden.",
+      "en": "The bridge is in poor condition and consequently has to be closed to lorries.",
+      "focus": "Folgeadverb im Mittelfeld",
+      "explanation": "**infolgedessen** (*as a result, consequently*) is a formal adverb of consequence. Here it stands in the Mittelfeld of the second main clause, after the finite verb *muss*. The subject *die Brücke* is shared by both clauses, so after *und* it can be left out, but only because nothing else stands before *muss*.",
+      "pattern": "… und + Verb + **infolgedessen** + … Infinitiv",
+      "mistake": {"wrong": "Die Brücke ist marode und infolgedessen muss für Lastwagen gesperrt werden.", "why": "If *infolgedessen* takes the Vorfeld, the subject has to appear after the verb and cannot be left out: *und infolgedessen muss sie gesperrt werden*."},
+      "examples": [
+        {"de": "Der Server war überlastet und musste infolgedessen neu gestartet werden.", "en": "The server was overloaded and consequently had to be restarted."},
+        {"de": "Die Ernte fiel schlecht aus und wurde infolgedessen deutlich teurer verkauft.", "en": "The harvest was poor and was consequently sold at much higher prices."}
+      ],
+      "words": [{"de": "marode", "en": "dilapidated, in poor condition"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "War die Prüfung schwer? – {{c1::Allerdings::starke Zustimmung}}! Die Hälfte des Kurses ist durchgefallen.",
+      "en": "Was the exam hard? – It certainly was! Half the class failed.",
+      "focus": "Adverb als Antwortwort · starke Bestätigung",
+      "explanation": "Besides its meaning *however* (restriction), **allerdings** can stand alone as an emphatic answer: *Allerdings!* = *It certainly was! / Indeed!* It strongly confirms the question, often with a negative tone.",
+      "pattern": "Frage? – **Allerdings!** (= ja, sehr)",
+      "mistake": {"wrong": "War die Prüfung schwer? – Allerdings war! Die Hälfte des Kurses ist durchgefallen.", "why": "As an answer word *allerdings* stands alone. A verb after it would need a full clause: *Allerdings war sie das!*"},
+      "examples": [
+        {"de": "Hat sich die Reise gelohnt? – Allerdings! Wir wollen nächstes Jahr wieder hin.", "en": "Was the trip worth it? – It certainly was! We want to go back next year."},
+        {"de": "Ist das dein Ernst? – Allerdings! Ich kündige morgen.", "en": "Are you serious? – I certainly am! I'm handing in my notice tomorrow."}
+      ],
+      "words": [{"de": "durchfallen", "en": "to fail (an exam)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Das neue Medikament wirkt sehr schnell. Allerdings {{c1::treten::auftreten}} bei vielen Patienten Nebenwirkungen auf.",
+      "en": "The new drug works very quickly. However, many patients experience side effects.",
+      "focus": "*allerdings* im Vorfeld · trennbares Verb",
+      "explanation": "*allerdings* (*however*) restricts the positive statement before it. As an adverb in the Vorfeld it is followed by the finite verb **treten**; the separable prefix *auf* goes to the end, and the subject *Nebenwirkungen* follows later in the Mittelfeld.",
+      "pattern": "**Allerdings** + Verb + … + Subj. + Präfix",
+      "mistake": {"wrong": "Das neue Medikament wirkt sehr schnell. Allerdings bei vielen Patienten treten Nebenwirkungen auf.", "why": "Only one element may stand before the finite verb. *Allerdings* already fills the Vorfeld, so *bei vielen Patienten* must follow the verb: *Allerdings treten bei vielen Patienten …*"},
+      "examples": [
+        {"de": "Die Wohnung ist hell und ruhig. Allerdings liegt sie weit außerhalb.", "en": "The flat is bright and quiet. However, it is a long way out of town."},
+        {"de": "Das Konzept klingt überzeugend. Allerdings fehlen konkrete Zahlen.", "en": "The concept sounds convincing. However, concrete figures are missing."}
+      ],
+      "words": [{"de": "die Nebenwirkung", "en": "side effect"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Die Nachfrage ist deutlich gesunken, folglich {{c1::senkt der Hersteller::der Hersteller / senken}} die Preise.",
+      "en": "Demand has fallen significantly; consequently, the manufacturer is lowering its prices.",
+      "focus": "Folgeadverb nach Komma",
+      "explanation": "**folglich** (*consequently*) presents a logical consequence. It is an adverb, even after a comma, so it opens a new main clause and fills its Vorfeld: the finite verb **senkt** follows, then the subject **der Hersteller**.",
+      "pattern": "…, **folglich** + Verb + Subj. + …",
+      "mistake": {"wrong": "Die Nachfrage ist deutlich gesunken, folglich der Hersteller senkt die Preise.", "why": "*folglich* is not a coordinating conjunction like *und*; it occupies position 1. The verb must come next: *folglich senkt der Hersteller*."},
+      "examples": [
+        {"de": "Er hat die Frist versäumt, folglich verliert er seinen Anspruch.", "en": "He missed the deadline; consequently, he loses his entitlement."},
+        {"de": "Die Probe war verunreinigt, folglich sind die Messwerte unbrauchbar.", "en": "The sample was contaminated; consequently, the readings are unusable."}
+      ],
+      "words": [{"de": "die Nachfrage", "en": "demand"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Ein Lkw hatte sich auf der A9 quergestellt. {{c1::Infolgedessen::Folge · 'as a result of this'}} staute sich der Verkehr auf 15 Kilometern.",
+      "en": "A lorry had jackknifed on the A9. As a result, traffic backed up for 15 kilometres.",
+      "focus": "Folgeadverb · Rückbezug auf den Vorsatz",
+      "explanation": "**infolgedessen** literally means *as a result of that*: *dessen* refers back to the event in the previous sentence. It is an adverb in the Vorfeld → the finite verb *staute* follows, then the reflexive pronoun and the subject. *Deshalb* or *Dadurch* would also be correct, but *infolgedessen* is the formal choice typical of news reports.",
+      "pattern": "Ereignis. **Infolgedessen** + Verb + sich + Subj. …",
+      "mistake": {"wrong": "Ein Lkw hatte sich auf der A9 quergestellt. Infolge staute sich der Verkehr auf 15 Kilometern.", "why": "*infolge* is a preposition and needs a Genitiv noun (*infolge des Unfalls*). To refer back to the whole previous sentence you need the adverb *infolgedessen*."},
+      "examples": [
+        {"de": "Das Labor verlor seine Förderung. Infolgedessen mussten drei Stellen gestrichen werden.", "en": "The lab lost its funding. As a result, three positions had to be cut."},
+        {"de": "Die Pumpe fiel aus. Infolgedessen wurde der Keller überflutet.", "en": "The pump failed. As a result, the cellar was flooded."}
+      ],
+      "words": [{"de": "sich querstellen", "en": "to jackknife (vehicle)"}, {"de": "sich stauen", "en": "to back up (traffic)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "{{c1::Infolge::Folge · Präposition + Gen.}} des Streiks fielen am Montag zahlreiche Flüge aus.",
+      "en": "As a result of the strike, numerous flights were cancelled on Monday.",
+      "focus": "Präposition vs. Adverb",
+      "explanation": "**infolge** + Genitiv is the prepositional partner of *infolgedessen*: it names the cause inside the same sentence (*infolge des Streiks*). The prepositional phrase fills the Vorfeld, so the finite verb *fielen* follows directly. *Wegen* or *Aufgrund* + Genitiv would also be correct; *infolge* presents the cancellations as a consequence of the strike.",
+      "pattern": "**Infolge** + Gen. + Verb + Subj. …",
+      "mistake": {"wrong": "Infolgedessen des Streiks fielen am Montag zahlreiche Flüge aus.", "why": "*infolgedessen* is an adverb (*dessen* already stands for the cause) and cannot take another Genitiv noun. Before a noun you need the preposition *infolge*."},
+      "examples": [
+        {"de": "Infolge der Dürre stiegen die Getreidepreise stark an.", "en": "As a result of the drought, grain prices rose sharply."},
+        {"de": "Infolge eines Softwarefehlers wurden falsche Rechnungen verschickt.", "en": "As a result of a software error, incorrect invoices were sent out."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Bitte überweisen Sie den Betrag bis Freitag, {{c1::andernfalls::'otherwise' · formell}} wird eine Mahngebühr fällig.",
+      "en": "Please transfer the amount by Friday; otherwise a late-payment fee will be charged.",
+      "focus": "Alternative · formelle Variante von *sonst*",
+      "explanation": "**andernfalls** (*otherwise, if not*) is the formal equivalent of *sonst*: it names what happens if the request is not followed. It is an adverb, so after the comma it fills the Vorfeld and the finite verb *wird* follows.",
+      "pattern": "Aufforderung, **andernfalls** + Verb + Subj. …",
+      "mistake": {"wrong": "Bitte überweisen Sie den Betrag bis Freitag, andernfalls eine Mahngebühr wird fällig.", "why": "*andernfalls* is position 1 of the new main clause. The finite verb *wird* must follow it, and the subject *eine Mahngebühr* comes after the verb."},
+      "examples": [
+        {"de": "Melden Sie Schäden sofort, andernfalls erlischt der Versicherungsschutz.", "en": "Report any damage immediately; otherwise the insurance cover will lapse."},
+        {"de": "Die Teilnahme muss bestätigt werden, andernfalls wird der Platz weitervergeben.", "en": "Participation must be confirmed; otherwise the place will be given to someone else."}
+      ],
+      "words": [{"de": "die Mahngebühr", "en": "late-payment fee"}],
+      "production_cue": "(formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Die Software muss regelmäßig aktualisiert werden, da {{c1::andernfalls::'otherwise' · formell}} Sicherheitslücken entstehen können.",
+      "en": "The software must be updated regularly, since otherwise security gaps can arise.",
+      "focus": "Adverb im Nebensatz",
+      "explanation": "As an adverb, *andernfalls* can also stand inside a Nebensatz. Here *da* introduces the clause, so the verb group goes to the end (*entstehen können*), and **andernfalls** simply takes a place in the Mittelfeld. It does not change the word order itself.",
+      "pattern": "…, da + **andernfalls** + Subj. … Infinitiv + Modalverb",
+      "mistake": {"wrong": "Die Software muss regelmäßig aktualisiert werden, da andernfalls können Sicherheitslücken entstehen.", "why": "The clause is introduced by *da*, so it is a Nebensatz and the finite verb goes to the end: *entstehen können*. *andernfalls* does not create a new main clause here."},
+      "examples": [
+        {"de": "Wir müssen früh losfahren, weil wir andernfalls in den Berufsverkehr geraten.", "en": "We have to leave early because otherwise we'll get caught in rush-hour traffic."},
+        {"de": "Der Antrag muss unterschrieben sein, da er andernfalls nicht bearbeitet wird.", "en": "The application must be signed, since otherwise it will not be processed."}
+      ],
+      "words": [{"de": "die Sicherheitslücke", "en": "security gap, vulnerability"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Wir helfen Ihnen gern weiter, {{c1::soweit::Umfang · 'as far as'}} es uns möglich ist.",
+      "en": "We are happy to help you as far as we can.",
+      "focus": "Umfang · Nebensatz",
+      "explanation": "**soweit** here limits the extent of the promise (*to the extent that*). It is a subordinating conjunction: *es* is the formal subject, *uns* the Dativ, and the finite verb *ist* goes to the end. *sofern* would turn it into a condition (*if it is possible*).",
+      "pattern": "Hauptsatz, **soweit** + es + Dat. + Adj. + Verb",
+      "mistake": {"wrong": "Wir helfen Ihnen gern weiter, soweit es ist uns möglich.", "why": "*soweit* introduces a Nebensatz, so the finite verb *ist* must stand at the end: *soweit es uns möglich ist*."},
+      "examples": [
+        {"de": "Die Mitarbeiter arbeiten im Homeoffice, soweit es ihre Aufgaben erlauben.", "en": "Employees work from home as far as their tasks allow."},
+        {"de": "Die Daten werden gelöscht, soweit sie nicht mehr benötigt werden.", "en": "The data is deleted to the extent that it is no longer needed."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Sort the connectors by word order.",
+      "prompt": "Which of these connectors send the verb to the end, which cause inversion in position 1, and which are followed by a main clause: *zumal, sofern, folglich, es sei denn, wohingegen, dennoch, vorausgesetzt, andernfalls*?",
+      "answer": "**Verb at the end** (conjunctions): *zumal, sofern, wohingegen*. **Adverbs** (in position 1 → verb directly after; also possible in the Mittelfeld): *folglich, dennoch, andernfalls*. **Followed by a main clause (V2) or *dass***: *es sei denn, vorausgesetzt*.",
+      "explanation": "A good test: can the word stand in the Mittelfeld (*Er hat dennoch …*)? Then it is an adverb. Does it open a clause with the verb at the end? Then it is a conjunction. *es sei denn* and *vorausgesetzt* are fixed formulas that stand outside the following clause.",
+      "examples": [
+        {"de": "Ich bleibe zu Hause, zumal ich erkältet bin.", "en": "I'm staying at home, especially since I have a cold."},
+        {"de": "Ich bin erkältet, folglich bleibe ich zu Hause.", "en": "I have a cold, so I'm staying at home."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the difference between the two connectors.",
+      "prompt": "What is the difference between *weil* and *zumal*?",
+      "answer": "*weil* gives the (main) reason and can answer *warum?*. **zumal** adds an **extra** reason that makes an already stated or obvious conclusion stronger (*especially since*). The *zumal*-clause follows the main clause and cannot answer a *warum*-question on its own.",
+      "explanation": "*Ich nehme das Taxi, weil es regnet* gives the reason. *Ich nehme das Taxi, zumal es auch noch regnet* implies that there are already other reasons (it is late, I am tired) and adds one more.",
+      "examples": [
+        {"de": "Ich nehme ein Taxi, weil der letzte Bus weg ist.", "en": "I'm taking a taxi because the last bus has gone."},
+        {"de": "Ich nehme ein Taxi, zumal es auch noch regnet.", "en": "I'm taking a taxi, especially since it's raining as well."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *es sei denn*.",
+      "prompt": "How is *es sei denn* used, and how does it differ from *wenn … nicht*?",
+      "answer": "*es sei denn* (*unless*) names the single exception to a statement. It **always follows** the main clause and is followed by a comma and a **main clause (V2)** or by *dass* + verb at the end. *wenn … nicht* is a normal condition and can also stand in front: *Wenn es nicht regnet, …*",
+      "explanation": "*sei* is a frozen Konjunktiv I form and never changes. Because *es sei denn* cannot stand in the Vorfeld, you have to rephrase if you want to start with the condition: *Wenn es nicht regnet, findet das Fest draußen statt.*",
+      "examples": [
+        {"de": "Das Fest findet draußen statt, es sei denn, es regnet.", "en": "The party will be outside unless it rains."},
+        {"de": "Wenn es nicht regnet, findet das Fest draußen statt.", "en": "If it doesn't rain, the party will be outside."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about *geschweige denn*.",
+      "prompt": "What does *geschweige denn* need in the first part of the sentence, and what can follow it?",
+      "answer": "A **negative or restrictive** first part: *nicht, kein, nie, kaum, nicht einmal*. After *geschweige denn* comes a **phrase** that is parallel to an element of the first part (same function and case), or a ***dass*-clause** with the verb at the end.",
+      "explanation": "*geschweige denn* means *and even less*: if the easier thing is not true, the harder thing is certainly not true. A positive first part makes the sentence illogical. The connector is formal-neutral and very common in C1 texts.",
+      "examples": [
+        {"de": "Sie hat keine Zeit für einen Kaffee, geschweige denn für ein langes Gespräch.", "en": "She has no time for a coffee, let alone for a long conversation."},
+        {"de": "Er hat sich nicht entschuldigt, geschweige denn, dass er den Schaden bezahlt hätte.", "en": "He didn't apologise, let alone pay for the damage."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the differences between the adverbs.",
+      "prompt": "What is the difference between *dennoch / nichtsdestotrotz*, *immerhin* and *allerdings*?",
+      "answer": "**dennoch / nichtsdestotrotz**: concession, something happens *in spite of* the previous fact (= *trotzdem*). **immerhin**: a positive aspect *at least* in a negative situation. **allerdings**: a restriction *however* to a positive statement (also *Allerdings!* = *indeed*).",
+      "explanation": "The direction differs. *dennoch* goes against an expectation. *immerhin* moves from negative to something positive. *allerdings* moves from positive to a limitation. All three are adverbs: in position 1 the verb follows directly.",
+      "examples": [
+        {"de": "Das Hotel war teuer. Immerhin war das Frühstück inklusive.", "en": "The hotel was expensive. At least breakfast was included."},
+        {"de": "Das Hotel war günstig. Allerdings war das Zimmer sehr klein.", "en": "The hotel was cheap. However, the room was very small."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite with *es sei denn* (without *dass*).",
+      "prompt": "Wir fahren morgen früh los, wenn das Auto nicht kaputt ist.",
+      "answer": "Wir fahren morgen früh los, es sei denn, das Auto ist kaputt.",
+      "explanation": "*wenn … nicht* → *es sei denn* + the positive form of the exception. The negation disappears, because *es sei denn* already means *unless*. The clause after it has verb-second order: *das Auto ist kaputt*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite with *vorausgesetzt* (without *dass*).",
+      "prompt": "Wir liefern morgen, wenn die Ware heute noch eintrifft.",
+      "answer": "Wir liefern morgen, vorausgesetzt, die Ware trifft heute noch ein.",
+      "explanation": "*vorausgesetzt* without *dass* is followed by a main clause: the finite verb *trifft* is in position 2, and the separable prefix *ein* goes to the end. With *dass* it would be: *vorausgesetzt, dass die Ware heute noch eintrifft*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Put *nichtsdestotrotz* at the start of the second sentence instead of *trotzdem* in the Mittelfeld.",
+      "prompt": "Der Plan hat Schwächen. Wir setzen ihn trotzdem um.",
+      "answer": "Der Plan hat Schwächen. Nichtsdestotrotz setzen wir ihn um.",
+      "explanation": "*nichtsdestotrotz* fills the Vorfeld, so the finite verb *setzen* follows directly, then the subject *wir* and the pronoun *ihn*. The prefix *um* stays at the end. The register becomes formal."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Make one sentence with *infolge* + Genitiv.",
+      "prompt": "Es gab einen Stromausfall. Infolgedessen stand die Produktion still.",
+      "answer": "Infolge eines Stromausfalls stand die Produktion still.",
+      "explanation": "The adverb *infolgedessen* refers back to a whole sentence. The preposition *infolge* takes the cause as a Genitiv noun: *ein Stromausfall* → *eines Stromausfalls*. The prepositional phrase fills the Vorfeld, so *stand* follows."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Make one sentence with *wohingegen*.",
+      "prompt": "Mein Bruder liebt die Berge. Ich fahre lieber ans Meer.",
+      "answer": "Mein Bruder liebt die Berge, wohingegen ich lieber ans Meer fahre.",
+      "explanation": "*wohingegen* introduces a Nebensatz after the main clause, so the finite verb *fahre* goes to the end. The contrast is between two people's preferences."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Rewrite with *insofern … als*.",
+      "prompt": "Das Urteil ist wichtig, weil es einen Präzedenzfall schafft.",
+      "answer": "Das Urteil ist insofern wichtig, als es einen Präzedenzfall schafft.",
+      "explanation": "*insofern* goes into the main clause before the adjective and limits the judgement *wichtig* to one aspect. *als* introduces the Nebensatz with the verb at the end (*schafft*)."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite with *angenommen* (without *dass*) and keep the Konjunktiv II.",
+      "prompt": "Was würdest du tun, wenn du die Stelle bekämst?",
+      "answer": "Angenommen, du bekämst die Stelle – was würdest du dann tun?",
+      "explanation": "*angenommen* replaces *wenn*; it is followed by a main clause with verb second (*du bekämst*). The hypothesis stays in the Konjunktiv II. The question follows after a dash or comma, often with *dann*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite with *andernfalls*. Turn the condition into a request (formal *Sie*).",
+      "prompt": "Wenn Sie sich nicht bis Montag anmelden, verfällt Ihr Platz.",
+      "answer": "Melden Sie sich bis Montag an, andernfalls verfällt Ihr Platz.",
+      "explanation": "The negative condition becomes a positive request (imperative with *Sie*). *andernfalls* names the consequence if the request is ignored; as an adverb in position 1 it is followed by the finite verb *verfällt*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie spricht fließend Spanisch, wohingegen ihr Bruder kann kein Wort.",
+      "answer": "Sie spricht fließend Spanisch, wohingegen ihr Bruder kein Wort kann.",
+      "explanation": "*wohingegen* is a subordinating conjunction, so its clause has verb-final order: *wohingegen ihr Bruder kein Wort kann*. Verb-second would be correct after the adverb *dagegen*: *ihr Bruder kann dagegen kein Wort*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Unterlagen waren unvollständig. Folglich der Antrag wurde abgelehnt.",
+      "answer": "Die Unterlagen waren unvollständig. Folglich wurde der Antrag abgelehnt.",
+      "explanation": "*folglich* is an adverb and fills the Vorfeld. The finite verb *wurde* must come directly after it, followed by the subject *der Antrag*."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Gerät ist nur insofern nützlich, wenn man es täglich verwendet.",
+      "answer": "Das Gerät ist nur insofern nützlich, als man es täglich verwendet.",
+      "explanation": "*insofern* in the main clause is always completed by *als*, not by *wenn* or *dass*. If you want a simple condition, drop *insofern*: *Das Gerät ist nur nützlich, wenn man es täglich verwendet.*"
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Er hat noch nie einen Marathon geschafft, ___ einen Ultramarathon.",
+      "options": ["geschweige denn", "es sei denn", "zumal", "andernfalls"],
+      "correct": "geschweige denn",
+      "answer": "Er hat noch nie einen Marathon geschafft, geschweige denn einen Ultramarathon.",
+      "explanation": "After a negation (*noch nie*) a harder case follows as a parallel phrase (*einen Ultramarathon*, Akkusativ like *einen Marathon*) → *geschweige denn*. *es sei denn* would need a clause and means *unless*; *zumal* needs a clause with a verb; *andernfalls* means *otherwise*."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Ich verstehe seine Absage nicht, ___ er das Angebot schon mündlich angenommen hatte.",
+      "options": ["zumal", "es sei denn", "folglich", "immerhin"],
+      "correct": "zumal",
+      "answer": "Ich verstehe seine Absage nicht, zumal er das Angebot schon mündlich angenommen hatte.",
+      "explanation": "The second clause has the verb at the end (*hatte*) and adds an extra reason for the confusion → the conjunction *zumal*. *folglich* and *immerhin* are adverbs and would need inversion (*folglich hatte er …*); *es sei denn* would need verb-second order and gives the wrong meaning."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Die Wohnung gefällt uns sehr. ___ ist sie für uns etwas zu teuer.",
+      "options": ["Allerdings", "Geschweige denn", "Zumal", "Sofern"],
+      "correct": "Allerdings",
+      "answer": "Die Wohnung gefällt uns sehr. Allerdings ist sie für uns etwas zu teuer.",
+      "explanation": "The second sentence restricts a positive statement and has inversion (*ist sie*) → the adverb *allerdings*. *zumal* and *sofern* are conjunctions and would need the verb at the end; *geschweige denn* needs a negative first part."
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wir",
+      "prompt": "es sei denn / wir / um acht Uhr / es / los / regnet / fahren",
+      "answer": "Wir fahren um acht Uhr los, es sei denn, es regnet.",
+      "explanation": "Main clause first: *Wir fahren um acht Uhr los* (verb second, prefix *los* at the end). *es sei denn* must follow the main clause, then comes a main clause with verb second: *es regnet*. The commas before and after *es sei denn* are required."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Join the sentences with *infolgedessen* after a comma.",
+      "prompt": "Die Zinsen sind gestiegen. Viele Familien können sich kein Haus mehr leisten.",
+      "answer": "Die Zinsen sind gestiegen, infolgedessen können sich viele Familien kein Haus mehr leisten.",
+      "explanation": "*infolgedessen* opens the second main clause and fills the Vorfeld: the finite verb *können* follows. The unstressed reflexive pronoun *sich* comes before the noun subject *viele Familien*; *leisten* stays at the end."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Join the sentences with *zumal*.",
+      "prompt": "Wir sollten das Angebot annehmen. Es ist auch noch günstig.",
+      "answer": "Wir sollten das Angebot annehmen, zumal es auch noch günstig ist.",
+      "explanation": "*zumal* adds an extra reason (*auch noch* shows that it is an additional point). It introduces a Nebensatz, so *ist* moves to the end."
+    }
+  ]
+}

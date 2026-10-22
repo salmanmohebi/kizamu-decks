@@ -1,0 +1,432 @@
+{
+  "topic_id": "themen-10-telefonieren",
+  "level": "A2-B1",
+  "title_de": "10 Telefonieren",
+  "title_en": "Phone calls",
+  "intro": "Phone calls with offices, practices and companies: introducing yourself, asking for someone, leaving a message, bad connections and spelling. These calls use *Sie*; with friends you say *du*. At work people answer the phone with their surname, and the formal phone goodbye is *Auf Wiederhören!*",
+  "phrases": [
+    {
+      "key": "t00",
+      "de": "Hallo, hier spricht Salman.",
+      "en": "Hello, this is Salman.",
+      "usage": "Introduce yourself at the start of a call you make. In formal calls give your full name, often with *Guten Tag, mein Name ist ...*. With friends: *Hallo, ich bin's, Salman.* When you answer a work phone, start with your surname.",
+      "grammar": "*hier* stands in the Vorfeld, so the verb *spricht* comes second and the subject *Salman* follows (inversion). *sprechen* has the vowel change e → i in the er-form: *er spricht*.",
+      "alternatives": [
+        {
+          "de": "Guten Tag, mein Name ist Salman.",
+          "en": "Hello, my name is Salman."
+        },
+        {
+          "de": "Hallo, ich bin's, Salman.",
+          "en": "Hi, it's me, Salman."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t01",
+      "de": "Kann ich bitte mit Frau Müller sprechen?",
+      "en": "Can I speak with Mrs. Müller, please?",
+      "usage": "Ask the person who answers at a company or practice. The typical answer is *Einen Moment, ich verbinde Sie.* or *Frau Müller ist gerade nicht da.*",
+      "grammar": "*sprechen mit* + Dativ. *Frau* / *Herr* + surname is the polite form of address and has no article. The modal *kann* is first, *sprechen* at the end.",
+      "alternatives": [
+        {
+          "de": "Ist Frau Müller zu sprechen?",
+          "en": "Is Mrs Müller available?"
+        },
+        {
+          "de": "Ich hätte gern Frau Müller gesprochen.",
+          "en": "I would like to speak to Mrs Müller. (very formal)"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t02",
+      "de": "Einen Moment, bitte.",
+      "en": "One moment, please.",
+      "usage": "The person on the phone asks you to wait, for example while they look for something or connect you. You answer *Ja, gern.* and wait.",
+      "grammar": "Akkusativ of time: short for *(Warten Sie) einen Moment*. *der Moment* is masculine → *einen*. A time span without preposition is always Akkusativ.",
+      "alternatives": [
+        {
+          "de": "Einen Augenblick, bitte.",
+          "en": "Just a moment, please."
+        },
+        {
+          "de": "Bleiben Sie bitte dran.",
+          "en": "Please hold the line."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t03",
+      "de": "Sie ist gerade nicht da.",
+      "en": "She's not here right now.",
+      "usage": "You hear this from a receptionist or colleague. Usually it is followed by *Soll ich etwas ausrichten?* or *Sie ist ab 14 Uhr wieder da.*",
+      "grammar": "*gerade* means 'right now'. *da* ('here, present') is an adverb; *nicht* stands directly before it. *sie* refers to the person asked for (*Frau Müller*).",
+      "alternatives": [
+        {
+          "de": "Sie ist gerade in einer Besprechung.",
+          "en": "She's in a meeting at the moment."
+        },
+        {
+          "de": "Frau Müller ist heute nicht im Büro.",
+          "en": "Mrs Müller isn't in the office today."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t04",
+      "de": "Kann ich eine Nachricht hinterlassen?",
+      "en": "Can I leave a message?",
+      "usage": "Ask when the person is not available. The answer is *Ja, natürlich, ich notiere.* Then give your name, number and reason.",
+      "grammar": "*hinterlassen* is inseparable (stress on *-las-*): *Ich hinterlasse eine Nachricht.* Its Partizip II is also *hinterlassen* (no *ge-*). *die Nachricht* is feminine → *eine*.",
+      "alternatives": [
+        {
+          "de": "Kann ich ihr eine Nachricht hinterlassen?",
+          "en": "Can I leave her a message?"
+        },
+        {
+          "de": "Würden Sie ihr bitte eine Nachricht weitergeben?",
+          "en": "Would you pass a message on to her, please?"
+        }
+      ],
+      "words": [
+        {
+          "de": "hinterlassen",
+          "en": "to leave (a message)"
+        }
+      ]
+    },
+    {
+      "key": "t05",
+      "de": "Soll ich etwas ausrichten?",
+      "en": "Should I pass on a message?",
+      "usage": "The receptionist offers to take a message. Answer *Ja, bitte sagen Sie ihr, dass ich angerufen habe.* or *Nein, danke, ich rufe später noch einmal an.*",
+      "grammar": "*sollen* in a question offers help ('Shall I ...?'). *ausrichten* is separable, but after the modal it stays together at the end. Full pattern: *jemandem etwas ausrichten* (Dativ person + Akkusativ thing).",
+      "alternatives": [
+        {
+          "de": "Kann ich ihr etwas ausrichten?",
+          "en": "Can I give her a message?"
+        },
+        {
+          "de": "Möchten Sie eine Nachricht hinterlassen?",
+          "en": "Would you like to leave a message?"
+        }
+      ],
+      "words": [
+        {
+          "de": "ausrichten",
+          "en": "to pass on (a message)"
+        }
+      ]
+    },
+    {
+      "key": "t06",
+      "de": "Können Sie ihn bitten, mich zurückzurufen?",
+      "en": "Can you ask him to call me back?",
+      "usage": "Leave this request with a colleague or receptionist, and then give your number. The answer is *Ja, mache ich.*",
+      "grammar": "*jemanden bitten* takes the Akkusativ → *ihn*. The request follows as an Infinitiv mit *zu*; in the separable verb *zurückrufen* the *zu* goes inside: zurück**zu**rufen. *mich* is the Akkusativ object of *zurückrufen*.",
+      "alternatives": [
+        {
+          "de": "Kann er mich bitte zurückrufen?",
+          "en": "Could he call me back, please?"
+        },
+        {
+          "de": "Sagen Sie ihm bitte, er soll mich zurückrufen.",
+          "en": "Please tell him to call me back."
+        }
+      ],
+      "words": [
+        {
+          "de": "zurückrufen",
+          "en": "to call back"
+        }
+      ]
+    },
+    {
+      "key": "t07",
+      "de": "Meine Nummer ist null eins fünf null.",
+      "en": "My number is 0150.",
+      "usage": "Say phone numbers digit by digit or in pairs, slowly. On the phone people often say *zwo* instead of *zwei* so it is not confused with *drei*. German mobile numbers start with *015*, *016* or *017*; Swiss ones with *07* (for example *079*).",
+      "grammar": "*die Nummer* is feminine → *meine*. Digits are not inflected; *null* is 'zero'.",
+      "alternatives": [
+        {
+          "de": "Sie erreichen mich unter dieser Nummer.",
+          "en": "You can reach me at this number."
+        },
+        {
+          "de": "Ich gebe Ihnen meine Nummer.",
+          "en": "I'll give you my number."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t08",
+      "de": "Sie haben sich verwählt.",
+      "en": "You've reached the wrong number.",
+      "usage": "Say it when a stranger calls you by mistake; you may also hear it yourself. The caller answers *Oh, Entschuldigung!*",
+      "grammar": "Reflexive *sich verwählen*. The prefix *ver-* often means 'wrongly' (*sich verlaufen, sich verfahren, sich verschreiben*). Perfekt with *haben*, Partizip II without *ge-*: *verwählt*.",
+      "alternatives": [
+        {
+          "de": "Ich glaube, Sie haben die falsche Nummer.",
+          "en": "I think you have the wrong number."
+        },
+        {
+          "de": "Da sind Sie bei mir falsch.",
+          "en": "You've got the wrong person."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich verwählen",
+          "en": "to dial the wrong number"
+        }
+      ]
+    },
+    {
+      "key": "t09",
+      "de": "Die Verbindung ist schlecht.",
+      "en": "The connection is bad.",
+      "usage": "Say it on a mobile call when you hear the other person badly. Then suggest *Ich rufe Sie gleich noch einmal an.*",
+      "grammar": "*die Verbindung* is feminine (*-ung*), Nominativ subject. *schlecht* is predicative, no ending.",
+      "alternatives": [
+        {
+          "de": "Ich verstehe Sie sehr schlecht.",
+          "en": "I can hardly understand you."
+        },
+        {
+          "de": "Die Verbindung bricht immer ab.",
+          "en": "The call keeps dropping."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Verbindung (-en)",
+          "en": "connection, line"
+        }
+      ]
+    },
+    {
+      "key": "t10",
+      "de": "Kannst du lauter sprechen?",
+      "en": "Can you speak louder?",
+      "usage": "Informal, with friends and family. With *Sie*: *Können Sie bitte etwas lauter sprechen?* Adding *bitte* or *etwas* sounds softer.",
+      "grammar": "*kannst* is the du-form of *können*. *lauter* is the comparative of *laut*, used as an adverb (no ending). The infinitive *sprechen* is at the end.",
+      "alternatives": [
+        {
+          "de": "Können Sie bitte etwas lauter sprechen?",
+          "en": "Could you speak a bit louder, please?"
+        },
+        {
+          "de": "Ich höre dich kaum.",
+          "en": "I can hardly hear you."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t11",
+      "de": "Ich rufe später zurück.",
+      "en": "I'll call back later.",
+      "usage": "Say it when the moment is bad or the line is poor. The other person answers *Okay, bis später.*",
+      "grammar": "*zurückrufen* is separable, so *zurück* goes to the end. German uses the Präsens for this promise. With the person: Ich rufe **Sie** später zurück. (Akkusativ).",
+      "alternatives": [
+        {
+          "de": "Ich rufe Sie in zehn Minuten zurück.",
+          "en": "I'll call you back in ten minutes."
+        },
+        {
+          "de": "Kann ich dich später zurückrufen?",
+          "en": "Can I call you back later?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t12",
+      "de": "Wann erreiche ich sie am besten?",
+      "en": "When can I best reach her?",
+      "usage": "Ask the receptionist or colleague when the person is not available. The answer is *Am besten vormittags.* or *Morgen ab neun.*",
+      "grammar": "*erreichen* takes the Akkusativ → *sie* (= Frau Müller). *am besten* is the superlative of *gut* used as an adverb.",
+      "alternatives": [
+        {
+          "de": "Wann ist sie wieder erreichbar?",
+          "en": "When will she be available again?"
+        },
+        {
+          "de": "Wann kann ich sie am besten anrufen?",
+          "en": "When is the best time to call her?"
+        }
+      ],
+      "words": [
+        {
+          "de": "erreichen",
+          "en": "to reach"
+        }
+      ]
+    },
+    {
+      "key": "t13",
+      "de": "Vielen Dank für Ihren Anruf.",
+      "en": "Thank you for your call.",
+      "usage": "A polite closing, usually said by the person who was called (a company, an office). You can answer *Ich danke Ihnen.* and then *Auf Wiederhören!*",
+      "grammar": "*für* takes the Akkusativ. *der Anruf* is masculine → Ihr**en** Anruf. *Ihr* (capital I) is the possessive of *Sie*.",
+      "alternatives": [
+        {
+          "de": "Danke für den Anruf.",
+          "en": "Thanks for calling."
+        },
+        {
+          "de": "Danke, dass Sie angerufen haben.",
+          "en": "Thank you for calling."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anruf (-e)",
+          "en": "(phone) call"
+        }
+      ]
+    },
+    {
+      "key": "t14",
+      "de": "Auf Wiederhören!",
+      "en": "Goodbye! (on the phone)",
+      "usage": "The formal goodbye at the end of a phone call (or a radio programme). With friends people say *Tschüss!* or *Ciao!*",
+      "grammar": "Like *Auf Wiedersehen*: *das Wiederhören* is a nominalised infinitive ('hearing again'), one word with a capital letter, after *auf*.",
+      "alternatives": [
+        {
+          "de": "Vielen Dank und auf Wiederhören!",
+          "en": "Thank you and goodbye!"
+        },
+        {
+          "de": "Tschüss, bis bald!",
+          "en": "Bye, talk soon!"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n01",
+      "de": "Ich verbinde Sie.",
+      "en": "I'll put you through.",
+      "usage": "The receptionist says this before transferring your call. Then you hear music or a ringing tone. If the line is busy, they come back: *Leider ist besetzt.*",
+      "grammar": "*verbinden* takes the caller as an Akkusativ object (*Sie*); the target follows with *mit* + Dativ: *Ich verbinde Sie mit Frau Müller.* Strong verb: *verband, verbunden*.",
+      "alternatives": [
+        {
+          "de": "Ich verbinde Sie mit Frau Müller.",
+          "en": "I'll put you through to Mrs Müller."
+        },
+        {
+          "de": "Ich stelle Sie durch.",
+          "en": "I'll transfer you."
+        }
+      ],
+      "words": [
+        {
+          "de": "verbinden",
+          "en": "to connect, to put through"
+        }
+      ]
+    },
+    {
+      "key": "n02",
+      "de": "Mit wem spreche ich, bitte?",
+      "en": "Who am I speaking to, please?",
+      "usage": "Ask politely when a caller does not give their name, or when you are not sure who answered. The answer is the person's name.",
+      "grammar": "*sprechen mit* + Dativ, so the question word is the Dativ *wem*. The preposition stands before the question word: *Mit wem ...?*",
+      "alternatives": [
+        {
+          "de": "Wer ist am Apparat?",
+          "en": "Who is speaking?"
+        },
+        {
+          "de": "Wie war Ihr Name, bitte?",
+          "en": "What was your name, please?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n03",
+      "de": "Können Sie das bitte buchstabieren?",
+      "en": "Can you spell that, please?",
+      "usage": "Essential for names and email addresses. People often spell with words: *A wie Anton, B wie Berta*. Practise spelling your own name in the German alphabet.",
+      "grammar": "*buchstabieren* is an *-ieren* verb (Partizip *buchstabiert*). *das* is the Akkusativ object; the infinitive is at the end.",
+      "alternatives": [
+        {
+          "de": "Wie schreibt man das?",
+          "en": "How do you spell that?"
+        },
+        {
+          "de": "Wie schreibt sich Ihr Name?",
+          "en": "How is your name spelt?"
+        }
+      ],
+      "words": [
+        {
+          "de": "buchstabieren",
+          "en": "to spell"
+        }
+      ]
+    },
+    {
+      "key": "n04",
+      "de": "Ich rufe wegen meines Termins an.",
+      "en": "I'm calling about my appointment.",
+      "usage": "Give the reason for your call right after your name, for example to a doctor's practice or an office. The answer is *Ja, worum geht es genau?*",
+      "grammar": "*wegen* takes the Genitiv in Standard German: *der Termin* → *meines Termins* (masculine Genitiv: mein**es**, and the noun adds *-s*). In speech the Dativ is common (*wegen meinem Termin*). *anrufen* is separable → *an* at the end.",
+      "alternatives": [
+        {
+          "de": "Es geht um meinen Termin am Montag.",
+          "en": "It's about my appointment on Monday."
+        },
+        {
+          "de": "Ich rufe an, weil ich meinen Termin verschieben möchte.",
+          "en": "I'm calling because I'd like to move my appointment."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n05",
+      "de": "Ich habe versucht, Sie zu erreichen.",
+      "en": "I tried to reach you.",
+      "usage": "Use it in a follow-up call or email after unanswered calls. The other person often answers *Ja, entschuldigen Sie, ich war in einer Sitzung.*",
+      "grammar": "Perfekt *habe versucht* (*ver-* → no *ge-*). *versuchen* is followed by an Infinitiv mit *zu*, separated by a comma. *Sie* is the Akkusativ object of *erreichen*.",
+      "alternatives": [
+        {
+          "de": "Ich habe Sie leider nicht erreicht.",
+          "en": "Unfortunately I couldn't reach you."
+        },
+        {
+          "de": "Ich habe Ihnen auf die Mailbox gesprochen.",
+          "en": "I left you a voicemail."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n06",
+      "de": "Darf ich fragen, worum es geht?",
+      "en": "May I ask what it's about?",
+      "usage": "Receptionists ask this before they connect you. Answer *Es geht um ...* + the topic, for example *Es geht um meine Rechnung.*",
+      "grammar": "Indirect question: the Nebensatz starts with *worum* and the verb *geht* goes to the end. *worum* (*wo* + *r* + *um*) replaces *um was*, because the expression is *es geht um* + Akkusativ.",
+      "alternatives": [
+        {
+          "de": "Worum geht es, bitte?",
+          "en": "What is it about, please?"
+        },
+        {
+          "de": "In welcher Angelegenheit rufen Sie an?",
+          "en": "What is the purpose of your call? (very formal)"
+        }
+      ],
+      "words": []
+    }
+  ]
+}

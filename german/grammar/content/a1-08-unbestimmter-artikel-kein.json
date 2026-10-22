@@ -1,0 +1,1557 @@
+{
+  "topic_id": "a1-08-unbestimmter-artikel-kein",
+  "level": "A1",
+  "title_de": "Unbestimmter Artikel + Negation (ein / kein)",
+  "title_en": "The indefinite article and its negation (ein / kein)",
+  "rule": {
+    "summary": "The indefinite article *ein/eine* ('a, an') introduces a noun that is new or not specific. Its negation *kein/keine* means 'not a, no' and has exactly the same endings with a *k-* in front. The ending depends on gender and case: in the Nominativ *ein* (m), *eine* (f), *ein* (n); in the Akkusativ only the masculine changes to **einen / keinen**. *ein* has no plural (*Äpfel*), but *kein* has: **keine** Äpfel. Use *kein-* to negate a noun with *ein* or with no article; use **nicht** for a noun with *der/die/das*, a possessive (*mein*) or a name.",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | ein / kein Mann | ein**e** / kein**e** Frau | ein / kein Kind | – / kein**e** Kinder |\n| Akk | ein**en** / kein**en** Mann | ein**e** / kein**e** Frau | ein / kein Kind | – / kein**e** Kinder |",
+    "steps": [
+      "Find the gender and number of the noun (*der Tisch, die Lampe, das Buch, die Bücher*).",
+      "Find the case. The subject and the noun after *sein* (*Das ist …*) are Nominativ. The object of verbs like *haben, brauchen, suchen, möchten* and the noun after *es gibt* are Akkusativ.",
+      "Choose the ending: masculine Akkusativ → **-en** (*einen, keinen*); feminine and plural → **-e** (*eine, keine*); all other slots → no ending (*ein, kein*).",
+      "Plural without negation: no article at all (*Das sind Äpfel.*). Plural with negation: **keine** (*Das sind keine Äpfel.*).",
+      "Negation: a noun with *ein* or no article → **kein-** (*Ich habe kein Auto. Ich habe keine Zeit.*). A noun with *der/die/das*, *mein/dein …* or a name → **nicht** (*Das ist nicht mein Auto.*)."
+    ],
+    "pitfalls": [
+      "Masculine Akkusativ without *-en*: ✗ *Ich habe ein Bruder.* → ✓ *Ich habe einen Bruder.*",
+      "Akkusativ after *sein*: ✗ *Das ist einen Hund.* → ✓ *Das ist ein Hund.* *sein* is followed by the Nominativ.",
+      "*nicht* instead of *kein*: ✗ *Ich habe nicht Auto.* → ✓ *Ich habe kein Auto.*; ✗ *Ich habe nicht Zeit.* → ✓ *Ich habe keine Zeit.*",
+      "*kein* with a possessive or a definite article: ✗ *Das ist kein mein Handy.* → ✓ *Das ist nicht mein Handy.*",
+      "A plural form of *ein*: ✗ *Ich kaufe eine Eier.* → ✓ *Ich kaufe Eier.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das ist {{c1::ein::ein-}} Hund.",
+      "en": "That is a dog.",
+      "focus": "Nominativ · nach *Das ist*",
+      "explanation": "After *Das ist* the noun stands in the Nominativ, because *sein* has no Akkusativ object. *Hund* is masculine (*der Hund*), and the masculine Nominativ of the indefinite article has no ending: **ein** Hund. The indefinite article fits because the dog is named, not identified as a known one.",
+      "pattern": "Das ist + ein + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Das ist einen Hund.",
+        "why": "*einen* is the Akkusativ. After *sein* there is no Akkusativ object, so the form is *ein Hund*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein Löffel.",
+          "en": "That is a spoon."
+        },
+        {
+          "de": "Das ist ein Schlüssel.",
+          "en": "That is a key."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das ist {{c1::eine::ein-}} Katze.",
+      "en": "That is a cat.",
+      "focus": "Nominativ · nach *Das ist*",
+      "explanation": "*Katze* is feminine (*die Katze*). The feminine indefinite article ends in *-e*: **eine** Katze, just as the definite article *die* ends in *-e*.",
+      "pattern": "Das ist + eine + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Das ist ein Katze.",
+        "why": "*ein* without an ending is masculine or neuter. A feminine noun always needs *eine*."
+      },
+      "examples": [
+        {
+          "de": "Das ist eine Maus.",
+          "en": "That is a mouse."
+        },
+        {
+          "de": "Das ist eine Gabel.",
+          "en": "That is a fork."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das ist {{c1::ein::ein-}} Auto.",
+      "en": "That is a car.",
+      "focus": "Nominativ · nach *Das ist*",
+      "explanation": "*Auto* is neuter (*das Auto*). Neuter *ein* has no ending, exactly like masculine: **ein** Auto. So *ein* alone does not tell you whether a noun is masculine or neuter; only *der/das* does.",
+      "pattern": "Das ist + ein + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist eine Auto.",
+        "why": "The *-e* ending is only for feminine nouns. *Auto* is neuter, so it is *ein Auto*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein Fahrrad.",
+          "en": "That is a bicycle."
+        },
+        {
+          "de": "Das ist ein Haus.",
+          "en": "That is a house."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Hier ist {{c1::ein::ein-}} Stuhl.",
+      "en": "Here is a chair.",
+      "focus": "Nominativ · nach *Hier ist*",
+      "explanation": "*Hier ist …* introduces something new, so the indefinite article is used. *der Stuhl* is the subject of *ist* → masculine Nominativ → **ein**. This is a natural way to offer someone a seat.",
+      "pattern": "Hier ist + ein + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Hier ist eine Stuhl.",
+        "why": "*Stuhl* is masculine (*der Stuhl*). The *-e* ending belongs only to feminine nouns."
+      },
+      "examples": [
+        {
+          "de": "Hier ist ein Parkplatz.",
+          "en": "Here is a parking space."
+        },
+        {
+          "de": "Hier ist ein Formular.",
+          "en": "Here is a form."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Da ist {{c1::eine::ein-}} Tasse.",
+      "en": "There's a cup.",
+      "focus": "Nominativ · nach *Da ist*",
+      "explanation": "*Tasse* is feminine (*die Tasse*) → **eine**. *Da ist* points to something over there; the cup is new information, so the indefinite article fits.",
+      "pattern": "Da ist + eine + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Da ist ein Tasse.",
+        "why": "*Tasse* is feminine, and feminine nouns need *eine* with *-e*."
+      },
+      "examples": [
+        {
+          "de": "Da ist eine Bank.",
+          "en": "There's a bank."
+        },
+        {
+          "de": "Da ist eine Bäckerei.",
+          "en": "There's a bakery."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Tasse (-n)",
+          "en": "cup"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das ist {{c1::ein::ein-}} Fenster.",
+      "en": "That is a window.",
+      "focus": "Nominativ · Nomen auf *-er*",
+      "explanation": "*Fenster* is neuter (*das Fenster*), although it ends in *-er*. Neuter Nominativ → **ein**, without an ending.",
+      "pattern": "Das ist + ein + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist eine Fenster.",
+        "why": "*eine* is only for feminine nouns. *Fenster* is neuter: *ein Fenster*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein Zimmer.",
+          "en": "That is a room."
+        },
+        {
+          "de": "Das ist ein Messer.",
+          "en": "That is a knife."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das ist {{c1::kein::kein-}} Mann, das ist {{c2::eine::ein-}} Frau.",
+      "en": "That's not a man, that's a woman.",
+      "focus": "c1: Negation · c2: Korrektur · Nominativ",
+      "explanation": "c1: *kein* is the negation of *ein* and means 'not a'. *Mann* is masculine Nominativ → **kein**, without an ending, like *ein*. c2: the correction uses the indefinite article, and *Frau* is feminine → **eine**.",
+      "pattern": "Das ist + kein + Nomen, das ist + ein- + Nomen",
+      "mistake": {
+        "wrong": "Das ist nicht ein Mann, das ist eine Frau.",
+        "why": "The normal negation of *ein* + noun is *kein*: *ein Mann → kein Mann*. *nicht ein* is only used when *ein* is the stressed number one (*nicht ein einziger Mann*), not for a simple correction like this."
+      },
+      "examples": [
+        {
+          "de": "Das ist kein Hund, das ist ein Wolf.",
+          "en": "That's not a dog, that's a wolf."
+        },
+        {
+          "de": "Das ist keine Straße, das ist ein Weg.",
+          "en": "That's not a road, that's a path."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Das ist {{c1::keine::kein-}} Banane, das ist {{c2::ein::ein-}} Apfel.",
+      "en": "That's not a banana, that's an apple.",
+      "focus": "c1: Negation · c2: Korrektur · zwei Genera",
+      "explanation": "c1: *Banane* is feminine → **keine**, with the same *-e* as *eine*. c2: *Apfel* is masculine → **ein**. Each article follows its own noun, so one sentence can need two different endings.",
+      "pattern": "Das ist + keine + Nomen (f.), das ist + ein + Nomen (m.)",
+      "mistake": {
+        "wrong": "Das ist kein Banane, das ist ein Apfel.",
+        "why": "*kein* takes the same endings as *ein*. Feminine *eine Banane* becomes *keine Banane*, with *-e*."
+      },
+      "examples": [
+        {
+          "de": "Das ist keine Maus, das ist ein Hamster.",
+          "en": "That's not a mouse, that's a hamster."
+        },
+        {
+          "de": "Das ist keine Birne, das ist ein Pfirsich.",
+          "en": "That's not a pear, that's a peach."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Hier ist {{c1::kein::kein-}} Buch.",
+      "en": "There is no book here.",
+      "focus": "Negation · Nominativ",
+      "explanation": "*Buch* is neuter (*das Buch*) → negation **kein**, without an ending. *kein* denies that the thing is there at all: there is no book. English often uses *no* here, German uses *kein-*.",
+      "pattern": "Hier ist + kein + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Hier ist keine Buch.",
+        "why": "*keine* is for feminine and plural nouns. *Buch* is neuter singular, so it is *kein Buch*."
+      },
+      "examples": [
+        {
+          "de": "Hier ist kein Platz.",
+          "en": "There's no room here."
+        },
+        {
+          "de": "Hier ist kein Netz.",
+          "en": "There's no signal here."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Da ist {{c1::keine::kein-}} Lampe.",
+      "en": "There's no lamp there.",
+      "focus": "Negation · Nominativ",
+      "explanation": "*Lampe* is feminine (*die Lampe*). The negation has the feminine ending: **keine** Lampe. A noun that would take *ein-* (or no article) is negated with *kein-*, not with *nicht*.",
+      "pattern": "Da ist + keine + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Da ist nicht Lampe.",
+        "why": "*nicht* does not replace an article. A noun without a definite article is negated with *kein-*: *keine Lampe*."
+      },
+      "examples": [
+        {
+          "de": "Da ist keine Toilette.",
+          "en": "There's no toilet there."
+        },
+        {
+          "de": "Da ist keine Brücke.",
+          "en": "There's no bridge there."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das ist {{c1::kein::kein-}} Stuhl, das ist {{c2::ein::ein-}} Tisch.",
+      "en": "That's not a chair, that's a table.",
+      "focus": "c1: Negation · c2: Korrektur · nach *sein*",
+      "explanation": "Both nouns are masculine (*der Stuhl, der Tisch*) and stand after *ist*, so both are Nominativ: **kein** Stuhl (c1), **ein** Tisch (c2). In the masculine Nominativ neither *ein* nor *kein* has an ending.",
+      "pattern": "Das ist + kein + Nomen (m.), das ist + ein + Nomen (m.)",
+      "mistake": {
+        "wrong": "Das ist keinen Stuhl, das ist einen Tisch.",
+        "why": "*-en* is the masculine Akkusativ ending. After *sein* both nouns are Nominativ: *kein Stuhl, ein Tisch*."
+      },
+      "examples": [
+        {
+          "de": "Das ist kein Bus, das ist ein Zug.",
+          "en": "That's not a bus, that's a train."
+        },
+        {
+          "de": "Das ist kein Sessel, das ist ein Sofa.",
+          "en": "That's not an armchair, that's a sofa."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ist das {{c1::ein::ein-}} Computer?",
+      "en": "Is that a computer?",
+      "focus": "Ja/Nein-Frage · nach *sein*",
+      "explanation": "In this yes/no question *das* is the subject and *Computer* is the noun after *sein*, so it is Nominativ too. *der Computer* is masculine → **ein**, without an ending.",
+      "pattern": "Ist das + ein + Nomen (Nom. m.)?",
+      "mistake": {
+        "wrong": "Ist das einen Computer?",
+        "why": "The question form does not change the case. After *sein* the noun stays Nominativ: *ein Computer*."
+      },
+      "examples": [
+        {
+          "de": "Ist das ein Drucker?",
+          "en": "Is that a printer?"
+        },
+        {
+          "de": "Ist das ein Bahnhof?",
+          "en": "Is that a station?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ist das {{c1::ein::ein-}} Hund?",
+      "en": "Is that a dog?",
+      "focus": "Ja/Nein-Frage · Was ist das?",
+      "explanation": "Use the indefinite article when you ask what kind of thing something is. *Hund* is masculine → **ein**. The answer repeats the same ending: *Ja, das ist ein Hund.* or *Nein, das ist kein Hund.*",
+      "pattern": "Ist das + ein + Nomen (Nom. m.)?",
+      "mistake": {
+        "wrong": "Ist das eine Hund?",
+        "why": "*Hund* is masculine (*der Hund*), so the article has no *-e*: *ein Hund*."
+      },
+      "examples": [
+        {
+          "de": "Ist das ein Wolf?",
+          "en": "Is that a wolf?"
+        },
+        {
+          "de": "Ist das ein Fuchs?",
+          "en": "Is that a fox?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Hier ist {{c1::eine::ein-}} Schule.",
+      "en": "There's a school here.",
+      "focus": "Nominativ · Ort beschreiben",
+      "explanation": "*Schule* is feminine (*die Schule*) → **eine**. When you describe a place, a building is introduced with the indefinite article. The other common way is *es gibt* + Akkusativ: *Hier gibt es eine Schule.*",
+      "pattern": "Hier ist + eine + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Hier ist ein Schule.",
+        "why": "*Schule* is feminine, so the indefinite article needs *-e*: *eine Schule*."
+      },
+      "examples": [
+        {
+          "de": "Hier ist eine Haltestelle.",
+          "en": "There's a stop here."
+        },
+        {
+          "de": "Hier ist eine Kirche.",
+          "en": "There's a church here."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Da steht {{c1::ein::ein-}} Tisch.",
+      "en": "There's a table there.",
+      "focus": "Subjekt nach dem Verb · Positionsverb",
+      "explanation": "*stehen* has no object, so *ein Tisch* is the subject, although it comes after the verb. Masculine Nominativ → **ein**. German often uses *stehen, liegen, hängen* instead of *ist* to describe where things are.",
+      "pattern": "Da + steht + ein + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Da steht einen Tisch.",
+        "why": "The table is the subject (*Was steht da?*), not an object. A masculine subject is *ein Tisch*, never *einen*."
+      },
+      "examples": [
+        {
+          "de": "Da liegt ein Brief.",
+          "en": "There's a letter lying there."
+        },
+        {
+          "de": "Da hängt ein Bild.",
+          "en": "There's a picture hanging there."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das ist {{c1::kein::kein-}} Tee, das ist {{c2::ein::ein-}} Kaffee.",
+      "en": "That's not tea, that's a coffee.",
+      "focus": "c1: Negation · c2: Portion",
+      "explanation": "c1: *der Tee* is masculine → **kein** Tee. c2: *ein Kaffee* means one cup of coffee (a portion), as you say in a café. Both are masculine Nominativ after *ist*, so neither article has an ending.",
+      "pattern": "Das ist + kein + Nomen, das ist + ein + Nomen",
+      "mistake": {
+        "wrong": "Das ist nicht Tee, das ist ein Kaffee.",
+        "why": "A noun without an article is negated with *kein-*, not *nicht*: *kein Tee*."
+      },
+      "examples": [
+        {
+          "de": "Das ist kein Wein, das ist ein Saft.",
+          "en": "That's not wine, that's a juice."
+        },
+        {
+          "de": "Das ist kein Zucker, das ist Salz.",
+          "en": "That's not sugar, that's salt."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ist das {{c1::eine::ein-}} Frage?",
+      "en": "Is that a question?",
+      "focus": "Ja/Nein-Frage · nach *sein*",
+      "explanation": "*Frage* is feminine (*die Frage*) → **eine**. After *Ist das* the noun is Nominativ. People ask this when they are not sure whether the other person wants an answer.",
+      "pattern": "Ist das + eine + Nomen (Nom. f.)?",
+      "mistake": {
+        "wrong": "Ist das ein Frage?",
+        "why": "*Frage* is feminine, so the article needs the ending *-e*: *eine Frage*."
+      },
+      "examples": [
+        {
+          "de": "Ist das eine Einladung?",
+          "en": "Is that an invitation?"
+        },
+        {
+          "de": "Ist das eine Rechnung?",
+          "en": "Is that a bill?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Da ist {{c1::kein::kein-}} Stift.",
+      "en": "There's no pen there.",
+      "focus": "Negation · Nominativ",
+      "explanation": "*Stift* is masculine (*der Stift*). It is the subject of *ist*, so Nominativ → **kein**, with no ending. The same form is used for neuter nouns (*kein Papier*).",
+      "pattern": "Da ist + kein + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Da ist keinen Stift.",
+        "why": "*keinen* is masculine Akkusativ. With *ist* the noun is the subject (Nominativ): *kein Stift*."
+      },
+      "examples": [
+        {
+          "de": "Da ist kein Papier.",
+          "en": "There's no paper there."
+        },
+        {
+          "de": "Da ist kein Zucker.",
+          "en": "There's no sugar there."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Stift (-e)",
+          "en": "pen, pencil"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Hier ist {{c1::keine::kein-}} Lampe.",
+      "en": "There's no lamp here.",
+      "focus": "Negation · *ein-* → *kein-*",
+      "explanation": "*kein-* is simply *k* + *ein-*, with the same ending: *eine Lampe → **keine** Lampe*. *Lampe* is feminine and the subject, so the ending is *-e*.",
+      "pattern": "Hier ist + keine + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Hier ist kein Lampe.",
+        "why": "The *-e* of *eine* stays in the negation. Feminine nouns take *keine*."
+      },
+      "examples": [
+        {
+          "de": "Hier ist keine Ampel.",
+          "en": "There are no traffic lights here."
+        },
+        {
+          "de": "Hier ist keine Garage.",
+          "en": "There's no garage here."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Das ist {{c1::ein::ein-}} altes Foto.",
+      "en": "That is an old photo.",
+      "focus": "Nominativ · mit Adjektiv",
+      "explanation": "*Foto* is neuter (*das Foto*) → **ein**, without an ending. When an adjective stands between *ein* and the noun, the adjective takes the gender signal instead: alt**es** Foto (you learn these endings in A2).",
+      "pattern": "Das ist + ein + Adj-es + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist eine alte Foto.",
+        "why": "*Foto* is neuter, not feminine. The article is *ein*, and the adjective then takes *-es*: *ein altes Foto*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein neues Handy.",
+          "en": "That is a new mobile phone."
+        },
+        {
+          "de": "Das ist ein großes Problem.",
+          "en": "That is a big problem."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich suche {{c1::einen::ein-}} Parkplatz.",
+      "en": "I'm looking for a parking space.",
+      "focus": "Akkusativ · Objekt von *suchen*",
+      "explanation": "*suchen* takes an Akkusativ object. *Parkplatz* is masculine (*der Parkplatz*), and the masculine Akkusativ is the only form of *ein* that changes: **einen**.",
+      "pattern": "suchen + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich suche ein Parkplatz.",
+        "why": "*ein* is the masculine Nominativ. As the object of *suchen* the noun is Akkusativ, so it must be *einen Parkplatz*."
+      },
+      "examples": [
+        {
+          "de": "Wir suchen einen Babysitter.",
+          "en": "We're looking for a babysitter."
+        },
+        {
+          "de": "Er sucht einen Mitbewohner.",
+          "en": "He is looking for a flatmate."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Parkplatz (¨-e)",
+          "en": "parking space, car park"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir haben {{c1::keine::kein-}} Milch mehr.",
+      "en": "We have no milk left.",
+      "focus": "Negation · Akkusativ · *kein … mehr*",
+      "explanation": "*Milch* is feminine and uncountable, used without an article (*Wir haben Milch*). Its negation is **keine** (feminine Akkusativ = Nominativ). *kein … mehr* means 'no more, none left'.",
+      "pattern": "haben + keine + Nomen (Akk. f.) + mehr",
+      "mistake": {
+        "wrong": "Wir haben nicht Milch mehr.",
+        "why": "A noun without an article is negated with *kein-*. 'None left' is *keine Milch mehr*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe keine Lust mehr.",
+          "en": "I don't feel like it any more."
+        },
+        {
+          "de": "Wir haben keine Butter mehr.",
+          "en": "We have no butter left."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Das ist {{c1::ein::ein-}} sehr gutes Angebot.",
+      "en": "That is a very good offer.",
+      "focus": "Nominativ · mit *sehr* + Adjektiv",
+      "explanation": "*das Angebot* is neuter and stands after *ist* → Nominativ → **ein**. *sehr* is an adverb and never takes an ending; the adjective *gutes* carries the neuter signal *-es*.",
+      "pattern": "Das ist + ein + sehr + Adj-es + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist eine sehr gute Angebot.",
+        "why": "*Angebot* is neuter (*das Angebot*), so the article is *ein*, not the feminine *eine*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein sehr schönes Kleid.",
+          "en": "That is a very nice dress."
+        },
+        {
+          "de": "Das ist ein sehr teures Hotel.",
+          "en": "That is a very expensive hotel."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Angebot (-e)",
+          "en": "offer"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er hat {{c1::keinen::kein-}} Bruder.",
+      "en": "He has no brother.",
+      "focus": "Negation · Akkusativ · Objekt von *haben*",
+      "explanation": "*haben* takes an Akkusativ object. *Bruder* is masculine, so the negation takes the masculine Akkusativ ending *-en*: **keinen**, just as *einen Bruder*.",
+      "pattern": "haben + keinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Er hat kein Bruder.",
+        "why": "*kein* without an ending is Nominativ (or neuter). The masculine Akkusativ is *keinen*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat keinen Freund.",
+          "en": "She doesn't have a boyfriend."
+        },
+        {
+          "de": "Wir haben keinen Balkon.",
+          "en": "We don't have a balcony."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Sie trinkt {{c1::keinen::kein-}} Alkohol.",
+      "en": "She doesn't drink alcohol.",
+      "focus": "Negation · Nomen ohne Artikel",
+      "explanation": "*Alkohol* is used here without an article (alcohol in general). A noun without an article is negated with *kein-*, not *nicht*. *der Alkohol* is masculine and the Akkusativ object of *trinken* → **keinen**.",
+      "pattern": "Verb + keinen + Nomen (Akk. m., ohne Artikel)",
+      "mistake": {
+        "wrong": "Sie trinkt nicht Alkohol.",
+        "why": "English says *doesn't drink alcohol*, but German negates the noun itself: *keinen Alkohol*."
+      },
+      "examples": [
+        {
+          "de": "Er isst keinen Zucker.",
+          "en": "He doesn't eat sugar."
+        },
+        {
+          "de": "Ich trinke keinen Kaffee.",
+          "en": "I don't drink coffee."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich brauche {{c1::eine::ein-}} neue Brille.",
+      "en": "I need a new pair of glasses.",
+      "focus": "Akkusativ · Singular im Deutschen",
+      "explanation": "*die Brille* is singular in German, while English *glasses* is plural. So one pair is **eine** Brille (feminine Akkusativ = Nominativ). The same happens with *die Hose* (trousers) and *die Schere* (scissors).",
+      "pattern": "brauchen + eine + Adj-e + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Ich brauche neue Brillen.",
+        "why": "*Brillen* means several pairs of glasses. For one pair German uses the singular: *eine neue Brille*."
+      },
+      "examples": [
+        {
+          "de": "Er braucht eine neue Hose.",
+          "en": "He needs new trousers."
+        },
+        {
+          "de": "Ich brauche eine Schere.",
+          "en": "I need a pair of scissors."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Brille (-n)",
+          "en": "(pair of) glasses"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Hier gibt es {{c1::keine::kein-}} Steckdosen.",
+      "en": "There are no sockets here.",
+      "focus": "Negation · Plural · nach *es gibt*",
+      "explanation": "*es gibt* always takes the Akkusativ. *Steckdosen* is plural, and in the plural *ein* has no form (*Hier gibt es Steckdosen*), but the negation does: **keine**.",
+      "pattern": "es gibt + keine + Nomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Hier gibt es nicht Steckdosen.",
+        "why": "A plural noun without an article is negated with *keine*, not *nicht*."
+      },
+      "examples": [
+        {
+          "de": "Im Dorf gibt es keine Geschäfte.",
+          "en": "There are no shops in the village."
+        },
+        {
+          "de": "Hier gibt es keine Mülleimer.",
+          "en": "There are no bins here."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Steckdose (-n)",
+          "en": "(power) socket"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Sie ist {{c1::eine::ein-}} gute Chefin.",
+      "en": "She is a good boss.",
+      "focus": "Beruf nach *sein* · mit Adjektiv",
+      "explanation": "A profession after *sein* normally has no article: *Sie ist Chefin.* When an adjective describes the person, the article is needed: **eine** gute Chefin. *Chefin* is feminine (*-in*), Nominativ after *ist* → *eine*.",
+      "pattern": "sein + eine + Adj-e + Beruf (Nom. f.)",
+      "mistake": {
+        "wrong": "Sie ist gute Chefin.",
+        "why": "With an adjective, a profession after *sein* needs the indefinite article: *eine gute Chefin*."
+      },
+      "examples": [
+        {
+          "de": "Er ist ein sehr guter Koch.",
+          "en": "He is a very good cook."
+        },
+        {
+          "de": "Sie ist eine bekannte Journalistin.",
+          "en": "She is a well-known journalist."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Chefin (-nen)",
+          "en": "boss (female)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich habe {{c1::kein::kein-}} Interesse daran.",
+      "en": "I have no interest in that.",
+      "focus": "Negation · Akkusativ neutral",
+      "explanation": "*das Interesse* is neuter. The neuter Akkusativ of *kein* has no ending, the same as *ein*: **kein** Interesse. *daran* refers back to the topic (*Interesse an* + Dativ).",
+      "pattern": "haben + kein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Ich habe keinen Interesse daran.",
+        "why": "*-en* is only for masculine Akkusativ. *Interesse* is neuter, so it stays *kein Interesse*."
+      },
+      "examples": [
+        {
+          "de": "Er hat kein Talent für Musik.",
+          "en": "He has no talent for music."
+        },
+        {
+          "de": "Wir haben kein Glück.",
+          "en": "We're out of luck."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Interesse (-n)",
+          "en": "interest"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Möchtest du {{c1::einen::ein-}} Nachtisch?",
+      "en": "Would you like a dessert?",
+      "focus": "Akkusativ · Objekt von *möchten*",
+      "explanation": "*möchten* is followed by an Akkusativ object (what you would like). *Nachtisch* is masculine (*der Tisch* is its last part) → **einen**.",
+      "pattern": "möchten + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Möchtest du ein Nachtisch?",
+        "why": "The dessert is the object of *möchtest*, so it is Akkusativ. Masculine Akkusativ is *einen*."
+      },
+      "examples": [
+        {
+          "de": "Möchten Sie einen Kaffee?",
+          "en": "Would you like a coffee?"
+        },
+        {
+          "de": "Möchtest du einen Apfel?",
+          "en": "Would you like an apple?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Nachtisch (-e)",
+          "en": "dessert"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Das ist {{c1::kein::kein-}} Problem.",
+      "en": "That's no problem.",
+      "focus": "Negation · feste Wendung",
+      "explanation": "*das Problem* is neuter and stands after *ist* → Nominativ → **kein**, with no ending. This is a fixed expression; in short answers people often just say *Kein Problem!*",
+      "pattern": "Das ist + kein + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist nicht Problem.",
+        "why": "*nicht* cannot replace the article. A noun that would take *ein* is negated with *kein*."
+      },
+      "examples": [
+        {
+          "de": "Das ist kein Witz.",
+          "en": "That's no joke."
+        },
+        {
+          "de": "Das ist kein Zufall.",
+          "en": "That's no coincidence."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich sehe {{c1::einen::ein-}} Fehler im Text.",
+      "en": "I see a mistake in the text.",
+      "focus": "Akkusativ · *ein* = 'a' oder 'one'",
+      "explanation": "*sehen* takes an Akkusativ object, and *Fehler* is masculine → **einen**. *ein-* can also mean 'one': with stress (*Ich sehe EINEN Fehler*) it means only one mistake. The form is the same in both meanings.",
+      "pattern": "sehen + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich sehe ein Fehler im Text.",
+        "why": "*Fehler* is masculine and the object of *sehen*. Masculine Akkusativ needs *-en*: *einen Fehler*."
+      },
+      "examples": [
+        {
+          "de": "Ich höre einen Vogel.",
+          "en": "I can hear a bird."
+        },
+        {
+          "de": "Siehst du einen Fehler?",
+          "en": "Do you see a mistake?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Fehler (-)",
+          "en": "mistake"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie hat {{c1::keine::kein-}} Geschwister.",
+      "en": "She has no siblings.",
+      "focus": "Negation · Pluralwort",
+      "explanation": "*Geschwister* (siblings) is normally used only in the plural. In the plural the negation is always **keine**, in the Nominativ and the Akkusativ.",
+      "pattern": "haben + keine + Pluralnomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Sie hat kein Geschwister.",
+        "why": "*Geschwister* is plural, and plural nouns take *keine*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben keine Haustiere.",
+          "en": "We don't have any pets."
+        },
+        {
+          "de": "Ich habe keine Kinder.",
+          "en": "I don't have any children."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Geschwister (Pl.)",
+          "en": "siblings"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir suchen {{c1::eine::ein-}} Wohnung mit Balkon.",
+      "en": "We're looking for a flat with a balcony.",
+      "focus": "Akkusativ · Objekt von *suchen*",
+      "explanation": "*suchen* takes the Akkusativ. *Wohnung* is feminine, and the feminine Akkusativ is the same as the Nominativ: **eine**. Only the masculine form changes in the Akkusativ.",
+      "pattern": "suchen + eine + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Wir suchen einen Wohnung mit Balkon.",
+        "why": "*einen* is only for masculine nouns. *Wohnung* is feminine (*-ung*), so it stays *eine Wohnung*."
+      },
+      "examples": [
+        {
+          "de": "Ich suche eine Stelle in Berlin.",
+          "en": "I'm looking for a job in Berlin."
+        },
+        {
+          "de": "Sie sucht eine Kita für ihren Sohn.",
+          "en": "She is looking for a nursery for her son."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Er ist {{c1::kein::kein-}} Anfänger mehr.",
+      "en": "He isn't a beginner any more.",
+      "focus": "Negation · nach *sein* · 'not any more'",
+      "explanation": "*Anfänger* stands after *ist* and is Nominativ masculine → **kein**. *kein … mehr* means 'not … any more' with nouns; with verbs and adjectives German uses *nicht mehr* (*Er ist nicht mehr jung*).",
+      "pattern": "sein + kein + Nomen (Nom. m.) + mehr",
+      "mistake": {
+        "wrong": "Er ist nicht Anfänger mehr.",
+        "why": "With a noun, 'not any more' is *kein … mehr*: *kein Anfänger mehr*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist kein Kind mehr.",
+          "en": "She isn't a child any more."
+        },
+        {
+          "de": "Das ist kein Geheimnis mehr.",
+          "en": "That isn't a secret any more."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anfänger (-)",
+          "en": "beginner"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Hast du {{c1::einen::ein-}} Kugelschreiber?",
+      "en": "Do you have a pen?",
+      "focus": "Akkusativ · Frage mit *haben*",
+      "explanation": "*haben* takes the Akkusativ, also in a question. *der Kugelschreiber* (short: *der Kuli*) is masculine → **einen**. This is a typical classroom question.",
+      "pattern": "Hast du + einen + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Hast du ein Kugelschreiber?",
+        "why": "The question form does not change the case: the pen is the object of *hast*. Masculine Akkusativ → *einen*."
+      },
+      "examples": [
+        {
+          "de": "Hast du einen Moment Zeit?",
+          "en": "Do you have a moment?"
+        },
+        {
+          "de": "Hast du einen Regenschirm?",
+          "en": "Do you have an umbrella?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Kugelschreiber (-)",
+          "en": "ballpoint pen"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Das sind {{c1::keine::kein-}} Äpfel, das sind Birnen.",
+      "en": "Those aren't apples, they're pears.",
+      "focus": "Negation · Plural · Nominativ",
+      "explanation": "*ein* has no plural: one apple is *ein Apfel*, but several are just *Äpfel*, with no article. That is why *Birnen* has no article. The negation *kein*, however, has a plural form: **keine** Äpfel.",
+      "pattern": "Das sind + keine + Pluralnomen, das sind + Pluralnomen",
+      "mistake": {
+        "wrong": "Das sind kein Äpfel, das sind Birnen.",
+        "why": "Plural nouns need the plural form *keine*, in every gender."
+      },
+      "examples": [
+        {
+          "de": "Das sind keine Rosen, das sind Tulpen.",
+          "en": "Those aren't roses, they're tulips."
+        },
+        {
+          "de": "Das sind keine Touristen, das sind Studenten.",
+          "en": "They aren't tourists, they're students."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Birne (-n)",
+          "en": "pear"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Er ist {{c1::kein::kein-}} Arzt, er ist Krankenpfleger.",
+      "en": "He isn't a doctor, he's a nurse.",
+      "focus": "Negation · Beruf nach *sein*",
+      "explanation": "Professions after *sein* normally have no article: *Er ist Krankenpfleger.* The usual negation is still *kein-*: **kein** Arzt (masculine Nominativ, no ending). English uses *a* in both parts; German uses no article in the positive part.",
+      "pattern": "sein + kein + Beruf, sein + Beruf (ohne Artikel)",
+      "mistake": {
+        "wrong": "Er ist keinen Arzt, er ist Krankenpfleger.",
+        "why": "After *sein* the noun is Nominativ. *keinen* is masculine Akkusativ; the correct form is *kein Arzt*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist keine Lehrerin, sie ist Studentin.",
+          "en": "She isn't a teacher, she's a student."
+        },
+        {
+          "de": "Ich bin kein Koch, ich bin Kellner.",
+          "en": "I'm not a cook, I'm a waiter."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Krankenpfleger (-)",
+          "en": "nurse (male)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich habe heute {{c1::keine::kein-}} Zeit.",
+      "en": "I don't have time today.",
+      "focus": "Negation · Nomen ohne Artikel",
+      "explanation": "*Zeit haben* uses the noun without an article, because time is uncountable here. A noun without an article is negated with *kein-*, not *nicht*. *die Zeit* is feminine Akkusativ → **keine**.",
+      "pattern": "haben + keine + Nomen (Akk. f., ohne Artikel)",
+      "mistake": {
+        "wrong": "Ich habe heute nicht Zeit.",
+        "why": "English says *don't have time*, but German negates the noun: *keine Zeit*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben heute keine Lust.",
+          "en": "We don't feel like it today."
+        },
+        {
+          "de": "Er hat keine Ahnung.",
+          "en": "He has no idea."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wir brauchen {{c1::kein::kein-}} Taxi, wir gehen zu Fuß.",
+      "en": "We don't need a taxi, we'll walk.",
+      "focus": "Negation · Akkusativ neutral",
+      "explanation": "*brauchen* takes the Akkusativ. *das Taxi* is neuter, and the neuter Akkusativ of *kein* has no ending: **kein** Taxi. Only the masculine Akkusativ has *-en*.",
+      "pattern": "brauchen + kein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir brauchen keinen Taxi, wir gehen zu Fuß.",
+        "why": "*keinen* is only for masculine nouns. *Taxi* is neuter: *kein Taxi*."
+      },
+      "examples": [
+        {
+          "de": "Ich brauche kein Wörterbuch.",
+          "en": "I don't need a dictionary."
+        },
+        {
+          "de": "Sie braucht kein Auto, sie fährt Fahrrad.",
+          "en": "She doesn't need a car, she cycles."
+        }
+      ],
+      "words": [
+        {
+          "de": "zu Fuß gehen",
+          "en": "to walk, to go on foot"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Das ist {{c1::nicht::kein- oder nicht?}} mein Handy.",
+      "en": "That isn't my phone.",
+      "focus": "Negation · Possessivartikel",
+      "explanation": "*kein* replaces only *ein* or the missing article. When the noun already has another determiner, such as the possessive *mein*, you negate with **nicht**, placed before the noun phrase: *nicht mein Handy*.",
+      "pattern": "Das ist + nicht + Possessivartikel + Nomen",
+      "mistake": {
+        "wrong": "Das ist kein mein Handy.",
+        "why": "*kein* and *mein* cannot stand together, because both are articles. With a possessive, use *nicht*."
+      },
+      "examples": [
+        {
+          "de": "Das ist nicht unser Auto.",
+          "en": "That isn't our car."
+        },
+        {
+          "de": "Das ist nicht deine Jacke.",
+          "en": "That isn't your jacket."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ich esse {{c1::kein::kein- oder nicht?}} Fleisch.",
+      "en": "I don't eat meat.",
+      "focus": "Negation · Nomen ohne Artikel",
+      "explanation": "*Fleisch* stands without an article here (meat in general). Such a noun is negated with *kein-*. *das Fleisch* is neuter Akkusativ → **kein**, without an ending.",
+      "pattern": "Verb + kein + Nomen (Akk. n., ohne Artikel)",
+      "mistake": {
+        "wrong": "Ich esse nicht Fleisch.",
+        "why": "The noun *Fleisch* has no article, so the negation goes onto the noun: *kein Fleisch*."
+      },
+      "examples": [
+        {
+          "de": "Er trinkt keine Milch.",
+          "en": "He doesn't drink milk."
+        },
+        {
+          "de": "Wir essen keinen Fisch.",
+          "en": "We don't eat fish."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Fleisch",
+          "en": "meat"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Das ist {{c1::nicht::kein- oder nicht?}} der Bus nach Köln.",
+      "en": "That isn't the bus to Cologne.",
+      "focus": "Negation · bestimmter Artikel",
+      "explanation": "*der Bus nach Köln* is a specific bus with the definite article *der*. A noun with *der/die/das* is negated with **nicht**, not *kein*. Compare: *Das ist kein Bus* = 'That is not a bus (at all)'.",
+      "pattern": "Das ist + nicht + der/die/das + Nomen",
+      "mistake": {
+        "wrong": "Das ist kein der Bus nach Köln.",
+        "why": "*kein* cannot stand before *der*. When the noun has a definite article, the negation is *nicht*."
+      },
+      "examples": [
+        {
+          "de": "Das ist nicht die Straße zum Bahnhof.",
+          "en": "That isn't the road to the station."
+        },
+        {
+          "de": "Das ist nicht das Zimmer von Lisa.",
+          "en": "That isn't Lisa's room."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Gibt es hier {{c1::einen::ein-}} Supermarkt?",
+      "en": "Is there a supermarket here?",
+      "focus": "Akkusativ · nach *es gibt*",
+      "explanation": "*es gibt* always takes the Akkusativ, even though English uses *there is*. *der Supermarkt* is masculine → **einen**. In the question the verb *gibt* comes first, then *es*.",
+      "pattern": "Gibt es + einen + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Gibt es hier ein Supermarkt?",
+        "why": "The noun after *es gibt* is an Akkusativ object, not a subject. Masculine Akkusativ → *einen Supermarkt*."
+      },
+      "examples": [
+        {
+          "de": "Gibt es hier einen Geldautomaten?",
+          "en": "Is there a cash machine here?"
+        },
+        {
+          "de": "Gibt es hier in der Nähe einen Arzt?",
+          "en": "Is there a doctor nearby?"
+        }
+      ],
+      "words": [
+        {
+          "de": "es gibt (+ Akk.)",
+          "en": "there is, there are"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Hast du ein Fahrrad? – Nein, ich habe {{c1::kein::kein-}} Fahrrad.",
+      "en": "Do you have a bike? – No, I don't have a bike.",
+      "focus": "Negative Antwort · Akkusativ",
+      "explanation": "In a negative answer, *ein* from the question becomes *kein* with the same ending. *das Fahrrad* is neuter Akkusativ (object of *haben*), so both forms have no ending: *ein Fahrrad → **kein** Fahrrad*.",
+      "pattern": "Hast du ein- …? – Nein, ich habe kein- …",
+      "mistake": {
+        "wrong": "Hast du ein Fahrrad? – Nein, ich habe keinen Fahrrad.",
+        "why": "*Fahrrad* is neuter, and the neuter Akkusativ has no ending: *ein Fahrrad → kein Fahrrad*. *-en* is only for masculine nouns."
+      },
+      "examples": [
+        {
+          "de": "Hast du eine Katze? – Nein, ich habe keine Katze.",
+          "en": "Do you have a cat? – No, I don't have a cat."
+        },
+        {
+          "de": "Hast du einen Termin? – Nein, ich habe keinen Termin.",
+          "en": "Do you have an appointment? – No, I don't have an appointment."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Fahrrad (¨-er)",
+          "en": "bicycle"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich habe {{c1::keinen::kein-}} Hunger.",
+      "en": "I'm not hungry.",
+      "focus": "Negation · *Hunger haben*",
+      "explanation": "German says *Hunger haben* (literally 'to have hunger'), with the masculine noun *der Hunger* and no article. The negation is the masculine Akkusativ **keinen**. The same works for *Durst*: *Ich habe keinen Durst.*",
+      "pattern": "haben + keinen + Nomen (Akk. m., ohne Artikel)",
+      "mistake": {
+        "wrong": "Ich habe nicht Hunger.",
+        "why": "*Hunger* is a noun here, so it is negated with *kein-*: *keinen Hunger*."
+      },
+      "examples": [
+        {
+          "de": "Er hat keinen Durst.",
+          "en": "He isn't thirsty."
+        },
+        {
+          "de": "Wir haben keinen Hunger mehr.",
+          "en": "We're not hungry any more."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hunger",
+          "en": "hunger"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ist hier in der Nähe {{c1::eine::ein-}} Apotheke?",
+      "en": "Is there a pharmacy nearby?",
+      "focus": "Nominativ · Subjekt am Ende",
+      "explanation": "With *sein* (*Ist hier …?*) the pharmacy is the subject, even though it comes at the end. *Apotheke* is feminine → Nominativ **eine**. With *es gibt* it would be Akkusativ, but the feminine form is the same: *Gibt es hier eine Apotheke?*",
+      "pattern": "Ist + Ort + eine + Nomen (Nom. f.)?",
+      "mistake": {
+        "wrong": "Ist hier in der Nähe ein Apotheke?",
+        "why": "*Apotheke* is feminine, so the article needs *-e*: *eine Apotheke*."
+      },
+      "examples": [
+        {
+          "de": "Ist hier in der Nähe eine Bank?",
+          "en": "Is there a bank nearby?"
+        },
+        {
+          "de": "Ist hier in der Nähe ein Kiosk?",
+          "en": "Is there a kiosk nearby?"
+        }
+      ],
+      "words": [
+        {
+          "de": "in der Nähe",
+          "en": "nearby"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich habe nur {{c1::eine::ein-}} Schwester.",
+      "en": "I only have one sister.",
+      "focus": "*ein-* als Zahl · Akkusativ",
+      "explanation": "*ein-* is also the number 'one'. With *nur* the meaning is clearly 'one': *nur eine Schwester*. Before a noun the number takes the article endings: *Schwester* is feminine Akkusativ → **eine**. The form *eins* is only used for counting, never before a noun.",
+      "pattern": "nur + ein- (Zahl) + Nomen (Akk.)",
+      "mistake": {
+        "wrong": "Ich habe nur eins Schwester.",
+        "why": "*eins* is the counting form (*eins, zwei, drei*). Before a noun the number is declined like the article: *eine Schwester*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben nur ein Auto.",
+          "en": "We only have one car."
+        },
+        {
+          "de": "Er spricht nur eine Sprache.",
+          "en": "He only speaks one language."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the forms of ein and kein.",
+      "prompt": "Which forms do ein and kein have in the Nominativ and the Akkusativ?",
+      "answer": "Nominativ: **ein/kein** (m), **eine/keine** (f), **ein/kein** (n), plural **–/keine**. Akkusativ: only the masculine changes to **einen/keinen**; all other forms are the same as in the Nominativ.",
+      "explanation": "*kein* is *k* + *ein*, with identical endings. The only Akkusativ change is masculine *-en*, the same *-n* that you see in *der → den*. Feminine, neuter and plural look the same in both cases.",
+      "examples": [
+        {
+          "de": "Das ist ein Kühlschrank.",
+          "en": "That is a fridge."
+        },
+        {
+          "de": "Wir brauchen einen Kühlschrank.",
+          "en": "We need a fridge."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about kein and nicht.",
+      "prompt": "When do you negate with kein, and when with nicht?",
+      "answer": "**kein-** for a noun with *ein* or with no article (*ein Auto → kein Auto; Zeit → keine Zeit*). **nicht** for verbs, adjectives, adverbs, names, and nouns with *der/die/das* or a possessive (*nicht der Bus, nicht mein Auto*).",
+      "explanation": "*kein* is itself an article, so it can only replace *ein* or fill the empty article slot. If another article is already there, it cannot be added, and *nicht* is used instead.",
+      "examples": [
+        {
+          "de": "Er hat kein Handy.",
+          "en": "He doesn't have a mobile phone."
+        },
+        {
+          "de": "Das ist nicht der Schlüssel von Tom.",
+          "en": "That isn't Tom's key."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the plural.",
+      "prompt": "What is the plural of ein, and what is the plural of kein?",
+      "answer": "*ein* has **no plural**: the noun stands without an article (*ein Apfel → Äpfel*). *kein* has the plural **keine** (*kein Apfel → keine Äpfel*), in the Nominativ and the Akkusativ.",
+      "explanation": "*ein* means 'one', so it cannot be plural. When you mean 'some', you use the plural noun alone. The negation of that bare plural is *keine*.",
+      "examples": [
+        {
+          "de": "Im Garten sind Kinder.",
+          "en": "There are children in the garden."
+        },
+        {
+          "de": "Im Garten sind keine Kinder.",
+          "en": "There are no children in the garden."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about professions after sein.",
+      "prompt": "Do you use ein with a profession after sein?",
+      "answer": "Normally **no**: *Er ist Arzt.* With an adjective **yes**: *Er ist ein guter Arzt.* The negation is normally *kein*: *Er ist kein Arzt.*",
+      "explanation": "Without an adjective the profession works like a description of the person's role, so no article is used, unlike English *He is a doctor*. An adjective turns it into a description of a person, which needs *ein-*. The same applies to nationalities and religions (*Sie ist Deutsche.*).",
+      "examples": [
+        {
+          "de": "Meine Mutter ist Ingenieurin.",
+          "en": "My mother is an engineer."
+        },
+        {
+          "de": "Meine Mutter ist eine sehr gute Ingenieurin.",
+          "en": "My mother is a very good engineer."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Wir haben ___ Garten.",
+      "options": [
+        "kein",
+        "keine",
+        "keinen"
+      ],
+      "correct": "keinen",
+      "answer": "Wir haben keinen Garten.",
+      "explanation": "*Garten* is masculine and the Akkusativ object of *haben* → *keinen*. *kein* would be Nominativ (or neuter), and *keine* is for feminine or plural nouns."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct negation.",
+      "prompt": "Das ist ___ meine Tasche.",
+      "options": [
+        "kein",
+        "keine",
+        "nicht"
+      ],
+      "correct": "nicht",
+      "answer": "Das ist nicht meine Tasche.",
+      "explanation": "*Tasche* already has the possessive *meine*, so *kein-* cannot be used: two articles cannot stand together. The negation is *nicht*. *keine Tasche* would be possible only without *meine*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Im Kurs sind heute ___ Studenten aus Spanien.",
+      "options": [
+        "kein",
+        "keine",
+        "keinen"
+      ],
+      "correct": "keine",
+      "answer": "Im Kurs sind heute keine Studenten aus Spanien.",
+      "explanation": "*Studenten* is plural (and the verb *sind* is plural). Plural nouns take *keine* in the Nominativ. *kein* is singular m/n, and *keinen* is masculine Akkusativ singular."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Sie sucht ___ Job.",
+      "options": [
+        "ein",
+        "eine",
+        "einen"
+      ],
+      "correct": "einen",
+      "answer": "Sie sucht einen Job.",
+      "explanation": "*der Job* is masculine and the Akkusativ object of *suchen* → *einen*. *ein* is the Nominativ form, and *eine* is feminine."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe nicht Auto.",
+      "answer": "Ich habe kein Auto.",
+      "explanation": "The mistake is *nicht*. A noun that would take *ein* is negated with *kein-*: *ein Auto → kein Auto* (neuter Akkusativ, no ending)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben kein Hund.",
+      "answer": "Wir haben keinen Hund.",
+      "explanation": "The mistake is the missing *-en*. *Hund* is masculine and the Akkusativ object of *haben*, so the negation is *keinen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich kaufe eine Eier.",
+      "answer": "Ich kaufe Eier.",
+      "explanation": "The mistake: *ein* has no plural. *Eier* is plural, so it stands without an article. Negated, it would be *keine Eier*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist kein Herr Müller.",
+      "answer": "Das ist nicht Herr Müller.",
+      "explanation": "The mistake: a name is not negated with *kein*. *Herr Müller* is a specific person, so the negation is *nicht*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Negate the noun.",
+      "prompt": "Ich habe einen Stift.",
+      "answer": "Ich habe keinen Stift.",
+      "explanation": "*einen* becomes *keinen*: the negation keeps the masculine Akkusativ ending *-en*. Nothing else in the sentence changes."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Negate the noun.",
+      "prompt": "Das ist eine gute Idee.",
+      "answer": "Das ist keine gute Idee.",
+      "explanation": "*eine* becomes *keine*, with the same feminine *-e*. The adjective ending *gute* stays the same, because *keine* has the same ending as *eine*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make the noun plural (*der Vogel → die Vögel*). Change the verb.",
+      "prompt": "Da ist ein Vogel.",
+      "answer": "Da sind Vögel.",
+      "explanation": "*ein* has no plural, so the article disappears. The noun takes its plural form *Vögel*, and the verb changes from *ist* to *sind*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace *die Tasche* with *der Rucksack*. Adjust the article.",
+      "prompt": "Ich suche eine Tasche.",
+      "answer": "Ich suche einen Rucksack.",
+      "explanation": "The object of *suchen* is Akkusativ. Feminine *eine* stays the same in the Akkusativ, but *Rucksack* is masculine, so the article becomes *einen*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the two sentences with *sondern*.",
+      "prompt": "Das ist kein Hotel. Das ist eine Jugendherberge.",
+      "answer": "Das ist kein Hotel, sondern eine Jugendherberge.",
+      "explanation": "*sondern* ('but rather') follows a negation with *kein* or *nicht* and gives the correct information. The repeated *das ist* can be left out. *eine Jugendherberge* keeps its feminine Nominativ form."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join the two sentences with *aber*.",
+      "prompt": "Wir haben keinen Fernseher. Wir haben ein Radio.",
+      "answer": "Wir haben keinen Fernseher, aber wir haben ein Radio.",
+      "explanation": "*aber* adds a contrast and does not change the word order. *keinen Fernseher* (masculine Akkusativ) and *ein Radio* (neuter Akkusativ) keep their endings. *sondern* would not fit, because the second part is not a correction of the first."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Hier",
+      "prompt": "keinen / gibt / Parkplatz / es / hier",
+      "answer": "Hier gibt es keinen Parkplatz.",
+      "explanation": "*Hier* is in position 1, the verb *gibt* in position 2, and *es* follows. *es gibt* takes the Akkusativ, and *Parkplatz* is masculine → *keinen*. Another correct order: *Es gibt hier keinen Parkplatz.*"
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in order to make a yes/no question.",
+      "prompt": "ihr / einen / habt / Garten",
+      "answer": "Habt ihr einen Garten?",
+      "explanation": "In a yes/no question the verb *habt* comes first, then the subject *ihr*. *Garten* is masculine and the Akkusativ object of *haben* → *einen Garten*."
+    }
+  ]
+}

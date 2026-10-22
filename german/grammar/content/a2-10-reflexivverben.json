@@ -1,0 +1,924 @@
+{
+  "topic_id": "a2-10-reflexivverben",
+  "level": "A2",
+  "title_de": "Reflexivverben",
+  "title_en": "Reflexive verbs",
+  "rule": {
+    "summary": "A reflexive verb has a **reflexive pronoun** that refers back to the subject: *Ich freue mich.* Most reflexive pronouns are in the **Akkusativ**. When the clause already has another Akkusativ object (often a body part or a piece of clothing), the reflexive pronoun is **Dativ**: *Ich wasche mir die Hände.* Only *ich* and *du* have different forms (*mich/mir, dich/dir*); all third persons and formal *Sie* use **sich**. Many reflexive verbs have a fixed preposition (*sich freuen auf, sich interessieren für*), and reflexive verbs always form the Perfekt with *haben*.",
+    "table": "| Person | Akkusativ | Dativ | Beispiel |\n|---|---|---|---|\n| ich | **mich** | **mir** | Ich freue mich. · Ich wasche mir die Hände. |\n| du | **dich** | **dir** | Beeil dich! · Was wünschst du dir? |\n| er / sie / es | sich | sich | Er rasiert sich. |\n| wir | uns | uns | Wir treffen uns. |\n| ihr | euch | euch | Setzt euch! |\n| sie / Sie | sich | sich | Setzen Sie sich bitte. |",
+    "steps": [
+      "Find the subject and its person: the reflexive pronoun always matches it (*ich → mich/mir, wir → uns, er/sie/Sie → sich*).",
+      "Check for a second Akkusativ object in the clause (*die Hände, eine Jacke, das, etwas*). None → Akkusativ reflexive (*mich, dich*). One → Dativ reflexive (*mir, dir*).",
+      "Place the pronoun: in a main clause directly after the finite verb (*Ich freue mich*); after inversion behind a pronoun subject (*Morgen treffen wir uns*), but usually before a noun subject (*Gestern hat sich mein Bruder verletzt*); in a Nebensatz after the subject pronoun (*…, weil ich mich freue*).",
+      "With modal verbs and in the Perfekt the pronoun stays in the Mittelfeld; the infinitive or Partizip II goes to the end. The auxiliary is always *haben*.",
+      "Learn the preposition with the verb: *sich freuen auf/über, sich interessieren für, sich ärgern über, sich erinnern an, sich bewerben um/bei, sich unterhalten mit*."
+    ],
+    "pitfalls": [
+      "Using *sich* for every person: ✗ *Ich freue sich.* / ✗ *Wir treffen sich.* → ✓ *Ich freue mich.* / ✓ *Wir treffen uns.*",
+      "Akkusativ reflexive next to another object: ✗ *Ich wasche mich die Hände.* → ✓ *Ich wasche mir die Hände.*",
+      "*sein* in the Perfekt: ✗ *Ich bin mich erkältet.* → ✓ *Ich habe mich erkältet.*",
+      "Leaving out the pronoun, as in English: ✗ *Du musst beeilen.* → ✓ *Du musst dich beeilen.* ✗ *Er rasiert jeden Tag.* → ✓ *Er rasiert sich jeden Tag.*",
+      "Putting the pronoun at the end after a modal: ✗ *Wir müssen beeilen uns.* → ✓ *Wir müssen uns beeilen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich freue {{c1::mich::ich}} auf das Wochenende.",
+      "en": "I'm looking forward to the weekend.",
+      "focus": "Reflexivpronomen · *freuen auf* (Zukunft)",
+      "explanation": "*sich freuen auf* + Akkusativ = to look forward to something in the future. The pronoun refers to the subject *ich*, and because there is no other Akkusativ object, it is Akkusativ: **mich**.",
+      "pattern": "ich + freue + mich + auf + Akk.",
+      "mistake": {"wrong": "Ich freue mir auf das Wochenende.", "why": "*mir* is the Dativ form. The Dativ reflexive is only used when there is a second Akkusativ object; *sich freuen* has none, so it is *mich*."},
+      "examples": [
+        {"de": "Wir freuen uns auf die Ferien.", "en": "We're looking forward to the holidays."},
+        {"de": "Freust du dich auf das Konzert?", "en": "Are you looking forward to the concert?"}
+      ],
+      "words": [{"de": "sich freuen auf (+ Akk.)", "en": "to look forward to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du musst {{c1::dich::du}} beeilen.",
+      "en": "You have to hurry.",
+      "focus": "Reflexivpronomen · mit Modalverb",
+      "explanation": "*sich beeilen* (to hurry) only exists as a reflexive verb. Subject *du* → Akkusativ **dich**. With a modal verb the pronoun stays in the Mittelfeld right after *musst*, and the infinitive *beeilen* goes to the end.",
+      "pattern": "Modalverb + Reflexivpronomen + … + Infinitiv",
+      "mistake": {"wrong": "Du musst beeilen.", "why": "English *to hurry* has no pronoun, but *beeilen* cannot be used without one: *sich beeilen*."},
+      "examples": [
+        {"de": "Ihr müsst euch nicht beeilen.", "en": "You don't have to hurry."},
+        {"de": "Wir sollten uns ein bisschen beeilen.", "en": "We should hurry up a little."}
+      ],
+      "words": [{"de": "sich beeilen", "en": "to hurry"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er interessiert {{c1::sich::er}} für Fußball.",
+      "en": "He's interested in football.",
+      "focus": "3. Person · *interessieren für*",
+      "explanation": "For *er, sie, es*, plural *sie* and formal *Sie* the reflexive pronoun is always **sich**. *sich interessieren für* + Akkusativ = to be interested in. Without the reflexive the verb means *to interest someone*: *Fußball interessiert ihn.*",
+      "pattern": "er + interessiert + sich + für + Akk.",
+      "mistake": {"wrong": "Er interessiert ihn für Fußball.", "why": "*ihn* would refer to another man. When the pronoun refers back to the subject *er*, it must be the reflexive *sich*."},
+      "examples": [
+        {"de": "Sie interessiert sich für moderne Kunst.", "en": "She is interested in modern art."},
+        {"de": "Interessieren Sie sich für Geschichte?", "en": "Are you interested in history?"}
+      ],
+      "words": [{"de": "sich interessieren für (+ Akk.)", "en": "to be interested in"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir treffen {{c1::uns::wir}} am Bahnhof.",
+      "en": "We're meeting at the station.",
+      "focus": "Reflexivpronomen · gegenseitige Handlung",
+      "explanation": "*sich treffen* here means *to meet each other*: the pronoun is reciprocal (gegenseitig). For *wir* the Akkusativ and Dativ reflexive are the same: **uns**.",
+      "pattern": "wir + treffen + uns (= einander)",
+      "mistake": {"wrong": "Wir treffen am Bahnhof.", "why": "Without a pronoun *treffen* needs an object (*Wir treffen Anna am Bahnhof*). To say *we meet (each other)*, use *sich treffen*."},
+      "examples": [
+        {"de": "Treffen wir uns um acht?", "en": "Shall we meet at eight?"},
+        {"de": "Die beiden Teams treffen sich im Finale.", "en": "The two teams meet in the final."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie setzt {{c1::sich::sie (Sg.)}} auf das Sofa.",
+      "en": "She sits down on the sofa.",
+      "focus": "3. Person · Bewegung (hinsetzen)",
+      "explanation": "*sich setzen* = to sit down, a movement; so *auf* takes the Akkusativ (*auf das Sofa*). The reflexive for *sie* (singular, *setzt*) is **sich**. The position afterwards is not reflexive: *Sie sitzt auf dem Sofa.*",
+      "pattern": "sich setzen + auf + Akk.",
+      "mistake": {"wrong": "Sie sitzt sich auf das Sofa.", "why": "*sitzen* is not reflexive; it describes a position. The movement of sitting down is *sich setzen*: *Sie setzt sich auf das Sofa*."},
+      "examples": [
+        {"de": "Er setzt sich neben seine Frau.", "en": "He sits down next to his wife."},
+        {"de": "Die Gäste setzen sich an den Tisch.", "en": "The guests sit down at the table."}
+      ],
+      "words": [{"de": "sich setzen", "en": "to sit down"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Bitte setzt {{c1::euch::ihr}} auf eure Plätze.",
+      "en": "Please sit down in your seats.",
+      "focus": "Imperativ · *ihr*-Form",
+      "explanation": "The *ihr*-imperative is the verb form without the pronoun: *setzt!* The reflexive pronoun stays, and for *ihr* it is **euch**. *auf eure Plätze* is Akkusativ because it is the goal of the movement.",
+      "pattern": "Imperativ (ihr) + euch + …",
+      "mistake": {"wrong": "Bitte setzt sich auf eure Plätze.", "why": "*sich* is only for the third person and formal *Sie*. When you speak to several friends (*ihr*), the reflexive is *euch*."},
+      "examples": [
+        {"de": "Beeilt euch, der Film fängt an!", "en": "Hurry up, the film is starting!"},
+        {"de": "Kinder, wascht euch bitte die Hände!", "en": "Children, please wash your hands!"}
+      ],
+      "words": [],
+      "production_cue": "(you = ihr, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie erkälten {{c1::sich::sie (Pl.)}} im Winter oft.",
+      "en": "They often catch a cold in winter.",
+      "focus": "3. Person Plural · nur reflexives Verb",
+      "explanation": "*sich erkälten* (to catch a cold) is only used reflexively. The verb form *erkälten* shows that *sie* is plural here (*they*), and the reflexive for all third persons is **sich**.",
+      "pattern": "sie (Pl.) + erkälten + sich",
+      "mistake": {"wrong": "Sie erkälten im Winter oft.", "why": "*erkälten* cannot stand without the reflexive pronoun. *to catch a cold* is always *sich erkälten*."},
+      "examples": [
+        {"de": "Die Kinder erkälten sich im Kindergarten ständig.", "en": "The children keep catching colds at nursery."},
+        {"de": "Pass auf, dass du dich nicht erkältest.", "en": "Be careful not to catch a cold."}
+      ],
+      "words": [{"de": "sich erkälten", "en": "to catch a cold"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich erinnere {{c1::mich::ich}} gern an den Sommer.",
+      "en": "I like to think back to the summer.",
+      "focus": "Reflexivpronomen · *erinnern an*",
+      "explanation": "*sich erinnern an* + Akkusativ = to remember. The person who remembers is the subject, and the reflexive is Akkusativ: **mich**. *gern* adds that the memory is a happy one.",
+      "pattern": "sich erinnern + an + Akk.",
+      "mistake": {"wrong": "Ich erinnere gern an den Sommer.", "why": "Without the reflexive *erinnern* means *to remind* and needs an object (*Ich erinnere dich an den Termin*). *to remember* is *sich erinnern*."},
+      "examples": [
+        {"de": "Erinnerst du dich an unseren ersten Urlaub?", "en": "Do you remember our first holiday?"},
+        {"de": "Sie erinnert sich nicht an seinen Namen.", "en": "She doesn't remember his name."}
+      ],
+      "words": [{"de": "sich erinnern an (+ Akk.)", "en": "to remember"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er rasiert {{c1::sich::er}} jeden Morgen.",
+      "en": "He shaves every morning.",
+      "focus": "3. Person · Handlung am eigenen Körper",
+      "explanation": "*rasieren* can take any object (*Der Friseur rasiert den Kunden*). When the subject does it to himself, the object is the reflexive **sich**. English often leaves the pronoun out (*he shaves*); German cannot.",
+      "pattern": "Verb + sich (Objekt = Subjekt)",
+      "mistake": {"wrong": "Er rasiert jeden Morgen.", "why": "*rasieren* is transitive and needs an object. If he shaves himself, the object is *sich*."},
+      "examples": [
+        {"de": "Sie schminkt sich vor dem Spiegel.", "en": "She puts on her make-up in front of the mirror."},
+        {"de": "Ich dusche mich lieber abends.", "en": "I prefer to shower in the evening."}
+      ],
+      "words": [{"de": "sich rasieren", "en": "to shave"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir entspannen {{c1::uns::wir}} am Strand.",
+      "en": "We relax at the beach.",
+      "focus": "1. Person Plural",
+      "explanation": "*sich entspannen* = to relax. The subject is *wir*, so the reflexive pronoun is **uns**, which is the same in the Akkusativ and the Dativ.",
+      "pattern": "wir + Verb + uns",
+      "mistake": {"wrong": "Wir entspannen sich am Strand.", "why": "*sich* is only for the third person and *Sie*. With *wir* the reflexive pronoun is *uns*."},
+      "examples": [
+        {"de": "Nach der Arbeit entspanne ich mich beim Yoga.", "en": "After work I relax doing yoga."},
+        {"de": "Entspannt euch, wir haben noch Zeit.", "en": "Relax, we still have time."}
+      ],
+      "words": [{"de": "sich entspannen", "en": "to relax"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Hast du {{c1::dich::du}} schon entschieden?",
+      "en": "Have you decided yet?",
+      "focus": "Perfekt · Ja/Nein-Frage",
+      "explanation": "Perfekt of *sich entscheiden*: *haben* + *entschieden*. In the yes/no question *hast* comes first, then the subject *du*, then the reflexive **dich**; the Partizip goes to the end. Reflexive verbs always take *haben*.",
+      "pattern": "Hast + du + dich + … + Partizip II?",
+      "mistake": {"wrong": "Bist du dich schon entschieden?", "why": "A reflexive verb has an object (the pronoun), so the Perfekt is formed with *haben*, never with *sein*."},
+      "examples": [
+        {"de": "Habt ihr euch schon angemeldet?", "en": "Have you registered yet?"},
+        {"de": "Hat sie sich schon entschuldigt?", "en": "Has she apologised yet?"}
+      ],
+      "words": [{"de": "sich entscheiden (entschieden)", "en": "to decide"}],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich ziehe {{c1::mich::ich}} schnell an.",
+      "en": "I'm getting dressed quickly.",
+      "focus": "trennbares Verb · ohne zweites Objekt",
+      "explanation": "*sich anziehen* = to get dressed. *ziehe* is in position 2, the reflexive **mich** follows, and the prefix *an* goes to the end. With a piece of clothing as the object, the reflexive becomes Dativ: *Ich ziehe mir eine Jacke an.*",
+      "pattern": "ziehe + mich + … + an",
+      "mistake": {"wrong": "Ich ziehe mir schnell an.", "why": "*mir* is only correct when there is a second object (*mir die Jacke*). Without one, the reflexive is Akkusativ: *mich*."},
+      "examples": [
+        {"de": "Die Kinder ziehen sich allein an.", "en": "The children get dressed on their own."},
+        {"de": "Ich ziehe mich nach dem Sport um.", "en": "I get changed after sport."}
+      ],
+      "words": [{"de": "sich anziehen", "en": "to get dressed"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir freuen {{c1::uns::wir}} über das Geschenk.",
+      "en": "We're happy about the gift.",
+      "focus": "*freuen über* · Grund der Freude",
+      "explanation": "*sich freuen über* + Akkusativ = to be happy about something that has happened or that you have now. (*sich freuen auf* is for something in the future.) Subject *wir* → **uns**.",
+      "pattern": "sich freuen + über + Akk. (Gegenwart/Vergangenheit)",
+      "mistake": {"wrong": "Wir freuen sich über das Geschenk.", "why": "The reflexive pronoun must match the subject *wir*: *uns*. *sich* is the third-person form."},
+      "examples": [
+        {"de": "Sie freut sich über die gute Note.", "en": "She's happy about the good mark."},
+        {"de": "Ich habe mich sehr über deinen Brief gefreut.", "en": "I was very pleased with your letter."}
+      ],
+      "words": [{"de": "sich freuen über (+ Akk.)", "en": "to be happy about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie ärgert {{c1::sich::sie (Sg.)}} über die Verspätung.",
+      "en": "She's annoyed about the delay.",
+      "focus": "3. Person · *ärgern über*",
+      "explanation": "*sich ärgern über* + Akkusativ = to be annoyed about. The subject *sie* is singular (*ärgert*) → **sich**. Without the reflexive the verb means *to annoy someone*: *Die Verspätung ärgert sie.*",
+      "pattern": "sich ärgern + über + Akk.",
+      "mistake": {"wrong": "Sie ärgert sich von der Verspätung.", "why": "The fixed preposition of *sich ärgern* is *über* + Akkusativ: *über die Verspätung*."},
+      "examples": [
+        {"de": "Er ärgert sich über den Lärm.", "en": "He's annoyed about the noise."},
+        {"de": "Die Fahrgäste ärgern sich über die vollen Züge.", "en": "The passengers are annoyed about the crowded trains."}
+      ],
+      "words": [{"de": "die Verspätung (-en)", "en": "delay"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich bewerbe {{c1::mich::ich}} um eine Stelle.",
+      "en": "I'm applying for a position.",
+      "focus": "Reflexivpronomen · *bewerben um*",
+      "explanation": "*sich bewerben um* + Akkusativ = to apply for (a job, a place). The employer follows *bei* + Dativ. Subject *ich* → Akkusativ **mich**. The verb changes its vowel only for *du* and *er/sie/es*: *bewirbst, bewirbt*.",
+      "pattern": "sich bewerben + um + Akk. (+ bei + Dat.)",
+      "mistake": {"wrong": "Ich bewerbe mir um eine Stelle.", "why": "There is no other Akkusativ object, so the reflexive is Akkusativ: *mich*."},
+      "examples": [
+        {"de": "Sie bewirbt sich um einen Studienplatz.", "en": "She is applying for a university place."},
+        {"de": "Er hat sich um ein Stipendium beworben.", "en": "He applied for a scholarship."}
+      ],
+      "words": [{"de": "die Stelle (-n)", "en": "position, job"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Du musst {{c1::dich::du}} bald entscheiden.",
+      "en": "You have to decide soon.",
+      "focus": "Modalverb · Stellung im Mittelfeld",
+      "explanation": "With *müssen* the reflexive verb stands as an infinitive at the end: *entscheiden*. The pronoun **dich** stays in the Mittelfeld directly after *musst*, before the adverb *bald*.",
+      "pattern": "musst + dich + bald + Infinitiv",
+      "mistake": {"wrong": "Du musst bald entscheiden dich.", "why": "The reflexive pronoun never follows the infinitive at the end of the clause. It stays in the Mittelfeld: *Du musst dich bald entscheiden.*"},
+      "examples": [
+        {"de": "Ich muss mich noch umziehen.", "en": "I still have to get changed."},
+        {"de": "Wir wollen uns nächste Woche treffen.", "en": "We want to meet next week."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er beschwert {{c1::sich::er}} über das Essen.",
+      "en": "He's complaining about the food.",
+      "focus": "3. Person · *beschweren über*",
+      "explanation": "*sich beschweren über* + Akkusativ = to complain about. The person you complain to follows *bei* + Dativ: *beim Kellner*. Subject *er* → **sich**.",
+      "pattern": "sich beschweren + über + Akk. (+ bei + Dat.)",
+      "mistake": {"wrong": "Er beschwert über das Essen.", "why": "*beschweren* is used only with the reflexive pronoun in this meaning: *sich beschweren*."},
+      "examples": [
+        {"de": "Die Mieter beschweren sich beim Vermieter.", "en": "The tenants complain to the landlord."},
+        {"de": "Wir haben uns über die laute Musik beschwert.", "en": "We complained about the loud music."}
+      ],
+      "words": [{"de": "sich beschweren über (+ Akk.)", "en": "to complain about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir verlieben {{c1::uns::wir}} schnell.",
+      "en": "We fall in love quickly.",
+      "focus": "nur reflexives Verb · Gefühl",
+      "explanation": "*sich verlieben (in + Akk.)* = to fall in love (with). It is always reflexive: *wir* → **uns**. The person you fall in love with follows *in* + Akkusativ: *sich in jemanden verlieben*.",
+      "pattern": "sich verlieben (+ in + Akk.)",
+      "mistake": {"wrong": "Wir verlieben schnell.", "why": "*verlieben* does not exist without the reflexive pronoun: *Wir verlieben uns.*"},
+      "examples": [
+        {"de": "Er hat sich in seine Kollegin verliebt.", "en": "He fell in love with his colleague."},
+        {"de": "Ich habe mich sofort in die Stadt verliebt.", "en": "I fell in love with the city at once."}
+      ],
+      "words": [{"de": "sich verlieben in (+ Akk.)", "en": "to fall in love with"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich bedanke {{c1::mich::ich}} bei dir.",
+      "en": "I'd like to thank you.",
+      "focus": "Reflexivpronomen · *bedanken bei*",
+      "explanation": "*sich bedanken bei* + Dativ = to thank someone; it is a little more formal than *danken*. The reflexive is Akkusativ **mich**; the person thanked follows *bei*, and the reason follows *für*.",
+      "pattern": "sich bedanken + bei + Dat. (+ für + Akk.)",
+      "mistake": {"wrong": "Ich bedanke mich dir.", "why": "The person thanked needs the preposition *bei*: *bei dir*. Only the non-reflexive *danken* takes the Dativ directly: *Ich danke dir.*"},
+      "examples": [
+        {"de": "Wir bedanken uns herzlich für die Einladung.", "en": "Thank you very much for the invitation."},
+        {"de": "Hast du dich bei Oma für das Geschenk bedankt?", "en": "Did you thank Grandma for the present?"}
+      ],
+      "words": [{"de": "sich bedanken bei (+ Dat.)", "en": "to thank (someone)"}],
+      "production_cue": "(informal du · sich bedanken)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie unterhält {{c1::sich::sie (Sg.)}} mit ihrer Mutter.",
+      "en": "She's chatting with her mother.",
+      "focus": "3. Person · *unterhalten mit*",
+      "explanation": "*sich unterhalten mit* + Dativ = to chat, to have a conversation with. *unterhalten* is not separable, and it changes the vowel in the third person singular: *sie unterhält*. The reflexive is **sich**.",
+      "pattern": "sich unterhalten + mit + Dat. (+ über + Akk.)",
+      "mistake": {"wrong": "Sie unterhält mit ihrer Mutter.", "why": "In the meaning *to chat*, *unterhalten* needs the reflexive pronoun: *sie unterhält sich mit …*. Note also that *unter-* is inseparable here (never *hält sich … unter*), and the Perfekt is *hat sich unterhalten* (no *ge-*)."},
+      "examples": [
+        {"de": "Wir haben uns lange über Politik unterhalten.", "en": "We talked about politics for a long time."},
+        {"de": "Mit wem unterhältst du dich da?", "en": "Who are you talking to there?"}
+      ],
+      "words": [{"de": "sich unterhalten (unterhält)", "en": "to chat, to talk"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich freue {{c1::mich::ich}} schon auf den Sommer.",
+      "en": "I'm already looking forward to the summer.",
+      "focus": "*freuen auf* · mit *schon*",
+      "explanation": "*schon* + *sich freuen auf* = already looking forward to something that has not happened yet. The thing follows *auf* + Akkusativ (*den Sommer*), and the reflexive for *ich* is **mich**.",
+      "pattern": "freue + mich + schon + auf + Akk.",
+      "mistake": {"wrong": "Ich freue schon auf den Sommer.", "why": "*freuen* in this meaning always needs the reflexive pronoun: *Ich freue mich schon auf den Sommer.*"},
+      "examples": [
+        {"de": "Die Kinder freuen sich schon auf Weihnachten.", "en": "The children are already looking forward to Christmas."},
+        {"de": "Ich freue mich schon darauf, dich zu sehen.", "en": "I'm already looking forward to seeing you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir treffen {{c1::uns::wir}} jeden Dienstag im Sprachkurs.",
+      "en": "We meet every Tuesday at the language course.",
+      "focus": "gegenseitig · regelmäßiges Treffen",
+      "explanation": "**uns** here means *each other*: we meet one another. A reciprocal pronoun looks exactly like a reflexive pronoun, so with *wir* it is *uns*. The time *jeden Dienstag* comes before the place *im Sprachkurs*.",
+      "pattern": "wir + treffen + uns + Zeit + Ort",
+      "mistake": {"wrong": "Wir treffen sich jeden Dienstag im Sprachkurs.", "why": "Even when the meaning is *each other*, the pronoun follows the person of the subject: *wir → uns*."},
+      "examples": [
+        {"de": "Meine Eltern kennen sich seit der Schule.", "en": "My parents have known each other since school."},
+        {"de": "Wir sehen uns morgen!", "en": "See you tomorrow!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er interessiert {{c1::sich::er}} für Politik.",
+      "en": "He is interested in politics.",
+      "focus": "Präposition des Verbs · Interesse",
+      "explanation": "*sich interessieren für* + Akkusativ; the reflexive **sich** covers *er, sie, es*, plural *sie* and *Sie*. The thing you are interested in follows *für*; *Politik* needs no article here.",
+      "pattern": "sich interessieren + für + Akk.",
+      "mistake": {"wrong": "Er interessiert sich an Politik.", "why": "*an* + Dativ belongs to the adjective: *Er ist an Politik interessiert.* The reflexive verb takes *für*."},
+      "examples": [
+        {"de": "Viele Jugendliche interessieren sich für Umweltschutz.", "en": "Many young people are interested in environmental protection."},
+        {"de": "Wofür interessierst du dich?", "en": "What are you interested in?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Setz {{c1::dich::du}} bitte.",
+      "en": "Please sit down.",
+      "focus": "Imperativ · *du*-Form",
+      "explanation": "The *du*-imperative has no subject pronoun (*setz!*), but the reflexive pronoun stays: **dich**. Formal: *Setzen Sie sich bitte.* To several friends: *Setzt euch bitte.*",
+      "pattern": "Imperativ (du) + dich",
+      "mistake": {"wrong": "Setz sich bitte.", "why": "*sich* is the form for the third person and *Sie*. The *du*-imperative needs *dich*."},
+      "examples": [
+        {"de": "Beeil dich, der Bus kommt!", "en": "Hurry up, the bus is coming!"},
+        {"de": "Setzen Sie sich bitte, Frau Weber.", "en": "Please take a seat, Ms Weber."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ich kann {{c1::mich::ich}} nicht daran erinnern.",
+      "en": "I can't remember that.",
+      "focus": "Modalverb · *erinnern an* mit *daran*",
+      "explanation": "*sich erinnern an* + Akkusativ; *daran* replaces *an* + a thing. With the modal *kann* the reflexive **mich** comes directly after the verb, then *nicht daran*, and *erinnern* goes to the end.",
+      "pattern": "kann + mich + nicht + daran + Infinitiv",
+      "mistake": {"wrong": "Ich kann nicht mich daran erinnern.", "why": "The reflexive pronoun stands at the start of the Mittelfeld, before *nicht*: *Ich kann mich nicht daran erinnern.*"},
+      "examples": [
+        {"de": "Ich kann mich an seinen Namen nicht erinnern.", "en": "I can't remember his name."},
+        {"de": "Erinnerst du dich noch daran?", "en": "Do you still remember that?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Sie hat {{c1::sich::sie (Sg.)}} sehr geärgert.",
+      "en": "She was very annoyed.",
+      "focus": "Perfekt · Hilfsverb und Stellung",
+      "explanation": "Reflexive verbs always form the Perfekt with **haben**: *sie hat sich geärgert*. The reflexive **sich** stands right after *hat*, and the Partizip *geärgert* goes to the end.",
+      "pattern": "hat + sich + … + Partizip II",
+      "mistake": {"wrong": "Sie ist sich sehr geärgert.", "why": "The reflexive pronoun is an object, and verbs with an object form the Perfekt with *haben*, not *sein*."},
+      "examples": [
+        {"de": "Wir haben uns gestern im Wald verlaufen.", "en": "We got lost in the forest yesterday."},
+        {"de": "Er hat sich beim Sport verletzt.", "en": "He hurt himself doing sport."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir müssen {{c1::uns::wir}} beeilen.",
+      "en": "We have to hurry.",
+      "focus": "Modalverb · Satzklammer",
+      "explanation": "*müssen* is in position 2 and the infinitive *beeilen* closes the Satzklammer at the end. The reflexive **uns** goes into the Mittelfeld, directly after the finite verb.",
+      "pattern": "wir + müssen + uns + Infinitiv",
+      "mistake": {"wrong": "Wir müssen beeilen uns.", "why": "The infinitive stands at the very end of the clause. The reflexive pronoun belongs in the Mittelfeld: *Wir müssen uns beeilen.*"},
+      "examples": [
+        {"de": "Ihr dürft euch hier nicht hinsetzen.", "en": "You're not allowed to sit down here."},
+        {"de": "Ich möchte mich kurz vorstellen.", "en": "I'd like to introduce myself briefly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich wasche {{c1::mir::ich}} die Hände.",
+      "en": "I'm washing my hands.",
+      "focus": "Reflexivpronomen · mit Akkusativobjekt",
+      "explanation": "*die Hände* is already the Akkusativ object of *waschen*. When a body part is the Akkusativ object, the reflexive moves to the Dativ: **mir**. German uses *mir die Hände* where English says *my hands*. Without the body part: *Ich wasche mich.*",
+      "pattern": "Verb + Dat.-Reflexiv + Akk.-Objekt (Körperteil)",
+      "mistake": {"wrong": "Ich wasche mich die Hände.", "why": "A clause cannot have two Akkusativ objects here. Because *die Hände* is the Akkusativ object, the reflexive must be Dativ: *mir*."},
+      "examples": [
+        {"de": "Putz dir bitte die Zähne!", "en": "Please brush your teeth!"},
+        {"de": "Ich föhne mir schnell die Haare.", "en": "I'll quickly blow-dry my hair."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Bitte entschuldigen Sie {{c1::sich::Sie}} nicht dauernd.",
+      "en": "Please don't keep apologising.",
+      "focus": "formelle Anrede · Imperativ",
+      "explanation": "The formal *Sie* is capitalised, but its reflexive pronoun is always lowercase **sich**. In the *Sie*-imperative the pronoun *Sie* follows the verb, and the reflexive comes after it: *entschuldigen Sie sich*.",
+      "pattern": "Verb + Sie + sich (Imperativ, formell)",
+      "mistake": {"wrong": "Bitte entschuldigen Sie Ihnen nicht dauernd.", "why": "*Ihnen* is the normal Dativ of *Sie*. A pronoun that refers back to the subject *Sie* is always the reflexive *sich*."},
+      "examples": [
+        {"de": "Melden Sie sich bitte an der Rezeption.", "en": "Please report to reception."},
+        {"de": "Haben Sie sich gut erholt?", "en": "Did you have a good rest?"}
+      ],
+      "words": [{"de": "sich entschuldigen", "en": "to apologise"}],
+      "production_cue": "(formal Sie, imperative)",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Er unterhält {{c1::sich::er}} gern mit Nachbarn.",
+      "en": "He enjoys chatting with neighbours.",
+      "focus": "Bedeutung mit und ohne Reflexivpronomen",
+      "explanation": "*sich unterhalten mit* + Dativ = to chat with. *mit Nachbarn* is a Dativ plural without an article (the plural *Nachbarn* already ends in *-n*). Subject *er* → **sich**.",
+      "pattern": "sich unterhalten + gern + mit + Dat.",
+      "mistake": {"wrong": "Er unterhält gern mit Nachbarn.", "why": "Without *sich*, *unterhalten* means *to entertain* or *to support* (*eine Familie unterhalten*). *to chat* is *sich unterhalten*."},
+      "examples": [
+        {"de": "Ich unterhalte mich oft mit meiner Oma.", "en": "I often chat with my grandma."},
+        {"de": "Worüber habt ihr euch unterhalten?", "en": "What did you talk about?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Wie fühlst du {{c1::dich::du}} heute?",
+      "en": "How do you feel today?",
+      "focus": "*fühlen* + Adjektiv · W-Frage",
+      "explanation": "*sich fühlen* + adjective or adverb = to feel (well, tired, ill). In the W-question *fühlst* is in position 2, then *du*, then **dich**. A typical answer: *Ich fühle mich gut.*",
+      "pattern": "sich fühlen + Adjektiv/wie",
+      "mistake": {"wrong": "Wie fühlst du heute?", "why": "In the meaning *to feel well/ill*, *fühlen* is reflexive. Without *sich* it needs an object: *Ich fühle die Kälte.*"},
+      "examples": [
+        {"de": "Ich fühle mich heute viel besser.", "en": "I feel much better today."},
+        {"de": "Fühlt ihr euch wohl in der neuen Wohnung?", "en": "Do you feel at home in the new flat?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich stelle {{c1::mir::ich}} das anders vor.",
+      "en": "I imagine that differently.",
+      "focus": "Reflexivpronomen · mit Akkusativobjekt *das*",
+      "explanation": "*sich etwas vorstellen* = to imagine something. *das* is the Akkusativ object, so the reflexive must be Dativ: **mir**. Compare *sich vorstellen* without an object = to introduce oneself: *Ich stelle mich vor.*",
+      "pattern": "sich (Dat.) + etwas (Akk.) + vorstellen",
+      "mistake": {"wrong": "Ich stelle mich das anders vor.", "why": "With the Akkusativ object *das*, the reflexive pronoun is Dativ. *mich* would mean *I introduce myself*."},
+      "examples": [
+        {"de": "Kannst du dir das vorstellen?", "en": "Can you imagine that?"},
+        {"de": "Ich wünsche mir ein ruhiges Wochenende.", "en": "I'd like a quiet weekend."}
+      ],
+      "words": [{"de": "sich (Dat.) etwas vorstellen", "en": "to imagine something"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie hat {{c1::sich::sie (Sg.)}} bei der Firma beworben.",
+      "en": "She applied to the company.",
+      "focus": "Perfekt · *bewerben bei*",
+      "explanation": "*sich bewerben bei* + Dativ names the employer; *um* + Akkusativ names the job. The Perfekt is formed with *haben*, and the Partizip of *bewerben* is irregular: *beworben*. The reflexive **sich** follows *hat*.",
+      "pattern": "hat + sich + bei + Dat. + beworben",
+      "mistake": {"wrong": "Sie hat bei der Firma beworben.", "why": "*bewerben* is used with the reflexive pronoun: *sich bewerben*. It cannot be left out in the Perfekt either."},
+      "examples": [
+        {"de": "Ich habe mich bei drei Unis beworben.", "en": "I applied to three universities."},
+        {"de": "Er bewirbt sich bei einer Bank in Zürich.", "en": "He is applying to a bank in Zurich."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Konzentriert {{c1::euch::ihr}} auf die Aufgabe.",
+      "en": "Concentrate on the task.",
+      "focus": "Imperativ · *ihr*-Form · *konzentrieren auf*",
+      "explanation": "*ihr*-imperative: *konzentriert!* (no subject pronoun); the reflexive for *ihr* is **euch**. *sich konzentrieren auf* + Akkusativ = to concentrate on.",
+      "pattern": "Imperativ (ihr) + euch + auf + Akk.",
+      "mistake": {"wrong": "Konzentriert euch an die Aufgabe.", "why": "The fixed preposition of *sich konzentrieren* is *auf* + Akkusativ: *auf die Aufgabe*."},
+      "examples": [
+        {"de": "Ich kann mich heute nicht konzentrieren.", "en": "I can't concentrate today."},
+        {"de": "Konzentrieren Sie sich auf das Wichtigste.", "en": "Concentrate on the most important things."}
+      ],
+      "words": [{"de": "sich konzentrieren auf (+ Akk.)", "en": "to concentrate on"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Was wünschst du {{c1::dir::du}} zum Geburtstag?",
+      "en": "What would you like for your birthday?",
+      "focus": "Reflexivpronomen · mit Akkusativobjekt *was*",
+      "explanation": "*sich etwas wünschen* = to wish for / want something. The question word *was* is the Akkusativ object, so the reflexive pronoun is Dativ: *du* → **dir**. Answer: *Ich wünsche mir ein Fahrrad.*",
+      "pattern": "sich (Dat.) + etwas (Akk.) + wünschen",
+      "mistake": {"wrong": "Was wünschst du dich zum Geburtstag?", "why": "*was* is already the Akkusativ object. A second Akkusativ is not possible, so the reflexive must be Dativ: *dir*."},
+      "examples": [
+        {"de": "Ich wünsche mir mehr Zeit für meine Familie.", "en": "I wish I had more time for my family."},
+        {"de": "Was hast du dir zu Weihnachten gewünscht?", "en": "What did you ask for at Christmas?"}
+      ],
+      "words": [{"de": "sich (Dat.) etwas wünschen", "en": "to wish for, to want"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich kann {{c1::mir::ich}} seinen Namen nicht merken.",
+      "en": "I can't remember his name.",
+      "focus": "Reflexivpronomen · Verb mit Dativ-Reflexiv",
+      "explanation": "*sich etwas merken* = to keep something in your memory. *seinen Namen* is the Akkusativ object, so the reflexive is Dativ: *ich* → **mir**. *sich merken* is about storing information; *sich erinnern an* is about recalling the past.",
+      "pattern": "sich (Dat.) + etwas (Akk.) + merken",
+      "mistake": {"wrong": "Ich kann mich seinen Namen nicht merken.", "why": "*seinen Namen* is the Akkusativ object, so the reflexive must be Dativ: *mir*."},
+      "examples": [
+        {"de": "Merk dir bitte die Adresse.", "en": "Please make a note of the address."},
+        {"de": "Er merkt sich jede Telefonnummer.", "en": "He remembers every phone number."}
+      ],
+      "words": [{"de": "sich (Dat.) etwas merken", "en": "to remember, to make a mental note of"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Gestern hat {{c1::sich::er}} mein Bruder beim Fußball verletzt.",
+      "en": "Yesterday my brother hurt himself playing football.",
+      "focus": "Stellung · Inversion mit Nomen als Subjekt",
+      "explanation": "*Gestern* is in the Vorfeld, so *hat* is in position 2 and the subject follows. When the subject is a noun (*mein Bruder*), the reflexive **sich** usually comes before it, directly after the verb. With a pronoun subject the order is *Gestern hat er sich verletzt.*",
+      "pattern": "Vorfeld + hat + sich + Nomen-Subjekt + … + Partizip II",
+      "mistake": {"wrong": "Gestern hat mein Bruder ihn beim Fußball verletzt.", "why": "*ihn* would mean that the brother hurt another man. If he hurt himself, the pronoun must be the reflexive *sich*."},
+      "examples": [
+        {"de": "Am Ende hat sich der Kunde für das teure Modell entschieden.", "en": "In the end the customer decided on the expensive model."},
+        {"de": "Im Sommer haben sich unsere Nachbarn ein Boot gekauft.", "en": "In the summer our neighbours bought themselves a boat."}
+      ],
+      "words": [{"de": "sich verletzen", "en": "to hurt oneself, to get injured"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich bin froh, dass ihr {{c1::euch::ihr}} so gut versteht.",
+      "en": "I'm glad that you get on so well.",
+      "focus": "Nebensatz · gegenseitige Handlung",
+      "explanation": "In the *dass*-clause the finite verb *versteht* goes to the end. The reflexive **euch** stands directly after the subject *ihr*. *sich verstehen* here means *to get on with each other*.",
+      "pattern": "…, dass + Subjekt + Reflexivpronomen + … + Verb",
+      "mistake": {"wrong": "Ich bin froh, dass ihr versteht euch so gut.", "why": "In a Nebensatz the finite verb goes to the end. The reflexive pronoun stays in the Mittelfeld, after the subject: *dass ihr euch so gut versteht*."},
+      "examples": [
+        {"de": "Ich weiß, dass sie sich oft streiten.", "en": "I know that they often argue."},
+        {"de": "Er ist müde, weil er sich gestern nicht ausgeruht hat.", "en": "He's tired because he didn't rest yesterday."}
+      ],
+      "words": [{"de": "sich verstehen (mit + Dat.)", "en": "to get on (with)"}],
+      "production_cue": "(you = ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Darf ich {{c1::mich::ich}} kurz vorstellen?",
+      "en": "May I briefly introduce myself?",
+      "focus": "trennbares Verb · ohne zweites Objekt",
+      "explanation": "*sich vorstellen* without another object = to introduce yourself → Akkusativ: **mich**. The modal *darf* comes first in the question, *vorstellen* goes to the end. With an Akkusativ object it changes meaning and case: *sich etwas vorstellen* (Dativ) = to imagine.",
+      "pattern": "Darf + ich + mich + … + vorstellen?",
+      "mistake": {"wrong": "Darf ich mir kurz vorstellen?", "why": "Without another object, *sich vorstellen* means *to introduce oneself* and takes the Akkusativ *mich*. *mir* is only used with an object (*Ich stelle mir das vor*)."},
+      "examples": [
+        {"de": "Stellen Sie sich bitte kurz vor.", "en": "Please introduce yourself briefly."},
+        {"de": "Die neue Kollegin hat sich gestern vorgestellt.", "en": "The new colleague introduced herself yesterday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wer kümmert {{c1::sich::wer}} um den Hund?",
+      "en": "Who is looking after the dog?",
+      "focus": "Fragewort als Subjekt · *kümmern um*",
+      "explanation": "*wer* is the subject and counts as third person singular (*kümmert*), so the reflexive is **sich**. *sich kümmern um* + Akkusativ = to take care of, to look after.",
+      "pattern": "Wer + Verb (3. Sg.) + sich + um + Akk.?",
+      "mistake": {"wrong": "Wer kümmert sich für den Hund?", "why": "The fixed preposition of *sich kümmern* is *um* + Akkusativ, not *für*: *sich um den Hund kümmern*."},
+      "examples": [
+        {"de": "Meine Schwester kümmert sich um unsere Eltern.", "en": "My sister looks after our parents."},
+        {"de": "Kümmerst du dich um die Getränke?", "en": "Will you take care of the drinks?"}
+      ],
+      "words": [{"de": "sich kümmern um (+ Akk.)", "en": "to look after, to take care of"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Zieh {{c1::dir::du}} eine warme Jacke an!",
+      "en": "Put on a warm jacket!",
+      "focus": "Imperativ · mit Kleidungsstück als Objekt",
+      "explanation": "*eine warme Jacke* is the Akkusativ object of *anziehen*, so the reflexive must be Dativ: *du* → **dir**. Without the jacket it would be Akkusativ: *Zieh dich an!* The prefix *an* goes to the end of the imperative.",
+      "pattern": "Zieh + dir + Akk.-Objekt + an!",
+      "mistake": {"wrong": "Zieh dich eine warme Jacke an!", "why": "*eine warme Jacke* is already Akkusativ. With a piece of clothing as the object, the reflexive is Dativ: *dir*."},
+      "examples": [
+        {"de": "Ich ziehe mir schnell andere Schuhe an.", "en": "I'll quickly put on other shoes."},
+        {"de": "Setz dir eine Mütze auf, es ist kalt.", "en": "Put a hat on, it's cold."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Wir haben {{c1::uns::wir}} noch nicht an das Klima gewöhnt.",
+      "en": "We haven't got used to the climate yet.",
+      "focus": "Perfekt · *gewöhnen an* · Verneinung",
+      "explanation": "*sich gewöhnen an* + Akkusativ = to get used to. In the Perfekt: *haben* + *gewöhnt*, and the reflexive **uns** comes directly after *haben*, before *noch nicht*.",
+      "pattern": "haben + uns + nicht + an + Akk. + gewöhnt",
+      "mistake": {"wrong": "Wir haben noch nicht uns an das Klima gewöhnt.", "why": "The reflexive pronoun stands at the start of the Mittelfeld, before the negation: *Wir haben uns noch nicht …*"},
+      "examples": [
+        {"de": "Ich habe mich an das frühe Aufstehen gewöhnt.", "en": "I've got used to getting up early."},
+        {"de": "Hast du dich schon an die neue Arbeit gewöhnt?", "en": "Have you got used to the new job yet?"}
+      ],
+      "words": [{"de": "sich gewöhnen an (+ Akk.)", "en": "to get used to"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Mein kleiner Bruder ärgert {{c1::mich::ich}} ständig.",
+      "en": "My little brother keeps annoying me.",
+      "focus": "Objektpronomen · Subjekt ist eine andere Person",
+      "explanation": "Here the verb is not reflexive: the subject is *mein Bruder*, and the object is a different person, *ich*. So you use the normal Akkusativ personal pronoun **mich**. For *ich* the personal and the reflexive pronoun look the same; for the third person they differ: *Er ärgert ihn* (another person) vs. *Er ärgert sich* (himself).",
+      "pattern": "Subjekt + ärgern + Akk.-Personalpronomen",
+      "mistake": {"wrong": "Mein kleiner Bruder ärgert mir ständig.", "why": "*ärgern* takes an Akkusativ object, so the pronoun is *mich*. *mir* is Dativ; it is not correct here, neither as a personal nor as a reflexive pronoun."},
+      "examples": [
+        {"de": "Der Lärm stört mich beim Lernen.", "en": "The noise disturbs me while I'm studying."},
+        {"de": "Meine Kollegen unterstützen mich sehr.", "en": "My colleagues support me a lot."}
+      ],
+      "words": [{"de": "ärgern", "en": "to annoy (someone)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Sie hat {{c1::sich::sie (Sg.)}} ein neues Handy gekauft.",
+      "en": "She bought herself a new phone.",
+      "focus": "Dativ-Reflexiv · für die eigene Person",
+      "explanation": "*ein neues Handy* is the Akkusativ object, and the reflexive is a Dativ meaning *for herself*. In the third person the Dativ reflexive is also **sich**, so the form does not change. This Dativ is optional: *Sie hat ein neues Handy gekauft* is also correct.",
+      "pattern": "hat + sich (Dat.) + Akk.-Objekt + Partizip II",
+      "mistake": {"wrong": "Sie hat ihr ein neues Handy gekauft.", "why": "*ihr* refers to another woman (she bought a phone for someone else). If she bought it for herself, the pronoun is the reflexive *sich*."},
+      "examples": [
+        {"de": "Ich habe mir endlich ein Fahrrad gekauft.", "en": "I've finally bought myself a bike."},
+        {"de": "Nimm dir noch ein Stück Kuchen.", "en": "Have another piece of cake."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Melden Sie {{c1::sich::Sie}} bitte bis Freitag an.",
+      "en": "Please register by Friday.",
+      "focus": "formeller Imperativ · trennbares Verb",
+      "explanation": "*sich anmelden* = to register, to sign up. In the *Sie*-imperative the verb comes first, then *Sie*, then the reflexive **sich** (lowercase); the prefix *an* goes to the end.",
+      "pattern": "Verb + Sie + sich + … + Präfix",
+      "mistake": {"wrong": "Melden Sie bitte bis Freitag an.", "why": "*anmelden* in the sense *to register yourself* needs the reflexive pronoun: *Melden Sie sich an.*"},
+      "examples": [
+        {"de": "Ich habe mich für den Kurs angemeldet.", "en": "I've signed up for the course."},
+        {"de": "Wo kann man sich für die Prüfung anmelden?", "en": "Where can you register for the exam?"}
+      ],
+      "words": [{"de": "sich anmelden", "en": "to register, to sign up"}],
+      "production_cue": "(formal Sie, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich habe {{c1::mich::ich}} für Samstag mit Lisa verabredet.",
+      "en": "I've arranged to meet Lisa on Saturday.",
+      "focus": "Perfekt · *verabreden mit*",
+      "explanation": "*sich verabreden mit* + Dativ = to arrange to meet someone. There is no other Akkusativ object, so the reflexive is Akkusativ: **mich**. The Perfekt uses *haben*, and *verabredet* has no *ge-* because *ver-* is an inseparable prefix.",
+      "pattern": "habe + mich + … + mit + Dat. + verabredet",
+      "mistake": {"wrong": "Ich habe mir für Samstag mit Lisa verabredet.", "why": "*mir* (Dativ) is only used with a second object. *sich verabreden* has none, so the reflexive is *mich*."},
+      "examples": [
+        {"de": "Wir haben uns zum Mittagessen verabredet.", "en": "We've arranged to meet for lunch."},
+        {"de": "Sie hat sich mit ihrer Freundin im Café verabredet.", "en": "She has arranged to meet her friend at the café."}
+      ],
+      "words": [{"de": "sich verabreden (mit + Dat.)", "en": "to arrange to meet"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the case of the reflexive pronoun.",
+      "prompt": "When is the reflexive pronoun Akkusativ and when is it Dativ?",
+      "answer": "**Akkusativ** when it is the only object (*Ich wasche mich.*). **Dativ** when the clause has another Akkusativ object, often a body part, clothing or *das/etwas* (*Ich wasche mir die Hände. Ich stelle mir das vor.*).",
+      "explanation": "A clause has at most one Akkusativ object here, so the second object pushes the reflexive into the Dativ. The difference is only visible with *ich* (*mich/mir*) and *du* (*dich/dir*); all other persons have one form.",
+      "examples": [
+        {"de": "Ich kämme mich.", "en": "I comb my hair."},
+        {"de": "Ich kämme mir die Haare.", "en": "I comb my hair."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the forms.",
+      "prompt": "For which persons is the reflexive pronoun *sich*, and is it ever written with a capital letter?",
+      "answer": "**sich** is used for *er, sie, es*, plural *sie* and formal *Sie*, in the Akkusativ and the Dativ. It is always written in **lowercase**, even after formal *Sie* (*Setzen Sie sich*).",
+      "explanation": "*ich, du, wir, ihr* use their own forms: *mich/mir, dich/dir, uns, euch*. Question words used as subjects (*wer*) and nouns (*die Kinder*) are third person, so they also take *sich*.",
+      "examples": [
+        {"de": "Haben Sie sich schon angemeldet?", "en": "Have you registered yet?"},
+        {"de": "Die Kinder haben sich sehr gefreut.", "en": "The children were very happy."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "Where does the reflexive pronoun stand in main clauses, after inversion and in subordinate clauses?",
+      "answer": "Main clause: directly after the finite verb (*Ich freue mich*). Inversion: after a pronoun subject (*Morgen treffen wir uns*), usually before a noun subject (*Morgen trifft sich das Team*). Nebensatz: after the subject (*…, weil sie sich ärgert*). It is never at the end after an infinitive or Partizip.",
+      "explanation": "The reflexive pronoun is a short, unstressed word and moves to the front of the Mittelfeld. Only a pronoun subject comes before it; a noun subject usually follows it. *nicht* comes after it: *Ich kann mich nicht erinnern.*",
+      "examples": [
+        {"de": "Morgen trifft sich das ganze Team im Büro.", "en": "Tomorrow the whole team is meeting in the office."},
+        {"de": "Ich glaube, dass er sich geirrt hat.", "en": "I think he was mistaken."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What changes when a verb is used with or without the reflexive pronoun, e.g. *ärgern / sich ärgern*, *erinnern / sich erinnern*?",
+      "answer": "Without it, the action goes to **another person**: *Er ärgert mich* (he annoys me), *Ich erinnere dich an den Termin* (I remind you). With it, the subject is **affected itself**: *Ich ärgere mich* (I'm annoyed), *Ich erinnere mich* (I remember).",
+      "explanation": "Some verbs exist only as reflexive verbs (*sich beeilen, sich erkälten, sich verlieben, sich bedanken*). Others can be used both ways and change meaning. In the plural, *sich/uns/euch* can also mean *each other* (*Wir treffen uns*).",
+      "examples": [
+        {"de": "Die Werbung ärgert mich.", "en": "The advert annoys me."},
+        {"de": "Ich ärgere mich über die Werbung.", "en": "I'm annoyed about the advert."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct reflexive pronoun.",
+      "prompt": "Ich putze ___ jeden Abend die Zähne.",
+      "options": ["mich", "mir", "sich"],
+      "correct": "mir",
+      "answer": "Ich putze mir jeden Abend die Zähne.",
+      "explanation": "*die Zähne* is the Akkusativ object, so the reflexive must be Dativ: *mir*. *mich* would be a second Akkusativ, and *sich* is for the third person only."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct reflexive pronoun.",
+      "prompt": "Habt ihr ___ im Urlaub gut erholt?",
+      "options": ["euch", "sich", "uns"],
+      "correct": "euch",
+      "answer": "Habt ihr euch im Urlaub gut erholt?",
+      "explanation": "The subject is *ihr* (*habt*), so the reflexive is *euch*. *sich* would need a third-person subject, and *uns* belongs to *wir*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Seit wann interessiert Paul ___ für Musik?",
+      "options": ["ihn", "sich", "ihm"],
+      "correct": "sich",
+      "answer": "Seit wann interessiert sich Paul für Musik?",
+      "explanation": "The pronoun refers back to the subject *Paul* → reflexive *sich*. It comes before the noun subject after inversion. *ihn* and *ihm* would refer to another person."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Letzte Woche bin ich mich erkältet.",
+      "answer": "Letzte Woche habe ich mich erkältet.",
+      "explanation": "Reflexive verbs form the Perfekt with *haben*, never with *sein*: *ich habe mich erkältet*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich ziehe mich den Mantel an.",
+      "answer": "Ich ziehe mir den Mantel an.",
+      "explanation": "*den Mantel* is the Akkusativ object, so the reflexive must be Dativ: *mir*. Without the coat: *Ich ziehe mich an.*"
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir müssen sich jetzt beeilen.",
+      "answer": "Wir müssen uns jetzt beeilen.",
+      "explanation": "The reflexive pronoun agrees with the subject *wir*: *uns*. *sich* is only for the third person and *Sie*."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Change the subject to *ich*.",
+      "prompt": "Er freut sich auf die Reise.",
+      "answer": "Ich freue mich auf die Reise.",
+      "explanation": "Both the verb and the reflexive pronoun change with the person: *er freut sich → ich freue mich*. The preposition phrase *auf die Reise* stays the same."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Sie verliebt sich in einen Kollegen.",
+      "answer": "Sie hat sich in einen Kollegen verliebt.",
+      "explanation": "Perfekt with *haben*; *hat* is in position 2 and the reflexive *sich* follows it. *verliebt* has no *ge-* because *ver-* is an inseparable prefix, and it goes to the end."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Make a *du*-imperative.",
+      "prompt": "Du entspannst dich ein bisschen.",
+      "answer": "Entspann dich ein bisschen!",
+      "explanation": "The *du*-imperative drops the subject *du* and the ending *-st*: *entspannst → entspann!* The reflexive pronoun *dich* stays directly after the verb."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich bin gut gelaunt,",
+      "prompt": "ich bin gut gelaunt, / weil / ich / mich / auf die Ferien / freue",
+      "answer": "Ich bin gut gelaunt, weil ich mich auf die Ferien freue.",
+      "explanation": "In the *weil*-clause the finite verb *freue* goes to the end. The reflexive *mich* stands right after the subject *ich*, before the prepositional phrase *auf die Ferien*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Heute",
+      "prompt": "hat / sich / heute / meine Chefin / krankgemeldet",
+      "answer": "Heute hat sich meine Chefin krankgemeldet.",
+      "explanation": "*Heute* is in the Vorfeld, *hat* in position 2, and the Partizip *krankgemeldet* (from *sich krankmelden*, written as one word) at the end. With a noun subject the reflexive usually comes first: *hat sich meine Chefin*. *Heute hat meine Chefin sich krankgemeldet* is also possible but less common."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with *deshalb*.",
+      "prompt": "Ich habe Kopfschmerzen. Ich kann mich nicht konzentrieren.",
+      "answer": "Ich habe Kopfschmerzen, deshalb kann ich mich nicht konzentrieren.",
+      "explanation": "*deshalb* takes the Vorfeld of the second clause, so the verb *kann* comes next and the subject *ich* follows it. The reflexive *mich* stays behind the subject pronoun, before *nicht*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct reflexive pronoun.",
+      "prompt": "Ich stelle ___ das Leben in Berlin sehr spannend vor.",
+      "options": ["mich", "mir", "sich"],
+      "correct": "mir",
+      "answer": "Ich stelle mir das Leben in Berlin sehr spannend vor.",
+      "explanation": "*sich etwas vorstellen* (to imagine) has the Akkusativ object *das Leben in Berlin*, so the reflexive is Dativ: *mir*. *mich* would mean *to introduce myself*."
+    }
+  ]
+}

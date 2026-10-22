@@ -1,0 +1,1110 @@
+{
+  "topic_id": "h06-futur-2-vermutung",
+  "level": "B2",
+  "title_de": "Futur II und Vermutungen über die Vergangenheit",
+  "title_en": "Future perfect and assumptions about the past",
+  "rule": {
+    "summary": "The **Futur II** is formed with **werden** + Partizip II + **haben/sein** (the Infinitiv Perfekt): *Er wird den Zug verpasst haben.* It has two uses. Most often it expresses an **assumption about the past** (*He'll have missed the train*). Less often it describes an action that **will be completed** by a point in the future (*Bis Montag werde ich den Bericht geschrieben haben*). Assumptions can also be made with **dürfte / müsste / könnte / muss** + Infinitiv Perfekt, or with **wohl, sicher, vermutlich** + Perfekt. For assumptions about the present, use the **Futur I**: *Er wird krank sein.*",
+    "table": "| Funktion | Form | Beispiel |\n|---|---|---|\n| Vermutung Gegenwart (Futur I) | werden + Infinitiv | Sie **wird** (wohl) im Büro **sein**. |\n| Vermutung Vergangenheit (Futur II) | werden + Partizip II + haben/sein | Er **wird** den Zug **verpasst haben**. |\n| in der Zukunft abgeschlossen | werden + Partizip II + haben/sein (+ *bis, um, in*) | Bis Montag **werde** ich den Bericht **geschrieben haben**. |\n| Passiv | werden + Partizip II + worden sein | Das Rad **wird gestohlen worden sein**. |\n| Alternativen | dürfte/müsste/könnte + Partizip II + haben/sein · wohl/vermutlich + Perfekt | Sie **dürfte angekommen sein**. · Sie **ist** wohl **angekommen**. |",
+    "steps": [
+      "Ask what the sentence is about. A guess about the past → Futur II (or modal + Infinitiv Perfekt, or *wohl* + Perfekt). A guess about the present → Futur I. A future action finished before a future point (*bis, um … Uhr, in fünf Jahren*) → Futur II, or simply Perfekt.",
+      "Conjugate *werden* for the subject (*ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden*) and put it in position 2 of the main clause.",
+      "Form the Partizip II and choose *haben* or *sein* exactly as in the Perfekt: *verpasst haben*, *angekommen sein*, *gewesen sein*, *sich verdoppelt haben*.",
+      "Put the Infinitiv Perfekt at the end: Partizip II + *haben/sein*. In the passive: Partizip II + *worden sein*. In a subordinate clause the finite *werden* goes after it: *dass sie … eingereicht haben werden*.",
+      "Adjust the certainty: *muss* (almost sure) > *wird* (+ *wohl, sicher*) > *dürfte* (probably) > *könnte* (possible). *müsste* = this is what one would logically expect. *kann nicht* = impossible."
+    ],
+    "pitfalls": [
+      "Leaving out *haben/sein*: ✗ *Er wird den Zug verpasst.* → ✓ *Er wird den Zug verpasst haben.* The Futur II always ends with the Infinitiv Perfekt.",
+      "Wrong auxiliary: ✗ *Sie wird schon angekommen haben.* → ✓ *Sie wird schon angekommen sein.* Use the same auxiliary as in the Perfekt.",
+      "Using *würde* for an assumption (English *that would be …*): ✗ *Das würde der Paketbote sein.* → ✓ *Das wird der Paketbote sein.*",
+      "Futur I for the past: ✗ *Gestern wird sie krank sein.* → ✓ *Gestern wird sie krank gewesen sein.* (or *Sie war gestern wohl krank*).",
+      "Putting the modal in the past for an assumption you make now: ✗ *Er musste den Schlüssel verloren haben* (as a guess now) → ✓ *Er muss den Schlüssel verloren haben.* The past is shown by the Infinitiv Perfekt, not by the modal. (*musste* + Infinitiv Perfekt is only used in past narration, for an assumption someone made at that time.)"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Bis Ende des Monats werde ich die Masterarbeit {{c1::abgegeben haben::abgeben}}.",
+      "en": "By the end of the month I will have submitted my master's thesis.",
+      "focus": "Futur II · in der Zukunft abgeschlossen",
+      "explanation": "*Bis Ende des Monats* sets a future deadline, and the submission will be finished before it → Futur II: *werde* + Infinitiv Perfekt. *abgeben* is separable: *ab-ge-geben*; it takes an Akkusativ object and *haben*. So the end of the sentence is **abgegeben haben**.",
+      "pattern": "bis + Zeitpunkt + werden + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Bis Ende des Monats werde ich die Masterarbeit abgegeben.",
+        "why": "*werden* needs an infinitive. In the Futur II this is the Infinitiv Perfekt: *abgegeben haben*. Without *haben* the verb form is incomplete."
+      },
+      "examples": [
+        {
+          "de": "Bis zur Konferenz werde ich die Daten ausgewertet haben.",
+          "en": "By the conference I will have analysed the data."
+        },
+        {
+          "de": "Bis Weihnachten wird sie den Kredit zurückgezahlt haben.",
+          "en": "By Christmas she will have paid back the loan."
+        }
+      ],
+      "words": [
+        {
+          "de": "abgeben",
+          "en": "to hand in, to submit"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wenn du aus dem Urlaub zurückkommst, {{c1::werden::Hilfsverb · wir}} wir die Küche renoviert haben.",
+      "en": "By the time you come back from holiday, we will have renovated the kitchen.",
+      "focus": "Futur II · Hauptsatz nach Nebensatz",
+      "explanation": "The renovation will be finished before the future moment *wenn du zurückkommst* → Futur II. The *wenn* clause fills the Vorfeld, so the finite verb comes next: **werden** (1st person plural). *renovieren* takes *haben*: *renoviert haben* at the end.",
+      "pattern": "Nebensatz, werden + Subjekt + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Wenn du aus dem Urlaub zurückkommst, werden wir die Küche renoviert sein.",
+        "why": "*renovieren* has an Akkusativ object and forms the Perfekt with *haben* (*wir haben renoviert*). The Futur II keeps that auxiliary: *renoviert haben*."
+      },
+      "examples": [
+        {
+          "de": "Wenn die Gäste kommen, werden wir den Tisch gedeckt haben.",
+          "en": "By the time the guests come, we will have laid the table."
+        },
+        {
+          "de": "Wenn du aufwachst, werde ich die Kinder schon zur Schule gebracht haben.",
+          "en": "By the time you wake up, I will already have taken the children to school."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Um 18 Uhr wird die Maschine bereits in Singapur {{c1::gelandet sein::landen}}.",
+      "en": "At 6 pm the plane will already have landed in Singapore.",
+      "focus": "Futur II · abgeschlossen · haben oder sein?",
+      "explanation": "*Um 18 Uhr* is a future point, and the landing will be completed before it → Futur II. *landen* is a change of place and forms the Perfekt with *sein* (*die Maschine ist gelandet*), so the Infinitiv Perfekt is **gelandet sein**. *die Maschine* here means *the aircraft*.",
+      "pattern": "um + Uhrzeit + wird + … + Partizip II + sein",
+      "mistake": {
+        "wrong": "Um 18 Uhr wird die Maschine bereits in Singapur gelandet haben.",
+        "why": "*landen* (without an object) takes *sein* in the Perfekt, so the Futur II is *gelandet sein*."
+      },
+      "examples": [
+        {
+          "de": "Um Mitternacht wird der Zug längst in Wien angekommen sein.",
+          "en": "By midnight the train will long since have arrived in Vienna."
+        },
+        {
+          "de": "Morgen früh wird der Schnee schon geschmolzen sein.",
+          "en": "By tomorrow morning the snow will already have melted."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Maschine",
+          "en": "here: the aircraft, the plane"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Bis 2035 werden die meisten Kohlekraftwerke in Deutschland {{c1::abgeschaltet worden sein::abschalten · Passiv}}.",
+      "en": "By 2035 most coal-fired power plants in Germany will have been shut down.",
+      "focus": "Futur II · Passiv",
+      "explanation": "A completed future action in the passive: *werden* + Partizip II + **worden sein**. The finite *werden* agrees with the plural subject *die meisten Kohlekraftwerke*. *abschalten* is separable (*ab-ge-schaltet*), and the passive participle of *werden* is *worden*.",
+      "pattern": "werden + … + Partizip II + worden + sein",
+      "mistake": {
+        "wrong": "Bis 2035 werden die meisten Kohlekraftwerke in Deutschland abgeschaltet geworden sein.",
+        "why": "As a passive auxiliary, *werden* has the participle *worden*. *geworden* is only for *werden* as a full verb (*Sie ist Ärztin geworden*)."
+      },
+      "examples": [
+        {
+          "de": "Bis zum Sommer wird die Brücke vollständig saniert worden sein.",
+          "en": "By the summer the bridge will have been completely renovated."
+        },
+        {
+          "de": "In zehn Jahren werden die meisten Geldautomaten abgebaut worden sein.",
+          "en": "In ten years most cash machines will have been removed."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Kohlekraftwerk",
+          "en": "coal-fired power plant"
+        }
+      ],
+      "production_cue": "(Futur II, Passiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich hoffe, dass ihr bis Freitag alle Unterlagen {{c1::eingereicht haben werdet::einreichen}}.",
+      "en": "I hope that you will have submitted all the documents by Friday.",
+      "focus": "Futur II im Nebensatz · Verbstellung",
+      "explanation": "In a *dass* clause all verbs go to the end, and the finite verb is the very last one: Partizip II + *haben* + **werdet** (2nd person plural of *werden*). *einreichen* is separable: *ein-ge-reicht*. In everyday speech people often say *dass ihr … eingereicht habt* (Perfekt).",
+      "pattern": "dass + Subjekt + … + Partizip II + haben + werden",
+      "mistake": {
+        "wrong": "Ich hoffe, dass ihr bis Freitag alle Unterlagen werdet eingereicht haben.",
+        "why": "Without an Ersatzinfinitiv, the finite verb *werdet* goes to the very end of the subordinate clause: *eingereicht haben werdet*."
+      },
+      "examples": [
+        {
+          "de": "Ich bin sicher, dass sie bis dahin eine Lösung gefunden haben wird.",
+          "en": "I'm sure that she will have found a solution by then."
+        },
+        {
+          "de": "Wir rechnen damit, dass die Kosten sich bis 2030 verdoppelt haben werden.",
+          "en": "We expect that costs will have doubled by 2030."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Unterlagen (Pl.)",
+          "en": "documents, papers"
+        }
+      ],
+      "production_cue": "(Futur II, dass-Satz)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Bis zum Sommer {{c1::habe::haben}} ich mein Deutsch so weit verbessert, dass ich an der Uni studieren kann.",
+      "en": "By the summer I will have improved my German enough to study at university.",
+      "focus": "Perfekt statt Futur II · abgeschlossen in der Zukunft",
+      "explanation": "In everyday German the Perfekt often replaces the Futur II for a completed future action: the time phrase *bis zum Sommer* already shows the future. So **habe … verbessert** means *will have improved*. The Futur II *werde … verbessert haben* is also correct but sounds more formal.",
+      "pattern": "bis + Zeitpunkt + haben/sein + … + Partizip II (Perfekt mit Zukunftsbezug)",
+      "mistake": {
+        "wrong": "Bis zum Sommer werde ich mein Deutsch so weit verbessert, dass ich an der Uni studieren kann.",
+        "why": "This mixes the two forms. Either Perfekt *habe … verbessert* or Futur II *werde … verbessert haben*; *werde* + participle alone is not a complete verb form."
+      },
+      "examples": [
+        {
+          "de": "Bis du kommst, habe ich das Essen fertig gekocht.",
+          "en": "By the time you arrive, I'll have finished cooking."
+        },
+        {
+          "de": "Bis heute Abend haben die Handwerker die Heizung repariert.",
+          "en": "By this evening the workmen will have repaired the heating."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "In fünf Jahren wirst du dein Studium längst {{c1::abgeschlossen haben::abschließen}}.",
+      "en": "In five years you will long since have finished your degree.",
+      "focus": "Futur II · du-Form · abgeschlossen",
+      "explanation": "*In fünf Jahren* is a future point; the degree will be finished well before it (*längst*) → Futur II. *werden* in the 2nd person singular: **wirst**. *abschließen* is a strong separable verb: *ab-ge-schlossen*, with *haben*.",
+      "pattern": "in + Zeitraum + wirst + … + längst + Partizip II + haben",
+      "mistake": {
+        "wrong": "In fünf Jahren wirst du dein Studium längst abgeschlossen sein.",
+        "why": "*abschließen* has an Akkusativ object and takes *haben* in the Perfekt (*du hast abgeschlossen*), so the Futur II ends with *abgeschlossen haben*."
+      },
+      "examples": [
+        {
+          "de": "In einem Jahr wirst du die Sprache schon gut gelernt haben.",
+          "en": "In a year you will already have learnt the language well."
+        },
+        {
+          "de": "In drei Monaten wird sie sich an die neue Stelle längst gewöhnt haben.",
+          "en": "In three months she will long since have got used to the new job."
+        }
+      ],
+      "words": [
+        {
+          "de": "längst",
+          "en": "long since, long ago"
+        }
+      ],
+      "production_cue": "(du, Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Morgen um diese Zeit werden wir schon zwölf Stunden unterwegs {{c1::gewesen::sein}} sein.",
+      "en": "This time tomorrow we will have been on the road for twelve hours.",
+      "focus": "Futur II von sein · Dauer bis zu einem Zeitpunkt",
+      "explanation": "The Futur II of *sein* is *werden* + **gewesen** + *sein*, because *sein* forms its Perfekt with *sein*. Here it describes a period that will have lasted up to a future point (*morgen um diese Zeit*). The word *sein* appears twice: as participle *gewesen* and as auxiliary *sein*.",
+      "pattern": "werden + … + gewesen + sein",
+      "mistake": {
+        "wrong": "Morgen um diese Zeit werden wir schon zwölf Stunden unterwegs gewesen haben.",
+        "why": "*sein* takes the auxiliary *sein* (*wir sind gewesen*), so the Infinitiv Perfekt is *gewesen sein*."
+      },
+      "examples": [
+        {
+          "de": "Im Mai wird sie zehn Jahre bei dieser Firma gewesen sein.",
+          "en": "In May she will have been with this company for ten years."
+        },
+        {
+          "de": "Am Ende der Reise werden wir in sieben Ländern gewesen sein.",
+          "en": "By the end of the trip we will have been to seven countries."
+        }
+      ],
+      "words": [
+        {
+          "de": "unterwegs",
+          "en": "on the way, travelling"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Er geht nicht ans Telefon – er wird sein Handy im Büro {{c1::vergessen haben::vergessen · Vermutung}}.",
+      "en": "He isn't answering the phone – he'll have left his mobile at the office.",
+      "focus": "Futur II · Vermutung über die Vergangenheit",
+      "explanation": "The speaker guesses a past cause for a present fact → Futur II as an assumption. *vergessen* has an inseparable prefix, so its participle looks like the infinitive: *vergessen*. It takes *haben*, so the end is **vergessen haben**. English uses *will have* or *must have* in the same way.",
+      "pattern": "wird + … + Partizip II + haben (Vermutung)",
+      "mistake": {
+        "wrong": "Er geht nicht ans Telefon – er wird sein Handy im Büro vergessen sein.",
+        "why": "*vergessen* takes *haben* in the Perfekt (*er hat vergessen*), so the Futur II is *vergessen haben*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist ganz blass – sie wird schlechte Nachrichten bekommen haben.",
+          "en": "She's very pale – she'll have received bad news."
+        },
+        {
+          "de": "Der Drucker ist wieder leer – jemand wird das ganze Papier verbraucht haben.",
+          "en": "The printer is empty again – someone will have used up all the paper."
+        }
+      ],
+      "words": [],
+      "production_cue": "(assumption, Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Kollegen sind schon weg. Sie {{c1::werden::Hilfsverb · sie Pl.}} wohl früher Feierabend gemacht haben.",
+      "en": "My colleagues have already gone. They'll probably have finished work early.",
+      "focus": "Futur II · Vermutung · mit wohl",
+      "explanation": "An assumption about the past with the 3rd person plural of *werden*: **werden**. The particle *wohl* is typical with the Futur II of assumption and stresses that the speaker is guessing. *Feierabend machen* takes *haben*: *gemacht haben* at the end.",
+      "pattern": "werden + wohl + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Die Kollegen sind schon weg. Sie werden wohl früher Feierabend gemacht.",
+        "why": "The Futur II needs the full Infinitiv Perfekt at the end: *gemacht haben*."
+      },
+      "examples": [
+        {
+          "de": "Die Nachbarn sind nicht da. Sie werden wohl übers Wochenende weggefahren sein.",
+          "en": "The neighbours aren't in. They'll probably have gone away for the weekend."
+        },
+        {
+          "de": "Die Tür ist abgeschlossen. Der Hausmeister wird sie wohl schon zugesperrt haben.",
+          "en": "The door is locked. The caretaker will probably have locked it already."
+        }
+      ],
+      "words": [
+        {
+          "de": "Feierabend machen",
+          "en": "to finish work for the day"
+        }
+      ],
+      "production_cue": "(Futur II + wohl)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Der Zug hatte zwei Stunden Verspätung – die Gäste werden erst nach Mitternacht im Hotel {{c1::angekommen sein::ankommen}}.",
+      "en": "The train was two hours late – the guests won't have arrived at the hotel until after midnight.",
+      "focus": "Futur II · Vermutung · Bewegungsverb",
+      "explanation": "From a known fact (the delay) the speaker draws a conclusion about the past → Futur II. *ankommen* is a verb of movement and takes *sein*: **angekommen sein**. *erst nach Mitternacht* means *not before midnight*, which English expresses with *not … until*.",
+      "pattern": "werden + … + Partizip II + sein (Bewegungsverb)",
+      "mistake": {
+        "wrong": "Der Zug hatte zwei Stunden Verspätung – die Gäste werden erst nach Mitternacht im Hotel angekommen haben.",
+        "why": "*ankommen* forms the Perfekt with *sein* (*sie sind angekommen*), so the Futur II is *angekommen sein*."
+      },
+      "examples": [
+        {
+          "de": "Es war Glatteis – viele Pendler werden zu spät zur Arbeit gekommen sein.",
+          "en": "There was black ice – many commuters will have arrived at work late."
+        },
+        {
+          "de": "Bei dem Sturm werden die Fähren nicht ausgelaufen sein.",
+          "en": "In that storm the ferries won't have left port."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wer wird das wohl {{c1::gewesen sein::sein · Vergangenheit}}?",
+      "en": "Who could that have been?",
+      "focus": "Futur II · Vermutung in der Frage",
+      "explanation": "In a question, the Futur II asks for a guess about the past: the speaker does not expect a sure answer. The question word *wer* is in the Vorfeld, *wird* in position 2, and the Infinitiv Perfekt of *sein* closes the clause: **gewesen sein**. *wohl* makes it a wondering question.",
+      "pattern": "W-Wort + wird + … + wohl + Partizip II + haben/sein?",
+      "mistake": {
+        "wrong": "Wer wird das wohl sein gewesen?",
+        "why": "In the Infinitiv Perfekt the participle comes first and the auxiliary last: *gewesen sein*."
+      },
+      "examples": [
+        {
+          "de": "Wo wird sie den Schlüssel bloß hingelegt haben?",
+          "en": "Where on earth can she have put the key?"
+        },
+        {
+          "de": "Was wird er wohl zu der Entscheidung gesagt haben?",
+          "en": "What do you think he said about the decision?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(guess, Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Das wird ein Missverständnis {{c1::gewesen::sein}} sein.",
+      "en": "That must have been a misunderstanding.",
+      "focus": "Futur II · beruhigende Vermutung",
+      "explanation": "A common reassuring phrase: the speaker explains a past event with a guess. *sein* takes *sein* in the Perfekt, so the Infinitiv Perfekt is **gewesen** + *sein*. English often translates this use of the Futur II with *must have been*.",
+      "pattern": "Das wird + Nomen + gewesen sein.",
+      "mistake": {
+        "wrong": "Das ist ein Missverständnis gewesen sein.",
+        "why": "The finite verb of the Futur II is *werden*: *Das wird … gewesen sein*. *ist* + *gewesen sein* mixes the Perfekt and the Futur II."
+      },
+      "examples": [
+        {
+          "de": "Keine Panik, das wird nur ein technischer Fehler gewesen sein.",
+          "en": "Don't panic, that will just have been a technical error."
+        },
+        {
+          "de": "Das wird der Wind gewesen sein.",
+          "en": "That'll have been the wind."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Missverständnis",
+          "en": "misunderstanding"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Das Fahrrad steht nicht mehr vor der Tür – es wird {{c1::gestohlen worden sein::stehlen · Passiv}}.",
+      "en": "The bike isn't outside the door any more – it must have been stolen.",
+      "focus": "Futur II · Vermutung · Passiv",
+      "explanation": "An assumption about a past event in the passive: *wird* + Partizip II + **worden sein**. The passive Perfekt always takes *sein* (*es ist gestohlen worden*), so the auxiliary here is *sein*, not *haben*. *stehlen* is strong: *gestohlen*.",
+      "pattern": "wird + Partizip II + worden + sein (Vermutung, Passiv)",
+      "mistake": {
+        "wrong": "Das Fahrrad steht nicht mehr vor der Tür – es wird gestohlen worden haben.",
+        "why": "The passive Perfekt is always formed with *sein*: *ist … worden*. So the Futur II passive ends with *worden sein*."
+      },
+      "examples": [
+        {
+          "de": "Die Straße ist frei – der Unfallwagen wird schon abgeschleppt worden sein.",
+          "en": "The road is clear – the crashed car will already have been towed away."
+        },
+        {
+          "de": "Die Wände im Museum sind leer – die Bilder werden ins Lager gebracht worden sein.",
+          "en": "The walls in the museum are bare – the paintings will have been taken to the storeroom."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II, Passiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Sie geht nicht ans Telefon. Sie {{c1::wird::werden}} noch in der Besprechung sein.",
+      "en": "She isn't answering the phone. She'll still be in the meeting.",
+      "focus": "Futur I · Vermutung über die Gegenwart",
+      "explanation": "The guess is about **now** (*noch*), so the Futur I is used: **wird** + infinitive *sein*. This Futur I has no future meaning; it marks an assumption. For the past you would need the Futur II (*wird … gewesen sein*).",
+      "pattern": "wird + … + Infinitiv (Vermutung, Gegenwart)",
+      "mistake": {
+        "wrong": "Sie geht nicht ans Telefon. Sie wird noch in der Besprechung zu sein.",
+        "why": "*werden* takes a bare infinitive without *zu*. (*zu* is needed after *scheinen*: *Sie scheint … zu sein*.)"
+      },
+      "examples": [
+        {
+          "de": "Das Licht brennt noch. Er wird noch am Schreibtisch sitzen.",
+          "en": "The light is still on. He'll still be sitting at his desk."
+        },
+        {
+          "de": "Die Kinder sind so still. Sie werden vor dem Fernseher hängen.",
+          "en": "The children are so quiet. They'll be glued to the TV."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Besprechung",
+          "en": "meeting"
+        }
+      ],
+      "production_cue": "(assumption about now)",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Der Kleine ist heute so müde – er wird letzte Nacht schlecht {{c1::geschlafen haben::schlafen}}.",
+      "en": "The little one is so tired today – he'll have slept badly last night.",
+      "focus": "Futur II · Vermutung · Zeitangabe Vergangenheit",
+      "explanation": "*letzte Nacht* refers to the past, so the assumption needs the Futur II, not the Futur I. *schlafen* forms its Perfekt with *haben* → **geschlafen haben**. The present fact (*ist so müde*) is the evidence for the guess.",
+      "pattern": "Vergangenheitsangabe + wird + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Der Kleine ist heute so müde – er wird letzte Nacht schlecht schlafen.",
+        "why": "The Futur I *wird … schlafen* refers to the present or the future and does not fit *letzte Nacht*. A guess about the past needs the Futur II: *geschlafen haben*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat heute schlechte Laune – sie wird sich gestern mit ihrem Freund gestritten haben.",
+          "en": "She's in a bad mood today – she'll have had an argument with her boyfriend yesterday."
+        },
+        {
+          "de": "Er hat Muskelkater – er wird am Wochenende zu viel trainiert haben.",
+          "en": "His muscles are sore – he'll have trained too much at the weekend."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Max hat sich nicht mehr gemeldet. Er wird es sich anders {{c1::überlegt haben::sich überlegen}}.",
+      "en": "Max hasn't been in touch since. He'll have changed his mind.",
+      "focus": "Futur II · Vermutung · Reflexivverb, untrennbar",
+      "explanation": "*es sich anders überlegen* means *to change one's mind*. Here *über-* is an inseparable prefix (stress on *-le-*), so the participle has no *ge-*: **überlegt**. Reflexive verbs take *haben* → *überlegt haben*. The pronouns *es sich* stay in the Mittelfeld.",
+      "pattern": "wird + es sich + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Max hat sich nicht mehr gemeldet. Er wird es sich anders geüberlegt haben.",
+        "why": "*überlegen* has an inseparable prefix, and inseparable verbs form the Partizip II without *ge-*: *überlegt*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist nicht gekommen. Sie wird sich im Datum geirrt haben.",
+          "en": "She didn't come. She'll have got the date wrong."
+        },
+        {
+          "de": "Die Firma hat das Angebot zurückgezogen. Sie wird sich verkalkuliert haben.",
+          "en": "The company has withdrawn the offer. It will have miscalculated."
+        }
+      ],
+      "words": [
+        {
+          "de": "es sich anders überlegen",
+          "en": "to change one's mind"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Die Delegation {{c1::dürfte::dürfen}} inzwischen in Brüssel angekommen sein.",
+      "en": "The delegation has probably arrived in Brussels by now.",
+      "focus": "Modalverb · Vermutung · wahrscheinlich",
+      "explanation": "**dürfte** (Konjunktiv II of *dürfen*) + Infinitiv Perfekt expresses a fairly strong, careful assumption: *probably*. It is typical of news and formal speech. The modal is present Konjunktiv II; the past is shown only by *angekommen sein*.",
+      "pattern": "dürfte + … + Partizip II + haben/sein",
+      "mistake": {
+        "wrong": "Die Delegation dürfte inzwischen in Brüssel angekommen haben.",
+        "why": "*ankommen* takes *sein*, also after a modal verb: *angekommen sein*."
+      },
+      "examples": [
+        {
+          "de": "Der Brief dürfte inzwischen bei der Behörde eingegangen sein.",
+          "en": "The letter has probably reached the authority by now."
+        },
+        {
+          "de": "Die Ministerin dürfte von den Plänen gewusst haben.",
+          "en": "The minister probably knew about the plans."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Delegation",
+          "en": "delegation"
+        }
+      ],
+      "production_cue": "(probably, modal verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Das Paket {{c1::müsste::müssen · Konj. II}} eigentlich gestern zugestellt worden sein.",
+      "en": "The parcel should actually have been delivered yesterday.",
+      "focus": "Modalverb · logische Erwartung · Passiv",
+      "explanation": "**müsste** + Infinitiv Perfekt says what one would logically expect, often with doubt whether it really happened (*eigentlich*). Here it combines with the passive Infinitiv Perfekt *zugestellt worden sein*. *muss* would sound much more certain.",
+      "pattern": "müsste + … + Partizip II + worden sein",
+      "mistake": {
+        "wrong": "Das Paket müsste eigentlich gestern zugestellt sein worden.",
+        "why": "The passive Infinitiv Perfekt has the order Partizip II + *worden* + *sein*: *zugestellt worden sein*."
+      },
+      "examples": [
+        {
+          "de": "Die Überweisung müsste inzwischen gutgeschrieben worden sein.",
+          "en": "The transfer should have been credited by now."
+        },
+        {
+          "de": "Nach dem Fahrplan müsste der Bus schon abgefahren sein.",
+          "en": "According to the timetable, the bus should already have left."
+        }
+      ],
+      "words": [
+        {
+          "de": "zustellen",
+          "en": "to deliver (mail)"
+        }
+      ],
+      "production_cue": "(should have been)",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Der Schaden {{c1::könnte::können · Konj. II}} durch einen Kurzschluss entstanden sein.",
+      "en": "The damage could have been caused by a short circuit.",
+      "focus": "Modalverb · Vermutung · möglich",
+      "explanation": "**könnte** + Infinitiv Perfekt presents one possible explanation among others: the weakest degree of certainty. *entstehen* (to come into being, to be caused) is a change of state and takes *sein*: *entstanden sein*. *kann … entstanden sein* would also be possible and is a little more confident.",
+      "pattern": "könnte + … + Partizip II + sein",
+      "mistake": {
+        "wrong": "Der Schaden könnte durch einen Kurzschluss entstanden haben.",
+        "why": "*entstehen* forms its Perfekt with *sein* (*der Schaden ist entstanden*), so the Infinitiv Perfekt is *entstanden sein*."
+      },
+      "examples": [
+        {
+          "de": "Der Brand könnte durch eine Zigarette ausgelöst worden sein.",
+          "en": "The fire could have been started by a cigarette."
+        },
+        {
+          "de": "Die Patientin könnte sich im Urlaub angesteckt haben.",
+          "en": "The patient could have been infected on holiday."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Kurzschluss",
+          "en": "short circuit"
+        }
+      ],
+      "production_cue": "(could have)",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Sie {{c1::kann::können}} den Brief nicht geschrieben haben – sie war zu der Zeit im Krankenhaus.",
+      "en": "She can't have written the letter – she was in hospital at the time.",
+      "focus": "Modalverb · Vermutung · ausgeschlossen",
+      "explanation": "**kann nicht** + Infinitiv Perfekt says that a past event is impossible according to the evidence. The modal stays in the present (*kann*); only the Infinitiv Perfekt *geschrieben haben* refers to the past. The second clause gives the evidence.",
+      "pattern": "kann nicht + … + Partizip II + haben/sein (Ausschluss)",
+      "mistake": {
+        "wrong": "Sie kann den Brief nicht geschrieben – sie war zu der Zeit im Krankenhaus.",
+        "why": "After a modal verb the past is expressed by the full Infinitiv Perfekt: *geschrieben haben*. A Partizip II alone cannot depend on *kann*. The modal itself stays in the present, because the assumption is made now."
+      },
+      "examples": [
+        {
+          "de": "Er kann das Geld nicht genommen haben – er war die ganze Zeit bei uns.",
+          "en": "He can't have taken the money – he was with us the whole time."
+        },
+        {
+          "de": "Die Daten können nicht verloren gegangen sein – wir haben ein Back-up.",
+          "en": "The data can't have been lost – we have a backup."
+        }
+      ],
+      "words": [],
+      "production_cue": "(can't have)",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Der Bus ist wohl schon {{c1::abgefahren::abfahren}}.",
+      "en": "The bus has probably already left.",
+      "focus": "Vermutung mit Adverb · Perfekt",
+      "explanation": "A simple alternative to the Futur II: a normal Perfekt + an adverb of assumption like *wohl*. *abfahren* is a verb of movement → *ist* + **abgefahren** (separable: *ab-ge-fahren*). The meaning is the same as *Der Bus wird schon abgefahren sein*.",
+      "pattern": "Perfekt + wohl / vermutlich / sicher",
+      "mistake": {
+        "wrong": "Der Bus hat wohl schon abgefahren.",
+        "why": "*abfahren* is a verb of movement and forms the Perfekt with *sein*: *Der Bus ist … abgefahren*."
+      },
+      "examples": [
+        {
+          "de": "Die Bäckerei hat wohl schon geschlossen.",
+          "en": "The bakery has probably already closed."
+        },
+        {
+          "de": "Er ist wohl in den falschen Zug gestiegen.",
+          "en": "He probably got on the wrong train."
+        }
+      ],
+      "words": [],
+      "production_cue": "(wohl + Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Die Forscher {{c1::haben::Hilfsverb}} vermutlich einen Messfehler übersehen.",
+      "en": "The researchers probably overlooked a measurement error.",
+      "focus": "Vermutung mit Adverb · Perfekt · untrennbares Verb",
+      "explanation": "The adverb *vermutlich* marks the Perfekt as an assumption; it is more neutral and more written than *wohl*. *übersehen* (to overlook) has an inseparable prefix: participle *übersehen* without *ge-*. It takes an Akkusativ object, so the auxiliary is **haben**.",
+      "pattern": "haben/sein + vermutlich + … + Partizip II",
+      "mistake": {
+        "wrong": "Die Forscher sind vermutlich einen Messfehler übersehen.",
+        "why": "*übersehen* is transitive (Akkusativ object *einen Messfehler*), so the Perfekt is formed with *haben*."
+      },
+      "examples": [
+        {
+          "de": "Der Täter hat vermutlich einen Zweitschlüssel benutzt.",
+          "en": "The offender probably used a spare key."
+        },
+        {
+          "de": "Die Firma hat vermutlich gegen das Datenschutzgesetz verstoßen.",
+          "en": "The company has probably violated data protection law."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Messfehler",
+          "en": "measurement error"
+        }
+      ],
+      "production_cue": "(vermutlich + Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Sie wird die Nachricht sicher schon {{c1::gelesen haben::lesen}}.",
+      "en": "She'll certainly have read the message by now.",
+      "focus": "Futur II · Vermutung · mit sicher",
+      "explanation": "*sicher* (or *bestimmt*) makes the Futur II assumption stronger: the speaker is quite sure. *lesen* is strong: Partizip II **gelesen**, with *haben*. The Infinitiv Perfekt *gelesen haben* stands at the end of the clause.",
+      "pattern": "wird + … + sicher + Partizip II + haben",
+      "mistake": {
+        "wrong": "Sie wird die Nachricht sicher schon lesen haben.",
+        "why": "The Futur II needs the Partizip II, not the infinitive: *gelesen haben*."
+      },
+      "examples": [
+        {
+          "de": "Er wird die Rechnung bestimmt schon bezahlt haben.",
+          "en": "He'll definitely have paid the bill by now."
+        },
+        {
+          "de": "Die Kinder werden den Kuchen sicher längst aufgegessen haben.",
+          "en": "The children will certainly have eaten up the cake long ago."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II + sicher)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Keine Sorge, er wird es nicht böse {{c1::gemeint haben::meinen}}.",
+      "en": "Don't worry, he won't have meant it badly.",
+      "focus": "Futur II · verneinte Vermutung",
+      "explanation": "A negative assumption about the past, often used to calm someone. *es (nicht) böse meinen* = *(not) to mean it unkindly*. *meinen* is weak: **gemeint**, with *haben*. The finite verb of the Futur II is always *werden*: *er wird … gemeint haben*.",
+      "pattern": "wird + nicht + … + Partizip II + haben",
+      "mistake": {
+        "wrong": "Keine Sorge, er hat es nicht böse gemeint haben.",
+        "why": "This mixes the Perfekt (*hat … gemeint*) and the Futur II (*… gemeint haben*). Use either *er hat es nicht böse gemeint* or *er wird es nicht böse gemeint haben*."
+      },
+      "examples": [
+        {
+          "de": "Sie wird das nicht absichtlich gesagt haben.",
+          "en": "She won't have said that on purpose."
+        },
+        {
+          "de": "Die Kollegen werden dich nicht vergessen haben.",
+          "en": "Your colleagues won't have forgotten you."
+        }
+      ],
+      "words": [
+        {
+          "de": "es böse meinen",
+          "en": "to mean it unkindly"
+        }
+      ],
+      "production_cue": "(Futur II, negative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Es ist schon nach neun – die Kinder werden inzwischen {{c1::eingeschlafen sein::einschlafen}}.",
+      "en": "It's already after nine – the children will have fallen asleep by now.",
+      "focus": "Futur II · Vermutung · Zustandsänderung",
+      "explanation": "*einschlafen* (to fall asleep) is a change of state and takes *sein*, unlike *schlafen* (*haben*). So the Futur II is **eingeschlafen sein**. *inzwischen* (by now) shows that the event is assumed to be completed at the moment of speaking.",
+      "pattern": "werden + inzwischen + Partizip II + sein",
+      "mistake": {
+        "wrong": "Es ist schon nach neun – die Kinder werden inzwischen eingeschlafen haben.",
+        "why": "*einschlafen* describes a change of state and forms the Perfekt with *sein* (*sie sind eingeschlafen*)."
+      },
+      "examples": [
+        {
+          "de": "Die Party ist längst vorbei – die meisten Gäste werden schon gegangen sein.",
+          "en": "The party has long been over – most of the guests will already have left."
+        },
+        {
+          "de": "Nach der Hitzewelle werden viele Pflanzen vertrocknet sein.",
+          "en": "After the heatwave, many plants will have dried up."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Das dürfte der teuerste Urlaub unseres Lebens {{c1::gewesen sein::sein · Vergangenheit}}.",
+      "en": "That was probably the most expensive holiday of our lives.",
+      "focus": "Modalverb · Vermutung · Vergangenheit von sein",
+      "explanation": "*dürfte* + Infinitiv Perfekt for a careful judgement about the past. The Infinitiv Perfekt of *sein* is **gewesen sein**. The subject *das* refers back to a holiday that is over, so the present *dürfte … sein* would not fit.",
+      "pattern": "dürfte + Nomen + gewesen sein",
+      "mistake": {
+        "wrong": "Das dürfte der teuerste Urlaub unseres Lebens sein gewesen.",
+        "why": "In the Infinitiv Perfekt the participle comes first: *gewesen sein*."
+      },
+      "examples": [
+        {
+          "de": "Das dürfte die wichtigste Entscheidung seiner Amtszeit gewesen sein.",
+          "en": "That was probably the most important decision of his term in office."
+        },
+        {
+          "de": "Der Winter dürfte der wärmste seit Beginn der Messungen gewesen sein.",
+          "en": "The winter was probably the warmest since records began."
+        }
+      ],
+      "words": [],
+      "production_cue": "(probably, dürfte)",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Es klingelt – das wird der Paketbote {{c1::sein::Gegenwart oder Vergangenheit?}}.",
+      "en": "The doorbell's ringing – that'll be the delivery man.",
+      "focus": "Futur I oder II? · Vermutung",
+      "explanation": "The doorbell is ringing now, so the guess is about the present → Futur I: *wird* + **sein**. *gewesen sein* would only fit a past event (*Vorhin hat es geklingelt – das wird der Paketbote gewesen sein*). English *that'll be* corresponds exactly to this use.",
+      "pattern": "Das wird + Nomen + sein. (Vermutung, Gegenwart)",
+      "mistake": {
+        "wrong": "Es klingelt – das würde der Paketbote sein.",
+        "why": "English *that would be …* is translated with *werden*, not with the Konjunktiv II *würde*. An assumption uses the indicative *wird*."
+      },
+      "examples": [
+        {
+          "de": "Das Telefon klingelt – das wird meine Schwester sein.",
+          "en": "The phone's ringing – that'll be my sister."
+        },
+        {
+          "de": "Draußen hupt jemand – das wird unser Taxi sein.",
+          "en": "Someone's honking outside – that'll be our taxi."
+        }
+      ],
+      "words": [],
+      "production_cue": "(that'll be …)",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Gestern Abend wird sie wohl länger im Labor {{c1::geblieben sein::bleiben}}.",
+      "en": "She'll probably have stayed late at the lab last night.",
+      "focus": "Futur II · Vermutung · haben oder sein?",
+      "explanation": "*Gestern Abend* is in the past → Futur II for the assumption. *bleiben* forms its Perfekt with *sein* although it is not a movement verb (*sie ist geblieben*), so the Infinitiv Perfekt is **geblieben sein**.",
+      "pattern": "Vergangenheitsangabe + wird + wohl + … + geblieben sein",
+      "mistake": {
+        "wrong": "Gestern Abend wird sie wohl länger im Labor geblieben haben.",
+        "why": "*bleiben* is one of the verbs that take *sein* in the Perfekt (*sie ist geblieben*), so the Futur II is *geblieben sein*."
+      },
+      "examples": [
+        {
+          "de": "Letzte Woche wird er wohl bei seinen Eltern geblieben sein.",
+          "en": "He'll probably have stayed with his parents last week."
+        },
+        {
+          "de": "Am Wochenende werden sie wohl zu Hause geblieben sein.",
+          "en": "They'll probably have stayed at home at the weekend."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Labor",
+          "en": "laboratory, lab"
+        }
+      ],
+      "production_cue": "(Futur II + wohl)",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Bis zum Jahr 2050 wird sich die Zahl der über 80-Jährigen {{c1::verdoppelt haben::sich verdoppeln}}.",
+      "en": "By 2050 the number of people over 80 will have doubled.",
+      "focus": "Futur II · Prognose · Reflexivverb",
+      "explanation": "A forecast about a change completed by a future date → Futur II. *sich verdoppeln* is reflexive, and reflexive verbs always take *haben*: **verdoppelt haben**. The reflexive pronoun *sich* stands in the Mittelfeld, before the noun subject.",
+      "pattern": "bis + Jahr + wird + sich + Subjekt + Partizip II + haben",
+      "mistake": {
+        "wrong": "Bis zum Jahr 2050 wird sich die Zahl der über 80-Jährigen verdoppelt sein.",
+        "why": "Reflexive verbs form the Perfekt with *haben* (*die Zahl hat sich verdoppelt*), even when they describe a change. So the Futur II is *verdoppelt haben*."
+      },
+      "examples": [
+        {
+          "de": "Bis Ende des Jahrzehnts wird sich der Meeresspiegel weiter erhöht haben.",
+          "en": "By the end of the decade the sea level will have risen further."
+        },
+        {
+          "de": "In zwanzig Jahren wird sich die Arbeitswelt völlig verändert haben.",
+          "en": "In twenty years the world of work will have changed completely."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich verdoppeln",
+          "en": "to double"
+        }
+      ],
+      "production_cue": "(Futur II)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Futur II.",
+      "prompt": "How is the Futur II formed, and where do its parts stand in a main clause?",
+      "answer": "**werden** (conjugated, position 2) + **Partizip II** + **haben/sein** (Infinitiv Perfekt, at the end): *Er **wird** den Zug **verpasst haben**.* Passive: Partizip II + **worden sein**.",
+      "explanation": "The Infinitiv Perfekt is the Perfekt in infinitive form: *verpasst haben, angekommen sein*. Choose *haben* or *sein* as in the Perfekt. The two parts form the Satzklammer around the Mittelfeld.",
+      "examples": [
+        {
+          "de": "Sie wird das Formular schon ausgefüllt haben.",
+          "en": "She'll have filled in the form already."
+        },
+        {
+          "de": "Er wird schon nach Hause gegangen sein.",
+          "en": "He'll have gone home already."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the two uses of the Futur II.",
+      "prompt": "What are the two meanings of the Futur II, and how do you tell them apart?",
+      "answer": "1. **Assumption about the past** (most common): *Er wird den Zug verpasst haben* = he probably missed it. 2. **Action completed before a future point**: *Bis Montag werde ich den Bericht geschrieben haben.* A future time phrase (*bis, um, in zwei Jahren*) signals meaning 2; context about a past event signals meaning 1.",
+      "explanation": "Without a future time phrase the Futur II is almost always heard as an assumption. For meaning 2, everyday German usually prefers the Perfekt with a time phrase (*Bis Montag habe ich den Bericht geschrieben*).",
+      "examples": [
+        {
+          "de": "Sie wird die Prüfung bestanden haben.",
+          "en": "She'll have passed the exam (I assume)."
+        },
+        {
+          "de": "Bis Juli wird sie die Prüfung bestanden haben.",
+          "en": "By July she will have passed the exam."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between Futur I and Futur II as assumptions.",
+      "prompt": "What is the difference between *Er wird krank sein* and *Er wird krank gewesen sein*?",
+      "answer": "**Futur I** (*wird … sein*) = assumption about the **present**: he is probably ill now. **Futur II** (*wird … gewesen sein*) = assumption about the **past**: he was probably ill (e.g. yesterday).",
+      "explanation": "In both cases *werden* has no future meaning; it marks a guess. The time is shown by the infinitive: simple infinitive = present, Infinitiv Perfekt = past. The particle *wohl* often makes the guess explicit.",
+      "examples": [
+        {
+          "de": "Er fehlt heute. Er wird wohl krank sein.",
+          "en": "He's absent today. He's probably ill."
+        },
+        {
+          "de": "Er fehlte gestern. Er wird wohl krank gewesen sein.",
+          "en": "He was absent yesterday. He was probably ill."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about degrees of certainty.",
+      "prompt": "Put these assumptions about the past in order from most to least certain: *dürfte … haben, muss … haben, könnte … haben, wird … haben*.",
+      "answer": "**muss** … haben (almost sure, based on evidence) > **wird** (wohl) … haben (probable) > **dürfte** … haben (probably, careful) > **könnte** … haben (one possibility). Negative: **kann nicht** … haben = impossible.",
+      "explanation": "*wird* and *dürfte* are close; *dürfte* sounds more cautious and formal. *müsste* is different: it says what one would logically expect (*Er müsste angekommen sein* = he should have arrived by now). All modals stay in the present (or Konjunktiv II); only the infinitive is in the past.",
+      "examples": [
+        {
+          "de": "Die Straße ist nass. Es muss geregnet haben.",
+          "en": "The street is wet. It must have rained."
+        },
+        {
+          "de": "Es könnte auch die Straßenreinigung gewesen sein.",
+          "en": "It could also have been the street cleaners."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about alternatives to the Futur II.",
+      "prompt": "How do Germans often express the two meanings of the Futur II in everyday speech?",
+      "answer": "Assumption about the past: **Perfekt + wohl / vermutlich / sicher** (*Er hat den Zug wohl verpasst*). Completed future: **Perfekt + time phrase** (*Bis Montag habe ich den Bericht geschrieben*).",
+      "explanation": "The Futur II is correct but sounds heavier, so speech often uses the Perfekt. In written texts and careful speech both forms are common. The meaning stays the same because the adverb or the time phrase carries the extra information.",
+      "examples": [
+        {
+          "de": "Sie hat die Mail wohl übersehen.",
+          "en": "She probably overlooked the email."
+        },
+        {
+          "de": "Bis zum Abend haben wir alles erledigt.",
+          "en": "By the evening we will have done everything."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about word order in subordinate clauses.",
+      "prompt": "What is the order of the verbs when the Futur II is in a subordinate clause?",
+      "answer": "Partizip II → *haben/sein* → finite **werden** at the very end: *…, dass er den Termin **vergessen haben wird**.* Passive: *…, dass die Brücke **gebaut worden sein wird**.*",
+      "explanation": "In a subordinate clause the finite verb goes to the end, so *werden* follows the Infinitiv Perfekt. The order of the infinite verbs (participle before *haben/sein*) does not change.",
+      "examples": [
+        {
+          "de": "Ich hoffe, dass er bis morgen geantwortet haben wird.",
+          "en": "I hope that he will have replied by tomorrow."
+        },
+        {
+          "de": "Sie glaubt, dass der Zug schon abgefahren sein wird.",
+          "en": "She thinks that the train will already have left."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the assumption in the Futur II. Keep *wohl*.",
+      "prompt": "Sie hat den Termin wohl vergessen.",
+      "answer": "Sie wird den Termin wohl vergessen haben.",
+      "explanation": "*hat* (Perfekt auxiliary) is replaced by *wird* in position 2, and the Infinitiv Perfekt *vergessen haben* goes to the end. *wohl* stays in the Mittelfeld."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the Futur II with *dürfte* (a careful assumption).",
+      "prompt": "Der Minister wird von dem Skandal gewusst haben.",
+      "answer": "Der Minister dürfte von dem Skandal gewusst haben.",
+      "explanation": "*dürfte* takes the place of *wird* in position 2. The Infinitiv Perfekt *gewusst haben* stays the same, because it carries the past meaning."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Change the assumption so that it refers to yesterday. Start with: Gestern",
+      "prompt": "Sie wird krank sein.",
+      "answer": "Gestern wird sie krank gewesen sein.",
+      "explanation": "A guess about the past needs the Futur II: *sein* → *gewesen sein*. *Gestern* takes the Vorfeld, so *wird* stays in position 2 and the subject *sie* follows it."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in the passive (Futur II). Leave out *man*.",
+      "prompt": "Bis Juni wird man die neue Strecke eröffnet haben.",
+      "answer": "Bis Juni wird die neue Strecke eröffnet worden sein.",
+      "explanation": "The Akkusativ object *die neue Strecke* becomes the subject. The active Infinitiv Perfekt *eröffnet haben* becomes the passive *eröffnet worden sein* (passive Perfekt always with *sein*)."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Make it a subordinate clause. Start with: Ich bin sicher, dass",
+      "prompt": "Bis zum Herbst werden wir umgezogen sein.",
+      "answer": "Ich bin sicher, dass wir bis zum Herbst umgezogen sein werden.",
+      "explanation": "After *dass* the finite verb *werden* goes to the very end, after the Infinitiv Perfekt *umgezogen sein*. *umziehen* is a movement verb, so the auxiliary stays *sein*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Bis morgen werde ich das ganze Buch gelesen sein.",
+      "answer": "Bis morgen werde ich das ganze Buch gelesen haben.",
+      "explanation": "*lesen* has an Akkusativ object and forms the Perfekt with *haben*, so the Futur II ends with *gelesen haben*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Fenster ist offen – die Katze wird hinausgesprungen haben.",
+      "answer": "Das Fenster ist offen – die Katze wird hinausgesprungen sein.",
+      "explanation": "*hinausspringen* is a movement to another place and takes *sein* (*die Katze ist hinausgesprungen*). The Futur II keeps that auxiliary."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er wird die Wohnung wohl schon gekündigt hat.",
+      "answer": "Er wird die Wohnung wohl schon gekündigt haben.",
+      "explanation": "After *wird* the verb at the end must be an infinitive. In the Futur II this is the Infinitiv Perfekt *gekündigt haben*, not the finite form *hat*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Sie geht nicht ans Telefon. Sie ___ wohl schon schlafen.",
+      "options": [
+        "wird",
+        "würde",
+        "wurde",
+        "ist"
+      ],
+      "correct": "wird",
+      "answer": "Sie geht nicht ans Telefon. Sie wird wohl schon schlafen.",
+      "explanation": "A guess about the present → Futur I: *wird* + infinitive. *würde* is Konjunktiv II and expresses an unreal situation, not an assumption. *wurde* is the Präteritum (or passive auxiliary), and *ist* cannot be combined with the infinitive *schlafen*."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Das Licht ist aus. Die Nachbarn werden wohl schon ins Bett gegangen ___.",
+      "options": [
+        "sein",
+        "haben",
+        "werden"
+      ],
+      "correct": "sein",
+      "answer": "Das Licht ist aus. Die Nachbarn werden wohl schon ins Bett gegangen sein.",
+      "explanation": "*gehen* is a verb of movement and takes *sein* in the Perfekt, so the Infinitiv Perfekt is *gegangen sein*. *haben* is the wrong auxiliary, and *werden* would make a passive-like form that does not exist here."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the modal verb that fits the degree of certainty.",
+      "prompt": "Die Spuren sind eindeutig: Der Täter ___ durch das Fenster eingestiegen sein.",
+      "options": [
+        "muss",
+        "könnte",
+        "dürfte"
+      ],
+      "correct": "muss",
+      "answer": "Die Spuren sind eindeutig: Der Täter muss durch das Fenster eingestiegen sein.",
+      "explanation": "*eindeutig* (clear) means the evidence leaves almost no doubt → *muss* + Infinitiv Perfekt. *könnte* would present it as just one possibility, and *dürfte* as probable but not certain; both are too weak for clear evidence."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Bis Ende des Jahres",
+      "prompt": "verdoppelt / die Firma / bis Ende des Jahres / ihren Umsatz / haben / wird",
+      "answer": "Bis Ende des Jahres wird die Firma ihren Umsatz verdoppelt haben.",
+      "explanation": "The time phrase fills the Vorfeld, so *wird* follows in position 2 and the subject *die Firma* comes after it. The object *ihren Umsatz* stands in the Mittelfeld, and *verdoppelt haben* closes the Satzklammer."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich hoffe",
+      "prompt": "dass / ausgewertet / ich hoffe / die Ergebnisse / werden / bis Freitag / haben / wir",
+      "answer": "Ich hoffe, dass wir die Ergebnisse bis Freitag ausgewertet haben werden.",
+      "explanation": "In the *dass* clause the subject *wir* comes first, the verbs go to the end in the order participle → *haben* → finite *werden*. The other Mittelfeld order is also correct: *Ich hoffe, dass wir bis Freitag die Ergebnisse ausgewertet haben werden.*"
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Replace *Ich vermute* with a Futur II assumption.",
+      "prompt": "Er ist heute sehr müde. Ich vermute, er hat gestern lange gearbeitet.",
+      "answer": "Er ist heute sehr müde – er wird gestern lange gearbeitet haben.",
+      "explanation": "The Futur II itself expresses the assumption, so *Ich vermute* can be left out. *hat … gearbeitet* becomes *wird … gearbeitet haben*; *gestern* shows that the guess is about the past."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Join with *bis* and express the completed future action in the Futur II.",
+      "prompt": "Die Konferenz beginnt um neun. Vorher bereitet das Team den Saal vor.",
+      "answer": "Bis die Konferenz beginnt, wird das Team den Saal vorbereitet haben.",
+      "explanation": "*bis* introduces the future point as a subordinate clause with the verb at the end (*beginnt*). The main clause starts with *wird*, and *vorbereiten* becomes the Infinitiv Perfekt *vorbereitet haben* (separable, *haben*)."
+    }
+  ]
+}

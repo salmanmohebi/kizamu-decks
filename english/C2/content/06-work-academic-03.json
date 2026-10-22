@@ -1,0 +1,1177 @@
+{
+  "part_id": "06-work-academic-03",
+  "category": "work-academic",
+  "entries": [
+    {
+      "id": "to-the-best-of-our-knowledge",
+      "term": "to the best of our knowledge",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "As far as we know after checking: the claim is true according to everything the authors are aware of, but they admit they may have missed something.",
+      "usage": "The standard hedge before a novelty claim in an abstract or introduction: *To the best of our knowledge, this is the first…*. It signals honesty, but it will not protect you if a quick search finds earlier work, so search the literature properly first. In a single-author thesis or review, use *my*.",
+      "pattern": "To the best of our / my knowledge, this is the first… / no prior work has…",
+      "examples": [
+        "**To the best of our knowledge**, this is the first randomized trial of the drug in children under five.",
+        "**To the best of our knowledge**, no previous study has measured this effect in rural housing markets.",
+        "The authors claim novelty, but **to the best of my knowledge**, a very similar method was published two years ago."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{To the best of our knowledge}}, this is the first genome-wide study of drought tolerance in wild coffee plants.",
+        "hint": "hedged novelty claim: we checked and found nothing earlier (six words)"
+      },
+      "mistake": {
+        "wrong": "To our best knowledge, this is the first study of its kind.",
+        "right": "To the best of our knowledge, this is the first study of its kind.",
+        "why": "The fixed phrase is *to the best of our knowledge* (or simply *to our knowledge*); *to our best knowledge* is not idiomatic."
+      },
+      "related": "*to our knowledge* — shorter, same meaning; *as far as we know* — less formal, common in speech; *to the best of my ability* — same pattern, about effort rather than knowledge."
+    },
+    {
+      "id": "beyond-the-scope-of-this-paper",
+      "term": "beyond the scope of (this paper)",
+      "spoken_term": "beyond the scope of this paper",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Outside the topics, questions or methods that a paper, study or project sets out to cover.",
+      "usage": "Used in papers, theses and rebuttals to explain why something is not addressed: *A full cost analysis is beyond the scope of this paper*. It works for side issues, but reviewers dislike it as an excuse for a gap at the heart of the claim, so add a reason or a pointer to future work. *Outside the scope of* means the same.",
+      "pattern": "X is beyond / outside the scope of this paper / study / work; go beyond the scope of",
+      "examples": [
+        "A full treatment of relativistic corrections is **beyond the scope of this paper**, so we work in the nonrelativistic limit.",
+        "Long-term cost-effectiveness is **beyond the scope of the present study**, which followed patients for only twelve months.",
+        "Rewiring the whole house is **beyond the scope of** the original contract, so it'll cost extra."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Comparing all fifty states would go well {{beyond the scope of}} this report, so we focus on the Midwest.",
+        "hint": "past the limits of what the report covers (not *outside*)"
+      },
+      "related": "*outside the scope of* — same meaning; *out of scope* — shorter, common in project management (*that's out of scope*); *scope creep* — when a project keeps growing past its original plan."
+    },
+    {
+      "id": "shed-light-on-something",
+      "term": "shed light on something",
+      "label": "idiom",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To help explain something that was unclear, mysterious or poorly understood, usually by providing new information.",
+      "usage": "Very common in abstracts, grant proposals and science news: *These results shed light on how memories form during sleep*. The past tense and past participle are also *shed*, not *shedded*. Because it appears in so many abstracts, it can sound like a cliché, and a precise verb such as *explain* or *reveal* is sometimes stronger.",
+      "pattern": "shed (new / some / little) light on + topic / how / why",
+      "examples": [
+        "Our findings **shed light on** how gut bacteria shape the immune system in early childhood.",
+        "Newly released emails **shed light on** why the city abandoned the stadium project.",
+        "This project will **shed new light on** why some regions recovered quickly from the 2008 recession while others did not."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The letters she found in the attic {{shed light on}} her grandmother's life during the war.",
+        "hint": "made clearer (not *cast …* or *threw …*)"
+      },
+      "related": "*cast light on* — same, a little literary; *throw light on* — same, less common in American English; *shed little light on* — fail to explain much."
+    },
+    {
+      "id": "a-caveat",
+      "term": "a caveat",
+      "label": "noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˈkæviˌæt/",
+      "respelling": "KAV-ee-at",
+      "meaning": "A warning or limitation added to a statement, so that readers do not take the claim further than the evidence goes.",
+      "usage": "Common in papers, reviews and careful speech: *one important caveat*, *with the caveat that…*, *add a caveat*. Stating caveats shows honesty, but too many can bury your main result, so collect them in a limitations paragraph. The stress is on the first syllable.",
+      "pattern": "one caveat is that…; with the caveat that…; an important / major caveat",
+      "examples": [
+        "The drug lowered blood pressure in older adults, with the **caveat** that the trial lasted only six weeks.",
+        "One important **caveat**: the survey reached only households with internet access.",
+        "I'd recommend the apartment, with one **caveat** — the walls are paper-thin."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The forecast looks promising, but there's an important {{caveat}}: it assumes interest rates stay where they are.",
+        "hint": "a limiting warning (from Latin; not *catch*, *proviso* or *limitation*)"
+      },
+      "related": "*a limitation* — the usual word in a paper's limitations section; *a proviso* — a condition attached to an agreement; *a catch* — informal, a hidden problem."
+    },
+    {
+      "id": "account-for-something",
+      "term": "account for something",
+      "label": "verb + preposition",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To explain something or be its cause (*income accounts for most of the gap*), or to include something as a factor in an analysis or plan (*after accounting for age*).",
+      "usage": "Very common in methods, results and reviews: *after accounting for age and sex*, *the model fails to account for seasonality*, *genetics accounts for about half the variance*. *The authors do not account for X* is a standard reviewer criticism meaning they ignored a factor. It often appears in the passive: *these effects were accounted for*.",
+      "pattern": "account for + a factor / the variance / a difference; after accounting for X",
+      "examples": [
+        "After **accounting for** age and smoking history, the link between air pollution and lung cancer remained strong.",
+        "Differences in parental income **account for** only a small part of the gap in test scores.",
+        "The budget doesn't **account for** the extra flights we'll need for the wedding."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The simulation ignores air resistance, which may {{account for}} the difference between the predicted and measured distances.",
+        "hint": "be the reason for (not *explain*, *cause* or *contribute to*)"
+      },
+      "related": "*explain* — more general; *control for* — statistical: hold a variable constant in the analysis; *take into account* — consider, especially when deciding."
+    },
+    {
+      "id": "in-line-with",
+      "term": "in line with",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Consistent with, or matching, earlier results, expectations, predictions or rules.",
+      "usage": "Very common in results and discussion sections (*in line with previous findings*) and in business and news (*in line with expectations*, *in line with inflation*). In papers, *consistent with* is a slightly more precise alternative. *Bring X in line with Y* means change X so that it matches Y.",
+      "pattern": "be in line with + findings / expectations / a prediction; bring X in line with Y",
+      "examples": [
+        "These results are **in line with** earlier reports linking poor sleep to insulin resistance.",
+        "Quarterly earnings were **in line with** analysts' expectations, and the stock barely moved.",
+        "Raises this year will be **in line with** inflation, so most staff will get about three percent."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The patient's recovery has been {{in line with}} what the surgeon predicted, so she can go home on Friday.",
+        "hint": "matching (three short words; not *consistent with*)"
+      },
+      "mistake": {
+        "wrong": "Our results are inline with earlier studies.",
+        "right": "Our results are in line with earlier studies.",
+        "why": "The phrase is three words; *inline* is a different adjective used in computing and design (*inline code*)."
+      },
+      "related": "*consistent with* — more precise, common in papers; *on par with* — at the same level of quality; *at odds with* — the opposite, contradicting."
+    },
+    {
+      "id": "it-is-worth-noting-that",
+      "term": "it is worth noting that",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a point the reader should not miss, often a detail that changes how a result should be read.",
+      "usage": "Common in results and discussion sections and in peer reviews. Used once or twice, it guides the reader; used in every paragraph, it becomes filler that editors cut, and a plain *Note that* or no phrase at all is often better. In speech, people say *it's worth noting* or just *worth noting*.",
+      "pattern": "It is worth noting / mentioning / pointing out that…",
+      "examples": [
+        "**It is worth noting that** all participants were recruited from a single hospital in Boston.",
+        "**It is worth noting that** the price increase took effect only two weeks before the survey.",
+        "Before you sign, **it's worth noting that** the lease renews automatically every year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It is worth noting that}} the control group also improved, though less than the treatment group.",
+        "hint": "flags a detail the reader shouldn't miss (formal; not *It should be noted* or *…mentioning*)"
+      },
+      "mistake": {
+        "wrong": "It is worth to note that the effect disappears at high temperatures.",
+        "right": "It is worth noting that the effect disappears at high temperatures.",
+        "why": "*Worth* is followed by an *-ing* form, not by *to* + verb."
+      },
+      "related": "*note that* — shorter and more direct; *it should be noted that* — more formal, often wordy; *notably* — one-word alternative inside a sentence."
+    },
+    {
+      "id": "robust-to-something",
+      "term": "robust to something",
+      "label": "adjective + preposition",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Still giving reliable results when conditions change, when the data are noisy or when assumptions are relaxed.",
+      "usage": "Very common in statistics, economics, engineering and ML: *robust to outliers*, *robust to alternative specifications*, *robust to the choice of prior*. Economists run *robustness checks* to show that a finding survives different modeling choices. *Robust against* is also used; outside research, *robust* alone means strong or healthy (*a robust economy*).",
+      "pattern": "robust to + noise / outliers / changes / the choice of X",
+      "examples": [
+        "The estimated effect of class size is **robust to** different choices of control group.",
+        "We show that the classifier is **robust to** small changes in lighting and camera angle.",
+        "A good travel plan is **robust to** the things you can't control, like a canceled flight or a sick kid."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new bridge sensors are designed to be {{robust to}} temperature swings of more than forty degrees.",
+        "hint": "still reliable despite (not *resistant to* or *immune to*)"
+      },
+      "related": "*resistant to* — not damaged or changed by; *sensitive to* — the opposite, easily affected by; *a robustness check* — an extra analysis that tests this."
+    },
+    {
+      "id": "a-growing-body-of-evidence",
+      "term": "a growing body of evidence",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "An increasing number of studies whose results point toward the same conclusion.",
+      "usage": "A typical first sentence in an introduction, review article or grant proposal: *A growing body of evidence suggests that…*. It claims a trend in the literature, so support it with several citations, not one. The verb agrees with *body*, so write *suggests*, not *suggest*.",
+      "pattern": "A growing body of evidence / research / literature suggests / shows that…",
+      "examples": [
+        "**A growing body of evidence** suggests that loneliness raises the risk of heart disease.",
+        "**A growing body of evidence** links early childhood education to higher earnings in adulthood.",
+        "There's **a growing body of evidence** that four-day workweeks don't hurt productivity."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{A growing body of evidence}} indicates that tiny plastic particles can enter the human bloodstream.",
+        "hint": "more and more studies point the same way (five words; the last is not *research*)"
+      },
+      "related": "*mounting evidence* — same idea, a bit more urgent; *emerging evidence* — new and still limited; *a body of work* — a set of studies, without saying they agree."
+    },
+    {
+      "id": "on-par-with",
+      "term": "on par with",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "At the same level of quality, performance, cost or importance as something else.",
+      "usage": "Common in papers, reviews and everyday comparisons: *performance on par with much larger models*, *salaries on par with the private sector*. It means equal, not better; if you are close but not equal, say *roughly on par with* or *comparable to*. *On a par with* is the traditional form and is still preferred in British English.",
+      "pattern": "on par with + a competitor / a standard",
+      "examples": [
+        "Our smaller model performs **on par with** systems that use ten times as many parameters.",
+        "Starting salaries for teachers in the district are now **on par with** those in nearby cities.",
+        "Honestly, the food at that little diner is **on par with** some of the fancy places downtown."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In a head-to-head trial, the generic drug performed {{on par with}} the brand-name version.",
+        "hint": "at the same level as (a golf word; not *comparable to*)"
+      },
+      "related": "*comparable to* — similar, often slightly weaker; *up to par* — good enough, meeting the expected standard; *par for the course* — normal and expected, usually for something bad."
+    },
+    {
+      "id": "motivate-something",
+      "term": "motivate something",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˈmoʊtəˌveɪt/",
+      "respelling": "MOH-tuh-vayt",
+      "meaning": "In academic writing, to explain why a problem, method or design choice is needed or interesting, so the reader sees the reason for it.",
+      "usage": "Very common in papers and reviews: *this observation motivates our approach*; *the introduction should better motivate the problem*. Learners usually know only *motivate a person*, so they misread a review that says *the choice of loss is not well motivated*, which means the reason for it is unclear. *Well motivated* and *poorly motivated* are standard reviewer phrases.",
+      "pattern": "motivate a problem / choice / approach; (not) well motivated",
+      "examples": [
+        "The authors should better **motivate** the choice of a quarterly rather than a monthly time window.",
+        "This breakdown of the classical approximation at low temperatures **motivates** the method we propose in Section 3.",
+        "The first page of a grant proposal has to **motivate** the problem for reviewers outside your field."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Reviewer 2 felt the paper did not adequately {{motivate}} the use of such a complex model for a simple task.",
+        "hint": "give the reason for (not *justify* or *explain*)"
+      },
+      "related": "*justify* — show that a choice is right or reasonable; *a motivating example* — an example that shows why a problem matters; *motivation* — the part of a paper that does this."
+    },
+    {
+      "id": "a-line-of-work",
+      "term": "a line of work",
+      "label": "noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A series of related research efforts, often by several groups over several years, on one question or approach.",
+      "usage": "Common in related-work sections and talks: *Our method builds on a line of work on sparse attention*; *this line of work started with…*. In everyday speech, *line of work* means a person's job (*What line of work are you in?*), so context decides. *A line of research* and *a line of inquiry* are close equivalents.",
+      "pattern": "a (long / growing / recent) line of work on X; this line of work",
+      "examples": [
+        "Our approach builds on **a line of work** that treats protein folding as a sequence prediction problem.",
+        "This paper contributes to **a growing line of work** on how working from home changes where people choose to live.",
+        "**That whole line of work** kind of stalled in the nineties, but it's coming back now."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Their 2015 paper started {{a line of work}} that dozens of labs have since extended to other species.",
+        "hint": "a series of related studies (not *…of research* or *…of inquiry*)"
+      },
+      "related": "*a body of work* — all the work on a topic, or by one person; *a research agenda* — a planned set of future projects; *a line of inquiry* — one approach to a question, also used by police."
+    },
+    {
+      "id": "an-open-question",
+      "term": "an open question",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A question that is still unresolved because no one has found a clear, accepted answer to it yet.",
+      "usage": "Common in introductions and discussion sections: *Whether these effects persist remains an open question*. It frames uncertainty neutrally and points toward future research; in everyday speech it means something not yet decided. Don't confuse it with *an open-ended question*, which invites a free answer rather than yes or no.",
+      "pattern": "whether / how … remains / is still an open question",
+      "examples": [
+        "Whether these gains hold in older patients remains **an open question**.",
+        "How dark matter interacts with ordinary matter is still **an open question** in physics.",
+        "Whether we'll actually go to Japan this summer is **an open question** — it depends on flights."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Scientists have mapped the brain circuits involved, but how they store memories is still {{an open question}}.",
+        "hint": "unresolved; nobody has answered it yet (not *a mystery* or *unanswered …*)"
+      },
+      "related": "*an open problem* — the usual term in math and CS; *an unresolved issue* — more general; *a settled question* — the opposite."
+    },
+    {
+      "id": "leave-something-to-future-work",
+      "term": "leave something to future work",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To say openly that a question or extension will not be handled in the current paper and should be studied later.",
+      "usage": "Standard in conclusions, limitations sections and rebuttals: *We leave the multilingual case to future work*. It is honest about limits, but reviewers object when the missing piece is central to your claim. *Leave it for future work* is equally common.",
+      "pattern": "leave X to / for future work; …, which we leave to future work",
+      "examples": [
+        "We focus on English-language news and **leave** other languages **to future work**.",
+        "As the reviewer suggests, a field trial would be valuable; we **leave it to future work** and mention it in the limitations.",
+        "Estimating these spillovers requires firm-level data, so we **leave** this question **to future work**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Extending the model to rural hospitals is an important next step, which we {{leave to future work}}.",
+        "hint": "postpone to later research (with *to*, not *for*)"
+      },
+      "mistake": {
+        "wrong": "We leave this question to future works.",
+        "right": "We leave this question to future work.",
+        "why": "In this sense *work* is uncountable, so it has no plural."
+      },
+      "related": "*a direction for future research* — longer, more formal; *beyond the scope of this paper* — explains why something is left out; *an open question* — the field has not answered it."
+    },
+    {
+      "id": "to-that-end",
+      "term": "to that end",
+      "label": "discourse marker",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In order to achieve the goal just mentioned; it links a stated aim to the steps taken to reach it.",
+      "usage": "Common in grant proposals, papers and formal emails, right after a sentence that states an aim. Use it only when a goal comes before it; it is not a general *therefore* or *finally*. *To this end* is equally common.",
+      "pattern": "[Goal]. To that end, we will / we have…",
+      "examples": [
+        "We aim to reduce hospital readmissions for heart failure. **To that end**, we will test a nurse-led follow-up program.",
+        "The city wants more people to bike to work. **To that end**, it's adding forty miles of protected bike lanes.",
+        "Our goal is to finalize the budget by Friday. **To that end**, please send me your estimates by Wednesday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The library wants more teenagers to visit after school. {{To that end}}, it has added a gaming room and longer weekday hours.",
+        "hint": "in order to reach the goal just stated (not *To this end* or *For this purpose*)"
+      },
+      "related": "*to this end* — same meaning; *for this purpose* — plainer; *therefore* — introduces a logical result, not a step toward a goal."
+    },
+    {
+      "id": "taken-together",
+      "term": "taken together",
+      "label": "discourse marker",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When several results or facts are considered as a whole rather than one by one.",
+      "usage": "Typical at the start of a summary sentence in results, discussion sections and abstracts: *Taken together, these findings suggest…*. It combines earlier evidence into one conclusion, so it needs at least two results before it. *Collectively* and *overall* are close alternatives.",
+      "pattern": "Taken together, these results / findings suggest / indicate that…",
+      "examples": [
+        "**Taken together**, these findings suggest that the protein plays a key role in cell division.",
+        "**Taken together**, the three surveys point to a sharp drop in trust in local news.",
+        "None of the warning signs seemed serious on its own, but **taken together** they should have worried the bank's board."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Each experiment alone is only suggestive, but {{taken together}} they point clearly to a single cause.",
+        "hint": "considered as a whole (not *overall* or *collectively*)"
+      },
+      "mistake": {
+        "wrong": "Taking together, these results suggest a role for zinc.",
+        "right": "Taken together, these results suggest a role for zinc.",
+        "why": "The results are what is *taken* together, so the phrase needs the past participle, not *taking*."
+      },
+      "related": "*overall* — more general, less tied to a list of results; *collectively* — formal, same idea; *all in all* — informal summary in speech."
+    },
+    {
+      "id": "in-light-of",
+      "term": "in light of",
+      "label": "prepositional phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Considering a fact or new piece of information that affects what you decide, do or conclude.",
+      "usage": "Common in formal writing, news, official announcements and rebuttals: *In light of recent findings, we revised the protocol*. It usually introduces a reason for changing a plan or a view. American English prefers *in light of*; *in the light of* is more common in British English.",
+      "pattern": "In light of + new data / recent events / these results, …",
+      "examples": [
+        "**In light of** the new safety data, the trial's monitoring board recommended a lower dose.",
+        "**In light of** the reviewers' comments, we have added a second robustness check to Section 5.",
+        "**In light of** the storm warning, the school district has canceled classes for Friday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In light of}} rising rents, many young couples are moving back in with their parents.",
+        "hint": "considering (formal; not *given*, *in view of* or *because of*)"
+      },
+      "related": "*given* — shorter, also formal; *in view of* — very close, a bit stiffer; *shed light on* — different meaning: help explain."
+    },
+    {
+      "id": "on-the-order-of",
+      "term": "on the order of",
+      "label": "prepositional phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Approximately; of roughly the size given, often meaning within a factor of ten rather than an exact figure.",
+      "usage": "Common in physics, engineering and CS papers, and in educated speech: *on the order of milliseconds*, *costs on the order of a million dollars*. In technical writing it gives the magnitude, not the precise value. British English often says *of the order of* or *in the order of*; Americans say *on the order of*.",
+      "pattern": "on the order of + a number / a unit (seconds, millions, a few percent)",
+      "examples": [
+        "The measured delays are **on the order of** a few microseconds, far below what users would notice.",
+        "Repairs to the bridge will cost something **on the order of** fifty million dollars.",
+        "In humans, a red blood cell lives **on the order of** a few months before it's recycled."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Training the full model took {{on the order of}} ten thousand GPU hours, so we could run it only once.",
+        "hint": "roughly, as a magnitude (four words, American form; not *about*)"
+      },
+      "related": "*roughly* / *approximately* — plainer; *an order of magnitude* — a factor of ten (*an order of magnitude faster*); *a ballpark figure* — informal rough estimate."
+    },
+    {
+      "id": "the-key-insight",
+      "term": "the key insight",
+      "label": "adjective + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The central idea or realization that makes a method, proof or argument work.",
+      "usage": "Common in introductions, abstracts and talks: *The key insight is that…*; *our key insight is to…*. It promises one clear idea, so follow it with a sentence the reader can remember, not a list of features. Used too often, or for a minor trick, it sounds like marketing.",
+      "pattern": "The key insight is that… / Our key insight is to…",
+      "examples": [
+        "**The key insight** is that most of the matrix is zero, so we never need to store it in full.",
+        "Darwin's **key insight** was that small variations, over enough generations, could produce entirely new species.",
+        "**The key insight** from the pilot was that patients skipped doses because of cost, not side effects."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The key insight}} behind the new battery design was that the electrodes could be made from cheap iron.",
+        "hint": "the central realization that makes it work (not *the main idea* or *the big …*)"
+      },
+      "related": "*the main idea* — plainer, not tied to a breakthrough; *the crux* — the most important or difficult point; *the trick* — informal, a clever step that makes something work."
+    },
+    {
+      "id": "nontrivial",
+      "term": "nontrivial",
+      "label": "adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/nɑnˈtrɪviəl/",
+      "respelling": "non-TRIV-ee-ul",
+      "meaning": "Not easy, obvious or small: needing real effort or thought, or large enough to matter.",
+      "usage": "Common in math, CS and engineering, and in educated speech as an understatement: *a nontrivial amount of work* usually means *a lot*. In math, *a nontrivial solution* is one other than the obvious one, such as zero. American style usually writes it as one word, without a hyphen.",
+      "pattern": "a nontrivial amount / fraction / problem; it's nontrivial to + verb",
+      "examples": [
+        "Porting the simulation code to GPUs turned out to be **nontrivial**, mostly because of old dependencies.",
+        "We prove that the system has a **nontrivial** solution whenever the coupling constant exceeds one.",
+        "Moving across the country with two kids and a dog is a **nontrivial** amount of work."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Finding a time that works for twelve people in four time zones is a {{nontrivial}} problem.",
+        "hint": "far from easy — a negative prefix + a word meaning 'unimportant' (not *difficult*)"
+      },
+      "related": "*trivial* — the opposite, easy or unimportant; *non-obvious* — not easy to see, about ideas; *substantial* — large, about amounts."
+    },
+    {
+      "id": "principled",
+      "term": "principled",
+      "label": "adjective",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˈprɪnsəpəld/",
+      "respelling": "PRIN-suh-puld",
+      "meaning": "In research, based on a clear theory, explicit rules or a justified method, rather than on trial and error or arbitrary choices.",
+      "usage": "Common in CS, statistics and economics: *a principled approach*, *a principled way to choose the threshold*. Reviewers call a choice *ad hoc* or *not principled* when it looks arbitrary. In everyday English, *a principled person* has firm morals, which is a different sense.",
+      "pattern": "a principled approach / way / method / criterion",
+      "examples": [
+        "Instead of tuning the threshold by hand, we derive it in a **principled** way from the noise model.",
+        "Bayesian statistics offers a **principled** framework for combining earlier studies with new data.",
+        "The review called the 30-day cutoff arbitrary and asked for a more **principled** justification."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Rather than picking the number of clusters by eye, use a {{principled}} criterion such as the gap statistic.",
+        "hint": "based on theory, not guesswork (from the noun for a basic rule; not *rigorous* or *objective*)"
+      },
+      "mistake": {
+        "wrong": "We propose a more principle way to choose the learning rate.",
+        "right": "We propose a more principled way to choose the learning rate.",
+        "why": "The adjective is *principled*, with *-ed*; *principle* is a noun, and *principal* means *main*."
+      },
+      "related": "*ad hoc* — the opposite, chosen for one case without a general reason; *rigorous* — careful and exact; *heuristic* — a practical rule of thumb without full justification."
+    },
+    {
+      "id": "make-the-case-that",
+      "term": "make the case that",
+      "label": "verb phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To argue convincingly, with reasons and evidence, that something is true or should be done.",
+      "usage": "Common in essays, grant proposals, op-eds and meetings: *In this paper, we make the case that…* states your thesis plainly. Use *make the case for* + noun for something you support (*make the case for more funding*). *A strong case* or *a compelling case* is the usual way to praise an argument.",
+      "pattern": "make the case that + clause / make the case for + noun; make a strong / compelling case",
+      "examples": [
+        "In this essay, we **make the case that** sleep should be treated as a public health priority.",
+        "The authors **make a convincing case that** small banks lend more carefully than large ones.",
+        "If you want a raise, you'll need to **make the case that** your role has grown."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In her new book, the historian {{makes the case that}} the printing press changed science more than the telescope did.",
+        "hint": "presents a convincing argument (four words; not *argues* or *contends*)"
+      },
+      "related": "*argue that* — plainer, less about persuading; *build a case* — gather evidence over time; *the case for / against X* — the arguments that support / oppose it."
+    },
+    {
+      "id": "a-proxy-for-something",
+      "term": "a proxy for something",
+      "label": "noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Something easier to measure that is used in place of the thing you really care about, because the two tend to move together.",
+      "usage": "Very common in economics, epidemiology, climate science and ML: *zip code as a proxy for income*, *a proxy for model quality*. Reviewers often ask whether a proxy is valid, so explain why it tracks the real target. It also works before a noun: *a proxy measure*, *a proxy variable*.",
+      "pattern": "X is (used as) a proxy for Y; a good / poor / crude proxy",
+      "examples": [
+        "Nighttime light seen from satellites is often used as **a proxy for** economic activity.",
+        "Tree-ring width serves as **a proxy for** past rainfall in regions without weather records.",
+        "Benchmark accuracy is a poor **proxy for** how useful a chatbot is to real users."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Many hiring managers treat a degree from a famous school as {{a proxy for}} talent, which is often unfair.",
+        "hint": "something easy to measure that replaces the real target (not *a sign of*, *an indicator of* or *a stand-in for*)"
+      },
+      "related": "*an indicator of* — a sign of, not necessarily a substitute; *a surrogate endpoint* — in medicine, a proxy outcome such as blood pressure; *a stand-in* — informal, a substitute."
+    },
+    {
+      "id": "inform-something",
+      "term": "inform something",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ɪnˈfɔrm/",
+      "respelling": "in-FORM",
+      "meaning": "To guide or shape a decision, design, policy or piece of work by providing knowledge or evidence.",
+      "usage": "Common in grant proposals, policy papers and discussion sections: *Our results can inform treatment guidelines*; *a design informed by user interviews*. The object is a decision, policy or design; with a person, *inform someone of / about* still means *tell*. It also forms adjectives such as *evidence-informed* and *theory-informed*.",
+      "pattern": "inform a decision / policy / design / guidelines; informed by X",
+      "examples": [
+        "These findings could **inform** guidelines on when to start screening for colon cancer.",
+        "Interviews with farmers **informed** the design of the irrigation app.",
+        "Her years as a public defender clearly **inform** her novels about the justice system."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Results from the pilot program will {{inform}} the city's decision on whether to expand bike-sharing.",
+        "hint": "provide the evidence for — normally the verb for telling people news (not *guide* or *shape*)"
+      },
+      "related": "*guide* — similar, more direct; *shape* — influence the form of something; *data-driven* — decided mainly by data, stronger than *data-informed*."
+    },
+    {
+      "id": "cherry-pick",
+      "term": "cherry-pick",
+      "label": "verb",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˈtʃɛriˌpɪk/",
+      "respelling": "CHER-ee-pik",
+      "meaning": "To choose only the results, examples or data that support your argument and ignore the ones that don't.",
+      "usage": "A strong criticism in reviews, debates and journalism: *the authors cherry-picked their baselines*; *cherry-picked examples*. It implies bias, so in a review a softer phrase such as *the examples may not be representative* is often wiser unless you are sure. In git, *cherry-pick* is neutral: it copies one commit to another branch.",
+      "pattern": "cherry-pick results / data / examples; cherry-picked (adjective); cherry-picking (noun)",
+      "examples": [
+        "The report **cherry-picks** the three best years and ignores a decade of flat sales.",
+        "Reviewer 1 suspected that the qualitative examples in Figure 4 had been **cherry-picked**.",
+        "Diet books tend to **cherry-pick** small studies that support whatever they're selling."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If you only show the patients who improved, people will say you {{cherry-picked}} your cases.",
+        "hint": "chose only the favorable ones (a fruit metaphor; not *hand-…*)"
+      },
+      "related": "*selective reporting* — the formal research term; *p-hacking* — trying analyses until one is significant; *hand-pick* — choose carefully, usually neutral or positive."
+    },
+    {
+      "id": "address-a-comment",
+      "term": "address a comment",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To respond properly to a reviewer's or editor's point, either by changing the work or by explaining why no change is needed.",
+      "usage": "Standard in rebuttals and response letters: *We have addressed all of the reviewers' comments*; *To address this comment, we added…*. Saying a comment is *addressed* implies concrete action, so point to the exact change (section, figure or line). *Address* takes *concerns*, *issues* and *questions* in the same sense.",
+      "pattern": "address a comment / concern / point; to address this comment, we…",
+      "examples": [
+        "To **address** Reviewer 2's **comment** on sample size, we added a power analysis to the supplement.",
+        "The editor asked us to **address** every **comment** point by point before we resubmit.",
+        "The contractor promised to **address** the inspector's **comments** before the final walk-through."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We thank the reviewer and have {{addressed}} this comment by adding an experiment on data from two new hospitals.",
+        "hint": "dealt with properly (not *responded to*, *answered* or *handled*)"
+      },
+      "mistake": {
+        "wrong": "We have addressed to all of the reviewers' comments.",
+        "right": "We have addressed all of the reviewers' comments.",
+        "why": "In this sense *address* takes a direct object, with no preposition."
+      },
+      "related": "*respond to* — reply, without saying the issue is solved; *rebut* — argue that a criticism is wrong; *a response letter* — the document where you do this."
+    },
+    {
+      "id": "to-date",
+      "term": "to date",
+      "label": "adverbial phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Up to the present time; so far.",
+      "usage": "Common in abstracts, reports and news: *To date, no study has…*; *the largest trial to date*. It usually goes at the start or end of the clause, often with the present perfect or after a superlative. Don't confuse it with *up to date*, which means current, with the latest information.",
+      "pattern": "To date, no study has…; the largest / first X to date",
+      "examples": [
+        "**To date**, no serious side effects have been reported in either group.",
+        "This is the largest survey of American dairy farmers **to date**.",
+        "The neighborhood fundraiser has brought in about eighteen thousand dollars **to date**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The museum has received more than two hundred donated objects {{to date}}, and more keep arriving.",
+        "hint": "up to now (formal; not *so far* or *thus far*)"
+      },
+      "related": "*so far* — the everyday equivalent; *thus far* — formal, a bit old-fashioned; *up to date* — current, with the latest information."
+    },
+    {
+      "id": "arguably",
+      "term": "arguably",
+      "label": "adverb",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˈɑrɡjuəbli/",
+      "respelling": "AR-gyoo-uh-blee",
+      "meaning": "Used to say that a statement can reasonably be supported with arguments, even though not everyone would agree.",
+      "usage": "Common in essays, reviews and educated speech, usually before a superlative or a strong claim: *arguably the most important result*. It leans toward the claim: *arguably the best* means there are good reasons to call it the best. It is a mild, useful hedge, but in every paragraph it makes a text sound unsure.",
+      "pattern": "arguably + the most / the best / the first…",
+      "examples": [
+        "CRISPR is **arguably** the most important advance in molecular biology this century.",
+        "She's **arguably** the best point guard in the league right now.",
+        "Remote work is **arguably** the biggest change to office life since email."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The Great Lakes are {{arguably}} the most valuable source of fresh water in North America.",
+        "hint": "there are good reasons to say so, though some would disagree (not *probably* or *perhaps*)"
+      },
+      "related": "*debatably* — rare, suggests real doubt; *undoubtedly* — no doubt at all, much stronger; *I'd argue that* — the spoken equivalent."
+    },
+    {
+      "id": "mitigate-something",
+      "term": "mitigate something",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˈmɪtəˌɡeɪt/",
+      "respelling": "MIT-uh-gayt",
+      "meaning": "To make a problem, risk or harmful effect less severe, without removing it completely.",
+      "usage": "Common in papers, technical reports, business and policy writing: *mitigate the risk of overfitting*, *mitigation strategies*. The object is the bad thing itself. *Mitigate against* is widely treated as an error, probably from confusion with *militate against*, which means *make something less likely*.",
+      "pattern": "mitigate a risk / the effects / damage / bias",
+      "examples": [
+        "Planting trees along the river helps **mitigate** flood damage during heavy storms.",
+        "We **mitigate** the class imbalance by oversampling rare diagnoses during training.",
+        "The hospital hired extra night nurses to **mitigate** the effects of the staffing shortage."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "A helmet won't prevent a crash, but it can {{mitigate}} the damage if you hit your head.",
+        "hint": "make less severe (formal; not *reduce*, *lessen*, *limit* or *minimize*)"
+      },
+      "mistake": {
+        "wrong": "We added dropout to mitigate against overfitting.",
+        "right": "We added dropout to mitigate overfitting.",
+        "why": "*Mitigate* takes the problem as a direct object; *against* belongs with *militate* or *guard*."
+      },
+      "related": "*alleviate* — ease pain or suffering; *exacerbate* — the opposite, make worse; *eliminate* — remove completely, much stronger."
+    },
+    {
+      "id": "orthogonal-to-something",
+      "term": "orthogonal to something",
+      "label": "adjective + preposition",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ɔrˈθɑɡənəl/",
+      "respelling": "or-THAH-guh-nul",
+      "meaning": "Independent of something else: the two ideas or methods do not affect each other, so they can be studied separately or combined.",
+      "usage": "Borrowed from geometry, it is common in CS, math and engineering papers and in tech meetings: *our method is orthogonal to data augmentation and can be combined with it*. In related-work sections it politely says that other work is not a competitor. Outside technical circles it sounds like jargon; *unrelated to* or *separate from* is plainer.",
+      "pattern": "X is orthogonal to Y (and can be combined with it)",
+      "examples": [
+        "Our compression technique is **orthogonal to** quantization, so the two can be used together.",
+        "Whether the plan is popular is **orthogonal to** whether it actually works.",
+        "That's kind of **orthogonal to** what we're discussing, but it's a good point."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Better sensor hardware is {{orthogonal to}} better denoising software; improving one doesn't change the other.",
+        "hint": "a geometry word for 'at right angles', used to mean independent of"
+      },
+      "related": "*complementary to* — different but working well together; *unrelated to* — plainer; *in tension with* — pulling against each other, the opposite idea."
+    },
+    {
+      "id": "it-remains-unclear-whether",
+      "term": "it remains unclear whether",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "States that a question is still not answered, usually because the evidence so far does not settle it.",
+      "usage": "Typical in introductions and discussion sections to point to a gap: *It remains unclear whether these effects persist*. It is neutral and less dramatic than calling something a mystery. Use *whether* for yes-or-no questions and *how*, *why* or *what* for others (*it remains unclear why…*).",
+      "pattern": "It remains unclear whether / how / why…",
+      "examples": [
+        "**It remains unclear whether** the benefits of the diet last beyond the first year.",
+        "Analysts say **it remains unclear whether** lower interest rates will be enough to revive the housing market.",
+        "Although these neurons are active during learning, **it remains unclear whether** they also fire during sleep."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Investigators found the cause of the fire, but {{it remains unclear whether}} the alarm system was working at the time.",
+        "hint": "it is still not known if (formal; a verb meaning 'continues to be')"
+      },
+      "related": "*it is not yet known whether* — same, slightly plainer; *an open question* — the noun form of the same idea; *it is well established that* — the opposite."
+    },
+    {
+      "id": "warrant-further-investigation",
+      "term": "warrant further investigation",
+      "label": "verb + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To deserve or justify more research before anyone draws firm conclusions.",
+      "usage": "A standard closing line in abstracts and discussion sections: *These preliminary findings warrant further investigation*. The subject is the finding or the question, not the researchers, so never *we warrant…*. It is safe and modest, but it can sound like a reflex, so say what kind of study is needed.",
+      "pattern": "X warrants further investigation / study / research",
+      "examples": [
+        "The link between the gene variant and early-onset diabetes **warrants further investigation** in larger cohorts.",
+        "This unexpected drop in productivity among older firms **warrants further investigation**.",
+        "The building inspector said the crack in the foundation **warranted further investigation**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The small rise in reading scores is encouraging but {{warrants further investigation}} before the district adopts the program everywhere.",
+        "hint": "formal: more study is justified (not *merits …* or *deserves …*)"
+      },
+      "related": "*merit further study* — same, slightly softer; *call for more research* — plainer; *inconclusive* — not enough evidence to decide."
+    },
+    {
+      "id": "lend-support-to-something",
+      "term": "lend support to something",
+      "label": "verb + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To provide evidence that makes a claim, hypothesis or idea more likely to be true, without proving it.",
+      "usage": "Common in results and discussion sections: *These findings lend support to the hypothesis that…*. It is a careful, hedged way to say that evidence agrees with an idea; strengthen it with *further*, *additional* or *strong*. The subject is the evidence or the results, not the authors.",
+      "pattern": "X lends (further / strong) support to the hypothesis / idea / view that…",
+      "examples": [
+        "The fossil record **lends support to** the idea that birds evolved from small feathered dinosaurs.",
+        "Rising wages in the region **lend support to** the view that the labor market is still tight.",
+        "Security camera footage **lent support to** the driver's account of the accident."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Brain scans from the new study {{lend support to}} the theory that dreaming helps us process emotions.",
+        "hint": "make it more believable — the verb usually means 'let someone borrow' (not *back up*)"
+      },
+      "related": "*support* — plainer, can sound stronger; *corroborate* — confirm with independent evidence; *cast doubt on* — the opposite."
+    },
+    {
+      "id": "corroborate",
+      "term": "corroborate",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/kəˈrɑbəˌreɪt/",
+      "respelling": "kuh-RAH-buh-rayt",
+      "meaning": "To confirm a finding, claim or account by providing independent evidence that agrees with it.",
+      "usage": "Used in science, law and journalism: *our results corroborate earlier field observations*; *the story was corroborated by video*. It implies a second, independent source, so for repeating your own experiment, *replicate* is the better word. *Corroborating evidence* is a common collocation.",
+      "pattern": "corroborate a finding / claim / account / report",
+      "examples": [
+        "Satellite images **corroborate** villagers' reports that the glacier has retreated sharply.",
+        "Two independent labs have since **corroborated** the original measurement of the particle's mass.",
+        "Police found no witnesses who could **corroborate** his alibi."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Interviews with former employees {{corroborated}} what the leaked documents had suggested.",
+        "hint": "gave independent confirmation of (formal; not *confirmed* or *backed up*)"
+      },
+      "related": "*confirm* — more general; *replicate* — repeat a study and get the same result; *contradict* — the opposite."
+    },
+    {
+      "id": "substantiate-a-claim",
+      "term": "substantiate a claim",
+      "label": "verb + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/səbˈstænʃiˌeɪt ə ˈkleɪm/",
+      "meaning": "To support a claim with evidence or proof, showing that it is true.",
+      "usage": "Common in reviews, legal writing and journalism, often in the negative: *the claim is not substantiated by the data*; *unsubstantiated rumors*. Reviewers use it to ask for evidence: *Please substantiate this claim with an ablation or a citation*. In speech, *back up a claim* is more natural.",
+      "pattern": "substantiate a claim / an allegation (with evidence); unsubstantiated",
+      "examples": [
+        "The authors say the method works for other cancers but do nothing to **substantiate this claim**.",
+        "The company couldn't **substantiate** its **claims** that the supplement boosts memory, so regulators fined it.",
+        "Before you report a coworker to HR, make sure you can **substantiate** your **claims**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The ad says the cream removes wrinkles in a week, but the company has never {{substantiated}} that claim.",
+        "hint": "shown with evidence that it's true (formal; not *proven*, *supported* or *backed up*)"
+      },
+      "related": "*back up* — the everyday equivalent; *corroborate* — confirm with independent evidence; *unsubstantiated* — without evidence, often about rumors or allegations."
+    },
+    {
+      "id": "give-rise-to-something",
+      "term": "give rise to something",
+      "label": "verb phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To cause something to appear, develop or happen, often as a gradual or indirect result.",
+      "usage": "Common in scientific, historical and legal writing: *mutations that give rise to drug resistance*; *the case gave rise to new regulations*. It is formal; in speech, *lead to* or *cause* is more natural. The result follows *to* as a noun phrase, and the phrase is almost never used in the passive.",
+      "pattern": "X gives rise to + a new thing / a problem / a result",
+      "examples": [
+        "A single type of stem cell can **give rise to** every kind of cell in the blood.",
+        "Cheap railroad travel **gave rise to** the first commuter suburbs around many American cities.",
+        "The new privacy law has **given rise to** a whole industry of compliance consultants."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In the 1950s, the spread of television {{gave rise to}} a new kind of celebrity.",
+        "hint": "caused to appear (formal; not *led to*, *created* or *spawned*)"
+      },
+      "related": "*lead to* — plainer, the everyday equivalent; *spawn* — produce many of something, often negative; *stem from* — the reverse direction: come from a cause."
+    },
+    {
+      "id": "attribute-something-to-something",
+      "term": "attribute something to something",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/əˈtrɪbjut/",
+      "respelling": "uh-TRIB-yoot",
+      "meaning": "To say or believe that something is caused by, or comes from, a particular factor, person or source.",
+      "usage": "Common in discussion sections and the news: *we attribute the improvement to cleaner data*; *the drop is largely attributable to…*. Hedge when the cause is uncertain: *may be attributed to*, *is likely attributable to*. The verb is stressed on the second syllable; the noun *attribute* (a quality) is stressed on the first.",
+      "pattern": "attribute X to Y; X is attributed / attributable to Y",
+      "examples": [
+        "We **attribute** the lower error rate **to** cleaner labels rather than to the new architecture.",
+        "Doctors **attributed** his quick recovery **to** early treatment and a very supportive family.",
+        "The quote is often **attributed to** Mark Twain, but there's no evidence he ever said it."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Economists {{attribute}} most of the price increase to higher shipping costs.",
+        "hint": "say the cause is (not *trace* or *ascribe*)"
+      },
+      "mistake": {
+        "wrong": "AT-ruh-byoot /ˈætrəˌbjut/ (as a verb)",
+        "right": "uh-TRIB-yoot /əˈtrɪbjut/",
+        "why": "Learners often use the noun stress for the verb; the verb *attribute* is stressed on the second syllable."
+      },
+      "related": "*ascribe* — very close, more literary; *chalk something up to* — informal American equivalent; *credit someone with* — say that a success is thanks to someone."
+    },
+    {
+      "id": "albeit",
+      "term": "albeit",
+      "label": "conjunction",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ɔlˈbiɪt/",
+      "respelling": "awl-BEE-it",
+      "meaning": "Although; even though. It adds a limiting detail, usually before a short phrase rather than a full clause.",
+      "usage": "Formal but common in papers and quality journalism: *a small, albeit significant, effect*; *the model improved, albeit slowly*. Follow it with an adjective, adverb or short phrase; before a full clause with its own subject and verb, use *although*. It has three syllables: awl-BEE-it.",
+      "pattern": "X, albeit + adjective / adverb / short phrase",
+      "examples": [
+        "The treatment reduced pain, **albeit** only modestly, in about two-thirds of patients.",
+        "The economy grew last quarter, **albeit** at its slowest pace in three years.",
+        "We finally got the couch up the stairs, **albeit** with a few scratches on the walls."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The team made the playoffs, {{albeit}} by the narrowest of margins.",
+        "hint": "even though — a formal one-word linker (not *although* or *though*)"
+      },
+      "mistake": {
+        "wrong": "The results improved, albeit the sample was small.",
+        "right": "The results improved, although the sample was small.",
+        "why": "*Albeit* normally introduces a short phrase (*albeit slowly*); a full clause with its own subject and verb needs *although*."
+      },
+      "related": "*although* — the normal choice before a full clause; *if* — in *a useful, if imperfect, tool*, same idea, a little lighter; *though* — more relaxed."
+    },
+    {
+      "id": "as-such",
+      "term": "as such",
+      "label": "discourse marker",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Commonly used to mean *therefore*; in the strict, traditional sense it means *in that role* or *as that kind of thing*, referring back to a noun.",
+      "usage": "Very common at the start of a sentence in papers and business writing in the sense of *therefore*, but many editors object to that use. In the strict use, *such* points back to a noun or role: *She is the lab manager and, as such, approves all orders*. If no noun or role comes before it, *therefore* or *thus* is the safer choice.",
+      "pattern": "[noun / role] and, as such, …; As such, … (= therefore)",
+      "examples": [
+        "The committee chair is a voting member and, **as such**, must disclose any conflicts of interest.",
+        "Most participants were college students. **As such**, the findings may not generalize to older adults.",
+        "She was the only doctor on the flight and, **as such**, was asked to help the passenger who collapsed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "He's the treasurer of the club and, {{as such}}, has to sign off on every expense.",
+        "hint": "in that role (two short words; not *therefore*)"
+      },
+      "related": "*therefore* / *thus* — always safe for a logical result; *in that capacity* — formal, only the role sense; *not … as such* — not really, in itself (*it's not a bug as such*)."
+    },
+    {
+      "id": "a-confounding-factor",
+      "term": "a confounding factor",
+      "label": "adjective + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A third variable that affects both the supposed cause and the outcome, so that a relationship looks stronger, weaker or different than it really is.",
+      "usage": "Central in epidemiology, economics and social science: *age is a potential confounding factor*; *we adjusted for confounding factors*. It is also called *a confounder* or *a confounding variable*. In ordinary English *confounding* means *confusing*, but in research it has this technical sense, so don't use it for just any complication.",
+      "pattern": "a (potential / major) confounding factor; adjust / control for confounding factors",
+      "examples": [
+        "Smoking was **a confounding factor** in early studies that linked coffee to lung cancer.",
+        "Neighborhood income could be **a confounding factor**, since it affects both school quality and test scores.",
+        "Ice cream sales and drownings both rise in summer; hot weather is **the confounding factor**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The study linked owning a dog to longer life, but overall health may be {{a confounding factor}}: sick people are less likely to adopt a pet.",
+        "hint": "a hidden third variable that distorts the link (not *a confounder* or *… variable*)"
+      },
+      "related": "*a confounder* — the same, shorter; *a mediator* — a variable on the causal path between cause and effect; *a lurking variable* — older textbook term for a hidden confounder."
+    },
+    {
+      "id": "to-a-first-approximation",
+      "term": "to a first approximation",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Roughly, when you ignore the smaller effects and keep only the main ones; the simple picture is basically right but not exact.",
+      "usage": "From physics and math, now common in technical writing and educated speech: *To a first approximation, cost scales linearly with the number of users*. It signals that a more careful analysis would add corrections. *To first approximation*, without the article, is also common.",
+      "pattern": "To a first approximation, X is / scales with / equals Y",
+      "examples": [
+        "**To a first approximation**, Earth's orbit is a circle, though it's actually slightly elliptical.",
+        "A household's heating bill, **to a first approximation**, scales with the size of its home.",
+        "**To a first approximation**, our whole budget is salaries; everything else is a rounding error."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{To a first approximation}}, the cost of running the cluster is just the cost of electricity.",
+        "hint": "roughly, ignoring smaller effects (four words, from physics)"
+      },
+      "related": "*roughly speaking* — plainer; *in the limit* — when a quantity becomes very large or very small; *at first glance* — about a first impression, not a simplified model."
+    },
+    {
+      "id": "all-else-being-equal",
+      "term": "all else being equal",
+      "label": "fixed phrase",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "If nothing else changes, so that only the factor being discussed makes a difference.",
+      "usage": "Common in economics, science and reasoned argument, and in everyday decisions: *All else being equal, a larger sample gives more precise estimates*. It is the English version of the Latin *ceteris paribus*, which economists also use. Variants include *all else equal*, *all things being equal* and *other things being equal*.",
+      "pattern": "All else being equal, X leads to / is better than Y",
+      "examples": [
+        "**All else being equal**, a higher interest rate reduces how much firms invest.",
+        "I'd rather take the job that's closer to home, **all else being equal**.",
+        "**All else being equal**, larger tumors are more likely to have spread at diagnosis."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{All else being equal}}, a heavier car uses more fuel than a lighter one.",
+        "hint": "if no other factor changes (four words; not *All things …* or *Other things …*)"
+      },
+      "related": "*ceteris paribus* — Latin, formal economics; *other things being equal* — same, a little more formal; *in practice* — the contrast, where other things do change."
+    },
+    {
+      "id": "by-construction",
+      "term": "by construction",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "True automatically because of how something was defined, designed or built, so it needs no separate proof or test.",
+      "usage": "Common in math, statistics, CS and economics papers: *the residuals have mean zero by construction*. It tells readers that a property is not a finding but a consequence of the setup. Reviewers often write *this holds by construction* to point out that a claimed result is circular.",
+      "pattern": "X holds / is true / is zero by construction",
+      "examples": [
+        "The weights sum to one **by construction**, so there is no need to normalize them again.",
+        "**By construction**, the treatment and control groups have the same average age, since we matched them on it.",
+        "This correlation holds **by construction**, since the index already includes the unemployment rate."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The forecast can never be negative {{by construction}}, because we model the logarithm of sales.",
+        "hint": "automatically, because of how it was built (not *by design* or *by definition*)"
+      },
+      "related": "*by definition* — true because of what a word means; *by design* — intended on purpose; *circular reasoning* — assuming what you claim to prove."
+    },
+    {
+      "id": "underscore-something",
+      "term": "underscore something",
+      "label": "verb",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˌʌndɚˈskɔr/",
+      "respelling": "un-der-SKOR",
+      "meaning": "To emphasize something or show clearly how important or serious it is.",
+      "usage": "Common in formal writing, news and discussion sections: *These results underscore the need for early screening*. The subject is usually a fact, event or finding, not a person. *Underline* has the same figurative sense and is more common in British English.",
+      "pattern": "X underscores the need for / the importance of / how…",
+      "examples": [
+        "The outbreak **underscores** the need for faster testing in rural clinics.",
+        "The bank's collapse **underscored** how quickly depositors can panic in the age of mobile banking.",
+        "These failures **underscore** the importance of testing models on data from other hospitals."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The long lines at the food bank {{underscore}} how many families are struggling this winter.",
+        "hint": "make clear how serious it is (not *show*, *highlight* or *underline*)"
+      },
+      "related": "*highlight* — draw attention to, more neutral; *underline* — same figurative meaning, more British; *downplay* — the opposite, make seem less important."
+    },
+    {
+      "id": "underexplored",
+      "term": "underexplored",
+      "label": "adjective",
+      "register": "formal",
+      "region": "both",
+      "ipa": "/ˌʌndɚɪkˈsplɔrd/",
+      "respelling": "un-der-ik-SPLORD",
+      "meaning": "Not yet studied or investigated as much as it deserves.",
+      "usage": "A favorite word in introductions and grant proposals to justify a project: *the role of X remains underexplored*. It implies the topic matters and others have neglected it, so make sure it is true, because reviewers will check. Don't confuse it with *unexplored*, which means not studied at all.",
+      "pattern": "remain (largely) underexplored; an underexplored question / area",
+      "examples": [
+        "The role of fungi in city soils remains largely **underexplored**.",
+        "How retirees use their time online is an **underexplored** question in the economics of aging.",
+        "Robustness to label noise is still **underexplored** for speech models compared with vision models."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Sleep in teenagers is well studied, but sleep in toddlers remains {{underexplored}}.",
+        "hint": "not yet studied enough (not *understudied* or *unexplored*)"
+      },
+      "related": "*understudied* — a very close synonym; *unexplored* — not studied at all; *well-studied* — the opposite."
+    },
+    {
+      "id": "have-implications-for-something",
+      "term": "have implications for something",
+      "label": "verb + noun",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To have possible effects or consequences for something, often ones that are not obvious yet.",
+      "usage": "Standard in abstracts and discussion sections: *These results have important implications for drug design*. Add an adjective to make it precise: *clinical*, *practical*, *policy* or *broad implications*. Use *for* after *implications*, not *on*.",
+      "pattern": "have (important / clinical / practical) implications for X",
+      "examples": [
+        "These findings **have** direct **implications for** how doctors treat high blood pressure in older adults.",
+        "A slowdown in China would **have implications for** commodity exporters around the world.",
+        "The court ruling **has implications for** every landlord in the city."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If the result holds up, it will {{have implications for}} how we design batteries for electric cars.",
+        "hint": "carry possible consequences for (not *affect* or *impact*)"
+      },
+      "mistake": {
+        "wrong": "Our findings have implications on how cities plan bike lanes.",
+        "right": "Our findings have implications for how cities plan bike lanes.",
+        "why": "*Implications* takes *for*; learners often use *on* by analogy with *effect on* or *impact on*."
+      },
+      "related": "*affect* — plainer and more direct; *bear on* — be relevant to; *ramifications* — complex, often unwanted consequences."
+    },
+    {
+      "id": "overclaim",
+      "term": "overclaim",
+      "label": "verb",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˌoʊvɚˈkleɪm/",
+      "respelling": "oh-ver-KLAYM",
+      "meaning": "To claim more than your evidence actually supports, for example by presenting a correlation as a cause or a narrow result as general.",
+      "usage": "Common in peer review and lab discussions: *the abstract overclaims*; *be careful not to overclaim*. It is a serious but not hostile criticism, since it concerns wording rather than honesty. The fix is usually to hedge (*suggests* instead of *proves*) or to narrow the claim.",
+      "pattern": "overclaim (in the abstract / title); be careful not to overclaim",
+      "examples": [
+        "The abstract **overclaims**: the study shows a correlation, but the title talks about causes.",
+        "My advisor warned me not to **overclaim** in the conclusion just because one experiment worked.",
+        "Health news often **overclaims**, turning a small mouse study into a cure for cancer."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our tool reduces errors; it doesn't eliminate them, so let's not {{overclaim}} in the press release.",
+        "hint": "say more than the evidence supports (not *exaggerate*, *overstate* or *oversell*)"
+      },
+      "related": "*overstate* — say something is bigger than it is; *hedge a claim* — the usual fix; *undersell* — the opposite, present work as less important than it is."
+    },
+    {
+      "id": "hedge-a-claim",
+      "term": "hedge a claim",
+      "label": "verb + noun",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "To make a statement less strong or certain on purpose, with words such as *may*, *suggests* or *likely*, so that it matches the evidence.",
+      "usage": "A core skill in academic writing, especially in abstracts and discussion sections. Too little hedging sounds overconfident and too much (*may possibly suggest*) sounds weak, so hedge your interpretations but state measured results directly. The noun is *hedging*; *hedge your bets* (avoid committing to one option) is related.",
+      "pattern": "hedge a claim / a statement (with may / might / suggests)",
+      "examples": [
+        "Since the sample was small, the authors carefully **hedged** their **claims** about long-term effects.",
+        "Reviewers asked us to **hedge** the **claim** that the model understands grammar.",
+        "Economists usually **hedge** their **claims** about the next recession, which drives some reporters crazy."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your data show an association, not a cause, so you should {{hedge the claim}} rather than say the drug prevents strokes.",
+        "hint": "make it less certain on purpose (not *soften*, *qualify* or *tone down*)"
+      },
+      "related": "*qualify a statement* — add limits or conditions to it; *overclaim* — the opposite problem; *weasel words* — vague hedges used to avoid commitment, a criticism."
+    },
+    {
+      "id": "tease-something-apart",
+      "term": "tease something apart",
+      "label": "phrasal verb (separable)",
+      "register": "neutral",
+      "region": "both",
+      "ipa": "/ˌtiz əˈpɑrt/",
+      "meaning": "To carefully separate closely connected factors, causes or ideas, so that you can understand the effect of each one.",
+      "usage": "Common in research writing and talks: *it is hard to tease apart the effects of diet and exercise*. It suggests slow, careful work on something tangled. A noun object can go before or after *apart* (*tease apart the effects*, *tease the effects apart*), but a pronoun must go before it: *tease them apart*.",
+      "pattern": "tease apart X and Y / tease X apart from Y",
+      "examples": [
+        "It's hard to **tease apart** the effects of diet and exercise, since people who do one often do the other.",
+        "Twin studies help researchers **tease apart** genetic and environmental influences on height.",
+        "The mediator tried to **tease apart** what each side really needed from what they were simply angry about."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Prices rose and wages fell at the same time, so economists struggle to {{tease apart}} their effects on spending.",
+        "hint": "carefully distinguish one from the other — phrasal verb (not *disentangle*, *untangle* or *separate*)"
+      },
+      "related": "*disentangle* — same idea, more formal; *untangle* — sort out something complicated; *conflate* — the opposite, treat different things as one."
+    },
+    {
+      "id": "a-gap-in-the-literature",
+      "term": "a gap in the literature",
+      "label": "academic phrase",
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A question or topic that published research has not yet covered, which a new study can fill.",
+      "usage": "Central in introductions, theses and grant proposals: *This study addresses a gap in the literature on…*; *fill a gap*. Show the gap with a short review rather than just claiming it, and explain why it matters, since a topic may be missing simply because it isn't interesting. Here *literature* means the body of published research.",
+      "pattern": "address / fill / identify a gap in the literature (on X)",
+      "examples": [
+        "Few studies have followed patients after discharge, and our cohort study aims to fill this **gap in the literature**.",
+        "Her dissertation addresses **a gap in the literature** on women's work in nineteenth-century textile mills.",
+        "The reviewers liked the idea but felt the proposal didn't clearly identify **a gap in the literature**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "No one has studied how heat waves affect bee navigation, so this project would fill {{a gap in the literature}}.",
+        "hint": "a question that published research has not covered yet"
+      },
+      "related": "*underexplored* — adjective for a topic with this problem; *the state of the art* — the best current work; *a niche* — a narrow area, not necessarily a gap."
+    }
+  ]
+}

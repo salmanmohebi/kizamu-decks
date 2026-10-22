@@ -1,0 +1,714 @@
+{
+  "topic_id": "b1-18-indirekte-rede",
+  "level": "B1",
+  "title_de": "Indirekte Rede (Konjunktiv I — Einführung)",
+  "title_en": "Reported speech (Konjunktiv I — introduction)",
+  "rule": {
+    "summary": "Reported speech (*indirekte Rede*) passes on what another person said without quoting them word for word. In news, reports and formal writing the verb of the reported clause goes into the **Konjunktiv I**: *Er sagt, er **sei** müde.* The Konjunktiv I shows that you only report the statement and do not claim that it is true. At B1 you mainly need the 3rd person singular (*sei, habe, werde, könne, komme*), the past form *habe/sei + Partizip II*, and the Konjunktiv II as a replacement when the Konjunktiv I looks like the indicative. In everyday speech people often use the indicative or the Konjunktiv II instead.",
+    "table": "| Person | sein | haben | kommen |\n|---|---|---|---|\n| ich | sei | habe → **hätte** | komme → **käme** / würde kommen |\n| du | sei(e)st | habest | kommest |\n| er/sie/es | **sei** | **habe** | **komme** |\n| wir | **seien** | haben → **hätten** | kommen → **kämen** / würden kommen |\n| ihr | seiet | habet | kommet |\n| sie/Sie | **seien** | haben → **hätten** | kommen → **kämen** / würden kommen |\n| Vergangenheit (er) | sei gewesen | habe gehabt | sei gekommen |",
+    "steps": [
+      "Change the pronouns and possessives to the reporter's point of view: „Ich bin müde.“ → *er sei müde*; „mein Bruder“ → *sein/ihr Bruder*; „dir“ → *mir* if the reporter was the listener.",
+      "Choose the clause type: without *dass* the reported clause keeps verb-second order (*Er sagt, er sei müde.*); with *dass*, *ob* or a W-word the finite verb goes to the end (*…, dass er müde sei.*).",
+      "Build the Konjunktiv I from the infinitive stem + **-e** (3rd person singular): *komm-en → er komme, müss-en → er müsse, wiss-en → er wisse, fahr-en → er fahre*. No vowel change, no *-t*. Only *sein* is irregular: *er sei, sie seien*.",
+      "For a statement about the past (Perfekt, Präteritum or Plusquamperfekt) use **habe/sei + Partizip II**: „Ich sah ihn.“ → *sie habe ihn gesehen*. For the future use **werde + Infinitiv**.",
+      "If the Konjunktiv I looks like the indicative (*ich habe, wir/sie haben, sie kommen*), use the Konjunktiv II (*hätte, hätten, kämen*) or, if that is also unclear, *würde(n)* + infinitive."
+    ],
+    "pitfalls": [
+      "Inventing the form *seie*: ✗ *Er sagt, er seie müde.* → ✓ *Er sagt, er sei müde.* *sein* takes no *-e* in the 3rd person singular.",
+      "Adding an umlaut or the indicative vowel change: ✗ *sie kömme, er fähre, es gibe* → ✓ *sie komme, er fahre, es gebe*. The Konjunktiv I starts from the infinitive; it keeps an umlaut only if the infinitive has one (*müssen → müsse, können → könne*).",
+      "Shifting the tense because the reporting verb is in the past: ✗ *Er teilte mit, er sei verheiratet gewesen.* (for „Ich bin verheiratet.“) → ✓ *Er teilte mit, er sei verheiratet.* The form follows the original words, not *sagte* or *teilte mit*.",
+      "Verb at the end without *dass*: ✗ *Sie sagt, sie keine Zeit habe.* → ✓ *Sie sagt, sie habe keine Zeit.* or ✓ *Sie sagt, dass sie keine Zeit habe.*",
+      "Keeping a Konjunktiv I that looks like the indicative in formal writing: ✗ (unclear) *Die Nachbarn sagen, sie haben keine Zeit.* → ✓ *Die Nachbarn sagen, sie hätten keine Zeit.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Er sagt, er {{c1::sei::sein}} müde.",
+      "en": "He says he is tired.",
+      "focus": "Konjunktiv I · 3. Person Singular · Präsens",
+      "explanation": "His original words were „Ich bin müde.“ In reported speech *ich* becomes *er*, and the verb goes into the Konjunktiv I. *sein* is irregular: the 3rd person singular is **sei**, with no ending. There is no *dass*, so the reported clause keeps verb-second order: *er sei müde*.",
+      "pattern": "Er sagt, er + **sei** + Adjektiv",
+      "mistake": {"wrong": "Er sagt, er seie müde.", "why": "*seie* does not exist. *sein* is the one irregular verb in the Konjunktiv I: *ich sei, er sei*, without the *-e* that other verbs take (*er habe, er komme*)."},
+      "examples": [
+        {"de": "Die Managerin sagt, das Projekt sei im Zeitplan.", "en": "The manager says the project is on schedule."},
+        {"de": "Mein Vater sagt, er sei mit der neuen Wohnung zufrieden.", "en": "My father says he is happy with the new flat."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie sagt, sie {{c1::habe::haben}} keine Zeit.",
+      "en": "She says she has no time.",
+      "focus": "Konjunktiv I · 3. Person Singular · Präsens",
+      "explanation": "Her words were „Ich habe keine Zeit.“ → *ich* becomes *sie*. The Konjunktiv I takes the infinitive stem *hab-* and adds **-e** for the 3rd person singular: **habe**. It is clearly different from the indicative *sie hat*, so the sentence is marked as reported speech.",
+      "pattern": "Sie sagt, sie + **habe** + Akk.",
+      "mistake": {"wrong": "Sie sagt, sie habt keine Zeit.", "why": "The Konjunktiv I has no *-t* in the 3rd person singular. *habt* is the indicative *ihr*-form. Correct: stem + *-e* → *sie habe*."},
+      "examples": [
+        {"de": "Der Kunde sagt, er habe noch eine Frage.", "en": "The customer says he has another question."},
+        {"de": "Unsere Tochter sagt, sie habe Bauchschmerzen.", "en": "Our daughter says she has a stomach ache."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er meint, er {{c1::komme::kommen}} morgen.",
+      "en": "He says he is coming tomorrow.",
+      "focus": "Konjunktiv I · regelmäßige Bildung · Zukunftsbezug",
+      "explanation": "*meinen* here introduces what he said: „Ich komme morgen.“ The Konjunktiv I is the infinitive stem + **-e**: *komm-* + -e → **komme**. As in the indicative, the present form can refer to the future, so *morgen* is enough and no *werde* is needed.",
+      "pattern": "Er meint, er + Stamm-**e** + Zeitangabe",
+      "mistake": {"wrong": "Er meint, morgen er komme.", "why": "Without *dass* the reported clause has main-clause order with the verb in second position. If *morgen* comes first, the verb follows it directly: *Er meint, morgen komme er.*"},
+      "examples": [
+        {"de": "Die Handwerkerin sagt, sie komme am Montag vorbei.", "en": "The tradeswoman says she will come by on Monday."},
+        {"de": "Der Kurier meldet, das Paket komme erst nächste Woche.", "en": "The courier reports that the parcel will not arrive until next week."}
+      ],
+      "words": [{"de": "meinen", "en": "to say, to think (an opinion)"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie behauptet, sie {{c1::wisse::wissen}} nichts.",
+      "en": "She claims she knows nothing.",
+      "focus": "Konjunktiv I · unregelmäßiges Verb · nach *behaupten*",
+      "explanation": "*behaupten* (to claim) is a reporting verb that shows distance: the reporter does not say the claim is true. *wissen* is irregular in the indicative (*sie weiß*), but its Konjunktiv I is regular: infinitive stem *wiss-* + **-e** → **wisse**.",
+      "pattern": "behaupten, sie + **wisse** + Objekt",
+      "mistake": {"wrong": "Sie behauptet, sie weiße nichts.", "why": "*weiße* mixes the indicative stem *weiß* with the Konjunktiv ending. The Konjunktiv I always starts from the infinitive: *wissen → wiss- → wisse*."},
+      "examples": [
+        {"de": "Der Angeklagte behauptet, er wisse nichts von dem Geld.", "en": "The defendant claims he knows nothing about the money."},
+        {"de": "Mein Mitbewohner behauptet, er wisse nicht, wer die Milch getrunken habe.", "en": "My flatmate claims he doesn't know who drank the milk."}
+      ],
+      "words": [{"de": "behaupten", "en": "to claim"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er sagt, er {{c1::müsse::müssen}} arbeiten.",
+      "en": "He says he has to work.",
+      "focus": "Konjunktiv I · Modalverb · Präsens",
+      "explanation": "The original is „Ich muss arbeiten.“ Modal verbs form the Konjunktiv I from the infinitive stem, so the umlaut of *müssen* comes back: *müss-* + **-e** → **müsse**. The infinitive *arbeiten* stays at the end, as with every modal verb.",
+      "pattern": "er + **müsse** + … + Infinitiv",
+      "mistake": {"wrong": "Er sagt, er musse arbeiten.", "why": "*musse* does not exist. The Konjunktiv I is built from the infinitive *müssen*, so it keeps the umlaut: *müss-* + *-e* → *müsse*. Do not confuse it with the Präteritum *musste* (*had to*), which has no umlaut."},
+      "examples": [
+        {"de": "Die Ärztin sagt, ich müsse mehr trinken.", "en": "The doctor says I have to drink more."},
+        {"de": "Der Kollege sagt, er müsse heute früher gehen.", "en": "The colleague says he has to leave early today."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie erklärt, sie {{c1::sei::sein}} krank.",
+      "en": "She states that she is ill.",
+      "focus": "Konjunktiv I · Singular · nach *erklären*",
+      "explanation": "*erklären* (to explain, to state) introduces her words „Ich bin krank.“ The subject *sie* refers to one woman, so the Konjunktiv I of *sein* is the singular form **sei**. The form tells the reader that this is her statement, passed on by someone else.",
+      "pattern": "erklären, sie + **sei** + Adjektiv",
+      "mistake": {"wrong": "Sie erklärt, sie seien krank.", "why": "*seien* is the plural form (*sie* = they). On its own the sentence would mean *she states that they are ill*. Here *sie* means *she*, the same woman who speaks (her words were „Ich bin krank.“), so the verb must be singular: *sie sei*."},
+      "examples": [
+        {"de": "Der Trainer erklärt, der Spieler sei verletzt.", "en": "The coach states that the player is injured."},
+        {"de": "Die Schulleitung erklärt, das Gebäude sei sicher.", "en": "The school management states that the building is safe."}
+      ],
+      "words": [{"de": "erklären", "en": "to explain, to state"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Er sagt, er {{c1::werde::werden}} bald kommen.",
+      "en": "He says he will come soon.",
+      "focus": "Konjunktiv I · Futur",
+      "explanation": "The original is in the Futur I: „Ich werde bald kommen.“ In reported speech only the auxiliary changes: stem *werd-* + **-e** → **werde**. The infinitive *kommen* stays at the end of the clause, as in every Futur.",
+      "pattern": "er + **werde** + … + Infinitiv (Futur)",
+      "mistake": {"wrong": "Er sagt, er werde bald kommt.", "why": "After *werde* the main verb must be the infinitive at the end of the clause: *er werde bald kommen*. Only the auxiliary carries the Konjunktiv."},
+      "examples": [
+        {"de": "Die Ministerin sagt, sie werde den Plan im Herbst vorstellen.", "en": "The minister says she will present the plan in the autumn."},
+        {"de": "Der Vermieter sagt, er werde die Heizung nächste Woche reparieren.", "en": "The landlord says he will repair the heating next week."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie meint, sie {{c1::könne::können}} mir helfen.",
+      "en": "She says she can help me.",
+      "focus": "Konjunktiv I · Modalverb · Pronomenwechsel",
+      "explanation": "Her words were „Ich kann dir helfen.“ Two pronouns change: *ich* → *sie*, and *dir* → *mir*, because the reporter was the person she spoke to. The Konjunktiv I of *können* keeps the umlaut of the infinitive: *könn-* + **-e** → **könne**.",
+      "pattern": "sie + **könne** + Dat. + Infinitiv",
+      "mistake": {"wrong": "Sie meint, sie konne mir helfen.", "why": "The Konjunktiv I is built from the infinitive *können*, so it keeps the *ö*: *könne*. *konne* does not exist; *konnte* (without umlaut) is the Präteritum."},
+      "examples": [
+        {"de": "Der Mechaniker meint, er könne das Auto bis Freitag reparieren.", "en": "The mechanic says he can repair the car by Friday."},
+        {"de": "Die Bibliothekarin sagt, man könne das Buch online verlängern.", "en": "The librarian says you can renew the book online."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er behauptet, er {{c1::habe::haben}} kein Geld.",
+      "en": "He claims he has no money.",
+      "focus": "Konjunktiv I · Distanz · nach *behaupten*",
+      "explanation": "With *behaupten* the reporter keeps a distance: he says so, but it may not be true. The original „Ich habe kein Geld.“ gets the subject *er* and the Konjunktiv I: stem *hab-* + **-e** → **habe**. In the 3rd person singular this is clearly different from the indicative *er hat*.",
+      "pattern": "behaupten, er + **habe** + Akk.",
+      "mistake": {"wrong": "Er behauptet, er haben kein Geld.", "why": "*haben* is the infinitive and the plural form. The subject *er* is singular, so the Konjunktiv I is *er habe*."},
+      "examples": [
+        {"de": "Der Mieter behauptet, er habe keinen Schlüssel für den Keller.", "en": "The tenant claims he has no key to the cellar."},
+        {"de": "Die Firma behauptet, sie habe genug Personal.", "en": "The company claims it has enough staff."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie sagt, sie {{c1::habe::haben/sein}} mich gestern gesehen.",
+      "en": "She says she saw me yesterday.",
+      "focus": "Konjunktiv I · Vergangenheit · Hilfsverb",
+      "explanation": "Her words were „Ich habe dich gestern gesehen.“ (*dich* → *mich*). The Konjunktiv I has only one past form: auxiliary in the Konjunktiv I + Partizip II. *sehen* forms its Perfekt with *haben*, so the form is **habe** … *gesehen*.",
+      "pattern": "sie + **habe** + … + Partizip II",
+      "mistake": {"wrong": "Sie sagt, sie sei mich gestern gesehen.", "why": "The auxiliary is the same as in the Perfekt. *sehen* has an Akkusativ object and takes *haben* (*ich habe gesehen*), so it is *sie habe … gesehen*."},
+      "examples": [
+        {"de": "Der Nachbar sagt, er habe den Einbrecher gesehen.", "en": "The neighbour says he saw the burglar."},
+        {"de": "Die Studentin sagt, sie habe die Hausarbeit gestern abgegeben.", "en": "The student says she handed in the essay yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Der Polizist sagte, der Fahrer {{c1::sei::haben/sein}} zu schnell gefahren.",
+      "en": "The police officer said the driver had driven too fast.",
+      "focus": "Konjunktiv I · Vergangenheit · Bewegungsverb",
+      "explanation": "The officer's statement was about the past: „Der Fahrer ist zu schnell gefahren.“ *fahren* without an object is a verb of movement and takes *sein* in the Perfekt, so the past Konjunktiv I is **sei** + *gefahren*. The reporting verb *sagte* is in the past, but that does not change the form in the reported clause.",
+      "pattern": "Subjekt + **sei** + … + Partizip II (Bewegung)",
+      "mistake": {"wrong": "Der Polizist sagte, der Fahrer habe zu schnell gefahren.", "why": "*fahren* (movement, no object) takes *sein* in the Perfekt: *er ist gefahren*. The Konjunktiv I keeps that auxiliary: *er sei gefahren*."},
+      "examples": [
+        {"de": "Die Zeugin sagte, der Mann sei über die Straße gelaufen.", "en": "The witness said the man had run across the road."},
+        {"de": "Der Reporter sagte, der Zug sei pünktlich angekommen.", "en": "The reporter said the train had arrived on time."}
+      ],
+      "words": [{"de": "der Polizist (-en, n-Dekl.)", "en": "police officer"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie meinte, sie {{c1::habe::haben/sein}} schon gegessen.",
+      "en": "She said she had already eaten.",
+      "focus": "Konjunktiv I · Vergangenheit · nach *meinte*",
+      "explanation": "Her words were „Ich habe schon gegessen.“ (or *aß*, or *hatte gegessen*). The Konjunktiv I has one past form for all three past tenses: **habe** + Partizip II, and *essen* takes *haben*. English says *had eaten* because of *said*; German does not shift the tense.",
+      "pattern": "sie + **habe** + schon + Partizip II",
+      "mistake": {"wrong": "Sie meinte, sie habe schon gegessen gehabt.", "why": "Standard German has no Konjunktiv I form with an extra *gehabt*. Every past statement becomes *habe/sei + Partizip II*: *sie habe schon gegessen*."},
+      "examples": [
+        {"de": "Der Gast meinte, er habe schon bezahlt.", "en": "The guest said he had already paid."},
+        {"de": "Mein Kollege meinte, er habe die E-Mail nicht bekommen.", "en": "My colleague said he hadn't received the email."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Er behauptet, das {{c1::sei::sein}} nicht seine Schuld.",
+      "en": "He claims it is not his fault.",
+      "focus": "Konjunktiv I · Subjekt *das* · Possessivartikel",
+      "explanation": "The original is „Das ist nicht meine Schuld.“ The subject *das* is 3rd person singular → Konjunktiv I of *sein*: **sei**. The possessive changes with the point of view: *meine Schuld* → *seine Schuld*.",
+      "pattern": "behaupten, das + **sei** + nicht + Possessiv + Nomen",
+      "mistake": {"wrong": "Er behauptet, dass sei nicht seine Schuld.", "why": "The subject here is the pronoun *das* (one *s*). The conjunction *dass* would send the verb to the end: *…, dass das nicht seine Schuld sei*."},
+      "examples": [
+        {"de": "Der Fahrer behauptet, das sei nicht sein Auto.", "en": "The driver claims that is not his car."},
+        {"de": "Die Schülerin behauptet, das sei nicht ihre Handschrift.", "en": "The pupil claims that is not her handwriting."}
+      ],
+      "words": [{"de": "die Schuld", "en": "fault, blame"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie sagt, sie {{c1::komme::kommen}} aus Italien.",
+      "en": "She says she is from Italy.",
+      "focus": "Konjunktiv I · 3. Person Singular · Herkunft",
+      "explanation": "Her words were „Ich komme aus Italien.“ For *ich* the Konjunktiv I would look like the indicative, but in the 3rd person singular it is clear: indicative *sie kommt* → Konjunktiv I *sie* **komme** (stem *komm-* + -e).",
+      "pattern": "Sie sagt, sie + Stamm-**e** + aus + Land",
+      "mistake": {"wrong": "Sie sagt, sie kömme aus Italien.", "why": "The Konjunktiv I never adds an umlaut; it starts from the infinitive: *kommen → komme*. The form with umlaut, *käme*, is the Konjunktiv II and comes from the Präteritum *kam*."},
+      "examples": [
+        {"de": "Der neue Kollege sagt, er komme aus Ghana.", "en": "The new colleague says he is from Ghana."},
+        {"de": "Die neue Nachbarin erzählt, sie stamme aus Polen.", "en": "The new neighbour says she is from Poland."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er teilte mit, er {{c1::sei::sein}} verheiratet.",
+      "en": "He informed us that he was married.",
+      "focus": "Konjunktiv I · Zeitbezug · nach *mitteilen*",
+      "explanation": "*mitteilen* (to inform, to announce) is separable: *er teilte … mit*. His statement was in the present („Ich bin verheiratet.“), so the reported clause uses the present Konjunktiv I **sei**, although *teilte mit* is in the past. English shifts to *was*; German keeps the time of the original words.",
+      "pattern": "Reporting verb (Präteritum), er + **sei** + Adjektiv",
+      "mistake": {"wrong": "Er teilte mit, er sei verheiratet gewesen.", "why": "*sei … gewesen* reports a past statement („Ich war verheiratet.“) and means he is no longer married. The tense in reported speech follows the original words, not the reporting verb."},
+      "examples": [
+        {"de": "Die Bank teilte mit, das Konto sei gesperrt.", "en": "The bank informed us that the account was blocked."},
+        {"de": "Der Veranstalter teilte mit, das Konzert sei ausverkauft.", "en": "The organiser announced that the concert was sold out."}
+      ],
+      "words": [{"de": "mitteilen", "en": "to inform, to announce"}, {"de": "verheiratet", "en": "married"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie meint, das Wetter {{c1::werde::werden}} besser.",
+      "en": "She thinks the weather is getting better.",
+      "focus": "Konjunktiv I · Vollverb (to become)",
+      "explanation": "Here *werden* is a full verb meaning *to become, to get* (*Das Wetter wird besser.*), not the Futur auxiliary. Its Konjunktiv I is stem *werd-* + **-e** → **werde**. *das Wetter* is 3rd person singular, so the form is clearly different from the indicative *wird*.",
+      "pattern": "Subjekt + **werde** + Komparativ",
+      "mistake": {"wrong": "Sie meint, das Wetter wurde besser.", "why": "*wurde* is the Präteritum indicative (*was getting better*). Her statement is about now („Das Wetter wird besser.“), so the Konjunktiv I is *werde*, with *e*, not *u*."},
+      "examples": [
+        {"de": "Der Arzt meint, die Erkältung werde bald besser.", "en": "The doctor thinks the cold will get better soon."},
+        {"de": "Experten meinen, das Wohnen in Städten werde immer teurer.", "en": "Experts think that living in cities is getting more and more expensive."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er fragt, ob ich Zeit {{c1::hätte::haben}}.",
+      "en": "He asks whether I have time.",
+      "focus": "Indirekte Frage · Ersatzform · 1. Person Singular",
+      "explanation": "A yes/no question („Hast du Zeit?“) is reported with **ob**, and the verb goes to the end. For *ich* the Konjunktiv I *ich habe* is identical to the indicative, so it does not mark reported speech. German uses the Konjunktiv II instead: **hätte**.",
+      "pattern": "fragen, ob + ich + … + **hätte**",
+      "mistake": {"wrong": "Er fragt, ob ich hätte Zeit.", "why": "*ob* introduces a Nebensatz, so the finite verb must go to the end: *ob ich Zeit hätte*. Also keep the umlaut: *hatte* without umlaut is the Präteritum (*whether I had time*)."},
+      "examples": [
+        {"de": "Die Kellnerin fragt, ob wir eine Reservierung hätten.", "en": "The waitress asks whether we have a reservation."},
+        {"de": "Der Vermieter fragt, ob ich einen Zweitschlüssel hätte.", "en": "The landlord asks whether I have a spare key."}
+      ],
+      "words": [],
+      "production_cue": "(reported question, Konjunktiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie erklärt, dass sie krank {{c1::sei::sein}}.",
+      "en": "She explains that she is ill.",
+      "focus": "Konjunktiv I · *dass*-Satz · Verbstellung",
+      "explanation": "With *dass* the reported clause is a Nebensatz, so the finite verb goes to the end: *dass sie krank* **sei**. The Konjunktiv I is still used after *dass*; in formal style the conjunction does not replace it.",
+      "pattern": "…, dass + Subjekt + … + **sei**",
+      "mistake": {"wrong": "Sie erklärt, dass sie sei krank.", "why": "*dass* makes a Nebensatz with the verb at the end. Verb-second order is only possible without *dass*: *Sie erklärt, sie sei krank.*"},
+      "examples": [
+        {"de": "Der Hausarzt sagt, dass der Befund normal sei.", "en": "The GP says that the result is normal."},
+        {"de": "Die Polizei meldet, dass die Autobahn wieder frei sei.", "en": "The police report that the motorway is clear again."}
+      ],
+      "words": [],
+      "production_cue": "(with dass, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Der Lehrer sagt, die Prüfung {{c1::sei::sein}} schwierig.",
+      "en": "The teacher says the exam is difficult.",
+      "focus": "Konjunktiv I · ohne *dass* · Verbzweitstellung",
+      "explanation": "*die Prüfung* is a 3rd person singular subject → Konjunktiv I **sei**. There is no *dass*, so the reported clause has main-clause order: subject, finite verb, then the rest: *die Prüfung sei schwierig*.",
+      "pattern": "Subjekt + **sei** + Adjektiv (ohne *dass*)",
+      "mistake": {"wrong": "Der Lehrer sagt, die Prüfung schwierig sei.", "why": "Without *dass* the verb does not go to the end. Choose one structure: *die Prüfung sei schwierig* or *dass die Prüfung schwierig sei*."},
+      "examples": [
+        {"de": "Die Reiseleiterin sagt, der Weg sei steil.", "en": "The tour guide says the path is steep."},
+        {"de": "Der Techniker sagt, das Kabel sei defekt.", "en": "The technician says the cable is faulty."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie sagte, sie {{c1::habe::haben/sein}} ihre Tasche verloren.",
+      "en": "She said she had lost her bag.",
+      "focus": "Konjunktiv I · Vergangenheit · Possessivartikel",
+      "explanation": "Her words were „Ich habe meine Tasche verloren.“ → *ich* becomes *sie*, *meine* becomes *ihre*. *verlieren* takes *haben* in the Perfekt, so the past Konjunktiv I is **habe** + *verloren*.",
+      "pattern": "sie + **habe** + Possessiv + Nomen + Partizip II",
+      "mistake": {"wrong": "Sie sagte, sie habe meine Tasche verloren.", "why": "In reported speech the possessive follows the original speaker: she lost *her* bag → *ihre Tasche*. *meine Tasche* would be the reporter's bag."},
+      "examples": [
+        {"de": "Der Tourist sagte, er habe seinen Pass verloren.", "en": "The tourist said he had lost his passport."},
+        {"de": "Die Schülerin sagte, sie habe ihr Heft zu Hause vergessen.", "en": "The pupil said she had left her exercise book at home."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die Organisatoren sagen, die Tickets {{c1::seien::sein}} schon ausverkauft.",
+      "en": "The organisers say the tickets are already sold out.",
+      "focus": "Konjunktiv I · 3. Person Plural",
+      "explanation": "*die Tickets* is plural → *sie*-form. *sein* is the only verb whose Konjunktiv I is clear in the plural: indicative *sie sind* → Konjunktiv I *sie* **seien**. So no Konjunktiv II is needed here.",
+      "pattern": "Subjekt (Pl.) + **seien** + Ergänzung",
+      "mistake": {"wrong": "Die Organisatoren sagen, die Tickets sei schon ausverkauft.", "why": "The subject *die Tickets* is plural, so the verb must be plural too: *seien*. *sei* is only for one person or thing."},
+      "examples": [
+        {"de": "Die Forscher sagen, die Ergebnisse seien eindeutig.", "en": "The researchers say the results are clear."},
+        {"de": "Die Eltern sagen, die Kinder seien schon im Bett.", "en": "The parents say the children are already in bed."}
+      ],
+      "words": [{"de": "ausverkauft", "en": "sold out"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Nachbarn erzählen, sie {{c1::hätten::haben}} einen neuen Hund.",
+      "en": "The neighbours say they have a new dog.",
+      "focus": "Ersatzform · 3. Person Plural",
+      "explanation": "The original is „Wir haben einen neuen Hund.“ → *wir* becomes *sie* (they). The Konjunktiv I *sie haben* looks exactly like the indicative, so it would not show reported speech. German replaces it with the Konjunktiv II: **hätten**.",
+      "pattern": "sie (Pl.) + **hätten** + Akk. (Ersatz für Konj. I)",
+      "mistake": {"wrong": "Die Nachbarn erzählen, sie habe einen neuen Hund.", "why": "*sie habe* would mean that one woman has a new dog. The neighbours speak about themselves („Wir haben …“), so *sie* means *they* and the verb must be plural. The plural Konjunktiv I *haben* is the same as the indicative, so the clear form is *hätten*."},
+      "examples": [
+        {"de": "Die Mitarbeiter sagen, sie hätten zu viele Überstunden.", "en": "The employees say they have too much overtime."},
+        {"de": "Die Gäste sagen, sie hätten noch Hunger.", "en": "The guests say they are still hungry."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Meine Eltern schreiben, sie {{c1::würden::werden → Konj. II}} uns im Mai besuchen.",
+      "en": "My parents write that they will visit us in May.",
+      "focus": "Ersatzform · regelmäßiges Verb · Plural",
+      "explanation": "Their words were „Wir besuchen euch im Mai.“ (*euch* → *uns*). The Konjunktiv I *sie besuchen* equals the indicative, and the Konjunktiv II *sie besuchten* equals the Präteritum. When both forms are unclear, use **würden** + infinitive at the end: *sie würden uns … besuchen*.",
+      "pattern": "sie (Pl.) + **würden** + … + Infinitiv",
+      "mistake": {"wrong": "Meine Eltern schreiben, sie würde uns im Mai besuchen.", "why": "*würde* is singular. The subject *sie* (my parents) is plural, so the auxiliary must be *würden*."},
+      "examples": [
+        {"de": "Die Kollegen sagen, sie würden das Problem morgen besprechen.", "en": "The colleagues say they will discuss the problem tomorrow."},
+        {"de": "Die Kinder versprechen, sie würden ihr Zimmer aufräumen.", "en": "The children promise that they will tidy their room."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, würde-Form)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Anna erzählt, {{c1::ihr::mein}} Bruder arbeite jetzt in Wien.",
+      "en": "Anna says her brother is working in Vienna now.",
+      "focus": "Perspektivwechsel · Possessivartikel",
+      "explanation": "Anna's words were „Mein Bruder arbeitet jetzt in Wien.“ In reported speech the possessive is seen from the reporter's side: Anna is a woman, so *mein* becomes **ihr**. The verb is in the Konjunktiv I: *arbeit-* + -e → *arbeite*.",
+      "pattern": "mein → **ihr/sein** + Nomen + Konj. I",
+      "mistake": {"wrong": "Anna erzählt, mein Bruder arbeite jetzt in Wien.", "why": "*mein Bruder* would be the reporter's brother. The possessive must refer to Anna, the original speaker: *ihr Bruder*."},
+      "examples": [
+        {"de": "Thomas sagt, seine Schwester studiere in Leipzig.", "en": "Thomas says his sister is studying in Leipzig."},
+        {"de": "Frau Berger sagt, ihr Mann sei gerade nicht zu Hause.", "en": "Mrs Berger says her husband is not at home at the moment."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Chefin sagt, die neue Kollegin {{c1::arbeite::arbeiten}} sehr genau.",
+      "en": "The boss says the new colleague works very carefully.",
+      "focus": "Konjunktiv I · Verbstamm auf *-t*",
+      "explanation": "The indicative is *sie arbeitet*, with an extra *e* before the *-t*. The Konjunktiv I has no *-t*: it is simply the stem + **-e** → *arbeit-* + -e → **arbeite**. The subject *die neue Kollegin* is 3rd person singular, so the form is clear.",
+      "pattern": "Subjekt + Stamm-**e** + Adverb",
+      "mistake": {"wrong": "Die Chefin sagt, die neue Kollegin arbeitete sehr genau.", "why": "*arbeitete* is the Präteritum (*she worked*). The boss is talking about the present, so the Konjunktiv I is the stem + *-e*: *arbeite*."},
+      "examples": [
+        {"de": "Die Trainerin sagt, das Team brauche mehr Zeit.", "en": "The coach says the team needs more time."},
+        {"de": "Die Zeitung schreibt, der Bürgermeister plane eine neue Brücke.", "en": "The newspaper writes that the mayor is planning a new bridge."}
+      ],
+      "words": [{"de": "genau", "en": "carefully, precisely"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Mein Kollege schreibt, dass er den Bericht schon {{c1::geschickt habe::schicken, Vergangenheit}}.",
+      "en": "My colleague writes that he has already sent the report.",
+      "focus": "Vergangenheit · *dass*-Satz · Verbstellung",
+      "explanation": "With *dass* the finite verb goes to the very end. In the past form the Partizip II comes first and the Konjunktiv I auxiliary comes last: *geschickt* **habe**. *schicken* takes *haben* in the Perfekt.",
+      "pattern": "…, dass + Subjekt + … + Partizip II + **habe**",
+      "mistake": {"wrong": "Mein Kollege schreibt, dass er den Bericht schon habe geschickt.", "why": "In a *dass*-clause the finite auxiliary *habe* stands last, after the Partizip II: *dass er … geschickt habe*."},
+      "examples": [
+        {"de": "Die Firma bestätigt, dass sie die Ware schon geliefert habe.", "en": "The company confirms that it has already delivered the goods."},
+        {"de": "Mein Bruder erzählt, dass er die Prüfung bestanden habe.", "en": "My brother says that he has passed the exam."}
+      ],
+      "words": [{"de": "der Bericht (-e)", "en": "report"}],
+      "production_cue": "(with dass, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Tourist fragt, wo der Bahnhof {{c1::sei::sein}}.",
+      "en": "The tourist asks where the station is.",
+      "focus": "Indirekte W-Frage · Verb am Ende",
+      "explanation": "A W-question („Wo ist der Bahnhof?“) is reported with the same question word, and *wo* sends the verb to the end. In formal reported speech the verb goes into the Konjunktiv I: *der Bahnhof* is 3rd person singular → **sei**.",
+      "pattern": "fragen, W-Wort + Subjekt + … + Konj. I",
+      "mistake": {"wrong": "Der Tourist fragt, wo ist der Bahnhof.", "why": "An indirect question is a Nebensatz, so the verb goes to the end. Verb-second (*wo ist*) belongs only to the direct question with a question mark."},
+      "examples": [
+        {"de": "Die Besucherin fragt, wann das Museum heute schließe.", "en": "The visitor asks when the museum closes today."},
+        {"de": "Der Junge fragt, warum der Himmel blau sei.", "en": "The boy asks why the sky is blue."}
+      ],
+      "words": [],
+      "production_cue": "(reported question, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Ärztin fragt, ob der Patient Fieber {{c1::habe::haben}}.",
+      "en": "The doctor asks whether the patient has a temperature.",
+      "focus": "Indirekte Ja/Nein-Frage · 3. Person Singular",
+      "explanation": "The direct question was „Hat er Fieber?“ A yes/no question has no question word, so it is reported with **ob**, and the verb goes to the end. *der Patient* is 3rd person singular, so the Konjunktiv I *habe* is clear and no Konjunktiv II is needed (compare *ob ich Zeit hätte*).",
+      "pattern": "fragen, ob + Subjekt + … + Konj. I",
+      "mistake": {"wrong": "Die Ärztin fragt, dass der Patient Fieber habe.", "why": "*dass* introduces a statement. A reported yes/no question needs *ob* (whether)."},
+      "examples": [
+        {"de": "Der Schaffner fragt, ob der Platz frei sei.", "en": "The conductor asks whether the seat is free."},
+        {"de": "Die Lehrerin fragt, ob jemand einen Stift übrig habe.", "en": "The teacher asks whether anyone has a spare pen."}
+      ],
+      "words": [{"de": "das Fieber", "en": "fever, temperature"}],
+      "production_cue": "(reported question, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Der Vermieter sagt, man {{c1::dürfe::dürfen}} im Haus nicht rauchen.",
+      "en": "The landlord says you are not allowed to smoke in the building.",
+      "focus": "Konjunktiv I · Modalverb · Subjekt *man*",
+      "explanation": "*man* is always 3rd person singular. The Konjunktiv I of *dürfen* comes from the infinitive stem with its umlaut: *dürf-* + **-e** → **dürfe** (indicative: *man darf*). The infinitive *rauchen* stays at the end.",
+      "pattern": "man + **dürfe** + … + Infinitiv",
+      "mistake": {"wrong": "Der Vermieter sagt, man darfe im Haus nicht rauchen.", "why": "*darf-* is the indicative singular stem. The Konjunktiv I is built from the infinitive *dürfen* → *dürfe*."},
+      "examples": [
+        {"de": "Der Busfahrer sagt, man dürfe im Bus nicht essen.", "en": "The bus driver says you are not allowed to eat on the bus."},
+        {"de": "Die Prüferin sagt, man dürfe im Test ein Wörterbuch benutzen.", "en": "The examiner says you may use a dictionary in the test."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Mein Bruder sagt, er {{c1::wolle::wollen}} Medizin studieren.",
+      "en": "My brother says he wants to study medicine.",
+      "focus": "Konjunktiv I · Modalverb · Wunsch",
+      "explanation": "His words were „Ich will Medizin studieren.“ The indicative singular *will* has a different vowel, but the Konjunktiv I is built from the infinitive *wollen*: *woll-* + **-e** → **wolle**.",
+      "pattern": "er + **wolle** + … + Infinitiv",
+      "mistake": {"wrong": "Mein Bruder sagt, er wille Medizin studieren.", "why": "*wille* mixes the indicative stem *will* with the Konjunktiv ending. Start from the infinitive: *wollen → wolle*."},
+      "examples": [
+        {"de": "Die Sängerin sagt, sie wolle nächstes Jahr eine Pause machen.", "en": "The singer says she wants to take a break next year."},
+        {"de": "Der Politiker sagt, er wolle die Steuern senken.", "en": "The politician says he wants to lower taxes."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Mein Kollege sagt, er {{c1::fahre::fahren}} jeden Tag mit dem Rad ins Büro.",
+      "en": "My colleague says he cycles to the office every day.",
+      "focus": "Konjunktiv I · starkes Verb · kein Vokalwechsel",
+      "explanation": "In the indicative *fahren* changes its vowel: *er fährt*. The Konjunktiv I ignores this change and uses the infinitive stem: *fahr-* + **-e** → **fahre**. The same rule gives *er nimmt → er nehme* and *er sieht → er sehe*.",
+      "pattern": "er + Infinitivstamm-**e** (ohne Vokalwechsel)",
+      "mistake": {"wrong": "Mein Kollege sagt, er fähre jeden Tag mit dem Rad ins Büro.", "why": "*fähre* does not exist. The umlaut belongs only to the indicative (*du fährst, er fährt*); the Konjunktiv I keeps the *a* of the infinitive: *er fahre*."},
+      "examples": [
+        {"de": "Die Nachbarin sagt, sie nehme immer den Bus um sieben.", "en": "The neighbour says she always takes the seven o'clock bus."},
+        {"de": "Der Zeuge sagt, er sehe ohne Brille sehr schlecht.", "en": "The witness says he sees very badly without glasses."}
+      ],
+      "words": [],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Firma teilt mit, es {{c1::gebe::geben}} keine Probleme mit den Daten.",
+      "en": "The company announces that there are no problems with the data.",
+      "focus": "Konjunktiv I · *es gibt* · Pressemitteilung",
+      "explanation": "The original statement is „Es gibt keine Probleme mit den Daten.“ *es gibt* (there is/are) is always 3rd person singular, even with a plural object. Konjunktiv I: infinitive stem *geb-* + **-e** → **gebe**, without the vowel change of *gibt*. *es gebe* is very frequent in news reports.",
+      "pattern": "es + **gebe** + Akk.",
+      "mistake": {"wrong": "Die Firma teilt mit, es gibe keine Probleme mit den Daten.", "why": "*gibe* mixes the indicative vowel *i* (*es gibt*) with the Konjunktiv ending. The Konjunktiv I keeps the *e* of the infinitive *geben*: *es gebe*."},
+      "examples": [
+        {"de": "Der Wetterdienst meldet, es gebe am Abend Gewitter.", "en": "The weather service reports that there will be thunderstorms in the evening."},
+        {"de": "Die Schule teilt mit, es gebe morgen keinen Unterricht.", "en": "The school announces that there will be no lessons tomorrow."}
+      ],
+      "words": [{"de": "die Daten (Pl.)", "en": "data"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Konjunktiv I.",
+      "prompt": "How do you form the Konjunktiv I in the 3rd person singular, and which verb is irregular?",
+      "answer": "Infinitive stem + **-e**: *komm-en → er komm**e***, *könn-en → er könn**e***, *fahr-en → er fahr**e***. No vowel change and no *-t*. Only *sein* is irregular: *er **sei***.",
+      "explanation": "The Konjunktiv I is always built from the infinitive, so irregular indicative forms like *er weiß, er kann, er fährt* do not matter: *er wisse, er könne, er fahre*. The full endings are *-e, -est, -e, -en, -et, -en*; *sein* has *sei, sei(e)st, sei, seien, seiet, seien*.",
+      "examples": [
+        {"de": "Der Sprecher sagt, die Lage sei ruhig.", "en": "The spokesman says the situation is calm."},
+        {"de": "Die Sprecherin sagt, die Regierung plane neue Gesetze.", "en": "The spokeswoman says the government is planning new laws."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the Konjunktiv II as a replacement.",
+      "prompt": "When do you replace the Konjunktiv I with the Konjunktiv II in reported speech?",
+      "answer": "When the Konjunktiv I looks like the indicative, mainly for *ich* and the plural (*wir, sie, Sie*) of most verbs: *sie haben → sie **hätten***, *wir kommen → wir **kämen*** or *wir **würden** kommen*.",
+      "explanation": "Reported speech must be recognisable. *sie haben* could be a normal statement, so German takes the next clear form, the Konjunktiv II. If the Konjunktiv II also looks like the Präteritum (*sie arbeiteten*), use *würden* + infinitive. *sein* never needs a replacement: *sie seien* is always clear.",
+      "examples": [
+        {"de": "Die Bauern sagen, sie hätten in diesem Sommer zu wenig Regen gehabt.", "en": "The farmers say they have had too little rain this summer."},
+        {"de": "Die Fahrgäste sagen, sie wüssten nicht, wann der Zug komme.", "en": "The passengers say they don't know when the train is coming."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the past in reported speech.",
+      "prompt": "How do you report a statement about the past? Does it matter whether the original was in the Perfekt, Präteritum or Plusquamperfekt?",
+      "answer": "It does not matter. There is only one past form: **habe/sei** (Konjunktiv I) + **Partizip II**. „Ich kam zu spät.“ / „Ich bin zu spät gekommen.“ → *er **sei** zu spät **gekommen***.",
+      "explanation": "The auxiliary is the same as in the Perfekt: *haben* for most verbs, *sein* for verbs of movement or change and for *sein* and *bleiben*. If the auxiliary would look like the indicative (*sie haben*), use *hätten* + Partizip II.",
+      "examples": [
+        {"de": "Die Beobachterin erklärt, sie habe den Vorfall genau verfolgt.", "en": "The observer states that she followed the incident closely."},
+        {"de": "Der Spieler sagt, er sei nach dem Spiel sofort nach Hause gefahren.", "en": "The player says he drove home straight after the match."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the function of the Konjunktiv I.",
+      "prompt": "What does the Konjunktiv I tell the reader, and where do you mostly find it?",
+      "answer": "It marks a sentence as **another person's statement**: the writer reports it neutrally and does not say that it is true. You find it mainly in news, reports, official texts and academic writing.",
+      "explanation": "Compare *Er sagt, er ist krank* (everyday speech) with *Er sagt, er sei krank* (neutral report). In spoken German the indicative or the Konjunktiv II is common; in formal texts and in writing tasks at B1/B2 the Konjunktiv I is expected.",
+      "examples": [
+        {"de": "Die Gewerkschaft erklärt, die Löhne seien zu niedrig.", "en": "The union states that wages are too low."},
+        {"de": "Der Konzern behauptet, er habe alle Regeln eingehalten.", "en": "The corporation claims it has complied with all the rules."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*. Use the Konjunktiv I.",
+      "prompt": "Der Trainer sagt: „Die Mannschaft ist gut vorbereitet.“",
+      "answer": "Der Trainer sagt, die Mannschaft sei gut vorbereitet.",
+      "explanation": "The colon and the quotation marks disappear, and a comma follows *sagt*. *die Mannschaft* is 3rd person singular, so *ist* becomes the Konjunktiv I *sei*. Without *dass* the verb stays in second position."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*. Use the Konjunktiv I.",
+      "prompt": "Mia sagt: „Ich kenne die Stadt nicht.“",
+      "answer": "Mia sagt, sie kenne die Stadt nicht.",
+      "explanation": "*ich* becomes *sie*, because Mia is the original speaker. *kennen*: stem *kenn-* + *-e* → *kenne*. The negation *nicht* stays at the end of the clause."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*. Use the Konjunktiv I.",
+      "prompt": "Der Hausmeister sagt: „Ich habe die Tür abgeschlossen.“",
+      "answer": "Der Hausmeister sagt, er habe die Tür abgeschlossen.",
+      "explanation": "The original is in the Perfekt with *haben*. *ich habe* becomes *er habe*; in the 3rd person this Konjunktiv I form is clearly different from the indicative *er hat*. The Partizip II *abgeschlossen* stays at the end."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Change the direct speech into reported speech without *dass*. Make sure the form clearly shows reported speech.",
+      "prompt": "Die Studenten sagen: „Wir haben zu wenig Zeit für die Hausarbeit.“",
+      "answer": "Die Studenten sagen, sie hätten zu wenig Zeit für die Hausarbeit.",
+      "explanation": "*wir* becomes *sie* (they). The Konjunktiv I *sie haben* is the same as the indicative, so the Konjunktiv II *hätten* is used to mark reported speech."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with *dass*.",
+      "prompt": "Die Ärztin sagt, der Patient sei stabil.",
+      "answer": "Die Ärztin sagt, dass der Patient stabil sei.",
+      "explanation": "*dass* turns the reported clause into a Nebensatz, so *sei* moves to the end. The Konjunktiv I stays; only the word order changes."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Laura erzählt, sie habe gestern lange im Büro geblieben.",
+      "answer": "Laura erzählt, sie sei gestern lange im Büro geblieben.",
+      "explanation": "*bleiben* forms the Perfekt with *sein* (*ich bin geblieben*). The past Konjunktiv I keeps this auxiliary: *sie sei geblieben*, not *habe*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Nachbar fragt, ob wir heute Abend Zeit habe.",
+      "answer": "Der Nachbar fragt, ob wir heute Abend Zeit hätten.",
+      "explanation": "*habe* is singular and does not fit *wir*. The plural Konjunktiv I *wir haben* would look like the indicative, so the clear form is the Konjunktiv II *hätten* (in everyday speech *haben* is also heard)."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Meine Freundin schreibt, sie in Hamburg eine Wohnung gefunden habe.",
+      "answer": "Meine Freundin schreibt, sie habe in Hamburg eine Wohnung gefunden.",
+      "explanation": "Without *dass* the reported clause keeps verb-second order: *sie habe … gefunden*. Verb-final order needs *dass*: *…, dass sie in Hamburg eine Wohnung gefunden habe.*"
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Die Sprecherin erklärt, die Verhandlungen ___ gescheitert.",
+      "options": ["sei", "seien", "seiest"],
+      "correct": "seien",
+      "answer": "Die Sprecherin erklärt, die Verhandlungen seien gescheitert.",
+      "explanation": "*die Verhandlungen* is plural, and *scheitern* takes *sein* in the Perfekt, so the plural Konjunktiv I *seien* is needed. *sei* is singular, and *seiest* is the *du*-form."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct verb form (*sie* = the researchers).",
+      "prompt": "Die Forscher erklären, sie ___ neue Daten gesammelt.",
+      "options": ["habe", "hätten", "seien"],
+      "correct": "hätten",
+      "answer": "Die Forscher erklären, sie hätten neue Daten gesammelt.",
+      "explanation": "*sammeln* takes *haben*, so *seien* is wrong. *habe* is singular and does not fit the plural *sie*. The plural Konjunktiv I *haben* would look like the indicative, so the Konjunktiv II *hätten* is used."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct verb form for a formal report.",
+      "prompt": "Eine Reisende fragt, wann der nächste Bus ___.",
+      "options": ["fahre", "fähre", "fahrt"],
+      "correct": "fahre",
+      "answer": "Eine Reisende fragt, wann der nächste Bus fahre.",
+      "explanation": "*fahre* is the Konjunktiv I: infinitive stem *fahr-* + *-e*, at the end of the indirect W-question. *fähre* does not exist, because the Konjunktiv I has no umlaut. *fahrt* is the indicative *ihr*-form and does not fit *der Bus*."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Vermieterin",
+      "prompt": "sagt, / die Vermieterin / die Wohnung / ab Juni / sei / frei",
+      "answer": "Die Vermieterin sagt, die Wohnung sei ab Juni frei.",
+      "explanation": "*sagt* is in position 2 of the main clause. The reported clause without *dass* also has verb-second order: subject *die Wohnung*, then *sei*. Also correct: *Die Vermieterin sagt, ab Juni sei die Wohnung frei.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Bahn",
+      "prompt": "meldet, / die Bahn / dass / der Zug / Verspätung / habe",
+      "answer": "Die Bahn meldet, dass der Zug Verspätung habe.",
+      "explanation": "*meldet* is in second position. After *dass* the clause is a Nebensatz: subject *der Zug*, then *Verspätung*, and the finite verb *habe* at the end."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence that starts with *Die Kundin fragt, …*. Report the question with *ob* and the Konjunktiv I.",
+      "prompt": "Die Kundin hat eine Frage. „Ist der Laden am Samstag geöffnet?“",
+      "answer": "Die Kundin fragt, ob der Laden am Samstag geöffnet sei.",
+      "explanation": "A yes/no question has no question word, so it is reported with *ob*. *ob* sends the verb to the end, and *ist* becomes the Konjunktiv I *sei* (3rd person singular)."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence that starts with *Der Chef sagt, …*. Do not use *dass*; use the Konjunktiv I.",
+      "prompt": "Der Chef informiert das Team. „Das Meeting fällt heute aus.“",
+      "answer": "Der Chef sagt, das Meeting falle heute aus.",
+      "explanation": "*ausfallen* is separable, and the indicative *fällt* has a vowel change. The Konjunktiv I uses the infinitive stem: *fall-* + *-e* → *falle*. Without *dass* the clause keeps verb-second order, so the prefix *aus* stays at the end."
+    }
+  ]
+}

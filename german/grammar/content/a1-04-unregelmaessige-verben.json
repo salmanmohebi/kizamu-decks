@@ -1,0 +1,1531 @@
+{
+  "topic_id": "a1-04-unregelmaessige-verben",
+  "level": "A1",
+  "title_de": "Unregelmäßige Verben (Vokalwechsel)",
+  "title_en": "Irregular verbs with a vowel change (present tense)",
+  "rule": {
+    "summary": "Many strong verbs change the vowel of their stem in the Präsens, but **only in the *du*- and *er/sie/es*-forms**. The endings stay regular. The main patterns are **e → i** (*sprechen → er spricht*), **e → ie** (*lesen → er liest*), **a → ä** (*fahren → er fährt*) and **au → äu** (*laufen → er läuft*). *ich, wir, ihr* and *sie/Sie* keep the vowel of the infinitive. *wissen* and *werden* have their own special forms.",
+    "table": "| Muster | Infinitiv | ich | du | er/sie/es | wir / ihr |\n|---|---|---|---|---|---|\n| e → i | sprechen | spreche | spr**i**chst | spr**i**cht | sprechen / sprecht |\n| e → i | nehmen | nehme | n**imm**st | n**imm**t | nehmen / nehmt |\n| e → ie | sehen | sehe | s**ie**hst | s**ie**ht | sehen / seht |\n| a → ä | fahren | fahre | f**ä**hrst | f**ä**hrt | fahren / fahrt |\n| au → äu | laufen | laufe | l**äu**fst | l**äu**ft | laufen / lauft |\n| Sonderform | wissen | **weiß** | **weißt** | **weiß** | wissen / wisst |\n| Sonderform | werden | werde | **wirst** | **wird** | werden / werdet |",
+    "steps": [
+      "Check if the verb changes its vowel. Verb lists show the *er*-form for this reason: *fahren – fährt – fuhr – ist gefahren*. Not every verb with *e* or *a* changes (*gehen → geht, machen → macht*).",
+      "Is the subject *du* or *er/sie/es* (or a singular noun)? → use the changed vowel. For *ich, wir, ihr, sie/Sie* → keep the vowel of the infinitive.",
+      "Add the regular endings and apply the spelling rules: a stem in *-s/-ß* adds only *-t* for *du* (*du isst, du liest*); a stem in *-t* adds nothing for *er* and no extra *-e-* (*er hält, du hältst*).",
+      "With a separable verb the vowel change happens in the verb part, and the prefix goes to the end: *du siehst … aus, er gibt … aus*.",
+      "Learn *wissen* and *werden* separately: *ich/er weiß* (no ending), *du weißt*; *du wirst, er wird*."
+    ],
+    "pitfalls": [
+      "Vowel change in the plural: ✗ *ihr fährt, wir sprichen* → ✓ *ihr fahrt, wir sprechen*.",
+      "No vowel change in *du/er*: ✗ *er sprecht, du lest* → ✓ *er spricht, du liest*.",
+      "Vowel change in the *ich*-form: ✗ *ich läufe* → ✓ *ich laufe*.",
+      "*nehmen* changes more than the vowel: ✗ *du nehmst, er nimt* → ✓ *du nimmst, er nimmt*.",
+      "A regular ending on *wissen*: ✗ *er weißt* → ✓ *er weiß*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Du {{c1::isst::essen}} einen Apfel.",
+      "en": "You're eating an apple.",
+      "focus": "*du*-Form · e → i · Stamm auf *-s*",
+      "explanation": "*essen* changes **e → i** in the *du*-form: *iss-*. The stem ends in an *s*-sound, so *du* adds only *-t* → **isst**. This is the same form as *er isst*.",
+      "pattern": "du + Stamm (e → i) + **-t**",
+      "mistake": {
+        "wrong": "Du esst einen Apfel.",
+        "why": "*essen* is a vowel-change verb: with *du* the *e* becomes *i*: *du isst*. (*esst* is the *ihr*-form.)"
+      },
+      "examples": [
+        {
+          "de": "Du isst zu viel Zucker.",
+          "en": "You eat too much sugar."
+        },
+        {
+          "de": "Du vergisst immer meinen Namen.",
+          "en": "You always forget my name."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Er {{c1::spricht::sprechen}} sehr gut Deutsch.",
+      "en": "He speaks German very well.",
+      "focus": "*er*-Form · e → i",
+      "explanation": "*sprechen* changes **e → i** for *du* and *er/sie/es*: *sprich-* + *-t* → **spricht**. *sehr gut* comes before the language *Deutsch*, which has no article here.",
+      "pattern": "er + Stamm (e → i) + **-t**",
+      "mistake": {
+        "wrong": "Er sprecht sehr gut Deutsch.",
+        "why": "With *er* the vowel must change: *spricht*. *sprecht* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Sie spricht fließend Arabisch.",
+          "en": "She speaks Arabic fluently."
+        },
+        {
+          "de": "Mein Kollege spricht drei Sprachen.",
+          "en": "My colleague speaks three languages."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Meine Schwester {{c1::liest::lesen}} jeden Abend.",
+      "en": "My sister reads every evening.",
+      "focus": "Nomen als Subjekt · e → ie",
+      "explanation": "*Meine Schwester* = *sie* (3rd person singular), so the vowel changes **e → ie**: *lies-*. The stem ends in *-s*, and the ending *-t* gives **liest**.",
+      "pattern": "Nomen (Sg.) + Stamm (e → ie) + **-t**",
+      "mistake": {
+        "wrong": "Meine Schwester lest jeden Abend.",
+        "why": "*lesen* changes *e → ie* for *er/sie/es*: *sie liest*. *lest* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Mein Vater liest jeden Morgen die Zeitung.",
+          "en": "My father reads the newspaper every morning."
+        },
+        {
+          "de": "Unsere Tochter liest schon sehr gut.",
+          "en": "Our daughter already reads very well."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Siehst::sehen}} du den Bus?",
+      "en": "Can you see the bus?",
+      "focus": "Ja/Nein-Frage · *du* · e → ie",
+      "explanation": "*sehen* changes **e → ie** in the *du*-form: *sieh-* + *-st* → **Siehst**. The *h* of the stem stays. In the yes/no question the verb comes first.",
+      "pattern": "Stamm (e → ie) + **-st** + du + …?",
+      "mistake": {
+        "wrong": "Sehst du den Bus?",
+        "why": "With *du* the stem vowel of *sehen* changes to *ie*: *Siehst du …?*"
+      },
+      "examples": [
+        {
+          "de": "Siehst du das Schild dort?",
+          "en": "Can you see the sign over there?"
+        },
+        {
+          "de": "Siehst du oft deine Eltern?",
+          "en": "Do you often see your parents?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Mein Vater {{c1::fährt::fahren}} sehr schnell.",
+      "en": "My father drives very fast.",
+      "focus": "Nomen als Subjekt · a → ä",
+      "explanation": "*Mein Vater* = *er*, so *fahren* changes **a → ä**: *fähr-* + *-t* → **fährt**. *fahren* means to drive or to travel by vehicle.",
+      "pattern": "Nomen (Sg.) + Stamm (a → ä) + **-t**",
+      "mistake": {
+        "wrong": "Mein Vater fahrt sehr schnell.",
+        "why": "For *er/sie/es* the *a* becomes *ä*: *er fährt*. *fahrt* without umlaut is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Der Bus fährt alle zehn Minuten.",
+          "en": "The bus runs every ten minutes."
+        },
+        {
+          "de": "Meine Mutter fährt jeden Tag mit dem Rad.",
+          "en": "My mother cycles every day."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das Baby {{c1::schläft::schlafen}} schon.",
+      "en": "The baby is already asleep.",
+      "focus": "Nomen als Subjekt · a → ä",
+      "explanation": "*Das Baby* = *es* (3rd person singular), so *schlafen* changes **a → ä**: **schläft**. The Präsens also covers English *is sleeping / is asleep*.",
+      "pattern": "Nomen (Sg.) + Stamm (a → ä) + **-t**",
+      "mistake": {
+        "wrong": "Das Baby schlaft schon.",
+        "why": "With a singular subject *schlafen* needs the umlaut: *schläft*. *schlaft* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Der Hund schläft im Garten.",
+          "en": "The dog is sleeping in the garden."
+        },
+        {
+          "de": "Opa schläft vor dem Fernseher.",
+          "en": "Grandpa is sleeping in front of the TV."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Nimmst::nehmen}} du Zucker im Kaffee?",
+      "en": "Do you take sugar in your coffee?",
+      "focus": "Ja/Nein-Frage · *du* · *nehmen*",
+      "explanation": "*nehmen* changes more than the vowel: **e → i**, the *h* drops and the *m* doubles: *nimm-* + *-st* → **Nimmst**. The same stem is used for *er nimmt*.",
+      "pattern": "nimm- + **-st** + du + …?",
+      "mistake": {
+        "wrong": "Nehmst du Zucker im Kaffee?",
+        "why": "*nehmen* has a vowel change for *du*: *du nimmst* (with *i* and *mm*)."
+      },
+      "examples": [
+        {
+          "de": "Nimmst du den Bus oder die U-Bahn?",
+          "en": "Are you taking the bus or the underground?"
+        },
+        {
+          "de": "Nimmst du noch ein Stück Kuchen?",
+          "en": "Will you have another piece of cake?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Was {{c1::isst::essen}} du zum Frühstück?",
+      "en": "What do you eat for breakfast?",
+      "focus": "W-Frage · *du* · e → i",
+      "explanation": "*Was* is in position 1 and the verb in position 2. *du* + *essen* → **isst** (e → i, and only *-t* after the *s*-sound). *zum Frühstück* = for breakfast.",
+      "pattern": "W-Wort + Stamm (e → i) + **-t** + du?",
+      "mistake": {
+        "wrong": "Was esst du zum Frühstück?",
+        "why": "With *du* the stem vowel changes: *du isst*. *esst* belongs to *ihr*."
+      },
+      "examples": [
+        {
+          "de": "Was isst du am liebsten?",
+          "en": "What do you like eating most?"
+        },
+        {
+          "de": "Was liest du gerade?",
+          "en": "What are you reading right now?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie {{c1::läuft::laufen}} jeden Morgen im Park.",
+      "en": "She runs in the park every morning.",
+      "focus": "*sie* (Singular) · au → äu",
+      "explanation": "*laufen* changes **au → äu** for *du* and *er/sie/es*: **läuft**. The verb form shows that *Sie* means 'she' here. *laufen* means 'to run', and in everyday speech also 'to walk'.",
+      "pattern": "sie (= she) + Stamm (au → äu) + **-t**",
+      "mistake": {
+        "wrong": "Sie lauft jeden Morgen im Park.",
+        "why": "For 'she' *laufen* needs the umlaut: *sie läuft*. *lauft* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Er läuft jeden Sonntag zehn Kilometer.",
+          "en": "He runs ten kilometres every Sunday."
+        },
+        {
+          "de": "Das Kind läuft zur Schule.",
+          "en": "The child walks to school."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er {{c1::trägt::tragen}} eine Brille.",
+      "en": "He wears glasses.",
+      "focus": "*er*-Form · a → ä",
+      "explanation": "*tragen* changes **a → ä**: *er* **trägt**. *tragen* means both 'to wear' and 'to carry'. German says *eine Brille* (singular) for 'glasses'.",
+      "pattern": "er + Stamm (a → ä) + **-t**",
+      "mistake": {
+        "wrong": "Er tragt eine Brille.",
+        "why": "With *er* the *a* changes to *ä*: *er trägt*."
+      },
+      "examples": [
+        {
+          "de": "Sie trägt heute ein rotes Kleid.",
+          "en": "She is wearing a red dress today."
+        },
+        {
+          "de": "Er trägt den Koffer zum Auto.",
+          "en": "He carries the suitcase to the car."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Brille (-n)",
+          "en": "(pair of) glasses"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Hilfst::helfen}} du mir bitte?",
+      "en": "Will you help me, please?",
+      "focus": "Ja/Nein-Frage · *du* · e → i",
+      "explanation": "*helfen* changes **e → i**: *hilf-* + *-st* → **Hilfst**. *helfen* takes a Dativ object, so 'me' is *mir*. A yes/no question in the Präsens is a common polite request.",
+      "pattern": "Stamm (e → i) + **-st** + du + Dativ?",
+      "mistake": {
+        "wrong": "Helfst du mir bitte?",
+        "why": "*helfen* is a vowel-change verb: *du hilfst*."
+      },
+      "examples": [
+        {
+          "de": "Hilfst du mir beim Umzug?",
+          "en": "Will you help me with the move?"
+        },
+        {
+          "de": "Hilfst du deinem Bruder?",
+          "en": "Are you helping your brother?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wann {{c1::fährst::fahren}} du nach Hause?",
+      "en": "When are you going home?",
+      "focus": "W-Frage · *du* · a → ä",
+      "explanation": "*Wann* is in position 1, the verb in position 2. *du* + *fahren* → **fährst** (a → ä). *nach Hause* is the direction 'home'.",
+      "pattern": "W-Wort + Stamm (a → ä) + **-st** + du?",
+      "mistake": {
+        "wrong": "Wann fahrst du nach Hause?",
+        "why": "With *du* the *a* of *fahren* changes to *ä*: *du fährst*."
+      },
+      "examples": [
+        {
+          "de": "Wann fährst du in den Urlaub?",
+          "en": "When are you going on holiday?"
+        },
+        {
+          "de": "Wie fährst du zur Arbeit?",
+          "en": "How do you get to work?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie {{c1::isst::essen}} kein Fleisch.",
+      "en": "She doesn't eat meat.",
+      "focus": "*sie* (Singular) · e → i",
+      "explanation": "*sie* (she) + *essen* → **isst**: e → i, and the ending *-t*. *du isst* and *sie isst* look the same. *kein Fleisch* negates the noun without an article.",
+      "pattern": "sie (= she) + Stamm (e → i) + **-t** + kein + Nomen",
+      "mistake": {
+        "wrong": "Sie esst kein Fleisch.",
+        "why": "*essen* changes *e → i* for 'she': *sie isst*. *esst* is only for *ihr*."
+      },
+      "examples": [
+        {
+          "de": "Er isst keinen Fisch.",
+          "en": "He doesn't eat fish."
+        },
+        {
+          "de": "Meine Tochter isst kein Gemüse.",
+          "en": "My daughter doesn't eat vegetables."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Du {{c1::läufst::laufen}} sehr schnell.",
+      "en": "You run very fast.",
+      "focus": "*du*-Form · au → äu",
+      "explanation": "*laufen* changes **au → äu** for *du*: *läuf-* + *-st* → **läufst**. *sehr schnell* follows the verb.",
+      "pattern": "du + Stamm (au → äu) + **-st**",
+      "mistake": {
+        "wrong": "Du laufst sehr schnell.",
+        "why": "With *du* the *au* changes to *äu*: *du läufst*."
+      },
+      "examples": [
+        {
+          "de": "Du läufst jeden Tag fünf Kilometer.",
+          "en": "You run five kilometres every day."
+        },
+        {
+          "de": "Du schläfst sehr unruhig.",
+          "en": "You sleep very restlessly."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er {{c1::vergisst::vergessen}} immer den Schlüssel.",
+      "en": "He always forgets the key.",
+      "focus": "*er*-Form · e → i · Präfix *ver-*",
+      "explanation": "*vergessen* changes **e → i** in the stem syllable after the prefix *ver-*: *vergiss-* + *-t* → **vergisst**. The prefix *ver-* is inseparable and is not affected.",
+      "pattern": "er + ver-Stamm (e → i) + **-t**",
+      "mistake": {
+        "wrong": "Er vergesst immer den Schlüssel.",
+        "why": "The vowel change also happens in verbs with a prefix: *er vergisst*."
+      },
+      "examples": [
+        {
+          "de": "Sie vergisst nie einen Geburtstag.",
+          "en": "She never forgets a birthday."
+        },
+        {
+          "de": "Mein Mann vergisst oft sein Handy.",
+          "en": "My husband often forgets his phone."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Liest::lesen}} du das Buch?",
+      "en": "Are you reading the book?",
+      "focus": "Ja/Nein-Frage · *du* · e → ie",
+      "explanation": "*lesen* changes **e → ie**: *lies-*. The stem ends in *-s*, so *du* adds only *-t* → **Liest**. The verb is first in the yes/no question.",
+      "pattern": "Stamm (e → ie) + **-t** + du + …?",
+      "mistake": {
+        "wrong": "Lest du das Buch?",
+        "why": "*lest* is the *ihr*-form (no vowel change). For *du* it is *liest*."
+      },
+      "examples": [
+        {
+          "de": "Liest du gern Krimis?",
+          "en": "Do you like reading crime novels?"
+        },
+        {
+          "de": "Liest du die Nachrichten online?",
+          "en": "Do you read the news online?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie {{c1::trifft::treffen}} ihre Freunde.",
+      "en": "She is meeting her friends.",
+      "focus": "*sie* (Singular) · e → i",
+      "explanation": "*treffen* changes **e → i**: *triff-* + *-t* → **trifft** (double *f*, then *t*). The singular form *trifft* shows that *Sie* means 'she'.",
+      "pattern": "sie (= she) + Stamm (e → i) + **-t**",
+      "mistake": {
+        "wrong": "Sie trefft ihre Freunde.",
+        "why": "For 'she' the vowel changes: *sie trifft*. *trefft* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Er trifft heute seinen Chef.",
+          "en": "He is meeting his boss today."
+        },
+        {
+          "de": "Sie trifft ihre Kollegin im Café.",
+          "en": "She is meeting her colleague in the café."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Du {{c1::gibst::ausgeben}} viel Geld aus.",
+      "en": "You spend a lot of money.",
+      "focus": "trennbares Verb · e → i",
+      "explanation": "*ausgeben* (to spend) is separable. The verb part *geben* is conjugated with **e → i** → **gibst**, and the prefix *aus* goes to the end of the clause.",
+      "pattern": "du + Stamm (e → i) + **-st** … + Präfix",
+      "mistake": {
+        "wrong": "Du ausgibst viel Geld.",
+        "why": "*aus-* is a separable prefix. In the Präsens it goes to the end: *Du gibst viel Geld aus.*"
+      },
+      "examples": [
+        {
+          "de": "Du gibst nie auf.",
+          "en": "You never give up."
+        },
+        {
+          "de": "Du gibst die Bücher morgen zurück.",
+          "en": "You're returning the books tomorrow."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausgeben",
+          "en": "to spend (money)"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er {{c1::fängt::fangen}} den Ball.",
+      "en": "He catches the ball.",
+      "focus": "*er*-Form · a → ä",
+      "explanation": "*fangen* changes **a → ä** for *du* and *er/sie/es*: **fängt**. *den Ball* is the masculine Akkusativ object.",
+      "pattern": "er + Stamm (a → ä) + **-t**",
+      "mistake": {
+        "wrong": "Er fangt den Ball.",
+        "why": "With *er* the *a* changes to *ä*: *er fängt*."
+      },
+      "examples": [
+        {
+          "de": "Die Katze fängt eine Maus.",
+          "en": "The cat catches a mouse."
+        },
+        {
+          "de": "Der Unterricht fängt um acht an.",
+          "en": "The lesson starts at eight."
+        }
+      ],
+      "words": [
+        {
+          "de": "fangen",
+          "en": "to catch"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie {{c1::schläft::schlafen}} bis zehn Uhr.",
+      "en": "She sleeps until ten o'clock.",
+      "focus": "*sie* (Singular) · a → ä",
+      "explanation": "'She' is 3rd person singular, so *schlafen* changes **a → ä** → **schläft**. *bis* + time says until when.",
+      "pattern": "sie (= she) + Stamm (a → ä) + **-t** + bis + Zeit",
+      "mistake": {
+        "wrong": "Sie schlaft bis zehn Uhr.",
+        "why": "*schlaft* (no umlaut) is the *ihr*-form. For 'she' you need *schläft*."
+      },
+      "examples": [
+        {
+          "de": "Am Sonntag schläft er bis Mittag.",
+          "en": "On Sundays he sleeps until noon."
+        },
+        {
+          "de": "Das Kind schläft bis sieben.",
+          "en": "The child sleeps until seven."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Du {{c1::sprichst::sprechen}} sehr deutlich.",
+      "en": "You speak very clearly.",
+      "focus": "*du*-Form · e → i",
+      "explanation": "*sprechen* changes **e → i** in the *du*- and *er*-forms: *du* **sprichst**, *er spricht*. The plural keeps *e*: *wir sprechen, ihr sprecht*.",
+      "pattern": "du + Stamm (e → i) + **-st**",
+      "mistake": {
+        "wrong": "Du sprechst sehr deutlich.",
+        "why": "With *du* the *e* of *sprechen* becomes *i*: *du sprichst*."
+      },
+      "examples": [
+        {
+          "de": "Du sprichst zu schnell.",
+          "en": "You speak too fast."
+        },
+        {
+          "de": "Du sprichst gut Französisch.",
+          "en": "You speak French well."
+        }
+      ],
+      "words": [
+        {
+          "de": "deutlich",
+          "en": "clearly"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Er {{c1::fährt::fahren}} nach Hamburg.",
+      "en": "He is going to Hamburg.",
+      "focus": "*er*-Form · a → ä",
+      "explanation": "*fahren* changes **a → ä** only in the singular *du/er* forms: *du fährst, er* **fährt**. The plural keeps *a*: *wir fahren, ihr fahrt*.",
+      "pattern": "er + Stamm (a → ä) + **-t** + Ziel",
+      "mistake": {
+        "wrong": "Er fahren nach Hamburg.",
+        "why": "*fahren* is the infinitive/plural form. *er* needs the singular form with umlaut: *er fährt*."
+      },
+      "examples": [
+        {
+          "de": "Sie fährt morgen nach Basel.",
+          "en": "She is going to Basel tomorrow."
+        },
+        {
+          "de": "Der Zug fährt nach München.",
+          "en": "The train goes to Munich."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Nimmst::nehmen}} du Zucker?",
+      "en": "Do you take sugar?",
+      "focus": "Ja/Nein-Frage · *nehmen*",
+      "explanation": "*nehmen* is doubly irregular in the singular: the long *e* becomes a short **i**, the *h* disappears and the *m* doubles: **nimmst**, *nimmt*.",
+      "pattern": "nimm- + **-st** + du + Objekt?",
+      "mistake": {
+        "wrong": "Nimmt du Zucker?",
+        "why": "*nimmt* is the *er/sie/es*-form. *du* needs the ending *-st*: *Nimmst du …?*"
+      },
+      "examples": [
+        {
+          "de": "Nimmst du Milch?",
+          "en": "Do you take milk?"
+        },
+        {
+          "de": "Nimmst du ein Taxi?",
+          "en": "Are you taking a taxi?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Sie {{c1::liest::lesen}} ein spannendes Buch.",
+      "en": "She is reading an exciting book.",
+      "focus": "*sie* (Singular) · e → ie · Stamm auf *-s*",
+      "explanation": "*lesen* → *lies-*. The stem already ends in *-s*, so both *du* and *er/sie/es* have the form **liest**, with only one *s*.",
+      "pattern": "sie (= she) + Stamm (e → ie, -s) + **-t**",
+      "mistake": {
+        "wrong": "Sie liesst ein spannendes Buch.",
+        "why": "The stem *lies-* plus the ending *-t* gives *liest*. There is no double *s*."
+      },
+      "examples": [
+        {
+          "de": "Er liest einen Roman.",
+          "en": "He is reading a novel."
+        },
+        {
+          "de": "Sie liest eine E-Mail von ihrem Chef.",
+          "en": "She is reading an email from her boss."
+        }
+      ],
+      "words": [
+        {
+          "de": "spannend",
+          "en": "exciting, gripping"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ihr {{c1::schlaft::schlafen}} zu wenig.",
+      "en": "You (all) sleep too little.",
+      "focus": "*ihr*-Form · kein Vokalwechsel",
+      "explanation": "The vowel change happens **only** in the *du*- and *er/sie/es*-forms. *ihr* keeps the *a* of the infinitive: *schlaf-* + *-t* → **schlaft**.",
+      "pattern": "ihr + Stamm (kein Vokalwechsel) + **-t**",
+      "mistake": {
+        "wrong": "Ihr schläft zu wenig.",
+        "why": "*schläft* is the *er/sie/es*-form. *ihr* has no umlaut: *ihr schlaft*."
+      },
+      "examples": [
+        {
+          "de": "Ihr fahrt zu schnell.",
+          "en": "You (all) drive too fast."
+        },
+        {
+          "de": "Ihr esst zu viel Süßes.",
+          "en": "You (all) eat too many sweet things."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich {{c1::weiß::wissen}} die Antwort nicht.",
+      "en": "I don't know the answer.",
+      "focus": "*wissen* · *ich*-Form",
+      "explanation": "*wissen* has its own singular forms: *ich* **weiß**, *du weißt*, *er weiß*. The *ich*- and *er*-forms have no ending. *wissen* is for facts and information; for people and places use *kennen*.",
+      "pattern": "ich + **weiß** + Objekt + nicht",
+      "mistake": {
+        "wrong": "Ich weiße die Antwort nicht.",
+        "why": "*wissen* does not take the normal *-e* in the *ich*-form: *ich weiß*."
+      },
+      "examples": [
+        {
+          "de": "Ich weiß es nicht.",
+          "en": "I don't know."
+        },
+        {
+          "de": "Ich weiß seine Adresse nicht.",
+          "en": "I don't know his address."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Er {{c1::gibt::geben}} mir seine Nummer.",
+      "en": "He gives me his number.",
+      "focus": "*er*-Form · e → i",
+      "explanation": "*geben* changes **e → i**: *er* **gibt**. *geben* has two objects: the person in the Dativ (*mir*) and the thing in the Akkusativ (*seine Nummer*). A Dativ pronoun comes before an Akkusativ noun.",
+      "pattern": "er + Stamm (e → i) + **-t** + Dativ + Akkusativ",
+      "mistake": {
+        "wrong": "Er gebt mir seine Nummer.",
+        "why": "With *er* the vowel changes: *er gibt*. *gebt* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Sie gibt dem Kind einen Apfel.",
+          "en": "She gives the child an apple."
+        },
+        {
+          "de": "Er gibt mir einen Tipp.",
+          "en": "He gives me a tip."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Du {{c1::siehst::aussehen}} müde aus.",
+      "en": "You look tired.",
+      "focus": "trennbares Verb · e → ie",
+      "explanation": "*aussehen* (to look, appear) is separable. The verb part changes **e → ie** → **siehst**, and *aus* goes to the end of the clause.",
+      "pattern": "du + Stamm (e → ie) + **-st** + Adjektiv + aus",
+      "mistake": {
+        "wrong": "Du aussiehst müde.",
+        "why": "*aus-* is separable: in the Präsens it stands at the end: *Du siehst müde aus.*"
+      },
+      "examples": [
+        {
+          "de": "Du siehst heute sehr elegant aus.",
+          "en": "You look very elegant today."
+        },
+        {
+          "de": "Er sieht jünger aus.",
+          "en": "He looks younger."
+        }
+      ],
+      "words": [
+        {
+          "de": "aussehen",
+          "en": "to look (appearance)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Sie {{c1::isst::essen}} morgens nur Obst.",
+      "en": "She eats only fruit in the morning.",
+      "focus": "*sie* (Singular) · *essen*",
+      "explanation": "*essen* → **isst** for both *du* and *er/sie/es*. *morgens* ('in the mornings') comes after the verb, and *nur* stands directly before the word it limits, *Obst*.",
+      "pattern": "sie (= she) + **isst** + Zeit + nur + Nomen",
+      "mistake": {
+        "wrong": "Sie esst morgens nur Obst.",
+        "why": "For 'she' *essen* changes *e → i*: *sie isst*."
+      },
+      "examples": [
+        {
+          "de": "Er isst abends nur Salat.",
+          "en": "He only eats salad in the evening."
+        },
+        {
+          "de": "Mein Sohn isst mittags in der Schule.",
+          "en": "My son eats lunch at school."
+        }
+      ],
+      "words": [
+        {
+          "de": "morgens",
+          "en": "in the morning(s)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wir {{c1::treffen::to meet}} uns um sieben.",
+      "en": "We are meeting at seven.",
+      "focus": "*wir*-Form · kein Vokalwechsel",
+      "explanation": "*wir* has no vowel change: **treffen** = the infinitive. *sich treffen* ('to meet each other') needs the reflexive pronoun *uns* for *wir*.",
+      "pattern": "wir + Infinitivform + uns + Zeit",
+      "mistake": {
+        "wrong": "Wir triffen uns um sieben.",
+        "why": "The change *e → i* is only for *du* and *er/sie/es*. *wir* keeps *e*: *wir treffen*."
+      },
+      "examples": [
+        {
+          "de": "Wir sehen uns morgen.",
+          "en": "See you tomorrow."
+        },
+        {
+          "de": "Wir essen um acht.",
+          "en": "We eat at eight."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich treffen",
+          "en": "to meet (each other)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Hilfst::helfen}} du mir kurz?",
+      "en": "Can you help me for a moment?",
+      "focus": "*helfen* · Dativobjekt",
+      "explanation": "*helfen* → **hilfst** (e → i). The person you help is in the Dativ: *mir*, not *mich*. *kurz* makes the request softer: 'for a moment'.",
+      "pattern": "**Hilfst** + du + Dativ + …?",
+      "mistake": {
+        "wrong": "Hilfst du mich kurz?",
+        "why": "*helfen* always takes the Dativ. 'Me' in the Dativ is *mir*: *Hilfst du mir …?*"
+      },
+      "examples": [
+        {
+          "de": "Hilfst du mir mit dem Koffer?",
+          "en": "Will you help me with the suitcase?"
+        },
+        {
+          "de": "Er hilft uns immer.",
+          "en": "He always helps us."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Der Zug {{c1::hält::halten}} in Bern.",
+      "en": "The train stops in Bern.",
+      "focus": "a → ä · Stamm auf *-t*",
+      "explanation": "*halten* changes **a → ä**. Because the stem *hält-* already ends in *-t*, the *er*-form adds no ending: **hält** (not *hältet*). *du hältst* also has no extra *-e-*.",
+      "pattern": "Nomen (Sg.) + Stamm (a → ä, -t) + Ø",
+      "mistake": {
+        "wrong": "Der Zug haltet in Bern.",
+        "why": "With a singular subject *halten* changes *a → ä*, and the *t* of the stem is enough: *er hält*."
+      },
+      "examples": [
+        {
+          "de": "Der Bus hält direkt vor dem Haus.",
+          "en": "The bus stops right in front of the house."
+        },
+        {
+          "de": "Sie hält das Baby im Arm.",
+          "en": "She is holding the baby in her arms."
+        }
+      ],
+      "words": [
+        {
+          "de": "halten",
+          "en": "to stop; to hold"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Ich {{c1::laufe::laufen}} jeden Morgen.",
+      "en": "I run every morning.",
+      "focus": "*ich*-Form · kein Vokalwechsel",
+      "explanation": "The *ich*-form is always regular, without umlaut: *lauf-* + *-e* → **laufe**. Only *du läufst* and *er läuft* change.",
+      "pattern": "ich + Stamm (kein Vokalwechsel) + **-e**",
+      "mistake": {
+        "wrong": "Ich läufe jeden Morgen.",
+        "why": "The vowel change is never in the *ich*-form: *ich laufe*."
+      },
+      "examples": [
+        {
+          "de": "Ich fahre jeden Tag mit dem Bus.",
+          "en": "I take the bus every day."
+        },
+        {
+          "de": "Ich schlafe am Wochenende lange.",
+          "en": "I sleep in at the weekend."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Du {{c1::wirst::werden}} das schaffen.",
+      "en": "You will manage that.",
+      "focus": "*werden* · *du*-Form",
+      "explanation": "*werden* has special singular forms: *du* **wirst**, *er wird*. Here it is the auxiliary of the future (Futur I): *werden* in position 2 + infinitive (*schaffen*) at the end.",
+      "pattern": "du + **wirst** + … + Infinitiv",
+      "mistake": {
+        "wrong": "Du werdest das schaffen.",
+        "why": "*werden* is irregular for *du*: the form is *wirst*, without *-d-*."
+      },
+      "examples": [
+        {
+          "de": "Du wirst bestimmt Erfolg haben.",
+          "en": "You will surely be successful."
+        },
+        {
+          "de": "Er wird dir bestimmt helfen.",
+          "en": "He will surely help you."
+        }
+      ],
+      "words": [
+        {
+          "de": "schaffen",
+          "en": "to manage, to make it"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Er {{c1::vergisst::vergessen}} immer seinen Schlüssel.",
+      "en": "He always forgets his key.",
+      "focus": "e → i · Schreibung *ss*",
+      "explanation": "*vergessen* → **vergisst**: e → i, even under the prefix *ver-*. After the short vowel *i* German writes *ss*, not *ß*. *seinen Schlüssel* is the masculine Akkusativ object.",
+      "pattern": "er + ver-Stamm (e → i) + **-t** + Akkusativ",
+      "mistake": {
+        "wrong": "Er vergißt immer seinen Schlüssel.",
+        "why": "*vergißt* is the old spelling. Since the spelling reform, *ss* follows a short vowel: *vergisst*."
+      },
+      "examples": [
+        {
+          "de": "Sie vergisst oft ihre Tasche.",
+          "en": "She often forgets her bag."
+        },
+        {
+          "de": "Mein Opa vergisst alles.",
+          "en": "My grandpa forgets everything."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Sie {{c1::empfiehlt::empfehlen}} das Restaurant.",
+      "en": "She recommends the restaurant.",
+      "focus": "e → ie · Präfix *emp-*",
+      "explanation": "*empfehlen* changes **e → ie** (long vowel): **empfiehlt**. Compare *sprechen → spricht*, which has a short *i*. *emp-* is an inseparable prefix.",
+      "pattern": "sie (= she) + emp-Stamm (e → ie) + **-t**",
+      "mistake": {
+        "wrong": "Sie empfehlt das Restaurant.",
+        "why": "*empfehlen* is a vowel-change verb: *sie empfiehlt*."
+      },
+      "examples": [
+        {
+          "de": "Der Arzt empfiehlt viel Ruhe.",
+          "en": "The doctor recommends a lot of rest."
+        },
+        {
+          "de": "Was empfiehlst du mir?",
+          "en": "What do you recommend?"
+        }
+      ],
+      "words": [
+        {
+          "de": "empfehlen",
+          "en": "to recommend"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Der Film {{c1::gefällt::gefallen}} mir sehr gut.",
+      "en": "I like the film very much.",
+      "focus": "a → ä · Verb mit Dativ",
+      "explanation": "*gefallen* changes **a → ä** like *fallen*: **gefällt**. The thing you like is the subject (*der Film* = *er*), and the person who likes it is in the Dativ (*mir*).",
+      "pattern": "Nomen (Sg.) + ge-Stamm (a → ä) + **-t** + Dativ",
+      "mistake": {
+        "wrong": "Der Film gefallt mir sehr gut.",
+        "why": "*gefallen* needs the umlaut for a singular subject: *er gefällt*."
+      },
+      "examples": [
+        {
+          "de": "Die Stadt gefällt mir sehr.",
+          "en": "I like the city a lot."
+        },
+        {
+          "de": "Gefällt dir das Hotel?",
+          "en": "Do you like the hotel?"
+        }
+      ],
+      "words": [
+        {
+          "de": "gefallen (+ Dat.)",
+          "en": "to please, to be liked by"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Mein Bruder {{c1::wäscht::waschen}} jeden Samstag sein Auto.",
+      "en": "My brother washes his car every Saturday.",
+      "focus": "a → ä · Stamm auf *-sch*",
+      "explanation": "*waschen* changes **a → ä** for *du* and *er/sie/es*: *er* **wäscht**. The stem ends in *-sch*, so *du wäschst* keeps the full ending *-st*.",
+      "pattern": "Nomen (Sg.) + Stamm (a → ä) + **-t**",
+      "mistake": {
+        "wrong": "Mein Bruder wascht jeden Samstag sein Auto.",
+        "why": "With a singular subject *waschen* needs the umlaut: *er wäscht*."
+      },
+      "examples": [
+        {
+          "de": "Sie wäscht die Wäsche am Sonntag.",
+          "en": "She does the laundry on Sunday."
+        },
+        {
+          "de": "Mein Vater wäscht immer ab.",
+          "en": "My father always does the dishes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Hältst::halten}} du kurz meine Tasche?",
+      "en": "Could you hold my bag for a moment?",
+      "focus": "*du*-Form · a → ä · Stamm auf *-t*",
+      "explanation": "*halten* changes **a → ä**: *hält-*. The stem ends in *-t*, but with the vowel change no extra *-e-* is inserted: *hält-* + *-st* → **Hältst** (not *hältest*).",
+      "pattern": "Stamm (a → ä, -t) + **-st** + du + …?",
+      "mistake": {
+        "wrong": "Haltest du kurz meine Tasche?",
+        "why": "*halten* changes *a → ä* for *du*, and the vowel-change form takes no extra *-e-*: *Hältst du …?*"
+      },
+      "examples": [
+        {
+          "de": "Was hältst du von der Idee?",
+          "en": "What do you think of the idea?"
+        },
+        {
+          "de": "Rätst du mir das wirklich?",
+          "en": "Do you really advise me to do that?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Sie {{c1::hilft::helfen}} ihrer Mutter in der Küche.",
+      "en": "She helps her mother in the kitchen.",
+      "focus": "*sie* (Singular) · e → i · Dativ",
+      "explanation": "*helfen* changes **e → i**: *sie* **hilft**. The person who gets help is in the Dativ: *ihre Mutter → ihrer Mutter*.",
+      "pattern": "sie (= she) + Stamm (e → i) + **-t** + Dativ",
+      "mistake": {
+        "wrong": "Sie helft ihrer Mutter in der Küche.",
+        "why": "For 'she' the vowel changes: *sie hilft*. *helft* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Er hilft seinem Nachbarn im Garten.",
+          "en": "He helps his neighbour in the garden."
+        },
+        {
+          "de": "Die App hilft mir beim Lernen.",
+          "en": "The app helps me with learning."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Sprecht::sprechen}} ihr Englisch?",
+      "en": "Do you (all) speak English?",
+      "focus": "*ihr*-Form · kein Vokalwechsel",
+      "explanation": "*ihr* keeps the vowel of the infinitive: *sprech-* + *-t* → **Sprecht**. The change *e → i* is only for *du sprichst* and *er spricht*.",
+      "pattern": "Stamm (kein Vokalwechsel) + **-t** + ihr + …?",
+      "mistake": {
+        "wrong": "Sprichst ihr Englisch?",
+        "why": "*sprichst* is the *du*-form. *ihr* has no vowel change and the ending *-t*: *Sprecht ihr …?*"
+      },
+      "examples": [
+        {
+          "de": "Lest ihr die Texte zu Hause?",
+          "en": "Do you (all) read the texts at home?"
+        },
+        {
+          "de": "Nehmt ihr den Zug?",
+          "en": "Are you (all) taking the train?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Mein Opa {{c1::sieht::sehen}} nicht mehr gut.",
+      "en": "My grandpa can't see well any more.",
+      "focus": "Nomen als Subjekt · e → ie",
+      "explanation": "*Mein Opa* = *er*, so *sehen* changes **e → ie**: *sieh-* + *-t* → **sieht**. *nicht mehr* means 'no longer, not any more'.",
+      "pattern": "Nomen (Sg.) + Stamm (e → ie) + **-t**",
+      "mistake": {
+        "wrong": "Mein Opa seht nicht mehr gut.",
+        "why": "With a singular subject the vowel changes: *er sieht*. *seht* is the *ihr*-form."
+      },
+      "examples": [
+        {
+          "de": "Meine Oma sieht gern Krimis.",
+          "en": "My grandma likes watching crime dramas."
+        },
+        {
+          "de": "Der Arzt sieht kein Problem.",
+          "en": "The doctor sees no problem."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wie lange {{c1::schläfst::schlafen}} du am Wochenende?",
+      "en": "How long do you sleep at the weekend?",
+      "focus": "W-Frage · *du* · a → ä",
+      "explanation": "*Wie lange* is in position 1, the verb in position 2. *du* + *schlafen* → *schläf-* + *-st* → **schläfst**.",
+      "pattern": "W-Wort + Stamm (a → ä) + **-st** + du?",
+      "mistake": {
+        "wrong": "Wie lange schlafst du am Wochenende?",
+        "why": "With *du* the *a* changes to *ä*: *du schläfst*."
+      },
+      "examples": [
+        {
+          "de": "Wie oft fährst du nach Hause?",
+          "en": "How often do you go home?"
+        },
+        {
+          "de": "Wohin läufst du so schnell?",
+          "en": "Where are you running to so fast?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Es {{c1::wird::werden}} schon dunkel.",
+      "en": "It's already getting dark.",
+      "focus": "*werden* · *es*-Form",
+      "explanation": "*werden* as a full verb means 'to become, to get'. Its *er/sie/es*-form is irregular: **wird**, with no extra *-t*. With an adjective it describes a change: *dunkel werden* = to get dark.",
+      "pattern": "es + **wird** + Adjektiv",
+      "mistake": {
+        "wrong": "Es werdet schon dunkel.",
+        "why": "*werdet* is the *ihr*-form. For *er/sie/es* the form is *wird*."
+      },
+      "examples": [
+        {
+          "de": "Das Wetter wird morgen besser.",
+          "en": "The weather will get better tomorrow."
+        },
+        {
+          "de": "Meine Tochter wird Ärztin.",
+          "en": "My daughter is going to be a doctor."
+        }
+      ],
+      "words": [
+        {
+          "de": "werden",
+          "en": "to become, to get"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Woher {{c1::weißt::wissen}} du das?",
+      "en": "How do you know that?",
+      "focus": "*wissen* · *du*-Form · W-Frage",
+      "explanation": "*wissen* is irregular in the singular: *ich/er* **weiß**, *du* **weißt** (stem *weiß-* + *-t*; the *ß* absorbs the *s* of *-st*). In the W-question the verb is in position 2, after *woher*.",
+      "pattern": "W-Wort + **weißt** + du + Objekt?",
+      "mistake": {
+        "wrong": "Woher weiß du das?",
+        "why": "*weiß* is the *ich/er*-form without ending. *du* needs *-t*: *weißt*."
+      },
+      "examples": [
+        {
+          "de": "Weißt du, wann der Kurs beginnt?",
+          "en": "Do you know when the course starts?"
+        },
+        {
+          "de": "Was weißt du über die Schweiz?",
+          "en": "What do you know about Switzerland?"
+        }
+      ],
+      "words": [
+        {
+          "de": "woher",
+          "en": "where from; how (do you know)"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Mein Chef {{c1::weiß::wissen}} noch nichts davon.",
+      "en": "My boss doesn't know anything about it yet.",
+      "focus": "*wissen* · *er*-Form",
+      "explanation": "*wissen* has no ending in the *er/sie/es*-form: **weiß**, the same as *ich weiß*. *noch nichts* = nothing yet; *davon* = about it.",
+      "pattern": "Nomen (Sg.) + **weiß** + …",
+      "mistake": {
+        "wrong": "Mein Chef weißt noch nichts davon.",
+        "why": "*weißt* is the *du*-form. *er* (*mein Chef*) takes *weiß*, without *-t*."
+      },
+      "examples": [
+        {
+          "de": "Niemand weiß die Lösung.",
+          "en": "Nobody knows the solution."
+        },
+        {
+          "de": "Sie weiß alles über Computer.",
+          "en": "She knows everything about computers."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Wen {{c1::lädst::einladen}} du zur Party ein?",
+      "en": "Who are you inviting to the party?",
+      "focus": "trennbares Verb · a → ä",
+      "explanation": "*einladen* is separable. The verb part *laden* changes **a → ä**: *du* **lädst**, *er lädt*. The stem ends in *-d*, but the vowel-change form takes no extra *-e-*. *ein* goes to the end.",
+      "pattern": "W-Wort + Stamm (a → ä) + **-st** + du … + ein?",
+      "mistake": {
+        "wrong": "Wen ladest du zur Party ein?",
+        "why": "*laden* changes *a → ä* for *du*, and then no *-e-* is added: *du lädst … ein*."
+      },
+      "examples": [
+        {
+          "de": "Sie lädt uns zum Essen ein.",
+          "en": "She is inviting us to dinner."
+        },
+        {
+          "de": "Er lädt sein Handy auf.",
+          "en": "He is charging his phone."
+        }
+      ],
+      "words": [
+        {
+          "de": "einladen",
+          "en": "to invite"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Sie {{c1::nimmt::nehmen}} den Bus zur Arbeit.",
+      "en": "She takes the bus to work.",
+      "focus": "*sie* (Singular) · *nehmen*",
+      "explanation": "*nehmen* → *sie* **nimmt**: the *e* becomes a short *i*, the *h* drops and the *m* doubles. The ending is the regular *-t*.",
+      "pattern": "sie (= she) + nimm- + **-t** + Akkusativ",
+      "mistake": {
+        "wrong": "Sie nehmt den Bus zur Arbeit.",
+        "why": "*nehmt* is the *ihr*-form. For 'she' the stem changes to *nimm-*: *sie nimmt*."
+      },
+      "examples": [
+        {
+          "de": "Er nimmt jeden Tag eine Tablette.",
+          "en": "He takes a pill every day."
+        },
+        {
+          "de": "Mein Kollege nimmt immer die Treppe.",
+          "en": "My colleague always takes the stairs."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about where the vowel changes.",
+      "prompt": "In which persons does a vowel-change verb change its stem vowel?",
+      "answer": "Only in the **du**-form and the **er/sie/es**-form (and with singular noun subjects). *ich, wir, ihr* and *sie/Sie* keep the vowel of the infinitive.",
+      "explanation": "The endings are the regular ones; only the stem vowel is different in two forms. So *ich fahre, du fährst, er fährt, wir fahren, ihr fahrt, sie fahren*. The *ihr*-form looks like a 'normal' *er*-form, which is a common trap.",
+      "examples": [
+        {
+          "de": "Wir lesen viel, aber er liest mehr.",
+          "en": "We read a lot, but he reads more."
+        },
+        {
+          "de": "Ich esse Fleisch, aber du isst vegetarisch.",
+          "en": "I eat meat, but you eat vegetarian food."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the patterns.",
+      "prompt": "What are the main vowel-change patterns in the Präsens? Give one verb for each.",
+      "answer": "**e → i** (*sprechen → spricht, helfen → hilft*), **e → ie** (*lesen → liest, sehen → sieht*), **a → ä** (*fahren → fährt, schlafen → schläft*), **au → äu** (*laufen → läuft*).",
+      "explanation": "*e → i* gives a short *i*, *e → ie* a long *ie*. The umlaut patterns only add the two dots. *nehmen* is special: *e → i* plus a double *m* (*nimmt*).",
+      "examples": [
+        {
+          "de": "Er wirft den Ball.",
+          "en": "He throws the ball."
+        },
+        {
+          "de": "Das Kind wächst schnell.",
+          "en": "The child is growing fast."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about recognising the verbs.",
+      "prompt": "How do you know if a verb has a vowel change?",
+      "answer": "You cannot see it from the infinitive. Learn the *er*-form with every strong verb: *fahren – fährt*, *geben – gibt*. Many verbs with *e* or *a* are regular: *gehen → geht, stehen → steht, machen → macht*.",
+      "explanation": "Verb tables and dictionaries list the 3rd person singular for this reason. A useful test: if the *er*-form has a different vowel from the infinitive (*fahren → fährt*), the verb has a vowel change.",
+      "examples": [
+        {
+          "de": "Er geht nach Hause.",
+          "en": "He is going home."
+        },
+        {
+          "de": "Er sieht einen Film.",
+          "en": "He is watching a film."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about wissen.",
+      "prompt": "What are the singular forms of *wissen*, and how is it different from *kennen*?",
+      "answer": "*ich* **weiß**, *du* **weißt**, *er/sie/es* **weiß** (no ending for *ich* and *er*); plural *wissen, wisst, wissen*. *wissen* = to know a fact or information; *kennen* = to know a person, place or thing.",
+      "explanation": "*wissen* often has a clause or *es/das* as its object (*Ich weiß, dass …; Ich weiß es.*). *kennen* has a noun object (*Ich kenne Berlin.*).",
+      "examples": [
+        {
+          "de": "Weißt du die Uhrzeit?",
+          "en": "Do you know the time?"
+        },
+        {
+          "de": "Kennst du meinen Bruder?",
+          "en": "Do you know my brother?"
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about stems in -t and -d.",
+      "prompt": "What happens to the endings of *halten* or *raten* (stem in *-t*) after the vowel change?",
+      "answer": "No extra *-e-* is inserted, and the *er*-form adds no ending: **du hältst, er hält**; **du rätst, er rät**. Compare the regular *arbeiten → du arbeitest, er arbeitet*.",
+      "explanation": "In the vowel-change forms the *-t* of the stem also works as the ending. *einladen* (stem in *-d*) also takes no extra *-e-* in these forms: *du lädst ein, er lädt ein*. The plural forms stay regular: *ihr haltet*.",
+      "examples": [
+        {
+          "de": "Was rätst du mir?",
+          "en": "What do you advise me to do?"
+        },
+        {
+          "de": "Sie hält eine Rede.",
+          "en": "She is giving a speech."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Mein Freund ___ jeden Tag Fahrrad.",
+      "options": [
+        "fährt",
+        "fahrt",
+        "fährst"
+      ],
+      "correct": "fährt",
+      "answer": "Mein Freund fährt jeden Tag Fahrrad.",
+      "explanation": "*Mein Freund* = *er*, so *fahren* changes *a → ä* and ends in *-t*: *fährt*. *fahrt* is the *ihr*-form, and *fährst* is the *du*-form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Wie oft ___ ihr eure Eltern?",
+      "options": [
+        "seht",
+        "sieht",
+        "siehst"
+      ],
+      "correct": "seht",
+      "answer": "Wie oft seht ihr eure Eltern?",
+      "explanation": "*ihr* has no vowel change: *seh-* + *-t* → *seht*. *sieht* is the *er*-form and *siehst* the *du*-form."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Der Lehrer ___ uns eine Aufgabe.",
+      "options": [
+        "gibt",
+        "gebt",
+        "gibst"
+      ],
+      "correct": "gibt",
+      "answer": "Der Lehrer gibt uns eine Aufgabe.",
+      "explanation": "*Der Lehrer* = *er*, so *geben* changes *e → i*: *gibt*. *gebt* is the *ihr*-form, and *gibst* is the *du*-form."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er sprecht kein Englisch.",
+      "answer": "Er spricht kein Englisch.",
+      "explanation": "*sprechen* changes *e → i* for *er/sie/es*: *er spricht*. *sprecht* is only correct with *ihr*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Du lesst zu wenig.",
+      "answer": "Du liest zu wenig.",
+      "explanation": "*lesen* changes *e → ie* for *du*, and the stem in *-s* adds only *-t*: *du liest*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir fähren am Montag nach Prag.",
+      "answer": "Wir fahren am Montag nach Prag.",
+      "explanation": "The umlaut is only for *du fährst* and *er fährt*. *wir* keeps the vowel of the infinitive: *wir fahren*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er weißt alles.",
+      "answer": "Er weiß alles.",
+      "explanation": "*wissen* has no ending in the *er/sie/es*-form: *er weiß*. *weißt* is the *du*-form."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Change the subject to du.",
+      "prompt": "Ich esse gern Pizza.",
+      "answer": "Du isst gern Pizza.",
+      "explanation": "*essen* changes *e → i* for *du*, and the stem *iss-* adds only *-t*: *du isst*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Change the subject to er.",
+      "prompt": "Wir tragen eine Uniform.",
+      "answer": "Er trägt eine Uniform.",
+      "explanation": "*wir tragen* has no vowel change. For *er* the *a* becomes *ä* and the ending is *-t*: *er trägt*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Change the subject to meine Mutter.",
+      "prompt": "Ich lese die Zeitung.",
+      "answer": "Meine Mutter liest die Zeitung.",
+      "explanation": "*Meine Mutter* = *sie* (3rd person singular), so *lesen* changes *e → ie*: *liest*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Change the subject to ihr.",
+      "prompt": "Du hilfst mir sehr.",
+      "answer": "Ihr helft mir sehr.",
+      "explanation": "The *i* in *hilfst* is only for *du* and *er*. *ihr* goes back to the vowel of the infinitive: *helf-* + *-t* → *helft*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Mein Opa",
+      "prompt": "sieht / mein Opa / fern / jeden Abend",
+      "answer": "Mein Opa sieht jeden Abend fern.",
+      "explanation": "*fernsehen* is separable: *sieht* (e → ie) is in position 2 and the prefix *fern* goes to the end. The time phrase *jeden Abend* stands between them. Also correct: *Jeden Abend sieht mein Opa fern.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "du / nimmst / den Zug / wann",
+      "answer": "Wann nimmst du den Zug?",
+      "explanation": "The question word *Wann* is in position 1, *nimmst* in position 2, then the subject *du* and the object *den Zug*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence with the subject Mein Bruder und ich.",
+      "prompt": "Ich schlafe lange. Mein Bruder schläft auch lange.",
+      "answer": "Mein Bruder und ich schlafen lange.",
+      "explanation": "*Mein Bruder und ich* = *wir*. The *wir*-form has no vowel change: *schläft* becomes *schlafen*."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Join the two sentences with und.",
+      "prompt": "Ich lese ein Buch. Meine Frau sieht fern.",
+      "answer": "Ich lese ein Buch und meine Frau sieht fern.",
+      "explanation": "*und* joins two main clauses without changing the word order. Each clause keeps its own verb form: *ich lese* (no change) and *meine Frau sieht … fern* (e → ie, prefix at the end)."
+    }
+  ]
+}

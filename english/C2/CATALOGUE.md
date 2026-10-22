@@ -1,0 +1,3203 @@
+# kizamu-english C2 · item list
+
+3000 notes in 60 decks. Ranked categories: Set 01 holds the most useful items. ★ = importance (5 = weekly in American English, 4 = monthly, 3 = several times a year). ↺ = you studied this item in an old deck; its review history is copied.
+
+## 01 Collocations (450)
+
+### Set 01
+
+- **a fair amount of something** — quite a lot of something; more than a little · ★★★★★ · neutral
+- **take issue with something** — disagree with or object to a specific point or claim · ★★★★★ · neutral
+- **draw a distinction** — show clearly how two similar things are different · ★★★★★ · neutral
+- **cautiously optimistic** — hopeful, but careful not to expect too much · ★★★★★ · neutral
+- **a vested interest** — a personal, often financial, reason for wanting a certain outcome · ★★★★★ · neutral
+- **highly unlikely** — very improbable; almost certainly not going to happen · ★★★★★ · neutral
+- **take a toll on someone** — slowly cause damage or harm, physically or emotionally · ★★★★★ · neutral
+- **the root cause** — the basic, underlying reason why a problem happens · ★★★★★ · neutral
+- **a sweeping generalization** — a statement that wrongly claims something is true in all cases · ★★★★★ · neutral
+- **cast doubt on something** — make people less sure that something is true or will happen · ★★★★★ · neutral
+- **unintended consequences** — results of an action that nobody expected or planned · ★★★★★ · neutral
+- **strike a balance** — find a sensible middle point between two competing needs · ★★★★★ · neutral
+- **voice concerns** — say openly that you are worried about something · ★★★★★ · neutral
+- **call something into question** — make people doubt whether something is true, right or fair · ★★★★★ · neutral
+- **the bare minimum** — the smallest amount that is acceptable or required · ★★★★★ · neutral
+- **brutally honest** — honest in a very direct way that may hurt feelings · ★★★★★ · neutral
+- **a hidden agenda** — a secret aim behind what someone says or does · ★★★★★ · neutral
+- **set boundaries** — make clear what behavior you will and will not accept · ★★★★★ · neutral
+- **conventional wisdom** — the belief that most people generally accept as true · ★★★★★ · neutral
+- **pose a threat** — be a possible danger to someone or something · ★★★★★ · neutral
+- **a double standard** — a rule applied more strictly to some people than to others · ★★★★★ · neutral
+- **set the tone** — establish the mood or character of an event or relationship · ★★★★★ · neutral
+- **have reservations about something** — have some doubts and not fully support a plan or idea · ★★★★★ · neutral
+- **a compelling argument** — an argument so strong that it convinces people · ★★★★★ · neutral
+- **lay the groundwork** — do the early work that makes later progress possible · ★★★★★ · neutral
+- **address concerns** — deal with the things people are worried about · ★★★★★ · neutral
+- **an educated guess** — a guess based on some knowledge or experience · ★★★★★ · neutral
+- **play a pivotal role** — have a central, crucial part in something · ★★★★★ · neutral
+- **respectfully disagree** — disagree politely while still showing respect · ★★★★★ · neutral
+- **a conflict of interest** — a situation where personal interests could affect professional judgment · ★★★★★ · neutral
+- **put a strain on something** — create pressure or difficulties for something or someone · ★★★★★ · neutral
+- **in stark contrast to something** — very clearly different from something · ★★★★★ · neutral
+- **reap the benefits** — get the good results of something you did earlier · ★★★★★ · neutral
+- **set a precedent** — create an example that will be used to justify later actions · ★★★★★ · neutral
+- **a sense of urgency** — a feeling that something must be done quickly · ★★★★★ · neutral
+- **abundantly clear** — completely obvious; impossible to misunderstand · ★★★★★ · neutral
+- **strike a deal** — reach an agreement, especially after negotiation · ★★★★★ · neutral
+- **come under scrutiny** — be examined closely and critically · ★★★★★ · neutral
+- **an informed decision** — a decision made with knowledge of the relevant facts · ★★★★★ · neutral
+- **a calculated risk** — a risk taken after carefully judging possible gains and losses · ★★★★★ · neutral
+- **erode trust** — gradually weaken people's trust · ★★★★★ · neutral
+- **fall short of expectations** — be less good or successful than people hoped · ★★★★★ · neutral
+- **challenge the status quo** — question the existing situation and push for change · ★★★★★ · neutral
+- **a daunting task** — a job that looks difficult and makes you nervous · ★★★★★ · neutral
+- **hone your skills** — improve your skills through practice · ★★★★★ · neutral
+- **a concerted effort** — a determined effort, often by several people working together · ★★★★★ · neutral
+- **the foreseeable future** — the period of time that you can reasonably predict · ★★★★★ · neutral
+- **undivided attention** — complete attention, with no distraction · ★★★★★ · neutral
+- **due diligence** — careful checking of facts before a decision, deal or investment · ★★★★★ · neutral
+- **a proven track record** — a history of past success that shows you can do it again · ★★★★★ · neutral
+
+### Set 02
+
+- **build rapport** — develop a friendly understanding and trust with someone · ★★★★★ · neutral
+- **return the favor** — do something kind for someone who helped you · ★★★★★ · neutral
+- **boost morale** — make a group of people feel more confident and positive · ★★★★★ · neutral
+- **secure funding** — succeed in getting money for a project · ★★★★★ · neutral
+- **exercise caution** — be careful, especially to avoid risk · ★★★★★ · formal
+- **run errands** — go out to do small jobs such as shopping or the post office · ★★★★★ · neutral, US
+- **a sneaking suspicion** — a secret feeling that something is true, without proof · ★★★★★ · neutral
+- **take precedence over something** — be more important and be dealt with first · ★★★★ · neutral
+- **a foregone conclusion** — a result that is certain before it happens · ★★★★ · neutral
+- **bitterly disappointed** — extremely and painfully disappointed · ★★★★ · neutral
+- **draw a parallel** — point out that two different things are similar · ★★★★ · neutral
+- **painfully aware** — very conscious of something unpleasant · ★★★★ · neutral
+- **a stroke of luck** — something lucky that happens by chance · ★★★★ · neutral
+- **lend credence to something** — make a claim or idea seem more likely to be true · ★★★★ · formal
+- **a glimmer of hope** — a small sign that things may improve · ★★★★ · neutral
+- **deeply flawed** — having serious faults or weaknesses · ★★★★ · neutral
+- **come at a cost** — have a disadvantage or price attached · ★★★★ · neutral
+- **a tenuous link** — a very weak or doubtful connection · ★★★★ · neutral
+- **make amends** — do something to correct a wrong you did · ★★★★ · neutral
+- **pleasantly surprised** — happy because something is better than you expected · ★★★★ · neutral
+- **a remote possibility** — a very small chance that something will happen · ★★★★ · neutral
+- **fall victim to something** — be harmed or affected by something bad · ★★★★ · neutral
+- **acutely aware** — very sharply conscious of something · ★★★★ · neutral
+- **hold true** — remain correct or valid in a situation · ★★★★ · neutral
+- **a mixed blessing** — something that has both advantages and disadvantages · ★★★★ · neutral
+- **lend weight to something** — make an argument or view seem stronger · ★★★★ · neutral
+- **blissfully unaware** — happily not knowing about something unpleasant · ★★★★ · neutral
+- **mixed feelings** — both positive and negative feelings about the same thing · ★★★★ · neutral
+- **spark a debate** — cause people to start discussing or arguing about something · ★★★★ · neutral
+- **a distinct possibility** — a real and fairly likely possibility · ★★★★ · neutral
+- **an ulterior motive** — a hidden reason for doing something · ★★★★ · neutral
+- **categorically deny** — deny something completely and firmly · ★★★★ · formal
+- **the task at hand** — the job that you are dealing with right now · ★★★★ · neutral
+- **challenge an assumption** — question an idea that people take for granted · ★★★★ · neutral
+- **wholeheartedly agree** — agree completely and enthusiastically · ★★★★ · neutral
+- **dispel a myth** — show that a widely believed idea is false · ★★★★ · neutral
+- **a gut feeling** — a strong feeling based on instinct rather than logic · ★★★★ · informal
+- **go unnoticed** — not be seen or noticed by anyone · ★★★★ · neutral
+- **vastly different** — very different in a big, obvious way · ★★★★ · neutral
+- **fall into the trap of doing something** — make a common, easy mistake · ★★★★ · neutral
+- **in large part** — mostly; to a great degree · ★★★★ · neutral
+- **entertain the idea** — be willing to consider an idea as possible · ★★★★ · neutral
+- **a firm believer in something** — someone who strongly believes something is right or works · ★★★★ · neutral
+- **fundamentally different** — different in the most basic way · ★★★★ · neutral
+- **a wealth of something** — a large amount of something useful, such as knowledge · ★★★★ · neutral
+- **take offense at something** — feel hurt or insulted by something · ★★★★ · neutral
+- **seriously doubt** — strongly think that something is not true or will not happen · ★★★★ · informal
+- **perpetuate a stereotype** — help a simplified, often unfair image continue to exist · ★★★★ · neutral
+- **mutually exclusive** — impossible to be true or happen at the same time · ★★★★ · neutral
+- **a host of something** — a large number of different things · ★★★★ · neutral
+
+### Set 03
+
+- **float an idea** — suggest an idea informally to see how people react · ★★★★ · neutral
+- **a thorny issue** — a complicated problem that is hard to deal with · ★★★★ · neutral
+- **strongly suspect** — be fairly sure that something is true · ★★★★ · neutral
+- **run the risk of something** — do something that might lead to a bad result · ★★★★ · neutral
+- **inextricably linked** — so closely connected that they cannot be separated · ★★★★ · formal
+- **a turn of events** — a change in what is happening, often unexpected · ★★★★ · neutral
+- **broach the subject** — start talking about a sensitive or difficult topic · ★★★★ · neutral
+- **a pressing issue** — a problem that needs attention urgently · ★★★★ · neutral
+- **deeply ingrained** — so firmly established that it is very hard to change · ★★★★ · neutral
+- **belabor the point** — keep talking about something after it is already clear · ★★★★ · neutral, US
+- **dead wrong** — completely wrong, with no doubt about it · ★★★★ · informal
+- **take a stand on something** — publicly state a firm opinion and defend it · ★★★★ · neutral
+- **a world of difference** — a very big and important difference · ★★★★ · neutral
+- **dodge the question** — avoid answering a question directly · ★★★★ · informal
+- **a widely held belief** — an opinion that many people share · ★★★★ · neutral
+- **stoke fears** — make people more afraid or worried, often on purpose · ★★★★ · neutral
+- **allay fears** — make people feel less worried · ★★★★ · formal
+- **a pang of guilt** — a sudden, sharp feeling of guilt · ★★★★ · neutral
+- **fuel speculation** — cause more people to guess about what is happening · ★★★★ · neutral
+- **a stopgap measure** — a temporary solution used until a better one is found · ★★★★ · neutral
+- **diametrically opposed** — completely opposite to each other · ★★★★ · formal
+- **harbor doubts** — keep feeling doubtful about something, often privately · ★★★★ · neutral
+- **deflect criticism** — avoid criticism by turning attention to something else · ★★★★ · neutral
+- **a downward spiral** — a situation that keeps getting worse and worse · ★★★★ · neutral
+- **hardly surprising** — not surprising at all; to be expected · ★★★★ · neutral
+- **shift the blame onto someone** — make someone else seem responsible for a problem · ★★★★ · neutral
+- **a paradigm shift** — a fundamental change in the usual way of thinking · ★★★★ · neutral
+- **a figment of someone's imagination** — something a person imagined that is not real · ★★★★ · neutral
+- **draw criticism** — cause people to criticize someone or something · ★★★★ · neutral
+- **perfectly capable of doing something** — fully able to do something without help · ★★★★ · neutral
+- **face a backlash** — experience a strong negative reaction from many people · ★★★★ · neutral
+- **a lapse in judgment** — a single mistake caused by not thinking carefully · ★★★★ · neutral
+- **a marked improvement** — a clear, noticeable improvement · ★★★★ · neutral
+- **spark outrage** — cause many people to become very angry · ★★★★ · neutral
+- **a grain of truth** — a small amount of truth in a mostly false statement · ★★★★ · neutral
+- **a watershed moment** — a point in time that marks an important change · ★★★★ · neutral
+- **notoriously difficult** — well known for being very difficult · ★★★★ · neutral
+- **shirk responsibility** — avoid doing what you are supposed to do · ★★★★ · neutral
+- **a shred of evidence** — even the smallest piece of evidence · ★★★★ · neutral
+- **juggle responsibilities** — handle several duties at the same time · ★★★★ · neutral
+- **deceptively simple** — seeming easy, but actually more difficult than it looks · ★★★★ · neutral
+- **a breach of trust** — an action that breaks someone's trust in you · ★★★★ · neutral
+- **take shape** — start to develop a clear, definite form · ★★★★ · neutral
+- **sorely needed** — needed very badly and urgently · ★★★★ · neutral
+- **distinctly remember** — remember something very clearly · ★★★★ · neutral
+- **take comfort in something** — feel less sad or worried because of something · ★★★★ · neutral
+- **a profound impact** — a very deep and strong effect · ★★★★ · neutral
+- **a semblance of something** — a small amount or appearance of something, such as normality · ★★★★ · neutral
+- **deeply regret** — be very sorry about something you did · ★★★★ · neutral
+- **give way to something** — be replaced by something else · ★★★★ · neutral
+
+### Set 04
+
+- **a point of contention** — a topic that people disagree about · ★★★★ · neutral
+- **give someone pause** — make someone stop and think, often with doubt · ★★★★ · neutral
+- **carefully worded** — written with words chosen with great care · ★★★★ · neutral
+- **thinly veiled** — only slightly hidden, so the real meaning is clear · ★★★★ · neutral
+- **run the gamut** — include the full range of something, from one extreme to another · ★★★★ · neutral
+- **the crux of the matter** — the most important or central point of a problem · ★★★★ · neutral
+- **fall out of favor** — stop being popular or approved of · ★★★★ · neutral
+- **a fatal flaw** — a weakness that causes something to fail · ★★★★ · neutral
+- **prohibitively expensive** — so expensive that people cannot buy or do it · ★★★★ · neutral
+- **grind to a halt** — slowly stop moving or working completely · ★★★★ · neutral
+- **the gist of something** — the main point or general meaning of something · ★★★★ · informal
+- **go to the trouble of doing something** — make a special effort to do something · ★★★★ · neutral
+- **dire consequences** — very serious, terrible results · ★★★★ · neutral
+- **politically motivated** — done for political reasons rather than the stated ones · ★★★★ · neutral
+- **gain momentum** — grow stronger and faster as it progresses · ★★★★ · neutral
+- **far-reaching consequences** — effects that influence many people or things · ★★★★ · neutral
+- **not remotely interested** — not interested at all · ★★★★ · neutral
+- **downright rude** — completely and openly rude · ★★★★ · neutral
+- **a holistic approach** — an approach that considers the whole rather than separate parts · ★★★★ · neutral
+- **wield influence** — have and use power over people or events · ★★★★ · neutral
+- **alarmingly high** — so high that it causes worry · ★★★★ · neutral
+- **yield results** — produce useful or successful outcomes · ★★★★ · neutral
+- **bear the brunt of something** — suffer the worst part of something bad · ★★★★ · neutral
+- **bear a striking resemblance to someone** — look extremely similar to someone or something · ★★★★ · neutral
+- **a nuanced understanding** — an understanding that recognizes small but important differences · ★★★★ · neutral
+- **pay tribute to someone** — publicly praise and honor someone · ★★★★ · neutral
+- **solely responsible for something** — the only person or thing responsible · ★★★★ · neutral
+- **a sense of entitlement** — a belief that you deserve special treatment · ★★★★ · neutral
+- **a false sense of security** — a feeling of safety that is not justified · ★★★★ · neutral
+- **intimately familiar with something** — knowing something very well and in detail · ★★★★ · neutral
+- **a staunch supporter** — a very loyal, committed supporter · ★★★★ · neutral
+- **a sense of belonging** — a feeling of being accepted as part of a group · ★★★★ · neutral
+- **make a scene** — behave loudly and emotionally in public · ★★★★ · neutral
+- **demonstrably false** — clearly provable to be untrue · ★★★★ · formal
+- **make a mockery of something** — make something seem stupid or worthless · ★★★★ · neutral
+- **blatantly obvious** — completely and embarrassingly obvious · ★★★★ · neutral
+- **a keen eye for something** — an ability to notice details or quality · ★★★★ · neutral
+- **deliberately vague** — unclear on purpose, to avoid commitment · ★★★★ · neutral
+- **make headlines** — be reported widely in the news · ★★★★ · neutral
+- **ideally suited to something** — perfectly right for a purpose or person · ★★★★ · neutral
+- **uniquely positioned to do something** — in a special situation that others do not have · ★★★★ · neutral
+- **a slew of something** — a large number of something · ★★★★ · informal, US
+- **make peace with something** — accept a difficult situation calmly · ★★★★ · neutral
+- **vaguely familiar** — seeming known, but not clearly recognized · ★★★★ · neutral
+- **a prime example** — a very typical or clear example · ★★★★ · neutral
+- **a plethora of something** — a very large number of something, often too many · ★★★★ · formal
+- **do something justice** — show or describe something as good as it really is · ★★★★ · neutral
+- **anecdotal evidence** — evidence based on personal stories rather than research · ★★★★ · neutral
+- **visibly shaken** — clearly upset or shocked, as others can see · ★★★★ · neutral
+- **conspicuously absent** — missing in a way that people clearly notice · ★★★★ · neutral
+
+### Set 05
+
+- **an outright lie** — a complete lie, with no truth in it · ★★★★ · neutral
+- **harness the power of something** — use a force or resource effectively · ★★★★ · neutral
+- **a blatant disregard for something** — an open and shameless lack of care for rules or people · ★★★★ · neutral
+- **wildly popular** — extremely popular with a very large number of people · ★★★★ · neutral
+- **a breakdown in communication** — a failure of people to share information or understand each other · ★★★★ · neutral
+- **stubbornly high** — remaining high despite efforts to reduce it · ★★★★ · neutral
+- **sever ties with someone** — completely end a relationship or connection · ★★★★ · neutral
+- **a snap judgment** — an opinion or decision formed very quickly · ★★★★ · neutral
+- **hotly debated** — argued about with strong feelings on both sides · ★★★★ · neutral
+- **a tough call** — a difficult decision with no obvious right answer · ★★★★ · informal
+- **a conscious decision** — a deliberate, intentional decision · ★★★★ · neutral
+- **command respect** — naturally make people respect you · ★★★★ · neutral
+- **a half-hearted attempt** — an attempt made without real effort or interest · ★★★★ · neutral
+- **critically acclaimed** — praised by professional critics · ★★★★ · neutral
+- **pique someone's interest** — make someone curious about something · ★★★★ · neutral
+- **overly simplistic** — treating something complex as much simpler than it is · ★★★★ · neutral
+- **a no-win situation** — a situation in which every option leads to a bad result · ★★★★ · neutral
+- **at breakneck speed** — extremely and dangerously fast · ★★★★ · neutral
+- **a self-fulfilling prophecy** — a prediction that comes true because people believe it · ★★★★ · neutral
+- **sadly mistaken** — completely wrong, often in a way that disappoints · ★★★★ · neutral
+- **a necessary evil** — something bad that must be accepted to get a benefit · ★★★★ · neutral
+- **turn a profit** — start making money after costs · ★★★★ · neutral
+- **a pointed question** — a direct question that shows criticism · ★★★★ · neutral
+- **exploit a loophole** — use a gap in the rules to gain an advantage · ★★★★ · neutral
+- **a cautionary tale** — a story that warns people about a danger · ★★★★ · neutral
+- **flatly refuse** — refuse completely and directly · ★★★★ · neutral
+- **a logistical nightmare** — a situation that is extremely hard to organize · ★★★★ · neutral
+- **a sobering thought** — an idea that makes you more serious or worried · ★★★★ · neutral
+- **streamline the process** — make a procedure simpler and more efficient · ★★★★ · neutral
+- **freely admit** — readily and openly admit something · ★★★★ · neutral
+- **rise through the ranks** — move up from a low position to a high one · ★★★★ · neutral
+- **adversely affect something** — have a harmful effect on something · ★★★★ · formal
+- **a working knowledge of something** — enough knowledge to use something in practice · ★★★★ · neutral
+- **a firm grasp of something** — a solid, confident understanding of something · ★★★★ · neutral
+- **disproportionately affect** — have a much bigger effect on some groups than others · ★★★★ · neutral
+- **rely heavily on something** — depend on something to a great degree · ★★★★ · neutral
+- **a window of opportunity** — a short period when a chance is available · ★★★★ · neutral
+- **speak highly of someone** — praise someone a lot · ★★★★ · neutral
+- **a love-hate relationship** — mixed feelings of liking and disliking something · ★★★★ · neutral
+- **a significant other** — a person's romantic partner · ★★★★ · neutral
+- **a sympathetic ear** — someone willing to listen kindly to your problems · ★★★★ · neutral
+- **apologize profusely** — apologize many times, very strongly · ★★★★ · neutral
+- **a guilty conscience** — a feeling of guilt about something you did · ★★★★ · neutral
+- **an empty threat** — a threat that will not be carried out · ★★★★ · neutral
+- **tarnish someone's reputation** — damage the good opinion people have of someone · ★★★★ · neutral
+- **a token gesture** — a small action done only for appearance · ★★★★ · neutral
+- **compromise your integrity** — act against your own moral principles · ★★★★ · neutral
+- **a lame excuse** — a weak, unconvincing excuse · ★★★★ · informal
+- **weigh heavily on someone** — make someone worried or feel responsible · ★★★★ · neutral
+- **a lukewarm response** — a reaction without enthusiasm · ★★★★ · neutral
+
+### Set 06
+
+- **go horribly wrong** — fail in a very bad and serious way · ★★★★ · neutral
+- **squander an opportunity** — waste a good chance · ★★★★ · neutral
+- **pay dearly for something** — suffer badly as a result of something · ★★★★ · neutral
+- **effect change** — cause change to happen · ★★★★ · formal
+- **tackle something head-on** — deal with a problem directly and immediately · ★★★★ · neutral
+- **hit a plateau** — stop improving after a period of progress · ★★★★ · neutral
+- **a prior commitment** — an earlier arrangement that prevents you from doing something · ★★★★ · neutral
+- **reach a breaking point** — reach the point where you can no longer cope · ★★★★ · neutral
+- **dismiss something out of hand** — reject something immediately without considering it · ★★★★ · neutral
+- **reverse course** — change direction, especially in a policy or decision · ★★★★ · neutral
+- **keep pace with something** — develop or move at the same speed as something · ★★★★ · neutral
+- **a strong work ethic** — a strong belief in the value of hard work · ★★★★ · neutral
+- **keep abreast of something** — stay informed about the latest developments · ★★★★ · neutral
+- **waste no time in doing something** — do something immediately and eagerly · ★★★★ · neutral
+- **reach an impasse** — reach a point where no progress is possible · ★★★★ · neutral
+- **a polarizing figure** — a person who divides people into strong supporters and opponents · ★★★★ · neutral
+- **work tirelessly** — work very hard for a long time without stopping · ★★★★ · neutral
+- **lose your nerve** — suddenly become too afraid to do something · ★★★★ · neutral
+- **summon the courage to do something** — force yourself to be brave · ★★★★ · neutral
+- **speak candidly** — speak openly and honestly · ★★★★ · neutral
+- **dash someone's hopes** — destroy someone's hope that something will happen · ★★★★ · neutral
+- **pin your hopes on something** — rely on something to bring success · ★★★★ · neutral
+- **an acquired taste** — something you learn to like over time · ★★★★ · neutral
+- **a guilty pleasure** — something you enjoy but feel slightly ashamed of · ★★★★ · neutral
+- **stand idly by** — do nothing while something bad happens · ★★★★ · neutral
+- **arouse suspicion** — make people suspect that something is wrong · ★★★★ · neutral
+- **vent your frustration** — express anger or frustration openly · ★★★★ · neutral
+- **tread carefully** — act cautiously in a delicate situation · ★★★★ · neutral
+- **narrowly avoid something** — only just manage to avoid something bad · ★★★★ · neutral
+- **lift someone's spirits** — make someone feel happier · ★★★★ · neutral
+- **a small fortune** — a very large amount of money · ★★★★ · informal
+- **fail miserably** — fail completely and badly · ★★★★ · neutral
+- **dampen enthusiasm** — make people less excited about something · ★★★★ · neutral
+- **find solace in something** — find comfort in something during a sad time · ★★★★ · neutral
+- **find closure** — reach a feeling that a painful experience is finished · ★★★★ · neutral
+- **a seamless transition** — a smooth change with no problems · ★★★★ · neutral
+- **test someone's patience** — annoy someone until it is hard to stay calm · ★★★★ · neutral
+- **hold a grudge** — keep feeling angry with someone for a past wrong · ★★★★ · neutral
+- **take the hint** — understand what someone is telling you indirectly · ★★★★ · neutral
+- **a nagging doubt** — a doubt that keeps bothering you · ★★★★ · neutral
+- **break the news to someone** — tell someone important, usually bad, news · ★★★★ · neutral
+- **a dry sense of humor** — humor expressed seriously, without seeming to joke · ★★★★ · neutral
+- **owe someone an apology** — need to apologize to someone · ★★★★ · neutral
+- **sound judgment** — the ability to make good, sensible decisions · ★★★★ · neutral
+- **a humbling experience** — an experience that makes you feel less important or proud · ★★★★ · neutral
+- **cause a stir** — cause excitement, interest or shock among people · ★★★★ · neutral
+- **paint a bleak picture** — describe a situation as very negative · ★★★★ · neutral
+- **unforeseen circumstances** — unexpected events that affect plans · ★★★★ · neutral
+- **lead by example** — show others how to behave by doing it yourself · ★★★★ · neutral
+- **an honest mistake** — an innocent error made without bad intentions · ★★★★ · neutral
+
+### Set 07
+
+- **show no sign of something** — give no indication of stopping or changing · ★★★★ · neutral
+- **a common pitfall** — a frequent mistake or hidden danger · ★★★★ · neutral
+- **the overwhelming majority** — almost all of a group · ★★★★ · neutral
+- **suffer a setback** — experience a problem that delays progress · ★★★★ · neutral
+- **an inordinate amount of something** — an unusually or unreasonably large amount · ★★★★ · formal
+- **deal a blow to something** — cause damage or disappointment to something · ★★★★ · neutral
+- **avert a crisis** — prevent a crisis from happening · ★★★★ · neutral
+- **the sheer volume of something** — the very large amount of something · ★★★★ · neutral
+- **defuse the situation** — make a tense situation calmer · ★★★★ · neutral
+- **in dire need of something** — badly and urgently needing something · ★★★★ · neutral
+- **compound a problem** — make a bad problem worse · ★★★★ · neutral
+- **a radical departure from something** — a complete break from the usual way · ★★★★ · neutral
+- **show restraint** — control yourself and not overreact · ★★★★ · neutral
+- **proceed with caution** — continue carefully because of possible risk · ★★★★ · neutral
+- **sound the alarm** — warn people loudly about a danger · ★★★★ · neutral
+- **keep your options open** — avoid committing to one choice yet · ★★★★ · neutral
+- **reserve judgment** — wait before forming an opinion · ★★★★ · neutral
+- **fill a void** — replace something that is missing or lost · ★★★★ · neutral
+- **wear thin** — become less effective or acceptable, as patience or a joke does · ★★★★ · neutral
+- **go awry** — go wrong; not happen as planned · ★★★★ · neutral
+- **render something obsolete** — make something no longer useful · ★★★★ · formal
+- **tensions run high** — people are very angry, anxious or excited · ★★★★ · neutral
+- **run rampant** — spread in an uncontrolled way · ★★★★ · neutral
+- **be pressed for time** — not have much time · ★★★★ · neutral
+- **break even** — earn as much money as you spend, with no profit or loss · ★★★★ · neutral
+- **fall flat** — fail to have the intended effect, as a joke or speech · ★★★★ · neutral
+- **lose your train of thought** — forget what you were saying or thinking · ★★★★ · neutral
+- **subscribe to the view that** — agree with or hold a particular opinion · ★★★★ · formal
+- **pale in comparison** — seem less important or impressive when compared with something · ★★★★ · neutral
+- **undermine someone's credibility** — make people trust or believe someone less · ★★★★ · neutral
+- **place a premium on something** — value something especially highly · ★★★★ · neutral
+- **push the boundaries** — go beyond the usual limits of what is accepted or possible · ★★★★ · neutral
+- **a causal link** — a relationship in which one thing directly causes another · ★★★★ · neutral
+- **build consensus** — get a group of people to agree on something · ★★★★ · neutral
+- **meet with resistance** — face opposition when you try to do or change something · ★★★★ · neutral
+- **seek clarification** — ask someone to explain something more clearly · ★★★★ · formal
+- **raise the possibility that** — suggest that something might be true or might happen · ★★★★ · neutral
+- **informed consent** — agreement given after the risks and facts are fully explained · ★★★★ · formal
+- **a resounding success** — a very clear and complete success · ★★★★ · neutral
+- **a growing consensus** — increasing agreement among people about something · ★★★★ · neutral
+- **a stark reminder** — a clear and unpleasant reminder of a fact · ★★★ · neutral
+- **assume responsibility for something** — formally accept that something is your duty · ★★★ · formal
+- **set the agenda** — decide what topics or priorities will be discussed · ★★★ · neutral
+- **incremental change** — slow change in small steps · ★★★ · neutral
+- **come into effect** — officially start to apply, as a law or rule does · ★★★ · neutral
+- **a detrimental effect** — an effect that causes harm or damage · ★★★ · formal
+- **fiercely independent** — strongly determined to do things without help · ★★★ · neutral
+- **a recurring theme** — an idea that appears again and again · ★★★ · neutral
+- **a full-blown crisis** — a crisis that has fully developed into its worst form · ★★★ · neutral
+- **the burden of proof** — the duty to prove that a claim is true · ★★★ · neutral
+
+### Set 08
+
+- **a precarious position** — an unstable and risky situation · ★★★ · neutral
+- **a closely guarded secret** — a secret that is carefully kept from others · ★★★ · neutral
+- **an untenable position** — a position that cannot be defended or kept · ★★★ · formal
+- **enlist the help of someone** — get someone to help you with a task · ★★★ · neutral
+- **a delicate balance** — a situation that needs great care to stay stable · ★★★ · neutral
+- **solicit feedback** — actively ask people for their opinions · ★★★ · formal
+- **stiff competition** — strong competition that is hard to beat · ★★★ · neutral
+- **elicit a response** — cause someone to react or reply · ★★★ · formal
+- **dangerously close to something** — so near that it is risky or alarming · ★★★ · neutral
+- **a hands-off approach** — a style of managing without getting directly involved · ★★★ · neutral
+- **a frame of reference** — a set of ideas you use to judge or understand something · ★★★ · neutral
+- **a line of reasoning** — a series of connected thoughts leading to a conclusion · ★★★ · neutral
+- **a cursory glance** — a quick look that is not careful or detailed · ★★★ · neutral
+- **loosely based on something** — taking only some ideas from an original source · ★★★ · neutral
+- **a vocal minority** — a small group that expresses its opinions loudly · ★★★ · neutral
+- **a flurry of activity** — a short period of a lot of busy activity · ★★★ · neutral
+- **a barrage of criticism** — a large amount of criticism all at once · ★★★ · neutral
+- **make concessions** — give up some demands in order to reach agreement · ★★★ · neutral
+- **a spate of something** — a large number of similar events in a short time · ★★★ · neutral
+- **a close-knit community** — a group whose members know and support each other well · ★★★ · neutral
+- **a strained relationship** — a relationship full of tension and difficulty · ★★★ · neutral
+- **unwavering support** — support that never weakens · ★★★ · neutral
+- **make great strides** — make big and important progress · ★★★ · neutral
+- **a notable exception** — an important case that does not follow the general rule · ★★★ · neutral
+- **refreshingly honest** — honest in a pleasant, unexpected way · ★★★ · neutral
+- **an isolated incident** — a single event that is not part of a pattern · ★★★ · neutral
+- **a token of appreciation** — a small gift that shows thanks · ★★★ · neutral
+- **allocate resources** — decide how to distribute money, people or time · ★★★ · neutral
+- **a conservative estimate** — a careful estimate that is probably lower than reality · ★★★ · neutral
+- **a glaring error** — a very obvious and serious mistake · ★★★ · neutral
+- **a stroke of genius** — a brilliant and original idea · ★★★ · neutral
+- **eternally grateful** — extremely grateful for a long time · ★★★ · neutral
+- **foster collaboration** — encourage people to work together · ★★★ · neutral
+- **a flagrant violation** — an obvious and serious breaking of a rule or law · ★★★ · formal
+- **stifle innovation** — stop new ideas from developing · ★★★ · neutral
+- **a rash decision** — a decision made too quickly without enough thought · ★★★ · neutral
+- **a steady stream of something** — a continuous flow of people or things · ★★★ · neutral
+- **a fraction of the cost** — a much smaller price than usual · ★★★ · neutral
+- **purely coincidental** — happening only by chance, with no connection · ★★★ · neutral
+- **a valiant effort** — a brave, determined effort, often unsuccessful · ★★★ · neutral
+- **seemingly endless** — appearing to never stop or finish · ★★★ · neutral
+- **in quick succession** — one after another, with little time between · ★★★ · neutral
+- **capture someone's imagination** — make someone very interested and excited · ★★★ · neutral
+- **divert attention from something** — make people stop noticing something · ★★★ · neutral
+- **an elegant solution** — a simple and clever solution · ★★★ · neutral
+- **build a case against someone** — gather evidence to show someone is guilty or wrong · ★★★ · neutral
+- **instantly recognizable** — so familiar that people know it immediately · ★★★ · neutral
+- **aptly named** — having a name that suits it well · ★★★ · neutral
+- **a clear-cut case** — a situation that is obvious, with no doubt · ★★★ · neutral
+- **a touchy subject** — a topic that may upset or offend people · ★★★ · neutral
+
+### Set 09
+
+- **land a job** — succeed in getting a job, often a desirable one · ★★★ · informal
+- **a hollow victory** — a win that brings no real benefit or satisfaction · ★★★ · neutral
+- **ample opportunity** — plenty of chances or time to do something · ★★★ · neutral
+- **relinquish control** — give up power over something, often unwillingly · ★★★ · formal
+- **sway public opinion** — influence what people in general think · ★★★ · neutral
+- **irreconcilable differences** — disagreements that cannot be resolved · ★★★ · neutral
+- **hatch a plan** — secretly create a plan · ★★★ · neutral
+- **reserve the right to do something** — keep the option to do something later · ★★★ · formal
+- **betray someone's trust** — hurt someone who trusted you · ★★★ · neutral
+- **jeopardize someone's chances** — put someone's chances of success at risk · ★★★ · neutral
+- **a captive audience** — listeners who cannot easily leave or ignore you · ★★★ · neutral
+- **a sedentary lifestyle** — a way of life with little physical activity · ★★★ · neutral
+- **a splitting headache** — a very bad headache · ★★★ · neutral
+- **a light sleeper** — someone who wakes up easily · ★★★ · neutral
+- **creature comforts** — things that make life physically comfortable · ★★★ · neutral
+- **drastically reduce** — reduce something by a very large amount · ★★★ · neutral
+- **a dead-end job** — a job with no chance of promotion · ★★★ · neutral
+- **a skeleton crew** — the minimum number of staff needed to keep running · ★★★ · neutral
+- **regain your composure** — become calm again after being upset · ★★★ · neutral
+- **a public outcry** — a strong public protest · ★★★ · neutral
+- **bolster someone's confidence** — make someone feel more confident · ★★★ · neutral
+- **irreparable damage** — damage that cannot be repaired · ★★★ · neutral
+- **act swiftly** — act quickly and decisively · ★★★ · neutral
+- **a pet project** — a project someone personally cares a lot about · ★★★ · neutral
+- **offer your condolences** — express sympathy to someone after a death · ★★★ · neutral
+- **contain your excitement** — stop yourself from showing excitement · ★★★ · neutral
+- **the going rate** — the usual price for something at present · ★★★ · neutral
+- **show remorse** — show that you feel sorry for doing wrong · ★★★ · neutral
+- **grow exponentially** — grow faster and faster, at an increasing rate · ★★★ · neutral
+- **vary widely** — differ a lot from case to case · ★★★ · neutral
+- **a bygone era** — a period in the past that no longer exists · ★★★ · neutral
+- **throw a tantrum** — have a sudden fit of childish anger · ★★★ · neutral
+- **pick a fight** — deliberately start an argument or fight · ★★★ · neutral
+- **conveniently forget** — pretend to forget something because it suits you · ★★★ · neutral
+- **pent-up frustration** — frustration that has been held in for a long time · ★★★ · neutral
+- **a bruised ego** — hurt pride after a failure or criticism · ★★★ · neutral
+- **a checkered past** — a history that includes some bad or dishonest episodes · ★★★ · neutral, US
+- **break your silence** — speak publicly after saying nothing for a long time · ★★★ · neutral
+- **a harrowing experience** — an extremely distressing and frightening experience · ★★★ · neutral
+- **act in good faith** — act honestly, with good intentions · ★★★ · neutral
+- **a razor-thin margin** — an extremely small difference, as in an election · ★★★ · neutral, US
+- **outstanding issues** — problems that have not yet been resolved · ★★★ · neutral
+- **pinpoint the cause** — find the exact reason for something · ★★★ · neutral
+- **incur costs** — have to pay costs as a result of something · ★★★ · formal
+- **menial tasks** — boring, unskilled jobs that need little thought · ★★★ · neutral
+- **a thankless job** — a job that is hard and gets no appreciation · ★★★ · neutral
+- **the not-too-distant future** — a time in the future that is fairly soon · ★★★ · neutral
+- **heed a warning** — pay attention to a warning and act on it · ★★★ · formal
+- **exhaust all options** — try every possible way before giving up · ★★★ · neutral
+- **pass judgment on someone** — criticize or judge someone's behavior · ★★★ · neutral
+
+## 02 Phrasal verbs (300)
+
+### Set 01
+
+- **chime in** — add your own comment to a conversation or discussion · ★★★★★ · informal
+- **come down to something** — be decided mainly by one key factor · ★★★★★ · neutral
+- **boil down to something** — have something as its basic or most important point · ★★★★★ · neutral
+- **iron something out** — resolve small problems or disagreements, often about details · ★★★★★ · neutral
+- **spell something out** — explain something very clearly and in full detail · ★★★★★ · neutral
+- **flesh something out** — add details to an idea, plan or draft · ★★★★★ · neutral
+- **pan out** — turn out well or succeed (often used in the negative) · ★★★★★ · informal
+- **play out** — happen or develop in a particular way over time · ★★★★★ · neutral
+- **sink in** — (of news or a fact) become fully understood or felt · ★★★★★ · neutral
+- **set in** — (of something unpleasant) begin and seem likely to continue · ★★★★★ · neutral
+- **pick up on something** — notice something subtle or not openly stated · ★★★★★ · neutral
+- **read into something** — find more meaning in something than is really there · ★★★★★ · neutral
+- **come around (to something)** — change your opinion and finally agree · ★★★★★ · neutral
+- **buy into something** — believe or accept an idea, often too readily · ★★★★★ · informal
+- **hold off (on something)** — delay doing or deciding something for now · ★★★★★ · neutral
+- **fill someone in (on something)** — tell someone the details they missed or do not know · ★★★★★ · informal
+- **nail something down** — settle or agree on something definitely, such as a date · ★★★★★ · informal
+- **pin something down** — establish something exactly, such as a cause or a time · ★★★★★ · neutral
+- **follow through (on something)** — complete what you started or promised to do · ★★★★★ · neutral
+- **step up** — take on more responsibility or effort when it is needed · ★★★★★ · neutral
+- **pitch in** — join others in helping with a shared task · ★★★★★ · informal
+- **throw someone off** — confuse or distract someone so they lose focus · ★★★★★ · informal, US
+- **get to someone** — annoy, upset or affect someone emotionally · ★★★★★ · informal
+- **kick something off** — start an event, meeting or process · ★★★★★ · informal
+- **kick in** — start to take effect or to operate · ★★★★★ · informal
+- **roll something out** — launch or introduce something new, often in stages · ★★★★★ · neutral
+- **ramp something up** — increase the amount, speed or intensity of something · ★★★★★ · neutral
+- **work around something** — find a way to avoid a problem without solving it · ★★★★★ · neutral
+- **factor something in** — include something when you calculate or plan · ★★★★★ · neutral
+- **free something up** — make time, money or resources available for other uses · ★★★★★ · neutral
+- **take someone up on something** — accept an offer or invitation that someone made · ★★★★★ · neutral
+- **double down (on something)** — become even more committed to a risky position or plan · ★★★★★ · informal, US
+- **crop up** — appear or happen unexpectedly · ★★★★★ · informal
+- **get bogged down (in something)** — be slowed down by too many details or problems · ★★★★★ · neutral
+- **shy away from something** — avoid something because you are nervous or unwilling · ★★★★★ · neutral
+- **hold up (under scrutiny)** — (of an argument or claim) remain valid when examined closely · ★★★★★ · neutral
+- **stack up (against something)** — compare with something else in quality or value · ★★★★★ · informal
+- **tap into something** — make use of a resource, feeling or market · ★★★★★ · neutral
+- **rack something up** — accumulate a large number or amount, such as points or debt · ★★★★★ · informal
+- **shoot something down** — reject an idea or proposal firmly · ★★★★★ · informal
+- **lean into something** — embrace something fully, especially something difficult · ★★★★★ · informal, US
+- **carve something out** — create time, a role or a niche through effort · ★★★★★ · neutral
+- **map something out** — plan something carefully and in detail · ★★★★★ · neutral
+- **tone something down** — make something less extreme, strong or offensive · ★★★★★ · neutral
+- **take something out on someone** — treat someone badly because you are angry or stressed · ★★★★★ · neutral
+- **lash out (at someone)** — suddenly attack someone with angry words · ★★★★★ · neutral
+- **grow on someone** — become more liked by someone over time · ★★★★★ · informal
+- **pass something up** — fail to take an opportunity or an offer · ★★★★★ · neutral
+- **check in with someone** — talk briefly with someone to see how they or things are · ★★★★ · neutral, US
+- **hash something out** — discuss something thoroughly in order to reach agreement · ★★★★ · informal
+
+### Set 02
+
+- **hammer something out** — reach an agreement after long, hard negotiation · ★★★★ · neutral
+- **gloss over something** — treat a problem briefly to avoid dealing with it · ★★★★ · neutral
+- **play something down** — make something seem less important than it really is · ★★★★ · neutral
+- **play something up** — emphasize something to make it seem more important · ★★★★ · neutral
+- **talk something up** — praise something to make it seem better than it is · ★★★★ · informal
+- **get at something** — try to say something indirectly, as in "What are you getting at?" · ★★★★ · informal
+- **get into something** — start discussing a topic in detail ("let's not get into it") · ★★★★ · informal
+- **drag on** — continue for longer than necessary or wanted · ★★★★ · neutral
+- **mull something over** — think about something carefully for some time · ★★★★ · neutral
+- **zero in on something** — focus your attention closely on one thing · ★★★★ · neutral
+- **bank on something** — rely on something happening · ★★★★ · informal
+- **hinge on something** — depend completely on something · ★★★★ · neutral
+- **rein something in** — control or limit something more strictly · ★★★★ · neutral
+- **peter out** — gradually become weaker and then stop · ★★★★ · neutral
+- **fizzle out** — end weakly or disappointingly after a promising start · ★★★★ · informal
+- **taper off** — gradually decrease in amount or intensity · ★★★★ · neutral
+- **talk someone into something** — persuade someone to do something · ★★★★ · neutral
+- **win someone over** — persuade someone to support or like you · ★★★★ · neutral
+- **bounce something off someone** — share an idea with someone to get their reaction · ★★★★ · informal
+- **butt in** — interrupt a conversation rudely · ★★★★ · informal
+- **blurt something out** — say something suddenly without thinking · ★★★★ · neutral
+- **harp on (something)** — keep talking about something in an annoying way · ★★★★ · informal
+- **talk down to someone** — speak to someone as if they were less intelligent · ★★★★ · neutral
+- **dwell on something** — keep thinking or talking about something unpleasant · ★★★★ · neutral
+- **run through something** — go over something quickly to check or practice it · ★★★★ · neutral
+- **break something down** — divide something into parts to explain or analyze it · ★★★★ · neutral
+- **lay something out** — explain or present a plan or argument clearly · ★★★★ · neutral
+- **set out to do something** — begin with a clear intention to achieve something · ★★★★ · neutral
+- **dig into something** — investigate or examine something thoroughly · ★★★★ · informal
+- **read up on something** — learn about a topic by reading about it · ★★★★ · neutral
+- **level with someone** — speak honestly to someone about something · ★★★★ · informal, US
+- **let someone in on something** — tell someone a secret or private information · ★★★★ · informal
+- **let on** — reveal that you know a secret (often in the negative) · ★★★★ · informal ↺
+- **own up (to something)** — admit that you did something wrong · ★★★★ · informal
+- **tip someone off** — give someone a secret warning or piece of information · ★★★★ · informal
+- **hop on (a call)** — quickly join a phone or video call · ★★★★ · informal, US
+- **go over well (with someone)** — be received well by an audience or group · ★★★★ · neutral, US
+- **sound someone out** — carefully find out someone's opinion before deciding · ★★★★ · neutral
+- **size someone up** — look at someone or something and form a judgment · ★★★★ · informal
+- **add up** — make sense; seem true or logical · ★★★★ · informal ↺
+- **check out** — (of a story or claim) be confirmed as true when checked · ★★★★ · informal, US
+- **bear something out** — show that a claim or idea is true · ★★★★ · neutral ↺
+- **tease something out** — extract information or meaning carefully from something · ★★★★ · neutral
+- **piece something together** — understand events by combining separate pieces of information · ★★★★ · neutral
+- **narrow something down** — reduce a number of options by removing less suitable ones · ★★★★ · neutral
+- **firm something up** — make plans or arrangements more definite · ★★★★ · neutral
+- **lock something in** — secure something, such as a price or rate, for the future · ★★★★ · neutral
+- **squeeze someone in** — manage to fit someone or something into a busy schedule · ★★★★ · informal
+- **bump something up** — increase something, such as a price or priority · ★★★★ · informal, US
+- **run behind** — be later than planned or scheduled · ★★★★ · informal
+
+### Set 03
+
+- **scale something back** — reduce the size or extent of something · ★★★★ · neutral
+- **wind down** — relax after a period of work or stress · ★★★★ · informal
+- **wind up (somewhere)** — end up in a place or situation, often unplanned · ★★★★ · informal, US
+- **phase something out** — gradually stop using or providing something · ★★★★ · neutral
+- **roll something back** — reverse a policy, law or earlier change · ★★★★ · neutral
+- **walk something back** — retract or soften something you said earlier · ★★★★ · neutral, US
+- **strike something down** — (of a court) declare a law or rule invalid · ★★★★ · neutral, US
+- **be tied up** — be busy and unable to do anything else · ★★★★ · informal
+- **fall through** — fail to happen as planned · ★★★★ · neutral
+- **come through (for someone)** — do what is needed or promised, especially at a hard moment · ★★★★ · informal
+- **deliver on something** — do what you promised or were expected to do · ★★★★ · neutral
+- **pull something off** — succeed in doing something difficult · ★★★★ · informal
+- **head something up** — lead a team, project or department · ★★★★ · neutral, US
+- **hand something off** — pass a task or responsibility to someone else · ★★★★ · neutral, US
+- **fill in for someone** — do someone's job temporarily while they are away · ★★★★ · neutral
+- **sit on something** — deliberately delay dealing with something · ★★★★ · informal
+- **step in** — become involved to help or to stop something · ★★★★ · neutral
+- **side with someone** — support someone in an argument or dispute · ★★★★ · neutral
+- **get behind something** — support a plan, idea or person · ★★★★ · informal
+- **sell someone on something** — convince someone of the value of something · ★★★★ · informal, US
+- **settle on something** — choose something after thinking about it · ★★★★ · neutral
+- **back out (of something)** — withdraw from an agreement or commitment · ★★★★ · neutral
+- **bow out** — withdraw from an activity or role, often gracefully · ★★★★ · neutral
+- **back down** — stop insisting on something after opposition · ★★★★ · neutral ↺
+- **cave in (to something)** — finally agree to demands after resisting them · ★★★★ · informal
+- **hold out (for something)** — wait or resist in order to get something better · ★★★★ · neutral
+- **hold someone to something** — make someone keep a promise or agreement · ★★★★ · neutral
+- **hold something against someone** — blame or dislike someone because of a past action · ★★★★ · neutral
+- **write someone off** — decide that someone or something will fail or is worthless · ★★★★ · neutral
+- **write something off on your taxes** — deduct a cost from your taxable income · ★★★★ · informal, US
+- **single someone out** — choose one person from a group for special attention · ★★★★ · neutral
+- **set someone apart** — make someone or something different from and better than others · ★★★★ · neutral
+- **pass on something** — politely decline an offer or opportunity · ★★★★ · informal
+- **pass something off as something** — falsely present something as something else · ★★★★ · neutral
+- **pass someone over** — not choose someone for a promotion or role · ★★★★ · neutral
+- **tick up** — rise slightly, especially numbers such as prices or rates · ★★★★ · neutral
+- **ratchet something up** — increase something step by step · ★★★★ · neutral
+- **dial something back** — reduce the level or intensity of something · ★★★★ · informal, US
+- **tamp something down** — reduce or suppress something, such as rumors or inflation · ★★★★ · neutral, US
+- **water something down** — make a plan or statement weaker or less effective · ★★★★ · neutral
+- **dumb something down** — make something too simple to be accurate or interesting · ★★★★ · informal
+- **crack down on something** — take strong action to stop illegal or unwanted behavior · ★★★★ · neutral
+- **churn something out** — produce large amounts of something quickly, often of low quality · ★★★★ · informal
+- **cash in on something** — profit from a situation, often unfairly · ★★★★ · informal
+- **be priced out (of something)** — be unable to afford something because prices have risen · ★★★★ · neutral
+- **prop something up** — support something that would otherwise fail · ★★★★ · neutral
+- **shore something up** — strengthen or support something that is weak · ★★★★ · neutral
+- **beef something up** — make something stronger or more substantial · ★★★★ · informal
+- **blow over** — (of trouble or a scandal) pass without serious effects · ★★★★ · neutral
+- **flare up** — suddenly start again or become worse · ★★★★ · neutral
+
+### Set 04
+
+- **let up** — become less strong or intense, or stop · ★★★★ · neutral
+- **stave something off** — prevent something bad from happening for a while · ★★★★ · neutral
+- **fend something off** — defend yourself against attacks, questions or rivals · ★★★★ · neutral
+- **head something off** — prevent something bad before it happens · ★★★★ · neutral
+- **shrug something off** — treat something, such as criticism, as unimportant · ★★★★ · neutral
+- **brush someone off** — dismiss someone or something as unimportant · ★★★★ · neutral ↺
+- **weed someone out** — remove unwanted people or things from a group · ★★★★ · neutral
+- **tide someone over** — help someone through a short period of difficulty · ★★★★ · neutral
+- **ride something out** — survive a difficult period without serious damage · ★★★★ · neutral
+- **hunker down** — settle in to stay somewhere or to work hard for a long time · ★★★★ · informal, US
+- **buckle down** — start working seriously and with focus · ★★★★ · informal
+- **power through (something)** — keep going despite difficulty or tiredness · ★★★★ · informal, US
+- **shake something up** — make big changes to an organization or system · ★★★★ · neutral
+- **branch out** — expand into a new area of activity · ★★★★ · neutral
+- **fall back on something** — use something for support when other things fail · ★★★★ · neutral
+- **lean on someone** — rely on someone for support or help · ★★★★ · neutral
+- **draw on something** — use knowledge, experience or resources · ★★★★ · neutral
+- **feed into something** — contribute to or strengthen a process or belief · ★★★★ · neutral
+- **play into something** — help or support something, often without meaning to · ★★★★ · neutral
+- **chalk something up to something** — explain something as being caused by a particular factor · ★★★★ · informal, US
+- **cater to someone** — provide what a particular group wants or needs · ★★★★ · neutral
+- **pander to someone** — insincerely do what a group wants to win its support · ★★★★ · neutral
+- **subscribe to something** — agree with an idea, theory or opinion · ★★★★ · formal
+- **border on something** — come close to being a more extreme quality · ★★★★ · neutral
+- **thrive on something** — enjoy and do well in a particular condition · ★★★★ · neutral
+- **drum something up** — try hard to get support, interest or business · ★★★★ · neutral
+- **pile on** — join others in criticizing or attacking someone · ★★★★ · informal
+- **go back on something** — break a promise or agreement · ★★★★ · neutral
+- **chicken out (of something)** — decide not to do something because you are afraid · ★★★★ · informal
+- **egg someone on** — encourage someone to do something unwise · ★★★★ · informal
+- **put someone up to something** — encourage someone to do something wrong or silly · ★★★★ · informal
+- **warm up to someone** — gradually begin to like someone or something · ★★★★ · informal, US
+- **smooth something over** — make a problem or disagreement seem less serious · ★★★★ · neutral
+- **look out for someone** — protect someone and take care of their interests · ★★★★ · neutral
+- **vouch for someone** — say that someone is honest or reliable · ★★★★ · neutral
+- **stand by something** — continue to believe or support something you said or did · ★★★★ · neutral
+- **root for someone** — support someone and hope they succeed · ★★★★ · informal, US
+- **rope someone into something** — persuade someone to help, often against their wishes · ★★★★ · informal
+- **make it up to someone** — do something good for someone you have treated badly · ★★★★ · informal
+- **weigh on someone** — make someone worried or troubled · ★★★★ · neutral
+- **act up** — (of a person or machine) behave badly or not work properly · ★★★★ · informal ↺
+- **get worked up (about something)** — become very upset, angry or excited · ★★★★ · informal
+- **get caught up in something** — become so involved in something that you forget other things · ★★★★ · neutral
+- **snap out of something** — suddenly stop being in a bad mood or state · ★★★★ · informal
+- **pull yourself together** — regain control of your emotions after being upset · ★★★★ · informal
+- **choke up** — be unable to speak because of strong emotion · ★★★★ · informal
+- **bottle something up** — hide strong feelings instead of expressing them · ★★★★ · neutral
+- **tick someone off** — make someone feel annoyed or irritated · ★★★★ · informal, US
+- **stir something up** — cause trouble or strong feelings · ★★★★ · neutral
+- **blow someone away** — impress or surprise someone greatly · ★★★★ · informal
+
+### Set 05
+
+- **be taken aback** — be very surprised or shocked by something · ★★★★ · neutral ↺
+- **dawn on someone** — become clear to someone for the first time · ★★★★ · neutral
+- **rub off on someone** — (of a quality or habit) pass to someone through contact · ★★★★ · neutral
+- **make something out to be** — claim that something is a certain way, often falsely · ★★★★ · neutral
+- **make of something** — form an opinion of something ("What do you make of it?") · ★★★★ · neutral
+- **make for something** — help to produce a particular result · ★★★★ · neutral
+- **take away from something** — make something seem less good or valuable · ★★★★ · neutral
+- **be onto something** — have discovered something important or promising · ★★★★ · informal
+- **be up against something** — have to deal with a difficult problem or opponent · ★★★★ · informal
+- **be in for something** — be about to experience something, usually unpleasant · ★★★★ · informal
+- **be up for something** — be willing or keen to do something · ★★★★ · informal
+- **be cut out for something** — have the right qualities for a job or activity · ★★★★ · informal
+- **be stuck with something** — be forced to have or deal with something unwanted · ★★★★ · informal
+- **sleep on something** — delay a decision until the next day · ★★★★ · informal
+- **toy with something** — consider an idea without being very serious about it · ★★★★ · neutral
+- **sift through something** — examine a large amount of material carefully · ★★★★ · neutral
+- **pore over something** — study something carefully for a long time · ★★★★ · neutral
+- **wade through something** — deal with a large amount of boring material · ★★★★ · neutral
+- **brush up on something** — improve a skill or knowledge you have neglected · ★★★★ · neutral
+- **pick something up (a skill or habit)** — learn a skill or habit without formal study · ★★★★ · informal
+- **dance around something** — avoid talking directly about a subject · ★★★★ · informal
+- **tiptoe around something** — avoid a sensitive topic or person very carefully · ★★★★ · neutral
+- **tune out** — stop listening or paying attention · ★★★★ · informal
+- **get around something** — find a way to avoid a rule or difficulty · ★★★★ · neutral
+- **get around to something** — finally do something after delaying it · ★★★★ · informal
+- **get ahead of yourself** — plan or act too early, before you are ready · ★★★★ · informal
+- **get something over with** — do something unpleasant now so that it is finished · ★★★★ · informal
+- **go about something** — begin to deal with a task in a particular way · ★★★★ · neutral ↺
+- **lean toward something** — tend to prefer one option before you finally decide · ★★★★ · informal, US
+- **go through with something** — do something difficult or unpleasant that you had planned · ★★★★ · neutral
+- **live with something** — accept something unpleasant that you cannot change · ★★★★ · neutral
+- **put something behind you** — stop thinking about a bad experience and move on · ★★★★ · neutral
+- **balk at something** — be unwilling to accept or do something · ★★★★ · neutral
+- **eat into something** — use up part of something valuable, such as time or money · ★★★★ · neutral
+- **chip away at something** — gradually reduce or weaken something · ★★★★ · neutral
+- **come along** — make progress; develop ("How's it coming along?") · ★★★★ · neutral
+- **ride on something** — depend on the result of something ("a lot riding on it") · ★★★★ · neutral
+- **dredge something up** — mention something unpleasant from the past again · ★★★★ · neutral
+- **get sucked into something** — become involved in something against your will · ★★★★ · informal
+- **talk someone out of something** — persuade someone not to do something · ★★★ · neutral
+- **come forward** — offer help or information, especially to the police · ★★★ · neutral
+- **sit through something** — stay until the end of something long or boring · ★★★ · neutral
+- **act on something** — take action based on advice or information · ★★★ · neutral
+- **lose out (on something)** — miss a benefit or advantage that others get · ★★★ · neutral
+- **line something up** — arrange or organize something for the future · ★★★ · neutral
+- **drag something out** — make something last longer than necessary · ★★★ · neutral
+- **catch on** — become popular or fashionable · ★★★ · neutral
+- **pull through** — recover from a serious illness or difficulty · ★★★ · neutral
+- **ease up (on someone)** — become less strict, harsh or intense · ★★★ · informal
+- **shake something off** — get rid of an illness, feeling or reputation · ★★★ · neutral
+
+### Set 06
+
+- **laugh something off** — treat something as a joke to show it does not matter · ★★★ · neutral
+- **go under** — (of a business) fail and close · ★★★ · informal
+- **bottom out** — reach the lowest point before starting to improve · ★★★ · neutral
+- **level off** — stop rising or falling and stay steady · ★★★ · neutral
+- **spill over (into something)** — spread to another area or situation · ★★★ · neutral
+- **stamp something out** — end something bad by taking strong action · ★★★ · neutral
+- **usher something in** — mark or cause the start of something new · ★★★ · formal
+- **come out against something** — publicly declare your opposition to something · ★★★ · neutral
+- **turn on someone** — suddenly attack or criticize someone you were close to · ★★★ · neutral
+- **snap at someone** — speak to someone suddenly in an angry way · ★★★ · neutral
+- **string someone along** — deceive someone about your intentions for a long time · ★★★ · informal ↺
+- **gang up on someone** — join together to attack or criticize someone · ★★★ · informal
+- **weasel out of something** — avoid a duty by dishonest or clever means · ★★★ · informal
+- **edge someone out** — defeat someone by a small margin · ★★★ · neutral
+- **beat someone out** — defeat someone in a competition for something · ★★★ · informal, US
+- **snap something up** — buy or take something quickly and eagerly · ★★★ · informal
+- **dole something out** — give out money, food or advice to people · ★★★ · informal
+- **throw something in** — include something extra at no additional cost · ★★★ · informal
+- **tack something on** — add something extra at the end · ★★★ · informal
+- **whittle something down** — gradually reduce the size or number of something · ★★★ · neutral
+- **lump something together** — treat different things as if they were the same · ★★★ · neutral
+- **fire something off** — send a message or ask a question quickly · ★★★ · informal
+- **shake out** — happen or end up in a particular way · ★★★ · informal, US
+- **sit something out** — not take part in an activity or event · ★★★ · neutral
+- **count someone out** — assume that someone will fail or not take part · ★★★ · informal
+- **gear up (for something)** — prepare for an upcoming activity or event · ★★★ · neutral
+- **act out** — behave badly, often because of emotional problems · ★★★ · neutral
+- **creep up on someone** — approach gradually without being noticed · ★★★ · neutral
+- **wear someone down** — gradually make someone tired or less able to resist · ★★★ · neutral
+- **dream something up** — invent a new and unusual idea or plan · ★★★ · neutral
+- **part with something** — give away something you would prefer to keep · ★★★ · neutral
+- **spring something on someone** — tell someone something suddenly and without warning · ★★★ · informal
+- **trip someone up** — cause someone to make a mistake · ★★★ · neutral
+- **cut through something** — deal quickly with something complicated, such as red tape · ★★★ · neutral
+- **play around with something** — experiment with something to see what works · ★★★ · informal
+- **get through to someone** — succeed in making someone understand · ★★★ · neutral
+- **live something down** — make people forget an embarrassing thing you did · ★★★ · informal
+- **rave about something** — praise something with great enthusiasm · ★★★ · informal
+- **play on something** — exploit people's feelings, such as fears or hopes · ★★★ · neutral
+- **perk up** — become more cheerful, lively or interested · ★★★ · informal
+- **slip up** — make a careless mistake · ★★★ · informal
+- **rub it in** — keep reminding someone of their mistake or bad luck · ★★★ · informal
+- **be hung up on something** — think or worry too much about one thing · ★★★ · informal
+- **set someone back** — cost someone a particular amount of money · ★★★ · informal
+- **pick something apart** — criticize something by examining every detail · ★★★ · neutral
+- **kick something around** — discuss an idea informally · ★★★ · informal
+- **trail off** — speak more and more quietly until you stop · ★★★ · neutral
+- **pipe up** — suddenly start speaking, especially unexpectedly · ★★★ · informal
+- **eat at someone** — worry or annoy someone continuously · ★★★ · informal
+- **root something out** — find and remove something bad completely · ★★★ · neutral
+
+## 03 Idioms (450)
+
+### Set 01
+
+- **move the goalposts** — change the rules or targets unfairly after something has started · ★★★★★ · informal
+- **a tall order** — a task or request that is very difficult to fulfill · ★★★★★ · neutral
+- **par for the course** — normal and expected, especially of something bad or annoying · ★★★★★ · informal
+- **the elephant in the room** — an obvious problem that everyone avoids talking about · ★★★★★ · neutral
+- **a double-edged sword** — something that has both good and bad effects · ★★★★★ · neutral
+- **a hill to die on** — an issue important enough to fight for, whatever the cost · ★★★★★ · informal, US
+- **bite the bullet** — make yourself do something unpleasant but necessary · ★★★★★ · informal ↺
+- **cut corners** — do something cheaply or carelessly to save time or money · ★★★★★ · informal
+- **the tip of the iceberg** — a small visible part of a much larger problem · ★★★★★ · neutral
+- **a slippery slope** — a first step that is likely to lead to worse things · ★★★★★ · neutral
+- **the bottom line** — the most important fact; also, the final profit or loss · ★★★★★ · neutral
+- **read the room** — sense the mood of a group and adjust what you say · ★★★★★ · informal, US
+- **jump the gun** — do something too soon, before the right moment · ★★★★★ · informal ↺
+- **drop the ball** — fail to do something you were responsible for · ★★★★★ · informal, US
+- **throw someone under the bus** — blame or sacrifice someone else to protect yourself · ★★★★★ · informal, US
+- **kick the can down the road** — keep delaying a problem instead of dealing with it · ★★★★★ · informal, US
+- **on the fence** — not yet decided between two options · ★★★★★ · informal
+- **step up to the plate** — take responsibility and act when action is needed · ★★★★★ · informal, US
+- **throw someone a curveball** — surprise someone with an unexpected, difficult problem · ★★★★★ · informal, US
+- **hit the ground running** — start something new quickly and effectively, with no delay · ★★★★★ · informal
+- **cut to the chase** — skip the unimportant parts and get to the main point · ★★★★★ · informal, US
+- **get the ball rolling** — start an activity or process so that it can continue · ★★★★★ · informal ↺
+- **a wake-up call** — an event that suddenly makes you see a serious problem · ★★★★★ · neutral
+- **a level playing field** — a situation where everyone has a fair and equal chance · ★★★★★ · neutral
+- **the ball is in someone's court** — it is now that person's turn to act or decide · ★★★★★ · informal
+- **bite off more than you can chew** — take on more than you are able to handle · ★★★★★ · informal
+- **spread yourself too thin** — try to do too many things at the same time · ★★★★★ · informal ↺
+- **call the shots** — be the one who makes the important decisions · ★★★★★ · informal
+- **a long shot** — an attempt or option with only a small chance of success · ★★★★★ · informal
+- **the jury is still out** — people have not yet reached a decision or conclusion · ★★★★★ · neutral
+- **a recipe for disaster** — something that is very likely to end badly · ★★★★★ · neutral
+- **a gray area** — a situation where the rules or the right answer are unclear · ★★★★★ · neutral, US
+- **reinvent the wheel** — waste effort creating something that already exists · ★★★★★ · informal
+- **a perfect storm** — a rare combination of bad factors that creates a crisis · ★★★★★ · neutral
+- **a silver bullet** — a simple solution that would fix a complex problem at once · ★★★★★ · neutral
+- **skin in the game** — a personal stake or risk in how something turns out · ★★★★★ · informal, US
+- **a seat at the table** — a role in the discussions where decisions are made · ★★★★★ · neutral
+- **open a can of worms** — create a complicated situation with many new problems · ★★★★★ · informal
+- **walk on eggshells** — be very careful not to upset or offend someone · ★★★★★ · informal
+- **step on someone's toes** — offend someone by interfering in their area of responsibility · ★★★★★ · informal
+- **go out on a limb** — risk saying or doing something that others may not support · ★★★★★ · informal
+- **between a rock and a hard place** — facing a choice between two equally bad options · ★★★★★ · informal
+- **off the hook** — freed from blame, trouble or an obligation · ★★★★★ · informal
+- **on the line** — at risk of being lost or damaged · ★★★★★ · neutral ↺
+- **right off the bat** — immediately, from the very beginning · ★★★★★ · informal, US
+- **jump through hoops** — complete many tiresome steps or tests to get something · ★★★★★ · informal
+- **hit a wall** — reach a point where you cannot make any more progress · ★★★★★ · informal
+- **back to the drawing board** — start planning again because the first attempt failed · ★★★★★ · informal
+- **gain traction** — start to become accepted, popular or successful · ★★★★★ · neutral
+- **take a stab at something** — try to do something, often for the first time · ★★★★★ · informal
+
+### Set 02
+
+- **fall through the cracks** — be missed or neglected by a system meant to catch it · ★★★★★ · informal, US
+- **on the back burner** — postponed and not currently treated as a priority · ★★★★★ · informal
+- **take something with a grain of salt** — be skeptical about something; don't believe it completely · ★★★★★ · informal, US
+- **take something at face value** — accept something as it first appears, without questioning it · ★★★★★ · neutral
+- **a mixed bag** — a mixture of good and bad things or results · ★★★★★ · informal
+- **wrap your head around something** — manage to understand something complicated or surprising · ★★★★★ · informal, US
+- **go down a rabbit hole** — get absorbed in a complex topic for much longer than planned · ★★★★★ · informal
+- **sweep something under the rug** — hide a problem instead of dealing with it · ★★★★★ · informal, US
+- **connect the dots** — see how separate facts fit together into a whole picture · ★★★★★ · informal, US
+- **it's not rocket science** — it is not difficult to understand or to do · ★★★★★ · informal
+- **a reality check** — a reminder of how things really are, not how you wish · ★★★★★ · informal
+- **have a lot on your plate** — have a lot of work or problems to deal with · ★★★★★ · informal
+- **go above and beyond** — do much more than what is required or expected · ★★★★★ · neutral
+- **burn bridges** — permanently damage relationships you might need in the future · ★★★★★ · informal
+- **pick your battles** — choose which disagreements are really worth fighting · ★★★★★ · informal
+- **an uphill battle** — a long, hard struggle against strong difficulties · ★★★★★ · neutral
+- **up in the air** — not yet decided; still uncertain · ★★★★★ · informal
+- **err on the side of caution** — choose the safer option when you are unsure · ★★★★★ · neutral
+- **test the waters** — carefully check how people react before fully committing · ★★★★★ · neutral
+- **a tough sell** — something that is hard to persuade people to accept · ★★★★★ · informal, US
+- **get your foot in the door** — get a first opportunity to enter an organization or field · ★★★★★ · informal
+- **leave a lot to be desired** — be much worse than it should be · ★★★★★ · neutral
+- **roll up your sleeves** — get ready to work hard on something · ★★★★★ · informal
+- **drag your feet** — be deliberately slow to do something · ★★★★★ · informal
+- **shoot yourself in the foot** — accidentally do something that harms your own interests · ★★★★★ · informal
+- **your hands are tied** — you cannot act freely because of rules or other limits · ★★★★★ · informal
+- **point the finger at someone** — blame or accuse someone of something · ★★★★★ · neutral
+- **a red flag** — a warning sign that something may be wrong · ★★★★★ · neutral
+- **raise eyebrows** — cause surprise or mild disapproval · ★★★★★ · neutral
+- **bury your head in the sand** — ignore a problem and hope that it disappears · ★★★★★ · neutral
+- **get your ducks in a row** — get everything well organized before you start · ★★★★★ · informal, US
+- **play devil's advocate** — argue the opposite view in order to test an idea · ★★★★★ · neutral
+- **play catch-up** — try to reach a level that others have already reached · ★★★★★ · informal
+- **that ship has sailed** — the chance to do that has already passed · ★★★★★ · informal
+- **under fire** — being strongly criticized or attacked · ★★★★★ · neutral
+- **pull the plug** — stop something by ending its funding or support · ★★★★★ · informal
+- **a knee-jerk reaction** — an immediate response made without careful thought · ★★★★★ · neutral
+- **on the fly** — while things are already in progress, without preparation · ★★★★★ · informal
+- **put someone on the spot** — force someone to answer or decide immediately · ★★★★★ · informal
+- **a backhanded compliment** — a remark that sounds like praise but is actually an insult · ★★★★★ · neutral
+- **across the board** — affecting everyone or everything equally · ★★★★★ · neutral ↺
+- **the gold standard** — the best example, against which others are judged · ★★★★★ · neutral
+- **ahead of the curve** — more advanced than others; ahead of current trends · ★★★★★ · neutral
+- **raise the bar** — set a higher standard for what is expected · ★★★★★ · neutral
+- **miss the mark** — fail to achieve the intended result or effect · ★★★★★ · neutral
+- **a steep learning curve** — something that takes great effort to learn quickly · ★★★★★ · neutral
+- **in over your head** — involved in something too difficult for you to manage · ★★★★★ · informal
+- **bridge the gap** — reduce the difference or distance between two things or groups · ★★★★★ · neutral
+- **down the road** — at some point in the future · ★★★★★ · informal, US
+- **a silver lining** — a hopeful or good aspect of a bad situation · ★★★★★ · neutral
+
+### Set 03
+
+- **cross the line** — go beyond what is acceptable · ★★★★★ · informal
+- **draw a line in the sand** — set a firm limit that others must not cross · ★★★★★ · neutral
+- **walk a fine line** — balance carefully between two dangers or extremes · ★★★★★ · neutral
+- **do the heavy lifting** — do the hardest, most demanding part of the work · ★★★★★ · informal, US
+- **a chicken-and-egg problem** — a situation where it is unclear which of two things causes the other · ★★★★★ · neutral
+- **don't shoot the messenger** — don't blame the person who only delivers the bad news · ★★★★★ · informal
+- **cut your losses** — stop a failing activity before you lose even more · ★★★★★ · neutral
+- **make or break** — deciding whether something will succeed or fail · ★★★★★ · neutral
+- **fly under the radar** — avoid being noticed by people in authority or the public · ★★★★★ · informal
+- **the big picture** — the overall situation, not the small details · ★★★★★ · neutral
+- **table stakes** — the minimum you need just to take part or compete · ★★★★ · informal, US
+- **get to the bottom of something** — find the real cause or truth behind something · ★★★★ · informal
+- **a catch-22** — a no-win situation caused by contradictory rules or conditions · ★★★★ · neutral
+- **come to a head** — reach a crisis point where action must be taken · ★★★★ · neutral
+- **put out fires** — deal with urgent problems one after another as they come up · ★★★★ · informal, US
+- **pass the buck** — shift responsibility or blame to someone else · ★★★★ · informal
+- **pick up the slack** — do the work that others are not doing · ★★★★ · informal
+- **get under someone's skin** — annoy or bother someone deeply · ★★★★ · informal
+- **push someone's buttons** — deliberately do things that make someone angry · ★★★★ · informal
+- **hit a nerve** — upset someone by touching on a sensitive subject · ★★★★ · neutral
+- **a moving target** — something that keeps changing, so it is hard to deal with · ★★★★ · neutral
+- **pay lip service to something** — say you support something without really acting on it · ★★★★ · neutral
+- **a clean slate** — a fresh start, with past mistakes forgotten · ★★★★ · neutral
+- **turn the corner** — begin to improve after a difficult period · ★★★★ · neutral
+- **pick up steam** — gradually gain speed, energy or support · ★★★★ · informal
+- **a shot in the dark** — a guess made with little or no information · ★★★★ · informal
+- **dodge a bullet** — narrowly avoid a bad situation · ★★★★ · informal, US
+- **go off the rails** — start to go badly wrong or behave badly · ★★★★ · informal
+- **go south** — go wrong or get worse · ★★★★ · informal, US
+- **down to the wire** — until the very last moment, with the result still uncertain · ★★★★ · informal, US
+- **cover all your bases** — prepare for every possible situation · ★★★★ · informal, US
+- **off base** — wrong or mistaken about something · ★★★★ · informal, US
+- **no small feat** — an impressive achievement that took real effort · ★★★★ · neutral, US
+- **the powers that be** — the people in authority who make the decisions · ★★★★ · informal
+- **roll the dice** — take a risk and hope that it works out · ★★★★ · informal
+- **hedge your bets** — protect yourself by keeping more than one option open · ★★★★ · neutral
+- **too close to call** — so even that nobody can predict the winner · ★★★★ · neutral, US
+- **play hardball** — act in a tough, aggressive way to get what you want · ★★★★ · informal, US
+- **apples and oranges** — two things too different to be compared fairly · ★★★★ · informal, US
+- **the lesser of two evils** — the less harmful of two bad choices · ★★★★ · neutral
+- **a straw man** — a distorted version of an argument that is easier to attack · ★★★★ · neutral
+- **a smoking gun** — clear evidence that proves who is responsible for something · ★★★★ · neutral
+- **a hot-button issue** — a topic that provokes strong emotions and divides people · ★★★★ · neutral, US
+- **a slap on the wrist** — a punishment that is much too mild · ★★★★ · informal
+- **come up short** — fail to reach a goal or the required amount · ★★★★ · neutral, US
+- **dead in the water** — failed or stalled, with no real chance of progress · ★★★★ · informal
+- **beat a dead horse** — keep arguing about something that is already settled · ★★★★ · informal, US
+- **the devil is in the details** — small details are where the real problems are hidden · ★★★★ · neutral
+- **come full circle** — end up back where you started, after many changes · ★★★★ · neutral
+- **hindsight is 20/20** — it is easy to judge a decision once you know the outcome · ★★★★ · informal, US
+
+### Set 04
+
+- **hit it out of the park** — do something extremely well · ★★★★ · informal, US
+- **rub someone the wrong way** — irritate someone, often without meaning to · ★★★★ · informal, US
+- **ruffle some feathers** — upset or annoy people, often by challenging them · ★★★★ · informal
+- **learn the ropes** — learn the basic procedures of a new job or activity · ★★★★ · informal
+- **on thin ice** — in a risky position where you could soon get into trouble · ★★★★ · informal
+- **out of left field** — completely unexpected or strange · ★★★★ · informal, US
+- **a red herring** — something that distracts attention from the real issue · ★★★★ · neutral
+- **play the long game** — pursue long-term success rather than quick wins · ★★★★ · informal
+- **a race to the bottom** — competition that keeps lowering standards, wages or prices · ★★★★ · neutral
+- **a zero-sum game** — a situation where one side's gain is the other side's loss · ★★★★ · neutral
+- **run its course** — continue naturally until it ends by itself · ★★★★ · neutral
+- **the million-dollar question** — the key question that nobody can answer yet · ★★★★ · informal
+- **uncharted territory** — a situation that nobody has experienced before · ★★★★ · neutral
+- **a canary in the coal mine** — an early warning sign of a coming danger · ★★★★ · neutral
+- **preach to the choir** — try to convince people who already agree with you · ★★★★ · informal, US
+- **hold someone's feet to the fire** — pressure someone to keep a promise or take action · ★★★★ · informal, US
+- **breathe down someone's neck** — watch someone too closely and put pressure on them · ★★★★ · informal
+- **muddy the waters** — make a situation more confusing or less clear · ★★★★ · neutral
+- **paint yourself into a corner** — get yourself into a situation with no good way out · ★★★★ · informal
+- **take something in stride** — deal calmly with a problem without getting upset · ★★★★ · neutral, US
+- **check all the boxes** — meet every requirement or expectation · ★★★★ · informal, US
+- **the fine print** — the detailed conditions of an agreement, easy to overlook · ★★★★ · neutral, US
+- **do the math** — work it out yourself; the conclusion is obvious · ★★★★ · informal, US
+- **the nuts and bolts** — the basic practical details of how something works · ★★★★ · informal
+- **bells and whistles** — extra features that are attractive but not essential · ★★★★ · informal
+- **the lion's share** — the largest part of something · ★★★★ · neutral
+- **a drop in the bucket** — an amount too small to make a real difference · ★★★★ · informal, US
+- **pay top dollar** — pay a very high price for something · ★★★★ · informal, US
+- **bang for your buck** — value for the money or effort that you spend · ★★★★ · informal, US
+- **a cash cow** — a product or business that reliably brings in a lot of money · ★★★★ · informal
+- **live paycheck to paycheck** — spend all your income, with nothing left to save · ★★★★ · informal, US
+- **push the envelope** — go beyond the usual limits of what is done · ★★★★ · neutral
+- **poke holes in something** — find weaknesses in an argument, plan or story · ★★★★ · informal, US
+- **a Band-Aid solution** — a quick fix that does not solve the underlying problem · ★★★★ · informal, US
+- **a blank check** — complete freedom to act or spend as you wish · ★★★★ · neutral, US
+- **a last-ditch effort** — a final, desperate attempt to avoid failure · ★★★★ · neutral
+- **a done deal** — something already agreed or decided that cannot be changed · ★★★★ · informal
+- **seal the deal** — finalize an agreement or secure a success · ★★★★ · informal
+- **up the ante** — increase the stakes, demands or risks · ★★★★ · informal
+- **a train wreck** — a complete disaster or chaotic failure · ★★★★ · informal, US
+- **put words in someone's mouth** — claim someone said or meant something they did not · ★★★★ · informal
+- **a bump in the road** — a small problem that temporarily slows progress · ★★★★ · informal, US
+- **go out the window** — be abandoned or stop applying completely · ★★★★ · informal
+- **pull the rug out from under someone** — suddenly take away support that someone was relying on · ★★★★ · informal
+- **a laundry list** — a long list of items, often problems or demands · ★★★★ · informal, US
+- **wear many hats** — have several different roles or responsibilities · ★★★★ · informal
+- **tie up loose ends** — finish the small remaining tasks or details · ★★★★ · informal
+- **hanging by a thread** — in a very weak state, close to failure · ★★★★ · neutral
+- **nip something in the bud** — stop a problem early, before it can grow · ★★★★ · informal
+- **the clock is ticking** — time is running out to act · ★★★★ · informal
+
+### Set 05
+
+- **a marathon, not a sprint** — a long effort that requires patience and steady pacing · ★★★★ · informal
+- **not out of the woods** — still facing danger or difficulties · ★★★★ · informal
+- **wait for the other shoe to drop** — wait nervously for an expected second, bad event · ★★★★ · informal, US
+- **all hands on deck** — everyone needs to help, especially in an emergency · ★★★★ · informal
+- **pull out all the stops** — make every possible effort to succeed · ★★★★ · informal
+- **a ticking time bomb** — a situation that will soon become a serious problem · ★★★★ · neutral
+- **smoke and mirrors** — tricks used to hide the truth or create a false impression · ★★★★ · neutral
+- **add fuel to the fire** — make a bad situation or conflict even worse · ★★★★ · neutral
+- **add insult to injury** — make a bad situation even worse for someone · ★★★★ · neutral
+- **a rude awakening** — a sudden, unpleasant discovery of the truth · ★★★★ · neutral
+- **keep something under wraps** — keep something secret for the time being · ★★★★ · informal
+- **get the short end of the stick** — get the worse part of a deal or situation · ★★★★ · informal, US
+- **the writing is on the wall** — there are clear signs that something bad will happen · ★★★★ · neutral
+- **cross that bridge when you come to it** — deal with a problem only if and when it happens · ★★★★ · informal
+- **rock the boat** — cause trouble by challenging the current situation · ★★★★ · informal
+- **stir the pot** — deliberately cause trouble or conflict between people · ★★★★ · informal, US
+- **bend over backwards** — try extremely hard to help or please someone · ★★★★ · informal ↺
+- **stick your neck out** — take a risk to support someone or something · ★★★★ · informal
+- **put your foot down** — firmly insist on something or refuse to allow it · ★★★★ · informal
+- **put your foot in your mouth** — say something embarrassing or tactless by accident · ★★★★ · informal, US
+- **in the weeds** — lost in the details, or overwhelmed with work · ★★★★ · informal, US
+- **a witch hunt** — an unfair campaign to find and punish people · ★★★★ · neutral
+- **a lightning rod** — a person or thing that attracts criticism or anger · ★★★★ · neutral, US
+- **a litmus test** — a single issue or question used to judge someone · ★★★★ · neutral
+- **split hairs** — argue about tiny, unimportant differences · ★★★★ · informal
+- **a leap of faith** — a decision to trust something without proof · ★★★★ · neutral
+- **a tipping point** — the moment when small changes suddenly cause a big change · ★★★★ · neutral
+- **a vicious cycle** — a chain of problems in which each makes the next worse · ★★★★ · neutral, US
+- **damned if you do, damned if you don't** — criticized whatever you decide to do · ★★★★ · informal
+- **a Hail Mary** — a desperate last attempt with little chance of success · ★★★★ · informal, US
+- **step up your game** — improve your performance to meet a higher standard · ★★★★ · informal, US
+- **throw in the towel** — give up after realizing you cannot win · ★★★★ · informal
+- **the deck is stacked against someone** — conditions are unfairly set up so that someone will fail · ★★★★ · informal, US
+- **hit a snag** — run into an unexpected problem · ★★★★ · informal
+- **at a crossroads** — at a point where an important choice must be made · ★★★★ · neutral
+- **run out of steam** — lose energy or enthusiasm before you finish · ★★★★ · informal
+- **on someone's radar** — something a person is aware of and paying attention to · ★★★★ · informal
+- **in the pipeline** — being planned or developed; coming soon · ★★★★ · neutral
+- **a sea change** — a profound and lasting transformation · ★★★★ · neutral
+- **a fresh pair of eyes** — a new person who can see problems that others missed · ★★★★ · informal
+- **come clean** — finally tell the truth about something you hid · ★★★★ · informal
+- **blow the whistle on someone** — report wrongdoing inside an organization to the authorities · ★★★★ · neutral
+- **put your money where your mouth is** — back up your words with real action or money · ★★★★ · informal
+- **toe the line** — follow the official rules or policy, even reluctantly · ★★★★ · neutral
+- **out of line** — behaving in a rude or unacceptable way · ★★★★ · informal
+- **a balancing act** — an attempt to satisfy several competing demands at once · ★★★★ · neutral
+- **go overboard** — do something too much; be excessive · ★★★★ · informal
+- **over the top** — excessive or exaggerated, beyond what is reasonable · ★★★★ · informal
+- **foot the bill** — pay for something, often unwillingly · ★★★★ · informal
+- **a back-of-the-envelope calculation** — a quick, rough calculation done without precise data · ★★★★ · informal
+
+### Set 06
+
+- **behind the curve** — slower than others to adapt to new developments · ★★★★ · neutral
+- **up to par** — as good as the usual or expected standard · ★★★★ · neutral
+- **not hold water** — not be convincing or logical when examined · ★★★★ · neutral
+- **go with your gut** — trust your instinct when making a decision · ★★★★ · informal
+- **play it by ear** — decide what to do as the situation develops · ★★★★ · informal ↺
+- **off the cuff** — spontaneously, without any preparation or notes · ★★★★ · informal
+- **catch someone off guard** — surprise someone who is not prepared · ★★★★ · neutral
+- **like a deer in the headlights** — so shocked or scared that you cannot react · ★★★★ · informal, US
+- **tongue-in-cheek** — said as a joke, although it sounds serious · ★★★★ · neutral ↺
+- **get something off your chest** — finally tell someone something that has been bothering you · ★★★★ · informal
+- **blow off steam** — release anger or stress through some activity · ★★★★ · informal, US
+- **a bitter pill to swallow** — an unpleasant fact that is hard to accept · ★★★★ · neutral
+- **give someone the benefit of the doubt** — choose to believe someone even without proof · ★★★★ · neutral ↺
+- **come to terms with something** — gradually accept a difficult or painful situation · ★★★★ · neutral
+- **clear the air** — talk openly to end tension or a misunderstanding · ★★★★ · neutral
+- **mend fences** — repair a damaged relationship · ★★★★ · neutral
+- **get off on the wrong foot** — start a relationship or task badly · ★★★★ · informal
+- **butt heads** — strongly disagree or argue repeatedly with someone · ★★★★ · informal, US
+- **bad blood** — lasting anger or hostility between people · ★★★★ · informal
+- **pull no punches** — speak with complete directness, without softening criticism · ★★★★ · informal
+- **punch above your weight** — perform better than expected for your size or resources · ★★★★ · informal
+- **dead on arrival** — certain to fail from the very start · ★★★★ · informal, US
+- **water under the bridge** — past problems that are now forgiven or unimportant · ★★★★ · informal
+- **take the plunge** — finally decide to do something risky or important · ★★★★ · informal
+- **push your luck** — risk losing what you have by asking for too much · ★★★★ · informal
+- **a domino effect** — a chain of events in which each one causes the next · ★★★★ · neutral
+- **a ripple effect** — a spreading series of indirect consequences · ★★★★ · neutral
+- **a bad apple** — one bad person who harms the reputation of a group · ★★★★ · informal
+- **a loose cannon** — an unpredictable person who may cause trouble · ★★★★ · informal
+- **a wild card** — an unpredictable factor or person · ★★★★ · neutral
+- **a glass ceiling** — an unofficial barrier that keeps some groups from top jobs · ★★★★ · neutral
+- **pull strings** — use your influence or connections to get something · ★★★★ · informal ↺
+- **can't see the forest for the trees** — be too focused on details to see the whole situation · ★★★★ · informal, US
+- **the ins and outs** — all the detailed facts about how something works · ★★★★ · informal
+- **one-size-fits-all** — intended for everyone, ignoring individual differences · ★★★★ · neutral
+- **not all it's cracked up to be** — not as good as people say it is · ★★★★ · informal
+- **on a roll** — having a series of successes · ★★★★ · informal
+- **hit your stride** — start to perform well and confidently · ★★★★ · informal
+- **firing on all cylinders** — working or performing at full power and efficiency · ★★★★ · informal
+- **out of your depth** — in a situation too difficult for your knowledge or skills · ★★★★ · neutral
+- **in full swing** — at the busiest or most active stage · ★★★★ · neutral
+- **put the brakes on something** — slow down or stop something · ★★★★ · informal
+- **in the driver's seat** — in control of a situation · ★★★★ · informal
+- **asleep at the wheel** — not paying attention to your responsibilities · ★★★★ · informal, US
+- **jump ship** — leave an organization, especially when it is struggling · ★★★★ · informal
+- **weather the storm** — survive a difficult period · ★★★★ · neutral
+- **come to fruition** — finally be achieved after a long effort · ★★★★ · formal
+- **a sacred cow** — an idea or institution that nobody is allowed to criticize · ★★★★ · neutral
+- **have a dog in this fight** — have a personal interest in the outcome of a dispute · ★★★★ · informal, US
+- **herding cats** — trying to organize people who will not cooperate · ★★★★ · informal, US
+
+### Set 07
+
+- **a lame duck** — an official near the end of a term, with little power · ★★★★ · neutral, US
+- **go over someone's head** — be too difficult for someone to understand · ★★★★ · informal
+- **an eye-opener** — something that reveals surprising new information · ★★★★ · informal
+- **save face** — avoid embarrassment or protect your dignity · ★★★★ · neutral
+- **keep someone on their toes** — make someone stay alert and ready · ★★★★ · informal
+- **a chip on your shoulder** — a lasting resentment, often from feeling treated unfairly · ★★★★ · informal
+- **have the upper hand** — have an advantage or control over someone · ★★★★ · neutral
+- **can't put your finger on something** — cannot identify exactly what is wrong or different · ★★★★ · informal
+- **get your hands dirty** — do the hard or unpleasant practical work yourself · ★★★★ · informal
+- **take something to heart** — be deeply affected by criticism or advice · ★★★★ · neutral
+- **pie in the sky** — an unrealistic plan or hope · ★★★★ · informal
+- **too many cooks in the kitchen** — too many people involved, so the work suffers · ★★★★ · informal, US
+- **buy time** — delay something in order to gain more time · ★★★★ · neutral
+- **ahead of the game** — in an advantageous position, ahead of competitors · ★★★★ · informal
+- **stand the test of time** — remain valuable or popular for a long time · ★★★★ · neutral
+- **in a heartbeat** — immediately and without any hesitation · ★★★★ · informal
+- **from the get-go** — from the very beginning · ★★★★ · informal, US
+- **when it rains, it pours** — bad things tend to happen all at the same time · ★★★★ · informal, US
+- **get your act together** — get organized and start behaving responsibly · ★★★★ · informal
+- **strike a chord** — cause an emotional response or feel familiar to people · ★★★★ · neutral
+- **ring hollow** — seem insincere or not believable · ★★★★ · neutral
+- **throw a wrench in the works** — do something that spoils a plan or process · ★★★★ · informal, US
+- **shoot from the hip** — speak or act quickly without careful thought · ★★★★ · informal, US
+- **the nuclear option** — the most extreme possible action, used as a last resort · ★★★★ · neutral, US
+- **no strings attached** — without any special conditions or obligations · ★★★★ · informal
+- **call someone's bluff** — challenge someone to actually do what they threaten · ★★★★ · informal
+- **the blame game** — a situation where people blame each other instead of fixing problems · ★★★★ · informal
+- **game the system** — use the rules cleverly to gain an unfair advantage · ★★★★ · informal
+- **get something over the finish line** — complete a project or deal successfully · ★★★★ · informal, US
+- **under the hood** — in the hidden internal workings of something · ★★★★ · informal, US
+- **the squeaky wheel gets the grease** — those who complain loudest get attention first · ★★★★ · informal, US
+- **spin your wheels** — waste effort without making any progress · ★★★★ · informal, US
+- **pave the way for something** — create conditions that make something possible later · ★★★★ · neutral
+- **cut both ways** — have both good and bad effects; apply to both sides · ★★★★ · neutral
+- **throw the baby out with the bathwater** — discard the good parts along with the bad · ★★★★ · informal
+- **the final nail in the coffin** — the last event that causes something to fail · ★★★★ · neutral
+- **go to great lengths** — make a great effort to achieve something · ★★★★ · neutral
+- **go through the motions** — do something mechanically without real effort or interest · ★★★★ · informal
+- **a double whammy** — two bad things happening at the same time · ★★★★ · informal
+- **the third time's the charm** — the third attempt will be the successful one · ★★★★ · informal, US
+- **tell it like it is** — say the truth directly, even if it is unpleasant · ★★★★ · informal
+- **not mince words** — say something directly, even if it offends people · ★★★★ · informal
+- **the point of no return** — the stage after which you cannot go back · ★★★★ · neutral
+- **make a killing** — make a very large profit quickly · ★★★★ · informal
+- **make headway** — make progress, especially slowly or with difficulty · ★★★★ · neutral
+- **make inroads** — gradually gain ground or influence in an area · ★★★★ · neutral
+- **make good on something** — do what you promised or threatened to do · ★★★★ · neutral
+- **read the tea leaves** — try to predict the future from small signs · ★★★★ · informal
+- **the lay of the land** — the general situation and how things work there · ★★★★ · informal, US
+- **learn something the hard way** — learn something through painful personal experience · ★★★★ · neutral
+
+### Set 08
+
+- **jump on the bandwagon** — join something only because it has become popular · ★★★★ · informal
+- **in the hot seat** — in a position where you face criticism or hard questions · ★★★★ · informal
+- **a lightbulb moment** — a moment of sudden understanding or inspiration · ★★★★ · informal
+- **a black box** — a system whose internal workings are hidden or not understood · ★★★★ · neutral
+- **a gold mine** — a rich source of something valuable, like money or information · ★★★★ · informal
+- **tip the scales** — be the factor that decides the outcome · ★★★★ · neutral
+- **fall on deaf ears** — be ignored by the people who should listen · ★★★★ · neutral ↺
+- **fly in the face of something** — directly contradict something that is generally accepted · ★★★★ · neutral
+- **like pulling teeth** — extremely difficult, especially getting someone to cooperate · ★★★★ · informal
+- **an Achilles' heel** — a weak point that can lead to failure · ★★★★ · neutral
+- **dig in your heels** — refuse to change your mind or give in · ★★★★ · informal
+- **don't hold your breath** — don't expect it to happen soon, or at all · ★★★★ · informal
+- **back someone into a corner** — force someone into a situation with no good options · ★★★★ · informal
+- **cut it close** — leave yourself barely enough time or margin · ★★★★ · informal, US
+- **dig up dirt on someone** — search for damaging information about someone · ★★★★ · informal
+- **steer clear of something** — deliberately avoid something or someone · ★★★★ · neutral
+- **crunch the numbers** — do the calculations needed to analyze data · ★★★★ · informal
+- **take a page out of someone's book** — copy someone's successful way of doing something · ★★★★ · informal, US
+- **hold the line** — refuse to change your position or give in · ★★★★ · neutral
+- **when push comes to shove** — when a situation becomes critical and action is needed · ★★★★ · informal, US
+- **a step in the right direction** — an action that improves things, though not completely · ★★★★ · neutral
+- **up and running** — working properly and in operation · ★★★★ · informal
+- **a hot potato** — a controversial issue that nobody wants to deal with · ★★★ · informal
+- **a Monday-morning quarterback** — someone who criticizes decisions after already knowing the outcome · ★★★ · informal, US
+- **bring your A game** — perform at your very best · ★★★ · informal, US
+- **a whole new ball game** — a completely different situation from before · ★★★ · informal, US
+- **the home stretch** — the final part of a long task or journey · ★★★ · informal, US
+- **a dark horse** — a little-known competitor who might unexpectedly win · ★★★ · neutral
+- **a shot in the arm** — something that gives new energy or encouragement · ★★★ · informal
+- **by the skin of your teeth** — only just; by a very small margin · ★★★ · informal
+- **go belly-up** — fail completely, especially of a business · ★★★ · informal
+- **skeletons in the closet** — embarrassing secrets from someone's past · ★★★ · informal, US
+- **play your cards close to the vest** — keep your plans or intentions secret · ★★★ · informal, US
+- **put your cards on the table** — be completely honest about your intentions · ★★★ · informal
+- **a powder keg** — a dangerous situation that could explode into conflict · ★★★ · neutral
+- **fan the flames** — make strong feelings or a conflict even more intense · ★★★ · neutral
+- **pour cold water on something** — discourage an idea or plan by criticizing it · ★★★ · neutral
+- **a trial by fire** — a difficult first experience that tests your ability · ★★★ · neutral, US
+- **walk the walk** — act according to what you say, not just talk · ★★★ · informal
+- **bend the rules** — not follow the rules strictly, usually for convenience · ★★★ · neutral
+- **draw the line at something** — refuse to do something because it goes too far · ★★★ · neutral
+- **small potatoes** — something unimportant or too small to matter · ★★★ · informal, US
+- **on a shoestring** — with very little money · ★★★ · informal
+- **keep your head above water** — manage to survive, especially financially · ★★★ · informal
+- **in the red** — losing money; in debt · ★★★ · neutral
+- **a golden parachute** — a large payment given to an executive who leaves · ★★★ · neutral
+- **someone's bread and butter** — someone's main and most reliable source of income · ★★★ · informal
+- **not have a leg to stand on** — have no evidence or argument to support your position · ★★★ · informal ↺
+- **on pins and needles** — very nervous while waiting for something · ★★★ · informal, US
+- **rub salt in the wound** — make someone's pain or embarrassment even worse · ★★★ · informal
+
+### Set 09
+
+- **eat crow** — admit that you were wrong, which is humiliating · ★★★ · informal, US
+- **swallow your pride** — do something humbling despite feeling embarrassed · ★★★ · neutral
+- **pull your weight** — do your fair share of the work · ★★★ · informal
+- **take the fall** — accept the blame or punishment, often for others · ★★★ · informal, US
+- **extend an olive branch** — make a gesture to show that you want peace · ★★★ · neutral
+- **the gloves come off** — people stop being polite and begin fighting hard · ★★★ · informal
+- **roll with the punches** — adapt to difficulties without being defeated by them · ★★★ · informal
+- **throw your hat in the ring** — announce that you will compete, especially in an election · ★★★ · informal
+- **crash and burn** — fail suddenly and completely · ★★★ · informal, US
+- **bet the farm** — risk everything you have on one thing · ★★★ · informal, US
+- **open the floodgates** — suddenly allow a huge amount of something to happen · ★★★ · neutral
+- **a Trojan horse** — something that looks harmless but hides a threat · ★★★ · neutral
+- **a quick study** — someone who learns new things very fast · ★★★ · informal, US
+- **the rank and file** — the ordinary members of an organization, not the leaders · ★★★ · neutral
+- **the old guard** — long-standing members of a group who resist change · ★★★ · neutral
+- **nothing to write home about** — not especially good or impressive · ★★★ · informal
+- **nothing to sneeze at** — not something to dismiss; worth taking seriously · ★★★ · informal, US
+- **smooth sailing** — easy progress without problems · ★★★ · informal, US
+- **sink or swim** — succeed or fail entirely through your own efforts · ★★★ · informal
+- **bear fruit** — produce good results after effort · ★★★ · neutral
+- **grasp at straws** — try any idea, however unlikely, out of desperation · ★★★ · informal
+- **a sitting duck** — an easy target for attack or criticism · ★★★ · informal
+- **come home to roost** — past bad actions now cause problems for the person · ★★★ · neutral
+- **heads will roll** — people will be punished or fired for a failure · ★★★ · informal
+- **rear its ugly head** — something unpleasant appears again · ★★★ · neutral
+- **have one foot out the door** — be about to leave a job or relationship · ★★★ · informal, US
+- **fill someone's shoes** — take over someone's role and do it as well as they did · ★★★ · informal
+- **give someone a leg up** — give someone help or an advantage to succeed · ★★★ · informal
+- **up in arms** — very angry and protesting about something · ★★★ · informal
+- **wash your hands of something** — refuse to take any more responsibility for something · ★★★ · neutral
+- **play into someone's hands** — act in a way that helps your opponent · ★★★ · neutral
+- **a piece of the pie** — a share of the money or benefits · ★★★ · informal
+- **everything but the kitchen sink** — almost everything imaginable, often too much · ★★★ · informal
+- **cook the books** — illegally falsify financial records · ★★★ · informal
+- **on borrowed time** — lasting longer than expected, but not for much longer · ★★★ · neutral
+- **a slow burn** — something that develops gradually rather than quickly · ★★★ · informal
+- **steal someone's thunder** — take attention or credit away from someone · ★★★ · informal
+- **toot your own horn** — boast about your own achievements · ★★★ · informal, US
+- **put the cart before the horse** — do things in the wrong order · ★★★ · informal
+- **the 800-pound gorilla** — a dominant company or person too powerful to ignore · ★★★ · informal, US
+- **come out of the woodwork** — appear suddenly in large numbers, often unwelcome · ★★★ · informal
+- **rose-colored glasses** — an overly optimistic view of something · ★★★ · informal, US
+- **sweat bullets** — be extremely nervous or anxious · ★★★ · informal, US
+- **stick to your guns** — refuse to change your opinion despite pressure · ★★★ · informal
+- **under the gun** — under pressure to do something quickly · ★★★ · informal, US
+- **a loaded question** — a question with a hidden assumption, meant to trap you · ★★★ · neutral
+- **a cheap shot** — an unfair or mean attack or remark · ★★★ · informal
+- **in the trenches** — doing the hard, practical work directly · ★★★ · informal
+- **hold down the fort** — take care of things while others are away · ★★★ · informal, US
+- **a war chest** — money saved up for a campaign or particular purpose · ★★★ · neutral, US
+
+## 04 Conversation & discourse (300)
+
+### Set 01
+
+- **that said** — however; adds a point that limits what you just said · ★★★★★ · neutral
+- **to be fair** — adds a point that makes your criticism more balanced · ★★★★★ · neutral
+- **if anything** — if there is any difference, it is the opposite one · ★★★★★ · neutral
+- **fair enough** — I accept that as reasonable, even if I don't fully agree · ★★★★★ · informal
+- **fair point** — you're right about that; that's a good argument · ★★★★★ · informal
+- **then again** — on the other hand; adds a contrasting thought · ★★★★★ · neutral
+- **I hear you** — I understand your point or feelings, often before disagreeing · ★★★★★ · informal
+- **for what it's worth** — offers an opinion or fact modestly, without claiming it matters much · ★★★★★ · neutral
+- **I see where you're coming from** — I understand why you think or feel that way · ★★★★★ · neutral
+- **at the end of the day** — when everything is considered; what really matters in the end · ★★★★★ · informal
+- **I'd argue (that)** — softened claim: I believe this and could defend it · ★★★★★ · neutral
+- **it's not ideal** — polite understatement: it's bad, inconvenient or a problem · ★★★★★ · neutral
+- **tell me about it** — I know exactly what you mean; I've had the same bad experience · ★★★★★ · informal
+- **don't get me wrong** — don't misunderstand me; introduces a clarification before a criticism · ★★★★★ · informal
+- **that's fair** — that's a reasonable point or criticism; I accept it · ★★★★★ · informal
+- **I could be wrong, but …** — softens a statement by admitting you might be mistaken · ★★★★★ · neutral
+- **if I'm being honest** — introduces a frank opinion or an admission · ★★★★★ · neutral
+- **kind of (as a softener)** — somewhat; makes a statement or request less direct · ★★★★★ · informal
+- **as it turns out** — as was discovered later, often unexpectedly (also: turns out …) · ★★★★★ · neutral
+- **on top of that** — in addition, usually adding another problem or complaint · ★★★★★ · neutral
+- **come to think of it** — said when you suddenly remember or realize something · ★★★★★ · neutral
+- **I wouldn't go that far** — I partly agree, but your statement is too strong · ★★★★★ · neutral
+- **I'm not sure I buy that** — I don't really believe that explanation or claim · ★★★★★ · informal
+- **that's a stretch** — that claim or connection is exaggerated and hard to accept · ★★★★★ · informal
+- **not exactly** — ironic understatement meaning 'not at all' or 'the opposite' · ★★★★★ · informal
+- **long story short** — to summarize quickly and skip the details · ★★★★★ · informal
+- **speaking of (which)** — links to something that was just mentioned · ★★★★★ · neutral
+- **which reminds me** — what you said makes me remember something I wanted to say · ★★★★★ · neutral
+- **either way** — whichever of the two happens; in both cases · ★★★★★ · neutral
+- **at this point** — now, after everything that has already happened · ★★★★★ · neutral
+- **the way I see it** — in my opinion; this is how I understand the situation · ★★★★★ · neutral
+- **if you think about it** — when you consider it carefully (introduces an insight) · ★★★★★ · neutral
+- **let's just say** — hints at something without giving the details · ★★★★★ · informal
+- **it's not like …** — rejects a possible reason or excuse: it's not as if … · ★★★★★ · informal
+- **that's not to say …** — but I don't mean that; prevents a wrong conclusion · ★★★★★ · neutral
+- **I'm not saying …, but …** — suggests something without fully claiming it · ★★★★★ · informal
+- **don't take this the wrong way, but …** — please don't be offended by what I'm about to say · ★★★★★ · informal
+- **it's fair to say** — it is reasonable and accurate to say · ★★★★★ · neutral
+- **to say the least** — and that is an understatement; it was much more · ★★★★★ · neutral
+- **the last thing I want** — something I really don't want (also: the last thing we need) · ★★★★★ · neutral
+- **you'd think …** — one would expect this, but it isn't so · ★★★★★ · neutral
+- **you'd be surprised** — it is more, or different, than you expect · ★★★★★ · neutral
+- **I'm telling you** — believe me, I'm serious about this · ★★★★★ · informal
+- **no kidding** — really? / obviously; surprise or sarcastic agreement · ★★★★★ · informal
+- **I can imagine** — I understand how that must feel (showing sympathy) · ★★★★★ · neutral
+- **you have a point** — you're partly right about that (also: you've got a point) · ★★★★★ · neutral
+- **you lost me** — I don't understand what you're saying anymore · ★★★★★ · informal
+- **good to know** — thanks, that's useful information · ★★★★★ · informal
+- **sounds like a plan** — I agree with your suggestion; let's do it · ★★★★★ · informal
+- **works for me** — that's fine or convenient for me · ★★★★★ · informal
+
+### Set 02
+
+- **I'll pass** — no thanks; I won't take part or take it · ★★★★★ · informal
+- **no worries** — it's no problem; don't worry about it · ★★★★★ · informal
+- **no rush** — there's no hurry; do it when you can · ★★★★★ · informal
+- **when you get a chance** — polite request: whenever you have some time · ★★★★★ · neutral, US
+- **I'll let you go** — polite way to end a phone call or conversation · ★★★★★ · neutral, US
+- **it's all good** — it's fine; there's no problem · ★★★★★ · informal
+- **have a good one** — friendly goodbye: have a good day or evening · ★★★★★ · informal, US
+- **I didn't catch that** — I didn't hear or understand what you said · ★★★★★ · neutral
+- **out of curiosity** — I'm asking only because I'm curious (also: just out of curiosity) · ★★★★★ · neutral
+- **if you don't mind me asking** — polite softener before a personal question · ★★★★★ · neutral
+- **correct me if I'm wrong** — I think this is true, but tell me if it isn't · ★★★★★ · neutral
+- **off the top of my head** — without checking or thinking carefully first · ★★★★★ · informal
+- **don't quote me on that** — I'm not completely sure this is accurate · ★★★★★ · informal
+- **if I had to guess** — my best estimate, although I don't really know · ★★★★★ · neutral
+- **chances are** — it is likely that · ★★★★★ · neutral
+- **I wouldn't be surprised if** — I think it's quite possible that · ★★★★★ · neutral
+- **you never know** — it's possible; things are unpredictable · ★★★★★ · neutral
+- **when you put it that way** — your explanation makes me see it differently · ★★★★★ · neutral
+- **let me put it this way** — I'll explain it differently, often more bluntly or indirectly · ★★★★★ · neutral
+- **talk about …!** — what an extreme example of …! (talk about bad timing!) · ★★★★★ · informal
+- **you've got to be kidding (me)** — I can't believe this; this is ridiculous · ★★★★★ · informal
+- **I know, right?** — I completely agree; that's exactly what I think · ★★★★★ · informal
+- **it is what it is** — it can't be changed, so we accept it · ★★★★★ · informal
+- **there you go** — that's right / that's how it is / here you are · ★★★★★ · informal
+- **if that makes sense** — tag that checks the listener follows your explanation · ★★★★★ · neutral
+- **I'm not gonna lie** — honestly; introduces a frank admission · ★★★★★ · informal
+- **just so you know** — for your information; I'm telling you in advance · ★★★★★ · neutral
+- **just to be clear** — to avoid any misunderstanding · ★★★★★ · neutral
+- **on second thought** — after thinking again, I've changed my mind · ★★★★★ · neutral
+- **you might want to …** — polite advice: I suggest that you … · ★★★★★ · neutral
+- **I'm all set** — I have everything I need, thanks · ★★★★★ · neutral, US
+- **I've got this** — I can handle it myself / I'll pay for this · ★★★★★ · informal
+- **you've got this** — encouragement: you can do it, I believe in you · ★★★★★ · informal
+- **I could use …** — I'd really like or need (I could use a coffee) · ★★★★★ · informal, US
+- **not so much** — understated 'no' or 'not really' · ★★★★★ · informal, US
+- **granted, …** — admittedly; I accept this is true (before a 'but') · ★★★★★ · neutral
+- **next thing you know** — suddenly and surprisingly soon after that · ★★★★★ · informal
+- **you can't go wrong with …** — any choice of this will be a good one · ★★★★★ · informal
+- **on that note** — moves on or ends, linked to what was just said · ★★★★★ · neutral
+- **I'll give you that** — I admit you're right on that particular point · ★★★★★ · informal
+- **you're not wrong** — you're right (often said a little reluctantly) · ★★★★★ · informal
+- **how so?** — in what way? please explain what you mean · ★★★★★ · neutral
+- **like I said** — repeating a point you already made · ★★★★★ · informal
+- **any chance you could …?** — casual polite request: would it be possible for you to … · ★★★★★ · informal
+- **I'm with you (on that)** — I agree with you on this point · ★★★★ · informal
+- **you're telling me** — I know that even better than you; strong agreement · ★★★★ · informal
+- **that makes two of us** — I feel or think the same way · ★★★★ · informal
+- **point taken** — I accept your criticism or point (also: I take your point) · ★★★★ · neutral
+- **I get that** — I understand that (often before disagreeing) · ★★★★ · informal
+- **that's what I'm saying** — exactly; that's my point too · ★★★★ · informal
+
+### Set 03
+
+- **something tells me** — I have a feeling that · ★★★★ · neutral
+- **to put it mildly** — said gently; the reality is much worse · ★★★★ · neutral
+- **by the same token** — for the same reason; in the same way · ★★★★ · neutral
+- **at the same time (concessive)** — but also; introduces a balancing point · ★★★★ · neutral
+- **on the flip side** — looking at the opposite side or effect · ★★★★ · informal
+- **on a related note** — introduces a connected but different point · ★★★★ · neutral
+- **here's the thing** — introduces the key point or the main problem · ★★★★ · informal
+- **get this** — listen to this surprising part · ★★★★ · informal
+- **is it just me, or …** — do others notice this too, or only me? · ★★★★ · informal
+- **hear me out** — please listen to my whole idea before reacting · ★★★★ · informal
+- **what makes you say that?** — why do you think that? (polite request for reasons) · ★★★★ · neutral
+- **how do you figure?** — how did you reach that conclusion? · ★★★★ · informal, US
+- **what are you getting at?** — what are you really trying to say? · ★★★★ · informal
+- **where are you going with this?** — what point are you trying to reach? · ★★★★ · informal
+- **I'm not following** — I don't understand your explanation · ★★★★ · neutral
+- **that's easy for you to say** — you don't face the difficulty that I face · ★★★★ · informal
+- **speak for yourself** — that may be true for you, but not for me · ★★★★ · informal
+- **what's that supposed to mean?** — offended request to explain a remark · ★★★★ · informal
+- **don't get me started (on …)** — this topic annoys me; I could complain about it for hours · ★★★★ · informal
+- **must be nice** — envious or sarcastic remark about someone's good luck · ★★★★ · informal
+- **what can you do?** — nothing can be done about it; accepting a bad situation · ★★★★ · informal
+- **sounds about right** — that seems correct, or typical of the situation · ★★★★ · informal
+- **that tracks** — that makes sense; it fits what I know · ★★★★ · informal, US
+- **good catch** — well noticed (said about an error or problem) · ★★★★ · informal
+- **take a rain check (on something)** — decline an invitation but suggest doing it another time · ★★★★ · informal, US
+- **it's on me** — I'll pay for this · ★★★★ · informal
+- **can't complain** — things are fine (reply to 'how are you?') · ★★★★ · informal
+- **it's been a minute** — it's been a long time (since we last met) · ★★★★ · informal, US
+- **I owe you one** — thank you; I'll return the favor · ★★★★ · informal
+- **scratch that** — ignore what I just said · ★★★★ · informal
+- **last I checked** — according to the latest information I have (often sarcastic) · ★★★★ · informal
+- **for starters** — first of all, as the first of several reasons · ★★★★ · informal
+- **that came out wrong** — I said that badly; it's not what I meant · ★★★★ · informal
+- **I didn't mean it like that** — you misunderstood my intention · ★★★★ · informal
+- **I hate to break it to you, but …** — I'm sorry to have to tell you bad news · ★★★★ · informal
+- **no offense, but …** — please don't be offended by the criticism that follows · ★★★★ · informal
+- **with all due respect** — polite introduction to a disagreement or criticism · ★★★★ · formal
+- **I don't mean to be rude, but …** — softens a remark that might sound impolite · ★★★★ · neutral
+- **for the record** — so that it is clearly known or noted · ★★★★ · neutral
+- **truth be told** — to be honest; introduces an admission · ★★★★ · neutral
+- **full disclosure** — I should tell you about my personal interest or bias · ★★★★ · neutral
+- **let's face it** — we must accept this unpleasant truth · ★★★★ · informal
+- **I'd say …** — hedged estimate or opinion: I think roughly … · ★★★★ · neutral
+- **as far as I can tell** — based on what I can see or understand · ★★★★ · neutral
+- **from what I hear** — according to what people have told me · ★★★★ · neutral
+- **I get the sense that** — I have the impression that · ★★★★ · neutral
+- **if I'm not mistaken** — polite hedge: I believe this is correct · ★★★★ · neutral
+- **for lack of a better word** — this word isn't perfect, but it's the closest I have · ★★★★ · neutral
+- **I'm not sure that's quite right** — polite way to say something is wrong · ★★★★ · neutral
+- **it's not the end of the world** — it's bad, but not a disaster · ★★★★ · informal
+
+### Set 04
+
+- **not necessarily** — that isn't always or automatically true · ★★★★ · neutral
+- **not great** — understatement: rather bad, worse than it should be · ★★★★ · informal
+- **a bit much** — excessive; too extreme or too intense · ★★★★ · informal
+- **a bit of a …** — softener: a bit of a problem / a bit of a mess · ★★★★ · informal
+- **not even close** — far from it; nowhere near correct or enough · ★★★★ · informal
+- **close enough** — not exact, but near enough to be acceptable · ★★★★ · informal
+- **says who?** — who says so? challenging someone's authority or claim · ★★★★ · informal
+- **that's debatable** — I'm not sure that's true; people could disagree · ★★★★ · neutral
+- **that's one way to look at it** — polite disagreement: there are other views · ★★★★ · neutral
+- **let's agree to disagree** — let's stop arguing and accept our different opinions · ★★★★ · neutral
+- **far from it** — not at all; the opposite is true · ★★★★ · neutral
+- **I don't see that happening** — I don't think that's likely · ★★★★ · informal
+- **I'm going to have to disagree** — polite but firm statement of disagreement · ★★★★ · neutral
+- **that's beside the point** — that's not relevant to what we're discussing · ★★★★ · neutral
+- **yes and no** — partly true and partly not · ★★★★ · neutral
+- **up to a point** — partly but not completely true · ★★★★ · neutral
+- **I'll take your word for it** — I'll believe you without checking · ★★★★ · neutral
+- **can't argue with that** — you're clearly right about that · ★★★★ · informal
+- **I stand corrected** — I accept that I was wrong · ★★★★ · neutral
+- **now that you mention it** — your comment makes me notice or remember this · ★★★★ · neutral
+- **funny you should mention it** — what a coincidence, I was just thinking about that · ★★★★ · informal
+- **say no more** — I understand completely; you don't need to explain · ★★★★ · informal
+- **by all means** — of course, please do (giving permission) · ★★★★ · neutral
+- **count me in** — I want to take part in this · ★★★★ · informal
+- **you bet** — certainly; of course (also: you're welcome) · ★★★★ · informal, US
+- **all things considered** — taking everything into account · ★★★★ · neutral
+- **in hindsight** — looking back now, with what I know today · ★★★★ · neutral
+- **funny enough** — strangely or surprisingly; introduces a curious fact · ★★★★ · informal, US
+- **sure enough** — as expected, that's exactly what happened · ★★★★ · neutral
+- **before you know it** — very soon, and without you noticing · ★★★★ · informal
+- **what's the catch?** — what's the hidden problem with this offer? · ★★★★ · informal
+- **the funny thing is** — introduces a strange or ironic part of a story · ★★★★ · informal
+- **if you ask me** — in my opinion (even if no one asked) · ★★★★ · informal
+- **not that it matters, but …** — adds something you admit isn't important · ★★★★ · informal
+- **or something** — vague ending: or something similar · ★★★★ · informal
+- **or whatever** — vague ending: or anything like that (can sound dismissive) · ★★★★ · informal
+- **is that a thing?** — does that really exist, or is it common now? · ★★★★ · informal
+- **give or take** — approximately; plus or minus a little · ★★★★ · informal
+- **where was I?** — what was I saying before I was interrupted? · ★★★★ · informal
+- **what's the word I'm looking for?** — said while searching for the right word · ★★★★ · informal
+- **how do I put this?** — said before saying something delicate or hard to express · ★★★★ · informal
+- **or rather** — corrects or makes more precise what you just said · ★★★★ · neutral
+- **for one thing** — first reason (often followed by 'for another') · ★★★★ · neutral
+- **first off** — first of all; introduces the first point · ★★★★ · informal, US
+- **if nothing else** — even if there's no other benefit, at least this one · ★★★★ · neutral
+- **by that logic** — if we follow your reasoning, then (often to show it fails) · ★★★★ · neutral
+- **so much for …** — that thing failed or is now irrelevant (so much for the plan) · ★★★★ · informal
+- **while I have you** — since you're here or on the phone, let me also ask · ★★★★ · informal, US
+- **quick question** — informal opener for a short question · ★★★★ · informal
+- **no joke** — seriously; it's really true or really hard · ★★★★ · informal
+
+### Set 05
+
+- **of all people** — surprisingly, this person (you of all people should know) · ★★★★ · neutral
+- **I wouldn't say no (to …)** — I'd like that (accepting an offer indirectly) · ★★★★ · informal
+- **I could go for …** — I'd like to have or eat this now · ★★★★ · informal, US
+- **I'm not crazy about** — I don't really like · ★★★★ · informal
+- **not my thing** — not something I enjoy or am interested in · ★★★★ · informal
+- **I'm not much of a …** — I'm not good at or not keen on (not much of a cook) · ★★★★ · neutral
+- **I'm more of a … person** — I prefer this type (more of a dog person) · ★★★★ · informal
+- **I'm all for …** — I strongly support this · ★★★★ · informal
+- **your call** — it's your decision to make, not mine · ★★★★ · informal
+- **if you say so** — I doubt it, but I won't argue · ★★★★ · informal
+- **it doesn't hurt to ask** — asking costs nothing, so try (also: it can't hurt) · ★★★★ · informal
+- **I wouldn't count on it** — it probably won't happen · ★★★★ · informal
+- **good luck with that** — sarcastic: I think that won't work · ★★★★ · informal
+- **tell you what** — introduces a suggestion or offer (also: I'll tell you what) · ★★★★ · informal
+- **what do you say?** — do you agree? (what do you say we leave early?) · ★★★★ · informal
+- **let's say …** — introduces a hypothetical case or example (let's say you get the job) · ★★★★ · neutral
+- **for the sake of argument** — just to test the idea, assume this is true · ★★★★ · neutral
+- **you could say that** — wry agreement: yes, in a way · ★★★★ · informal
+- **I'll leave it at that** — I won't say more about this · ★★★★ · neutral
+- **I'm just saying** — I'm only pointing this out, don't be offended · ★★★★ · informal
+- **if it makes you feel any better** — introduces a consoling fact · ★★★★ · informal
+- **for the life of me** — with all my effort, still not (I can't remember) · ★★★★ · informal
+- **don't ask** — it's a long, unpleasant story I don't want to tell · ★★★★ · informal
+- **for all I know** — I have no idea; it's possible that · ★★★★ · informal
+- **knowing (him)** — based on what I know about him (knowing her, she'll be late) · ★★★★ · informal
+- **I wouldn't put it past (him)** — I think he is capable of doing that bad thing · ★★★★ · informal
+- **I'd be lying if I said** — honestly, it's not true that … · ★★★★ · neutral
+- **I'll be the first to admit** — I openly admit this (often a weakness of my own) · ★★★★ · neutral
+- **I'm not going to sugarcoat it** — I'll tell you the bad news directly · ★★★★ · informal
+- **do you happen to …?** — polite question (do you happen to know / have …?) · ★★★★ · neutral
+- **got a sec?** — do you have a moment to talk? · ★★★★ · informal
+- **say the word** — just ask and I'll do it · ★★★★ · informal
+- **if it helps** — offers something that might be useful (if it helps, I can drive) · ★★★★ · informal
+- **something came up** — an unexpected problem means I can't do what I planned · ★★★★ · informal
+- **I'd rather not** — polite refusal: I prefer not to · ★★★★ · neutral
+- **I won't keep you** — I'll let you go; I know you're busy · ★★★★ · neutral
+- **could be worse** — it's not great, but not terrible · ★★★★ · informal
+- **I've been better** — understated: I'm not doing well · ★★★★ · informal
+- **hang in there** — keep going through this difficult time · ★★★★ · informal
+- **who knew?** — surprisingly, nobody expected that · ★★★★ · informal
+- **that's more like it** — that's better; that's what I wanted · ★★★★ · informal
+- **that's news to me** — I didn't know that until now · ★★★★ · informal
+- **that's on me** — that was my fault; I take responsibility · ★★★★ · informal, US
+- **don't beat yourself up (about it)** — don't blame yourself so much · ★★★★ · informal
+- **no pressure** — you don't have to; only if you want · ★★★★ · informal
+- **that figures** — that's what I expected (usually something bad) · ★★★★ · informal
+- **that's rough** — that sounds hard; I'm sorry (sympathy) · ★★★★ · informal
+- **I bet** — I can easily imagine that · ★★★★ · informal
+- **worst case** — in the worst possible situation · ★★★★ · informal
+- **at this rate** — if things continue like this · ★★★★ · neutral
+
+### Set 06
+
+- **look, …** — discourse opener: listen, here is what I think · ★★★★ · informal
+- **or so I thought** — what I believed, which turned out to be wrong · ★★★★ · neutral
+- **along those lines** — something similar to that (something along those lines) · ★★★★ · neutral
+- **yeah, right** — sarcastic: I don't believe that at all · ★★★★ · informal
+- **we'll see** — skeptical: I'm not sure that will happen · ★★★★ · informal
+- **it could go either way** — both outcomes are equally possible · ★★★★ · neutral
+- **I'm not thrilled about** — I'm unhappy with (understatement) · ★★★★ · informal
+- **I'm not sold on** — I'm not yet convinced by (this idea) · ★★★★ · informal
+- **I could live with that** — that's acceptable to me · ★★★★ · informal
+- **you got it** — certainly, I'll do that · ★★★★ · informal, US
+- **sure thing** — of course; certainly, happy to do it · ★★★★ · informal, US
+- **I'm just thinking out loud** — these are unfinished thoughts, not a firm proposal · ★★★★ · informal
+- **that's a whole other story** — that's a different, long topic · ★★★★ · informal
+- **what do you make of …?** — what is your opinion or interpretation of this? · ★★★★ · neutral
+- **I'm torn** — I can't decide between two options · ★★★★ · informal
+- **you can say that again** — I agree completely; that is very true · ★★★ · informal
+- **while we're on the subject** — since we are talking about this topic already · ★★★ · neutral
+- **since when?** — skeptical: when did that start being true? · ★★★ · informal
+- **come again?** — sorry, what did you say? (surprise or not hearing) · ★★★ · informal
+- **I'm not a big fan of** — polite way to say you dislike something · ★★★ · informal
+- **enough said** — nothing more needs to be said; the point is clear · ★★★ · informal
+- **in my book** — in my opinion; by my standards · ★★★ · informal
+- **when all is said and done** — when everything is considered; in the end · ★★★ · neutral
+- **not to change the subject, but …** — introduces a different topic politely · ★★★ · neutral
+- **before I forget** — introduces something to say now so you don't forget · ★★★ · neutral
+- **I never thought of it that way** — your view is new to me · ★★★ · neutral
+- **whatever works (for you)** — any option is fine; choose what suits you · ★★★ · informal
+- **you can't make this stuff up** — this is so strange it must be true · ★★★ · informal, US
+- **not to brag, but …** — introduces something you're proud of, half jokingly · ★★★ · informal
+- **this might sound weird, but …** — warns that an idea or question is unusual · ★★★ · informal
+- **good for you** — well done; I'm happy for you (can be sarcastic) · ★★★ · informal
+- **I was wondering if …** — polite, indirect way to ask for something · ★★★ · neutral
+- **let's not get ahead of ourselves** — let's not act too early or assume success · ★★★ · informal
+- **let's not go there** — let's avoid that topic · ★★★ · informal
+- **I'm having second thoughts** — I'm starting to doubt my decision · ★★★ · neutral
+- **knock on wood** — said to avoid bad luck after a hopeful remark · ★★★ · informal, US
+- **I don't want to jinx it** — I won't say it, so I don't bring bad luck · ★★★ · informal
+- **lesson learned** — I made a mistake, but I won't repeat it · ★★★ · informal
+- **been there** — I've had the same experience · ★★★ · informal
+- **welcome to the club** — the same bad thing has happened to me too · ★★★ · informal
+- **no hard feelings** — I'm not angry or upset with you · ★★★ · informal
+- **no harm done** — nothing bad happened, so it's OK · ★★★ · informal
+- **go figure** — that's surprising or makes no sense · ★★★ · informal, US
+- **I digress** — I've moved away from the main topic · ★★★ · neutral
+- **seeing as …** — because; since (seeing as you're here, …) · ★★★ · informal
+- **you have to hand it to (someone)** — you must admit they did well · ★★★ · informal
+- **don't remind me** — I don't want to think about that unpleasant thing · ★★★ · informal
+- **now you tell me** — you should have told me that earlier · ★★★ · informal
+- **on it** — I'm doing it right now · ★★★ · informal
+- **be my guest** — go ahead; do it if you want · ★★★ · informal
+
+## 05 Informal American English (200)
+
+### Set 01
+
+- **low-key** — slightly or secretly ("I'm low-key stressed"); also calm, not showy · ★★★★★ · slang, US
+- **legit** — genuine and legal; also really good, or truly ("legit scary") · ★★★★★ · slang
+- **sketchy** — suspicious and possibly unsafe, dishonest or of poor quality · ★★★★★ · informal, US
+- **bail (on someone)** — cancel plans or leave at the last minute, letting someone down · ★★★★★ · informal, US
+- **a no-brainer** — a choice so obvious that it needs no real thought · ★★★★★ · informal
+- **swing by** — stop at a place briefly, usually on your way somewhere · ★★★★★ · informal, US
+- **shady** — dishonest or suspicious (a person, a deal, a business) · ★★★★★ · informal
+- **flake (on someone)** — fail to show up or do what you promised · ★★★★★ · informal, US
+- **I'm down (for something)** — I'm willing to join in or do it ("I'm down for pizza") · ★★★★★ · slang, US
+- **a game changer** — something that completely changes how things are done · ★★★★★ · informal
+- **swamped** — extremely busy, with more work than you can handle · ★★★★★ · informal
+- **my bad** — a casual way to admit a small mistake: my fault, sorry · ★★★★★ · slang, US
+- **hit someone up** — contact someone by text or call, often to ask for something · ★★★★★ · slang, US
+- **vibe** — the feeling or atmosphere that a person, place or thing gives off · ★★★★★ · slang
+- **wiped (out)** — (of a person) completely exhausted · ★★★★★ · informal, US
+- **ballpark (figure)** — a rough estimate that is approximately right · ★★★★★ · informal, US
+- **a side hustle** — extra paid work or a small business alongside your main job · ★★★★★ · informal, US
+- **bummed (out)** — disappointed and a little sad · ★★★★★ · informal, US
+- **ghost someone** — suddenly cut off all contact with someone without explanation · ★★★★★ · slang
+- **FOMO** — fear of missing out: anxiety that others are having fun without you · ★★★★★ · informal
+- **a hot take** — a deliberately provocative or controversial opinion, often given quickly · ★★★★★ · informal, US
+- **freak out** — suddenly become very upset, scared or excited · ★★★★★ · informal
+- **lose it** — suddenly lose control: burst out laughing, crying or in anger · ★★★★★ · informal
+- **kill it** — do something extremely well; perform brilliantly · ★★★★★ · slang, US
+- **nail it** — do something exactly right or perfectly · ★★★★★ · informal
+- **a go-to** — your usual, most reliable choice ("my go-to recipe") · ★★★★★ · informal
+- **a thing (= a real trend)** — a real, recognized trend or phenomenon ("Is that even a thing?") · ★★★★★ · informal
+- **real quick** — quickly, briefly ("Can I ask you something real quick?") · ★★★★★ · informal, US
+- **way (= much, far)** — much, far, before comparatives and "too" ("way better", "way too late") · ★★★★★ · informal
+- **I'm good** — no thanks, I don't need anything (a polite refusal) · ★★★★★ · informal, US
+- **crash at someone's place** — sleep at someone's home for a night, informally · ★★★★★ · informal, US
+- **zone out** — stop paying attention because your mind drifts away · ★★★★★ · informal, US
+- **have someone's back** — be ready to support and defend someone · ★★★★★ · informal, US
+- **I got you** — I'll help or cover for you; also: I understand · ★★★★★ · slang, US
+- **you got this** — you can do it (encouragement before a challenge) · ★★★★★ · informal, US
+- **cringe** — embarrassingly awkward; also: to feel embarrassed for someone · ★★★★★ · slang
+- **salty** — bitter or resentful, especially about something small · ★★★★★ · slang, US
+- **extra** — over the top: too dramatic, too much effort or style · ★★★★★ · slang, US
+- **chill** — relaxed and easygoing (a person, a place, a plan) · ★★★★★ · slang
+- **be into something** — like something a lot or be very interested in it · ★★★★★ · informal
+- **mess with someone** — tease, trick or bother someone for fun · ★★★★★ · informal, US
+- **blow someone off** — ignore someone or cancel on them without a good reason · ★★★★★ · informal, US
+- **head out** — leave, set off ("I'm gonna head out") · ★★★★★ · informal, US
+- **wing it** — do something without any preparation; improvise · ★★★★★ · informal
+- **a bummer** — a disappointing or annoying situation ("What a bummer!") · ★★★★★ · informal, US
+- **cheesy** — too sentimental, obvious or unoriginal to be taken seriously · ★★★★★ · informal
+- **hook someone up (with something)** — get or arrange something useful for someone · ★★★★★ · informal, US
+- **ditch** — abandon someone or something; skip a class or a plan · ★★★★★ · informal
+- **a deal-breaker** — one problem that makes you reject an offer, a plan or a person · ★★★★★ · informal
+- **pumped** — very excited and full of energy about something · ★★★★★ · informal, US
+
+### Set 02
+
+- **beat (= exhausted)** — (of a person) very tired, exhausted ("I'm beat") · ★★★★ · informal, US
+- **slammed** — extremely busy, overwhelmed with work or customers · ★★★★ · informal, US
+- **fried** — mentally exhausted, no longer able to think clearly · ★★★★ · slang, US
+- **psyched** — very excited and looking forward to something · ★★★★ · informal, US
+- **stoked** — very excited and happy about something · ★★★★ · slang, US
+- **a buzzkill** — a person or thing that spoils the fun · ★★★★ · slang, US
+- **a pet peeve** — a small thing that especially annoys you · ★★★★ · informal
+- **random (= odd, unexpected)** — odd, unexpected, or unknown and unimportant ("some random guy") · ★★★★ · informal
+- **off (= not quite right)** — slightly wrong or not normal ("Something feels off") · ★★★★ · informal
+- **super (= very)** — very, extremely ("super helpful", "super easy") · ★★★★ · informal, US
+- **a ton (of)** — a lot, a large amount ("a ton of emails") · ★★★★ · informal
+- **folks** — people in general; also your parents or family · ★★★★ · informal, US
+- **dude** — a man; also a casual way to address someone · ★★★★ · slang, US
+- **lame** — boring, weak or unconvincing ("a lame excuse") · ★★★★ · informal
+- **bug someone** — annoy or bother someone ("It really bugs me") · ★★★★ · informal
+- **grab a bite** — get a quick, casual meal · ★★★★ · informal
+- **binge-watch** — watch many episodes of a show one after another · ★★★★ · informal
+- **blown away** — extremely impressed or amazed · ★★★★ · informal
+- **out of it** — dazed or tired; not fully alert or aware · ★★★★ · informal
+- **toast** — finished, in serious trouble ("If we miss this, we're toast") · ★★★★ · slang, US
+- **busted** — caught doing something wrong; also: broken · ★★★★ · informal, US
+- **janky** — poorly made, unreliable, or likely to break · ★★★★ · slang, US
+- **iffy** — uncertain or doubtful; of questionable quality · ★★★★ · informal
+- **a hot mess** — a person or situation in complete disorder · ★★★★ · slang, US
+- **a dumpster fire** — a chaotic, disastrous situation that keeps getting worse · ★★★★ · slang, US
+- **cut someone some slack** — be less strict or critical with someone · ★★★★ · informal, US
+- **don't sweat it** — don't worry about it; it's not a problem · ★★★★ · informal, US
+- **suck it up** — accept something unpleasant without complaining · ★★★★ · informal, US
+- **lighten up** — stop being so serious or strict · ★★★★ · informal
+- **veg out** — relax and do nothing, e.g. in front of the TV · ★★★★ · informal, US
+- **hit the spot** — (of food or drink) be exactly what you needed · ★★★★ · informal
+- **antsy** — restless and impatient, unable to keep still · ★★★★ · informal, US
+- **go off on someone** — suddenly rant angrily at someone · ★★★★ · informal, US
+- **vent** — let out your frustration by talking about it · ★★★★ · informal
+- **throw shade** — subtly insult or criticize someone · ★★★★ · slang, US
+- **roast someone** — make fun of someone harshly but humorously · ★★★★ · informal
+- **a dig** — a subtle critical or mocking remark ("a dig at his boss") · ★★★★ · informal
+- **snarky** — sarcastic and mocking in a slightly rude way · ★★★★ · informal, US
+- **call dibs** — claim something before anyone else can ("Dibs on the window seat!") · ★★★★ · informal, US
+- **jinx** — bring bad luck by talking about something ("Don't jinx it!") · ★★★★ · informal
+- **tag along** — go somewhere with someone, often without being invited · ★★★★ · informal
+- **hang (with someone)** — spend time casually with someone ("We should hang sometime") · ★★★★ · slang, US
+- **hit it off** — like each other immediately when you first meet · ★★★★ · informal
+- **have a thing for someone** — be attracted to someone · ★★★★ · informal
+- **flaky** — unreliable; often canceling or forgetting plans · ★★★★ · informal, US
+- **a no-show** — a person who doesn't come although expected · ★★★★ · informal
+- **a control freak** — someone who needs to control everything around them · ★★★★ · informal
+- **high-maintenance** — needing a lot of attention, effort or care · ★★★★ · informal
+- **uptight** — tense, anxious and overly strict or formal · ★★★★ · informal
+- **tacky** — cheap-looking or in poor taste · ★★★★ · informal
+
+### Set 03
+
+- **suck up to someone** — flatter someone powerful to win their favor · ★★★★ · informal
+- **own it** — accept something fully and confidently, including responsibility for it · ★★★★ · informal, US
+- **you do you** — do what feels right for you; I won't judge · ★★★★ · slang, US
+- **good call** — that was a good decision · ★★★★ · informal, US
+- **cover for someone** — do someone's work or hide their absence or mistake · ★★★★ · informal
+- **you're good** — no problem, no need to apologize · ★★★★ · informal, US
+- **for real** — seriously, really (as a question or for emphasis) · ★★★★ · slang, US
+- **props** — credit and respect for something done well ("Props to the team") · ★★★★ · slang, US
+- **a lifesaver** — a person or thing that helps you greatly at the right moment · ★★★★ · informal
+- **next-level** — far better or more advanced than usual · ★★★★ · informal, US
+- **hands down** — without any doubt ("hands down the best pizza in town") · ★★★★ · informal
+- **back in the day** — in the past, years ago (often with nostalgia) · ★★★★ · informal
+- **old-school** — traditional or old-fashioned, often in a good way · ★★★★ · informal
+- **crunch time** — the critical period just before a deadline · ★★★★ · informal, US
+- **pull an all-nighter** — stay up all night to work or study · ★★★★ · informal, US
+- **slack off** — work less hard than you should · ★★★★ · informal
+- **phone it in** — do something with minimum effort and no enthusiasm · ★★★★ · informal, US
+- **crank out** — produce a lot of something quickly · ★★★★ · informal, US
+- **whip up** — make something quickly (a meal, a draft, a slide) · ★★★★ · informal
+- **a gig** — a job, especially a temporary or freelance one · ★★★★ · informal
+- **a rundown** — a quick summary of the main points · ★★★★ · informal, US
+- **a tad** — a little, slightly ("a tad too salty") · ★★★★ · informal
+- **a grand** — a thousand dollars ("It cost five grand") · ★★★★ · informal
+- **tank** — fail badly or fall sharply ("Sales tanked") · ★★★★ · informal, US
+- **crush it** — do something extremely well · ★★★★ · slang, US
+- **a slam dunk** — something that is certain to succeed · ★★★★ · informal, US
+- **go all in** — commit fully to something, risking everything · ★★★★ · informal, US
+- **give something a shot** — try something to see if it works · ★★★★ · informal
+- **a toss-up** — a situation where either outcome is equally likely · ★★★★ · informal
+- **hit or miss** — sometimes good, sometimes bad; unreliable in quality · ★★★★ · informal
+- **a hiccup** — a small, temporary problem or delay · ★★★★ · informal
+- **a fluke** — a lucky or unusual result that happened by chance · ★★★★ · informal
+- **score (= get something good)** — get something desirable, often by luck ("We scored free tickets") · ★★★★ · informal, US
+- **snag** — manage to get something, often quickly ("snag a table") · ★★★★ · informal, US
+- **pricey** — rather expensive, costing more than you expected · ★★★★ · informal
+- **a rip-off** — something that costs far more than it is worth · ★★★★ · informal
+- **a steal** — a bargain; something very cheap for what you get · ★★★★ · informal
+- **shell out** — pay a lot of money, often unwillingly · ★★★★ · informal
+- **splurge** — spend a lot of money on a treat for yourself · ★★★★ · informal
+- **chip in** — each contribute some money or help to a shared goal · ★★★★ · informal
+- **a buck** — a dollar ("It's only five bucks") · ★★★★ · informal, US
+- **rake in** — earn a lot of money, often easily · ★★★★ · informal
+- **the hype** — excessive publicity and excitement about something · ★★★★ · informal
+- **cancel someone** — stop supporting someone publicly after something offensive they did · ★★★★ · slang
+- **woke** — alert to social injustice; now often used mockingly by critics · ★★★★ · slang, US
+- **gaslight** — manipulate someone into doubting their own memory or judgment · ★★★★ · informal
+- **a guilt trip** — an attempt to make someone feel guilty so they do something · ★★★★ · informal
+- **crack someone up** — make someone laugh a lot · ★★★★ · informal
+- **creep someone out** — make someone feel uneasy or a little scared · ★★★★ · informal
+- **blow someone's mind** — amaze or impress someone completely · ★★★★ · informal
+
+### Set 04
+
+- **be over something** — be tired of, or no longer upset about, something · ★★★★ · informal, US
+- **not someone's thing** — not something a person enjoys or is good at · ★★★★ · informal
+- **yikes** — expresses shock, alarm or embarrassment · ★★★★ · informal
+- **meh** — expresses indifference; also: mediocre, unimpressive · ★★★★ · informal
+- **GOAT** — the greatest of all time ("He's the GOAT") · ★★★★ · slang, US
+- **TMI** — too much information: more personal detail than people want · ★★★★ · informal
+- **clickbait** — online headlines or content made only to attract clicks · ★★★★ · informal
+- **troll someone** — provoke people online on purpose to upset them · ★★★★ · informal
+- **overshare** — reveal too much personal information · ★★★★ · informal
+- **a (life) hack** — a clever trick that makes something easier or faster · ★★★★ · informal
+- **a drag** — something boring or annoying ("Commuting is such a drag") · ★★★★ · informal
+- **blow up (= become very popular)** — suddenly become very popular or widely discussed · ★★★★ · informal
+- **y'all** — you (plural), common in the South and widely used · ★★★★ · informal, US
+- **a rookie mistake** — a basic error typical of a beginner · ★★★★ · informal, US
+- **dicey** — risky and unpredictable, likely to go wrong · ★★★ · informal
+- **a piece of work** — a difficult, unpleasant or strange person · ★★★ · informal, US
+- **a pushover** — someone who is easily persuaded or taken advantage of · ★★★ · informal
+- **cocky** — confident in an arrogant, annoying way · ★★★ · informal
+- **judgy** — too quick to judge or criticize others · ★★★ · informal, US
+- **goofy** — silly in a funny, harmless way · ★★★ · informal, US
+- **corny** — old-fashioned and trying too hard to be funny or moving · ★★★ · informal, US
+- **kick back** — relax and take it easy · ★★★ · informal, US
+- **hangry** — irritable because you are hungry · ★★★ · informal
+- **bad-mouth** — say unkind things about someone behind their back · ★★★ · informal
+- **a plus-one** — a guest you are allowed to bring to an event · ★★★ · informal
+- **hit on someone** — flirt with someone, showing romantic interest · ★★★ · informal, US
+- **lead someone on** — make someone think you are interested when you aren't · ★★★ · informal
+- **fess up** — admit something you did wrong · ★★★ · informal, US
+- **knock it off** — stop doing that annoying thing! · ★★★ · informal
+- **knock yourself out** — go ahead, do as much as you like (I don't mind) · ★★★ · informal, US
+- **no biggie** — it's not important; no problem · ★★★ · informal, US
+- **a hard pass** — a firm no to an offer or idea · ★★★ · slang, US
+- **big time** — very much, to a great degree ("He messed up big time") · ★★★ · informal, US
+- **a hot minute** — quite a long time ("I haven't seen her in a hot minute") · ★★★ · slang, US
+- **eyeball something** — estimate or check something just by looking · ★★★ · informal, US
+- **bomb (= fail badly)** — fail badly (a test, a show, a talk) · ★★★ · informal, US
+- **ace** — do very well on a test, an exam or an interview · ★★★ · informal
+- **blow it** — lose a chance by making a mistake · ★★★ · informal ↺
+- **a head-scratcher** — a puzzling problem or question · ★★★ · informal, US
+- **out of whack** — not working properly; out of balance · ★★★ · informal, US
+- **in a bind** — in a difficult situation with no easy way out · ★★★ · informal, US
+- **luck out** — be very lucky, get a good result by chance · ★★★ · informal, US ↺
+- **loaded** — very rich ("Her family is loaded") · ★★★ · informal
+- **strapped for cash** — short of money at the moment · ★★★ · informal, US
+- **chump change** — a trivially small amount of money · ★★★ · slang, US
+- **max out** — use up the full limit of something, e.g. a credit card · ★★★ · informal, US
+- **jack up** — raise prices or costs sharply · ★★★ · informal, US
+- **a knockoff** — a cheap copy of a brand-name product · ★★★ · informal, US
+- **sticker shock** — surprise and dismay at an unexpectedly high price · ★★★ · informal, US
+- **flip-flop** — keep changing your opinion or position (often of politicians) · ★★★ · informal, US
+
+## 06 Work & academic English (250)
+
+### Meetings & discussion
+
+- **circle back (to something)** — return to a topic later, after more thought or information · ★★★★★ · neutral, US
+- **take something offline** — discuss it later, outside the meeting, with only the people involved · ★★★★★ · informal
+- **be on the same page** — share the same understanding of a situation or plan · ★★★★★ · informal
+- **a quick sync** — a short meeting to share status and coordinate work · ★★★★★ · informal, US
+- **touch base (with someone)** — briefly contact someone to check in or update each other · ★★★★★ · informal, US
+- **hop on a call** — join a short, often unplanned phone or video call · ★★★★★ · informal, US
+- **a one-on-one** — a regular private meeting of two people, often manager and report · ★★★★★ · neutral, US
+- **a hard stop** — a fixed time when you must leave a meeting · ★★★★★ · neutral, US
+- **an action item** — a specific task someone must do after a meeting · ★★★★★ · neutral
+- **weigh in (on something)** — give your opinion in a discussion or decision · ★★★★★ · neutral
+- **jump in** — join a conversation, often by politely interrupting ('Can I jump in?') · ★★★★★ · informal
+- **build on what someone said** — develop another person's point by adding your own idea to it · ★★★★★ · neutral
+- **to your point** — picking up on, and usually supporting, what you just said · ★★★★★ · neutral, US
+- **take a step back** — stop and look at the wider situation before continuing · ★★★★★ · neutral
+- **bring someone up to speed** — give someone the latest information they have missed · ★★★★★ · neutral
+- **get into the weeds** — discuss too many small, technical details · ★★★★★ · informal, US
+- **a deep dive (into something)** — a detailed, thorough examination of one topic · ★★★★★ · neutral
+- **in the interest of time** — because time is limited; to save time · ★★★★★ · neutral
+- **sorry, go ahead** — polite phrase when two people on a call start talking at once · ★★★★★ · informal
+- **hold that thought** — pause your point for now; we will come back to it · ★★★★★ · informal
+- **have a conflict** — have another appointment at the same time ('I have a conflict at 3') · ★★★★★ · neutral, US
+- **push a meeting back** — move a meeting to a later time or date · ★★★★★ · neutral
+- **throw something out there** — offer an idea tentatively, just for discussion · ★★★★★ · informal, US
+- **next steps** — the actions agreed on for after a meeting · ★★★★ · neutral
+- **align on something** — reach a shared agreement on a plan or decision (corporate) · ★★★★ · neutral, US
+- **you're on mute** — on a call: your microphone is off, so nobody hears you · ★★★★ · informal
+- **talk something through** — discuss something step by step to understand it or decide · ★★★★ · neutral
+- **table a discussion** — (US) postpone discussing something; in British English: bring it up · ★★★★ · formal, US
+- **park something** — set an idea aside now and return to it later · ★★★★ · informal
+- **put a pin in something** — pause a topic and agree to return to it later · ★★★★ · informal, US
+- **piggyback on something** — add your own idea to what someone else just said · ★★★★ · informal, US
+- **go around the room** — let each person in the meeting speak in turn · ★★★★ · neutral
+- **get back on track** — return to the main topic or the original plan · ★★★★ · neutral
+- **drill down (into something)** — examine something in more and more detail · ★★★★ · neutral
+- **talk past each other** — keep talking without understanding each other's actual point · ★★★★ · neutral
+- **go back and forth (on something)** — keep debating, or keep changing your mind, about something · ★★★★ · neutral
+- **I'd second that** — I agree with and support what was just proposed · ★★★★ · neutral
+- **defer to someone** — let someone with more expertise or authority decide · ★★★★ · formal
+- **sit in on something** — attend a meeting or class as an observer · ★★★★ · neutral
+- **reconvene** — meet again after a break or at a later date · ★★★★ · formal
+- **run over (time)** — continue past the scheduled end of a meeting · ★★★★ · neutral
+- **give someone time back** — end a meeting early ('I'll give you ten minutes back') · ★★★★ · informal, US
+- **a standup** — a short daily team meeting to share progress and blockers · ★★★★ · informal, US
+- **an all-hands (meeting)** — a meeting for everyone in a company or group · ★★★★ · neutral, US
+- **you're breaking up** — on a call: your audio keeps cutting out · ★★★★ · informal
+- **drop off (a call)** — leave a call or online meeting before it ends · ★★★★ · informal
+- **take five** — take a short break of about five minutes · ★★★★ · informal, US
+- **a 30,000-foot view** — a very broad overview without any details · ★★★★ · informal, US
+- **be respectful of someone's time** — avoid wasting other people's time, e.g. by ending on time · ★★★★ · neutral, US
+- **facilitate a discussion** — guide a discussion so that it runs well and stays focused · ★★★★ · neutral
+
+### Emails & written messages
+
+- **follow up (on something)** — contact someone again about something already discussed or requested · ★★★★★ · neutral ↺
+- **loop someone in** — add someone to a conversation or email thread · ★★★★★ · informal, US
+- **keep someone in the loop** — keep someone informed as things develop · ★★★★★ · informal
+- **flag something** — point out something that needs someone's attention · ★★★★★ · neutral
+- **a heads-up** — advance warning or notice so that someone can prepare · ★★★★★ · informal
+- **bandwidth** — time and energy to take on more work (office jargon) · ★★★★★ · informal
+- **going forward** — from now on; in the future · ★★★★★ · neutral
+- **just checking in** — polite way to ask for an update or a reply · ★★★★★ · neutral
+- **happy to help** — polite offer; 'happy to + verb' means willing to do it · ★★★★★ · neutral
+- **reach out (to someone)** — contact someone, often for the first time · ★★★★★ · neutral, US
+- **thanks in advance** — thank you for what you will do (said before it happens) · ★★★★★ · neutral
+- **apologies for the delay** — polite opening line when you reply late · ★★★★★ · neutral
+- **on my end** — on my side; regarding my part, setup or system · ★★★★★ · informal, US
+- **ping someone** — send someone a short message, e.g. on Slack or by email · ★★★★★ · informal
+- **EOD (end of day)** — deadline: by the end of today's working day · ★★★★★ · informal, US
+- **shoot someone an email** — send someone a quick, short email · ★★★★★ · informal, US
+- **keep someone posted** — keep giving someone updates on progress · ★★★★★ · informal
+- **hope that helps** — friendly closing line after giving information or advice · ★★★★★ · neutral
+- **feel free to (do something)** — polite invitation: you are welcome to do it · ★★★★★ · neutral
+- **will do** — short, friendly reply meaning 'I will do that' · ★★★★★ · informal
+- **DM someone** — send someone a direct, private message · ★★★★★ · informal
+- **Best,** — the standard neutral email sign-off in American English · ★★★★★ · neutral, US
+- **a gentle reminder** — polite note reminding someone of a task; in the US also 'friendly reminder' · ★★★★ · neutral
+- **per our conversation** — as we discussed; compare 'as per your request' · ★★★★ · formal, US
+- **at your earliest convenience** — as soon as you can; formal and slightly insistent · ★★★★ · formal
+- **a quick turnaround** — a short time to finish work and send it back · ★★★★ · neutral
+- **bump a thread** — reply to an old message to bring it back to attention · ★★★★ · informal
+- **the ask** — the request being made (noun; business jargon: 'What's the ask?') · ★★★★ · informal, US
+- **please find attached** — formal phrase introducing an attachment; 'I've attached' is more modern · ★★★★ · formal
+- **I hope this email finds you well** — formal opening line; common, but some find it clichéd · ★★★★ · formal
+- **noted** — short reply: I have read this and will keep it in mind · ★★★★ · neutral
+- **just to clarify** — introduces a question to check that you understood correctly · ★★★★ · neutral
+- **please advise** — formal request for instructions; can sound curt · ★★★★ · formal, US
+- **per my last email** — as I already said; often a passive-aggressive reproach · ★★★★ · formal, US
+- **thanks for your patience** — polite thanks to someone who has been waiting for you · ★★★★ · neutral
+- **an email thread** — a chain of replies on one email subject · ★★★★ · neutral
+- **reply all** — send your reply to everyone on the email · ★★★★ · neutral
+- **FYI** — for your information; usually no action needed · ★★★★ · informal
+- **TL;DR** — a very short summary of a long text ('too long; didn't read') · ★★★★ · informal
+- **ETA** — expected time of arrival, or when something will be done · ★★★★ · informal
+- **out of office (OOO)** — away from work and not answering email · ★★★★ · neutral
+- **PTO** — paid time off: vacation days from an employer · ★★★★ · neutral, US
+- **a cold email** — an unsolicited email to someone you have never met · ★★★★ · neutral
+- **a warm intro** — an introduction made by someone both people already know · ★★★★ · informal, US
+- **please disregard** — please ignore (an earlier message or attachment) · ★★★★ · formal
+- **apologies for any confusion** — polite apology after a mistake or an unclear message · ★★★★ · neutral
+- **on short notice** — with little warning or time to prepare (UK: at short notice) · ★★★★ · neutral, US
+- **in a timely manner** — promptly; without unnecessary delay · ★★★★ · formal
+- **time-sensitive** — needing attention soon because of a deadline · ★★★★ · neutral
+- **a hard deadline** — a deadline that cannot be moved (vs. a soft deadline) · ★★★★ · neutral
+
+### Academic writing
+
+- **to the best of our knowledge** — as far as we know (often before a claim of novelty) · ★★★★★ · formal
+- **beyond the scope of (this paper)** — outside the topics that this work covers · ★★★★★ · formal
+- **shed light on something** — help explain something that is not well understood · ★★★★★ · neutral
+- **a caveat** — a warning or limitation that qualifies a claim · ★★★★★ · formal
+- **account for something** — explain something, or include it as a factor · ★★★★★ · neutral
+- **in line with** — consistent with; matching earlier results or expectations · ★★★★★ · neutral
+- **it is worth noting that** — introduces a point the reader should not miss · ★★★★★ · formal
+- **robust to something** — still working well despite noise, changes or errors · ★★★★★ · neutral
+- **a growing body of evidence** — more and more studies that point the same way · ★★★★★ · formal
+- **on par with** — at the same level or quality as · ★★★★★ · neutral
+- **motivate something** — explain why a method, choice or problem is needed · ★★★★★ · formal
+- **a line of work** — a series of related research efforts on one question · ★★★★★ · neutral
+- **an open question** — a question that the field has not answered yet · ★★★★★ · neutral
+- **leave something to future work** — postpone a question or extension to later research · ★★★★★ · formal
+- **to that end** — in order to achieve this goal · ★★★★★ · formal
+- **taken together** — when these results are considered jointly · ★★★★★ · formal
+- **in light of** — considering (new information or facts) · ★★★★★ · formal
+- **on the order of** — approximately; of roughly this magnitude · ★★★★★ · neutral
+- **the key insight** — the central idea that makes an approach work · ★★★★★ · neutral
+- **nontrivial** — not easy or obvious; requiring real effort or thought · ★★★★★ · neutral
+- **principled** — based on clear theory or rules, not on guesswork · ★★★★★ · neutral
+- **make the case that** — argue convincingly that something is true · ★★★★★ · neutral
+- **a proxy for something** — an indirect measure used in place of something · ★★★★★ · neutral
+- **inform something** — guide or influence a decision or design · ★★★★★ · formal
+- **cherry-pick** — select only the results or examples that support your claim · ★★★★★ · informal
+- **address a comment** — respond to a reviewer's point by fixing or explaining · ★★★★★ · neutral
+- **to date** — up to now; so far · ★★★★★ · formal
+- **arguably** — it can reasonably be argued that · ★★★★★ · neutral
+- **mitigate something** — make a problem, risk or effect less severe · ★★★★★ · formal
+- **orthogonal to something** — independent of, or complementary to, something · ★★★★ · formal
+- **it remains unclear whether** — it is still not known if · ★★★★ · formal
+- **warrant further investigation** — deserve more research before firm conclusions are drawn · ★★★★ · formal
+- **lend support to something** — provide evidence for a claim or hypothesis · ★★★★ · formal
+- **corroborate** — confirm a finding or claim with additional evidence · ★★★★ · formal
+- **substantiate a claim** — support a claim with evidence or proof · ★★★★ · formal
+- **give rise to something** — cause something to appear or happen · ★★★★ · formal
+- **attribute something to something** — say that something is caused by something else · ★★★★ · formal
+- **albeit** — although; even though (before a short phrase) · ★★★★ · formal
+- **as such** — therefore (common); strictly: in that role or capacity · ★★★★ · formal
+- **a confounding factor** — a hidden variable that distorts an apparent relationship · ★★★★ · formal
+- **to a first approximation** — roughly; ignoring the smaller effects · ★★★★ · formal
+- **all else being equal** — if nothing else changes · ★★★★ · neutral
+- **by construction** — true automatically because of how something was built · ★★★★ · formal
+- **underscore something** — emphasize or highlight the importance of something · ★★★★ · formal
+- **underexplored** — not yet studied enough · ★★★★ · formal
+- **have implications for something** — have possible effects or consequences for something · ★★★★ · formal
+- **overclaim** — claim more than the evidence supports · ★★★★ · neutral
+- **hedge a claim** — make a statement less strong or certain on purpose · ★★★★ · neutral
+- **tease something apart** — separate closely linked factors to understand each one · ★★★★ · neutral
+- **a gap in the literature** — a question that published research has not covered yet · ★★★★ · formal
+
+### Presentations & talks
+
+- **bear with me** — please be patient with me for a moment · ★★★★★ · neutral
+- **the (key) takeaway** — the main point people should remember · ★★★★★ · neutral
+- **unpack something** — explain a complex idea by breaking it into parts · ★★★★★ · neutral
+- **walk someone through something** — explain something to someone step by step · ★★★★★ · neutral
+- **let me back up** — let me go back to an earlier point to explain · ★★★★★ · informal, US
+- **that's a great question** — polite reply to a question, often to gain thinking time · ★★★★★ · neutral
+- **for context** — to give the background needed to understand this · ★★★★★ · neutral
+- **which brings me to** — smooth transition to the next point of a talk · ★★★★★ · neutral
+- **touch on something** — mention or discuss a topic briefly · ★★★★★ · neutral
+- **dive into something** — start examining a topic in detail ('Let's dive in') · ★★★★★ · informal
+- **at a high level** — in general terms, without the details · ★★★★★ · neutral
+- **the intuition behind something** — the simple core idea that explains why something works · ★★★★★ · neutral
+- **a toy example** — a deliberately simple example used to explain an idea · ★★★★★ · neutral
+- **open it up for questions** — invite the audience to ask questions · ★★★★★ · neutral
+- **speak to something** — address a topic with some authority ('I can't speak to that') · ★★★★★ · neutral, US
+- **the short answer is** — the brief, simplified answer (a longer one exists) · ★★★★★ · neutral
+- **hand-wavy** — vague and not rigorous; skipping the hard details · ★★★★★ · informal, US
+- **put something in perspective** — compare something to show its real size or importance · ★★★★★ · neutral
+- **a shout-out** — a public mention to thank or praise someone · ★★★★★ · informal, US
+- **let me get back to you on that** — I will answer later, after checking · ★★★★★ · neutral
+- **a (slide) deck** — the set of slides for a presentation · ★★★★★ · informal, US
+- **hand it over to someone** — give the next speaking turn to someone else · ★★★★★ · neutral
+- **frame something as something** — present an issue from a particular angle or perspective · ★★★★★ · neutral
+- **call something out** — point out or highlight something specifically (not always criticism) · ★★★★ · neutral, US
+- **this is joint work with** — standard credit line: the research was done together with · ★★★★ · neutral
+- **as you can see here** — directs the audience to something on the slide · ★★★★ · neutral
+- **I'll leave you with** — introduces a final thought at the end of a talk · ★★★★ · neutral
+- **set the stage** — give the background needed for what follows · ★★★★ · neutral
+- **a roadmap (of the talk)** — an overview of the structure of a talk · ★★★★ · neutral
+- **segue into something** — move smoothly to the next topic · ★★★★ · neutral
+- **zoom in on something** — focus closely on one part or detail · ★★★★ · neutral
+- **drive the point home** — make a point very clearly, so that it is remembered · ★★★★ · neutral
+- **the punchline** — the main result or point, after the buildup · ★★★★ · informal
+- **to recap** — to briefly summarize what was said · ★★★★ · neutral
+- **to wrap up** — to conclude; to finish the talk · ★★★★ · neutral
+- **without further ado** — now let's start, without more delay · ★★★★ · neutral
+- **take questions** — answer questions from the audience · ★★★★ · neutral
+- **field a question** — handle a question, often a difficult one · ★★★★ · neutral
+- **I'm glad you asked** — welcomes a question that you want to answer · ★★★★ · neutral
+- **skip ahead** — jump forward, e.g. to later slides · ★★★★ · neutral
+- **a motivating example** — an example that shows why the problem matters · ★★★★ · neutral
+- **a running example** — one example used again and again through a talk or paper · ★★★★ · neutral
+- **spoiler alert** — playful warning before revealing a result early · ★★★★ · informal, US
+- **refer someone to something** — point someone to a source for the details · ★★★★ · formal
+- **an elevator pitch** — a very short, persuasive summary of an idea · ★★★★ · neutral, US
+- **a dry run** — a practice rehearsal before the real event · ★★★★ · neutral
+- **read off the slides** — simply read the slide text aloud (bad practice) · ★★★★ · neutral
+- **a busy slide** — a slide with too much text or too many visuals · ★★★★ · informal
+- **jump out at someone** — be immediately noticeable to someone · ★★★★ · informal
+- **counterintuitive** — the opposite of what you would expect · ★★★★ · neutral
+
+### Feedback, negotiation & teamwork
+
+- **push back (on something)** — resist or argue against a plan, request or idea · ★★★★★ · neutral
+- **buy-in** — agreement and active support from the people involved · ★★★★★ · neutral
+- **be on board (with something)** — agree with and support a plan · ★★★★★ · informal
+- **a dealbreaker** — one issue that makes you reject a deal or option · ★★★★★ · informal
+- **hold someone accountable** — make someone responsible for results or mistakes · ★★★★★ · neutral
+- **sign off on something** — give final, official approval to something · ★★★★★ · neutral
+- **run something by someone** — ask someone's opinion before deciding or acting · ★★★★★ · informal
+- **pick someone's brain** — ask an expert for ideas or advice · ★★★★★ · informal
+- **a ballpark figure** — a rough estimate, not an exact number · ★★★★★ · informal, US
+- **manage expectations** — make sure people do not expect more than is realistic · ★★★★★ · neutral
+- **take ownership of something** — accept full responsibility for a task or problem · ★★★★★ · neutral
+- **be blocked on something** — be unable to continue until something else is done · ★★★★★ · informal
+- **sanity-check something** — quickly check that something is roughly correct · ★★★★★ · informal
+- **a judgment call** — a decision based on personal judgment, without a clear rule · ★★★★★ · neutral
+- **be upfront about something** — be honest and open about something from the start · ★★★★★ · neutral
+- **come across as** — give a particular impression to others ('It came across as rude') · ★★★★★ · neutral
+- **a non-starter** — an idea or proposal with no chance of success · ★★★★ · informal
+- **constructive feedback** — criticism that is meant to help someone improve · ★★★★ · neutral
+- **meet someone halfway** — compromise, with each side giving up part of what it wants · ★★★★ · neutral
+- **a sticking point** — an issue that blocks agreement · ★★★★ · neutral
+- **play to someone's strengths** — give people tasks that use their best skills · ★★★★ · neutral
+- **a nit** — a very minor, picky comment in a code or paper review · ★★★★ · informal, US
+- **a deliverable** — a concrete result a project has promised to produce · ★★★★ · neutral
+- **low-hanging fruit** — the easiest tasks or gains to get first (a cliché) · ★★★★ · informal
+- **a stakeholder** — a person or group affected by or involved in a project · ★★★★ · neutral
+- **find common ground** — find shared views or interests despite disagreement · ★★★★ · neutral
+- **a middle ground** — a compromise position between two extremes · ★★★★ · neutral
+- **a counteroffer** — a new offer made in reply to someone's offer · ★★★★ · neutral
+- **lowball someone** — offer someone much less than something is worth · ★★★★ · informal, US
+- **have leverage (over someone)** — have bargaining power that gives you an advantage · ★★★★ · neutral
+- **a bargaining chip** — something you can offer or trade in a negotiation · ★★★★ · neutral
+- **non-negotiable** — fixed; not open to discussion or change · ★★★★ · neutral
+- **wiggle room** — a little freedom to change plans or terms · ★★★★ · informal, US
+- **sweeten the deal** — add something to make an offer more attractive · ★★★★ · informal
+- **walk away (from a deal)** — end negotiations because the terms are not acceptable · ★★★★ · neutral
+- **off the table** — no longer being offered or considered · ★★★★ · neutral
+- **agree in principle** — accept the general idea, but not yet the details · ★★★★ · neutral
+- **concede a point** — admit that someone else is right about one thing · ★★★★ · neutral
+- **a red line** — a limit that you will not let anyone cross · ★★★★ · neutral
+- **unblock someone** — remove what stops someone from continuing their work · ★★★★ · informal
+- **escalate something** — pass an issue to someone with more authority · ★★★★ · neutral
+- **a point person** — the person responsible for one task or contact · ★★★★ · neutral, US
+- **stretched thin** — having too many tasks to do any of them well · ★★★★ · informal
+- **scope creep** — gradual, uncontrolled growth of a project's goals · ★★★★ · neutral
+- **underpromise and overdeliver** — promise modestly, then deliver more than expected · ★★★★ · informal
+- **deprioritize something** — give something lower priority than before · ★★★★ · neutral
+- **move the needle** — make a noticeable difference (business jargon) · ★★★★ · informal, US
+- **a quick win** — an easy success that shows early progress · ★★★★ · neutral
+- **a handoff** — passing work or responsibility to another person · ★★★★ · neutral, US
+- **kudos (to someone)** — praise or credit for an achievement · ★★★★ · informal
+
+## 07 Advanced words (500)
+
+### Set 01
+
+- **nuanced** — showing awareness of subtle differences; not simplistic · ★★★★★ · neutral
+- **exacerbate** — make a problem, bad situation or feeling worse · ★★★★★ · formal ↺
+- **ubiquitous** — seeming to be everywhere at the same time · ★★★★★ · formal
+- **pragmatic** — dealing with things practically rather than by theory · ★★★★★ · neutral
+- **ostensibly** — apparently or supposedly, but perhaps not actually · ★★★★★ · formal
+- **conflate** — wrongly treat two different ideas or things as the same · ★★★★★ · formal
+- **warrant (verb: justify)** — make an action necessary or justified · ★★★★★ · formal
+- **grapple (with)** — struggle to deal with or understand a difficult problem · ★★★★★ · neutral
+- **ambivalent** — having mixed or contradictory feelings about something · ★★★★★ · neutral
+- **inherent** — existing as a natural, permanent part of something · ★★★★★ · formal
+- **trajectory** — the path or direction of development over time · ★★★★★ · neutral
+- **backlash** — a strong negative reaction from many people · ★★★★★ · neutral
+- **bolster** — strengthen or support something such as confidence or a case · ★★★★★ · neutral
+- **navigate (figurative)** — find a way to deal with a complicated situation · ★★★★★ · neutral
+- **arbitrary** — based on random choice or personal whim, not reason · ★★★★★ · neutral
+- **viable** — capable of working or succeeding · ★★★★★ · neutral
+- **daunting** — seeming difficult and intimidating · ★★★★★ · neutral
+- **fallout** — the bad results or effects of an event · ★★★★★ · neutral
+- **ramifications** — complex, often unintended consequences of an action · ★★★★★ · neutral
+- **admittedly** — it must be admitted (used when conceding a point) · ★★★★★ · neutral
+- **inadvertently** — without intending to; by accident · ★★★★★ · neutral
+- **entail** — involve something as a necessary part or result · ★★★★★ · formal
+- **downplay** — make something seem less important or serious than it is · ★★★★★ · neutral
+- **reiterate** — say something again, usually for emphasis or clarity · ★★★★★ · formal
+- **foster** — encourage the development of feelings, ideas or skills · ★★★★★ · neutral
+- **seamless** — smooth and continuous, without problems or interruptions · ★★★★★ · neutral
+- **blatant** — very obvious and done without shame · ★★★★★ · neutral
+- **disingenuous** — not sincere; pretending to know or care less than you do · ★★★★★ · neutral
+- **pushback** — resistance or opposition to a plan or idea · ★★★★★ · neutral
+- **optics** — how something looks to the public · ★★★★★ · neutral, US
+- **traction (figurative)** — support or progress for an idea (gain traction) · ★★★★★ · neutral
+- **debunk** — show that a widely held belief or claim is false · ★★★★★ · neutral
+- **skew** — distort; make results or a picture biased or inaccurate · ★★★★★ · neutral
+- **resonate (with)** — feel meaningful to someone because it matches their experience · ★★★★★ · neutral
+- **compound (verb: make worse)** — make an existing problem worse by adding to it · ★★★★★ · neutral
+- **pivot (verb)** — change strategy or direction, especially in business · ★★★★★ · neutral
+- **fraught (with)** — full of problems, risks or tension · ★★★★★ · neutral
+- **partisan** — strongly supporting one political party or side · ★★★★★ · neutral, US
+- **polarizing** — causing people to split into opposing groups · ★★★★★ · neutral
+- **volatile** — likely to change suddenly and unpredictably · ★★★★★ · neutral
+- **incremental** — increasing or changing in small steps · ★★★★★ · neutral
+- **systemic** — affecting a whole system, not just parts of it · ★★★★★ · neutral
+- **anecdotal** — based on personal stories rather than systematic data · ★★★★★ · neutral
+- **disparity** — a great difference, often an unfair one · ★★★★★ · formal
+- **proponent** — a person who supports an idea or cause · ★★★★★ · formal
+- **concede** — admit, often reluctantly, that something is true · ★★★★★ · neutral
+- **normalize** — make something, often harmful, seem normal or acceptable · ★★★★★ · neutral
+- **vet** — check someone or something carefully before approving them · ★★★★★ · neutral
+- **scrutinize** — examine something very carefully and critically · ★★★★★ · formal
+- **visceral** — felt deeply and instinctively, not through reasoning · ★★★★★ · neutral
+
+### Set 02
+
+- **existential** — threatening the very existence of something (existential threat) · ★★★★★ · neutral
+- **bipartisan** — involving or supported by both major political parties · ★★★★★ · neutral, US
+- **stark** — severe, plain and very obvious (a stark contrast) · ★★★★★ · neutral
+- **mundane** — ordinary and dull; part of everyday routine · ★★★★★ · neutral
+- **pervasive** — spreading widely through an area or group of people · ★★★★★ · formal
+- **complacent** — too satisfied with yourself to try harder or see danger · ★★★★★ · neutral
+- **tone-deaf (figurative)** — insensitive to how people feel or will react · ★★★★★ · neutral
+- **robust** — strong and able to withstand problems or criticism · ★★★★★ · neutral
+- **wary** — cautious because of possible danger or problems · ★★★★★ · neutral
+- **disproportionately** — to a degree that is too large or small in comparison · ★★★★★ · neutral
+- **undermine** — gradually weaken something such as confidence, trust or authority · ★★★★★ · neutral
+- **amplify** — make a voice, message or effect stronger or more widely heard · ★★★★★ · neutral
+- **spur** — encourage something or make it happen faster · ★★★★★ · neutral
+- **stoke** — make a strong feeling such as fear or anger stronger · ★★★★★ · neutral
+- **tout** — publicly praise or promote something, often too strongly · ★★★★★ · neutral
+- **loom** — appear as a large, threatening event that will happen soon · ★★★★★ · neutral
+- **curb** — control or limit something, especially something harmful · ★★★★★ · neutral
+- **fuel (verb)** — make a feeling, belief or trend stronger or more intense · ★★★★★ · neutral
+- **erode** — gradually weaken or destroy something such as trust or support · ★★★★★ · neutral
+- **plummet** — fall suddenly and very steeply · ★★★★★ · neutral
+- **scramble** — rush to deal with something urgently and in a disorganized way · ★★★★★ · neutral
+- **curtail** — reduce or limit something, especially rights or spending · ★★★★ · formal
+- **preclude** — prevent something from happening; make it impossible · ★★★★ · formal
+- **disparate** — very different and not easily compared or combined · ★★★★ · formal
+- **entrenched** — firmly established and very difficult to change · ★★★★ · neutral
+- **egregious** — outstandingly bad and shocking (an egregious error) · ★★★★ · formal
+- **contentious** — causing or likely to cause disagreement · ★★★★ · neutral
+- **conducive (to)** — making a certain outcome or situation likely · ★★★★ · formal
+- **tenuous** — very weak, slight or doubtful (a tenuous link) · ★★★★ · neutral
+- **galvanize** — shock or excite people into taking action · ★★★★ · neutral
+- **outright** — completely and immediately; openly (reject outright) · ★★★★ · neutral
+- **sweeping** — wide-ranging; affecting many things (sweeping changes) · ★★★★ · neutral
+- **forge** — create a relationship, agreement or identity through effort · ★★★★ · neutral
+- **incumbent** — the current holder of an office · ★★★★ · neutral, US
+- **stellar** — excellent; outstanding (a stellar performance) · ★★★★ · neutral, US
+- **catalyst** — a person or event that causes important change · ★★★★ · neutral
+- **hedge** — avoid giving a clear, direct answer or commitment · ★★★★ · neutral
+- **paramount** — more important than anything else · ★★★★ · formal
+- **salvage** — save something from a situation that is failing · ★★★★ · neutral
+- **derivative** — copied from others' work; unoriginal · ★★★★ · neutral
+- **rift** — a serious break in a relationship · ★★★★ · neutral
+- **prolific** — producing a large amount of work · ★★★★ · neutral
+- **nominal** — very small (a nominal fee); existing in name only · ★★★★ · neutral
+- **overhaul** — examine and completely change or repair a system · ★★★★ · neutral
+- **framing** — the way an issue is presented, which shapes how people see it · ★★★★ · neutral
+- **flux** — continuous change (in flux) · ★★★★ · formal
+- **contend** — claim or argue firmly that something is true · ★★★★ · formal
+- **garner** — gather or win support, attention or praise · ★★★★ · formal
+- **rampant** — spreading in an uncontrolled way · ★★★★ · neutral
+- **watershed** — an event that marks a major turning point · ★★★★ · neutral ↺
+
+### Set 03
+
+- **perennial** — lasting a long time or recurring again and again · ★★★★ · neutral
+- **seasoned** — very experienced in a particular activity or job · ★★★★ · neutral
+- **mandate (verb)** — officially require something by law or rule · ★★★★ · formal
+- **temper (verb: moderate)** — make something such as expectations less extreme · ★★★★ · neutral
+- **harbor (verb)** — keep a feeling, doubt or suspicion in your mind · ★★★★ · neutral
+- **qualify (verb: limit a statement)** — add conditions to a statement to make it less absolute · ★★★★ · neutral
+- **render (verb: cause to be)** — cause something to be in a particular state (rendered useless) · ★★★★ · formal
+- **field (verb: deal with questions)** — deal with questions, calls or complaints as they come · ★★★★ · neutral
+- **shoulder (verb)** — accept a burden, cost or responsibility · ★★★★ · neutral
+- **broker (verb)** — arrange a deal or agreement between other parties · ★★★★ · neutral
+- **champion (verb)** — publicly support and fight for a cause or person · ★★★★ · neutral
+- **court (verb: seek favor)** — try hard to win the support or favor of a group · ★★★★ · neutral
+- **eclipse (verb)** — become more important or successful than someone or something · ★★★★ · neutral
+- **second-guess** — doubt or criticize a decision after it has been made · ★★★★ · neutral
+- **skirt (verb: avoid)** — avoid dealing with a topic or problem directly · ★★★★ · neutral
+- **articulate (verb)** — express an idea or feeling clearly and effectively · ★★★★ · neutral ↺
+- **discount (verb: disregard)** — regard something as unimportant or unlikely · ★★★★ · neutral
+- **novel (adjective)** — new and original, unlike anything before · ★★★★ · neutral
+- **reminiscent (of)** — tending to remind you of something · ★★★★ · neutral
+- **heavy-handed** — clumsy and too forceful · ★★★★ · neutral
+- **self-serving** — acting mainly for your own benefit · ★★★★ · neutral
+- **blanket (adjective)** — covering all cases without exceptions (a blanket ban) · ★★★★ · neutral
+- **contingent (on)** — depending on something else happening · ★★★★ · formal
+- **akin (to)** — similar to; of the same kind · ★★★★ · formal
+- **calculus (figurative)** — the reasoning and weighing of factors behind a decision · ★★★★ · formal
+- **construct (noun)** — an idea or theory created by people (a social construct) · ★★★★ · formal
+- **entitlement (attitude)** — the belief that you deserve special treatment · ★★★★ · neutral
+- **indictment (figurative)** — a sign that something is seriously wrong (an indictment of) · ★★★★ · neutral
+- **effectively (in effect)** — in reality, though not officially (effectively a ban) · ★★★★ · neutral
+- **plague (verb)** — cause continual trouble or suffering (plagued by problems) · ★★★★ · neutral
+- **seismic (figurative)** — enormous in effect or importance (a seismic shift) · ★★★★ · neutral
+- **myriad** — a very great number (myriad reasons) · ★★★★ · formal
+- **hiatus** — a pause or break in activity · ★★★★ · neutral
+- **notwithstanding** — despite; in spite of (preposition or adverb) · ★★★★ · formal
+- **heed** — pay attention to advice or a warning · ★★★★ · formal
+- **invariably** — always, in every case; without exception · ★★★★ · neutral
+- **stringent** — strict and precise (rules, standards) · ★★★★ · formal
+- **grit** — courage and determination to keep going · ★★★★ · neutral
+- **muster** — gather courage, support or energy with effort · ★★★★ · neutral
+- **misguided** — based on wrong ideas or poor judgment · ★★★★ · neutral
+- **substantive** — dealing with real, important matters; meaningful · ★★★★ · formal
+- **prudent** — sensible and careful about the future · ★★★★ · neutral
+- **austerity** — severe government spending cuts · ★★★★ · neutral
+- **predatory** — exploiting weaker people for gain · ★★★★ · neutral
+- **punitive** — intended as punishment, often harsh (punitive measures) · ★★★★ · formal
+- **glacial (figurative)** — extremely slow (glacial pace) · ★★★★ · neutral
+- **semantics** — the meaning of words; arguing about word choice · ★★★★ · neutral
+- **eclectic** — drawn from a wide and varied range of sources · ★★★★ · neutral
+- **opaque** — not transparent; hard to understand or see into · ★★★★ · neutral
+- **endemic** — regularly found in a particular place or group · ★★★★ · formal
+
+### Set 04
+
+- **hallmark** — a typical, distinctive feature of something · ★★★★ · neutral
+- **decidedly** — clearly and definitely (decidedly mixed) · ★★★★ · neutral
+- **notoriously** — in a way that is famous for being bad (notoriously difficult) · ★★★★ · neutral
+- **equitable** — fair and impartial to everyone involved · ★★★★ · formal
+- **deem** — consider or judge something in a particular way · ★★★★ · formal
+- **ludicrous** — so unreasonable that it is ridiculous · ★★★★ · neutral
+- **lofty** — very ambitious or idealistic (lofty goals) · ★★★★ · neutral
+- **invoke** — cite a law, principle or authority to support an argument · ★★★★ · formal
+- **holistic** — treating something as a whole rather than as separate parts · ★★★★ · neutral
+- **adept** — very skilled at something · ★★★★ · neutral
+- **pristine** — in perfect, original condition; very clean · ★★★★ · neutral
+- **disdain** — the feeling that something is not worthy of respect · ★★★★ · neutral
+- **sideline** — remove someone from a central or influential role · ★★★★ · neutral
+- **relish** — greatly enjoy or look forward to something · ★★★★ · neutral
+- **ethos** — the characteristic spirit and values of a group · ★★★★ · formal
+- **overt** — done openly, not secretly · ★★★★ · neutral
+- **smug** — irritatingly pleased with yourself · ★★★★ · neutral
+- **resurgence** — a revival of an activity or trend · ★★★★ · neutral
+- **sporadic** — happening irregularly or only occasionally · ★★★★ · neutral
+- **recourse** — a way of getting help or compensation when in trouble · ★★★★ · formal
+- **markedly** — clearly and noticeably (markedly different) · ★★★★ · formal
+- **adamant** — refusing to change your mind · ★★★★ · neutral
+- **bedrock** — the basic principles or foundation of something · ★★★★ · neutral
+- **solace** — comfort in sadness or distress · ★★★★ · neutral
+- **precarious** — unstable and likely to fail or fall · ★★★★ · neutral
+- **poignant** — causing a strong feeling of sadness or regret · ★★★★ · neutral
+- **impetus** — a force that makes something happen or happen faster · ★★★★ · formal
+- **hamper** — make progress or movement more difficult · ★★★★ · neutral
+- **protracted** — lasting much longer than expected or usual · ★★★★ · formal
+- **angst** — deep anxiety and worry · ★★★★ · neutral
+- **fathom** — understand something difficult (often: I can't fathom why) · ★★★★ · neutral
+- **lament** — express sadness or regret about something · ★★★★ · neutral
+- **shun** — deliberately avoid someone or something · ★★★★ · neutral
+- **waive** — give up a right, or choose not to enforce a rule or fee · ★★★★ · formal
+- **insidious** — harmful in a gradual, hidden way · ★★★★ · neutral
+- **estranged** — no longer in contact with a family member or partner · ★★★★ · neutral
+- **moot** — no longer relevant or worth discussing · ★★★★ · neutral, US
+- **clout** — power and influence over other people or decisions · ★★★★ · neutral
+- **unfounded** — not based on facts or evidence · ★★★★ · neutral
+- **frivolous** — not serious; lacking real value or purpose · ★★★★ · neutral
+- **abrasive** — rude and harsh in manner · ★★★★ · neutral
+- **fruition** — the realization of a plan or project (come to fruition) · ★★★★ · formal
+- **ploy** — a clever plan to gain an advantage · ★★★★ · neutral
+- **wield** — have and use power, authority or influence · ★★★★ · neutral
+- **debacle** — a sudden and humiliating failure · ★★★★ · neutral
+- **revamp** — change and improve the form or structure of something · ★★★★ · neutral
+- **appease** — give in to demands in order to calm or satisfy someone · ★★★★ · neutral
+- **staunch** — very loyal and committed (a staunch ally) · ★★★★ · neutral
+- **demeanor** — outward behavior and manner · ★★★★ · neutral
+- **perpetuate** — make something, usually bad, continue for a long time · ★★★★ · neutral
+
+### Set 05
+
+- **unravel** — begin to fail or fall apart · ★★★★ · neutral
+- **palpable** — so intense it can almost be physically felt · ★★★★ · neutral
+- **complicit** — involved with others in wrongdoing · ★★★★ · neutral
+- **debilitating** — making someone or something very weak · ★★★★ · neutral
+- **perverse** — contrary to what is reasonable or intended (perverse incentives) · ★★★★ · neutral
+- **dystopian** — describing an imagined society that is very bad or oppressive · ★★★★ · neutral
+- **streamline** — make a process simpler and more efficient · ★★★★ · neutral
+- **arduous** — requiring a lot of effort; hard and tiring · ★★★★ · neutral
+- **respite** — a short break from something difficult · ★★★★ · neutral
+- **impunity** — freedom from punishment (act with impunity) · ★★★★ · formal
+- **hone** — refine and improve a skill over time · ★★★★ · neutral
+- **condone** — accept or allow behavior that is morally wrong · ★★★★ · formal
+- **deflect** — turn criticism, attention or a question away from yourself · ★★★★ · neutral
+- **rudimentary** — very basic and not fully developed (rudimentary knowledge) · ★★★★ · neutral
+- **cavalier** — showing careless disregard for something important · ★★★★ · neutral
+- **esoteric** — understood by only a small group with special knowledge · ★★★★ · neutral
+- **animosity** — strong hostility or dislike between people · ★★★★ · neutral
+- **rapport** — a close, understanding relationship · ★★★★ · neutral
+- **vehemently** — in a forceful, passionate way (vehemently oppose) · ★★★★ · neutral
+- **cumbersome** — large or complicated and therefore slow or inefficient · ★★★★ · neutral
+- **propensity** — a natural tendency to behave in a certain way · ★★★★ · formal
+- **attrition** — gradual loss of staff or strength over time · ★★★★ · formal
+- **squarely** — directly and clearly (blame squarely on) · ★★★★ · neutral
+- **circumvent** — find a way around a rule, law or obstacle · ★★★★ · formal
+- **rife (with)** — full of something bad · ★★★★ · neutral
+- **grievance** — a complaint about unfair treatment · ★★★★ · neutral
+- **hyperbolic** — deliberately exaggerated and not meant literally · ★★★★ · neutral
+- **impede** — slow down or block progress · ★★★★ · formal
+- **inept** — lacking skill; clumsy and incompetent · ★★★★ · neutral
+- **upheaval** — a sudden, violent or major change · ★★★★ · neutral
+- **acutely** — very strongly and sharply (acutely aware) · ★★★★ · neutral
+- **incite** — encourage people to violence or unlawful behavior · ★★★★ · neutral
+- **burgeoning** — growing or developing quickly · ★★★★ · formal
+- **aptly** — appropriately; fittingly (aptly named) · ★★★★ · neutral
+- **unwarranted** — not justified or necessary · ★★★★ · neutral
+- **disgruntled** — angry and dissatisfied, especially with how you are treated · ★★★★ · neutral
+- **shrewd** — clever at judging situations to your advantage · ★★★★ · neutral ↺
+- **jeopardize** — put something at risk of being lost or harmed · ★★★★ · neutral
+- **elicit** — draw out a response, reaction or information from someone · ★★★★ · formal
+- **undercut** — weaken or undermine an argument, position or effort · ★★★★ · neutral
+- **dispel** — make a doubt, fear or myth disappear · ★★★★ · neutral
+- **astute** — clever at understanding situations and people · ★★★★ · neutral
+- **brazen** — bold and shameless, without any embarrassment · ★★★★ · neutral
+- **fledgling** — new and still inexperienced or developing (a fledgling company) · ★★★★ · neutral
+- **rebuttal** — a statement that argues against a claim · ★★★★ · formal
+- **flimsy (figurative)** — weak and unconvincing (flimsy evidence, a flimsy excuse) · ★★★★ · neutral
+- **dichotomy** — a division into two opposite or contrasting things · ★★★★ · formal
+- **heyday** — the period of greatest success or popularity · ★★★★ · neutral
+- **baseless** — completely without facts or evidence (baseless claims) · ★★★★ · neutral
+- **derail** — disrupt a process or plan so that it cannot continue · ★★★★ · neutral
+
+### Set 06
+
+- **ingrained** — firmly established and hard to change (habits, beliefs) · ★★★★ · neutral
+- **prerogative** — a right or privilege belonging to someone · ★★★★ · formal
+- **harrowing** — extremely distressing and frightening to experience · ★★★★ · neutral
+- **penchant** — a strong liking or tendency · ★★★★ · neutral
+- **verbatim** — word for word; exactly as said or written · ★★★★ · neutral
+- **thwart** — prevent someone from accomplishing what they planned · ★★★★ · neutral
+- **solicit** — ask for something such as feedback, money or opinions · ★★★★ · formal
+- **succumb** — fail to resist pressure, temptation or illness · ★★★★ · neutral
+- **innocuous** — harmless and not likely to offend · ★★★★ · neutral
+- **palatable** — acceptable; easy to agree to · ★★★★ · neutral
+- **antiquated** — old-fashioned and no longer suitable for modern needs · ★★★★ · neutral
+- **pundit** — an expert who gives opinions in the media · ★★★★ · neutral
+- **expedite** — make a process happen more quickly · ★★★★ · formal
+- **convoluted** — extremely complicated and hard to follow · ★★★★ · neutral
+- **crux** — the most important point of a problem or argument · ★★★★ · neutral
+- **foray** — a brief attempt at a new activity · ★★★★ · neutral
+- **quintessential** — being the most perfect, typical example of something · ★★★★ · neutral
+- **apprehensive** — anxious that something bad will happen · ★★★★ · neutral
+- **incessant** — continuing without stopping, usually annoyingly · ★★★★ · neutral
+- **jarring** — shocking, unpleasant or out of place · ★★★★ · neutral
+- **juncture** — a particular, often important, point in time · ★★★★ · formal
+- **categorically** — absolutely and without any doubt (categorically deny) · ★★★★ · formal
+- **agnostic (about)** — not committed to any particular option or view · ★★★★ · neutral
+- **sparingly** — in small quantities; economically · ★★★★ · neutral
+- **silo (figurative)** — a team or department that works in isolation from others · ★★★★ · neutral
+- **untenable** — impossible to defend or maintain · ★★★★ · formal
+- **exorbitant** — unreasonably high (price, cost) · ★★★★ · neutral
+- **granular** — very detailed (granular data) · ★★★★ · neutral
+- **inexplicably** — in a way that cannot be explained · ★★★★ · neutral
+- **instill** — gradually establish an attitude or value in someone's mind · ★★★★ · neutral
+- **stifle** — prevent something from developing or being expressed · ★★★★ · neutral
+- **conundrum** — a confusing and difficult problem · ★★★★ · neutral
+- **tenet** — a central principle or belief · ★★★★ · formal
+- **forgo** — choose to go without something you would like · ★★★★ · formal
+- **unscathed** — without injury or damage · ★★★★ · neutral
+- **lackluster** — dull; lacking energy or excellence · ★★★★ · neutral
+- **onus** — the responsibility or burden of doing something · ★★★★ · formal
+- **camaraderie** — friendship and trust among people who spend time together · ★★★★ · neutral
+- **purportedly** — as claimed, though not proven · ★★★★ · formal
+- **parse** — examine words or statements closely to understand their meaning · ★★★★ · neutral
+- **leeway** — freedom to act or decide as you wish · ★★★★ · neutral
+- **aberration** — a departure from what is normal, usually unwelcome · ★★★★ · formal
+- **profusely** — in large amounts (apologize profusely) · ★★★★ · neutral
+- **unduly** — excessively; more than is justified · ★★★★ · formal
+- **scathing** — extremely and harshly critical (a scathing review) · ★★★★ · neutral
+- **jaded** — tired and cynical after too much experience · ★★★★ · neutral
+- **grandiose** — impressive-sounding but too ambitious or pretentious · ★★★★ · neutral
+- **impasse** — a situation in which no progress is possible · ★★★★ · neutral
+- **prohibitive** — so high that it prevents people from buying or doing · ★★★★ · neutral
+- **oust** — force someone out of a position of power · ★★★★ · neutral
+
+### Set 07
+
+- **idiosyncratic** — peculiar to one person; individual and unusual · ★★★★ · formal
+- **tacit** — understood without being stated directly · ★★★★ · formal
+- **gratuitous** — unnecessary and unjustified (gratuitous violence) · ★★★★ · neutral
+- **untapped** — not yet used or exploited (untapped potential) · ★★★★ · neutral
+- **hubris** — excessive pride or self-confidence · ★★★★ · formal
+- **windfall** — an unexpected gain, especially of money · ★★★★ · neutral
+- **conceivably** — possibly; it is possible to imagine that · ★★★★ · neutral
+- **retroactively** — applying from a date in the past · ★★★★ · neutral
+- **paradoxically** — in a way that seems contradictory but may be true · ★★★★ · neutral
+- **grueling** — extremely tiring and demanding · ★★★★ · neutral
+- **nepotism** — favoring relatives or friends, especially with jobs · ★★★★ · neutral
+- **thorny** — difficult, complicated and likely to cause disagreement · ★★★★ · neutral
+- **cursory** — quick and superficial (a cursory glance) · ★★★★ · neutral ↺
+- **euphemism** — a mild word used in place of an unpleasant one · ★★★★ · neutral
+- **qualms** — uneasy feelings of doubt or conscience (no qualms about) · ★★★★ · neutral ↺
+- **woefully** — very badly; deplorably (woefully inadequate) · ★★★★ · neutral
+- **unequivocal** — completely clear and leaving no doubt · ★★★★ · formal
+- **acumen** — the ability to make good judgments quickly (business acumen) · ★★★★ · formal
+- **flatly** — completely and firmly (flatly refuse) · ★★★★ · neutral
+- **misgivings** — feelings of doubt or worry about a plan · ★★★★ · neutral ↺
+- **posturing** — behavior meant to impress or mislead · ★★★★ · neutral
+- **inkling** — a slight suspicion or idea · ★★★★ · neutral
+- **innuendo** — an indirect remark, often suggestive or critical · ★★★★ · neutral
+- **amenable (to)** — willing to accept or be persuaded · ★★★★ · neutral
+- **defuse** — make a tense or dangerous situation calmer · ★★★★ · neutral
+- **intractable** — very hard to solve, manage or control · ★★★★ · formal
+- **draconian** — excessively harsh and severe (laws, measures) · ★★★★ · formal
+- **litany** — a long, tedious list (a litany of complaints) · ★★★★ · neutral
+- **patently** — clearly; obviously (patently false) · ★★★★ · formal
+- **gravitate (toward)** — be naturally drawn toward someone or something · ★★★★ · neutral
+- **belittle** — make someone or something seem unimportant · ★★★★ · neutral
+- **coerce** — force someone to do something by using threats · ★★★★ · formal
+- **indignant** — angry about something that seems unfair · ★★★★ · neutral
+- **wry** — dryly humorous, often with irony · ★★★★ · neutral
+- **purview** — the range of someone's authority or responsibility · ★★★★ · formal
+- **tarnish** — damage someone's reputation or image · ★★★★ · neutral
+- **adversarial** — involving opposition or conflict between sides · ★★★★ · neutral
+- **painstakingly** — with great care and thoroughness · ★★★★ · neutral
+- **substantiate** — provide evidence that proves a claim is true · ★★★★ · formal
+- **spearhead** — lead a campaign, project or movement · ★★★★ · neutral
+- **wane** — gradually become weaker or less important · ★★★★ · neutral
+- **commensurate (with)** — in proportion to; matching in size or degree · ★★★★ · formal
+- **swath** — a large area or part (large swaths of the population) · ★★★★ · neutral, US
+- **falter** — lose strength or momentum; begin to fail · ★★★★ · neutral
+- **irreverent** — showing a lack of respect, often in a humorous way · ★★★★ · neutral
+- **unwieldy** — hard to manage because of size or complexity · ★★★★ · neutral
+- **gridlock** — a situation where no progress is possible, especially in politics · ★★★★ · neutral, US
+- **patronizing** — treating someone as if they were less intelligent · ★★★★ · neutral
+- **panacea** — a solution claimed to solve all problems · ★★★★ · formal
+- **demonstrably** — in a way that can be clearly proven (demonstrably false) · ★★★★ · formal
+
+### Set 08
+
+- **haphazard** — lacking order or planning · ★★★★ · neutral
+- **self-deprecating** — modest about or critical of yourself, often humorously · ★★★★ · neutral
+- **zeitgeist** — the spirit or mood of a particular period · ★★★★ · formal
+- **peddle** — promote ideas or claims persistently, often false ones · ★★★★ · neutral
+- **incisive** — clear, sharp and direct (analysis, mind) · ★★★★ · neutral
+- **reductive** — oversimplifying a complex issue · ★★★★ · formal
+- **squander** — waste money, time or an opportunity foolishly · ★★★★ · neutral
+- **glean** — collect information gradually, often with some effort · ★★★★ · neutral
+- **tangential** — only slightly related to the main topic · ★★★★ · neutral
+- **misnomer** — a name or term that is misleading or wrong · ★★★★ · neutral
+- **pointedly** — in a deliberate, clearly meaningful way (pointedly ignored) · ★★★★ · neutral
+- **vicariously** — through someone else's experiences rather than your own · ★★★★ · neutral
+- **overshadow** — make someone or something seem less important · ★★★★ · neutral
+- **workaround** — a way of avoiding a problem without actually solving it · ★★★★ · neutral
+- **allude (to)** — mention or refer to something indirectly, without naming it · ★★★★ · neutral
+- **proliferate** — increase rapidly in number or spread quickly · ★★★★ · formal
+- **underpin** — support or form the basis of an idea or system · ★★★★ · neutral
+- **terse** — brief and somewhat unfriendly · ★★★★ · neutral
+- **orchestrate** — organize something carefully, often secretly · ★★★★ · neutral
+- **prescient** — knowing or predicting events before they happen · ★★★★ · formal
+- **pedantic** — too concerned with small details or formal rules · ★★★★ · neutral
+- **gaffe** — an embarrassing social or public mistake · ★★★★ · neutral
+- **subpar** — below the usual or expected standard · ★★★★ · neutral, US
+- **minutiae** — the small, precise or trivial details of something · ★★★★ · formal
+- **contrarian** — deliberately opposing popular opinion · ★★★★ · neutral
+- **performative** — done for show, to appear virtuous or engaged · ★★★★ · neutral
+- **Orwellian** — resembling a society where the state controls truth and people · ★★★★ · neutral
+- **broach** — raise a difficult or sensitive subject for discussion · ★★★★ · neutral
+- **dwindle** — gradually become smaller in size or amount · ★★★★ · neutral
+- **unapologetically** — without apologizing or showing regret · ★★★★ · neutral
+- **misstep** — a mistake or wrong action · ★★★★ · neutral
+- **insinuate** — suggest something unpleasant in an indirect way · ★★★★ · neutral
+- **antagonize** — make someone hostile or angry · ★★★★ · neutral
+- **wherewithal** — the money or means needed for something · ★★★★ · neutral
+- **roundly** — thoroughly and by many people (roundly criticized) · ★★★★ · neutral
+- **gravitas** — dignity and seriousness that earns respect · ★★★★ · formal
+- **embellish** — add untrue or exaggerated details to make a story better · ★★★★ · neutral
+- **vindicate** — show that someone was right after doubt or criticism · ★★★★ · neutral
+- **encapsulate** — express the essential features of something briefly · ★★★★ · neutral
+- **demagogue** — a leader who exploits prejudice and emotion for power · ★★★★ · neutral
+- **distill** — extract the essential meaning from a large amount of information · ★★★★ · neutral
+- **reframe** — present an issue in a different way to change how it is seen · ★★★★ · neutral
+- **preempt** — act in advance to prevent something from happening · ★★★★ · neutral
+- **shelve** — postpone or abandon a plan or project · ★★★★ · neutral
+- **marginalize** — treat a person or group as unimportant and powerless · ★★★★ · neutral
+- **begrudgingly** — unwillingly, while resenting it · ★★★★ · neutral
+- **recalibrate** — adjust plans, thinking or expectations to new conditions · ★★★★ · neutral
+- **linchpin** — the most important part, holding everything together · ★★★★ · neutral
+- **groupthink** — poor decisions caused by a group's desire for agreement · ★★★★ · neutral
+- **embolden** — give someone the confidence to act more boldly · ★★★★ · neutral
+
+### Set 09
+
+- **headwind** — a force or situation that slows progress · ★★★★ · neutral
+- **upend** — completely change or disrupt something · ★★★★ · neutral
+- **earmark** — set money or resources aside for a specific purpose · ★★★★ · neutral
+- **enshrine** — protect a right or principle formally, for example in law · ★★★★ · formal
+- **platitude** — a meaningless, overused statement · ★★★★ · neutral
+- **weaponize** — use something, such as information, as a weapon against others · ★★★★ · neutral
+- **inundate** — overwhelm with a very large amount of something · ★★★★ · neutral
+- **backpedal** — withdraw from a previous statement or position · ★★★★ · neutral
+- **naysayer** — a person who always expects failure or opposes ideas · ★★★★ · neutral
+- **cogent** — clear, logical and convincing · ★★★ · formal ↺
+- **myopic** — not thinking about the long-term consequences · ★★★ · neutral
+- **perfunctory** — done quickly as a duty, without real care or interest · ★★★ · formal
+- **nexus** — a connection or central point linking things · ★★★ · formal
+- **saddle (with)** — give someone an unpleasant burden or responsibility (saddled with debt) · ★★★ · neutral
+- **expressly** — explicitly and for a specific purpose (expressly forbidden) · ★★★ · formal
+- **privy (to)** — sharing in secret or private knowledge · ★★★ · formal
+- **plight** — a dangerous, difficult or unfortunate situation · ★★★ · neutral ↺
+- **byzantine** — excessively complicated (rules, bureaucracy) · ★★★ · neutral
+- **conjecture** — an opinion formed without complete evidence · ★★★ · formal
+- **exceedingly** — extremely; to a very great degree (exceedingly rare) · ★★★ · formal
+- **maverick** — an independent-minded person who does not follow the group · ★★★ · neutral
+- **quaint** — attractive in an unusual, old-fashioned way · ★★★ · neutral ↺
+- **pretext** — a false reason used to hide the real one · ★★★ · neutral
+- **bane** — a cause of great trouble (the bane of my existence) · ★★★ · neutral
+- **vernacular** — the everyday language of ordinary people · ★★★ · neutral
+- **clandestine** — secret and often illegal · ★★★ · formal
+- **scourge** — a cause of great suffering · ★★★ · formal
+- **functionally** — in practice; in terms of how it works (functionally illiterate) · ★★★ · neutral
+- **ruse** — a trick intended to deceive · ★★★ · neutral
+- **provenance** — the place of origin or history of something · ★★★ · formal
+- **hitherto** — until now, or until the time being discussed · ★★★ · formal
+- **sedentary** — involving a lot of sitting and little exercise · ★★★ · neutral
+- **veneer** — a thin, deceptive outer appearance · ★★★ · neutral
+- **hegemony** — dominance of one group or country over others · ★★★ · formal
+- **relinquish** — give up power, control or a right · ★★★ · formal
+- **confluence** — a coming together of events or factors · ★★★ · formal
+- **gambit** — a calculated move to gain an advantage · ★★★ · neutral
+- **nominally** — in name only, not in reality · ★★★ · formal
+- **nascent** — just beginning to develop · ★★★ · formal
+- **henceforth** — from now on; starting from this time · ★★★ · formal
+- **beset** — trouble someone or something continuously (beset by problems) · ★★★ · formal
+- **steeped (in)** — full of a particular quality or history (steeped in tradition) · ★★★ · neutral
+- **unwittingly** — without being aware of what you are doing · ★★★ · neutral
+- **willfully** — deliberately and intentionally (willfully ignorant) · ★★★ · neutral
+- **excruciating** — extremely painful or unpleasant (in excruciating detail) · ★★★ · neutral
+- **dilapidated** — old and in very bad condition · ★★★ · neutral
+- **insular** — narrow-minded and uninterested in outside ideas · ★★★ · neutral
+- **axiom** — a statement accepted as true without proof · ★★★ · formal
+- **duress** — threats or force used to make someone act (under duress) · ★★★ · formal ↺
+- **vis-à-vis** — in relation to; compared with · ★★★ · formal
+
+### Set 10
+
+- **quell** — stop unrest or reduce fears · ★★★ · neutral
+- **nefarious** — wicked, criminal or dishonest (nefarious purposes) · ★★★ · neutral
+- **superfluous** — unnecessary; more than needed · ★★★ · formal
+- **stonewall** — delay or block by refusing to answer or cooperate · ★★★ · neutral, US
+- **ephemeral** — lasting a very short time · ★★★ · formal
+- **juggernaut** — a huge, powerful force that seems unstoppable · ★★★ · neutral
+- **behemoth** — a huge company or organization · ★★★ · neutral
+- **embroiled (in)** — deeply involved in a conflict or difficult situation · ★★★ · neutral
+- **spurious** — false; not genuine or logically valid · ★★★ · formal
+- **divulge** — reveal private or secret information · ★★★ · neutral
+- **tantamount (to)** — equivalent in seriousness to · ★★★ · formal
+- **milieu** — a person's social environment · ★★★ · formal
+- **echelon** — a level or rank in an organization (upper echelons) · ★★★ · neutral
+- **onerous** — burdensome; involving heavy obligations · ★★★ · formal
+- **dearth** — a scarcity or lack of something · ★★★ · formal
+- **harbinger** — a sign of something to come · ★★★ · formal
+- **grandstand** — act or speak mainly to impress an audience · ★★★ · neutral, US
+- **unfettered** — free from restrictions (unfettered access) · ★★★ · formal
+- **conspicuously** — very noticeably (conspicuously absent) · ★★★ · neutral
+- **eerily** — in a strange and unsettling way (eerily similar) · ★★★ · neutral
+- **rescind** — officially cancel a law, decision or offer · ★★★ · formal
+- **vitriol** — cruel and bitter criticism · ★★★ · neutral
+- **tirade** — a long, angry speech of criticism · ★★★ · neutral
+- **posthumously** — after a person's death · ★★★ · formal
+- **pernicious** — having a harmful effect, especially gradually or subtly · ★★★ · formal
+- **chagrin** — annoyance or embarrassment at failure (to my chagrin) · ★★★ · formal
+- **deftly** — skillfully, quickly and smoothly (deftly handled the question) · ★★★ · neutral
+- **malaise** — a general feeling of unease or decline · ★★★ · formal
+- **handily** — easily; by a large margin (won handily) · ★★★ · neutral, US
+- **deceptively** — in a way that gives a false impression (deceptively simple) · ★★★ · neutral
+- **inextricably** — in a way that cannot be separated (inextricably linked) · ★★★ · formal
+- **summarily** — immediately and without proper procedure (summarily dismissed) · ★★★ · formal
+- **cognizant (of)** — aware of something, especially a fact or risk · ★★★ · formal
+- **beholden (to)** — owing something to someone; under obligation · ★★★ · formal
+- **figurehead** — a leader in name only, with no real power · ★★★ · neutral
+- **mired (in)** — stuck in a difficult or unpleasant situation · ★★★ · neutral
+- **trite** — overused and therefore unoriginal and dull · ★★★ · neutral
+- **parlance** — a particular way of speaking (in legal parlance) · ★★★ · formal
+- **placate** — make someone less angry by doing something for them · ★★★ · neutral
+- **fester** — become worse because it is not dealt with · ★★★ · neutral
+- **pariah** — an outcast; someone rejected by society · ★★★ · neutral
+- **impropriety** — improper or unethical behavior · ★★★ · formal
+- **quagmire** — a difficult situation that is hard to escape · ★★★ · neutral
+- **sanguine** — optimistic, especially in a bad situation · ★★★ · formal ↺
+- **corollary** — a natural consequence or result of something · ★★★ · formal
+- **beleaguered** — in serious difficulty; under heavy pressure · ★★★ · neutral
+- **trepidation** — fear or worry about what may happen · ★★★ · formal
+- **tepid** — lacking enthusiasm (a tepid response) · ★★★ · neutral
+- **modicum** — a small amount (a modicum of) · ★★★ · formal
+- **elucidate** — make something clear; explain · ★★★ · formal
+
+## 08 Nuance & confusables (150)
+
+### Commonly confused words
+
+- **imply vs. infer** — the speaker implies (suggests); the listener infers (concludes) · ★★★★★ · neutral
+- **effective vs. efficient** — effective = gets the result; efficient = gets it without wasting resources · ★★★★★ · neutral
+- **i.e. vs. e.g.** — i.e. = that is (restates); e.g. = for example (gives examples) · ★★★★★ · neutral
+- **fewer vs. less** — fewer with count nouns (fewer people); less with mass nouns (less time) · ★★★★★ · neutral
+- **ensure vs. insure vs. assure** — ensure = make certain; insure = cover financially; assure = reassure a person · ★★★★★ · neutral
+- **complement vs. compliment** — complement = complete or go well with; compliment = praise · ★★★★★ · neutral
+- **systematic vs. systemic** — systematic = methodical, by a plan; systemic = built into the whole system · ★★★★★ · neutral
+- **peak vs. peek vs. pique** — peak = top; peek = quick look; pique = arouse (pique your interest) · ★★★★★ · neutral
+- **affect vs. effect (as verbs)** — affect = influence something; effect = bring about (effect change) · ★★★★ · formal
+- **comprise vs. compose** — the whole comprises the parts; the parts compose the whole · ★★★★ · formal
+- **principal vs. principle** — principal = main, or a school head; principle = rule or belief · ★★★★ · neutral
+- **discreet vs. discrete** — discreet = tactful, not drawing attention; discrete = separate, distinct · ★★★★ · neutral
+- **continual vs. continuous** — continual = repeated with breaks; continuous = without any interruption · ★★★★ · neutral
+- **economic vs. economical** — economic = about the economy; economical = saving money, not wasteful · ★★★★ · neutral
+- **historic vs. historical** — historic = important in history; historical = relating to the past · ★★★★ · neutral
+- **alternate vs. alternative** — alternate = every other, or (US) a substitute; alternative = another option · ★★★★ · neutral
+- **accurate vs. precise** — accurate = close to the true value; precise = exact and consistently repeatable · ★★★★ · neutral
+- **percent vs. percentage point** — from 10% to 12% is a 2-point rise, but a 20-percent rise · ★★★★ · neutral
+- **random vs. arbitrary** — random = by chance, no pattern; arbitrary = chosen by whim, without good reason · ★★★★ · neutral
+- **ambiguous vs. ambivalent** — ambiguous = open to several meanings; ambivalent = having mixed feelings · ★★★★ · neutral
+- **adverse vs. averse** — adverse = harmful (adverse effects); averse = opposed to (risk-averse) · ★★★★ · formal
+- **flaunt vs. flout** — flaunt = show off proudly; flout = openly break a rule · ★★★★ · neutral
+- **eminent vs. imminent** — eminent = respected, distinguished; imminent = about to happen · ★★★★ · neutral
+- **elicit vs. illicit** — elicit = draw out a response; illicit = illegal or forbidden · ★★★★ · formal
+- **lay vs. lie** — lay = put something down (takes an object); lie = recline (past: lay) · ★★★★ · neutral
+- **farther vs. further** — farther = physical distance; further = additional, or to a greater degree · ★★★★ · neutral
+- **definite vs. definitive** — definite = clear, certain; definitive = final, authoritative, the standard version · ★★★★ · neutral
+- **precede vs. proceed** — precede = come before; proceed = go ahead, continue · ★★★★ · neutral
+- **evoke vs. invoke** — evoke = bring a feeling or memory to mind; invoke = cite or call upon · ★★★★ · formal
+- **disparate vs. desperate** — disparate = very different, hard to compare; desperate = hopeless or in urgent need · ★★★★ · neutral
+- **precedent vs. precedence** — precedent = earlier example (set a precedent); precedence = priority (take precedence) · ★★★★ · formal
+- **respectfully vs. respectively** — respectfully = with respect; respectively = in the order just mentioned · ★★★★ · neutral
+- **exacerbate vs. exasperate** — exacerbate = make a problem worse; exasperate = annoy someone intensely · ★★★★ · neutral
+- **defuse vs. diffuse** — defuse = calm a tense situation; diffuse = spread out, or vague · ★★★★ · neutral
+- **faze vs. phase** — faze = unsettle (it didn't faze her); phase = stage of a process · ★★★★ · neutral
+- **rein vs. reign** — rein = control (rein in, free rein); reign = rule as a monarch · ★★★★ · neutral
+- **tenet vs. tenant** — tenet = core principle or belief; tenant = person who rents a property · ★★★★ · neutral
+- **emigrate vs. immigrate** — emigrate = leave your country; immigrate = move into a new country · ★★★★ · neutral
+- **ingenious / ingenuous / disingenuous** — ingenious = clever; ingenuous = naive, innocent; disingenuous = insincere, pretending · ★★★★ · neutral
+- **intense vs. intensive** — intense = extreme in feeling or force; intensive = concentrated, thorough (intensive care) · ★★★★ · neutral
+- **allusion / illusion / delusion** — allusion = indirect reference; illusion = false perception; delusion = firmly held false belief · ★★★★ · neutral
+- **allude vs. elude** — allude = refer to indirectly; elude = escape, or fail to be grasped · ★★★★ · neutral
+- **perspective vs. prospective** — perspective = point of view; prospective = expected or potential (prospective students) · ★★★★ · neutral
+- **moral vs. morale** — moral = about right and wrong, or a lesson; morale = team spirit, confidence · ★★★★ · neutral
+- **adapt / adopt / adept** — adapt = adjust; adopt = take on as your own; adept = skilled · ★★★★ · neutral
+- **deprecate vs. depreciate** — deprecate = disapprove of, or phase out (software); depreciate = lose value · ★★★★ · neutral
+- **incidence vs. incident** — incidence = rate of occurrence (incidence of cancer); incident = a single event · ★★★★ · neutral
+- **all together vs. altogether** — all together = everyone at once; altogether = completely, or in total · ★★★★ · neutral
+- **classic vs. classical** — classic = typical or of lasting quality; classical = ancient Greek/Roman, or classical music · ★★★★ · neutral
+- **oppress / repress / suppress** — oppress = rule cruelly; repress = hold down feelings or people; suppress = stop, hide · ★★★★ · neutral
+
+### Near-synonyms with different connotations
+
+- **stubborn / tenacious / obstinate** — tenacious = admirably persistent; stubborn = refuses to change; obstinate = stubborn, more negative · ★★★★★ · neutral
+- **frugal / thrifty / stingy / cheap** — frugal, thrifty = careful with money (positive); stingy, cheap = unwilling to spend (negative) · ★★★★★ · neutral
+- **famous / renowned / notorious / infamous** — renowned = famous and admired; notorious, infamous = famous for something bad · ★★★★★ · neutral
+- **childish / childlike** — childish = immature (criticism); childlike = innocent, full of wonder (positive) · ★★★★★ · neutral
+- **assertive / aggressive / pushy** — assertive = confident, firm (positive); aggressive = hostile; pushy = annoyingly insistent · ★★★★★ · neutral
+- **confident / arrogant / cocky** — confident = sure of yourself; arrogant = feels superior; cocky = brashly overconfident · ★★★★★ · neutral
+- **empathy / sympathy / compassion** — empathy = feeling with someone; sympathy = feeling sorry for; compassion = wanting to help · ★★★★★ · neutral
+- **simple / simplistic** — simple = easy, clear (positive); simplistic = oversimplified, ignoring complexity (criticism) · ★★★★★ · neutral
+- **candid / frank / blunt** — candid, frank = honest and open; blunt = honest but tactless · ★★★★★ · neutral
+- **embarrassed / ashamed / humiliated** — embarrassed = awkward; ashamed = guilty about wrongdoing; humiliated = publicly degraded · ★★★★★ · neutral
+- **argue / claim / allege** — argue = give reasons; claim = assert, hinting doubt; allege = accuse without proof · ★★★★★ · neutral
+- **fire / lay off / let go** — fire = dismiss for fault; lay off = cut jobs; let go = polite euphemism · ★★★★★ · neutral
+- **error / mistake / blunder** — mistake = general; error = formal or technical; blunder = big, careless, embarrassing mistake · ★★★★ · neutral
+- **persuade / convince** — convince = make someone believe something; persuade = get someone to act · ★★★★ · neutral
+- **jealous / envious** — envious = wanting what others have; jealous = also fearing to lose what's yours · ★★★★ · neutral
+- **assume / presume** — assume = suppose without proof; presume = suppose from some evidence, or overstep · ★★★★ · neutral
+- **inquisitive / curious / nosy** — curious, inquisitive = eager to learn (positive); nosy = prying into others' business · ★★★★ · neutral
+- **skinny / slim / slender** — slim, slender = attractively thin; skinny = very thin, often negative · ★★★★ · neutral
+- **problem / issue / challenge** — issue and challenge soften problem; challenge also suggests it can be overcome · ★★★★ · neutral
+- **suggest / indicate / demonstrate** — rising certainty in research: suggest (tentative), indicate (fairly strong), demonstrate (shown clearly) · ★★★★ · formal
+- **evidence / proof** — evidence supports a claim (uncountable); proof settles it conclusively · ★★★★ · neutral
+- **admit / concede / confess** — admit = accept a fact; concede = grant a point reluctantly; confess = admit wrongdoing · ★★★★ · neutral
+- **refuse / decline / reject / deny** — decline: polite no; refuse: firm no; reject: turn down; deny: call something untrue · ★★★★ · neutral
+- **condone / tolerate** — tolerate = put up with; condone = accept or approve of wrongdoing · ★★★★ · neutral
+- **hint / imply / insinuate** — hint = suggest indirectly; imply = suggest without saying; insinuate = imply something unpleasant · ★★★★ · neutral
+- **naive / innocent / gullible** — innocent = pure, blameless; naive = lacking experience; gullible = easily fooled · ★★★★ · neutral
+- **shrewd / cunning / sly** — shrewd = sharp practical judgment (positive); cunning, sly = clever in a deceitful way · ★★★★ · neutral
+- **bold / daring / reckless** — bold, daring = brave, willing to take risks; reckless = careless about danger · ★★★★ · neutral
+- **generous / lavish / extravagant** — generous = giving freely; lavish = rich, abundant; extravagant = excessive, wasteful · ★★★★ · neutral
+- **proud / smug / conceited** — proud = satisfied (neutral or positive); smug = annoyingly self-satisfied; conceited = vain · ★★★★ · neutral
+- **meticulous / pedantic / nitpicky** — meticulous = careful about detail (praise); pedantic, nitpicky = fussy about trivial details · ★★★★ · neutral
+- **picky / particular / discerning** — discerning = good taste (praise); particular = specific preferences; picky = hard to please · ★★★★ · neutral
+- **reserved / shy / aloof** — reserved = keeps feelings private; shy = nervous with people; aloof = cold, distant · ★★★★ · neutral
+- **talkative / chatty / long-winded** — talkative, chatty = likes to talk (friendly); long-winded = talks too long, tedious · ★★★★ · neutral
+- **sensitive / touchy / thin-skinned** — sensitive = aware of feelings, or easily hurt; touchy, thin-skinned = easily offended · ★★★★ · neutral
+- **quirky / eccentric / weird** — quirky = charmingly unusual; eccentric = strikingly odd; weird = strange, often negative · ★★★★ · neutral
+- **complex / complicated / convoluted** — complex = many connected parts; complicated = hard to deal with; convoluted = needlessly tangled · ★★★★ · neutral
+- **cheap / inexpensive / affordable** — inexpensive, affordable = low price (neutral); cheap = low price, often low quality · ★★★★ · neutral
+- **elderly / older / senior** — older adults, seniors = respectful; elderly = can sound frail or patronizing · ★★★★ · neutral
+- **overweight / heavy / fat** — heavy, overweight = polite; fat = blunt, often hurtful about people · ★★★★ · neutral
+- **aroma / fragrance / odor / stench** — aroma, fragrance = pleasant smells; odor = unpleasant smell; stench = foul smell · ★★★★ · neutral
+- **chuckle / giggle / snicker / smirk** — chuckle = quiet laugh; giggle = silly laugh; snicker, smirk = mocking or smug · ★★★★ · neutral
+- **stare / gaze / glare / glance** — stare: fixed look; gaze: long, admiring look; glare: angry look; glance: quick look · ★★★★ · neutral
+- **nervous / anxious / apprehensive** — nervous: jittery before an event; anxious: deeper worry; apprehensive: uneasy about what's coming · ★★★★ · neutral
+- **tired / exhausted / burned out** — tired = needs rest; exhausted = completely drained; burned out = long-term work exhaustion · ★★★★ · neutral
+- **guilt / shame / remorse** — guilt = I did wrong; shame = I am bad; remorse = deep regret · ★★★★ · neutral
+- **complain / whine / vent** — complain = express dissatisfaction; whine = complain annoyingly; vent = let out frustration to someone · ★★★★ · neutral
+- **argue / bicker / squabble** — argue = disagree angrily; bicker, squabble = argue repeatedly about trivial things · ★★★★ · neutral
+- **regime / government / administration** — regime = negative (authoritarian); government = neutral; administration = a US president's executive team · ★★★★ · neutral
+- **fee / fare / charge** — fee = paid for a service; fare = paid for travel; charge = general cost · ★★★★ · neutral
+
+### Words natives use differently from the dictionary
+
+- **literally (as an intensifier)** — strictly 'exactly as stated'; widely used to intensify ('I literally died') · ★★★★★ · neutral
+- **actually vs. currently** — actually = in fact, really; currently = now (German aktuell) · ★★★★★ · neutral
+- **eventually vs. possibly** — eventually = in the end, finally; possibly, maybe = German eventuell · ★★★★★ · neutral
+- **sympathetic vs. likeable** — sympathetic = showing compassion or support; likeable, nice = German sympathisch · ★★★★★ · neutral
+- **sensible vs. sensitive** — sensible = reasonable, practical; sensitive = easily hurt, or responsive (German sensibel) · ★★★★★ · neutral
+- **by vs. until (deadlines)** — by Friday = no later than Friday; until Friday = continuing up to Friday · ★★★★★ · neutral
+- **politics vs. policy** — politics = power, parties, debate; policy = a specific plan or rule (both German Politik) · ★★★★★ · neutral
+- **quite (US vs. UK)** — US quite = very; UK quite = fairly, so praise can sound weaker · ★★★★★ · neutral, US
+- **ironic vs. coincidental** — ironic = the opposite of what is expected; often misused for mere coincidence · ★★★★★ · neutral
+- **possibility vs. opportunity** — opportunity = favorable chance to do something; possibility = something that might happen (German Möglichkeit) · ★★★★★ · neutral
+- **critic vs. criticism vs. critique** — critic = person; criticism = disapproval; critique = detailed evaluation (German Kritik) · ★★★★★ · neutral
+- **beg the question vs. raise the question** — strictly 'assume what you are trying to prove'; commonly 'raise the question' · ★★★★ · neutral
+- **decimate (loose vs. strict sense)** — now means destroy most of something; originally 'kill one in ten' · ★★★★ · neutral
+- **nauseous vs. nauseated** — most people say 'I feel nauseous'; strictly nauseous meant 'causing nausea' · ★★★★ · neutral
+- **enormity vs. enormousness** — enormity = great wickedness or gravity; often used loosely for huge size · ★★★★ · formal
+- **peruse vs. skim** — peruse = read carefully (dictionary); often used to mean browse or skim · ★★★★ · neutral
+- **bemused vs. amused** — bemused = puzzled, confused; often misused to mean mildly amused · ★★★★ · neutral
+- **nonplussed vs. unfazed** — nonplussed = baffled, at a loss; in the US often used to mean unfazed · ★★★★ · neutral
+- **disinterested vs. uninterested** — disinterested = impartial, no personal stake; uninterested = not interested (often blurred) · ★★★★ · neutral
+- **hopefully (as a sentence adverb)** — 'Hopefully, it works' = I hope it works; once criticized, now standard · ★★★★ · neutral
+- **I could care less vs. I couldn't care less** — both mean 'I don't care at all'; 'could care less' is US, often criticized · ★★★★ · informal, US
+- **irregardless vs. regardless** — irregardless = nonstandard double negative; say regardless in careful speech and writing · ★★★★ · neutral
+- **impact (as a verb)** — 'impact' for 'affect' is common in business English; purists prefer affect · ★★★★ · neutral
+- **comprised of vs. composed of** — 'composed of' or 'comprises' is standard; 'comprised of' is common but criticized · ★★★★ · formal
+- **momentarily (US vs. UK)** — US: in a moment, very soon; UK: for a moment, briefly · ★★★★ · neutral, US
+- **control vs. check** — control = have power over, direct; check = verify, inspect (German kontrollieren) · ★★★★ · neutral
+- **become vs. get** — become = start to be; get = receive (German bekommen) · ★★★★ · neutral
+- **also vs. so** — English 'also' = in addition; German 'also' = so, therefore · ★★★★ · neutral
+- **meaning vs. opinion** — meaning = what something signifies; opinion = what you think (German Meinung) · ★★★★ · neutral
+- **consistent vs. consequent** — consistent = steady, the same each time (German konsequent); consequent = resulting · ★★★★ · neutral
+- **serious vs. reputable** — reputable = trustworthy, respected (German seriös); serious = grave, or not joking · ★★★★ · neutral
+- **engagement vs. commitment** — commitment, dedication = German Engagement; engagement = involvement, or a promise to marry · ★★★★ · neutral
+- **irritated vs. confused** — irritated = annoyed; confused, puzzled = German irritiert · ★★★★ · neutral
+- **decent vs. subtle** — subtle, understated = German dezent; decent = acceptable, or morally good · ★★★★ · neutral
+- **oversee vs. overlook** — oversee = supervise; overlook = fail to notice (German übersehen) · ★★★★ · neutral
+- **beamer vs. projector** — projector = presentation device (German Beamer); in US slang a Beamer is a BMW · ★★★★ · neutral
+- **home office vs. working from home** — working from home, WFH = German Homeoffice; a home office = a room at home · ★★★★ · neutral
+- **physician vs. physicist** — physician = medical doctor (Arzt); physicist = physics scientist (Physiker) · ★★★★ · neutral
+- **promotion vs. doctorate** — doctorate, PhD = German Promotion; promotion = moving up at work · ★★★★ · neutral
+- **technique vs. technology** — technique = method or skill; technology = tools and machines (both German Technik) · ★★★★ · neutral
+- **significant vs. statistically significant** — everyday significant = large, important; statistically significant = unlikely by chance, maybe tiny · ★★★★ · neutral
+- **theory (everyday vs. scientific)** — everyday: a hunch or guess; science: a well-tested, broad explanation · ★★★★ · neutral
+- **exponentially (loose use)** — math: growth by a constant factor; loosely: very fast or very much · ★★★★ · neutral
+- **method vs. methodology** — method = procedure used; methodology = study or rationale of methods (often blurred) · ★★★★ · formal
+- **penultimate vs. ultimate** — penultimate = second to last; often wrongly used to mean the very best · ★★★★ · neutral
+- **fortuitous vs. fortunate** — fortuitous = happening by chance; widely used to mean lucky · ★★★★ · neutral
+- **sanction (approve vs. penalize)** — sanction can mean officially approve, or impose a penalty: opposite senses · ★★★★ · formal
+- **oversight (supervision vs. mistake)** — oversight = supervision (congressional oversight), or a mistake from not noticing · ★★★★ · neutral
+- **invaluable vs. valueless** — invaluable = extremely valuable, not worthless; valueless = worthless · ★★★★ · neutral
+- **table a motion (US vs. UK)** — US: postpone discussion; UK: put forward for discussion; opposite meanings · ★★★★ · formal
+
+## 09 Pronunciation & connected speech (150)
+
+### Commonly mispronounced words
+
+- **determine** — dih-TUR-min: the end rhymes with 'win', not with 'mine' · ★★★★★ · neutral
+- **subtle** — SUT-ul: the b is silent; also in subtlety · ★★★★★ · neutral
+- **comfortable** — KUMF-ter-bul: three syllables in normal speech, not 'comfort-able' · ★★★★★ · neutral
+- **data** — usually DAY-duh in the US, with a flap T; DAT-uh is also heard · ★★★★★ · neutral, US
+- **schedule** — US SKEJ-ool, with a k sound; SHED-yool is British · ★★★★★ · neutral, US
+- **women** — WIM-in: first syllable like 'win'; the singular woman is WOOM-un · ★★★★ · neutral
+- **epitome** — ih-PIT-uh-mee: four syllables, not 'EP-ih-tome' · ★★★★ · neutral
+- **hyperbole** — hy-PUR-buh-lee: four syllables, not 'HY-per-bowl' · ★★★★ · neutral
+- **segue** — SEG-way, same as 'Segway': a smooth move to a new topic · ★★★★ · neutral
+- **debris** — duh-BREE: stress on the second syllable; the s is silent · ★★★★ · neutral
+- **suite** — SWEET, like 'sweet' (a hotel suite, a software suite), not 'suit' · ★★★★ · neutral
+- **hierarchy** — HY-er-ar-kee: four syllables, often HY-rar-kee; starts like 'higher' · ★★★★ · neutral
+- **receipt** — rih-SEET: the p is silent · ★★★★ · neutral
+- **vegetable** — VEJ-tuh-bul: three syllables, not 'vege-table' · ★★★★ · neutral
+- **Wednesday** — WENZ-day: two syllables; the first d is silent · ★★★★ · neutral
+- **chaos** — KAY-ahs: the ch sounds like k, as in chaotic · ★★★★ · neutral
+- **recipe** — RES-uh-pee: three syllables, not 're-SIPE' · ★★★★ · neutral
+- **genre** — ZHAHN-ruh: starts with the sound in the middle of 'measure' · ★★★★ · neutral
+- **niche** — US mostly NITCH (rhymes with 'itch'); NEESH is also common · ★★★★ · neutral, US
+- **queue** — KYOO, like the letter Q; the 'ueue' adds no sound · ★★★★ · neutral
+- **salmon** — SAM-un: the l is silent · ★★★★ · neutral
+- **often** — usually AW-fun with a silent t; OFF-tun is also heard · ★★★★ · neutral
+- **cache** — KASH, like 'cash'; not 'ka-SHAY' (that is cachet) · ★★★★ · neutral
+- **cliché** — klee-SHAY: stress on the second syllable · ★★★★ · neutral
+- **entrepreneur** — ahn-truh-pruh-NUR: stress on the last syllable · ★★★★ · neutral
+- **archive** — AR-kyve: the ch sounds like k; the end rhymes with 'dive' · ★★★★ · neutral
+- **vehicle** — VEE-ih-kul: the h is silent · ★★★★ · neutral
+- **paradigm** — PAIR-uh-dime: the g is silent; the end rhymes with 'time' · ★★★★ · neutral
+- **indict** — in-DITE, rhymes with 'invite': the c is silent · ★★★★ · neutral
+- **algorithm** — AL-guh-rih-thum: th as in 'this', not a t sound · ★★★★ · neutral
+- **psychology** — sy-KAH-luh-jee: the p is silent, as in psych and psychiatry · ★★★★ · neutral
+- **thorough** — THUR-oh: two syllables; different from 'through' and 'though' · ★★★★ · neutral
+- **et cetera** — et-SET-er-uh: starts with 'et', not 'ek' · ★★★★ · neutral
+- **gauge** — GAYJ, rhymes with 'page'; the u is silent · ★★★★ · neutral
+- **bury** — BAIR-ee, same sound as 'berry'; burial is BAIR-ee-ul · ★★★★ · neutral
+- **mortgage** — MOR-gij: the t is silent · ★★★★ · neutral
+- **debut** — day-BYOO: the t is silent · ★★★★ · neutral
+- **coup** — KOO: the p is silent; coup d'état is koo-day-TAH · ★★★★ · neutral
+- **regime** — ruh-ZHEEM or ray-ZHEEM: the g sounds like the s in 'measure' · ★★★★ · neutral
+- **naive** — ny-EEV: two syllables, not one syllable like 'knave' · ★★★★ · neutral
+- **clothes** — KLOHZ: one syllable, often said like 'close'; not 'cloth-iz' · ★★★★ · neutral
+- **iron** — EYE-urn: the r comes after the vowel, not 'eye-ron' · ★★★★ · neutral
+- **herb** — US URB: the h is silent; British English says the h · ★★★★ · neutral, US
+- **been** — US BIN, rhymes with 'pin'; not 'bean' · ★★★★ · neutral, US
+- **privacy** — US PRY-vuh-see, starting like 'private'; British say PRIV-uh-see · ★★★★ · neutral, US
+- **mobile** — US MOH-bul; fertile, hostile and fragile also end in '-ul' · ★★★★ · neutral, US
+- **Tuesday** — US TOOZ-day with no y sound; same in new, student, duty · ★★★★ · neutral, US
+- **nuclear** — NOO-klee-er: stress on the first syllable, not 'nu-KLEE-ar' · ★★★★ · neutral
+- **pseudo-** — SOO-doh: the p is silent in pseudocode, pseudonym, pseudoscience · ★★★★ · neutral
+- **meme** — MEEM, rhymes with 'team': one syllable · ★★★★ · neutral
+
+### Word stress and stress shift
+
+- **REcord / reCORD** — noun REK-erd vs. verb rih-KORD: the noun stresses the first syllable · ★★★★★ · neutral
+- **PREsent / preSENT** — a PREZ-unt (gift, now) vs. to prih-ZENT (show, give) · ★★★★★ · neutral
+- **INcrease / inCREASE** — noun IN-kreess vs. verb in-KREESS; decrease works the same way · ★★★★★ · neutral
+- **PROject / proJECT** — a PRAH-jekt vs. to pruh-JEKT (forecast, show on a screen) · ★★★★★ · neutral
+- **-teen vs. -ty: thirTEEN / THIRty** — thur-TEEN with a clear t vs. THUR-dee with a flap · ★★★★★ · neutral, US
+- **PHOtograph / phoTOGraphy / photoGRAPHic** — stress moves: FOH-tuh-graf, fuh-TAH-gruh-fee, foh-tuh-GRAF-ik · ★★★★★ · neutral
+- **eCONomy / ecoNOMic** — ih-KAH-nuh-mee and ih-KAH-nuh-mist, but ek-uh-NAH-mik and ek-uh-NAH-miks · ★★★★★ · neutral
+- **POLitics / poLITical / poliTIcian** — stress moves right: PAH-luh-tiks, puh-LIT-ih-kul, pah-luh-TISH-un · ★★★★★ · neutral
+- **ANalyze / aNALysis / anaLYTical** — three words, three stresses: AN-uh-lyze, uh-NAL-uh-sis, an-uh-LIT-ih-kul · ★★★★★ · neutral
+- **PROgress / proGRESS** — noun PRAH-gress vs. verb pruh-GRESS (move forward) · ★★★★ · neutral
+- **CONtract / conTRACT** — a KAHN-trakt (agreement) vs. to kun-TRAKT (shrink, catch an illness) · ★★★★ · neutral
+- **OBject / obJECT** — an AHB-jekt (thing, goal) vs. to ub-JEKT (protest, disagree) · ★★★★ · neutral
+- **CONduct / conDUCT** — noun KAHN-dukt (behavior) vs. verb kun-DUKT (carry out, lead) · ★★★★ · neutral
+- **CONtrast / conTRAST** — noun KAHN-trast vs. verb kun-TRAST · ★★★★ · neutral
+- **PERmit / perMIT** — a PUR-mit (official document) vs. to pur-MIT (allow) · ★★★★ · neutral
+- **PROduce / proDUCE** — PROH-doos (fruit and vegetables) vs. to pruh-DOOS (make) · ★★★★ · neutral
+- **SUSpect / susPECT** — a SUS-pekt (person) vs. to suh-SPEKT (think something is likely) · ★★★★ · neutral
+- **SURvey / surVEY** — a SUR-vay (questionnaire) vs. to sur-VAY (look over, examine) · ★★★★ · neutral
+- **ATtribute / atTRIBute** — an AT-rih-byoot (quality) vs. to uh-TRIB-yoot (credit something to) · ★★★★ · neutral
+- **CONtent / conTENT** — KAHN-tent (what is inside) vs. kun-TENT (satisfied) · ★★★★ · neutral
+- **ADdress / adDRESS (US)** — US: an AD-dress (where you live) vs. to uh-DRESS (deal with) · ★★★★ · neutral, US
+- **REsearch / reSEARCH** — REE-surch and rih-SURCH are both standard in the US · ★★★★ · neutral, US
+- **estimate: noun vs. verb** — noun ES-tuh-mit vs. verb ES-tuh-mayt with a full '-ate' · ★★★★ · neutral
+- **advocate: noun vs. verb** — an AD-vuh-kit (supporter) vs. to AD-vuh-kayt (argue for) · ★★★★ · neutral
+- **separate: adjective vs. verb** — SEP-rit (adjective) vs. SEP-uh-rayt (verb) · ★★★★ · neutral
+- **DEMocrat / deMOCracy / demoCRATic** — stress moves: DEM-uh-krat, dih-MAH-kruh-see, dem-uh-KRAT-ik · ★★★★ · neutral
+- **hyPOTHesis / hypoTHETical** — the noun is hy-PAH-thuh-sis, but hy-puh-THET-ih-kul · ★★★★ · neutral
+- **staTIStics / statisTIcian** — stuh-TIS-tiks and stuh-TIS-tih-kul, but stat-ih-STISH-un · ★★★★ · neutral
+- **aCADemy / acaDEMic / acaDEmia** — stress moves: uh-KAD-uh-mee, ak-uh-DEM-ik, ak-uh-DEE-mee-uh · ★★★★ · neutral
+- **speCIFic / SPECify / speciFICity** — stress moves: spuh-SIF-ik, SPES-uh-fy, spes-uh-FIS-uh-tee · ★★★★ · neutral
+- **INdustry / inDUStrial** — IN-dus-tree (not indus-TREE), but in-DUS-tree-ul · ★★★★ · neutral
+- **ENergy / enerGETic** — EN-er-jee (not ener-GEE), but en-er-JET-ik · ★★★★ · neutral
+- **METHod / meTHODical / methoDOLogy** — METH-ud (not German me-TOH-de), muh-THAH-dih-kul, meth-uh-DAH-luh-jee · ★★★★ · neutral
+- **CATegory / cateGORical** — KAT-uh-gor-ee (not cate-go-REE), but kat-uh-GOR-ih-kul · ★★★★ · neutral
+- **compound nouns: a GREENhouse vs. a green HOUSE** — compounds stress the first part; adjective + noun stresses the noun · ★★★★ · neutral
+- **phrasal verb vs. noun: set UP / a SETup** — the verb stresses the particle; the noun stresses the first part · ★★★★ · neutral
+- **initialisms: the F-B-I, a C-E-O** — in a row of letters, stress the last letter · ★★★★ · neutral
+- **-tion stress: inforMAtion, explaNAtion** — stress the syllable just before -tion or -sion · ★★★★ · neutral
+- **-ity stress: persoNALity, uniVERsity** — stress the syllable just before -ity · ★★★★ · neutral
+- **-ment nouns: DOCument, INstrument, ARgument** — stress the first syllable, not -MENT as in German · ★★★★ · neutral
+- **deVELop / deVELopment** — stress the second syllable: dih-VEL-up, dih-VEL-up-ment · ★★★★ · neutral
+- **inTERpret** — in-TUR-prit and in-TUR-prih-ter, but in-tur-prih-TAY-shun · ★★★★ · neutral
+- **comMITtee** — kuh-MIT-ee: stress on the middle syllable · ★★★★ · neutral
+- **conTRIBute / disTRIBute (US)** — US kun-TRIB-yoot, dih-STRIB-yoot; not CON-tri-bute · ★★★★ · neutral, US
+- **PROcess (US PRAH-sess)** — stress the first syllable; in the US the vowel is as in 'pot' · ★★★★ · neutral, US
+- **COLleague** — KAH-leeg: stress the first syllable (German Kollege stresses the second) · ★★★★ · neutral
+- **PROtocol** — PROH-tuh-kawl: stress on the first syllable · ★★★★ · neutral
+- **LABoratory (US)** — US LAB-ruh-tor-ee; British say luh-BOR-uh-tree · ★★★★ · neutral, US
+- **priMARily / necesSARily (US)** — US pry-MAIR-uh-lee, nes-uh-SAIR-uh-lee: stress on the '-ar-' · ★★★★ · neutral, US
+- **INteresting** — IN-trus-ting: three syllables, stress on the first · ★★★★ · neutral
+
+### Connected speech in American English
+
+- **gonna (going to)** — going to + verb for the future, said GUH-nuh · ★★★★★ · informal
+- **wanna (want to)** — want to, said WAH-nuh: I wanna try · ★★★★★ · informal
+- **gotta (got to)** — have got to ('must'), said GAH-duh: I gotta go · ★★★★★ · informal
+- **hafta / hasta (have to / has to)** — have to and has to, said HAF-tuh and HAS-tuh · ★★★★★ · informal
+- **kinda (kind of)** — kind of ('somewhat' or 'type of'), said KYN-duh · ★★★★★ · informal
+- **lemme (let me)** — let me, said LEM-ee: lemme see, lemme know · ★★★★★ · informal
+- **dunno (don't know)** — I don't know, said 'I duh-NOH'; sometimes only a hummed tune · ★★★★★ · informal
+- **didja (did you)** — did you: the d and y blend into a j sound, DID-juh · ★★★★★ · informal
+- **ya know (you know)** — the filler 'you know', said 'yuh-NOH' or 'y'know' · ★★★★★ · informal
+- **flap T: water, better** — t between vowels sounds like a quick d: WAH-der, BED-er · ★★★★★ · neutral, US
+- **flap T across words: get it, a lot of** — a final t before a vowel becomes a quick d: geddit, a lodduv · ★★★★★ · neutral, US
+- **nasal flap: twenty, internet, winter** — t after n often disappears: TWEN-ee, IN-er-net; winter sounds like winner · ★★★★★ · neutral, US
+- **glottal stop: button, mountain, certain** — t before a syllabic n is a catch in the throat: BUH-'n · ★★★★★ · neutral
+- **can vs. can't** — can is a weak 'kn'; can't is stressed, with a full vowel and held t · ★★★★★ · neutral, US
+- **uh-huh vs. uh-uh** — uh-huh (rising, also mm-hmm) means yes; uh-uh (with a catch) means no · ★★★★★ · informal
+- **weak 'to' (tuh)** — unstressed to sounds like 'tuh' or 'duh': I have tuh go · ★★★★★ · neutral
+- **weak 'and' ('n)** — unstressed and becomes 'n' or 'un': rock 'n' roll, you 'n' me · ★★★★★ · neutral
+- **'em (them)** — unstressed them becomes 'um': tell 'em, get 'em · ★★★★★ · informal
+- **h-dropping: 'im, 'er, 'is (him, her, his)** — unstressed him, her, his lose the h: tell 'im, ask 'er · ★★★★★ · neutral
+- **shoulda / coulda / woulda (should have …)** — should have, could have, would have said SHOOD-uh; never write 'should of' · ★★★★★ · informal
+- **linking: consonant to vowel (turn it off)** — a final consonant joins the next vowel: tur-ni-doff, pi-ki-dup · ★★★★★ · neutral
+- **dropped t/d: next day, last night** — t or d between two consonants drops: nex day, las night · ★★★★★ · neutral
+- **-in' for -ing: goin', nothin'** — -ing said as '-in' in casual speech: whatcha doin'? · ★★★★★ · informal
+- **going to vs. gonna** — gonna only before a verb; 'I'm going to the store' stays · ★★★★★ · informal
+- **supposta (supposed to)** — supposed to: the d disappears, suh-POHS-tuh · ★★★★ · informal
+- **useta (used to)** — used to (past habit), said YOOS-tuh with an s sound, not z · ★★★★ · informal
+- **'cause (because)** — because shortened to 'kuz' or 'kawz' in speech · ★★★★ · informal
+- **c'mon (come on)** — come on, said kuh-MAHN: to urge someone or to show disbelief · ★★★★ · informal
+- **sorta (sort of)** — sort of ('somewhat'), said SOR-duh: I sorta agree · ★★★★ · informal
+- **gimme (give me)** — give me, said GIM-ee: gimme a sec · ★★★★ · informal
+- **whaddaya (what do you / what are you)** — what do you / what are you: whaddaya think? whaddaya doing? · ★★★★ · informal
+- **wouldja / couldja (would you / could you)** — would you, could you: d + y become j: wouldja mind? · ★★★★ · informal
+- **doncha / gotcha (don't you / got you)** — t + you blend into ch: doncha think? gotcha. nice to meetcha · ★★★★ · informal
+- **ya (you)** — unstressed you as 'yuh': see ya, ya think? · ★★★★ · informal
+- **yer (your, you're)** — unstressed your and you're as 'yer': get yer coat · ★★★★ · informal
+- **weak 'for' (fer)** — unstressed for as 'fer': thanks fer coming · ★★★★ · neutral
+- **weak 'of' (uh)** — unstressed of as 'uh' before consonants: a cup 'a coffee · ★★★★ · neutral
+- **outta (out of)** — out of, said OW-duh: get outta here · ★★★★ · informal
+- **tryna (trying to)** — trying to, said TRY-nuh: I'm tryna focus · ★★★★ · informal
+- **d'you / d'ya (do you)** — do you reduced to 'dyuh' or 'juh': d'you want some? · ★★★★ · informal
+- **linking: vowel to vowel (go on, I am)** — a small w or y sound joins two vowels: go-won, I-yam · ★★★★ · neutral
+- **held T before a consonant: that guy, not now** — a final t before a consonant is stopped, not released: tha' guy · ★★★★ · neutral
+- **flap D: latter = ladder** — t and d between vowels sound alike: latter and ladder · ★★★★ · neutral, US
+- **prob'ly (probably)** — probably in fast speech: PRAHB-lee or even PRAH-lee · ★★★★ · informal
+- **want to vs. wanna** — wanna replaces 'want to' only; 'she wants to' never becomes 'wanna' · ★★★★ · informal
+- **it'll / that'll (it will / that will)** — it will and that will as one word: ID-ul, THAD-ul · ★★★★ · neutral
+- **'s for is, has and does** — 's can mean is, has or does: Where's he gone? What's he want? · ★★★★ · neutral
+- **where'd / how'd / what'd (… did)** — wh-word + did shortened to 'd: How'd it go? Where'd you get it? · ★★★★ · informal
+- **the: thuh vs. thee** — 'thuh' before consonants; 'thee' before vowels and for emphasis · ★★★★ · neutral
+- **sentence rhythm: stress content words** — stress nouns, verbs, adjectives; squeeze the small words: I WANT tuh GO · ★★★★ · neutral
+
+## 10 Advanced grammar (250)
+
+### Emphasis: inversion, cleft sentences & fronting
+
+- **inverted Not only: Not only did she …, but she also …** — adds a second, stronger point; the auxiliary comes before the subject · ★★★★★ · neutral
+- **Little did I know …** — inversion in storytelling: I had no idea then what would happen · ★★★★★ · neutral
+- **it-cleft with not until: It wasn't until … that …** — stresses that something happened only after a certain time or event · ★★★★★ · neutral
+- **it-cleft on a person: It was Sarah who …** — stresses who did it, often to correct someone · ★★★★★ · neutral
+- **contrastive it-cleft: It's not the money that …, it's …** — rejects one cause or thing and puts the focus on another · ★★★★★ · neutral
+- **It's not that …, it's just that …** — softly denies one explanation and gives the real reason · ★★★★★ · informal
+- **wh-cleft: What I need is …** — puts the important new information at the end for focus · ★★★★★ · neutral
+- **wh-cleft with an adjective: What's interesting is that …** — comments on a fact before stating it; common in talks · ★★★★★ · neutral
+- **wh-cleft with happen: What happened was …** — introduces a story or an explanation of events in speech · ★★★★★ · informal
+- **reversed wh-cleft: This is where … / That's where X comes in** — points to a key moment, place or role in an explanation · ★★★★★ · neutral
+- **all-cleft: All I did was …** — means 'the only thing'; stresses how little something was · ★★★★★ · neutral
+- **the thing is: The thing is, …** — introduces the real problem or the key point in speech · ★★★★★ · informal
+- **Not that …: Not that it matters, but …** — denies a possible implication of what you are about to say · ★★★★★ · informal
+- **inverted exclamative: Boy, was I wrong!** — question word order to express a strong feeling · ★★★★★ · informal
+- **No way + inversion: No way am I paying that** — strong informal refusal; the auxiliary comes before the subject · ★★★★★ · informal
+- **There goes …: There goes my weekend** — says that something is now lost or ruined; often ironic · ★★★★★ · informal
+- **emphatic do: I did call!** — stressed do, does or did to insist or to contradict · ★★★★★ · neutral
+- **What on earth …?: emphatic question** — shows surprise or annoyance in a wh-question · ★★★★★ · informal
+- **negative inversion: Never have I …** — very strong 'I have never'; formal or dramatic · ★★★★ · formal
+- **negative inversion: Rarely / Seldom do …** — stresses how uncommon something is; the auxiliary comes before the subject · ★★★★ · formal
+- **negative inversion: Not until … did …** — only after that time or event did something happen · ★★★★ · formal
+- **Only when … did …: inversion** — something happened only at that moment, not earlier · ★★★★ · formal
+- **Only by … can …: inversion** — names the only method that will work · ★★★★ · formal
+- **Only then did …: inversion** — only at that point, after the events just described · ★★★★ · formal
+- **Only if … will …: inversion** — states a strict condition; inversion is in the main clause · ★★★★ · formal
+- **Under no circumstances should …** — absolute prohibition; used in rules and warnings · ★★★★ · formal
+- **At no point did …** — never, at any moment; common in statements and news · ★★★★ · formal
+- **In no way does …** — strong denial: not at all, in any respect · ★★★★ · formal
+- **Nowhere is … more … than …** — says one place or case shows something most clearly · ★★★★ · formal
+- **nor + inversion: …, nor did I …** — adds a second negative clause; the auxiliary comes before the subject · ★★★★ · neutral
+- **as + inversion: …, as did most of the board** — says that others did the same; common in news writing · ★★★★ · formal
+- **so much so that …** — makes the previous statement stronger and adds its result · ★★★★ · neutral
+- **no inversion with pronouns: Here it comes / There she goes** — nouns invert after here and there; pronoun subjects do not · ★★★★ · neutral
+- **fronted participle + inversion: Gone are the days when …** — says that something belongs to the past · ★★★★ · neutral
+- **Attached is … / Enclosed are …** — fronted participle with inversion in emails and letters · ★★★★ · formal
+- **fronted comparative + inversion: More important is …** — starts with the comparison to add a stronger point · ★★★★ · formal
+- **fronted prepositional phrase + inversion: Of particular concern is …** — puts the topic first in formal reports · ★★★★ · formal
+- **it-cleft on a phrase: It was in Berlin that …** — stresses a time, place or reason with It is … that · ★★★★ · neutral
+- **wh-cleft with do: What we did was …** — focuses on an action; the verb after was is often bare · ★★★★ · neutral
+- **The reason (why) … is that …** — explains a cause; avoid 'the reason is because' in writing · ★★★★ · neutral
+- **where-cleft: Where I disagree is …** — focuses on the exact point of disagreement or failure · ★★★★ · neutral
+- **The last thing … is …: The last thing we need is …** — says that something is very unwanted · ★★★★ · neutral
+- **If there's one thing …, it's …** — strongly highlights a single lesson, fact or quality · ★★★★ · neutral
+- **cleft question: What is it about … that …?** — asks what exactly causes a feeling or an effect · ★★★★ · neutral
+- **concessive fronting: Strange as it may seem, …** — adjective + as + clause: although it is strange · ★★★★ · formal
+- **object fronting: That I can't promise** — puts the object first for contrast or emphasis · ★★★★ · neutral
+- **left dislocation: My boss, she …** — names the topic first, then repeats it with a pronoun · ★★★★ · informal
+- **emphatic reflexive: The CEO herself …** — stresses that this person, not someone else, did it · ★★★★ · neutral
+- **No sooner had … than …** — one thing happened immediately after another; formal narrative · ★★★ · formal
+- **Hardly / Scarcely had … when …** — one thing happened just after another; formal narrative · ★★★ · formal
+
+### Conditionals, wishes & hypothetical meaning
+
+- **mixed conditional: past condition → present result (If I had taken it, I'd be … now)** — an unreal past event changes the present situation · ★★★★★ · neutral
+- **inverted conditional: Should you have any questions, …** — formal 'if you happen to'; very common in work emails · ★★★★★ · formal
+- **say / let's say (= suppose): Say you lost your job …** — introduces an imagined situation in conversation · ★★★★★ · informal
+- **what if + past (suggestion): What if we tried …?** — makes a polite suggestion or imagines an unreal situation · ★★★★★ · neutral
+- **even if vs. even though** — even if = whether or not; even though = despite a fact · ★★★★★ · neutral
+- **in case vs. if: Take a jacket in case it gets cold** — in case = as a precaution before; if = only when it happens · ★★★★★ · neutral
+- **wish + past perfect: I wish I had …** — regret about the past: sorry that it happened or didn't · ★★★★★ · neutral
+- **would rather + past (other subject): I'd rather you didn't** — polite preference about another person's action · ★★★★★ · neutral
+- **like as a conjunction: It looks like it's going to rain** — informal 'as if' or 'as'; normal in American speech · ★★★★★ · informal
+- **It's not as if / like …** — rejects an idea as obviously untrue; often defensive · ★★★★★ · informal
+- **X, if not Y: hundreds, if not thousands** — and possibly even the bigger amount or stronger quality · ★★★★★ · neutral
+- **if … happen to: If you happen to see him, …** — makes a condition sound casual or less likely · ★★★★★ · neutral
+- **past tense for politeness: I was wondering if you could …** — past or continuous form makes a request softer · ★★★★★ · neutral
+- **mixed conditional: present condition → past result (If I were …, I would have …)** — a permanent present fact explains a past result · ★★★★ · neutral
+- **were to: If prices were to rise, …** — makes a future condition more hypothetical or tentative · ★★★★ · neutral
+- **if … should: If you should need anything, …** — the condition is possible but not expected · ★★★★ · neutral
+- **inverted conditional: Had I known, I would have …** — formal 'if I had known'; regret or explanation · ★★★★ · formal
+- **If it weren't for …** — the present situation exists only because of this person or thing · ★★★★ · neutral
+- **If it hadn't been for …** — a past result happened only because of this · ★★★★ · neutral
+- **If not for …: If not for her help, …** — short form of 'if it weren't / hadn't been for' · ★★★★ · neutral
+- **implied conditional with without: Without your help, we would have …** — without + noun replaces a full if-clause · ★★★★ · neutral
+- **otherwise (= if not): …; otherwise, we would have …** — if that were not so; often with would have · ★★★★ · neutral
+- **or else / or (= if not): Hurry, or we'll miss it** — warns of the result if the action does not happen · ★★★★ · informal
+- **provided (that) / providing: You can go, provided you …** — only if this condition is met; plans and agreements · ★★★★ · neutral
+- **as long as / so long as (= only if)** — condition meaning 'only if'; so long as is more formal · ★★★★ · neutral
+- **assuming (that) …** — if we accept this as true; used in planning and argument · ★★★★ · neutral
+- **suppose / supposing / imagine + past: Imagine if you lived …** — asks someone to picture an unreal situation · ★★★★ · neutral
+- **what if + past perfect: What if I'd said no?** — imagines a different past and its possible result · ★★★★ · neutral
+- **unless vs. if not** — unless means 'except if'; some if-not sentences cannot use unless · ★★★★ · neutral
+- **only if vs. if only** — only if = strict condition; if only = strong wish · ★★★★ · neutral
+- **whether or not: Whether or not you agree, …** — the result is the same in both cases · ★★★★ · neutral
+- **wish + past: I wish I had more time** — a wish about a present situation that is not true · ★★★★ · neutral
+- **wish + would: I wish you would stop …** — complaint or wish that someone would change their behavior · ★★★★ · neutral
+- **wish + could have: I wish I could have helped** — regret that something was not possible in the past · ★★★★ · neutral
+- **if only + past: If only I knew …** — strong wish about the present; stronger than I wish · ★★★★ · neutral
+- **if only + past perfect: If only I'd listened!** — strong regret about the past · ★★★★ · neutral
+- **It's (high) time + past: It's time we left** — something should happen now or should have happened already · ★★★★ · neutral
+- **as if + present (real): It looks as if it's going to rain** — the comparison is probably true; based on evidence · ★★★★ · neutral
+- **as if + past (unreal): He acts as if he were the boss** — the comparison is not true · ★★★★ · neutral
+- **as if + past perfect: She looked as if she had seen a ghost** — unreal comparison with an earlier event · ★★★★ · neutral
+- **mandative subjunctive after verbs: I suggest (that) he be …** — base form after suggest, recommend, insist; standard in American English · ★★★★ · formal, US
+- **subjunctive after adjectives: It is essential that she attend** — base form after essential, important, vital; mainly American · ★★★★ · formal, US
+- **negative subjunctive: We ask that you not …** — not + base verb, without do; common in US notices · ★★★★ · formal, US
+- **were-subjunctive: If I were … (vs. was)** — were for all persons in formal unreal conditions; was in speech · ★★★★ · neutral
+- **if need be** — if necessary; a fixed subjunctive form · ★★★★ · neutral
+- **few, if any, …** — very few and perhaps none; also if ever, if at all · ★★★★ · neutral
+- **if that: ten minutes, if that** — maybe even less than the amount just stated · ★★★★ · informal
+- **polite would in the if-clause: If you'd follow me, …** — would in the if-clause means 'if you are willing' · ★★★★ · neutral
+- **Would you mind if I + past: Would you mind if I opened …?** — very polite request for permission using the past tense · ★★★★ · neutral
+- **conditional participle clause: Given the chance, I'd …** — a participle phrase replaces an if-clause · ★★★★ · neutral
+
+### Modals: deduction, speculation & the past
+
+- **must have + past participle: She must have left** — confident deduction about the past from evidence · ★★★★★ · neutral
+- **might / may have + past participle: He might have missed it** — it is possible that this happened in the past · ★★★★★ · neutral
+- **could have (unrealized possibility): We could have won** — it was possible, but it did not happen · ★★★★★ · neutral
+- **could have (reproach): You could have told me!** — criticizes someone for not doing something that was possible · ★★★★★ · neutral
+- **should have (regret, criticism): I should have listened** — the right thing did not happen; regret or blame · ★★★★★ · neutral
+- **might as well: We might as well go home** — there is no better option, so we can do this · ★★★★★ · neutral
+- **be bound to: It's bound to happen** — almost certain to happen · ★★★★★ · neutral
+- **be supposed to (reputation): It's supposed to be good** — people say this; based on reports, not own experience · ★★★★★ · informal
+- **was supposed to (failed plan): I was supposed to …, but …** — it was planned or expected but did not happen · ★★★★★ · neutral
+- **be set to (news): The company is set to announce …** — ready or expected to do something soon · ★★★★★ · neutral
+- **would (past habit) vs. used to** — would for repeated past actions only; used to also for states · ★★★★★ · neutral
+- **won't / wouldn't (refusal): The door won't open** — a person or thing refuses or fails to work · ★★★★★ · neutral
+- **couldn't + comparative: I couldn't agree more** — it is not possible to be more; strong positive · ★★★★★ · neutral
+- **can't help + -ing / can't help but: I can't help thinking …** — cannot stop yourself from doing or feeling something · ★★★★★ · neutral
+- **can't seem to: I can't seem to find it** — I try, but I fail; softer than I can't · ★★★★★ · informal
+- **might want to: You might want to check that** — polite, indirect advice; very common in American workplaces · ★★★★★ · neutral
+- **hedging would: I'd say …, I'd argue …** — softens an opinion or an estimate · ★★★★★ · neutral
+- **should (probability): That should be fine** — expectation that something is probably true or will happen · ★★★★★ · neutral
+- **be expected to: Profits are expected to rise** — passive forecast in news and reports · ★★★★★ · neutral
+- **concessive may: He may be smart, but …** — admits one point before a stronger opposing point · ★★★★★ · neutral
+- **always + continuous (annoying habit): He's always losing his keys** — repeated behavior that annoys the speaker · ★★★★★ · informal
+- **likely as an adverb (US): He'll likely be late** — American 'probably'; British prefers 'most likely' or 'probably' · ★★★★★ · neutral, US
+- **have (got) to for deduction: You've got to be kidding** — strong informal deduction, like must · ★★★★★ · informal
+- **couldn't / can't have + past participle: She can't have known** — sure that something did not happen; couldn't have is more common in US · ★★★★ · neutral
+- **should have (expectation): They should have landed by now** — it is probably done by now, as expected · ★★★★ · neutral
+- **must be + -ing: She must be working late** — deduction about an activity happening now · ★★★★ · neutral
+- **must have been + -ing: He must have been joking** — deduction about an ongoing activity in the past · ★★★★ · neutral
+- **must not for deduction (US): He must not be home** — American negative deduction; British usually says can't · ★★★★ · neutral, US
+- **will (present assumption): That'll be the delivery** — confident guess about the present · ★★★★ · neutral
+- **would have (past assumption): That would have been in 2015** — reasonable guess about a past time or fact · ★★★★ · neutral
+- **polite would for confirmation: That would be me** — polite or playful 'yes, that's me'; common in American service talk · ★★★★ · informal, US
+- **might well / may well / could well** — quite likely; stronger than might alone · ★★★★ · neutral
+- **be likely to: Prices are likely to rise** — will probably happen; subject + likely to + verb · ★★★★ · neutral
+- **be due to (schedule): The report is due to be published …** — planned or expected for a certain time · ★★★★ · neutral
+- **be to (formal arrangement): The president is to visit …** — official plan or arrangement; common in news · ★★★★ · formal
+- **was to (future in the past): He was to become president** — what happened later, as fate or plan, in narratives · ★★★★ · formal
+- **would (future in the past, narrative): It would be years before …** — looks forward from a past point in a story · ★★★★ · neutral
+- **would (characteristic behavior): He would say that** — typical of this person; often critical, with stressed would · ★★★★ · informal
+- **dare: How dare you … / Don't you dare …** — angry objections or warnings with dare as a modal · ★★★★ · informal
+- **had better (warning): You'd better not …** — strong advice with a threat of bad results · ★★★★ · neutral
+- **better without had (US informal): You better hurry** — informal speech drops had; avoid it in writing · ★★★★ · informal, US
+- **could vs. was able to (single achievement)** — use was able to or managed to for one past success · ★★★★ · neutral
+- **Shall we …? (suggestion)** — the main living use of shall in American English · ★★★★ · neutral
+- **Why should I …? / How should I know?** — indignant questions that reject a duty or an expectation · ★★★★ · informal
+- **I would have thought …** — polite surprise or disagreement; softer than I thought · ★★★★ · neutral
+- **passive reporting: She is said to be …** — reports what people say or believe; news and history · ★★★★ · formal
+- **passive reporting with a perfect infinitive: is believed to have …** — reported belief about an earlier event · ★★★★ · formal
+- **impersonal passive: It is thought that …** — neutral report of a common belief; academic and news style · ★★★★ · formal
+- **seem / appear to have + past participle** — it looks as if something happened earlier · ★★★★ · neutral
+- **It would appear that …** — very cautious formal hedge before a conclusion · ★★★★ · formal
+
+### Clauses: participles, ellipsis & substitution
+
+- **with + object + -ing: With prices rising, …** — gives background circumstances or a reason · ★★★★★ · neutral
+- **reduced adverbial clause: if needed, once finished, when in doubt** — subject and be are dropped after if, when, once · ★★★★★ · neutral
+- **not as a clause substitute: I hope not / I guess not** — replaces a whole negative clause after hope, guess, afraid · ★★★★★ · neutral
+- **ellipsis after auxiliaries: I could have, but I didn't** — the main verb is dropped after an auxiliary to avoid repetition · ★★★★★ · neutral
+- **to-infinitive ellipsis: I'd love to** — to stays, but the verb after it is dropped · ★★★★★ · neutral
+- **situational ellipsis in speech: Sounds good. / Want some?** — subject and auxiliary are dropped in casual speech · ★★★★★ · informal
+- **no matter how / what / who** — it makes no difference how, what or who · ★★★★★ · neutral
+- **sentence relative which: …, which surprised me** — which refers back to the whole previous clause · ★★★★★ · neutral
+- **which is why …** — gives a consequence of the whole previous statement · ★★★★★ · neutral
+- **that vs. which in restrictive clauses (US)** — American style: that for defining clauses, which with commas · ★★★★★ · neutral, US
+- **the fact that …** — turns a clause into a noun phrase, e.g. after prepositions · ★★★★★ · neutral
+- **comparative correlative: The more …, the more …** — two things change together · ★★★★★ · neutral
+- **as + past participle: as mentioned, as discussed** — short as-clause that refers to earlier text or talk · ★★★★★ · neutral
+- **reduced comparative: than expected, than usual** — subject and verb are left out after than · ★★★★★ · neutral
+- **let alone: I can't boil an egg, let alone cook dinner** — and certainly not the bigger thing; after a negative · ★★★★★ · neutral
+- **only to + verb (unexpected result): …, only to find …** — a disappointing or surprising result after an action · ★★★★★ · neutral
+- **object it before if: I'd appreciate it if …** — it is needed before the if-clause; a common email error · ★★★★★ · neutral
+- **present participle clause: Walking home, I …** — replaces a time or reason clause with the same subject · ★★★★ · neutral
+- **negative participle clause: Not knowing what to say, …** — not comes before the participle; often gives a reason · ★★★★ · neutral
+- **past participle clause: Built in 1890, the house …** — passive meaning; describes the subject of the main clause · ★★★★ · neutral
+- **perfect participle clause: Having finished …, she …** — the first action was complete before the second · ★★★★ · neutral
+- **while / when + -ing: While living in Berlin, …** — the conjunction stays before the participle for clarity · ★★★★ · neutral
+- **reduced concessive: Although exhausted, she …** — although or though + adjective or participle, without subject and be · ★★★★ · neutral
+- **reduced relative with -ing: people living nearby** — an active relative clause shortened to a participle · ★★★★ · neutral
+- **reduced relative with -ed: the data collected in 2020** — a passive relative clause shortened to a past participle · ★★★★ · neutral
+- **the first / last / only … to + verb** — a to-infinitive replaces a relative clause after these words · ★★★★ · neutral
+- **dangling participle (error): Walking home, the rain started** — the participle's subject differs from the main subject; avoid it · ★★★★ · neutral
+- **accepted dangling participles: Judging by …, Considering …** — fixed openers that need no matching subject · ★★★★ · neutral
+- **with + object + past participle: with his eyes closed** — describes the state of something during the action · ★★★★ · neutral
+- **absolute construction: Weather permitting, …** — noun + participle with its own subject, without with · ★★★★ · formal
+- **what with …: What with work and the kids, …** — gives several reasons, often for stress or difficulty · ★★★★ · informal
+- **so as a clause substitute: I think so / I suppose so** — so replaces a whole positive clause after think, suppose · ★★★★ · neutral
+- **So I hear / So it seems** — fronted so confirms what someone has just said · ★★★★ · neutral
+- **do so: She asked me to leave, and I did so** — replaces a verb phrase; formal or written style · ★★★★ · formal
+- **in doing so** — by doing this; links an action to its effect · ★★★★ · formal
+- **So do I / Neither do I (vs. me too / me neither)** — agreement with inversion; the auxiliary mirrors the first verb · ★★★★ · neutral
+- **me either (US informal)** — American informal 'me neither' · ★★★★ · informal, US
+- **that of / those of: higher than that of Japan** — replaces a repeated noun in formal comparisons · ★★★★ · formal
+- **the former / the latter** — refers to the first or second of two things just named · ★★★★ · formal
+- **whatever clause: Whatever you decide, …** — no matter what; the result is the same · ★★★★ · neutral
+- **verbless whatever: Whatever the reason, …** — whatever + noun without a verb; compact style · ★★★★ · neutral
+- **however + adjective: However hard I try, …** — no matter how; the adjective or adverb comes right after however · ★★★★ · neutral
+- **whoever as a noun clause: Whoever did this …** — the person who; works as subject or object · ★★★★ · neutral
+- **whereby** — by which; describes a system, method or arrangement · ★★★★ · formal
+- **preposition + which: the extent to which** — formal relative clause with the preposition in front · ★★★★ · formal
+- **the way (that), not 'the way how'** — use 'the way' or 'how', never both together · ★★★★ · neutral
+- **at which point** — and then, at that moment; links events in a story · ★★★★ · neutral
+- **quantifier + of whom / of which: some of whom** — relative clause after some, most, all or none of · ★★★★ · formal
+- **stranded preposition vs. fronting: who I spoke to / to whom I spoke** — a final preposition is normal; fronting it is formal · ★★★★ · neutral
+- **whether vs. if in noun clauses** — use whether after prepositions, before to-infinitives and as subject · ★★★★ · neutral
+
+### Nouns, articles, quantifiers & agreement
+
+- **zero article with abstract nouns: Happiness is …** — no article for abstract ideas in general; 'the' for specific ones · ★★★★★ · neutral
+- **generic plural without the: Dogs are loyal** — plural noun with no article for things in general · ★★★★★ · neutral
+- **a number of vs. the number of** — a number of + plural verb; the number of + singular verb · ★★★★★ · neutral
+- **singular they: Someone left their phone** — they and their for one person of unknown or nonbinary gender · ★★★★★ · neutral
+- **collective nouns in American English: The team is …** — US uses a singular verb; British often uses a plural one · ★★★★★ · neutral, US
+- **uncountable nouns: research, feedback, advice (no plural)** — no -s and no a; use 'a piece of' if needed · ★★★★★ · neutral
+- **most people vs. most of the people vs. the most** — most + noun is general; most of the + noun is a specific group · ★★★★★ · neutral
+- **agreement with the head noun: The quality of the products is …** — the verb agrees with the main noun, not the nearest noun · ★★★★★ · neutral
+- **there's + plural noun in speech: There's a lot of people** — very common in casual speech; write 'there are' · ★★★★★ · informal
+- **between you and me (not I)** — object pronouns after prepositions; 'and I' here is hypercorrection · ★★★★★ · neutral
+- **pronoun case in compound subjects: He and I went (not me and him)** — subject pronouns in subjects; 'me and him' is very informal · ★★★★★ · neutral
+- **compound adjective with a number: a ten-minute walk** — number + singular noun, hyphenated, before another noun · ★★★★★ · neutral
+- **every other / every few: every other day** — every other = alternate ones; every few + plural = at short intervals · ★★★★★ · neutral
+- **quite a few / quite a bit (= many / much)** — despite few and bit, it means a fairly large amount · ★★★★★ · neutral
+- **a couple + plural without of (US informal): a couple weeks** — American speech often drops of after a couple · ★★★★★ · informal, US
+- **as many as / as much as + number** — stresses that a number or amount is surprisingly large · ★★★★★ · neutral
+- **much in affirmative sentences: There is much to do** — positive much sounds formal; speech prefers a lot of · ★★★★ · formal
+- **generic the + singular: The smartphone changed …** — the + singular noun for a whole class, often inventions or species · ★★★★ · neutral
+- **the + adjective: the rich, the unemployed** — a group of people; takes a plural verb · ★★★★ · neutral
+- **a / an with an uncountable + adjective: a good education** — a or an when an adjective or of-phrase describes a kind · ★★★★ · neutral
+- **countable and uncountable senses: experience vs. an experience** — the meaning changes: general skill vs. a single event · ★★★★ · neutral
+- **none of + singular or plural verb** — both are correct; the singular is more formal · ★★★★ · neutral
+- **each / every + singular verb: Each of them has …** — each and every take a singular verb, even with of + plural · ★★★★ · neutral
+- **neither of + plural noun: Neither of them is / are** — a singular verb is formal; a plural verb is common in speech · ★★★★ · neutral
+- **either … or / neither … nor agreement** — the verb agrees with the closer of the two subjects · ★★★★ · neutral
+- **data and media as singular (US)** — 'data is' in most American usage; 'data are' in formal science · ★★★★ · neutral, US
+- **classical plurals: criteria, phenomena, hypotheses** — singular criterion, phenomenon, hypothesis; avoid 'a criteria' · ★★★★ · neutral
+- **plural-looking singulars: news, politics, economics** — words ending in -s that take a singular verb · ★★★★ · neutral
+- **amounts as singular: Ten dollars is …** — money, time and distance seen as one amount take a singular verb · ★★★★ · neutral
+- **along with / as well as: the verb agrees with the first subject** — added phrases do not make the subject plural · ★★★★ · neutral
+- **the majority of + plural verb** — the verb follows the noun after of; 'the majority' alone can be singular · ★★★★ · neutral
+- **percentages and fractions: 60% of people are …** — the verb agrees with the noun after of · ★★★★ · neutral
+- **a great deal of vs. a great many** — a great deal of + uncountable; a great many + plural · ★★★★ · formal
+- **few vs. a few** — few = not many (negative); a few = some (positive) · ★★★★ · neutral
+- **little vs. a little** — little = not much (negative); a little = some (positive) · ★★★★ · neutral
+- **whom in formal English: to whom, for whom** — object form; needed after prepositions in formal writing · ★★★★ · formal
+- **whose for things: a company whose profits …** — whose can refer to things, not only to people · ★★★★ · neutral
+- **all vs. whole: the whole day / all day** — whole with singular countable nouns; all with uncountables and plurals · ★★★★ · neutral
+- **hyphenated compound adjectives: a well-known author / she is well known** — hyphen before a noun; usually no hyphen after the verb · ★★★★ · neutral
+- **noun + noun vs. 's vs. of: the car door, the company's success** — noun modifier for types; 's for owners; of for parts · ★★★★ · neutral
+- **double possessive: a friend of mine** — of + possessive for one of several · ★★★★ · neutral
+- **time possessive: a week's notice, two years' experience** — 's or s' to express a length of time · ★★★★ · neutral
+- **than me vs. than I (am)** — 'than me' is normal; 'than I am' is careful style · ★★★★ · neutral
+- **misused myself: Contact John or myself** — use me unless the subject is also I · ★★★★ · neutral
+- **the with geographic names: the Netherlands, the Alps** — the with plural names, rivers, mountain ranges and some countries · ★★★★ · neutral
+- **institution nouns: in the hospital (US), go to college** — American English: the with hospital; college with no article · ★★★★ · neutral, US
+- **adjective + a + noun after so / too / how: too big a risk** — so, too, as or how + adjective + a + noun · ★★★★ · formal
+- **quite a + noun: That's quite a story** — a remarkable or unusual example of something · ★★★★ · informal
+- **kind of / sort of agreement: these kinds of things** — this kind of / these kinds of; avoid 'these kind of' in writing · ★★★★ · neutral
+- **any (= no matter which): Any student can …** — stressed any means every one, without exception · ★★★★ · neutral

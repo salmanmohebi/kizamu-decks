@@ -1,0 +1,1130 @@
+{
+  "topic_id": "h04-als-ob-irreale-vergleiche",
+  "level": "B2",
+  "title_de": "Irreale Vergleichssätze (als ob, als wenn, als + Verb)",
+  "title_en": "Unreal comparisons (as if / as though)",
+  "rule": {
+    "summary": "An unreal comparison (*irrealer Vergleichssatz*) compares a real situation with an imagined one: *Er tut so, als ob er krank wäre* (he is not ill, or the speaker doubts it). There are two forms: **als ob / als wenn** + verb at the end, and the short form **als** + finite verb directly after *als* (*als wäre er krank*). The verb is in the **Konjunktiv II**; in formal writing and the press the **Konjunktiv I** is also common (*als sei er krank*). A real comparison with a fact uses **wie** + indicative.",
+    "table": "| Zeitbezug | als ob / als wenn (Verb am Ende) | als + Verb (Verb direkt nach *als*) |\n|---|---|---|\n| gleichzeitig | als ob er krank **wäre** | als **wäre** er krank |\n| vorzeitig | als ob er es nicht gewusst **hätte** | als **hätte** er es nicht gewusst |\n| nachzeitig | als ob er gleich gehen **würde** | als **würde** er gleich gehen |\n| formal: Konjunktiv I | als ob er krank **sei** | als **sei** er krank · als **habe** er es nicht gewusst |",
+    "steps": [
+      "Decide if the comparison is real or unreal. A fact, an expectation that came true → **wie** + indicative (*so, wie er es versprochen hat*). Something imagined, untrue or doubtful → **als ob / als wenn / als** + Konjunktiv.",
+      "Choose the form. After **als ob** or **als wenn** the finite verb goes to the end of the clause. After **als** alone the finite verb comes directly after *als*, then the subject: *als hätte sie …*.",
+      "Find the time relation to the main clause, not to the moment of speaking. Same time → Konjunktiv II Gegenwart (*wäre, hätte, könnte, ginge* or *würde* + Infinitiv). Earlier → **hätte/wäre + Partizip II**. Later → **würde + Infinitiv**.",
+      "Choose *haben* or *sein* for the past form as in the Perfekt: *gefallen, geschehen, stehen bleiben* → *wäre*; *gewinnen, schlafen, sich einigen* → *hätte*. With a modal verb use the Ersatzinfinitiv: *als ob er es hätte verhindern können*.",
+      "In formal written texts you may use the Konjunktiv I (*sei, habe, gebe, wisse*). If the Konjunktiv I looks like the indicative (*sie haben*), use the Konjunktiv II (*sie hätten*).",
+      "Put a comma before *als ob / als wenn / als*. Typical main clauses: *so tun, aussehen, klingen, sich anhören, sich anfühlen, wirken, sich verhalten, schmecken, riechen, es scheint, es kommt mir (so) vor, mir ist*."
+    ],
+    "pitfalls": [
+      "Mixing the two forms: ✗ *Er tut so, als ob wäre er krank.* → ✓ *als ob er krank wäre* or ✓ *als wäre er krank*. *ob* sends the verb to the end; *als* alone pulls it forward.",
+      "Verb at the end after *als* alone: ✗ *Sie lächelte, als sie nichts gehört hätte.* → ✓ *Sie lächelte, als hätte sie nichts gehört.* With the verb at the end, *als* is read as the temporal conjunction (*when*).",
+      "Indicative after *als* + verb: ✗ *als ist er krank*, ✗ *als hatte er es gewusst* → ✓ *als wäre er krank*, ✓ *als hätte er es gewusst*. The short form always needs a Konjunktiv. (After *als ob* the indicative is sometimes heard in casual speech, but not in good written German.)",
+      "Shifting the time back because the main clause is in the past: for the same time say ✓ *Sie wirkte, als ob sie Schmerzen hätte* (she seemed to be in pain at that moment), not *… Schmerzen gehabt hätte*, which means the pain was earlier.",
+      "Using *als ob* for a real comparison: ✗ *Es lief genau so, als ob wir es geplant haben.* → ✓ *Es lief genau so, wie wir es geplant haben.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Der Abteilungsleiter tut so, als ob er von dem Problem nichts {{c1::wüsste::wissen}}.",
+      "en": "The head of department acts as if he knew nothing about the problem.",
+      "focus": "als ob · gleichzeitig · Verb am Ende",
+      "explanation": "*so tun, als ob* introduces an unreal comparison: in reality he does know. His pretending and his (not) knowing are at the same time → Konjunktiv II Gegenwart. *wissen* is a mixed verb: Präteritum *wusste* + umlaut → **wüsste**. After *als ob* the finite verb stands at the end.",
+      "pattern": "so tun, als ob + … + Konj. II (Verb am Ende)",
+      "mistake": {
+        "wrong": "Der Abteilungsleiter tut so, als ob er wüsste von dem Problem nichts.",
+        "why": "*als ob* is a subordinating conjunction, so the finite verb must go to the end: *als ob er von dem Problem nichts wüsste*. Verb second position is a main-clause order."
+      },
+      "examples": [
+        {
+          "de": "Mein Bruder tut so, als ob er keine Ahnung hätte, wo das Geld ist.",
+          "en": "My brother acts as if he had no idea where the money is."
+        },
+        {
+          "de": "Die Vermieterin tut so, als ob der Schimmel im Bad ein kleines Problem wäre.",
+          "en": "The landlady acts as if the mould in the bathroom were a small problem."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Abteilungsleiter",
+          "en": "head of department"
+        }
+      ],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Ministerin sprach, als {{c1::hätte::haben}} sie die Wahl bereits gewonnen.",
+      "en": "The minister spoke as if she had already won the election.",
+      "focus": "als + Verb · vorzeitig",
+      "explanation": "Winning the election would lie before her speaking → past form of the Konjunktiv II: **hätte** + Partizip II *gewonnen* (*gewinnen* forms its Perfekt with *haben*). In the short form without *ob*, the finite verb *hätte* comes directly after *als*, and the subject *sie* follows it.",
+      "pattern": "…, als + hätte + Subjekt + … + Partizip II",
+      "mistake": {
+        "wrong": "Die Ministerin sprach, als hatte sie die Wahl bereits gewonnen.",
+        "why": "*hatte* is the indicative Präteritum. The short form *als* + verb always needs the Konjunktiv: *hätte* with umlaut."
+      },
+      "examples": [
+        {
+          "de": "Der Trainer jubelte, als hätte seine Mannschaft schon den Pokal gewonnen.",
+          "en": "The coach cheered as if his team had already won the cup."
+        },
+        {
+          "de": "Sie redete über das Buch, als hätte sie es selbst geschrieben.",
+          "en": "She talked about the book as if she had written it herself."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als + Verb, ohne ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Nach der Sanierung sieht das Rathaus aus, als wäre es gerade erst {{c1::gebaut worden::bauen · Passiv}}.",
+      "en": "After the renovation, the town hall looks as if it had only just been built.",
+      "focus": "als + Verb · vorzeitig · Passiv",
+      "explanation": "The building would have happened before the present look → past Konjunktiv II. In the passive the past form is **wäre + Partizip II + worden**: *wäre … gebaut worden*. In the passive Perfekt the participle of *werden* is *worden*, not *geworden*.",
+      "pattern": "als + wäre + Subjekt + … + Partizip II + worden",
+      "mistake": {
+        "wrong": "Nach der Sanierung sieht das Rathaus aus, als wäre es gerade erst gebaut geworden.",
+        "why": "When *werden* is the passive auxiliary, its Partizip II is *worden*. *geworden* is only used when *werden* is a full verb (*Er ist Arzt geworden*)."
+      },
+      "examples": [
+        {
+          "de": "Der Text liest sich, als wäre er maschinell übersetzt worden.",
+          "en": "The text reads as if it had been machine-translated."
+        },
+        {
+          "de": "Die Akte sah aus, als wäre sie nie geöffnet worden.",
+          "en": "The file looked as if it had never been opened."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Sanierung",
+          "en": "renovation, refurbishment"
+        }
+      ],
+      "production_cue": "(Passiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Das klingt, als {{c1::wäre::Hilfsverb}} die Entscheidung längst gefallen.",
+      "en": "That sounds as if the decision had been made long ago.",
+      "focus": "klingen · vorzeitig · haben oder sein?",
+      "explanation": "*klingen, als* introduces an unreal comparison. The decision would lie before the moment of speaking → past Konjunktiv II. *eine Entscheidung fällt* is a change of state and forms the Perfekt with *sein* (*ist gefallen*), so the Konjunktiv is **wäre … gefallen**.",
+      "pattern": "klingen, als + wäre + Subjekt + Partizip II",
+      "mistake": {
+        "wrong": "Das klingt, als hätte die Entscheidung längst gefallen.",
+        "why": "*fallen* forms its Perfekt with *sein*, and the Konjunktiv II keeps that auxiliary: *wäre gefallen*, not *hätte gefallen*."
+      },
+      "examples": [
+        {
+          "de": "Ihre Stimme klang, als wäre sie gerade erst aufgewacht.",
+          "en": "Her voice sounded as if she had only just woken up."
+        },
+        {
+          "de": "Das hört sich an, als wäre bei euch etwas Schlimmes passiert.",
+          "en": "That sounds as if something bad had happened at your place."
+        }
+      ],
+      "words": [
+        {
+          "de": "längst",
+          "en": "long ago, a long time ago"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Der Konzern stellt es so dar, als {{c1::habe::haben · Konj. I}} es nie Warnungen gegeben.",
+      "en": "The corporation presents it as if there had never been any warnings.",
+      "focus": "formelle Schriftsprache · vorzeitig",
+      "explanation": "In formal written German (reports, press) the unreal comparison often uses the Konjunktiv I. *es gibt* forms its Perfekt with *haben* → past Konjunktiv I: **habe … gegeben**. *habe* (3rd person singular) is clearly different from the indicative *hat*, so the Konjunktiv I is possible here.",
+      "pattern": "als + habe/sei + Subjekt + … + Partizip II (Konj. I)",
+      "mistake": {
+        "wrong": "Der Konzern stellt es so dar, als ob habe es nie Warnungen gegeben.",
+        "why": "This mixes the two forms. Either *als habe es … gegeben* (verb directly after *als*) or *als ob es … gegeben habe* (verb at the end)."
+      },
+      "examples": [
+        {
+          "de": "Die Behörde tut so, als habe sie von den Mängeln nichts gewusst.",
+          "en": "The authority acts as if it had known nothing about the defects."
+        },
+        {
+          "de": "In der Stellungnahme klingt es, als habe der Vorstand alles richtig gemacht.",
+          "en": "In the statement it sounds as if the board had done everything right."
+        }
+      ],
+      "words": [
+        {
+          "de": "etwas darstellen",
+          "en": "to present, to portray something"
+        }
+      ],
+      "production_cue": "(Konjunktiv I, formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Bericht erweckt den Eindruck, als {{c1::sei::sein · Konj. I}} die Krise bereits überwunden.",
+      "en": "The report gives the impression that the crisis has already been overcome.",
+      "focus": "den Eindruck erwecken · Konj. I · gleichzeitig",
+      "explanation": "*den Eindruck erwecken, als …* is a fixed formal phrase that introduces an unreal comparison. *überwunden sein* is a state (Zustandspassiv) at the same time as the report → Konjunktiv I Gegenwart of *sein*: **sei**. In the short form the verb follows *als* directly.",
+      "pattern": "den Eindruck erwecken, als + sei + Subjekt + Partizip II",
+      "mistake": {
+        "wrong": "Der Bericht erweckt den Eindruck, als ob sei die Krise bereits überwunden.",
+        "why": "After *als ob* the finite verb goes to the end: *als ob die Krise bereits überwunden sei*. Only after *als* alone does the verb come first."
+      },
+      "examples": [
+        {
+          "de": "Die Werbung erweckt den Eindruck, als sei das Produkt völlig klimaneutral.",
+          "en": "The advertising gives the impression that the product is completely climate-neutral."
+        },
+        {
+          "de": "Der Minister sprach, als sei die Reform längst beschlossen.",
+          "en": "The minister spoke as if the reform had long since been decided."
+        }
+      ],
+      "words": [
+        {
+          "de": "den Eindruck erwecken",
+          "en": "to give / create the impression"
+        },
+        {
+          "de": "überwinden",
+          "en": "to overcome"
+        }
+      ],
+      "production_cue": "(Konjunktiv I, formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Mir ist, als {{c1::hätte ich::haben · ich}} diesen Mann schon einmal gesehen.",
+      "en": "I have the feeling that I've seen this man before.",
+      "focus": "mir ist, als … · Wortstellung nach als",
+      "explanation": "*Mir ist, als …* (literally *it is to me as if*) expresses a vague feeling or memory. The seeing would be earlier → **hätte** + *gesehen*. In the short form the finite verb comes directly after *als*, and the subject follows: *als hätte ich*.",
+      "pattern": "Mir ist, als + hätte + ich + … + Partizip II",
+      "mistake": {
+        "wrong": "Mir ist, als ich hätte diesen Mann schon einmal gesehen.",
+        "why": "After *als* the finite verb must stand directly in the first position of the clause. The subject *ich* comes after it: *als hätte ich*."
+      },
+      "examples": [
+        {
+          "de": "Mir war, als hätte jemand meinen Namen gerufen.",
+          "en": "I had the feeling that someone had called my name."
+        },
+        {
+          "de": "Ihm war, als hätte er den Schlüssel auf den Tisch gelegt.",
+          "en": "He had the impression that he had put the key on the table."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Mir ist, als …)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Märkte reagieren, als ob die Zentralbank die Zinsen demnächst {{c1::erhöhen würde::erhöhen}}.",
+      "en": "The markets are reacting as if the central bank were going to raise interest rates soon.",
+      "focus": "als ob · nachzeitig",
+      "explanation": "The imagined event lies after the reaction (*demnächst*) → **würde + Infinitiv**. In the *als ob* clause the finite verb *würde* goes to the very end, after the infinitive: *erhöhen würde*. The synthetic form *erhöhte* would look like the Präteritum and would not show the future meaning.",
+      "pattern": "als ob + … + Infinitiv + würde",
+      "mistake": {
+        "wrong": "Die Märkte reagieren, als ob die Zentralbank die Zinsen demnächst würde erhöhen.",
+        "why": "In a subordinate clause *würde* is the finite verb and stands at the end, after the infinitive: *erhöhen würde*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinder benehmen sich, als ob morgen die Ferien anfangen würden.",
+          "en": "The children are behaving as if the holidays were starting tomorrow."
+        },
+        {
+          "de": "Er packt schon Kisten, als ob er nächste Woche ausziehen würde.",
+          "en": "He is already packing boxes as if he were moving out next week."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Zinsen (Pl.)",
+          "en": "interest rates"
+        }
+      ],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Als ob::irreale Zurückweisung}} ich keine anderen Sorgen hätte!",
+      "en": "As if I had no other worries!",
+      "focus": "selbstständiger Ausruf · ironische Ablehnung",
+      "explanation": "An **Als ob** clause can stand alone as an exclamation. It rejects an idea ironically: the speaker means *I have enough other worries*. The structure is still a subordinate clause, so the finite verb *hätte* (Konjunktiv II) stands at the end. The short form also works: *Als hätte ich keine anderen Sorgen!*",
+      "pattern": "Als ob + … + Konj. II! (selbstständig)",
+      "mistake": {
+        "wrong": "Als ob ich hätte keine anderen Sorgen!",
+        "why": "Even without a main clause, *als ob* starts a subordinate clause: the finite verb goes to the end (*… keine anderen Sorgen hätte*)."
+      },
+      "examples": [
+        {
+          "de": "Als ob das so einfach wäre!",
+          "en": "As if it were that simple!"
+        },
+        {
+          "de": "Als ob er jemals pünktlich gewesen wäre!",
+          "en": "As if he had ever been on time!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ironic exclamation)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die neue Software funktioniert genau so, {{c1::wie::Vergleichswort}} der Hersteller es versprochen hat.",
+      "en": "The new software works exactly as the manufacturer promised.",
+      "focus": "Vergleich mit einer Tatsache · Indikativ",
+      "explanation": "The manufacturer really made the promise, and the software really works that way. This is a real comparison, so it uses **wie** + indicative (*versprochen hat*). *als ob* would only fit if the comparison were imagined or untrue.",
+      "pattern": "(genau) so, wie + Indikativ (realer Vergleich)",
+      "mistake": {
+        "wrong": "Die neue Software funktioniert genau so, als ob der Hersteller es versprochen hat.",
+        "why": "*als ob* introduces an unreal comparison and needs the Konjunktiv. The promise is a fact, so the comparison is real: *so, wie der Hersteller es versprochen hat*."
+      },
+      "examples": [
+        {
+          "de": "Die Operation verlief so, wie die Ärztin es erwartet hatte.",
+          "en": "The operation went as the doctor had expected."
+        },
+        {
+          "de": "Alles kam genau so, wie wir es befürchtet hatten.",
+          "en": "Everything turned out exactly as we had feared."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hersteller",
+          "en": "manufacturer"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Der Bürgermeister tat so, als ob er nichts dagegen {{c1::hätte tun können::tun · können · Vergangenheit}}.",
+      "en": "The mayor acted as if he could not have done anything about it.",
+      "focus": "als ob · Modalverb · vorzeitig",
+      "explanation": "The imagined (non-)possibility lies in the past → *hätte* + infinitive + modal verb. A modal verb in a compound tense uses the Ersatzinfinitiv *können* instead of *gekonnt*. With an Ersatzinfinitiv the finite verb *hätte* stands **before** the two infinitives, even after *als ob*: **hätte tun können**.",
+      "pattern": "als ob + … + hätte + Infinitiv + Modalverb (Ersatzinfinitiv)",
+      "mistake": {
+        "wrong": "Der Bürgermeister tat so, als ob er nichts dagegen tun können hätte.",
+        "why": "With an Ersatzinfinitiv the finite auxiliary does not go to the very end. It stands in front of the verb cluster: *hätte tun können*."
+      },
+      "examples": [
+        {
+          "de": "Sie redet, als ob sie die Kündigung nicht hätte vermeiden können.",
+          "en": "She talks as if she could not have avoided the dismissal."
+        },
+        {
+          "de": "Er tut so, als ob er gestern nicht hätte kommen dürfen.",
+          "en": "He acts as if he had not been allowed to come yesterday."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als ob, Modalverb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Es scheint, als hätten sich die Tarifparteien doch noch {{c1::geeinigt::sich einigen}}.",
+      "en": "It seems as if the two sides in the wage dispute have reached an agreement after all.",
+      "focus": "es scheint, als … · vorzeitig · Reflexivverb",
+      "explanation": "*Es scheint, als …* presents an impression that the speaker is not sure about → Konjunktiv II. The agreement would lie before the moment of speaking → *hätten* + Partizip II **geeinigt**. Reflexive verbs always form the Perfekt with *haben*; the reflexive pronoun *sich* stays in the Mittelfeld after *hätten*.",
+      "pattern": "Es scheint, als + hätten + sich + Subjekt + … + Partizip II",
+      "mistake": {
+        "wrong": "Es scheint, als wären sich die Tarifparteien doch noch geeinigt.",
+        "why": "*sich einigen* is reflexive, and reflexive verbs take *haben*: *hätten sich … geeinigt*. *wären … geeinigt* is not a correct form."
+      },
+      "examples": [
+        {
+          "de": "Es scheint, als hätte sich das Wetter endlich beruhigt.",
+          "en": "It seems as if the weather has finally calmed down."
+        },
+        {
+          "de": "Es schien, als hätte sich niemand für den Vortrag interessiert.",
+          "en": "It seemed as if nobody had been interested in the talk."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Tarifparteien (Pl.)",
+          "en": "the two sides in collective wage bargaining (employers and unions)"
+        }
+      ],
+      "production_cue": "(es scheint, als …)",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Der neue Kollege verhält sich, als {{c1::wäre::sein}} er schon seit Jahren im Team.",
+      "en": "The new colleague behaves as if he had been on the team for years.",
+      "focus": "sich verhalten · gleichzeitig · als + Verb",
+      "explanation": "*sich verhalten, als …* compares his behaviour with an untrue situation. With *seit Jahren* German uses the present for a state that is still going on, so the Konjunktiv II Gegenwart is right: **wäre** (not *gewesen wäre*). English needs the past perfect here (*had been*).",
+      "pattern": "sich verhalten, als + wäre + Subjekt + seit …",
+      "mistake": {
+        "wrong": "Der neue Kollege verhält sich, als wenn wäre er schon seit Jahren im Team.",
+        "why": "*als wenn* works like *als ob*: the verb goes to the end (*als wenn er … im Team wäre*). Only *als* alone takes the verb directly after it."
+      },
+      "examples": [
+        {
+          "de": "Die Praktikantin verhält sich, als wäre sie die Projektleiterin.",
+          "en": "The intern behaves as if she were the project manager."
+        },
+        {
+          "de": "Er benimmt sich, als wäre die Wohnung seine eigene.",
+          "en": "He behaves as if the flat were his own."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich verhalten",
+          "en": "to behave"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Es fühlt sich an, als {{c1::hätte::haben}} ich seit Tagen nicht geschlafen.",
+      "en": "It feels as if I hadn't slept for days.",
+      "focus": "sich anfühlen · vorzeitig · haben oder sein?",
+      "explanation": "*sich anfühlen, als …* compares a physical feeling with an imagined cause. The (not) sleeping lies before the feeling → past Konjunktiv II. *schlafen* forms its Perfekt with *haben*, so the form is **hätte … geschlafen**.",
+      "pattern": "Es fühlt sich an, als + hätte + Subjekt + … + Partizip II",
+      "mistake": {
+        "wrong": "Es fühlt sich an, als wäre ich seit Tagen nicht geschlafen.",
+        "why": "*schlafen* is not a verb of movement or change of state; it takes *haben* (*ich habe geschlafen*). The Konjunktiv II keeps the auxiliary: *hätte geschlafen*."
+      },
+      "examples": [
+        {
+          "de": "Es fühlte sich an, als hätte mir jemand den Boden unter den Füßen weggezogen.",
+          "en": "It felt as if someone had pulled the ground out from under my feet."
+        },
+        {
+          "de": "Mein Knie fühlt sich an, als hätte ich es mir verdreht.",
+          "en": "My knee feels as if I had twisted it."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die Patientin wirkte, als ob sie große Schmerzen {{c1::hätte::haben}}.",
+      "en": "The patient looked as if she were in great pain.",
+      "focus": "Hauptsatz Präteritum · gleichzeitig",
+      "explanation": "The time of the *als ob* clause is relative to the main clause. The pain and her appearance are at the same moment, so the Konjunktiv II Gegenwart is correct: **hätte**, even though *wirkte* is in the past. *hätte gehabt* would mean the pain was before that moment.",
+      "pattern": "Präteritum im Hauptsatz, als ob + Konj. II Gegenwart (gleichzeitig)",
+      "mistake": {
+        "wrong": "Die Patientin wirkte, als ob sie hätte große Schmerzen.",
+        "why": "After *als ob* the finite verb goes to the end of the clause: *als ob sie große Schmerzen hätte*."
+      },
+      "examples": [
+        {
+          "de": "Der Redner wirkte, als ob er lieber woanders wäre.",
+          "en": "The speaker seemed as if he would rather be somewhere else."
+        },
+        {
+          "de": "Gestern klang deine Mutter am Telefon, als ob sie erkältet wäre.",
+          "en": "Yesterday your mother sounded on the phone as if she had a cold."
+        }
+      ],
+      "words": [
+        {
+          "de": "wirken",
+          "en": "to seem, to appear"
+        }
+      ],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Die Suppe schmeckt, als ob jemand den ganzen Salzstreuer {{c1::hineingekippt hätte::hineinkippen}}.",
+      "en": "The soup tastes as if someone had tipped the whole salt shaker into it.",
+      "focus": "schmecken · vorzeitig · trennbares Verb",
+      "explanation": "The imagined cause lies before the taste → *hätte* + Partizip II. *hineinkippen* is separable: the *ge-* goes between prefix and stem → **hineingekippt**. *kippen* has an Akkusativ object here (*den Salzstreuer*), so the auxiliary is *haben*; after *als ob* it stands at the very end.",
+      "pattern": "als ob + … + Partizip II (trennbar: Präfix-ge-Stamm) + hätte",
+      "mistake": {
+        "wrong": "Die Suppe schmeckt, als ob jemand den ganzen Salzstreuer hineingekippt wäre.",
+        "why": "*hineinkippen* with an Akkusativ object is transitive and takes *haben*: *hineingekippt hätte*."
+      },
+      "examples": [
+        {
+          "de": "Das Brot schmeckt, als ob der Bäcker das Salz vergessen hätte.",
+          "en": "The bread tastes as if the baker had forgotten the salt."
+        },
+        {
+          "de": "Der Wein schmeckt, als ob jemand Wasser hineingegossen hätte.",
+          "en": "The wine tastes as if someone had poured water into it."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Salzstreuer",
+          "en": "salt shaker"
+        }
+      ],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Sie lächelte, {{c1::als::Vergleichswort}} hätte sie die Frage nicht gehört.",
+      "en": "She smiled as if she hadn't heard the question.",
+      "focus": "Verb direkt nach dem Vergleichswort",
+      "explanation": "The finite verb *hätte* comes directly after the conjunction, so the only possible word is **als** (short form). *als ob* or *als wenn* would need the verb at the end (*als ob sie die Frage nicht gehört hätte*). The past Konjunktiv II shows that the hearing would have been before the smile.",
+      "pattern": "…, als + Konj. II + Subjekt + … (ohne ob)",
+      "mistake": {
+        "wrong": "Sie lächelte, als ob hätte sie die Frage nicht gehört.",
+        "why": "This mixes the two forms. With *ob* the verb must go to the end; with the verb directly after the conjunction, *ob* must be dropped."
+      },
+      "examples": [
+        {
+          "de": "Er sah mich an, als hätte ich etwas Unanständiges gesagt.",
+          "en": "He looked at me as if I had said something indecent."
+        },
+        {
+          "de": "Die Kollegin sah weg, als hätte sie mich nicht bemerkt.",
+          "en": "My colleague looked away as if she hadn't noticed me."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Am nächsten Morgen kam er ins Büro, als ob nichts {{c1::gewesen wäre::sein}}.",
+      "en": "The next morning he came into the office as if nothing had happened.",
+      "focus": "feste Wendung · vorzeitig",
+      "explanation": "*als ob nichts gewesen wäre* is a fixed phrase: *as if nothing had happened*. The (non-)event lies before his arrival → past Konjunktiv II. *sein* forms its Perfekt with *sein* → **gewesen wäre**, with *wäre* at the end after *als ob*.",
+      "pattern": "als ob nichts + gewesen wäre (feste Wendung)",
+      "mistake": {
+        "wrong": "Am nächsten Morgen kam er ins Büro, als ob nichts gewesen hätte.",
+        "why": "*sein* forms the Perfekt with *sein* (*es ist gewesen*), so the Konjunktiv II is *gewesen wäre*, not *gewesen hätte*."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Streit setzte sie sich an den Tisch, als ob nichts geschehen wäre.",
+          "en": "After the argument she sat down at the table as if nothing had happened."
+        },
+        {
+          "de": "Die Regierung macht weiter, als ob nichts passiert wäre.",
+          "en": "The government carries on as if nothing had happened."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Er redet über die Firma, als ob sie ihm {{c1::gehören würde::gehören · würde-Form}}.",
+      "en": "He talks about the company as if it belonged to him.",
+      "focus": "als ob · schwaches Verb · gleichzeitig",
+      "explanation": "*gehören* is a weak verb: its Konjunktiv II *gehörte* looks exactly like the Präteritum. To make the Konjunktiv clear, speakers use **würde + Infinitiv**: *gehören würde*. After *als ob* the finite *würde* stands at the end. *gehören* takes the Dativ (*ihm*).",
+      "pattern": "als ob + … + Infinitiv + würde (Ersatz für schwache Verben)",
+      "mistake": {
+        "wrong": "Er redet über die Firma, als ob sie ihm gehören wurde.",
+        "why": "*wurde* is the indicative Präteritum of *werden* (*was becoming*). The Konjunktiv II needs the umlaut: *würde*."
+      },
+      "examples": [
+        {
+          "de": "Sie tanzt, als ob niemand zuschauen würde.",
+          "en": "She dances as if nobody were watching."
+        },
+        {
+          "de": "Er fährt, als ob ihm die Straße gehören würde.",
+          "en": "He drives as if he owned the road."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als ob, würde-Form)",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Tu doch nicht so, als ob du keine Zeit {{c1::hättest::haben}}!",
+      "en": "Don't act as if you had no time!",
+      "focus": "Imperativ + so tun · du-Form",
+      "explanation": "*so tun, als ob* is often used in a negative imperative to reject a pretence. The (not) having time is at the same time → Konjunktiv II Gegenwart of *haben*, 2nd person singular: **hättest**. The modal particle *doch* makes the reproach stronger.",
+      "pattern": "Tu nicht so, als ob du + … + Konj. II!",
+      "mistake": {
+        "wrong": "Tu doch nicht so, als ob du keine Zeit hattest!",
+        "why": "*hattest* (no umlaut) is the indicative Präteritum and means *you had (in the past)*. The Konjunktiv II for the same time is *hättest*."
+      },
+      "examples": [
+        {
+          "de": "Tut doch nicht so, als ob ihr davon nichts wüsstet!",
+          "en": "Don't act as if you knew nothing about it!"
+        },
+        {
+          "de": "Tun Sie bitte nicht so, als ob Sie keine Wahl hätten.",
+          "en": "Please don't act as if you had no choice."
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "In dem Kommentar wird so getan, als {{c1::hätten::haben}} die Bürger keine Wahl.",
+      "en": "The commentary makes it look as if citizens had no choice.",
+      "focus": "formeller Text · Konj. I nicht erkennbar",
+      "explanation": "In a formal text the Konjunktiv I would be normal, but the 3rd person plural Konjunktiv I *haben* looks exactly like the indicative. In that case German uses the Konjunktiv II: **hätten**. *es wird so getan, als …* is an impersonal passive of *so tun*.",
+      "pattern": "als + hätten (Konj. II statt Konj. I = Indikativ) + Subjekt",
+      "mistake": {
+        "wrong": "In dem Kommentar wird so getan, als haben die Bürger keine Wahl.",
+        "why": "*haben* is not recognisable as a Konjunktiv, and *als* + verb needs a clear Konjunktiv. Replace the Konjunktiv I *haben* with the Konjunktiv II *hätten*."
+      },
+      "examples": [
+        {
+          "de": "Im Gutachten wird so getan, als hätten die Anwohner keine Einwände erhoben.",
+          "en": "The expert report makes it look as if the residents had raised no objections."
+        },
+        {
+          "de": "Die Studie stellt es so dar, als hätten die Teilnehmer freiwillig verzichtet.",
+          "en": "The study presents it as if the participants had given it up voluntarily."
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Der Whistleblower wurde behandelt, als hätte er ein Verbrechen {{c1::begangen::begehen}}.",
+      "en": "The whistleblower was treated as if he had committed a crime.",
+      "focus": "Hauptsatz Passiv · vorzeitig · starkes Verb",
+      "explanation": "The imagined crime lies before the treatment → *hätte* + Partizip II. *begehen* is a strong verb with an inseparable prefix: no *ge-*, and the participle is built like *gehen – gegangen*: **begangen**. The main clause is in the passive, but this does not change the form in the comparison.",
+      "pattern": "…, als + hätte + Subjekt + Objekt + Partizip II",
+      "mistake": {
+        "wrong": "Der Whistleblower wurde behandelt, als er ein Verbrechen begangen hätte.",
+        "why": "With *als* alone the finite verb must come directly after *als*: *als hätte er … begangen*. With the verb at the end you need *als ob*."
+      },
+      "examples": [
+        {
+          "de": "Die Journalistin wurde verhört, als hätte sie Staatsgeheimnisse verraten.",
+          "en": "The journalist was interrogated as if she had betrayed state secrets."
+        },
+        {
+          "de": "Der Spieler wurde ausgepfiffen, als hätte er absichtlich verloren.",
+          "en": "The player was booed as if he had lost on purpose."
+        }
+      ],
+      "words": [
+        {
+          "de": "ein Verbrechen begehen",
+          "en": "to commit a crime"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Der Himmel sieht aus, als {{c1::gäbe::geben}} es gleich ein Gewitter.",
+      "en": "The sky looks as if there's going to be a thunderstorm any minute.",
+      "focus": "aussehen · starkes Verb · Konj. II",
+      "explanation": "*aussehen, als …* compares an appearance with a possible situation. The Konjunktiv II of the strong verb *geben* is formed from the Präteritum *gab* + umlaut + *-e*: **gäbe**. With *gleich* the present Konjunktiv II also covers the near future. In casual speech you may also hear *als ob es gleich ein Gewitter gibt*, because the storm is likely.",
+      "pattern": "aussehen, als + gäbe es + …",
+      "mistake": {
+        "wrong": "Der Himmel sieht aus, wie es gleich ein Gewitter gäbe.",
+        "why": "*wie* introduces a real comparison with the indicative; it cannot express an imagined situation. Use *als gäbe es …* or *als ob es … gäbe*."
+      },
+      "examples": [
+        {
+          "de": "Es sieht aus, als gäbe es heute keinen Zug mehr nach Basel.",
+          "en": "It looks as if there were no more trains to Basel today."
+        },
+        {
+          "de": "Das Stadion wirkt, als gäbe es keine freien Plätze mehr.",
+          "en": "The stadium looks as if there were no free seats left."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gewitter",
+          "en": "thunderstorm"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Er rannte zum Bahnsteig, als {{c1::ginge::gehen}} es um sein Leben.",
+      "en": "He ran to the platform as if his life depended on it.",
+      "focus": "es geht um … · starkes Verb · gleichzeitig",
+      "explanation": "*es geht um* (*it is about, it is at stake*) in the Konjunktiv II: Präteritum *ging* + *-e* → **ginge** (no umlaut possible on *i*). The running and the imagined danger are at the same time → present Konjunktiv II, although *rannte* is past. *als ginge es um sein Leben* is a common phrase for extreme effort.",
+      "pattern": "…, als + ginge es um + Akk.",
+      "mistake": {
+        "wrong": "Er rannte zum Bahnsteig, als ging es um sein Leben.",
+        "why": "*ging* is the indicative Präteritum. After *als* + verb the Konjunktiv II is needed: *ginge* with the ending *-e*."
+      },
+      "examples": [
+        {
+          "de": "Sie arbeitete, als ginge es um ihre Existenz.",
+          "en": "She worked as if her livelihood were at stake."
+        },
+        {
+          "de": "Die beiden stritten, als ginge es um Millionen.",
+          "en": "The two of them argued as if millions were at stake."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Bahnsteig",
+          "en": "(railway) platform"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Es kommt mir so vor, als {{c1::würden wir uns::werden · wir · Reflexivpronomen}} seit Monaten im Kreis drehen.",
+      "en": "It seems to me as if we've been going round in circles for months.",
+      "focus": "es kommt mir vor · Wortstellung nach als",
+      "explanation": "*Es kommt mir (so) vor, als …* expresses a personal impression. *drehte* would look like the Präteritum, so the **würde** form is used. After *als* the order is: finite verb *würden* → subject pronoun *wir* → reflexive pronoun *uns*; the infinitive *drehen* goes to the end.",
+      "pattern": "als + würde + Subjekt + Reflexivpronomen + … + Infinitiv",
+      "mistake": {
+        "wrong": "Es kommt mir so vor, als wir würden uns seit Monaten im Kreis drehen.",
+        "why": "In the short form the finite verb must come directly after *als*. The subject *wir* follows the verb: *als würden wir uns …*."
+      },
+      "examples": [
+        {
+          "de": "Es kam ihr so vor, als würde sich die ganze Stadt gegen sie verschwören.",
+          "en": "It seemed to her as if the whole city were conspiring against her."
+        },
+        {
+          "de": "Mir kommt es vor, als würde sich die Lage jeden Tag verschlechtern.",
+          "en": "It seems to me as if the situation were getting worse every day."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich im Kreis drehen",
+          "en": "to go round in circles"
+        }
+      ],
+      "production_cue": "(es kommt mir so vor)",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Der Autor schreibt, als {{c1::gebe::geben · Konj. I}} es keinen Klimawandel.",
+      "en": "The author writes as if climate change did not exist.",
+      "focus": "Konj. I · gleichzeitig · formell",
+      "explanation": "In formal texts *als* + Konjunktiv I is common. The Konjunktiv I is formed from the infinitive stem + *-e*: *geb* + *-e* → **gebe**, clearly different from the indicative *gibt*. The Konjunktiv II *gäbe* would also be correct and is more common in speech.",
+      "pattern": "als + gebe es + … (Konj. I)",
+      "mistake": {
+        "wrong": "Der Autor schreibt, als gibt es keinen Klimawandel.",
+        "why": "*gibt* is the indicative. The short form *als* + verb needs a Konjunktiv: *gebe* (Konj. I) or *gäbe* (Konj. II)."
+      },
+      "examples": [
+        {
+          "de": "Die Partei argumentiert, als gebe es keine Staatsschulden.",
+          "en": "The party argues as if there were no public debt."
+        },
+        {
+          "de": "Der Artikel liest sich, als gebe es nur eine richtige Meinung.",
+          "en": "The article reads as if there were only one correct opinion."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Konjunktiv I, formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Sie sieht ihn an, als {{c1::könnte::können}} sie Gedanken lesen.",
+      "en": "She looks at him as if she could read minds.",
+      "focus": "Modalverb · gleichzeitig · als + Verb",
+      "explanation": "A modal verb in the present Konjunktiv II: Präteritum *konnte* + umlaut → **könnte**. Modal verbs use their own synthetic form, not *würde können*. In the short form the modal comes directly after *als*, and the infinitive *lesen* goes to the end.",
+      "pattern": "als + Modalverb (Konj. II) + Subjekt + … + Infinitiv",
+      "mistake": {
+        "wrong": "Sie sieht ihn an, als sie Gedanken lesen könnte.",
+        "why": "With *als* alone the finite verb *könnte* must follow *als* directly. If the verb stays at the end, the conjunction must be *als ob*."
+      },
+      "examples": [
+        {
+          "de": "Er läuft, als könnte er nie müde werden.",
+          "en": "He runs as if he could never get tired."
+        },
+        {
+          "de": "Der Junge spricht, als könnte ihm nichts passieren.",
+          "en": "The boy talks as if nothing could happen to him."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Sie benahm sich, {{c1::als wenn::= als ob}} sie die Chefin wäre.",
+      "en": "She behaved as if she were the boss.",
+      "focus": "Variante von als ob · Verb am Ende",
+      "explanation": "**als wenn** means exactly the same as *als ob* and has the same word order: finite verb at the end (*wäre*). It is a little more common in speech. Do not confuse it with a simple *wenn* clause (condition), which has no *als*.",
+      "pattern": "als wenn + … + Konj. II (Verb am Ende)",
+      "mistake": {
+        "wrong": "Sie benahm sich, als wenn sie wäre die Chefin.",
+        "why": "*als wenn* is a subordinating conjunction like *als ob*: the finite verb goes to the end (*als wenn sie die Chefin wäre*)."
+      },
+      "examples": [
+        {
+          "de": "Er tat, als wenn er mich nicht kennen würde.",
+          "en": "He acted as if he didn't know me."
+        },
+        {
+          "de": "Das Kind schrie, als wenn es große Angst hätte.",
+          "en": "The child screamed as if it were terribly frightened."
+        }
+      ],
+      "words": [],
+      "production_cue": "(als wenn)",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "In diesem Bergdorf ist es, als wäre die Zeit {{c1::stehen geblieben::stehen bleiben}}.",
+      "en": "In this mountain village it is as if time had stood still.",
+      "focus": "es ist, als … · vorzeitig · Verbverbindung",
+      "explanation": "*Es ist, als …* describes an atmosphere. *stehen bleiben* (to stop) is a change of state → Perfekt with *sein* → past Konjunktiv II **wäre … stehen geblieben**. Duden recommends writing *stehen bleiben* as two words, so the participle is *stehen geblieben*.",
+      "pattern": "Es ist, als + wäre + Subjekt + Infinitiv + geblieben",
+      "mistake": {
+        "wrong": "In diesem Bergdorf ist es, als ob die Zeit wäre stehen geblieben.",
+        "why": "After *als ob* the finite verb *wäre* goes to the end: *als ob die Zeit stehen geblieben wäre*. Without *ob*: *als wäre die Zeit stehen geblieben*."
+      },
+      "examples": [
+        {
+          "de": "In seiner Wohnung ist es, als wären die Achtzigerjahre nie zu Ende gegangen.",
+          "en": "In his flat it is as if the eighties had never ended."
+        },
+        {
+          "de": "Nach dem Anruf war es, als wäre plötzlich alle Kraft aus mir gewichen.",
+          "en": "After the phone call it was as if all my strength had suddenly left me."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Bergdorf",
+          "en": "mountain village"
+        }
+      ],
+      "production_cue": "(als + Verb)",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Im Treppenhaus riecht es, als ob etwas {{c1::angebrannt wäre::anbrennen}}.",
+      "en": "The stairwell smells as if something had burnt.",
+      "focus": "riechen · vorzeitig · intransitives Verb",
+      "explanation": "The imagined cause lies before the smell → past Konjunktiv II. *anbrennen* (food burning in the pan) is intransitive and describes a change of state, so it takes *sein*: *etwas ist angebrannt* → **angebrannt wäre**. After *als ob* the auxiliary stands at the end.",
+      "pattern": "riechen, als ob + … + Partizip II + wäre",
+      "mistake": {
+        "wrong": "Im Treppenhaus riecht es, als ob etwas angebrannt hätte.",
+        "why": "Intransitive *anbrennen* forms the Perfekt with *sein* (*Das Essen ist angebrannt*), so the Konjunktiv II is *angebrannt wäre*."
+      },
+      "examples": [
+        {
+          "de": "In der Küche riecht es, als ob jemand Kuchen gebacken hätte.",
+          "en": "The kitchen smells as if someone had baked a cake."
+        },
+        {
+          "de": "Im Keller roch es, als ob dort jahrelang niemand gelüftet hätte.",
+          "en": "The cellar smelled as if nobody had aired it for years."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Treppenhaus",
+          "en": "stairwell"
+        },
+        {
+          "de": "anbrennen",
+          "en": "to burn (food)"
+        }
+      ],
+      "production_cue": "(als ob)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the two forms of the unreal comparison.",
+      "prompt": "What are the two word-order patterns of the unreal comparison, and how do they differ?",
+      "answer": "**als ob / als wenn** + subordinate clause with the finite verb at the end (*als ob er krank wäre*), and **als** + finite verb directly after *als* (*als wäre er krank*). The meaning is the same; never combine *ob* with the verb in first position.",
+      "explanation": "*als ob* and *als wenn* are subordinating conjunctions, so they send the verb to the end. In the short form, *als* is followed by a verb-first clause, as in a conditional without *wenn*. The short form is more typical of written and formal style; *als ob* is the usual form in speech.",
+      "examples": [
+        {
+          "de": "Er tut so, als ob er beschäftigt wäre.",
+          "en": "He acts as if he were busy."
+        },
+        {
+          "de": "Er tut so, als wäre er beschäftigt.",
+          "en": "He pretends to be busy."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about time in the unreal comparison.",
+      "prompt": "How do you show that the imagined situation is at the same time as, before, or after the main clause?",
+      "answer": "Same time: Konjunktiv II Gegenwart (**wäre, hätte, könnte, ginge** or **würde** + Infinitiv). Before: **hätte / wäre + Partizip II**. After: **würde + Infinitiv**. The tense of the main clause does not change this.",
+      "explanation": "The reference point is the main clause, not the moment of speaking. *Sie sah aus, als ob sie müde wäre* = tired at that moment. *Sie sah aus, als ob sie geweint hätte* = the crying was earlier.",
+      "examples": [
+        {
+          "de": "Sie sah aus, als ob sie müde wäre.",
+          "en": "She looked as if she were tired."
+        },
+        {
+          "de": "Sie sah aus, als ob sie geweint hätte.",
+          "en": "She looked as if she had been crying."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about Konjunktiv I in unreal comparisons.",
+      "prompt": "When can you use the Konjunktiv I in an unreal comparison, and when must you replace it?",
+      "answer": "In formal written German (reports, press, academic texts), mainly in the 3rd person singular: **sei, habe, gebe, wisse, könne**. If the Konjunktiv I looks like the indicative (*sie haben, sie wissen*), use the Konjunktiv II (**hätten, wüssten**).",
+      "explanation": "Both moods are correct in written German; Konjunktiv II is more common in speech. The Konjunktiv I must be recognisable, as in indirect speech. So *als habe er* is fine, but *als haben sie* is replaced by *als hätten sie*.",
+      "examples": [
+        {
+          "de": "Die Firma tut so, als sei der Schaden gering.",
+          "en": "The company acts as if the damage were minor."
+        },
+        {
+          "de": "Die Firmen tun so, als hätten sie keine Verantwortung.",
+          "en": "The companies act as if they had no responsibility."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two comparisons.",
+      "prompt": "What is the difference between *Er spricht, wie ein Experte spricht* and *Er spricht, als wäre er ein Experte*?",
+      "answer": "**wie** + indicative compares with something real or typical: he speaks the way experts really speak. **als / als ob** + Konjunktiv compares with an imagined situation: he is not an expert (or the speaker doubts it), but he speaks as if he were one.",
+      "explanation": "*wie* clauses describe facts and use the indicative. *als ob* clauses describe a hypothesis and use the Konjunktiv. The choice of mood shows whether the speaker sees the comparison as true or not.",
+      "examples": [
+        {
+          "de": "Sie kocht, wie ihre Großmutter gekocht hat.",
+          "en": "She cooks the way her grandmother cooked."
+        },
+        {
+          "de": "Sie kocht, als wäre sie Profiköchin.",
+          "en": "She cooks as if she were a professional chef."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about mood after als ob.",
+      "prompt": "Is the indicative ever possible in an unreal comparison?",
+      "answer": "Only after **als ob / als wenn** in informal speech, mostly when the speaker thinks the comparison is likely (*Es sieht aus, als ob es gleich regnet*). After **als** + verb-first the Konjunktiv is obligatory, and in written German the Konjunktiv is the norm.",
+      "explanation": "With *als ob* the conjunction itself already marks the clause as a comparison, so casual speech sometimes drops the Konjunktiv. The short form has no conjunction except *als*; only the Konjunktiv shows that it is a comparison and not a temporal clause.",
+      "examples": [
+        {
+          "de": "Es sieht so aus, als ob der Bus heute ausfällt.",
+          "en": "It looks as if the bus has been cancelled today."
+        },
+        {
+          "de": "Es sieht so aus, als fiele der Bus heute aus.",
+          "en": "It looks as though the bus is cancelled today."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about the main clause.",
+      "prompt": "Which verbs and phrases typically introduce an unreal comparison?",
+      "answer": "**so tun**, **aussehen**, **klingen / sich anhören**, **sich anfühlen**, **wirken**, **sich verhalten / sich benehmen**, **schmecken, riechen**, **es scheint**, **es kommt mir (so) vor**, **mir ist**, **den Eindruck erwecken**, **es so darstellen**.",
+      "explanation": "These verbs describe an impression, an appearance or a pretence, so they naturally lead to a comparison with an imagined situation. Most of them can take *so* as a correlate (*Es sieht so aus, als …*). The comma before *als* is obligatory.",
+      "examples": [
+        {
+          "de": "Die Maschine hört sich an, als wäre ein Teil locker.",
+          "en": "The machine sounds as if a part were loose."
+        },
+        {
+          "de": "Das Angebot erweckt den Eindruck, als wäre es kostenlos.",
+          "en": "The offer gives the impression that it is free."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "concept",
+      "instruction": "Answer the question about als ob without a main clause.",
+      "prompt": "What does an independent *Als ob …!* clause mean, and what is its word order?",
+      "answer": "It rejects an idea ironically: *Als ob ich das nicht wüsste!* = *Of course I know that.* It keeps subordinate-clause order (verb at the end) and uses the Konjunktiv II; the short form *Als wüsste ich das nicht!* is also possible.",
+      "explanation": "The main clause (*Du tust so, …*) is left out, but the clause stays a subordinate clause. The tone is often annoyed or sarcastic. It is typical of spoken German and informal writing.",
+      "examples": [
+        {
+          "de": "Als ob ich das nicht wüsste!",
+          "en": "As if I didn't know that!"
+        },
+        {
+          "de": "Als hätte sie je auf mich gehört!",
+          "en": "As if she had ever listened to me!"
+        }
+      ]
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite with *als* + verb (without *ob*).",
+      "prompt": "Er tut so, als ob er alles allein entschieden hätte.",
+      "answer": "Er tut so, als hätte er alles allein entschieden.",
+      "explanation": "Drop *ob* and move the finite verb *hätte* directly after *als*. The subject *er* follows the verb, and the Partizip II *entschieden* stays at the end."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite with *als ob*.",
+      "prompt": "Die Stadt wirkt, als hätte sie sich in den letzten zwanzig Jahren kaum verändert.",
+      "answer": "Die Stadt wirkt, als ob sie sich in den letzten zwanzig Jahren kaum verändert hätte.",
+      "explanation": "With *als ob* the clause has normal subordinate order: subject *sie* and reflexive *sich* first, then the Mittelfeld, and the finite verb *hätte* at the very end after the participle *verändert*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Change the comparison so that the imagined situation is earlier than the main clause.",
+      "prompt": "Der Zeuge erzählt, als wäre er am Tatort.",
+      "answer": "Der Zeuge erzählt, als wäre er am Tatort gewesen.",
+      "explanation": "For an earlier event the past Konjunktiv II is used: auxiliary + Partizip II. *sein* forms its Perfekt with *sein*, so *wäre* stays and *gewesen* is added at the end."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Rewrite for a formal newspaper text: use the Konjunktiv I.",
+      "prompt": "Der Sprecher tat so, als wüsste er nichts von den Plänen.",
+      "answer": "Der Sprecher tat so, als wisse er nichts von den Plänen.",
+      "explanation": "The Konjunktiv I is formed from the infinitive stem + *-e*: *wiss-* + *-e* → *wisse*. In the 3rd person singular it is clearly different from the indicative *weiß*, so it can replace *wüsste* in formal style."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie tat so, als ob hätte sie mich nicht gesehen.",
+      "answer": "Sie tat so, als ob sie mich nicht gesehen hätte.",
+      "explanation": "The sentence mixes the two forms. After *als ob* the finite verb *hätte* goes to the end. The other correct version drops *ob*: *Sie tat so, als hätte sie mich nicht gesehen.*"
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Kind schaute, als wäre es einen Geist gesehen.",
+      "answer": "Das Kind schaute, als hätte es einen Geist gesehen.",
+      "explanation": "The auxiliary is wrong. *sehen* takes an Akkusativ object and forms its Perfekt with *haben*, so the past Konjunktiv II is *hätte … gesehen*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie tut so, als ob sie den Unfall nicht hätte verhindern gekonnt.",
+      "answer": "Sie tut so, als ob sie den Unfall nicht hätte verhindern können.",
+      "explanation": "A modal verb next to another infinitive uses the Ersatzinfinitiv: *können*, not the participle *gekonnt*. The finite *hätte* stands before the two infinitives: *hätte verhindern können*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Er spricht so fließend Japanisch, ___ er in Tokio aufgewachsen wäre.",
+      "options": [
+        "als ob",
+        "wie",
+        "als",
+        "dass"
+      ],
+      "correct": "als ob",
+      "answer": "Er spricht so fließend Japanisch, als ob er in Tokio aufgewachsen wäre.",
+      "explanation": "The verb *wäre* is at the end and in the Konjunktiv II → *als ob*. *als* alone would need the verb directly after it (*als wäre er …*). *wie* introduces a real comparison with the indicative. *so … dass* would be a consecutive clause with the indicative (*so fließend, dass man ihn für einen Japaner hält*)."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Das Konzert war genau so gut, ___ die Kritiker geschrieben hatten.",
+      "options": [
+        "wie",
+        "als ob",
+        "als"
+      ],
+      "correct": "wie",
+      "answer": "Das Konzert war genau so gut, wie die Kritiker geschrieben hatten.",
+      "explanation": "The critics really wrote it, and the verb *hatten* is indicative → real comparison with *wie*. *als ob* would need a Konjunktiv and an imagined situation. *als* after *so gut* is not standard (*so … wie*, but *besser als*)."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Die Bürgermeisterin lächelte, als ___ sie von dem Skandal nichts.",
+      "options": [
+        "wüsste",
+        "wusste",
+        "weiß",
+        "gewusst"
+      ],
+      "correct": "wüsste",
+      "answer": "Die Bürgermeisterin lächelte, als wüsste sie von dem Skandal nichts.",
+      "explanation": "The verb directly after *als* needs the Konjunktiv: Konjunktiv II *wüsste* (same time as the smile). *wusste* is the indicative Präteritum and *weiß* the indicative present; both are wrong in the short form. *gewusst* is a participle and cannot be the finite verb."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Wohnung",
+      "prompt": "aus / die Wohnung / gewohnt hätte / als ob / sieht / jahrelang niemand / darin",
+      "answer": "Die Wohnung sieht aus, als ob jahrelang niemand darin gewohnt hätte.",
+      "explanation": "Main clause: *sieht* in position 2, the separable prefix *aus* at the end of the main clause. After the comma, *als ob* sends the finite verb *hätte* to the very end, after the participle *gewohnt*. *wohnen* takes *haben*. *darin* may also stand before *jahrelang niemand*: *Die Wohnung sieht aus, als ob darin jahrelang niemand gewohnt hätte* is equally correct."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie",
+      "prompt": "freundlich / als / verstehen / sie / jedes Wort / nickte / würde / sie",
+      "answer": "Sie nickte freundlich, als würde sie jedes Wort verstehen.",
+      "explanation": "Main clause: *Sie nickte freundlich*. In the short form the finite verb *würde* comes directly after *als*, then the subject *sie*, the object *jedes Wort*, and the infinitive *verstehen* at the end. The *würde* form is used because the synthetic Konjunktiv II *verstünde* (or *verstände*) sounds dated."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence with *als* + Konjunktiv II. The second sentence says what is not true.",
+      "prompt": "Er redet über moderne Kunst. Aber er ist kein Experte.",
+      "answer": "Er redet über moderne Kunst, als wäre er ein Experte.",
+      "explanation": "The comparison states the imagined, untrue situation in positive form: *er ist kein Experte* → *als wäre er ein Experte*. *wäre* comes directly after *als*, and the time is the same as the talking → Konjunktiv II Gegenwart."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence with *als ob*: the company behaved as if the second sentence were not true.",
+      "prompt": "Die Firma feierte ihr Jubiläum. Dabei hatte es eine schwere Krise gegeben.",
+      "answer": "Die Firma feierte ihr Jubiläum, als ob es nie eine Krise gegeben hätte.",
+      "explanation": "The crisis lies before the celebration → past Konjunktiv II: *gegeben hätte* at the end after *als ob*. The comparison describes the imagined opposite, so *eine schwere Krise* becomes *nie eine Krise*."
+    }
+  ]
+}

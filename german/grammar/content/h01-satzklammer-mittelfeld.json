@@ -1,0 +1,721 @@
+{
+  "topic_id": "h01-satzklammer-mittelfeld",
+  "level": "B1+",
+  "title_de": "Wortstellung: Satzklammer und Mittelfeld",
+  "title_en": "Word order: sentence bracket, Mittelfeld, Vorfeld and Nachfeld",
+  "rule": {
+    "summary": "A German main clause is built around the **Satzklammer**: the finite verb is the left bracket (position 2), and the other verb parts (Partizip II, infinitive, separable prefix, the fixed part of a Funktionsverbgefüge) form the right bracket at the end. Exactly one constituent stands before the finite verb in the **Vorfeld**; most other material goes into the **Mittelfeld** between the brackets, in a fairly fixed order: pronouns before noun phrases, Nominativ–Akkusativ–Dativ for pronouns, Dativ before Akkusativ for nouns, adverbials roughly temporal–kausal–modal–lokal, and *nicht* placed by what it negates. Comparisons and clauses usually move into the **Nachfeld** after the right bracket.",
+    "table": "| Vorfeld | linke Klammer | Mittelfeld | rechte Klammer | Nachfeld |\n|---|---|---|---|---|\n| Die Ärztin | hat | dem Patienten ein stärkeres Mittel | verschrieben. | |\n| Gestern Abend | hat | sie es ihm endlich | erzählt. | |\n| Die Bahn | kündigt | die Sperrung erst im Dezember | an. | |\n| Ich | habe | gestern den Techniker | angerufen, | der die Heizung repariert hat. |\n| Als der Strom ausfiel, | saß | das ganze Team gerade in einer Konferenz. | | |\n| — | Könnten | Sie es mir bis Freitag | zuschicken? | |",
+    "steps": [
+      "Find the verb parts. The finite verb is the left bracket (position 2 in a statement, position 1 in a yes/no question); Partizip II, infinitives, separable prefixes and fixed predicate parts (*infrage*, *Stellung*) go to the right bracket at the end.",
+      "Choose **one** constituent for the Vorfeld: the subject, a time or place phrase, an object, a whole Nebensatz, even a Partizip. If it is not the subject, the subject moves behind the finite verb (inversion). *und, aber, oder, denn, sondern* stand in position 0 and do not count.",
+      "Order the Mittelfeld: unstressed pronouns first (Nom – Akk – Dat: *sie es ihm*), then noun phrases (Dativ before Akkusativ: *dem Patienten ein Mittel*; new, indefinite information later).",
+      "Order the adverbials: **Te**mporal – **Ka**usal – **Mo**dal – **Lo**kal (*morgen – wegen des Streiks – mit dem Bus – nach Genf*). Directional and predicative complements stay directly before the right bracket.",
+      "Place *nicht*: for sentence negation at the end of the Mittelfeld, after definite objects and time phrases, but before directional/predicative complements, manner adverbs and the right bracket; for part negation directly before the negated constituent, usually with *sondern*.",
+      "Move heavy material to the Nachfeld: *als/wie*-comparisons, relative clauses, *dass*-clauses and *zu*-infinitive clauses. Objects, short adverbs and *nicht* never go there."
+    ],
+    "pitfalls": [
+      "English order after a fronted adverbial (V3): ✗ *Seit letztem Herbst meine Schwester arbeitet in Zürich.* → ✓ *Seit letztem Herbst arbeitet meine Schwester in Zürich.*",
+      "Treating *deshalb/trotzdem* like *denn/aber*: ✗ *…, deshalb wir haben gewartet.* → ✓ *…, deshalb haben wir gewartet.* And the reverse: ✗ *…, denn ist er krank.* → ✓ *…, denn er ist krank.*",
+      "Noun order for pronouns: ✗ *Ich habe ihr es gegeben.* → ✓ *Ich habe es ihr gegeben.* Two pronouns: Akkusativ first; two nouns: Dativ first.",
+      "*nicht* after a directional or predicative complement: ✗ *Ich fahre heute in die Stadt nicht.* → ✓ *Ich fahre heute nicht in die Stadt.*",
+      "Putting an object into the Nachfeld: ✗ *Er hat gestern gekauft ein neues Rad.* → ✓ *Er hat gestern ein neues Rad gekauft.* Only clauses, comparisons and some long prepositional phrases may follow the right bracket."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Die Stadtwerke kündigen die Preiserhöhung voraussichtlich erst im Dezember {{c1::an::ankündigen}}.",
+      "en": "The municipal utility is expected to announce the price increase only in December.",
+      "focus": "Satzklammer · trennbares Verb im Präsens",
+      "explanation": "*ankündigen* is a separable verb. In a main clause only the finite stem *kündigen* stands in position 2 (left bracket); the prefix **an** closes the right bracket at the very end. The object *die Preiserhöhung* and the adverbials *voraussichtlich* and *erst im Dezember* all fill the Mittelfeld between the two parts, however long it becomes.",
+      "pattern": "Subjekt + Verbstamm (V2) + Mittelfeld + **Präfix** (rechte Klammer)",
+      "mistake": {"wrong": "Die Stadtwerke kündigen an die Preiserhöhung voraussichtlich erst im Dezember.", "why": "The prefix does not stay next to the finite verb. It is the right bracket and must stand at the end of the clause, after the whole Mittelfeld."},
+      "examples": [
+        {"de": "Der Verlag stellt die neue Buchreihe im Oktober auf der Frankfurter Messe vor.", "en": "The publisher is presenting the new book series at the Frankfurt fair in October."},
+        {"de": "Die Klinik nimmt wegen der Grippewelle vorübergehend keine neuen Patienten auf.", "en": "Because of the flu wave, the clinic is temporarily not admitting any new patients."}
+      ],
+      "words": [{"de": "die Stadtwerke (Pl.)", "en": "municipal utility company"}, {"de": "voraussichtlich", "en": "probably, expected to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die neue Studie stellt die bisherigen Annahmen zur Wirkung des Medikaments grundsätzlich {{c1::infrage::Teil des Prädikats}}.",
+      "en": "The new study fundamentally calls into question the previous assumptions about the drug's effect.",
+      "focus": "Satzklammer · Funktionsverbgefüge",
+      "explanation": "In the Funktionsverbgefüge *infrage stellen* the meaning lies in the fixed part *infrage*, and *stellen* only carries tense and person. The fixed part behaves like a separable prefix: *stellt* is in position 2, and **infrage** forms the right bracket after the long object and the adverb *grundsätzlich*. (*in Frage* written as two words is also correct.)",
+      "pattern": "Subjekt + Funktionsverb (V2) + Mittelfeld + **fester Teil** (rechte Klammer)",
+      "mistake": {"wrong": "Die neue Studie stellt infrage die bisherigen Annahmen zur Wirkung des Medikaments grundsätzlich.", "why": "*infrage* is part of the predicate, not a normal adverb. Like a separable prefix it goes to the end of the clause and closes the bracket."},
+      "examples": [
+        {"de": "Die Gewerkschaft setzt die Geschäftsführung mit dem Warnstreik massiv unter Druck.", "en": "With the warning strike, the union is putting massive pressure on the management."},
+        {"de": "Der Bürgermeister nimmt zu den Vorwürfen erst nach der Sitzung Stellung.", "en": "The mayor will only comment on the accusations after the meeting."}
+      ],
+      "words": [{"de": "infrage stellen", "en": "to call into question"}, {"de": "die Annahme (-n)", "en": "assumption"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Seit dem vergangenen Herbst {{c1::arbeitet meine Schwester::meine Schwester / arbeiten}} als Datenanalystin bei einer Versicherung.",
+      "en": "Since last autumn my sister has been working as a data analyst at an insurance company.",
+      "focus": "Inversion · Zeitangabe im Vorfeld",
+      "explanation": "The time phrase *Seit dem vergangenen Herbst* fills the Vorfeld (position 1). The finite verb must still be in position 2, so the subject *meine Schwester* moves behind it into the Mittelfeld: **arbeitet meine Schwester** (inversion). German uses the Präsens with *seit* for a situation that still continues; English needs the present perfect.",
+      "pattern": "Zeitangabe (Vorfeld) + **V2 + Subjekt** + Rest",
+      "mistake": {"wrong": "Seit dem vergangenen Herbst meine Schwester arbeitet als Datenanalystin bei einer Versicherung.", "why": "This is English word order with the verb in position 3. The Vorfeld holds only one constituent; when it is not the subject, the subject follows the finite verb."},
+      "examples": [
+        {"de": "Nach der Fusion verlor das Unternehmen fast ein Drittel seiner Kunden.", "en": "After the merger the company lost almost a third of its customers."},
+        {"de": "Im Reinraum tragen alle Beschäftigten einen Schutzanzug.", "en": "In the clean room all employees wear a protective suit."}
+      ],
+      "words": [{"de": "die Versicherung (-en)", "en": "insurance company"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Als der Strom ausfiel, {{c1::saß das ganze Team::das ganze Team / sitzen (Prät.)}} gerade in einer Videokonferenz.",
+      "en": "When the power went out, the whole team was in the middle of a video conference.",
+      "focus": "Nebensatz im Vorfeld · Hauptsatz danach",
+      "explanation": "The complete *als*-clause is one constituent and fills the Vorfeld of the main clause. Therefore the finite verb of the main clause follows directly after the comma (position 2), and the subject comes after it: **saß das ganze Team**. The typical result is two verbs next to each other at the comma: *ausfiel, saß*.",
+      "pattern": "[Nebensatz] (Vorfeld) **, V2 + Subjekt** + …",
+      "mistake": {"wrong": "Als der Strom ausfiel, das ganze Team saß gerade in einer Videokonferenz.", "why": "The subordinate clause already occupies position 1. Starting the main clause again with the subject puts the verb in position 3."},
+      "examples": [
+        {"de": "Sobald die Daten vollständig sind, beginnen wir mit der Auswertung.", "en": "As soon as the data are complete, we will start the analysis."},
+        {"de": "Obwohl die Umfragewerte sanken, hielt die Partei an ihrem Kurs fest.", "en": "Although its poll numbers were falling, the party stuck to its course."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to fail, to go out (power)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Lieferkosten sind stark gestiegen, trotzdem {{c1::hält der Händler::der Händler / halten}} an seinen Preisen fest.",
+      "en": "Delivery costs have risen sharply; nevertheless, the retailer is sticking to its prices.",
+      "focus": "Konnektor-Adverb · Position 1",
+      "explanation": "*trotzdem* is a connecting adverb, not a conjunction. It occupies the Vorfeld of the second main clause, so the finite verb follows immediately and the subject comes after it: **hält der Händler**. *festhalten an* is separable, so *fest* closes the right bracket at the end.",
+      "pattern": "…, trotzdem (Vorfeld) + **V2 + Subjekt** + … + Präfix",
+      "mistake": {"wrong": "Die Lieferkosten sind stark gestiegen, trotzdem der Händler hält an seinen Preisen fest.", "why": "Only *und, aber, oder, denn, sondern* stand outside the clause (position 0). *trotzdem, deshalb, dennoch, außerdem* count as position 1 and trigger inversion."},
+      "examples": [
+        {"de": "Der ICE hatte eine Stunde Verspätung, deshalb verpasste sie den Anschluss in Mannheim.", "en": "The ICE was an hour late, so she missed her connection in Mannheim."},
+        {"de": "Die Wettervorhersage war schlecht, dennoch fand das Festival wie geplant statt.", "en": "The weather forecast was bad; nevertheless, the festival took place as planned."}
+      ],
+      "words": [{"de": "festhalten an + Dat.", "en": "to stick to, to hold on to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Eröffnung wurde verschoben, denn {{c1::die Brandschutzprüfung ist::ist / die Brandschutzprüfung}} noch nicht abgeschlossen.",
+      "en": "The opening has been postponed, because the fire safety inspection has not been completed yet.",
+      "focus": "Konjunktion in Position 0 · Hauptsatz",
+      "explanation": "*denn* belongs to the small group *und, aber, oder, denn, sondern* that stand in position 0, outside the clause. They do not fill the Vorfeld, so the following clause has its normal order: subject in the Vorfeld, finite verb in position 2 → **die Brandschutzprüfung ist**. The right bracket *abgeschlossen* stays at the end. Compare *weil*, which would send *ist* to the end.",
+      "pattern": "…, denn (Pos. 0) + **Subjekt + V2** + … + Partizip",
+      "mistake": {"wrong": "Die Eröffnung wurde verschoben, denn ist die Brandschutzprüfung noch nicht abgeschlossen.", "why": "*denn* is not part of the following clause, so the Vorfeld is still empty and must be filled. Inversion after *denn* puts the verb in position 1."},
+      "examples": [
+        {"de": "Wir nehmen den Nachtzug, denn alle Flüge sind ausgebucht.", "en": "We're taking the night train, because all the flights are fully booked."},
+        {"de": "Die Idee ist gut, aber die Umsetzung kostet zu viel Zeit.", "en": "The idea is good, but implementing it takes too much time."}
+      ],
+      "words": [{"de": "der Brandschutz", "en": "fire safety"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Den ersten Entwurf {{c1::hat die Lektorin::die Lektorin / haben}} komplett verworfen, den zweiten fand sie überzeugend.",
+      "en": "The editor rejected the first draft completely; she found the second one convincing.",
+      "focus": "Akkusativobjekt im Vorfeld · Kontrast",
+      "explanation": "The Vorfeld is not reserved for the subject. Here the Akkusativ object *den ersten Entwurf* stands there because it is contrasted with *den zweiten*. The finite verb stays in position 2 and the subject follows: **hat die Lektorin**. The article *den* shows that the fronted phrase is the object, so the meaning stays clear.",
+      "pattern": "Akk-Objekt (Vorfeld) + **V2 + Subjekt** + … + Partizip",
+      "mistake": {"wrong": "Den ersten Entwurf die Lektorin hat komplett verworfen, den zweiten fand sie überzeugend.", "why": "Two constituents before the verb are not possible. The object alone fills the Vorfeld, so the subject must come after *hat*."},
+      "examples": [
+        {"de": "Diese Frage hat mir in dreißig Jahren noch niemand gestellt.", "en": "Nobody has ever asked me that question in thirty years."},
+        {"de": "Mit dem Ergebnis war der Trainer zufrieden, mit der Leistung weniger.", "en": "The coach was satisfied with the result, less so with the performance."}
+      ],
+      "words": [{"de": "die Lektorin (-nen)", "en": "(publishing) editor"}, {"de": "verwerfen", "en": "to reject, to discard"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Hast du der Kundin das Angebot schon geschickt? – Ja, ich habe {{c1::es ihr::ihr / es}} gestern Abend gemailt.",
+      "en": "Have you sent the client the offer yet? – Yes, I emailed it to her last night.",
+      "focus": "Zwei Pronomen im Mittelfeld",
+      "explanation": "In the answer both objects are pronouns: *es* (Akkusativ, = das Angebot) and *ihr* (Dativ, = der Kundin). For two personal pronouns the order is the reverse of the noun order: **Akkusativ before Dativ** → **es ihr**. Both pronouns also come before the time phrase *gestern Abend*.",
+      "pattern": "V2 + **Akk-Pronomen + Dat-Pronomen** + Angabe + Partizip",
+      "mistake": {"wrong": "Ja, ich habe ihr es gestern Abend gemailt.", "why": "Dativ before Akkusativ is the rule for two noun phrases (*der Kundin das Angebot*). With two personal pronouns the Akkusativ comes first: *es ihr*."},
+      "examples": [
+        {"de": "Brauchst du das Auto am Wochenende? Ich leihe es dir gern bis Montag.", "en": "Do you need the car at the weekend? I'm happy to lend it to you until Monday."},
+        {"de": "Die Kaution? Der Vermieter hat sie ihnen schon im Mai zurückgezahlt.", "en": "The deposit? The landlord already paid it back to them in May."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Ärztin hat {{c1::dem Patienten ein stärkeres Schmerzmittel::ein stärkeres Schmerzmittel / dem Patienten}} verschrieben.",
+      "en": "The doctor prescribed the patient a stronger painkiller.",
+      "focus": "Zwei Nominalgruppen im Mittelfeld",
+      "explanation": "Both objects are noun phrases: *dem Patienten* is the Dativ (the receiver; *Patient* is n-Deklination → *Patienten*), *ein stärkeres Schmerzmittel* is the Akkusativ. The neutral order of two nouns is **Dativ before Akkusativ**. An indefinite Akkusativ is new information, and new information tends to come late in the Mittelfeld, so here this order is the only natural one.",
+      "pattern": "V2 + **Dat-Nomen + Akk-Nomen** + Partizip",
+      "mistake": {"wrong": "Die Ärztin hat ein stärkeres Schmerzmittel dem Patienten verschrieben.", "why": "With two noun phrases the Dativ comes first. An indefinite Akkusativ (*ein …*) before a definite Dativ is only possible with strong contrastive stress on *dem Patienten* (this patient, not another one); as a neutral statement it is wrong."},
+      "examples": [
+        {"de": "Der Makler hat den Interessenten eine günstigere Wohnung angeboten.", "en": "The estate agent offered the interested parties a cheaper flat."},
+        {"de": "Die Jury verlieh der jungen Regisseurin den Hauptpreis.", "en": "The jury awarded the young director the main prize."}
+      ],
+      "words": [{"de": "verschreiben", "en": "to prescribe"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wo ist eigentlich dein Beamer? – Ich habe {{c1::ihn meiner Kollegin::meiner Kollegin / ihn}} geliehen.",
+      "en": "Where is your projector, by the way? – I lent it to my colleague.",
+      "focus": "Akk-Pronomen und Dat-Nomen",
+      "explanation": "*ihn* (Akkusativ, = den Beamer) is a pronoun; *meiner Kollegin* (Dativ) is a noun phrase. In the Mittelfeld unstressed pronouns come before noun phrases, whatever their case. So the Akkusativ pronoun stands first here, although two nouns would be Dativ–Akkusativ: **ihn meiner Kollegin**.",
+      "pattern": "V2 + **Pronomen (Akk) + Nomen (Dat)** + Partizip",
+      "mistake": {"wrong": "Ich habe meiner Kollegin ihn geliehen.", "why": "An unstressed pronoun cannot follow a full noun phrase here. The rule *pronoun before noun* is stronger than *Dativ before Akkusativ*."},
+      "examples": [
+        {"de": "Die Unterlagen? Ich gebe sie morgen früh dem Hausmeister.", "en": "The documents? I'll give them to the caretaker tomorrow morning."},
+        {"de": "Unser altes Auto? Wir haben es unseren Nachbarn verkauft.", "en": "Our old car? We sold it to our neighbours."}
+      ],
+      "words": [{"de": "der Beamer (-)", "en": "projector"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Personalabteilung hat {{c1::ihr einen unbefristeten Vertrag::einen unbefristeten Vertrag / ihr}} angeboten.",
+      "en": "The HR department offered her a permanent contract.",
+      "focus": "Dat-Pronomen und Akk-Nomen",
+      "explanation": "*ihr* is a Dativ pronoun and *einen unbefristeten Vertrag* is an Akkusativ noun phrase. The pronoun goes first: **ihr einen unbefristeten Vertrag**. Here both rules agree: *pronoun before noun* and the noun order *Dativ before Akkusativ* give the same result.",
+      "pattern": "V2 + **Pronomen (Dat) + Nomen (Akk)** + Partizip",
+      "mistake": {"wrong": "Die Personalabteilung hat einen unbefristeten Vertrag ihr angeboten.", "why": "The unstressed pronoun *ihr* must stand at the front of the Mittelfeld, before the noun phrase."},
+      "examples": [
+        {"de": "Der Professor hat uns die Klausurergebnisse noch nicht mitgeteilt.", "en": "The professor hasn't told us the exam results yet."},
+        {"de": "Kannst du mir bis morgen deinen Laptop leihen?", "en": "Can you lend me your laptop until tomorrow?"}
+      ],
+      "words": [{"de": "unbefristet", "en": "permanent, open-ended"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Gestern Abend {{c1::hat sie es ihm::es / ihm / sie / haben}} endlich erzählt.",
+      "en": "Last night she finally told him.",
+      "focus": "Inversion mit drei Pronomen",
+      "explanation": "*Gestern Abend* fills the Vorfeld, so *hat* is in position 2 and the subject pronoun *sie* comes right after it. Three personal pronouns in the Mittelfeld follow the fixed order **Nominativ – Akkusativ – Dativ**: *sie – es – ihm*. All of them come before adverbs such as *endlich*.",
+      "pattern": "Vorfeld + V2 + **Nom-Pron. + Akk-Pron. + Dat-Pron.** + Adverb + Partizip",
+      "mistake": {"wrong": "Gestern Abend hat sie ihm es endlich erzählt.", "why": "With two object pronouns the Akkusativ comes before the Dativ: *es ihm*, not *ihm es*."},
+      "examples": [
+        {"de": "Morgen bringt er sie dir vorbei.", "en": "He'll bring them over to you tomorrow."},
+        {"de": "Nach der Sitzung hat sie es uns ausführlich erklärt.", "en": "After the meeting she explained it to us in detail."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Nach dem Umzug {{c1::hat er sich::sich / er / haben}} schnell an die neue Umgebung gewöhnt.",
+      "en": "After the move he quickly got used to his new surroundings.",
+      "focus": "Reflexivpronomen im Mittelfeld",
+      "explanation": "*Nach dem Umzug* fills the Vorfeld, so *hat* is in position 2 and the subject pronoun *er* follows directly. The reflexive pronoun *sich* (Akkusativ of *sich gewöhnen an*) behaves like any unstressed pronoun: it comes right after the subject pronoun and before all adverbials → **hat er sich schnell**.",
+      "pattern": "Vorfeld + V2 + **Subjektpronomen + sich** + Angabe + Präp.-Objekt + Partizip",
+      "mistake": {"wrong": "Nach dem Umzug hat er schnell sich an die neue Umgebung gewöhnt.", "why": "*sich* is an unstressed pronoun and belongs at the front of the Mittelfeld, before adverbs like *schnell*."},
+      "examples": [
+        {"de": "Am Ende hat sie sich doch für das Angebot aus Wien entschieden.", "en": "In the end she decided on the offer from Vienna after all."},
+        {"de": "Seit Monaten beschwert er sich über den Lärm der Baustelle.", "en": "For months he has been complaining about the noise from the building site."}
+      ],
+      "words": [{"de": "sich gewöhnen an + Akk.", "en": "to get used to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Wo bleibt das Gutachten? – Die Sachverständige hat {{c1::es bereits letzte Woche::bereits letzte Woche / es}} eingereicht.",
+      "en": "What's happening with the expert report? – The expert already submitted it last week.",
+      "focus": "Pronomen vor Angaben",
+      "explanation": "*es* (= das Gutachten) is an unstressed pronoun, so it stands at the very front of the Mittelfeld, before the time phrase *bereits letzte Woche*: **es bereits letzte Woche**. *es* can never carry stress, so it can never move behind adverbials the way a stressed noun phrase can.",
+      "pattern": "V2 + **Pronomen** + Zeitangabe + Partizip",
+      "mistake": {"wrong": "Die Sachverständige hat bereits letzte Woche es eingereicht.", "why": "Unstressed *es* must stand at the front of the Mittelfeld, directly after the finite verb (or after the subject, if the subject is in the Mittelfeld). It cannot follow an adverbial."},
+      "examples": [
+        {"de": "Ich habe ihn heute Morgen zufällig am Bahnhof getroffen.", "en": "I happened to meet him at the station this morning."},
+        {"de": "Wir haben es ihnen schon mehrmals ausführlich erklärt.", "en": "We have already explained it to them in detail several times."}
+      ],
+      "words": [{"de": "das Gutachten (-)", "en": "expert report, assessment"}, {"de": "einreichen", "en": "to submit"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die Delegation ist {{c1::am Dienstag wegen des Bahnstreiks mit dem Bus::mit dem Bus / am Dienstag / wegen des Bahnstreiks}} nach Brüssel gefahren.",
+      "en": "On Tuesday the delegation travelled to Brussels by bus because of the rail strike.",
+      "focus": "TeKaMoLo · alle vier Angaben",
+      "explanation": "The neutral order of adverbials is **Te**mporal (*am Dienstag* – when?) – **Ka**usal (*wegen des Bahnstreiks* – why?) – **Mo**dal (*mit dem Bus* – how?) – **Lo**kal (*nach Brüssel* – where to?). *nach Brüssel* is a directional complement of *fahren*; it stays directly before the Partizip *gefahren*. TeKaMoLo is the default order, not a strict law: one part can move forward for emphasis, but the directional complement stays next to the verb.",
+      "pattern": "V2 + **Te + Ka + Mo** + Lo (Richtung) + Partizip",
+      "mistake": {"wrong": "Die Delegation ist mit dem Bus nach Brüssel am Dienstag wegen des Bahnstreiks gefahren.", "why": "The directional complement *nach Brüssel* belongs directly before *gefahren*. Time and reason cannot follow it in the Mittelfeld."},
+      "examples": [
+        {"de": "Viele Studierende fahren morgens aus Kostengründen mit dem Rad zur Uni.", "en": "Many students cycle to university in the morning to save money."},
+        {"de": "Er ist letzte Woche wegen einer Knieverletzung mit dem Krankenwagen ins Krankenhaus gebracht worden.", "en": "Last week he was taken to hospital by ambulance because of a knee injury."}
+      ],
+      "words": [{"de": "der Bahnstreik (-s)", "en": "rail strike"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Viele Pflegekräfte haben {{c1::während der Pandemie unter enormem Zeitdruck::unter enormem Zeitdruck / während der Pandemie}} auf den Intensivstationen gearbeitet.",
+      "en": "During the pandemic, many nurses worked under enormous time pressure in the intensive care units.",
+      "focus": "TeKaMoLo · Zeit, Art und Weise, Ort",
+      "explanation": "Three adverbials stand in the Mittelfeld: *während der Pandemie* (temporal), *unter enormem Zeitdruck* (modal: under which conditions?) and *auf den Intensivstationen* (lokal). The neutral order is **Te – Mo – Lo**, and the place phrase comes last, right before the Partizip *gearbeitet*.",
+      "pattern": "V2 + **Te + Mo + Lo** + Partizip",
+      "mistake": {"wrong": "Viele Pflegekräfte haben unter enormem Zeitdruck auf den Intensivstationen während der Pandemie gearbeitet.", "why": "This order is only possible when *während der Pandemie* carries special contrastive stress (during the pandemic, not before it). As a neutral statement it sounds wrong: a framing time phrase comes before manner and place: *während der Pandemie unter enormem Zeitdruck auf den Intensivstationen*."},
+      "examples": [
+        {"de": "Die Archäologen haben im Sommer mit einfachen Werkzeugen in der Wüste gegraben.", "en": "In the summer the archaeologists dug in the desert with simple tools."},
+        {"de": "Die Kinder haben am Nachmittag fröhlich im Garten gespielt.", "en": "In the afternoon the children played happily in the garden."}
+      ],
+      "words": [{"de": "die Pflegekraft (¨-e)", "en": "nurse, care worker"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "In den letzten Jahren sind immer mehr junge Familien {{c1::aus Kostengründen aufs Land::aufs Land / aus Kostengründen}} gezogen.",
+      "en": "In recent years more and more young families have moved to the countryside to save money.",
+      "focus": "TeKaMoLo · Grund und Richtung",
+      "explanation": "The time phrase *In den letzten Jahren* is in the Vorfeld, so the subject follows *sind*. In the Mittelfeld the kausal adverbial *aus Kostengründen* comes before the lokal part. *aufs Land* is a directional complement of *ziehen* (where to?), so it stands at the end of the Mittelfeld, directly before *gezogen*: **aus Kostengründen aufs Land**.",
+      "pattern": "Te (Vorfeld) + V2 + Subjekt + **Ka + Lo (Richtung)** + Partizip",
+      "mistake": {"wrong": "In den letzten Jahren sind immer mehr junge Familien aufs Land aus Kostengründen gezogen.", "why": "A directional complement forms a unit with the verb and stands directly before the right bracket. The reason must come before it."},
+      "examples": [
+        {"de": "Sie ist im Frühjahr aus beruflichen Gründen nach Hamburg gezogen.", "en": "She moved to Hamburg in the spring for work reasons."},
+        {"de": "Viele Touristen kommen wegen der Weihnachtsmärkte in die Stadt.", "en": "Many tourists come to the city because of the Christmas markets."}
+      ],
+      "words": [{"de": "aus Kostengründen", "en": "for cost reasons, to save money"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Die Kollegin aus der Buchhaltung beantwortet seit Tagen {{c1::meine Mails nicht::nicht / meine Mails}}.",
+      "en": "My colleague from accounting hasn't been answering my emails for days.",
+      "focus": "Satznegation · einfaches Verb",
+      "explanation": "The whole statement is negated (Satznegation). With a simple verb and no right bracket, *nicht* goes to the very end of the Mittelfeld, after the definite object: **meine Mails nicht**. The time phrase *seit Tagen* also stays before *nicht* (*meine Mails seit Tagen nicht* is equally correct). If the verb had a right bracket, *nicht* would stand just before it (*hat … nicht beantwortet*).",
+      "pattern": "V2 + Zeitangabe + def. Objekt + **nicht**",
+      "mistake": {"wrong": "Die Kollegin aus der Buchhaltung beantwortet seit Tagen nicht meine Mails.", "why": "*nicht* before the definite object negates only that object (part negation: she answers other mails, only not mine) and needs a *sondern* part. For sentence negation *nicht* follows the definite object."},
+      "examples": [
+        {"de": "Der Vermieter repariert die Heizung trotz mehrerer Beschwerden nicht.", "en": "The landlord is not repairing the heating despite several complaints."},
+        {"de": "Ich verstehe deine Argumentation ehrlich gesagt nicht.", "en": "To be honest, I don't understand your reasoning."}
+      ],
+      "words": [{"de": "die Buchhaltung", "en": "accounting (department)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die bestellten Ersatzteile sind {{c1::bis heute nicht::nicht / bis heute}} angekommen.",
+      "en": "The spare parts we ordered still haven't arrived.",
+      "focus": "Satznegation · Perfekt",
+      "explanation": "Sentence negation with a right bracket: *nicht* stands directly before the Partizip *angekommen*. Time phrases like *bis heute* come before *nicht*, because they set the frame for the negated event: **bis heute nicht angekommen**.",
+      "pattern": "V2 + Zeitangabe + **nicht** + Partizip",
+      "mistake": {"wrong": "Die bestellten Ersatzteile sind nicht bis heute angekommen.", "why": "*nicht* directly before *bis heute* would negate only the time phrase (part negation), which makes no sense here. In sentence negation the time phrase comes first."},
+      "examples": [
+        {"de": "Die Ministerin hat die Frage in der Pressekonferenz nicht beantwortet.", "en": "The minister didn't answer the question at the press conference."},
+        {"de": "Wir können das Paket heute leider nicht abholen.", "en": "Unfortunately we can't pick up the parcel today."}
+      ],
+      "words": [{"de": "das Ersatzteil (-e)", "en": "spare part"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Wegen des Lokführerstreiks konnte sie am Freitag {{c1::nicht nach Hause::nach Hause / nicht}} fahren.",
+      "en": "Because of the train drivers' strike she couldn't travel home on Friday.",
+      "focus": "Satznegation · Richtungsergänzung",
+      "explanation": "*nach Hause* is a directional complement of *fahren* (where to?) and forms a close unit with the infinitive. In sentence negation *nicht* stands **before** such complements, not after them: **nicht nach Hause fahren**. The time phrase *am Freitag* comes before *nicht*.",
+      "pattern": "Modalverb (V2) + Zeit + **nicht** + Richtung + Infinitiv",
+      "mistake": {"wrong": "Wegen des Lokführerstreiks konnte sie am Freitag nach Hause nicht fahren.", "why": "*nicht* cannot separate a directional complement from its verb. It stands in front of the whole unit *nach Hause fahren*."},
+      "examples": [
+        {"de": "Die Kinder dürfen bei diesem Wetter nicht auf den Spielplatz gehen.", "en": "The children are not allowed to go to the playground in this weather."},
+        {"de": "Wir sind dieses Jahr nicht in den Urlaub gefahren.", "en": "We didn't go on holiday this year."}
+      ],
+      "words": [{"de": "der Lokführer (-)", "en": "train driver"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Ergebnisse der Umfrage sind {{c1::leider nicht repräsentativ::nicht / repräsentativ / leider}}.",
+      "en": "Unfortunately, the results of the survey are not representative.",
+      "focus": "Satznegation · Prädikativ und Satzadverb",
+      "explanation": "*repräsentativ* is a predicative adjective with *sein*; it is the closing part of the predicate, so *nicht* stands directly before it. Sentence adverbs such as *leider* comment on the whole statement and come before *nicht*: **leider nicht repräsentativ**.",
+      "pattern": "sein (V2) + Satzadverb + **nicht** + Prädikativ",
+      "mistake": {"wrong": "Die Ergebnisse der Umfrage sind leider repräsentativ nicht.", "why": "*nicht* never follows a predicative adjective. It stands in front of it, just as it stands in front of a Partizip in the right bracket."},
+      "examples": [
+        {"de": "Der Vorschlag ist aus unserer Sicht nicht umsetzbar.", "en": "From our point of view the proposal is not feasible."},
+        {"de": "Das Museum ist montags leider nicht geöffnet.", "en": "Unfortunately the museum is not open on Mondays."}
+      ],
+      "words": [{"de": "repräsentativ", "en": "representative"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Die Sitzung findet {{c1::nicht am Montag::am Montag / nicht}}, sondern erst am Mittwoch statt.",
+      "en": "The meeting is not taking place on Monday but only on Wednesday.",
+      "focus": "Teilnegation · mit sondern",
+      "explanation": "The meeting does take place; only the day is negated. In part negation (Sondernegation) *nicht* stands **directly before the negated constituent**, and *sondern* gives the correct alternative: **nicht am Montag, sondern …**. In sentence negation the order would be *Die Sitzung findet am Montag nicht statt* – then there is no meeting on Monday at all.",
+      "pattern": "V2 + **nicht + Satzglied**, sondern + Alternative + Präfix",
+      "mistake": {"wrong": "Die Sitzung findet am Montag nicht, sondern erst am Mittwoch statt.", "why": "This puts *nicht* in the position of sentence negation. *sondern* must contrast with the constituent that follows *nicht*, so *nicht* must come before *am Montag*."},
+      "examples": [
+        {"de": "Nicht der Minister, sondern seine Sprecherin hat die Erklärung verlesen.", "en": "It was not the minister but his spokeswoman who read out the statement."},
+        {"de": "Ich habe das Fachbuch nicht gekauft, sondern in der Bibliothek ausgeliehen.", "en": "I didn't buy the textbook, I borrowed it from the library."}
+      ],
+      "words": [{"de": "stattfinden", "en": "to take place"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Der Patient hat in der ersten Nacht nach der Operation {{c1::nicht besonders gut::besonders gut / nicht}} geschlafen.",
+      "en": "The patient didn't sleep particularly well the first night after the operation.",
+      "focus": "Negation · Art und Weise",
+      "explanation": "The patient did sleep; what is negated is *how* he slept. Manner adverbs stand close to the verb, and *nicht* goes in front of them: **nicht besonders gut geschlafen**. The time phrase *in der ersten Nacht nach der Operation* stays before *nicht*.",
+      "pattern": "V2 + Zeitangabe + **nicht** + Modaladverb + Partizip",
+      "mistake": {"wrong": "Der Patient hat in der ersten Nacht nach der Operation besonders gut nicht geschlafen.", "why": "*nicht* cannot stand between a manner adverb and the Partizip. It precedes the adverb it negates."},
+      "examples": [
+        {"de": "Die Verhandlungen sind bisher nicht sehr erfolgreich verlaufen.", "en": "So far the negotiations have not gone very successfully."},
+        {"de": "Er spricht zwar fließend Englisch, aber nicht besonders deutlich.", "en": "He does speak English fluently, but not very clearly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Die Sanierung des Hallenbads hat am Ende deutlich mehr {{c1::gekostet als geplant::als geplant / gekostet}}.",
+      "en": "In the end the renovation of the indoor pool cost much more than planned.",
+      "focus": "Nachfeld · Vergleich mit als",
+      "explanation": "The comparison *als geplant* is normally moved into the Nachfeld, behind the right bracket: **gekostet als geplant**. The amount *deutlich mehr* belongs to the verb *kosten* and stays in the Mittelfeld. Inside the bracket (*mehr als geplant gekostet*) the sentence is possible but heavier; in everyday speech and writing the comparison follows the Partizip.",
+      "pattern": "V2 + Mittelfeld (… mehr) + Partizip + **als …** (Nachfeld)",
+      "mistake": {"wrong": "Die Sanierung des Hallenbads hat am Ende gekostet deutlich mehr als geplant.", "why": "Only the *als*-phrase may follow the right bracket. *deutlich mehr* is the amount required by *kosten* and must stay in the Mittelfeld."},
+      "examples": [
+        {"de": "Die Bauarbeiten haben viel länger gedauert als erwartet.", "en": "The construction work took much longer than expected."},
+        {"de": "Die Inflation ist im Herbst stärker gestiegen als vorhergesagt.", "en": "Inflation rose more sharply in the autumn than predicted."}
+      ],
+      "words": [{"de": "das Hallenbad (¨-er)", "en": "indoor swimming pool"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Die neue Kollegin hat die Messdaten genauso sorgfältig {{c1::ausgewertet wie ihr Vorgänger::wie ihr Vorgänger / ausgewertet}}.",
+      "en": "The new colleague analysed the measurement data just as carefully as her predecessor.",
+      "focus": "Nachfeld · Vergleich mit wie",
+      "explanation": "*genauso sorgfältig* stays in the Mittelfeld; the comparison partner *wie ihr Vorgänger* is placed in the Nachfeld, after the Partizip: **ausgewertet wie ihr Vorgänger**. Equal comparisons use *(genau)so … wie*, unequal ones use the comparative + *als*.",
+      "pattern": "V2 + Objekt + so + Adj. + Partizip + **wie …** (Nachfeld)",
+      "mistake": {"wrong": "Die neue Kollegin hat genauso sorgfältig ausgewertet die Messdaten wie ihr Vorgänger.", "why": "The Akkusativ object *die Messdaten* cannot go into the Nachfeld. Only the *wie*-phrase may follow the right bracket."},
+      "examples": [
+        {"de": "Er hat die Situation so ruhig erklärt wie ein erfahrener Diplomat.", "en": "He explained the situation as calmly as an experienced diplomat."},
+        {"de": "Die zweite Staffel ist nicht so erfolgreich gewesen wie die erste.", "en": "The second season was not as successful as the first."}
+      ],
+      "words": [{"de": "auswerten", "en": "to analyse, to evaluate (data)"}, {"de": "der Vorgänger (-)", "en": "predecessor"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Ich habe gestern {{c1::den Techniker angerufen, der::der / angerufen / den Techniker}} letzte Woche unsere Heizung repariert hat.",
+      "en": "Yesterday I called the technician who repaired our heating last week.",
+      "focus": "Nachfeld · Relativsatz",
+      "explanation": "The relative clause belongs to *den Techniker*, but it is long, and only the short Partizip *angerufen* would follow it. In this case the relative clause is normally moved into the Nachfeld: the noun stays in the Mittelfeld, the Partizip closes the bracket, and the clause follows → **den Techniker angerufen, der …**.",
+      "pattern": "V2 + Bezugsnomen + Partizip **, Relativsatz** (Nachfeld)",
+      "mistake": {"wrong": "Ich habe gestern angerufen den Techniker, der letzte Woche unsere Heizung repariert hat.", "why": "Only the relative clause may move behind the right bracket. The noun it refers to is the Akkusativ object and stays in the Mittelfeld."},
+      "examples": [
+        {"de": "Wir haben endlich eine Wohnung gefunden, die direkt am Park liegt.", "en": "We have finally found a flat that is right next to the park."},
+        {"de": "Sie hat mir ein Buch geschenkt, das ich schon lange lesen wollte.", "en": "She gave me a book that I had wanted to read for a long time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Der Betriebsrat hat {{c1::vorgeschlagen, die Arbeitszeiten::die Arbeitszeiten / vorgeschlagen}} flexibler zu gestalten.",
+      "en": "The works council proposed making working hours more flexible.",
+      "focus": "Nachfeld · Infinitivsatz",
+      "explanation": "The *zu*-infinitive clause is the object of *vorschlagen*. As a clause it normally goes into the Nachfeld, after the Partizip and a comma: **vorgeschlagen, die Arbeitszeiten flexibler zu gestalten**. The object *die Arbeitszeiten* belongs to *gestalten*, so it moves with the infinitive clause.",
+      "pattern": "V2 + Partizip **, Objekt + … + zu + Infinitiv** (Nachfeld)",
+      "mistake": {"wrong": "Der Betriebsrat hat die Arbeitszeiten vorgeschlagen, flexibler zu gestalten.", "why": "*die Arbeitszeiten* is the object of *gestalten*, not of *vorschlagen*. It cannot stay in the main clause while its verb is in the Nachfeld."},
+      "examples": [
+        {"de": "Die Stadt hat beschlossen, die Innenstadt für Autos zu sperren.", "en": "The city has decided to close the city centre to cars."},
+        {"de": "Er hat angeboten, mir mit seinem Transporter beim Umzug zu helfen.", "en": "He offered to help me with my move using his van."}
+      ],
+      "words": [{"de": "der Betriebsrat (¨-e)", "en": "works council"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Es {{c1::haben sich über 300 Freiwillige::sich / über 300 Freiwillige / haben}} für das Projekt gemeldet.",
+      "en": "Over 300 volunteers have signed up for the project.",
+      "focus": "Platzhalter-es im Vorfeld",
+      "explanation": "The *es* here is only a placeholder that fills the Vorfeld, so that new information (*über 300 Freiwillige*) can stand later in the sentence. It is not the subject: the verb agrees with the real subject, which is plural → **haben**. The reflexive *sich* is unstressed and comes before the subject noun phrase. If another constituent takes the Vorfeld, *es* disappears: *Für das Projekt haben sich über 300 Freiwillige gemeldet.*",
+      "pattern": "Es (Vorfeld) + V2 (Kongruenz mit Subjekt) + sich + **Subjekt** + … + Partizip",
+      "mistake": {"wrong": "Es hat sich über 300 Freiwillige für das Projekt gemeldet.", "why": "The placeholder *es* does not control the verb. The subject is *über 300 Freiwillige* (plural), so the finite verb must be *haben*."},
+      "examples": [
+        {"de": "Es sind bei dem Unwetter mehrere Bäume auf die Fahrbahn gestürzt.", "en": "Several trees fell onto the road during the storm."},
+        {"de": "Es wurden auf der Konferenz zahlreiche neue Studien vorgestellt.", "en": "Numerous new studies were presented at the conference."}
+      ],
+      "words": [{"de": "sich melden für", "en": "to sign up for, to volunteer for"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "{{c1::Gelesen habe ich::ich / haben / gelesen}} den Bericht noch nicht, nur kurz überflogen.",
+      "en": "I haven't actually read the report yet, I've only skimmed it.",
+      "focus": "Partizip im Vorfeld · Kontrast",
+      "explanation": "Even a part of the right bracket can move into the Vorfeld when it is contrasted: *gelesen* (read) versus *überflogen* (skimmed). The finite verb still stays in position 2 and the subject follows: **Gelesen habe ich**. This is typical of spoken and journalistic German.",
+      "pattern": "Partizip (Vorfeld) + **V2 + Subjekt** + Mittelfeld, Kontrast",
+      "mistake": {"wrong": "Gelesen ich habe den Bericht noch nicht, nur kurz überflogen.", "why": "The fronted Partizip is the one constituent in the Vorfeld. The finite verb must follow it directly, so the subject comes after *habe*."},
+      "examples": [
+        {"de": "Versprochen hat die Regierung viel, umgesetzt hat sie wenig.", "en": "The government promised a lot but implemented little."},
+        {"de": "Gewonnen haben wir nicht, aber wir haben gut gespielt.", "en": "We didn't win, but we played well."}
+      ],
+      "words": [{"de": "überfliegen", "en": "to skim (a text)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "{{c1::Könnten Sie es mir::es / mir / Sie / können (Konj. II)}} bis Freitag per Post zuschicken?",
+      "en": "Could you send it to me by post by Friday?",
+      "focus": "Ja/Nein-Frage · Verb in Position 1",
+      "explanation": "In a yes/no question there is no Vorfeld: the finite verb *Könnten* stands in position 1 and the infinitive *zuschicken* closes the bracket at the end. The pronouns follow in the fixed order Nominativ – Akkusativ – Dativ: **Sie es mir**. The polite *Sie* is the subject, so it comes first.",
+      "pattern": "**V1** + Nom-Pron. + Akk-Pron. + Dat-Pron. + Angaben + Infinitiv?",
+      "mistake": {"wrong": "Könnten es Sie mir bis Freitag per Post zuschicken?", "why": "The subject pronoun *Sie* must come directly after the finite verb, before the object pronouns."},
+      "examples": [
+        {"de": "Würdest du sie mir morgen früh vorbeibringen?", "en": "Would you bring them round to me tomorrow morning?"},
+        {"de": "Hat er es euch schon gezeigt?", "en": "Has he shown it to you yet?"}
+      ],
+      "words": [{"de": "zuschicken", "en": "to send (to someone)"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Vorfeld.",
+      "prompt": "What can stand in the Vorfeld of a German main clause, and how much of it?",
+      "answer": "Exactly **one constituent**, of any kind: the subject, an object, a time/place/reason phrase, a whole Nebensatz, an infinitive or Partizip phrase, or placeholder *es*. The finite verb always follows in **position 2**; if the Vorfeld is not the subject, the subject moves behind the verb.",
+      "explanation": "The Vorfeld is used for the topic or for a contrast, and to link a sentence to the previous one. Length does not matter: a long clause is still one constituent. What is not allowed is two constituents (✗ *Gestern ich habe …*).",
+      "examples": [
+        {"de": "Wegen der hohen Nachfrage verlängert das Museum die Ausstellung.", "en": "Because of high demand, the museum is extending the exhibition."},
+        {"de": "Wer die Prüfung bestehen will, muss regelmäßig üben.", "en": "Anyone who wants to pass the exam has to practise regularly."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the order of objects in the Mittelfeld.",
+      "prompt": "In what order do Dativ and Akkusativ objects appear when they are (a) two nouns, (b) two pronouns, (c) one pronoun and one noun?",
+      "answer": "(a) Two nouns: **Dativ before Akkusativ** (*dem Kunden die Rechnung*). (b) Two personal pronouns: **Akkusativ before Dativ** (*sie ihm*). (c) Pronoun and noun: **the pronoun first**, whatever its case (*sie dem Kunden*, *ihm die Rechnung*).",
+      "explanation": "The basic principle is *light before heavy* and *known before new*: unstressed pronouns go to the front of the Mittelfeld. With two nouns, a definite Akkusativ can come before an indefinite Dativ (*Sie hat das Buch einem Freund geliehen*), because new information tends to come late.",
+      "examples": [
+        {"de": "Der Kellner bringt dem Gast die Rechnung.", "en": "The waiter brings the guest the bill."},
+        {"de": "Der Kellner bringt sie ihm sofort.", "en": "The waiter brings it to him straight away."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the position of nicht.",
+      "prompt": "Where does *nicht* stand in sentence negation, and where in part negation?",
+      "answer": "**Satznegation:** as late as possible in the Mittelfeld – after pronouns, definite objects, time phrases and sentence adverbs, but **before** the right bracket, directional and predicative complements and manner adverbs. **Teilnegation:** directly **before the negated constituent**, usually followed by *sondern* + alternative.",
+      "explanation": "In *Er hat den Brief nicht abgeschickt* the whole action is denied. In *Er hat nicht den Brief, sondern das Paket abgeschickt* he did send something, only not the letter. If the sentence has no right bracket and no complement, *nicht* is the last word.",
+      "examples": [
+        {"de": "Wir haben den Vertrag gestern nicht unterschrieben.", "en": "We didn't sign the contract yesterday."},
+        {"de": "Wir haben nicht den Vertrag, sondern nur die Absichtserklärung unterschrieben.", "en": "We didn't sign the contract, only the letter of intent."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about connecting words and word order.",
+      "prompt": "Why is it *…, aber er kommt* but *…, deshalb kommt er*?",
+      "answer": "*und, aber, oder, denn, sondern* are coordinating conjunctions in **position 0**; they stand outside the clause, so the normal order follows (subject – verb). *deshalb, trotzdem, dann, außerdem, dennoch, also* are adverbs that fill the **Vorfeld** (position 1), so the verb comes next and the subject follows (inversion).",
+      "explanation": "A useful test: an adverb like *deshalb* can also stand inside the Mittelfeld (*er kommt deshalb später*); the conjunctions *und, oder* and *denn* never can. Subordinating conjunctions (*weil, obwohl, dass*) are a third group: they send the finite verb to the end.",
+      "examples": [
+        {"de": "Die Straße war gesperrt, aber der Bus fuhr eine Umleitung.", "en": "The road was closed, but the bus took a diversion."},
+        {"de": "Die Straße war gesperrt, deshalb fuhr der Bus eine Umleitung.", "en": "The road was closed, so the bus took a diversion."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the Nachfeld.",
+      "prompt": "What usually goes into the Nachfeld (after the right bracket), and what may never go there?",
+      "answer": "Usually in the Nachfeld: **subordinate clauses** (relative, *dass*-, *ob*-clauses), **zu-infinitive clauses**, **comparisons with *als/wie***, and in speech sometimes long prepositional phrases. Never in the Nachfeld: **Nominativ, Akkusativ and Dativ objects, pronouns, short adverbs and *nicht***.",
+      "explanation": "Moving heavy material to the Nachfeld keeps the Mittelfeld short, so the listener reaches the right bracket sooner. Placing a prepositional phrase after the bracket (*Ich habe lange gewartet auf dich*) is common in speech but less accepted in formal writing.",
+      "examples": [
+        {"de": "Der Test ist schwieriger gewesen als im letzten Jahr.", "en": "The test was harder than last year."},
+        {"de": "Sie hat uns gestern mitgeteilt, dass sie kündigen will.", "en": "Yesterday she told us that she wants to resign."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about the placeholder es.",
+      "prompt": "What is the function of *es* in *Es meldeten sich viele Freiwillige*, and when does it disappear?",
+      "answer": "It is a **Vorfeld-es** (placeholder): it only fills position 1 so that the subject can stand later as new information. It is not the subject – the verb agrees with *viele Freiwillige* (plural). It **disappears** as soon as another constituent takes the Vorfeld or the clause has no Vorfeld (questions, Nebensätze).",
+      "explanation": "Compare *Gestern meldeten sich viele Freiwillige* and *…, dass sich viele Freiwillige meldeten* – no *es* in either. This differs from the *es* of *es regnet* or *es gibt*, which is a real (formal) subject and stays in every position (*Gestern hat es geregnet*, *…, weil es keine Tickets gibt*).",
+      "examples": [
+        {"de": "Es fehlen noch drei Unterschriften.", "en": "Three signatures are still missing."},
+        {"de": "Leider fehlen noch drei Unterschriften.", "en": "Unfortunately three signatures are still missing."}
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "order",
+      "instruction": "Put the parts in the neutral order. Start with: Gestern",
+      "prompt": "hat / der Kundin / gestern / die Rechnung / die Buchhalterin / geschickt",
+      "answer": "Gestern hat die Buchhalterin der Kundin die Rechnung geschickt.",
+      "explanation": "*Gestern* fills the Vorfeld, so *hat* is in position 2 and the subject *die Buchhalterin* follows. Two noun objects: Dativ (*der Kundin*) before Akkusativ (*die Rechnung*). The Partizip *geschickt* closes the bracket. *… die Rechnung der Kundin geschickt* is also grammatical with two definite nouns, but it puts special stress on *der Kundin*; the neutral order is Dativ – Akkusativ."
+    },
+    {
+      "key": "d08",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Leider",
+      "prompt": "leider / hat / es / ihm / sie / noch nicht / zurückgegeben",
+      "answer": "Leider hat sie es ihm noch nicht zurückgegeben.",
+      "explanation": "*Leider* is in the Vorfeld, *hat* in position 2. The pronouns follow in the order Nominativ – Akkusativ – Dativ: *sie es ihm*. *noch nicht* (sentence negation) stands at the end of the Mittelfeld, directly before the Partizip."
+    },
+    {
+      "key": "d09",
+      "type": "order",
+      "instruction": "Put the parts in the neutral order. Start with: Meine Kollegin",
+      "prompt": "fährt / mit der Bahn / meine Kollegin / nach Genf / wegen der Konferenz / morgen",
+      "answer": "Meine Kollegin fährt morgen wegen der Konferenz mit der Bahn nach Genf.",
+      "explanation": "Neutral TeKaMoLo order: *morgen* (temporal) – *wegen der Konferenz* (kausal) – *mit der Bahn* (modal) – *nach Genf* (lokal, direction). The directional complement *nach Genf* is the last element, because it belongs most closely to *fahren*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Move the time phrase into the Vorfeld.",
+      "prompt": "Die Firma hat im letzten Quartal einen Rekordumsatz erzielt.",
+      "answer": "Im letzten Quartal hat die Firma einen Rekordumsatz erzielt.",
+      "explanation": "When *im letzten Quartal* takes the Vorfeld, the finite verb *hat* stays in position 2 and the subject *die Firma* moves behind it (inversion). The rest of the Mittelfeld and the Partizip *erzielt* do not change."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace both objects with personal pronouns.",
+      "prompt": "Der Hausmeister hat den neuen Mietern die Schlüssel übergeben.",
+      "answer": "Der Hausmeister hat sie ihnen übergeben.",
+      "explanation": "*die Schlüssel* (Akkusativ plural) → *sie*; *den neuen Mietern* (Dativ plural) → *ihnen*. With nouns the order was Dativ – Akkusativ; with two pronouns it changes to Akkusativ – Dativ: *sie ihnen*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace only the Akkusativ object with a personal pronoun.",
+      "prompt": "Die Professorin hat den Erstsemestern das Prüfungsverfahren erklärt.",
+      "answer": "Die Professorin hat es den Erstsemestern erklärt.",
+      "explanation": "*das Prüfungsverfahren* → *es*. A pronoun comes before a noun phrase in the Mittelfeld, so *es* moves in front of the Dativ noun *den Erstsemestern*, although two nouns would be Dativ – Akkusativ."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Negate the whole statement with nicht (Satznegation).",
+      "prompt": "Der Techniker hat die Ursache des Fehlers gestern gefunden.",
+      "answer": "Der Techniker hat die Ursache des Fehlers gestern nicht gefunden.",
+      "explanation": "In sentence negation *nicht* stands as late as possible in the Mittelfeld: after the definite object *die Ursache des Fehlers* and after the time adverb *gestern*, directly before the Partizip *gefunden*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Negate only the time and add the alternative *sondern erst im Juni* (Teilnegation).",
+      "prompt": "Der Mietvertrag läuft im März aus.",
+      "answer": "Der Mietvertrag läuft nicht im März, sondern erst im Juni aus.",
+      "explanation": "Only the date is wrong, the contract does end. For part negation *nicht* stands directly before *im März*, and *sondern* adds the correct time. The separable prefix *aus* still closes the bracket at the very end."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Am Wochenende wir haben endlich die Wohnung renoviert.",
+      "answer": "Am Wochenende haben wir endlich die Wohnung renoviert.",
+      "explanation": "*Am Wochenende* already fills the Vorfeld, so the finite verb *haben* must follow directly (position 2) and the subject *wir* moves behind it. The original has the verb in position 3."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Kannst du mir es bis morgen zurückgeben?",
+      "answer": "Kannst du es mir bis morgen zurückgeben?",
+      "explanation": "With two object pronouns the Akkusativ (*es*) comes before the Dativ (*mir*). *mir es* follows the noun order Dativ – Akkusativ, which does not apply to pronouns."
+    },
+    {
+      "key": "d17",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wegen der Grippewelle gehen diese Woche viele Kinder in die Schule nicht.",
+      "answer": "Wegen der Grippewelle gehen diese Woche viele Kinder nicht in die Schule.",
+      "explanation": "*in die Schule* is a directional complement of *gehen* and forms a unit with the verb. In sentence negation *nicht* stands before such a complement, not after it. The time phrase *diese Woche* and the subject stay before *nicht*."
+    },
+    {
+      "key": "d18",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Lage war unübersichtlich, deshalb die Regierung hat Notmaßnahmen beschlossen.",
+      "answer": "Die Lage war unübersichtlich, deshalb hat die Regierung Notmaßnahmen beschlossen.",
+      "explanation": "*deshalb* is an adverb in the Vorfeld, not a conjunction in position 0. The finite verb *hat* must follow it directly, and the subject *die Regierung* comes after the verb."
+    },
+    {
+      "key": "d19",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Mein Bruder hat sich letzte Woche gekauft ein gebrauchtes E-Bike.",
+      "answer": "Mein Bruder hat sich letzte Woche ein gebrauchtes E-Bike gekauft.",
+      "explanation": "The Akkusativ object *ein gebrauchtes E-Bike* stands in the Nachfeld, after the Partizip. Objects must stay in the Mittelfeld; only clauses and comparisons normally follow the right bracket."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the correct continuation.",
+      "prompt": "Die Messe war sehr gut besucht, ___ zufrieden.",
+      "options": ["deshalb sind die Aussteller", "deshalb die Aussteller sind", "denn sind die Aussteller"],
+      "correct": "deshalb sind die Aussteller",
+      "answer": "Die Messe war sehr gut besucht, deshalb sind die Aussteller zufrieden.",
+      "explanation": "*deshalb* fills the Vorfeld, so the verb *sind* follows directly and the subject comes after it. *deshalb die Aussteller sind* puts the verb in position 3. *denn* is in position 0, so after it the subject must come first (*denn die Aussteller sind …*), and it would also give the wrong meaning (a reason, not a result)."
+    },
+    {
+      "key": "d21",
+      "type": "choice",
+      "instruction": "Choose the correct word order for sentence negation.",
+      "prompt": "Trotz langer Suche habe ich ___ gefunden.",
+      "options": ["den Ersatzschlüssel gestern nicht", "nicht den Ersatzschlüssel gestern", "den Ersatzschlüssel nicht gestern"],
+      "correct": "den Ersatzschlüssel gestern nicht",
+      "answer": "Trotz langer Suche habe ich den Ersatzschlüssel gestern nicht gefunden.",
+      "explanation": "For sentence negation *nicht* follows the definite object and the time adverb and stands directly before the Partizip. *nicht den Ersatzschlüssel gestern* puts *nicht* before the object and the time phrase after it, which is not a possible order. *nicht gestern* negates only the day (part negation) and would need a *sondern* part (*…, sondern erst heute*)."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Join the sentences with trotzdem at the start of the second clause.",
+      "prompt": "Die Mieten in der Innenstadt sind sehr hoch. Viele Studierende wollen dort wohnen.",
+      "answer": "Die Mieten in der Innenstadt sind sehr hoch, trotzdem wollen viele Studierende dort wohnen.",
+      "explanation": "*trotzdem* takes the Vorfeld of the second clause, so the modal verb *wollen* follows directly and the subject *viele Studierende* moves behind it. The infinitive *wohnen* stays in the right bracket."
+    },
+    {
+      "key": "d23",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and place it in the Nachfeld of the first.",
+      "prompt": "Wir haben gestern einen Gutachter beauftragt. Der Gutachter soll die Schäden am Dach prüfen.",
+      "answer": "Wir haben gestern einen Gutachter beauftragt, der die Schäden am Dach prüfen soll.",
+      "explanation": "The relative pronoun *der* (masculine Nominativ) refers to *einen Gutachter*. The relative clause goes behind the Partizip *beauftragt*, so the short right bracket is not left alone after a long clause. Inside the relative clause the finite verb *soll* goes to the end."
+    }
+  ]
+}

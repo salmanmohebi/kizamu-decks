@@ -1,0 +1,567 @@
+{
+  "topic_id": "themen-07-arzt",
+  "level": "A1-A2",
+  "title_de": "07 Arzt & Gesundheit",
+  "title_en": "Doctor & health",
+  "intro": "At the doctor's practice and the pharmacy: making an appointment, describing symptoms, insurance and medicine. Doctors, practice staff and pharmacists use *Sie*. In Switzerland basic health insurance (*Krankenkasse*) is compulsory, and practices ask for your insurance card (*Versichertenkarte*).",
+  "phrases": [
+    {
+      "key": "t00",
+      "de": "Ich brauche einen Arzt.",
+      "en": "I need a doctor.",
+      "usage": "Say it at a hotel reception, a pharmacy or to a colleague when you are ill. If it is urgent, add *dringend*. A female doctor is *eine Ärztin*.",
+      "grammar": "*brauchen* takes the Akkusativ. *der Arzt* is masculine → *einen Arzt*. *Arzt* is a normal noun, not n-Deklination: *den Arzt, dem Arzt, des Arztes*; plural *Ärzte*.",
+      "alternatives": [
+        {
+          "de": "Können Sie mir einen Arzt empfehlen?",
+          "en": "Can you recommend a doctor?"
+        },
+        {
+          "de": "Wo finde ich hier einen Arzt?",
+          "en": "Where can I find a doctor here?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Arzt (Ärzte) / die Ärztin (-nen)",
+          "en": "doctor"
+        }
+      ]
+    },
+    {
+      "key": "t01",
+      "de": "Ich fühle mich nicht gut.",
+      "en": "I don't feel well.",
+      "usage": "A general sentence for the doctor, your boss or a teacher. The doctor then asks *Was fehlt Ihnen denn?* or *Was haben Sie für Beschwerden?*",
+      "grammar": "*sich fühlen* is reflexive: ich fühle **mich**. The adjective *gut* is used as an adverb after it, without ending. *nicht* stands before *gut*.",
+      "alternatives": [
+        {
+          "de": "Ich fühle mich krank.",
+          "en": "I feel ill."
+        },
+        {
+          "de": "Mir geht es nicht gut.",
+          "en": "I'm not well."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t02",
+      "de": "Mir ist schlecht.",
+      "en": "I feel sick. (nauseous)",
+      "usage": "This means 'I feel like vomiting', not just 'I feel ill'. Do not say ✗ *Ich bin schlecht*; that means 'I am bad (at something)'. A slightly more formal word is *übel*.",
+      "grammar": "Impersonal construction: the person who feels it is in the Dativ (*mir*), followed by *ist* + adjective. There is no real subject; the full form would be *Es ist mir schlecht.* The same pattern: *Mir ist kalt / warm.*",
+      "alternatives": [
+        {
+          "de": "Mir ist übel.",
+          "en": "I feel nauseous."
+        },
+        {
+          "de": "Ich muss mich übergeben.",
+          "en": "I'm going to be sick."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t03",
+      "de": "Ich habe Kopfschmerzen.",
+      "en": "I have a headache.",
+      "usage": "Say it at the doctor's or in the pharmacy. The next question is usually *Seit wann?* In Switzerland, Austria and southern Germany people often say *Kopfweh*.",
+      "grammar": "*Schmerzen* is normally plural in this meaning, and it has no article after *haben*. Compound: *der Kopf* + *die Schmerzen* → *die Kopfschmerzen* (plural only). English uses singular 'a headache'.",
+      "alternatives": [
+        {
+          "de": "Ich habe Kopfweh.",
+          "en": "I've got a headache."
+        },
+        {
+          "de": "Mir tut der Kopf weh.",
+          "en": "My head hurts."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Kopfschmerzen (Pl.)",
+          "en": "headache"
+        }
+      ]
+    },
+    {
+      "key": "t04",
+      "de": "Ich habe Bauchschmerzen.",
+      "en": "I have a stomachache.",
+      "usage": "The doctor will ask where exactly: *Wo genau? Oben oder unten?* The same pattern works for other body parts: *Rückenschmerzen, Halsschmerzen, Zahnschmerzen*.",
+      "grammar": "*der Bauch* + *Schmerzen* → *Bauchschmerzen*, plural without article. Alternative with *wehtun*: the body part is the Nominativ subject and the person is in the Dativ: *Mir tut der Bauch weh.*",
+      "alternatives": [
+        {
+          "de": "Mir tut der Bauch weh.",
+          "en": "My stomach hurts."
+        },
+        {
+          "de": "Ich habe Bauchweh.",
+          "en": "I have a tummy ache."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Bauch (Bäuche)",
+          "en": "belly, stomach"
+        }
+      ]
+    },
+    {
+      "key": "t05",
+      "de": "Ich habe Fieber.",
+      "en": "I have a fever.",
+      "usage": "The doctor may ask *Haben Sie Fieber gemessen? Wie hoch?* Temperatures are given in degrees Celsius: *38,5* (spoken *achtunddreißig fünf*).",
+      "grammar": "*das Fieber* is uncountable here, so there is no article (not ✗ *ein Fieber*). The temperature comes before the noun: *Ich habe 39 Grad Fieber.*",
+      "alternatives": [
+        {
+          "de": "Ich habe 39 Grad Fieber.",
+          "en": "I have a temperature of 39 degrees."
+        },
+        {
+          "de": "Ich habe erhöhte Temperatur.",
+          "en": "I have a slight temperature."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Fieber",
+          "en": "fever"
+        }
+      ]
+    },
+    {
+      "key": "t06",
+      "de": "Ich bin erkältet.",
+      "en": "I have a cold.",
+      "usage": "The usual way to say you have a cold, at work or at the doctor's. People answer *Oh, gute Besserung!*",
+      "grammar": "*erkältet* is the Partizip II of *sich erkälten*, used as an adjective with *sein* to describe a state. The process ('I caught a cold') is the reflexive Perfekt: *Ich habe mich erkältet.* With a noun: *Ich habe eine Erkältung.*",
+      "alternatives": [
+        {
+          "de": "Ich habe eine Erkältung.",
+          "en": "I've got a cold."
+        },
+        {
+          "de": "Ich habe mich erkältet.",
+          "en": "I've caught a cold."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Erkältung (-en)",
+          "en": "cold (illness)"
+        }
+      ]
+    },
+    {
+      "key": "t07",
+      "de": "Ich habe Husten.",
+      "en": "I have a cough.",
+      "usage": "The doctor may ask *Trocken oder mit Schleim?* ('dry or with mucus') and *Seit wann?*",
+      "grammar": "*der Husten* is masculine; as an illness after *haben* it normally has no article. With an adjective you can use one: *Ich habe einen starken Husten.* The verb is *husten*: *Ich huste.*",
+      "alternatives": [
+        {
+          "de": "Ich huste seit drei Tagen.",
+          "en": "I've been coughing for three days."
+        },
+        {
+          "de": "Ich habe einen starken Husten.",
+          "en": "I have a bad cough."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Husten",
+          "en": "cough"
+        }
+      ]
+    },
+    {
+      "key": "t08",
+      "de": "Es tut hier weh.",
+      "en": "It hurts here.",
+      "usage": "Point at the place while you say it. It is the answer to the doctor's question *Wo tut es weh?* *Hier tut es weh.* is equally common.",
+      "grammar": "*wehtun* is separable: *tut ... weh*, with *weh* at the end. *es* is the subject. You can add the person in the Dativ: *Es tut mir hier weh.*",
+      "alternatives": [
+        {
+          "de": "Hier tut es weh.",
+          "en": "This is where it hurts."
+        },
+        {
+          "de": "Hier habe ich Schmerzen.",
+          "en": "I have pain here."
+        }
+      ],
+      "words": [
+        {
+          "de": "wehtun",
+          "en": "to hurt"
+        }
+      ]
+    },
+    {
+      "key": "t09",
+      "de": "Wie lange schon?",
+      "en": "How long has it been?",
+      "usage": "The doctor asks this after you describe a symptom. Answer *Seit gestern.* or *Seit drei Tagen.*",
+      "grammar": "Elliptical for *Wie lange haben Sie das schon?* German uses the Präsens + *schon* for something that started in the past and still continues; English needs the present perfect ('How long have you had it?').",
+      "alternatives": [
+        {
+          "de": "Wie lange haben Sie das schon?",
+          "en": "How long have you had this?"
+        },
+        {
+          "de": "Seit wann haben Sie die Beschwerden?",
+          "en": "Since when have you had the symptoms?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Beschwerden (Pl.)",
+          "en": "symptoms, complaints"
+        }
+      ]
+    },
+    {
+      "key": "t10",
+      "de": "Seit gestern.",
+      "en": "Since yesterday.",
+      "usage": "The answer to *Wie lange schon?* or *Seit wann?* Be as exact as you can; it helps the doctor.",
+      "grammar": "*seit* takes the Dativ and is used with the Präsens for a state that continues now: *Ich habe seit gestern Fieber.* With an adverb (*gestern*) no case is visible; with a noun it is: seit drei Tag**en** (Dativ plural *-n*).",
+      "alternatives": [
+        {
+          "de": "Seit drei Tagen.",
+          "en": "For three days."
+        },
+        {
+          "de": "Schon seit einer Woche.",
+          "en": "For a week already."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t11",
+      "de": "Kann ich einen Termin machen?",
+      "en": "Can I make an appointment?",
+      "usage": "Ask on the phone or at the reception of the practice. The staff answer *Wann passt es Ihnen?* or offer a date. *einen Termin vereinbaren* is the more formal verb.",
+      "grammar": "*der Termin* is masculine → Akkusativ *einen Termin*. The modal *kann* is first, the infinitive *machen* at the end.",
+      "alternatives": [
+        {
+          "de": "Ich möchte gern einen Termin vereinbaren.",
+          "en": "I'd like to arrange an appointment."
+        },
+        {
+          "de": "Haben Sie diese Woche noch einen Termin frei?",
+          "en": "Do you have an appointment free this week?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Termin (-e)",
+          "en": "appointment"
+        }
+      ]
+    },
+    {
+      "key": "t12",
+      "de": "Ich brauche ein Rezept.",
+      "en": "I need a prescription.",
+      "usage": "For medicine that needs a prescription (*rezeptpflichtig*). The doctor answers *Ich schreibe Ihnen etwas auf.* False friend: *das Rezept* is a prescription or a recipe; a receipt is *die Quittung*.",
+      "grammar": "*das Rezept* is neuter → Akkusativ *ein Rezept*. *brauchen* + Akkusativ.",
+      "alternatives": [
+        {
+          "de": "Können Sie mir ein Rezept ausstellen?",
+          "en": "Can you write me a prescription?"
+        },
+        {
+          "de": "Ist das Medikament rezeptpflichtig?",
+          "en": "Does this medicine need a prescription?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Rezept (-e)",
+          "en": "prescription; recipe"
+        }
+      ]
+    },
+    {
+      "key": "t13",
+      "de": "Wo ist die nächste Apotheke?",
+      "en": "Where is the nearest pharmacy?",
+      "usage": "At night and on Sundays most pharmacies are closed, but a duty pharmacy is open (*Notfallapotheke*, *Apotheke mit Notdienst*); a notice on the pharmacy door usually tells you which one.",
+      "grammar": "*nächst-* is the superlative of *nah*; after *die* it takes the weak ending **-e**: *die nächste Apotheke*. Nominativ subject.",
+      "alternatives": [
+        {
+          "de": "Ist hier eine Apotheke in der Nähe?",
+          "en": "Is there a pharmacy nearby?"
+        },
+        {
+          "de": "Welche Apotheke hat heute Notdienst?",
+          "en": "Which pharmacy is on duty today?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t14",
+      "de": "Sind Sie versichert?",
+      "en": "Are you insured?",
+      "usage": "The reception staff ask this at your first visit. Answer *Ja, bei der ...* and the name of your *Krankenkasse*, then show your card.",
+      "grammar": "*versichert* is the Partizip II of *versichern*, used as an adjective with *sein*. The insurer follows with *bei* + Dativ: *Ich bin bei der Helsana versichert.*",
+      "alternatives": [
+        {
+          "de": "Bei welcher Krankenkasse sind Sie?",
+          "en": "Which health insurance are you with?"
+        },
+        {
+          "de": "Wo sind Sie versichert?",
+          "en": "Where are you insured?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Krankenkasse (-n)",
+          "en": "health insurance (company)"
+        }
+      ]
+    },
+    {
+      "key": "t15",
+      "de": "Hier ist meine Versichertenkarte.",
+      "en": "Here is my insurance card.",
+      "usage": "Give the card at the reception of a practice, hospital or pharmacy. *Versichertenkarte* is the usual word in Switzerland; in Germany people mostly say *Gesundheitskarte* or *Krankenkassenkarte*; in Austria it is the *e-card*.",
+      "grammar": "*hier* is in the Vorfeld, so the verb *ist* comes second and the subject after it. Compound: *der/die Versicherte* (nominalised adjective: insured person) + *-n-* + *die Karte* → feminine → *meine*.",
+      "alternatives": [
+        {
+          "de": "Hier, bitte, meine Karte.",
+          "en": "Here you are, my card."
+        },
+        {
+          "de": "Hier ist meine Gesundheitskarte.",
+          "en": "Here is my health insurance card. (Germany)"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Versichertenkarte (-n)",
+          "en": "health insurance card"
+        }
+      ]
+    },
+    {
+      "key": "t16",
+      "de": "Ich bin allergisch gegen Penicillin.",
+      "en": "I'm allergic to penicillin.",
+      "usage": "Tell the doctor before they prescribe anything, and write it on the form under *Allergien*. In Switzerland and Austria you will also hear *allergisch auf*.",
+      "grammar": "*allergisch gegen* + Akkusativ. The name of a substance has no article. As a compound noun: *eine Penicillinallergie*.",
+      "alternatives": [
+        {
+          "de": "Ich habe eine Penicillinallergie.",
+          "en": "I have a penicillin allergy."
+        },
+        {
+          "de": "Ich vertrage kein Penicillin.",
+          "en": "I can't tolerate penicillin."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t17",
+      "de": "Wie oft soll ich das nehmen?",
+      "en": "How often should I take this?",
+      "usage": "Ask the doctor or the pharmacist when you get medicine. The answer is a dosage instruction such as *Dreimal täglich nach dem Essen.*",
+      "grammar": "*sollen* expresses an instruction from another person (the doctor). *müssen* would mean a strict necessity. *wie oft* asks for the frequency.",
+      "alternatives": [
+        {
+          "de": "Wie muss ich das Medikament einnehmen?",
+          "en": "How do I have to take the medicine?"
+        },
+        {
+          "de": "Wie viele Tabletten soll ich am Tag nehmen?",
+          "en": "How many tablets should I take a day?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einnehmen",
+          "en": "to take (medicine)"
+        }
+      ]
+    },
+    {
+      "key": "t18",
+      "de": "Dreimal täglich nach dem Essen.",
+      "en": "Three times daily after meals.",
+      "usage": "A typical instruction from the doctor or pharmacist; the packet often shows *3 x täglich*. Other options: *vor dem Essen* (before meals), *zum Essen* (with meals).",
+      "grammar": "*dreimal* is one word. *täglich* is an adverb ('daily'). *nach* takes the Dativ: *das Essen* (a nominalised infinitive, neuter) → *nach dem Essen*.",
+      "alternatives": [
+        {
+          "de": "Dreimal am Tag, immer nach dem Essen.",
+          "en": "Three times a day, always after meals."
+        },
+        {
+          "de": "Nehmen Sie morgens und abends eine Tablette.",
+          "en": "Take one tablet in the morning and in the evening."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t19",
+      "de": "Gute Besserung!",
+      "en": "Get well soon!",
+      "usage": "The wish for someone who is ill, said or written by colleagues, friends and also the doctor. The answer is simply *Danke!*",
+      "grammar": "An Akkusativ wish (*Ich wünsche dir gute Besserung*). *die Besserung* is feminine (*-ung*); without an article the adjective takes **-e** → *gute*.",
+      "alternatives": [
+        {
+          "de": "Ich wünsche Ihnen gute Besserung!",
+          "en": "I wish you a speedy recovery!"
+        },
+        {
+          "de": "Werd schnell wieder gesund!",
+          "en": "Get well soon! (informal)"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n01",
+      "de": "Mir ist schwindlig.",
+      "en": "I feel dizzy.",
+      "usage": "Tell the doctor, or anyone nearby if you suddenly feel dizzy; sit down first. The doctor may ask *Wann genau? Beim Aufstehen?*",
+      "grammar": "Dativ of the person + *ist* + adjective, like *Mir ist schlecht*. Both spellings *schwindlig* and *schwindelig* are correct; the noun is *der Schwindel*. For the beginning of the feeling use *werden*: *Mir wird schwindlig.*",
+      "alternatives": [
+        {
+          "de": "Mir dreht sich alles.",
+          "en": "Everything is spinning."
+        },
+        {
+          "de": "Mir wird schwindlig, wenn ich aufstehe.",
+          "en": "I get dizzy when I stand up."
+        }
+      ],
+      "words": [
+        {
+          "de": "schwindlig",
+          "en": "dizzy"
+        }
+      ]
+    },
+    {
+      "key": "n02",
+      "de": "Ich habe mir den Fuß verletzt.",
+      "en": "I've hurt my foot.",
+      "usage": "Explain an injury at the doctor's or in the emergency room. The doctor asks *Wie ist das passiert?*",
+      "grammar": "With body parts German prefers a Dativ reflexive pronoun + definite article: *mir den Fuß*. *Ich habe meinen Fuß verletzt* is possible, but sounds less natural. Perfekt with *haben*; *verletzen* has the prefix *ver-* → Partizip *verletzt*.",
+      "alternatives": [
+        {
+          "de": "Ich habe mich am Fuß verletzt.",
+          "en": "I've injured my foot."
+        },
+        {
+          "de": "Ich bin umgeknickt.",
+          "en": "I twisted my ankle."
+        }
+      ],
+      "words": [
+        {
+          "de": "verletzen",
+          "en": "to injure"
+        }
+      ]
+    },
+    {
+      "key": "n03",
+      "de": "Haben Sie etwas gegen Halsschmerzen?",
+      "en": "Do you have something for a sore throat?",
+      "usage": "Ask in the pharmacy for medicine you can buy without prescription. The pharmacist often asks a few questions and then answers *Ja, diese Lutschtabletten helfen gut.*",
+      "grammar": "*etwas gegen* + Akkusativ: the remedy works 'against' the problem; English says 'for'. *Halsschmerzen* is plural without article.",
+      "alternatives": [
+        {
+          "de": "Was können Sie mir gegen Husten empfehlen?",
+          "en": "What can you recommend for a cough?"
+        },
+        {
+          "de": "Ich brauche etwas gegen Halsschmerzen.",
+          "en": "I need something for a sore throat."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Halsschmerzen (Pl.)",
+          "en": "sore throat"
+        }
+      ]
+    },
+    {
+      "key": "n04",
+      "de": "Ich brauche eine Krankschreibung.",
+      "en": "I need a sick note.",
+      "usage": "Ask the doctor when your employer needs proof that you are ill. In Switzerland the usual word is *das Arztzeugnis*; in Germany *die Krankschreibung* or *AU-Bescheinigung*.",
+      "grammar": "*die Krankschreibung* is the noun from the separable verb *krankschreiben*: *Der Arzt schreibt mich krank.* Nouns in *-ung* are feminine → *eine*.",
+      "alternatives": [
+        {
+          "de": "Können Sie mich krankschreiben?",
+          "en": "Can you sign me off sick?"
+        },
+        {
+          "de": "Ich brauche ein Arztzeugnis für meinen Arbeitgeber.",
+          "en": "I need a doctor's certificate for my employer. (Switzerland)"
+        }
+      ],
+      "words": [
+        {
+          "de": "krankschreiben",
+          "en": "to sign someone off sick"
+        }
+      ]
+    },
+    {
+      "key": "n05",
+      "de": "Wo tut es weh?",
+      "en": "Where does it hurt?",
+      "usage": "The doctor's question during an examination. Answer *Hier.* while you point, or *Es tut hier weh.*",
+      "grammar": "W-question: *wo* first, the verb *tut* second, *weh* (the separable part of *wehtun*) at the end. With the person: *Wo tut es Ihnen weh?* (Dativ).",
+      "alternatives": [
+        {
+          "de": "Wo haben Sie Schmerzen?",
+          "en": "Where do you have pain?"
+        },
+        {
+          "de": "Zeigen Sie mir, wo es wehtut.",
+          "en": "Show me where it hurts."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n06",
+      "de": "Ich nehme regelmäßig Medikamente.",
+      "en": "I take medication regularly.",
+      "usage": "The answer to *Nehmen Sie Medikamente?* Then name them; it helps to bring a list or the packets. In Switzerland the spelling is *regelmässig*.",
+      "grammar": "*regelmäßig* is an adverb in the Mittelfeld before the object. *das Medikament* (plural *Medikamente*) has no article in the plural for a general statement.",
+      "alternatives": [
+        {
+          "de": "Ich nehme jeden Tag Tabletten gegen Bluthochdruck.",
+          "en": "I take tablets for high blood pressure every day."
+        },
+        {
+          "de": "Ich nehme zurzeit keine Medikamente.",
+          "en": "I'm not taking any medication at the moment."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Medikament (-e)",
+          "en": "medicine, medication"
+        }
+      ]
+    }
+  ]
+}

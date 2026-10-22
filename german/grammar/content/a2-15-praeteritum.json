@@ -1,0 +1,942 @@
+{
+  "topic_id": "a2-15-praeteritum",
+  "level": "A2",
+  "title_de": "Präteritum (regelmäßige + häufige unregelmäßige Verben)",
+  "title_en": "Simple past (regular and common irregular verbs)",
+  "rule": {
+    "summary": "The **Präteritum** is the simple past tense. It is the normal past tense in **written** German: stories, reports, news, biographies. In speech most verbs use the Perfekt, but *sein, haben*, the modal verbs, *es gab* and *wissen* are usually Präteritum. There are three groups: **weak** verbs add **-te-** (*machte*), **strong** verbs change the stem vowel and add no *-te-* (*ging, kam*), and **mixed** verbs do both (*brachte, dachte, wusste*). The *ich* and *er/sie/es* forms are always the same.",
+    "table": "| | schwach: machen | schwach: arbeiten | stark: kommen | gemischt: bringen |\n|---|---|---|---|---|\n| ich | mach**te** | arbeit**ete** | k**a**m | br**achte** |\n| du | mach**test** | arbeit**etest** | k**a**m**st** | br**achtest** |\n| er/sie/es | mach**te** | arbeit**ete** | k**a**m | br**achte** |\n| wir | mach**ten** | arbeit**eten** | k**a**m**en** | br**achten** |\n| ihr | mach**tet** | arbeit**etet** | k**a**m**t** | br**achtet** |\n| sie/Sie | mach**ten** | arbeit**eten** | k**a**m**en** | br**achten** |",
+    "steps": [
+      "Decide the verb group. Regular (weak) verbs: stem + **-te-** (*sag-te*). Strong verbs: learn the Präteritum stem (*gehen → ging, sehen → sah, fahren → fuhr*). Mixed verbs: new stem + *-te-* (*denken → dachte, kennen → kannte, wissen → wusste*).",
+      "Weak verbs whose stem ends in *-t, -d* or a consonant (except *l, r*) + *m/n* (*arbeit-, red-, öffn-*) add **-ete-**: *arbeitete, redete, öffnete*.",
+      "Add the person endings: *ich* and *er/sie/es* have **no extra ending** (*ich machte, er kam*); *du* **-st**, *wir/sie* **-en**, *ihr* **-t** (weak verbs: *-test, -ten, -tet*).",
+      "Separable verbs split in a main clause (*Der Zug fuhr ab.*) and join at the end in a Nebensatz (*als der Zug abfuhr*). Inseparable prefixes stay on the verb (*begann, verlor*).",
+      "Choose the tense: Präteritum for written narration and news; in conversation prefer the Perfekt, except with *sein, haben*, modals, *es gab, wusste*."
+    ],
+    "pitfalls": [
+      "Weak endings on strong verbs: ✗ *Er gehte nach Hause.* → ✓ *Er ging nach Hause.* ✗ *Sie kommte.* → ✓ *Sie kam.*",
+      "An ending on the *ich/er* form of strong verbs: ✗ *Er ginge.* → ✓ *Er ging.* (*ginge* is Konjunktiv II.)",
+      "Missing or extra *-e-*: ✗ *Sie arbeitte.* → ✓ *Sie arbeitete.* ✗ *Sie lernete.* → ✓ *Sie lernte.*",
+      "Mixed verbs treated as weak: ✗ *Ich denkte / bringte / wisste.* → ✓ *Ich dachte / brachte / wusste.*",
+      "Separable verb not split in the main clause: ✗ *Wir aufstanden früh.* → ✓ *Wir standen früh auf.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::machte::machen}} meine Hausaufgaben.",
+      "en": "I did my homework.",
+      "focus": "Schwaches Verb · *ich*-Form",
+      "explanation": "*machen* is a regular (weak) verb: stem *mach-* + **-te**. The *ich*-form has no further ending, so it looks the same as the *er*-form: *ich machte, er machte*.",
+      "pattern": "ich + Stamm-**te**",
+      "mistake": {"wrong": "Ich machten meine Hausaufgaben.", "why": "*-ten* is the ending for *wir* and *sie* (plural). The *ich*-form is only stem + *-te*: *ich machte*."},
+      "examples": [
+        {"de": "Ich kaufte im Supermarkt Brot und Käse.", "en": "I bought bread and cheese at the supermarket."},
+        {"de": "Ich spielte als Kind Klavier.", "en": "I played the piano as a child."}
+      ],
+      "words": [{"de": "die Hausaufgaben (Pl.)", "en": "homework"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie {{c1::lernte::lernen}} jeden Tag Deutsch.",
+      "en": "She studied German every day.",
+      "focus": "Schwaches Verb · 3. Person Singular",
+      "explanation": "*lernen* is weak: *lern-* + **-te** → **lernte**. The *er/sie/es*-form adds no ending after *-te*. *jeden Tag* shows a repeated action in the past, which the Präteritum expresses without any extra word.",
+      "pattern": "er/sie/es + Stamm-**te**",
+      "mistake": {"wrong": "Sie lernete jeden Tag Deutsch.", "why": "The extra *-e-* (*-ete*) is only needed after stems in *-t* or *-d* (*arbeitete, redete*). *lern-* ends in *-rn*, and after *r* or *l* + *n* no extra *-e-* is needed: *lernte*."},
+      "examples": [
+        {"de": "Er übte jeden Abend Gitarre.", "en": "He practised the guitar every evening."},
+        {"de": "Sie kochte jeden Sonntag für die ganze Familie.", "en": "She cooked for the whole family every Sunday."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir {{c1::wohnten::wohnen}} in München.",
+      "en": "We lived in Munich.",
+      "focus": "Schwaches Verb · *wir*-Form",
+      "explanation": "*wohnen* is weak: *wohn-* + *-te-* + the *wir*-ending *-n* → **wohnten**. In the Präteritum the *wir*- and *sie*-forms of weak verbs always end in *-ten*.",
+      "pattern": "wir + Stamm-**ten**",
+      "mistake": {"wrong": "Wir wohnte in München.", "why": "*wohnte* is the *ich/er* form. With *wir* the Präteritum needs the plural ending: *wir wohnten*."},
+      "examples": [
+        {"de": "Wir tanzten bis Mitternacht.", "en": "We danced until midnight."},
+        {"de": "Wir suchten lange einen Parkplatz.", "en": "We looked for a parking space for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er {{c1::ging::gehen}} nach Hause.",
+      "en": "He went home.",
+      "focus": "Starkes Verb · neuer Stamm",
+      "explanation": "*gehen* is a strong verb with an irregular Präteritum stem: **ging**. Strong verbs take no *-te-*, and the *er*-form has no ending. The Perfekt is *ist gegangen*.",
+      "pattern": "er + Präteritumstamm (stark, ohne Endung)",
+      "mistake": {"wrong": "Er gehte nach Hause.", "why": "*gehen* is strong, not weak, so it does not take *-te*. Its Präteritum stem must be learned: *ging*."},
+      "examples": [
+        {"de": "Sie ging jeden Morgen zum Bäcker.", "en": "She went to the baker's every morning."},
+        {"de": "Nach dem Film ging er sofort ins Bett.", "en": "After the film he went straight to bed."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie {{c1::kam::kommen}} um sieben Uhr.",
+      "en": "She came at seven o'clock.",
+      "focus": "Starkes Verb · Vokalwechsel *o → a*",
+      "explanation": "*kommen* is strong: the stem vowel changes *o → a* and *-mm-* becomes *-m-*: **kam**. The *sie*-form (singular) has no ending; plural would be *sie kamen*.",
+      "pattern": "sie (Sg.) + Präteritumstamm (stark)",
+      "mistake": {"wrong": "Sie kommte um sieben Uhr.", "why": "*kommen* is a strong verb, so the weak ending *-te* is wrong. The Präteritum is *kam*."},
+      "examples": [
+        {"de": "Der Brief kam erst nach zwei Wochen an.", "en": "The letter only arrived after two weeks."},
+        {"de": "Er kam zu spät zur Besprechung.", "en": "He came late to the meeting."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir {{c1::sahen::sehen}} einen Film.",
+      "en": "We watched a film.",
+      "focus": "Starkes Verb · *wir*-Form",
+      "explanation": "*sehen* is strong: Präteritum stem **sah**. For *wir* the strong ending is *-en*: *sah* + *-en* → **sahen**. There is no *-te-* in strong forms.",
+      "pattern": "wir + Präteritumstamm-**en**",
+      "mistake": {"wrong": "Wir sehten einen Film.", "why": "Strong verbs never take *-te-*. *sehen* has its own stem in the Präteritum: *sah → wir sahen*."},
+      "examples": [
+        {"de": "Wir sahen im Zoo zwei Eisbären.", "en": "We saw two polar bears at the zoo."},
+        {"de": "Die Kinder sahen aus dem Fenster.", "en": "The children looked out of the window."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Er {{c1::sprach::sprechen}} sehr leise.",
+      "en": "He spoke very quietly.",
+      "focus": "Starkes Verb · Vokalwechsel *e → a*",
+      "explanation": "*sprechen* is strong: *e → a* in the Präteritum → **sprach**. The *er*-form adds nothing. Other verbs with the same pattern: *helfen → half, treffen → traf, nehmen → nahm*.",
+      "pattern": "er + Präteritumstamm (*e → a*)",
+      "mistake": {"wrong": "Er sprechte sehr leise.", "why": "*sprechen* is strong, so there is no *-te*. The vowel changes instead: *sprach*."},
+      "examples": [
+        {"de": "Die Ärztin sprach lange mit den Eltern.", "en": "The doctor spoke with the parents for a long time."},
+        {"de": "Er sprach fließend Französisch.", "en": "He spoke fluent French."}
+      ],
+      "words": [{"de": "leise", "en": "quietly"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich {{c1::aß::essen}} einen Apfel.",
+      "en": "I ate an apple.",
+      "focus": "Starkes Verb · Schreibung mit *ß*",
+      "explanation": "*essen* is strong with the Präteritum stem **aß**: the vowel becomes a long *a*, so *ss* changes to *ß*. The *ich*-form has no ending. Plural: *wir aßen*.",
+      "pattern": "ich + Präteritumstamm (stark)",
+      "mistake": {"wrong": "Ich esste einen Apfel.", "why": "*essen* does not form a weak Präteritum. Its past stem is *aß* (with *ß* after the long vowel)."},
+      "examples": [
+        {"de": "Ich aß in der Mittagspause nur einen Salat.", "en": "I only ate a salad in my lunch break."},
+        {"de": "Wir aßen jeden Abend am Strand.", "en": "We ate on the beach every evening."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie {{c1::trank::trinken}} viel Wasser.",
+      "en": "She drank a lot of water.",
+      "focus": "Starkes Verb · Vokalwechsel *i → a*",
+      "explanation": "*trinken* belongs to the *i → a → u* group: *trinken – trank – getrunken*. The Präteritum stem is **trank**, with no ending for *sie* (singular).",
+      "pattern": "sie (Sg.) + Präteritumstamm (*i → a*)",
+      "mistake": {"wrong": "Sie trinkte viel Wasser.", "why": "*trinken* is strong. Like *singen – sang* and *finden – fand*, it changes its vowel: *trank*."},
+      "examples": [
+        {"de": "Er trank morgens immer zwei Tassen Kaffee.", "en": "He always drank two cups of coffee in the morning."},
+        {"de": "Die Kinder sangen ein Lied.", "en": "The children sang a song."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::fuhren::fahren}} mit dem Zug.",
+      "en": "We went by train.",
+      "focus": "Starkes Verb · Vokalwechsel *a → u*",
+      "explanation": "*fahren* is strong: *a → u* in the Präteritum → *fuhr*; with *wir* the ending *-en* is added → **fuhren**. Other verbs like this: *tragen → trug, waschen → wusch*.",
+      "pattern": "wir + Präteritumstamm-**en** (*a → u*)",
+      "mistake": {"wrong": "Wir fahrten mit dem Zug.", "why": "*fahren* has no weak Präteritum. The stem changes to *fuhr*, and *wir* adds *-en*: *fuhren*."},
+      "examples": [
+        {"de": "Wir fuhren im Urlaub an die Ostsee.", "en": "We went to the Baltic Sea on holiday."},
+        {"de": "Die Gäste trugen ihre Koffer selbst.", "en": "The guests carried their suitcases themselves."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er {{c1::schrieb::schreiben}} einen langen Brief.",
+      "en": "He wrote a long letter.",
+      "focus": "Starkes Verb · *ei → ie*",
+      "explanation": "*schreiben* belongs to the *ei → ie* group: *schreiben – schrieb – geschrieben*. The *er*-form is **schrieb**, with no ending.",
+      "pattern": "er + Präteritumstamm (*ei → ie*)",
+      "mistake": {"wrong": "Er schreibte einen langen Brief.", "why": "*schreiben* is strong. The vowel changes from *ei* to *ie*, and there is no *-te*: *schrieb*."},
+      "examples": [
+        {"de": "Sie schrieb ihrer Freundin eine Postkarte.", "en": "She wrote her friend a postcard."},
+        {"de": "Er schrieb seine Doktorarbeit in Wien.", "en": "He wrote his doctoral thesis in Vienna."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich {{c1::fand::finden}} den Schlüssel im Auto.",
+      "en": "I found the key in the car.",
+      "focus": "Starkes Verb · *i → a*",
+      "explanation": "*finden* is strong: *finden – fand – gefunden*. The *ich*-form is **fand**, with no ending. Strong verbs never take *-ete*, even if the stem ends in *-d*.",
+      "pattern": "ich + Präteritumstamm (*i → a*)",
+      "mistake": {"wrong": "Ich findete den Schlüssel im Auto.", "why": "The *-ete* rule for stems in *-d* is only for weak verbs. *finden* is strong: *fand*."},
+      "examples": [
+        {"de": "Ich fand im Keller ein altes Foto.", "en": "I found an old photo in the basement."},
+        {"de": "Sie fand schnell eine neue Stelle.", "en": "She quickly found a new job."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir {{c1::wohnten::wohnen}} damals in Hamburg.",
+      "en": "We lived in Hamburg back then.",
+      "focus": "Schwaches Verb · Signalwort *damals*",
+      "explanation": "*damals* (back then) refers to a past period, so the verb must be in a past tense. *wohnen* is weak: *wohn-te-n* → **wohnten**. In writing and storytelling, the Präteritum is the natural choice for such past states.",
+      "pattern": "wir + Stamm-**ten** + damals",
+      "mistake": {"wrong": "Wir wohnen damals in Hamburg.", "why": "*damals* points to the past, so the present tense *wohnen* does not fit. Use the Präteritum *wohnten* (or the Perfekt *haben … gewohnt*)."},
+      "examples": [
+        {"de": "Wir arbeiteten damals beide in derselben Firma.", "en": "Back then we both worked at the same company."},
+        {"de": "Damals hörten alle diese Band.", "en": "Back then everyone listened to this band."}
+      ],
+      "words": [{"de": "damals", "en": "back then, at that time"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie {{c1::lachte::lachen}} sehr laut.",
+      "en": "She laughed very loudly.",
+      "focus": "Schwaches Verb · Stamm auf *-ch*",
+      "explanation": "*lachen* is weak: *lach-* + **-te** → **lachte**. A stem in *-ch* is not one of the stems that need an extra *-e-* (only *-t, -d* and consonant + *m/n*).",
+      "pattern": "sie (Sg.) + Stamm-**te**",
+      "mistake": {"wrong": "Sie lachete sehr laut.", "why": "*-ete* is only for stems like *arbeit-, red-, öffn-*. After *lach-* the ending is simply *-te*: *lachte*."},
+      "examples": [
+        {"de": "Das Publikum lachte über jeden Witz.", "en": "The audience laughed at every joke."},
+        {"de": "Er wachte um fünf Uhr auf.", "en": "He woke up at five o'clock."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er {{c1::brachte::bringen}} mir ein Geschenk.",
+      "en": "He brought me a present.",
+      "focus": "Gemischtes Verb",
+      "explanation": "*bringen* is a mixed verb: it changes its stem (*bring- → brach-*) **and** takes the weak ending *-te* → **brachte**. Perfekt: *hat gebracht*.",
+      "pattern": "er + neuer Stamm + **-te** (gemischt)",
+      "mistake": {"wrong": "Er bringte mir ein Geschenk.", "why": "*bringen* is not a regular weak verb. Its stem changes to *brach-* before *-te*: *brachte*."},
+      "examples": [
+        {"de": "Die Nachbarin brachte uns frische Eier.", "en": "The neighbour brought us fresh eggs."},
+        {"de": "Der Kellner brachte die Rechnung.", "en": "The waiter brought the bill."}
+      ],
+      "words": [{"de": "das Geschenk (-e)", "en": "present, gift"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich {{c1::dachte::denken}} oft an dich.",
+      "en": "I often thought of you.",
+      "focus": "Gemischtes Verb · *denken an*",
+      "explanation": "*denken* is a mixed verb: the stem changes to *dach-* and the weak ending *-te* is added → **dachte**. *denken an* takes the Akkusativ: *an dich*.",
+      "pattern": "ich + neuer Stamm + **-te** + an + Akk.",
+      "mistake": {"wrong": "Ich denkte oft an dich.", "why": "*denken* is mixed, not weak. The stem changes: *denk- → dach-*, so the Präteritum is *dachte*."},
+      "examples": [
+        {"de": "Er dachte lange über das Angebot nach.", "en": "He thought about the offer for a long time."},
+        {"de": "Wir dachten oft an die schöne Zeit in Italien.", "en": "We often thought about the lovely time in Italy."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Wir {{c1::standen::aufstehen}} jeden Tag früh auf.",
+      "en": "We got up early every day.",
+      "focus": "Trennbares starkes Verb · Hauptsatz",
+      "explanation": "*aufstehen* is separable and its base verb *stehen* is strong: *stehen → stand*, *wir* → **standen**. In a main clause the prefix *auf* goes to the end of the sentence, just as in the present tense.",
+      "pattern": "wir + Präteritumstamm-**en** … + Präfix",
+      "mistake": {"wrong": "Wir aufstanden jeden Tag früh.", "why": "In a main clause a separable verb is split in the Präteritum too: *standen … auf*. Only in a Nebensatz does it join (*als wir aufstanden*)."},
+      "examples": [
+        {"de": "Die Gäste fuhren am Sonntag ab.", "en": "The guests left on Sunday."},
+        {"de": "Wir sahen uns die Altstadt an.", "en": "We had a look at the old town."}
+      ],
+      "words": [{"de": "aufstehen", "en": "to get up"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie {{c1::lasen::lesen}} viele Bücher.",
+      "en": "They read a lot of books.",
+      "focus": "Starkes Verb · *sie* (Plural)",
+      "explanation": "*lesen* is strong: Präteritum stem *las*. The ending shows that the subject is plural (*sie* = they): *las* + *-en* → **lasen**. The Perfekt is *haben gelesen*.",
+      "pattern": "sie (Pl.) + Präteritumstamm-**en**",
+      "mistake": {"wrong": "Sie lesten viele Bücher.", "why": "*lesen* is strong and has no *-te-* in the Präteritum. The stem changes to *las*: *sie lasen*."},
+      "examples": [
+        {"de": "Die Studenten lasen den Text zweimal.", "en": "The students read the text twice."},
+        {"de": "Meine Großeltern lasen jeden Morgen die Zeitung.", "en": "My grandparents read the newspaper every morning."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er {{c1::saß::sitzen}} am Fenster.",
+      "en": "He sat by the window.",
+      "focus": "Starkes Verb · *i → a*, Schreibung *ß*",
+      "explanation": "*sitzen* is strong: *sitzen – saß – gesessen*. The *er*-form is **saß**, written with *ß* after the long *a*. *am Fenster* is Dativ, because *sitzen* describes a position.",
+      "pattern": "er + Präteritumstamm (stark)",
+      "mistake": {"wrong": "Er sitzte am Fenster.", "why": "*sitzen* is strong, so *-te* is wrong. The Präteritum is *saß*."},
+      "examples": [
+        {"de": "Die Katze saß auf dem Sofa.", "en": "The cat sat on the sofa."},
+        {"de": "Wir saßen stundenlang im Café.", "en": "We sat in the café for hours."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir {{c1::flogen::fliegen}} nach Spanien.",
+      "en": "We flew to Spain.",
+      "focus": "Starkes Verb · *ie → o*",
+      "explanation": "*fliegen* belongs to the *ie → o* group: *fliegen – flog – geflogen*. With *wir* the strong ending *-en* is added: **flogen**.",
+      "pattern": "wir + Präteritumstamm-**en** (*ie → o*)",
+      "mistake": {"wrong": "Wir fliegten nach Spanien.", "why": "*fliegen* is strong. Like *ziehen → zog* and *verlieren → verlor*, it changes its vowel to *o*: *flogen*."},
+      "examples": [
+        {"de": "Wir flogen über Frankfurt nach New York.", "en": "We flew to New York via Frankfurt."},
+        {"de": "Sie zogen 2019 nach Basel.", "en": "They moved to Basel in 2019."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Er {{c1::ging::gehen}} langsam nach Hause.",
+      "en": "He walked home slowly.",
+      "focus": "Starkes Verb · keine Endung bei *er*",
+      "explanation": "Strong verbs change the stem vowel and add **no ending** for *ich* and *er/sie/es*: *ich ging, er ging*. Only *du* (*gingst*), *wir/sie* (*gingen*) and *ihr* (*gingt*) have endings.",
+      "pattern": "er + Präteritumstamm (ohne Endung)",
+      "mistake": {"wrong": "Er ginge langsam nach Hause.", "why": "*ginge* is the Konjunktiv II form ('would go'). The Präteritum *er*-form of a strong verb has no *-e*: *ging*."},
+      "examples": [
+        {"de": "Sie lief schnell zur Haltestelle.", "en": "She ran quickly to the stop."},
+        {"de": "Ich blieb den ganzen Tag im Bett.", "en": "I stayed in bed all day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir {{c1::kamen::ankommen}} um Mitternacht an.",
+      "en": "We arrived at midnight.",
+      "focus": "Starkes trennbares Verb · Plural",
+      "explanation": "*ankommen* is separable; the base verb *kommen* is strong: *kam*. With *wir* the plural ending *-en* is added → **kamen**, and the prefix *an* goes to the end of the main clause.",
+      "pattern": "wir + Präteritumstamm-**en** … + Präfix",
+      "mistake": {"wrong": "Wir ankamen um Mitternacht.", "why": "In a main clause the separable prefix is split off and goes to the end: *Wir kamen um Mitternacht an.*"},
+      "examples": [
+        {"de": "Die Gäste kamen erst am Abend an.", "en": "The guests only arrived in the evening."},
+        {"de": "Wir kamen nach dem Urlaub völlig erschöpft zurück.", "en": "We came back from the holiday completely exhausted."}
+      ],
+      "words": [{"de": "die Mitternacht", "en": "midnight"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Sie {{c1::sagte::sagen}} nichts dazu.",
+      "en": "She said nothing about it.",
+      "focus": "Schwaches Verb · Personalendungen",
+      "explanation": "Weak verbs insert **-te-** and then add the person ending: *ich sagte, du sagtest, er/sie sagte, wir sagten, ihr sagtet, sie sagten*. Here *sie* is singular, so the form is **sagte**.",
+      "pattern": "sie (Sg.) + Stamm-**te**",
+      "mistake": {"wrong": "Sie sagtet nichts dazu.", "why": "*-tet* is the *ihr*-ending (*ihr sagtet*). For *sie* (singular) the form is *sagte*."},
+      "examples": [
+        {"de": "Er fragte nach dem Weg.", "en": "He asked the way."},
+        {"de": "Der Chef zeigte uns das neue Büro.", "en": "The boss showed us the new office."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Ich {{c1::fand::finden}} das Buch sehr gut.",
+      "en": "I thought the book was very good.",
+      "focus": "Starkes Verb · Meinung in der Vergangenheit",
+      "explanation": "*finden* is a common strong verb in written narration: *fand*. Here *finden* means 'to have an opinion' (*Ich finde das gut.*). The *ich*-form has no ending: **fand**.",
+      "pattern": "ich + fand + Objekt + Adjektiv",
+      "mistake": {"wrong": "Ich fande das Buch sehr gut.", "why": "The *ich*-form of a strong verb in the Präteritum has no *-e*: *ich fand*. (*fände* is Konjunktiv II.)"},
+      "examples": [
+        {"de": "Wir fanden das Hotel etwas zu teuer.", "en": "We thought the hotel was a bit too expensive."},
+        {"de": "Sie fand den Vortrag langweilig.", "en": "She found the talk boring."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Der Zug {{c1::fuhr::abfahren}} pünktlich ab.",
+      "en": "The train departed on time.",
+      "focus": "Trennbares Verb · Präfix am Satzende",
+      "explanation": "*abfahren* is separable; *fahren* is strong: *fuhr*. In the main clause the finite part **fuhr** is in position 2, and the separable prefix *ab* goes to the end, as in the present tense (*Der Zug fährt ab.*).",
+      "pattern": "Subjekt + Präteritumstamm + … + Präfix",
+      "mistake": {"wrong": "Der Zug abfuhr pünktlich.", "why": "A separable verb splits in a main clause, also in the Präteritum: *fuhr … ab*."},
+      "examples": [
+        {"de": "Das Flugzeug flog mit einer Stunde Verspätung ab.", "en": "The plane took off an hour late."},
+        {"de": "Er rief sofort die Polizei an.", "en": "He called the police immediately."}
+      ],
+      "words": [{"de": "pünktlich", "en": "on time"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Sie {{c1::arbeitete::arbeiten}} damals in Hamburg.",
+      "en": "She was working in Hamburg at the time.",
+      "focus": "Schwaches Verb · Stamm auf *-t*",
+      "explanation": "The stem *arbeit-* ends in *-t*, so an extra **-e-** is inserted before *-te*: *arbeit-e-te* → **arbeitete**. Without it the form could not be pronounced clearly. The same happens with *warten → wartete, reden → redete*.",
+      "pattern": "Stamm auf -t/-d + **-ete**",
+      "mistake": {"wrong": "Sie arbeite damals in Hamburg.", "why": "*arbeite* has lost the *-te* of the past tense and looks like a present-tense form. The Präteritum needs *-ete*: *arbeitete*."},
+      "examples": [
+        {"de": "Wir warteten eine halbe Stunde auf den Arzt.", "en": "We waited half an hour for the doctor."},
+        {"de": "Er redete den ganzen Abend über Politik.", "en": "He talked about politics all evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Er {{c1::schrieb::schreiben}} damals jede Woche eine Postkarte.",
+      "en": "Back then he wrote a postcard every week.",
+      "focus": "Starkes Verb · Wiederholung in der Vergangenheit",
+      "explanation": "*schreiben → schrieb* follows the *ei → ie* pattern (also *bleiben → blieb, steigen → stieg*). The strong Präteritum stem stands alone, without *-te*. *jede Woche* shows a repeated action in the past.",
+      "pattern": "er + Präteritumstamm (*ei → ie*) + Zeitangabe",
+      "mistake": {"wrong": "Er schriebte damals jede Woche eine Postkarte.", "why": "A strong verb takes either the new stem or *-te*, never both. *schreiben* is strong: *schrieb*, without *-te*."},
+      "examples": [
+        {"de": "Sie blieb damals jeden Sommer bei ihrer Tante.", "en": "Back then she stayed with her aunt every summer."},
+        {"de": "Er stieg jeden Morgen am Marktplatz ein.", "en": "He got on at the market square every morning."}
+      ],
+      "words": [{"de": "die Postkarte (-n)", "en": "postcard"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Wir {{c1::wussten::wissen}} nichts davon.",
+      "en": "We knew nothing about it.",
+      "focus": "Gemischtes Verb · auch im Gespräch üblich",
+      "explanation": "*wissen* is mixed: the vowel changes (*i → u*) **and** the weak ending *-te* is added: *wusste*, *wir* → **wussten**. *wissen* is one of the few full verbs that people also use in the Präteritum in everyday speech.",
+      "pattern": "wir + neuer Stamm + **-ten** (gemischt)",
+      "mistake": {"wrong": "Wir wissten nichts davon.", "why": "*wissen* needs the vowel change in the Präteritum: *wuss-*. Correct: *wir wussten*."},
+      "examples": [
+        {"de": "Ich wusste nicht, dass du Geburtstag hast.", "en": "I didn't know that it's your birthday."},
+        {"de": "Sie kannten den Weg nicht.", "en": "They didn't know the way."}
+      ],
+      "words": [{"de": "davon", "en": "about it"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Sie {{c1::sprachen::sprechen}} über die Zukunft.",
+      "en": "They talked about the future.",
+      "focus": "Starkes Verb · Präteritum vs. Partizip II",
+      "explanation": "*sprechen – sprach – gesprochen*: the Präteritum has *a* (long), the Partizip II has *o*. With plural *sie* the ending *-en* is added: **sprachen**. *sprechen über* + Akkusativ = to talk about.",
+      "pattern": "sie (Pl.) + Präteritumstamm-**en** + über + Akk.",
+      "mistake": {"wrong": "Sie sprochen über die Zukunft.", "why": "The *o* belongs to the Partizip II (*gesprochen*). The Präteritum stem has *a*: *sprachen*."},
+      "examples": [
+        {"de": "Wir sprachen lange über die Reise.", "en": "We talked about the trip for a long time."},
+        {"de": "Die Freunde trafen sich jeden Freitag.", "en": "The friends met every Friday."}
+      ],
+      "words": [{"de": "die Zukunft", "en": "the future"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ich {{c1::stand::stehen}} eine Stunde in der Schlange.",
+      "en": "I stood in the queue for an hour.",
+      "focus": "Starkes Verb · *stehen*",
+      "explanation": "*stehen* has an irregular Präteritum: **stand** (with an extra *-n-*), Perfekt *habe gestanden* (in southern Germany, Austria and Switzerland also *bin gestanden*). *eine Stunde* is Akkusativ and says how long.",
+      "pattern": "ich + Präteritumstamm (stark) + Dauer",
+      "mistake": {"wrong": "Ich stehte eine Stunde in der Schlange.", "why": "*stehen* is strong and irregular. The Präteritum is *stand*, not a weak form with *-te*."},
+      "examples": [
+        {"de": "Vor dem Museum stand eine lange Schlange.", "en": "There was a long queue in front of the museum."},
+        {"de": "Wir verstanden kein Wort.", "en": "We didn't understand a word."}
+      ],
+      "words": [{"de": "die Schlange (-n)", "en": "queue, line"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Das Konzert {{c1::begann::beginnen}} mit Verspätung.",
+      "en": "The concert started late.",
+      "focus": "Starkes Verb · untrennbares Präfix",
+      "explanation": "*beginnen* is strong: *beginnen – begann – begonnen*. *be-* is an inseparable prefix, so it stays on the verb (**begann**) and the Partizip II has no *ge-* (*hat begonnen*).",
+      "pattern": "Subjekt + be-Präteritumstamm (*i → a*)",
+      "mistake": {"wrong": "Das Konzert beginnte mit Verspätung.", "why": "*beginnen* is strong, not weak. The Präteritum is *begann*, with the vowel change *i → a*."},
+      "examples": [
+        {"de": "Der Unterricht begann um acht Uhr.", "en": "Lessons started at eight o'clock."},
+        {"de": "Das Kind bekam zum Geburtstag ein Fahrrad.", "en": "The child got a bike for its birthday."}
+      ],
+      "words": [{"de": "die Verspätung (-en)", "en": "delay"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Er {{c1::brachte::bringen}} uns zum Flughafen.",
+      "en": "He took us to the airport.",
+      "focus": "Gemischtes Verb · *bringen* = jemanden begleiten",
+      "explanation": "*bringen* is mixed: new stem *brach-* + weak ending *-te* → **brachte**. Here *jemanden zum Flughafen bringen* means 'to take someone to the airport'. Other mixed verbs: *denken → dachte, kennen → kannte, rennen → rannte*.",
+      "pattern": "er + neuer Stamm + **-te** + Akk. + zu …",
+      "mistake": {"wrong": "Er brang uns zum Flughafen.", "why": "*bringen* only looks like *singen – sang*. It is a mixed verb with *-te*: *brachte*."},
+      "examples": [
+        {"de": "Sie brachte die Kinder zur Schule.", "en": "She took the children to school."},
+        {"de": "Der Hund rannte über die Wiese.", "en": "The dog ran across the meadow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie {{c1::blieben::bleiben}} bis zum Ende.",
+      "en": "They stayed until the end.",
+      "focus": "Starkes Verb · *ei → ie* · Plural",
+      "explanation": "*bleiben* follows the *ei → ie* pattern: *blieb*; with plural *sie* → **blieben**. Its Perfekt uses *sein*: *sie sind geblieben*.",
+      "pattern": "sie (Pl.) + Präteritumstamm-**en**",
+      "mistake": {"wrong": "Sie bliebten bis zum Ende.", "why": "Strong verbs do not add *-te-*. After the stem *blieb-* the plural ending is only *-en*: *blieben*."},
+      "examples": [
+        {"de": "Die Gäste blieben bis drei Uhr morgens.", "en": "The guests stayed until three in the morning."},
+        {"de": "Wir schwiegen den ganzen Abend.", "en": "We stayed silent the whole evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ich {{c1::dachte::denken}} an dich.",
+      "en": "I was thinking of you.",
+      "focus": "Gemischtes Verb · *ich*-Form",
+      "explanation": "*denken → dachte*: the stem changes (*denk- → dach-*) and the weak ending *-te* follows. The *ich*-form has no further ending. English often uses *was thinking*; German has only one Präteritum form.",
+      "pattern": "ich + neuer Stamm + **-te**",
+      "mistake": {"wrong": "Ich dachten an dich.", "why": "*-ten* is the plural ending (*wir/sie dachten*). The *ich*-form is *dachte*."},
+      "examples": [
+        {"de": "Ich kannte die Stadt noch nicht.", "en": "I didn't know the city yet."},
+        {"de": "Ich dachte gerade an unseren Urlaub.", "en": "I was just thinking about our holiday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Als Kind {{c1::spieltest::spielen}} du oft im Garten.",
+      "en": "As a child you often played in the garden.",
+      "focus": "Schwaches Verb · *du*-Form",
+      "explanation": "The *du*-ending in the Präteritum is **-st**, added after *-te-*: *spiel-te-st* → **spieltest**. *Als Kind* fills position 1, so the verb comes next and *du* follows it.",
+      "pattern": "Vorfeld + Stamm-**test** + du …",
+      "mistake": {"wrong": "Als Kind spielte du oft im Garten.", "why": "*spielte* is the *ich/er* form. With *du* the ending *-st* is needed: *du spieltest*."},
+      "examples": [
+        {"de": "Früher holtest du mich immer von der Schule ab.", "en": "You always used to pick me up from school."},
+        {"de": "Damals hörtest du nur Rockmusik.", "en": "Back then you only listened to rock music."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ihr {{c1::kamt::kommen}} gestern sehr spät nach Hause.",
+      "en": "You came home very late yesterday.",
+      "focus": "Starkes Verb · *ihr*-Form",
+      "explanation": "Strong verbs add only **-t** for *ihr*: *kam* + *-t* → **kamt**. There is no *-e-* and no *-te-*. In speech you would usually hear the Perfekt: *Ihr seid gestern sehr spät nach Hause gekommen.*",
+      "pattern": "ihr + Präteritumstamm-**t**",
+      "mistake": {"wrong": "Ihr kamtet gestern sehr spät nach Hause.", "why": "*-tet* is the *ihr*-ending of weak verbs (*ihr machtet*). A strong verb only adds *-t* to its new stem: *ihr kamt*."},
+      "examples": [
+        {"de": "Ihr saht sehr müde aus.", "en": "You looked very tired."},
+        {"de": "Ihr gingt ohne uns ins Kino.", "en": "You went to the cinema without us."}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr, Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Sie {{c1::öffnete::öffnen}} langsam die Tür.",
+      "en": "She slowly opened the door.",
+      "focus": "Schwaches Verb · Stamm auf Konsonant + *n*",
+      "explanation": "The stem *öffn-* ends in a consonant + *n*, which is hard to pronounce before *-te*. So an extra **-e-** is inserted: *öffn-e-te* → **öffnete**. The same happens with *rechnen → rechnete, atmen → atmete*.",
+      "pattern": "Stamm (Konsonant + n/m) + **-ete**",
+      "mistake": {"wrong": "Sie öffnte langsam die Tür.", "why": "After a stem like *öffn-* the extra *-e-* is required: *öffnete*. *öffnte* cannot be pronounced naturally."},
+      "examples": [
+        {"de": "Er rechnete die Kosten noch einmal nach.", "en": "He checked the costs again."},
+        {"de": "Die Patientin atmete tief ein.", "en": "The patient breathed in deeply."}
+      ],
+      "words": [{"de": "öffnen", "en": "to open"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich {{c1::kannte::kennen}} niemanden auf der Party.",
+      "en": "I didn't know anyone at the party.",
+      "focus": "Gemischtes Verb · *e → a*",
+      "explanation": "*kennen* is mixed: the vowel changes *e → a* **and** *-te* is added → **kannte**. The other verbs of this small group work the same way: *nennen → nannte, rennen → rannte, brennen → brannte*.",
+      "pattern": "ich + neuer Stamm + **-te**",
+      "mistake": {"wrong": "Ich kennte niemanden auf der Party.", "why": "*kennen* needs the vowel change in the Präteritum: *kannte*. *kennte* is not a Präteritum form."},
+      "examples": [
+        {"de": "Sie nannte ihren Sohn Felix.", "en": "She named her son Felix."},
+        {"de": "Wir kannten das Restaurant schon von früher.", "en": "We already knew the restaurant from before."}
+      ],
+      "words": [{"de": "niemand", "en": "nobody, no one"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Er {{c1::nahm::nehmen}} den letzten Bus nach Hause.",
+      "en": "He took the last bus home.",
+      "focus": "Starkes Verb · Vokal- und Konsonantenwechsel",
+      "explanation": "*nehmen* is strong and quite irregular: *nehmen – nahm – genommen*. The Präteritum **nahm** only changes the vowel (*e → a*); the Partizip II *genommen* changes more (*o* and double *m*). The *er*-form has no ending.",
+      "pattern": "er + Präteritumstamm (stark)",
+      "mistake": {"wrong": "Er nehmte den letzten Bus nach Hause.", "why": "*nehmen* is strong, so it does not take *-te*. The Präteritum is *nahm*."},
+      "examples": [
+        {"de": "Sie nahm sich einen Tag frei.", "en": "She took a day off."},
+        {"de": "Wir nahmen ein Taxi zum Bahnhof.", "en": "We took a taxi to the station."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Als der Film {{c1::anfing::anfangen}}, war der Saal schon voll.",
+      "en": "When the film started, the cinema was already full.",
+      "focus": "Trennbares Verb im Nebensatz",
+      "explanation": "*anfangen* is separable and strong: *fangen → fing*. In a Nebensatz (here after *als*) the prefix joins the verb at the end: **anfing**. In a main clause it would split: *Der Film fing an.*",
+      "pattern": "Als + Subjekt + Präfix·Präteritumstamm, …",
+      "mistake": {"wrong": "Als der Film fing an, war der Saal schon voll.", "why": "In a Nebensatz the separable verb is not split. Prefix and verb go together to the end: *als der Film anfing*."},
+      "examples": [
+        {"de": "Als der Zug abfuhr, winkten die Kinder.", "en": "When the train left, the children waved."},
+        {"de": "Als die Sonne aufging, waren wir schon auf dem Berg.", "en": "When the sun rose, we were already on the mountain."}
+      ],
+      "words": [{"de": "der Saal (Säle)", "en": "hall, auditorium"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Früher {{c1::gab::geben}} es hier einen kleinen Bahnhof.",
+      "en": "There used to be a small station here.",
+      "focus": "*es gibt* in der Vergangenheit",
+      "explanation": "*es gibt* (there is) becomes *es gab* in the Präteritum: *geben – gab – gegeben*. This form is normal in speech too, more common than *es hat gegeben*. *es gab* always takes an Akkusativ: *einen kleinen Bahnhof*.",
+      "pattern": "Früher + gab + es + Akkusativ",
+      "mistake": {"wrong": "Früher gebte es hier einen kleinen Bahnhof.", "why": "*geben* is strong, not weak. The Präteritum is *gab*: *es gab*."},
+      "examples": [
+        {"de": "Damals gab es noch keine Handys.", "en": "Back then there were no mobile phones yet."},
+        {"de": "Zum Nachtisch gab es Apfelkuchen.", "en": "There was apple cake for dessert."}
+      ],
+      "words": [{"de": "es gibt / es gab", "en": "there is / there was"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Nachbarn {{c1::halfen::helfen}} uns beim Umzug.",
+      "en": "The neighbours helped us with the move.",
+      "focus": "Starkes Verb · *e → a* · Plural",
+      "explanation": "*helfen* is strong: *helfen – half – geholfen*. With the plural subject *die Nachbarn* the ending *-en* is added → **halfen**. *helfen* takes a Dativ object: *uns*.",
+      "pattern": "Subjekt (Pl.) + Präteritumstamm-**en** + Dativ",
+      "mistake": {"wrong": "Die Nachbarn helften uns beim Umzug.", "why": "*helfen* is strong, so it does not take *-te-*. The vowel changes instead: *halfen*."},
+      "examples": [
+        {"de": "Meine Freunde halfen mir beim Streichen.", "en": "My friends helped me with the painting."},
+        {"de": "Die Kollegen warfen die alten Akten weg.", "en": "The colleagues threw the old files away."}
+      ],
+      "words": [{"de": "der Umzug (¨-e)", "en": "move (house)"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Unsere Mannschaft {{c1::verlor::verlieren}} das Spiel knapp.",
+      "en": "Our team narrowly lost the match.",
+      "focus": "Starkes Verb · untrennbares Präfix · *ie → o*",
+      "explanation": "*verlieren* is strong: *verlieren – verlor – verloren*. *ver-* is inseparable, so it stays on the verb. The vowel changes *ie → o*, and the *er/sie/es*-form (here *die Mannschaft*) has no ending: **verlor**.",
+      "pattern": "Subjekt (Sg.) + ver-Präteritumstamm (*ie → o*)",
+      "mistake": {"wrong": "Unsere Mannschaft verlierte das Spiel knapp.", "why": "*verlieren* is strong. It follows *fliegen – flog*: *verlor*, not a weak form with *-te*."},
+      "examples": [
+        {"de": "Er verlor im Zug seinen Pass.", "en": "He lost his passport on the train."},
+        {"de": "Der Nebel verzog sich gegen Mittag.", "en": "The fog cleared around midday."}
+      ],
+      "words": [{"de": "die Mannschaft (-en)", "en": "team"}, {"de": "knapp", "en": "narrowly, just"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Sie {{c1::stieg::aussteigen}} am Hauptbahnhof aus.",
+      "en": "She got off at the main station.",
+      "focus": "Starkes trennbares Verb · *ei → ie*",
+      "explanation": "*aussteigen* is separable; *steigen* follows the *ei → ie* pattern: *stieg*. In the main clause **stieg** is in position 2 and the prefix *aus* goes to the end of the sentence.",
+      "pattern": "Subjekt + Präteritumstamm + … + Präfix",
+      "mistake": {"wrong": "Sie steigte am Hauptbahnhof aus.", "why": "*steigen* is strong, like *schreiben – schrieb*. The Präteritum is *stieg*."},
+      "examples": [
+        {"de": "Er stieg an der nächsten Haltestelle ein.", "en": "He got on at the next stop."},
+        {"de": "Die Touristen stiegen in den falschen Bus.", "en": "The tourists got on the wrong bus."}
+      ],
+      "words": [{"de": "aussteigen", "en": "to get off (a vehicle)"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Kanzlerin {{c1::traf::treffen}} am Montag den französischen Präsidenten.",
+      "en": "On Monday the Chancellor met the French President.",
+      "focus": "Nachrichtenstil · starkes Verb",
+      "explanation": "News reports are written in the Präteritum. *treffen* is strong: *treffen – traf – getroffen*. The vowel changes *e → a* and the double *ff* becomes a single *f*: **traf**.",
+      "pattern": "Subjekt + Präteritumstamm + Zeit + Akkusativ",
+      "mistake": {"wrong": "Die Kanzlerin treffte am Montag den französischen Präsidenten.", "why": "*treffen* is strong, so *-te* is wrong. Its Präteritum is *traf*."},
+      "examples": [
+        {"de": "Der Minister sprach am Dienstag vor dem Parlament.", "en": "The minister spoke in parliament on Tuesday."},
+        {"de": "Die Polizei fand das gestohlene Auto in einem Wald.", "en": "The police found the stolen car in a forest."}
+      ],
+      "words": [{"de": "die Kanzlerin (-nen)", "en": "(female) chancellor"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Es {{c1::wurde::werden}} langsam dunkel.",
+      "en": "It was slowly getting dark.",
+      "focus": "*werden* als Vollverb in der Erzählung",
+      "explanation": "*werden* (to become) has the Präteritum **wurde**: *ich wurde, du wurdest, er wurde, wir wurden*. It is irregular: the vowel changes and *-e* is added even for *er*. Very common in stories: *Es wurde kalt / still / dunkel.*",
+      "pattern": "Subjekt + wurde + Adjektiv",
+      "mistake": {"wrong": "Es werdete langsam dunkel.", "why": "*werden* is irregular and has no weak Präteritum. The form is *wurde*."},
+      "examples": [
+        {"de": "Nach dem Essen wurde er plötzlich müde.", "en": "After the meal he suddenly became tired."},
+        {"de": "Im Winter wurden die Tage immer kürzer.", "en": "In winter the days got shorter and shorter."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about weak verbs.",
+      "prompt": "How do you form the Präteritum of a regular (weak) verb, and what are the person endings?",
+      "answer": "Stem + **-te-** + ending: *ich mach**te**, du mach**test**, er mach**te**, wir mach**ten**, ihr mach**tet**, sie mach**ten***. Stems in *-t, -d* or consonant + *m/n* add **-ete-** (*arbeitete, öffnete*).",
+      "explanation": "*-te-* is the sign of the past in weak verbs. The *ich*- and *er*-forms are identical and have no ending after *-te*. The extra *-e-* only makes difficult stems pronounceable.",
+      "examples": [
+        {"de": "Wir putzten am Samstag die ganze Wohnung.", "en": "We cleaned the whole flat on Saturday."},
+        {"de": "Sie badete das Baby.", "en": "She bathed the baby."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about strong verbs.",
+      "prompt": "How do strong verbs form the Präteritum, and what is special about the ich- and er-forms?",
+      "answer": "They change the stem vowel (often the consonants too) and take **no -te-**: *gehen → ging, fahren → fuhr, schreiben → schrieb*. *ich* and *er/sie/es* have **no ending** (*ich ging, er ging*); *du* -st, *wir/sie* -en, *ihr* -t.",
+      "explanation": "The Präteritum stem of a strong verb must be learned with the verb (*gehen – ging – gegangen*). Typical patterns help: *ei → ie* (*blieb*), *ie → o* (*flog*), *i → a* (*fand*), *e → a* (*sprach*), *a → u* (*fuhr*).",
+      "examples": [
+        {"de": "Der Junge sprang ins Wasser.", "en": "The boy jumped into the water."},
+        {"de": "Wir liefen zum Bahnhof.", "en": "We ran to the station."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about mixed verbs.",
+      "prompt": "What is a mixed verb in the Präteritum? Name the most common ones.",
+      "answer": "A verb that changes its stem **and** adds the weak ending *-te*: *bringen → brachte, denken → dachte, wissen → wusste, kennen → kannte, nennen → nannte, rennen → rannte, brennen → brannte*.",
+      "explanation": "Mixed verbs have the endings of weak verbs (*-te, -test, -ten, -tet*), but a changed stem like strong verbs. Their Partizip II also ends in *-t*: *gebracht, gedacht, gewusst, gekannt*.",
+      "examples": [
+        {"de": "Das Holz brannte die ganze Nacht.", "en": "The wood burned all night."},
+        {"de": "Ich wusste die Antwort nicht.", "en": "I didn't know the answer."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about using the tenses.",
+      "prompt": "When do Germans use the Präteritum, and when the Perfekt?",
+      "answer": "**Präteritum** in written texts: stories, novels, reports, news, biographies. **Perfekt** in conversation and informal writing (messages, e-mails). Exception: *sein, haben*, the modal verbs, *es gab* and often *wissen* are used in the Präteritum in speech too.",
+      "explanation": "The two tenses mean almost the same; the choice depends mainly on the text type. In northern Germany the Präteritum is a bit more frequent in speech than in the south. In a conversation *Wir fuhren nach Rom* sounds like reading aloud; people say *Wir sind nach Rom gefahren*.",
+      "examples": [
+        {"de": "Im Jahr 1990 zog die Familie nach Dresden.", "en": "In 1990 the family moved to Dresden."},
+        {"de": "Gestern bin ich mit dem Rad zur Arbeit gefahren.", "en": "Yesterday I cycled to work."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the extra -e-.",
+      "prompt": "After which stems does a weak verb take -ete- instead of -te-?",
+      "answer": "After stems ending in **-t** or **-d** (*arbeiten → arbeitete, reden → redete*) and in a **consonant + m/n** (*öffnen → öffnete, atmen → atmete, rechnen → rechnete*). Not after *l/r* + *n* (*lernte*) and never with strong verbs (*fand*).",
+      "explanation": "The *-e-* makes the form pronounceable. *lernen* and *wohnen* do not need it, because the *n* follows a vowel or *r*. Strong verbs like *finden* or *halten* never take *-ete*; they change the vowel (*fand, hielt*).",
+      "examples": [
+        {"de": "Wir mieteten ein kleines Ferienhaus.", "en": "We rented a small holiday home."},
+        {"de": "Die Kinder zeichneten Tiere.", "en": "The children drew animals."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Wir haben im Restaurant gegessen.",
+      "answer": "Wir aßen im Restaurant.",
+      "explanation": "The Perfekt *haben … gegessen* becomes one verb form in the Präteritum. *essen* is strong: *aß*, and *wir* adds *-en* → *aßen*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Er ruft seine Mutter an.",
+      "answer": "Er rief seine Mutter an.",
+      "explanation": "*anrufen* is separable and *rufen* is strong: *rufen – rief – gerufen*. In the main clause *rief* is in position 2 and *an* stays at the end."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Ich weiß die Adresse nicht.",
+      "answer": "Ich wusste die Adresse nicht.",
+      "explanation": "*wissen* is a mixed verb: new stem *wuss-* plus *-te*: *wusste*. The *ich*-form has no extra ending."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Ihr wartet vor dem Kino.",
+      "answer": "Ihr wartetet vor dem Kino.",
+      "explanation": "*warten* is weak with a stem in *-t*, so it needs *-ete-*. The *ihr*-ending *-t* follows: *wart-ete-t* → *wartetet*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Die Kinder schwimmen im See.",
+      "answer": "Die Kinder schwammen im See.",
+      "explanation": "*schwimmen* is strong: *schwimmen – schwamm – geschwommen*. The plural subject needs the ending *-en*: *schwammen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Gestern gehte ich früh ins Bett.",
+      "answer": "Gestern ging ich früh ins Bett.",
+      "explanation": "*gehen* is a strong verb, so the weak form *gehte* is wrong. The Präteritum is *ging*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er rufte mich gestern Abend an.",
+      "answer": "Er rief mich gestern Abend an.",
+      "explanation": "*rufen* (and *anrufen*) is strong: *rief*. The weak ending *-te* cannot be used."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nach dem Essen redten wir noch lange.",
+      "answer": "Nach dem Essen redeten wir noch lange.",
+      "explanation": "*reden* has a stem in *-d*, so the weak Präteritum needs the extra *-e-*: *red-ete-n* → *redeten*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Als sie nach Hause kam an, war es schon spät.",
+      "answer": "Als sie nach Hause ankam, war es schon spät.",
+      "explanation": "In the *als* clause (a Nebensatz) the separable verb is not split. Prefix and verb go together to the end: *ankam*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Letzten Sommer ___ wir zwei Wochen in Portugal.",
+      "options": ["bleibten", "blieben", "bliebten"],
+      "correct": "blieben",
+      "answer": "Letzten Sommer blieben wir zwei Wochen in Portugal.",
+      "explanation": "*bleiben* is strong (*ei → ie*): *blieb*, *wir* → *blieben*. *bleibten* is a weak form that does not exist, and *bliebten* wrongly combines the strong stem with *-te-*."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Der Kellner ___ uns die Speisekarte.",
+      "options": ["bringte", "brachte", "brang"],
+      "correct": "brachte",
+      "answer": "Der Kellner brachte uns die Speisekarte.",
+      "explanation": "*bringen* is a mixed verb: changed stem *brach-* + *-te* → *brachte*. *bringte* is a regular weak form that does not exist, and *brang* wrongly treats it like *singen – sang*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Gestern ___ du nicht zum Training.",
+      "options": ["kommst", "kamst", "kamtest"],
+      "correct": "kamst",
+      "answer": "Gestern kamst du nicht zum Training.",
+      "explanation": "*gestern* needs a past tense, so the present *kommst* is wrong. *kommen* is strong: *kam* + *du*-ending *-st* → *kamst*. *kamtest* adds the weak *-te-*, which strong verbs never have."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Am Abend",
+      "prompt": "aßen / wir / in einem kleinen Restaurant / am Abend",
+      "answer": "Am Abend aßen wir in einem kleinen Restaurant.",
+      "explanation": "*Am Abend* is in position 1, so the finite verb *aßen* follows in position 2 and the subject *wir* comes after it. The place goes at the end. Without the fixed start, the subject could also come first: *Wir aßen am Abend in einem kleinen Restaurant.*"
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Plötzlich",
+      "prompt": "ging / das Licht / aus / plötzlich",
+      "answer": "Plötzlich ging das Licht aus.",
+      "explanation": "*ausgehen* is separable and strong (*gehen → ging*). After *Plötzlich* in position 1 comes *ging*, then the subject *das Licht*, and the prefix *aus* at the very end."
+    }
+  ]
+}

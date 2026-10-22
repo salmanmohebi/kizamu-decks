@@ -1,0 +1,1102 @@
+{
+  "topic_id": "a1-11-possessivartikel",
+  "level": "A1",
+  "title_de": "Possessivartikel (mein, dein, sein, …)",
+  "title_en": "Possessive articles (my, your, his, …)",
+  "rule": {
+    "summary": "Possessive articles (*mein, dein, sein, ihr, unser, euer, ihr, Ihr*) say who owns something or who belongs to someone. Two things decide the form: the **owner** decides the stem (*ich → mein, er → sein, sie → ihr*), and the **noun after it** decides the ending (gender, number, case). The endings are the same as for *ein* in the singular and *kein* in the plural. You need them from the first lesson on: *Mein Name ist …, Das ist meine Frau, Hast du deinen Pass?*",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | mein Bruder | mein**e** Schwester | mein Buch | mein**e** Eltern |\n| Akk | mein**en** Bruder | mein**e** Schwester | mein Buch | mein**e** Eltern |\n| Dat | mein**em** Bruder | mein**er** Schwester | mein**em** Buch | mein**en** Eltern |",
+    "steps": [
+      "Find the owner and choose the stem: *ich → mein, du → dein, er → sein, sie (she) → ihr, es → sein, wir → unser, ihr (you pl.) → euer, sie (they) → ihr, Sie (formal) → Ihr*.",
+      "Find the noun that is owned and check its gender and number (*der Bruder, die Schwester, das Buch, die Eltern*). Only this noun decides the ending, never the owner.",
+      "Find the case of that noun: subject or after *das ist* → Nominativ; object of most verbs and after *für* → Akkusativ; after *mit, bei, zu, von, aus* → Dativ.",
+      "Add the ending of *ein/kein*: masculine Nominativ and neuter Nominativ/Akkusativ → no ending; feminine and plural (Nom/Akk) → **-e**; masculine Akkusativ → **-en**; Dativ → **-em** (m/n), **-er** (f), **-en** (Pl).",
+      "Check the stem: *unser* keeps its *-er* (*unsere, unseren*), *euer* normally drops the second *e* before an ending (*eure, euren, eurem*)."
+    ],
+    "pitfalls": [
+      "Choosing the stem by the gender of the noun instead of the owner: ✗ *Anna und sein Bruder* → ✓ *Anna und ihr Bruder*. Anna is the owner, so the stem is *ihr*, even though *Bruder* is masculine.",
+      "Forgetting the masculine Akkusativ: ✗ *Ich suche mein Schlüssel.* → ✓ *Ich suche meinen Schlüssel.* Only masculine nouns change from Nominativ to Akkusativ.",
+      "Adding *-e* to a neuter noun: ✗ *meine Auto* → ✓ *mein Auto*. Neuter Nominativ and Akkusativ have no ending, like *ein Auto*.",
+      "Using the plural of the owner on the article: ✗ *Die Kinder suchen ihre Ball.* → ✓ *Die Kinder suchen ihren Ball.* Many owners do not make the noun plural; the ending follows *der Ball*.",
+      "Writing formal *Ihr* in lower case: ✗ *Wie ist ihr Name, Herr Braun?* → ✓ *Wie ist Ihr Name, Herr Braun?* Lower-case *ihr* means *her* or *their*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das ist {{c1::mein::ich}} Bruder.",
+      "en": "That's my brother.",
+      "focus": "Nominativ maskulin · nach *das ist*",
+      "explanation": "The owner is *ich* → stem **mein**. After *Das ist …* the noun is in the Nominativ, because *sein* never takes an Akkusativ object. *Bruder* is masculine, and masculine Nominativ has no ending, just like *ein Bruder* → **mein**.",
+      "pattern": "Das ist + mein + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Das ist meinen Bruder.",
+        "why": "*-en* is the masculine Akkusativ ending. *sein* links two Nominativ forms (*das* = *mein Bruder*), so the article has no ending."
+      },
+      "examples": [
+        {"de": "Das ist mein Onkel.", "en": "That's my uncle."},
+        {"de": "Das ist dein Kaffee.", "en": "That's your coffee."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das ist {{c1::meine::ich}} Schwester.",
+      "en": "That's my sister.",
+      "focus": "Nominativ feminin · nach *das ist*",
+      "explanation": "The owner is *ich* → stem *mein*. After *Das ist …* the noun is Nominativ. *Schwester* is feminine, and in the Nominativ the article adds **-e** for feminine nouns, like *eine Schwester*: mein + -e → **meine**.",
+      "pattern": "Das ist + mein**e** + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Das ist mein Schwester.",
+        "why": "*mein* without ending is only for masculine Nominativ and neuter Nominativ/Akkusativ. *die Schwester* is feminine, so the article needs *-e*."
+      },
+      "examples": [
+        {"de": "Das ist meine Tante.", "en": "That's my aunt."},
+        {"de": "Das ist deine Tasse.", "en": "That's your cup."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das ist {{c1::mein::ich}} Buch.",
+      "en": "That's my book.",
+      "focus": "Nominativ neutral · nach *das ist*",
+      "explanation": "The owner is *ich* → stem *mein*. *Buch* is neuter (*das Buch*) and stands in the Nominativ after *Das ist*. Neuter Nominativ has no ending, like *ein Buch* → **mein**.",
+      "pattern": "Das ist + mein + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist meine Buch.",
+        "why": "*-e* is the ending for feminine and plural nouns. *das Buch* is neuter, and neuter Nominativ has no ending."
+      },
+      "examples": [
+        {"de": "Das ist mein Zimmer.", "en": "That's my room."},
+        {"de": "Das ist dein Handy.", "en": "That's your mobile phone."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wo ist {{c1::dein::du}} Auto?",
+      "en": "Where's your car?",
+      "focus": "Nominativ neutral · W-Frage",
+      "explanation": "The owner is *du* → stem **dein**. *Auto* is the subject of *ist* → Nominativ. *das Auto* is neuter, so there is no ending: **dein Auto**.",
+      "pattern": "Wo ist + dein + Nomen (Nom. n.)?",
+      "mistake": {
+        "wrong": "Wo ist deines Auto?",
+        "why": "*deines* is the possessive pronoun that stands without a noun (*Ist das deins?*). Directly before the neuter noun the article has no ending: *dein Auto*."
+      },
+      "examples": [
+        {"de": "Wo ist dein Fahrrad?", "en": "Where's your bike?"},
+        {"de": "Wo ist dein Ticket?", "en": "Where's your ticket?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Sein::er}} Vater ist Arzt.",
+      "en": "His father is a doctor.",
+      "focus": "Nominativ maskulin · Subjekt",
+      "explanation": "The owner is male (*er*) → stem **sein**. *Vater* is the subject → Nominativ, masculine → no ending: **Sein Vater**. Note also: after *sein* a job has no article in German (*ist Arzt*, not *ist ein Arzt*).",
+      "pattern": "Sein + Nomen (Nom. m.) + ist + Beruf",
+      "mistake": {
+        "wrong": "Seinen Vater ist Arzt.",
+        "why": "*seinen* is masculine Akkusativ. *Vater* is the subject of *ist*, so it must be Nominativ: *Sein Vater*."
+      },
+      "examples": [
+        {"de": "Sein Onkel ist Lehrer.", "en": "His uncle is a teacher."},
+        {"de": "Sein Sohn ist Koch.", "en": "His son is a cook."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Ihre::sie, Sg.}} Mutter wohnt in Berlin.",
+      "en": "Her mother lives in Berlin.",
+      "focus": "Nominativ feminin · Besitzer: eine Frau",
+      "explanation": "The owner is female (*sie*, singular) → stem *ihr*. *Mutter* is feminine and the subject of *wohnt* → Nominativ → **-e**: ihr + -e → **Ihre** (capital letter only because it starts the sentence). At the start of a sentence *Ihre* can also mean *their* or formal *your*; the context decides.",
+      "pattern": "Ihr**e** + Nomen (Nom. f.) + Verb",
+      "mistake": {
+        "wrong": "Ihr Mutter wohnt in Berlin.",
+        "why": "*die Mutter* is feminine, and feminine nouns need *-e* on the possessive article: *ihre Mutter*, like *eine Mutter*."
+      },
+      "examples": [
+        {"de": "Ihre Tochter studiert in Wien.", "en": "Her daughter studies in Vienna."},
+        {"de": "Ihre Oma wohnt auf dem Land.", "en": "Her grandma lives in the country."}
+      ],
+      "words": [],
+      "production_cue": "(her)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Unser::wir}} Haus ist groß.",
+      "en": "Our house is big.",
+      "focus": "Nominativ neutral · Subjekt",
+      "explanation": "The owner is *wir* → stem **unser**. *Haus* is neuter and the subject → Nominativ → no ending. The *-er* in *unser* is part of the stem, not an ending: **Unser Haus**.",
+      "pattern": "Unser + Nomen (Nom. n.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Unsere Haus ist groß.",
+        "why": "*unsere* is the form for feminine and plural nouns. *das Haus* is neuter, so the article stays *unser*."
+      },
+      "examples": [
+        {"de": "Unser Garten ist klein.", "en": "Our garden is small."},
+        {"de": "Unser Kind ist drei Jahre alt.", "en": "Our child is three years old."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich liebe {{c1::meine::ich}} Familie.",
+      "en": "I love my family.",
+      "focus": "Akkusativ feminin · Objekt von *lieben*",
+      "explanation": "*lieben* takes an Akkusativ object. *Familie* is feminine, and the feminine Akkusativ has the same form as the Nominativ: mein + -e → **meine**.",
+      "pattern": "Verb + mein**e** + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Ich liebe meinen Familie.",
+        "why": "*-en* is the Akkusativ ending only for masculine nouns. *die Familie* is feminine, so it stays *meine* in the Akkusativ."
+      },
+      "examples": [
+        {"de": "Ich besuche meine Oma.", "en": "I'm visiting my grandma."},
+        {"de": "Er liebt seine Arbeit.", "en": "He loves his work."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie sucht {{c1::ihren::sie, Sg.}} Schlüssel.",
+      "en": "She is looking for her key.",
+      "focus": "Akkusativ maskulin · Objekt von *suchen*",
+      "explanation": "The owner is *sie* (she) → stem *ihr*. *suchen* takes an Akkusativ object, and *Schlüssel* is masculine (*der Schlüssel*). Masculine Akkusativ → **-en**: ihr + -en → **ihren**.",
+      "pattern": "suchen + ihr**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Sie sucht ihr Schlüssel.",
+        "why": "*ihr* without ending would be Nominativ. *Schlüssel* is the masculine Akkusativ object of *suchen*, so it needs *-en*: *ihren Schlüssel*."
+      },
+      "examples": [
+        {"de": "Sie vermisst ihren Hund.", "en": "She misses her dog."},
+        {"de": "Lena fragt ihren Lehrer.", "en": "Lena asks her teacher."}
+      ],
+      "words": [{"de": "der Schlüssel", "en": "key"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Hast du {{c1::deinen::du}} Pass dabei?",
+      "en": "Do you have your passport with you?",
+      "focus": "Akkusativ maskulin · Objekt von *dabeihaben*",
+      "explanation": "The owner is *du* → stem *dein*. *dabeihaben* takes an Akkusativ object, and *der Pass* is masculine → **-en**: dein + -en → **deinen**. The prefix *dabei* goes to the end of the question.",
+      "pattern": "Hast du + dein**en** + Nomen (Akk. m.) + dabei?",
+      "mistake": {
+        "wrong": "Hast du dein Pass dabei?",
+        "why": "*Pass* is masculine and the Akkusativ object. Masculine Akkusativ always needs *-en*: *deinen Pass*."
+      },
+      "examples": [
+        {"de": "Hast du deinen Laptop dabei?", "en": "Do you have your laptop with you?"},
+        {"de": "Nimmst du deinen Regenschirm mit?", "en": "Are you taking your umbrella?"}
+      ],
+      "words": [{"de": "dabeihaben", "en": "to have with you"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir kennen {{c1::eure::ihr}} Freunde.",
+      "en": "We know your (pl.) friends.",
+      "focus": "Akkusativ Plural · Objekt von *kennen*",
+      "explanation": "The owner is *ihr* (you, plural) → stem *euer*. *Freunde* is plural and the Akkusativ object of *kennen* → **-e**. Before an ending *euer* drops its second *e*: euer + -e → **eure**.",
+      "pattern": "Verb + eur**e** + Nomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Wir kennen euer Freunde.",
+        "why": "Plural nouns need *-e* on the possessive article in the Nominativ and Akkusativ, like *keine Freunde*: *eure Freunde*."
+      },
+      "examples": [
+        {"de": "Ich mag eure Kinder.", "en": "I like your (pl.) children."},
+        {"de": "Wir treffen eure Kollegen.", "en": "We are meeting your (pl.) colleagues."}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Mein::ich}} Name ist Salman.",
+      "en": "My name is Salman.",
+      "focus": "Nominativ maskulin · Subjekt",
+      "explanation": "The owner is *ich* → stem *mein*. *Name* is masculine (*der Name*) and the subject → Nominativ → no ending: **Mein Name**.",
+      "pattern": "Mein + Nomen (Nom. m.) + ist …",
+      "mistake": {
+        "wrong": "Meine Name ist Salman.",
+        "why": "*Name* is masculine, not feminine. The masculine Nominativ has no ending: *mein Name*."
+      },
+      "examples": [
+        {"de": "Mein Nachname ist Klein.", "en": "My surname is Klein."},
+        {"de": "Mein Geburtstag ist im Mai.", "en": "My birthday is in May."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Mein::ich}} Vater arbeitet im Büro.",
+      "en": "My father works in an office.",
+      "focus": "Nominativ maskulin · Subjekt am Satzanfang",
+      "explanation": "The owner is *ich* → stem *mein*. *Vater* is the subject of *arbeitet* → Nominativ. *der Vater* is masculine, so there is no ending: **Mein Vater**.",
+      "pattern": "Mein + Nomen (Nom. m.) + Verb + Ort",
+      "mistake": {
+        "wrong": "Meinen Vater arbeitet im Büro.",
+        "why": "*meinen* is the masculine Akkusativ. The person who does the action is the subject and stays in the Nominativ: *Mein Vater arbeitet*."
+      },
+      "examples": [
+        {"de": "Mein Onkel arbeitet im Krankenhaus.", "en": "My uncle works in a hospital."},
+        {"de": "Mein Sohn spielt im Garten.", "en": "My son is playing in the garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Eure::ihr}} Wohnung ist sehr schön.",
+      "en": "Your (pl.) apartment is very nice.",
+      "focus": "Nominativ feminin · Besitzer: ihr (Plural)",
+      "explanation": "The owner is *ihr* → stem *euer*. *Wohnung* is feminine and the subject → Nominativ → **-e**. With the ending *euer* drops its second *e*: **Eure**.",
+      "pattern": "Eur**e** + Nomen (Nom. f.) + ist …",
+      "mistake": {
+        "wrong": "Euer Wohnung ist sehr schön.",
+        "why": "*euer* without ending fits only masculine Nominativ or neuter nouns. *die Wohnung* is feminine and needs *-e*: *eure Wohnung*."
+      },
+      "examples": [
+        {"de": "Eure Küche ist sehr modern.", "en": "Your (pl.) kitchen is very modern."},
+        {"de": "Eure Stadt ist wirklich schön.", "en": "Your (pl.) town is really beautiful."}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich liebe {{c1::meinen::ich}} Hund.",
+      "en": "I love my dog.",
+      "focus": "Akkusativ maskulin · Objekt von *lieben*",
+      "explanation": "*lieben* takes an Akkusativ object. *Hund* is masculine (*der Hund*), and masculine is the only gender that changes in the Akkusativ: mein + -en → **meinen**.",
+      "pattern": "Verb + mein**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich liebe mein Hund.",
+        "why": "*mein Hund* is the Nominativ form. As the Akkusativ object of *lieben*, the masculine noun needs *meinen*."
+      },
+      "examples": [
+        {"de": "Ich vermisse meinen Opa.", "en": "I miss my grandpa."},
+        {"de": "Ich mag meinen Job.", "en": "I like my job."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Sein::er}} Bruder ist Polizist.",
+      "en": "His brother is a police officer.",
+      "focus": "Nominativ maskulin · Besitzer: ein Mann",
+      "explanation": "*His* → the owner is male → stem **sein**. *Bruder* is the subject → Nominativ. *der Bruder* is masculine, so the article has no ending.",
+      "pattern": "Sein + Nomen (Nom. m.) + ist + Beruf",
+      "mistake": {
+        "wrong": "Seine Bruder ist Polizist.",
+        "why": "*seine* is for feminine or plural nouns (*seine Schwester, seine Brüder*). One brother is masculine singular → *sein Bruder*."
+      },
+      "examples": [
+        {"de": "Sein Cousin ist Student.", "en": "His cousin is a student."},
+        {"de": "Sein Chef ist sehr nett.", "en": "His boss is very nice."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie putzt {{c1::ihre::sie, Sg.}} Wohnung.",
+      "en": "She's cleaning her apartment.",
+      "focus": "Akkusativ feminin · Objekt von *putzen*",
+      "explanation": "The owner is *sie* (she) → stem *ihr*. *putzen* takes an Akkusativ object. *die Wohnung* is feminine, and the feminine Akkusativ is the same as the Nominativ: ihr + -e → **ihre**.",
+      "pattern": "Verb + ihr**e** + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Sie putzt ihren Wohnung.",
+        "why": "*ihren* is the masculine Akkusativ (*ihren Schlüssel*). *Wohnung* is feminine, so the Akkusativ is *ihre Wohnung*."
+      },
+      "examples": [
+        {"de": "Sie packt ihre Tasche.", "en": "She is packing her bag."},
+        {"de": "Sie zeigt mir ihre Küche.", "en": "She is showing me her kitchen."}
+      ],
+      "words": [{"de": "putzen", "en": "to clean"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir kennen {{c1::seinen::er}} Freund.",
+      "en": "We know his friend.",
+      "focus": "Akkusativ maskulin · Objekt von *kennen*",
+      "explanation": "*His* → the owner is male → stem *sein*. *kennen* takes an Akkusativ object, and *der Freund* is masculine → **-en**: sein + -en → **seinen**.",
+      "pattern": "Verb + sein**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir kennen sein Freund.",
+        "why": "*sein Freund* is the Nominativ. *Freund* is the masculine Akkusativ object of *kennen* → *seinen Freund*."
+      },
+      "examples": [
+        {"de": "Ich kenne seinen Vater.", "en": "I know his father."},
+        {"de": "Wir besuchen seinen Sohn.", "en": "We are visiting his son."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Unsere::wir}} Lehrerin ist sehr nett.",
+      "en": "Our teacher is very nice.",
+      "focus": "Nominativ feminin · Subjekt",
+      "explanation": "The owner is *wir* → stem *unser*. *Lehrerin* is feminine and the subject → Nominativ → **-e**. *unser* keeps its *-er* and adds the ending: **Unsere**.",
+      "pattern": "Unser**e** + Nomen (Nom. f.) + ist …",
+      "mistake": {
+        "wrong": "Unser Lehrerin ist sehr nett.",
+        "why": "*die Lehrerin* is feminine and needs *-e*. *unser* without ending is only for masculine Nominativ (*unser Lehrer*) and neuter nouns."
+      },
+      "examples": [
+        {"de": "Unsere Nachbarin ist sehr freundlich.", "en": "Our neighbour is very friendly."},
+        {"de": "Unsere Ärztin heißt Dr. Wolf.", "en": "Our doctor is called Dr Wolf."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich brauche dringend {{c1::meinen::ich}} Schlüssel.",
+      "en": "I urgently need my key.",
+      "focus": "Akkusativ maskulin · Objekt von *brauchen*",
+      "explanation": "*brauchen* takes an Akkusativ object. *der Schlüssel* is masculine → **-en**: mein + -en → **meinen**. The adverb *dringend* stands before the object and does not change anything.",
+      "pattern": "brauchen + (Adverb) + mein**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich brauche dringend mein Schlüssel.",
+        "why": "*Schlüssel* is the masculine Akkusativ object of *brauchen*, so the article needs *-en*: *meinen Schlüssel*."
+      },
+      "examples": [
+        {"de": "Er braucht dringend seinen Mantel.", "en": "He urgently needs his coat."},
+        {"de": "Ich brauche meinen Kalender.", "en": "I need my calendar."}
+      ],
+      "words": [{"de": "dringend", "en": "urgently"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "{{c1::Mein::ich}} Bruder wohnt in Zürich.",
+      "en": "My brother lives in Zurich.",
+      "focus": "Nominativ maskulin · Subjekt",
+      "explanation": "*Bruder* is the subject of *wohnt* → Nominativ. Masculine Nominativ has no ending, exactly like *ein Bruder* → **Mein Bruder**.",
+      "pattern": "Mein + Nomen (Nom. m.) + Verb",
+      "mistake": {
+        "wrong": "Meiner Bruder wohnt in Zürich.",
+        "why": "*-er* looks like *der*, but on a possessive article it is the feminine Dativ ending (*meiner Mutter*). The masculine Nominativ has no ending."
+      },
+      "examples": [
+        {"de": "Mein Freund wohnt in Bern.", "en": "My friend lives in Bern."},
+        {"de": "Mein Opa wohnt in Graz.", "en": "My grandpa lives in Graz."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Meine::ich}} Schwester studiert Medizin.",
+      "en": "My sister studies medicine.",
+      "focus": "Nominativ feminin · Subjekt",
+      "explanation": "*Schwester* is the subject → Nominativ. It is feminine, so the possessive article adds **-e**, like *eine Schwester*: **Meine**.",
+      "pattern": "Mein**e** + Nomen (Nom. f.) + Verb",
+      "mistake": {
+        "wrong": "Mein Schwester studiert Medizin.",
+        "why": "Feminine nouns always need *-e* in the Nominativ: *meine Schwester*."
+      },
+      "examples": [
+        {"de": "Meine Freundin studiert Jura.", "en": "My friend studies law."},
+        {"de": "Meine Kollegin wohnt in Basel.", "en": "My colleague lives in Basel."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Wie heißt {{c1::dein::du}} Hund?",
+      "en": "What's your dog's name?",
+      "focus": "Nominativ maskulin · Subjekt nach dem Verb",
+      "explanation": "*Hund* stands after the verb, but it is the subject of *heißt* → Nominativ. *der Hund* is masculine → no ending: **dein Hund**.",
+      "pattern": "Wie heißt + dein + Nomen (Nom. m.)?",
+      "mistake": {
+        "wrong": "Wie heißt deinen Hund?",
+        "why": "The position after the verb does not make the noun an object. *heißen* has no Akkusativ object; *Hund* is the subject → Nominativ *dein Hund*."
+      },
+      "examples": [
+        {"de": "Wie heißt dein Lehrer?", "en": "What's your teacher's name?"},
+        {"de": "Wie alt ist dein Sohn?", "en": "How old is your son?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "{{c1::Ihre::sie, Sg.}} Kollegen sind nett.",
+      "en": "Her colleagues are nice.",
+      "focus": "Nominativ Plural · Subjekt",
+      "explanation": "The owner is *sie* (she) → stem *ihr*. *Kollegen* is plural and the subject → Nominativ. Plural nouns take **-e** in the Nominativ and Akkusativ, like *keine Kollegen*: **Ihre**.",
+      "pattern": "Ihr**e** + Nomen (Nom. Pl.) + sind …",
+      "mistake": {
+        "wrong": "Ihr Kollegen sind nett.",
+        "why": "*ihr* without ending is masculine/neuter singular. A plural noun needs *-e*: *ihre Kollegen*."
+      },
+      "examples": [
+        {"de": "Seine Kinder sind schon groß.", "en": "His children are already grown up."},
+        {"de": "Meine Eltern sind im Urlaub.", "en": "My parents are on holiday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ich habe {{c1::seinen::er}} Namen vergessen.",
+      "en": "I've forgotten his name.",
+      "focus": "Akkusativ maskulin · Objekt von *vergessen*",
+      "explanation": "*vergessen* takes an Akkusativ object. *der Name* is masculine → sein + -en → **seinen**. *Name* also adds *-n* in the Akkusativ and Dativ (*den Namen, dem Namen*), but that is a feature of the noun, not of the article.",
+      "pattern": "Verb + sein**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich habe sein Namen vergessen.",
+        "why": "The article must show the masculine Akkusativ too: *seinen Namen*. The *-n* on the noun does not replace the ending on the article."
+      },
+      "examples": [
+        {"de": "Ich habe meinen Schirm vergessen.", "en": "I've forgotten my umbrella."},
+        {"de": "Hast du deinen Termin vergessen?", "en": "Have you forgotten your appointment?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Wo ist {{c1::unsere::wir}} Wohnung?",
+      "en": "Where is our flat?",
+      "focus": "Nominativ feminin · W-Frage",
+      "explanation": "The owner is *wir* → stem *unser*. *Wohnung* is the feminine subject of *ist* → **-e**. *unser* keeps the *-er* of its stem and adds the ending: **unsere**.",
+      "pattern": "Wo ist + unser**e** + Nomen (Nom. f.)?",
+      "mistake": {
+        "wrong": "Wo ist unser Wohnung?",
+        "why": "The *-er* of *unser* is part of the stem, not an ending. A feminine noun still needs *-e* after it: *unsere Wohnung*."
+      },
+      "examples": [
+        {"de": "Wo ist unsere Zeitung?", "en": "Where is our newspaper?"},
+        {"de": "Wann kommt unsere Pizza?", "en": "When is our pizza coming?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Das ist {{c1::euer::ihr}} Problem.",
+      "en": "That is your (pl.) problem.",
+      "focus": "Nominativ neutral · nach *das ist*",
+      "explanation": "The owner is *ihr* (you, plural) → stem **euer**. *das Problem* is neuter Nominativ after *Das ist* → no ending, so the full stem *euer* stays. Only when an ending follows does it usually lose the second *e* (*eure, euren*).",
+      "pattern": "Das ist + euer + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist eure Problem.",
+        "why": "*eure* is for feminine and plural nouns. *Problem* is neuter, so there is no ending: *euer Problem*."
+      },
+      "examples": [
+        {"de": "Das ist euer Zimmer.", "en": "That is your (pl.) room."},
+        {"de": "Ist das euer Hund?", "en": "Is that your (pl.) dog?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Hast du {{c1::deine::du}} Tickets dabei?",
+      "en": "Do you have your tickets with you?",
+      "focus": "Akkusativ Plural · Objekt von *dabeihaben*",
+      "explanation": "*Tickets* is plural and the Akkusativ object of *dabeihaben*. In the plural the Akkusativ is the same as the Nominativ: dein + -e → **deine**. *dabei* is the separable prefix and closes the question.",
+      "pattern": "Hast du + dein**e** + Nomen (Akk. Pl.) + dabei?",
+      "mistake": {
+        "wrong": "Hast du deinen Tickets dabei?",
+        "why": "*-en* in the Akkusativ is only for masculine singular nouns. Plural nouns take *-e*: *deine Tickets*."
+      },
+      "examples": [
+        {"de": "Hast du deine Fotos dabei?", "en": "Do you have your photos with you?"},
+        {"de": "Nimmst du deine Kinder mit?", "en": "Are you taking your children with you?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich mag {{c1::ihr::sie, Sg.}} neues Kleid.",
+      "en": "I like her new dress.",
+      "focus": "Akkusativ neutral · mit Adjektiv",
+      "explanation": "The owner is *sie* (she) → stem *ihr*. *das Kleid* is the neuter Akkusativ object of *mögen*, and neuter Akkusativ has no ending on the article: **ihr**. Because the article shows no ending, the adjective carries it: *neu**es***.",
+      "pattern": "ihr + Adj-**es** + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Ich mag ihre neues Kleid.",
+        "why": "*ihre* is for feminine or plural nouns. *Kleid* is neuter, so the article has no ending and the adjective shows *-es*: *ihr neues Kleid*."
+      },
+      "examples": [
+        {"de": "Ich mag sein neues Auto.", "en": "I like his new car."},
+        {"de": "Wir mögen euer großes Haus.", "en": "We like your (pl.) big house."}
+      ],
+      "words": [{"de": "das Kleid", "en": "dress"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "{{c1::Sein::er}} Vater ist Pilot.",
+      "en": "His father is a pilot.",
+      "focus": "Nominativ maskulin · Besitzer bestimmt den Stamm",
+      "explanation": "The owner decides the stem: *his* → **sein**, *her* → *ihr*. The noun only decides the ending: *Vater* is masculine Nominativ → no ending. So *his father* = *sein Vater*, and *her father* = *ihr Vater*.",
+      "pattern": "Sein + Nomen (Nom. m.) + ist + Beruf",
+      "mistake": {
+        "wrong": "Seiner Vater ist Pilot.",
+        "why": "*seiner* is the feminine Dativ form (*mit seiner Mutter*). The masculine subject takes no ending: *Sein Vater*."
+      },
+      "examples": [
+        {"de": "Sein Bruder ist Lehrer.", "en": "His brother is a teacher."},
+        {"de": "Ihr Vater ist Pilot.", "en": "Her father is a pilot."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Kennst du {{c1::meinen::ich}} Chef?",
+      "en": "Do you know my boss?",
+      "focus": "Akkusativ maskulin · Ja/Nein-Frage",
+      "explanation": "*kennen* takes an Akkusativ object. *der Chef* is masculine → mein + -en → **meinen**. The question form does not change the case.",
+      "pattern": "Kennst du + mein**en** + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Kennst du mein Chef?",
+        "why": "*Chef* is the masculine Akkusativ object of *kennen*, so the article needs *-en*: *meinen Chef*."
+      },
+      "examples": [
+        {"de": "Kennst du meinen Bruder?", "en": "Do you know my brother?"},
+        {"de": "Kennt ihr unseren Nachbarn?", "en": "Do you (pl.) know our neighbour?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "{{c1::Ihr::Sie}} Pass ist abgelaufen, Frau Meier.",
+      "en": "Your passport has expired, Mrs Meier.",
+      "focus": "Nominativ maskulin · formelle Anrede",
+      "explanation": "Frau Meier is addressed with *Sie*, so the owner is formal *Sie* → stem **Ihr**, always with a capital *I*. *der Pass* is the masculine subject → Nominativ → no ending.",
+      "pattern": "Ihr + Nomen (Nom. m.) …, Frau/Herr …",
+      "mistake": {
+        "wrong": "Ihren Pass ist abgelaufen, Frau Meier.",
+        "why": "*Ihren* is the masculine Akkusativ. *Pass* is the subject of *ist abgelaufen*, so it is Nominativ: *Ihr Pass*."
+      },
+      "examples": [
+        {"de": "Ihr Termin ist morgen, Herr Braun.", "en": "Your appointment is tomorrow, Mr Braun."},
+        {"de": "Ihr Kaffee ist fertig, Frau Lang.", "en": "Your coffee is ready, Ms Lang."}
+      ],
+      "words": [{"de": "ablaufen", "en": "to expire"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Wir verkaufen {{c1::unser::wir}} Auto.",
+      "en": "We are selling our car.",
+      "focus": "Akkusativ neutral · Objekt von *verkaufen*",
+      "explanation": "*verkaufen* takes an Akkusativ object. *das Auto* is neuter, and neuter Akkusativ has no ending, like *ein Auto*: **unser Auto**.",
+      "pattern": "Verb + unser + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir verkaufen unseren Auto.",
+        "why": "*-en* in the Akkusativ is only for masculine nouns. *Auto* is neuter, so the Akkusativ stays *unser Auto*."
+      },
+      "examples": [
+        {"de": "Wir putzen unser Bad.", "en": "We are cleaning our bathroom."},
+        {"de": "Wir suchen unser Hotel.", "en": "We are looking for our hotel."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Ihre::sie, Pl.}} Kinder gehen schon zur Schule.",
+      "en": "Their children already go to school.",
+      "focus": "Nominativ Plural · Besitzer: mehrere Personen",
+      "explanation": "*Their* → the owners are *sie* (plural) → stem *ihr*. *Kinder* is plural and the subject → **-e**: **Ihre Kinder**. (*zur* = *zu der*, Dativ after *zu*.)",
+      "pattern": "Ihr**e** + Nomen (Nom. Pl.) + Verb",
+      "mistake": {
+        "wrong": "Ihr Kinder gehen schon zur Schule.",
+        "why": "A plural noun needs *-e* on the possessive article: *ihre Kinder*. *ihr* without ending is only for masculine/neuter singular."
+      },
+      "examples": [
+        {"de": "Ihre Söhne spielen Fußball.", "en": "Their sons play football."},
+        {"de": "Seine Töchter gehen in den Kindergarten.", "en": "His daughters go to kindergarten."}
+      ],
+      "words": [],
+      "production_cue": "(their)",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Ich rufe {{c1::meine::ich}} Mutter jeden Sonntag an.",
+      "en": "I call my mother every Sunday.",
+      "focus": "Akkusativ feminin · Objekt von *anrufen*",
+      "explanation": "*anrufen* takes an Akkusativ object (*jemanden anrufen*). *die Mutter* is feminine → Akkusativ = Nominativ → **meine**. The prefix *an* closes the sentence.",
+      "pattern": "rufen + mein**e** + Nomen (Akk. f.) + … + an",
+      "mistake": {
+        "wrong": "Ich rufe meiner Mutter jeden Sonntag an.",
+        "why": "*meiner* is the feminine Dativ. *anrufen* is not like *telefonieren mit*; it takes a direct Akkusativ object: *meine Mutter*."
+      },
+      "examples": [
+        {"de": "Ich rufe meine Oma morgen an.", "en": "I'm calling my grandma tomorrow."},
+        {"de": "Er ruft seine Freundin oft an.", "en": "He often calls his girlfriend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "{{c1::Dein::du}} Deutsch ist wirklich besser geworden.",
+      "en": "Your German has really improved.",
+      "focus": "Nominativ neutral · Sprache",
+      "explanation": "Names of languages used as nouns are neuter (*das Deutsch, das Englisch*). *Deutsch* is the subject → neuter Nominativ → no ending: **Dein Deutsch**.",
+      "pattern": "Dein + Sprache (Nom. n.) + …",
+      "mistake": {
+        "wrong": "Deine Deutsch ist wirklich besser geworden.",
+        "why": "*Deutsch* as a noun is neuter, not feminine. Neuter Nominativ has no ending: *dein Deutsch*."
+      },
+      "examples": [
+        {"de": "Dein Englisch ist sehr gut.", "en": "Your English is very good."},
+        {"de": "Sein Französisch ist perfekt.", "en": "His French is perfect."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Besucht ihr {{c1::euren::ihr}} Opa am Wochenende?",
+      "en": "Are you visiting your grandpa at the weekend?",
+      "focus": "Akkusativ maskulin · Besitzer: ihr (Plural)",
+      "explanation": "The owner is *ihr* → stem *euer*. *besuchen* takes an Akkusativ object, and *der Opa* is masculine → **-en**. Before the ending *euer* drops its second *e*: euer + -en → **euren**.",
+      "pattern": "Verb + eur**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Besucht ihr euer Opa am Wochenende?",
+        "why": "*euer* without ending is Nominativ. *Opa* is the masculine Akkusativ object of *besuchen*, so it needs *euren*."
+      },
+      "examples": [
+        {"de": "Ruft ihr euren Vater an?", "en": "Are you (pl.) calling your father?"},
+        {"de": "Fragt ihr euren Lehrer?", "en": "Are you (pl.) asking your teacher?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir besuchen {{c1::unseren::wir}} Onkel in Hamburg.",
+      "en": "We are visiting our uncle in Hamburg.",
+      "focus": "Akkusativ maskulin · Objekt von *besuchen*",
+      "explanation": "The owner is *wir* → stem *unser*. *der Onkel* is the masculine Akkusativ object of *besuchen* → **-en**. *unser* keeps its *-er*: unser + -en → **unseren**.",
+      "pattern": "Verb + unser**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir besuchen unser Onkel in Hamburg.",
+        "why": "The *-er* of *unser* is not an ending. The masculine Akkusativ still needs *-en* after the stem: *unseren Onkel*."
+      },
+      "examples": [
+        {"de": "Wir lieben unseren Garten.", "en": "We love our garden."},
+        {"de": "Wir suchen unseren Hund.", "en": "We are looking for our dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wie ist {{c1::Ihr::Sie}} Name, bitte?",
+      "en": "What is your name, please?",
+      "focus": "Nominativ maskulin · formelle Frage",
+      "explanation": "In a formal situation the owner is *Sie* → stem **Ihr**, with a capital *I* in every position. *der Name* is the subject of *ist* → masculine Nominativ → no ending.",
+      "pattern": "Wie ist + Ihr + Nomen (Nom. m.)?",
+      "mistake": {
+        "wrong": "Wie ist Ihren Name, bitte?",
+        "why": "*Ihren* is masculine Akkusativ. After *ist* the noun is Nominativ: *Ihr Name*."
+      },
+      "examples": [
+        {"de": "Wie ist Ihre Adresse?", "en": "What is your address?"},
+        {"de": "Wo ist Ihr Koffer?", "en": "Where is your suitcase?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Können Sie mir bitte {{c1::Ihren::Sie}} Ausweis zeigen?",
+      "en": "Can you show me your ID, please?",
+      "focus": "Akkusativ maskulin · formelle Anrede",
+      "explanation": "The owner is formal *Sie* → stem *Ihr*. *zeigen* has a Dativ person (*mir*) and an Akkusativ thing. *der Ausweis* is masculine Akkusativ → Ihr + -en → **Ihren**.",
+      "pattern": "Sie + … + Ihr**en** + Nomen (Akk. m.) + Infinitiv?",
+      "mistake": {
+        "wrong": "Können Sie mir bitte Ihr Ausweis zeigen?",
+        "why": "*Ausweis* is masculine and the Akkusativ object of *zeigen*, so the article needs *-en*: *Ihren Ausweis*."
+      },
+      "examples": [
+        {"de": "Haben Sie Ihren Schlüssel?", "en": "Do you have your key?"},
+        {"de": "Brauchen Sie Ihren Mantel?", "en": "Do you need your coat?"}
+      ],
+      "words": [{"de": "der Ausweis", "en": "ID card"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich fahre mit {{c1::meinem::ich → Dat.}} Fahrrad zur Arbeit.",
+      "en": "I ride my bike to work.",
+      "focus": "Dativ neutral · nach *mit*",
+      "explanation": "*mit* always takes the Dativ. *das Fahrrad* is neuter, and the Dativ ending for masculine and neuter is **-em**: mein + -em → **meinem**.",
+      "pattern": "mit + mein**em** + Nomen (Dat. n.)",
+      "mistake": {
+        "wrong": "Ich fahre mit mein Fahrrad zur Arbeit.",
+        "why": "After *mit* the noun is Dativ, never Nominativ or Akkusativ. Neuter Dativ needs *-em*: *mit meinem Fahrrad*."
+      },
+      "examples": [
+        {"de": "Er spricht mit seinem Kind.", "en": "He is talking to his child."},
+        {"de": "Wir fahren mit unserem Auto nach Italien.", "en": "We are driving to Italy in our car."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ich wohne bei {{c1::meiner::ich → Dat.}} Tante.",
+      "en": "I live with my aunt.",
+      "focus": "Dativ feminin · nach *bei*",
+      "explanation": "*bei* always takes the Dativ. *die Tante* is feminine, and the feminine Dativ ending is **-er**: mein + -er → **meiner**.",
+      "pattern": "bei + mein**er** + Nomen (Dat. f.)",
+      "mistake": {
+        "wrong": "Ich wohne bei meine Tante.",
+        "why": "*meine* is Nominativ/Akkusativ feminine. *bei* needs the Dativ, and feminine Dativ is *meiner*."
+      },
+      "examples": [
+        {"de": "Er wohnt bei seiner Oma.", "en": "He lives with his grandma."},
+        {"de": "Sie spricht mit ihrer Chefin.", "en": "She is talking to her boss."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Er fährt mit {{c1::seinen::er → Dat.}} Eltern nach Spanien.",
+      "en": "He is going to Spain with his parents.",
+      "focus": "Dativ Plural · nach *mit*",
+      "explanation": "*mit* takes the Dativ. *Eltern* is plural, and the plural Dativ ending is **-en**: sein + -en → **seinen**. The noun also needs *-n* in the Dativ plural; *Eltern* already ends in *-n*.",
+      "pattern": "mit + sein**en** + Nomen-(n) (Dat. Pl.)",
+      "mistake": {
+        "wrong": "Er fährt mit seine Eltern nach Spanien.",
+        "why": "*seine Eltern* is Nominativ/Akkusativ plural. After *mit* the plural Dativ is *seinen Eltern*."
+      },
+      "examples": [
+        {"de": "Wir sprechen mit unseren Kindern.", "en": "We are talking to our children."},
+        {"de": "Sie geht mit ihren Freundinnen ins Kino.", "en": "She is going to the cinema with her friends."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Das Baby trinkt {{c1::seine::es}} Milch.",
+      "en": "The baby is drinking its milk.",
+      "focus": "Akkusativ feminin · Besitzer: neutral",
+      "explanation": "The owner *das Baby* is neuter (*es*), and a neuter owner takes the same stem as a masculine one → *sein*. *die Milch* is the feminine Akkusativ object of *trinken* → **-e**: **seine**.",
+      "pattern": "neutraler Besitzer → sein**e** + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Das Baby trinkt sein Milch.",
+        "why": "The stem *sein* is right for a neuter owner, but *Milch* is feminine and needs *-e*: *seine Milch*."
+      },
+      "examples": [
+        {"de": "Das Kind sucht seine Mütze.", "en": "The child is looking for its hat."},
+        {"de": "Das Kätzchen sucht seine Mutter.", "en": "The kitten is looking for its mother."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Maria und {{c1::ihr::sie, Sg.}} Mann kommen heute Abend.",
+      "en": "Maria and her husband are coming this evening.",
+      "focus": "Nominativ maskulin · Besitzer: eine Frau",
+      "explanation": "The owner is Maria → *her* → stem **ihr**, even though *Mann* is masculine. *ihr Mann* is part of the subject (*Maria und ihr Mann*) → Nominativ → no ending.",
+      "pattern": "Name + und + ihr + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Maria und ihren Mann kommen heute Abend.",
+        "why": "Both people are the subject of *kommen*, so *Mann* is Nominativ, not Akkusativ: *ihr Mann*."
+      },
+      "examples": [
+        {"de": "Anna und ihr Sohn wohnen in Graz.", "en": "Anna and her son live in Graz."},
+        {"de": "Tom und seine Frau kochen heute.", "en": "Tom and his wife are cooking today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Paul zeigt uns {{c1::seine::er}} Fotos aus Italien.",
+      "en": "Paul is showing us his photos from Italy.",
+      "focus": "Akkusativ Plural · Objekt von *zeigen*",
+      "explanation": "The owner is Paul → *sein*. *Fotos* is plural and the Akkusativ object of *zeigen* (*uns* is the Dativ person). Plural Akkusativ → **-e**: **seine**.",
+      "pattern": "zeigen + Dat. + sein**e** + Nomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Paul zeigt uns seinen Fotos aus Italien.",
+        "why": "*seinen* is masculine Akkusativ singular or Dativ plural. A plural Akkusativ object takes *-e*: *seine Fotos*."
+      },
+      "examples": [
+        {"de": "Lisa zeigt uns ihre Bilder.", "en": "Lisa is showing us her pictures."},
+        {"de": "Tom verkauft seine Bücher.", "en": "Tom is selling his books."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Nachbarn verkaufen {{c1::ihr::sie, Pl.}} Haus.",
+      "en": "The neighbours are selling their house.",
+      "focus": "Akkusativ neutral · Besitzer: Plural",
+      "explanation": "The owners are plural (*sie* = they) → stem *ihr*. The ending follows the owned noun, not the owners: *das Haus* is singular neuter Akkusativ → no ending: **ihr Haus**.",
+      "pattern": "Plural-Besitzer → ihr + Nomen (Akk. n. Sg.)",
+      "mistake": {
+        "wrong": "Die Nachbarn verkaufen ihre Haus.",
+        "why": "Several owners do not make the article plural. *Haus* is one neuter noun, so the Akkusativ is *ihr Haus*."
+      },
+      "examples": [
+        {"de": "Meine Eltern lieben ihren Garten.", "en": "My parents love their garden."},
+        {"de": "Die Kinder suchen ihre Katze.", "en": "The children are looking for their cat."}
+      ],
+      "words": [],
+      "production_cue": "(their)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Der Kuchen ist für {{c1::deinen::du}} Bruder.",
+      "en": "The cake is for your brother.",
+      "focus": "Akkusativ maskulin · nach *für*",
+      "explanation": "*für* always takes the Akkusativ. *der Bruder* is masculine → dein + -en → **deinen**. The case comes from the preposition, not from the verb *ist*.",
+      "pattern": "für + dein**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Der Kuchen ist für dein Bruder.",
+        "why": "After *für* the noun is Akkusativ. A masculine noun therefore needs *-en*: *für deinen Bruder*."
+      },
+      "examples": [
+        {"de": "Das Geschenk ist für meinen Vater.", "en": "The present is for my father."},
+        {"de": "Die Blumen sind für unseren Lehrer.", "en": "The flowers are for our teacher."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about choosing the stem.",
+      "prompt": "How do you decide between *sein* and *ihr* (his/her/its/their)?",
+      "answer": "By the **owner**, never by the noun after it: male or neuter owner → **sein**; female owner or several owners → **ihr**. The noun after it decides only the ending.",
+      "explanation": "English works the same way (*his* vs *her*), but many learners copy the gender of the noun: *die Mutter* does not make *seine* into *ihre*. *Tom und seine Mutter*: the owner is Tom → *sein*, the noun is feminine → *-e*.",
+      "examples": [
+        {"de": "Tom besucht seine Tante.", "en": "Tom is visiting his aunt."},
+        {"de": "Lisa besucht ihren Onkel.", "en": "Lisa is visiting her uncle."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the endings.",
+      "prompt": "Which endings does a possessive article take in the Nominativ and the Akkusativ?",
+      "answer": "The endings of *ein/kein*: masculine Nominativ, neuter Nominativ and neuter Akkusativ → **no ending**; feminine and plural → **-e**; masculine Akkusativ → **-en**.",
+      "explanation": "Only the masculine noun changes between Nominativ and Akkusativ (*mein Koffer → meinen Koffer*). Feminine, neuter and plural look the same in both cases (*meine Tasche, mein Auto, meine Bücher*).",
+      "examples": [
+        {"de": "Mein Koffer ist schwer.", "en": "My suitcase is heavy."},
+        {"de": "Ich trage meinen Koffer.", "en": "I'm carrying my suitcase."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the stems *unser* and *euer*.",
+      "prompt": "What happens to *unser* and *euer* when an ending follows?",
+      "answer": "*unser* keeps its stem: unser**e**, unser**en**, unser**em**. *euer* usually drops the second *e*: eur**e**, eur**en**, eur**em**. Without an ending both stay complete: *unser Haus, euer Haus*.",
+      "explanation": "The *-er* in *unser* and *euer* belongs to the stem; it is not an ending like the *-er* in *meiner*. Forms like *euere* exist but are rare; the standard choice is *eure*.",
+      "examples": [
+        {"de": "Wo ist eure Katze?", "en": "Where is your (pl.) cat?"},
+        {"de": "Wir lieben unsere Katze.", "en": "We love our cat."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the Dativ.",
+      "prompt": "Which endings does a possessive article take in the Dativ, for example after *mit*?",
+      "answer": "Masculine and neuter → **-em** (*meinem*), feminine → **-er** (*meiner*), plural → **-en** (*meinen*) and the plural noun adds **-n** if possible.",
+      "explanation": "These are the same endings as *einem/einer/keinen*. The preposition decides the case: *mit, bei, zu, von, aus, nach, seit* always take the Dativ. Plural nouns add *-n* in the Dativ (*mit meinen Kindern*), unless they already end in *-n* or *-s*.",
+      "examples": [
+        {"de": "Ich telefoniere mit meinem Bruder.", "en": "I'm on the phone with my brother."},
+        {"de": "Sie wohnt bei ihren Eltern.", "en": "She lives with her parents."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the different meanings of *ihr*.",
+      "prompt": "What can *ihr / Ihr* mean before a noun, and how do you tell the meanings apart?",
+      "answer": "Lower-case **ihr** = *her* or *their* (the context shows the owner). Capital **Ihr** = formal *your* (*Sie*). (Without a noun, *ihr* is also the pronoun *you* plural: *Ihr seid nett.*)",
+      "explanation": "In writing, the capital letter shows formal *your*; only at the start of a sentence does it not help. *Herr Weber, ist das Ihr Auto?* is formal *your*. *Ist das ihr Auto?* asks about a woman's or several people's car.",
+      "examples": [
+        {"de": "Herr Weber, ist das Ihr Auto?", "en": "Mr Weber, is that your car?"},
+        {"de": "Ist das ihr Auto?", "en": "Is that her car?"}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct possessive article.",
+      "prompt": "Ich besuche morgen ___ Großeltern.",
+      "options": ["mein", "meine", "meinen"],
+      "correct": "meine",
+      "answer": "Ich besuche morgen meine Großeltern.",
+      "explanation": "*Großeltern* is plural and the Akkusativ object of *besuchen*. Plural Akkusativ → *-e*: *meine*. *mein* has no ending (masculine/neuter singular), and *meinen* would be masculine Akkusativ singular or Dativ plural."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct possessive article. You speak formally to Herr Schmidt.",
+      "prompt": "Herr Schmidt, ist das ___ Tasche?",
+      "options": ["Ihr", "Ihre", "ihre", "Ihren"],
+      "correct": "Ihre",
+      "answer": "Herr Schmidt, ist das Ihre Tasche?",
+      "explanation": "Formal *your* → capital *Ihr*. *die Tasche* is feminine Nominativ after *das ist* → *-e*: *Ihre*. *Ihr* lacks the feminine ending, lower-case *ihre* means *her/their*, and *Ihren* is masculine Akkusativ."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct possessive article. Jonas is looking for his own phone.",
+      "prompt": "Jonas sucht ___ Handy.",
+      "options": ["sein", "seine", "seinen", "ihr"],
+      "correct": "sein",
+      "answer": "Jonas sucht sein Handy.",
+      "explanation": "Jonas is male → stem *sein*. *das Handy* is the neuter Akkusativ object → no ending. *seine* is for feminine/plural, *seinen* for masculine Akkusativ, and *ihr* would mean that the phone belongs to a woman or to several people."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir besuchen heute unser Großvater.",
+      "answer": "Wir besuchen heute unseren Großvater.",
+      "explanation": "*der Großvater* is the masculine Akkusativ object of *besuchen*. The article needs *-en*, and *unser* keeps its stem: *unseren Großvater*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist meinen Lehrer.",
+      "answer": "Das ist mein Lehrer.",
+      "explanation": "After *Das ist …* the noun is Nominativ, not Akkusativ. Masculine Nominativ has no ending: *mein Lehrer*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wo sind euer Kinder?",
+      "answer": "Wo sind eure Kinder?",
+      "explanation": "*Kinder* is plural and the subject → Nominativ plural → *-e*. With the ending, *euer* drops its second *e*: *eure Kinder*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace *ich* with *wir*. Change the verb and the possessive article.",
+      "prompt": "Ich besuche meine Eltern.",
+      "answer": "Wir besuchen unsere Eltern.",
+      "explanation": "The new owner is *wir* → stem *unser*; the verb becomes *besuchen*. *Eltern* is still plural Akkusativ, so the ending stays *-e*: *meine → unsere*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace *Tim* with *Lisa*. Adjust the possessive article.",
+      "prompt": "Tim sucht seinen Ball.",
+      "answer": "Lisa sucht ihren Ball.",
+      "explanation": "The owner is now female → stem *ihr* instead of *sein*. The noun *der Ball* has not changed, so the masculine Akkusativ ending *-en* stays: *ihren Ball*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Change the question to the formal *Sie* address.",
+      "prompt": "Wo wohnt deine Familie?",
+      "answer": "Wo wohnt Ihre Familie?",
+      "explanation": "Formal *your* is *Ihr* with a capital *I*. *Familie* is the feminine subject → Nominativ → *-e*: *deine → Ihre*. The verb *wohnt* agrees with *Familie*, so it does not change."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Paul",
+      "prompt": "seinen / Paul / jeden Tag / ruft / an / Bruder",
+      "answer": "Paul ruft seinen Bruder jeden Tag an.",
+      "explanation": "*ruft* is in position 2 and the prefix *an* goes to the end. *anrufen* takes the Akkusativ: masculine *Bruder* → *seinen*. *Paul ruft jeden Tag seinen Bruder an.* is also correct; *Jeden Tag ruft Paul seinen Bruder an.* starts with the time."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "wohnen / eure / wo / Großeltern",
+      "answer": "Wo wohnen eure Großeltern?",
+      "explanation": "The question word *wo* comes first and the verb *wohnen* second. *Großeltern* is the plural subject → Nominativ → *eure* (*euer* + *-e*, second *e* dropped)."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: replace *die Tochter* in the second sentence with a possessive article + noun.",
+      "prompt": "Ich habe eine Tochter. Die Tochter heißt Mia.",
+      "answer": "Meine Tochter heißt Mia.",
+      "explanation": "The owner is *ich* → *mein*. *Tochter* is the feminine subject of *heißt* → Nominativ → *-e*: *Meine Tochter*."
+    }
+  ]
+}

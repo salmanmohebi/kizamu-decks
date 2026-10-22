@@ -1,0 +1,558 @@
+{
+  "topic_id": "themen-03-einkaufen",
+  "level": "A1-A2",
+  "title_de": "03 Einkaufen",
+  "title_en": "Shopping",
+  "intro": "Shopping in the supermarket, at a counter and in clothes shops: prices, sizes, trying on, paying. You speak to staff with *Sie*. In Germany, Austria and Switzerland most shops are closed on Sundays; the exceptions are mostly shops at stations, airports and petrol stations.",
+  "phrases": [
+    {
+      "key": "t00",
+      "de": "Was kostet das?",
+      "en": "How much does this cost?",
+      "usage": "Point at an item and ask. The answer is *Das kostet 19,90.* (spoken: *neunzehn neunzig*). It means the same as *Wie viel kostet das?*",
+      "grammar": "*das* is the subject; *was* asks for the price, which *kosten* takes as an Akkusativ complement (*Das kostet einen Euro*). Stem in *-t* → 3rd person singular *kostet*.",
+      "alternatives": [
+        {
+          "de": "Was kostet dieser Pullover?",
+          "en": "How much is this jumper?"
+        },
+        {
+          "de": "Wie teuer ist die Jacke?",
+          "en": "How expensive is the jacket?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t01",
+      "de": "Haben Sie das in einer anderen Größe?",
+      "en": "Do you have this in another size?",
+      "usage": "Ask in a clothes or shoe shop. The assistant answers *Welche Größe brauchen Sie?* or *Leider nicht.* In Switzerland the spelling is *Grösse*.",
+      "grammar": "*in* + Dativ (no movement). *die Größe* is feminine → Dativ *einer*. After *einer* the adjective takes the weak/mixed ending **-en**: einer ander**en** Größe.",
+      "alternatives": [
+        {
+          "de": "Haben Sie das auch in Größe M?",
+          "en": "Do you also have this in size M?"
+        },
+        {
+          "de": "Gibt es das eine Nummer größer?",
+          "en": "Is there one size bigger?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Größe (-n)",
+          "en": "size"
+        }
+      ]
+    },
+    {
+      "key": "t02",
+      "de": "Kann ich das anprobieren?",
+      "en": "Can I try this on?",
+      "usage": "Ask before you go to the fitting room. The answer is usually *Ja, natürlich. Die Kabinen sind dort hinten.*",
+      "grammar": "*anprobieren* is separable: *Ich probiere das an.* After the modal *kann* the infinitive stays together at the end. Partizip II: *anprobiert* (no *ge-*, because of *-ieren*).",
+      "alternatives": [
+        {
+          "de": "Darf ich das mal anprobieren?",
+          "en": "May I try this on?"
+        },
+        {
+          "de": "Wo kann ich das anprobieren?",
+          "en": "Where can I try this on?"
+        }
+      ],
+      "words": [
+        {
+          "de": "anprobieren",
+          "en": "to try on"
+        }
+      ]
+    },
+    {
+      "key": "t03",
+      "de": "Wo ist die Umkleidekabine?",
+      "en": "Where is the fitting room?",
+      "usage": "Ask the shop assistant. The answer is a short direction: *Dort hinten links.* In speech people often just say *die Kabine*.",
+      "grammar": "Compound noun: *umkleiden* ('to change clothes') + *die Kabine*; the last part gives the gender → *die Umkleidekabine*, Nominativ subject.",
+      "alternatives": [
+        {
+          "de": "Wo sind die Kabinen?",
+          "en": "Where are the changing rooms?"
+        },
+        {
+          "de": "Wo kann ich mich umziehen?",
+          "en": "Where can I change?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Umkleidekabine (-n)",
+          "en": "fitting room"
+        }
+      ]
+    },
+    {
+      "key": "t04",
+      "de": "Das gefällt mir.",
+      "en": "I like it.",
+      "usage": "Say it about clothes, objects, places or ideas you like. For food, use *schmecken* instead (*Das schmeckt mir.*).",
+      "grammar": "*gefallen* takes the Dativ: the thing you like is the subject (*das*), the person is in the Dativ (*mir*). So the verb agrees with the thing: *Die Schuhe gefallen mir.* (plural). Vowel change: *es gefällt*.",
+      "alternatives": [
+        {
+          "de": "Das finde ich schön.",
+          "en": "I think that's nice."
+        },
+        {
+          "de": "Die Farbe gefällt mir sehr.",
+          "en": "I really like the colour."
+        }
+      ],
+      "words": [
+        {
+          "de": "gefallen (gefällt, + Dat.)",
+          "en": "to please, to be liked by"
+        }
+      ]
+    },
+    {
+      "key": "t05",
+      "de": "Das ist zu teuer.",
+      "en": "That's too expensive.",
+      "usage": "In shops prices are fixed, so this is usually a reason not to buy or to ask for something cheaper. At a flea market (*Flohmarkt*) it can start a negotiation.",
+      "grammar": "*zu* + adjective means 'more than acceptable'; it is not the same as *sehr* ('very'). With a Dativ you say for whom: Das ist **mir** zu teuer.",
+      "alternatives": [
+        {
+          "de": "Das ist mir zu teuer.",
+          "en": "That's too expensive for me."
+        },
+        {
+          "de": "Das ist leider zu viel für mich.",
+          "en": "Unfortunately that's too much for me."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t06",
+      "de": "Haben Sie etwas Günstigeres?",
+      "en": "Do you have something cheaper?",
+      "usage": "Ask after *Das ist zu teuer.* *günstig* means 'good value' and sounds more positive than *billig*, which can suggest low quality.",
+      "grammar": "After *etwas* an adjective becomes a noun: capital letter and the strong neuter ending **-es**. Here it is the comparative: *günstig* → *günstiger* → etwas Günstiger**es**.",
+      "alternatives": [
+        {
+          "de": "Gibt es das auch günstiger?",
+          "en": "Is there a cheaper version?"
+        },
+        {
+          "de": "Haben Sie etwas Billigeres?",
+          "en": "Do you have something cheaper?"
+        }
+      ],
+      "words": [
+        {
+          "de": "günstig",
+          "en": "inexpensive, good value"
+        }
+      ]
+    },
+    {
+      "key": "t07",
+      "de": "Ich nehme es.",
+      "en": "I'll take it.",
+      "usage": "Your decision to buy. The assistant answers *Gern. Sie können vorne an der Kasse bezahlen.*",
+      "grammar": "*es* is the Akkusativ pronoun for a neuter noun (*das Hemd*). The pronoun must match the gender: *der Pullover* → Ich nehme **ihn**, *die Jacke* → Ich nehme **sie**. Präsens for the immediate future.",
+      "alternatives": [
+        {
+          "de": "Das nehme ich.",
+          "en": "I'll take that."
+        },
+        {
+          "de": "Ich nehme die Jacke.",
+          "en": "I'll take the jacket."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t08",
+      "de": "Kann ich mit Karte bezahlen?",
+      "en": "Can I pay by card?",
+      "usage": "Ask at the till, especially in small shops, bakeries and markets, which sometimes take only cash. In Switzerland many people also pay with the app TWINT.",
+      "grammar": "*mit* + Dativ. *Karte* has no article here because it names the means of payment, like *bar* ('in cash'). *bezahlen* and *zahlen* are both correct.",
+      "alternatives": [
+        {
+          "de": "Kann ich mit Karte zahlen?",
+          "en": "Can I pay by card?"
+        },
+        {
+          "de": "Nehmen Sie Kreditkarten?",
+          "en": "Do you take credit cards?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t09",
+      "de": "Geben Sie mir bitte eine Tüte.",
+      "en": "Please give me a bag.",
+      "usage": "Correct, but it sounds quite direct; *Kann ich bitte eine Tüte haben?* is softer. Often the cashier asks first: *Brauchen Sie eine Tüte?* Bags usually cost a little money. In Switzerland a bag is usually *ein Sack* or *eine Tragtasche* (dialect: *Säckli*).",
+      "grammar": "Sie-Imperativ: verb first, then *Sie*. *geben* takes a Dativ person (*mir*) and an Akkusativ thing (*eine Tüte*); the Dativ pronoun comes before the Akkusativ noun.",
+      "alternatives": [
+        {
+          "de": "Kann ich bitte eine Tüte haben?",
+          "en": "Can I have a bag, please?"
+        },
+        {
+          "de": "Ich hätte gern eine Tüte.",
+          "en": "I'd like a bag."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Tüte (-n)",
+          "en": "(plastic or paper) bag"
+        }
+      ]
+    },
+    {
+      "key": "t10",
+      "de": "Ich schaue nur.",
+      "en": "I'm just looking.",
+      "usage": "The answer when an assistant asks *Kann ich Ihnen helfen?* and you want to browse alone. The assistant usually says *Gern, sagen Sie Bescheid, wenn Sie etwas brauchen.*",
+      "grammar": "*schauen* is regular; it is the usual verb in southern Germany, Austria and Switzerland (northern Germany also *gucken*). The reflexive *sich umschauen* means 'to look around': *Ich schaue mich nur um.*",
+      "alternatives": [
+        {
+          "de": "Ich schaue mich nur um.",
+          "en": "I'm just looking around."
+        },
+        {
+          "de": "Danke, ich sehe mich nur um.",
+          "en": "Thanks, I'm just looking around."
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t11",
+      "de": "Wo finde ich Brot?",
+      "en": "Where can I find bread?",
+      "usage": "Ask staff in a supermarket. The answer is often *Im Gang drei.* or *Ganz hinten links.*",
+      "grammar": "W-question with the verb *finde* in position 2. *finden* takes the Akkusativ; *Brot* is used as an uncountable mass noun here, so there is no article.",
+      "alternatives": [
+        {
+          "de": "Wo gibt es hier Brot?",
+          "en": "Where is there bread here?"
+        },
+        {
+          "de": "Entschuldigung, wo ist das Brot?",
+          "en": "Excuse me, where is the bread?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t12",
+      "de": "Haben Sie Bio-Produkte?",
+      "en": "Do you have organic products?",
+      "usage": "*Bio* means 'organic'. In Switzerland the best-known organic label is the *Bio Suisse* bud (*Knospe*); big supermarkets have their own organic lines.",
+      "grammar": "Plural without article for a general category. *das Produkt*, plural *die Produkte*. Both spellings *Bio-Produkte* and *Bioprodukte* are correct.",
+      "alternatives": [
+        {
+          "de": "Ist das bio?",
+          "en": "Is this organic?"
+        },
+        {
+          "de": "Haben Sie das auch in Bio-Qualität?",
+          "en": "Do you also have this in organic quality?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t13",
+      "de": "Eine Quittung, bitte.",
+      "en": "A receipt, please.",
+      "usage": "Ask for a receipt, for example for expenses or for a later exchange. Cashiers often ask *Brauchen Sie den Beleg?* *Quittung* is the usual word in Switzerland; in Germany you also hear *Kassenbon* or *Beleg*.",
+      "grammar": "Akkusativ with the verb left out (*Ich hätte gern eine Quittung*). *die Quittung* is feminine (*-ung*) → *eine*.",
+      "alternatives": [
+        {
+          "de": "Kann ich bitte eine Quittung haben?",
+          "en": "Can I have a receipt, please?"
+        },
+        {
+          "de": "Könnte ich den Kassenbon haben?",
+          "en": "Could I have the receipt?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Quittung (-en)",
+          "en": "receipt"
+        }
+      ]
+    },
+    {
+      "key": "t14",
+      "de": "Ist das im Sonderangebot?",
+      "en": "Is that on sale?",
+      "usage": "Ask when you are not sure whether a price reduction applies. Signs say *Angebot*, *reduziert* or, very often in Switzerland, *Aktion*. The answer might be *Ja, heute 20 Prozent günstiger.*",
+      "grammar": "*im* is the contraction of *in dem*: *in* + Dativ for a state. *das Sonderangebot* is neuter → *dem* → *im*.",
+      "alternatives": [
+        {
+          "de": "Ist das reduziert?",
+          "en": "Is this reduced?"
+        },
+        {
+          "de": "Ist das in Aktion?",
+          "en": "Is this on special offer? (Switzerland)"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Sonderangebot (-e)",
+          "en": "special offer"
+        }
+      ]
+    },
+    {
+      "key": "t15",
+      "de": "Können Sie mir das einpacken?",
+      "en": "Can you wrap it for me?",
+      "usage": "Ask at the till when you want the item packed or wrapped. For gift wrapping say *als Geschenk*. The assistant answers *Ja, gern.*",
+      "grammar": "*einpacken* is separable; after the modal it stays together at the end. *mir* is a Dativ ('for me'). With the personal pronoun *es* instead of *das*, the Akkusativ pronoun comes first: Können Sie **es mir** einpacken?",
+      "alternatives": [
+        {
+          "de": "Können Sie das als Geschenk einpacken?",
+          "en": "Can you gift-wrap it?"
+        },
+        {
+          "de": "Können Sie es mir bitte einpacken?",
+          "en": "Could you wrap it for me, please?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einpacken",
+          "en": "to wrap, to pack"
+        }
+      ]
+    },
+    {
+      "key": "t16",
+      "de": "Wo ist die Kasse?",
+      "en": "Where is the checkout?",
+      "usage": "Ask in a big store. Many supermarkets also have self-checkouts (*Self-Checkout*, *Selbstbedienungskasse*).",
+      "grammar": "*die Kasse* is feminine, Nominativ subject of *ist*. *wo* asks for a position.",
+      "alternatives": [
+        {
+          "de": "Wo kann ich bezahlen?",
+          "en": "Where can I pay?"
+        },
+        {
+          "de": "Wo sind die Kassen?",
+          "en": "Where are the checkouts?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Kasse (-n)",
+          "en": "till, checkout"
+        }
+      ]
+    },
+    {
+      "key": "t17",
+      "de": "Akzeptieren Sie Bargeld?",
+      "en": "Do you accept cash?",
+      "usage": "Useful because some cafés and shops are card-only now. The answer is *Ja, natürlich.* or *Nein, nur Karte.* In speech *Nehmen Sie Bargeld?* is more common.",
+      "grammar": "Yes/no question with the verb first. *akzeptieren* is a regular *-ieren* verb. *das Bargeld* is uncountable, so no article.",
+      "alternatives": [
+        {
+          "de": "Kann ich bar bezahlen?",
+          "en": "Can I pay in cash?"
+        },
+        {
+          "de": "Nehmen Sie auch Bargeld?",
+          "en": "Do you also take cash?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Bargeld",
+          "en": "cash"
+        }
+      ]
+    },
+    {
+      "key": "t18",
+      "de": "Was ist das?",
+      "en": "What is this?",
+      "usage": "Point at a product you do not know, for example at a market or a bakery. The answer is *Das ist ein ...* and often an explanation.",
+      "grammar": "*das* is a demonstrative pronoun that stays the same for every gender and number: *Das ist ein Kürbis.* (m.) / *Das sind Maroni.* (plural); only the verb changes to *sind*.",
+      "alternatives": [
+        {
+          "de": "Was ist das genau?",
+          "en": "What exactly is this?"
+        },
+        {
+          "de": "Wie heißt das?",
+          "en": "What is this called?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "t19",
+      "de": "Gibt es das in Blau?",
+      "en": "Do you have it in blue?",
+      "usage": "Ask for another colour. The assistant answers *Ja, einen Moment, ich schaue nach.* or *Nur noch in Schwarz.*",
+      "grammar": "*es gibt* + Akkusativ. After *in*, colour names are nouns and are capitalised: *in Blau, in Rot*. As adjectives they are small: *eine blaue Jacke*.",
+      "alternatives": [
+        {
+          "de": "Haben Sie das auch in Blau?",
+          "en": "Do you have this in blue too?"
+        },
+        {
+          "de": "Gibt es das auch in einer anderen Farbe?",
+          "en": "Is it available in another colour?"
+        }
+      ],
+      "words": []
+    },
+    {
+      "key": "n01",
+      "de": "Ich suche ein Geschenk für meine Mutter.",
+      "en": "I'm looking for a present for my mother.",
+      "usage": "Tell the shop assistant what you need, for example after *Kann ich Ihnen helfen?* They usually ask back *Woran haben Sie gedacht?* or *Wie viel möchten Sie ausgeben?* At the till you can then ask *Können Sie das als Geschenk einpacken?*",
+      "grammar": "*suchen* takes a direct Akkusativ object: *das Geschenk* is neuter → *ein Geschenk*. *für* always takes the Akkusativ: *die Mutter* is feminine, so the form is *meine* (feminine Akkusativ = Nominativ). German uses the simple Präsens where English says 'I'm looking'.",
+      "alternatives": [
+        {
+          "de": "Ich hätte gern etwas für meine Mutter.",
+          "en": "I'd like something for my mother."
+        },
+        {
+          "de": "Haben Sie eine Idee für ein Geschenk?",
+          "en": "Do you have an idea for a present?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Geschenk (-e)",
+          "en": "present, gift"
+        }
+      ]
+    },
+    {
+      "key": "n02",
+      "de": "Die Hose ist mir zu klein.",
+      "en": "The trousers are too small for me.",
+      "usage": "Say it from the fitting room or to the assistant. They usually answer *Ich bringe Ihnen eine Nummer größer.*",
+      "grammar": "*die Hose* is singular in German (one pair of trousers), so the verb is *ist*, not *sind*. The Dativ *mir* names the person: 'too small for me'. *zu* + adjective = 'too'.",
+      "alternatives": [
+        {
+          "de": "Die Hose passt mir nicht.",
+          "en": "The trousers don't fit me."
+        },
+        {
+          "de": "Haben Sie die Hose eine Nummer größer?",
+          "en": "Do you have the trousers one size bigger?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Hose (-n)",
+          "en": "(pair of) trousers"
+        }
+      ]
+    },
+    {
+      "key": "n03",
+      "de": "Kann ich das umtauschen?",
+      "en": "Can I exchange this?",
+      "usage": "Ask before you buy a present, or when you come back with an item. A typical answer: *Ja, innerhalb von 30 Tagen mit Quittung.* *umtauschen* means exchange for another item; to get money back you say *zurückgeben*.",
+      "grammar": "*umtauschen* is separable: *Ich tausche das um.* After the modal *kann* it stays together at the end. *das* is the Akkusativ object.",
+      "alternatives": [
+        {
+          "de": "Ich möchte das umtauschen.",
+          "en": "I'd like to exchange this."
+        },
+        {
+          "de": "Kann ich das zurückgeben?",
+          "en": "Can I return this?"
+        }
+      ],
+      "words": [
+        {
+          "de": "umtauschen",
+          "en": "to exchange (an item)"
+        }
+      ]
+    },
+    {
+      "key": "n04",
+      "de": "Ich hätte gern 200 Gramm Käse.",
+      "en": "I'd like 200 grams of cheese.",
+      "usage": "Order at the cheese or meat counter (*an der Theke*). The assistant often asks *Darf es etwas mehr sein?* and then *Sonst noch etwas?*",
+      "grammar": "Quantity + substance without a preposition: *200 Gramm Käse* (no ✗ *von*). Masculine and neuter units stay singular after numbers: *200 Gramm, zwei Kilo, drei Liter*. The whole phrase is the Akkusativ object of *hätte*.",
+      "alternatives": [
+        {
+          "de": "Ein halbes Kilo Tomaten, bitte.",
+          "en": "Half a kilo of tomatoes, please."
+        },
+        {
+          "de": "Darf ich 200 Gramm von dem Käse haben?",
+          "en": "May I have 200 grams of that cheese?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Theke (-n)",
+          "en": "(shop) counter"
+        }
+      ]
+    },
+    {
+      "key": "n05",
+      "de": "Haben Sie eine Kundenkarte?",
+      "en": "Do you have a loyalty card?",
+      "usage": "Cashiers in big supermarkets ask this at almost every purchase. In Switzerland they name the card of the chain (Migros: *Cumulus*, Coop: *Supercard*). Answer *Ja, hier.* or *Nein, danke.*",
+      "grammar": "Compound with the linking *-n-*: *der Kunde* + *die Karte* → die Kunde**n**karte (feminine, from *Karte*). Akkusativ feminine → *eine*.",
+      "alternatives": [
+        {
+          "de": "Sammeln Sie Punkte?",
+          "en": "Do you collect points?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Kundenkarte (-n)",
+          "en": "loyalty card"
+        }
+      ]
+    },
+    {
+      "key": "n06",
+      "de": "Bis wann haben Sie heute geöffnet?",
+      "en": "How late are you open today?",
+      "usage": "Ask about closing time; the answer is *Bis 20 Uhr.* Opening hours (*Öffnungszeiten*) are shorter than in many countries, and on Sundays most shops are closed.",
+      "grammar": "*bis wann* asks for the end point. *geöffnet haben* is not a Perfekt here: *geöffnet* works like an adjective ('open'), so *Wir haben geöffnet* means 'we are open'. Colloquial: *offen haben*.",
+      "alternatives": [
+        {
+          "de": "Wann schließen Sie heute?",
+          "en": "When do you close today?"
+        },
+        {
+          "de": "Haben Sie am Samstag geöffnet?",
+          "en": "Are you open on Saturday?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Öffnungszeiten (Pl.)",
+          "en": "opening hours"
+        }
+      ]
+    }
+  ]
+}

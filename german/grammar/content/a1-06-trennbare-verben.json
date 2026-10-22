@@ -1,0 +1,1718 @@
+{
+  "topic_id": "a1-06-trennbare-verben",
+  "level": "A1",
+  "title_de": "Trennbare Verben",
+  "title_en": "Separable verbs",
+  "rule": {
+    "summary": "Many German verbs consist of a **stressed prefix** and a base verb: *auf|stehen, an|rufen, ein|kaufen, mit|kommen*. In a main clause the conjugated stem takes position 2 (or position 1 in yes/no questions and imperatives) and the **prefix goes to the very end** of the clause. The two parts form a bracket (Satzklammer) around the rest of the sentence. When the verb stands at the end of the clause (infinitive, Nebensatz, Partizip II), the two parts come together again: *aufstehen, weil ich aufstehe, aufgestanden*.",
+    "table": "| Satztyp | Position 1 | Position 2 | Mittelfeld | Ende |\n|---|---|---|---|---|\n| Aussage | Ich | steh**e** | um sieben Uhr | **auf** |\n| W-Frage | Wann | komm**st** | du | **an** |\n| Ja/Nein-Frage | Komm**st** | du | heute | **mit** |\n| Imperativ | Mach | bitte | das Fenster | **auf** |\n| Modalverb | Ich | muss | den Termin | **absagen** |\n| Perfekt | Ich | habe | meine Mutter | **angerufen** |\n| Nebensatz | …, weil | ich | jeden Tag früh | **aufstehe** |",
+    "steps": [
+      "Recognise the verb: a separable prefix is stressed (*ÁUF-stehen*) and usually looks like a preposition or adverb: *ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-, los-, fern-, statt-*. The prefixes *be-, emp-, ent-, er-, ge-, miss-, ver-, zer-* are never separable.",
+      "Main clause in the Präsens: conjugate only the base verb (*ich stehe, du fährst, er schläft*) and put it in position 2 (statement, W-question) or position 1 (yes/no question, imperative).",
+      "Put the prefix at the very end of the clause. Objects, pronouns, time and place phrases all stand between the stem and the prefix (Mittelfeld).",
+      "If the verb must stand at the end of the clause, write it as one word: after a modal verb (*Ich muss früh aufstehen.*) and in a Nebensatz (*…, weil ich früh aufstehe.*).",
+      "Perfekt: the Partizip II has *-ge-* between prefix and stem: *an**ge**rufen, ein**ge**kauft, an**ge**kommen*. Inseparable verbs have no *ge-*: *verstanden, bezahlt*.",
+      "Vowel changes of the base verb stay: *fahren → er fährt ab, schlafen → er schläft aus, sehen → er sieht fern, laden → er lädt ein*."
+    ],
+    "pitfalls": [
+      "Not splitting the verb in a main clause: ✗ *Ich aufstehe um sieben.* → ✓ *Ich stehe um sieben auf.*",
+      "Putting the prefix right after the verb, as if it were a preposition: ✗ *Er ruft an seine Mutter.* → ✓ *Er ruft seine Mutter an.*",
+      "Splitting the verb in a Nebensatz: ✗ *…, weil er kommt heute mit.* → ✓ *…, weil er heute mitkommt.*",
+      "Wrong position of *ge-* in the Partizip II: ✗ *geanrufen, angeruft* → ✓ *angerufen*; ✗ *geeinkauft* → ✓ *eingekauft*.",
+      "Treating an inseparable prefix as separable: ✗ *Ich stehe die Frage nicht ver.* → ✓ *Ich verstehe die Frage nicht.*; ✗ *gebezahlt* → ✓ *bezahlt*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich stehe um sieben Uhr {{c1::auf::Präfix}}.",
+      "en": "I get up at seven.",
+      "focus": "Aussagesatz · Präfix am Satzende",
+      "explanation": "The verb is *aufstehen* (to get up), and its stressed prefix *auf-* is separable. In a main clause only the stem is conjugated (*ich stehe*) and stands in position 2. The time phrase *um sieben Uhr* fills the Mittelfeld, and the prefix **auf** closes the clause.",
+      "pattern": "Subjekt + Verbstamm (Pos. 2) + Mittelfeld + **Präfix**",
+      "mistake": {
+        "wrong": "Ich aufstehe um sieben Uhr.",
+        "why": "In a main clause in the Präsens a separable verb must split. Only the stem *stehe* goes to position 2; the prefix *auf* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Ich wache jeden Morgen um halb sechs auf.",
+          "en": "I wake up at half past five every morning."
+        },
+        {
+          "de": "Wir stehen am Sonntag spät auf.",
+          "en": "We get up late on Sunday."
+        }
+      ],
+      "words": [
+        {
+          "de": "aufstehen",
+          "en": "to get up"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wir kaufen heute Abend {{c1::ein::Präfix}}.",
+      "en": "We're going shopping this evening.",
+      "focus": "Aussagesatz · Präfix nach der Zeitangabe",
+      "explanation": "*einkaufen* (to do the shopping) is separable. The stem *kaufen* is conjugated for *wir* and stands in position 2; the prefix **ein** comes last, after the time phrase *heute Abend*. *einkaufen* can stand without an object, while *kaufen* normally needs one (*Wir kaufen Brot.*).",
+      "pattern": "Subjekt + Verbstamm (Pos. 2) + Zeit + **Präfix**",
+      "mistake": {
+        "wrong": "Wir kaufen ein heute Abend.",
+        "why": "The prefix does not stay next to the verb. It goes to the end of the clause, so the time phrase *heute Abend* must come before *ein*."
+      },
+      "examples": [
+        {
+          "de": "Meine Mutter kauft samstags auf dem Markt ein.",
+          "en": "My mother does her shopping at the market on Saturdays."
+        },
+        {
+          "de": "Wo kaufst du normalerweise ein?",
+          "en": "Where do you usually do your shopping?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einkaufen",
+          "en": "to shop, to do the shopping"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er ruft seine Mutter {{c1::an::Präfix}}.",
+      "en": "He's calling his mother.",
+      "focus": "Akkusativobjekt im Mittelfeld",
+      "explanation": "*anrufen* (to phone) takes a direct Akkusativ object: *jemanden anrufen*. The stem *ruft* stands in position 2, the object *seine Mutter* fills the Mittelfeld, and the prefix **an** follows it at the very end.",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Er ruft an seine Mutter.",
+        "why": "Here *an* is not the preposition *an*; it is the prefix of *anrufen*. It must stand at the end, after the object."
+      },
+      "examples": [
+        {
+          "de": "Ich rufe den Arzt an.",
+          "en": "I'm calling the doctor."
+        },
+        {
+          "de": "Wir rufen die Polizei an.",
+          "en": "We're calling the police."
+        }
+      ],
+      "words": [
+        {
+          "de": "anrufen (+ Akk.)",
+          "en": "to call, to phone"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Kommst du heute {{c1::mit::Präfix}}?",
+      "en": "Are you coming along today?",
+      "focus": "Ja/Nein-Frage · Verb auf Position 1",
+      "explanation": "In a yes/no question the conjugated stem *kommst* moves to position 1, and the subject *du* follows. The prefix **mit** still goes to the end of the clause. *mitkommen* means 'to come along (with someone)'; *kommen* alone only means 'to come'.",
+      "pattern": "Verbstamm (Pos. 1) + Subjekt + Mittelfeld + **Präfix**?",
+      "mistake": {
+        "wrong": "Mitkommst du heute?",
+        "why": "The prefix never moves to the front with the verb. Only the stem *kommst* takes position 1; *mit* stays at the end."
+      },
+      "examples": [
+        {
+          "de": "Fährst du morgen mit?",
+          "en": "Are you coming with us tomorrow?"
+        },
+        {
+          "de": "Kommt ihr am Samstag auch mit?",
+          "en": "Are you coming along on Saturday too?"
+        }
+      ],
+      "words": [
+        {
+          "de": "mitkommen",
+          "en": "to come along"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie geht am Wochenende oft {{c1::aus::Präfix}}.",
+      "en": "She often goes out on weekends.",
+      "focus": "Zwei Angaben im Mittelfeld",
+      "explanation": "*ausgehen* means 'to go out' (to a bar, a party, a restaurant). The stem *geht* is in position 2. Two adverbials, *am Wochenende* (time) and *oft* (frequency), fill the Mittelfeld, and the prefix **aus** comes after both of them.",
+      "pattern": "Subjekt + Verbstamm + Zeit + Häufigkeit + **Präfix**",
+      "mistake": {
+        "wrong": "Sie ausgeht am Wochenende oft.",
+        "why": "The full verb *ausgehen* cannot stand in position 2 of a main clause. It splits: *geht … aus*."
+      },
+      "examples": [
+        {
+          "de": "Wir gehen freitags oft zusammen aus.",
+          "en": "We often go out together on Fridays."
+        },
+        {
+          "de": "Gehst du heute Abend aus?",
+          "en": "Are you going out tonight?"
+        }
+      ],
+      "words": [
+        {
+          "de": "ausgehen",
+          "en": "to go out"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir sehen abends {{c1::fern::Präfix}}.",
+      "en": "We watch TV in the evening.",
+      "focus": "Präfix aus einem Adverb",
+      "explanation": "*fernsehen* (to watch TV) has the prefix *fern-* ('far'). The stem *sehen* is conjugated for *wir* in position 2, and **fern** goes to the end. Like *sehen*, the verb changes its vowel in the du/er forms: *du siehst fern, er sieht fern*.",
+      "pattern": "Subjekt + Verbstamm + Zeit + **Präfix**",
+      "mistake": {
+        "wrong": "Wir fernsehen abends.",
+        "why": "*fernsehen* is one word only in the infinitive and at the end of a Nebensatz. In a main clause it splits: *Wir sehen abends fern.*"
+      },
+      "examples": [
+        {
+          "de": "Mein Opa sieht jeden Abend fern.",
+          "en": "My grandpa watches TV every evening."
+        },
+        {
+          "de": "Siehst du oft fern?",
+          "en": "Do you watch TV often?"
+        }
+      ],
+      "words": [
+        {
+          "de": "fernsehen",
+          "en": "to watch TV"
+        },
+        {
+          "de": "abends",
+          "en": "in the evening"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Der Zug fährt um acht Uhr {{c1::ab::Präfix}}.",
+      "en": "The train departs at eight.",
+      "focus": "Aussagesatz · 3. Person Singular",
+      "explanation": "*abfahren* (to depart, to leave) is separable. The base verb *fahren* has the vowel change *a → ä* in the 3rd person singular, so *der Zug* takes *fährt* in position 2. The time phrase follows, and the prefix **ab** closes the clause.",
+      "pattern": "Subjekt + Verbstamm (fährt) + Zeit + **Präfix**",
+      "mistake": {
+        "wrong": "Der Zug abfährt um acht Uhr.",
+        "why": "*abfährt* as one word is only possible at the end of a Nebensatz (*…, dass der Zug um acht Uhr abfährt*). In a main clause the verb splits: *fährt … ab*."
+      },
+      "examples": [
+        {
+          "de": "Der Bus fährt in fünf Minuten ab.",
+          "en": "The bus leaves in five minutes."
+        },
+        {
+          "de": "Unser Flugzeug fliegt um 14 Uhr ab.",
+          "en": "Our plane takes off at 2 p.m."
+        }
+      ],
+      "words": [
+        {
+          "de": "abfahren",
+          "en": "to depart, to leave"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wann kommst du {{c1::an::Präfix}}?",
+      "en": "When are you arriving?",
+      "focus": "W-Frage · Präfix am Ende",
+      "explanation": "In a W-question the question word *wann* is in position 1 and the conjugated stem *kommst* in position 2. The subject *du* follows, and the prefix **an** goes to the end. *ankommen* means 'to arrive'; the place uses *in* + Dativ: *in Berlin ankommen*.",
+      "pattern": "W-Wort + Verbstamm + Subjekt + **Präfix**?",
+      "mistake": {
+        "wrong": "Wann ankommst du?",
+        "why": "In a W-question, too, only the conjugated stem takes position 2. The prefix *an* stays at the end: *Wann kommst du an?*"
+      },
+      "examples": [
+        {
+          "de": "Wann kommt ihr in München an?",
+          "en": "When are you arriving in Munich?"
+        },
+        {
+          "de": "Um wie viel Uhr kommt das Flugzeug an?",
+          "en": "At what time does the plane arrive?"
+        }
+      ],
+      "words": [
+        {
+          "de": "ankommen",
+          "en": "to arrive"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Mach bitte das Fenster {{c1::auf::Präfix}}!",
+      "en": "Please open the window.",
+      "focus": "Imperativ (du) · Verb auf Position 1",
+      "explanation": "This is the du-imperative of *aufmachen* (to open): the stem *mach* stands in position 1, without *du* and without the ending *-st*. *bitte* and the object *das Fenster* stand in the Mittelfeld, and the prefix **auf** goes to the end, as in a statement.",
+      "pattern": "Imperativ (Pos. 1) + bitte + Objekt + **Präfix**!",
+      "mistake": {
+        "wrong": "Aufmach bitte das Fenster!",
+        "why": "The imperative splits too. Only the stem *mach* goes to the front; *auf* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Mach bitte das Licht an!",
+          "en": "Please turn on the light."
+        },
+        {
+          "de": "Mach bitte die Tür auf!",
+          "en": "Please open the door."
+        }
+      ],
+      "words": [
+        {
+          "de": "aufmachen",
+          "en": "to open"
+        }
+      ],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich räume mein Zimmer {{c1::auf::Präfix}}.",
+      "en": "I'm tidying my room.",
+      "focus": "Akkusativobjekt vor dem Präfix",
+      "explanation": "*aufräumen* (to tidy up) takes an Akkusativ object, here *mein Zimmer*. The order is: subject *ich*, stem *räume* in position 2, the object in the Mittelfeld, and **auf** at the end.",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Ich räume auf mein Zimmer.",
+        "why": "The object stands between the stem and the prefix, not after the prefix. The prefix closes the clause: *Ich räume mein Zimmer auf.*"
+      },
+      "examples": [
+        {
+          "de": "Am Samstag räumen wir den Keller auf.",
+          "en": "On Saturday we're tidying up the cellar."
+        },
+        {
+          "de": "Räumst du bitte deinen Schreibtisch auf?",
+          "en": "Will you tidy your desk, please?"
+        }
+      ],
+      "words": [
+        {
+          "de": "aufräumen",
+          "en": "to tidy up"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er macht die Tür leise {{c1::zu::Präfix}}.",
+      "en": "He closes the door quietly.",
+      "focus": "Objekt und Adverb vor dem Präfix",
+      "explanation": "*zumachen* (to close) is the everyday opposite of *aufmachen*. Both the object *die Tür* and the adverb *leise* stand in the Mittelfeld. The prefix **zu** comes after both, at the very end.",
+      "pattern": "Subjekt + Verbstamm + Objekt + Adverb + **Präfix**",
+      "mistake": {
+        "wrong": "Er macht zu die Tür leise.",
+        "why": "The prefix does not follow the verb directly. The object *die Tür* and the adverb *leise* come first, and *zu* closes the clause."
+      },
+      "examples": [
+        {
+          "de": "Machst du bitte das Fenster zu?",
+          "en": "Will you close the window, please?"
+        },
+        {
+          "de": "Die Apotheke macht um 18 Uhr zu.",
+          "en": "The pharmacy closes at 6 p.m."
+        }
+      ],
+      "words": [
+        {
+          "de": "zumachen",
+          "en": "to close"
+        },
+        {
+          "de": "leise",
+          "en": "quietly"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Hör bitte {{c1::auf::Präfix}}!",
+      "en": "Please stop!",
+      "focus": "Imperativ (du) · kurzer Satz",
+      "explanation": "This is the du-imperative of *aufhören* (to stop): the stem *hör* is in position 1, with no pronoun. Even when the Mittelfeld contains only *bitte*, the prefix **auf** still comes last.",
+      "pattern": "Imperativ (Pos. 1) + bitte + **Präfix**!",
+      "mistake": {
+        "wrong": "Aufhör bitte!",
+        "why": "The prefix of a separable verb never goes to the front with the imperative. Only *hör* stands in position 1; *auf* closes the sentence."
+      },
+      "examples": [
+        {
+          "de": "Hört jetzt bitte auf!",
+          "en": "Please stop now! (to several people)"
+        },
+        {
+          "de": "Hören Sie bitte damit auf!",
+          "en": "Please stop that! (formal)"
+        }
+      ],
+      "words": [
+        {
+          "de": "aufhören",
+          "en": "to stop"
+        }
+      ],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich ziehe meine Jacke {{c1::an::Präfix}}.",
+      "en": "I'm putting on my jacket.",
+      "focus": "Kleidung · Objekt vor dem Präfix",
+      "explanation": "*anziehen* means 'to put on' (clothes). The piece of clothing is the Akkusativ object and stands between the stem *ziehe* and the prefix **an**. The opposite is *ausziehen* (to take off).",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Ich ziehe an meine Jacke.",
+        "why": "*an* is the prefix of *anziehen*, not a preposition before *meine Jacke*. It goes to the end, after the object."
+      },
+      "examples": [
+        {
+          "de": "Zieh bitte warme Socken an!",
+          "en": "Please put on warm socks."
+        },
+        {
+          "de": "Im Winter ziehe ich immer einen Schal an.",
+          "en": "In winter I always put on a scarf."
+        }
+      ],
+      "words": [
+        {
+          "de": "anziehen",
+          "en": "to put on (clothes)"
+        },
+        {
+          "de": "die Jacke (-n)",
+          "en": "jacket"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie zieht den Mantel {{c1::aus::Präfix}}.",
+      "en": "She's taking off her coat.",
+      "focus": "Kleidung · Gegenteil von *anziehen*",
+      "explanation": "*ausziehen* (to take off) is the opposite of *anziehen*. *zieht* is in position 2, the Akkusativ object *den Mantel* in the Mittelfeld, and **aus** at the end. German often uses the article (*den Mantel*) where English uses a possessive (*her coat*).",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Sie auszieht den Mantel.",
+        "why": "The verb with its prefix cannot stand together in position 2. In a main clause it splits: *zieht … aus*."
+      },
+      "examples": [
+        {
+          "de": "Bitte zieht hier eure Schuhe aus.",
+          "en": "Please take off your shoes here. (to several people)"
+        },
+        {
+          "de": "Er zieht die nassen Socken aus.",
+          "en": "He takes off the wet socks."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausziehen",
+          "en": "to take off (clothes)"
+        },
+        {
+          "de": "der Mantel (¨)",
+          "en": "coat"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er steigt in den Bus {{c1::ein::Präfix}}.",
+      "en": "He gets on the bus.",
+      "focus": "Präpositionalgruppe vor dem Präfix",
+      "explanation": "*einsteigen* (to get on/into a vehicle) is used with *in* + Akkusativ, because it is a movement into the bus (*wohin?*). The phrase *in den Bus* stands in the Mittelfeld, and the prefix **ein** comes after it at the end.",
+      "pattern": "Subjekt + Verbstamm + in + Akk. + **Präfix**",
+      "mistake": {
+        "wrong": "Er einsteigt in den Bus.",
+        "why": "*einsteigt* is not possible in a main clause. The stem *steigt* takes position 2 and *ein* goes to the end: *Er steigt in den Bus ein.*"
+      },
+      "examples": [
+        {
+          "de": "Bitte steigen Sie jetzt ein.",
+          "en": "Please get on now."
+        },
+        {
+          "de": "Wir steigen am Marktplatz in die Straßenbahn ein.",
+          "en": "We get on the tram at the market square."
+        }
+      ],
+      "words": [
+        {
+          "de": "einsteigen",
+          "en": "to get on (a bus, train)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir steigen am Bahnhof {{c1::aus::Präfix}}.",
+      "en": "We get off at the station.",
+      "focus": "Ortsangabe (wo?) vor dem Präfix",
+      "explanation": "*aussteigen* (to get off) is the opposite of *einsteigen*. The place *am Bahnhof* (= *an dem Bahnhof*, Dativ, *wo?*) is in the Mittelfeld, and the prefix **aus** closes the clause.",
+      "pattern": "Subjekt + Verbstamm + Ort + **Präfix**",
+      "mistake": {
+        "wrong": "Wir aussteigen am Bahnhof.",
+        "why": "The infinitive form *aussteigen* only stands at the end of a clause. As the finite verb in position 2 it splits: *Wir steigen … aus.*"
+      },
+      "examples": [
+        {
+          "de": "Wo steigst du aus?",
+          "en": "Where are you getting off?"
+        },
+        {
+          "de": "Ich steige an der nächsten Haltestelle aus.",
+          "en": "I'm getting off at the next stop."
+        }
+      ],
+      "words": [
+        {
+          "de": "aussteigen",
+          "en": "to get off (a bus, train)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Steigen Sie bitte hier {{c1::um::Präfix}}!",
+      "en": "Please change trains here.",
+      "focus": "Imperativ (Sie) · Präfix am Ende",
+      "explanation": "In the formal imperative the verb (same form as the infinitive without the prefix: *steigen*) stands in position 1, followed by *Sie*. *umsteigen* means 'to change' (trains, buses), and its prefix **um** goes to the end, after *bitte hier*.",
+      "pattern": "Verbstamm + Sie + Mittelfeld + **Präfix**!",
+      "mistake": {
+        "wrong": "Umsteigen Sie bitte hier!",
+        "why": "The Sie-imperative also splits the verb. Only *steigen* goes before *Sie*; the prefix *um* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Rufen Sie mich bitte morgen an!",
+          "en": "Please call me tomorrow."
+        },
+        {
+          "de": "Machen Sie bitte die Tür zu!",
+          "en": "Please close the door."
+        }
+      ],
+      "words": [
+        {
+          "de": "umsteigen",
+          "en": "to change (trains, buses)"
+        }
+      ],
+      "production_cue": "(formal Sie, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich bringe das Geschenk {{c1::mit::Präfix}}.",
+      "en": "I'm bringing the gift along.",
+      "focus": "Präfix sieht aus wie eine Präposition",
+      "explanation": "*mitbringen* means 'to bring (something) along', for example to a party or a visit. The Akkusativ object *das Geschenk* stands in the Mittelfeld, and **mit** goes to the end.",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Ich bringe mit das Geschenk.",
+        "why": "Here *mit* is not the preposition *mit* (+ Dativ); it is the prefix of *mitbringen*. It must stand at the end, after the object."
+      },
+      "examples": [
+        {
+          "de": "Bringst du einen Salat mit?",
+          "en": "Are you bringing a salad?"
+        },
+        {
+          "de": "Sie bringt immer Blumen mit.",
+          "en": "She always brings flowers."
+        }
+      ],
+      "words": [
+        {
+          "de": "mitbringen",
+          "en": "to bring along"
+        },
+        {
+          "de": "das Geschenk (-e)",
+          "en": "gift, present"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Schalte das Licht bitte {{c1::aus::Präfix}}!",
+      "en": "Please turn off the light.",
+      "focus": "Imperativ (du) · Gerät ausmachen",
+      "explanation": "This is the du-imperative of *ausschalten* (to switch off). Verbs with a stem in *-t* usually keep the *-e* in the imperative: *schalte* (in speech also *schalt*). The object *das Licht* and *bitte* stand in the Mittelfeld, and **aus** goes to the end. The opposite is *einschalten* (to switch on).",
+      "pattern": "Imperativ (Pos. 1) + Objekt + bitte + **Präfix**!",
+      "mistake": {
+        "wrong": "Schalte aus das Licht bitte!",
+        "why": "The prefix must not stand right after the imperative. It goes to the very end, after *das Licht bitte*."
+      },
+      "examples": [
+        {
+          "de": "Schalte bitte den Fernseher ein!",
+          "en": "Please switch on the TV."
+        },
+        {
+          "de": "Mach bitte die Heizung an!",
+          "en": "Please turn on the heating."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausschalten",
+          "en": "to switch off"
+        }
+      ],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie schreibt das Wort {{c1::auf::Präfix}}.",
+      "en": "She writes the word down.",
+      "focus": "Präfix verändert die Bedeutung",
+      "explanation": "*aufschreiben* (to write down, to note) is separable; *schreiben* alone just means 'to write'. *schreibt* stands in position 2, the object *das Wort* in the Mittelfeld, and **auf** at the end, much like English *write … down*.",
+      "pattern": "Subjekt + Verbstamm + Akk.-Objekt + **Präfix**",
+      "mistake": {
+        "wrong": "Sie schreibt auf das Wort.",
+        "why": "The prefix does not stand before the object. As in English *write it down*, it comes after the object, and in German it must close the clause."
+      },
+      "examples": [
+        {
+          "de": "Ich schreibe deine Telefonnummer auf.",
+          "en": "I'll write down your phone number."
+        },
+        {
+          "de": "Schreibt bitte die neuen Wörter auf!",
+          "en": "Please write down the new words. (to several people)"
+        }
+      ],
+      "words": [
+        {
+          "de": "aufschreiben",
+          "en": "to write down"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Der Film {{c1::fängt::anfangen}} um acht Uhr an.",
+      "en": "The film starts at eight o'clock.",
+      "focus": "Verbstamm auf Position 2 · Vokalwechsel",
+      "explanation": "*anfangen* (to begin, to start) is separable and has a vowel change *a → ä* in the du/er forms (*du fängst an, er fängt an*). *der Film* is 3rd person singular → **fängt** in position 2, and *an* closes the clause.",
+      "pattern": "Subjekt + **Verbstamm** (er-Form) + Zeit + Präfix",
+      "mistake": {
+        "wrong": "Der Film anfängt um acht Uhr.",
+        "why": "*anfängt* is the form for the end of a Nebensatz (*…, wann der Film anfängt*). In a main clause the verb splits: *fängt … an*."
+      },
+      "examples": [
+        {
+          "de": "Der Kurs fängt am Montag an.",
+          "en": "The course starts on Monday."
+        },
+        {
+          "de": "Wann fängt das Konzert an?",
+          "en": "When does the concert start?"
+        }
+      ],
+      "words": [
+        {
+          "de": "anfangen",
+          "en": "to begin, to start"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Ich {{c1::stehe::aufstehen}} morgens um sechs auf.",
+      "en": "I get up at six in the morning.",
+      "focus": "Satzklammer · ich-Form",
+      "explanation": "Only the base verb of *aufstehen* is conjugated: *ich* → **stehe**. It takes position 2, two time expressions (*morgens*, *um sechs*) follow in the Mittelfeld, and *auf* stays at the end. The stem and the prefix form the Satzklammer (sentence bracket).",
+      "pattern": "Subjekt + **Verbstamm** + Zeit + Zeit + Präfix",
+      "mistake": {
+        "wrong": "Ich stehe auf morgens um sechs.",
+        "why": "The prefix does not follow the verb directly. It closes the bracket after the time expressions: *Ich stehe morgens um sechs auf.*"
+      },
+      "examples": [
+        {
+          "de": "Wir stehen am Wochenende erst um neun auf.",
+          "en": "At the weekend we don't get up until nine."
+        },
+        {
+          "de": "Meine Tochter steht jeden Tag sehr früh auf.",
+          "en": "My daughter gets up very early every day."
+        }
+      ],
+      "words": [
+        {
+          "de": "morgens",
+          "en": "in the morning"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Rufst::anrufen}} du mich später an?",
+      "en": "Will you call me later?",
+      "focus": "Ja/Nein-Frage · du-Form",
+      "explanation": "In a yes/no question the conjugated stem goes to position 1. *anrufen* with *du* → **rufst**. The pronoun *mich* (Akkusativ) and *später* stand in the Mittelfeld, and *an* comes at the end. German often uses the Präsens for the future when a time word like *später* is present.",
+      "pattern": "**Verbstamm** (Pos. 1) + Subjekt + Pronomen + Zeit + Präfix?",
+      "mistake": {
+        "wrong": "Anrufst du mich später?",
+        "why": "The prefix does not go to the front with the verb. Only *rufst* takes position 1; *an* stays at the end."
+      },
+      "examples": [
+        {
+          "de": "Rufst du deine Oma heute noch an?",
+          "en": "Are you going to call your grandma today?"
+        },
+        {
+          "de": "Rufen Sie mich morgen zurück?",
+          "en": "Will you call me back tomorrow?"
+        }
+      ],
+      "words": [
+        {
+          "de": "später",
+          "en": "later"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Wir {{c1::räumen::aufräumen}} das Wohnzimmer auf.",
+      "en": "We are tidying up the living room.",
+      "focus": "Satzklammer · wir-Form",
+      "explanation": "*aufräumen* with *wir* → **räumen**, which is the stem + *-en*, the same form as the infinitive without the prefix. The Akkusativ object *das Wohnzimmer* stands inside the bracket, before *auf*.",
+      "pattern": "Subjekt + **Verbstamm** + Akk.-Objekt + Präfix",
+      "mistake": {
+        "wrong": "Wir aufräumen das Wohnzimmer.",
+        "why": "The wir-form looks like the infinitive, but the prefix cannot stay attached in position 2. It goes to the end: *Wir räumen das Wohnzimmer auf.*"
+      },
+      "examples": [
+        {
+          "de": "Die Kinder räumen ihre Spielsachen auf.",
+          "en": "The children are tidying up their toys."
+        },
+        {
+          "de": "Wann räumst du endlich die Küche auf?",
+          "en": "When are you finally going to tidy the kitchen?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Wohnzimmer (-)",
+          "en": "living room"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Sie {{c1::zieht::umziehen}} nächsten Monat um.",
+      "en": "She is moving house next month.",
+      "focus": "Satzklammer · Zeitangabe ohne Präposition",
+      "explanation": "*umziehen* (to move house) with *sie* (she) → **zieht** in position 2; *um* goes to the end. *nächsten Monat* is a time expression in the Akkusativ without a preposition. Note: *sich umziehen* (reflexive) means 'to change clothes'.",
+      "pattern": "Subjekt + **Verbstamm** + Zeit (Akk.) + Präfix",
+      "mistake": {
+        "wrong": "Sie umzieht nächsten Monat.",
+        "why": "*umziehen* is one word only in the infinitive. In a main clause it splits: *Sie zieht nächsten Monat um.*"
+      },
+      "examples": [
+        {
+          "de": "Wir ziehen im Sommer nach Hamburg um.",
+          "en": "We're moving to Hamburg in the summer."
+        },
+        {
+          "de": "Wann zieht ihr um?",
+          "en": "When are you moving?"
+        }
+      ],
+      "words": [
+        {
+          "de": "umziehen",
+          "en": "to move (house)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Der Bus {{c1::kommt::ankommen}} in zehn Minuten an.",
+      "en": "The bus arrives in ten minutes.",
+      "focus": "Präfix verändert die Bedeutung · er-Form",
+      "explanation": "*ankommen* (to arrive) is not the same as *kommen* (to come): the prefix carries part of the meaning. *der Bus* is 3rd person singular → **kommt** in position 2. The time phrase *in zehn Minuten* stands in the Mittelfeld, and *an* closes the clause.",
+      "pattern": "Subjekt + **Verbstamm** + Zeit + Präfix",
+      "mistake": {
+        "wrong": "Der Bus ankommt in zehn Minuten.",
+        "why": "The finite verb in position 2 cannot carry the prefix. *kommt* stands in position 2, and *an* goes to the end, after *in zehn Minuten*."
+      },
+      "examples": [
+        {
+          "de": "Das Paket kommt morgen an.",
+          "en": "The parcel arrives tomorrow."
+        },
+        {
+          "de": "Wir kommen um 18 Uhr in Wien an.",
+          "en": "We arrive in Vienna at 6 p.m."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Bitte {{c1::machen::ausmachen}} Sie das Licht aus.",
+      "en": "Please switch off the light.",
+      "focus": "Imperativ (Sie) · *bitte* am Anfang",
+      "explanation": "The formal imperative of *ausmachen* is **machen** + *Sie*: the verb form is the same as the infinitive without the prefix. *bitte* can stand before the verb without changing the word order. The prefix *aus* still closes the clause.",
+      "pattern": "Bitte + **Verbstamm** + Sie + Objekt + Präfix",
+      "mistake": {
+        "wrong": "Bitte ausmachen Sie das Licht.",
+        "why": "In the Sie-imperative the verb also splits. Only *machen* stands before *Sie*; *aus* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Bitte rufen Sie später noch einmal an.",
+          "en": "Please call again later."
+        },
+        {
+          "de": "Bitte füllen Sie das Formular aus.",
+          "en": "Please fill in the form."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausmachen",
+          "en": "to switch off (light, device)"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich {{c1::kaufe::einkaufen}} noch Brot ein.",
+      "en": "I'm going to buy some bread as well.",
+      "focus": "Satzklammer · Objekt im Mittelfeld",
+      "explanation": "*einkaufen* with *ich* → **kaufe** in position 2. *noch* and the object *Brot* stand in the Mittelfeld, and *ein* comes at the end. *einkaufen* is the normal verb for doing the shopping; with an object (*Brot einkaufen*) it means buying something as part of the shopping.",
+      "pattern": "Subjekt + **Verbstamm** + noch + Objekt + Präfix",
+      "mistake": {
+        "wrong": "Ich einkaufe noch Brot.",
+        "why": "In a main clause the prefix cannot stay on the verb in position 2. It goes to the end: *Ich kaufe noch Brot ein.*"
+      },
+      "examples": [
+        {
+          "de": "Er kauft für die Party Getränke ein.",
+          "en": "He's buying drinks for the party."
+        },
+        {
+          "de": "Kaufst du heute Obst ein?",
+          "en": "Are you buying fruit today?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Brot (-e)",
+          "en": "bread"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Wann {{c1::fährt::abfahren}} der Zug ab?",
+      "en": "When does the train depart?",
+      "focus": "W-Frage · Vokalwechsel",
+      "explanation": "In a W-question *wann* is in position 1, the verb in position 2, then the subject *der Zug*. *fahren* has the vowel change *a → ä* in the 3rd person singular, and the separable verb keeps it: **fährt** … *ab*.",
+      "pattern": "W-Wort + **Verbstamm** + Subjekt + Präfix?",
+      "mistake": {
+        "wrong": "Wann abfährt der Zug?",
+        "why": "Also in a W-question the prefix goes to the end. Only *fährt* takes position 2."
+      },
+      "examples": [
+        {
+          "de": "Wann fährt dein Bus ab?",
+          "en": "When does your bus leave?"
+        },
+        {
+          "de": "Von welchem Gleis fährt der Zug nach Bonn ab?",
+          "en": "Which platform does the train to Bonn leave from?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Er {{c1::zieht::anziehen}} seine Jacke an.",
+      "en": "He puts on his jacket.",
+      "focus": "Kleidung · er-Form",
+      "explanation": "With *er* the base verb of *anziehen* takes *-t*: **zieht**. Three different verbs share the stem *ziehen*: *anziehen* (put on), *ausziehen* (take off), *sich umziehen* (change clothes). The prefix decides the meaning, so it must appear at the end.",
+      "pattern": "Subjekt + **Verbstamm** + Akk.-Objekt + Präfix",
+      "mistake": {
+        "wrong": "Er anzieht seine Jacke.",
+        "why": "In a main clause only the conjugated base verb *zieht* stands in position 2. The prefix *an* cannot stay on it; it goes to the end, after the object."
+      },
+      "examples": [
+        {
+          "de": "Er zieht heute einen Anzug an.",
+          "en": "He's putting on a suit today."
+        },
+        {
+          "de": "Sie zieht ihre neuen Schuhe an.",
+          "en": "She is putting on her new shoes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich muss den Termin {{c1::absagen::ab + sagen}}.",
+      "en": "I have to cancel the appointment.",
+      "focus": "Modalverb + Infinitiv am Ende",
+      "explanation": "With a modal verb (*muss*) the modal takes position 2 and the main verb goes to the end as an infinitive. In the infinitive the two parts of a separable verb are written as one word: **absagen**.",
+      "pattern": "Subjekt + Modalverb + Objekt + **Präfix+Verb** (Infinitiv)",
+      "mistake": {
+        "wrong": "Ich muss den Termin sagen ab.",
+        "why": "The infinitive at the end is not split. Prefix and verb stay together: *absagen*."
+      },
+      "examples": [
+        {
+          "de": "Kannst du mich morgen vom Bahnhof abholen?",
+          "en": "Can you pick me up from the station tomorrow?"
+        },
+        {
+          "de": "Ich möchte heute Abend fernsehen.",
+          "en": "I'd like to watch TV this evening."
+        }
+      ],
+      "words": [
+        {
+          "de": "absagen",
+          "en": "to cancel"
+        },
+        {
+          "de": "der Termin (-e)",
+          "en": "appointment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "{{c1::Steigen::umsteigen}} Sie am Hauptbahnhof um.",
+      "en": "Change trains at the main station.",
+      "focus": "Imperativ (Sie) · Verb auf Position 1",
+      "explanation": "In the Sie-imperative the verb comes first and *Sie* follows. The verb form is the same as the infinitive without the prefix: **Steigen**. The word order is the same as in a yes/no question; only the intonation and the context show that it is an instruction. *um* closes the clause.",
+      "pattern": "**Verbstamm** + Sie + Ort + Präfix",
+      "mistake": {
+        "wrong": "Umsteigen Sie am Hauptbahnhof.",
+        "why": "The Sie-imperative splits the verb like a statement does. *Steigen* goes before *Sie*, and *um* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Steigen Sie bitte an der nächsten Haltestelle aus.",
+          "en": "Please get off at the next stop."
+        },
+        {
+          "de": "Steigen Sie hier in die Linie 5 ein.",
+          "en": "Get on line 5 here."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hauptbahnhof (¨-e)",
+          "en": "main station"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie {{c1::hört::aufhören}} nie mit dem Reden auf.",
+      "en": "She never stops talking.",
+      "focus": "Satzklammer · Präpositionalobjekt",
+      "explanation": "*aufhören* with *sie* (she) → **hört**. The activity you stop is introduced by *mit* + Dativ: *mit dem Reden* (*das Reden* is a nominalised infinitive, neuter). *nie* and the prepositional phrase stand in the Mittelfeld, and *auf* closes the clause.",
+      "pattern": "Subjekt + **Verbstamm** + nie + mit + Dat. + Präfix",
+      "mistake": {
+        "wrong": "Sie aufhört nie mit dem Reden.",
+        "why": "The prefix *auf* cannot stay on the finite verb in a main clause. It goes to the end: *Sie hört nie mit dem Reden auf.*"
+      },
+      "examples": [
+        {
+          "de": "Er hört um fünf Uhr mit der Arbeit auf.",
+          "en": "He stops work at five o'clock."
+        },
+        {
+          "de": "Hörst du bitte mit dem Lärm auf?",
+          "en": "Will you please stop making that noise?"
+        }
+      ],
+      "words": [
+        {
+          "de": "aufhören mit (+ Dat.)",
+          "en": "to stop (doing something)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir {{c1::laden::einladen}} unsere Nachbarn ein.",
+      "en": "We are inviting our neighbours.",
+      "focus": "Satzklammer · wir-Form · starkes Verb",
+      "explanation": "*einladen* (to invite) with *wir* → **laden**. The vowel change *a → ä* appears only in the du/er forms (*du lädst ein, er lädt ein*); with *wir* the stem stays regular. The Akkusativ object *unsere Nachbarn* stands before the prefix *ein*.",
+      "pattern": "Subjekt + **Verbstamm** + Akk.-Objekt + Präfix",
+      "mistake": {
+        "wrong": "Wir läden unsere Nachbarn ein.",
+        "why": "The umlaut *ä* is only used for *du* and *er/sie/es*. With *wir* the form is *laden*: *Wir laden unsere Nachbarn ein.*"
+      },
+      "examples": [
+        {
+          "de": "Er lädt seine Kollegen zum Essen ein.",
+          "en": "He's inviting his colleagues for a meal."
+        },
+        {
+          "de": "Lädst du auch Tom ein?",
+          "en": "Are you inviting Tom too?"
+        }
+      ],
+      "words": [
+        {
+          "de": "einladen",
+          "en": "to invite"
+        },
+        {
+          "de": "der Nachbar (-n)",
+          "en": "neighbour"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Das Konzert {{c1::findet::stattfinden}} im Park statt.",
+      "en": "The concert takes place in the park.",
+      "focus": "Satzklammer · Ereignis als Subjekt",
+      "explanation": "*stattfinden* (to take place) is separable: *statt* is the prefix. The subject is an event (*das Konzert*), 3rd person singular → **findet** in position 2, and *statt* at the end. Only events (a concert, a meeting, a course) can be the subject of *stattfinden*, never people.",
+      "pattern": "Ereignis + **Verbstamm** + Ort + Präfix",
+      "mistake": {
+        "wrong": "Das Konzert stattfindet im Park.",
+        "why": "Even a less obvious prefix like *statt* splits off in a main clause: *findet … statt*."
+      },
+      "examples": [
+        {
+          "de": "Der Deutschkurs findet im Raum 204 statt.",
+          "en": "The German course takes place in room 204."
+        },
+        {
+          "de": "Wann findet die Party statt?",
+          "en": "When is the party taking place?"
+        }
+      ],
+      "words": [
+        {
+          "de": "stattfinden",
+          "en": "to take place"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Ich {{c1::schlage::vorschlagen}} einen Kompromiss vor.",
+      "en": "I suggest a compromise.",
+      "focus": "Satzklammer · ich-Form · starkes Verb",
+      "explanation": "*vorschlagen* (to suggest) with *ich* → **schlage** in position 2. The Akkusativ object *einen Kompromiss* is in the Mittelfeld, and *vor* goes to the end. The du/er forms have *a → ä*: *du schlägst vor, er schlägt vor*.",
+      "pattern": "Subjekt + **Verbstamm** + Akk.-Objekt + Präfix",
+      "mistake": {
+        "wrong": "Ich vorschlage einen Kompromiss.",
+        "why": "*vorschlagen* is separable (stress on *VOR*), so it splits in a main clause: *Ich schlage einen Kompromiss vor.*"
+      },
+      "examples": [
+        {
+          "de": "Was schlägst du vor?",
+          "en": "What do you suggest?"
+        },
+        {
+          "de": "Der Lehrer schlägt einen neuen Termin vor.",
+          "en": "The teacher suggests a new date."
+        }
+      ],
+      "words": [
+        {
+          "de": "vorschlagen",
+          "en": "to suggest"
+        },
+        {
+          "de": "der Kompromiss (-e)",
+          "en": "compromise"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Am Sonntag {{c1::schläft::ausschlafen}} er lange aus.",
+      "en": "On Sunday he sleeps in.",
+      "focus": "Inversion · Verb auf Position 2 · er-Form",
+      "explanation": "The time phrase *am Sonntag* is in position 1, so the verb follows in position 2 and the subject *er* comes after it (inversion). *ausschlafen* keeps the vowel change of *schlafen* in the 3rd person: **schläft** … *aus*.",
+      "pattern": "Zeit (Pos. 1) + **Verbstamm** + Subjekt + Mittelfeld + Präfix",
+      "mistake": {
+        "wrong": "Am Sonntag er schläft lange aus.",
+        "why": "The finite verb must be in position 2. After *am Sonntag* the verb comes first, then the subject: *Am Sonntag schläft er lange aus.*"
+      },
+      "examples": [
+        {
+          "de": "Heute Abend sieht er lange fern.",
+          "en": "Tonight he's watching TV for a long time."
+        },
+        {
+          "de": "Morgen früh fährt sie mit dem Auto los.",
+          "en": "Tomorrow morning she's setting off by car."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausschlafen",
+          "en": "to sleep in, to have a lie-in"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich hole dich am Samstag um acht Uhr am Bahnhof {{c1::ab::Präfix}}.",
+      "en": "I'll pick you up at the station at eight on Saturday.",
+      "focus": "Satzklammer · langes Mittelfeld",
+      "explanation": "*abholen* means 'to pick up, to collect (someone/something)'. The bracket can be wide: the pronoun *dich*, the time (*am Samstag um acht Uhr*) and the place (*am Bahnhof*) all stand in the Mittelfeld, and **ab** still waits until the very end. The usual order inside is pronoun → time → place.",
+      "pattern": "Subjekt + Verbstamm + Pronomen + Zeit + Ort + **Präfix**",
+      "mistake": {
+        "wrong": "Ich hole dich ab am Samstag um acht Uhr am Bahnhof.",
+        "why": "In standard German the prefix closes the clause. It cannot stand before the time and place phrases."
+      },
+      "examples": [
+        {
+          "de": "Wir holen die Kinder heute um vier Uhr von der Schule ab.",
+          "en": "We're picking the children up from school at four today."
+        },
+        {
+          "de": "Er ruft seine Eltern jeden Sonntagabend aus Kanada an.",
+          "en": "He calls his parents from Canada every Sunday evening."
+        }
+      ],
+      "words": [
+        {
+          "de": "abholen",
+          "en": "to pick up, to collect"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich kann heute leider nicht {{c1::mitkommen::mit + kommen}}.",
+      "en": "Unfortunately I can't come along today.",
+      "focus": "Modalverb + Infinitiv am Ende",
+      "explanation": "*kann* is the finite modal verb in position 2. The main verb goes to the end as an infinitive, and in the infinitive a separable verb is one word: **mitkommen**. *nicht* stands before the infinitive at the end.",
+      "pattern": "Subjekt + Modalverb + Mittelfeld + nicht + **Präfix+Verb**",
+      "mistake": {
+        "wrong": "Ich kann heute leider nicht kommen mit.",
+        "why": "After a modal verb the separable verb is not split. *mit* and *kommen* stand together at the end: *mitkommen*."
+      },
+      "examples": [
+        {
+          "de": "Willst du morgen mitfahren?",
+          "en": "Do you want to come along tomorrow?"
+        },
+        {
+          "de": "Wir müssen um sechs Uhr aufstehen.",
+          "en": "We have to get up at six."
+        }
+      ],
+      "words": [
+        {
+          "de": "leider",
+          "en": "unfortunately"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der Zug ist pünktlich {{c1::angekommen::ankommen → Partizip II}}.",
+      "en": "The train arrived on time.",
+      "focus": "Perfekt mit *sein* · Partizip II",
+      "explanation": "*ankommen* is a verb of movement (change of place), so the Perfekt uses *sein*: *ist … angekommen*. In the Partizip II of a separable verb, *-ge-* goes between prefix and stem: an + ge + kommen → **angekommen**. The participle stands at the end of the clause.",
+      "pattern": "Subjekt + ist + Mittelfeld + **Präfix-ge-Stamm-en**",
+      "mistake": {
+        "wrong": "Der Zug ist pünktlich geankommen.",
+        "why": "*ge-* is never put before the prefix. It goes between prefix and stem: *an-ge-kommen*."
+      },
+      "examples": [
+        {
+          "de": "Wir sind um Mitternacht in Rom angekommen.",
+          "en": "We arrived in Rome at midnight."
+        },
+        {
+          "de": "Seid ihr gut zu Hause angekommen?",
+          "en": "Did you get home safely?"
+        }
+      ],
+      "words": [
+        {
+          "de": "pünktlich",
+          "en": "on time"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Hast du schon {{c1::eingekauft::einkaufen → Partizip II}}?",
+      "en": "Have you done the shopping yet?",
+      "focus": "Perfekt mit *haben* · schwaches Verb",
+      "explanation": "*einkaufen* is a regular (weak) verb, so the Partizip II is ein + ge + kauf + t → **eingekauft**. The auxiliary *hast* is in position 1 (yes/no question), and the Partizip II stands at the end, where the prefix would stand in the Präsens.",
+      "pattern": "Hast + Subjekt + schon + **Präfix-ge-Stamm-t**?",
+      "mistake": {
+        "wrong": "Hast du schon geeinkauft?",
+        "why": "With a separable verb *ge-* does not stand at the very beginning. It goes after the prefix: *ein-ge-kauft*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe gestern das ganze Haus aufgeräumt.",
+          "en": "I tidied the whole house yesterday."
+        },
+        {
+          "de": "Habt ihr den Fernseher ausgeschaltet?",
+          "en": "Did you switch off the TV?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ich bin müde, weil ich jeden Tag um fünf Uhr {{c1::aufstehe::aufstehen}}.",
+      "en": "I'm tired because I get up at five every day.",
+      "focus": "Nebensatz mit *weil* · Verb am Ende",
+      "explanation": "*weil* introduces a Nebensatz, and in a Nebensatz the conjugated verb goes to the end. There the prefix and the stem meet again and are written as one word: **aufstehe**. The ending *-e* still agrees with *ich*.",
+      "pattern": "…, weil + Subjekt + Mittelfeld + **Präfix+Verbstamm-Endung**",
+      "mistake": {
+        "wrong": "Ich bin müde, weil ich stehe jeden Tag um fünf Uhr auf.",
+        "why": "In a *weil*-clause the verb does not stand in position 2. The whole verb goes to the end as one word: *…, weil ich jeden Tag um fünf Uhr aufstehe.*"
+      },
+      "examples": [
+        {
+          "de": "Sie ist glücklich, weil ihre Schwester heute ankommt.",
+          "en": "She is happy because her sister arrives today."
+        },
+        {
+          "de": "Wir bleiben zu Hause, weil wir heute Abend fernsehen.",
+          "en": "We're staying at home because we're watching TV tonight."
+        }
+      ],
+      "words": [
+        {
+          "de": "müde",
+          "en": "tired"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich glaube, dass der Bus gleich {{c1::abfährt::abfahren}}.",
+      "en": "I think the bus is about to leave.",
+      "focus": "Nebensatz mit *dass* · er-Form",
+      "explanation": "*dass* introduces a Nebensatz, so the finite verb goes to the end. *abfahren* comes together again as one word, and the 3rd person singular keeps the vowel change: ab + fährt → **abfährt**.",
+      "pattern": "…, dass + Subjekt + Mittelfeld + **Präfix+Verbstamm-Endung**",
+      "mistake": {
+        "wrong": "Ich glaube, dass der Bus fährt gleich ab.",
+        "why": "After *dass* the verb is not in position 2. It goes to the end, and the prefix is attached to it: *…, dass der Bus gleich abfährt.*"
+      },
+      "examples": [
+        {
+          "de": "Ich weiß, dass du morgen umziehst.",
+          "en": "I know that you're moving tomorrow."
+        },
+        {
+          "de": "Er sagt, dass er heute nicht mitkommt.",
+          "en": "He says he isn't coming along today."
+        }
+      ],
+      "words": [
+        {
+          "de": "gleich",
+          "en": "in a moment, right away"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Mein Opa {{c1::erzählt::erzählen}} den Kindern eine Geschichte.",
+      "en": "My grandpa tells the children a story.",
+      "focus": "Untrennbares Präfix · Position 2",
+      "explanation": "*erzählen* looks like *zählen* + prefix, but *er-* is an inseparable prefix. Inseparable prefixes (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*) are never stressed and never split, so the whole verb **erzählt** stays in position 2.",
+      "pattern": "Subjekt + **untrennbares Verb** (Pos. 2) + Dativ + Akkusativ",
+      "mistake": {
+        "wrong": "Mein Opa zählt den Kindern eine Geschichte er.",
+        "why": "*er-* is not a separable prefix. The stress is on the stem (*er-ZÄH-len*), and the verb always stays together."
+      },
+      "examples": [
+        {
+          "de": "Er bezahlt heute das Essen.",
+          "en": "He's paying for the meal today."
+        },
+        {
+          "de": "Wir besuchen am Sonntag unsere Großeltern.",
+          "en": "We're visiting our grandparents on Sunday."
+        }
+      ],
+      "words": [
+        {
+          "de": "erzählen",
+          "en": "to tell (a story)"
+        },
+        {
+          "de": "die Geschichte (-n)",
+          "en": "story"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich habe das Wort nicht {{c1::verstanden::verstehen → Partizip II}}.",
+      "en": "I didn't understand the word.",
+      "focus": "Perfekt · untrennbares Präfix",
+      "explanation": "Verbs with an inseparable prefix get no *ge-* in the Partizip II. *verstehen* is strong, so the participle is **verstanden** (compare *gestanden*, but without *ge-*). Contrast the separable verb: *aufstehen → aufgestanden*.",
+      "pattern": "Subjekt + habe + Objekt + nicht + **Partizip II ohne ge-**",
+      "mistake": {
+        "wrong": "Ich habe das Wort nicht geverstanden.",
+        "why": "An inseparable prefix and *ge-* never appear together. The Partizip II is just *verstanden*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat die Rechnung schon bezahlt.",
+          "en": "She has already paid the bill."
+        },
+        {
+          "de": "Wir haben unsere Freunde in Wien besucht.",
+          "en": "We visited our friends in Vienna."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Hört bitte gut {{c1::zu::Präfix}}!",
+      "en": "Please listen carefully!",
+      "focus": "Imperativ (ihr) · Präfix am Ende",
+      "explanation": "The ihr-imperative of *zuhören* (to listen) is the ihr-form without the pronoun: *hört*, in position 1. *bitte* and *gut* stand in the Mittelfeld, and the prefix **zu** closes the sentence.",
+      "pattern": "Imperativ ihr (Pos. 1) + bitte + Adverb + **Präfix**!",
+      "mistake": {
+        "wrong": "Zuhört bitte gut!",
+        "why": "The prefix does not move to the front in the imperative. *hört* goes first, and *zu* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Macht bitte eure Bücher auf!",
+          "en": "Please open your books! (to several people)"
+        },
+        {
+          "de": "Steht bitte alle auf!",
+          "en": "Please all stand up!"
+        }
+      ],
+      "words": [
+        {
+          "de": "zuhören (+ Dat.)",
+          "en": "to listen (to)"
+        }
+      ],
+      "production_cue": "(ihr, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Heute lerne ich meine neuen Kollegen {{c1::kennen::Verbteil}}.",
+      "en": "Today I'm meeting my new colleagues for the first time.",
+      "focus": "Verb + Verb · Satzklammer",
+      "explanation": "*kennenlernen* (to get to know, to meet for the first time) behaves like a separable verb: *lernen* is conjugated in position 2 and the first part **kennen** goes to the end. Because *heute* is in position 1, the subject *ich* follows the verb. The infinitive is written *kennenlernen* (also allowed: *kennen lernen*).",
+      "pattern": "Zeit + lerne + Subjekt + Objekt + **kennen**",
+      "mistake": {
+        "wrong": "Heute kennenlerne ich meine neuen Kollegen.",
+        "why": "*kennenlernen* splits like *aufstehen*: only *lerne* stands in position 2, and *kennen* goes to the end."
+      },
+      "examples": [
+        {
+          "de": "Morgen lernst du meine Eltern kennen.",
+          "en": "Tomorrow you'll meet my parents."
+        },
+        {
+          "de": "Im Kurs lernen wir viele nette Leute kennen.",
+          "en": "In the course we get to know a lot of nice people."
+        }
+      ],
+      "words": [
+        {
+          "de": "kennenlernen",
+          "en": "to get to know, to meet (for the first time)"
+        },
+        {
+          "de": "der Kollege (-n)",
+          "en": "colleague"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Mein Vater kommt am Montag aus Spanien {{c1::zurück::Präfix}}.",
+      "en": "My father is coming back from Spain on Monday.",
+      "focus": "Zweisilbiges Präfix · Satzende",
+      "explanation": "*zurückkommen* (to come back) has the two-syllable prefix *zurück-*, but it behaves like *an-* or *auf-*: *kommt* is in position 2, the time and the origin (*aus Spanien*) stand in the Mittelfeld, and **zurück** goes to the end.",
+      "pattern": "Subjekt + Verbstamm + Zeit + Herkunft + **Präfix**",
+      "mistake": {
+        "wrong": "Mein Vater zurückkommt am Montag aus Spanien.",
+        "why": "*zurück* is a separable prefix like *an* or *auf*. In a main clause it goes to the end: *Mein Vater kommt am Montag aus Spanien zurück.*"
+      },
+      "examples": [
+        {
+          "de": "Wir fliegen am Freitag nach Kanada zurück.",
+          "en": "We're flying back to Canada on Friday."
+        },
+        {
+          "de": "Sie gibt mir das Buch morgen zurück.",
+          "en": "She is giving the book back to me tomorrow."
+        }
+      ],
+      "words": [
+        {
+          "de": "zurückkommen",
+          "en": "to come back"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the word order of separable verbs.",
+      "prompt": "In a main clause in the Präsens, where do the two parts of a separable verb go?",
+      "answer": "The conjugated stem goes to **position 2** (statement, W-question) or **position 1** (yes/no question, imperative). The prefix goes to the **very end** of the clause. Everything else stands between them (Mittelfeld).",
+      "explanation": "The stem and the prefix form a bracket (Satzklammer). Objects, pronouns, time and place phrases, *nicht* and adverbs all stand inside the bracket. This is the same structure as modal verb + infinitive or *haben* + Partizip II.",
+      "examples": [
+        {
+          "de": "Ich mache den Computer aus.",
+          "en": "I'm switching off the computer."
+        },
+        {
+          "de": "Wann machst du den Computer aus?",
+          "en": "When are you switching off the computer?"
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about when the verb is not split.",
+      "prompt": "In which cases does a separable verb stay together as one word?",
+      "answer": "When the verb is at the end of the clause: as an **infinitive** after a modal verb (*Ich muss früh aufstehen.*), as the finite verb in a **Nebensatz** (*…, weil ich früh aufstehe.*), and in the **Partizip II**, where *-ge-* goes between prefix and stem (*aufgestanden*).",
+      "explanation": "The prefix always takes the last position of the clause. When the verb itself stands in the last position, prefix and stem are next to each other and are written as one word. In the B1 zu-infinitive, *zu* goes between them: *aufzustehen*.",
+      "examples": [
+        {
+          "de": "Er will heute nicht ausgehen.",
+          "en": "He doesn't want to go out today."
+        },
+        {
+          "de": "Ich weiß, dass er heute Abend ausgeht.",
+          "en": "I know that he's going out tonight."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about recognising separable verbs.",
+      "prompt": "How can you tell a separable prefix from an inseparable one?",
+      "answer": "Separable prefixes are **stressed** and mostly look like prepositions or adverbs: *ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, weg-, zu-, zurück-, los-, fern-*. The prefixes **be-, emp-, ent-, er-, ge-, miss-, ver-, zer-** are unstressed and never separate.",
+      "explanation": "Listen for the stress: *AN-rufen* (separable) but *be-SU-chen* (inseparable). A few prefixes such as *um-, über-, durch-, unter-* can be both, with different meanings (*UM-ziehen* 'to move house' vs *um-FAH-ren* 'to drive around'); you meet those later. Good dictionaries mark separable verbs with a line: *an|rufen*.",
+      "examples": [
+        {
+          "de": "Wir kaufen am Freitag ein.",
+          "en": "We're doing the shopping on Friday."
+        },
+        {
+          "de": "Ich bekomme heute ein Paket.",
+          "en": "I'm getting a parcel today."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the Partizip II.",
+      "prompt": "How do you form the Partizip II of a separable verb, and how is it different for a verb with an inseparable prefix?",
+      "answer": "Separable: prefix + **ge** + stem + *-t* / *-en*: *ein**ge**kauft, an**ge**rufen, mit**ge**bracht*. Inseparable: **no ge-** at all: *bezahlt, verstanden, erklärt*.",
+      "explanation": "The *ge-* always attaches directly to the stem, so with a separable verb it comes after the prefix. Inseparable prefixes take the place of *ge-*. Whether the ending is *-t* or *-en* depends on the base verb: *kaufen → gekauft*, *rufen → gerufen*.",
+      "examples": [
+        {
+          "de": "Wir haben gestern lange ferngesehen.",
+          "en": "We watched TV for a long time yesterday."
+        },
+        {
+          "de": "Der Lehrer hat die Regel gut erklärt.",
+          "en": "The teacher explained the rule well."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Add the modal verb *müssen*. Keep the subject and the time.",
+      "prompt": "Sie steht morgen um fünf Uhr auf.",
+      "answer": "Sie muss morgen um fünf Uhr aufstehen.",
+      "explanation": "The modal verb *muss* takes position 2. The separable verb goes to the end as an infinitive, and in the infinitive the prefix and stem are one word: *aufstehen*."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt (with *haben*).",
+      "prompt": "Sie ruft ihre Schwester an.",
+      "answer": "Sie hat ihre Schwester angerufen.",
+      "explanation": "*hat* takes position 2 and the Partizip II goes to the end. *rufen* is strong (*gerufen*), and with the separable prefix *ge-* moves inside: *an-ge-rufen*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt (with *sein*).",
+      "prompt": "Wir steigen in Köln um.",
+      "answer": "Wir sind in Köln umgestiegen.",
+      "explanation": "*umsteigen* is a change of place, so the auxiliary is *sein*: *sind*. The Partizip II of *steigen* is *gestiegen*; with the prefix it becomes *um-ge-stiegen* at the end of the clause."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Turn the statement into a du-imperative.",
+      "prompt": "Du rufst mich morgen an.",
+      "answer": "Ruf mich morgen an!",
+      "explanation": "For the du-imperative, drop *du* and the ending *-st*: *rufst → ruf*. The verb stands in position 1, and the prefix *an* stays at the end."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Turn the statement into a formal imperative with *Sie*.",
+      "prompt": "Sie bringen Ihren Pass mit.",
+      "answer": "Bringen Sie Ihren Pass mit!",
+      "explanation": "For the Sie-imperative, the verb moves before *Sie* to position 1. The form stays *bringen*, and the prefix *mit* stays at the end."
+    },
+    {
+      "key": "d10",
+      "type": "combine",
+      "instruction": "Join the two sentences with *weil*.",
+      "prompt": "Er kommt heute nicht. Er zieht um.",
+      "answer": "Er kommt heute nicht, weil er umzieht.",
+      "explanation": "*weil* starts a Nebensatz, so the finite verb goes to the end. *zieht … um* comes together again as one word: *umzieht*. A comma separates the main clause and the Nebensatz."
+    },
+    {
+      "key": "d11",
+      "type": "combine",
+      "instruction": "Join the two sentences with *dass*. The second sentence becomes the dass-clause.",
+      "prompt": "Ich weiß. Der Kurs fängt um neun Uhr an.",
+      "answer": "Ich weiß, dass der Kurs um neun Uhr anfängt.",
+      "explanation": "In the *dass*-clause the verb goes to the end, and the prefix *an* joins the conjugated form: *anfängt*. The vowel change *ä* of the er-form stays."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir einkaufen am Samstag im Supermarkt.",
+      "answer": "Wir kaufen am Samstag im Supermarkt ein.",
+      "explanation": "The mistake: *einkaufen* is not split. In a main clause only *kaufen* stands in position 2, and the prefix *ein* goes to the end, after the time and place."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er ruft an seine Freundin.",
+      "answer": "Er ruft seine Freundin an.",
+      "explanation": "The mistake: the prefix *an* stands directly after the verb, as if it were a preposition. The object *seine Freundin* belongs in the Mittelfeld, and *an* closes the clause."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe dich gestern geanrufen.",
+      "answer": "Ich habe dich gestern angerufen.",
+      "explanation": "The mistake is the position of *ge-*. In the Partizip II of a separable verb *ge-* stands between prefix and stem: *an-ge-rufen*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich weiß nicht, ob er heute kommt mit.",
+      "answer": "Ich weiß nicht, ob er heute mitkommt.",
+      "explanation": "The mistake: the verb is split in a Nebensatz. After *ob* the finite verb goes to the end, and prefix and stem are written together: *mitkommt*."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir müssen um sieben Uhr fahren ab.",
+      "answer": "Wir müssen um sieben Uhr abfahren.",
+      "explanation": "The mistake: after the modal verb *müssen* the infinitive stands at the end as one word. The infinitive of a separable verb is never split: *abfahren*."
+    },
+    {
+      "key": "d17",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben die Rechnung gebezahlt.",
+      "answer": "Wir haben die Rechnung bezahlt.",
+      "explanation": "The mistake: *be-* is an inseparable prefix, and inseparable verbs take no *ge-* in the Partizip II. Correct: *bezahlt*."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Ich weiß nicht, wann der Unterricht ___.",
+      "options": [
+        "anfängt",
+        "fängt an",
+        "an fängt"
+      ],
+      "correct": "anfängt",
+      "answer": "Ich weiß nicht, wann der Unterricht anfängt.",
+      "explanation": "*wann* introduces an indirect question, which is a Nebensatz, so the verb goes to the end as one word: *anfängt*. *fängt an* is the main-clause order, and *an fängt* is not a possible spelling: prefix and verb are written together."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Kannst du bitte das Fenster ___?",
+      "options": [
+        "zumachen",
+        "machen zu",
+        "zumachst"
+      ],
+      "correct": "zumachen",
+      "answer": "Kannst du bitte das Fenster zumachen?",
+      "explanation": "After the modal verb *kannst* the main verb is an infinitive at the end, written as one word: *zumachen*. *machen zu* splits the infinitive, and *zumachst* is a conjugated form, but the modal already carries the ending *-st*."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the correct Partizip II.",
+      "prompt": "Hast du das Geschenk ___?",
+      "options": [
+        "mitgebracht",
+        "gemitbracht",
+        "mitgebringt"
+      ],
+      "correct": "mitgebracht",
+      "answer": "Hast du das Geschenk mitgebracht?",
+      "explanation": "*bringen* is a mixed verb: *gebracht*. With the separable prefix, *ge-* moves inside: *mit-ge-bracht*. *gemitbracht* puts *ge-* before the prefix, and *mitgebringt* uses a regular ending that *bringen* does not have."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Nach dem Essen",
+      "prompt": "räumen / den Tisch / ab / die Kinder / nach dem Essen",
+      "answer": "Nach dem Essen räumen die Kinder den Tisch ab.",
+      "explanation": "*Nach dem Essen* fills position 1, so the verb *räumen* follows in position 2 and the subject *die Kinder* comes after it. The object *den Tisch* is in the Mittelfeld, and the prefix *ab* closes the sentence. Another correct order: *Die Kinder räumen nach dem Essen den Tisch ab.*"
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "wann / der Zug / in Hamburg / an / kommt",
+      "answer": "Wann kommt der Zug in Hamburg an?",
+      "explanation": "The question word *wann* is in position 1 and the stem *kommt* in position 2. The subject *der Zug* and the place *in Hamburg* stand in the Mittelfeld, and the prefix *an* goes to the end."
+    }
+  ]
+}

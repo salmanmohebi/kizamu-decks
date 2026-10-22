@@ -1,0 +1,708 @@
+{
+  "topic_id": "b1-04-passiv-zeiten",
+  "level": "B1",
+  "title_de": "Passiv in anderen Zeiten + mit Modalverben",
+  "title_en": "The passive in other tenses and with modal verbs",
+  "rule": {
+    "summary": "The Vorgangspassiv is always *werden* + Partizip II; to change the tense you only change *werden*. Präteritum: **wurde** + Partizip II. Perfekt: **ist** + Partizip II + **worden**. Plusquamperfekt: **war** + Partizip II + **worden**. Futur I: **wird** + Partizip II + **werden**. With a modal verb, the modal carries person and tense, and the end of the clause is Partizip II + **werden** (Infinitiv Passiv): *Das muss repariert werden.* You need these forms for reports, news, history, instructions and rules.",
+    "table": "| Tempus | Form | Beispiel |\n|---|---|---|\n| Präsens | wird + P II | Das Auto **wird** repariert. |\n| Präteritum | **wurde** + P II | Das Auto **wurde** repariert. |\n| Perfekt | **ist** + P II + **worden** | Das Auto **ist** repariert **worden**. |\n| Plusquamperfekt | **war** + P II + **worden** | Das Auto **war** repariert **worden**. |\n| Futur I | **wird** + P II + **werden** | Das Auto **wird** repariert **werden**. |\n| Modalverb Präsens | **muss** + P II + **werden** | Das Auto **muss** repariert **werden**. |\n| Modalverb Präteritum | **musste** + P II + **werden** | Das Auto **musste** repariert **werden**. |",
+    "steps": [
+      "Build the passive in the Präsens first: subject + *wird/werden* + Partizip II.",
+      "Choose the tense and change only the *werden* part: Präteritum *wurde/wurden*; Perfekt *ist/sind … worden*; Plusquamperfekt *war/waren … worden*; Futur *wird … werden*.",
+      "In the Perfekt and Plusquamperfekt the auxiliary is always **sein**, and the Partizip II of *werden* is the short form **worden** (never *geworden* in the passive).",
+      "With a modal verb: conjugate the modal (Präsens or Präteritum) in position 2 and put **Partizip II + werden** at the end: *kann gelöst werden, musste verschoben werden*.",
+      "In a Nebensatz the finite verb goes last: *…, dass es gebaut wurde / gebaut worden ist / gebaut werden muss*."
+    ],
+    "pitfalls": [
+      "*geworden* instead of *worden*: ✗ *Er ist operiert geworden.* → ✓ *Er ist operiert worden.* *geworden* is only for the full verb: *Er ist Arzt geworden.*",
+      "*haben* in the Perfekt passive: ✗ *Der Brief hat abgeschickt worden.* → ✓ *Der Brief ist abgeschickt worden.*",
+      "Conjugated *werden* after a modal: ✗ *Das muss erledigt wird.* → ✓ *Das muss erledigt werden.* After a modal, *werden* is an infinitive.",
+      "*worden* in the Präteritum or after a modal: ✗ *Das Problem wurde gelöst worden.* / ✗ *Das muss gemacht worden.* → ✓ *wurde gelöst* / *muss gemacht werden*.",
+      "*würde* (Konjunktiv II) instead of *wurde* (Präteritum): ✗ *Das Haus würde 1985 gebaut.* → ✓ *Das Haus wurde 1985 gebaut.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das Haus {{c1::wurde::werden → Prät.}} 1985 gebaut.",
+      "en": "The house was built in 1985.",
+      "focus": "Passiv Präteritum · 3. Person Singular",
+      "explanation": "The year 1985 places the action in the past, and for facts like this the Präteritum passive is the normal written form. *Das Haus* is singular → Präteritum of *werden*: **wurde**. The Partizip II *gebaut* stays at the end.",
+      "pattern": "Subjekt (Sg.) + **wurde** + Zeit + Partizip II",
+      "mistake": {"wrong": "Das Haus würde 1985 gebaut.", "why": "*würde* with umlaut is Konjunktiv II (\"would\"). The Präteritum of *werden* has no umlaut: *wurde*."},
+      "examples": [
+        {"de": "Die Kirche wurde im 14. Jahrhundert gebaut.", "en": "The church was built in the 14th century."},
+        {"de": "Der Bahnhof wurde 2010 modernisiert.", "en": "The station was modernised in 2010."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Der Brief {{c1::ist::sein}} schon abgeschickt {{c2::worden::werden → Partizip II}}.",
+      "en": "The letter has already been sent.",
+      "focus": "Passiv Perfekt · Hilfsverb und Partizip von *werden*",
+      "explanation": "The Perfekt passive has three parts. The finite auxiliary is always **sein**, because *werden* forms its Perfekt with *sein*: *Der Brief* (3rd sg.) → **ist**. Then the Partizip II of the main verb (*abgeschickt*) and, at the very end, the short Partizip II of *werden*: **worden**.",
+      "pattern": "Subjekt + **ist** + … + Partizip II + **worden**",
+      "mistake": {"wrong": "Der Brief hat schon abgeschickt worden.", "why": "*werden* builds its Perfekt with *sein*, so the passive Perfekt is always *ist/sind … worden*, never *hat … worden*."},
+      "examples": [
+        {"de": "Das Formular ist schon ausgefüllt worden.", "en": "The form has already been filled in."},
+        {"de": "Der Vertrag ist gestern verlängert worden.", "en": "The contract was extended yesterday."}
+      ],
+      "words": [{"de": "abschicken", "en": "to send off"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Die Aufgabe {{c1::muss::müssen}} bis morgen erledigt werden.",
+      "en": "The task must be done by tomorrow.",
+      "focus": "Passiv mit Modalverb · Notwendigkeit",
+      "explanation": "The modal verb carries person and tense: *Die Aufgabe* (3rd sg.) + *müssen* → **muss**. The passive part goes to the end as *Infinitiv Passiv*: Partizip II + *werden* → *erledigt werden*.",
+      "pattern": "Subjekt + **Modalverb** + … + Partizip II + werden",
+      "mistake": {"wrong": "Die Aufgabe muss bis morgen erledigt wird.", "why": "After a modal verb the other verb is an infinitive. So *werden* stays in the infinitive: *muss erledigt werden*."},
+      "examples": [
+        {"de": "Der Bericht muss bis Freitag abgegeben werden.", "en": "The report has to be handed in by Friday."},
+        {"de": "Die Miete muss am Monatsanfang bezahlt werden.", "en": "The rent has to be paid at the start of the month."}
+      ],
+      "words": [{"de": "erledigen", "en": "to get done, to deal with"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das Problem {{c1::wurde::werden → Prät.}} schnell gelöst.",
+      "en": "The problem was solved quickly.",
+      "focus": "Passiv Präteritum · Satzklammer",
+      "explanation": "*Das Problem* is singular → Präteritum **wurde** in position 2. The Präteritum passive has only two parts: *wurde* + Partizip II. *schnell* stands in the Mittelfeld, and *gelöst* closes the clause.",
+      "pattern": "Subjekt + **wurde** + Adverb + Partizip II",
+      "mistake": {"wrong": "Das Problem wurde gelöst schnell.", "why": "The Partizip II closes the Satzklammer and must be the last element: *wurde schnell gelöst*."},
+      "examples": [
+        {"de": "Der Streit wurde schnell beendet.", "en": "The argument was ended quickly."},
+        {"de": "Das Feuer wurde rasch gelöscht.", "en": "The fire was put out quickly."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Die Fenster {{c1::wurden::werden → Prät.}} letzte Woche geputzt.",
+      "en": "The windows were cleaned last week.",
+      "focus": "Passiv Präteritum · Plural",
+      "explanation": "*Fenster* has the same form in singular and plural; *die Fenster* is plural (the singular is *das Fenster*). A plural subject needs the plural Präteritum form **wurden**. *letzte Woche* is an Akkusativ time phrase.",
+      "pattern": "Subjekt (Pl.) + **wurden** + Zeit + Partizip II",
+      "mistake": {"wrong": "Die Fenster wurde letzte Woche geputzt.", "why": "*die Fenster* is plural, so the Präteritum is *wurden* with *-n*."},
+      "examples": [
+        {"de": "Die Teppiche wurden im Frühling gereinigt.", "en": "The carpets were cleaned in spring."},
+        {"de": "Die Gäste wurden am Eingang begrüßt.", "en": "The guests were welcomed at the entrance."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir {{c1::sind::sein}} schon informiert {{c2::worden::werden → Partizip II}}.",
+      "en": "We have already been informed.",
+      "focus": "Passiv Perfekt · 1. Person Plural",
+      "explanation": "Perfekt passive: *sein* + Partizip II + *worden*. The subject *wir* needs **sind**. The last element is the passive form **worden**, not *geworden*: *geworden* only appears when *werden* means \"to become\".",
+      "pattern": "wir + **sind** + Partizip II + **worden**",
+      "mistake": {"wrong": "Wir sind schon informiert geworden.", "why": "In the passive the Partizip II of *werden* loses *ge-*: *worden*. *geworden* means \"become\" (*Wir sind müde geworden*)."},
+      "examples": [
+        {"de": "Wir sind nicht gefragt worden.", "en": "We weren't asked."},
+        {"de": "Wir sind am Flughafen abgeholt worden.", "en": "We were picked up at the airport."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das Auto {{c1::muss::müssen}} repariert werden.",
+      "en": "The car has to be repaired.",
+      "focus": "Passiv mit Modalverb · Präsens",
+      "explanation": "*Das Auto* is 3rd person singular → *müssen* becomes **muss**. The car is the thing affected, so the end of the clause is passive: Partizip II + *werden* → *repariert werden*.",
+      "pattern": "Subjekt + **muss** + Partizip II + werden",
+      "mistake": {"wrong": "Das Auto muss reparieren werden.", "why": "In the passive infinitive the main verb must be the Partizip II: *repariert werden*. Infinitive + *werden* (*reparieren werden*) is not a possible verb form after a modal verb."},
+      "examples": [
+        {"de": "Die Heizung muss dringend erneuert werden.", "en": "The heating urgently needs to be replaced."},
+        {"de": "Der Rasen muss gemäht werden.", "en": "The lawn needs to be mowed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Hier {{c1::darf::dürfen}} nicht geraucht werden.",
+      "en": "Smoking isn't allowed here.",
+      "focus": "unpersönliches Passiv mit Modalverb · Verbot",
+      "explanation": "*rauchen* has no Akkusativ object here, so the passive has no subject. Then the modal verb is in the 3rd person singular: *dürfen* → **darf**. *nicht dürfen* expresses a prohibition; the end is *geraucht werden*.",
+      "pattern": "Hier + **darf** + nicht + Partizip II + werden",
+      "mistake": {"wrong": "Hier dürfen nicht geraucht werden.", "why": "There is no plural subject in this sentence. A passive without a subject always takes the 3rd person singular: *darf*."},
+      "examples": [
+        {"de": "Im Lesesaal darf nicht telefoniert werden.", "en": "Phone calls are not allowed in the reading room."},
+        {"de": "Hier darf nicht geparkt werden.", "en": "Parking is not allowed here."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das Essen {{c1::wurde::werden → Prät.}} sehr schnell zubereitet.",
+      "en": "The food was prepared very quickly.",
+      "focus": "Passiv Präteritum · Partizip mit zwei Präfixen",
+      "explanation": "*Das Essen* is singular → **wurde**. *zubereiten* has two prefixes: separable *zu-* and inseparable *be-*. Because *be-* blocks *ge-*, the Partizip II is **zubereitet**, without *-ge-*.",
+      "pattern": "Subjekt + **wurde** + … + Partizip II",
+      "mistake": {"wrong": "Das Essen wurde sehr schnell zugebereitet.", "why": "The inner prefix *be-* is inseparable, and it prevents *ge-*: *zubereitet* (like *vorbereitet*)."},
+      "examples": [
+        {"de": "Die Konferenz wurde gründlich vorbereitet.", "en": "The conference was prepared thoroughly."},
+        {"de": "Sein Abschluss wurde in Deutschland anerkannt.", "en": "His degree was recognised in Germany."}
+      ],
+      "words": [{"de": "zubereiten", "en": "to prepare (food)"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Die Briefe {{c1::sind::sein}} verschickt {{c2::worden::werden → Partizip II}}.",
+      "en": "The letters have been sent.",
+      "focus": "Passiv Perfekt · Plural",
+      "explanation": "*Die Briefe* is plural → the Perfekt auxiliary is **sind**. *verschicken* (prefix *ver-*) → *verschickt*, and the passive Perfekt ends with **worden**.",
+      "pattern": "Subjekt (Pl.) + **sind** + Partizip II + **worden**",
+      "mistake": {"wrong": "Die Briefe ist verschickt worden.", "why": "The auxiliary agrees with the plural subject *die Briefe*: *sind*, not *ist*."},
+      "examples": [
+        {"de": "Die Einladungen sind gestern verschickt worden.", "en": "The invitations were sent out yesterday."},
+        {"de": "Die Bewerber sind informiert worden.", "en": "The applicants have been informed."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das Haus {{c1::soll::sollen}} nächstes Jahr renoviert werden.",
+      "en": "The house is to be renovated next year.",
+      "focus": "Passiv mit Modalverb · Plan",
+      "explanation": "*sollen* here expresses a plan or someone else's intention. *Das Haus* is singular → **soll**. The passive infinitive at the end is *renoviert werden* (*renovieren* → *renoviert*, no *ge-*).",
+      "pattern": "Subjekt + **soll** + Zeit + Partizip II + werden",
+      "mistake": {"wrong": "Das Haus soll nächstes Jahr renoviert worden.", "why": "*worden* is only used after *sein* in the Perfekt/Plusquamperfekt. After a modal the passive infinitive is *renoviert werden*."},
+      "examples": [
+        {"de": "Die Brücke soll im Sommer abgerissen werden.", "en": "The bridge is to be demolished in the summer."},
+        {"de": "Die Schule soll bis 2030 digitalisiert werden.", "en": "The school is to be digitised by 2030."}
+      ],
+      "words": [{"de": "renovieren", "en": "to renovate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Die Frage {{c1::wurde::werden → Prät.}} schon beantwortet.",
+      "en": "The question has already been answered.",
+      "focus": "Passiv Präteritum · zwei Teile",
+      "explanation": "English uses the present perfect with *already*, but German can use the Präteritum passive here: **wurde** + Partizip II. The Präteritum passive has no *worden*; that form belongs only to the Perfekt (*ist beantwortet worden*).",
+      "pattern": "Subjekt + **wurde** + schon + Partizip II",
+      "mistake": {"wrong": "Die Frage wurde schon beantwortet worden.", "why": "This mixes two tenses. Either Präteritum *wurde beantwortet* or Perfekt *ist beantwortet worden*."},
+      "examples": [
+        {"de": "Die Rechnung wurde schon bezahlt.", "en": "The bill has already been paid."},
+        {"de": "Das Zimmer wurde schon gereinigt.", "en": "The room has already been cleaned."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Mein Computer {{c1::ist::sein}} gestern repariert {{c2::worden::werden → Partizip II}}.",
+      "en": "My computer was repaired yesterday.",
+      "focus": "Passiv Perfekt · Wortstellung am Ende",
+      "explanation": "In spoken German the Perfekt is common for past events: **ist** + Partizip II + **worden**. *Mein Computer* is singular → *ist*. At the end, the Partizip II of the main verb comes first and *worden* comes last: *repariert worden*.",
+      "pattern": "Subjekt + **ist** + Zeit + Partizip II + **worden**",
+      "mistake": {"wrong": "Mein Computer ist gestern worden repariert.", "why": "The order at the end is fixed: first the Partizip II of the main verb, then *worden*: *repariert worden*."},
+      "examples": [
+        {"de": "Mein Fahrrad ist letzte Nacht gestohlen worden.", "en": "My bike was stolen last night."},
+        {"de": "Unser Keller ist beim Hochwasser überflutet worden.", "en": "Our basement was flooded during the flood."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Solche Fehler {{c1::können::Modalverb · Möglichkeit}} leicht vermieden werden.",
+      "en": "Such mistakes can easily be avoided.",
+      "focus": "Passiv mit Modalverb · Plural",
+      "explanation": "*Solche Fehler* is a plural subject, so the modal verb is plural: **können**. *vermeiden* is strong and has *ver-*: Partizip II *vermieden*; then the passive infinitive *werden* at the end.",
+      "pattern": "Subjekt (Pl.) + **können** + Partizip II + werden",
+      "mistake": {"wrong": "Solche Fehler kann leicht vermieden werden.", "why": "The modal verb agrees with the subject. *Solche Fehler* is plural → *können*."},
+      "examples": [
+        {"de": "Viele Unfälle können durch Vorsicht verhindert werden.", "en": "Many accidents can be prevented by being careful."},
+        {"de": "Diese Kosten können von der Steuer abgesetzt werden.", "en": "These costs can be deducted from tax."}
+      ],
+      "words": [{"de": "vermeiden", "en": "to avoid"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Der Termin {{c1::wurde::werden → Prät.}} verschoben.",
+      "en": "The appointment was postponed.",
+      "focus": "Passiv Präteritum · starkes Verb",
+      "explanation": "*Der Termin* is singular → **wurde**. The main verb *verschieben* is strong: Partizip II **verschoben** (vowel change *ie → o*, ending *-en*, no *ge-* because of *ver-*).",
+      "pattern": "Subjekt + **wurde** + Partizip II",
+      "mistake": {"wrong": "Der Termin wurde verschiebt.", "why": "*verschieben* is a strong verb; its Partizip II is *verschoben*."},
+      "examples": [
+        {"de": "Der Plan wurde aufgegeben.", "en": "The plan was abandoned."},
+        {"de": "Die Sitzung wurde unterbrochen.", "en": "The meeting was interrupted."}
+      ],
+      "words": [{"de": "verschieben", "en": "to postpone"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Die Tür {{c1::sollte::sollen → Konj. II}} immer geschlossen werden.",
+      "en": "The door should always be closed.",
+      "focus": "Passiv mit Modalverb · Empfehlung",
+      "explanation": "**sollte** here is the Konjunktiv II of *sollen* and expresses advice (\"should\"); it looks the same as the Präteritum. *schließen* is strong → *geschlossen*, followed by the passive infinitive *werden*.",
+      "pattern": "Subjekt + **sollte** + Adverb + Partizip II + werden",
+      "mistake": {"wrong": "Die Tür sollte immer geschließt werden.", "why": "*schließen* is a strong verb with the Partizip II *geschlossen*."},
+      "examples": [
+        {"de": "Das Gemüse sollte vor dem Kochen gewaschen werden.", "en": "The vegetables should be washed before cooking."},
+        {"de": "Passwörter sollten regelmäßig geändert werden.", "en": "Passwords should be changed regularly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die Kinder {{c1::wurden::werden → Prät.}} um sieben abgeholt.",
+      "en": "The children were picked up at seven.",
+      "focus": "Passiv Präteritum · Plural · trennbares Verb",
+      "explanation": "*Die Kinder* is plural → **wurden**. *abholen* is separable, so the Partizip II puts *-ge-* after the prefix: *abgeholt*.",
+      "pattern": "Subjekt (Pl.) + **wurden** + Zeit + Präfix-ge-Stamm-t",
+      "mistake": {"wrong": "Die Kinder wurden um sieben geabholt.", "why": "With separable verbs *ge-* comes after the prefix: *ab-ge-holt*."},
+      "examples": [
+        {"de": "Die Möbel wurden am Nachmittag aufgebaut.", "en": "The furniture was assembled in the afternoon."},
+        {"de": "Die Lichter wurden um Mitternacht ausgeschaltet.", "en": "The lights were switched off at midnight."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das Geld {{c1::ist::sein}} schon überwiesen {{c2::worden::werden → Partizip II}}.",
+      "en": "The money has already been transferred.",
+      "focus": "Passiv Perfekt · untrennbares Verb",
+      "explanation": "Perfekt passive: *Das Geld* (3rd sg.) → **ist** … **worden**. *überweisen* is inseparable here (stress on *-wei-*), so its Partizip II has no *ge-*: *überwiesen*.",
+      "pattern": "Subjekt + **ist** + Partizip II + **worden**",
+      "mistake": {"wrong": "Das Geld ist schon übergewiesen worden.", "why": "*überweisen* (to transfer money) is an inseparable verb: *ich überweise*, Partizip II *überwiesen*."},
+      "examples": [
+        {"de": "Das Gehalt ist noch nicht ausgezahlt worden.", "en": "The salary hasn't been paid out yet."},
+        {"de": "Die Pakete sind schon zugestellt worden.", "en": "The parcels have already been delivered."}
+      ],
+      "words": [{"de": "überweisen", "en": "to transfer (money)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das Lied {{c1::kann::können}} schnell gelernt werden.",
+      "en": "The song can be learned quickly.",
+      "focus": "Passiv mit Modalverb · Möglichkeit",
+      "explanation": "*Das Lied* is singular → *können* becomes **kann**. The end of the clause is the passive infinitive: first the Partizip II *gelernt*, then *werden*.",
+      "pattern": "Subjekt + **kann** + Adverb + Partizip II + werden",
+      "mistake": {"wrong": "Das Lied kann schnell werden gelernt.", "why": "In the passive infinitive the Partizip II comes first and *werden* last: *gelernt werden*."},
+      "examples": [
+        {"de": "Die Übung kann zu Hause gemacht werden.", "en": "The exercise can be done at home."},
+        {"de": "Der Tisch kann leicht auseinandergebaut werden.", "en": "The table can easily be taken apart."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich {{c1::wurde::werden → Prät.}} zur Hochzeit eingeladen.",
+      "en": "I was invited to the wedding.",
+      "focus": "Passiv Präteritum · 1. Person Singular",
+      "explanation": "In the Präteritum *ich* and *er/sie/es* have the same form: *ich* **wurde**. *einladen* is separable and strong: Partizip II *eingeladen*. *zur* = *zu der* (Dativ, feminine *die Hochzeit*).",
+      "pattern": "ich + **wurde** + … + Partizip II",
+      "mistake": {"wrong": "Ich wurde zur Hochzeit eingeladet.", "why": "*einladen* is strong; its Partizip II is *eingeladen*, with *-en*."},
+      "examples": [
+        {"de": "Ich wurde nach meiner Meinung gefragt.", "en": "I was asked for my opinion."},
+        {"de": "Ich wurde gestern zum Gespräch eingeladen.", "en": "I was invited to an interview yesterday."}
+      ],
+      "words": [{"de": "die Hochzeit (-en)", "en": "wedding"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Das Penicillin {{c1::wurde::werden → Prät.}} 1928 von Alexander Fleming entdeckt.",
+      "en": "Penicillin was discovered by Alexander Fleming in 1928.",
+      "focus": "Passiv Präteritum · historisches Ereignis mit Agens",
+      "explanation": "Historical facts are usually told in the Präteritum passive: *Das Penicillin* (singular) → **wurde**. The person who acted follows *von* + Dativ; with a name you do not see the case. *entdecken* (prefix *ent-*) → *entdeckt*.",
+      "pattern": "Subjekt + **wurde** + Zeit + von + Agens + Partizip II",
+      "mistake": {"wrong": "Das Penicillin hat 1928 von Alexander Fleming entdeckt worden.", "why": "The Perfekt passive uses *sein*, not *haben*: *ist … entdeckt worden*. In a written history text the Präteritum *wurde entdeckt* is more usual."},
+      "examples": [
+        {"de": "Das Telefon wurde von Alexander Graham Bell patentiert.", "en": "The telephone was patented by Alexander Graham Bell."},
+        {"de": "Die Relativitätstheorie wurde von Albert Einstein entwickelt.", "en": "The theory of relativity was developed by Albert Einstein."}
+      ],
+      "words": [{"de": "entdecken", "en": "to discover"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Als wir ankamen, {{c1::war::sein → Prät.}} der Saal schon aufgeräumt worden.",
+      "en": "When we arrived, the hall had already been tidied up.",
+      "focus": "Passiv Plusquamperfekt · Vorzeitigkeit",
+      "explanation": "The tidying happened before our arrival, so it needs the Plusquamperfekt passive: Präteritum of *sein* + Partizip II + *worden*. *der Saal* is singular → **war**. The main clause starts with the verb because the *als*-clause fills the Vorfeld.",
+      "pattern": "Als-Satz, **war** + Subjekt + Partizip II + worden",
+      "mistake": {"wrong": "Als wir ankamen, hatte der Saal schon aufgeräumt worden.", "why": "The passive Plusquamperfekt is built with *sein* like the Perfekt: *war … worden*, never *hatte … worden*."},
+      "examples": [
+        {"de": "Als die Polizei kam, war der Täter schon festgenommen worden.", "en": "When the police came, the offender had already been arrested."},
+        {"de": "Bevor ich anrief, war die Stelle schon vergeben worden.", "en": "Before I called, the job had already been given to someone."}
+      ],
+      "words": [{"de": "der Saal (Säle)", "en": "hall"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die neue U-Bahn-Linie wird voraussichtlich 2028 eröffnet {{c1::werden::Vorgangspassiv · Infinitiv}}.",
+      "en": "The new underground line will probably be opened in 2028.",
+      "focus": "Passiv Futur I · Ende des Satzes",
+      "explanation": "Futur I passive: *wird* + Partizip II + **werden**. The first *wird* is the Futur auxiliary, and the final *werden* is the infinitive of the passive auxiliary. *voraussichtlich* (\"expected\") is typical for official forecasts.",
+      "pattern": "Subjekt + wird + … + Partizip II + **werden**",
+      "mistake": {"wrong": "Die neue U-Bahn-Linie wird voraussichtlich 2028 eröffnet worden.", "why": "*worden* is only for the Perfekt and Plusquamperfekt with *sein*. The Futur passive ends in the infinitive *werden*."},
+      "examples": [
+        {"de": "Das Ergebnis wird erst im Mai veröffentlicht werden.", "en": "The result will only be published in May."},
+        {"de": "Die Straße wird nächstes Jahr verbreitert werden.", "en": "The road will be widened next year."}
+      ],
+      "words": [{"de": "voraussichtlich", "en": "probably, expected to"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der Flug {{c1::musste::müssen → Prät.}} wegen des Sturms abgesagt werden.",
+      "en": "The flight had to be cancelled because of the storm.",
+      "focus": "Passiv mit Modalverb · Präteritum",
+      "explanation": "In the past the modal verb takes the tense: *müssen* → Präteritum **musste** (no umlaut). The end of the clause stays the same as in the Präsens: *abgesagt werden*.",
+      "pattern": "Subjekt + **Modalverb (Prät.)** + … + Partizip II + werden",
+      "mistake": {"wrong": "Der Flug musste wegen des Sturms abgesagt worden.", "why": "Only the modal verb changes to the past. The passive infinitive stays *abgesagt werden*."},
+      "examples": [
+        {"de": "Das Konzert konnte nicht wiederholt werden.", "en": "The concert couldn't be repeated."},
+        {"de": "Die Patientin musste sofort operiert werden.", "en": "The patient had to be operated on immediately."}
+      ],
+      "words": [{"de": "absagen", "en": "to cancel"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich glaube nicht, dass der Schaden heute noch behoben {{c1::werden kann::können}}.",
+      "en": "I don't think the damage can be repaired today.",
+      "focus": "Passiv mit Modalverb im Nebensatz",
+      "explanation": "In a *dass*-clause the finite verb goes to the very end. With a modal passive the finite verb is the modal, so the order is Partizip II + *werden* + modal: *behoben* **werden kann**.",
+      "pattern": "…, dass + Subjekt + … + Partizip II + **werden + Modalverb**",
+      "mistake": {"wrong": "Ich glaube nicht, dass der Schaden heute noch behoben kann werden.", "why": "In a normal Nebensatz the conjugated verb is last: *behoben werden kann*."},
+      "examples": [
+        {"de": "Es ist klar, dass die Regeln geändert werden müssen.", "en": "It's clear that the rules have to be changed."},
+        {"de": "Sie sagt, dass das Formular online ausgefüllt werden kann.", "en": "She says that the form can be filled in online."}
+      ],
+      "words": [{"de": "beheben", "en": "to fix, to repair (damage, a fault)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Sie hat erzählt, dass sie schon zweimal operiert {{c1::worden ist::werden → Perfekt}}.",
+      "en": "She told us that she has already had two operations.",
+      "focus": "Passiv Perfekt im Nebensatz",
+      "explanation": "In a *dass*-clause the finite auxiliary *ist* moves to the end, after *worden*: Partizip II + **worden ist**. The subject *sie* is the patient, so the clause is passive.",
+      "pattern": "…, dass + Subjekt + Partizip II + **worden + ist**",
+      "mistake": {"wrong": "Sie hat erzählt, dass sie schon zweimal operiert ist worden.", "why": "The finite verb stands last in the Nebensatz: *operiert worden ist*."},
+      "examples": [
+        {"de": "Wir haben erfahren, dass das Geschäft verkauft worden ist.", "en": "We have found out that the shop has been sold."},
+        {"de": "Er ärgert sich, weil er nicht eingeladen worden ist.", "en": "He is annoyed because he hasn't been invited."}
+      ],
+      "words": [{"de": "operieren", "en": "to operate (on someone)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Wurdest::werden → du, Prät.}} du auch zum Vorstellungsgespräch eingeladen?",
+      "en": "Were you also invited to the interview?",
+      "focus": "Passiv Präteritum · 2. Person Singular · Ja/Nein-Frage",
+      "explanation": "In a yes/no question the finite verb comes first. The Präteritum of *werden* with *du* is **wurdest** (*-st* ending). The Partizip II *eingeladen* stays at the end.",
+      "pattern": "**Wurdest** + du + … + Partizip II?",
+      "mistake": {"wrong": "Wurde du auch zum Vorstellungsgespräch eingeladen?", "why": "In the Präteritum the *du* form adds *-st*: *du wurdest*."},
+      "examples": [
+        {"de": "Wurdest du gestern von deinem Chef angerufen?", "en": "Were you called by your boss yesterday?"},
+        {"de": "Wurdest du nach dem Unfall untersucht?", "en": "Were you examined after the accident?"}
+      ],
+      "words": [{"de": "das Vorstellungsgespräch (-e)", "en": "job interview"}],
+      "production_cue": "(informal du, Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Nach dem Sieg {{c1::wurde::werden → Prät.}} in der ganzen Stadt gefeiert.",
+      "en": "After the victory there were celebrations all over the city.",
+      "focus": "unpersönliches Passiv · Präteritum",
+      "explanation": "*feiern* is used here without an object, so the passive has no subject. Without a subject the auxiliary is 3rd person singular: **wurde**. *Nach dem Sieg* fills the Vorfeld, so no *es* is needed.",
+      "pattern": "Vorfeld + **wurde** + … + Partizip II (kein Subjekt)",
+      "mistake": {"wrong": "Nach dem Sieg wurden in der ganzen Stadt gefeiert.", "why": "There is no plural subject; the sentence has no subject at all. An impersonal passive always takes the singular *wurde*."},
+      "examples": [
+        {"de": "Gestern Abend wurde bis spät diskutiert.", "en": "Last night there was discussion until late."},
+        {"de": "Während der Prüfung wurde nicht gesprochen.", "en": "Nobody spoke during the exam."}
+      ],
+      "words": [{"de": "der Sieg (-e)", "en": "victory"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Mir {{c1::wurde::werden → Prät.}} gesagt, dass ich hier warten soll.",
+      "en": "I was told to wait here.",
+      "focus": "Passiv Präteritum · Dativobjekt bleibt",
+      "explanation": "*sagen* has a Dativ object (the person told) and a *dass*-clause as its content. The Dativ *mir* stays Dativ in the passive; it cannot become *ich*. So the auxiliary is singular: **wurde**.",
+      "pattern": "Dat. + **wurde** + Partizip II + dass-Satz",
+      "mistake": {"wrong": "Ich wurde gesagt, dass ich hier warten soll.", "why": "Only an Akkusativ object can become the passive subject. With *sagen* the person is Dativ, so it stays *mir*: *Mir wurde gesagt …*"},
+      "examples": [
+        {"de": "Uns wurde erklärt, wie das Gerät funktioniert.", "en": "It was explained to us how the device works."},
+        {"de": "Ihm wurde gekündigt.", "en": "He was dismissed."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Meine Schwester ist letztes Jahr Ärztin {{c1::geworden::werden → Partizip II}}.",
+      "en": "My sister became a doctor last year.",
+      "focus": "*werden* als Vollverb · Perfekt (kein Passiv)",
+      "explanation": "Here *werden* is the full verb \"to become\" with a noun (*Ärztin*), not a passive auxiliary: there is no Partizip II of another verb. The full verb has the normal Partizip II with *ge-*: **geworden**.",
+      "pattern": "Subjekt + ist + Nomen/Adjektiv + **geworden**",
+      "mistake": {"wrong": "Meine Schwester ist letztes Jahr Ärztin worden.", "why": "The short form *worden* only appears after another Partizip II in the passive (*operiert worden*). With a noun or adjective, *werden* means \"become\" → *geworden*."},
+      "examples": [
+        {"de": "Das Wetter ist plötzlich kalt geworden.", "en": "The weather suddenly turned cold."},
+        {"de": "Mein Bruder ist mit 30 Vater geworden.", "en": "My brother became a father at 30."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Mein Opa ist letzte Woche am Knie operiert {{c1::worden::werden → Partizip II}}.",
+      "en": "My grandpa had a knee operation last week.",
+      "focus": "Passiv Perfekt · Partizip des Hilfsverbs",
+      "explanation": "*operiert* is the Partizip II of the main verb, so *werden* is the passive auxiliary here. In the passive Perfekt the Partizip II of *werden* is the short form **worden**. Compare *Er ist Arzt geworden* (full verb, \"became\").",
+      "pattern": "Subjekt + ist + Partizip II + **worden**",
+      "mistake": {"wrong": "Mein Opa ist letzte Woche am Knie operiert geworden.", "why": "After the Partizip II of a main verb, the passive form is *worden*. *geworden* is only for *werden* = \"become\"."},
+      "examples": [
+        {"de": "Die Sängerin ist nach dem Konzert interviewt worden.", "en": "The singer was interviewed after the concert."},
+        {"de": "Der Fahrer ist schwer verletzt worden.", "en": "The driver was seriously injured."}
+      ],
+      "words": [{"de": "das Knie (-)", "en": "knee"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "{{c1::Kann::können}} die Rechnung auch in Raten bezahlt werden?",
+      "en": "Can the bill also be paid in instalments?",
+      "focus": "Passiv mit Modalverb · Ja/Nein-Frage",
+      "explanation": "In a yes/no question the finite verb, here the modal, goes to position 1: *die Rechnung* (singular) → **Kann**. The passive infinitive *bezahlt werden* stays at the end.",
+      "pattern": "**Modalverb** + Subjekt + … + Partizip II + werden?",
+      "mistake": {"wrong": "Kann die Rechnung auch in Raten bezahlen werden?", "why": "The passive infinitive is Partizip II + *werden*: *bezahlt werden*. *bezahlen werden* is not a German verb form."},
+      "examples": [
+        {"de": "Kann der Termin verschoben werden?", "en": "Can the appointment be moved?"},
+        {"de": "Muss das Formular unterschrieben werden?", "en": "Does the form have to be signed?"}
+      ],
+      "words": [{"de": "in Raten", "en": "in instalments"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the passive tense forms.",
+      "prompt": "How do you form the passive in the Präteritum, Perfekt, Plusquamperfekt and Futur I?",
+      "answer": "Präteritum: **wurde** + P II. Perfekt: **ist** + P II + **worden**. Plusquamperfekt: **war** + P II + **worden**. Futur I: **wird** + P II + **werden**.",
+      "explanation": "The Partizip II of the main verb never changes. Only the *werden* part shows the tense: *wurde* in the Präteritum, the Perfekt of *werden* (*ist worden*) in the Perfekt, and *wird … werden* in the Futur.",
+      "examples": [
+        {"de": "Die Ausstellung wurde gut besucht.", "en": "The exhibition was well attended."},
+        {"de": "Die Ausstellung ist gut besucht worden.", "en": "The exhibition was well attended."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the auxiliary and the participle in the Perfekt passive.",
+      "prompt": "Why is the Perfekt passive *ist … worden* and not *hat … geworden*?",
+      "answer": "*werden* always forms its Perfekt with **sein**. As a passive auxiliary its Partizip II is the short form **worden**; the long form **geworden** is only used for the full verb \"to become\".",
+      "explanation": "Test: is there another Partizip II next to it? *operiert worden* → passive. If there is a noun or adjective instead (*krank, Lehrer*), *werden* means \"become\" and you use *geworden*.",
+      "examples": [
+        {"de": "Das Kind ist geimpft worden.", "en": "The child has been vaccinated."},
+        {"de": "Das Kind ist groß geworden.", "en": "The child has grown up."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the passive with modal verbs.",
+      "prompt": "How do you build a passive sentence with a modal verb, and which part shows the tense?",
+      "answer": "The **modal verb** is conjugated and shows person and tense (*muss, musste, kann, konnte*). At the end comes the **Infinitiv Passiv**: Partizip II + **werden** (*repariert werden*).",
+      "explanation": "*werden* never changes in this structure; it is always the infinitive. For the past, change only the modal: *muss gemacht werden* → *musste gemacht werden*.",
+      "examples": [
+        {"de": "Der Antrag kann online gestellt werden.", "en": "The application can be made online."},
+        {"de": "Der Antrag konnte nicht bearbeitet werden.", "en": "The application couldn't be processed."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about word order in the Nebensatz.",
+      "prompt": "What is the order of the verbs at the end of a Nebensatz in the passive Perfekt and with a modal verb?",
+      "answer": "The finite verb is always last: Perfekt → Partizip II + **worden** + **ist** (*… gebaut worden ist*); modal → Partizip II + **werden** + **Modalverb** (*… gebaut werden muss*); Präteritum → Partizip II + **wurde**.",
+      "explanation": "The verbs at the end are in the same order as in the main clause bracket, and the finite verb from position 2 simply moves to the last position.",
+      "examples": [
+        {"de": "Ich weiß, dass das Problem schon besprochen worden ist.", "en": "I know that the problem has already been discussed."},
+        {"de": "Ich weiß, dass das Problem noch besprochen werden muss.", "en": "I know that the problem still has to be discussed."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Compare the use of the two past tenses in the passive.",
+      "prompt": "When do Germans use the Präteritum passive and when the Perfekt passive?",
+      "answer": "**Präteritum** (*wurde gebaut*) is the normal form in written texts, news and history. **Perfekt** (*ist gebaut worden*) is more common in speech and for past events with a result now. The meaning is usually the same.",
+      "explanation": "Because *ist … worden* is long, many speakers also use the Präteritum passive in conversation. Use the Plusquamperfekt (*war … worden*) only for an action before another past action.",
+      "examples": [
+        {"de": "Der Präsident wurde gestern gewählt.", "en": "The president was elected yesterday."},
+        {"de": "Hast du gehört? Der Präsident ist gewählt worden.", "en": "Have you heard? The president has been elected."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Change to the passive (Perfekt). Keep the agent.",
+      "prompt": "Die Polizei hat den Dieb gefasst.",
+      "answer": "Der Dieb ist von der Polizei gefasst worden.",
+      "explanation": "The Akkusativ object *den Dieb* becomes the subject *der Dieb*. The Perfekt passive is *ist* + Partizip II + *worden*. The active subject becomes the agent: *von der Polizei* (Dativ)."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Change to the Präteritum.",
+      "prompt": "Die Autobahn wird gesperrt.",
+      "answer": "Die Autobahn wurde gesperrt.",
+      "explanation": "Only the auxiliary changes: Präsens *wird* → Präteritum *wurde*. The Partizip II *gesperrt* stays the same."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Add the modal verb *müssen* (Präsens).",
+      "prompt": "Der Antrag wird bis Freitag eingereicht.",
+      "answer": "Der Antrag muss bis Freitag eingereicht werden.",
+      "explanation": "The modal takes over position 2 and the person ending: *muss*. *wird* moves to the end as the infinitive *werden*, after the Partizip II *eingereicht*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Change from the Präteritum to the Perfekt.",
+      "prompt": "Die Brücke wurde 1990 gebaut.",
+      "answer": "Die Brücke ist 1990 gebaut worden.",
+      "explanation": "Präteritum *wurde gebaut* → Perfekt *ist gebaut worden*: the auxiliary is *sein*, and *worden* goes to the very end."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Change to the passive with the modal verb. Leave out *man*.",
+      "prompt": "Man kann diese Tabletten ohne Rezept kaufen.",
+      "answer": "Diese Tabletten können ohne Rezept gekauft werden.",
+      "explanation": "*diese Tabletten* becomes the plural subject, so the modal changes to *können*. *man* disappears, and *kaufen* becomes the passive infinitive *gekauft werden*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Paket ist gestern geliefert geworden.",
+      "answer": "Das Paket ist gestern geliefert worden.",
+      "explanation": "*geliefert* is the Partizip II of the main verb, so this is the passive Perfekt. The passive participle of *werden* is *worden*, not *geworden*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Vertrag hat schon unterschrieben worden.",
+      "answer": "Der Vertrag ist schon unterschrieben worden.",
+      "explanation": "The Perfekt passive always uses *sein*, because *werden* forms its Perfekt with *sein*: *ist … worden*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Daten müssen sofort gelöscht worden.",
+      "answer": "Die Daten müssen sofort gelöscht werden.",
+      "explanation": "After a modal verb the passive infinitive is Partizip II + *werden*. *worden* only appears after *sein* in the Perfekt or Plusquamperfekt."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Gäste wurde vom Bürgermeister begrüßt.",
+      "answer": "Die Gäste wurden vom Bürgermeister begrüßt.",
+      "explanation": "*Die Gäste* is plural, so the Präteritum of *werden* needs the plural form *wurden*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Das Rathaus ___ im 16. Jahrhundert gebaut.",
+      "options": ["wurde", "wird", "würde", "hat"],
+      "correct": "wurde",
+      "answer": "Das Rathaus wurde im 16. Jahrhundert gebaut.",
+      "explanation": "The 16th century is in the past, and the sentence has only the Partizip II, so it needs the Präteritum passive *wurde*. *wird* is Präsens, *würde* (with umlaut) is Konjunktiv II, and *hat* is never the passive auxiliary."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Der Patient ist gestern operiert ___.",
+      "options": ["worden", "geworden", "werden", "wurde"],
+      "correct": "worden",
+      "answer": "Der Patient ist gestern operiert worden.",
+      "explanation": "*ist* + Partizip II (*operiert*) is the start of the passive Perfekt, which ends in *worden*. *geworden* is for \"become\", *werden* would follow a modal, and *wurde* is a finite Präteritum form that cannot stand at the end."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Medikamente",
+      "prompt": "werden / die Medikamente / im Kühlschrank / müssen / gelagert",
+      "answer": "Die Medikamente müssen im Kühlschrank gelagert werden.",
+      "explanation": "The modal *müssen* (plural, agreeing with *die Medikamente*) is in position 2. The place goes into the Mittelfeld, and the passive infinitive *gelagert werden* closes the sentence. Also possible: *Im Kühlschrank müssen die Medikamente gelagert werden.*"
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join with *dass*. Keep the Perfekt.",
+      "prompt": "Ich habe gehört. Die Fabrik ist geschlossen worden.",
+      "answer": "Ich habe gehört, dass die Fabrik geschlossen worden ist.",
+      "explanation": "In the *dass*-clause the finite verb *ist* goes to the end, after *worden*: *geschlossen worden ist*. A comma separates the main clause from the Nebensatz."
+    }
+  ]
+}

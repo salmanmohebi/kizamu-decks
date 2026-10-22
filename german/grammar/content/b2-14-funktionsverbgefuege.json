@@ -1,0 +1,697 @@
+{
+  "topic_id": "b2-14-funktionsverbgefuege",
+  "level": "B2",
+  "title_de": "Funktionsverbgefüge",
+  "title_en": "Noun–verb collocations (Funktionsverbgefüge)",
+  "rule": {
+    "summary": "A **Funktionsverbgefüge (FVG)** is a fixed combination of a noun (often with a preposition) and a light verb such as *nehmen, stellen, bringen, kommen, ziehen, setzen, treffen, finden*. The noun carries the meaning, the verb carries tense and person: *in Erwägung ziehen* = *erwägen*. FVG are typical of formal, official and academic German. Many also add a nuance: *kommen*-FVG often have a passive meaning (*zur Anwendung kommen* = *angewendet werden*), *stehen*-FVG describe a state, *stellen/bringen*-FVG an action that causes it. Learn each FVG as one unit with its preposition, article and case.",
+    "table": "| FVG | Bedeutung | Beispiel |\n|---|---|---|\n| in Anspruch **nehmen** | nutzen, beanspruchen | Hilfe in Anspruch nehmen |\n| zur Verfügung **stellen** | bereitstellen | jdm. Daten zur Verfügung stellen |\n| in Erwägung **ziehen** | erwägen | einen Umzug in Erwägung ziehen |\n| in Frage **stellen** / in Frage **kommen** | bezweifeln / möglich sein | Das kommt nicht in Frage. |\n| zur Sprache **bringen** / **kommen** | ansprechen / besprochen werden | ein Problem zur Sprache bringen |\n| zur Diskussion **stellen** / **stehen** | zur Diskussion vorlegen / diskutiert werden | Das steht nicht zur Diskussion. |\n| zur Anwendung **kommen** | angewendet werden | Die Regel kommt selten zur Anwendung. |\n| eine Entscheidung **treffen** | entscheiden | bis Montag eine Entscheidung treffen |\n| Rücksicht / Einfluss / Stellung **nehmen** (auf / auf / zu) | berücksichtigen / beeinflussen / sich äußern | Rücksicht auf andere nehmen |\n| einer Sache ein Ende **setzen** | beenden | dem Streit ein Ende setzen |",
+    "steps": [
+      "Learn the whole unit: noun + fixed preposition + fixed article (*zur Verfügung, in Frage, zum Abschluss*) + the one verb that goes with it. *in Erwägung ziehen*, not *nehmen*; *eine Entscheidung treffen*, not *machen*.",
+      "Conjugate only the verb. In a main clause it stands in position 2, and the noun part goes to the end like a separable prefix: *Wir stellen Ihnen die Daten zur Verfügung.*",
+      "With a modal, Futur or Perfekt the noun part stands directly before the infinitive or Partizip II: *… zur Verfügung stellen / gestellt*. In a Nebensatz it comes just before the finite verb: *…, ob das Projekt in Gang kommt.*",
+      "Place the other parts in the Mittelfeld before the noun part: objects in the case the FVG requires (*jemandem etwas zur Verfügung stellen*), prepositional objects (*Rücksicht auf + Akk.*), and *nicht* before a prepositional noun part (*nicht in Frage stellen*).",
+      "Choose the verb for the meaning: *stellen/bringen/setzen* = someone causes something; *stehen/sein* = a state; *kommen/finden* = something happens, often with a passive meaning (*zum Abschluss kommen* = abgeschlossen werden)."
+    ],
+    "pitfalls": [
+      "Wrong light verb (often from English): ✗ *eine Entscheidung machen* → ✓ *eine Entscheidung treffen*; ✗ *in Erwägung nehmen* → ✓ *in Erwägung ziehen*.",
+      "Wrong preposition or article: ✗ *zu Verfügung stellen* → ✓ *zur Verfügung stellen*; ✗ *in die Kraft treten* → ✓ *in Kraft treten*.",
+      "Noun part not at the end: ✗ *Das Hotel stellt zur Verfügung ein Zimmer.* → ✓ *Das Hotel stellt ein Zimmer zur Verfügung.*",
+      "Mixing up the active and the state/passive verb: ✗ *Diese Frage stellt nicht zur Diskussion.* → ✓ *Diese Frage steht nicht zur Diskussion.*",
+      "Overusing FVG: in everyday speech *nutzen, erwägen, ansprechen* often sound more natural than the FVG. Use FVG in formal writing."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Wir nehmen Ihre Hilfe gerne in {{c1::Anspruch::nutzen}}.",
+      "en": "We will gladly make use of your help.",
+      "focus": "FVG mit *nehmen* · Akkusativobjekt",
+      "explanation": "*etwas in Anspruch nehmen* = *nutzen, beanspruchen* (to make use of). The object *Ihre Hilfe* is Akkusativ. *nehmen* stands in position 2, and *in Anspruch* closes the sentence like a separable prefix (right part of the Satzklammer). The noun has no article in this fixed phrase.",
+      "pattern": "Subjekt + nehmen + Akk. + in Anspruch",
+      "mistake": {"wrong": "Wir nehmen Ihre Hilfe gerne in den Anspruch.", "why": "The FVG is fixed without an article: *in Anspruch nehmen*."},
+      "examples": [
+        {"de": "Viele Studierende nehmen die psychologische Beratung in Anspruch.", "en": "Many students make use of the psychological counselling service."},
+        {"de": "Die Reparatur hat mehr Zeit in Anspruch genommen als geplant.", "en": "The repair took up more time than planned."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Bitte stellen Sie uns die Daten zur {{c1::Verfügung::bereitstellen}}.",
+      "en": "Please make the data available to us.",
+      "focus": "FVG mit *stellen* · Dativ + Akkusativ · Imperativ",
+      "explanation": "*jemandem etwas zur Verfügung stellen* = *bereitstellen* (to make available, to provide). The receiver is Dativ (*uns*), the thing is Akkusativ (*die Daten*). *zur* = *zu der* (*die Verfügung* is feminine). In the Sie-imperative *stellen* comes first and *zur Verfügung* goes to the end.",
+      "pattern": "stellen Sie + Dat. + Akk. + zur Verfügung",
+      "mistake": {"wrong": "Bitte stellen Sie uns die Daten zu Verfügung.", "why": "The fixed phrase contains the article: *zur* (= *zu der*) *Verfügung*."},
+      "examples": [
+        {"de": "Die Firma stellt allen Mitarbeitern einen Laptop zur Verfügung.", "en": "The company provides all employees with a laptop."},
+        {"de": "Das Hotel stellt den Gästen kostenlos Fahrräder zur Verfügung.", "en": "The hotel provides guests with free bicycles."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie, request)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich werde Ihren Vorschlag in {{c1::Erwägung::erwägen}} ziehen.",
+      "en": "I will take your proposal into consideration.",
+      "focus": "FVG mit *ziehen* · Futur I",
+      "explanation": "*etwas in Erwägung ziehen* = *erwägen* (to consider). In the Futur I, *werde* is in position 2 and the whole FVG goes to the end: *in Erwägung ziehen*. The noun part stands directly before the infinitive.",
+      "pattern": "werden + Akk. + in Erwägung + ziehen",
+      "mistake": {"wrong": "Ich werde Ihren Vorschlag in Erwägung nehmen.", "why": "Each FVG has one fixed verb. With *Erwägung* it is *ziehen*; *nehmen* belongs to other FVG such as *in Kauf nehmen*."},
+      "examples": [
+        {"de": "Wir ziehen auch einen Umzug ins Ausland in Erwägung.", "en": "We are also considering moving abroad."},
+        {"de": "Die Firma zieht eine Schließung des Werks in Erwägung.", "en": "The company is considering closing the plant."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Bezug::sich beziehen}} nehmend auf Ihre E-Mail antworte ich hiermit.",
+      "en": "With reference to your email, I am hereby replying.",
+      "focus": "FVG als Partizip I · Briefformel",
+      "explanation": "*Bezug nehmen auf* + Akkusativ = *sich beziehen auf* (to refer to). Here the FVG appears as a Partizip I phrase at the start of a formal letter: *Bezug nehmend auf Ihre E-Mail* (also written *bezugnehmend*). The phrase fills position 1, so *antworte* follows. Modern business style often prefers *Vielen Dank für Ihre E-Mail*.",
+      "pattern": "Bezug nehmend auf + Akk., + Verb + Subjekt …",
+      "mistake": {"wrong": "Bezug nehmend an Ihre E-Mail antworte ich hiermit.", "why": "*Bezug nehmen* is always combined with *auf* + Akkusativ: *Bezug nehmend auf Ihre E-Mail*."},
+      "examples": [
+        {"de": "Bezug nehmend auf unser Telefonat sende ich Ihnen die Unterlagen.", "en": "Further to our phone call, I am sending you the documents."},
+        {"de": "Bezug nehmend auf Ihre Anzeige bewerbe ich mich um die Stelle.", "en": "With reference to your advertisement, I am applying for the position."}
+      ],
+      "words": [{"de": "hiermit", "en": "hereby"}],
+      "production_cue": "(formal letter)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das stelle ich nicht in {{c1::Frage::bezweifeln}}.",
+      "en": "I'm not questioning that.",
+      "focus": "FVG mit *stellen* · Negation · Objekt im Vorfeld",
+      "explanation": "*etwas in Frage stellen* (also *infrage stellen*) = *bezweifeln* (to question, to doubt). *Das* is the Akkusativ object in position 1, so *stelle* follows and *ich* comes after it. *nicht* stands before the prepositional part *in Frage*, which closes the sentence.",
+      "pattern": "Akk. + stellen + Subjekt + nicht + in Frage",
+      "mistake": {"wrong": "Das stelle ich in Frage nicht.", "why": "The noun part of the FVG closes the sentence. *nicht* must stand before it: *nicht in Frage*."},
+      "examples": [
+        {"de": "Die neue Studie stellt frühere Ergebnisse in Frage.", "en": "The new study calls earlier results into question."},
+        {"de": "Viele Bürger stellen den Sinn der Reform infrage.", "en": "Many citizens question the point of the reform."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Diese Möglichkeit kommt nicht in {{c1::Frage::möglich sein}}.",
+      "en": "This option is out of the question.",
+      "focus": "FVG mit *kommen* · Kontrast zu *stellen*",
+      "explanation": "*in Frage kommen* = *möglich sein, eine Option sein*. Compare the pair: *in Frage stellen* (someone doubts something) vs. *in Frage kommen* (something is an option). With *nicht* it means *out of the question*. *kommen* is intransitive, so there is no Akkusativ object.",
+      "pattern": "Subjekt + kommen + (nicht) + in Frage",
+      "mistake": {"wrong": "Diese Möglichkeit kommt nicht zur Frage.", "why": "The fixed preposition is *in*: *in Frage kommen*. *zur* belongs to other FVG such as *zur Sprache kommen*."},
+      "examples": [
+        {"de": "Für die Stelle kommen nur drei Bewerber in Frage.", "en": "Only three applicants are suitable for the position."},
+        {"de": "Ein Rücktritt kommt für den Minister nicht in Frage.", "en": "Resigning is out of the question for the minister."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich möchte das Thema zur {{c1::Sprache::ansprechen}} bringen.",
+      "en": "I'd like to bring up the topic.",
+      "focus": "FVG mit *bringen* · Modalverb",
+      "explanation": "*etwas zur Sprache bringen* = *ansprechen* (to raise, to bring up). With the modal *möchte*, the infinitive *bringen* goes to the end, and *zur Sprache* stands directly before it. The pair *zur Sprache kommen* means *to be discussed*.",
+      "pattern": "Modalverb + Akk. + zur Sprache + bringen",
+      "mistake": {"wrong": "Ich möchte das Thema zur Sprache stellen.", "why": "The verb of this FVG is *bringen*. *stellen* goes with other nouns: *zur Diskussion stellen, zur Verfügung stellen*."},
+      "examples": [
+        {"de": "Der Betriebsrat will die Überstunden zur Sprache bringen.", "en": "The works council wants to bring up the issue of overtime."},
+        {"de": "Bei dem Treffen kam auch das Budget zur Sprache.", "en": "The budget was also discussed at the meeting."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir müssen dem Streit ein {{c1::Ende::beenden}} setzen.",
+      "en": "We have to put an end to the argument.",
+      "focus": "FVG mit *setzen* · Dativ der Sache",
+      "explanation": "*einer Sache ein Ende setzen* = *beenden* (to put an end to). The thing that ends is in the Dativ (*dem Streit*), and *ein Ende* is the Akkusativ. Unlike most FVG, this one has an indefinite article. With *müssen* the infinitive *setzen* closes the sentence.",
+      "pattern": "Dat. (Sache) + ein Ende + setzen",
+      "mistake": {"wrong": "Wir müssen den Streit ein Ende setzen.", "why": "The thing that is ended is in the Dativ: *dem Streit*. *ein Ende* is already the Akkusativ object."},
+      "examples": [
+        {"de": "Die Regierung will der Korruption ein Ende setzen.", "en": "The government wants to put an end to corruption."},
+        {"de": "Ein Kompromiss setzte dem Konflikt ein Ende.", "en": "A compromise put an end to the conflict."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Den Verlust nehme ich in {{c1::Kauf::akzeptieren}}.",
+      "en": "I'll accept the loss.",
+      "focus": "FVG mit *nehmen* · Objekt im Vorfeld",
+      "explanation": "*etwas in Kauf nehmen* = to accept a disadvantage because you want something else (to put up with). The Akkusativ object *den Verlust* is in position 1 for emphasis; *nehme* follows, then *ich*, and *in Kauf* closes the sentence. The phrase has nothing to do with buying.",
+      "pattern": "Akk. + nehmen + Subjekt + in Kauf",
+      "mistake": {"wrong": "Den Verlust nehme ich in den Kauf.", "why": "The FVG has no article: *in Kauf nehmen*."},
+      "examples": [
+        {"de": "Für die schöne Aussicht nehmen wir den langen Weg in Kauf.", "en": "We put up with the long walk for the beautiful view."},
+        {"de": "Viele Pendler nehmen lange Fahrzeiten in Kauf.", "en": "Many commuters accept long journey times."}
+      ],
+      "words": [{"de": "der Verlust (-e)", "en": "loss"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Bitte nehmen Sie {{c1::Rücksicht::berücksichtigen}} auf andere.",
+      "en": "Please be considerate of others.",
+      "focus": "FVG mit *nehmen* · Präposition + Akkusativ",
+      "explanation": "*Rücksicht nehmen auf* + Akkusativ = to be considerate of, to take into account. The noun has no article, and *auf andere* (Akkusativ plural) names the people. In the Sie-imperative the verb comes first. Negation: *keine Rücksicht nehmen*.",
+      "pattern": "nehmen Sie + Rücksicht + auf + Akk.",
+      "mistake": {"wrong": "Bitte nehmen Sie Rücksicht für andere.", "why": "*Rücksicht nehmen* is always combined with *auf* + Akkusativ: *Rücksicht auf andere*."},
+      "examples": [
+        {"de": "Im Zug sollte man Rücksicht auf ältere Fahrgäste nehmen.", "en": "On the train you should be considerate of older passengers."},
+        {"de": "Er nimmt nie Rücksicht auf die Gefühle anderer.", "en": "He never takes other people's feelings into account."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie, request)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir nehmen Ihre Bewerbung zur {{c1::Kenntnis::registrieren}}.",
+      "en": "We have taken note of your application.",
+      "focus": "FVG mit *nehmen* · *zur* + feminines Nomen",
+      "explanation": "*etwas zur Kenntnis nehmen* = to take note of, to register. It is formal and can sound a little distant. *zur* = *zu der* (*die Kenntnis*). The Akkusativ object is *Ihre Bewerbung*.",
+      "pattern": "nehmen + Akk. + zur Kenntnis",
+      "mistake": {"wrong": "Wir nehmen Ihre Bewerbung in Kenntnis.", "why": "The preposition is *zur*: *zur Kenntnis nehmen*. *in Kenntnis setzen* is a different FVG (= *informieren*)."},
+      "examples": [
+        {"de": "Der Chef nahm die Beschwerde nur zur Kenntnis.", "en": "The boss merely took note of the complaint."},
+        {"de": "Bitte nehmen Sie die neuen Regeln zur Kenntnis.", "en": "Please take note of the new rules."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Er nimmt seine Rechte als Mieter in {{c1::Anspruch::nutzen}}.",
+      "en": "He makes use of his rights as a tenant.",
+      "correction": "The old sentence was *Er nimmt seine Pflichten ernst und in Anspruch.* *Pflichten in Anspruch nehmen* makes no sense (you claim rights or services, not duties), and the English (*He takes his duties seriously*) did not match. Rewritten with *Rechte*; the cloze answer *Anspruch* is unchanged.",
+      "focus": "FVG mit *nehmen* · Rechte nutzen",
+      "explanation": "*etwas in Anspruch nehmen* here means to claim and use something you are entitled to: a right, a service, a benefit. The object *seine Rechte als Mieter* is Akkusativ. Compare *Zeit in Anspruch nehmen* (to take up time).",
+      "pattern": "Subjekt + nehmen + Akk. + in Anspruch",
+      "mistake": {"wrong": "Er nimmt in Anspruch seine Rechte als Mieter.", "why": "The noun part *in Anspruch* is the right part of the Satzklammer; the object must stand in the Mittelfeld before it."},
+      "examples": [
+        {"de": "Sie nimmt ihr Recht auf Elternzeit in Anspruch.", "en": "She is taking up her right to parental leave."},
+        {"de": "Immer mehr Senioren nehmen den Lieferservice in Anspruch.", "en": "More and more older people use the delivery service."}
+      ],
+      "words": [{"de": "der Mieter (-)", "en": "tenant"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das Hotel stellt uns ein Zimmer zur {{c1::Verfügung::bereitstellen}}.",
+      "en": "The hotel provides us with a room.",
+      "focus": "FVG mit *stellen* · Reihenfolge im Mittelfeld",
+      "explanation": "The same FVG as *Daten zur Verfügung stellen*, here in a statement: *Das Hotel* (subject) – *stellt* (position 2) – *uns* (Dativ pronoun) – *ein Zimmer* (Akkusativ noun) – *zur Verfügung* (end). A pronoun object comes before a noun object in the Mittelfeld.",
+      "pattern": "Subjekt + stellen + Dat.-Pronomen + Akk. + zur Verfügung",
+      "mistake": {"wrong": "Das Hotel stellt uns zur Verfügung ein Zimmer.", "why": "*zur Verfügung* closes the clause; the Akkusativ object *ein Zimmer* must stand before it in the Mittelfeld."},
+      "examples": [
+        {"de": "Die Universität stellt den Gastforschern eine Wohnung zur Verfügung.", "en": "The university provides the visiting researchers with a flat."},
+        {"de": "Wir stellen Ihnen gern weitere Informationen zur Verfügung.", "en": "We will be happy to provide you with further information."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir ziehen verschiedene Optionen in {{c1::Erwägung::erwägen}}.",
+      "en": "We're considering various options.",
+      "focus": "FVG mit *ziehen* · Präsens",
+      "explanation": "*in Erwägung ziehen* in the Präsens: *ziehen* in position 2, *in Erwägung* at the end. *verschiedene Optionen* is the Akkusativ object (plural without article → strong ending *-e*). The simple verb *erwägen* is possible but rarer in speech.",
+      "pattern": "Subjekt + ziehen + Akk. + in Erwägung",
+      "mistake": {"wrong": "Wir ziehen verschiedene Optionen in die Erwägung.", "why": "The FVG is fixed without an article: *in Erwägung ziehen*."},
+      "examples": [
+        {"de": "Die Stadt zieht ein Fahrverbot für Dieselautos in Erwägung.", "en": "The city is considering a driving ban for diesel cars."},
+        {"de": "Ziehst du ein Studium im Ausland in Erwägung?", "en": "Are you considering studying abroad?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir wollen darauf {{c1::Bezug::sich beziehen}} nehmen.",
+      "en": "We'd like to refer to that.",
+      "focus": "FVG mit Präpositionalobjekt · Pronominaladverb",
+      "explanation": "*Bezug nehmen auf* + Akkusativ. When the object is a thing or a whole statement, *auf* + pronoun becomes the pronominal adverb **darauf**. It stands before the noun part: *darauf Bezug nehmen*. With *wollen* the infinitive *nehmen* comes last.",
+      "pattern": "Modalverb + darauf + Bezug + nehmen",
+      "mistake": {"wrong": "Wir wollen auf es Bezug nehmen.", "why": "With things, *auf* + pronoun becomes *darauf*. *auf es* is not used."},
+      "examples": [
+        {"de": "Der Redner nahm mehrmals darauf Bezug.", "en": "The speaker referred to it several times."},
+        {"de": "In ihrer Antwort nimmt sie auf meinen Brief Bezug.", "en": "In her reply she refers to my letter."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Niemand stellt seine Kompetenz in {{c1::Frage::bezweifeln}}.",
+      "en": "Nobody questions his competence.",
+      "focus": "FVG mit *stellen* · Negation durch *niemand*",
+      "explanation": "*niemand* is the subject (3rd person singular → *stellt*), *seine Kompetenz* the Akkusativ object, and *in Frage* closes the sentence. *niemand* already negates the sentence, so no *nicht* is needed.",
+      "pattern": "niemand + stellen + Akk. + in Frage",
+      "mistake": {"wrong": "Niemand stellt nicht seine Kompetenz in Frage.", "why": "*niemand* already contains the negation. An extra *nicht* creates a double negation."},
+      "examples": [
+        {"de": "Kein Experte stellt die Ergebnisse in Frage.", "en": "No expert questions the results."},
+        {"de": "Die Opposition stellt die Zahlen der Regierung infrage.", "en": "The opposition is questioning the government's figures."}
+      ],
+      "words": [{"de": "die Kompetenz (-en)", "en": "competence, expertise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Bringen wir das jetzt zur {{c1::Sprache::ansprechen}}!",
+      "en": "Let's bring this up now!",
+      "focus": "FVG mit *bringen* · *wir*-Imperativ",
+      "explanation": "This is the *wir*-imperative (*Let's …*): the verb *bringen* comes first, followed by *wir*. *das* is the Akkusativ object, *jetzt* the time, and *zur Sprache* closes the sentence.",
+      "pattern": "Verb + wir + Akk. + … + zur Sprache!",
+      "mistake": {"wrong": "Bringen wir zur Sprache das jetzt!", "why": "The noun part *zur Sprache* goes to the end; the object *das* and the adverb *jetzt* stand before it."},
+      "examples": [
+        {"de": "Nehmen wir das Angebot doch in Anspruch!", "en": "Let's take up the offer!"},
+        {"de": "Setzen wir dem Chaos endlich ein Ende!", "en": "Let's finally put an end to the chaos!"}
+      ],
+      "words": [],
+      "production_cue": "(wir-imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie hat dem Lärm ein {{c1::Ende::beenden}} gesetzt.",
+      "en": "She put an end to the noise.",
+      "focus": "FVG mit *setzen* · Perfekt",
+      "explanation": "Perfekt: *hat* in position 2, the Partizip II *gesetzt* at the end, and *ein Ende* directly before it. *dem Lärm* is the Dativ (the thing that is ended). The FVG noun always stands closest to the verb.",
+      "pattern": "haben + Dat. + ein Ende + gesetzt",
+      "mistake": {"wrong": "Sie hat ein Ende dem Lärm gesetzt.", "why": "The noun part of the FVG must stand directly before the Partizip II: *dem Lärm ein Ende gesetzt*."},
+      "examples": [
+        {"de": "Der Trainer hat der Niederlagenserie ein Ende gesetzt.", "en": "The coach put an end to the losing streak."},
+        {"de": "Ein Gerichtsurteil hat dem Streit ein Ende gesetzt.", "en": "A court ruling put an end to the dispute."}
+      ],
+      "words": [{"de": "der Lärm", "en": "noise"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir müssen viele Verluste in {{c1::Kauf::akzeptieren}} nehmen.",
+      "en": "We have to accept many losses.",
+      "focus": "FVG mit *nehmen* · Modalverb",
+      "explanation": "With *müssen* the infinitive *nehmen* goes to the end, and *in Kauf* stands directly before it. *viele Verluste* is the Akkusativ object (plural, no article). The FVG says the losses are accepted as the price of something else.",
+      "pattern": "Modalverb + Akk. + in Kauf + nehmen",
+      "mistake": {"wrong": "Wir müssen in Kauf viele Verluste nehmen.", "why": "The object belongs in the Mittelfeld before the FVG: *viele Verluste in Kauf nehmen*."},
+      "examples": [
+        {"de": "Für ein besseres Klima müssen wir höhere Preise in Kauf nehmen.", "en": "For a better climate we have to accept higher prices."},
+        {"de": "Sie musste lange Wartezeiten in Kauf nehmen.", "en": "She had to put up with long waiting times."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich nehme Ihre Antwort dankend zur {{c1::Kenntnis::registrieren}}.",
+      "en": "I gratefully take note of your reply.",
+      "focus": "FVG mit *nehmen* · Höflichkeitsformel",
+      "explanation": "*dankend zur Kenntnis nehmen* is a polite formula in letters. *dankend* (Partizip I of *danken*) is an adverb of manner and stands in the Mittelfeld before the noun part. *zur* = *zu der Kenntnis*.",
+      "pattern": "nehmen + Akk. + Adverb + zur Kenntnis",
+      "mistake": {"wrong": "Ich nehme Ihre Antwort dankend zu Kenntnis.", "why": "The fixed phrase contains the article: *zur* (= *zu der*) *Kenntnis*."},
+      "examples": [
+        {"de": "Wir haben Ihre Kündigung zur Kenntnis genommen.", "en": "We have taken note of your notice of termination."},
+        {"de": "Die Abteilung nahm die Kritik ohne Kommentar zur Kenntnis.", "en": "The department took note of the criticism without comment."}
+      ],
+      "words": [],
+      "production_cue": "(formal letter)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die Regierung hat zahlreiche Maßnahmen in die {{c1::Wege::einleiten}} geleitet.",
+      "en": "The government has initiated numerous measures.",
+      "focus": "FVG mit *leiten* · Plural mit Artikel · Perfekt",
+      "explanation": "*etwas in die Wege leiten* = *einleiten, veranlassen* (to set in motion). This FVG has the plural noun with the article: *in die Wege*. In the Perfekt *hat* is in position 2 and *in die Wege geleitet* closes the sentence.",
+      "pattern": "haben + Akk. + in die Wege + geleitet",
+      "mistake": {"wrong": "Die Regierung hat zahlreiche Maßnahmen in den Weg geleitet.", "why": "The fixed form is plural: *in die Wege leiten*. *in den Weg* belongs to other phrases (*jemandem Steine in den Weg legen*)."},
+      "examples": [
+        {"de": "Die Schule hat eine Untersuchung in die Wege geleitet.", "en": "The school has started an investigation."},
+        {"de": "Wir leiten alles Nötige in die Wege.", "en": "We'll set everything necessary in motion."}
+      ],
+      "words": [{"de": "die Maßnahme (-n)", "en": "measure"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der neue Fahrplan tritt am 1. Dezember in {{c1::Kraft::gültig werden}}.",
+      "en": "The new timetable comes into effect on 1 December.",
+      "focus": "FVG mit *treten* · Gültigkeit",
+      "explanation": "*in Kraft treten* = *gültig werden* (to come into force). It is used for laws, rules, contracts and timetables. *treten* is intransitive and forms its Perfekt with *sein* (*ist in Kraft getreten*). The causative counterpart is *in Kraft setzen* (to put into force).",
+      "pattern": "Subjekt + treten + Zeitangabe + in Kraft",
+      "mistake": {"wrong": "Der neue Fahrplan tritt am 1. Dezember in die Kraft.", "why": "The FVG is fixed without an article: *in Kraft treten*."},
+      "examples": [
+        {"de": "Das Gesetz tritt Anfang nächsten Jahres in Kraft.", "en": "The law comes into force at the beginning of next year."},
+        {"de": "Die neuen Regeln sind gestern in Kraft getreten.", "en": "The new rules came into force yesterday."}
+      ],
+      "words": [{"de": "der Fahrplan (¨-e)", "en": "timetable"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das neue Verfahren kommt in diesem Jahr erstmals zur {{c1::Anwendung::angewendet werden}}.",
+      "en": "The new procedure will be used for the first time this year.",
+      "focus": "FVG mit *kommen* · passive Bedeutung",
+      "explanation": "*zur Anwendung kommen* = *angewendet werden*. Many FVG with *kommen* have a passive meaning: *zur Sprache kommen* (to be discussed), *zum Einsatz kommen* (to be used). The active counterpart uses *bringen*: *etwas zur Anwendung bringen*.",
+      "pattern": "Subjekt + kommen + … + zur Anwendung (= Passiv)",
+      "mistake": {"wrong": "Das neue Verfahren bringt in diesem Jahr erstmals zur Anwendung.", "why": "*bringen* needs an agent as subject and an object (*Die Klinik bringt das Verfahren zur Anwendung*). With the procedure as subject, the passive FVG uses *kommen*."},
+      "examples": [
+        {"de": "Bei der Suche kamen auch Drohnen zum Einsatz.", "en": "Drones were also used in the search."},
+        {"de": "Die neue Regel kommt nur in Ausnahmefällen zur Anwendung.", "en": "The new rule is applied only in exceptional cases."}
+      ],
+      "words": [{"de": "das Verfahren (-)", "en": "procedure, process"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der Vorschlag der Gewerkschaft fand breite {{c1::Zustimmung::zugestimmt werden}}.",
+      "en": "The union's proposal met with broad approval.",
+      "focus": "FVG mit *finden* · passive Bedeutung · Adjektiv",
+      "explanation": "*Zustimmung finden* = *zugestimmt werden* (to meet with approval). FVG with *finden* also have a passive meaning: *Beachtung finden* (to receive attention), *Anklang finden* (to be well received). The noun can take an adjective; without an article it has the strong ending: *breite Zustimmung*.",
+      "pattern": "Subjekt + finden + Adj. + Nomen (Akk.)",
+      "mistake": {"wrong": "Der Vorschlag der Gewerkschaft nahm breite Zustimmung.", "why": "With *Zustimmung* the light verb is *finden* (or *erhalten*). *nehmen* does not combine with this noun."},
+      "examples": [
+        {"de": "Die Idee fand bei den Studierenden großen Anklang.", "en": "The idea was very well received by the students."},
+        {"de": "Seine Forschung findet international Beachtung.", "en": "His research receives international attention."}
+      ],
+      "words": [{"de": "die Gewerkschaft (-en)", "en": "trade union"}, {"de": "die Zustimmung", "en": "approval, agreement"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir müssen bis Montag eine {{c1::Entscheidung::entscheiden}} treffen.",
+      "en": "We have to make a decision by Monday.",
+      "focus": "FVG mit *treffen* · Kontrast zum Englischen",
+      "explanation": "*eine Entscheidung treffen* = *entscheiden*. The light verb is *treffen*, not *machen* (English *make a decision*). The same verb appears in *eine Wahl treffen, eine Vereinbarung treffen, Vorbereitungen treffen*.",
+      "pattern": "Modalverb + eine Entscheidung + treffen",
+      "mistake": {"wrong": "Wir müssen bis Montag eine Entscheidung machen.", "why": "*eine Entscheidung machen* is a word-for-word translation from English. The German FVG is *eine Entscheidung treffen*."},
+      "examples": [
+        {"de": "Habt ihr schon eine Wahl getroffen?", "en": "Have you made a choice yet?"},
+        {"de": "Die Partner haben eine Vereinbarung über die Kosten getroffen.", "en": "The partners have reached an agreement on the costs."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Diese Frage steht heute nicht zur {{c1::Diskussion::diskutiert werden}}.",
+      "en": "This question is not up for discussion today.",
+      "focus": "FVG mit *stehen* · Zustand",
+      "explanation": "Pairs: *etwas zur Diskussion stellen* (someone puts it up for discussion) → *zur Diskussion stehen* (it is up for discussion: a state). *stehen*-FVG describe a state, *stellen*-FVG the action that causes it. *nicht* stands before the prepositional part.",
+      "pattern": "Subjekt + stehen + nicht + zur Diskussion",
+      "mistake": {"wrong": "Diese Frage stellt heute nicht zur Diskussion.", "why": "*stellen* needs an agent and an object (*Wir stellen die Frage zur Diskussion*). For the state of the question itself, use *stehen*."},
+      "examples": [
+        {"de": "Der Vorstand stellt den Plan morgen zur Diskussion.", "en": "The board will put the plan up for discussion tomorrow."},
+        {"de": "Bei der Wahl stehen drei Kandidaten zur Auswahl.", "en": "There are three candidates to choose from in the election."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Verhandlungen sind endlich zum {{c1::Abschluss::abgeschlossen werden}} gekommen.",
+      "en": "The negotiations have finally been concluded.",
+      "focus": "FVG mit *kommen* · Perfekt mit *sein*",
+      "explanation": "*zum Abschluss kommen* = *abgeschlossen werden*. *kommen* forms its Perfekt with *sein*: *sind … gekommen*. *zum* = *zu dem* (*der Abschluss* is masculine). The active counterpart is *etwas zum Abschluss bringen* (*hat … gebracht*).",
+      "pattern": "sein + … + zum Abschluss + gekommen",
+      "mistake": {"wrong": "Die Verhandlungen haben endlich zum Abschluss gekommen.", "why": "*kommen* is a verb of movement and forms its Perfekt with *sein*, also inside an FVG: *sind zum Abschluss gekommen*."},
+      "examples": [
+        {"de": "Das Projekt ist pünktlich zum Abschluss gekommen.", "en": "The project was completed on time."},
+        {"de": "Die Ermittlungen sind noch nicht zum Abschluss gekommen.", "en": "The investigation has not yet been concluded."}
+      ],
+      "words": [{"de": "die Verhandlung (-en)", "en": "negotiation"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Lobbyisten haben großen {{c1::Einfluss::beeinflussen}} auf das Gesetz genommen.",
+      "en": "The lobbyists exerted a great deal of influence on the law.",
+      "focus": "FVG mit *nehmen* · Präpositionalobjekt · Adjektiv",
+      "explanation": "*Einfluss nehmen auf* + Akkusativ = *beeinflussen*. The noun can take an adjective without an article: *großen Einfluss* (strong masculine Akkusativ). In the Perfekt the prepositional object *auf das Gesetz* stands between the noun and the Partizip II *genommen*.",
+      "pattern": "haben + Adj. + Einfluss + auf + Akk. + genommen",
+      "mistake": {"wrong": "Die Lobbyisten haben großen Einfluss an das Gesetz genommen.", "why": "*Einfluss nehmen* is always combined with *auf* + Akkusativ: *Einfluss auf das Gesetz*."},
+      "examples": [
+        {"de": "Eltern nehmen oft Einfluss auf die Berufswahl ihrer Kinder.", "en": "Parents often influence their children's choice of career."},
+        {"de": "Der Konzern versuchte, Einfluss auf die Medien zu nehmen.", "en": "The corporation tried to influence the media."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich möchte Ihnen meinen Dank zum {{c1::Ausdruck::ausdrücken}} bringen.",
+      "en": "I would like to express my gratitude to you.",
+      "focus": "FVG mit *bringen* · gehobene Rede",
+      "explanation": "*etwas zum Ausdruck bringen* = *ausdrücken* (to express). It is very formal (speeches, official letters). The person is Dativ (*Ihnen*), the thing Akkusativ (*meinen Dank*). *zum* = *zu dem*, because *der Ausdruck* is masculine. Passive counterpart: *zum Ausdruck kommen* (to be expressed).",
+      "pattern": "Modalverb + Dat. + Akk. + zum Ausdruck + bringen",
+      "mistake": {"wrong": "Ich möchte Ihnen meinen Dank zur Ausdruck bringen.", "why": "*der Ausdruck* is masculine, so *zu dem* contracts to *zum*, not *zur*: *zum Ausdruck bringen*."},
+      "examples": [
+        {"de": "Die Demonstranten brachten ihre Wut deutlich zum Ausdruck.", "en": "The demonstrators clearly expressed their anger."},
+        {"de": "In dem Brief kommt ihre Enttäuschung klar zum Ausdruck.", "en": "Her disappointment is clearly expressed in the letter."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie, speech)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Feuerwehr hat den Brand schnell unter {{c1::Kontrolle::kontrollieren}} gebracht.",
+      "en": "The fire brigade quickly brought the fire under control.",
+      "focus": "FVG mit *bringen* · Ursache vs. Zustand",
+      "explanation": "*etwas unter Kontrolle bringen* describes the action (to bring under control); *etwas unter Kontrolle haben* describes the resulting state. Perfekt: *hat … gebracht*. The adverb *schnell* stands in the Mittelfeld before the noun part.",
+      "pattern": "haben + Akk. + Adverb + unter Kontrolle + gebracht",
+      "mistake": {"wrong": "Die Feuerwehr hat den Brand schnell in Kontrolle gebracht.", "why": "The fixed preposition is *unter*: *unter Kontrolle bringen / haben*."},
+      "examples": [
+        {"de": "Die Regierung will die Inflation unter Kontrolle bringen.", "en": "The government wants to bring inflation under control."},
+        {"de": "Hast du deine Nerven wieder unter Kontrolle?", "en": "Have you got your nerves under control again?"}
+      ],
+      "words": [{"de": "der Brand (¨-e)", "en": "fire, blaze"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Der Konzern hat zu den Vorwürfen noch keine {{c1::Stellung::sich äußern}} genommen.",
+      "en": "The company has not yet commented on the allegations.",
+      "focus": "FVG mit *nehmen* · Negation mit *kein*",
+      "explanation": "*Stellung nehmen zu* + Dativ = *sich äußern zu* (to comment on, to give an opinion). Because the noun has no article, it can be negated with **keine** (*keine Stellung nehmen*), as in *keine Rücksicht nehmen*; *noch nicht Stellung genommen* is also common, because *Stellung nehmen* works as one fixed unit. With prepositional FVG the negation is *nicht* (*nicht in Frage kommen*).",
+      "pattern": "haben + zu + Dat. + keine Stellung + genommen",
+      "mistake": {"wrong": "Der Konzern hat über die Vorwürfe noch keine Stellung genommen.", "why": "*Stellung nehmen* is combined with *zu* + Dativ: *zu den Vorwürfen*. *über* goes with *sprechen* or *sich äußern über*, not with this FVG."},
+      "examples": [
+        {"de": "Die Ministerin will morgen zum Bericht Stellung nehmen.", "en": "The minister wants to comment on the report tomorrow."},
+        {"de": "Bitte nehmen Sie bis Freitag schriftlich Stellung.", "en": "Please send us your written comments by Friday."}
+      ],
+      "words": [{"de": "der Vorwurf (¨-e)", "en": "allegation, accusation"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Es ist noch unklar, ob das Projekt überhaupt in {{c1::Gang::beginnen}} kommt.",
+      "en": "It is still unclear whether the project will get going at all.",
+      "focus": "FVG im Nebensatz · Verb am Ende",
+      "explanation": "*in Gang kommen* = *beginnen, anfangen zu laufen* (to get going). In the *ob*-clause the finite verb *kommt* goes to the end, and the noun part *in Gang* stands directly before it. Related FVG: *etwas in Gang setzen / bringen* (to start something), *im Gang(e) sein* (to be under way).",
+      "pattern": "ob + Subjekt + … + in Gang + kommt (Ende)",
+      "mistake": {"wrong": "Es ist noch unklar, ob das Projekt kommt überhaupt in Gang.", "why": "In a Nebensatz the finite verb goes to the very end, after the noun part: *ob das Projekt überhaupt in Gang kommt*."},
+      "examples": [
+        {"de": "Ich weiß nicht, ob die Gespräche bald in Gang kommen.", "en": "I don't know whether the talks will get going soon."},
+        {"de": "Er hofft, dass die Wirtschaft wieder in Gang kommt.", "en": "He hopes that the economy will pick up again."}
+      ],
+      "words": [{"de": "überhaupt", "en": "at all"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain what a Funktionsverbgefüge is.",
+      "prompt": "What makes *zur Verfügung stellen* a Funktionsverbgefüge and not just a verb with a normal object?",
+      "answer": "The **noun** (*Verfügung*) carries the meaning, and the **verb** (*stellen*) has lost its own meaning (nothing is *put* anywhere). The parts are fixed: the preposition and article cannot be changed, the noun cannot be replaced by a pronoun or asked about, and the whole unit often equals one simple verb (*bereitstellen*).",
+      "explanation": "Compare *Ich stelle die Vase auf den Tisch* (real meaning of *stellen*, *Wohin?* is possible) with *Ich stelle die Daten zur Verfügung* (✗ *Wozu stellst du die Daten?*). In an FVG, the noun part works like a separable prefix and closes the Satzklammer.",
+      "examples": [
+        {"de": "Ich stelle die Vase auf den Tisch.", "en": "I'm putting the vase on the table."},
+        {"de": "Die Bibliothek stellt den Lesern Computer zur Verfügung.", "en": "The library provides readers with computers."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the different light verbs.",
+      "prompt": "What is the difference between *zur Diskussion stellen*, *zur Diskussion stehen* and *zur Sprache kommen*?",
+      "answer": "**stellen / bringen / setzen**: someone causes something (active, with an agent and an object). **stehen**: a state. **kommen / finden**: something happens to the subject, often with a **passive** meaning (*zur Sprache kommen* = *angesprochen werden*).",
+      "explanation": "The noun stays the same, but the verb changes the perspective: *Wir stellen den Plan zur Diskussion* (we act) → *Der Plan steht zur Diskussion* (state) → *Der Plan kommt zur Sprache* (it is discussed). This is one reason why formal German uses FVG.",
+      "examples": [
+        {"de": "Die Gewerkschaft stellt ihre Forderungen zur Diskussion.", "en": "The union is putting its demands up for discussion."},
+        {"de": "Bei der Sitzung kamen die Forderungen zur Sprache.", "en": "The demands were discussed at the meeting."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about negation.",
+      "prompt": "When do you negate an FVG with *nicht* and when with *kein*?",
+      "answer": "FVG with a **preposition** (*in Frage, zur Verfügung, in Kauf*) are negated with **nicht**, placed before the prepositional part: *nicht in Frage kommen*. FVG with a bare noun as object (*Rücksicht nehmen, Stellung nehmen, Einfluss nehmen*) are usually negated with **kein**: *keine Rücksicht nehmen* (with *Stellung nehmen*, *nicht* is also common: *noch nicht Stellung genommen*).",
+      "explanation": "*kein* negates a noun without an article, so it fits *Rücksicht, Stellung, Einfluss*. The prepositional noun part behaves like a verb particle, so *nicht* stands before it, as in *nicht zurückkommen*.",
+      "examples": [
+        {"de": "Ein Umzug kommt für uns nicht in Frage.", "en": "Moving is out of the question for us."},
+        {"de": "Der Fahrer nahm keine Rücksicht auf die Fußgänger.", "en": "The driver showed no consideration for the pedestrians."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about style.",
+      "prompt": "Why does formal German use FVG like *in Erwägung ziehen* instead of *erwägen*, and when should you avoid them?",
+      "answer": "FVG are typical of **official, legal, academic and business** texts: they sound formal, they allow a passive or state perspective (*zur Anwendung kommen*), and the noun can take adjectives (*breite Zustimmung finden*). In **everyday speech** or simple writing, the single verb (*überlegen, nutzen, ansprechen*) is usually clearer.",
+      "explanation": "For Goethe B2/C1 writing tasks, a few correct FVG (*zur Verfügung stellen, in Anspruch nehmen, eine Entscheidung treffen*) improve the register of a formal email. Too many FVG make a text heavy and hard to read (*Nominalstil*).",
+      "examples": [
+        {"de": "Wir haben verschiedene Lösungen in Erwägung gezogen.", "en": "We have considered various solutions."},
+        {"de": "Wir haben uns verschiedene Lösungen überlegt.", "en": "We've thought about various solutions."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Replace the simple verb with the matching FVG (*in Erwägung ziehen*).",
+      "prompt": "Wir müssen diese Möglichkeit ernsthaft erwägen.",
+      "answer": "Wir müssen diese Möglichkeit ernsthaft in Erwägung ziehen.",
+      "explanation": "*erwägen* = *in Erwägung ziehen*. With *müssen* the infinitive *ziehen* goes to the end, and the noun part *in Erwägung* stands directly before it. The adverb *ernsthaft* stays in the Mittelfeld."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the FVG with the simple verb *bereitstellen*.",
+      "prompt": "Die Stadt stellt den Vereinen kostenlos Räume zur Verfügung.",
+      "answer": "Die Stadt stellt den Vereinen kostenlos Räume bereit.",
+      "explanation": "*zur Verfügung stellen* = *bereitstellen*. *bereitstellen* is separable, so in the main clause the prefix *bereit* takes the place of *zur Verfügung* at the end. The objects (Dativ *den Vereinen*, Akkusativ *Räume*) stay the same."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the sentence in the Perfekt.",
+      "prompt": "Der Chef bringt das Problem in der Sitzung zur Sprache.",
+      "answer": "Der Chef hat das Problem in der Sitzung zur Sprache gebracht.",
+      "explanation": "*bringen* forms its Perfekt with *haben* and the Partizip II *gebracht*. *hat* goes to position 2, *gebracht* to the end, and *zur Sprache* stands directly before the Partizip II."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the passive with an FVG with *kommen* (*zur Anwendung kommen*).",
+      "prompt": "Die neue Methode wird ab Januar angewendet.",
+      "answer": "Die neue Methode kommt ab Januar zur Anwendung.",
+      "explanation": "*zur Anwendung kommen* has a passive meaning, so it replaces *angewendet werden*. *kommen* is conjugated in the 3rd person singular and stands in position 2; *zur Anwendung* closes the sentence."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir stellen Ihnen gern ein Fahrzeug in Verfügung.",
+      "answer": "Wir stellen Ihnen gern ein Fahrzeug zur Verfügung.",
+      "explanation": "The fixed preposition of this FVG is *zur* (= *zu der*): *zur Verfügung stellen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich möchte Ihren Vorschlag in Erwägung nehmen.",
+      "answer": "Ich möchte Ihren Vorschlag in Erwägung ziehen.",
+      "explanation": "With *Erwägung* the light verb is *ziehen*. The noun decides which verb is possible; *nehmen* is used in *in Anspruch / in Kauf / zur Kenntnis nehmen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ein Kompromiss kommt für die Partei nicht zur Frage.",
+      "answer": "Ein Kompromiss kommt für die Partei nicht in Frage.",
+      "explanation": "The FVG is *in Frage kommen* (also written *infrage kommen*). *zur* belongs to other FVG such as *zur Sprache kommen* or *zur Anwendung kommen*."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Nach langen Verhandlungen kam es endlich ___ einer Einigung.",
+      "options": ["zu", "in", "zur", "auf"],
+      "correct": "zu",
+      "answer": "Nach langen Verhandlungen kam es endlich zu einer Einigung.",
+      "explanation": "*es kommt zu* + Dativ means *something happens* (*zu einer Einigung kommen* = sich einigen). Here the noun has its own article *einer*, so *zur* (= *zu der*) is impossible. *in* and *auf* do not combine with *Einigung* in this FVG."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct light verb.",
+      "prompt": "Die Behörde hat das Verfahren endlich zum Abschluss ___.",
+      "options": ["gebracht", "gestellt", "genommen", "gezogen"],
+      "correct": "gebracht",
+      "answer": "Die Behörde hat das Verfahren endlich zum Abschluss gebracht.",
+      "explanation": "The authority (agent) finishes the procedure (object) → active FVG *zum Abschluss bringen*. *stellen, nehmen* and *ziehen* do not combine with *zum Abschluss*; the passive counterpart would be *Das Verfahren ist zum Abschluss gekommen*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wir",
+      "prompt": "wir / Ihr Angebot / gern / in Anspruch / nehmen / würden",
+      "answer": "Wir würden Ihr Angebot gern in Anspruch nehmen.",
+      "explanation": "The finite verb *würden* is in position 2. The object *Ihr Angebot* and the adverb *gern* stand in the Mittelfeld. The FVG *in Anspruch nehmen* closes the sentence, with the infinitive last. *Wir würden gern Ihr Angebot in Anspruch nehmen* is also correct."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich bin sicher",
+      "prompt": "ich bin sicher / dass / der Vorstand / den Plan / in Frage / stellt / nicht",
+      "answer": "Ich bin sicher, dass der Vorstand den Plan nicht in Frage stellt.",
+      "explanation": "In the *dass* clause the finite verb *stellt* goes to the end, directly after the noun part *in Frage*. *nicht* stands before *in Frage*, and the object *den Plan* comes before *nicht*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with *weil*. Keep the FVG.",
+      "prompt": "Das Hotel kommt für uns nicht in Frage. Es liegt zu weit vom Zentrum entfernt.",
+      "answer": "Das Hotel kommt für uns nicht in Frage, weil es zu weit vom Zentrum entfernt liegt.",
+      "explanation": "The FVG stays in the main clause with *in Frage* at the end. The second sentence becomes the *weil* clause, where the finite verb *liegt* goes to the end."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with *dass*. The FVG goes into the Nebensatz.",
+      "prompt": "Ich hoffe es. Die Firma stellt uns die Räume bis Juni zur Verfügung.",
+      "answer": "Ich hoffe, dass die Firma uns die Räume bis Juni zur Verfügung stellt.",
+      "explanation": "In the *dass* clause the conjugated verb *stellt* moves to the end, directly after *zur Verfügung*. The pronoun *uns* stays before the noun object *die Räume* (*dass uns die Firma die Räume … zur Verfügung stellt* is also possible); *bis Juni* stays in the Mittelfeld. *es* in the first sentence is replaced by the *dass* clause."
+    }
+  ]
+}

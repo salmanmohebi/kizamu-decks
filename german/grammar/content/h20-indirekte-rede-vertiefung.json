@@ -1,0 +1,711 @@
+{
+  "topic_id": "h20-indirekte-rede-vertiefung",
+  "level": "B2",
+  "title_de": "Indirekte Rede: Vergangenheit, Fragen und Aufforderungen",
+  "title_en": "Reported speech: past, future, questions and commands",
+  "rule": {
+    "summary": "In reported speech German does not follow the tense of the introducing verb (no English-style backshift). Instead the **Konjunktiv I** has three time levels: Gegenwart (*er sei, er habe*), Vergangenheit (*er habe gewusst, er sei gewesen*: every past tense of the direct speech becomes this one form) and Zukunft (*er werde kommen*). Questions keep their question word or take **ob** and have the verb at the end. Commands are reported with **sollen** (*er solle warten*), polite requests with **mögen** (*er möge warten*). When the Konjunktiv I looks like the indicative (*sie haben, wir kommen*), you use the **Konjunktiv II** (*sie hätten, wir kämen*); when that looks like the Präteritum, you use **würde** + infinitive. Pronouns, possessives, and words for time and place change to the reporter's point of view.",
+    "table": "| Direkte Rede | Indirekte Rede (Konjunktiv I / Ersatzform) |\n|---|---|\n| „Ich **bin** krank.“ | er **sei** krank |\n| „Ich **wusste** es nicht.“ / „Ich **habe** es nicht **gewusst**.“ | er **habe** es nicht **gewusst** |\n| „Ich **war** krank.“ | er **sei** krank **gewesen** |\n| „Ich **werde** kommen.“ | er **werde** kommen |\n| „Wir **haben** keine Zeit.“ | sie **hätten** keine Zeit (KI *haben* = Indikativ → KII) |\n| „Die Preise **steigen**.“ | die Preise **würden steigen** (KII *stiegen* = Präteritum → würde) |\n| „**Wann** kommt der Bus?“ | er fragte, **wann** der Bus **komme** |\n| „**Kommt** der Bus?“ | er fragte, **ob** der Bus **komme** |\n| „**Warte**!“ | er sagte, ich **solle** warten |\n| „Warten Sie **bitte**!“ | er bat, ich **möge** warten |\n| *ich/mein, hier, heute, morgen, gestern* | *er/sein, dort, an dem Tag, am nächsten Tag, am Vortag* |",
+    "steps": [
+      "Find the time level of the direct speech. Present → Konjunktiv I Präsens. Any past tense (Präteritum, Perfekt, Plusquamperfekt) → **habe/sei + Partizip II**. Future → **werde + Infinitiv**.",
+      "Form the Konjunktiv I from the infinitive stem + *-e* endings, without the vowel change of the indicative: *er fährt → er fahre*, *er hält → er halte*. *sein* is irregular: *ich/er sei, wir/sie seien*.",
+      "Check whether the Konjunktiv I form is the same as the indicative (usually *ich*, *wir*, *sie/Sie*). If so, use the Konjunktiv II (*hätten, wären, kämen, müssten*). If the Konjunktiv II is the same as the Präteritum (weak verbs: *machten, arbeiteten*), use **würde** + infinitive.",
+      "Questions: W-question → keep the question word; yes/no question → **ob**. The verb goes to the end. Commands → **sollen**; polite requests (*bitte*, formal) → **mögen** (plural *sie möchten*).",
+      "Change persons and possessives to the reporter's point of view (*ich → er/sie*, *mein → sein/ihr*, *mich → sich* for reflexives). Change time and place words if the report is made at another time or place: *heute → an dem Tag*, *morgen → am nächsten Tag*, *gestern → am Vortag*, *hier → dort*.",
+      "Without *dass* the reported clause has verb-second order (*er sagte, er sei krank*); with *dass* the verb goes to the end (*er sagte, dass er krank sei*)."
+    ],
+    "pitfalls": [
+      "Changing the auxiliary in the past: ✗ *er sei es nicht gewusst* → ✓ *er habe es nicht gewusst*. The Konjunktiv I keeps the auxiliary of the Perfekt (*haben* or *sein*).",
+      "Using the Konjunktiv I where it equals the indicative: *Sie sagten, sie haben keine Zeit* does not mark reported speech → ✓ *sie hätten keine Zeit*.",
+      "Reporting a question with *wenn* or with main-clause order: ✗ *Sie fragte, wenn ich Zeit habe* / ✗ *Sie fragte, wann komme ich* → ✓ *Sie fragte, ob ich Zeit hätte* / ✓ *…, wann ich käme*.",
+      "Keeping the imperative: ✗ *Er sagte, warten Sie hier* → ✓ *Er sagte, ich solle hier warten*.",
+      "Forming the Konjunktiv I with the vowel change: ✗ *er fähre, er hälte* → ✓ *er fahre, er halte*. And ✗ *sie wurden kommen* (Präteritum) → ✓ *sie würden kommen*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Der Angeklagte erklärte, er {{c1::habe::haben/sein}} von den Plänen nichts gewusst.",
+      "en": "The defendant stated that he had known nothing about the plans.",
+      "focus": "Vergangenheit · Hilfsverb im Konjunktiv I",
+      "explanation": "Direct speech: *„Ich wusste von den Plänen nichts.“* Every past tense becomes the Konjunktiv I past: auxiliary in the Konjunktiv I + Partizip II. *wissen* forms its Perfekt with *haben*, and the 3rd person singular Konjunktiv I is **habe** (different from the indicative *hat*).",
+      "pattern": "er **habe** + Partizip II (*haben*-Verb)",
+      "mistake": {"wrong": "Der Angeklagte erklärte, er sei von den Plänen nichts gewusst.", "why": "The Konjunktiv I keeps the auxiliary of the Perfekt. *wissen* takes *haben* (*er hat gewusst*), so the reported form is *er habe gewusst*."},
+      "examples": [
+        {"de": "Die Ministerin betonte, sie habe von dem Vertrag erst aus der Zeitung erfahren.", "en": "The minister stressed that she had only learned about the contract from the newspaper."},
+        {"de": "Der Fahrer gab zu, er habe das Stoppschild übersehen.", "en": "The driver admitted that he had overlooked the stop sign."}
+      ],
+      "words": [{"de": "der Angeklagte", "en": "the defendant"}],
+      "production_cue": "(reported speech)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Sängerin ließ mitteilen, sie {{c1::sei::haben/sein}} am Wochenende schwer erkältet gewesen.",
+      "en": "The singer announced through a spokesperson that she had had a bad cold at the weekend.",
+      "focus": "Vergangenheit von *sein* · Präteritum in der direkten Rede",
+      "explanation": "Direct speech: *„Ich war am Wochenende schwer erkältet.“* The Präteritum *war* has no own reported form; it becomes the Konjunktiv I past: *sein* takes *sein* as its auxiliary → **sei** … *gewesen*.",
+      "pattern": "er/sie **sei** … gewesen (← war)",
+      "mistake": {"wrong": "Die Sängerin ließ mitteilen, sie habe am Wochenende schwer erkältet gewesen.", "why": "*sein* forms its Perfekt with *sein* (*sie ist gewesen*), so the Konjunktiv I past is *sie sei … gewesen*, not *habe … gewesen*."},
+      "examples": [
+        {"de": "Der Bürgermeister sagte, die Stimmung bei der Versammlung sei sehr angespannt gewesen.", "en": "The mayor said that the atmosphere at the meeting had been very tense."},
+        {"de": "Meine Kollegin erzählte, der Flug sei extrem unruhig gewesen.", "en": "My colleague said the flight had been extremely bumpy."}
+      ],
+      "words": [{"de": "mitteilen lassen", "en": "to announce through someone else"}],
+      "production_cue": "(reported speech)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Studierenden beschwerten sich, sie {{c1::hätten::haben, Plural}} die Prüfungsergebnisse viel zu spät bekommen.",
+      "en": "The students complained that they had received the exam results far too late.",
+      "focus": "Vergangenheit · Plural · Ersatzform",
+      "explanation": "Direct speech: *„Wir haben die Ergebnisse viel zu spät bekommen.“* The Konjunktiv I of the auxiliary in the 3rd person plural is *sie haben*, the same as the indicative. To mark reported speech you replace it with the Konjunktiv II: **hätten** + Partizip II.",
+      "pattern": "sie **hätten** + Partizip II (KI *haben* = Indikativ)",
+      "mistake": {"wrong": "Die Studierenden beschwerten sich, sie habe die Prüfungsergebnisse viel zu spät bekommen.", "why": "*habe* is singular, but the subject *sie* (= the students) is plural. The plural Konjunktiv I *haben* looks like the indicative, so the correct form is *hätten*."},
+      "examples": [
+        {"de": "Die Eltern kritisierten, sie hätten von der Schulschließung erst am Abend erfahren.", "en": "The parents criticised that they had only learned about the school closure in the evening."},
+        {"de": "Die Anwohner klagen, sie hätten seit Wochen kein warmes Wasser.", "en": "The residents complain that they have had no hot water for weeks."}
+      ],
+      "words": [{"de": "sich beschweren", "en": "to complain"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der Handwerker sagte, er habe wegen eines Staus nicht pünktlich kommen {{c1::können::können, Vergangenheit}}.",
+      "en": "The tradesman said that he had not been able to come on time because of a traffic jam.",
+      "focus": "Vergangenheit mit Modalverb · Ersatzinfinitiv",
+      "explanation": "Direct speech: *„Ich konnte wegen eines Staus nicht pünktlich kommen.“* The past of a modal verb with another infinitive is *haben* + two infinitives (Ersatzinfinitiv). In the Konjunktiv I: *er habe … kommen* **können**. The modal stays an infinitive, never *gekonnt*.",
+      "pattern": "er **habe** + Infinitiv + Modalverb-Infinitiv",
+      "mistake": {"wrong": "Der Handwerker sagte, er habe wegen eines Staus nicht pünktlich kommen gekonnt.", "why": "When a modal verb has a dependent infinitive, its Partizip II is replaced by the infinitive: *kommen können*, not *kommen gekonnt*."},
+      "examples": [
+        {"de": "Die Schülerin erklärte, sie habe wegen der Grippe nicht an der Prüfung teilnehmen können.", "en": "The pupil explained that she had not been able to take the exam because of the flu."},
+        {"de": "Der Projektleiter meinte, er habe das Budget leider kürzen müssen.", "en": "The project manager said that he had unfortunately had to cut the budget."}
+      ],
+      "words": [{"de": "der Handwerker", "en": "tradesman, craftsman"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Zeugin gab an, der Lieferwagen sei mit hoher Geschwindigkeit in die Hauptstraße {{c1::eingebogen::einbiegen}}.",
+      "en": "The witness stated that the van had turned into the main road at high speed.",
+      "focus": "Vergangenheit · Bewegungsverb · Partizip II",
+      "explanation": "Direct speech: *„Der Lieferwagen bog mit hoher Geschwindigkeit in die Hauptstraße ein.“* *einbiegen* is a verb of movement → Perfekt with *sein* → Konjunktiv I **sei** + Partizip II. *biegen* is a strong verb (*bog – gebogen*), and the separable prefix comes before *ge-*: **eingebogen**.",
+      "pattern": "er/sie/es **sei** + Partizip II (Bewegungsverb)",
+      "mistake": {"wrong": "Die Zeugin gab an, der Lieferwagen sei mit hoher Geschwindigkeit in die Hauptstraße eingebiegt.", "why": "*biegen* is strong, so its Partizip II ends in *-en* with a vowel change: *gebogen* → *eingebogen*."},
+      "examples": [
+        {"de": "Der Augenzeuge berichtete, der Täter sei in Richtung Bahnhof geflohen.", "en": "The eyewitness reported that the offender had fled towards the station."},
+        {"de": "Die Polizei teilte mit, das Boot sei kurz nach Mitternacht gekentert.", "en": "The police announced that the boat had capsized shortly after midnight."}
+      ],
+      "words": [{"de": "der Lieferwagen", "en": "van, delivery vehicle"}, {"de": "angeben", "en": "to state (officially)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Behörde teilte mit, die Messwerte seien bereits im Frühjahr überprüft {{c1::worden::werden, Passiv}}.",
+      "en": "The authority announced that the measurements had already been checked in the spring.",
+      "focus": "Vergangenheit im Passiv · Plural",
+      "explanation": "Direct speech: *„Die Messwerte wurden bereits im Frühjahr überprüft.“* The passive past becomes **seien** + Partizip II + **worden**. *seien* is a clear Konjunktiv I form in the plural (indicative *sind*), so no replacement is needed. In the passive Perfekt *werden* has the short participle *worden*.",
+      "pattern": "sie **seien** + Partizip II + **worden**",
+      "mistake": {"wrong": "Die Behörde teilte mit, die Messwerte seien bereits im Frühjahr überprüft geworden.", "why": "*geworden* is the participle of the full verb *werden* (*to become*). As a passive auxiliary *werden* uses *worden*: *überprüft worden*."},
+      "examples": [
+        {"de": "Der Verein erklärte, die Spenden seien vollständig an die Opfer weitergeleitet worden.", "en": "The association declared that the donations had been passed on in full to the victims."},
+        {"de": "Der Bericht kommt zu dem Schluss, mehrere Warnungen seien ignoriert worden.", "en": "The report concludes that several warnings had been ignored."}
+      ],
+      "words": [{"de": "die Messwerte (Pl.)", "en": "measured values, readings"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Bürgermeister kündigte an, die Stadt {{c1::werde::werden}} die Kitagebühren im nächsten Jahr abschaffen.",
+      "en": "The mayor announced that the city would abolish nursery fees next year.",
+      "focus": "Zukunft · 3. Person Singular",
+      "explanation": "Direct speech: *„Die Stadt wird die Kitagebühren im nächsten Jahr abschaffen.“* The future becomes Konjunktiv I of *werden* + infinitive. 3rd person singular: **werde** (indicative *wird*), so the Konjunktiv I is clear. The infinitive *abschaffen* stays at the end.",
+      "pattern": "er/sie/es **werde** + Infinitiv",
+      "mistake": {"wrong": "Der Bürgermeister kündigte an, die Stadt werde die Kitagebühren im nächsten Jahr abzuschaffen.", "why": "*werden* as a future auxiliary takes the bare infinitive, never *zu*: *werde … abschaffen*."},
+      "examples": [
+        {"de": "Die Bahn versprach, sie werde die Strecke bis Dezember wieder freigeben.", "en": "The railway company promised that it would reopen the line by December."},
+        {"de": "Der Trainer kündigte an, er werde nach der Saison zurücktreten.", "en": "The coach announced that he would step down after the season."}
+      ],
+      "words": [{"de": "die Kitagebühren (Pl.)", "en": "nursery / day-care fees"}, {"de": "abschaffen", "en": "to abolish"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Veranstalter versicherten, sie {{c1::würden::werden, Plural}} alle Tickets erstatten.",
+      "en": "The organisers gave assurances that they would refund all tickets.",
+      "focus": "Zukunft · Plural · Ersatzform",
+      "explanation": "Direct speech: *„Wir werden alle Tickets erstatten.“* The 3rd person plural Konjunktiv I *sie werden* is the same as the indicative. The Konjunktiv II replaces it: **würden** + infinitive. Note the umlaut: *wurden* would be the indicative Präteritum.",
+      "pattern": "sie **würden** + Infinitiv (KI *werden* = Indikativ)",
+      "mistake": {"wrong": "Die Veranstalter versicherten, sie wurden alle Tickets erstatten.", "why": "*wurden* (no umlaut) is the Präteritum indicative and cannot combine with an infinitive. The Konjunktiv II form with umlaut is *würden*."},
+      "examples": [
+        {"de": "Die Gewerkschaften drohten, sie würden den Hafen bestreiken.", "en": "The unions threatened that they would call a strike at the port."},
+        {"de": "Die Vermieter kündigten an, sie würden die Fassade im Sommer dämmen lassen.", "en": "The landlords announced that they would have the façade insulated in the summer."}
+      ],
+      "words": [{"de": "erstatten", "en": "to refund, reimburse"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Vor zwei Wochen erzählte mir Jonas, er fahre {{c1::am nächsten Tag::morgen → aus späterer Sicht}} zu einem Vorstellungsgespräch nach Leipzig.",
+      "en": "Two weeks ago Jonas told me that he was going to Leipzig the next day for a job interview.",
+      "focus": "Zeitangabe · Perspektive des Berichtenden",
+      "explanation": "Direct speech (two weeks ago): *„Ich fahre morgen zu einem Vorstellungsgespräch nach Leipzig.“* *morgen* means *the day after today*; from the reporter's later point of view it becomes **am nächsten Tag** (also *am folgenden Tag*, *tags darauf*). The present *fahre* is the Konjunktiv I with future meaning.",
+      "pattern": "*morgen* → **am nächsten Tag** (Bericht später)",
+      "mistake": {"wrong": "Vor zwei Wochen erzählte mir Jonas, dass er fahre am nächsten Tag zu einem Vorstellungsgespräch nach Leipzig.", "why": "With *dass* the reported clause is a Nebensatz, so the verb must go to the end: *dass er am nächsten Tag … nach Leipzig fahre*. Without *dass* verb-second order is correct."},
+      "examples": [
+        {"de": "Im März schrieb mir meine Schwester, sie ziehe in der folgenden Woche nach Basel.", "en": "In March my sister wrote to me that she was moving to Basel the following week."},
+        {"de": "Damals versprach er, er rufe am nächsten Morgen zurück.", "en": "At the time he promised that he would call back the next morning."}
+      ],
+      "words": [{"de": "das Vorstellungsgespräch", "en": "job interview"}],
+      "production_cue": "(reported later)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Journalistin fragte den Minister, wann die Reform in Kraft {{c1::trete::treten}}.",
+      "en": "The journalist asked the minister when the reform would come into force.",
+      "focus": "indirekte W-Frage · Konjunktiv I",
+      "explanation": "Direct question: *„Wann tritt die Reform in Kraft?“* The question word *wann* introduces the indirect question, and the finite verb goes to the end. The Konjunktiv I is built from the infinitive stem without the vowel change: *tritt* → **trete**.",
+      "pattern": "fragen, + W-Wort + … + Verb (KI) am Ende",
+      "mistake": {"wrong": "Die Journalistin fragte den Minister, wann die Reform trete in Kraft.", "why": "An indirect question is a Nebensatz: the finite verb comes at the very end, after *in Kraft*: *wann die Reform in Kraft trete*."},
+      "examples": [
+        {"de": "Die Abgeordneten wollten wissen, wie viel das Projekt am Ende koste.", "en": "The members of parliament wanted to know how much the project would cost in the end."},
+        {"de": "Der Moderator fragte die Forscherin, warum die Studie so lange dauere.", "en": "The presenter asked the researcher why the study was taking so long."}
+      ],
+      "words": [{"de": "in Kraft treten", "en": "to come into force"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Der Prüfer wollte wissen, {{c1::ob::Ja/Nein-Frage}} ich die Arbeit allein geschrieben {{c2::hätte::haben, ich-Form}}.",
+      "en": "The examiner wanted to know whether I had written the paper on my own.",
+      "focus": "indirekte Ja/Nein-Frage · 1. Person",
+      "explanation": "Direct question: *„Haben Sie die Arbeit allein geschrieben?“* A yes/no question is reported with **ob**, and the verb goes to the end. *Sie* becomes *ich* from my point of view. The Konjunktiv I *ich habe* equals the indicative, so the Konjunktiv II **hätte** is used.",
+      "pattern": "wissen wollen, **ob** + Subj. … Partizip II + **hätte**",
+      "mistake": {"wrong": "Der Prüfer wollte wissen, wenn ich die Arbeit allein geschrieben hätte.", "why": "English *if* in an indirect question is *ob* in German. *wenn* introduces a condition or time (*when/if*), not a question."},
+      "examples": [
+        {"de": "Die Kundin fragte, ob die Lieferung schon unterwegs sei.", "en": "The customer asked whether the delivery was already on its way."},
+        {"de": "Mein Betreuer fragte, ob ich die Daten noch einmal überprüft hätte.", "en": "My supervisor asked whether I had checked the data again."}
+      ],
+      "words": [{"de": "der Prüfer", "en": "examiner"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ein Kunde fragte, ob er das Gerät auch ohne Kassenbon umtauschen {{c1::könne::können}}.",
+      "en": "A customer asked whether he could exchange the device even without a receipt.",
+      "focus": "indirekte Ja/Nein-Frage · Modalverb",
+      "explanation": "Direct question: *„Kann ich das Gerät auch ohne Kassenbon umtauschen?“* → *ob* + verb at the end. *ich* becomes *er*. Modal verbs build the Konjunktiv I from the infinitive stem: *können* → **könne** (indicative *kann*), so it is clearly marked.",
+      "pattern": "**ob** + Subj. … Infinitiv + Modalverb (KI)",
+      "mistake": {"wrong": "Ein Kunde fragte, ob er das Gerät auch ohne Kassenbon umzutauschen könne.", "why": "Modal verbs take the bare infinitive without *zu*: *umtauschen könne*."},
+      "examples": [
+        {"de": "Die Mieterin fragte, ob sie auf dem Balkon grillen dürfe.", "en": "The tenant asked whether she was allowed to have a barbecue on the balcony."},
+        {"de": "Der Doktorand fragte, ob er die Frist verlängern lassen könne.", "en": "The doctoral student asked whether he could have the deadline extended."}
+      ],
+      "words": [{"de": "der Kassenbon", "en": "till receipt"}, {"de": "umtauschen", "en": "to exchange"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Die Trainerin fragte Paul, warum er beim letzten Training gefehlt {{c1::habe::Hilfsverb}}.",
+      "en": "The coach asked Paul why he had missed the last training session.",
+      "focus": "indirekte W-Frage · Vergangenheit",
+      "explanation": "Direct question: *„Warum hast du beim letzten Training gefehlt?“* *du* becomes *er*, the Perfekt becomes the Konjunktiv I past. *fehlen* takes *haben* → **habe** + *gefehlt*. In the Nebensatz the finite auxiliary stands after the Partizip II.",
+      "pattern": "W-Wort + Subj. … Partizip II + **habe**",
+      "mistake": {"wrong": "Die Trainerin fragte Paul, warum habe er beim letzten Training gefehlt.", "why": "The indirect question is a Nebensatz, not a direct question. The finite verb goes to the end: *warum er … gefehlt habe*."},
+      "examples": [
+        {"de": "Der Chef fragte mich, warum ich das Angebot abgelehnt hätte.", "en": "The boss asked me why I had turned down the offer."},
+        {"de": "Die Polizistin wollte wissen, wohin der Mann gelaufen sei.", "en": "The police officer wanted to know where the man had run to."}
+      ],
+      "words": [{"de": "fehlen", "en": "to be absent"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Der Arzt sagte, ich {{c1::solle::sollen}} das Antibiotikum unbedingt bis zum Ende nehmen.",
+      "en": "The doctor said I should definitely take the antibiotic until the end.",
+      "focus": "Aufforderung · Imperativ berichten",
+      "explanation": "Direct speech: *„Nehmen Sie das Antibiotikum unbedingt bis zum Ende!“* An imperative cannot be reported as an imperative. It becomes **sollen** + infinitive in the Konjunktiv I: *ich* **solle** (indicative *ich soll*), so the form is clearly marked.",
+      "pattern": "Imperativ → Subj. + **solle** + … Infinitiv",
+      "mistake": {"wrong": "Der Arzt sagte, nehmen Sie das Antibiotikum unbedingt bis zum Ende.", "why": "An imperative only exists in direct speech (with quotation marks). In reported speech it becomes *sollen*: *ich solle … nehmen*."},
+      "examples": [
+        {"de": "Die Lehrerin sagte zu Mia, sie solle ihre Quellen genauer angeben.", "en": "The teacher told Mia she should cite her sources more precisely."},
+        {"de": "Der Schaffner sagte, man solle an der nächsten Station umsteigen.", "en": "The conductor said that people should change at the next station."}
+      ],
+      "words": [{"de": "unbedingt", "en": "definitely, absolutely"}],
+      "production_cue": "(reported command)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die Polizei warnte die Anwohner, sie {{c1::sollten::sollen, Plural}} Fenster und Türen geschlossen halten.",
+      "en": "The police warned residents that they should keep their windows and doors closed.",
+      "focus": "Aufforderung · Plural · Ersatzform",
+      "explanation": "Direct speech: *„Halten Sie Fenster und Türen geschlossen!“* The command becomes *sollen*. But the Konjunktiv I *sie sollen* equals the indicative, so the Konjunktiv II **sollten** is used.",
+      "pattern": "Imperativ → sie **sollten** + Infinitiv",
+      "mistake": {"wrong": "Die Polizei warnte die Anwohner, sie sollten Fenster und Türen geschlossen gehalten.", "why": "A modal verb takes an infinitive, not a Partizip II: *geschlossen halten*."},
+      "examples": [
+        {"de": "Der Kapitän rief den Passagieren zu, sie sollten Schwimmwesten anlegen.", "en": "The captain called to the passengers that they should put on life jackets."},
+        {"de": "Die Ärzte rieten den Eltern, sie sollten die Kinder impfen lassen.", "en": "The doctors advised the parents to have the children vaccinated."}
+      ],
+      "words": [{"de": "die Anwohner (Pl.)", "en": "local residents"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Die Sekretärin richtete dem Bewerber aus, er {{c1::möge::mögen}} sich noch einen Moment gedulden.",
+      "en": "The secretary told the applicant that he was kindly asked to wait a moment longer.",
+      "focus": "höfliche Bitte · formell",
+      "explanation": "Direct speech: *„Gedulden Sie sich bitte noch einen Moment.“* A polite request (*bitte*) is reported with **mögen** in the Konjunktiv I: *er* **möge** + infinitive. This is formal and written; *sollen* would make it a command.",
+      "pattern": "Bitte → Subj. + **möge** + … Infinitiv",
+      "mistake": {"wrong": "Die Sekretärin richtete dem Bewerber aus, er möge ihn noch einen Moment gedulden.", "why": "*sich gedulden* is reflexive. The reflexive pronoun refers to the subject *er*, so it must be *sich*, not *ihn*."},
+      "examples": [
+        {"de": "Der Vorsitzende bat, man möge die Diskussion sachlich führen.", "en": "The chair asked that the discussion be conducted objectively."},
+        {"de": "Die Autorin schrieb dem Verlag, man möge ihr die Korrekturen bis Freitag schicken.", "en": "The author wrote to the publisher asking them to send her the corrections by Friday."}
+      ],
+      "words": [{"de": "ausrichten", "en": "to pass on (a message)"}, {"de": "sich gedulden", "en": "to be patient, wait"}],
+      "production_cue": "(polite request)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Meine Mutter schrieb, ich solle {{c1::mir::dir → Sicht des Berichtenden}} keine Sorgen um sie machen.",
+      "en": "My mother wrote that I shouldn't worry about her.",
+      "focus": "Pronomenwechsel · Reflexivpronomen",
+      "explanation": "Direct speech: *„Mach dir keine Sorgen um mich!“* The command becomes *ich solle*, and every pronoun changes to my point of view: *dir* → **mir**, *mich* → *sie*. *sich Sorgen machen* has a Dativ reflexive (*Sorgen* is the Akkusativ object), so it stays Dativ.",
+      "pattern": "*dir* → **mir**, *mich* → *sie* (Perspektive)",
+      "mistake": {"wrong": "Meine Mutter schrieb, ich solle mich keine Sorgen um sie machen.", "why": "*sich Sorgen machen* already has an Akkusativ object (*Sorgen*), so the reflexive pronoun is Dativ: *ich mache mir Sorgen* → *ich solle mir Sorgen machen*."},
+      "examples": [
+        {"de": "Mein Kollege meinte, ich solle mir den Nachmittag freinehmen.", "en": "My colleague said I should take the afternoon off."},
+        {"de": "Die Physiotherapeutin sagte, er solle sich mehr Ruhe gönnen.", "en": "The physiotherapist said he should allow himself more rest."}
+      ],
+      "words": [{"de": "sich Sorgen machen um", "en": "to worry about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Ich habe dem Vermieter gesagt, ich {{c1::hätte::haben, ich-Form}} die Miete längst überwiesen.",
+      "en": "I told the landlord that I had transferred the rent long ago.",
+      "focus": "1. Person · Ersatzform in der Vergangenheit",
+      "explanation": "Direct speech: *„Ich habe die Miete längst überwiesen.“* The Konjunktiv I *ich habe* is identical to the indicative, so it does not mark reported speech. The Konjunktiv II **hätte** replaces it: *ich hätte … überwiesen*.",
+      "pattern": "ich **hätte** + Partizip II (KI *ich habe* = Indikativ)",
+      "mistake": {"wrong": "Ich habe dem Vermieter gesagt, ich würde die Miete längst überwiesen.", "why": "*würde* combines with an infinitive, not with a Partizip II. For the past the replacement form is *hätte* + Partizip II."},
+      "examples": [
+        {"de": "Ich habe der Bank erklärt, ich hätte die Karte nie bekommen.", "en": "I explained to the bank that I had never received the card."},
+        {"de": "Ich sagte dem Kontrolleur, ich hätte mein Ticket online gekauft.", "en": "I told the ticket inspector that I had bought my ticket online."}
+      ],
+      "words": [{"de": "überweisen", "en": "to transfer (money)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Wir haben der Versicherung geschrieben, wir {{c1::wüssten::wissen, wir-Form}} nichts von einem zweiten Schaden.",
+      "en": "We wrote to the insurance company that we knew nothing about a second claim.",
+      "focus": "1. Person Plural · Ersatzform",
+      "explanation": "Direct speech: *„Wir wissen nichts von einem zweiten Schaden.“* The Konjunktiv I *wir wissen* equals the indicative, so the Konjunktiv II is used. *wissen* is a mixed verb: Präteritum *wusste* + umlaut → **wüssten**.",
+      "pattern": "wir **wüssten** (KII mit Umlaut)",
+      "mistake": {"wrong": "Wir haben der Versicherung geschrieben, wir wissten nichts von einem zweiten Schaden.", "why": "*wissten* does not exist. The Konjunktiv II comes from the Präteritum *wussten* with umlaut: *wüssten*."},
+      "examples": [
+        {"de": "Wir erklärten dem Hausmeister, wir wüssten nicht, wem das Fahrrad gehört.", "en": "We explained to the caretaker that we did not know whom the bicycle belonged to."},
+        {"de": "Die Nachbarn sagten, sie wüssten von nichts.", "en": "The neighbours said that they knew nothing about it."}
+      ],
+      "words": [{"de": "der Schaden", "en": "damage; insurance claim"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Die Gewerkschaft behauptet, die Beschäftigten {{c1::würden::Hilfsverb, Plural}} seit Jahren unbezahlte Überstunden machen.",
+      "en": "The union claims that the employees have been doing unpaid overtime for years.",
+      "focus": "würde-Form · schwaches Verb",
+      "explanation": "Direct speech: *„Die Beschäftigten machen seit Jahren unbezahlte Überstunden.“* Konjunktiv I *sie machen* = indicative; Konjunktiv II *sie machten* = Präteritum (weak verb). Neither form is clear, so you use **würden** + infinitive.",
+      "pattern": "sie **würden** + Infinitiv (KI = Indikativ, KII = Präteritum)",
+      "mistake": {"wrong": "Die Gewerkschaft behauptet, die Beschäftigten würden seit Jahren unbezahlte Überstunden machten.", "why": "In the *würde*-form only *würden* is finite; the main verb must be an infinitive: *machen*, not *machten*."},
+      "examples": [
+        {"de": "Die Bauern klagen, die Supermärkte würden die Preise diktieren.", "en": "The farmers complain that the supermarkets dictate the prices."},
+        {"de": "Kritiker meinen, die Plattformen würden zu wenig gegen Hassrede unternehmen.", "en": "Critics say that the platforms do too little against hate speech."}
+      ],
+      "words": [{"de": "die Überstunden (Pl.)", "en": "overtime"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Organisatoren teilten mit, zur Konferenz {{c1::kämen::kommen, Plural}} mehr als 2000 Gäste aus aller Welt.",
+      "en": "The organisers announced that more than 2,000 guests from all over the world were coming to the conference.",
+      "focus": "Ersatzform · starkes Verb · Inversion",
+      "explanation": "Direct speech: *„Zur Konferenz kommen mehr als 2000 Gäste.“* KI *sie kommen* = indicative → Konjunktiv II. *kommen* is strong: Präteritum *kamen* + umlaut → **kämen**, which is different from the Präteritum, so no *würde*-form is needed. The subject *Gäste* stands after the verb because *zur Konferenz* fills the Vorfeld.",
+      "pattern": "Vorfeld + **kämen** + Subjekt (Plural)",
+      "mistake": {"wrong": "Die Organisatoren teilten mit, zur Konferenz käme mehr als 2000 Gäste aus aller Welt.", "why": "The subject is *mehr als 2000 Gäste* (plural), even though it comes after the verb. The verb must be plural: *kämen*."},
+      "examples": [
+        {"de": "Der Verband erklärte, die meisten Anfragen kämen inzwischen aus Asien.", "en": "The association explained that most enquiries now came from Asia."},
+        {"de": "Die Forscher berichteten, die Tiere fänden in der Stadt mehr Nahrung als im Wald.", "en": "The researchers reported that the animals found more food in the city than in the forest."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Der Sprecher wies die Vorwürfe zurück. Das Unternehmen {{c1::halte::halten}} sich an alle geltenden Vorschriften.",
+      "en": "The spokesman rejected the accusations. The company, he said, complied with all applicable regulations.",
+      "focus": "berichtete Rede ohne einleitendes Verb",
+      "explanation": "In news texts the Konjunktiv I alone shows that a sentence is still reported speech, even without *er sagte*. Direct speech: *„Das Unternehmen hält sich an alle Vorschriften.“* The Konjunktiv I comes from the infinitive stem without the vowel change: *hält* → **halte**.",
+      "pattern": "neuer Satz + Verb im **Konjunktiv I** (= weiter indirekt)",
+      "mistake": {"wrong": "Der Sprecher wies die Vorwürfe zurück. Das Unternehmen hälte sich an alle geltenden Vorschriften.", "why": "*hälte* does not exist. The Konjunktiv I keeps the vowel of the infinitive: *halten* → *er halte*, like *fahren* → *er fahre*."},
+      "examples": [
+        {"de": "Die Ministerin verteidigte das Gesetz. Es schaffe mehr Klarheit für die Unternehmen.", "en": "The minister defended the law. It created, she said, more clarity for companies."},
+        {"de": "Der Verein reagierte gelassen auf die Kritik. Man nehme die Sorgen der Fans aber ernst.", "en": "The club reacted calmly to the criticism. It did, however, take the fans' concerns seriously, it said."}
+      ],
+      "words": [{"de": "die Vorwürfe zurückweisen", "en": "to reject the accusations"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Der Zeuge sagte vor Gericht aus, er habe den Angeklagten {{c1::am Vortag::gestern → aus späterer Sicht}} in einer Bar gesehen.",
+      "en": "The witness testified in court that he had seen the defendant in a bar the day before.",
+      "focus": "Zeitangabe · Vergangenheit",
+      "explanation": "Direct speech (at the trial): *„Ich habe den Angeklagten gestern in einer Bar gesehen.“* For a later report *gestern* becomes **am Vortag** (also *am Tag davor / am Tag zuvor*). The Perfekt becomes the Konjunktiv I past *habe … gesehen*.",
+      "pattern": "*gestern* → **am Vortag** + habe/sei + Partizip II",
+      "mistake": {"wrong": "Der Zeuge sagte vor Gericht aus, er den Angeklagten am Vortag in einer Bar gesehen habe.", "why": "Without *dass* the reported clause has main-clause order: the finite verb *habe* comes in position 2. Verb-final order needs *dass*: *dass er … gesehen habe*."},
+      "examples": [
+        {"de": "Die Kassiererin erklärte, der Mann sei schon am Vortag im Laden gewesen.", "en": "The cashier explained that the man had already been in the shop the day before."},
+        {"de": "Der Mieter gab an, er habe den Wasserschaden am Tag zuvor gemeldet.", "en": "The tenant stated that he had reported the water damage the day before."}
+      ],
+      "words": [{"de": "aussagen", "en": "to testify"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "In einem Interview sagte die Forscherin, sie fühle sich {{c1::dort::hier → anderer Ort}} in Wien inzwischen wie zu Hause.",
+      "en": "In an interview, the researcher said that she now felt at home there in Vienna.",
+      "focus": "Ortsangabe und Reflexivpronomen · Perspektive",
+      "explanation": "Direct speech (in Vienna): *„Ich fühle mich hier in Wien inzwischen wie zu Hause.“* The reporter is not in Vienna, so *hier* becomes **dort**. The person changes too: *ich fühle mich* → *sie fühle sich* (Konjunktiv I, clearly different from *fühlt*).",
+      "pattern": "*hier* → **dort**, *mich* → *sich*",
+      "mistake": {"wrong": "In einem Interview sagte die Forscherin, sie fühle sie dort in Wien inzwischen wie zu Hause.", "why": "*mich* refers to the subject, so in the 3rd person it becomes the reflexive pronoun *sich*, not the personal pronoun *sie*."},
+      "examples": [
+        {"de": "Der Austauschstudent schrieb, dort in Kyoto sei das Leben ruhiger als in Berlin.", "en": "The exchange student wrote that life there in Kyoto was calmer than in Berlin."},
+        {"de": "Die Bergsteiger funkten, dort oben herrsche dichter Nebel.", "en": "The climbers radioed that there was thick fog up there."}
+      ],
+      "words": [{"de": "sich wie zu Hause fühlen", "en": "to feel at home"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Der Mieter beschwerte sich, {{c1::seine::mein- → Perspektive}} Heizung funktioniere seit Wochen nicht.",
+      "en": "The tenant complained that his heating had not been working for weeks.",
+      "focus": "Possessivartikel · Perspektive",
+      "explanation": "Direct speech: *„Meine Heizung funktioniert seit Wochen nicht.“* The possessive changes to the speaker in the 3rd person: *mein-* → *sein-*. The ending stays the same because the noun and case do not change: *meine Heizung* → **seine** Heizung (feminine Nominativ).",
+      "pattern": "*meine* → **seine/ihre** (Endung bleibt)",
+      "mistake": {"wrong": "Der Mieter beschwerte sich, sein Heizung funktioniere seit Wochen nicht.", "why": "Only the stem of the possessive changes. *Heizung* is feminine and the subject, so the ending *-e* must stay: *meine* → *seine Heizung*."},
+      "examples": [
+        {"de": "Die Pianistin erzählte, ihr Lehrer habe sie als Kind sehr streng behandelt.", "en": "The pianist said that her teacher had treated her very strictly as a child."},
+        {"de": "Der Student behauptete, sein Laptop sei während der Prüfung abgestürzt.", "en": "The student claimed that his laptop had crashed during the exam."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Wir erklärten dem Schaffner, wir {{c1::seien::sein, wir-Form}} versehentlich in den falschen Zug gestiegen.",
+      "en": "We explained to the conductor that we had got on the wrong train by mistake.",
+      "focus": "1. Person Plural · *sein* im Konjunktiv I",
+      "explanation": "Direct speech: *„Wir sind versehentlich in den falschen Zug gestiegen.“* *steigen* takes *sein*. *sein* is the only verb whose Konjunktiv I is different from the indicative in all persons: *wir* **seien** (indicative *wir sind*), so no replacement is needed.",
+      "pattern": "wir **seien** + Partizip II",
+      "mistake": {"wrong": "Wir erklärten dem Schaffner, wir sein versehentlich in den falschen Zug gestiegen.", "why": "*sein* is the infinitive, not a finite form. The Konjunktiv I plural has an extra *-e-*: *wir seien*."},
+      "examples": [
+        {"de": "Wir schrieben der Hausverwaltung, wir seien mit der Abrechnung nicht einverstanden.", "en": "We wrote to the property management that we did not agree with the statement."},
+        {"de": "Die Bergretter meldeten, sie seien bei den Verletzten angekommen.", "en": "The mountain rescuers reported that they had reached the injured people."}
+      ],
+      "words": [{"de": "versehentlich", "en": "by mistake"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Die Kommissarin wollte wissen, wer den Schlüssel zum Archiv {{c1::gehabt habe::haben, Vergangenheit}}.",
+      "en": "The detective wanted to know who had had the key to the archive.",
+      "focus": "indirekte W-Frage · *wer* als Subjekt · Vergangenheit",
+      "explanation": "Direct question: *„Wer hatte den Schlüssel zum Archiv?“* *wer* is the subject and introduces the indirect question. The Präteritum *hatte* becomes the Konjunktiv I past of *haben*: Partizip II *gehabt* + **habe** at the end.",
+      "pattern": "wer + … Partizip II + **habe** (Nebensatz)",
+      "mistake": {"wrong": "Die Kommissarin wollte wissen, wer den Schlüssel zum Archiv habe gehabt.", "why": "In a Nebensatz the finite auxiliary comes after the Partizip II: *gehabt habe*."},
+      "examples": [
+        {"de": "Der Lehrer fragte, wer die Tafel beschmiert habe.", "en": "The teacher asked who had scribbled on the board."},
+        {"de": "Die Redaktion wollte wissen, wer die Informationen weitergegeben habe.", "en": "The editors wanted to know who had passed on the information."}
+      ],
+      "words": [{"de": "die Kommissarin", "en": "detective (police)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Der Wetterdienst warnte, es {{c1::könne::können}} in der Nacht zu gefährlichem Glatteis kommen.",
+      "en": "The weather service warned that dangerous black ice could form during the night.",
+      "focus": "Modalverb · *es* als Subjekt",
+      "explanation": "Direct speech: *„Es kann in der Nacht zu gefährlichem Glatteis kommen.“* *es kommt zu* has the formal subject *es* (3rd person singular). Konjunktiv I of *können*: **könne** (indicative *kann*).",
+      "pattern": "es + **könne** + … Infinitiv",
+      "mistake": {"wrong": "Der Wetterdienst warnte, es könnten in der Nacht zu gefährlichem Glatteis kommen.", "why": "The subject is *es* (singular); *Glatteis* is inside the prepositional phrase *zu Glatteis*. So the verb is singular: *könne*."},
+      "examples": [
+        {"de": "Die Bahn kündigte an, es könne zu Zugausfällen kommen.", "en": "The railway announced that there might be train cancellations."},
+        {"de": "Experten warnen, es müsse dringend mehr in die Infrastruktur investiert werden.", "en": "Experts warn that more must urgently be invested in infrastructure."}
+      ],
+      "words": [{"de": "das Glatteis", "en": "black ice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Die Kinder fragten ihren Vater, ob sie am Wochenende im Garten zelten {{c1::dürften::dürfen, Plural}}.",
+      "en": "The children asked their father whether they could camp in the garden at the weekend.",
+      "focus": "indirekte Ja/Nein-Frage · Plural · Ersatzform",
+      "explanation": "Direct question: *„Dürfen wir am Wochenende im Garten zelten?“* *wir* becomes *sie*. The Konjunktiv I *sie dürfen* equals the indicative, so the Konjunktiv II **dürften** (umlaut) is used; it is different from the Präteritum *durften*.",
+      "pattern": "**ob** + sie … Infinitiv + **dürften**",
+      "mistake": {"wrong": "Die Kinder fragten ihren Vater, ob sie am Wochenende dürften im Garten zelten.", "why": "In the *ob*-clause the finite modal verb comes last, after the infinitive: *im Garten zelten dürften*."},
+      "examples": [
+        {"de": "Die Praktikanten fragten, ob sie die Kantine mitbenutzen dürften.", "en": "The interns asked whether they were allowed to use the canteen too."},
+        {"de": "Die Gäste wollten wissen, ob sie ihren Hund mitbringen dürften.", "en": "The guests wanted to know whether they could bring their dog."}
+      ],
+      "words": [{"de": "zelten", "en": "to camp (in a tent)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Reporterin fragte, wann die Regierung endlich ein Ergebnis vorlegen {{c1::werde::werden}}.",
+      "en": "The reporter asked when the government would finally present a result.",
+      "focus": "indirekte Frage · Zukunft",
+      "explanation": "Direct question: *„Wann wird die Regierung endlich ein Ergebnis vorlegen?“* The future in the indirect question becomes Konjunktiv I *werden* + infinitive. 3rd person singular **werde**; the finite verb stands at the end of the Nebensatz after the infinitive.",
+      "pattern": "W-Wort + … Infinitiv + **werde**",
+      "mistake": {"wrong": "Die Reporterin fragte, wann die Regierung endlich ein Ergebnis vorlegt werde.", "why": "*werden* needs an infinitive. *vorlegt* is a finite form; the correct order is *vorlegen werde*."},
+      "examples": [
+        {"de": "Die Fans wollten wissen, wann das neue Album erscheinen werde.", "en": "The fans wanted to know when the new album would come out."},
+        {"de": "Die Abgeordnete fragte, wer die Kosten am Ende tragen werde.", "en": "The MP asked who would bear the costs in the end."}
+      ],
+      "words": [{"de": "vorlegen", "en": "to present, submit"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the time levels of the Konjunktiv I.",
+      "prompt": "The direct speech can be in the Präteritum, the Perfekt or the Plusquamperfekt. How many past forms does reported speech have, and how are they built?",
+      "answer": "Only **one**: Konjunktiv I of *haben* or *sein* + Partizip II (*er habe gesehen, er sei gegangen*). All three past tenses of the direct speech become this form.",
+      "explanation": "The Konjunktiv I has three time levels: Gegenwart (*er komme*), Vergangenheit (*er sei gekommen*) and Zukunft (*er werde kommen*). The tense of the introducing verb (*sagt/sagte/hat gesagt*) does not change the form inside the reported clause.",
+      "examples": [
+        {"de": "Sie sagt, sie sei gestern in Hamburg gewesen.", "en": "She says she was in Hamburg yesterday."},
+        {"de": "Sie sagte, sie sei damals oft in Hamburg gewesen.", "en": "She said she had often been in Hamburg back then."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the replacement forms.",
+      "prompt": "When do you replace the Konjunktiv I with the Konjunktiv II, and when with *würde* + infinitive?",
+      "answer": "Konjunktiv I = indicative (*ich habe, wir kommen, sie müssen*) → **Konjunktiv II** (*ich hätte, wir kämen, sie müssten*). Konjunktiv II = Präteritum (weak verbs: *sie arbeiteten, wir kauften*) → **würde** + infinitive (*sie würden arbeiten*).",
+      "explanation": "The aim is a form that clearly shows reported speech. Usually *ich*, *wir* and *sie/Sie* need a replacement. In spoken German the Konjunktiv II and the *würde*-form are often used even where the Konjunktiv I would be clear.",
+      "examples": [
+        {"de": "Die Mieter sagen, sie hätten keine Wahl.", "en": "The tenants say they have no choice."},
+        {"de": "Die Mieter sagen, sie würden jeden Monat zu viel bezahlen.", "en": "The tenants say they pay too much every month."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two modal verbs.",
+      "prompt": "How do you report an imperative, and what is the difference between *er solle warten* and *er möge warten*?",
+      "answer": "An imperative becomes a modal verb + infinitive. **sollen** reports a command or instruction (*Warte!* → *er solle warten*). **mögen** (Konjunktiv I *möge*; in the plural the replacement form *möchten*, because *sie mögen* = indicative) reports a polite request or wish (*Warten Sie bitte!* → *er möge warten*) and is formal.",
+      "explanation": "The choice shows the tone of the original. *mögen* is typical of formal letters, minutes and literature. In everyday speech people use *sollen* for both or a verb like *bitten* + *zu*-infinitive: *Sie bat ihn zu warten*.",
+      "examples": [
+        {"de": "Der Trainer rief, wir sollten schneller laufen.", "en": "The coach shouted that we should run faster."},
+        {"de": "Die Gastgeberin bat, man möge die Schuhe ausziehen.", "en": "The hostess asked that people please take off their shoes."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about reported questions.",
+      "prompt": "How do you report a W-question and a yes/no question?",
+      "answer": "W-question: keep the **question word** (*wann, warum, wer …*). Yes/no question: use **ob**. In both cases the clause is a Nebensatz with the finite verb at the end, and the verb is in the Konjunktiv I (or its replacement).",
+      "explanation": "The introducing verb is usually *fragen*, *wissen wollen* or *sich erkundigen*. Do not use *dass* or *wenn* for questions, and do not keep the question word order (✗ *wann kommt er*).",
+      "examples": [
+        {"de": "Sie erkundigte sich, wie lange die Reparatur dauere.", "en": "She enquired how long the repair would take."},
+        {"de": "Er wollte wissen, ob das Angebot noch gelte.", "en": "He wanted to know whether the offer was still valid."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the change of perspective.",
+      "prompt": "Which words besides the verb often change in reported speech, and why?",
+      "answer": "**Pronouns and possessives** (*ich → er/sie, mein → sein/ihr, du → ich*), and **time and place words** when the report is made at another time or place: *heute → an dem Tag, morgen → am nächsten Tag, gestern → am Vortag, nächste Woche → in der folgenden Woche, hier → dort, jetzt → damals / in dem Moment*.",
+      "explanation": "These words point to the speaker's own situation (deictic words). In the report they must fit the reporter's situation. If the report is made on the same day and at the same place, *morgen* or *hier* can stay.",
+      "examples": [
+        {"de": "Er sagte, er könne heute leider nicht kommen.", "en": "He said that he unfortunately couldn't come today."},
+        {"de": "Er hatte gesagt, er könne an dem Tag leider nicht kommen.", "en": "He had said that he unfortunately couldn't come that day."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Report the statement a week later. Use the Konjunktiv I and change the time word.",
+      "prompt": "Er sagte: „Ich war gestern beim Zahnarzt.“",
+      "answer": "Er sagte, er sei am Tag zuvor beim Zahnarzt gewesen.",
+      "explanation": "Präteritum *war* → Konjunktiv I past *sei … gewesen*. *ich* → *er*. *gestern* refers to the speaker's day and becomes *am Tag zuvor* (or *am Vortag*). Without *dass* the reported clause has verb-second order."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Report the statement. Use a replacement form where the Konjunktiv I is not clear.",
+      "prompt": "Die Parteichefs sagten: „Wir werden die Steuern nicht erhöhen.“",
+      "answer": "Die Parteichefs sagten, sie würden die Steuern nicht erhöhen.",
+      "explanation": "Future → *werden* + infinitive. *wir* → *sie* (plural). The Konjunktiv I *sie werden* equals the indicative, so the Konjunktiv II *würden* is used."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Report the question. Use the Konjunktiv I.",
+      "prompt": "Der Kunde fragte: „Wo kann ich mein Paket abholen?“",
+      "answer": "Der Kunde fragte, wo er sein Paket abholen könne.",
+      "explanation": "The question word *wo* introduces the Nebensatz; the finite verb goes to the end. *ich* → *er*, *mein* → *sein*. Konjunktiv I of *können*: *er könne* (clear, indicative *kann*)."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Report the command with *sollen*.",
+      "prompt": "Die Lehrerin sagte zu den Schülern: „Gebt die Hefte bis Freitag ab!“",
+      "answer": "Die Lehrerin sagte den Schülern, sie sollten die Hefte bis Freitag abgeben.",
+      "explanation": "An imperative becomes *sollen* + infinitive. The addressees (*ihr*) become *sie* (plural); Konjunktiv I *sie sollen* = indicative → Konjunktiv II *sollten*. The separable verb *abgeben* stands as one word at the end. *sagen zu* + Dativ can also be *sagen* + Dativ."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Report the polite request with *mögen*.",
+      "prompt": "Der Gastgeber sagte zu Frau Berger: „Bedienen Sie sich bitte!“",
+      "answer": "Der Gastgeber sagte zu Frau Berger, sie möge sich bedienen.",
+      "explanation": "*bitte* makes it a polite request → *mögen*. *Sie* (Frau Berger) → *sie*, 3rd person singular Konjunktiv I *möge*. The reflexive pronoun *sich* stays because the subject is now 3rd person."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Report the statement. Use a replacement form where needed.",
+      "prompt": "Die Kinder riefen: „Wir haben den Hund nicht gesehen!“",
+      "answer": "Die Kinder riefen, sie hätten den Hund nicht gesehen.",
+      "explanation": "Perfekt → Konjunktiv I past with *haben*. *wir* → *sie*; Konjunktiv I *sie haben* = indicative → Konjunktiv II *hätten* + Partizip II."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Report the question from your own point of view (the technician was talking to you).",
+      "prompt": "Der Techniker fragte: „Haben Sie den Router schon neu gestartet?“",
+      "answer": "Der Techniker fragte, ob ich den Router schon neu gestartet hätte.",
+      "explanation": "Yes/no question → *ob* + verb at the end. *Sie* refers to me → *ich*. Konjunktiv I *ich habe* = indicative → *hätte*. The finite auxiliary comes after the Partizip II: *neu gestartet hätte*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Change the reported speech back into direct speech (she is talking about herself).",
+      "prompt": "Sie sagte, sie habe ihren Bruder seit Jahren nicht mehr gesehen.",
+      "answer": "Sie sagte: „Ich habe meinen Bruder seit Jahren nicht mehr gesehen.“",
+      "explanation": "Direct speech uses the indicative and the speaker's own perspective: *sie* → *ich*, *ihren* → *meinen*. *habe … gesehen* is the Konjunktiv I past; in direct speech it can be the Perfekt *habe gesehen* (here the same form, now indicative). A colon and quotation marks introduce the direct speech."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie fragte mich, wann käme ich zurück.",
+      "answer": "Sie fragte mich, wann ich zurückkäme.",
+      "explanation": "An indirect question is a Nebensatz: the finite verb goes to the end, and the separable prefix joins it (*zurückkäme*). The Konjunktiv II *käme* is correct because *ich komme* would equal the indicative."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er erzählte, er sei sehr müde gewesen und habe früh ins Bett gegangen.",
+      "answer": "Er erzählte, er sei sehr müde gewesen und sei früh ins Bett gegangen.",
+      "explanation": "*gehen* is a verb of movement and forms its Perfekt with *sein*. The Konjunktiv I keeps the auxiliary: *er sei … gegangen*, not *habe … gegangen*."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Kollege erzählte, er habe den Zug verpasst und sei deshalb nicht pünktlich kommen können.",
+      "answer": "Der Kollege erzählte, er habe den Zug verpasst und habe deshalb nicht pünktlich kommen können.",
+      "explanation": "A modal verb in the past with an Ersatzinfinitiv always uses *haben*, even if the main verb (*kommen*) normally takes *sein*: *er habe nicht kommen können*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct form for reported speech.",
+      "prompt": "Die Nachbarn erzählten, sie ___ im Sommer nach Kanada auswandern.",
+      "options": ["werden", "würden", "werde", "wurden"],
+      "correct": "würden",
+      "answer": "Die Nachbarn erzählten, sie würden im Sommer nach Kanada auswandern.",
+      "explanation": "The subject *sie* is plural. *werden* would be Konjunktiv I but looks like the indicative, so the Konjunktiv II *würden* is used. *werde* is singular, and *wurden* is the Präteritum indicative, which cannot combine with *auswandern* like this."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct form for reported speech.",
+      "prompt": "Die Zeugin sagte aus, sie ___ den Täter nur von hinten gesehen.",
+      "options": ["habe", "sei", "würde", "werde"],
+      "correct": "habe",
+      "answer": "Die Zeugin sagte aus, sie habe den Täter nur von hinten gesehen.",
+      "explanation": "Past → auxiliary in the Konjunktiv I + Partizip II. *sehen* takes *haben*, and *sie habe* (3rd person singular) is a clear Konjunktiv I form. *sei* is the wrong auxiliary; *würde* and *werde* need an infinitive, not *gesehen*."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Der Reporter fragte die Ministerin, ___ sie zurücktreten werde.",
+      "options": ["ob", "dass", "wenn", "falls"],
+      "correct": "ob",
+      "answer": "Der Reporter fragte die Ministerin, ob sie zurücktreten werde.",
+      "explanation": "The direct question is a yes/no question (*Werden Sie zurücktreten?*), so the indirect question needs *ob*. *dass* introduces statements, not questions; *wenn* and *falls* introduce conditions."
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Arzt",
+      "prompt": "fragte / regelmäßig / der Arzt / er / ob / rauche / den Patienten",
+      "answer": "Der Arzt fragte den Patienten, ob er regelmäßig rauche.",
+      "explanation": "Main clause: *Der Arzt fragte den Patienten* (verb second). The yes/no question is reported with *ob*; the subject *er* follows, and the Konjunktiv I *rauche* (indicative *raucht*) goes to the end."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence: report the question with the introducing words *Die Beamtin wollte von Herrn Kaya wissen*.",
+      "prompt": "Die Beamtin wollte von Herrn Kaya etwas wissen. „Seit wann leben Sie in Deutschland?“",
+      "answer": "Die Beamtin wollte von Herrn Kaya wissen, seit wann er in Deutschland lebe.",
+      "explanation": "*seit wann* stays as the question word group and introduces the Nebensatz. *Sie* (Herr Kaya) → *er*. Konjunktiv I *er lebe* is clear (indicative *lebt*) and goes to the end."
+    },
+    {
+      "key": "d22",
+      "type": "transform",
+      "instruction": "Report the statement. Choose the form that clearly shows reported speech.",
+      "prompt": "Die Experten sagten: „Die Preise steigen weiter.“",
+      "answer": "Die Experten sagten, die Preise würden weiter steigen.",
+      "explanation": "Konjunktiv I *sie steigen* = indicative. Konjunktiv II *stiegen* = Präteritum of the strong verb *steigen* (no umlaut possible). Neither form is clear, so you use *würden* + infinitive."
+    }
+  ]
+}

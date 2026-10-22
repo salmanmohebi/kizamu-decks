@@ -1,0 +1,1119 @@
+{
+  "topic_id": "b2-13-erweiterter-partizipialattribut",
+  "level": "B2",
+  "title_de": "Erweitertes Partizipialattribut",
+  "title_en": "Extended participial attributes",
+  "rule": {
+    "summary": "An extended participial attribute is a participle used as an adjective that has its own complements, placed between the article and the noun: *die [in Berlin wohnenden] Studenten*. It compresses a relative clause and is typical of news, academic and official texts. **Partizip I** (infinitive + *-d*) has an active meaning and describes something happening at the same time; **Partizip II** has a passive meaning with transitive verbs (*das gebaute Haus*) and a completed active meaning with *sein*-verbs (*der angekommene Zug*). **zu + Partizip I** expresses necessity or possibility (*die zu klärenden Fragen*). The participle always takes a normal adjective ending.",
+    "table": "| Relativsatz | Partizipialattribut | Form |\n|---|---|---|\n| die Kinder, die im Garten spielen | die im Garten spielend**en** Kinder | Partizip I: aktiv, gleichzeitig |\n| das Haus, das 1900 gebaut wurde | das 1900 gebaut**e** Haus | Partizip II: passiv |\n| der Zug, der gerade angekommen ist | der gerade angekommen**e** Zug | Partizip II (*sein*-Verb): aktiv, abgeschlossen |\n| die Fragen, die geklärt werden müssen | die noch zu klärend**en** Fragen | zu + Partizip I: Notwendigkeit |\n| ein Lehrer, der für seine Geduld bekannt ist | ein für seine Geduld bekannt**er** Lehrer | erweitertes Adjektiv |",
+    "steps": [
+      "To read it: when an article is followed by prepositional phrases or adverbs instead of a noun, jump to the noun, then read the block between article and noun as a relative clause (*die … wohnenden Studenten* → *die Studenten, die … wohnen*).",
+      "To build it, choose the participle: the noun does the action itself, at the same time → **Partizip I** (*wohnen → wohnend*). The noun undergoes the action (passive) → **Partizip II** of a transitive verb (*bauen → gebaut*). The noun has completed a change with a *sein*-verb → Partizip II (*ankommen → angekommen*). Something must or can be done → **zu + Partizip I** (*zu klärend*).",
+      "Put all complements before the participle, in the order they would have at the end of a Nebensatz (time – cause – manner – place): *die seit Jahren in München lebende Autorin*. The participle stands directly before the noun. Do not use commas.",
+      "Add the adjective ending that the article requires: weak after *der/die/das* (*-e/-en*), mixed after *ein/kein/mein* (*ein … gebautes Haus*), strong without an article (*nicht abgeholte Pakete*).",
+      "Keep reflexive pronouns and negation inside the block: *der sich nähernde Sturm, nicht abgeholte Pakete*."
+    ],
+    "pitfalls": [
+      "Forgetting the ending: ✗ *die in Berlin wohnend Studenten* → ✓ *die in Berlin wohnenden Studenten*.",
+      "Confusing active and passive: ✗ *das gestern lesende Buch* → ✓ *das gestern gelesene Buch*. The book does not read; it is read.",
+      "Putting complements after the participle: ✗ *die wohnenden in Berlin Studenten* → ✓ *die in Berlin wohnenden Studenten*.",
+      "Partizip II of intransitive *haben*-verbs: ✗ *der lange geschlafene Mann* → ✓ *der Mann, der lange geschlafen hat*. Only transitive verbs and *sein*-verbs give a Partizip II attribute.",
+      "Building Partizip I from the conjugated form: ✗ *der vor uns fährende Bus* → ✓ *der vor uns fahrende Bus*. Partizip I = infinitive + *-d*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das {{c1::seit langem geplante::seit langem + planen}} Projekt beginnt morgen.",
+      "en": "The long-planned project starts tomorrow.",
+      "focus": "Partizip II · passiv · Nominativ neutral",
+      "explanation": "Relative clause: *das Projekt, das seit langem geplant ist*. Someone plans the project → passive meaning → Partizip II *geplant*. The extension *seit langem* stands before the participle, and after *das* (Nominativ neuter) the participle takes the weak ending: **geplante**.",
+      "pattern": "das + [Erweiterung + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das seit langem planende Projekt beginnt morgen.",
+        "why": "Partizip I *planend* is active: the project would be planning something itself. The project is planned, so you need Partizip II: *geplante*."
+      },
+      "examples": [
+        {
+          "de": "Die seit Monaten angekündigte Reform kommt endlich.",
+          "en": "The reform that has been announced for months is finally coming."
+        },
+        {
+          "de": "Der lange erwartete Bericht erscheint nächste Woche.",
+          "en": "The long-awaited report will be published next week."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die {{c1::in Berlin wohnenden::in Berlin + wohnen}} Studenten kommen aus aller Welt.",
+      "en": "The students living in Berlin come from all over the world.",
+      "focus": "Partizip I · aktiv, gleichzeitig · Nominativ Plural",
+      "explanation": "Relative clause: *die Studenten, die in Berlin wohnen*. The students do the action themselves, at the same time → Partizip I: infinitive + *-d* → *wohnend*. After plural *die* the ending is **-en**: *wohnenden*. The place *in Berlin* comes before the participle.",
+      "pattern": "die + [Ort + Partizip I-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die wohnenden in Berlin Studenten kommen aus aller Welt.",
+        "why": "All extra information stands before the participle, and the participle comes directly before the noun: *die in Berlin wohnenden Studenten*."
+      },
+      "examples": [
+        {
+          "de": "Die im Ausland lebenden Deutschen können per Brief wählen.",
+          "en": "Germans living abroad can vote by post."
+        },
+        {
+          "de": "Die an der Studie teilnehmenden Patienten werden regelmäßig untersucht.",
+          "en": "The patients taking part in the study are examined regularly."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir besichtigen das {{c1::im 18. Jahrhundert gebaute::im 18. Jh. + bauen}} Schloss.",
+      "en": "We're visiting the castle built in the 18th century.",
+      "focus": "Partizip II · passiv · Akkusativ neutral",
+      "explanation": "Relative clause: *das Schloss, das im 18. Jahrhundert gebaut wurde*. Passive in the past → Partizip II *gebaut*. *das Schloss* is the Akkusativ object of *besichtigen*; neuter Akkusativ after *das* → **-e**: *gebaute*. The time phrase (*im achtzehnten Jahrhundert*) stands before the participle.",
+      "pattern": "das + [Zeit + Partizip II-e] + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir besichtigen das im 18. Jahrhundert gebauten Schloss.",
+        "why": "*-en* after the definite article is for masculine Akkusativ, Dativ, Genitiv and plural. Neuter Akkusativ after *das* takes *-e*: *gebaute*."
+      },
+      "examples": [
+        {
+          "de": "Wir besuchen die im Mittelalter errichtete Kathedrale.",
+          "en": "We are visiting the cathedral built in the Middle Ages."
+        },
+        {
+          "de": "Sie restaurieren das vor 300 Jahren gemalte Porträt.",
+          "en": "They are restoring the portrait painted 300 years ago."
+        }
+      ],
+      "words": [
+        {
+          "de": "besichtigen",
+          "en": "to visit, to tour (a sight)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Der {{c1::vom Lehrer empfohlene::vom Lehrer + empfehlen}} Roman ist sehr gut.",
+      "en": "The novel recommended by the teacher is very good.",
+      "focus": "Partizip II · Agens mit *von* · Nominativ maskulin",
+      "explanation": "Relative clause: *der Roman, der vom Lehrer empfohlen wurde*. The agent of the passive stays inside the attribute as *von* + Dativ (*vom Lehrer*). *empfehlen* has the irregular Partizip II *empfohlen*; masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [von + Agens + Partizip II-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der vom Lehrer empfehlende Roman ist sehr gut.",
+        "why": "Partizip I would make the novel the one that recommends. The teacher recommends the novel → passive → Partizip II *empfohlene*."
+      },
+      "examples": [
+        {
+          "de": "Das von der Ärztin verschriebene Medikament wirkt schnell.",
+          "en": "The medicine prescribed by the doctor works quickly."
+        },
+        {
+          "de": "Der von den Fans gewählte Spieler des Jahres ist erst 19.",
+          "en": "The player of the year chosen by the fans is only 19."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Die {{c1::auf dem Tisch liegenden::auf dem Tisch + liegen}} Bücher sind alle alt.",
+      "en": "The books lying on the table are all old.",
+      "focus": "Partizip I · Zustand · Nominativ Plural",
+      "explanation": "Relative clause: *die Bücher, die auf dem Tisch liegen*. *liegen* is intransitive and describes a current state → Partizip I *liegend*; plural after *die* → **-en**. The Dativ phrase *auf dem Tisch* (*wo?*) stays unchanged inside the attribute.",
+      "pattern": "die + [Ort + Partizip I-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die auf dem Tisch liegende Bücher sind alle alt.",
+        "why": "After the definite article every plural adjective or participle ends in *-en*: *die … liegenden Bücher*."
+      },
+      "examples": [
+        {
+          "de": "Die im Regal stehenden Ordner gehören der Buchhaltung.",
+          "en": "The files on the shelf belong to the accounts department."
+        },
+        {
+          "de": "Die vor dem Eingang wartenden Gäste bekommen einen Kaffee.",
+          "en": "The guests waiting at the entrance are given a coffee."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das {{c1::von ihm geschriebene::von ihm + schreiben}} Buch wurde ein Bestseller.",
+      "en": "The book he wrote became a bestseller.",
+      "focus": "Partizip II · Pronomen als Agens · Nominativ neutral",
+      "explanation": "Relative clause: *das Buch, das von ihm geschrieben wurde*. A pronoun can also stand inside the attribute: *von ihm* (Dativ after *von*). Partizip II of *schreiben* → *geschrieben*; neuter Nominativ after *das* → **-e**.",
+      "pattern": "das + [von + Pronomen + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das von ihm geschriebenes Buch wurde ein Bestseller.",
+        "why": "*-es* is the strong ending (after *ein* or without an article). After *das* the participle takes the weak ending *-e*."
+      },
+      "examples": [
+        {
+          "de": "Die von ihr komponierte Filmmusik gewann einen Preis.",
+          "en": "The film score she composed won a prize."
+        },
+        {
+          "de": "Der von uns gemietete Wagen hatte eine Panne.",
+          "en": "The car we rented broke down."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Der {{c1::vor uns fahrende::vor uns + fahren}} Bus ist sehr langsam.",
+      "en": "The bus in front of us is very slow.",
+      "focus": "Partizip I · gleichzeitige Bewegung · Nominativ maskulin",
+      "explanation": "Relative clause: *der Bus, der vor uns fährt*. The bus is the agent and the action is happening now → Partizip I *fahrend*. It is built from the infinitive, so there is no vowel change. Masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [Ort + Partizip I-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der vor uns fährende Bus ist sehr langsam.",
+        "why": "Partizip I is always the infinitive + *-d*: *fahren → fahrend*. It is never built from the conjugated form *fährt*."
+      },
+      "examples": [
+        {
+          "de": "Der neben mir sitzende Fahrgast telefonierte die ganze Zeit.",
+          "en": "The passenger sitting next to me was on the phone the whole time."
+        },
+        {
+          "de": "Das vor der Küste ankernde Schiff wartet auf die Einfahrt in den Hafen.",
+          "en": "The ship anchored off the coast is waiting to enter the harbour."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Die {{c1::neu gewählte::neu + wählen}} Vorsitzende hält ihre erste Rede.",
+      "en": "The newly elected chairwoman is giving her first speech.",
+      "focus": "Partizip II · mit Adverb · vor nominalisiertem Adjektiv",
+      "explanation": "Relative clause: *die Vorsitzende, die neu gewählt wurde*. The extension is just the adverb *neu*. *Vorsitzende* is itself a nominalised adjective (*die Vorsitzende* = female chair), and the participle before it takes the same weak ending after *die*: **-e**.",
+      "pattern": "die + [Adverb + Partizip II-e] + nominalisiertes Adjektiv",
+      "mistake": {
+        "wrong": "Die neu wählende Vorsitzende hält ihre erste Rede.",
+        "why": "*wählend* would mean that the chairwoman is electing someone. She was elected → passive → Partizip II *gewählte*."
+      },
+      "examples": [
+        {
+          "de": "Der neu ernannte Direktor stellt sich morgen vor.",
+          "en": "The newly appointed director will introduce himself tomorrow."
+        },
+        {
+          "de": "Die frisch renovierte Wohnung ist sofort bezugsfertig.",
+          "en": "The freshly renovated flat is ready to move into at once."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Vorsitzende (-n)",
+          "en": "chairwoman, chair"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das {{c1::für die Reise gepackte::für die Reise + packen}} Gepäck steht im Flur.",
+      "en": "The luggage packed for the trip is in the hallway.",
+      "focus": "Partizip II · Zweck in der Erweiterung · Nominativ neutral",
+      "explanation": "Relative clause: *das Gepäck, das für die Reise gepackt wurde*. Passive → Partizip II *gepackt*. *Gepäck* is neuter (*das Gepäck*), Nominativ → **-e**. The purpose *für die Reise* (Akkusativ after *für*) stays inside the attribute.",
+      "pattern": "das + [für + Akk. + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das gepackte für die Reise Gepäck steht im Flur.",
+        "why": "The extension *für die Reise* must come before the participle: *das für die Reise gepackte Gepäck*."
+      },
+      "examples": [
+        {
+          "de": "Die für das Fest gekauften Getränke stehen im Keller.",
+          "en": "The drinks bought for the party are in the cellar."
+        },
+        {
+          "de": "Der für Montag geplante Streik wurde abgesagt.",
+          "en": "The strike planned for Monday was called off."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Der {{c1::gut bezahlte::gut + bezahlen}} Job hat viele Vorteile.",
+      "en": "The well-paid job has many advantages.",
+      "focus": "Partizip II · untrennbares Präfix · Nominativ maskulin",
+      "explanation": "Relative clause: *der Job, der gut bezahlt wird*. The adverb *gut* is the extension. *bezahlen* has the unstressed prefix *be-*, so the Partizip II has no *ge-*: *bezahlt*. Masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [Adverb + Partizip II-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der gut gebezahlte Job hat viele Vorteile.",
+        "why": "Verbs with an inseparable prefix (*be-, ver-, er-, zer- …*) form the Partizip II without *ge-*: *bezahlt*."
+      },
+      "examples": [
+        {
+          "de": "Die schlecht beleuchtete Straße ist nachts gefährlich.",
+          "en": "The poorly lit street is dangerous at night."
+        },
+        {
+          "de": "Die oft gestellten Fragen stehen auf unserer Website.",
+          "en": "The frequently asked questions are on our website."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Die {{c1::frisch gebackenen::frisch + backen}} Brötchen duften herrlich.",
+      "en": "The freshly baked rolls smell wonderful.",
+      "focus": "Partizip II · Zustand · Nominativ Plural",
+      "explanation": "Relative clause: *die Brötchen, die frisch gebacken sind* (state after an action). Partizip II of *backen* → *gebacken*; plural after *die* → **-en**. *frisch gebacken* is also used figuratively: *die frisch gebackene Mutter* (the new mother).",
+      "pattern": "die + [Adverb + Partizip II-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die frisch gebackene Brötchen duften herrlich.",
+        "why": "*Brötchen* is plural here (verb *duften*), and every plural form after *die* takes *-en*: *gebackenen*."
+      },
+      "examples": [
+        {
+          "de": "Die frisch gestrichenen Wände riechen noch nach Farbe.",
+          "en": "The freshly painted walls still smell of paint."
+        },
+        {
+          "de": "Die frisch gewaschenen Handtücher liegen im Bad.",
+          "en": "The freshly washed towels are in the bathroom."
+        }
+      ],
+      "words": [
+        {
+          "de": "duften",
+          "en": "to smell (nice)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Das {{c1::nach langer Suche gefundene::nach langer Suche + finden}} Hotel ist wunderbar.",
+      "en": "The hotel we found after a long search is wonderful.",
+      "focus": "Partizip II · starkes Verb · Präpositionalphrase in der Erweiterung",
+      "explanation": "Relative clause: *das Hotel, das nach langer Suche gefunden wurde*. Strong verb: *finden* → *gefunden*. Inside the attribute *nach langer Suche* keeps its own Dativ (*langer*: strong ending, no article). Neuter Nominativ after *das* → **-e**.",
+      "pattern": "das + [Präp.-Phrase + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das nach langer Suche findende Hotel ist wunderbar.",
+        "why": "The hotel does not find anything; it was found → passive → Partizip II *gefundene*."
+      },
+      "examples": [
+        {
+          "de": "Der erst nach drei Jahren entdeckte Fehler kostete die Firma Millionen.",
+          "en": "The error, discovered only after three years, cost the company millions."
+        },
+        {
+          "de": "Die beim Umzug verlorenen Papiere sind wieder aufgetaucht.",
+          "en": "The papers lost during the move have turned up again."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Der {{c1::vom Bürgermeister begrüßte::vom Bürgermeister + begrüßen}} Gast ist Politiker.",
+      "en": "The guest welcomed by the mayor is a politician.",
+      "focus": "Partizip II · Agens · Präfix *be-*",
+      "explanation": "Relative clause: *der Gast, der vom Bürgermeister begrüßt wurde*. *begrüßen* has the inseparable prefix *be-* → Partizip II without *ge-*: *begrüßt*. *vom* = *von dem* names the agent. Masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [vom + Agens + Partizip II-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der vom Bürgermeister begrüßende Gast ist Politiker.",
+        "why": "Partizip I would make the guest the one who greets. The mayor greets the guest → passive → Partizip II *begrüßte*."
+      },
+      "examples": [
+        {
+          "de": "Die von der Presse kritisierte Ministerin trat gestern zurück.",
+          "en": "The minister criticised by the press resigned yesterday."
+        },
+        {
+          "de": "Das vom Publikum gefeierte Stück läuft noch bis Juni.",
+          "en": "The play celebrated by the audience runs until June."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Die {{c1::seit Jahren bestehenden::seit Jahren + bestehen}} Probleme müssen gelöst werden.",
+      "en": "The problems that have existed for years have to be solved.",
+      "focus": "Partizip I · andauernder Zustand · Nominativ Plural",
+      "explanation": "Relative clause: *die Probleme, die seit Jahren bestehen*. *bestehen* (to exist) is intransitive and the state still continues → Partizip I *bestehend*; plural → **-en**. English uses a perfect (*have existed*), but German uses Partizip I because the state is still going on.",
+      "pattern": "die + [seit + Zeit + Partizip I-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die seit Jahren bestandenen Probleme müssen gelöst werden.",
+        "why": "*bestehen* forms its Perfekt with *haben* and has no object, so its Partizip II cannot be used as an attribute (*bestanden* would also suggest *passed*, as in an exam). An ongoing state needs Partizip I."
+      },
+      "examples": [
+        {
+          "de": "Die seit Wochen andauernden Proteste haben das Land verändert.",
+          "en": "The protests that have been going on for weeks have changed the country."
+        },
+        {
+          "de": "Der seit 1995 existierende Verein feiert sein Jubiläum.",
+          "en": "The club, which has existed since 1995, is celebrating its anniversary."
+        }
+      ],
+      "words": [
+        {
+          "de": "bestehen",
+          "en": "to exist"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Das {{c1::von der Kommission verabschiedete::von der Kommission + verabschieden}} Gesetz tritt bald in Kraft.",
+      "en": "The law passed by the commission will soon come into force.",
+      "focus": "Partizip II · Pressesprache · Präfix *ver-*",
+      "explanation": "Relative clause: *das Gesetz, das von der Kommission verabschiedet wurde*. *verabschieden* (here: to pass a law) has the inseparable prefix *ver-*, so no *ge-*: *verabschiedet*. This is typical newspaper style: a whole passive clause compressed before the noun.",
+      "pattern": "das + [von + Agens + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das verabschiedete von der Kommission Gesetz tritt bald in Kraft.",
+        "why": "The agent phrase belongs before the participle: *das von der Kommission verabschiedete Gesetz*."
+      },
+      "examples": [
+        {
+          "de": "Die vom Parlament beschlossene Steuerreform gilt ab Januar.",
+          "en": "The tax reform approved by parliament applies from January."
+        },
+        {
+          "de": "Der vom Gericht verurteilte Manager legt Berufung ein.",
+          "en": "The manager convicted by the court is appealing."
+        }
+      ],
+      "words": [
+        {
+          "de": "verabschieden",
+          "en": "to pass (a law)"
+        },
+        {
+          "de": "in Kraft treten",
+          "en": "to come into force"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Der {{c1::im Krieg zerstörte::im Krieg + zerstören}} Turm wurde wieder aufgebaut.",
+      "en": "The tower destroyed in the war was rebuilt.",
+      "focus": "Partizip II · Vergangenheit · Nominativ maskulin",
+      "explanation": "Relative clause: *der Turm, der im Krieg zerstört wurde*. *zerstören* → *zerstört* (prefix *zer-*, no *ge-*). Masculine Nominativ after *der* → **-e**. The attribute and the main clause (*wurde … aufgebaut*) are both passive.",
+      "pattern": "der + [Zeit + Partizip II-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der im Krieg zerstörter Turm wurde wieder aufgebaut.",
+        "why": "*-er* is the strong ending after *ein* or without an article. After *der* the participle is weak: *zerstörte*."
+      },
+      "examples": [
+        {
+          "de": "Die im Sturm beschädigte Brücke ist wieder offen.",
+          "en": "The bridge damaged in the storm is open again."
+        },
+        {
+          "de": "Das beim Brand zerstörte Archiv wird digital rekonstruiert.",
+          "en": "The archive destroyed in the fire is being reconstructed digitally."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die {{c1::im Jahr 2010 eröffnete::im Jahr 2010 + eröffnen}} Bibliothek ist sehr beliebt.",
+      "en": "The library opened in 2010 is very popular.",
+      "focus": "Partizip II · Jahreszahl · Nominativ feminin",
+      "explanation": "Relative clause: *die Bibliothek, die im Jahr 2010 eröffnet wurde*. *eröffnen* (prefix *er-*) → *eröffnet*. Feminine Nominativ after *die* → **-e**. A year is given as *im Jahr 2010* or just *2010*, not *in 2010*.",
+      "pattern": "die + [Zeit + Partizip II-e] + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Die im Jahr 2010 eröffneten Bibliothek ist sehr beliebt.",
+        "why": "*Bibliothek* is singular and the subject → feminine Nominativ → *-e*. *-en* would require a plural or a Dativ/Genitiv."
+      },
+      "examples": [
+        {
+          "de": "Das 2019 gegründete Start-up hat heute 200 Mitarbeiter.",
+          "en": "The start-up founded in 2019 now has 200 employees."
+        },
+        {
+          "de": "Der im Mai eröffnete Flughafen hat bereits Probleme.",
+          "en": "The airport opened in May is already having problems."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das {{c1::von ihr ausgewählte::von ihr + auswählen}} Geschenk ist perfekt.",
+      "en": "The present she chose is perfect.",
+      "focus": "Partizip II · trennbares Verb · Nominativ neutral",
+      "explanation": "Relative clause: *das Geschenk, das von ihr ausgewählt wurde*. Separable verb: *auswählen* → *ausgewählt* (*ge-* between prefix and stem), written as one word. Neuter Nominativ after *das* → **-e**.",
+      "pattern": "das + [von + Pronomen + Partizip II-e] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das von ihr ausgewählt Geschenk ist perfekt.",
+        "why": "A participle before a noun needs an adjective ending. After *das* (Nominativ neuter) it is *-e*: *ausgewählte*."
+      },
+      "examples": [
+        {
+          "de": "Die von uns eingeladenen Gäste kommen um acht.",
+          "en": "The guests we invited are coming at eight."
+        },
+        {
+          "de": "Der vom Team ausgearbeitete Vorschlag überzeugte den Vorstand.",
+          "en": "The proposal worked out by the team convinced the board."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Der {{c1::durch Wind und Regen beschädigte::durch Wind und Regen + beschädigen}} Garten muss wieder hergerichtet werden.",
+      "en": "The garden damaged by wind and rain has to be restored.",
+      "correction": "The old sentence ended with *muss repariert werden*. *einen Garten reparieren* is not idiomatic German (you repair machines, roofs or fences). Changed to *wieder hergerichtet werden*; the cloze answer is unchanged.",
+      "focus": "Partizip II · Ursache mit *durch* · Nominativ maskulin",
+      "explanation": "Relative clause: *der Garten, der durch Wind und Regen beschädigt wurde*. A cause or means in the passive is often given with *durch* + Akkusativ (with natural forces *von* is also possible: *vom Sturm beschädigt*), and this phrase stays inside the attribute. *beschädigen* → *beschädigt* (no *ge-*). Masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [durch + Ursache + Partizip II-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der durch Wind und Regen beschädigten Garten muss wieder hergerichtet werden.",
+        "why": "*Garten* is the subject → masculine Nominativ → *-e*. *-en* after *der* would only be right in the Dativ or Genitiv feminine or the Genitiv plural."
+      },
+      "examples": [
+        {
+          "de": "Die durch das Erdbeben zerstörten Häuser werden neu gebaut.",
+          "en": "The houses destroyed by the earthquake are being rebuilt."
+        },
+        {
+          "de": "Der durch Hagel beschädigte Wagen muss in die Werkstatt.",
+          "en": "The car damaged by hail has to go to the garage."
+        }
+      ],
+      "words": [
+        {
+          "de": "herrichten",
+          "en": "to restore, to get (something) into shape"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Die {{c1::sorgfältig vorbereitete::sorgfältig + vorbereiten}} Präsentation war ein Erfolg.",
+      "en": "The carefully prepared presentation was a success.",
+      "focus": "Partizip II · trennbares Verb mit *be-* · Nominativ feminin",
+      "explanation": "Relative clause: *die Präsentation, die sorgfältig vorbereitet wurde*. *vorbereiten* is separable, but its stem *bereiten* already has the unstressed prefix *be-*, so there is no *ge-*: *vorbereitet*. Feminine Nominativ after *die* → **-e**.",
+      "pattern": "die + [Adverb + Partizip II-e] + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Die sorgfältig vorgebereitete Präsentation war ein Erfolg.",
+        "why": "The stem *bereiten* has the inseparable prefix *be-*, so no *ge-* is inserted: *vorbereitet*, not *vorgebereitet*."
+      },
+      "examples": [
+        {
+          "de": "Die gründlich überarbeitete Fassung liegt jetzt vor.",
+          "en": "The thoroughly revised version is now available."
+        },
+        {
+          "de": "Das liebevoll eingerichtete Café ist immer voll.",
+          "en": "The lovingly furnished café is always full."
+        }
+      ],
+      "words": [
+        {
+          "de": "sorgfältig",
+          "en": "careful(ly)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die {{c1::das Projekt leitende::das Projekt + leiten}} Ingenieurin hat zwanzig Jahre Erfahrung.",
+      "en": "The engineer leading the project has twenty years of experience.",
+      "focus": "Partizip I · mit Akkusativobjekt · Nominativ feminin",
+      "explanation": "Relative clause: *die Ingenieurin, die das Projekt leitet*. A Partizip I keeps the object of its verb: *das Projekt* (Akkusativ) stands inside the attribute. This creates two articles in a row (*Die das …*), which is normal in this structure. Feminine Nominativ after *die* → **leitende**.",
+      "pattern": "die + [Akk.-Objekt + Partizip I-e] + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Die das Projekt geleitete Ingenieurin hat zwanzig Jahre Erfahrung.",
+        "why": "The engineer leads the project; she is the agent. Partizip II *geleitet* would mean that she is led. Use Partizip I: *leitende*."
+      },
+      "examples": [
+        {
+          "de": "Der den Unfall untersuchende Gutachter kam zu einem klaren Ergebnis.",
+          "en": "The expert investigating the accident came to a clear conclusion."
+        },
+        {
+          "de": "Die die Firma beratende Agentur sitzt in Hamburg.",
+          "en": "The agency advising the company is based in Hamburg."
+        }
+      ],
+      "words": [
+        {
+          "de": "leiten",
+          "en": "to lead, to manage"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die {{c1::bis Freitag zu erledigenden::bis Freitag + erledigen (müssen)}} Aufgaben stehen auf der Liste.",
+      "en": "The tasks that have to be done by Friday are on the list.",
+      "focus": "zu + Partizip I · Notwendigkeit · Nominativ Plural",
+      "explanation": "Relative clause: *die Aufgaben, die bis Freitag erledigt werden müssen*. **zu + Partizip I** expresses a passive necessity (*must be done*) or possibility (*can be done*). *zu* goes directly before the participle: *zu erledigend* + **-en** (plural after *die*).",
+      "pattern": "die + [Erweiterung + zu + Partizip I-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die bis Freitag erledigenden Aufgaben stehen auf der Liste.",
+        "why": "Without *zu*, Partizip I is active: the tasks would be doing something. To express *must be done*, use *zu* + Partizip I: *zu erledigenden*."
+      },
+      "examples": [
+        {
+          "de": "Die noch zu klärenden Fragen besprechen wir am Montag.",
+          "en": "We will discuss the questions still to be clarified on Monday."
+        },
+        {
+          "de": "Der bis Ende Mai einzureichende Antrag liegt auf dem Schreibtisch.",
+          "en": "The application, which must be submitted by the end of May, is on the desk."
+        }
+      ],
+      "words": [
+        {
+          "de": "erledigen",
+          "en": "to deal with, to get done"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Der {{c1::mit Verspätung angekommene::mit Verspätung + ankommen}} Zug fährt in zehn Minuten weiter.",
+      "en": "The train, which arrived late, continues in ten minutes.",
+      "focus": "Partizip II · *sein*-Verb · aktiv, abgeschlossen",
+      "explanation": "Relative clause: *der Zug, der mit Verspätung angekommen ist*. *ankommen* forms its Perfekt with *sein*, so its Partizip II has an **active, completed** meaning, not a passive one. Separable verb: *an-ge-kommen*. Masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [Erweiterung + Partizip II (sein-Verb)-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der mit Verspätung ankommene Zug fährt in zehn Minuten weiter.",
+        "why": "*ankommene* mixes the infinitive with an adjective ending. The participle must be either Partizip II *angekommene* (has arrived) or Partizip I *ankommende* (is arriving)."
+      },
+      "examples": [
+        {
+          "de": "Die gestern eingetroffenen Ersatzteile werden heute eingebaut.",
+          "en": "The spare parts that arrived yesterday are being fitted today."
+        },
+        {
+          "de": "Der kurz nach dem Start eingeschlafene Passagier wachte erst in Tokio auf.",
+          "en": "The passenger who fell asleep shortly after take-off didn't wake up until Tokyo."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der {{c1::sich schnell nähernde::schnell + sich nähern}} Sturm zwingt die Behörden zum Handeln.",
+      "en": "The rapidly approaching storm is forcing the authorities to act.",
+      "focus": "Partizip I · reflexives Verb",
+      "explanation": "Relative clause: *der Sturm, der sich schnell nähert*. With a reflexive verb the pronoun *sich* stays inside the attribute and stands at the beginning of the block. Partizip I of *sich nähern* → *nähernd*; masculine Nominativ after *der* → **-e**.",
+      "pattern": "der + [sich + Adverb + Partizip I-e] + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Der schnell nähernde Sturm zwingt die Behörden zum Handeln.",
+        "why": "*sich nähern* is reflexive. The pronoun *sich* is part of the verb and must stay in the attribute: *der sich schnell nähernde Sturm*."
+      },
+      "examples": [
+        {
+          "de": "Die sich verschärfende Krise belastet die Wirtschaft.",
+          "en": "The worsening crisis is putting a strain on the economy."
+        },
+        {
+          "de": "Der sich ständig verändernde Markt verlangt flexible Strategien.",
+          "en": "The constantly changing market requires flexible strategies."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich nähern (+ Dat.)",
+          "en": "to approach"
+        },
+        {
+          "de": "die Behörde (-n)",
+          "en": "authority, public office"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir suchen einen {{c1::auf Datenschutz spezialisierten::auf Datenschutz + spezialisieren}} Anwalt.",
+      "en": "We are looking for a lawyer specialising in data protection.",
+      "focus": "Partizip II · nach *einen* · Akkusativ maskulin",
+      "explanation": "Relative clause: *einen Anwalt, der auf Datenschutz spezialisiert ist*. *sich spezialisieren auf* + Akkusativ → Partizip II *spezialisiert* (verbs in *-ieren* have no *ge-*). After *einen* (masculine Akkusativ) the ending is **-en**, as with any adjective.",
+      "pattern": "einen + [auf + Akk. + Partizip II-en] + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir suchen einen auf Datenschutz spezialisierter Anwalt.",
+        "why": "*-er* is the masculine Nominativ ending after *ein*. *Anwalt* is the Akkusativ object of *suchen*, so after *einen* the ending is *-en*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat einen auf Kinder spezialisierten Zahnarzt gefunden.",
+          "en": "She has found a dentist who specialises in children."
+        },
+        {
+          "de": "Wir brauchen eine auf Logistik spezialisierte Beratungsfirma.",
+          "en": "We need a consultancy that specialises in logistics."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Datenschutz",
+          "en": "data protection"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Das ist ein {{c1::für Anfänger geeignetes::für Anfänger + geeignet}} Lehrbuch.",
+      "en": "This is a textbook suitable for beginners.",
+      "focus": "erweitertes Adjektiv · nach *ein* · Nominativ neutral",
+      "explanation": "The same structure also works with adjectives: *ein Lehrbuch, das für Anfänger geeignet ist* → *ein für Anfänger geeignetes Lehrbuch*. *ein* has no ending in the neuter Nominativ, so the adjective shows the gender: **-es**. The complement *für Anfänger* comes first.",
+      "pattern": "ein + [Ergänzung + Adjektiv-es] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist ein für Anfänger geeignete Lehrbuch.",
+        "why": "After *ein* in the neuter Nominativ the article has no ending, so the adjective must carry the strong ending *-es*: *geeignetes*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein für seine Strenge bekannter Professor.",
+          "en": "He is a professor known for his strictness."
+        },
+        {
+          "de": "Sie wohnt in einem für Familien idealen Stadtteil.",
+          "en": "She lives in a district that is ideal for families."
+        }
+      ],
+      "words": [
+        {
+          "de": "geeignet (für + Akk.)",
+          "en": "suitable (for)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Mit dem {{c1::vom Staat geförderten::vom Staat + fördern}} Kredit hat sie ihr Haus saniert.",
+      "en": "She renovated her house with the state-subsidised loan.",
+      "focus": "Partizip II · nach Präposition · Dativ maskulin",
+      "explanation": "The attribute stands inside a prepositional phrase: *mit* + Dativ → *dem Kredit*. Relative clause: *mit dem Kredit, der vom Staat gefördert wird*. After *dem* every adjective or participle takes **-en**: *geförderten*.",
+      "pattern": "mit + dem + [Agens + Partizip II-en] + Nomen (Dat. m.)",
+      "mistake": {
+        "wrong": "Mit dem vom Staat geförderte Kredit hat sie ihr Haus saniert.",
+        "why": "After *dem* (Dativ) the weak ending is always *-en*: *dem … geförderten Kredit*."
+      },
+      "examples": [
+        {
+          "de": "In dem von der EU finanzierten Projekt arbeiten zwölf Länder zusammen.",
+          "en": "Twelve countries are working together in the EU-funded project."
+        },
+        {
+          "de": "Nach dem vom Arzt empfohlenen Training fühlt er sich besser.",
+          "en": "After the training recommended by the doctor, he feels better."
+        }
+      ],
+      "words": [
+        {
+          "de": "fördern",
+          "en": "to support, to subsidise"
+        },
+        {
+          "de": "sanieren",
+          "en": "to renovate, to refurbish"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Kosten des {{c1::vor zwei Jahren begonnenen::vor zwei Jahren + beginnen}} Umbaus haben sich verdoppelt.",
+      "en": "The costs of the conversion work begun two years ago have doubled.",
+      "focus": "Partizip II · Genitivattribut · maskulin",
+      "explanation": "*des Umbaus* is a Genitiv attribute of *die Kosten*. Relative clause: *der Umbau, der vor zwei Jahren begonnen wurde*. Strong verb: *beginnen* → *begonnen*. After *des* the participle takes **-en**, and the masculine noun takes *-s*: *des … begonnenen Umbaus*.",
+      "pattern": "Nomen + des + [Zeit + Partizip II-en] + Nomen-s (Gen. m.)",
+      "mistake": {
+        "wrong": "Die Kosten des vor zwei Jahren begonnene Umbaus haben sich verdoppelt.",
+        "why": "Every Genitiv adjective or participle after *des* ends in *-en*: *begonnenen*."
+      },
+      "examples": [
+        {
+          "de": "Die Ergebnisse der im Frühjahr durchgeführten Umfrage liegen vor.",
+          "en": "The results of the survey carried out in the spring are available."
+        },
+        {
+          "de": "Der Autor des viel diskutierten Artikels gibt keine Interviews.",
+          "en": "The author of the much-discussed article doesn't give interviews."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Umbau (-ten)",
+          "en": "conversion, renovation work"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Nicht abgeholte::nicht + abholen}} Pakete werden nach sieben Tagen zurückgeschickt.",
+      "en": "Parcels that are not collected are sent back after seven days.",
+      "focus": "Partizip II · ohne Artikel · Negation",
+      "explanation": "Relative clause: *Pakete, die nicht abgeholt werden*. The negation *nicht* stays inside the attribute, before the participle. There is no article, so the participle takes the strong plural ending **-e**: *abgeholte*. This style is typical of rules and notices.",
+      "pattern": "[nicht + Partizip II-e] + Nomen (Nom. Pl., ohne Artikel)",
+      "mistake": {
+        "wrong": "Nicht abgeholten Pakete werden nach sieben Tagen zurückgeschickt.",
+        "why": "*-en* in the plural needs an article such as *die*. Without an article the participle takes the strong ending *-e*: *Nicht abgeholte Pakete*."
+      },
+      "examples": [
+        {
+          "de": "Falsch geparkte Fahrzeuge werden abgeschleppt.",
+          "en": "Illegally parked vehicles will be towed away."
+        },
+        {
+          "de": "Nicht genutzte Urlaubstage verfallen am Jahresende.",
+          "en": "Unused days of leave expire at the end of the year."
+        }
+      ],
+      "words": [
+        {
+          "de": "abholen",
+          "en": "to collect, to pick up"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die {{c1::seit dem Unfall im Krankenhaus liegende::seit dem Unfall + im Krankenhaus + liegen}} Fahrerin ist inzwischen außer Lebensgefahr.",
+      "en": "The driver, who has been in hospital since the accident, is now out of danger.",
+      "focus": "Partizip I · lange Erweiterung · Reihenfolge der Angaben",
+      "explanation": "Relative clause: *die Fahrerin, die seit dem Unfall im Krankenhaus liegt*. A longer extension keeps the normal Mittelfeld order: time (*seit dem Unfall*) before place (*im Krankenhaus*). *im Krankenhaus liegen* is an ongoing state → Partizip I *liegend*; feminine Nominativ → **-e**.",
+      "pattern": "die + [Zeit + Ort + Partizip I-e] + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Die seit dem Unfall im Krankenhaus gelegene Fahrerin ist inzwischen außer Lebensgefahr.",
+        "why": "*liegen* has no object and forms its Perfekt with *haben*, so it has no Partizip II attribute with this meaning (*gelegen* is only used for places: *das am See gelegene Hotel*). The ongoing state needs Partizip I: *liegende*."
+      },
+      "examples": [
+        {
+          "de": "Der seit Stunden am Bahnsteig wartende Mann sprach mich an.",
+          "en": "The man who had been waiting on the platform for hours spoke to me."
+        },
+        {
+          "de": "Die seit 2015 in Leipzig arbeitende Forscherin erhielt einen Preis.",
+          "en": "The researcher, who has been working in Leipzig since 2015, received a prize."
+        }
+      ],
+      "words": [
+        {
+          "de": "außer Lebensgefahr",
+          "en": "out of danger (medically)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Das ist ein {{c1::nicht zu unterschätzendes::nicht + unterschätzen (darf/kann)}} Risiko.",
+      "en": "That is a risk that should not be underestimated.",
+      "focus": "zu + Partizip I · verneint · nach *ein*",
+      "explanation": "Relative clause: *ein Risiko, das nicht unterschätzt werden darf*. **zu + Partizip I** with *nicht* expresses that something must not or cannot be done. After *ein* in the neuter Nominativ the participle takes the strong ending **-es**: *zu unterschätzendes*. This phrase is very frequent in formal writing.",
+      "pattern": "ein + [nicht + zu + Partizip I-es] + Nomen (Nom. n.)",
+      "mistake": {
+        "wrong": "Das ist ein nicht zu unterschätzende Risiko.",
+        "why": "*ein* has no ending in the neuter Nominativ, so the participle needs the strong ending *-es*: *ein nicht zu unterschätzendes Risiko*."
+      },
+      "examples": [
+        {
+          "de": "Das ist ein nicht zu übersehender Fehler.",
+          "en": "That is a mistake that cannot be overlooked."
+        },
+        {
+          "de": "Sie stehen vor einer kaum zu lösenden Aufgabe.",
+          "en": "They are faced with a task that can hardly be solved."
+        }
+      ],
+      "words": [
+        {
+          "de": "unterschätzen",
+          "en": "to underestimate"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die {{c1::in den letzten Jahren stark gestiegenen::in den letzten Jahren + stark + steigen}} Mieten belasten viele Familien.",
+      "en": "Rents, which have risen sharply in recent years, are a burden on many families.",
+      "focus": "Partizip II · *sein*-Verb · Nominativ Plural",
+      "explanation": "Relative clause: *die Mieten, die in den letzten Jahren stark gestiegen sind*. *steigen* forms its Perfekt with *sein*, so the Partizip II *gestiegen* has an active, completed meaning. Time before manner: *in den letzten Jahren stark*. Plural after *die* → **-en**.",
+      "pattern": "die + [Zeit + Art + Partizip II (sein-Verb)-en] + Nomen (Nom. Pl.)",
+      "mistake": {
+        "wrong": "Die in den letzten Jahren stark gestiegene Mieten belasten viele Familien.",
+        "why": "*Mieten* is plural (verb *belasten*). After plural *die* the participle takes *-en*: *gestiegenen*. The ending *-e* in the plural is only used without an article."
+      },
+      "examples": [
+        {
+          "de": "Die im Sommer stark gesunkenen Preise ziehen wieder an.",
+          "en": "Prices, which fell sharply in the summer, are rising again."
+        },
+        {
+          "de": "Der in der Nacht gefallene Schnee sorgt für Chaos auf den Straßen.",
+          "en": "The snow that fell overnight is causing chaos on the roads."
+        }
+      ],
+      "words": [
+        {
+          "de": "belasten",
+          "en": "to burden, to put a strain on"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning between the two participles.",
+      "prompt": "What is the difference between *die lesenden Kinder* and *die gelesenen Bücher*?",
+      "answer": "**Partizip I** (*lesend*) is active and simultaneous: the noun does the action now (*die Kinder, die lesen*). **Partizip II** of a transitive verb (*gelesen*) is passive: the noun undergoes the action, usually completed (*die Bücher, die gelesen wurden*).",
+      "explanation": "Always ask who does the action. If the noun is the agent, use Partizip I. If someone else acts on the noun, use Partizip II. With *sein*-verbs the Partizip II is active but completed (*die abgereisten Gäste* = the guests who have left).",
+      "examples": [
+        {
+          "de": "Die im Park joggenden Leute hören Musik.",
+          "en": "The people jogging in the park are listening to music."
+        },
+        {
+          "de": "Die im Park gefundene Geldbörse liegt im Fundbüro.",
+          "en": "The wallet found in the park is at the lost property office."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about which verbs can form a Partizip II attribute.",
+      "prompt": "Why can you say *der eingeschlafene Hund* but not *der geschlafene Hund*?",
+      "answer": "A Partizip II attribute is possible with **transitive verbs** (passive meaning: *das gelesene Buch*) and with **intransitive *sein*-verbs** (completed change: *der eingeschlafene Hund*). Intransitive **haben-verbs** (*schlafen, arbeiten, lachen*) have no Partizip II attribute; use a relative clause or Partizip I instead.",
+      "explanation": "*einschlafen* forms its Perfekt with *sein* (*er ist eingeschlafen*) and describes a change of state, so *der eingeschlafene Hund* works. *schlafen* forms its Perfekt with *haben* and has no object, so ✗ *der geschlafene Hund* is impossible. Possible: *der schlafende Hund* or *der Hund, der lange geschlafen hat*.",
+      "examples": [
+        {
+          "de": "Die verspätet abgereisten Gäste haben ihre Schlüssel nicht abgegeben.",
+          "en": "The guests who left late didn't hand in their keys."
+        },
+        {
+          "de": "Der friedlich schlafende Hund liegt vor dem Kamin.",
+          "en": "The peacefully sleeping dog is lying in front of the fireplace."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *zu* + Partizip I.",
+      "prompt": "What does *zu* + Partizip I express, as in *die zu prüfenden Unterlagen*?",
+      "answer": "A **passive necessity or possibility**: *die Unterlagen, die geprüft werden müssen / können*. With a negation it often means *must not* or *cannot* (*ein nicht zu unterschätzendes Risiko*).",
+      "explanation": "The structure corresponds to *sein + zu + Infinitiv* (*Die Unterlagen sind zu prüfen*). It is only possible with transitive verbs. The participle takes a normal adjective ending: *die zu prüfenden Unterlagen, ein zu prüfender Antrag*.",
+      "examples": [
+        {
+          "de": "Die zu zahlende Summe steht auf der Rechnung.",
+          "en": "The amount to be paid is on the invoice."
+        },
+        {
+          "de": "Das ist eine kaum zu erfüllende Bedingung.",
+          "en": "That is a condition that can hardly be met."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Describe a reading strategy.",
+      "prompt": "How do you read a long phrase like *die von der Regierung im letzten Jahr eingeführte Steuer*?",
+      "answer": "1. Take the article (*die*). 2. Jump forward to the first noun that fits it (*Steuer*). 3. The word before the noun is the participle (*eingeführte* → *einführen*, Partizip II = passive). 4. Read the rest as a relative clause: *die Steuer, die von der Regierung im letzten Jahr eingeführt wurde*.",
+      "explanation": "The signal is an article followed by something that is not an adjective or noun, such as a preposition (*die von …*) or a second article (*die das Projekt …*). The participle ending agrees with the first article, not with the nouns inside the block.",
+      "examples": [
+        {
+          "de": "Die von der Regierung im letzten Jahr eingeführte Steuer ist umstritten.",
+          "en": "The tax introduced by the government last year is controversial."
+        },
+        {
+          "de": "Der aus drei Teilen bestehende Kurs dauert ein Semester.",
+          "en": "The course, which consists of three parts, lasts one semester."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Turn the relative clause into an extended participial attribute.",
+      "prompt": "Die Mitarbeiter, die im Homeoffice arbeiten, sparen viel Fahrtzeit.",
+      "answer": "Die im Homeoffice arbeitenden Mitarbeiter sparen viel Fahrtzeit.",
+      "explanation": "The employees work themselves, at the same time → Partizip I *arbeitend*. The place *im Homeoffice* goes before the participle, and the plural after *die* takes *-en*. The commas disappear."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Turn the relative clause into an extended participial attribute.",
+      "prompt": "Der Brief, der gestern abgeschickt wurde, ist schon angekommen.",
+      "answer": "Der gestern abgeschickte Brief ist schon angekommen.",
+      "explanation": "The relative clause is passive → Partizip II *abgeschickt*. *gestern* stays before the participle. Masculine Nominativ after *der* → *-e*: *der gestern abgeschickte Brief*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Turn the participial attribute into a relative clause (passive, Präsens).",
+      "prompt": "Die von der Stadt geplante Umgehungsstraße stößt auf Widerstand.",
+      "answer": "Die Umgehungsstraße, die von der Stadt geplant wird, stößt auf Widerstand.",
+      "explanation": "Article and noun come together again (*Die Umgehungsstraße*), and the block becomes a relative clause with *die* + passive (*geplant wird*). The agent *von der Stadt* moves into the relative clause. Depending on context, *geplant wurde* or *geplant ist* would also be possible."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Turn the relative clause into an attribute with *zu* + Partizip I.",
+      "prompt": "Die Fragen, die noch geklärt werden müssen, besprechen wir morgen.",
+      "answer": "Die noch zu klärenden Fragen besprechen wir morgen.",
+      "explanation": "*müssen* + passive becomes *zu* + Partizip I: *zu klärend*. *noch* stays before *zu*, and the plural after *die* takes *-en*. The object phrase fills position 1, so *besprechen* follows."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die laut lachende Kinder spielen im Hof.",
+      "answer": "Die laut lachenden Kinder spielen im Hof.",
+      "explanation": "*Kinder* is plural, and after plural *die* the participle takes the weak ending *-en*: *lachenden*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das gestern reparierende Fahrrad ist schon wieder kaputt.",
+      "answer": "Das gestern reparierte Fahrrad ist schon wieder kaputt.",
+      "explanation": "The bike was repaired by someone → passive → Partizip II *repariert* (verbs in *-ieren* have no *ge-*). Partizip I would mean that the bike was doing the repairing."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die arbeitenden in der Fabrik Frauen streiken.",
+      "answer": "Die in der Fabrik arbeitenden Frauen streiken.",
+      "explanation": "The extension *in der Fabrik* must come before the participle, which stands directly before the noun: *die in der Fabrik arbeitenden Frauen*."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct participle form.",
+      "prompt": "Die ___ Aktie hat stark an Wert verloren.",
+      "options": [
+        "an der Börse gehandelte",
+        "an der Börse handelnde",
+        "an der Börse gehandelten"
+      ],
+      "correct": "an der Börse gehandelte",
+      "answer": "Die an der Börse gehandelte Aktie hat stark an Wert verloren.",
+      "explanation": "The share is traded by others → passive → Partizip II *gehandelt*. Feminine Nominativ singular after *die* → *-e*. *handelnde* would make the share the trader, and *gehandelten* would need a plural noun."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct participle form.",
+      "prompt": "Wir haben einen ___ Kollegen eingestellt.",
+      "options": [
+        "aus Spanien stammenden",
+        "aus Spanien gestammten",
+        "aus Spanien stammender"
+      ],
+      "correct": "aus Spanien stammenden",
+      "answer": "Wir haben einen aus Spanien stammenden Kollegen eingestellt.",
+      "explanation": "*stammen aus* is intransitive and describes a lasting fact → Partizip I *stammend*. After *einen* (masculine Akkusativ) the ending is *-en*. *gestammt* is a *haben*-verb Partizip II and cannot be an attribute, and *-er* is the Nominativ ending after *ein*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die",
+      "prompt": "die / von der Regierung / Maßnahmen / beschlossenen / zeigen / erste Wirkung",
+      "answer": "Die von der Regierung beschlossenen Maßnahmen zeigen erste Wirkung.",
+      "explanation": "The article *Die* opens the noun phrase, the agent *von der Regierung* follows, then the participle *beschlossenen* directly before the noun *Maßnahmen*. The whole phrase is the subject in position 1, followed by *zeigen*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der",
+      "prompt": "der / im Supermarkt / gekaufte / Käse / schmeckt / nach nichts",
+      "answer": "Der im Supermarkt gekaufte Käse schmeckt nach nichts.",
+      "explanation": "Article – extension (*im Supermarkt*) – participle (*gekaufte*) – noun (*Käse*) form the subject. The finite verb *schmeckt* follows in position 2."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the second sentence into an extended participial attribute.",
+      "prompt": "Der Roman spielt in Lissabon. Er wurde in 30 Sprachen übersetzt.",
+      "answer": "Der in 30 Sprachen übersetzte Roman spielt in Lissabon.",
+      "explanation": "The second sentence is passive → Partizip II *übersetzt* (inseparable *über-*, no *ge-*). The extension *in 30 Sprachen* goes before it, and masculine Nominativ after *der* takes *-e*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the second sentence into an extended participial attribute.",
+      "prompt": "Die Kinder warten auf den Bus. Sie stehen an der Haltestelle.",
+      "answer": "Die an der Haltestelle stehenden Kinder warten auf den Bus.",
+      "explanation": "The children are standing there themselves, at the same time → Partizip I *stehend*. The place *an der Haltestelle* goes before it, and the plural after *die* takes *-en*."
+    }
+  ]
+}

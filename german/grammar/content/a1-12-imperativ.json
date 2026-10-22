@@ -1,0 +1,1501 @@
+{
+  "topic_id": "a1-12-imperativ",
+  "level": "A1",
+  "title_de": "Imperativ",
+  "title_en": "The imperative",
+  "rule": {
+    "summary": "The imperative is the verb form for instructions, requests, advice and warnings. German has three forms for the person you speak to: **du** (one friend), **ihr** (several friends) and **Sie** (formal, one or more people). The verb stands in **position 1**; *du* and *ihr* drop the pronoun, *Sie* keeps it. A *wir*-form (*Gehen wir!*) means *let's*. Add *bitte*, *mal* or *doch* to make a request softer.",
+    "table": "| Infinitiv | du | ihr | Sie |\n|---|---|---|---|\n| kommen | komm(e)! | kommt! | kommen Sie! |\n| warten | wart**e**! | wart**et**! | warten Sie! |\n| fahren | fahr(e)! (no umlaut) | fahrt! | fahren Sie! |\n| sprechen | spr**i**ch! | sprecht! | sprechen Sie! |\n| lesen | l**ie**s! | lest! | lesen Sie! |\n| anrufen | ruf(e) … **an**! | ruft … **an**! | rufen Sie … **an**! |\n| sein | **sei**! | **seid**! | **seien** Sie! |\n| haben | hab(e)! | habt! | haben Sie! |",
+    "steps": [
+      "Choose the form for the person you speak to: one friend → *du*, several friends → *ihr*, formal → *Sie*.",
+      "*du*: take the present-tense *du*-form and remove *-st* and the pronoun: *du kommst → komm!* A final *-e* is optional (*komme!*), but it is required after stems in *-t/-d* and after consonant + *m/n*: *warte!, öffne!*",
+      "*du* with a vowel change: keep **e → i/ie** (*nimm!, lies!*) and add no *-e*; drop the umlaut of **a → ä / au → äu** (*fahr!, lauf!*).",
+      "*ihr*: the present-tense *ihr*-form without the pronoun: *ihr kommt → kommt!, ihr wartet → wartet!* (never a vowel change: *nehmt!, helft!*). *Sie*: infinitive + *Sie*: *Kommen Sie!*",
+      "Put the verb first. A separable prefix goes to the end (*Ruf mich an!*), and a reflexive pronoun follows the verb directly (*Setz dich!*). *sein* is irregular: *sei! – seid! – seien Sie!*"
+    ],
+    "pitfalls": [
+      "Keeping the *-st* of the *du*-form: ✗ *Kommst bitte!* → ✓ *Komm bitte!*",
+      "Keeping the umlaut: ✗ *Fähr langsam!* → ✓ *Fahr langsam!* Only *e → i/ie* stays in the imperative.",
+      "Losing the *e → i* change: ✗ *Nehm den Bus!* → ✓ *Nimm den Bus!* (*Nehm* and *Geb* are heard in speech, but they are not standard.)",
+      "Forgetting *Sie* in the formal form: ✗ *Warten bitte hier!* → ✓ *Warten Sie bitte hier!*",
+      "Not splitting a separable verb: ✗ *Anruf mich!* → ✓ *Ruf mich an!* The prefix always goes to the end."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Komm::kommen (du)}} bitte her!",
+      "en": "Come here, please!",
+      "focus": "du-Imperativ · regelmäßiger Stamm",
+      "explanation": "Start from the *du*-form: *du kommst*. Remove *-st* and the pronoun → **Komm**. *her* (= towards the speaker) is the prefix of *herkommen* and goes to the end.",
+      "pattern": "Stamm (du) + bitte + Präfix!",
+      "mistake": {
+        "wrong": "Kommst bitte her!",
+        "why": "The *du*-imperative has no *-st* ending. Without the pronoun, *kommst* is not a command: the form is *Komm!*"
+      },
+      "examples": [
+        {
+          "de": "Bleib bitte hier!",
+          "en": "Please stay here!"
+        },
+        {
+          "de": "Bring bitte das Buch mit!",
+          "en": "Please bring the book with you!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Geh::gehen (du)}} nach Hause!",
+      "en": "Go home!",
+      "focus": "du-Imperativ · Bewegung",
+      "explanation": "*du gehst* → remove *-st* → **Geh**. The verb stands in position 1 and the pronoun *du* disappears. *Gehe!* is also correct, but in spoken German the short form is normal.",
+      "pattern": "Stamm (du) + Richtung!",
+      "mistake": {
+        "wrong": "Gehst nach Hause!",
+        "why": "*gehst* is the present-tense form and needs the subject *du*. The command form drops *-st*: *Geh nach Hause!*"
+      },
+      "examples": [
+        {
+          "de": "Geh jetzt ins Bett!",
+          "en": "Go to bed now!"
+        },
+        {
+          "de": "Bring das Paket zur Post!",
+          "en": "Take the parcel to the post office!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Hört::zuhören (ihr)}} mir bitte zu!",
+      "en": "Listen to me, please!",
+      "focus": "ihr-Imperativ · trennbares Verb",
+      "explanation": "The *ihr*-imperative is the present-tense form without the pronoun: *ihr hört zu → **Hört** … zu!* *zuhören* is separable, so *zu* goes to the end. *zuhören* takes a Dativ: *mir*.",
+      "pattern": "Verb-**t** (ihr) + … + Präfix!",
+      "mistake": {
+        "wrong": "Zuhört mir bitte!",
+        "why": "A separable prefix never stays on the verb in position 1. It goes to the end: *Hört mir bitte zu!*"
+      },
+      "examples": [
+        {
+          "de": "Hört gut zu!",
+          "en": "Listen carefully!"
+        },
+        {
+          "de": "Passt bitte auf!",
+          "en": "Please pay attention!"
+        }
+      ],
+      "words": [
+        {
+          "de": "zuhören (+ Dat.)",
+          "en": "to listen to"
+        }
+      ],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Warten::to wait · Sie}} Sie einen Moment!",
+      "en": "Wait a moment!",
+      "focus": "Sie-Imperativ · höflich",
+      "explanation": "The formal imperative is the infinitive in position 1, followed by *Sie*: **Warten** Sie! The pronoun *Sie* must stay; without it the form is not an imperative.",
+      "pattern": "Infinitiv + Sie + …!",
+      "mistake": {
+        "wrong": "Warte Sie einen Moment!",
+        "why": "*warte* is the *du*-form. With *Sie* the verb is always the infinitive: *Warten Sie!*"
+      },
+      "examples": [
+        {
+          "de": "Kommen Sie morgen wieder!",
+          "en": "Come back tomorrow!"
+        },
+        {
+          "de": "Fragen Sie an der Information!",
+          "en": "Ask at the information desk!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Iss::essen (du)}} dein Gemüse!",
+      "en": "Eat your vegetables!",
+      "focus": "du-Imperativ · Vokalwechsel e → i",
+      "explanation": "*essen* changes *e → i* in the *du*-form: *du isst*. The imperative keeps the change and drops *-t*: **Iss**. Verbs with *e → i* never take the optional *-e*.",
+      "pattern": "Stamm mit **i** (du) + Objekt!",
+      "mistake": {
+        "wrong": "Esse dein Gemüse!",
+        "why": "*essen* has the *e → i* change, and it stays in the *du*-imperative: *Iss!* A form with *-e* is not possible for these verbs."
+      },
+      "examples": [
+        {
+          "de": "Hilf deiner Schwester!",
+          "en": "Help your sister!"
+        },
+        {
+          "de": "Vergiss dein Handy nicht!",
+          "en": "Don't forget your mobile phone!"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gemüse",
+          "en": "vegetables"
+        }
+      ],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Sprich::sprechen (du)}} bitte langsam!",
+      "en": "Please speak slowly!",
+      "focus": "du-Imperativ · Vokalwechsel e → i",
+      "explanation": "*sprechen* has *e → i* in the *du*-form: *du sprichst*. Remove *-st* and keep the *i* → **Sprich**.",
+      "pattern": "Stamm mit **i** (du) + bitte + Adverb!",
+      "mistake": {
+        "wrong": "Sprech bitte langsam!",
+        "why": "The *du*-imperative keeps the *e → i* change of the present tense: *du sprichst → sprich!*"
+      },
+      "examples": [
+        {
+          "de": "Gib mir bitte deine Nummer!",
+          "en": "Please give me your number!"
+        },
+        {
+          "de": "Sieh bitte nach!",
+          "en": "Please check!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Sei::sein (du)}} ruhig!",
+      "en": "Be quiet!",
+      "focus": "du-Imperativ · unregelmäßiges Verb",
+      "explanation": "*sein* has its own imperative forms. The *du*-form is **Sei** (not built from *du bist*). An adjective after it stays without an ending: *ruhig*.",
+      "pattern": "Sei + Adjektiv!",
+      "mistake": {
+        "wrong": "Bist ruhig!",
+        "why": "The rule \"*du*-form minus *-st*\" does not work for *sein*. The imperative is irregular: *Sei!*"
+      },
+      "examples": [
+        {
+          "de": "Sei nicht traurig!",
+          "en": "Don't be sad!"
+        },
+        {
+          "de": "Sei vorsichtig!",
+          "en": "Be careful!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Seid::sein (ihr)}} bitte leise!",
+      "en": "Please be quiet!",
+      "focus": "ihr-Imperativ · unregelmäßiges Verb",
+      "explanation": "For a group of friends the imperative of *sein* is **Seid** – the same as the present tense *ihr seid*. Note the spelling with *d*; *seit* (since) is a different word.",
+      "pattern": "Seid + bitte + Adjektiv!",
+      "mistake": {
+        "wrong": "Seien bitte leise!",
+        "why": "*seien* is only used with *Sie* (*Seien Sie leise!*). For *ihr* the form is *Seid!*"
+      },
+      "examples": [
+        {
+          "de": "Seid nett zueinander!",
+          "en": "Be nice to each other!"
+        },
+        {
+          "de": "Seid vorsichtig auf der Straße!",
+          "en": "Be careful on the street!"
+        }
+      ],
+      "words": [
+        {
+          "de": "leise",
+          "en": "quiet, not loud"
+        }
+      ],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Lest::lesen (ihr)}} das Buch zu Hause!",
+      "en": "Read the book at home!",
+      "focus": "ihr-Imperativ · Verb mit Vokalwechsel",
+      "explanation": "*lesen* changes the vowel only for *du* and *er/sie/es* (*du liest*). The *ihr*-form has no change: *ihr lest* → **Lest**. The ending is the normal *ihr*-ending *-t*: les + t → *lest*.",
+      "pattern": "Stamm + **t** (ihr) + Objekt!",
+      "mistake": {
+        "wrong": "Liest das Buch zu Hause!",
+        "why": "*liest* has the vowel change of *du/er*. The *ihr*-form keeps the infinitive vowel: *Lest!*"
+      },
+      "examples": [
+        {
+          "de": "Nehmt den Bus!",
+          "en": "Take the bus!"
+        },
+        {
+          "de": "Sprecht mit eurem Lehrer!",
+          "en": "Talk to your teacher!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Mach::zumachen (du)}} die Tür zu!",
+      "en": "Close the door!",
+      "focus": "du-Imperativ · trennbares Verb",
+      "explanation": "*du machst zu* → remove *-st* → **Mach** … *zu*. The verb comes first, and the prefix *zu* goes to the end of the sentence.",
+      "pattern": "Stamm (du) + Objekt + Präfix!",
+      "mistake": {
+        "wrong": "Zumach die Tür!",
+        "why": "The separable prefix is split off in the imperative and moves to the end: *Mach die Tür zu!*"
+      },
+      "examples": [
+        {
+          "de": "Mach das Licht an!",
+          "en": "Turn on the light!"
+        },
+        {
+          "de": "Räum dein Zimmer auf!",
+          "en": "Tidy your room!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Geben::to give · Sie}} Sie mir bitte den Stift!",
+      "en": "Please give me the pen!",
+      "focus": "Sie-Imperativ · Verb mit Vokalwechsel",
+      "explanation": "The formal imperative is always the infinitive + *Sie*, so the *e → i* change of *geben* does not appear: **Geben** Sie! The Dativ *mir* comes before the Akkusativ noun *den Stift*.",
+      "pattern": "Infinitiv + Sie + Dat. + Akk.!",
+      "mistake": {
+        "wrong": "Geben mir bitte den Stift!",
+        "why": "Without *Sie* the infinitive is not a polite command. The formal imperative needs *Sie* after the verb: *Geben Sie mir …*"
+      },
+      "examples": [
+        {
+          "de": "Zeigen Sie mir bitte den Weg!",
+          "en": "Please show me the way!"
+        },
+        {
+          "de": "Bringen Sie mir bitte die Rechnung!",
+          "en": "Please bring me the bill!"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Stift",
+          "en": "pen"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Ruft::anrufen (ihr)}} mich morgen an!",
+      "en": "Call me tomorrow!",
+      "focus": "ihr-Imperativ · trennbares Verb",
+      "explanation": "*ihr ruft an* → drop *ihr* → **Ruft** … *an*. The object *mich* and the time *morgen* stand between the verb and the prefix, which goes to the end.",
+      "pattern": "Verb-**t** (ihr) + Objekt + Zeit + Präfix!",
+      "mistake": {
+        "wrong": "Anruft mich morgen!",
+        "why": "*anrufen* is separable. In the imperative the prefix *an* goes to the end: *Ruft mich morgen an!*"
+      },
+      "examples": [
+        {
+          "de": "Holt mich am Bahnhof ab!",
+          "en": "Pick me up at the station!"
+        },
+        {
+          "de": "Kauft bitte Brot ein!",
+          "en": "Please buy some bread!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Schreib::schreiben (du)}} mir bitte!",
+      "en": "Please write to me!",
+      "focus": "du-Imperativ · Dativ-Pronomen",
+      "explanation": "*du schreibst* → remove *-st* → **Schreib** (or *Schreibe*). The Dativ pronoun *mir* (to me) follows the verb directly.",
+      "pattern": "Stamm (du) + Dat.-Pronomen + bitte!",
+      "mistake": {
+        "wrong": "Schreibst mir bitte!",
+        "why": "The *-st* ending belongs to the present tense with *du*. In the imperative it disappears: *Schreib mir!*"
+      },
+      "examples": [
+        {
+          "de": "Glaub mir!",
+          "en": "Believe me!"
+        },
+        {
+          "de": "Sag mir die Wahrheit!",
+          "en": "Tell me the truth!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Sprecht::sprechen (ihr)}} bitte langsam!",
+      "en": "Please speak slowly!",
+      "focus": "ihr-Imperativ · kein Vokalwechsel",
+      "explanation": "The *e → i* change of *sprechen* exists only for *du* and *er/sie/es*. For *ihr* the stem is regular: *ihr sprecht* → **Sprecht**.",
+      "pattern": "Stamm + **t** (ihr) + bitte + Adverb!",
+      "mistake": {
+        "wrong": "Sprechen bitte langsam!",
+        "why": "The infinitive without *Sie* is not an imperative. For a group of friends use the *ihr*-form: *Sprecht!*"
+      },
+      "examples": [
+        {
+          "de": "Gebt mir bitte eure Hefte!",
+          "en": "Please give me your notebooks!"
+        },
+        {
+          "de": "Nehmt bitte Platz!",
+          "en": "Please take a seat!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Nimm::nehmen (du)}} ein Stück Kuchen!",
+      "en": "Take a piece of cake!",
+      "focus": "du-Imperativ · Vokalwechsel e → i",
+      "explanation": "*nehmen* changes in the *du*-form: *du nimmst*. Remove *-st* and keep the stem → **Nimm** (with double *m* and short *i*).",
+      "pattern": "Stamm mit **i** (du) + Objekt!",
+      "mistake": {
+        "wrong": "Nehm ein Stück Kuchen!",
+        "why": "*Nehm* is heard in speech, but it is not standard. The *e → i* change stays: *Nimm!*"
+      },
+      "examples": [
+        {
+          "de": "Nimm doch noch einen Kaffee!",
+          "en": "Do have another coffee!"
+        },
+        {
+          "de": "Iss noch ein Brötchen!",
+          "en": "Have another bread roll!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Trink::trinken (du)}} dein Wasser!",
+      "en": "Drink your water!",
+      "focus": "du-Imperativ · regelmäßiges Verb",
+      "explanation": "*trinken* is regular: *du trinkst* → remove *-st* → **Trink**. The object *dein Wasser* shows that you speak to one person you say *du* to.",
+      "pattern": "Stamm (du) + Objekt!",
+      "mistake": {
+        "wrong": "Trinkst dein Wasser!",
+        "why": "In the imperative the *-st* ending and the pronoun are dropped: *Trink dein Wasser!*"
+      },
+      "examples": [
+        {
+          "de": "Kauf dir ein Eis!",
+          "en": "Buy yourself an ice cream!"
+        },
+        {
+          "de": "Wasch dir die Hände!",
+          "en": "Wash your hands!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Helft::helfen (ihr)}} mir bitte!",
+      "en": "Please help me!",
+      "focus": "ihr-Imperativ · kein Vokalwechsel",
+      "explanation": "*helfen* has *e → i* only for *du/er* (*du hilfst*). The *ihr*-form is regular: *ihr helft* → **Helft**. *helfen* takes a Dativ: *mir*.",
+      "pattern": "Stamm + **t** (ihr) + Dat. + bitte!",
+      "mistake": {
+        "wrong": "Hilft mir bitte!",
+        "why": "*hilft* is the *er/sie/es*-form with the vowel change. The *ihr*-imperative keeps *e*: *Helft!*"
+      },
+      "examples": [
+        {
+          "de": "Schreibt mir bitte!",
+          "en": "Please write to me!"
+        },
+        {
+          "de": "Glaubt mir!",
+          "en": "Believe me!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Hören::zuhören (Sie)}} Sie zu!",
+      "en": "Listen!",
+      "focus": "Sie-Imperativ · trennbares Verb",
+      "explanation": "Formal imperative = infinitive + *Sie*. With the separable verb *zuhören*, only the verb part comes first: **Hören** Sie *zu*! The prefix goes to the end.",
+      "pattern": "Infinitiv-Stamm + Sie + Präfix!",
+      "mistake": {
+        "wrong": "Zuhören Sie!",
+        "why": "The prefix of a separable verb goes to the end, also in the *Sie*-form: *Hören Sie zu!*"
+      },
+      "examples": [
+        {
+          "de": "Kommen Sie herein!",
+          "en": "Come in!"
+        },
+        {
+          "de": "Passen Sie auf!",
+          "en": "Watch out!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Sei::sein (du)}} pünktlich!",
+      "en": "Be on time!",
+      "focus": "du-Imperativ · sein + Adjektiv",
+      "explanation": "The *du*-imperative of *sein* is irregular: **Sei**. It is used with an adjective to tell someone how to behave: *Sei pünktlich!*",
+      "pattern": "Sei + Adjektiv!",
+      "mistake": {
+        "wrong": "Sein pünktlich!",
+        "why": "The infinitive *sein* is not an imperative. For *du* the form is *Sei!*; only *Sie* has *Seien Sie!*"
+      },
+      "examples": [
+        {
+          "de": "Sei bitte geduldig!",
+          "en": "Please be patient!"
+        },
+        {
+          "de": "Sei morgen um acht Uhr da!",
+          "en": "Be there at eight o'clock tomorrow!"
+        }
+      ],
+      "words": [
+        {
+          "de": "pünktlich",
+          "en": "on time"
+        }
+      ],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Geht::gehen (ihr)}} jetzt nach Hause!",
+      "en": "Go home now!",
+      "focus": "ihr-Imperativ · regelmäßiges Verb",
+      "explanation": "Speaking to a group: *ihr geht* → drop *ihr* → **Geht**. The *ihr*-imperative is always the same as the present-tense *ihr*-form.",
+      "pattern": "Verb-**t** (ihr) + Zeit + Richtung!",
+      "mistake": {
+        "wrong": "Gehst jetzt nach Hause!",
+        "why": "*gehst* is the *du*-form with *-st*; it is not an imperative at all. For several people the form is *Geht!*"
+      },
+      "examples": [
+        {
+          "de": "Kommt jetzt rein!",
+          "en": "Come inside now!"
+        },
+        {
+          "de": "Fahrt vorsichtig nach Hause!",
+          "en": "Drive home carefully!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "{{c1::Komm::hereinkommen (du)}} bitte herein!",
+      "en": "Please come in!",
+      "focus": "du-Imperativ · trennbares Verb",
+      "explanation": "The *du*-imperative is the stem without *-st* and without *du*: **Komm**. *hereinkommen* is separable, so *herein* goes to the end.",
+      "pattern": "Stamm (du) + bitte + Präfix!",
+      "mistake": {
+        "wrong": "Hereinkomm bitte!",
+        "why": "The prefix *herein* cannot stay on the verb in position 1. It goes to the end: *Komm bitte herein!*"
+      },
+      "examples": [
+        {
+          "de": "Komm bitte mit!",
+          "en": "Please come with me!"
+        },
+        {
+          "de": "Steig bitte ein!",
+          "en": "Please get in!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Nehmen::to take · Sie}} Sie bitte Platz.",
+      "en": "Please take a seat.",
+      "focus": "Sie-Imperativ · feste Wendung",
+      "explanation": "The formal imperative keeps *Sie* after the infinitive: **Nehmen** Sie. The *e → i* change of *nehmen* never appears with *Sie*. *Platz nehmen* is a fixed polite phrase.",
+      "pattern": "Infinitiv + Sie + bitte + …",
+      "mistake": {
+        "wrong": "Nimm Sie bitte Platz.",
+        "why": "*nimm* is the *du*-imperative. With *Sie* the verb is the infinitive: *Nehmen Sie Platz.*"
+      },
+      "examples": [
+        {
+          "de": "Setzen Sie sich bitte.",
+          "en": "Please sit down."
+        },
+        {
+          "de": "Warten Sie bitte hier.",
+          "en": "Please wait here."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Macht::machen (ihr)}} eure Hausaufgaben!",
+      "en": "Do your homework!",
+      "focus": "ihr-Imperativ · regelmäßiges Verb",
+      "explanation": "The *ihr*-imperative is the present tense without *ihr*: *ihr macht* → **Macht**. The possessive *eure* fits: you speak to several people.",
+      "pattern": "Verb-**t** (ihr) + eure + Nomen!",
+      "mistake": {
+        "wrong": "Machen eure Hausaufgaben!",
+        "why": "The infinitive without *Sie* is not an imperative. *eure* shows that you speak to several people you call *ihr*, so the verb is the *ihr*-form: *Macht!*"
+      },
+      "examples": [
+        {
+          "de": "Packt eure Taschen!",
+          "en": "Pack your bags!"
+        },
+        {
+          "de": "Holt eure Jacken!",
+          "en": "Get your jackets!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "{{c1::Sprich::sprechen (du)}} bitte langsamer.",
+      "en": "Please speak more slowly.",
+      "focus": "du-Imperativ · e → i mit Komparativ",
+      "explanation": "*sprechen* keeps the *e → i* change in the *du*-imperative: **Sprich**. A full stop instead of an exclamation mark makes the request sound calmer; the verb form is the same.",
+      "pattern": "Stamm mit **i** (du) + bitte + Komparativ.",
+      "mistake": {
+        "wrong": "Sprichst bitte langsamer.",
+        "why": "The vowel change is right, but the *-st* ending must go: *Sprich bitte langsamer.*"
+      },
+      "examples": [
+        {
+          "de": "Sprich bitte lauter.",
+          "en": "Please speak louder."
+        },
+        {
+          "de": "Lies bitte langsamer.",
+          "en": "Please read more slowly."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "{{c1::Fahr::fahren (du)}} nicht so schnell!",
+      "en": "Don't drive so fast!",
+      "focus": "du-Imperativ · Verb mit a → ä",
+      "explanation": "*fahren* has an umlaut in the present (*du fährst*), but the imperative drops it: **Fahr** (or *Fahre*). The negation *nicht* follows the verb.",
+      "pattern": "Stamm ohne Umlaut (du) + nicht + …!",
+      "mistake": {
+        "wrong": "Fähr nicht so schnell!",
+        "why": "Unlike *e → i*, the *a → ä* change does not appear in the imperative: *Fahr!*"
+      },
+      "examples": [
+        {
+          "de": "Schlaf gut!",
+          "en": "Sleep well!"
+        },
+        {
+          "de": "Lauf nicht so weit!",
+          "en": "Don't run so far!"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "{{c1::Sei::sein (du)}} bitte ehrlich.",
+      "en": "Please be honest.",
+      "focus": "du-Imperativ · sein",
+      "explanation": "*sein* has irregular imperatives: **sei** (du), *seid* (ihr), *seien Sie* (Sie). The *du*-form never takes an *-e*.",
+      "pattern": "Sei + bitte + Adjektiv.",
+      "mistake": {
+        "wrong": "Seie bitte ehrlich.",
+        "why": "Many verbs allow an optional *-e* (*komme, gehe*), but *sein* does not: the only *du*-form is *sei*."
+      },
+      "examples": [
+        {
+          "de": "Sei bitte freundlich.",
+          "en": "Please be friendly."
+        },
+        {
+          "de": "Sei bitte still.",
+          "en": "Please be quiet."
+        }
+      ],
+      "words": [
+        {
+          "de": "ehrlich",
+          "en": "honest"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "{{c1::Warte::warten (du)}} einen Moment.",
+      "en": "Wait a moment.",
+      "focus": "du-Imperativ · Stamm auf -t",
+      "explanation": "The stem of *warten* ends in *-t*. Such verbs need the *-e* in the *du*-imperative: **Warte**. The same applies to *arbeiten → arbeite, antworten → antworte*.",
+      "pattern": "Stamm auf -t/-d + **e** (du) + …",
+      "mistake": {
+        "wrong": "Wartest einen Moment.",
+        "why": "*wartest* is the present-tense *du*-form. The imperative drops *-st* but keeps the *-e*: *Warte!*"
+      },
+      "examples": [
+        {
+          "de": "Arbeite nicht so lange.",
+          "en": "Don't work so long."
+        },
+        {
+          "de": "Antworte mir bitte schnell.",
+          "en": "Please answer me quickly."
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Gib::geben (du)}} mir bitte das Salz.",
+      "en": "Please pass me the salt.",
+      "focus": "du-Imperativ · Vokalwechsel e → i",
+      "explanation": "*geben → du gibst → **Gib*** (keep *i*, drop *-st*). The Dativ pronoun *mir* comes before the Akkusativ noun *das Salz*.",
+      "pattern": "Stamm mit **i** (du) + Dat. + Akk.",
+      "mistake": {
+        "wrong": "Geb mir bitte das Salz.",
+        "why": "*Geb* is colloquial, not standard. The *e → i* change stays in the *du*-imperative: *Gib!*"
+      },
+      "examples": [
+        {
+          "de": "Gib mir bitte den Zucker.",
+          "en": "Please pass me the sugar."
+        },
+        {
+          "de": "Gib ihm bitte den Schlüssel.",
+          "en": "Please give him the key."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "{{c1::Steh::aufstehen (du)}} bitte früher auf.",
+      "en": "Please get up earlier.",
+      "focus": "du-Imperativ · trennbares Verb",
+      "explanation": "*du stehst auf* → **Steh** … *auf*. The separable prefix *auf* goes to the end, after *bitte* and *früher*.",
+      "pattern": "Stamm (du) + … + Präfix.",
+      "mistake": {
+        "wrong": "Aufsteh bitte früher.",
+        "why": "The prefix *auf* is split off and placed at the end: *Steh bitte früher auf.*"
+      },
+      "examples": [
+        {
+          "de": "Ruf bitte später an.",
+          "en": "Please call later."
+        },
+        {
+          "de": "Kauf bitte heute ein.",
+          "en": "Please do the shopping today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "{{c1::Haben::to have · Sie}} Sie keine Angst.",
+      "en": "Don't be afraid.",
+      "focus": "Sie-Imperativ · Verneinung mit kein",
+      "explanation": "*Angst haben* = to be afraid. The formal imperative is the infinitive + *Sie*: **Haben** Sie. The noun *Angst* is negated with *keine*, not *nicht*.",
+      "pattern": "Infinitiv + Sie + kein- + Nomen.",
+      "mistake": {
+        "wrong": "Habe Sie keine Angst.",
+        "why": "*habe* is the *du*-imperative (*Hab(e) keine Angst!*). With *Sie* the verb is the infinitive: *Haben Sie …*"
+      },
+      "examples": [
+        {
+          "de": "Trinken Sie keinen Alkohol.",
+          "en": "Don't drink any alcohol."
+        },
+        {
+          "de": "Machen Sie sich keine Sorgen.",
+          "en": "Don't worry."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Angst",
+          "en": "fear"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Lies::lesen (du)}} den Vertrag genau.",
+      "en": "Read the contract carefully.",
+      "focus": "du-Imperativ · Vokalwechsel e → ie",
+      "explanation": "*lesen* changes *e → ie*: *du liest*. The imperative keeps *ie* and loses *-t*: **Lies**. No *-e* is added.",
+      "pattern": "Stamm mit **ie** (du) + Objekt + Adverb.",
+      "mistake": {
+        "wrong": "Lese den Vertrag genau.",
+        "why": "Verbs with *e → ie* keep the change and take no *-e* in the imperative: *Lies!*"
+      },
+      "examples": [
+        {
+          "de": "Lies den Text noch einmal.",
+          "en": "Read the text again."
+        },
+        {
+          "de": "Sieh dir das Foto an.",
+          "en": "Look at the photo."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Vertrag",
+          "en": "contract"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "{{c1::Vergiss::vergessen (du)}} nicht, das Licht auszumachen.",
+      "en": "Don't forget to switch off the light.",
+      "focus": "du-Imperativ · e → i + Infinitiv mit zu",
+      "explanation": "*vergessen → du vergisst → **Vergiss*** (*e → i*, the double *s* stays). The task follows as a *zu*-infinitive; with the separable verb *ausmachen* the *zu* goes inside: *auszumachen*.",
+      "pattern": "Vergiss nicht, + … zu + Infinitiv.",
+      "mistake": {
+        "wrong": "Vergess nicht, das Licht auszumachen.",
+        "why": "The *e → i* change of *vergessen* stays in the *du*-imperative: *Vergiss!*"
+      },
+      "examples": [
+        {
+          "de": "Vergiss nicht, Brot zu kaufen.",
+          "en": "Don't forget to buy bread."
+        },
+        {
+          "de": "Vergiss nicht, die Tür abzuschließen.",
+          "en": "Don't forget to lock the door."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausmachen",
+          "en": "to switch off"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "{{c1::Setzen::to sit down · wir}} wir uns nach vorne.",
+      "en": "Let's sit at the front.",
+      "focus": "wir-Imperativ · reflexives Verb",
+      "explanation": "The *wir*-imperative (English *let's*) is the infinitive in position 1 + *wir*: **Setzen** wir. The reflexive pronoun *uns* follows *wir*.",
+      "pattern": "Infinitiv + wir + Reflexivpronomen + …",
+      "mistake": {
+        "wrong": "Setzen uns nach vorne.",
+        "why": "The *wir*-imperative keeps the pronoun *wir* after the verb: *Setzen wir uns …*"
+      },
+      "examples": [
+        {
+          "de": "Treffen wir uns um sieben.",
+          "en": "Let's meet at seven."
+        },
+        {
+          "de": "Beeilen wir uns.",
+          "en": "Let's hurry."
+        }
+      ],
+      "words": [],
+      "production_cue": "(let's)",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Hör::zuhören (du)}} mir bitte zu.",
+      "en": "Please listen to me.",
+      "focus": "du-Imperativ · trennbares Verb mit Dativ",
+      "explanation": "*du hörst zu* → **Hör** … *zu*. *zuhören* takes the Dativ, so *mir* (not *mich*) stands between the verb and the prefix.",
+      "pattern": "Stamm (du) + Dat. + bitte + Präfix.",
+      "mistake": {
+        "wrong": "Hörst mir bitte zu.",
+        "why": "The *du*-imperative has no *-st*: *Hör mir bitte zu.*"
+      },
+      "examples": [
+        {
+          "de": "Hör gut zu.",
+          "en": "Listen carefully."
+        },
+        {
+          "de": "Hör auf damit.",
+          "en": "Stop that."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "{{c1::Bringt::mitbringen (ihr)}} bitte etwas zu trinken mit.",
+      "en": "Please bring something to drink.",
+      "focus": "ihr-Imperativ · trennbares Verb",
+      "explanation": "*ihr bringt mit* → **Bringt** … *mit*. The prefix *mit* closes the sentence; *etwas zu trinken* (something to drink) stands in the middle.",
+      "pattern": "Verb-**t** (ihr) + … + Präfix.",
+      "mistake": {
+        "wrong": "Mitbringt bitte etwas zu trinken.",
+        "why": "The prefix *mit* is split off and goes to the end: *Bringt … mit.*"
+      },
+      "examples": [
+        {
+          "de": "Bringt bitte eure Bücher mit.",
+          "en": "Please bring your books."
+        },
+        {
+          "de": "Ladet bitte auch Anna ein.",
+          "en": "Please invite Anna too."
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "{{c1::Entschuldigen::to excuse · Sie}} Sie die Störung.",
+      "en": "Sorry to disturb you.",
+      "focus": "Sie-Imperativ · Höflichkeitsformel",
+      "explanation": "*Entschuldigen Sie …* is a formal imperative (infinitive + *Sie*) used as a fixed polite formula. *die Störung* is the Akkusativ object.",
+      "pattern": "Infinitiv + Sie + Akk.",
+      "mistake": {
+        "wrong": "Entschuldigt Sie die Störung.",
+        "why": "*entschuldigt* is the *ihr*-form. With *Sie* the verb must be the infinitive: *Entschuldigen Sie!*"
+      },
+      "examples": [
+        {
+          "de": "Entschuldigen Sie die Verspätung.",
+          "en": "Sorry for the delay."
+        },
+        {
+          "de": "Entschuldigen Sie, wo ist der Bahnhof?",
+          "en": "Excuse me, where is the station?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Störung",
+          "en": "disturbance, interruption"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Öffne::öffnen (du)}} bitte das Fenster!",
+      "en": "Please open the window!",
+      "focus": "du-Imperativ · Stamm auf Konsonant + n",
+      "explanation": "The stem *öffn-* ends in consonant + *n*. Such stems need an *-e* to be pronounceable (like *du öffnest*): **Öffne**. The same applies to *atmen → atme*.",
+      "pattern": "Stamm + **e** (du) + bitte + Objekt!",
+      "mistake": {
+        "wrong": "Öffn bitte das Fenster!",
+        "why": "*öffn* cannot be pronounced as one syllable. After consonant + *m/n* the *-e* is required: *Öffne!*"
+      },
+      "examples": [
+        {
+          "de": "Atme tief ein!",
+          "en": "Breathe in deeply!"
+        },
+        {
+          "de": "Zeichne bitte ein Haus!",
+          "en": "Please draw a house!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Lauf::laufen (du)}} schnell, der Bus kommt!",
+      "en": "Run quickly, the bus is coming!",
+      "focus": "du-Imperativ · Verb mit au → äu",
+      "explanation": "*laufen* has an umlaut in the present (*du läufst*), but the imperative uses the infinitive stem: **Lauf**. Like *a → ä*, the change *au → äu* disappears.",
+      "pattern": "Stamm ohne Umlaut (du) + Adverb!",
+      "mistake": {
+        "wrong": "Läuf schnell, der Bus kommt!",
+        "why": "Umlaut changes (*ä, äu*) are not used in the imperative. The form is *Lauf!*"
+      },
+      "examples": [
+        {
+          "de": "Schlaf jetzt, es ist spät!",
+          "en": "Go to sleep now, it's late!"
+        },
+        {
+          "de": "Fahr bitte vorsichtig!",
+          "en": "Please drive carefully!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Sieh::sehen (du)}} mal, da ist Paul!",
+      "en": "Look, there's Paul!",
+      "focus": "du-Imperativ · Vokalwechsel e → ie",
+      "explanation": "*sehen → du siehst*. The imperative keeps *ie* and drops *-st*: **Sieh**. The particle *mal* makes the command friendly and casual.",
+      "pattern": "Stamm mit **ie** (du) + mal …!",
+      "mistake": {
+        "wrong": "Seh mal, da ist Paul!",
+        "why": "*sehen* has the *e → ie* change, and it stays in the *du*-imperative: *Sieh mal!*"
+      },
+      "examples": [
+        {
+          "de": "Lies mal diesen Artikel!",
+          "en": "Read this article!"
+        },
+        {
+          "de": "Hilf mir mal kurz!",
+          "en": "Give me a hand for a moment!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Seien::to be · Sie}} Sie bitte vorsichtig!",
+      "en": "Please be careful!",
+      "focus": "Sie-Imperativ · unregelmäßiges Verb",
+      "explanation": "*sein* is the only verb whose *Sie*-imperative is not the infinitive: **Seien** Sie! All other verbs simply use the infinitive (*Haben Sie, Werden Sie*).",
+      "pattern": "Seien + Sie + Adjektiv!",
+      "mistake": {
+        "wrong": "Sind Sie bitte vorsichtig!",
+        "why": "*Sind Sie …?* is a question in the present tense. The formal imperative of *sein* is *Seien Sie!*"
+      },
+      "examples": [
+        {
+          "de": "Seien Sie bitte leise!",
+          "en": "Please be quiet!"
+        },
+        {
+          "de": "Seien Sie pünktlich!",
+          "en": "Be on time!"
+        }
+      ],
+      "words": [
+        {
+          "de": "vorsichtig",
+          "en": "careful"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Fangen::anfangen (wir)}} wir jetzt an!",
+      "en": "Let's start now!",
+      "focus": "wir-Imperativ · trennbares Verb",
+      "explanation": "The *wir*-imperative is the infinitive in position 1 + *wir*: **Fangen** wir. With the separable verb *anfangen*, the prefix *an* goes to the end.",
+      "pattern": "Infinitiv-Stamm + wir + … + Präfix!",
+      "mistake": {
+        "wrong": "Anfangen wir jetzt!",
+        "why": "The prefix of a separable verb goes to the end, also in the *wir*-imperative: *Fangen wir jetzt an!*"
+      },
+      "examples": [
+        {
+          "de": "Gehen wir ins Kino!",
+          "en": "Let's go to the cinema!"
+        },
+        {
+          "de": "Rufen wir Oma an!",
+          "en": "Let's call Grandma!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(let's)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Hab::haben (du)}} keine Angst!",
+      "en": "Don't be afraid!",
+      "focus": "du-Imperativ · haben",
+      "explanation": "*haben* forms the *du*-imperative from its stem: **Hab** (or *Habe*). It is not built from *du hast*. The noun *Angst* is negated with *keine*.",
+      "pattern": "Hab(e) + kein- + Nomen!",
+      "mistake": {
+        "wrong": "Hast keine Angst!",
+        "why": "*hast* is the present-tense *du*-form. The imperative uses the stem *hab-*: *Hab keine Angst!*"
+      },
+      "examples": [
+        {
+          "de": "Hab keine Sorge, alles ist gut!",
+          "en": "Don't worry, everything is fine!"
+        },
+        {
+          "de": "Hab Geduld!",
+          "en": "Be patient!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Nehmt::mitnehmen (ihr)}} eure Jacken mit!",
+      "en": "Take your jackets with you!",
+      "focus": "ihr-Imperativ · Verb mit e → i im Präsens",
+      "explanation": "*nehmen* changes the vowel only for *du/er* (*du nimmst, er nimmt*). The *ihr*-form is regular: *ihr nehmt mit* → **Nehmt** … *mit*.",
+      "pattern": "Stamm + **t** (ihr) + Objekt + Präfix!",
+      "mistake": {
+        "wrong": "Nimmt eure Jacken mit!",
+        "why": "*nimmt* is the *er/sie/es*-form. The *ihr*-imperative has no vowel change: *Nehmt!*"
+      },
+      "examples": [
+        {
+          "de": "Esst bitte euer Gemüse!",
+          "en": "Please eat your vegetables!"
+        },
+        {
+          "de": "Gebt mir eure Handys!",
+          "en": "Give me your phones!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Stell::sich vorstellen (du)}} dich bitte kurz vor!",
+      "en": "Please introduce yourself briefly!",
+      "focus": "du-Imperativ · reflexiv + trennbar",
+      "explanation": "*du stellst dich vor* → drop *du* and the ending *-st* → **Stell** dich … vor. The pronoun *du* disappears, the reflexive pronoun *dich* stays directly after the verb, and the prefix *vor* goes to the end.",
+      "pattern": "Stamm (du) + dich + … + Präfix!",
+      "mistake": {
+        "wrong": "Stellst dich bitte kurz vor!",
+        "why": "*stellst* is the present-tense *du*-form. The imperative drops the ending *-st*: *Stell dich vor!*"
+      },
+      "examples": [
+        {
+          "de": "Beeil dich!",
+          "en": "Hurry up!"
+        },
+        {
+          "de": "Zieh dich warm an!",
+          "en": "Dress warmly!"
+        }
+      ],
+      "words": [
+        {
+          "de": "sich vorstellen",
+          "en": "to introduce oneself"
+        }
+      ],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Werde::werden (du)}} bald wieder gesund!",
+      "en": "Get well soon!",
+      "focus": "du-Imperativ · Ausnahme vom Vokalwechsel",
+      "explanation": "*werden* has *e → i* in the present (*du wirst*), but its imperative is an exception: it keeps *e* and normally takes *-e*: **Werde** (colloquial: *Werd*). It is used mainly in wishes like this one.",
+      "pattern": "Werde + Adverb + Adjektiv!",
+      "mistake": {
+        "wrong": "Wird bald wieder gesund!",
+        "why": "*wird* is the *er/sie/es*-form. *werden* does not keep the vowel change in the imperative: *Werde!*"
+      },
+      "examples": [
+        {
+          "de": "Werde nicht nervös!",
+          "en": "Don't get nervous!"
+        },
+        {
+          "de": "Werde nicht ungeduldig!",
+          "en": "Don't get impatient!"
+        }
+      ],
+      "words": [
+        {
+          "de": "gesund",
+          "en": "healthy, well"
+        }
+      ],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Steigen::aussteigen (Sie)}} Sie bitte am Hauptbahnhof aus!",
+      "en": "Please get off at the main station!",
+      "focus": "Sie-Imperativ · trennbares Verb",
+      "explanation": "Formal imperative = infinitive + *Sie*. With *aussteigen* only *steigen* comes first: **Steigen** Sie … *aus*. The prefix *aus* closes the sentence.",
+      "pattern": "Infinitiv-Stamm + Sie + … + Präfix!",
+      "mistake": {
+        "wrong": "Aussteigen Sie bitte am Hauptbahnhof!",
+        "why": "A separable verb is split in the *Sie*-imperative too: *Steigen Sie … aus!*"
+      },
+      "examples": [
+        {
+          "de": "Rufen Sie mich bitte zurück!",
+          "en": "Please call me back!"
+        },
+        {
+          "de": "Füllen Sie bitte das Formular aus!",
+          "en": "Please fill in the form!"
+        }
+      ],
+      "words": [
+        {
+          "de": "aussteigen",
+          "en": "to get off (a bus/train)"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Wartet::warten (ihr)}} hier auf mich!",
+      "en": "Wait for me here!",
+      "focus": "ihr-Imperativ · Stamm auf -t",
+      "explanation": "The stem *wart-* ends in *-t*, so the *ihr*-form adds *-et*: *ihr wartet* → **Wartet**. *warten auf* takes the Akkusativ: *auf mich*.",
+      "pattern": "Stamm auf -t + **et** (ihr) + …!",
+      "mistake": {
+        "wrong": "Wartt hier auf mich!",
+        "why": "After a stem in *-t* or *-d* an *-e-* is needed before the ending: *wartet, arbeitet, findet*."
+      },
+      "examples": [
+        {
+          "de": "Arbeitet bitte leise!",
+          "en": "Please work quietly!"
+        },
+        {
+          "de": "Redet nicht so laut!",
+          "en": "Don't talk so loudly!"
+        }
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "{{c1::Erzähl::erzählen (du)}} mal, wie war der Urlaub?",
+      "en": "Tell me, how was the holiday?",
+      "focus": "du-Imperativ · mit Partikel mal",
+      "explanation": "*erzählen* is regular and has an inseparable prefix: *du erzählst* → **Erzähl**. The particle *mal* makes it a casual invitation rather than an order.",
+      "pattern": "Stamm (du) + mal, + Frage?",
+      "mistake": {
+        "wrong": "Erzählst mal, wie war der Urlaub?",
+        "why": "Without the pronoun, *erzählst* is not a command. The *du*-imperative drops *-st*: *Erzähl mal!*"
+      },
+      "examples": [
+        {
+          "de": "Sag mal, hast du Zeit?",
+          "en": "Tell me, do you have time?"
+        },
+        {
+          "de": "Hör mal, das ist wichtig!",
+          "en": "Listen, this is important!"
+        }
+      ],
+      "words": [
+        {
+          "de": "erzählen",
+          "en": "to tell (a story)"
+        }
+      ],
+      "production_cue": "(du)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about forming the *du*-imperative.",
+      "prompt": "How do you form the *du*-imperative of a regular verb like *kaufen*?",
+      "answer": "Take the present-tense *du*-form, drop the pronoun and the ending *-st*: *du kaufst → **Kauf!*** An *-e* is optional (*Kaufe!*), but it is required after stems in *-t/-d* and consonant + *m/n*: *Warte! Öffne!*",
+      "explanation": "In speech the short form without *-e* is normal. The *-e* is required where the stem is hard to pronounce without it: *arbeite, rede, atme, öffne*.",
+      "examples": [
+        {
+          "de": "Kauf bitte Milch!",
+          "en": "Please buy milk!"
+        },
+        {
+          "de": "Rede nicht so viel!",
+          "en": "Don't talk so much!"
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about vowel changes.",
+      "prompt": "Which present-tense vowel changes stay in the *du*-imperative, and which disappear?",
+      "answer": "**e → i / ie stays** (*nehmen → nimm, lesen → lies*), and these forms never take *-e*. **a → ä / au → äu disappears** (*fahren → fahr, laufen → lauf*). Exception: *werden → werde*.",
+      "explanation": "Only *e → i/ie* verbs show the change. Umlaut verbs use the infinitive stem. The *ihr*- and *Sie*-forms never show any vowel change (*nehmt, nehmen Sie*).",
+      "examples": [
+        {
+          "de": "Nimm den Schirm mit!",
+          "en": "Take the umbrella with you!"
+        },
+        {
+          "de": "Fahr langsam!",
+          "en": "Drive slowly!"
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the *ihr*- and *Sie*-forms.",
+      "prompt": "How do you form the *ihr*-imperative and the *Sie*-imperative?",
+      "answer": "*ihr*: the present-tense *ihr*-form without *ihr* (*ihr kommt → **Kommt!***). *Sie*: the infinitive + *Sie* (***Kommen Sie!***). *Sie* must always stay; *ihr* is dropped.",
+      "explanation": "Both forms are regular for almost every verb. Only *sein* is special: *Seid!* and *Seien Sie!* The *wir*-form works like the *Sie*-form: *Gehen wir!* = *Let's go!*",
+      "examples": [
+        {
+          "de": "Kommt bitte pünktlich!",
+          "en": "Please come on time!"
+        },
+        {
+          "de": "Kommen Sie bitte pünktlich!",
+          "en": "Please come on time! (formal)"
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about irregular imperatives.",
+      "prompt": "What are the imperative forms of *sein* and *haben*?",
+      "answer": "*sein*: **sei!** (du) – **seid!** (ihr) – **seien Sie!** (Sie). *haben*: **hab(e)!** – **habt!** – **haben Sie!**",
+      "explanation": "*sein* cannot be built from *du bist*, and its *Sie*-form is not the infinitive. *haben* uses the stem *hab-*, not *du hast*. Both are often used with an adjective or noun: *Sei leise! Hab Geduld!*",
+      "examples": [
+        {
+          "de": "Seid bitte freundlich!",
+          "en": "Please be friendly!"
+        },
+        {
+          "de": "Habt keine Angst!",
+          "en": "Don't be afraid!"
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "Where do the verb, a separable prefix and a reflexive pronoun go in an imperative sentence?",
+      "answer": "The verb is in **position 1**, the separable prefix at the **end**, and a reflexive or object pronoun directly **after the verb** (or after *Sie/wir*): *Zieh dich an! Ruf mich an! Setzen Sie sich!*",
+      "explanation": "The imperative is a verb-first sentence. The separable verb forms a bracket like in a statement: verb … prefix. Particles like *bitte, mal, doch* stand in the middle.",
+      "examples": [
+        {
+          "de": "Ruf mich bitte heute an!",
+          "en": "Please call me today!"
+        },
+        {
+          "de": "Melden Sie sich bitte an!",
+          "en": "Please register!"
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form. You speak formally to one person.",
+      "prompt": "___ Sie bitte das Fenster zu!",
+      "options": [
+        "Mach",
+        "Macht",
+        "Machen"
+      ],
+      "correct": "Machen",
+      "answer": "Machen Sie bitte das Fenster zu!",
+      "explanation": "With *Sie* the imperative is the infinitive: *Machen Sie …!* *Mach* is the *du*-form and *Macht* is the *ihr*-form; neither combines with *Sie*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form. You speak to a group of children.",
+      "prompt": "Kinder, ___ nicht so laut!",
+      "options": [
+        "sei",
+        "seid",
+        "seien",
+        "sind"
+      ],
+      "correct": "seid",
+      "answer": "Kinder, seid nicht so laut!",
+      "explanation": "Several children → *ihr*-form: *seid*. *sei* is for one person (*du*), *seien* only works with *Sie*, and *sind* is not an imperative form."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Paul, ___ mir bitte das Buch!",
+      "options": [
+        "gib",
+        "geb",
+        "gibst",
+        "gebt"
+      ],
+      "correct": "gib",
+      "answer": "Paul, gib mir bitte das Buch!",
+      "explanation": "One friend → *du*-imperative. *geben* has *e → i* (*du gibst*), and the change stays: *gib*. *geb* is not standard, *gibst* keeps the *-st*, and *gebt* is for several people."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Isst nicht so viel Schokolade!",
+      "answer": "Iss nicht so viel Schokolade!",
+      "explanation": "*isst* is the present-tense *du*-form. The imperative drops the ending: *Iss!* (the double *s* belongs to the stem)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ruf Sie mich bitte an!",
+      "answer": "Rufen Sie mich bitte an!",
+      "explanation": "*Ruf* is the *du*-form. With *Sie* the verb must be the infinitive: *Rufen Sie …!*"
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Lauft nicht so schnell, Lisa!",
+      "answer": "Lauf nicht so schnell, Lisa!",
+      "explanation": "You speak to one person (Lisa), so you need the *du*-form: *Lauf!* *Lauft* is the *ihr*-form for several people."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Change the statement into a *du*-imperative.",
+      "prompt": "Du kommst morgen pünktlich.",
+      "answer": "Komm morgen pünktlich!",
+      "explanation": "Drop *du* and the ending *-st*, and put the verb in position 1: *du kommst → Komm!* The rest of the sentence stays in the same order."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Change the formal request into a *du*-imperative.",
+      "prompt": "Helfen Sie mir bitte!",
+      "answer": "Hilf mir bitte!",
+      "explanation": "*helfen* has *e → i* for *du* (*du hilfst*). The *du*-imperative keeps the change and drops *-st* and the pronoun: *Hilf!*"
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Change the *du*-imperative into a formal *Sie*-imperative.",
+      "prompt": "Ruf mich heute Abend an!",
+      "answer": "Rufen Sie mich heute Abend an!",
+      "explanation": "The *Sie*-form is the infinitive *rufen* + *Sie*. The prefix *an* stays at the end, and the object *mich* follows *Sie*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order to make a *du*-imperative.",
+      "prompt": "an / die Heizung / bitte / mach",
+      "answer": "Mach bitte die Heizung an!",
+      "explanation": "The verb *mach* comes first and the prefix *an* goes to the end. *Mach die Heizung bitte an!* is also correct; *bitte* can stand before or after the object."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order to make a *let's*-sentence.",
+      "prompt": "wir / doch / eine Pause / machen",
+      "answer": "Machen wir doch eine Pause!",
+      "explanation": "The *wir*-imperative puts the infinitive first and *wir* second. The particle *doch* follows the pronoun and makes the suggestion sound friendly."
+    }
+  ]
+}

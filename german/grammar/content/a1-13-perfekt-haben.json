@@ -1,0 +1,1094 @@
+{
+  "topic_id": "a1-13-perfekt-haben",
+  "level": "A1",
+  "title_de": "Perfekt mit haben",
+  "title_en": "The Perfekt with haben",
+  "rule": {
+    "summary": "The **Perfekt** is the normal past tense in spoken German and in informal writing (messages, e-mails). It has two parts: the conjugated auxiliary **haben** in position 2 and the **Partizip II** at the end of the clause (Satzklammer). Most verbs form the Perfekt with *haben*: all verbs with an Akkusativ object, all reflexive verbs and many verbs without an object (*arbeiten, schlafen, warten*). English often translates it with the simple past (*I read*) or the present perfect (*I have read*).",
+    "table": "| Typ | Infinitiv | Partizip II |\n|---|---|---|\n| regelmäßig (schwach) | machen, kaufen | **ge**mach**t**, **ge**kauf**t** |\n| Stamm auf -t/-d | arbeiten, warten | **ge**arbeit**et**, **ge**wart**et** |\n| unregelmäßig (stark) | lesen, trinken, schreiben | **ge**les**en**, **ge**trunk**en**, **ge**schrieb**en** |\n| gemischt | bringen, denken, wissen | **ge**brach**t**, **ge**dach**t**, **ge**wuss**t** |\n| trennbar | aufmachen, anrufen | auf**ge**macht, an**ge**rufen |\n| untrennbar (be-, ver-, er-, ent-, emp-, ge-, zer-) | bezahlen, verstehen | bezahl**t**, verstand**en** (no *ge-*) |\n| -ieren | studieren, reparieren | studier**t**, reparier**t** (no *ge-*) |",
+    "steps": [
+      "Conjugate *haben* for the subject and put it in position 2 (in a yes/no question: position 1): *ich habe, du hast, er hat, wir haben, ihr habt, sie/Sie haben*.",
+      "Decide the type of verb: regular verbs end in **-t** (*gemacht*), irregular verbs end in **-en** and often change the stem vowel (*getrunken*). Mixed verbs (*bringen, denken, wissen, kennen*) change the stem but end in **-t**.",
+      "Add *ge-*: before the stem (*gekauft*), between prefix and stem for separable verbs (*aufgemacht*), and **not at all** for inseparable prefixes and *-ieren* verbs (*bezahlt, studiert*).",
+      "Stems in *-t/-d* (and some others like *öffnen*) add **-et**: *gearbeitet, geöffnet*.",
+      "Put the Partizip II at the very end. Everything else (objects, time, *nicht*) goes between *haben* and the participle."
+    ],
+    "pitfalls": [
+      "Adding *ge-* to an inseparable or *-ieren* verb: ✗ *Ich habe das geverstanden.* → ✓ *Ich habe das verstanden.* ✗ *gestudiert* → ✓ *studiert*.",
+      "Putting *ge-* in front of a separable verb: ✗ *geaufmacht* → ✓ *aufgemacht*.",
+      "Using the regular ending for an irregular verb: ✗ *getrinkt* → ✓ *getrunken*, ✗ *gelest* → ✓ *gelesen*. Learn the participle together with the infinitive.",
+      "Putting the participle in the middle: ✗ *Ich habe gekauft ein Auto.* → ✓ *Ich habe ein Auto gekauft.*",
+      "Using *sein* with a verb that has an object or is reflexive: ✗ *Wir sind uns gefreut.* → ✓ *Wir haben uns gefreut.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich habe das Buch {{c1::gelesen::lesen}}.",
+      "en": "I read the book.",
+      "focus": "Partizip II · starkes Verb",
+      "explanation": "*lesen* is an irregular (strong) verb, so the participle ends in **-en**: ge + les + en → **gelesen**. The stem vowel stays *e*. *habe* is in position 2 and the participle closes the clause.",
+      "pattern": "haben (Pos. 2) + Objekt + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Ich habe das Buch gelest.",
+        "why": "*-t* is the ending of regular verbs. *lesen* is strong, so its participle ends in *-en*: *gelesen*."
+      },
+      "examples": [
+        {"de": "Ich habe den Text gelesen.", "en": "I read the text."},
+        {"de": "Er hat die Zeitung gelesen.", "en": "He read the newspaper."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie hat einen Apfel {{c1::gegessen::essen}}.",
+      "en": "She ate an apple.",
+      "focus": "Partizip II · starkes Verb, Sonderform",
+      "explanation": "*essen* is strong → **-en** ending. Its participle has an extra *g* between *ge-* and the stem: ge + **g** + ess + en → **gegessen**. *hat* agrees with *sie* (she).",
+      "pattern": "hat + Objekt + **ge**gess**en**",
+      "mistake": {
+        "wrong": "Sie hat einen Apfel geessen.",
+        "why": "The participle of *essen* is irregular: *gegessen*, with a second *g*. *geessen* does not exist."
+      },
+      "examples": [
+        {"de": "Wir haben Fisch gegessen.", "en": "We ate fish."},
+        {"de": "Hast du das Brot gegessen?", "en": "Did you eat the bread?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir haben Deutsch {{c1::gelernt::lernen}}.",
+      "en": "We learned German.",
+      "focus": "Partizip II · regelmäßiges Verb",
+      "explanation": "*lernen* is regular (weak): ge + lern + t → **gelernt**. The auxiliary *haben* agrees with *wir*.",
+      "pattern": "haben + Objekt + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Wir haben Deutsch gelernen.",
+        "why": "*-en* is for irregular verbs. *lernen* is regular, so its participle ends in *-t*: *gelernt*."
+      },
+      "examples": [
+        {"de": "Wir haben Spanisch gelernt.", "en": "We learned Spanish."},
+        {"de": "Sie hat viel gelernt.", "en": "She learned a lot."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er hat zu viel Kaffee {{c1::getrunken::trinken}}.",
+      "en": "He drank too much coffee.",
+      "focus": "Partizip II · starkes Verb mit Vokalwechsel",
+      "explanation": "*trinken* is strong and changes its vowel *i → u* in the participle: ge + trunk + en → **getrunken** (*trinken – trank – getrunken*). The amount *zu viel Kaffee* stands inside the Satzklammer.",
+      "pattern": "hat + … + **ge**-Stamm (Vokalwechsel)-**en**",
+      "mistake": {
+        "wrong": "Er hat zu viel Kaffee getrinkt.",
+        "why": "*trinken* is not regular. The participle has the vowel *u* and the ending *-en*: *getrunken*."
+      },
+      "examples": [
+        {"de": "Ich habe viel Wasser getrunken.", "en": "I drank a lot of water."},
+        {"de": "Wir haben einen Tee getrunken.", "en": "We had a cup of tea."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich habe einen Brief {{c1::geschrieben::schreiben}}.",
+      "en": "I wrote a letter.",
+      "focus": "Partizip II · starkes Verb ei → ie",
+      "explanation": "*schreiben* is strong. Verbs with *ei* in the stem often have *ie* in the participle: ge + schrieb + en → **geschrieben**.",
+      "pattern": "haben + Objekt + **ge**-Stamm (ei → ie)-**en**",
+      "mistake": {
+        "wrong": "Ich habe einen Brief geschreibt.",
+        "why": "*schreiben* is irregular. The participle changes *ei → ie* and ends in *-en*: *geschrieben*."
+      },
+      "examples": [
+        {"de": "Sie hat eine E-Mail geschrieben.", "en": "She wrote an e-mail."},
+        {"de": "Wir haben eine Karte geschrieben.", "en": "We wrote a postcard."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Hast du den Film {{c1::gesehen::sehen}}?",
+      "en": "Have you seen the film?",
+      "focus": "Perfekt · Ja/Nein-Frage",
+      "explanation": "In a yes/no question *haben* moves to position 1 (*Hast du …*), but the participle still stands at the end. *sehen* is strong: ge + seh + en → **gesehen**.",
+      "pattern": "Hast + Subjekt + Objekt + **ge**-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Hast du den Film geseht?",
+        "why": "*sehen* is irregular, so the participle ends in *-en*: *gesehen*."
+      },
+      "examples": [
+        {"de": "Hast du meine Nachricht gesehen?", "en": "Have you seen my message?"},
+        {"de": "Habt ihr das Spiel gesehen?", "en": "Did you (pl.) see the match?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie hat lange in Berlin {{c1::gewohnt::wohnen}}.",
+      "en": "She lived in Berlin for a long time.",
+      "focus": "Perfekt · Verb ohne Objekt",
+      "explanation": "*wohnen* has no object and expresses no movement or change of state, so it takes **haben**. It is regular: ge + wohn + t → **gewohnt**.",
+      "pattern": "hat + Zeit + Ort + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie ist lange in Berlin gewohnt.",
+        "why": "*sein* is only for movement or a change of state. Living somewhere is a state, so *wohnen* uses *haben*."
+      },
+      "examples": [
+        {"de": "Er hat zwei Jahre in Rom gewohnt.", "en": "He lived in Rome for two years."},
+        {"de": "Wir haben lange in Basel gelebt.", "en": "We lived in Basel for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir haben das Auto {{c1::gekauft::kaufen}}.",
+      "en": "We bought the car.",
+      "focus": "Perfekt · Satzklammer",
+      "explanation": "*kaufen* is regular → **gekauft**. *haben* in position 2 and the participle at the end form a bracket; the object *das Auto* goes inside it.",
+      "pattern": "haben … Objekt … **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Wir haben gekauft das Auto.",
+        "why": "The participle must stand at the end of the clause. The object goes between *haben* and *gekauft*."
+      },
+      "examples": [
+        {"de": "Ich habe ein Ticket gekauft.", "en": "I bought a ticket."},
+        {"de": "Sie haben eine Wohnung gemietet.", "en": "They rented a flat."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich habe gestern viel {{c1::gearbeitet::arbeiten}}.",
+      "en": "I worked a lot yesterday.",
+      "focus": "Partizip II · Stamm auf -t",
+      "explanation": "The stem of *arbeiten* ends in *-t*. To make the ending audible, the participle adds **-et**: ge + arbeit + et → **gearbeitet**.",
+      "pattern": "haben + … + **ge**-Stamm-**et**",
+      "mistake": {
+        "wrong": "Ich habe gestern viel gearbeit.",
+        "why": "After a stem in *-t* the ending *-t* cannot be heard. It needs *-et*: *gearbeitet*."
+      },
+      "examples": [
+        {"de": "Er hat bis acht Uhr gearbeitet.", "en": "He worked until eight o'clock."},
+        {"de": "Sie hat mir sofort geantwortet.", "en": "She answered me immediately."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er hat die Tür {{c1::aufgemacht::aufmachen}}.",
+      "en": "He opened the door.",
+      "focus": "Partizip II · trennbares Verb",
+      "explanation": "*aufmachen* is separable. The *ge-* goes between the prefix and the stem: auf + **ge** + macht → **aufgemacht**. It is written as one word.",
+      "pattern": "hat + Objekt + Präfix-**ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Er hat die Tür geaufmacht.",
+        "why": "With separable verbs *ge-* never goes in front of the prefix. It goes between prefix and stem: *aufgemacht*."
+      },
+      "examples": [
+        {"de": "Sie hat das Licht ausgemacht.", "en": "She turned off the light."},
+        {"de": "Wir haben gestern eingekauft.", "en": "We went shopping yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir haben in Paris {{c1::studiert::studieren}}.",
+      "en": "We studied in Paris.",
+      "focus": "Partizip II · Verb auf -ieren",
+      "explanation": "Verbs ending in *-ieren* never take *ge-*. Their participle is the stem + *-t*: studier + t → **studiert**.",
+      "pattern": "haben + Ort + Stamm-**iert**",
+      "mistake": {
+        "wrong": "Wir haben in Paris gestudiert.",
+        "why": "*-ieren* verbs have no *ge-* in the participle: *studiert*, *probiert*, *telefoniert*."
+      },
+      "examples": [
+        {"de": "Er hat Medizin studiert.", "en": "He studied medicine."},
+        {"de": "Ich habe den Kuchen probiert.", "en": "I tried the cake."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie hat die Rechnung {{c1::bezahlt::bezahlen}}.",
+      "en": "She paid the bill.",
+      "focus": "Partizip II · untrennbares Präfix be-",
+      "explanation": "*be-* is an inseparable prefix, so there is no *ge-*. *zahlen* is regular → **bezahlt**.",
+      "pattern": "hat + Objekt + be-Stamm-**t** (kein ge-)",
+      "mistake": {
+        "wrong": "Sie hat die Rechnung gebezahlt.",
+        "why": "Verbs with *be-, ver-, er-, ent-, emp-, ge-, zer-* never add *ge-*: *bezahlt*."
+      },
+      "examples": [
+        {"de": "Er hat das Hotel bezahlt.", "en": "He paid for the hotel."},
+        {"de": "Wir haben einen Tisch bestellt.", "en": "We booked a table."}
+      ],
+      "words": [{"de": "die Rechnung", "en": "bill"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich habe Pizza {{c1::gemacht::machen}}.",
+      "en": "I made pizza.",
+      "focus": "Partizip II · regelmäßiges Verb",
+      "explanation": "*machen* is the model regular verb: ge + mach + t → **gemacht**. *habe* agrees with *ich*.",
+      "pattern": "habe + Objekt + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Ich habe Pizza macht.",
+        "why": "A regular participle needs both parts: *ge-* in front and *-t* at the end → *gemacht*."
+      },
+      "examples": [
+        {"de": "Ich habe Suppe gekocht.", "en": "I made soup."},
+        {"de": "Er hat einen Kuchen gemacht.", "en": "He made a cake."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir haben lange {{c1::gesprochen::sprechen}}.",
+      "en": "We talked for a long time.",
+      "focus": "Partizip II · starkes Verb e → o",
+      "explanation": "*sprechen* is strong and changes *e → o* in the participle: ge + sproch + en → **gesprochen** (*sprechen – sprach – gesprochen*). Without an object it still takes *haben*.",
+      "pattern": "haben + Zeit + **ge**-Stamm (e → o)-**en**",
+      "mistake": {
+        "wrong": "Wir haben lange gesprecht.",
+        "why": "*sprechen* is irregular: the participle has *o* and ends in *-en*: *gesprochen*."
+      },
+      "examples": [
+        {"de": "Wir haben über die Arbeit gesprochen.", "en": "We talked about work."},
+        {"de": "Sie hat mir sehr geholfen.", "en": "She helped me a lot."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie hat das Auto {{c1::repariert::reparieren}}.",
+      "en": "She fixed the car.",
+      "focus": "Partizip II · Verb auf -ieren",
+      "explanation": "*reparieren* ends in *-ieren* → no *ge-*, only *-t*: **repariert**.",
+      "pattern": "hat + Objekt + Stamm-**iert**",
+      "mistake": {
+        "wrong": "Sie hat das Auto gerepariert.",
+        "why": "*-ieren* verbs never take *ge-*. The participle is *repariert*."
+      },
+      "examples": [
+        {"de": "Er hat das Fahrrad repariert.", "en": "He repaired the bike."},
+        {"de": "Wir haben die Wohnung renoviert.", "en": "We renovated the flat."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Hast du das {{c1::verstanden::verstehen}}?",
+      "en": "Did you understand that?",
+      "focus": "Partizip II · untrennbares Präfix ver-",
+      "explanation": "*verstehen* has the inseparable prefix *ver-* → no *ge-*. It is strong like *stehen*, with the participle stem *stand-*: ver + stand + en → **verstanden**.",
+      "pattern": "Hast + du + Objekt + ver-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Hast du das geverstanden?",
+        "why": "An inseparable prefix like *ver-* blocks *ge-*: *verstanden*, not *geverstanden*."
+      },
+      "examples": [
+        {"de": "Hast du die Frage verstanden?", "en": "Did you understand the question?"},
+        {"de": "Er hat das Problem verstanden.", "en": "He understood the problem."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er hat den Bus {{c1::genommen::nehmen}}.",
+      "en": "He took the bus.",
+      "focus": "Partizip II · starkes Verb e → o",
+      "explanation": "*nehmen* is strong: *nehmen – nahm – genommen*. The participle changes *e → o*, has a double *m* and ends in *-en*: **genommen**.",
+      "pattern": "hat + Objekt + **ge**-Stamm (e → o)-**en**",
+      "mistake": {
+        "wrong": "Er hat den Bus genehmt.",
+        "why": "*nehmen* is irregular. Its participle is *genommen*, not a regular form with *-t*."
+      },
+      "examples": [
+        {"de": "Ich habe ein Taxi genommen.", "en": "I took a taxi."},
+        {"de": "Sie hat die U-Bahn genommen.", "en": "She took the underground."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich habe das Lied {{c1::gehört::hören}}.",
+      "en": "I heard the song.",
+      "focus": "Partizip II · regelmäßiges Verb",
+      "explanation": "*hören* is regular: ge + hör + t → **gehört**. The umlaut is part of the stem and stays.",
+      "pattern": "habe + Objekt + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Ich habe das Lied gehören.",
+        "why": "*hören* is a regular verb, so the participle ends in *-t*: *gehört*."
+      },
+      "examples": [
+        {"de": "Wir haben die Nachrichten gehört.", "en": "We heard the news."},
+        {"de": "Hast du die Musik gehört?", "en": "Did you hear the music?"}
+      ],
+      "words": [{"de": "das Lied", "en": "song"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir haben Karten {{c1::gespielt::spielen}}.",
+      "en": "We played cards.",
+      "focus": "Partizip II · regelmäßiges Verb",
+      "explanation": "*spielen* is regular: ge + spiel + t → **gespielt**. *haben* agrees with *wir*.",
+      "pattern": "haben + Objekt + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Wir haben Karten gespielen.",
+        "why": "Regular verbs never end in *-en* in the participle: *gespielt*."
+      },
+      "examples": [
+        {"de": "Die Kinder haben Fußball gespielt.", "en": "The children played football."},
+        {"de": "Er hat Klavier gespielt.", "en": "He played the piano."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie hat mich {{c1::angerufen::anrufen}}.",
+      "en": "She called me.",
+      "focus": "Partizip II · trennbares starkes Verb",
+      "explanation": "*anrufen* is separable, so *ge-* goes between *an* and the stem. *rufen* is strong (*gerufen*): an + **ge** + ruf + en → **angerufen**.",
+      "pattern": "hat + Objekt + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Sie hat mich geanrufen.",
+        "why": "With separable verbs *ge-* comes after the prefix: *angerufen*."
+      },
+      "examples": [
+        {"de": "Er hat seine Mutter angerufen.", "en": "He called his mother."},
+        {"de": "Wir haben unsere Freunde angerufen.", "en": "We called our friends."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich habe den Film schon {{c1::gesehen::sehen}}.",
+      "en": "I have already seen the film.",
+      "focus": "Perfekt · Adverb im Mittelfeld",
+      "explanation": "*sehen* is strong → **gesehen**. The adverb *schon* stands in the middle of the Satzklammer; the participle stays at the very end.",
+      "pattern": "habe + Objekt + schon + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Ich habe den Film gesehen schon.",
+        "why": "Nothing comes after the participle in a main clause. *schon* goes before it: *… schon gesehen*."
+      },
+      "examples": [
+        {"de": "Ich habe das Museum schon gesehen.", "en": "I have already seen the museum."},
+        {"de": "Wir haben das Theaterstück schon gesehen.", "en": "We have already seen the play."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir haben lange {{c1::gewartet::warten}}.",
+      "en": "We waited a long time.",
+      "focus": "Partizip II · Stamm auf -t",
+      "explanation": "*warten* is regular, and its stem ends in *-t*. So the participle adds **-et**: ge + wart + et → **gewartet**.",
+      "pattern": "haben + Zeit + **ge**-Stamm-**et**",
+      "mistake": {
+        "wrong": "Wir haben lange gewart.",
+        "why": "After a stem in *-t* an *-e-* is needed before the ending: *gewartet*."
+      },
+      "examples": [
+        {"de": "Ich habe eine Stunde gewartet.", "en": "I waited for an hour."},
+        {"de": "Sie hat das Fenster geöffnet.", "en": "She opened the window."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Hast du schon {{c1::gegessen::essen}}?",
+      "en": "Have you eaten yet?",
+      "focus": "Perfekt · Frage ohne Objekt",
+      "explanation": "*essen* has the irregular participle **gegessen** (with an extra *g*). The question has no object; *schon* (here: *yet*) stands before the participle.",
+      "pattern": "Hast du + schon + **ge**gess**en**?",
+      "mistake": {
+        "wrong": "Hast du schon gegesst?",
+        "why": "*essen* is a strong verb. Its participle ends in *-en*: *gegessen*."
+      },
+      "examples": [
+        {"de": "Habt ihr schon gegessen?", "en": "Have you (pl.) eaten yet?"},
+        {"de": "Hast du heute schon gefrühstückt?", "en": "Have you had breakfast yet today?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Sie hat mir alles {{c1::erklärt::erklären}}.",
+      "en": "She explained everything to me.",
+      "focus": "Partizip II · untrennbares Präfix er-",
+      "explanation": "*er-* is an inseparable prefix → no *ge-*. *klären* is regular → **erklärt**. The Dativ *mir* and the object *alles* stand inside the bracket.",
+      "pattern": "hat + Dat. + Akk. + er-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie hat mir alles geerklärt.",
+        "why": "Verbs with an inseparable prefix never take *ge-*: *erklärt*."
+      },
+      "examples": [
+        {"de": "Er hat mir den Weg erklärt.", "en": "He explained the way to me."},
+        {"de": "Ich habe ihr alles erzählt.", "en": "I told her everything."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ich habe das Fenster {{c1::aufgemacht::aufmachen}}.",
+      "en": "I opened the window.",
+      "focus": "Partizip II · trennbares Verb",
+      "explanation": "Separable verbs put *ge-* between the prefix and the stem: auf + ge + macht → **aufgemacht**. The whole participle stands at the end.",
+      "pattern": "habe + Objekt + Präfix-**ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Ich habe aufgemacht das Fenster.",
+        "why": "The participle closes the Satzklammer. The object must stand before it: *das Fenster aufgemacht*."
+      },
+      "examples": [
+        {"de": "Ich habe den Fernseher ausgemacht.", "en": "I turned off the TV."},
+        {"de": "Er hat das Paket aufgemacht.", "en": "He opened the parcel."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Er hat die Prüfung {{c1::bestanden::bestehen}}.",
+      "en": "He passed the exam.",
+      "focus": "Partizip II · untrennbar + stark",
+      "explanation": "*bestehen* has the inseparable prefix *be-* → no *ge-*. Like *stehen*, the participle stem is *stand-*: be + stand + en → **bestanden**.",
+      "pattern": "hat + Objekt + be-Stamm-**en** (kein ge-)",
+      "mistake": {
+        "wrong": "Er hat die Prüfung gebestanden.",
+        "why": "The prefix *be-* blocks *ge-*. Only the vowel change of *stehen* remains: *bestanden*."
+      },
+      "examples": [
+        {"de": "Sie hat den Test bestanden.", "en": "She passed the test."},
+        {"de": "Ich habe ein Geschenk bekommen.", "en": "I got a present."}
+      ],
+      "words": [{"de": "die Prüfung", "en": "exam"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Wir haben viel {{c1::telefoniert::telefonieren}}.",
+      "en": "We talked on the phone a lot.",
+      "focus": "Partizip II · Verb auf -ieren",
+      "explanation": "*telefonieren* ends in *-ieren* → no *ge-*: **telefoniert**. It has no Akkusativ object but still takes *haben*.",
+      "pattern": "haben + viel + Stamm-**iert**",
+      "mistake": {
+        "wrong": "Wir haben viel getelefoniert.",
+        "why": "*-ieren* verbs never take *ge-*. The participle is *telefoniert*."
+      },
+      "examples": [
+        {"de": "Sie hat lange telefoniert.", "en": "She was on the phone for a long time."},
+        {"de": "Wir haben viel fotografiert.", "en": "We took a lot of photos."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich habe meinen Schlüssel {{c1::verloren::verlieren}}.",
+      "en": "I lost my key.",
+      "focus": "Partizip II · untrennbar + Vokalwechsel",
+      "explanation": "*verlieren* has the inseparable prefix *ver-* → no *ge-*. It is strong and changes *ie → o*: ver + lor + en → **verloren**.",
+      "pattern": "habe + Objekt + ver-Stamm (ie → o)-**en**",
+      "mistake": {
+        "wrong": "Ich habe meinen Schlüssel verliert.",
+        "why": "*verlieren* is not regular. The participle has a new vowel and *-en*: *verloren*."
+      },
+      "examples": [
+        {"de": "Er hat sein Handy verloren.", "en": "He lost his mobile phone."},
+        {"de": "Wir haben das Spiel verloren.", "en": "We lost the game."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Sie haben das Haus {{c1::verkauft::verkaufen}}.",
+      "en": "They sold the house.",
+      "focus": "Partizip II · untrennbar + regelmäßig",
+      "explanation": "*verkaufen* = *ver-* + regular *kaufen*. The prefix blocks *ge-*, and the regular ending stays: **verkauft**. *haben* agrees with *sie* (they).",
+      "pattern": "haben + Objekt + ver-Stamm-**t**",
+      "mistake": {
+        "wrong": "Sie haben das Haus geverkauft.",
+        "why": "*ver-* is inseparable, so there is no *ge-*: *verkauft* (compare *kaufen → gekauft*)."
+      },
+      "examples": [
+        {"de": "Er hat sein Fahrrad verkauft.", "en": "He sold his bike."},
+        {"de": "Wir haben das Zimmer vermietet.", "en": "We rented out the room."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Was hast du am Wochenende {{c1::gemacht::machen}}?",
+      "en": "What did you do at the weekend?",
+      "focus": "Perfekt · W-Frage",
+      "explanation": "In a W-question the question word is in position 1 and *hast* in position 2. The participle **gemacht** stays at the end, after the time phrase.",
+      "pattern": "W-Wort + hat/habe + Subjekt + … + Partizip II?",
+      "mistake": {
+        "wrong": "Was hast du gemacht am Wochenende?",
+        "why": "The participle closes the clause, also in a question: *Was hast du am Wochenende gemacht?*"
+      },
+      "examples": [
+        {"de": "Was habt ihr gestern gemacht?", "en": "What did you (pl.) do yesterday?"},
+        {"de": "Wo hast du das gekauft?", "en": "Where did you buy that?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich habe die ganze Nacht {{c1::gearbeitet::arbeiten}}.",
+      "en": "I worked all night.",
+      "focus": "Partizip II · Stamm auf -t, Zeitangabe",
+      "explanation": "*arbeiten* keeps the *-e-* before the ending because the stem ends in *-t*: **gearbeitet**. *die ganze Nacht* is an Akkusativ of time, not an object.",
+      "pattern": "habe + Zeit (Akk.) + **ge**-Stamm-**et**",
+      "mistake": {
+        "wrong": "Ich habe die ganze Nacht gearbeiten.",
+        "why": "*arbeiten* is regular, so the ending is *-et*, not *-en*: *gearbeitet*."
+      },
+      "examples": [
+        {"de": "Sie hat den ganzen Tag gearbeitet.", "en": "She worked all day."},
+        {"de": "Er hat die ganze Woche gewartet.", "en": "He waited all week."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Er hat mir einen Brief {{c1::geschrieben::schreiben}}.",
+      "en": "He wrote me a letter.",
+      "focus": "Partizip II · starkes Verb, zwei Objekte",
+      "explanation": "*schreiben – schrieb – geschrieben*: the strong pattern *ei → ie* with *-en*. The Dativ *mir* comes before the Akkusativ *einen Brief*, and both stand inside the bracket.",
+      "pattern": "hat + Dat. + Akk. + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Er hat mir einen Brief geschriebt.",
+        "why": "The *ie* is right, but strong verbs end in *-en*: *geschrieben*."
+      },
+      "examples": [
+        {"de": "Sie hat mir eine Nachricht geschrieben.", "en": "She wrote me a message."},
+        {"de": "Sie hat mir ein Geschenk gegeben.", "en": "She gave me a present."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Wir haben uns sehr {{c1::gefreut::sich freuen}}.",
+      "en": "We were very glad.",
+      "focus": "Perfekt · reflexives Verb",
+      "explanation": "Reflexive verbs always form the Perfekt with **haben**. *freuen* is regular → **gefreut**. The reflexive pronoun *uns* follows *haben*.",
+      "pattern": "haben + Reflexivpronomen + … + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Wir sind uns sehr gefreut.",
+        "why": "A reflexive verb never takes *sein* in the Perfekt: *Wir haben uns gefreut.*"
+      },
+      "examples": [
+        {"de": "Ich habe mich sehr gefreut.", "en": "I was very pleased."},
+        {"de": "Sie hat sich sehr geärgert.", "en": "She got very annoyed."}
+      ],
+      "words": [{"de": "sich freuen", "en": "to be glad"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Hast du die Regel {{c1::verstanden::verstehen}}?",
+      "en": "Did you understand the rule?",
+      "focus": "Partizip II · Präfix ver- + stehen",
+      "explanation": "*verstehen* is built on *stehen* (participle *gestanden*). The prefix *ver-* replaces *ge-*: **verstanden**.",
+      "pattern": "Hast du + Objekt + ver-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Hast du die Regel verstehen?",
+        "why": "After *haben* the Perfekt needs the Partizip II, not the infinitive: *verstanden*."
+      },
+      "examples": [
+        {"de": "Habt ihr die Aufgabe verstanden?", "en": "Did you (pl.) understand the task?"},
+        {"de": "Hast du den Lehrer verstanden?", "en": "Did you understand the teacher?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Ich habe zwei Stunden Deutsch {{c1::gelernt::lernen}}.",
+      "en": "I studied German for two hours.",
+      "focus": "Perfekt · Dauer im Mittelfeld",
+      "explanation": "*lernen* is regular → **gelernt**. The duration *zwei Stunden* and the object *Deutsch* both stand between *habe* and the participle.",
+      "pattern": "habe + Dauer + Objekt + **ge**-Stamm-**t**",
+      "mistake": {
+        "wrong": "Ich habe Deutsch gelernt zwei Stunden.",
+        "why": "In a main clause the participle is the last element. The duration goes before it."
+      },
+      "examples": [
+        {"de": "Sie hat drei Stunden gekocht.", "en": "She cooked for three hours."},
+        {"de": "Wir haben eine Stunde Tennis gespielt.", "en": "We played tennis for an hour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Sie hat den Zug {{c1::genommen::nehmen}}.",
+      "en": "She took the train.",
+      "focus": "Partizip II · starkes Verb, Schreibung",
+      "explanation": "*nehmen* has an irregular participle: **genommen** – the vowel changes *e → o*, the *h* disappears and the *m* is doubled.",
+      "pattern": "hat + Objekt + **ge**-Stamm (e → o)-**en**",
+      "mistake": {
+        "wrong": "Sie hat den Zug genehmen.",
+        "why": "The *-en* ending is right, but the stem changes: *nehmen → genommen*."
+      },
+      "examples": [
+        {"de": "Er hat den Aufzug genommen.", "en": "He took the lift."},
+        {"de": "Ich habe das Fahrrad genommen.", "en": "I took the bike."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Gestern habe ich keine Zeit {{c1::gehabt::haben}}.",
+      "en": "I didn't have any time yesterday.",
+      "focus": "Partizip II · Vollverb haben",
+      "explanation": "*haben* as a full verb also forms its Perfekt with *haben*. It is regular: ge + hab + t → **gehabt**. Because *Gestern* is in position 1, the subject *ich* follows the auxiliary (inversion).",
+      "pattern": "Zeit + habe + Subjekt + … + **ge**hab**t**",
+      "mistake": {
+        "wrong": "Gestern habe ich keine Zeit gehaben.",
+        "why": "*haben* is regular in the participle: *gehabt*, not *gehaben*."
+      },
+      "examples": [
+        {"de": "Wir haben viel Glück gehabt.", "en": "We were very lucky."},
+        {"de": "Sie hat Kopfschmerzen gehabt.", "en": "She had a headache."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich habe dir Blumen {{c1::mitgebracht::mitbringen}}.",
+      "en": "I've brought you some flowers.",
+      "focus": "Partizip II · gemischtes Verb, trennbar",
+      "explanation": "*bringen* is a mixed verb: the stem changes (*brach-*) but the ending is *-t*, like a regular verb → *gebracht*. *mitbringen* is separable, so *ge-* goes after *mit*: **mitgebracht**.",
+      "pattern": "habe + Dat. + Akk. + Präfix-**ge**-brach-**t**",
+      "mistake": {
+        "wrong": "Ich habe dir Blumen mitgebringt.",
+        "why": "*bringen* changes its stem in the participle: *gebracht*. A regular form *gebringt* does not exist."
+      },
+      "examples": [
+        {"de": "Er hat Wein mitgebracht.", "en": "He brought wine."},
+        {"de": "Hast du die Kinder zur Schule gebracht?", "en": "Did you take the children to school?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Habt::haben}} ihr schon {{c2::gefrühstückt::frühstücken}}?",
+      "en": "Have you had breakfast yet?",
+      "focus": "Perfekt · Hilfsverb + Partizip II",
+      "explanation": "c1: the auxiliary agrees with the subject *ihr* → **Habt**; in a yes/no question it stands in position 1. c2: *frühstücken* is regular and not separable (the stress is on *früh*, but nothing splits off): ge + frühstück + t → **gefrühstückt**.",
+      "pattern": "Habt + ihr + schon + **ge**-Stamm-**t**?",
+      "mistake": {
+        "wrong": "Hat ihr schon gefrühstückt?",
+        "why": "*hat* is the *er/sie/es*-form. With *ihr* the auxiliary is *habt*."
+      },
+      "examples": [
+        {"de": "Habt ihr gut geschlafen?", "en": "Did you (pl.) sleep well?"},
+        {"de": "Hast du schon geduscht?", "en": "Have you had a shower yet?"}
+      ],
+      "words": [{"de": "frühstücken", "en": "to have breakfast"}],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wir haben unsere Freunde {{c1::eingeladen::einladen}}.",
+      "en": "We invited our friends.",
+      "focus": "Partizip II · trennbares starkes Verb",
+      "explanation": "*einladen* is separable, and *laden* is strong (*geladen*). So *ge-* goes between prefix and stem, with the *-en* ending: ein + ge + lad + en → **eingeladen**.",
+      "pattern": "haben + Objekt + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Wir haben unsere Freunde eingeladet.",
+        "why": "*laden* is a strong verb, so the participle ends in *-en*: *eingeladen*."
+      },
+      "examples": [
+        {"de": "Sie hat ihre Kollegen eingeladen.", "en": "She invited her colleagues."},
+        {"de": "Er hat seinen Bruder mitgenommen.", "en": "He took his brother with him."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Am Sonntag haben wir Oma {{c1::besucht::besuchen}}.",
+      "en": "On Sunday we visited Grandma.",
+      "focus": "Partizip II · untrennbares Präfix be-",
+      "explanation": "*besuchen* has the inseparable prefix *be-* → no *ge-*. *suchen* is regular → **besucht**. The time phrase in position 1 moves the subject *wir* after *haben*.",
+      "pattern": "Zeit + haben + Subjekt + Objekt + be-Stamm-**t**",
+      "mistake": {
+        "wrong": "Am Sonntag haben wir Oma gebesucht.",
+        "why": "An inseparable prefix blocks *ge-*: *besucht* (compare *suchen → gesucht*)."
+      },
+      "examples": [
+        {"de": "Gestern habe ich meinen Onkel besucht.", "en": "Yesterday I visited my uncle."},
+        {"de": "Letzte Woche hat sie ein Auto bestellt.", "en": "Last week she ordered a car."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Hast du das {{c1::gewusst::wissen}}?",
+      "en": "Did you know that?",
+      "focus": "Partizip II · gemischtes Verb",
+      "explanation": "*wissen* is a mixed verb: the stem changes *i → u*, but the ending is *-t*: ge + wuss + t → **gewusst**. In everyday speech *wissen* is often used in the Präteritum (*wusstest du?*), but the Perfekt is also common.",
+      "pattern": "Hast du + Objekt + **ge**wuss**t**?",
+      "mistake": {
+        "wrong": "Hast du das gewisst?",
+        "why": "The stem of *wissen* changes in the participle: *gewusst*."
+      },
+      "examples": [
+        {"de": "Ich habe die Antwort nicht gewusst.", "en": "I didn't know the answer."},
+        {"de": "Ich habe ihn gut gekannt.", "en": "I knew him well."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich habe gestern Abend {{c1::ferngesehen::fernsehen}}.",
+      "en": "I watched TV last night.",
+      "focus": "Partizip II · trennbares starkes Verb",
+      "explanation": "*fernsehen* is separable (*fern* + *sehen*), and *sehen* is strong → *gesehen*. Put *ge-* after the prefix: fern + ge + seh + en → **ferngesehen**.",
+      "pattern": "habe + Zeit + Präfix-**ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Ich habe gestern Abend gefernsehen.",
+        "why": "*ge-* cannot stand before the separable prefix. It goes between *fern* and *sehen*: *ferngesehen*."
+      },
+      "examples": [
+        {"de": "Wir haben lange ferngesehen.", "en": "We watched TV for a long time."},
+        {"de": "Sie hat mir ein Buch vorgelesen.", "en": "She read a book to me."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Das Baby hat die ganze Nacht {{c1::geschlafen::schlafen}}.",
+      "en": "The baby slept all night.",
+      "focus": "Perfekt · Verb ohne Objekt, Zustand",
+      "explanation": "*schlafen* has no object, but it describes a state, not a movement or change, so it takes **haben**. It is strong: ge + schlaf + en → **geschlafen** (no umlaut, unlike *er schläft*).",
+      "pattern": "hat + Zeit + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Das Baby ist die ganze Nacht geschlafen.",
+        "why": "*sein* is only for movement or a change of state. Sleeping is a state, so the auxiliary is *haben*."
+      },
+      "examples": [
+        {"de": "Ich habe zehn Stunden geschlafen.", "en": "I slept for ten hours."},
+        {"de": "Wir haben im Zelt geschlafen.", "en": "We slept in a tent."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich habe oft an dich {{c1::gedacht::denken}}.",
+      "en": "I often thought about you.",
+      "focus": "Partizip II · gemischtes Verb",
+      "explanation": "*denken* is a mixed verb: the stem changes to *dach-* and the ending is *-t*: ge + dach + t → **gedacht**. *denken an* + Akkusativ: *an dich*.",
+      "pattern": "habe + … + **ge**dach**t**",
+      "mistake": {
+        "wrong": "Ich habe oft an dich gedenkt.",
+        "why": "*denken* is not regular. Its participle has the stem *dach-*: *gedacht*."
+      },
+      "examples": [
+        {"de": "Wir haben an deinen Geburtstag gedacht.", "en": "We remembered your birthday."},
+        {"de": "Hast du an die Milch gedacht?", "en": "Did you remember the milk?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er hat den Schlüssel nicht {{c1::gefunden::finden}}.",
+      "en": "He didn't find the key.",
+      "focus": "Perfekt · Verneinung mit nicht",
+      "explanation": "*finden* is strong and changes *i → u*: *finden – fand – gefunden*. *nicht* negates the whole sentence, so it stands directly before the participle **gefunden**.",
+      "pattern": "hat + Objekt + nicht + **ge**-Stamm-**en**",
+      "mistake": {
+        "wrong": "Er hat den Schlüssel nicht gefindet.",
+        "why": "*finden* is irregular. The participle has *u* and the ending *-en*: *gefunden*."
+      },
+      "examples": [
+        {"de": "Ich habe das Hotel nicht gefunden.", "en": "I didn't find the hotel."},
+        {"de": "Sie hat das Lied nicht gesungen.", "en": "She didn't sing the song."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Wer hat das Glas {{c1::zerbrochen::zerbrechen}}?",
+      "en": "Who broke the glass?",
+      "focus": "Partizip II · untrennbares Präfix zer-",
+      "explanation": "*zer-* is an inseparable prefix → no *ge-*. *brechen* is strong (*gebrochen*), so the participle is zer + broch + en → **zerbrochen**. With an Akkusativ object it takes *haben*.",
+      "pattern": "Wer + hat + Objekt + zer-Stamm-**en**?",
+      "mistake": {
+        "wrong": "Wer hat das Glas gezerbrochen?",
+        "why": "The prefix *zer-* blocks *ge-*: *zerbrochen*."
+      },
+      "examples": [
+        {"de": "Wer hat die Vase zerbrochen?", "en": "Who broke the vase?"},
+        {"de": "Wer hat das Spiel gewonnen?", "en": "Who won the game?"}
+      ],
+      "words": [{"de": "zerbrechen", "en": "to break (into pieces)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Was {{c1::hat::haben}} der Arzt {{c2::gesagt::sagen}}?",
+      "en": "What did the doctor say?",
+      "focus": "Perfekt · Hilfsverb + Partizip II in der W-Frage",
+      "explanation": "c1: the subject *der Arzt* is 3rd person singular → **hat** in position 2. c2: *sagen* is regular → **gesagt** at the end of the question.",
+      "pattern": "W-Wort + hat + Subjekt + **ge**-Stamm-**t**?",
+      "mistake": {
+        "wrong": "Was haben der Arzt gesagt?",
+        "why": "The auxiliary agrees with the subject. *der Arzt* is singular → *hat*."
+      },
+      "examples": [
+        {"de": "Was hat die Lehrerin gefragt?", "en": "What did the teacher ask?"},
+        {"de": "Wann hat der Film angefangen?", "en": "When did the film start?"}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the structure of the Perfekt.",
+      "prompt": "What are the two parts of the Perfekt, and where do they stand in a main clause?",
+      "answer": "The conjugated auxiliary (**haben** or *sein*) in **position 2**, and the **Partizip II** at the **end** of the clause. Together they form the Satzklammer.",
+      "explanation": "Objects, time phrases and *nicht* stand between the two parts. In a yes/no question the auxiliary moves to position 1, but the participle stays at the end.",
+      "examples": [
+        {"de": "Ich habe am Abend ein Buch gelesen.", "en": "I read a book in the evening."},
+        {"de": "Hast du am Abend ein Buch gelesen?", "en": "Did you read a book in the evening?"}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the ending of the participle.",
+      "prompt": "How do you know if a Partizip II ends in -t or in -en?",
+      "answer": "**Regular** verbs: *ge-* + stem + **-t** (*gekauft*). **Irregular** (strong) verbs: *ge-* + stem + **-en**, often with a new vowel (*getrunken*). **Mixed** verbs change the stem but end in **-t** (*gebracht, gedacht, gewusst, gekannt*).",
+      "explanation": "There is no safe rule to see from the infinitive if a verb is strong. Learn the participle with each new verb: *trinken – getrunken, schreiben – geschrieben*.",
+      "examples": [
+        {"de": "Ich habe eine Jacke gekauft.", "en": "I bought a jacket."},
+        {"de": "Sie hat ein Lied gesungen.", "en": "She sang a song."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the prefix *ge-*.",
+      "prompt": "Which verbs form the Partizip II without *ge-*?",
+      "answer": "Verbs with an **inseparable prefix** (*be-, ge-, er-, ver-, zer-, ent-, emp-, miss-*) and verbs ending in **-ieren**: *bezahlt, verstanden, erklärt, studiert*.",
+      "explanation": "Some of these participles look like the infinitive: *vergessen → vergessen, bekommen → bekommen*. Only the auxiliary shows that it is a Perfekt: *Ich habe es vergessen.*",
+      "examples": [
+        {"de": "Ich habe deine Nummer vergessen.", "en": "I've forgotten your number."},
+        {"de": "Er hat ein Paket bekommen.", "en": "He got a parcel."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about separable verbs.",
+      "prompt": "Where does *ge-* go in the participle of a separable verb like *einkaufen* or *anrufen*?",
+      "answer": "Between the prefix and the stem, written as one word: ein**ge**kauft, an**ge**rufen, fern**ge**sehen.",
+      "explanation": "The prefix stays in front, *ge-* comes after it, and the rest follows the normal rule: regular → *-t* (*eingekauft*), strong → *-en* (*angerufen*).",
+      "examples": [
+        {"de": "Wir haben im Supermarkt eingekauft.", "en": "We did our shopping at the supermarket."},
+        {"de": "Hast du deine Mutter angerufen?", "en": "Did you call your mother?"}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the choice of auxiliary.",
+      "prompt": "Which verbs form the Perfekt with *haben*?",
+      "answer": "Most verbs: all verbs with an **Akkusativ object** (*kaufen, lesen*), all **reflexive** verbs (*sich freuen*), and verbs without an object that express no movement or change of state (*arbeiten, schlafen, wohnen, warten*).",
+      "explanation": "*sein* is used for movement from A to B (*gehen, fahren*), for a change of state (*aufwachen, sterben*) and for *sein, bleiben, werden*. If in doubt: an Akkusativ object means *haben*.",
+      "examples": [
+        {"de": "Er hat drei Jahre in Wien gearbeitet.", "en": "He worked in Vienna for three years."},
+        {"de": "Er ist nach Wien gefahren.", "en": "He went to Vienna."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Ich habe am Samstag die Wohnung ___.",
+      "options": ["geputzt", "putzt", "geputzen"],
+      "correct": "geputzt",
+      "answer": "Ich habe am Samstag die Wohnung geputzt.",
+      "explanation": "*putzen* is regular: *ge-* + stem + *-t* → *geputzt*. *putzt* is a present-tense form without *ge-*, and *-en* is only for strong verbs."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Sie hat ihre Hausaufgaben ___.",
+      "options": ["gevergessen", "vergessen", "vergesst"],
+      "correct": "vergessen",
+      "answer": "Sie hat ihre Hausaufgaben vergessen.",
+      "explanation": "*ver-* is inseparable, so there is no *ge-*: *gevergessen* is wrong. *vergessen* is strong, so the participle ends in *-en* and looks like the infinitive. *vergesst* is a present-tense form."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Wir haben das Essen im Restaurant ___.",
+      "options": ["gebestellt", "bestellt", "bestellen", "bestallen"],
+      "correct": "bestellt",
+      "answer": "Wir haben das Essen im Restaurant bestellt.",
+      "explanation": "*bestellen* has the inseparable prefix *be-* → no *ge-*, and it is regular → *-t*: *bestellt*. *bestellen* is the infinitive, and *bestallen* does not exist."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe gestern lange geschlaft.",
+      "answer": "Ich habe gestern lange geschlafen.",
+      "explanation": "*schlafen* is a strong verb, so its participle ends in *-en*: *geschlafen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie hat in Hamburg gestudiert.",
+      "answer": "Sie hat in Hamburg studiert.",
+      "explanation": "Verbs ending in *-ieren* never take *ge-*. The participle of *studieren* is *studiert*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Hast du den Kuchen gebackt?",
+      "answer": "Hast du den Kuchen gebacken?",
+      "explanation": "*backen* has a strong participle: *gebacken*. The regular form *gebackt* is wrong."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Ich koche heute Suppe.",
+      "answer": "Ich habe heute Suppe gekocht.",
+      "explanation": "*kochen* has an Akkusativ object → *haben*. *habe* takes position 2, and the regular participle *gekocht* goes to the end."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Sie lädt ihre Nachbarn ein.",
+      "answer": "Sie hat ihre Nachbarn eingeladen.",
+      "explanation": "*einladen* is separable and strong: *ein-ge-laden*. In the Präsens the prefix *ein* stands at the end; in the Perfekt the whole participle stands there. The vowel change *lädt* exists only in the present tense."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the question in the Perfekt.",
+      "prompt": "Bezahlst du das Essen?",
+      "answer": "Hast du das Essen bezahlt?",
+      "explanation": "In the yes/no question the auxiliary *hast* goes to position 1. *bezahlen* has the prefix *be-* → no *ge-*: *bezahlt* at the end."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Gestern",
+      "prompt": "gekauft / ich / gestern / ein Fahrrad / habe",
+      "answer": "Gestern habe ich ein Fahrrad gekauft.",
+      "explanation": "*Gestern* is in position 1, so *habe* is in position 2 and the subject *ich* follows it. The participle *gekauft* closes the sentence. Without the fixed start: *Ich habe gestern ein Fahrrad gekauft.*"
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "du / hast / was / gegessen / heute",
+      "answer": "Was hast du heute gegessen?",
+      "explanation": "The question word *was* is in position 1 and the auxiliary *hast* in position 2. The time *heute* stands in the middle, and the participle *gegessen* is last."
+    }
+  ]
+}

@@ -1,0 +1,1528 @@
+{
+  "topic_id": "a1-09-plural",
+  "level": "A1",
+  "title_de": "Plural der Nomen",
+  "title_en": "Plural of nouns",
+  "rule": {
+    "summary": "German has several plural types: **-e**, **-(e)n**, **-er**, **-s** and **no ending**, often together with an umlaut (*a → ä, o → ö, u → ü, au → äu*). The plural cannot be fully predicted, so learn it with the noun (*der Tisch, -e*; *das Buch, ¨-er*). Gender gives useful tendencies. In the plural the article is always **die** (Nominativ and Akkusativ), the verb is plural, and in the Dativ the noun adds **-n** (*mit den Kindern*).",
+    "table": "| Typ | Endung | Typisch für | Beispiele |\n|---|---|---|---|\n| 1 | **-e** (oft mit Umlaut) | viele maskuline Nomen; einige neutrale; wenige einsilbige feminine | der Tag → die Tag**e**, der Stuhl → die St**ü**hl**e**, die Stadt → die St**ä**dt**e** |\n| 2 | **-(e)n** | fast alle femininen Nomen; maskuline n-Deklination | die Frau → die Frau**en**, die Lampe → die Lampe**n**, der Kollege → die Kollege**n** |\n| 3 | **-nen** | feminine Nomen auf *-in* | die Lehrerin → die Lehrerin**nen** |\n| 4 | **-er** (mit Umlaut, wenn möglich) | viele einsilbige neutrale; wenige maskuline | das Kind → die Kind**er**, das Buch → die B**ü**ch**er**, der Mann → die M**ä**nn**er** |\n| 5 | **–** (oft mit Umlaut) | maskuline und neutrale auf *-er, -el, -en*; *-chen, -lein* | der Lehrer → die Lehrer, der Apfel → die **Ä**pfel, das Mädchen → die Mädchen |\n| 6 | **-s** | Wörter auf Vokal (nicht *-e*), viele Lehnwörter | das Auto → die Auto**s**, das Hotel → die Hotel**s**, das Handy → die Handy**s** |",
+    "steps": [
+      "Learn every noun with article and plural: *der Tisch, -e*; *die Lampe, -n*; *das Buch, ¨-er*; *der Lehrer, -*.",
+      "If you do not know the plural, use the tendencies: feminine → **-(e)n** (*-in* → **-innen**); masculine → **-e**, often with umlaut; short neuter nouns → **-er** with umlaut; masculine/neuter in *-er, -el, -en* and all *-chen/-lein* → **no ending**; words ending in a vowel other than *-e* and many loans → **-s**.",
+      "Umlaut appears only with the types *-e*, *-er* and no ending. The *-(e)n* and *-s* plurals never add an umlaut.",
+      "Special endings: Latin *-um* and many Latin/Greek loans in *-a* → **-en** (*das Museum → die Museen, das Thema → die Themen*; but everyday words like *die Oma* take *-s*: *Omas*); *-nis* → **-nisse** (*das Ergebnis → die Ergebnisse*).",
+      "Use the plural article **die**, a plural verb (*Die Kinder spielen*), and after numbers above one and words like *viele, alle, beide* the plural form of the noun.",
+      "Dativ plural: article *den* + noun with **-n** (*den Kindern, den Männern*), unless the plural already ends in *-n* or *-s* (*den Frauen, den Autos*)."
+    ],
+    "pitfalls": [
+      "Forgetting the umlaut: ✗ *zwei Apfel, zwei Stuhle* → ✓ *zwei Äpfel, zwei Stühle*.",
+      "Using an English *-s*: ✗ *die Tischs, die Bananas* → ✓ *die Tische, die Bananen*.",
+      "*-in* with only one *n*: ✗ *die Lehrerinen* → ✓ *die Lehrerinnen*.",
+      "Missing Dativ *-n*: ✗ *mit den Kinder* → ✓ *mit den Kindern*; but no extra *-n* in Nominativ/Akkusativ: ✗ *drei Kindern* (as object) → ✓ *drei Kinder*.",
+      "A singular verb with a plural noun: ✗ *Die Kinder spielt.* → ✓ *Die Kinder spielen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ein Mann, zwei {{c1::Männer::Plural}}.",
+      "en": "One man, two men.",
+      "focus": "Plural · Maskulinum, einsilbig",
+      "explanation": "*der Mann* belongs to a small group of masculine nouns with the plural ending *-er*. With *-er* a back vowel takes an umlaut: a → ä → **Männer**. Most masculine nouns take *-e* instead (*Tage*), so learn *der Mann, ¨-er* as a unit.",
+      "pattern": "der Mann → die M**ä**nn**er** (Umlaut + -er)",
+      "mistake": {
+        "wrong": "Ein Mann, zwei Manner.",
+        "why": "The *-er* plural changes *a* to *ä* where possible. Without the umlaut the word is wrong: *Männer*."
+      },
+      "examples": [
+        {
+          "de": "Ein Wald, viele Wälder.",
+          "en": "One forest, many forests."
+        },
+        {
+          "de": "Ein Gott, viele Götter.",
+          "en": "One god, many gods."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Eine Frau, zwei {{c1::Frauen::Plural}}.",
+      "en": "One woman, two women.",
+      "focus": "Plural · Femininum",
+      "explanation": "Almost all feminine nouns form the plural with *-(e)n*. *Frau* does not end in *-e*, so it takes the full ending **-en**: Frau + en → **Frauen**. Plurals in *-(e)n* never take an umlaut.",
+      "pattern": "die Frau → die Frau**en** (-en)",
+      "mistake": {
+        "wrong": "Eine Frau, zwei Fraus.",
+        "why": "*-s* is for loanwords and words ending in a vowel like *Auto*. A native feminine noun takes *-en*: *Frauen*."
+      },
+      "examples": [
+        {
+          "de": "Eine Zeitung, zwei Zeitungen.",
+          "en": "One newspaper, two newspapers."
+        },
+        {
+          "de": "Eine Uhr, zwei Uhren.",
+          "en": "One clock, two clocks."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ein Kind, zwei {{c1::Kinder::Plural}}.",
+      "en": "One child, two children.",
+      "focus": "Plural · Neutrum, einsilbig",
+      "explanation": "Many short neuter nouns take **-er** in the plural: Kind + er → **Kinder**. The vowel *i* cannot take an umlaut, so only the ending changes.",
+      "pattern": "das Kind → die Kind**er** (-er)",
+      "mistake": {
+        "wrong": "Ein Kind, zwei Kinds.",
+        "why": "German does not use the English *-s* here. *das Kind* is a short neuter noun with the plural *-er*: *Kinder*."
+      },
+      "examples": [
+        {
+          "de": "Ein Bild, zwei Bilder.",
+          "en": "One picture, two pictures."
+        },
+        {
+          "de": "Ein Ei, zwei Eier.",
+          "en": "One egg, two eggs."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ein Hund, zwei {{c1::Hunde::Plural}}.",
+      "en": "One dog, two dogs.",
+      "focus": "Plural · Maskulinum, einsilbig",
+      "explanation": "Most masculine nouns take **-e** in the plural: Hund + e → **Hunde**. Many of them also take an umlaut (*Stuhl → Stühle*), but not all: *Hund → Hunde*, *Tag → Tage*. The umlaut must be learned with the word.",
+      "pattern": "der Hund → die Hund**e** (-e, ohne Umlaut)",
+      "mistake": {
+        "wrong": "Ein Hund, zwei Hünde.",
+        "why": "*Hund* is one of the masculine nouns with *-e* but without an umlaut: *Hunde*."
+      },
+      "examples": [
+        {
+          "de": "Ein Brief, zwei Briefe.",
+          "en": "One letter, two letters."
+        },
+        {
+          "de": "Ein Schuh, zwei Schuhe.",
+          "en": "One shoe, two shoes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ein Auto, zwei {{c1::Autos::Plural}}.",
+      "en": "One car, two cars.",
+      "focus": "Plural · Nomen auf Vokal",
+      "explanation": "Nouns that end in a vowel other than *-e* usually take **-s**: Auto + s → **Autos**, also *Kinos, Fotos, Omas*. The *-s* plural never has an umlaut.",
+      "pattern": "das Auto → die Auto**s** (-s)",
+      "mistake": {
+        "wrong": "Ein Auto, zwei Auto.",
+        "why": "After *zwei* the noun needs a plural form. *Auto* ends in *-o*, so the plural is *Autos*."
+      },
+      "examples": [
+        {
+          "de": "Ein Kino, zwei Kinos.",
+          "en": "One cinema, two cinemas."
+        },
+        {
+          "de": "Ein Foto, viele Fotos.",
+          "en": "One photo, many photos."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ein Buch, zwei {{c1::Bücher::Plural}}.",
+      "en": "One book, two books.",
+      "focus": "Plural · Neutrum, einsilbig",
+      "explanation": "*das Buch* is a short neuter noun with the plural **-er**. With *-er* the vowel takes an umlaut wherever possible: u → ü → **Bücher**.",
+      "pattern": "das Buch → die B**ü**ch**er** (Umlaut + -er)",
+      "mistake": {
+        "wrong": "Ein Buch, zwei Bucher.",
+        "why": "The *-er* plural always comes with an umlaut on *a, o, u, au*. So *u* becomes *ü*: *Bücher*."
+      },
+      "examples": [
+        {
+          "de": "Ein Dach, zwei Dächer.",
+          "en": "One roof, two roofs."
+        },
+        {
+          "de": "Ein Dorf, zwei Dörfer.",
+          "en": "One village, two villages."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ein Apfel, zwei {{c1::Äpfel::Plural}}.",
+      "en": "One apple, two apples.",
+      "focus": "Plural · Maskulinum auf *-el*",
+      "explanation": "Masculine nouns ending in *-el* get no plural ending. Here the plural is shown only by the umlaut: A → Ä → **Äpfel**. The article *die* and the plural verb also show the number.",
+      "pattern": "der Apfel → die **Ä**pfel (nur Umlaut)",
+      "mistake": {
+        "wrong": "Ein Apfel, zwei Apfeln.",
+        "why": "Masculine *-el* nouns take no ending. The *-n* plural belongs to feminine *-el* nouns (*die Kartoffel → die Kartoffeln*). Correct: *Äpfel*."
+      },
+      "examples": [
+        {
+          "de": "Ein Mantel, zwei Mäntel.",
+          "en": "One coat, two coats."
+        },
+        {
+          "de": "Ein Garten, zwei Gärten.",
+          "en": "One garden, two gardens."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Eine Stadt, zwei {{c1::Städte::Plural}}.",
+      "en": "One city, two cities.",
+      "focus": "Plural · Femininum, einsilbig (Ausnahme)",
+      "explanation": "Most feminine nouns take *-(e)n*, but a small group of one-syllable feminine nouns take umlaut + **-e**: *Stadt → **Städte***, also *Hand → Hände, Nacht → Nächte, Wand → Wände*. Note the spelling: *dt* stays.",
+      "pattern": "die Stadt → die St**ä**dt**e** (Umlaut + -e)",
+      "mistake": {
+        "wrong": "Eine Stadt, zwei Stadten.",
+        "why": "*Stadt* does not follow the normal feminine *-en* pattern. It belongs to the small group with umlaut + *-e*: *Städte*."
+      },
+      "examples": [
+        {
+          "de": "Eine Hand, zwei Hände.",
+          "en": "One hand, two hands."
+        },
+        {
+          "de": "Eine Nacht, drei Nächte.",
+          "en": "One night, three nights."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ein Haus, zwei {{c1::Häuser::Plural}}.",
+      "en": "One house, two houses.",
+      "focus": "Plural · Neutrum mit *au*",
+      "explanation": "*das Haus* takes the neuter plural **-er** with umlaut. The diphthong *au* becomes *äu*: Haus → **Häuser**. The pronunciation changes too: *äu* sounds like *eu*.",
+      "pattern": "das Haus → die H**äu**s**er** (au → äu + -er)",
+      "mistake": {
+        "wrong": "Ein Haus, zwei Hauser.",
+        "why": "With the *-er* plural *au* changes to *äu*. Without the umlaut the form is wrong: *Häuser*."
+      },
+      "examples": [
+        {
+          "de": "Ein Blatt, zwei Blätter.",
+          "en": "One leaf, two leaves."
+        },
+        {
+          "de": "Ein Fahrrad, zwei Fahrräder.",
+          "en": "One bicycle, two bicycles."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ein Lehrer, zwei {{c1::Lehrer::Plural}}.",
+      "en": "One teacher, two teachers.",
+      "focus": "Plural · Maskulinum auf *-er*",
+      "explanation": "Masculine and neuter nouns ending in *-er* take no plural ending: **Lehrer** stays the same. Only the article (*der → die*) and the verb show the plural: *Die Lehrer sind nett.*",
+      "pattern": "der Lehrer → die Lehrer (keine Endung)",
+      "mistake": {
+        "wrong": "Ein Lehrer, zwei Lehrers.",
+        "why": "Masculine nouns in *-er* add nothing in the plural. The English-style *-s* is wrong: *zwei Lehrer*."
+      },
+      "examples": [
+        {
+          "de": "Ein Computer, zwei Computer.",
+          "en": "One computer, two computers."
+        },
+        {
+          "de": "Ein Koffer, zwei Koffer.",
+          "en": "One suitcase, two suitcases."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Eine Lehrerin, zwei {{c1::Lehrerinnen::Plural}}.",
+      "en": "One female teacher, two female teachers.",
+      "focus": "Plural · Femininum auf *-in*",
+      "explanation": "Feminine nouns in *-in* take the plural ending *-nen*, so the *n* is doubled: Lehrerin + nen → **Lehrerinnen**. The stress stays on the stem (*LEH-re-rin-nen*).",
+      "pattern": "die Lehrerin → die Lehrerin**nen** (-nen)",
+      "mistake": {
+        "wrong": "Eine Lehrerin, zwei Lehrerinen.",
+        "why": "The *n* of *-in* is doubled in the plural: *-innen*. One *n* is a spelling and grammar mistake."
+      },
+      "examples": [
+        {
+          "de": "Eine Ärztin, zwei Ärztinnen.",
+          "en": "One female doctor, two female doctors."
+        },
+        {
+          "de": "Eine Kollegin, drei Kolleginnen.",
+          "en": "One female colleague, three female colleagues."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ein Tag, sieben {{c1::Tage::Plural}}.",
+      "en": "One day, seven days.",
+      "focus": "Plural · Maskulinum, einsilbig",
+      "explanation": "*der Tag* takes the typical masculine plural **-e**: Tag + e → **Tage**. It has no umlaut, although the vowel is *a* (compare *Stadt → Städte*). Time words often follow this pattern: *Monate, Abende*.",
+      "pattern": "der Tag → die Tag**e** (-e, ohne Umlaut)",
+      "mistake": {
+        "wrong": "Ein Tag, sieben Täge.",
+        "why": "*Tag* has no umlaut in the plural. The form *Täge* does not exist: *sieben Tage*."
+      },
+      "examples": [
+        {
+          "de": "Ein Monat, zwölf Monate.",
+          "en": "One month, twelve months."
+        },
+        {
+          "de": "Ein Abend, zwei Abende.",
+          "en": "One evening, two evenings."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Eine Banane, drei {{c1::Bananen::Plural}}.",
+      "en": "One banana, three bananas.",
+      "focus": "Plural · Femininum auf *-e*",
+      "explanation": "Feminine nouns that already end in *-e* add only **-n**: Banane + n → **Bananen**. This is the most regular plural in German.",
+      "pattern": "die Banane → die Banane**n** (-n)",
+      "mistake": {
+        "wrong": "Eine Banane, drei Bananas.",
+        "why": "*Bananas* is the English form. In German the feminine noun in *-e* adds *-n*: *Bananen*."
+      },
+      "examples": [
+        {
+          "de": "Eine Tomate, drei Tomaten.",
+          "en": "One tomato, three tomatoes."
+        },
+        {
+          "de": "Eine Birne, vier Birnen.",
+          "en": "One pear, four pears."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Eine Schule, viele {{c1::Schulen::Plural}}.",
+      "en": "One school, many schools.",
+      "focus": "Plural · nach *viele*",
+      "explanation": "*viele* (many) is always followed by a plural noun. *Schule* is feminine and ends in *-e*, so it adds **-n**: **Schulen**.",
+      "pattern": "viele + Plural: die Schule → die Schule**n**",
+      "mistake": {
+        "wrong": "Eine Schule, viele Schules.",
+        "why": "*-s* is not used for native feminine nouns in *-e*. The plural is *Schulen*."
+      },
+      "examples": [
+        {
+          "de": "Eine Straße, viele Straßen.",
+          "en": "One street, many streets."
+        },
+        {
+          "de": "Eine Kirche, viele Kirchen.",
+          "en": "One church, many churches."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ein Stuhl, fünf {{c1::Stühle::Plural}}.",
+      "en": "One chair, five chairs.",
+      "focus": "Plural · Maskulinum, einsilbig",
+      "explanation": "*der Stuhl* takes the masculine plural *-e* together with an umlaut: u → ü → **Stühle**. Many one-syllable masculine nouns work like this: *Zug → Züge, Platz → Plätze*.",
+      "pattern": "der Stuhl → die St**ü**hl**e** (Umlaut + -e)",
+      "mistake": {
+        "wrong": "Ein Stuhl, fünf Stuhle.",
+        "why": "*Stuhl* takes an umlaut in the plural: *Stühle*. Without it the form is wrong."
+      },
+      "examples": [
+        {
+          "de": "Ein Platz, zwei Plätze.",
+          "en": "One square, two squares."
+        },
+        {
+          "de": "Ein Baum, viele Bäume.",
+          "en": "One tree, many trees."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Eine Lampe, zwei {{c1::Lampen::Plural}}.",
+      "en": "One lamp, two lamps.",
+      "focus": "Plural · nach einer Zahl",
+      "explanation": "After a number above one the noun must be in the plural. *Lampe* is feminine in *-e* → **Lampen**. The *-n* plural has no umlaut, so the vowel *a* stays.",
+      "pattern": "zwei + Plural: die Lampe → die Lampe**n**",
+      "mistake": {
+        "wrong": "Eine Lampe, zwei Lampe.",
+        "why": "After *zwei* the singular form is not possible. The noun needs its plural ending: *Lampen*."
+      },
+      "examples": [
+        {
+          "de": "Eine Tasse, zwei Tassen.",
+          "en": "One cup, two cups."
+        },
+        {
+          "de": "Eine Jacke, zwei Jacken.",
+          "en": "One jacket, two jackets."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ein Fenster, vier {{c1::Fenster::Plural}}.",
+      "en": "One window, four windows.",
+      "focus": "Plural · Neutrum auf *-er*",
+      "explanation": "Neuter nouns ending in *-er* take no plural ending and no umlaut: **Fenster** stays the same. In a sentence, the article *die* and the plural verb show the number: *Die Fenster sind offen.*",
+      "pattern": "das Fenster → die Fenster (keine Endung)",
+      "mistake": {
+        "wrong": "Ein Fenster, vier Fensters.",
+        "why": "Neuter nouns in *-er* add nothing in the plural: *vier Fenster*."
+      },
+      "examples": [
+        {
+          "de": "Ein Theater, drei Theater.",
+          "en": "One theatre, three theatres."
+        },
+        {
+          "de": "Ein Kissen, vier Kissen.",
+          "en": "One cushion, four cushions."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ein Vogel, viele {{c1::Vögel::Plural}}.",
+      "en": "One bird, many birds.",
+      "focus": "Plural · Maskulinum auf *-el*",
+      "explanation": "*der Vogel* ends in *-el*, so it takes no ending; the plural is marked only by the umlaut o → ö → **Vögel**. Pronounce the *ö* clearly, because it is the only difference you can hear.",
+      "pattern": "der Vogel → die V**ö**gel (nur Umlaut)",
+      "mistake": {
+        "wrong": "Ein Vogel, viele Vogel.",
+        "why": "Without the umlaut, *Vogel* is singular. The plural needs *ö*: *Vögel*."
+      },
+      "examples": [
+        {
+          "de": "Ein Nagel, viele Nägel.",
+          "en": "One nail, many nails."
+        },
+        {
+          "de": "Ein Laden, viele Läden.",
+          "en": "One shop, many shops."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Eine Blume, viele {{c1::Blumen::Plural}}.",
+      "en": "One flower, many flowers.",
+      "focus": "Plural · Femininum auf *-e*",
+      "explanation": "*Blume* is feminine in *-e* and adds **-n**: **Blumen**. The *-(e)n* plural never adds an umlaut, so *u* stays *u*.",
+      "pattern": "die Blume → die Blume**n** (-n, kein Umlaut)",
+      "mistake": {
+        "wrong": "Eine Blume, viele Blümen.",
+        "why": "An umlaut only goes with the plural types *-e*, *-er* and no ending. With *-n* there is never an umlaut: *Blumen*."
+      },
+      "examples": [
+        {
+          "de": "Eine Rose, viele Rosen.",
+          "en": "One rose, many roses."
+        },
+        {
+          "de": "Eine Wolke, viele Wolken.",
+          "en": "One cloud, many clouds."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ein Hotel, drei {{c1::Hotels::Plural}}.",
+      "en": "One hotel, three hotels.",
+      "focus": "Plural · Lehnwort",
+      "explanation": "Many loanwords from French and English keep the **-s** plural: Hotel + s → **Hotels**, also *Restaurants, Cafés*. The *-s* plural adds no umlaut and no extra *-n* in the Dativ (*in den Hotels*).",
+      "pattern": "das Hotel → die Hotel**s** (-s)",
+      "mistake": {
+        "wrong": "Ein Hotel, drei Hotele.",
+        "why": "*Hotel* is a loanword and takes *-s*, not the native *-e*: *Hotels*."
+      },
+      "examples": [
+        {
+          "de": "Ein Restaurant, drei Restaurants.",
+          "en": "One restaurant, three restaurants."
+        },
+        {
+          "de": "Ein Café, drei Cafés.",
+          "en": "One café, three cafés."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Die {{c1::Tische::der Tisch}} sind aus Holz.",
+      "en": "The tables are made of wood.",
+      "focus": "Plural · Maskulinum · Subjekt",
+      "explanation": "*der Tisch* takes the common masculine plural **-e**, without umlaut (*i* cannot take one): **Tische**. The plural article *die* and the plural verb *sind* agree with it.",
+      "pattern": "die + Nomen-**e** + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Tischen sind aus Holz.",
+        "why": "*-en* is the typical feminine plural. *Tisch* is masculine and takes *-e*: *die Tische*."
+      },
+      "examples": [
+        {
+          "de": "Die Schuhe sind aus Leder.",
+          "en": "The shoes are made of leather."
+        },
+        {
+          "de": "Die Ringe sind aus Gold.",
+          "en": "The rings are made of gold."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Holz",
+          "en": "wood"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Zwei {{c1::Bücher::das Buch}} liegen auf dem Boden.",
+      "en": "Two books are lying on the floor.",
+      "focus": "Plural · nach Zahl · Subjekt",
+      "explanation": "After *zwei* the noun is plural: *das Buch* → umlaut + *-er* → **Bücher**. The subject is plural, so the verb is plural too: *liegen*, not *liegt*.",
+      "pattern": "Zahl + Nomen (Pl.) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Zwei Buch liegen auf dem Boden.",
+        "why": "German, like English, needs the plural noun after a number above one: *zwei Bücher*."
+      },
+      "examples": [
+        {
+          "de": "Zwei Gläser stehen auf dem Tisch.",
+          "en": "Two glasses are on the table."
+        },
+        {
+          "de": "Drei Bilder hängen an der Wand.",
+          "en": "Three pictures are hanging on the wall."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Boden (¨)",
+          "en": "floor"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Die {{c1::Frauen::die Frau}} arbeiten im Labor.",
+      "en": "The women work in the lab.",
+      "focus": "Plural · Femininum · Verb im Plural",
+      "explanation": "Feminine nouns usually take *-(e)n*: *die Frau → die **Frauen***. Because feminine singular and all plurals share the article *die*, the noun ending and the verb *arbeiten* are what show the plural here.",
+      "pattern": "die + Nomen-**en** + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Frau arbeiten im Labor.",
+        "why": "*die Frau* is singular and does not fit the plural verb *arbeiten*. With several women the noun is *Frauen*."
+      },
+      "examples": [
+        {
+          "de": "Die Uhren gehen falsch.",
+          "en": "The clocks are wrong."
+        },
+        {
+          "de": "Die Zeitungen kommen morgens.",
+          "en": "The newspapers come in the morning."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Labor (-e)",
+          "en": "laboratory, lab"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Alle {{c1::Zimmer::das Zimmer}} haben ein Bad.",
+      "en": "All the rooms have a bathroom.",
+      "focus": "Plural · Neutrum auf *-er* · nach *alle*",
+      "explanation": "Masculine and neuter nouns in *-er, -el, -en* usually take no plural ending: *das Zimmer → die **Zimmer***. *alle* shows the plural. Careful: feminine nouns in *-er, -el* do take *-n* (*die Schwester → die Schwestern*).",
+      "pattern": "alle + Nomen (Pl., keine Endung) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Alle Zimmern haben ein Bad.",
+        "why": "The *-n* is added only in the Dativ plural (*in allen Zimmern*). As the subject the plural is just *Zimmer*."
+      },
+      "examples": [
+        {
+          "de": "Alle Lehrer sind heute da.",
+          "en": "All the teachers are here today."
+        },
+        {
+          "de": "Alle Theater sind geschlossen.",
+          "en": "All the theatres are closed."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Bad (¨-er)",
+          "en": "bathroom"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Die {{c1::Autos::das Auto}} stehen vor dem Haus.",
+      "en": "The cars are parked in front of the house.",
+      "focus": "Plural · Nomen auf *-o*",
+      "explanation": "Nouns that end in a vowel other than *-e* take **-s**: *das Auto → die **Autos***. German uses *stehen* for parked cars, so the plural verb is *stehen*.",
+      "pattern": "die + Nomen-**s** + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Auto stehen vor dem Haus.",
+        "why": "*Auto* without *-s* is singular and does not match *die … stehen*. The plural is *Autos*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinos sind am Wochenende voll.",
+          "en": "The cinemas are full at the weekend."
+        },
+        {
+          "de": "Die Fotos hängen im Flur.",
+          "en": "The photos are hanging in the hall."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Wir haben drei {{c1::Kinder::das Kind}}.",
+      "en": "We have three children.",
+      "focus": "Plural · Akkusativobjekt",
+      "explanation": "*das Kind* takes *-er* without umlaut: **Kinder** (compare *Buch → Bücher*). Here it is the Akkusativ object of *haben*, and in the Akkusativ plural the noun does not change.",
+      "pattern": "haben + Zahl + Nomen (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Wir haben drei Kindern.",
+        "why": "*Kindern* is the Dativ plural (*mit den Kindern*). As the object of *haben* the form is *Kinder*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe zwei Fahrräder.",
+          "en": "I have two bicycles."
+        },
+        {
+          "de": "Wir haben vier Eier.",
+          "en": "We have four eggs."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Die {{c1::Städte::die Stadt}} im Süden sind wärmer.",
+      "en": "The cities in the south are warmer.",
+      "focus": "Plural · Femininum, einsilbig (Ausnahme)",
+      "explanation": "*die Stadt* is one of the few feminine nouns with umlaut + *-e*: **Städte** (like *Hände, Nächte, Wände*). The plural subject takes the plural verb *sind*.",
+      "pattern": "die + Nomen (Umlaut + -e) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Stadte im Süden sind wärmer.",
+        "why": "The ending *-e* is right, but the umlaut is missing: *a* must become *ä* → *Städte*."
+      },
+      "examples": [
+        {
+          "de": "Die Nächte im Sommer sind kurz.",
+          "en": "The nights in summer are short."
+        },
+        {
+          "de": "Die Wände im Bad sind weiß.",
+          "en": "The walls in the bathroom are white."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Meine {{c1::Freundinnen::die Freundin}} kommen später.",
+      "en": "My female friends are coming later.",
+      "focus": "Plural · Femininum auf *-in*",
+      "explanation": "Nouns in *-in* double the *n* and add *-en*: *die Freundin → die **Freundinnen***. The possessive *meine* has the plural ending *-e*, and the verb *kommen* is plural.",
+      "pattern": "meine + Nomen-**innen** + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Meine Freundins kommen später.",
+        "why": "German does not use *-s* for nouns in *-in*. The plural ending is *-nen*: *Freundinnen*."
+      },
+      "examples": [
+        {
+          "de": "Meine Kolleginnen sind sehr nett.",
+          "en": "My female colleagues are very nice."
+        },
+        {
+          "de": "Ihre Nachbarinnen helfen ihr oft.",
+          "en": "Her female neighbours often help her."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Die {{c1::Äpfel::der Apfel}} sind reif.",
+      "en": "The apples are ripe.",
+      "focus": "Plural · Maskulinum auf *-el* · Subjekt",
+      "explanation": "Some masculine nouns take **only an umlaut** in the plural: *der Apfel → die **Äpfel***. In speech, *die Äpfel* and *der Apfel* differ only in the article and the first vowel, so the plural verb *sind* helps.",
+      "pattern": "die + Nomen (nur Umlaut) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Apfel sind reif.",
+        "why": "Without the umlaut the noun is singular. With *die … sind* it must be the plural *Äpfel*."
+      },
+      "examples": [
+        {
+          "de": "Die Gärten sind im Frühling schön.",
+          "en": "The gardens are beautiful in spring."
+        },
+        {
+          "de": "Die Väter spielen mit den Kindern.",
+          "en": "The fathers are playing with the children."
+        }
+      ],
+      "words": [
+        {
+          "de": "reif",
+          "en": "ripe"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Beide {{c1::Häuser::das Haus}} wurden verkauft.",
+      "en": "Both houses were sold.",
+      "focus": "Plural · nach *beide*",
+      "explanation": "*beide* (both) is always followed by a plural noun. *das Haus* takes the classic neuter pattern umlaut + *-er*: **Häuser**. The verb *wurden* is plural too.",
+      "pattern": "beide + Nomen (Pl.) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Beide Haus wurden verkauft.",
+        "why": "*beide* means two things, so the noun must be plural: *beide Häuser*."
+      },
+      "examples": [
+        {
+          "de": "Beide Kinder gehen zur Schule.",
+          "en": "Both children go to school."
+        },
+        {
+          "de": "Beide Bücher sind sehr gut.",
+          "en": "Both books are very good."
+        }
+      ],
+      "words": [
+        {
+          "de": "beide",
+          "en": "both"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Die {{c1::Länder::das Land}} unterschreiben den Vertrag.",
+      "en": "The countries are signing the treaty.",
+      "focus": "Plural · Neutrum, einsilbig",
+      "explanation": "*das Land* takes umlaut + *-er*: **Länder**. In the Dativ plural an *-n* is added: *in vielen Ländern*. Here *die Länder* is the subject, so there is no *-n*.",
+      "pattern": "die + Nomen (Umlaut + -er) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Lande unterschreiben den Vertrag.",
+        "why": "*das Land* takes the plural *-er* with umlaut, not *-e*: *die Länder*."
+      },
+      "examples": [
+        {
+          "de": "Die Dörfer liegen in den Bergen.",
+          "en": "The villages are in the mountains."
+        },
+        {
+          "de": "Die Wörter stehen an der Tafel.",
+          "en": "The words are on the board."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Vertrag (¨-e)",
+          "en": "treaty, contract"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich mag deine {{c1::Ideen::die Idee}}.",
+      "en": "I like your ideas.",
+      "focus": "Plural · Femininum auf *-ee*",
+      "explanation": "*die Idee* already ends in *-e*, so the plural adds only **-n**: **Ideen**. It is pronounced with three syllables: *I-de-en*. As the object of *mögen* it is Akkusativ plural, which looks the same as the Nominativ.",
+      "pattern": "Possessiv + Nomen-**n** (Akk. Pl.)",
+      "mistake": {
+        "wrong": "Ich mag deine Idees.",
+        "why": "*Idee* is feminine and ends in *-e*, so it takes *-n*, not *-s*: *Ideen*."
+      },
+      "examples": [
+        {
+          "de": "Ich mag deine Geschichten.",
+          "en": "I like your stories."
+        },
+        {
+          "de": "Ich mag die Farben.",
+          "en": "I like the colours."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Die {{c1::Männer::der Mann}} warten draußen.",
+      "en": "The men are waiting outside.",
+      "focus": "Plural · Maskulinum (kleine Gruppe)",
+      "explanation": "*der Mann* belongs to the small group of masculine nouns with umlaut + *-er*: **Männer** (also *Wälder, Götter, Geister*). The plural subject takes the plural verb *warten*.",
+      "pattern": "die + Nomen (Umlaut + -er) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Manns warten draußen.",
+        "why": "German does not use the *-s* plural for *Mann*. The plural is *Männer*."
+      },
+      "examples": [
+        {
+          "de": "Die Wälder sind im Herbst bunt.",
+          "en": "The forests are colourful in autumn."
+        },
+        {
+          "de": "Die Geister im Film sind lustig.",
+          "en": "The ghosts in the film are funny."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Zwei {{c1::Handys::das Handy}} sind kaputt.",
+      "en": "Two mobile phones are broken.",
+      "focus": "Plural · Anglizismus auf *-y*",
+      "explanation": "English loans keep the **-s** plural in German, and words in *-y* simply add *-s*: **Handys**, *Babys, Hobbys*. The English spelling *-ies* is not used in German.",
+      "pattern": "Zahl + Nomen-**s** + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Zwei Handies sind kaputt.",
+        "why": "German does not change *-y* to *-ies*. The plural is *Handys*."
+      },
+      "examples": [
+        {
+          "de": "Zwei Babys schlafen im Zimmer.",
+          "en": "Two babies are sleeping in the room."
+        },
+        {
+          "de": "Zwei Tickets kosten 50 Euro.",
+          "en": "Two tickets cost 50 euros."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Die {{c1::Ärzte::der Arzt}} machen eine Pause.",
+      "en": "The doctors are taking a break.",
+      "focus": "Plural · Maskulinum, einsilbig",
+      "explanation": "*der Arzt* takes the masculine plural umlaut + *-e*: a → ä → **Ärzte**. The female form has a different plural: *die Ärztin → die Ärztinnen*.",
+      "pattern": "die + Nomen (Umlaut + -e) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Arzte machen eine Pause.",
+        "why": "The ending *-e* is right, but *Arzt* also needs the umlaut: *Ärzte*."
+      },
+      "examples": [
+        {
+          "de": "Die Bälle liegen im Garten.",
+          "en": "The balls are in the garden."
+        },
+        {
+          "de": "Die Köche arbeiten in der Küche.",
+          "en": "The cooks are working in the kitchen."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Alle {{c1::Studenten::der Student}} bekommen eine Mail.",
+      "en": "All the students get an email.",
+      "focus": "Plural · n-Deklination",
+      "explanation": "*der Student* is an n-Deklination noun: it takes **-en** in the plural and in every singular case except the Nominativ (*den Studenten*). So the plural is **Studenten**, like *Touristen, Praktikanten*.",
+      "pattern": "alle + Nomen-**en** (n-Deklination) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Alle Students bekommen eine Mail.",
+        "why": "The English *-s* is wrong. *Student* is an n-Deklination noun with the plural *Studenten*."
+      },
+      "examples": [
+        {
+          "de": "Alle Praktikanten bekommen einen Laptop.",
+          "en": "All the interns get a laptop."
+        },
+        {
+          "de": "Die Touristen fotografieren den Dom.",
+          "en": "The tourists are taking photos of the cathedral."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Die {{c1::Busse::der Bus}} kommen heute zu spät.",
+      "en": "The buses are late today.",
+      "focus": "Plural · Maskulinum, kurzer Vokal",
+      "explanation": "*der Bus* takes the masculine plural *-e*. After the short vowel *u* the *s* is doubled so the vowel stays short: Bus + s + e → **Busse**. The verb *kommen* is plural.",
+      "pattern": "der Bus → die Bus**se** (Konsonant doppelt + -e)",
+      "mistake": {
+        "wrong": "Die Buse kommen heute zu spät.",
+        "why": "With a single *s* the *u* would be long. The *s* is doubled: *Busse*."
+      },
+      "examples": [
+        {
+          "de": "Die Kurse beginnen im Mai.",
+          "en": "The courses start in May."
+        },
+        {
+          "de": "Die Preise steigen jedes Jahr.",
+          "en": "Prices go up every year."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich habe zwei {{c1::Brüder::der Bruder}} und eine Schwester.",
+      "en": "I have two brothers and a sister.",
+      "focus": "Plural · Maskulinum auf *-er*",
+      "explanation": "*der Bruder* ends in *-er*, so it takes no plural ending, but it does take an umlaut: u → ü → **Brüder**. Compare the feminine *die Schwester*, which takes *-n*: *die Schwestern*.",
+      "pattern": "der Bruder → die Br**ü**der (nur Umlaut)",
+      "mistake": {
+        "wrong": "Ich habe zwei Bruder und eine Schwester.",
+        "why": "*Bruder* without umlaut is singular. After *zwei* the plural *Brüder* is needed."
+      },
+      "examples": [
+        {
+          "de": "Sie hat zwei Schwestern und einen Bruder.",
+          "en": "She has two sisters and a brother."
+        },
+        {
+          "de": "Er kauft drei Mäntel.",
+          "en": "He buys three coats."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Meine {{c1::Töchter::die Tochter}} wohnen in Hamburg.",
+      "en": "My daughters live in Hamburg.",
+      "focus": "Plural · Femininum auf *-er* (Ausnahme)",
+      "explanation": "Feminine nouns normally take *-(e)n*, but *die Tochter* and *die Mutter* form the plural with **only an umlaut**: o → ö → **Töchter**, *Mütter*. These two words must be learned as exceptions.",
+      "pattern": "die Tochter → die T**ö**chter (nur Umlaut)",
+      "mistake": {
+        "wrong": "Meine Tochtern wohnen in Hamburg.",
+        "why": "*Tochter* does not follow the usual feminine *-n* pattern (unlike *Schwestern*). Its plural is *Töchter*."
+      },
+      "examples": [
+        {
+          "de": "Die Mütter treffen sich im Park.",
+          "en": "The mothers meet in the park."
+        },
+        {
+          "de": "Unsere Mütter kennen sich gut.",
+          "en": "Our mothers know each other well."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Tochter (¨)",
+          "en": "daughter"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wir spielen mit den {{c1::Kindern::das Kind → Dat. Pl.}} im Park.",
+      "en": "We play with the children in the park.",
+      "focus": "Dativ Plural · nach *mit*",
+      "explanation": "*mit* always takes the Dativ. In the Dativ plural the article is *den* and the noun adds **-n**: Kinder + n → **Kindern**. This *-n* is added to every plural that does not already end in *-n* or *-s*.",
+      "pattern": "mit + den + Plural-**n** (Dat. Pl.)",
+      "mistake": {
+        "wrong": "Wir spielen mit den Kinder im Park.",
+        "why": "In the Dativ plural the noun needs *-n*: *mit den Kindern*."
+      },
+      "examples": [
+        {
+          "de": "Ich spreche mit den Lehrern.",
+          "en": "I'm talking to the teachers."
+        },
+        {
+          "de": "Wir fahren mit den Fahrrädern zur Arbeit.",
+          "en": "We go to work by bike."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die {{c1::Museen::das Museum}} sind montags geschlossen.",
+      "en": "The museums are closed on Mondays.",
+      "focus": "Plural · Lehnwort auf *-um*",
+      "explanation": "Latin loans in *-um* replace *-um* with **-en**: Muse(um) → **Museen**, *Zentrum → Zentren*. The ending is not added to the full word; it replaces the last syllable.",
+      "pattern": "das Museum → die Muse**en** (-um → -en)",
+      "mistake": {
+        "wrong": "Die Museums sind montags geschlossen.",
+        "why": "Words in *-um* do not take *-s*. The *-um* is replaced by *-en*: *Museen*."
+      },
+      "examples": [
+        {
+          "de": "Die Zentren der Städte sind am Abend voll.",
+          "en": "The city centres are full in the evening."
+        },
+        {
+          "de": "Die Gymnasien in der Stadt sind sehr gut.",
+          "en": "The grammar schools in the city are very good."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die {{c1::Ergebnisse::das Ergebnis}} sind sehr gut.",
+      "en": "The results are very good.",
+      "focus": "Plural · Endung *-nis*",
+      "explanation": "Nouns in *-nis* take the plural *-e* and double the *s*: Ergebnis + s + e → **Ergebnisse**. The same happens with *das Zeugnis → die Zeugnisse*.",
+      "pattern": "das Ergebnis → die Ergebnis**se** (-nis → -nisse)",
+      "mistake": {
+        "wrong": "Die Ergebnise sind sehr gut.",
+        "why": "The *s* of *-nis* is doubled in the plural: *Ergebnisse*."
+      },
+      "examples": [
+        {
+          "de": "Die Zeugnisse kommen im Juli.",
+          "en": "The school reports come in July."
+        },
+        {
+          "de": "Die Erlebnisse im Urlaub waren toll.",
+          "en": "The experiences on holiday were great."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Ergebnis (-se)",
+          "en": "result"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die {{c1::Mädchen::das Mädchen}} spielen Fußball.",
+      "en": "The girls are playing football.",
+      "focus": "Plural · Diminutiv auf *-chen*",
+      "explanation": "Nouns in *-chen* and *-lein* never change in the plural: **Mädchen** stays the same. Here only the article *die* (instead of *das*) and the plural verb *spielen* show that there are several girls.",
+      "pattern": "das Mädchen → die Mädchen (keine Endung)",
+      "mistake": {
+        "wrong": "Die Mädchens spielen Fußball.",
+        "why": "*-chen* nouns add nothing in the plural, also not *-s*: *die Mädchen*."
+      },
+      "examples": [
+        {
+          "de": "Die Brötchen sind noch warm.",
+          "en": "The bread rolls are still warm."
+        },
+        {
+          "de": "Die Kätzchen schlafen im Korb.",
+          "en": "The kittens are sleeping in the basket."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die {{c1::Wohnungen::die Wohnung}} hier sind sehr teuer.",
+      "en": "The flats here are very expensive.",
+      "focus": "Plural · Endung *-ung*",
+      "explanation": "Every noun in *-ung* is feminine and takes **-en** in the plural: Wohnung + en → **Wohnungen**. This rule has no exceptions, so it is a safe pattern.",
+      "pattern": "die Wohnung → die Wohnung**en** (-en)",
+      "mistake": {
+        "wrong": "Die Wohnung hier sind sehr teuer.",
+        "why": "*Wohnung* is singular and does not match *sind*. The plural is *Wohnungen*."
+      },
+      "examples": [
+        {
+          "de": "Die Rechnungen liegen auf dem Tisch.",
+          "en": "The bills are on the table."
+        },
+        {
+          "de": "Die Übungen sind zu schwer.",
+          "en": "The exercises are too difficult."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich kaufe ein Kilo {{c1::Kartoffeln::die Kartoffel}}.",
+      "en": "I'm buying a kilo of potatoes.",
+      "focus": "Plural · Femininum auf *-el* · nach Mengenangabe",
+      "explanation": "Feminine nouns in *-el* add **-n**: Kartoffel + n → **Kartoffeln** (unlike masculine *Äpfel*). After a quantity like *ein Kilo*, countable things stand in the plural, without *of*: *ein Kilo Kartoffeln*.",
+      "pattern": "Menge + Nomen (Pl.): die Kartoffel → die Kartoffel**n**",
+      "mistake": {
+        "wrong": "Ich kaufe ein Kilo Kartoffel.",
+        "why": "A kilo contains many potatoes, so the noun is plural. Feminine *-el* nouns add *-n*: *Kartoffeln*."
+      },
+      "examples": [
+        {
+          "de": "Ich kaufe ein Kilo Zwiebeln.",
+          "en": "I'm buying a kilo of onions."
+        },
+        {
+          "de": "Wir brauchen zwei Kilo Tomaten.",
+          "en": "We need two kilos of tomatoes."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Kartoffel (-n)",
+          "en": "potato"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die {{c1::Kollegen::der Kollege}} sind sehr nett.",
+      "en": "The colleagues are very nice.",
+      "focus": "Plural · Maskulinum auf *-e*",
+      "explanation": "Masculine nouns in *-e* for people or animals (*der Kollege, der Junge, der Kunde*) belong to the n-Deklination and add **-n** in the plural: **Kollegen**. So not every masculine noun takes *-e*; these take *-n*.",
+      "pattern": "der Kollege → die Kollege**n** (n-Deklination)",
+      "mistake": {
+        "wrong": "Die Kollege sind sehr nett.",
+        "why": "*Kollege* is singular. In the plural it takes *-n*: *die Kollegen*."
+      },
+      "examples": [
+        {
+          "de": "Die Jungen spielen draußen.",
+          "en": "The boys are playing outside."
+        },
+        {
+          "de": "Die Kunden warten an der Kasse.",
+          "en": "The customers are waiting at the till."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Kollege (-n)",
+          "en": "colleague"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die {{c1::Themen::das Thema}} im Kurs sind interessant.",
+      "en": "The topics in the course are interesting.",
+      "focus": "Plural · Lehnwort auf *-a*",
+      "explanation": "Many loans in *-a* replace the *-a* with **-en**: Them(a) → **Themen**, *die Firma → die Firmen*. The final vowel disappears; the ending is not just added.",
+      "pattern": "das Thema → die Them**en** (-a → -en)",
+      "mistake": {
+        "wrong": "Die Themas im Kurs sind interessant.",
+        "why": "In standard German the plural of *Thema* is *Themen*. The *-a* is replaced by *-en*."
+      },
+      "examples": [
+        {
+          "de": "Die Firmen suchen neue Mitarbeiter.",
+          "en": "The companies are looking for new employees."
+        },
+        {
+          "de": "Die Villen am See sind teuer.",
+          "en": "The villas by the lake are expensive."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Thema (Themen)",
+          "en": "topic"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die {{c1::Leute::people (nur Plural)}} hier sind sehr freundlich.",
+      "en": "The people here are very friendly.",
+      "focus": "Pluralwort",
+      "explanation": "*die Leute* exists only in the plural; there is no singular form (for one person you say *die Person* or *der Mensch*). So the verb is always plural: *Die Leute sind …*.",
+      "pattern": "die + Pluralwort + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Die Leuten hier sind sehr freundlich.",
+        "why": "*Leuten* is the Dativ form (*mit den Leuten*). As the subject the form is *Leute*."
+      },
+      "examples": [
+        {
+          "de": "Meine Eltern wohnen in Wien.",
+          "en": "My parents live in Vienna."
+        },
+        {
+          "de": "Die Ferien beginnen im Juli.",
+          "en": "The school holidays start in July."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Leute (Pl.)",
+          "en": "people"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about plural tendencies.",
+      "prompt": "Which plural ending is most typical for each gender?",
+      "answer": "**Feminine** → *-(e)n* (*-in* → *-innen*). **Masculine** → *-e*, often with umlaut. **Neuter** (short words) → *-er* with umlaut; other neuter nouns often *-e*. Masculine and neuter nouns in *-er, -el, -en* → **no ending**.",
+      "explanation": "These are tendencies, not rules: *die Stadt → die Städte* and *der Mann → die Männer* are exceptions. The plural must still be learned with each noun.",
+      "examples": [
+        {
+          "de": "Die Brücken sind alt.",
+          "en": "The bridges are old."
+        },
+        {
+          "de": "Die Wege sind lang.",
+          "en": "The paths are long."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the -s plural.",
+      "prompt": "Which nouns take the plural ending -s?",
+      "answer": "Nouns that end in a vowel other than *-e* (*Autos, Kinos, Omas*), many English and French loans (*Hotels, Handys, Restaurants*), and short forms (*die LKWs, die Unis*).",
+      "explanation": "*-s* is a small group in German, unlike English. It never adds an umlaut and never gets an extra Dativ *-n* (*mit den Autos*). Native German nouns almost never use it.",
+      "examples": [
+        {
+          "de": "Die Omas backen Kuchen.",
+          "en": "The grandmas are baking cakes."
+        },
+        {
+          "de": "Die Unis beginnen im Oktober.",
+          "en": "The universities start in October."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the Dativ plural.",
+      "prompt": "What changes in the Dativ plural?",
+      "answer": "The article is **den**, and the noun adds **-n**: *die Kinder → mit den Kinder**n***. No *-n* is added when the plural already ends in *-n* or *-s*: *mit den Frauen, mit den Autos*.",
+      "explanation": "Nominativ and Akkusativ plural look the same (*die Kinder*). Only the Dativ has its own noun ending. This is one of the most frequent mistakes in writing.",
+      "examples": [
+        {
+          "de": "Er gibt den Gästen das Essen.",
+          "en": "He serves the guests the food."
+        },
+        {
+          "de": "Wir wohnen bei den Großeltern.",
+          "en": "We're staying with the grandparents."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the umlaut in the plural.",
+      "prompt": "With which plural types can an umlaut appear, and with which never?",
+      "answer": "Possible with **-e** (*Stühle*), **-er** (*Bücher*, always if the vowel allows it) and **no ending** (*Äpfel*). Never with **-(e)n** (*Blumen*) or **-s** (*Autos*).",
+      "explanation": "With *-er* the umlaut is automatic on *a, o, u, au*. With *-e* and no ending it depends on the word (*Tage* but *Stühle*). So when you learn a plural, notice whether it has an umlaut.",
+      "examples": [
+        {
+          "de": "Die Gläser sind sauber.",
+          "en": "The glasses are clean."
+        },
+        {
+          "de": "Die Straßen sind nass.",
+          "en": "The streets are wet."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about nouns with only one number.",
+      "prompt": "Name some nouns that exist only in the plural, and some that are normally used only in the singular.",
+      "answer": "Only plural: **die Leute, die Eltern, die Geschwister, die Ferien**. Normally only singular: **das Obst, das Gemüse, die Milch, der Zucker, das Geld**.",
+      "explanation": "English sometimes differs: *vegetables* is plural, but *das Gemüse* is singular (*Das Gemüse ist frisch.*). *die Ferien* is plural, so the verb is plural: *Die Ferien sind vorbei.*",
+      "examples": [
+        {
+          "de": "Die Ferien sind leider vorbei.",
+          "en": "Unfortunately the holidays are over."
+        },
+        {
+          "de": "Das Obst ist sehr süß.",
+          "en": "The fruit is very sweet."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct plural form.",
+      "prompt": "Ich habe zwei ___.",
+      "options": [
+        "Schwester",
+        "Schwesters",
+        "Schwestern"
+      ],
+      "correct": "Schwestern",
+      "answer": "Ich habe zwei Schwestern.",
+      "explanation": "*die Schwester* is feminine, and feminine nouns in *-er* take *-n*: *Schwestern*. *Schwester* is singular and wrong after *zwei*; *Schwesters* uses the English *-s*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct plural form.",
+      "prompt": "Auf dem Tisch liegen zwei ___.",
+      "options": [
+        "Messer",
+        "Messers",
+        "Messern"
+      ],
+      "correct": "Messer",
+      "answer": "Auf dem Tisch liegen zwei Messer.",
+      "explanation": "*das Messer* is neuter in *-er*, so the plural has no ending: *Messer*. *Messers* is the Genitiv singular, and *Messern* is the Dativ plural, but here the knives are the subject."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Die Lehrerin hilft den ___.",
+      "options": [
+        "Schüler",
+        "Schülern",
+        "Schülers"
+      ],
+      "correct": "Schülern",
+      "answer": "Die Lehrerin hilft den Schülern.",
+      "explanation": "*helfen* takes the Dativ, and *den* here is the Dativ plural. The plural *Schüler* adds the Dativ *-n*: *Schülern*. *Schüler* lacks the *-n*, and *Schülers* is a Genitiv singular form."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct plural form.",
+      "prompt": "In der Stadt gibt es viele ___.",
+      "options": [
+        "Cafés",
+        "Caféen",
+        "Caféer"
+      ],
+      "correct": "Cafés",
+      "answer": "In der Stadt gibt es viele Cafés.",
+      "explanation": "*das Café* is a French loan ending in a vowel, so it takes *-s*: *Cafés*. The native endings *-en* and *-er* are not used with this word."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe zwei Kind.",
+      "answer": "Ich habe zwei Kinder.",
+      "explanation": "The mistake: after *zwei* the noun must be plural. *das Kind* takes *-er*: *zwei Kinder*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Kinder spielt im Garten.",
+      "answer": "Die Kinder spielen im Garten.",
+      "explanation": "The mistake is the verb. *Die Kinder* is plural, so the verb must be plural: *spielen*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir fahren mit unseren Freunde nach Wien.",
+      "answer": "Wir fahren mit unseren Freunden nach Wien.",
+      "explanation": "The mistake is the missing Dativ *-n*. *mit* takes the Dativ, and in the Dativ plural *Freunde* becomes *Freunden*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich kaufe drei Apfel.",
+      "answer": "Ich kaufe drei Äpfel.",
+      "explanation": "The mistake is the missing umlaut. *der Apfel* takes no plural ending, so the umlaut is the only plural signal: *Äpfel*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Lehrerinen sind sehr nett.",
+      "answer": "Die Lehrerinnen sind sehr nett.",
+      "explanation": "The mistake: nouns in *-in* double the *n* in the plural. The correct form is *Lehrerinnen*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make the subject plural. Change the verb.",
+      "prompt": "Das Buch ist teuer.",
+      "answer": "Die Bücher sind teuer.",
+      "explanation": "*das* becomes *die*, *Buch* takes umlaut + *-er* → *Bücher*, and *ist* becomes *sind*. The adjective after *sein* does not change."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Make the subject plural. Change the verb.",
+      "prompt": "Der Zug hat Verspätung.",
+      "answer": "Die Züge haben Verspätung.",
+      "explanation": "*der Zug* takes umlaut + *-e* → *die Züge*, and the verb changes from *hat* to *haben*. *Verspätung* stays singular; it is the delay, not the trains."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Make the subject plural. Change the verb.",
+      "prompt": "Die Studentin wohnt in Köln.",
+      "answer": "Die Studentinnen wohnen in Köln.",
+      "explanation": "The article stays *die*, because feminine singular and plural share it. *Studentin* takes *-nen* → *Studentinnen*, and the verb becomes *wohnen*."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Replace *ein* with *zwei*. Change the noun.",
+      "prompt": "Ich brauche ein Glas.",
+      "answer": "Ich brauche zwei Gläser.",
+      "explanation": "After *zwei* the noun must be plural. *das Glas* is a short neuter noun with umlaut + *-er*: *Gläser*. It is the Akkusativ object, so no Dativ *-n* is added."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die",
+      "prompt": "auf dem Tisch / liegen / Zeitungen / die",
+      "answer": "Die Zeitungen liegen auf dem Tisch.",
+      "explanation": "The plural subject *Die Zeitungen* (*die Zeitung, -en*) is in position 1, the plural verb *liegen* in position 2, and the place follows. Another correct order: *Auf dem Tisch liegen die Zeitungen.*"
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: In Berlin",
+      "prompt": "gibt / viele / es / Parks / in Berlin",
+      "answer": "In Berlin gibt es viele Parks.",
+      "explanation": "*In Berlin* is in position 1, so the verb *gibt* follows and then *es*. *der Park* is a loan with the plural *-s*: *viele Parks*. Another correct order: *Es gibt viele Parks in Berlin.*"
+    }
+  ]
+}

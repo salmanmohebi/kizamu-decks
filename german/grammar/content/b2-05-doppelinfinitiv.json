@@ -1,0 +1,796 @@
+{
+  "topic_id": "b2-05-doppelinfinitiv",
+  "level": "B2",
+  "title_de": "Doppelinfinitiv (Modal im Perfekt)",
+  "title_en": "The double infinitive (modal verbs in the Perfekt)",
+  "rule": {
+    "summary": "When a modal verb (*dürfen, können, mögen, müssen, sollen, wollen*) has a dependent infinitive, its Perfekt and Plusquamperfekt are not formed with the Partizip II. The modal stays in the **infinitive** (Ersatzinfinitiv), so two infinitives stand at the end: *Ich habe arbeiten **müssen**.* The auxiliary is always **haben**. *lassen* behaves the same way, *sehen* and *hören* usually do, and *helfen* often does; *brauchen* + *zu* also does. You need this form for the past of modals in speech, and above all for *hätte … können/sollen/müssen* (Konjunktiv II Vergangenheit).",
+    "table": "| Satztyp | Form | Beispiel |\n|---|---|---|\n| Hauptsatz, Perfekt | haben … Inf + **Modal-Inf** | *Ich **habe** lange warten **müssen**.* |\n| Hauptsatz, Plusquamperfekt | hatte … Inf + **Modal-Inf** | *Wir **hatten** nicht kommen **können**.* |\n| Konjunktiv II Vergangenheit | hätte … Inf + **Modal-Inf** | *Du **hättest** anrufen **sollen**.* |\n| Nebensatz | … **haben** + Inf + **Modal-Inf** | *…, weil ich lange **habe** warten **müssen**.* |\n| Modal ohne Infinitiv | haben … **Partizip II** | *Das **habe** ich nicht **gewollt**.* |\n| Passiv mit Modal | haben … Partizip II + werden + **Modal-Inf** | *Es **hat** nicht repariert werden **können**.* |",
+    "steps": [
+      "Check whether the modal verb (or *lassen, sehen, hören, helfen, brauchen*) has another verb in the infinitive. If not, use the normal Partizip II: *Ich habe es **gewollt**.*",
+      "If there is a dependent infinitive, choose **haben** as the auxiliary, even when the main verb normally takes *sein* (*Sie hat nicht kommen können*).",
+      "Put both infinitives at the end: first the main verb, then the modal: *kommen können, warten müssen, gehen lassen*.",
+      "In a Nebensatz the finite auxiliary does **not** go to the very end. It stands directly before the two infinitives: *…, dass er nicht **hat** kommen können.*",
+      "For the Konjunktiv II Vergangenheit use *hätte* in the same pattern: *Wir **hätten** früher anrufen sollen.*"
+    ],
+    "pitfalls": [
+      "Partizip II of the modal next to an infinitive: ✗ *Ich habe arbeiten gemusst.* → ✓ *Ich habe arbeiten müssen.*",
+      "*sein* as the auxiliary because of the main verb: ✗ *Sie ist nicht kommen können.* → ✓ *Sie hat nicht kommen können.* The modal decides, and modals take *haben*.",
+      "Auxiliary at the end of a Nebensatz: ✗ *…, weil ich arbeiten müssen habe.* → ✓ *…, weil ich habe arbeiten müssen.*",
+      "English word order inside the verb group: ✗ *Ich habe müssen arbeiten.* → ✓ *Ich habe arbeiten müssen.* The modal is always the last verb.",
+      "Double infinitive without a dependent verb: ✗ *Das habe ich nicht wollen.* → ✓ *Das habe ich nicht gewollt.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich habe gestern arbeiten {{c1::müssen::Notwendigkeit}}.",
+      "en": "I had to work yesterday.",
+      "focus": "Perfekt · Modalverb + Infinitiv",
+      "explanation": "*müssen* has the dependent infinitive *arbeiten*, so its Perfekt has no Partizip II. The modal stays in the infinitive and stands last: *habe … arbeiten* **müssen**. This is the spoken past of *ich musste arbeiten*.",
+      "pattern": "haben + … + Inf + **Modal-Inf**",
+      "mistake": {
+        "wrong": "Ich habe gestern arbeiten gemusst.",
+        "why": "*gemusst* is only used when *müssen* has no other verb (*Ich habe ins Büro gemusst*). Next to the infinitive *arbeiten* the modal must be an infinitive too."
+      },
+      "examples": [
+        {"de": "Wir haben am Samstag einkaufen müssen.", "en": "We had to go shopping on Saturday."},
+        {"de": "Er hat den ganzen Abend lernen müssen.", "en": "He had to study the whole evening."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Er hat das nicht machen {{c1::wollen::Wunsch}}.",
+      "en": "He didn't want to do that.",
+      "focus": "Perfekt · Modalverb + Infinitiv · Negation",
+      "explanation": "*wollen* governs the infinitive *machen*, so the Perfekt uses the Ersatzinfinitiv: *hat … machen* **wollen**. *nicht* stands in the Mittelfeld before the verb group and negates the whole statement.",
+      "pattern": "haben + nicht + Inf + **wollen**",
+      "mistake": {
+        "wrong": "Er hat das nicht machen gewollt.",
+        "why": "*gewollt* is wrong when *wollen* has a dependent infinitive. Only without an infinitive is the Partizip II correct: *Er hat das nicht gewollt.*"
+      },
+      "examples": [
+        {"de": "Sie hat den Vertrag nicht unterschreiben wollen.", "en": "She didn't want to sign the contract."},
+        {"de": "Die Kinder haben nicht ins Bett gehen wollen.", "en": "The children didn't want to go to bed."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir haben lange warten {{c1::müssen::Notwendigkeit}}.",
+      "en": "We had to wait a long time.",
+      "focus": "Perfekt · Modalverb + Infinitiv",
+      "explanation": "The main verb *warten* is in the infinitive, and the modal *müssen* follows it as a second infinitive: *warten* **müssen**. The finite auxiliary *haben* is in position 2, and *lange* stays in the Mittelfeld.",
+      "pattern": "haben + Adverb + Inf + **müssen**",
+      "mistake": {
+        "wrong": "Wir haben lange müssen warten.",
+        "why": "The order inside the verb group is the reverse of English: the main verb comes first and the modal is the very last verb: *warten müssen*."
+      },
+      "examples": [
+        {"de": "Wir haben eine Stunde auf den Techniker warten müssen.", "en": "We had to wait an hour for the technician."},
+        {"de": "Ihr habt sicher lange suchen müssen.", "en": "You surely had to search for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Du hättest das wissen {{c1::müssen::Notwendigkeit}}.",
+      "en": "You should have known that.",
+      "focus": "Konjunktiv II Vergangenheit · Modalverb",
+      "explanation": "*hättest* is the Konjunktiv II of *haben*, so the sentence talks about an unreal past: it was your duty to know, but you did not. The modal again appears as an infinitive after the main verb: *wissen* **müssen**. *hätte … müssen* expresses a reproach about the past.",
+      "pattern": "hätte + … + Inf + **müssen**",
+      "mistake": {
+        "wrong": "Du hättest das wissen gemusst.",
+        "why": "The Konjunktiv II Vergangenheit of a modal with an infinitive also uses the Ersatzinfinitiv: *hättest … wissen müssen*, never *gemusst*."
+      },
+      "examples": [
+        {"de": "Sie hätte den Fehler bemerken müssen.", "en": "She should have noticed the mistake."},
+        {"de": "Ihr hättet die Rechnung früher bezahlen müssen.", "en": "You should have paid the bill earlier."}
+      ],
+      "words": [],
+      "production_cue": "(reproach about the past)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie hat nicht kommen {{c1::können::Möglichkeit}}.",
+      "en": "She wasn't able to come.",
+      "focus": "Perfekt · Modalverb + Bewegungsverb",
+      "explanation": "*kommen* alone forms its Perfekt with *sein* (*sie ist gekommen*). Here the modal *können* decides the auxiliary, and modals take **haben**: *hat … kommen* **können**.",
+      "pattern": "haben + nicht + Inf + **können**",
+      "mistake": {
+        "wrong": "Sie ist nicht kommen können.",
+        "why": "The auxiliary depends on the last verb of the group, the modal. Modals always form the Perfekt with *haben*, even next to *kommen* or *gehen*."
+      },
+      "examples": [
+        {"de": "Er hat wegen des Streiks nicht fliegen können.", "en": "He wasn't able to fly because of the strike."},
+        {"de": "Wir haben leider nicht mitfahren können.", "en": "Unfortunately, we weren't able to come along."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich habe ihn nicht gehen {{c1::lassen::erlauben}}.",
+      "en": "I didn't let him go.",
+      "focus": "Perfekt · Verb wie ein Modalverb",
+      "explanation": "*lassen* + infinitive means 'allow' here. Like a modal, it stays in the infinitive in the Perfekt when it has a dependent verb: *gehen* **lassen**. With *lassen* the double infinitive is practically obligatory.",
+      "pattern": "haben + Akk + Inf + **lassen**",
+      "mistake": {
+        "wrong": "Ich habe ihn nicht gehen gelassen.",
+        "why": "*gelassen* is only used when *lassen* has no infinitive (*Ich habe den Schlüssel im Auto gelassen*). With *gehen* the form is *gehen lassen*."
+      },
+      "examples": [
+        {"de": "Sie haben den Hund nicht ins Haus laufen lassen.", "en": "They didn't let the dog run into the house."},
+        {"de": "Der Trainer hat die Spieler früher gehen lassen.", "en": "The coach let the players leave earlier."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wir haben das schon machen {{c1::sollen::Auftrag}}.",
+      "en": "We were already supposed to do that.",
+      "focus": "Perfekt · Modalverb + Infinitiv",
+      "explanation": "*sollen* expresses a task given by someone else. With the dependent infinitive *machen* it appears as an infinitive: *machen* **sollen**. The meaning is the same as *Wir sollten das schon machen*.",
+      "pattern": "haben + … + Inf + **sollen**",
+      "mistake": {
+        "wrong": "Wir haben das schon machen gesollt.",
+        "why": "*gesollt* exists only without a dependent verb and is rare. Next to *machen* the modal must be the infinitive *sollen*."
+      },
+      "examples": [
+        {"de": "Ich habe den Bericht bis Freitag abgeben sollen.", "en": "I was supposed to hand in the report by Friday."},
+        {"de": "Sie haben die Gäste am Bahnhof abholen sollen.", "en": "They were supposed to pick the guests up at the station."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Du hast das nicht sagen {{c1::dürfen::Erlaubnis}}.",
+      "en": "You weren't allowed to say that.",
+      "focus": "Perfekt · Modalverb + Infinitiv · Verbot",
+      "explanation": "*nicht dürfen* expresses a prohibition. In the Perfekt with the dependent infinitive *sagen* the modal stays an infinitive: *hast … sagen* **dürfen**. The finite verb *hast* agrees with *du*.",
+      "pattern": "haben + nicht + Inf + **dürfen**",
+      "mistake": {
+        "wrong": "Du hast das nicht sagen gedurft.",
+        "why": "*gedurft* is only possible without another verb (*Das hast du nicht gedurft*). With *sagen* the Ersatzinfinitiv *dürfen* is required."
+      },
+      "examples": [
+        {"de": "Als Kind habe ich nicht allein Bus fahren dürfen.", "en": "As a child I wasn't allowed to take the bus alone."},
+        {"de": "Die Journalisten haben im Saal nicht fotografieren dürfen.", "en": "The journalists weren't allowed to take photos in the hall."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich habe sie singen {{c1::hören::akustische Wahrnehmung}}.",
+      "en": "I heard her sing.",
+      "focus": "Perfekt · Wahrnehmungsverb + Infinitiv",
+      "explanation": "Verbs of perception (*hören, sehen, fühlen*) can take an Akkusativ object plus an infinitive: *sie singen hören*. In the Perfekt the double infinitive *singen* **hören** is the standard form; *Ich habe sie singen gehört* is also accepted.",
+      "pattern": "haben + Akk + Inf + **hören**",
+      "mistake": {
+        "wrong": "Ich habe sie hören singen.",
+        "why": "The perception verb is the governing verb and stands last; the infinitive of the action comes before it: *singen hören*."
+      },
+      "examples": [
+        {"de": "Wir haben die Nachbarn streiten hören.", "en": "We heard the neighbours arguing."},
+        {"de": "Hast du das Telefon klingeln hören?", "en": "Did you hear the phone ring?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie haben uns kommen {{c1::sehen::visuelle Wahrnehmung}}.",
+      "en": "They saw us coming.",
+      "focus": "Perfekt · Wahrnehmungsverb + Infinitiv",
+      "explanation": "*sehen* + Akkusativ + infinitive describes what someone saw happen: *uns kommen sehen*. In the Perfekt the verb of perception usually stays an infinitive: *haben … kommen* **sehen** (the Partizip *gesehen* is also possible). Note: German uses an infinitive where English often uses the *-ing* form.",
+      "pattern": "haben + Akk + Inf + **sehen**",
+      "mistake": {
+        "wrong": "Sie haben uns kommend sehen.",
+        "why": "German has no *-ing* construction after *sehen*. The action is a bare infinitive without *zu*: *uns kommen sehen*."
+      },
+      "examples": [
+        {"de": "Ich habe den Unfall passieren sehen.", "en": "I saw the accident happen."},
+        {"de": "Niemand hat den Dieb weglaufen sehen.", "en": "Nobody saw the thief run away."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er hat das schon vorhersagen {{c1::können::Fähigkeit}}.",
+      "en": "He was already able to predict that.",
+      "focus": "Perfekt · Modalverb + trennbares Verb",
+      "explanation": "The separable verb *vorhersagen* stands as one word in the infinitive, and the modal follows it: *vorhersagen* **können**. The prefix is not separated, because neither verb is finite.",
+      "pattern": "haben + … + trennbares Inf + **können**",
+      "mistake": {
+        "wrong": "Er hat das schon vorhergesagt können.",
+        "why": "The main verb must be an infinitive, not a Partizip II. In the double infinitive both verbs are infinitives: *vorhersagen können*."
+      },
+      "examples": [
+        {"de": "Die Forscher haben den Sturm genau vorhersagen können.", "en": "The researchers were able to predict the storm precisely."},
+        {"de": "Sie hat die Präsentation noch rechtzeitig fertigstellen können.", "en": "She was still able to finish the presentation in time."}
+      ],
+      "words": [{"de": "vorhersagen", "en": "to predict"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir haben uns beeilen {{c1::müssen::Notwendigkeit}}.",
+      "en": "We had to hurry.",
+      "focus": "Perfekt · Modalverb + reflexives Verb",
+      "explanation": "*sich beeilen* is reflexive. The reflexive pronoun *uns* stays in the Mittelfeld after the auxiliary, and both infinitives go to the end: *uns beeilen* **müssen**.",
+      "pattern": "haben + Reflexivpronomen + Inf + **müssen**",
+      "mistake": {
+        "wrong": "Wir haben beeilen uns müssen.",
+        "why": "The reflexive pronoun belongs in the Mittelfeld, not inside the verb group at the end. Correct: *Wir haben uns beeilen müssen.*"
+      },
+      "examples": [
+        {"de": "Ich habe mich bei der Chefin entschuldigen müssen.", "en": "I had to apologise to the boss."},
+        {"de": "Sie haben sich schnell entscheiden müssen.", "en": "They had to decide quickly."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie hat nicht antworten {{c1::wollen::Wunsch}}.",
+      "en": "She didn't want to answer.",
+      "focus": "Perfekt · Modalverb + Infinitiv · Negation",
+      "explanation": "*antworten* is the dependent infinitive, so *wollen* takes the Ersatzinfinitiv: *antworten* **wollen**. Compare without an infinitive: *Sie hat es nicht gewollt.*",
+      "pattern": "haben + nicht + Inf + **wollen**",
+      "mistake": {
+        "wrong": "Sie hat nicht antworten gewollt.",
+        "why": "With a dependent infinitive the Partizip II *gewollt* is wrong. The modal must be the infinitive *wollen*."
+      },
+      "examples": [
+        {"de": "Der Minister hat zu den Vorwürfen nichts sagen wollen.", "en": "The minister didn't want to say anything about the accusations."},
+        {"de": "Mein Sohn hat heute nicht in die Schule gehen wollen.", "en": "My son didn't want to go to school today."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich habe ihn überzeugen {{c1::müssen::Notwendigkeit}}.",
+      "en": "I had to convince him.",
+      "focus": "Perfekt · Modalverb + untrennbares Verb",
+      "explanation": "*überzeugen* is inseparable; its Partizip II would be *überzeugt* (no *ge-*). In the double infinitive, however, the main verb is simply the infinitive: *überzeugen* **müssen**.",
+      "pattern": "haben + Akk + Inf + **müssen**",
+      "mistake": {
+        "wrong": "Ich habe ihn überzeugt müssen.",
+        "why": "The main verb next to the modal is never a Partizip II. Both verbs at the end are infinitives: *überzeugen müssen*."
+      },
+      "examples": [
+        {"de": "Wir haben den Kunden erst überzeugen müssen.", "en": "We first had to convince the customer."},
+        {"de": "Sie hat das Formular zweimal unterschreiben müssen.", "en": "She had to sign the form twice."}
+      ],
+      "words": [{"de": "überzeugen", "en": "to convince"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Du hast nicht alleine bleiben {{c1::sollen::Auftrag}}.",
+      "en": "You weren't supposed to stay alone.",
+      "focus": "Perfekt · Modalverb + *bleiben*",
+      "explanation": "*bleiben* alone forms its Perfekt with *sein* (*du bist geblieben*), but the last verb here is the modal *sollen*, so the auxiliary is **haben**: *hast … bleiben* **sollen**.",
+      "pattern": "haben + nicht + Inf + **sollen**",
+      "mistake": {
+        "wrong": "Du bist nicht alleine bleiben sollen.",
+        "why": "The modal at the end of the group decides the auxiliary. Modals always take *haben*, so *bist* must be *hast*."
+      },
+      "examples": [
+        {"de": "Er hat eigentlich zu Hause bleiben sollen.", "en": "He was actually supposed to stay at home."},
+        {"de": "Ihr habt nicht so spät aufbleiben sollen.", "en": "You weren't supposed to stay up so late."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er hat das nicht wissen {{c1::können::Möglichkeit}}.",
+      "en": "He had no way of knowing that.",
+      "focus": "Perfekt · Modalverb (objektive Bedeutung)",
+      "explanation": "*hat … wissen* **können** describes a real past impossibility: the information was not available to him. It is the Perfekt of *Er konnte das nicht wissen*. Do not confuse it with the subjective form *Er kann das nicht gewusst haben* ('It is impossible that he knew').",
+      "pattern": "haben + nicht + Inf + **können**",
+      "mistake": {
+        "wrong": "Er hat das nicht gewusst können.",
+        "why": "In the Perfekt of the modal the main verb stays an infinitive: *wissen können*. A Partizip II + *haben* after the modal only appears in the subjective use (*kann … gewusst haben*)."
+      },
+      "examples": [
+        {"de": "Die Ärzte haben die Krankheit nicht früher erkennen können.", "en": "The doctors weren't able to detect the illness earlier."},
+        {"de": "Ich habe die Gefahr nicht ahnen können.", "en": "I had no way of suspecting the danger."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Wir haben sie nicht warten {{c1::lassen::bewirken}}.",
+      "en": "We didn't keep them waiting.",
+      "focus": "Perfekt · Akk + Infinitiv · Verb wie ein Modalverb",
+      "explanation": "*jemanden warten lassen* means 'to keep someone waiting'. The Akkusativ *sie* is the person who (does not) wait. In the Perfekt *lassen* stays in the infinitive after *warten*: *warten* **lassen**.",
+      "pattern": "haben + Akk + Inf + **lassen**",
+      "mistake": {
+        "wrong": "Wir haben sie nicht warten gelassen.",
+        "why": "With a dependent infinitive *lassen* takes the Ersatzinfinitiv. *gelassen* would only fit without another verb."
+      },
+      "examples": [
+        {"de": "Der Arzt hat die Patienten lange warten lassen.", "en": "The doctor kept the patients waiting for a long time."},
+        {"de": "Ich habe den Kuchen etwas abkühlen lassen.", "en": "I let the cake cool down a little."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie hat das schon machen {{c1::wollen::Wunsch}}.",
+      "en": "She already wanted to do that.",
+      "focus": "Perfekt · Modalverb + Infinitiv",
+      "explanation": "The modal *wollen* has the dependent infinitive *machen*, so its Perfekt is *hat … machen* **wollen**. *schon* stresses that the wish existed before (for example before someone asked her).",
+      "pattern": "haben + … + Inf + **wollen**",
+      "mistake": {
+        "wrong": "Sie hat das schon wollen machen.",
+        "why": "The modal is always the last verb in the group: *machen wollen*, not *wollen machen*."
+      },
+      "examples": [
+        {"de": "Er hat schon immer Pilot werden wollen.", "en": "He has always wanted to become a pilot."},
+        {"de": "Wir haben die Wohnung eigentlich kaufen wollen.", "en": "We actually wanted to buy the flat."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich habe ihn schreien {{c1::hören::akustische Wahrnehmung}}.",
+      "en": "I heard him scream.",
+      "focus": "Perfekt · Wahrnehmungsverb + Infinitiv",
+      "explanation": "*ihn* is the Akkusativ object of *hören* and at the same time the person who screams. The action is a bare infinitive without *zu*, and *hören* stays an infinitive at the end: *schreien* **hören**.",
+      "pattern": "haben + Akk + Inf + **hören**",
+      "mistake": {
+        "wrong": "Ich habe ihn zu schreien hören.",
+        "why": "After verbs of perception the dependent infinitive has no *zu*: *ihn schreien hören*."
+      },
+      "examples": [
+        {"de": "Wir haben die Vögel draußen zwitschern hören.", "en": "We heard the birds chirping outside."},
+        {"de": "Sie hat das Baby im Nebenzimmer weinen hören.", "en": "She heard the baby crying in the next room."}
+      ],
+      "words": [{"de": "schreien", "en": "to scream, to shout"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir hätten früher anrufen {{c1::sollen::Rat}}.",
+      "en": "We should have called earlier.",
+      "focus": "Konjunktiv II Vergangenheit · Modalverb",
+      "explanation": "*hätten … sollen* expresses regret or advice about the past: calling earlier would have been right, but it did not happen. The separable verb *anrufen* stays together as an infinitive before the modal: *anrufen* **sollen**.",
+      "pattern": "hätte + … + Inf + **sollen**",
+      "mistake": {
+        "wrong": "Wir hätten früher sollen anrufen.",
+        "why": "The modal is always the last verb of the cluster. The main verb comes first: *anrufen sollen*."
+      },
+      "examples": [
+        {"de": "Ich hätte die Wahrheit sagen sollen.", "en": "I should have told the truth."},
+        {"de": "Du hättest einen Regenschirm mitnehmen sollen.", "en": "You should have taken an umbrella."}
+      ],
+      "words": [],
+      "production_cue": "(regret about the past)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Sie ist schlecht gelaunt, weil sie am Wochenende {{c1::hat arbeiten müssen::haben · arbeiten · müssen}}.",
+      "en": "She is in a bad mood because she had to work at the weekend.",
+      "focus": "Nebensatz · Perfekt mit Modalverb",
+      "explanation": "*weil* starts a Nebensatz, so the finite verb would normally go to the end. With a double infinitive this changes: the finite auxiliary **hat** stands directly before the two infinitives, *hat arbeiten müssen*.",
+      "pattern": "weil + … + **hat** + Inf + Modal-Inf",
+      "mistake": {
+        "wrong": "Sie ist schlecht gelaunt, weil sie am Wochenende arbeiten müssen hat.",
+        "why": "With a double infinitive the auxiliary may not stand at the end of the Nebensatz. It moves in front of the verb cluster: *hat arbeiten müssen*."
+      },
+      "examples": [
+        {"de": "Er ist müde, weil er die ganze Nacht hat lernen müssen.", "en": "He is tired because he had to study all night."},
+        {"de": "Ich weiß, dass du gestern länger hast bleiben müssen.", "en": "I know that you had to stay longer yesterday."}
+      ],
+      "words": [{"de": "schlecht gelaunt", "en": "in a bad mood"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Bevor das Projekt starten konnte, hatten wir drei Monate auf die Genehmigung {{c1::warten müssen::warten · müssen}}.",
+      "en": "Before the project could start, we had had to wait three months for the approval.",
+      "focus": "Plusquamperfekt · Modalverb + Infinitiv",
+      "explanation": "The waiting happened before the start of the project, so the main clause is in the Plusquamperfekt. The pattern is the same as in the Perfekt, only with *hatten*: *hatten … warten müssen*. The modal is the last verb.",
+      "pattern": "hatte + … + Inf + **Modal-Inf**",
+      "mistake": {
+        "wrong": "Bevor das Projekt starten konnte, hatten wir drei Monate auf die Genehmigung warten gemusst.",
+        "why": "The Plusquamperfekt also uses the Ersatzinfinitiv when the modal has a dependent infinitive: *warten müssen*, not *warten gemusst*."
+      },
+      "examples": [
+        {"de": "Sie hatte ihren Flug wegen eines Notfalls absagen müssen.", "en": "She had had to cancel her flight because of an emergency."},
+        {"de": "Die Firma hatte vorher zwanzig Stellen streichen müssen.", "en": "The company had had to cut twenty jobs before."}
+      ],
+      "words": [{"de": "die Genehmigung (-en)", "en": "approval, permit"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Es tut mir leid, das habe ich wirklich nicht {{c1::gewollt::wollen}}.",
+      "en": "I'm sorry, I really didn't mean for that to happen.",
+      "focus": "Perfekt · Modalverb ohne Infinitiv",
+      "explanation": "Here *wollen* has no dependent infinitive; its object is the pronoun *das*. Without an infinitive the modal behaves like a normal verb and uses its Partizip II: wollen → **gewollt**.",
+      "pattern": "haben + Akk + **Partizip II** des Modalverbs",
+      "mistake": {
+        "wrong": "Es tut mir leid, das habe ich wirklich nicht wollen.",
+        "why": "The Ersatzinfinitiv is only used when another infinitive is present. With only an object (*das*) the Partizip II *gewollt* is required."
+      },
+      "examples": [
+        {"de": "Den Streit hat am Ende keiner gewollt.", "en": "In the end, nobody wanted the argument."},
+        {"de": "Hast du das wirklich so gewollt?", "en": "Did you really want it this way?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Als Schülerin hat sie sehr gut Französisch {{c1::gekonnt::können}}.",
+      "en": "As a schoolgirl she knew French very well.",
+      "focus": "Perfekt · Modalverb als Vollverb",
+      "explanation": "*können* + a language means 'to know, to speak'. It is a full verb here with the Akkusativ object *Französisch*, and there is no other infinitive. So the Perfekt uses the Partizip II: können → **gekonnt**.",
+      "pattern": "haben + Akk + **gekonnt**",
+      "mistake": {
+        "wrong": "Als Schülerin hat sie sehr gut Französisch können.",
+        "why": "*Französisch* is an object, not an infinitive. Without a dependent infinitive the Partizip II *gekonnt* is required."
+      },
+      "examples": [
+        {"de": "Früher habe ich das Gedicht auswendig gekonnt.", "en": "I used to know the poem by heart."},
+        {"de": "In der Prüfung hat er alle Vokabeln gekonnt.", "en": "In the exam he knew all the vocabulary."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir wären pünktlich gewesen, wenn wir den früheren Zug {{c1::hätten nehmen können::haben (Konj. II) · nehmen · können}}.",
+      "en": "We would have been on time if we had been able to take the earlier train.",
+      "focus": "Nebensatz · Konjunktiv II Vergangenheit mit Modalverb",
+      "explanation": "The *wenn*-clause is an unreal condition in the past, so it needs the Konjunktiv II Vergangenheit: *hätten* + double infinitive. Because it is a Nebensatz, the finite *hätten* stands before the two infinitives, not at the end: **hätten nehmen können**.",
+      "pattern": "wenn + … + **hätte** + Inf + Modal-Inf",
+      "mistake": {
+        "wrong": "Wir wären pünktlich gewesen, wenn wir den früheren Zug nehmen können hätten.",
+        "why": "With a double infinitive the finite verb *hätten* moves in front of the verb cluster, even in a Nebensatz: *hätten nehmen können*."
+      },
+      "examples": [
+        {"de": "Es wäre besser gewesen, wenn du früher hättest anrufen können.", "en": "It would have been better if you had been able to call earlier."},
+        {"de": "Ich hätte geholfen, wenn ich hätte kommen dürfen.", "en": "I would have helped if I had been allowed to come."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Im Frühling haben wir das Dach reparieren {{c1::lassen::veranlassen}}.",
+      "en": "In spring we had the roof repaired.",
+      "focus": "Perfekt · Auftrag an eine andere Person + Infinitiv",
+      "explanation": "*etwas reparieren lassen* means that someone else does the work for us. In the Perfekt *lassen* stays in the infinitive: *haben … reparieren* **lassen**. *Im Frühling* is in the Vorfeld, so the auxiliary *haben* comes before the subject *wir*.",
+      "pattern": "haben + Akk + Inf + **lassen** (veranlassen)",
+      "mistake": {
+        "wrong": "Im Frühling haben wir das Dach repariert lassen.",
+        "why": "The main verb next to *lassen* is a bare infinitive, never a Partizip II: *reparieren lassen*."
+      },
+      "examples": [
+        {"de": "Sie hat ihren Laptop beim Fachhändler reinigen lassen.", "en": "She had her laptop cleaned at a specialist shop."},
+        {"de": "Wir haben die Unterlagen übersetzen lassen.", "en": "We had the documents translated."}
+      ],
+      "words": [{"de": "das Dach (¨-er)", "en": "roof"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Fehler hat leider nicht rechtzeitig behoben {{c1::werden können::werden · können}}.",
+      "en": "Unfortunately, the error could not be fixed in time.",
+      "focus": "Perfekt · Passiv mit Modalverb",
+      "explanation": "The passive with a modal in the Präsens is *kann behoben werden*. In the Perfekt the finite verb is *hat*, and *können* becomes an Ersatzinfinitiv at the end: Partizip II *behoben* + **werden** + **können**. The modal is again the last verb, and the auxiliary is *haben*.",
+      "pattern": "haben + … + Partizip II + **werden** + **Modal-Inf**",
+      "mistake": {
+        "wrong": "Der Fehler ist leider nicht rechtzeitig behoben werden können.",
+        "why": "The last verb in the group is the modal *können*, so the auxiliary is *haben*, not *sein*: *hat … behoben werden können*."
+      },
+      "examples": [
+        {"de": "Das Konzert hat wegen des Sturms nicht durchgeführt werden können.", "en": "The concert could not be held because of the storm."},
+        {"de": "Die Patientin hat sofort operiert werden müssen.", "en": "The patient had to be operated on immediately."}
+      ],
+      "words": [{"de": "beheben (behob, behoben)", "en": "to fix, to remedy"}],
+      "production_cue": "(passive, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Du hättest mich nicht vom Flughafen abzuholen {{c1::brauchen::nicht müssen}}.",
+      "en": "You needn't have picked me up from the airport.",
+      "focus": "Konjunktiv II Vergangenheit · *nicht … zu* + Infinitiv",
+      "explanation": "*nicht brauchen* + *zu* + infinitive is the negation of *müssen*. Like a modal, *brauchen* takes the Ersatzinfinitiv in the past: *hättest … abzuholen* **brauchen**. The *zu* stays with the main verb; with a separable verb it goes between prefix and stem: *abzuholen*.",
+      "pattern": "hätte + nicht + zu-Inf + **brauchen**",
+      "mistake": {
+        "wrong": "Du hättest mich nicht vom Flughafen zu abholen brauchen.",
+        "why": "*abholen* is separable, so *zu* goes between the prefix and the stem: *abzuholen*. *zu abholen* is wrong; the cluster is *abzuholen brauchen*."
+      },
+      "examples": [
+        {"de": "Ihr hättet meinetwegen nicht so früh aufzustehen brauchen.", "en": "You needn't have got up so early because of me."},
+        {"de": "Sie hätte sich gar nicht zu entschuldigen brauchen.", "en": "She needn't have apologised at all."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Ärztin, die am Sonntag für einen Kollegen {{c1::hat einspringen müssen::haben · einspringen · müssen}}, hat heute frei.",
+      "en": "The doctor who had to stand in for a colleague on Sunday has the day off today.",
+      "focus": "Relativsatz · Perfekt mit Modalverb",
+      "explanation": "A relative clause is a Nebensatz, so the rule for double infinitives applies: the finite **hat** goes in front of the cluster *einspringen müssen*. The separable verb *einspringen* stays together because it is an infinitive.",
+      "pattern": "Relativpronomen + … + **hat** + Inf + Modal-Inf",
+      "mistake": {
+        "wrong": "Die Ärztin, die am Sonntag für einen Kollegen einspringen müssen hat, hat heute frei.",
+        "why": "In a Nebensatz with a double infinitive, the auxiliary does not go to the end. It stands directly before the infinitives: *hat einspringen müssen*."
+      },
+      "examples": [
+        {"de": "Der Student, der die Prüfung hat wiederholen müssen, hat jetzt bestanden.", "en": "The student who had to retake the exam has now passed."},
+        {"de": "Das ist die Wohnung, die wir nicht haben kaufen können.", "en": "That is the flat that we weren't able to buy."}
+      ],
+      "words": [{"de": "für jemanden einspringen", "en": "to stand in for someone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Eigentlich hätte das Paket schon gestern ankommen {{c1::sollen::Plan/Erwartung}}.",
+      "en": "The parcel should actually have arrived yesterday.",
+      "focus": "Konjunktiv II Vergangenheit · Modalverb · Bewegungsverb",
+      "explanation": "*hätte … sollen* says that something was planned or expected in the past but did not happen. *ankommen* alone takes *sein*, but the modal decides: **haben** → *hätte … ankommen sollen*.",
+      "pattern": "hätte + … + Inf + **sollen**",
+      "mistake": {
+        "wrong": "Eigentlich wäre das Paket schon gestern ankommen sollen.",
+        "why": "Although *ankommen* uses *sein*, the last verb is the modal *sollen*, which always takes *haben*: *hätte … ankommen sollen*."
+      },
+      "examples": [
+        {"de": "Der Zug hätte um acht Uhr abfahren sollen.", "en": "The train should have left at eight o'clock."},
+        {"de": "Die Sitzung hätte längst beginnen sollen.", "en": "The meeting should have started long ago."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich bin froh, dass ich mich gegen Grippe {{c1::habe impfen lassen::haben · impfen · lassen}}.",
+      "en": "I'm glad that I got vaccinated against flu.",
+      "focus": "*dass*-Satz · *sich … lassen* im Perfekt",
+      "explanation": "*sich impfen lassen* means 'to have oneself vaccinated'. In the Perfekt it becomes a double infinitive, and in the *dass*-clause the finite **habe** stands before the cluster: *habe impfen lassen*. The reflexive pronoun *mich* stays in the Mittelfeld.",
+      "pattern": "dass + … + **habe** + Inf + **lassen**",
+      "mistake": {
+        "wrong": "Ich bin froh, dass ich mich gegen Grippe impfen gelassen habe.",
+        "why": "*lassen* with a dependent infinitive takes the Ersatzinfinitiv, and then the auxiliary moves before the cluster: *habe impfen lassen*."
+      },
+      "examples": [
+        {"de": "Er erzählt, dass er sich die Haare hat färben lassen.", "en": "He says that he has had his hair dyed."},
+        {"de": "Wir ärgern uns, weil wir uns haben täuschen lassen.", "en": "We are annoyed because we let ourselves be fooled."}
+      ],
+      "words": [{"de": "sich impfen lassen", "en": "to get vaccinated"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Das technische Problem hat sich bis heute nicht lösen {{c1::lassen::möglich sein}}.",
+      "en": "To this day, it has not been possible to solve the technical problem.",
+      "focus": "Perfekt · reflexiver Passiv-Ersatz + Infinitiv",
+      "explanation": "*sich lösen lassen* means 'can be solved'. In the Perfekt the auxiliary is *haben* and *lassen* stays an infinitive: *hat sich … lösen* **lassen**. The reflexive *sich* stands in the Mittelfeld.",
+      "pattern": "haben + sich + Inf + **lassen**",
+      "mistake": {
+        "wrong": "Das technische Problem hat sich bis heute nicht lösen gelassen.",
+        "why": "With the dependent infinitive *lösen*, *lassen* must stay in the infinitive. *gelassen* is only correct without another verb."
+      },
+      "examples": [
+        {"de": "Der Termin hat sich leider nicht verschieben lassen.", "en": "Unfortunately, it wasn't possible to move the appointment."},
+        {"de": "Die Ursache hat sich nie ganz klären lassen.", "en": "The cause could never be fully clarified."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of modal verbs in the Perfekt.",
+      "prompt": "When does a modal verb in the Perfekt use the infinitive (*müssen*) and when the Partizip II (*gemusst*)?",
+      "answer": "With a dependent infinitive → **Ersatzinfinitiv** (*Ich habe arbeiten müssen*). Without a dependent infinitive (alone, with an object or a direction) → **Partizip II** (*Ich habe es gemusst; Er hat Deutsch gekonnt*).",
+      "explanation": "The deciding question is whether another verb in the infinitive depends on the modal. If yes, two infinitives stand at the end. If the modal is used like a full verb, it behaves like every other verb in the Perfekt.",
+      "examples": [
+        {"de": "Wir haben das Formular neu ausfüllen müssen.", "en": "We had to fill in the form again."},
+        {"de": "Sie hat die Übung sofort gekonnt.", "en": "She could do the exercise straight away."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the auxiliary verb.",
+      "prompt": "Which auxiliary does the Perfekt with a double infinitive take when the main verb is *gehen*, *fahren* or *bleiben*?",
+      "answer": "Always **haben**: *Er hat nicht fahren können.* The modal (the last verb) decides the auxiliary, and modals take *haben*.",
+      "explanation": "In a verb cluster the auxiliary is chosen by the verb that it directly governs, which is the modal. *sein* would only be correct with the main verb alone: *Er ist gefahren* vs. *Er hat fahren wollen*.",
+      "examples": [
+        {"de": "Sie hat gestern nicht ins Büro gehen müssen.", "en": "She didn't have to go to the office yesterday."},
+        {"de": "Wir haben leider nicht länger bleiben dürfen.", "en": "Unfortunately, we weren't allowed to stay longer."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about word order in subordinate clauses.",
+      "prompt": "Where does the finite auxiliary go in a Nebensatz with a double infinitive?",
+      "answer": "Directly **before** the two infinitives, not at the end: *…, weil er **hat** arbeiten müssen.* The same holds for *hätte*: *…, wenn ich **hätte** helfen können.*",
+      "explanation": "This is the main exception to the rule 'finite verb last in the Nebensatz'. The double infinitive must stay at the very end, so the auxiliary moves in front of it. Words from the Mittelfeld cannot stand between *hat* and the cluster in standard German.",
+      "examples": [
+        {"de": "Ich glaube, dass sie den Termin hat absagen müssen.", "en": "I think that she had to cancel the appointment."},
+        {"de": "Es ist schade, dass ihr nicht habt mitkommen können.", "en": "It's a pity that you weren't able to come along."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about verbs that behave like modals.",
+      "prompt": "Which verbs besides the modals form a double infinitive, and how strict is the rule for each?",
+      "answer": "**lassen**: nearly always double infinitive (*hat warten lassen*). **sehen, hören**: usually double infinitive, Partizip II also accepted (*hat sie singen hören / gehört*). **helfen, fühlen**: both forms are common. **brauchen** + *zu*: double infinitive in the standard (*hätte nicht zu kommen brauchen*).",
+      "explanation": "These verbs can govern a bare infinitive, so the same cluster forms. With *lassen* the Partizip II next to an infinitive sounds wrong; with *helfen* the Partizip II (*hat mir tragen geholfen*) is at least as frequent as the infinitive.",
+      "examples": [
+        {"de": "Er hat mir beim Umzug die Kisten tragen helfen.", "en": "He helped me carry the boxes when I moved."},
+        {"de": "Wir haben den Zug kommen sehen.", "en": "We saw the train coming."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Contrast the objective and the subjective use of the modal.",
+      "prompt": "What is the difference between *Er hat das nicht wissen können* and *Er kann das nicht gewusst haben*?",
+      "answer": "*hat … wissen können* (double infinitive) = past of the **objective** modal: he was not able to know. *kann … gewusst haben* (modal + Infinitiv Perfekt) = **subjective** present assessment: I am sure that he did not know.",
+      "explanation": "The double infinitive puts the modal itself in the past. The subjective form keeps the modal in the present (the speaker's view now) and puts the main verb in the past with *gewusst haben*. The word order of the two forms is also different.",
+      "examples": [
+        {"de": "Sie hat den Bus nicht erreichen können.", "en": "She wasn't able to catch the bus."},
+        {"de": "Sie muss den Bus verpasst haben.", "en": "She must have missed the bus."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Wir mussten den Flug umbuchen.",
+      "answer": "Wir haben den Flug umbuchen müssen.",
+      "explanation": "*mussten* is the Präteritum of *müssen*. In the Perfekt the auxiliary *haben* takes position 2, and the two infinitives go to the end: the separable verb *umbuchen* first, the modal *müssen* last."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Der Patient durfte nach drei Tagen nach Hause gehen.",
+      "answer": "Der Patient hat nach drei Tagen nach Hause gehen dürfen.",
+      "explanation": "*gehen* alone would take *sein*, but the modal *dürfen* decides the auxiliary: *hat*. *dürfen* stays in the infinitive after *gehen* because it has a dependent verb."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Start the sentence with *Ich bin sicher, dass …* and keep the Perfekt.",
+      "prompt": "Er hat den Bericht allein schreiben müssen.",
+      "answer": "Ich bin sicher, dass er den Bericht allein hat schreiben müssen.",
+      "explanation": "In the *dass*-clause the finite verb would normally be last. With the double infinitive *schreiben müssen* the auxiliary *hat* stands directly before the cluster instead."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Express regret about the past with the Konjunktiv II Vergangenheit of *sollen*.",
+      "prompt": "Ich habe nicht genug geschlafen.",
+      "answer": "Ich hätte mehr schlafen sollen.",
+      "explanation": "Regret about the past is *hätte* + infinitive + *sollen*. The main verb *schlafen* becomes an infinitive, and *sollen* stands last. *nicht genug* is turned into the positive advice *mehr*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie ist gestern nicht zur Arbeit fahren können.",
+      "answer": "Sie hat gestern nicht zur Arbeit fahren können.",
+      "explanation": "The auxiliary is wrong. The last verb in the group is the modal *können*, and modals form the Perfekt with *haben*, even when the main verb is *fahren*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe den Schlüssel nicht finden gekonnt.",
+      "answer": "Ich habe den Schlüssel nicht finden können.",
+      "explanation": "*gekonnt* is wrong because *können* has the dependent infinitive *finden*. The Ersatzinfinitiv *können* is required."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es ist schade, dass wir das Spiel nicht sehen dürfen haben.",
+      "answer": "Es ist schade, dass wir das Spiel nicht haben sehen dürfen.",
+      "explanation": "In a Nebensatz with a double infinitive, the auxiliary does not stand at the end. *haben* moves in front of the cluster *sehen dürfen*."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Ich habe die Kopien meiner Zeugnisse beim Notar beglaubigen ___.",
+      "options": ["lassen", "gelassen", "zu lassen"],
+      "correct": "lassen",
+      "answer": "Ich habe die Kopien meiner Zeugnisse beim Notar beglaubigen lassen.",
+      "explanation": "*beglaubigen lassen* = to have something certified. With a dependent infinitive, *lassen* takes the Ersatzinfinitiv. *gelassen* is only used without another verb, and *zu* never appears with *lassen* + infinitive."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Diesen Job hat er eigentlich nie ___.",
+      "options": ["wollen", "gewollt", "wollen gehabt"],
+      "correct": "gewollt",
+      "answer": "Diesen Job hat er eigentlich nie gewollt.",
+      "explanation": "*wollen* has only the object *diesen Job* and no dependent infinitive, so the Perfekt uses the Partizip II *gewollt*. *wollen* would need another infinitive, and *wollen gehabt* does not exist."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Leider",
+      "prompt": "nicht / er / leider / teilnehmen / hat / können / an der Sitzung",
+      "answer": "Leider hat er an der Sitzung nicht teilnehmen können.",
+      "explanation": "*Leider* fills the Vorfeld, so *hat* comes in position 2 and the subject *er* follows. The prepositional object and *nicht* stay in the Mittelfeld, and the two infinitives close the sentence with the modal last. *Leider hat er nicht an der Sitzung teilnehmen können.* is also correct."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order to form a Nebensatz. Start with: Ich weiß nicht, ob",
+      "prompt": "ich weiß nicht, ob / die Zahlen / prüfen / er / hat / lassen",
+      "answer": "Ich weiß nicht, ob er die Zahlen hat prüfen lassen.",
+      "explanation": "*ob* starts a Nebensatz. The subject and the object stand in the Mittelfeld, and the finite *hat* goes before the cluster *prüfen lassen* instead of to the end."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join with *weil* and keep the Perfekt.",
+      "prompt": "Wir sind zu spät gekommen. Wir haben einen Umweg fahren müssen.",
+      "answer": "Wir sind zu spät gekommen, weil wir einen Umweg haben fahren müssen.",
+      "explanation": "The second sentence becomes the *weil*-clause. Its finite *haben* moves before the double infinitive *fahren müssen*. The first clause keeps *sind … gekommen*, because there *kommen* has no modal."
+    }
+  ]
+}

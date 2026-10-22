@@ -1,0 +1,718 @@
+{
+  "topic_id": "b1-01-konjunktiv-2-gegenwart",
+  "level": "B1",
+  "title_de": "Konjunktiv II (Gegenwart) — Vertiefung",
+  "title_en": "Konjunktiv II (present) — unreal conditions and wishes",
+  "rule": {
+    "summary": "At B1 the Konjunktiv II is used for things that are **not real** now: unreal conditions (*Wenn ich Zeit hätte, würde ich mehr lesen.*), unreal wishes (*Wenn ich doch mehr Zeit hätte!*), hypothetical questions and advice (*An deiner Stelle würde ich …*). The speaker knows that the situation is different in reality: *Ich habe keine Zeit.* For *sein, haben*, the modal verbs and a few frequent verbs (*wissen, geben, kommen*) the verb's own form is used; for most other verbs German uses **würde** + infinitive.",
+    "table": "| Infinitiv | Präteritum | Konjunktiv II | in speech |\n|---|---|---|---|\n| sein | war | wär**e** | wäre |\n| haben | hatte | hätt**e** | hätte |\n| werden | wurde | würd**e** | würde + Infinitiv |\n| können / müssen / dürfen | konnte / musste / durfte | könnt**e** / müsst**e** / dürft**e** | könnte / müsste / dürfte |\n| sollen / wollen | sollte / wollte | sollt**e** / wollt**e** (no umlaut) | sollte / wollte |\n| wissen | wusste | wüsst**e** | wüsste |\n| geben | gab | gäb**e** | es gäbe |\n| kommen / gehen | kam / ging | käm**e** / ging**e** | käme / würde gehen |\n| machen (weak) | machte | machte (= Präteritum) | würde machen |",
+    "steps": [
+      "Check reality: is the situation true now? If yes, use the indicative (*Wenn ich Zeit habe, komme ich.*). If it is only imagined, use the Konjunktiv II in **both** clauses (*Wenn ich Zeit hätte, käme ich / würde ich kommen.*).",
+      "Choose the form: *wäre, hätte*, the modal verbs (*könnte, müsste, dürfte, sollte*) and *wüsste, gäbe, käme* are normal in speech. For other verbs use **würde** + infinitive; for weak verbs this is necessary, because their Konjunktiv II looks like the Präteritum (*machte, kaufte*).",
+      "Build strong forms from the Präteritum: stem + umlaut where possible + **-e**: *kam → käme, gab → gäbe, ging → ginge*. Endings: *ich/er* -e, *du* -(e)st, *wir/sie/Sie* -en, *ihr* -(e)t.",
+      "Word order: in the *wenn*-clause the finite verb goes to the end (*wenn ich mehr Zeit hätte*). If the *wenn*-clause comes first, the main clause starts with its finite verb (*…, würde ich mehr lesen*). Without *wenn*, the condition starts with the verb (*Hätte ich mehr Zeit, …*).",
+      "For wishes use *Wenn … doch / nur* + verb at the end (*Wenn ich doch mehr Zeit hätte!*), verb-first (*Hätte ich doch mehr Zeit!*) or *Ich wünschte, …* (*Ich wünschte, ich hätte mehr Zeit.*)."
+    ],
+    "pitfalls": [
+      "Indicative in one clause, Konjunktiv II in the other: ✗ *Wenn ich mehr Zeit habe, würde ich mehr lesen.* → ✓ *Wenn ich mehr Zeit hätte, würde ich mehr lesen.*",
+      "Verb-second in the main clause after the *wenn*-clause: ✗ *Wenn ich reich wäre, ich würde reisen.* → ✓ *Wenn ich reich wäre, würde ich reisen.*",
+      "*würde* without an infinitive for *sein* or *haben*: ✗ *Wenn er fleißiger wäre, würde er bessere Noten.* → ✓ *…, hätte er bessere Noten.*",
+      "Confusing Konjunktiv II and Konjunktiv I: ✗ *Wenn es mehr Zeit gebe, …* → ✓ *Wenn es mehr Zeit gäbe, …* (*gebe* is Konjunktiv I, used in reported speech).",
+      "Forgetting the umlaut: ✗ *Wenn ich das wusste, würde ich es dir sagen.* → ✓ *Wenn ich das wüsste, …* Without umlaut it is the Präteritum."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Wenn ich mehr Zeit {{c1::hätte::haben}}, würde ich öfter Sport machen.",
+      "en": "If I had more time, I'd do sport more often.",
+      "focus": "irreale Bedingung · *wenn*-Satz · *haben*",
+      "explanation": "Reality: I don't have more time. The imagined condition takes the Konjunktiv II of *haben*: **hätte** (*hatte* + umlaut), at the end of the *wenn*-clause. The consequence uses *würde* + infinitive (*machen* is a weak verb, so *machte* would look like the Präteritum).",
+      "pattern": "Wenn + … + **hätte**, würde + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Wenn ich mehr Zeit habe, würde ich öfter Sport machen.", "why": "*habe* is indicative and presents the condition as real. An unreal condition needs the Konjunktiv II in both clauses: *hätte … würde*."},
+      "examples": [
+        {"de": "Wenn ich mehr Geduld hätte, würde ich ein Instrument lernen.", "en": "If I had more patience, I'd learn an instrument."},
+        {"de": "Wenn sie einen Führerschein hätte, würde sie aufs Land ziehen.", "en": "If she had a driving licence, she'd move to the countryside."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wenn es nicht so kalt {{c1::wäre::sein}}, könnten wir draußen sitzen.",
+      "en": "If it weren't so cold, we could sit outside.",
+      "focus": "irreale Bedingung · Verneinung · *sein*",
+      "explanation": "Reality: it is cold, so we can't sit outside. *kalt sein* → Konjunktiv II **wäre** at the end of the *wenn*-clause. The main clause starts with its finite verb, the modal *könnten* (Konjunktiv II of *können*), and *sitzen* closes it.",
+      "pattern": "Wenn + … + nicht + **wäre**, könnten + Subjekt + Infinitiv",
+      "mistake": {"wrong": "Wenn es nicht so kalt wäre, wir könnten draußen sitzen.", "why": "The *wenn*-clause takes position 1 of the sentence, so the main clause must begin with the finite verb: *…, könnten wir draußen sitzen.*"},
+      "examples": [
+        {"de": "Wenn es nicht so spät wäre, könnten wir noch einen Film anschauen.", "en": "If it weren't so late, we could still watch a film."},
+        {"de": "Wenn der Weg nicht so steil wäre, könnten die Kinder mitkommen.", "en": "If the path weren't so steep, the children could come along."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich {{c1::würde::werden}} gern nach Berlin reisen.",
+      "en": "I'd like to travel to Berlin.",
+      "focus": "Wunsch · Hilfsverb + Infinitiv",
+      "explanation": "*reisen* is a weak verb; its Konjunktiv II *reiste* looks like the Präteritum, so you use **würde** + infinitive. *gern* turns it into a wish. *nach* + city name gives the destination, and *reisen* goes to the end.",
+      "pattern": "ich + **würde** + gern + … + Infinitiv",
+      "mistake": {"wrong": "Ich würde gern nach Berlin zu reisen.", "why": "*würde* takes a bare infinitive, like a modal verb. *zu* is wrong: *würde … reisen*."},
+      "examples": [
+        {"de": "Ich würde gern einmal Polarlichter sehen.", "en": "I'd like to see the northern lights one day."},
+        {"de": "Er würde gern in einer kleineren Firma arbeiten.", "en": "He would like to work in a smaller company."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Wäre::sein}} das Wetter besser, könnten wir wandern.",
+      "en": "If the weather were better, we could go hiking.",
+      "focus": "Bedingung ohne *wenn* · Verb an erster Stelle",
+      "explanation": "The condition can be expressed without *wenn*: then the finite verb moves to position 1 of the clause: **Wäre** *das Wetter besser* = *Wenn das Wetter besser wäre*. The main clause still starts with its verb *könnten*.",
+      "pattern": "**Wäre** + Subjekt + …, könnten + Subjekt + Infinitiv",
+      "mistake": {"wrong": "Das Wetter wäre besser, könnten wir wandern.", "why": "Without *wenn*, the condition must start with the verb (*Wäre das Wetter besser, …*). With the subject first it is a normal statement and the sentence breaks."},
+      "examples": [
+        {"de": "Wäre die Wohnung größer, könnten wir ein Arbeitszimmer einrichten.", "en": "If the flat were bigger, we could set up a study."},
+        {"de": "Wäre der Zug pünktlich, könnten wir den Anschluss noch erreichen.", "en": "If the train were on time, we could still make the connection."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Hätte::haben}} ich genug Geld, würde ich ein neues Auto kaufen.",
+      "en": "If I had enough money, I'd buy a new car.",
+      "focus": "Bedingung ohne *wenn* · *haben*",
+      "explanation": "Verb-first condition: **Hätte** *ich genug Geld* = *Wenn ich genug Geld hätte*. *hätte* (from *hatte* + umlaut) is the Konjunktiv II of *haben*. The consequence uses *würde* + *kaufen*, because *kaufte* would look like the Präteritum.",
+      "pattern": "**Hätte** + Subjekt + Akk., würde + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Hatte ich genug Geld, würde ich ein neues Auto kaufen.", "why": "*hatte* without umlaut is the Präteritum (*I had*). The unreal condition needs the Konjunktiv II *hätte*."},
+      "examples": [
+        {"de": "Hätte ich einen Garten, würde ich Tomaten pflanzen.", "en": "If I had a garden, I'd plant tomatoes."},
+        {"de": "Hätten wir mehr Personal, würden wir länger öffnen.", "en": "If we had more staff, we would open for longer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wenn ich du {{c1::wäre::sein}}, würde ich den Job annehmen.",
+      "en": "If I were you, I'd take the job.",
+      "focus": "Ratschlag · *Wenn ich du …*",
+      "explanation": "This is a fixed frame for advice: the speaker imagines being the other person, which is impossible → Konjunktiv II **wäre**. After *sein* both persons are Nominativ (*ich … du*). The separable verb *annehmen* stays together after *würde*.",
+      "pattern": "Wenn ich du **wäre**, würde ich + … + Infinitiv",
+      "mistake": {"wrong": "Wenn ich du bin, würde ich den Job annehmen.", "why": "*bin* presents the situation as real, but I can never be you. The condition needs the Konjunktiv II: *Wenn ich du wäre, …*"},
+      "examples": [
+        {"de": "Wenn ich Sie wäre, würde ich den Vertrag nicht unterschreiben.", "en": "If I were you, I wouldn't sign the contract."},
+        {"de": "Wenn ich sie wäre, würde ich mich beschweren.", "en": "If I were her, I would complain."}
+      ],
+      "words": [{"de": "annehmen", "en": "to accept, to take (an offer)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Könntest::können}} du mir bitte helfen?",
+      "en": "Could you help me, please?",
+      "focus": "höfliche Bitte · *du* · Modalverb",
+      "explanation": "Besides unreal conditions, the Konjunktiv II also makes requests polite. *können* → *konnte* + umlaut → *könnte*; the *du*-ending is *-st* → **Könntest**. *mir* is Dativ after *helfen*.",
+      "pattern": "**Könntest** + du + Dat. + bitte + Infinitiv?",
+      "mistake": {"wrong": "Konntest du mir bitte helfen?", "why": "*konntest* (no umlaut) is Präteritum (*were you able to*). A request about now needs the Konjunktiv II *Könntest*."},
+      "examples": [
+        {"de": "Könntest du mich morgen früh wecken?", "en": "Could you wake me up tomorrow morning?"},
+        {"de": "Könntest du kurz auf meine Tasche aufpassen?", "en": "Could you keep an eye on my bag for a moment?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "An deiner Stelle {{c1::würde::werden}} ich das nicht machen.",
+      "en": "If I were you, I wouldn't do that.",
+      "focus": "Ratschlag · *An deiner Stelle* im Vorfeld",
+      "explanation": "*An deiner Stelle* is a short form of *Wenn ich an deiner Stelle wäre*. It fills the Vorfeld, so **würde** follows in position 2, then *ich*. *nicht* comes before the infinitive *machen* at the end.",
+      "pattern": "An deiner Stelle + **würde** + ich + … + Infinitiv",
+      "mistake": {"wrong": "An deiner Stelle ich würde das nicht machen.", "why": "*An deiner Stelle* occupies position 1, so the finite verb must come next: *An deiner Stelle würde ich …*"},
+      "examples": [
+        {"de": "An deiner Stelle würde ich mich krankschreiben lassen.", "en": "If I were you, I'd get a sick note."},
+        {"de": "An seiner Stelle würde ich mich bei ihr entschuldigen.", "en": "If I were him, I would apologise to her."}
+      ],
+      "words": [{"de": "an deiner Stelle", "en": "if I were you (lit.: in your place)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Wenn er fleißiger {{c1::wäre::sein}}, hätte er bessere Noten.",
+      "en": "If he were more hard-working, he'd have better grades.",
+      "focus": "irreale Bedingung · Komparativ · zwei eigene Formen",
+      "explanation": "Reality: he is not hard-working enough. *fleißiger sein* → Konjunktiv II **wäre**. The consequence uses the Konjunktiv II of *haben* directly: *hätte er bessere Noten*. No *würde* is needed in either clause.",
+      "pattern": "Wenn + … + **wäre**, hätte + Subjekt + Akk.",
+      "mistake": {"wrong": "Wenn er fleißiger wäre, würde er bessere Noten.", "why": "*würde* needs an infinitive. For *Noten haben* use *hätte* (or the clumsy *würde … haben*)."},
+      "examples": [
+        {"de": "Wenn sie geduldiger wäre, hätte sie weniger Stress.", "en": "If she were more patient, she'd have less stress."},
+        {"de": "Wenn die Wohnung heller wäre, hätte sie mehr Interessenten.", "en": "If the flat were brighter, more people would be interested in it."}
+      ],
+      "words": [{"de": "fleißig", "en": "hard-working"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Es {{c1::wäre::sein}} schön, wenn du kommen könntest.",
+      "en": "It would be nice if you could come.",
+      "focus": "Wunsch · *Es* + Adjektiv + *wenn*-Satz",
+      "explanation": "*Es wäre schön, wenn …* expresses a gentle wish. *schön sein* → **wäre** in the main clause. In the *wenn*-clause the modal *könntest* (Konjunktiv II) goes to the very end, after the infinitive *kommen*.",
+      "pattern": "Es + **wäre** + Adjektiv, wenn + … + Infinitiv + Modalverb",
+      "mistake": {"wrong": "Es wäre schön, wenn du könntest kommen.", "why": "In a *wenn*-clause the finite verb goes to the end: *…, wenn du kommen könntest.*"},
+      "examples": [
+        {"de": "Es wäre toll, wenn wir uns bald wiedersehen könnten.", "en": "It would be great if we could see each other again soon."},
+        {"de": "Es wäre hilfreich, wenn Sie das Formular heute ausfüllen könnten.", "en": "It would be helpful if you could fill in the form today."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wenn das Auto billiger {{c1::wäre::sein}}, würde ich es kaufen.",
+      "en": "If the car were cheaper, I'd buy it.",
+      "focus": "irreale Bedingung · Komparativ · Singular-Subjekt",
+      "explanation": "Reality: the car is too expensive. *billiger sein* → **wäre**, singular because *das Auto* is one thing. The main clause starts with *würde*; the pronoun *es* refers back to *das Auto*, and *kaufen* closes the sentence.",
+      "pattern": "Wenn + Subjekt + Komparativ + **wäre**, würde + … + Infinitiv",
+      "mistake": {"wrong": "Wenn das Auto billiger wären, würde ich es kaufen.", "why": "*das Auto* is singular, so the verb is *wäre*. *wären* is plural."},
+      "examples": [
+        {"de": "Wenn die Miete niedriger wäre, würden wir hier bleiben.", "en": "If the rent were lower, we would stay here."},
+        {"de": "Wenn das Ticket günstiger wäre, würde ich öfter mit dem Zug fahren.", "en": "If the ticket were cheaper, I would go by train more often."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich {{c1::würde::werden}} gern Italienisch lernen.",
+      "en": "I'd like to learn Italian.",
+      "focus": "Wunsch · schwaches Verb · Ersatzform",
+      "explanation": "*lernen* is weak: its Konjunktiv II *lernte* is identical to the Präteritum, so German uses **würde** + infinitive. Languages are written with a capital letter when used as a noun: *Italienisch*.",
+      "pattern": "ich + **würde** + gern + Akk. + Infinitiv",
+      "mistake": {"wrong": "Ich wurde gern Italienisch lernen.", "why": "*wurde* without umlaut is the Präteritum of *werden*. The wish needs *würde*."},
+      "examples": [
+        {"de": "Ich würde gern besser tanzen können.", "en": "I'd like to be able to dance better."},
+        {"de": "Sie würde gern mehr über Astronomie wissen.", "en": "She would like to know more about astronomy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie {{c1::müsste::müssen}} jetzt eigentlich da sein.",
+      "en": "She really should be here by now.",
+      "focus": "Vermutung · Modalverb im Konjunktiv II",
+      "explanation": "Here **müsste** expresses a logical expectation, not an obligation: according to the plan she should be here, but she is not (yet). *eigentlich* stresses the gap between expectation and reality. *da sein* closes the sentence.",
+      "pattern": "Subjekt + **müsste** + jetzt + eigentlich + … + Infinitiv",
+      "mistake": {"wrong": "Sie musste jetzt eigentlich da sein.", "why": "*musste* (no umlaut) is Präteritum: it reports a past necessity (*she had to be there*), not an expectation about now. In a conversation about the present, the expectation needs the Konjunktiv II *müsste*."},
+      "examples": [
+        {"de": "Das Paket müsste morgen ankommen.", "en": "The parcel should arrive tomorrow."},
+        {"de": "Der Schlüssel müsste in der Schublade liegen.", "en": "The key should be in the drawer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wenn ich nicht arbeiten {{c1::müsste::müssen}}, würde ich Urlaub machen.",
+      "en": "If I didn't have to work, I'd go on holiday.",
+      "focus": "irreale Bedingung · Modalverb im *wenn*-Satz",
+      "explanation": "Reality: I have to work. The modal verb takes its own Konjunktiv II: *musste* + umlaut → **müsste**. In the *wenn*-clause it stands at the very end, after the infinitive *arbeiten*.",
+      "pattern": "Wenn + … + Infinitiv + **müsste**, würde + … + Infinitiv",
+      "mistake": {"wrong": "Wenn ich nicht müsste arbeiten, würde ich Urlaub machen.", "why": "In the *wenn*-clause the finite verb *müsste* goes to the end, after the infinitive: *wenn ich nicht arbeiten müsste*."},
+      "examples": [
+        {"de": "Wenn ich nicht pendeln müsste, hätte ich mehr Freizeit.", "en": "If I didn't have to commute, I'd have more free time."},
+        {"de": "Wenn wir nicht sparen müssten, würden wir öfter essen gehen.", "en": "If we didn't have to save, we would eat out more often."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Es {{c1::wäre::sein}} besser, wenn wir früher anfingen.",
+      "en": "It would be better if we started earlier.",
+      "focus": "Rat · *Es* + Komparativ · starke Form im *wenn*-Satz",
+      "explanation": "*besser sein* → **wäre** in the main clause. In the *wenn*-clause the strong verb *anfangen* takes its own Konjunktiv II *anfingen* (Präteritum stem *fing*, no umlaut possible). This form sounds formal; in speech *wenn wir früher anfangen würden* is more common.",
+      "pattern": "Es + **wäre** + besser, wenn + … + Verb (Konj. II)",
+      "mistake": {"wrong": "Es wäre besser, wenn wir früher anfängen.", "why": "*anfängen* does not exist. The Konjunktiv II of *anfangen* comes from the Präteritum: *anfingen* (or *anfangen würden*)."},
+      "examples": [
+        {"de": "Es wäre besser, wenn wir heute zu Hause blieben.", "en": "It would be better if we stayed at home today."},
+        {"de": "Es wäre klüger, wenn wir den Zug um sieben nähmen.", "en": "It would be wiser if we took the train at seven."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Hättest::haben}} du Lust, mit mir spazieren zu gehen?",
+      "en": "Would you feel like going for a walk with me?",
+      "focus": "Einladung · *du* · *Lust haben*",
+      "explanation": "*Lust haben* (+ *zu*-infinitive) = to feel like doing something. The Konjunktiv II of *haben* makes the invitation softer: **Hättest** (*hätte* + *-st*). *spazieren gehen* becomes *spazieren zu gehen*, with *zu* before the last verb.",
+      "pattern": "**Hättest** + du + Lust, + zu-Infinitiv?",
+      "mistake": {"wrong": "Würdest du Lust, mit mir spazieren zu gehen?", "why": "*würdest* needs an infinitive. For *Lust haben* use the Konjunktiv II of *haben* directly: *Hättest du Lust …?*"},
+      "examples": [
+        {"de": "Hättest du Lust, am Samstag mit uns zu grillen?", "en": "Would you like to have a barbecue with us on Saturday?"},
+        {"de": "Hätten Sie Interesse, an der Umfrage teilzunehmen?", "en": "Would you be interested in taking part in the survey?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Wir {{c1::würden::werden}} gern länger bleiben.",
+      "en": "We'd like to stay longer.",
+      "focus": "Wunsch · *wir* · Hilfsverb + Infinitiv",
+      "explanation": "The *wir*-form of *würde* adds **-n**: **würden**. *gern* makes it a wish; the sentence often implies that it is not possible (*… aber wir müssen los*). *länger* (comparative of *lang*) stands before the infinitive *bleiben*.",
+      "pattern": "wir + **würden** + gern + … + Infinitiv",
+      "mistake": {"wrong": "Wir würdet gern länger bleiben.", "why": "*würdet* is the *ihr*-form. With *wir* the form is *würden*."},
+      "examples": [
+        {"de": "Wir würden gern noch ein bisschen feiern.", "en": "We'd like to celebrate a bit longer."},
+        {"de": "Die Kinder würden gern im Garten zelten.", "en": "The children would like to camp in the garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Dürfte::dürfen}} ich Sie etwas fragen?",
+      "en": "Might I ask you something?",
+      "focus": "sehr höfliche Bitte um Erlaubnis",
+      "explanation": "**Dürfte** (*durfte* + umlaut) is the Konjunktiv II of *dürfen*. In a question with *ich* it is a very polite way to ask for permission, more formal than *Darf ich …?*. *fragen* takes the Akkusativ *Sie*.",
+      "pattern": "**Dürfte** + ich + Akk. + etwas + Infinitiv?",
+      "mistake": {"wrong": "Durfte ich Sie etwas fragen?", "why": "*durfte* without umlaut is the Präteritum (*was I allowed*). The polite request about now is *Dürfte ich …?*"},
+      "examples": [
+        {"de": "Dürfte ich kurz stören?", "en": "Might I interrupt for a moment?"},
+        {"de": "Dürfte ich einen Blick in die Unterlagen werfen?", "en": "Might I take a look at the documents?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wenn er Zeit {{c1::hätte::haben}}, würde er uns besuchen.",
+      "en": "If he had time, he'd visit us.",
+      "focus": "irreale Bedingung · 3. Person",
+      "explanation": "Reality: he has no time, so he doesn't visit. *Zeit haben* → **hätte** (*er* = *ich*-form) at the end of the *wenn*-clause. The consequence: *würde er uns besuchen*, with the infinitive at the end.",
+      "pattern": "Wenn + … + **hätte**, würde + Subjekt + Akk. + Infinitiv",
+      "mistake": {"wrong": "Wenn er Zeit hätte, würde er uns besucht.", "why": "*würde* is followed by the infinitive, not the Partizip II: *würde er uns besuchen*."},
+      "examples": [
+        {"de": "Wenn sie Zeit hätte, würde sie einen Kochkurs machen.", "en": "If she had time, she'd take a cooking course."},
+        {"de": "Wenn meine Eltern Zeit hätten, würden sie öfter verreisen.", "en": "If my parents had time, they would travel more often."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ohne dich {{c1::wäre::sein}} ich verloren.",
+      "en": "Without you I'd be lost.",
+      "focus": "irreale Bedingung in einer Präpositionalphrase",
+      "explanation": "*Ohne dich* contains a hidden condition: *Wenn du nicht da wärst, …*. The main clause is therefore in the Konjunktiv II: **wäre**. *Ohne dich* fills the Vorfeld, so *wäre* is in position 2 before *ich*.",
+      "pattern": "Ohne + Akk. + **wäre** + Subjekt + Adjektiv",
+      "mistake": {"wrong": "Ohne dich ich wäre verloren.", "why": "*Ohne dich* is position 1, so the finite verb comes next: *Ohne dich wäre ich verloren.*"},
+      "examples": [
+        {"de": "Ohne Navi wären wir völlig verloren.", "en": "Without a satnav we would be completely lost."},
+        {"de": "Ohne seine Hilfe wäre das Projekt viel teurer.", "en": "Without his help the project would be much more expensive."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Wenn ich doch nur mehr Geld {{c1::hätte::haben}}!",
+      "en": "If only I had more money!",
+      "focus": "irrealer Wunsch · *wenn … doch nur*",
+      "explanation": "An unreal wish has the form of a *wenn*-clause without a main clause. *doch* and *nur* (often both) mark it as a wish. The verb is in the Konjunktiv II and at the end: **hätte**.",
+      "pattern": "Wenn + Subjekt + doch (nur) + … + Konj. II!",
+      "mistake": {"wrong": "Wenn ich doch nur mehr Geld habe!", "why": "A wish about something unreal needs the Konjunktiv II. With *habe* the sentence states a real condition and has no main clause."},
+      "examples": [
+        {"de": "Wenn der Regen doch endlich aufhören würde!", "en": "If only the rain would finally stop!"},
+        {"de": "Wenn wir nur ein bisschen mehr Platz hätten!", "en": "If only we had a bit more space!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich wünschte, ich {{c1::könnte::können}} besser kochen.",
+      "en": "I wish I could cook better.",
+      "focus": "Wunsch mit *ich wünschte*",
+      "explanation": "*Ich wünschte* (itself a Konjunktiv II form of *wünschen*) introduces an unreal wish. The following clause has main-clause word order and the Konjunktiv II: **könnte** in position 2, *kochen* at the end.",
+      "pattern": "Ich wünschte, + Subjekt + Konj. II + … + Infinitiv",
+      "mistake": {"wrong": "Ich wünschte, ich kann besser kochen.", "why": "The wish is unreal (I can't cook well), so the clause needs the Konjunktiv II *könnte*, not the indicative *kann*."},
+      "examples": [
+        {"de": "Ich wünschte, ich wäre schon im Urlaub.", "en": "I wish I were already on holiday."},
+        {"de": "Er wünschte, er hätte einen anderen Job.", "en": "He wished he had a different job."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wenn es mehr Radwege {{c1::gäbe::geben}}, würden mehr Leute mit dem Fahrrad fahren.",
+      "en": "If there were more cycle paths, more people would cycle.",
+      "focus": "starkes Verb · *es gibt* im Konjunktiv II",
+      "explanation": "*es gibt* (there is/are) has a common Konjunktiv II: *gab* + umlaut + *-e* → **gäbe**. *es* stays singular although *Radwege* is plural, because *Radwege* is the Akkusativ object. The main clause uses *würden* + *fahren*.",
+      "pattern": "Wenn es + Akk. + **gäbe**, würden + … + Infinitiv",
+      "mistake": {"wrong": "Wenn es mehr Radwege gebe, würden mehr Leute mit dem Fahrrad fahren.", "why": "*gebe* is Konjunktiv I (used in reported speech). The unreal condition needs the Konjunktiv II *gäbe*, with umlaut from *gab*."},
+      "examples": [
+        {"de": "Wenn es hier einen Supermarkt gäbe, müssten wir nicht so weit fahren.", "en": "If there were a supermarket here, we wouldn't have to drive so far."},
+        {"de": "Gäbe es weniger Verkehr, wäre die Luft in der Stadt besser.", "en": "If there were less traffic, the air in the city would be better."}
+      ],
+      "words": [{"de": "der Radweg (-e)", "en": "cycle path"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wenn ich seine Nummer {{c1::wüsste::wissen}}, würde ich ihn sofort anrufen.",
+      "en": "If I knew his number, I would call him straight away.",
+      "focus": "*wissen* · eigene Konjunktiv-II-Form",
+      "explanation": "*wissen* is one of the few non-modal verbs whose own Konjunktiv II is normal in speech: *wusste* + umlaut → **wüsste**. It stands at the end of the *wenn*-clause. The main clause begins with *würde*, and *anrufen* stays together at the end.",
+      "pattern": "Wenn + … + **wüsste**, würde + … + Infinitiv",
+      "mistake": {"wrong": "Wenn ich seine Nummer wusste, würde ich ihn sofort anrufen.", "why": "*wusste* (no umlaut) is Präteritum. The unreal present condition needs *wüsste*."},
+      "examples": [
+        {"de": "Wenn ich die Antwort wüsste, würde ich es dir sagen.", "en": "If I knew the answer, I would tell you."},
+        {"de": "Wenn wir wüssten, wo sie wohnt, könnten wir sie abholen.", "en": "If we knew where she lives, we could pick her up."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wenn der Bus öfter {{c1::käme::kommen}}, müsste ich nicht so früh losgehen.",
+      "en": "If the bus came more often, I wouldn't have to leave so early.",
+      "focus": "starkes Verb · Präteritum-Stamm + Umlaut",
+      "explanation": "Strong verbs build the Konjunktiv II from the Präteritum stem + umlaut + *-e*: *kam* → **käme**. *käme* is common, also in speech (alternative: *kommen würde*). The consequence uses the modal *müsste* + *nicht* + *losgehen*.",
+      "pattern": "Wenn + … + **käme**, müsste + … + Infinitiv",
+      "mistake": {"wrong": "Wenn der Bus öfter kam, müsste ich nicht so früh losgehen.", "why": "*kam* without umlaut is the Präteritum. The unreal condition needs the Konjunktiv II *käme*."},
+      "examples": [
+        {"de": "Wenn sie heute käme, könnten wir zusammen essen.", "en": "If she came today, we could eat together."},
+        {"de": "Wenn du mitkämst, würde es mehr Spaß machen.", "en": "If you came along, it would be more fun."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Was {{c1::würdest::werden}} du machen, wenn du eine Million Euro hättest?",
+      "en": "What would you do if you had a million euros?",
+      "focus": "hypothetische W-Frage · *du*",
+      "explanation": "A hypothetical question: both the question and the condition are in the Konjunktiv II. In the W-question **würdest** is in position 2 after *Was*, and *machen* goes to the end. The *wenn*-clause follows with *hättest* at the end.",
+      "pattern": "W-Wort + **würdest** + du + Infinitiv, wenn + … + Konj. II?",
+      "mistake": {"wrong": "Was würdest du machen, wenn du eine Million Euro hast?", "why": "The situation is imagined, so the *wenn*-clause also needs the Konjunktiv II: *wenn du … hättest*."},
+      "examples": [
+        {"de": "Wohin würdest du reisen, wenn du drei Monate frei hättest?", "en": "Where would you travel if you had three months off?"},
+        {"de": "Was würden Sie ändern, wenn Sie Bürgermeister wären?", "en": "What would you change if you were mayor?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich habe leider keine Zeit, sonst {{c1::würde::werden}} ich mitkommen.",
+      "en": "Unfortunately I don't have time, otherwise I'd come along.",
+      "focus": "Realität + irreale Folge mit *sonst*",
+      "explanation": "The first clause states reality (indicative: *habe*). *sonst* (otherwise) introduces what would happen in the opposite case, so it takes the Konjunktiv II: **würde** … *mitkommen*. *sonst* fills position 1, so *würde* comes before *ich*.",
+      "pattern": "Realität (Indikativ), sonst + **würde** + Subjekt + Infinitiv",
+      "mistake": {"wrong": "Ich habe leider keine Zeit, sonst ich würde mitkommen.", "why": "*sonst* is an adverb in position 1 of its clause, so the finite verb follows directly: *sonst würde ich mitkommen*."},
+      "examples": [
+        {"de": "Das Hotel ist ausgebucht, sonst würden wir noch eine Nacht bleiben.", "en": "The hotel is fully booked, otherwise we would stay another night."},
+        {"de": "Er ist krank, sonst wäre er heute hier.", "en": "He's ill, otherwise he would be here today."}
+      ],
+      "words": [{"de": "sonst", "en": "otherwise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Wenn ihr nicht so laut {{c1::wärt::sein}}, könnte das Baby schlafen.",
+      "en": "If you weren't so loud, the baby could sleep.",
+      "focus": "irreale Bedingung · *ihr*-Form von *sein*",
+      "explanation": "The *ihr*-form of the Konjunktiv II of *sein* is **wärt** (also *wäret*). It stands at the end of the *wenn*-clause. The main clause starts with the modal *könnte* (singular for *das Baby*).",
+      "pattern": "Wenn ihr + … + **wärt**, könnte + Subjekt + Infinitiv",
+      "mistake": {"wrong": "Wenn ihr nicht so laut wärst, könnte das Baby schlafen.", "why": "*wärst* is the *du*-form. With *ihr* the form is *wärt*."},
+      "examples": [
+        {"de": "Wenn ihr pünktlicher wärt, müssten wir nicht immer warten.", "en": "If you were more punctual, we wouldn't always have to wait."},
+        {"de": "Wenn ihr nicht so weit weg wärt, könnten wir uns öfter sehen.", "en": "If you (all) didn't live so far away, we could see each other more often."}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wir würden öfter ins Theater gehen, wenn die Karten nicht so teuer {{c1::wären::sein}}.",
+      "en": "We would go to the theatre more often if the tickets weren't so expensive.",
+      "focus": "Hauptsatz zuerst · *wenn*-Satz danach · Plural",
+      "explanation": "The *wenn*-clause can also follow the main clause; then the main clause has normal word order (*Wir würden …*). *die Karten* is plural, so the verb is **wären**, at the end of the *wenn*-clause.",
+      "pattern": "Hauptsatz (Konj. II), wenn + Plural-Subjekt + … + **wären**",
+      "mistake": {"wrong": "Wir würden öfter ins Theater gehen, wenn die Karten nicht so teuer wäre.", "why": "*die Karten* is plural, so the verb must be plural too: *wären*."},
+      "examples": [
+        {"de": "Ich würde hier gern wohnen, wenn die Nachbarn freundlicher wären.", "en": "I'd like to live here if the neighbours were friendlier."},
+        {"de": "Sie würde mehr lesen, wenn die Tage länger wären.", "en": "She would read more if the days were longer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wenn ich von zu Hause arbeiten {{c1::dürfte::dürfen}}, würde ich viel Zeit sparen.",
+      "en": "If I were allowed to work from home, I would save a lot of time.",
+      "focus": "irreale Bedingung · Erlaubnis",
+      "explanation": "Reality: I am not allowed to work from home. The modal *dürfen* takes its own Konjunktiv II: *durfte* + umlaut → **dürfte**, at the end of the *wenn*-clause after *arbeiten*. The consequence uses *würde* + *sparen*.",
+      "pattern": "Wenn + … + Infinitiv + **dürfte**, würde + … + Infinitiv",
+      "mistake": {"wrong": "Wenn ich von zu Hause arbeiten darf, würde ich viel Zeit sparen.", "why": "*darf* is indicative and makes the condition real. Both clauses need the Konjunktiv II: *dürfte … würde*."},
+      "examples": [
+        {"de": "Wenn wir hier parken dürften, wäre alles viel einfacher.", "en": "If we were allowed to park here, everything would be much easier."},
+        {"de": "Wenn die Kinder länger aufbleiben dürften, wären sie glücklich.", "en": "If the children were allowed to stay up longer, they would be happy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Mit mehr Erfahrung {{c1::hätte::haben}} sie bessere Chancen auf die Stelle.",
+      "en": "With more experience she would have better chances of getting the job.",
+      "focus": "versteckte Bedingung · *mit* + Nomen",
+      "explanation": "*Mit mehr Erfahrung* is a short condition: *Wenn sie mehr Erfahrung hätte, …*. So the main clause is in the Konjunktiv II: **hätte**, in position 2 after the Vorfeld. *Chancen auf* + Akkusativ: *auf die Stelle*.",
+      "pattern": "Mit + Nomen (Bedingung) + **hätte** + Subjekt + Akk.",
+      "mistake": {"wrong": "Mit mehr Erfahrung sie hätte bessere Chancen auf die Stelle.", "why": "*Mit mehr Erfahrung* fills position 1, so the finite verb comes next: *Mit mehr Erfahrung hätte sie …*"},
+      "examples": [
+        {"de": "Bei schönem Wetter könnten wir auf dem Balkon frühstücken.", "en": "In nice weather we could have breakfast on the balcony."},
+        {"de": "Mit einem besseren Laptop wäre ich viel schneller fertig.", "en": "With a better laptop I would be finished much faster."}
+      ],
+      "words": [{"de": "die Stelle (-n)", "en": "job, position"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wenn sie mehr Sport {{c1::machen würde::machen → Konj. II}}, hätte sie weniger Rückenschmerzen.",
+      "en": "If she did more sport, she would have fewer backaches.",
+      "focus": "schwaches Verb im *wenn*-Satz · Ersatzform",
+      "explanation": "*machen* is weak: its Konjunktiv II *machte* is identical to the Präteritum and would be misunderstood. So the *wenn*-clause uses **machen würde**, with *würde* at the very end. This is fully accepted in modern German.",
+      "pattern": "Wenn + … + Infinitiv + **würde**, Konj. II + …",
+      "mistake": {"wrong": "Wenn sie mehr Sport würde machen, hätte sie weniger Rückenschmerzen.", "why": "In the *wenn*-clause the finite verb *würde* goes to the very end, after the infinitive: *wenn sie mehr Sport machen würde*."},
+      "examples": [
+        {"de": "Wenn er weniger rauchen würde, ginge es ihm besser.", "en": "If he smoked less, he would feel better."},
+        {"de": "Wenn ihr früher buchen würdet, wären die Flüge billiger.", "en": "If you booked earlier, the flights would be cheaper."}
+      ],
+      "words": [{"de": "die Rückenschmerzen (Pl.)", "en": "back pain"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the forms of strong verbs.",
+      "prompt": "How is the Konjunktiv II of a strong verb formed, and which strong forms are common in speech?",
+      "answer": "**Präteritum stem + umlaut (a/o/u → ä/ö/ü) + -e**: *kam → käme, gab → gäbe, ging → ginge, war → wäre*. Common in speech: **wäre, hätte, käme, gäbe, wüsste** and the modal verbs. For most other strong verbs people say *würde* + infinitive.",
+      "explanation": "Forms like *ginge, bliebe, nähme* are correct but sound formal or written. *es gäbe* and *käme* are frequent in everyday German. If the stem vowel cannot take an umlaut (*ging, blieb*), only the *-e* shows the Konjunktiv.",
+      "examples": [
+        {"de": "Wenn er heute noch käme, wäre alles gut.", "en": "If he still came today, everything would be fine."},
+        {"de": "Ohne Wasser gäbe es kein Leben.", "en": "Without water there would be no life."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain why the replacement form is needed.",
+      "prompt": "Why do weak verbs like *machen* or *kaufen* normally use *würde* + infinitive?",
+      "answer": "Their Konjunktiv II is **identical to the Präteritum** (*machte, kaufte*). *würde* + infinitive makes the unreal meaning clear: *Wenn ich ein Auto kaufen würde, …*",
+      "explanation": "*Wenn ich ein Auto kaufte* could mean *when I bought a car (in the past)* or *if I bought a car*. The *würde*-form removes this ambiguity. It is now standard in both clauses, also in the *wenn*-clause.",
+      "examples": [
+        {"de": "Früher kaufte er jede Woche eine Zeitung.", "en": "He used to buy a newspaper every week."},
+        {"de": "Wenn er eine Zeitung kaufen würde, wüsste er das.", "en": "If he bought a newspaper, he would know that."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the two conditions.",
+      "prompt": "What is the difference between *Wenn ich Zeit habe, komme ich.* and *Wenn ich Zeit hätte, würde ich kommen.*?",
+      "answer": "The first is a **real** condition (indicative): it is possible that I will have time. The second is **unreal** (Konjunktiv II): I know I do not have time, so I will not come.",
+      "explanation": "The mood shows the speaker's view of reality. With the indicative the situation is open; with the Konjunktiv II it contradicts the facts. Both clauses of a sentence must agree in this choice.",
+      "examples": [
+        {"de": "Wenn es morgen regnet, bleiben wir zu Hause.", "en": "If it rains tomorrow, we'll stay at home."},
+        {"de": "Wenn es nicht regnen würde, könnten wir grillen.", "en": "If it weren't raining, we could have a barbecue."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "How can you express an unreal condition without *wenn*?",
+      "answer": "Put the **finite verb first** in the condition: *Hätte ich Zeit, würde ich kommen.* = *Wenn ich Zeit hätte, …*. The main clause then starts with its finite verb (optionally after *dann* or *so*).",
+      "explanation": "This verb-first condition is common in writing and also in careful speech. It looks like a yes/no question, but the comma and the following main clause show that it is a condition.",
+      "examples": [
+        {"de": "Wäre ich jünger, würde ich noch einmal studieren.", "en": "If I were younger, I would study again."},
+        {"de": "Hätten wir ein Auto, dann wären wir unabhängiger.", "en": "If we had a car, we would be more independent."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about unreal wishes.",
+      "prompt": "Which three patterns express an unreal wish in the present?",
+      "answer": "(1) **Wenn … doch/nur** + verb at the end: *Wenn ich doch frei hätte!* (2) **Verb first + doch/nur**: *Hätte ich doch frei!* (3) **Ich wünschte, …** + main-clause order: *Ich wünschte, ich hätte frei.*",
+      "explanation": "All three use the Konjunktiv II, because the wish contradicts reality. Patterns (1) and (2) need *doch* or *nur* (often both); without these particles they sound like incomplete conditions.",
+      "examples": [
+        {"de": "Wäre der Winter doch endlich vorbei!", "en": "If only the winter were finally over!"},
+        {"de": "Ich wünschte, du wärst hier.", "en": "I wish you were here."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Wenn wir einen Garten ___, könnten wir Gemüse anbauen.",
+      "options": ["hätten", "haben", "würden", "wären"],
+      "correct": "hätten",
+      "answer": "Wenn wir einen Garten hätten, könnten wir Gemüse anbauen.",
+      "explanation": "The main clause (*könnten*) shows an unreal condition, so the *wenn*-clause needs the Konjunktiv II of *haben*: *hätten*. *haben* is indicative, *würden* lacks an infinitive, and *wären* is the form of *sein*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Wenn es keine Handys ___, wäre das Leben vielleicht ruhiger.",
+      "options": ["gäbe", "gebe", "gibt", "gab"],
+      "correct": "gäbe",
+      "answer": "Wenn es keine Handys gäbe, wäre das Leben vielleicht ruhiger.",
+      "explanation": "*es gibt* in the Konjunktiv II is *es gäbe* (from *gab* + umlaut). *gebe* is Konjunktiv I, *gibt* is indicative, and *gab* is Präteritum."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Ich ___ dir ja gern helfen, aber ich muss gleich los.",
+      "options": ["würde", "werde", "wurde"],
+      "correct": "würde",
+      "answer": "Ich würde dir ja gern helfen, aber ich muss gleich los.",
+      "explanation": "The *aber*-clause shows that the help is not possible, so the wish is unreal: *würde … helfen*. *werde* is future (*I will help*), which contradicts the second clause, and *wurde* is Präteritum."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn ich mehr Urlaub hätte, ich würde eine Weltreise machen.",
+      "answer": "Wenn ich mehr Urlaub hätte, würde ich eine Weltreise machen.",
+      "explanation": "The *wenn*-clause takes position 1 of the sentence, so the main clause starts with the finite verb: *würde ich*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn er Zeit hat, würde er uns beim Umzug helfen.",
+      "answer": "Wenn er Zeit hätte, würde er uns beim Umzug helfen.",
+      "explanation": "The main clause is unreal (*würde*), so the condition must be unreal too: *hat* → *hätte*. Indicative and Konjunktiv II are not mixed in one conditional sentence."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn ich nicht so müde wäre, würde ich noch mitgekommen.",
+      "answer": "Wenn ich nicht so müde wäre, würde ich noch mitkommen.",
+      "explanation": "In the Konjunktiv II of the present, *würde* is followed by the infinitive *mitkommen*. A Partizip II belongs to the Konjunktiv II of the past (*wäre … mitgekommen*)."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Change the real condition into an unreal one (Konjunktiv II in both clauses).",
+      "prompt": "Wenn ich Zeit habe, gehe ich ins Kino.",
+      "answer": "Wenn ich Zeit hätte, würde ich ins Kino gehen.",
+      "explanation": "*habe* → *hätte* (own form of *haben*). *gehe* → *würde … gehen*, because the *würde*-form is normal for *gehen* in speech. *ins Kino* stays before the infinitive."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite the condition without *wenn*.",
+      "prompt": "Wenn ich mehr Platz hätte, würde ich ein Klavier kaufen.",
+      "answer": "Hätte ich mehr Platz, würde ich ein Klavier kaufen.",
+      "explanation": "Without *wenn* the finite verb *hätte* moves to position 1 of the condition, and the subject follows. The main clause stays the same."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Turn the fact into an unreal wish with *Wenn … doch*.",
+      "prompt": "Ich habe keinen Balkon.",
+      "answer": "Wenn ich doch einen Balkon hätte!",
+      "explanation": "The wish is the opposite of the fact: *keinen Balkon* → *einen Balkon*. *haben* becomes *hätte* and moves to the end of the *wenn*-clause; *doch* marks the wish."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Start with *Ich wünschte, …* and express the opposite of the fact.",
+      "prompt": "Ich kann nicht gut Gitarre spielen.",
+      "answer": "Ich wünschte, ich könnte gut Gitarre spielen.",
+      "explanation": "*Ich wünschte* is followed by a clause in main-clause order with the Konjunktiv II: *kann* → *könnte*. The negation *nicht* disappears, because the wish is the opposite of reality."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one unreal conditional sentence with *wenn* (Konjunktiv II).",
+      "prompt": "Die Miete ist so hoch. Wir ziehen nicht in die Innenstadt.",
+      "answer": "Wenn die Miete nicht so hoch wäre, würden wir in die Innenstadt ziehen.",
+      "explanation": "Both facts are reversed: *ist so hoch* → *nicht so hoch wäre*, *ziehen nicht* → *würden … ziehen*. The *wenn*-clause comes first, so the main clause starts with *würden*."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one unreal conditional sentence with *wenn*. Use *könnte* in the main clause.",
+      "prompt": "Ich spreche kein Spanisch. Ich kann mich in Madrid nicht unterhalten.",
+      "answer": "Wenn ich Spanisch sprechen würde, könnte ich mich in Madrid unterhalten.",
+      "explanation": "The negations are removed, because the sentence imagines the opposite of reality. *sprechen* takes *würde* + infinitive in the *wenn*-clause (*spräche* is possible but formal). *kann* → *könnte*, and the reflexive *mich* stays after the subject."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "du / was / würdest / tun / an meiner Stelle",
+      "answer": "Was würdest du an meiner Stelle tun?",
+      "explanation": "The question word *Was* is in position 1 and *würdest* in position 2, then the subject *du*. *an meiner Stelle* stands in the Mittelfeld, and the infinitive *tun* closes the question."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ohne Kaffee",
+      "prompt": "ich / wäre / ohne Kaffee / morgens / nicht wach",
+      "answer": "Ohne Kaffee wäre ich morgens nicht wach.",
+      "explanation": "*Ohne Kaffee* is a hidden condition (*Wenn ich keinen Kaffee hätte*), so the verb is Konjunktiv II. It fills the Vorfeld, *wäre* follows in position 2, then *ich*; the time *morgens* comes before *nicht wach*."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Separate environment for german/vocab/content_audit.py only:
+# vLLM pins a different Torch/Transformers stack than Qwen3-TTS.
+vllm==0.31.0
+# vLLM's JIT kernels need nvcc and CUDA headers from the same CUDA release.
+nvidia-cuda-runtime==13.4.92
+ninja==1.13.2

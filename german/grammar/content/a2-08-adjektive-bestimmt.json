@@ -1,0 +1,942 @@
+{
+  "topic_id": "a2-08-adjektive-bestimmt",
+  "level": "A2",
+  "title_de": "Adjektivdeklination nach bestimmtem Artikel",
+  "title_en": "Adjective endings after the definite article",
+  "rule": {
+    "summary": "An adjective directly in front of a noun always needs an ending. After the definite article (*der, die, das*) and the *der*-words (*dieser, jener, jeder, welcher, mancher*, plural *alle*), the article already shows case, gender and number, so the adjective takes the **weak** ending: only **-e** or **-en**. You need this in almost every noun phrase with a description: *der neue Chef, mit dem alten Auto, trotz des schlechten Wetters*.",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | der nett**e** Mann | die nett**e** Frau | das nett**e** Kind | die nett**en** Kinder |\n| Akk | den nett**en** Mann | die nett**e** Frau | das nett**e** Kind | die nett**en** Kinder |\n| Dat | dem nett**en** Mann | der nett**en** Frau | dem nett**en** Kind | den nett**en** Kinder**n** |\n| Gen | des nett**en** Mann**es** | der nett**en** Frau | des nett**en** Kind**es** | der nett**en** Kinder |",
+    "steps": [
+      "Check the position: is the adjective directly before a noun? After *sein, werden, bleiben* it is predicative and has no ending (*Der Mann ist nett.*).",
+      "Find the gender and number of the noun (*der Tisch, die Lampe, das Bild, die Bilder*).",
+      "Find the case: the subject is Nominativ; the verb or the preposition decides Akkusativ, Dativ or Genitiv.",
+      "Singular Nominativ (m/f/n) or singular Akkusativ feminine/neuter → **-e**. Every other slot (masculine Akkusativ, all Dativ, all Genitiv, all plural forms) → **-en**.",
+      "Check the stem and the noun: *dunkel → dunkle, teuer → teure, hoch → hohe*; Dativ plural nouns add **-n** (*den Kindern*); masculine and neuter Genitiv nouns add **-(e)s** (*des Mannes*)."
+    ],
+    "pitfalls": [
+      "Strong endings after *der/das*: ✗ *das kleines Kind* → ✓ *das kleine Kind*. The endings *-er/-es* belong after *ein* or after no article (*ein kleines Kind*).",
+      "Masculine Akkusativ with *-e*: ✗ *Ich sehe den alte Mann.* → ✓ *Ich sehe den alten Mann.* Masculine is the only gender whose Akkusativ differs from the Nominativ.",
+      "Reading *die* as feminine singular when the noun is plural: ✗ *die große Fenster* → ✓ *die großen Fenster*. Every plural form takes *-en*.",
+      "Thinking *der* always means *-e*: ✗ *mit der neue Kollegin* → ✓ *mit der neuen Kollegin*. *der* is also feminine Dativ/Genitiv and plural Genitiv, and those slots take *-en*.",
+      "Adding an ending to a predicative adjective: ✗ *Das Essen ist kalte.* → ✓ *Das Essen ist kalt.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Der {{c1::nette::nett}} Mann wohnt nebenan.",
+      "en": "The nice man lives next door.",
+      "focus": "Nominativ maskulin · nach *der*",
+      "explanation": "*Der Mann* is the subject of *wohnt* → Nominativ. The masculine Nominativ article is **der**. After *der* the adjective is weak, and masculine Nominativ is one of the five **-e** slots: nett + -e → **nette**.",
+      "pattern": "der + Adj-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der netter Mann wohnt nebenan.", "why": "*-er* is the ending after *ein* (*ein netter Mann*). After *der* the article already shows masculine Nominativ, so the adjective only takes *-e*."},
+      "examples": [
+        {"de": "Der freundliche Busfahrer grüßt jeden Morgen.", "en": "The friendly bus driver says hello every morning."},
+        {"de": "Der rote Zug fährt gleich ab.", "en": "The red train is about to leave."}
+      ],
+      "words": [{"de": "nebenan", "en": "next door"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die {{c1::junge::jung}} Frau lacht.",
+      "en": "The young woman is laughing.",
+      "focus": "Nominativ feminin · nach *die*",
+      "explanation": "*Die Frau* is the subject of *lacht* → Nominativ. *Frau* is feminine, so the article is **die**. Feminine Nominativ singular is an **-e** slot: jung + -e → **junge**.",
+      "pattern": "die + Adj-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die jungen Frau lacht.", "why": "*die* + *-en* is the plural pattern (*die jungen Frauen*). With a singular feminine noun in the Nominativ the ending is *-e*."},
+      "examples": [
+        {"de": "Die neue Nachbarin heißt Sara.", "en": "The new neighbour is called Sara."},
+        {"de": "Die kleine Bäckerei schließt um sechs.", "en": "The small bakery closes at six."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das {{c1::kleine::klein}} Kind schläft.",
+      "en": "The small child is sleeping.",
+      "focus": "Nominativ neutral · nach *das*",
+      "explanation": "*Das Kind* is the subject of *schläft* → Nominativ. *Kind* is neuter, so the article is **das**. Neuter Nominativ is an **-e** slot: klein + -e → **kleine**.",
+      "pattern": "das + Adj-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das kleines Kind schläft.", "why": "*-es* is the strong neuter ending (*ein kleines Kind*). After *das* the article already carries the neuter signal, so the adjective takes only *-e*."},
+      "examples": [
+        {"de": "Das alte Fenster ist kaputt.", "en": "The old window is broken."},
+        {"de": "Das neue Café ist bis Mitternacht geöffnet.", "en": "The new café is open until midnight."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich kenne den {{c1::netten::nett}} Mann.",
+      "en": "I know the nice man.",
+      "focus": "Akkusativ maskulin · nach *den*",
+      "explanation": "*kennen* takes an Akkusativ object, and *Mann* is masculine → article **den**. Masculine Akkusativ is not one of the five -e slots, so the weak ending is **-en**: nett + -en → **netten**.",
+      "pattern": "den + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich kenne den nette Mann.", "why": "*-e* is only for Nominativ m/f/n and Akkusativ f/n. When the article is *den* (masculine Akkusativ), the adjective always ends in *-en*."},
+      "examples": [
+        {"de": "Ich frage den freundlichen Verkäufer.", "en": "I'll ask the friendly salesman."},
+        {"de": "Sie ruft den jungen Elektriker an.", "en": "She is calling the young electrician."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Sie kauft die {{c1::rote::rot}} Tasche.",
+      "en": "She is buying the red bag.",
+      "focus": "Akkusativ feminin · nach *die*",
+      "explanation": "*kaufen* takes an Akkusativ object. *Tasche* is feminine, and the feminine Akkusativ article is the same as the Nominativ: **die**. Feminine Akkusativ singular is an **-e** slot: rot + -e → **rote**.",
+      "pattern": "die + Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Sie kauft die roten Tasche.", "why": "Many learners think Akkusativ always means *-en*. Only the masculine Akkusativ changes to *-en*; feminine Akkusativ keeps *-e*."},
+      "examples": [
+        {"de": "Ich nehme die grüne Jacke.", "en": "I'll take the green jacket."},
+        {"de": "Er repariert die alte Lampe.", "en": "He is repairing the old lamp."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er liest das {{c1::neue::neu}} Buch.",
+      "en": "He is reading the new book.",
+      "focus": "Akkusativ neutral · nach *das*",
+      "explanation": "*das Buch* is the Akkusativ object of *lesen*. Neuter Akkusativ looks exactly like the Nominativ: article **das**, adjective **-e**: neu + -e → **neue**.",
+      "pattern": "das + Adj-**e** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er liest das neuen Buch.", "why": "The *-en* rule for the Akkusativ is only for masculine nouns. A neuter Akkusativ keeps the Nominativ form: *das neue Buch*."},
+      "examples": [
+        {"de": "Wir mieten das kleine Ferienhaus am See.", "en": "We are renting the small holiday house by the lake."},
+        {"de": "Kannst du das offene Fenster schließen?", "en": "Can you close the open window?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich helfe dem {{c1::alten::alt}} Mann.",
+      "en": "I'm helping the old man.",
+      "focus": "Dativ maskulin · nach *helfen*",
+      "explanation": "*helfen* always takes the Dativ → the old man is the Dativ object. The masculine Dativ article is **dem**. After *dem* the adjective is weak, and every Dativ slot takes **-en**: alt + -en → **alten**.",
+      "pattern": "dem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Ich helfe dem alte Mann.", "why": "After a definite article the Dativ never has *-e*. In all genders and in the plural the Dativ adjective ends in *-en*."},
+      "examples": [
+        {"de": "Sie gibt dem kleinen Hund Wasser.", "en": "She gives the little dog water."},
+        {"de": "Wir schreiben dem neuen Vermieter eine E-Mail.", "en": "We are writing an email to the new landlord."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir danken der {{c1::netten::nett}} Lehrerin.",
+      "en": "We thank the kind teacher.",
+      "focus": "Dativ feminin · nach *danken*",
+      "explanation": "*danken* takes the Dativ (*jemandem danken*). *Lehrerin* is feminine, and the feminine Dativ article is **der**, not *die*. In the Dativ the weak ending is always **-en**: nett + -en → **netten**.",
+      "pattern": "der + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Wir danken der nette Lehrerin.", "why": "Learners see *der* and use the masculine Nominativ pattern *der nette*. Here *der* is feminine Dativ, so the adjective needs *-en*."},
+      "examples": [
+        {"de": "Er antwortet der neuen Kundin sofort.", "en": "He answers the new customer immediately."},
+        {"de": "Wir gratulieren der jungen Mutter.", "en": "We congratulate the young mother."}
+      ],
+      "words": [{"de": "danken (+ Dat.)", "en": "to thank"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das Auto gehört dem {{c1::reichen::reich}} Mann.",
+      "en": "The car belongs to the rich man.",
+      "focus": "Dativ maskulin · nach *gehören*",
+      "explanation": "*gehören* names the owner in the Dativ (*jemandem gehören*). *Mann* is masculine → **dem**. *dem* already marks the Dativ, so the adjective is weak with **-en**: reich + -en → **reichen**.",
+      "pattern": "gehören + dem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Das Auto gehört dem reiche Mann.", "why": "*-e* never follows *dem*. The owner after *gehören* is Dativ, and a Dativ adjective after the article ends in *-en*."},
+      "examples": [
+        {"de": "Das Fahrrad gehört dem jungen Briefträger.", "en": "The bike belongs to the young postman."},
+        {"de": "Die Wohnung gehört dem alten Ehepaar im Erdgeschoss.", "en": "The flat belongs to the old couple on the ground floor."}
+      ],
+      "words": [{"de": "gehören (+ Dat.)", "en": "to belong to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Die {{c1::kleinen::klein}} Kinder spielen draußen.",
+      "en": "The small children are playing outside.",
+      "focus": "Nominativ Plural · nach *die*",
+      "explanation": "*Kinder* is plural and the subject of *spielen* → Nominativ Plural, article **die**. In the plural the weak ending is **-en** in every case, also in the Nominativ: klein + -en → **kleinen**.",
+      "pattern": "die + Adj-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die kleine Kinder spielen draußen.", "why": "*die* + *-e* is feminine singular. *Kinder* is plural, so the adjective must end in *-en*, even in the Nominativ."},
+      "examples": [
+        {"de": "Die jungen Leute tanzen bis zum Morgen.", "en": "The young people dance until morning."},
+        {"de": "Die alten Bäume im Park sind über hundert Jahre alt.", "en": "The old trees in the park are over a hundred years old."}
+      ],
+      "words": [{"de": "draußen", "en": "outside"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich liebe diesen {{c1::warmen::warm}} Pullover.",
+      "en": "I love this warm sweater.",
+      "focus": "Akkusativ maskulin · nach *dieser*",
+      "explanation": "*dieser* has the same endings as *der* (*diesen* = *den*), so the adjective after it is weak. *Pullover* is masculine and the Akkusativ object of *lieben* → **diesen**, and masculine Akkusativ takes **-en**: warm + -en → **warmen**.",
+      "pattern": "diesen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich liebe diesen warme Pullover.", "why": "*dieser*-words work exactly like *der*. After *diesen* (masculine Akkusativ) the ending is *-en*, just as in *den warmen Pullover*."},
+      "examples": [
+        {"de": "Kennst du diesen neuen Film?", "en": "Do you know this new film?"},
+        {"de": "Ich finde diesen schwarzen Mantel elegant.", "en": "I think this black coat is elegant."}
+      ],
+      "words": [{"de": "der Pullover (-)", "en": "sweater, jumper"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Er trinkt das {{c1::kalte::kalt}} Bier.",
+      "en": "He is drinking the cold beer.",
+      "focus": "Akkusativ neutral · Objekt von *trinken*",
+      "explanation": "*Bier* is neuter (*das Bier*) and the Akkusativ object of *trinken*. The neuter Akkusativ article stays **das**, and the adjective takes **-e**, as in the Nominativ: kalt + -e → **kalte**.",
+      "pattern": "das + Adj-**e** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er trinkt das kaltes Bier.", "why": "*-es* is the ending without an article (*Er trinkt kaltes Bier.*). With *das* in front, the adjective is weak and takes *-e*."},
+      "examples": [
+        {"de": "Sie isst das warme Brötchen sofort.", "en": "She eats the warm roll right away."},
+        {"de": "Wir bestellen das vegetarische Menü.", "en": "We'll order the vegetarian set menu."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich kaufe das {{c1::neue::neu}} Hemd.",
+      "en": "I'm buying the new shirt.",
+      "focus": "Akkusativ neutral · Objekt von *kaufen*",
+      "explanation": "*Hemd* is neuter (*das Hemd*), not masculine like English speakers often guess. It is the Akkusativ object of *kaufen*; neuter Akkusativ = Nominativ → **das** + **-e**: neu + -e → **neue**.",
+      "pattern": "das + Adj-**e** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Ich kaufe den neuen Hemd.", "why": "*den neuen* is the masculine Akkusativ form. *Hemd* is neuter, so it stays *das neue Hemd*. Always check the gender of the noun first."},
+      "examples": [
+        {"de": "Ich probiere das gestreifte Kleid an.", "en": "I'm trying on the striped dress."},
+        {"de": "Er bringt das kaputte Handy zur Reparatur.", "en": "He is taking the broken phone in for repair."}
+      ],
+      "words": [{"de": "das Hemd (-en)", "en": "shirt"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir wohnen in der {{c1::großen::groß}} Stadt.",
+      "en": "We live in the big city.",
+      "focus": "Dativ feminin · *in* + Ort (wo?)",
+      "explanation": "*in* is a Wechselpräposition. *wohnen* answers the question *wo?* (location) → Dativ. *Stadt* is feminine, so the Dativ article is **der**, and every Dativ adjective takes **-en**: groß + -en → **großen**.",
+      "pattern": "in + der + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Wir wohnen in die große Stadt.", "why": "*in die große Stadt* is Akkusativ and means a direction (*Wir ziehen in die große Stadt.*). *wohnen* is a location, so *in* needs the Dativ: *in der großen Stadt*."},
+      "examples": [
+        {"de": "Sie arbeitet in der neuen Klinik.", "en": "She works at the new clinic."},
+        {"de": "Das Geld liegt in der obersten Schublade.", "en": "The money is in the top drawer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Der {{c1::deutsche::deutsch}} Wein ist sehr gut.",
+      "en": "The German wine is very good.",
+      "focus": "Nominativ maskulin · Nationalitätsadjektiv",
+      "explanation": "*Der Wein* is the subject → masculine Nominativ, an **-e** slot: deutsch + -e → **deutsche**. Adjectives of nationality are written in lower case in German. *gut* after *ist* is predicative and has no ending.",
+      "pattern": "der + Adj-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der deutscher Wein ist sehr gut.", "why": "*-er* is the ending after *ein* or without an article (*ein deutscher Wein*, *deutscher Wein*). After *der* the adjective is weak: *der deutsche Wein* (lower case, unlike English *German*)."},
+      "examples": [
+        {"de": "Der italienische Kaffee ist stark.", "en": "The Italian coffee is strong."},
+        {"de": "Der französische Käse ist ziemlich teuer.", "en": "The French cheese is quite expensive."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich treffe den {{c1::jungen::jung}} Studenten.",
+      "en": "I'm meeting the young student.",
+      "focus": "Akkusativ maskulin · n-Deklination",
+      "explanation": "*treffen* takes an Akkusativ object; *Student* is masculine → **den**, and the adjective takes **-en**: jung + -en → **jungen**. *Student* is also an n-Deklination noun, so the noun itself gets *-en* outside the Nominativ singular: *den jungen Studenten*.",
+      "pattern": "den + Adj-**en** + Nomen-**en** (Akk. m., n-Deklination)",
+      "mistake": {"wrong": "Ich treffe den jungen Student.", "why": "The adjective is correct, but *Student* belongs to the n-Deklination: Akkusativ, Dativ and Genitiv singular are *Studenten*."},
+      "examples": [
+        {"de": "Wir fragen den neuen Praktikanten.", "en": "We'll ask the new intern."},
+        {"de": "Kennst du den netten Kollegen von Anna?", "en": "Do you know Anna's nice colleague?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die {{c1::neuen::neu}} Schuhe sind sehr teuer.",
+      "en": "The new shoes are very expensive.",
+      "focus": "Nominativ Plural · Subjekt",
+      "explanation": "*Schuhe* is the plural of *der Schuh* and the subject → Nominativ Plural, article **die**. All plural forms after a definite article take **-en**: neu + -en → **neuen**. *teuer* after *sind* is predicative and has no ending.",
+      "pattern": "die + Adj-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die neue Schuhe sind sehr teuer.", "why": "Learners hear *die* and use the feminine singular ending *-e*. Check the noun: *Schuhe* is plural, and the verb *sind* is plural too, so the ending is *-en*."},
+      "examples": [
+        {"de": "Die bunten Socken liegen im Schrank.", "en": "The colourful socks are in the wardrobe."},
+        {"de": "Die leeren Flaschen kommen in den Keller.", "en": "The empty bottles go in the basement."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir helfen den {{c1::alten::alt}} Leuten.",
+      "en": "We help the old people.",
+      "focus": "Dativ Plural · nach *helfen*",
+      "explanation": "*helfen* takes the Dativ. *Leute* exists only in the plural → Dativ Plural article **den**, adjective **-en** (alt + -en → **alten**), and the noun adds the Dativ-plural **-n**: *Leute → Leuten*.",
+      "pattern": "den + Adj-**en** + Nomen-**n** (Dat. Pl.)",
+      "mistake": {"wrong": "Wir helfen den alten Leute.", "why": "In the Dativ plural the noun itself needs *-n* (unless the plural already ends in *-n* or *-s*): *den alten Leuten*."},
+      "examples": [
+        {"de": "Die Lehrerin erklärt den neuen Schülern die Regeln.", "en": "The teacher explains the rules to the new pupils."},
+        {"de": "Wir zeigen den ausländischen Gästen die Altstadt.", "en": "We are showing the foreign guests the old town."}
+      ],
+      "words": [{"de": "die Leute (Pl.)", "en": "people"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das {{c1::lange::lang}} Buch ist langweilig.",
+      "en": "The long book is boring.",
+      "focus": "Nominativ neutral · Subjekt",
+      "explanation": "*Das Buch* is the subject → neuter Nominativ, an **-e** slot: lang + -e → **lange**. The second adjective, *langweilig*, stands after *ist*; it is predicative and takes no ending.",
+      "pattern": "das + Adj-**e** + Nomen (Nom. n.) … ist + Adj (no ending)",
+      "mistake": {"wrong": "Das lange Buch ist langweiliges.", "why": "Only the adjective in front of the noun is declined. After *sein* the adjective has no ending: *ist langweilig*."},
+      "examples": [
+        {"de": "Das neue Programm ist kompliziert.", "en": "The new program is complicated."},
+        {"de": "Das dunkle Zimmer ist sehr ruhig.", "en": "The dark room is very quiet."}
+      ],
+      "words": [{"de": "langweilig", "en": "boring"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie liebt die {{c1::frische::frisch}} Luft.",
+      "en": "She loves the fresh air.",
+      "focus": "Akkusativ feminin · Objekt von *lieben*",
+      "explanation": "*Luft* is feminine (*die Luft*) and the Akkusativ object of *lieben*. Feminine Akkusativ has the same form as the Nominativ: **die** + **-e** → frisch + -e → **frische**.",
+      "pattern": "die + Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Sie liebt die frischen Luft.", "why": "*Luft* is singular here. *die* + *-en* would signal a plural noun; with a feminine singular noun in the Akkusativ the ending stays *-e*."},
+      "examples": [
+        {"de": "Wir genießen die warme Sonne.", "en": "We're enjoying the warm sun."},
+        {"de": "Er mag die ruhige Ecke in der Bibliothek.", "en": "He likes the quiet corner in the library."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Der {{c1::neue::neu}} Kollege kommt aus Polen.",
+      "en": "The new colleague is from Poland.",
+      "focus": "Nominativ maskulin · Subjekt",
+      "explanation": "*Der Kollege* is the subject → masculine Nominativ → **-e**: neu + -e → **neue**. *Kollege* is an n-Deklination noun, but in the Nominativ singular neither the noun nor the adjective takes *-en*: *der neue Kollege*, but *den/dem/des neuen Kollegen*.",
+      "pattern": "der + Adj-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der neuen Kollegen kommt aus Polen.", "why": "The n-Deklination *-en* appears only outside the Nominativ singular. As the subject, it is *der neue Kollege*."},
+      "examples": [
+        {"de": "Der junge Praktikant spricht drei Sprachen.", "en": "The young intern speaks three languages."},
+        {"de": "Der freundliche Nachbar hilft uns oft.", "en": "The friendly neighbour often helps us."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Die {{c1::junge::jung}} Ärztin arbeitet nachts.",
+      "en": "The young doctor works nights.",
+      "focus": "Nominativ feminin · Berufsbezeichnung auf *-in*",
+      "explanation": "*Ärztin* is the feminine form of *der Arzt*. The suffix *-in* always makes a noun feminine → **die Ärztin**. It is the subject, so feminine Nominativ → **-e**: jung + -e → **junge**.",
+      "pattern": "die + Adj-**e** + Nomen-in (Nom. f.)",
+      "mistake": {"wrong": "Der junge Ärztin arbeitet nachts.", "why": "*der* belongs to *der Arzt*. Every noun ending in *-in* is feminine, so the article is *die*: *die junge Ärztin*."},
+      "examples": [
+        {"de": "Die neue Pflegerin kommt aus Spanien.", "en": "The new nurse is from Spain."},
+        {"de": "Die nette Kellnerin bringt uns die Speisekarte.", "en": "The nice waitress brings us the menu."}
+      ],
+      "words": [{"de": "nachts", "en": "at night"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Das {{c1::kleine::klein}} Kind schläft schon.",
+      "en": "The little child is already asleep.",
+      "focus": "Nominativ · Neutrum",
+      "explanation": "In the Nominativ singular all three genders take **-e** after the definite article: *der kleine Hund, die kleine Katze, das kleine Kind*. The article alone shows the gender. *Kind* is neuter and the subject → klein + -e → **kleine**.",
+      "pattern": "das + Adj-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das klein Kind schläft schon.", "why": "An adjective directly in front of a noun always needs an ending. Only a predicative adjective has none: *Das Kind ist klein.*"},
+      "examples": [
+        {"de": "Das kleine Dorf liegt direkt am Meer.", "en": "The small village is right by the sea."},
+        {"de": "Das alte Rathaus steht mitten im Zentrum.", "en": "The old town hall stands right in the centre."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Ich kenne den {{c1::neuen::neu}} Chef nicht.",
+      "en": "I don't know the new boss.",
+      "focus": "Akkusativ maskulin · Objekt von *kennen*",
+      "explanation": "Compare the Nominativ *der neue Chef* with the Akkusativ *den neuen Chef*. Masculine is the only gender where the Akkusativ differs from the Nominativ, and both parts change: der → **den**, -e → **-en**. *nicht* at the end negates the sentence and does not change the ending.",
+      "pattern": "den + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich kenne der neue Chef nicht.", "why": "*der neue Chef* is the Nominativ form. The boss is the Akkusativ object of *kennen* (the subject is *ich*), so it must be *den neuen Chef*."},
+      "examples": [
+        {"de": "Hast du den neuen Fahrplan schon gesehen?", "en": "Have you seen the new timetable yet?"},
+        {"de": "Ich finde den richtigen Schlüssel nicht.", "en": "I can't find the right key."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Wir sprechen über die {{c1::aktuelle::aktuell}} Lage.",
+      "en": "We're talking about the current situation.",
+      "focus": "Akkusativ feminin · *sprechen über*",
+      "explanation": "In *sprechen über* (to talk about) the preposition *über* always takes the Akkusativ. *Lage* is feminine → **die**, and feminine Akkusativ keeps **-e**, the same as the Nominativ: aktuell + -e → **aktuelle**.",
+      "pattern": "über + die + Adj-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Wir sprechen über der aktuellen Lage.", "why": "*über* is a Wechselpräposition, but in the meaning *about* (a topic) it always takes the Akkusativ, never the Dativ."},
+      "examples": [
+        {"de": "Sie diskutieren über die neue Regel.", "en": "They are discussing the new rule."},
+        {"de": "Ich ärgere mich über die laute Musik.", "en": "I'm annoyed about the loud music."}
+      ],
+      "words": [{"de": "die Lage (-n)", "en": "situation"}, {"de": "aktuell", "en": "current"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Er sitzt auf dem {{c1::alten::alt}} Stuhl.",
+      "en": "He's sitting on the old chair.",
+      "focus": "Dativ maskulin · *auf* + Ort (wo?)",
+      "explanation": "*sitzen* describes a position (*wo?*), so the Wechselpräposition *auf* takes the Dativ. *Stuhl* is masculine → **dem**, and every Dativ adjective takes **-en**: alt + -en → **alten**. With movement it would be Akkusativ: *Er setzt sich auf den alten Stuhl* (also *-en*, because it is masculine Akkusativ).",
+      "pattern": "auf + dem + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Er sitzt auf den alten Stuhl.", "why": "*auf den* (Akkusativ) is for a direction, e.g. with *sich setzen*. *sitzen* is a location, so it needs the Dativ article *dem*."},
+      "examples": [
+        {"de": "Die Katze schläft auf dem warmen Teppich.", "en": "The cat is sleeping on the warm rug."},
+        {"de": "Die Schlüssel liegen auf dem schwarzen Regal.", "en": "The keys are on the black shelf."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Die {{c1::interessanten::interessant}} Bücher stehen oben.",
+      "en": "The interesting books are up at the top.",
+      "focus": "Plural · Subjekt von *stehen*",
+      "explanation": "*Bücher* is the plural of *das Buch* and the subject → Nominativ Plural, article **die**. After the definite article every plural adjective ends in **-en**: interessant + -en → **interessanten**.",
+      "pattern": "die + Adj-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die interessante Bücher stehen oben.", "why": "The singular is *das interessante Buch* (-e), but the plural *die Bücher* needs *-en*. Do not keep the singular ending when the noun becomes plural."},
+      "examples": [
+        {"de": "Die günstigen Zimmer sind leider schon weg.", "en": "Unfortunately, the cheap rooms are already gone."},
+        {"de": "Die wichtigen Dokumente liegen im Ordner.", "en": "The important documents are in the folder."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich habe das {{c1::ganze::ganz}} Wochenende gearbeitet.",
+      "en": "I worked the whole weekend.",
+      "focus": "Akkusativ neutral · Zeitangabe (wie lange?)",
+      "explanation": "A time phrase without a preposition that answers *wie lange?* is in the Akkusativ. *Wochenende* is neuter (*das Wochenende*), so the Akkusativ is **das** + **-e**: ganz + -e → **ganze**. Compare masculine *den ganzen Tag* and feminine *die ganze Woche*.",
+      "pattern": "das ganze + Zeitnomen (Akk. n., Dauer)",
+      "mistake": {"wrong": "Ich habe den ganzen Wochenende gearbeitet.", "why": "*den ganzen* is only for masculine nouns (*den ganzen Tag*). *Wochenende* is neuter: *das ganze Wochenende*."},
+      "examples": [
+        {"de": "Er hat das ganze Semester nichts gelernt.", "en": "He didn't learn anything the whole semester."},
+        {"de": "Wir bleiben das ganze Jahr in Wien.", "en": "We are staying in Vienna the whole year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Wie war der {{c1::erste::eins → Ordinalzahl}} Eindruck?",
+      "en": "What was the first impression like?",
+      "focus": "Nominativ maskulin · Ordinalzahl",
+      "explanation": "Ordinal numbers (*erst-, zweit-, dritt-*) take the same endings as adjectives. *der Eindruck* is masculine and the subject of *war* → Nominativ → **-e**: erst- + -e → **erste**.",
+      "pattern": "der + Ordinalzahl-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Wie war der erster Eindruck?", "why": "*-er* is the ending after *mein/ein* (*mein erster Eindruck*). After *der* the ordinal number is weak and takes *-e*."},
+      "examples": [
+        {"de": "Der zweite Versuch war viel besser.", "en": "The second attempt was much better."},
+        {"de": "Der dritte Tag war am anstrengendsten.", "en": "The third day was the most tiring."}
+      ],
+      "words": [{"de": "der Eindruck (¨-e)", "en": "impression"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Sie wohnt in der {{c1::dritten::drei → Ordinalzahl}} Etage.",
+      "en": "She lives on the third floor.",
+      "focus": "Dativ feminin · Ordinalzahl",
+      "explanation": "*wohnen* is a location (*wo?*) → *in* + Dativ. *Etage* is feminine → Dativ **der**, and the ordinal takes the Dativ ending **-en**. The ordinal of *drei* is irregular: **dritt-** → **dritten**.",
+      "pattern": "in + der + Ordinalzahl-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Sie wohnt in der dreiten Etage.", "why": "The ordinal of *drei* is irregular: *dritt-*. The other irregular ones are *erst-* (1), *siebt-* (7) and *acht-* (8)."},
+      "examples": [
+        {"de": "Das Büro ist in der vierten Etage.", "en": "The office is on the fourth floor."},
+        {"de": "Wir sitzen in der ersten Reihe.", "en": "We are sitting in the first row."}
+      ],
+      "words": [{"de": "die Etage (-n)", "en": "floor, storey"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Wir helfen den {{c1::neuen::neu}} Studenten.",
+      "en": "We help the new students.",
+      "focus": "Dativ Plural · n-Deklination",
+      "explanation": "*helfen* takes the Dativ, and *Studenten* is plural here → Dativ Plural article **den**, adjective **-en**: neu + -en → **neuen**. The usual Dativ-plural *-n* is not added, because the plural *Studenten* already ends in *-n* (compare *den alten Leuten*).",
+      "pattern": "den + Adj-**en** + Nomen (Dat. Pl.)",
+      "mistake": {"wrong": "Wir helfen den neue Studenten.", "why": "*den* here is Dativ Plural, and every plural and every Dativ form takes *-en* after the article: *den neuen Studenten*."},
+      "examples": [
+        {"de": "Die Stadt hilft den kleinen Firmen.", "en": "The city helps the small companies."},
+        {"de": "Der Kellner bringt den hungrigen Touristen das Essen.", "en": "The waiter brings the hungry tourists their food."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Das ist die {{c1::beste::gut → Superlativ}} Lösung.",
+      "en": "That's the best solution.",
+      "focus": "Nominativ feminin · Superlativ",
+      "explanation": "After *sein* the noun phrase is in the Nominativ: *die Lösung* is feminine. The superlative of *gut* is irregular: **best-**. In front of a noun with an article it takes the normal weak ending: feminine Nominativ → **-e** → **beste**.",
+      "pattern": "die + Superlativ-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Das ist die am besten Lösung.", "why": "*am besten* is only used without a noun (*Diese Lösung ist am besten.*). In front of a noun use the declined form: *die beste Lösung*."},
+      "examples": [
+        {"de": "Das ist der schnellste Weg zum Bahnhof.", "en": "That's the fastest way to the station."},
+        {"de": "Sie ist die älteste Tochter der Familie.", "en": "She is the oldest daughter in the family."}
+      ],
+      "words": [{"de": "die Lösung (-en)", "en": "solution"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Ich nehme den {{c1::billigeren::billig → Komparativ}} Flug.",
+      "en": "I'll take the cheaper flight.",
+      "focus": "Akkusativ maskulin · Komparativ",
+      "explanation": "The comparative *billiger* is built first; its *-er* is part of the stem, not a case ending. Then the weak ending follows: *nehmen* + Akkusativ, *Flug* is masculine → **den**, ending **-en**: billiger + -en → **billigeren**.",
+      "pattern": "den + Komparativ-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich nehme den billiger Flug.", "why": "The comparative *-er* does not replace the case ending. A comparative in front of a noun still needs its ending: billiger + -en → *den billigeren Flug*."},
+      "examples": [
+        {"de": "Wir mieten den größeren Wagen.", "en": "We're renting the bigger car."},
+        {"de": "Sie wählt den kürzeren Weg.", "en": "She chooses the shorter route."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Trotz des {{c1::schlechten::schlecht}} Wetters gehen wir raus.",
+      "en": "Despite the bad weather, we're going out.",
+      "focus": "Genitiv neutral · nach *trotz*",
+      "explanation": "*trotz* takes the Genitiv (in writing and careful speech). *Wetter* is neuter → Genitiv **des Wetters**, with *-s* on the noun. After a definite article every Genitiv adjective ends in **-en**: schlecht + -en → **schlechten**.",
+      "pattern": "trotz + des + Adj-**en** + Nomen-**s** (Gen. n.)",
+      "mistake": {"wrong": "Trotz des schlechte Wetters gehen wir raus.", "why": "*-e* never follows *des*. The Genitiv belongs to the *-en* slots in all genders and in the plural."},
+      "examples": [
+        {"de": "Trotz des hohen Preises ist das Konzert ausverkauft.", "en": "Despite the high price, the concert is sold out."},
+        {"de": "Trotz des guten Essens war der Abend langweilig.", "en": "Despite the good food, the evening was boring."}
+      ],
+      "words": [{"de": "rausgehen (ugs.)", "en": "to go out(side)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Die Ärztin gibt dem {{c1::kranken::krank}} Kind ein Medikament.",
+      "en": "The doctor gives the sick child some medicine.",
+      "focus": "Dativ neutral · indirektes Objekt",
+      "explanation": "*geben* has two objects: the receiver in the Dativ and the thing in the Akkusativ (*ein Medikament*). *Kind* is neuter, and the neuter Dativ article is **dem**, the same as masculine. Dativ → **-en**: krank + -en → **kranken**.",
+      "pattern": "geben + dem + Adj-**en** + Nomen (Dat. n.) + Akk.",
+      "mistake": {"wrong": "Die Ärztin gibt das kranke Kind ein Medikament.", "why": "The person who receives something after *geben* is in the Dativ, not the Akkusativ. Neuter Dativ is *dem* + *-en*: *dem kranken Kind*."},
+      "examples": [
+        {"de": "Wir zeigen dem neuen Team das Büro.", "en": "We are showing the new team the office."},
+        {"de": "Sie bringt dem kleinen Mädchen ein Glas Milch.", "en": "She brings the little girl a glass of milk."}
+      ],
+      "words": [{"de": "das Medikament (-e)", "en": "medicine, medication"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Kannst du bitte die {{c1::schmutzigen::schmutzig}} Teller spülen?",
+      "en": "Can you wash the dirty plates, please?",
+      "focus": "Akkusativ Plural · Objekt von *spülen*",
+      "explanation": "*der Teller* has the same form in the plural: *die Teller*. Here the article **die** shows the plural, because a masculine singular Akkusativ would be *den Teller*. Plural → **-en**: schmutzig + -en → **schmutzigen**.",
+      "pattern": "die + Adj-**en** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Kannst du bitte die schmutzige Teller spülen?", "why": "*Teller* is masculine, so *die* cannot be feminine singular here; it is the plural article, and plural takes *-en*."},
+      "examples": [
+        {"de": "Ich wasche die nassen Handtücher noch einmal.", "en": "I'll wash the wet towels again."},
+        {"de": "Hast du die frischen Brötchen gekauft?", "en": "Did you buy the fresh rolls?"}
+      ],
+      "words": [{"de": "spülen", "en": "to wash (the dishes)"}, {"de": "schmutzig", "en": "dirty"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Am Ende der {{c1::langen::lang}} Reise waren alle müde.",
+      "en": "At the end of the long journey, everyone was tired.",
+      "focus": "Genitiv feminin · Attribut zu *Ende*",
+      "explanation": "*der langen Reise* says whose end it is → Genitiv attribute. The feminine Genitiv article is **der** (the same as the Dativ), and the feminine noun gets no Genitiv *-s*. Every Genitiv adjective after the article takes **-en**: lang + -en → **langen**.",
+      "pattern": "Nomen + der + Adj-**en** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Am Ende der lange Reise waren alle müde.", "why": "*der* + *-e* is only masculine Nominativ. Here *der* is feminine Genitiv, so the adjective needs *-en*."},
+      "examples": [
+        {"de": "Der Preis der kleinen Wohnung ist fair.", "en": "The price of the small flat is fair."},
+        {"de": "Die Tür der alten Kirche ist offen.", "en": "The door of the old church is open."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Eltern der {{c1::neuen::neu}} Schüler treffen sich heute Abend.",
+      "en": "The parents of the new pupils are meeting this evening.",
+      "focus": "Genitiv Plural · Attribut zu *Eltern*",
+      "explanation": "*der neuen Schüler* tells us whose parents → Genitiv. *Schüler* is plural here, and the Genitiv Plural article is **der**. Plural always takes **-en**: neu + -en → **neuen**. The plural noun gets no extra Genitiv ending.",
+      "pattern": "Nomen + der + Adj-**en** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Die Eltern der neue Schüler treffen sich heute Abend.", "why": "Learners read *der Schüler* as masculine Nominativ singular and use *-e*. Here it is Genitiv Plural, so the adjective ends in *-en*."},
+      "examples": [
+        {"de": "Die Namen der erfolgreichen Teilnehmer stehen online.", "en": "The names of the successful participants are online."},
+        {"de": "Die Zimmer der kleinen Kinder sind oben.", "en": "The small children's rooms are upstairs."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Jeder {{c1::neue::neu}} Mitarbeiter bekommt einen Laptop.",
+      "en": "Every new employee gets a laptop.",
+      "focus": "Nominativ maskulin · nach *jeder*",
+      "explanation": "*jeder* has the same endings as *der* (*jeder – der, jeden – den, jedem – dem*), so the adjective after it is weak. *Mitarbeiter* is masculine and the subject → Nominativ → **-e**: neu + -e → **neue**.",
+      "pattern": "jeder + Adj-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Jeder neuer Mitarbeiter bekommt einen Laptop.", "why": "The *-er* signal is already on *jeder*. The adjective does not repeat it; it takes the weak ending *-e*."},
+      "examples": [
+        {"de": "Jede kleine Spende hilft.", "en": "Every small donation helps."},
+        {"de": "Jedes neue Mitglied zahlt im ersten Monat nichts.", "en": "Every new member pays nothing in the first month."}
+      ],
+      "words": [{"de": "der Mitarbeiter (-)", "en": "employee"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Welchen {{c1::grauen::grau}} Mantel meinst du?",
+      "en": "Which grey coat do you mean?",
+      "focus": "Akkusativ maskulin · nach *welch-*",
+      "explanation": "*welcher* is a *der*-word: *welchen* = *den*. The subject is *du*, and *Mantel* is the masculine Akkusativ object of *meinen* → **welchen**. After it the adjective is weak with **-en**: grau + -en → **grauen**.",
+      "pattern": "welchen + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Welcher graue Mantel meinst du?", "why": "*welcher graue* is Nominativ. In this question *du* is the subject and the coat is the object of *meinen*, so it must be Akkusativ: *welchen grauen Mantel*."},
+      "examples": [
+        {"de": "Welchen alten Film willst du heute Abend sehen?", "en": "Which old film do you want to watch tonight?"},
+        {"de": "Welchen neuen Laptop empfehlen Sie?", "en": "Which new laptop do you recommend?"}
+      ],
+      "words": [{"de": "der Mantel (¨)", "en": "coat"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Alle {{c1::neuen::neu}} Wohnungen haben einen Balkon.",
+      "en": "All the new flats have a balcony.",
+      "focus": "Nominativ Plural · nach *alle*",
+      "explanation": "*alle* works like the plural article *die*: it already shows the plural, so the adjective after it is weak. *Wohnungen* is the plural subject → **-en**: neu + -en → **neuen**.",
+      "pattern": "alle + Adj-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Alle neue Wohnungen haben einen Balkon.", "why": "The plural ending *-e* belongs to phrases without a *der*-word (*neue Wohnungen*, *viele neue Wohnungen*). After *alle* the adjective takes *-en*, as after *die*."},
+      "examples": [
+        {"de": "Alle großen Supermärkte sind sonntags geschlossen.", "en": "All the big supermarkets are closed on Sundays."},
+        {"de": "Alle alten Fotos sind im Album.", "en": "All the old photos are in the album."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Mit dieser {{c1::dunklen::dunkel}} Jacke siehst du elegant aus.",
+      "en": "You look elegant in this dark jacket.",
+      "focus": "Dativ feminin · nach *mit dieser* · Adjektiv auf *-el*",
+      "explanation": "*mit* always takes the Dativ. *Jacke* is feminine → Dativ **dieser**, and the weak Dativ ending is **-en**. Adjectives ending in *-el* drop the *e* of the stem when an ending is added: dunkel → dunkl- → **dunklen**.",
+      "pattern": "mit + dieser + Adj-**en** + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Mit dieser dunkelen Jacke siehst du elegant aus.", "why": "With *-el* adjectives the stem *e* drops before any ending: *dunkel → dunklen*, not *dunkelen*."},
+      "examples": [
+        {"de": "Mit dieser kleinen Kamera mache ich alle Fotos.", "en": "I take all my photos with this small camera."},
+        {"de": "Mit dieser neuen Methode lernen wir schneller.", "en": "With this new method we learn faster."}
+      ],
+      "words": [{"de": "aussehen", "en": "to look (appearance)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Das {{c1::teure::teuer}} Restaurant am Markt ist immer voll.",
+      "en": "The expensive restaurant on the market square is always full.",
+      "focus": "Nominativ neutral · Adjektiv auf *-er*",
+      "explanation": "*Das Restaurant* is the subject → neuter Nominativ → **-e**. *teuer* ends in *-er* after the diphthong *eu*, so the *e* of the stem drops when an ending is added: teuer → teur- → **teure** (like *sauer → saure*).",
+      "pattern": "das + Adj-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das teures Restaurant am Markt ist immer voll.", "why": "*-es* is the ending after *ein* (*ein teures Restaurant*). After *das* the adjective is weak and only takes *-e*: *das teure Restaurant*."},
+      "examples": [
+        {"de": "Das saure Bonbon schmeckt nach Zitrone.", "en": "The sour sweet tastes of lemon."},
+        {"de": "Das saubere Geschirr steht im Schrank.", "en": "The clean dishes are in the cupboard."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Vom {{c1::hohen::hoch}} Turm hat man einen schönen Blick über die Stadt.",
+      "en": "From the tall tower you have a beautiful view over the city.",
+      "focus": "Dativ maskulin · nach *vom* · *hoch*",
+      "explanation": "*vom* = *von dem*, and *von* always takes the Dativ. *Turm* is masculine → **dem** → **-en**. *hoch* loses its *c* when an ending is added: hoch → hoh- → **hohen**. (*einen schönen Blick* is Akkusativ after *ein*, also *-en*.)",
+      "pattern": "vom (= von dem) + Adj-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Vom hochen Turm hat man einen schönen Blick über die Stadt.", "why": "Before an ending *hoch* becomes *hoh-*: *der hohe Turm, vom hohen Turm*. The form *hoch* stays only without an ending (*Der Turm ist hoch.*)."},
+      "examples": [
+        {"de": "Im hohen Gras leben viele Insekten.", "en": "Many insects live in the tall grass."},
+        {"de": "Am hohen Zaun hängt ein Schild.", "en": "A sign is hanging on the high fence."}
+      ],
+      "words": [{"de": "der Turm (¨-e)", "en": "tower"}, {"de": "der Blick (-e)", "en": "view"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Stell die Blumen bitte auf den kleinen {{c1::runden::rund}} Tisch.",
+      "en": "Please put the flowers on the small round table.",
+      "focus": "Akkusativ maskulin · *auf* + Richtung (wohin?) · zwei Adjektive",
+      "explanation": "*stellen* is a movement to a place (*wohin?*), so *auf* takes the Akkusativ. *Tisch* is masculine → **den** → **-en**. When two adjectives stand before the noun, both take the same weak ending: *den kleinen* **runden** *Tisch*.",
+      "pattern": "auf + den + Adj-**en** + Adj-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Stell die Blumen bitte auf den kleinen runde Tisch.", "why": "Every adjective in front of the noun takes the same ending. After *den* both need *-en*: *den kleinen runden Tisch*."},
+      "examples": [
+        {"de": "Leg die Zeitung auf den alten braunen Schrank.", "en": "Put the newspaper on the old brown cupboard."},
+        {"de": "Häng das Bild an die lange weiße Wand.", "en": "Hang the picture on the long white wall."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wegen des {{c1::starken::stark}} Regens fällt das Spiel aus.",
+      "en": "Because of the heavy rain, the match is cancelled.",
+      "focus": "Genitiv maskulin · nach *wegen*",
+      "explanation": "*wegen* takes the Genitiv in standard written German. *der Regen* is masculine → **des Regens**: the article becomes *des* and the noun adds *-s*. Every Genitiv adjective after the article takes **-en**: stark + -en → **starken**.",
+      "pattern": "wegen + des + Adj-**en** + Nomen-**(e)s** (Gen. m.)",
+      "mistake": {"wrong": "Wegen des starken Regen fällt das Spiel aus.", "why": "The adjective is correct, but masculine and neuter nouns need the Genitiv *-(e)s*: *des starken Regens*. (In everyday speech you also hear *wegen dem starken Regen*, but the Genitiv is the standard form.)"},
+      "examples": [
+        {"de": "Wegen des dichten Verkehrs kommen wir zu spät.", "en": "Because of the heavy traffic, we'll be late."},
+        {"de": "Während des langen Fluges hat sie geschlafen.", "en": "She slept during the long flight."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the weak adjective endings.",
+      "prompt": "After a definite article, in which five slots does the adjective end in -e?",
+      "answer": "**Nominativ Singular** m/f/n (*der/die/das* nett**e**) and **Akkusativ Singular** f/n (*die/das* nett**e**). All other slots take **-en**.",
+      "explanation": "The weak declension has only two endings. A quick test: singular noun and Nominativ → *-e*; singular feminine or neuter noun in the Akkusativ → *-e*. Masculine Akkusativ, every Dativ, every Genitiv and every plural form → *-en*.",
+      "examples": [
+        {"de": "Die alte Brücke ist gesperrt.", "en": "The old bridge is closed."},
+        {"de": "Auf der alten Brücke fahren keine Autos.", "en": "No cars drive on the old bridge."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the words that trigger the weak ending.",
+      "prompt": "Besides der/die/das, which words are followed by the same weak adjective endings?",
+      "answer": "The *der*-words: **dieser, jener, jeder, welcher, mancher** and, in the plural, **alle**.",
+      "explanation": "These words have the same endings as the definite article (dies**er** – d**er**, dies**en** – d**en**, dies**em** – d**em**). Because they already show case, gender and number, the adjective only needs *-e* or *-en*. *jeder* has no plural; in the plural you use *alle*.",
+      "examples": [
+        {"de": "Jeden zweiten Montag habe ich frei.", "en": "I have every second Monday off."},
+        {"de": "Welche neuen Regeln gelten ab Januar?", "en": "Which new rules apply from January?"}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two article types.",
+      "prompt": "Why do we say *der nette Mann* but *ein netter Mann*, and *das kleine Kind* but *ein kleines Kind*?",
+      "answer": "The case and gender signal must appear once. *der* and *das* show it themselves, so the adjective is weak (**-e/-en**). *ein* has no ending in Nominativ m and Nominativ/Akkusativ n, so the adjective must show it: nett**er**, klein**es**.",
+      "explanation": "German marks case and gender clearly on one word in the noun phrase. If the article carries the strong signal (*-r, -s, -m, -n*), the adjective takes the weak ending. If the article has no ending, the adjective carries the signal instead (mixed declension, topic *Adjektive nach unbestimmtem Artikel*).",
+      "examples": [
+        {"de": "Das rote Auto gehört Lisa.", "en": "The red car belongs to Lisa."},
+        {"de": "Lisa fährt ein rotes Auto.", "en": "Lisa drives a red car."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about adjectives without an ending.",
+      "prompt": "When does an adjective have no ending at all?",
+      "answer": "When it is not directly in front of a noun: after *sein, werden, bleiben* (predicative: *Die Prüfung war schwer.*) and when it is used as an adverb (*Sie singt schön.*). Only an adjective before a noun is declined.",
+      "explanation": "The ending belongs to the noun phrase, not to the adjective itself. In *Die Prüfung war schwer* the adjective describes the subject through the verb and stays in its base form. In *die schwere Prüfung* it stands inside the noun phrase and needs the ending.",
+      "examples": [
+        {"de": "Die Prüfung war schwer.", "en": "The exam was difficult."},
+        {"de": "Die schwere Prüfung ist endlich vorbei.", "en": "The difficult exam is finally over."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about spelling changes in the adjective stem.",
+      "prompt": "What happens to the stems of *dunkel*, *teuer* and *hoch* when they take an ending?",
+      "answer": "*-el* adjectives drop the *e*: dunkel → **dunkl**e. *-er* after *au/eu* drops the *e*: teuer → **teur**e, sauer → **saur**e. *hoch* loses the *c*: hoch → **hoh**e.",
+      "explanation": "These changes make the word easier to pronounce. After a consonant, *-er* adjectives usually keep the *e* (*sauber → die saubere Küche*). The change also happens in the Dativ and Genitiv: *im dunklen Keller, die hohen Mieten*.",
+      "examples": [
+        {"de": "Im dunklen Keller ist es kalt.", "en": "It's cold in the dark cellar."},
+        {"de": "Die hohen Mieten sind ein großes Problem.", "en": "The high rents are a big problem."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Wir übernachten im ___ Hotel am Bahnhof.",
+      "options": ["günstige", "günstigen", "günstiges"],
+      "correct": "günstigen",
+      "answer": "Wir übernachten im günstigen Hotel am Bahnhof.",
+      "explanation": "*im* = *in dem*; *übernachten* is a location (*wo?*), so *in* takes the Dativ. Neuter Dativ after *dem* → *-en*. *günstige* is only for Nominativ or Akkusativ f/n singular, and *günstiges* is the ending after *ein* or without an article."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Die ___ Nachbarin hat uns einen Kuchen gebracht.",
+      "options": ["freundliche", "freundlichen", "freundlicher"],
+      "correct": "freundliche",
+      "answer": "Die freundliche Nachbarin hat uns einen Kuchen gebracht.",
+      "explanation": "*Nachbarin* is feminine singular and the subject → Nominativ → *-e*. *freundlichen* would need a plural noun (*die freundlichen Nachbarinnen*) or a Dativ/Genitiv. *freundlicher* is the ending after *ein* for masculine nouns (*ein freundlicher Nachbar*)."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Die Farbe des ___ Autos gefällt mir nicht.",
+      "options": ["neue", "neuen", "neues"],
+      "correct": "neuen",
+      "answer": "Die Farbe des neuen Autos gefällt mir nicht.",
+      "explanation": "*des Autos* is a neuter Genitiv (whose colour?). Every Genitiv adjective after the definite article ends in *-en*. *neue* fits only Nominativ/Akkusativ singular, and *neues* is used after *ein* or without an article."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir warten auf den letzte Bus.",
+      "answer": "Wir warten auf den letzten Bus.",
+      "explanation": "*warten auf* takes the Akkusativ, and *Bus* is masculine → *den*. Masculine Akkusativ is an *-en* slot, so *letzte* must be *letzten*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich gebe der neue Praktikantin den Schlüssel.",
+      "answer": "Ich gebe der neuen Praktikantin den Schlüssel.",
+      "explanation": "The receiver after *geben* is in the Dativ, and *Praktikantin* is feminine → *der*. Here *der* is feminine Dativ, not masculine Nominativ, so the adjective needs *-en*: *der neuen Praktikantin*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die alte Häuser in der Altstadt sind schön.",
+      "answer": "Die alten Häuser in der Altstadt sind schön.",
+      "explanation": "*Häuser* is the plural of *das Haus*, and *die* is the plural article here. Every plural adjective after a definite article ends in *-en*: *die alten Häuser*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Kaffee ist heute sehr heiße.",
+      "answer": "Der Kaffee ist heute sehr heiß.",
+      "explanation": "*heiß* stands after *ist* and is predicative, so it takes no ending. Only an adjective in front of the noun is declined: *der heiße Kaffee*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Make the subject plural (*der Rucksack → die Rucksäcke*). Change the verb if needed.",
+      "prompt": "Der rote Rucksack gehört mir.",
+      "answer": "Die roten Rucksäcke gehören mir.",
+      "explanation": "In the plural the Nominativ article is *die*, and every plural adjective takes *-en*: *rote → roten*. The noun gets its plural form with umlaut (*Rucksäcke*), and the verb agrees: *gehört → gehören*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace *die Mappe* with *der Ordner*. Adjust the article and the adjective.",
+      "prompt": "Ich suche die blaue Mappe.",
+      "answer": "Ich suche den blauen Ordner.",
+      "explanation": "*suchen* takes the Akkusativ. Feminine Akkusativ is *die* + *-e*, but *Ordner* is masculine, and masculine Akkusativ is *den* + *-en*: *den blauen Ordner*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Replace *kennen* with *vertrauen* (+ Dativ). Adjust the noun phrase.",
+      "prompt": "Ich kenne den jungen Arzt.",
+      "answer": "Ich vertraue dem jungen Arzt.",
+      "explanation": "*vertrauen* takes a Dativ object, so the masculine article changes from *den* to *dem*. The adjective stays *jungen*, because both masculine Akkusativ and Dativ are *-en* slots. *Arzt* is not an n-Deklination noun, so the noun does not change."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wir",
+      "prompt": "fahren / dem / nach Berlin / wir / Zug / mit / schnellen",
+      "answer": "Wir fahren mit dem schnellen Zug nach Berlin.",
+      "explanation": "The finite verb *fahren* is in position 2. *mit* takes the Dativ: *mit dem schnellen Zug* (masculine Dativ → *-en*). The way (*mit dem Zug*) comes before the place (*nach Berlin*), the neutral order. Other correct sentences: *Mit dem schnellen Zug fahren wir nach Berlin.* / *Nach Berlin fahren wir mit dem schnellen Zug.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in order to make a yes/no question.",
+      "prompt": "gesehen / den / du / spannenden / Film / hast",
+      "answer": "Hast du den spannenden Film gesehen?",
+      "explanation": "In a yes/no question the finite verb *hast* comes first and the Partizip II *gesehen* goes to the end (Satzklammer). *Film* is masculine and the Akkusativ object → *den spannenden Film* with *-en*."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence: put the adjective from the first sentence in front of the noun in the second sentence.",
+      "prompt": "Die Tasche ist schwer. Ich trage die Tasche.",
+      "answer": "Ich trage die schwere Tasche.",
+      "explanation": "In the first sentence *schwer* is predicative and has no ending. In front of the noun it needs one: *die Tasche* is the feminine Akkusativ object of *tragen*, an *-e* slot → *die schwere Tasche*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence: put the description from the second sentence in front of the noun in the first sentence.",
+      "prompt": "Ich habe mit dem Kellner gesprochen. Der Kellner war sehr freundlich.",
+      "answer": "Ich habe mit dem sehr freundlichen Kellner gesprochen.",
+      "explanation": "*mit* takes the Dativ, and *Kellner* is masculine → *dem* + *-en*: *freundlichen*. *sehr* is an adverb and never takes an ending; it simply stands before the adjective."
+    }
+  ]
+}

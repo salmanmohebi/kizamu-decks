@@ -1,0 +1,796 @@
+{
+  "topic_id": "b2-08-finalsaetze",
+  "level": "B2",
+  "title_de": "Finalsätze (damit / um zu)",
+  "title_en": "Purpose clauses (damit / um … zu)",
+  "rule": {
+    "summary": "Final clauses say **why someone does something**, in the sense of a goal or purpose (*wozu?*, *mit welchem Ziel?*). If the subject of the purpose is the same as the subject of the main clause, use **um … zu** + Infinitiv: *Ich lerne, um die Prüfung zu bestehen.* If the subjects are different, you must use the conjunction **damit** + Nebensatz (verb at the end): *Ich erkläre es, damit du es verstehst.* *damit* is also possible with the same subject, but *um … zu* is usually shorter and more natural. In formal texts the purpose is often a noun phrase: *zur Vorbereitung, zwecks Planung*.",
+    "table": "| Struktur | Subjekte | Wortstellung | Beispiel |\n|---|---|---|---|\n| **um … zu** + Inf | gleich | *zu* + Infinitiv am Ende | *Er spart, **um** ein Auto **zu** kaufen.* |\n| **damit** + Nebensatz | verschieden (oder gleich) | konjugiertes Verb am Ende | *Er spart, **damit** seine Kinder studieren können.* |\n| **um nicht … zu** / **damit … nicht** | gleich / verschieden | *nicht* vor *zu* bzw. im Mittelfeld | *Sie geht früh, **um nicht zu** spät **zu** kommen.* |\n| **zu** + Dativ / **zwecks** + Genitiv | (Nominalstil) | Präpositionalphrase | ***Zur** Vorbereitung lese ich viel.* |",
+    "steps": [
+      "Check that the clause expresses a purpose (*wozu?*), not a reason (*warum? → weil*).",
+      "Compare the subjects: who acts in the main clause, and who should act or benefit in the purpose? Same person → *um … zu*; different person or thing → *damit*.",
+      "*um … zu*: no subject, no conjugated verb. *um* begins the clause, *zu* + Infinitiv stands at the end (separable: *anzurufen*; with a modal: *arbeiten zu können*).",
+      "*damit*: normal Nebensatz with its own subject; the conjugated verb goes to the end. Do not use *wollen/sollen* in it; *können* is fine.",
+      "Separate the final clause with a comma. If it is in the Vorfeld, the main clause starts with the finite verb: *Um Geld zu sparen, **fährt** er Rad.*"
+    ],
+    "pitfalls": [
+      "*um … zu* with different subjects: ✗ *Ich rufe an, um du Bescheid zu wissen.* → ✓ *Ich rufe an, damit du Bescheid weißt.*",
+      "Hidden change of subject: ✗ *Die Ärztin gab mir Tabletten, um besser zu schlafen.* (the doctor sleeps) → ✓ *…, damit ich besser schlafe.*",
+      "Verb not at the end after *damit*: ✗ *…, damit wir haben mehr Zeit.* → ✓ *…, damit wir mehr Zeit haben.*",
+      "*zu* in the wrong place: ✗ *um früh zu aufstehen* → ✓ *um früh aufzustehen*; ✗ *um zu arbeiten können* → ✓ *um arbeiten zu können*.",
+      "*für* + infinitive (from English 'for' or French 'pour'): ✗ *Ich lerne Deutsch für in Berlin arbeiten.* → ✓ *…, um in Berlin zu arbeiten.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich lerne fleißig, {{c1::damit::Zweck}} ich die Prüfung bestehe.",
+      "en": "I'm studying hard so that I pass the exam.",
+      "focus": "Finalsatz · konjugiertes Verb am Ende",
+      "explanation": "The clause has its own subject *ich* and a conjugated verb at the end (*bestehe*), so it needs the conjunction **damit**. Both subjects are *ich*, so *um die Prüfung zu bestehen* would also be correct and is more common.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Ich lerne fleißig, damit ich bestehe die Prüfung.",
+        "why": "*damit* starts a Nebensatz, so the conjugated verb *bestehe* must go to the end: *damit ich die Prüfung bestehe*."
+      },
+      "examples": [
+        {"de": "Sie trainiert jeden Tag, damit sie beim Marathon durchhält.", "en": "She trains every day so that she can last the whole marathon."},
+        {"de": "Ich stelle mir zwei Wecker, damit ich nicht verschlafe.", "en": "I set two alarms so that I don't oversleep."}
+      ],
+      "words": [{"de": "fleißig", "en": "hard-working, diligently"}],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wir gehen zur Apotheke, {{c1::um::Zweck}} Medizin {{c2::zu}} kaufen.",
+      "en": "We're going to the pharmacy to buy medicine.",
+      "focus": "Finalsatz · gleiches Subjekt · Infinitivkonstruktion",
+      "explanation": "*wir* go and *wir* buy, so the subjects are the same → **um** … **zu** + Infinitiv. The clause has no subject; *um* opens it, the object *Medizin* stands in the middle, and *zu kaufen* closes it.",
+      "pattern": "Hauptsatz, **um** + Objekt + **zu** + Inf",
+      "mistake": {
+        "wrong": "Wir gehen zur Apotheke, um wir Medizin zu kaufen.",
+        "why": "An *um … zu* clause never has its own subject. The subject is taken from the main clause: *um Medizin zu kaufen*."
+      },
+      "examples": [
+        {"de": "Er geht zur Bank, um ein Konto zu eröffnen.", "en": "He's going to the bank to open an account."},
+        {"de": "Wir fahren zum Baumarkt, um Farbe zu besorgen.", "en": "We're driving to the DIY store to get paint."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie spart Geld, {{c1::damit::Zweck}} ihre Tochter studieren kann.",
+      "en": "She saves money so that her daughter can study.",
+      "focus": "Finalsatz · Subjektwechsel · Modalverb",
+      "explanation": "The mother saves, but the daughter should study: two different subjects, so *um … zu* is impossible and **damit** is required. The modal *kann* is the conjugated verb and goes to the end after the infinitive *studieren*.",
+      "pattern": "Hauptsatz, **damit** + anderes Subjekt + Inf + können (Ende)",
+      "mistake": {
+        "wrong": "Sie spart Geld, um ihre Tochter studieren zu können.",
+        "why": "This would mean that the mother herself wants to be able to study. A different subject (*ihre Tochter*) requires *damit*."
+      },
+      "examples": [
+        {"de": "Die Eltern arbeiten viel, damit ihre Kinder eine gute Ausbildung bekommen.", "en": "The parents work a lot so that their children get a good education."},
+        {"de": "Der Lehrer spricht laut, damit ihn auch die hinteren Reihen hören können.", "en": "The teacher speaks loudly so that the back rows can hear him too."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich rufe dich an, {{c1::um::Zweck}} dich {{c2::zu}} informieren.",
+      "en": "I'm calling you to let you know.",
+      "focus": "Finalsatz · gleiches Subjekt · Pronomen als Objekt",
+      "explanation": "*ich* call and *ich* inform → same subject → **um** … **zu**. *dich* is the Akkusativ object of *informieren*, not a subject; it stands between *um* and *zu informieren*.",
+      "pattern": "Hauptsatz, **um** + Akk-Pronomen + **zu** + Inf",
+      "mistake": {
+        "wrong": "Ich rufe dich an, um zu dich informieren.",
+        "why": "*zu* stands directly before the infinitive at the end. Objects come before it: *um dich zu informieren*."
+      },
+      "examples": [
+        {"de": "Sie schreibt ihm, um ihn an den Termin zu erinnern.", "en": "She's writing to him to remind him of the appointment."},
+        {"de": "Wir besuchen sie, um ihr zu gratulieren.", "en": "We're visiting her to congratulate her."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wir bringen Blumen mit, {{c1::damit::Zweck}} sie sich freut.",
+      "en": "We're bringing flowers so that she'll be happy.",
+      "focus": "Finalsatz · Subjektwechsel · reflexives Verb",
+      "explanation": "*wir* bring the flowers, *sie* should be happy → different subjects → **damit**. In the Nebensatz the reflexive pronoun *sich* follows the subject, and *freut* goes to the end.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + sich + Verb (Ende)",
+      "mistake": {
+        "wrong": "Wir bringen Blumen mit, um sich zu freuen.",
+        "why": "*um … zu* takes the subject of the main clause (*wir*), and *sich* does not fit *wir*. The person who should be happy is different, so *damit sie sich freut* is needed."
+      },
+      "examples": [
+        {"de": "Ich koche sein Lieblingsessen, damit er sich wohlfühlt.", "en": "I'm cooking his favourite meal so that he feels comfortable."},
+        {"de": "Wir lassen das Licht an, damit sich die Kinder nicht fürchten.", "en": "We leave the light on so that the children aren't scared."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er trägt eine Brille, {{c1::um::Zweck}} besser {{c2::zu}} sehen.",
+      "en": "He wears glasses to see better.",
+      "focus": "Finalsatz · gleiches Subjekt · Adverb",
+      "explanation": "*er* wears the glasses and *er* wants to see better → **um** … **zu**. The adverb *besser* stays between *um* and *zu sehen*.",
+      "pattern": "Hauptsatz, **um** + Adverb + **zu** + Inf",
+      "mistake": {
+        "wrong": "Er trägt eine Brille, für besser zu sehen.",
+        "why": "German does not use *für* + *zu*-infinitive for a purpose. The purpose infinitive is introduced by *um*."
+      },
+      "examples": [
+        {"de": "Sie trägt Kopfhörer, um sich besser zu konzentrieren.", "en": "She wears headphones to concentrate better."},
+        {"de": "Er nimmt Vitamine, um schneller gesund zu werden.", "en": "He takes vitamins to get well faster."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich gehe ins Bett, {{c1::um::Zweck}} {{c2::zu}} schlafen.",
+      "en": "I'm going to bed to sleep.",
+      "focus": "Finalsatz · gleiches Subjekt · nur Infinitiv",
+      "explanation": "The purpose clause can be very short: **um zu** + Infinitiv without any other word. The subject *ich* is the same in both parts.",
+      "pattern": "Hauptsatz, **um zu** + Inf",
+      "mistake": {
+        "wrong": "Ich gehe ins Bett, zu schlafen.",
+        "why": "A *zu*-infinitive alone does not express purpose after a verb like *gehen*. The purpose needs *um*: *um zu schlafen*."
+      },
+      "examples": [
+        {"de": "Er setzt sich hin, um sich auszuruhen.", "en": "He sits down to rest."},
+        {"de": "Sie bleibt stehen, um zu verschnaufen.", "en": "She stops to catch her breath."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Mein Vater arbeitet viel, {{c1::damit::Zweck}} wir ein gutes Leben haben.",
+      "en": "My father works a lot so that we have a good life.",
+      "focus": "Finalsatz · Subjektwechsel",
+      "explanation": "The father works, but *wir* (the family) should have a good life → different subjects → **damit**. The conjugated verb *haben* goes to the end of the Nebensatz.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Mein Vater arbeitet viel, um wir ein gutes Leben zu haben.",
+        "why": "*um … zu* cannot have its own subject. Because the subject changes (*wir*), only *damit wir … haben* is possible."
+      },
+      "examples": [
+        {"de": "Die Großeltern helfen mit, damit die Familie Zeit für sich hat.", "en": "The grandparents help out so that the family has some time for itself."},
+        {"de": "Die Stadt baut neue Radwege, damit mehr Menschen das Rad nehmen.", "en": "The city is building new cycle paths so that more people take the bike."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie geht jeden Tag spazieren, {{c1::um::Zweck}} fit {{c2::zu}} bleiben.",
+      "en": "She goes for a walk every day to stay fit.",
+      "focus": "Finalsatz · gleiches Subjekt · Prädikativ",
+      "explanation": "*sie* walks and *sie* wants to stay fit → **um** … **zu**. The adjective *fit* belongs to *bleiben* and stands before *zu bleiben*.",
+      "pattern": "Hauptsatz, **um** + Adjektiv + **zu** + bleiben",
+      "mistake": {
+        "wrong": "Sie geht jeden Tag spazieren, damit fit bleibt.",
+        "why": "A *damit*-clause needs its own subject: *damit sie fit bleibt*. Without a subject, use *um fit zu bleiben*."
+      },
+      "examples": [
+        {"de": "Er trinkt viel Wasser, um gesund zu bleiben.", "en": "He drinks a lot of water to stay healthy."},
+        {"de": "Sie meditiert morgens, um ruhig zu bleiben.", "en": "She meditates in the morning to stay calm."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich schreibe es auf, {{c1::damit::Zweck}} ich es nicht vergesse.",
+      "en": "I'm writing it down so that I don't forget it.",
+      "focus": "Finalsatz · Negation · konjugiertes Verb am Ende",
+      "explanation": "The clause has a subject (*ich*) and a conjugated verb (*vergesse*), so it needs **damit**. With the same subject *um es nicht zu vergessen* is also possible. *nicht* stands before the verb at the end.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + Objekt + nicht + Verb",
+      "mistake": {
+        "wrong": "Ich schreibe es auf, damit ich vergesse es nicht.",
+        "why": "In the *damit*-clause the conjugated verb is last: *damit ich es nicht vergesse*."
+      },
+      "examples": [
+        {"de": "Ich speichere die Datei zweimal, damit ich sie nicht verliere.", "en": "I save the file twice so that I don't lose it."},
+        {"de": "Er macht ein Foto vom Parkplatz, damit er das Auto wiederfindet.", "en": "He takes a photo of the parking space so that he finds the car again."}
+      ],
+      "words": [],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er sucht eine Wohnung, {{c1::um::Zweck}} näher an der Arbeit {{c2::zu}} wohnen.",
+      "en": "He's looking for a flat so he can live closer to work.",
+      "focus": "Finalsatz · gleiches Subjekt · Ortsangabe",
+      "explanation": "*er* searches and *er* wants to live closer → **um** … **zu**. The local phrase *näher an der Arbeit* (Dativ, *wo?*) stands in the middle; *zu wohnen* closes the clause.",
+      "pattern": "Hauptsatz, **um** + Ortsangabe + **zu** + Inf",
+      "mistake": {
+        "wrong": "Er sucht eine Wohnung, um zu wohnen näher an der Arbeit.",
+        "why": "*zu* + Infinitiv must be the last element of the clause. Other phrases come before it: *um näher an der Arbeit zu wohnen*."
+      },
+      "examples": [
+        {"de": "Sie zieht aufs Land, um in Ruhe zu arbeiten.", "en": "She's moving to the countryside to work in peace."},
+        {"de": "Wir nehmen den Nachtzug, um am Morgen in Wien zu sein.", "en": "We're taking the night train to be in Vienna in the morning."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir benutzen die App, {{c1::damit::Zweck}} wir schneller lernen.",
+      "en": "We use the app so that we learn faster.",
+      "focus": "Finalsatz · konjugiertes Verb am Ende",
+      "explanation": "The clause contains a subject and a finite verb (*wir … lernen*), so the connector is **damit**. Because the subject is the same, *um schneller zu lernen* is the more elegant alternative.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Wir benutzen die App, damit wir schneller lernen wollen.",
+        "why": "*wollen* repeats the idea of purpose that *damit* already expresses. Modal verbs of intention (*wollen, sollen*) are not used in final clauses."
+      },
+      "examples": [
+        {"de": "Wir nutzen ein Online-Tool, damit wir Termine leichter planen.", "en": "We use an online tool so that we plan appointments more easily."},
+        {"de": "Ich höre Podcasts, damit ich mein Hörverstehen verbessere.", "en": "I listen to podcasts to improve my listening comprehension."}
+      ],
+      "words": [],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie lernt Spanisch, {{c1::um::Zweck}} in Spanien arbeiten {{c2::zu}} können.",
+      "en": "She's learning Spanish to be able to work in Spain.",
+      "focus": "Finalsatz · gleiches Subjekt · Modalverb im Infinitiv",
+      "explanation": "*sie* learns and *sie* wants to be able to work → **um** … **zu**. With a modal, *zu* goes before the modal, not before the main verb: *arbeiten* **zu** *können*.",
+      "pattern": "Hauptsatz, **um** + … + Inf + **zu** + Modal-Inf",
+      "mistake": {
+        "wrong": "Sie lernt Spanisch, um in Spanien zu arbeiten können.",
+        "why": "*zu* always stands before the last infinitive of the group, here the modal: *arbeiten zu können*."
+      },
+      "examples": [
+        {"de": "Er macht einen Kurs, um sein Auto selbst reparieren zu können.", "en": "He's taking a course to be able to repair his car himself."},
+        {"de": "Sie spart, um im Alter gut leben zu können.", "en": "She's saving to be able to live well in old age."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich öffne das Fenster, {{c1::damit::Zweck}} frische Luft hereinkommt.",
+      "en": "I'm opening the window so that fresh air comes in.",
+      "focus": "Finalsatz · Subjektwechsel · trennbares Verb",
+      "explanation": "The subject of the purpose is *frische Luft*, not *ich* → **damit**. The separable verb *hereinkommen* stays together at the end of the Nebensatz: *hereinkommt*.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + trennbares Verb (Ende, zusammen)",
+      "mistake": {
+        "wrong": "Ich öffne das Fenster, damit frische Luft kommt herein.",
+        "why": "In a Nebensatz a separable verb is not split: the finite verb goes to the end with its prefix, *hereinkommt*."
+      },
+      "examples": [
+        {"de": "Ich mache die Tür zu, damit die Katze nicht hinausläuft.", "en": "I'm closing the door so that the cat doesn't run out."},
+        {"de": "Wir ziehen die Vorhänge zu, damit die Sonne nicht hereinscheint.", "en": "We draw the curtains so that the sun doesn't shine in."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir kochen viel, {{c1::um::Zweck}} Gäste {{c2::zu}} bewirten.",
+      "en": "We cook a lot to entertain guests.",
+      "focus": "Finalsatz · gleiches Subjekt · untrennbares Verb",
+      "explanation": "*wir* cook and *wir* entertain → **um** … **zu**. *bewirten* is inseparable, so *zu* stands as a separate word before it: *zu bewirten*.",
+      "pattern": "Hauptsatz, **um** + Objekt + **zu** + Inf",
+      "mistake": {
+        "wrong": "Wir kochen viel, um Gäste bezuwirten.",
+        "why": "*zu* only goes inside separable verbs (*einzuladen*). *be-* is inseparable, so the form is *zu bewirten*."
+      },
+      "examples": [
+        {"de": "Sie backt einen Kuchen, um die Nachbarn zu begrüßen.", "en": "She's baking a cake to welcome the neighbours."},
+        {"de": "Er schreibt eine Mail, um den Kunden zu beruhigen.", "en": "He's writing an email to reassure the customer."}
+      ],
+      "words": [{"de": "bewirten", "en": "to entertain (guests with food and drink)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie nimmt einen Schirm mit, {{c1::damit::Zweck}} sie nicht nass wird.",
+      "en": "She takes an umbrella so that she doesn't get wet.",
+      "focus": "Finalsatz · Negation · *werden* am Ende",
+      "explanation": "The clause has its own subject *sie* and the finite verb *wird*, so it needs **damit**. With the same subject *um nicht nass zu werden* is equally correct.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + nicht + Adjektiv + werden (Ende)",
+      "mistake": {
+        "wrong": "Sie nimmt einen Schirm mit, damit sie wird nicht nass.",
+        "why": "The finite verb of the *damit*-clause goes to the end: *damit sie nicht nass wird*."
+      },
+      "examples": [
+        {"de": "Er zieht eine dicke Jacke an, damit er nicht friert.", "en": "He puts on a thick jacket so that he doesn't freeze."},
+        {"de": "Sie cremt sich ein, damit sie keinen Sonnenbrand bekommt.", "en": "She puts on sun cream so that she doesn't get sunburnt."}
+      ],
+      "words": [],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er fährt mit dem Bus, {{c1::um::Zweck}} Geld {{c2::zu}} sparen.",
+      "en": "He takes the bus to save money.",
+      "focus": "Finalsatz · gleiches Subjekt",
+      "explanation": "*er* takes the bus and *er* saves → **um** … **zu**. Without a subject and finite verb, the clause is shorter than *damit er Geld spart*.",
+      "pattern": "Hauptsatz, **um** + Objekt + **zu** + Inf",
+      "mistake": {
+        "wrong": "Er fährt mit dem Bus, um Geld sparen.",
+        "why": "*um* must be combined with *zu* + Infinitiv: *um Geld zu sparen*."
+      },
+      "examples": [
+        {"de": "Sie kauft gebrauchte Möbel, um die Umwelt zu schonen.", "en": "She buys second-hand furniture to protect the environment."},
+        {"de": "Wir fahren nachts, um den Stau zu vermeiden.", "en": "We drive at night to avoid the traffic jams."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir treffen uns früher, {{c1::damit::Zweck}} wir mehr Zeit haben.",
+      "en": "We're meeting earlier so that we have more time.",
+      "focus": "Finalsatz · konjugiertes Verb am Ende",
+      "explanation": "*wir … haben* is a full Nebensatz with subject and finite verb, so it is introduced by **damit**. *um mehr Zeit zu haben* would also be correct, because the subject is the same.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Wir treffen uns früher, damit wir haben mehr Zeit.",
+        "why": "*damit* sends the finite verb to the end: *damit wir mehr Zeit haben*."
+      },
+      "examples": [
+        {"de": "Wir fahren schon um sechs los, damit wir einen Parkplatz finden.", "en": "We're leaving at six so that we find a parking space."},
+        {"de": "Ich bereite alles am Vorabend vor, damit ich morgens keinen Stress habe.", "en": "I prepare everything the evening before so that I'm not stressed in the morning."}
+      ],
+      "words": [],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Sie liest viel, {{c1::um::Zweck}} ihren Wortschatz {{c2::zu}} erweitern.",
+      "en": "She reads a lot to expand her vocabulary.",
+      "focus": "Finalsatz · gleiches Subjekt · Possessivartikel",
+      "explanation": "*sie* reads and *sie* expands → **um** … **zu**. The object *ihren Wortschatz* (masculine Akkusativ, *ihren*) stands in the middle, and the inseparable *erweitern* takes a separate *zu*.",
+      "pattern": "Hauptsatz, **um** + Akk-Objekt + **zu** + Inf",
+      "mistake": {
+        "wrong": "Sie liest viel, um zu ihren Wortschatz erweitern.",
+        "why": "*zu* belongs directly before the infinitive at the end: *um ihren Wortschatz zu erweitern*."
+      },
+      "examples": [
+        {"de": "Er sieht Filme im Original, um sein Englisch zu verbessern.", "en": "He watches films in the original to improve his English."},
+        {"de": "Sie besucht Konferenzen, um ihr Netzwerk auszubauen.", "en": "She attends conferences to expand her network."}
+      ],
+      "words": [{"de": "der Wortschatz", "en": "vocabulary"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich schweige, {{c1::damit::Zweck}} ich keinen Streit anfange.",
+      "en": "I keep quiet so that I don't start an argument.",
+      "focus": "Finalsatz · Negation mit *kein* · trennbares Verb",
+      "explanation": "The clause has a subject and a finite verb, so it needs **damit**. The separable verb *anfangen* is not split in the Nebensatz: *anfange* at the end. Alternative with the same subject: *um keinen Streit anzufangen*.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + kein- + trennbares Verb (Ende)",
+      "mistake": {
+        "wrong": "Ich schweige, damit ich fange keinen Streit an.",
+        "why": "In the Nebensatz the separable verb stays together at the end: *damit ich keinen Streit anfange*."
+      },
+      "examples": [
+        {"de": "Er sagt lieber nichts, damit er niemanden verletzt.", "en": "He'd rather say nothing so that he doesn't hurt anyone."},
+        {"de": "Ich gehe früh nach Hause, damit ich den letzten Bus nicht verpasse.", "en": "I'm going home early so that I don't miss the last bus."}
+      ],
+      "words": [{"de": "schweigen", "en": "to be silent, to keep quiet"}],
+      "production_cue": "(use damit)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Bitte sprechen Sie langsam, {{c1::damit::Zweck}} alle Sie verstehen können.",
+      "en": "Please speak slowly so that everyone can understand you.",
+      "focus": "Finalsatz · Subjektwechsel · Modalverb *können*",
+      "explanation": "The person addressed speaks, but *alle* should understand → different subjects → **damit**. *alle* is the subject of the clause and *Sie* the Akkusativ object; *können* is the finite verb at the end. *können* is allowed in final clauses, unlike *wollen/sollen*.",
+      "pattern": "Hauptsatz, **damit** + Subjekt + Akk-Objekt + Inf + können (Ende)",
+      "mistake": {
+        "wrong": "Bitte sprechen Sie langsam, um alle Sie verstehen zu können.",
+        "why": "*um … zu* would take the subject of the main clause (the speaker) and cannot have its own subject *alle*. A change of subject requires *damit*."
+      },
+      "examples": [
+        {"de": "Ich schreibe die Wörter an die Tafel, damit alle sie lesen können.", "en": "I write the words on the board so that everyone can read them."},
+        {"de": "Er lässt die Tür offen, damit die Kollegen ihn jederzeit erreichen können.", "en": "He leaves the door open so that his colleagues can reach him at any time."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Sie nimmt den ersten Zug, um rechtzeitig zur Konferenz in Basel {{c1::anzukommen::ankommen}}.",
+      "en": "She's taking the first train to arrive at the conference in Basel on time.",
+      "focus": "*um … zu* · trennbares Verb",
+      "explanation": "Same subject (*sie*) → *um … zu*. *ankommen* is separable, so *zu* goes between the prefix and the stem and the verb is written as one word: an + zu + kommen → **anzukommen**.",
+      "pattern": "um + … + Präfix-**zu**-Verb",
+      "mistake": {
+        "wrong": "Sie nimmt den ersten Zug, um rechtzeitig zur Konferenz in Basel zu ankommen.",
+        "why": "With separable verbs *zu* is inserted after the prefix: *anzukommen*, not *zu ankommen*."
+      },
+      "examples": [
+        {"de": "Er stellt den Wecker, um früh aufzustehen.", "en": "He sets the alarm to get up early."},
+        {"de": "Wir bleiben länger im Büro, um den Bericht fertigzustellen.", "en": "We're staying longer at the office to finish the report."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Um Kosten zu sparen, {{c1::verzichtet::verzichten}} das Unternehmen in diesem Jahr auf Dienstreisen.",
+      "en": "To save costs, the company is doing without business trips this year.",
+      "focus": "Finalsatz im Vorfeld · Wortstellung Hauptsatz",
+      "explanation": "The *um … zu* clause fills the Vorfeld (position 1). The finite verb of the main clause must come directly after the comma in position 2, before the subject: **verzichtet** *das Unternehmen*.",
+      "pattern": "Um … zu + Inf, **Verb** + Subjekt + …",
+      "mistake": {
+        "wrong": "Um Kosten zu sparen, das Unternehmen verzichtet in diesem Jahr auf Dienstreisen.",
+        "why": "A clause in the Vorfeld counts as position 1. The finite verb follows immediately, then the subject: *verzichtet das Unternehmen*."
+      },
+      "examples": [
+        {"de": "Um Zeit zu gewinnen, stellte der Anwalt einen neuen Antrag.", "en": "To gain time, the lawyer filed a new motion."},
+        {"de": "Um die Umwelt zu schützen, fördert die Regierung erneuerbare Energien.", "en": "To protect the environment, the government supports renewable energy."}
+      ],
+      "words": [{"de": "verzichten auf + Akk.", "en": "to do without, to give up"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Der junge Sportler trainiert täglich, um für die Nationalmannschaft {{c1::ausgewählt zu werden::auswählen · Passiv}}.",
+      "en": "The young athlete trains every day to be selected for the national team.",
+      "focus": "*um … zu* · Passivinfinitiv",
+      "explanation": "The athlete trains, and the athlete should be selected (by others). The subject is the same, so *um … zu* works with a passive infinitive: Partizip II + **zu werden** → *ausgewählt zu werden*.",
+      "pattern": "um + … + Partizip II + **zu werden**",
+      "mistake": {
+        "wrong": "Der junge Sportler trainiert täglich, um für die Nationalmannschaft zu ausgewählt werden.",
+        "why": "In the passive infinitive *zu* stands before *werden*, the last verb: *ausgewählt zu werden*."
+      },
+      "examples": [
+        {"de": "Sie bewirbt sich früh, um zum Vorstellungsgespräch eingeladen zu werden.", "en": "She applies early to be invited to the interview."},
+        {"de": "Er arbeitet hart, um befördert zu werden.", "en": "He works hard to be promoted."}
+      ],
+      "words": [{"de": "auswählen", "en": "to select"}],
+      "production_cue": "(passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Zur::Präposition + Artikel}} Vorbereitung auf die Prüfung besucht sie einen Intensivkurs.",
+      "en": "To prepare for the exam, she's attending an intensive course.",
+      "focus": "Finalangabe im Nominalstil",
+      "explanation": "A purpose can be expressed by a noun phrase with *zu* + Dativ: *zu der Vorbereitung* → **zur** *Vorbereitung*. It replaces *Um sich auf die Prüfung vorzubereiten, …*. The phrase is in the Vorfeld, so the finite verb *besucht* follows directly.",
+      "pattern": "**zu** + Dativ (Nominalisierung) = um … zu",
+      "mistake": {
+        "wrong": "Für Vorbereitung auf die Prüfung besucht sie einen Intensivkurs.",
+        "why": "With nominalised purposes German usually uses *zu* + Dativ with the article (*zur Vorbereitung*). *für* needs an article and sounds unnatural here."
+      },
+      "examples": [
+        {"de": "Zur Sicherheit speichern wir eine Kopie in der Cloud.", "en": "To be safe, we save a copy in the cloud."},
+        {"de": "Zum Schutz der Daten wird alles verschlüsselt.", "en": "Everything is encrypted to protect the data."}
+      ],
+      "words": [{"de": "die Vorbereitung (-en)", "en": "preparation"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wir flüsterten, damit das Baby nicht {{c1::aufwachte::aufwachen}}.",
+      "en": "We whispered so that the baby wouldn't wake up.",
+      "focus": "*damit*-Satz · Vergangenheit · trennbares Verb",
+      "explanation": "In a past context the *damit*-clause also uses a past tense: Präteritum **aufwachte**. The separable verb stays together at the end of the Nebensatz. English uses 'wouldn't', but German needs no Konjunktiv here.",
+      "pattern": "Hauptsatz (Prät.), damit + Subjekt + nicht + Verb (Prät., Ende)",
+      "mistake": {
+        "wrong": "Wir flüsterten, damit das Baby wachte nicht auf.",
+        "why": "*damit* starts a Nebensatz: the separable verb is not split, and the finite form goes to the end: *nicht aufwachte*."
+      },
+      "examples": [
+        {"de": "Sie schloss die Tür ab, damit niemand hereinkam.", "en": "She locked the door so that nobody came in."},
+        {"de": "Er erklärte alles zweimal, damit wir es verstanden.", "en": "He explained everything twice so that we understood it."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Regierung fördert Elektroautos, damit weniger CO₂ {{c1::ausgestoßen::ausstoßen}} wird.",
+      "en": "The government subsidises electric cars so that less CO₂ is emitted.",
+      "focus": "*damit*-Satz · Passiv",
+      "explanation": "The subject of the purpose is *CO₂*, not *die Regierung* → *damit*. Inside the clause the Vorgangspassiv is used: Partizip II **ausgestoßen** (separable: aus-ge-stoßen) + *wird* at the end.",
+      "pattern": "damit + Subjekt + Partizip II + wird (Ende)",
+      "mistake": {
+        "wrong": "Die Regierung fördert Elektroautos, um weniger CO₂ ausgestoßen zu werden.",
+        "why": "The subject of the purpose (*CO₂*) is not the subject of the main clause (*die Regierung*). The government is not emitted, so *um … zu* is wrong; use *damit*."
+      },
+      "examples": [
+        {"de": "Die Stadt pflanzt Bäume, damit die Luft gereinigt wird.", "en": "The city is planting trees so that the air is cleaned."},
+        {"de": "Wir prüfen alles doppelt, damit keine Fehler veröffentlicht werden.", "en": "We check everything twice so that no mistakes are published."}
+      ],
+      "words": [{"de": "ausstoßen", "en": "to emit"}, {"de": "fördern", "en": "to support, to subsidise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Damit die Kinder sicher zur Schule kommen, {{c1::hat::haben}} die Stadt eine neue Ampel gebaut.",
+      "en": "So that the children get to school safely, the town has built new traffic lights.",
+      "focus": "*damit*-Satz im Vorfeld · Wortstellung Hauptsatz",
+      "explanation": "The whole *damit*-clause stands in position 1. The main clause therefore starts with its finite verb **hat** (Perfekt auxiliary), followed by the subject *die Stadt*; the Partizip II *gebaut* goes to the end.",
+      "pattern": "Damit + Nebensatz, **Verb** + Subjekt + … + Partizip II",
+      "mistake": {
+        "wrong": "Damit die Kinder sicher zur Schule kommen, die Stadt hat eine neue Ampel gebaut.",
+        "why": "After a Nebensatz in the Vorfeld, the finite verb must come next: *…, hat die Stadt eine neue Ampel gebaut*."
+      },
+      "examples": [
+        {"de": "Damit niemand die Daten lesen kann, hat die IT alles verschlüsselt.", "en": "So that nobody can read the data, IT has encrypted everything."},
+        {"de": "Damit die Gäste sich wohlfühlen, haben wir den Raum geschmückt.", "en": "So that the guests feel comfortable, we have decorated the room."}
+      ],
+      "words": [{"de": "die Ampel (-n)", "en": "traffic light(s)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Er nahm ein Taxi, um nicht zu spät zum Vorstellungsgespräch {{c1::zu kommen::kommen}}.",
+      "en": "He took a taxi so as not to be late for the job interview.",
+      "focus": "*um nicht … zu* · Negation im Infinitivsatz",
+      "explanation": "A negative purpose with the same subject is *um nicht … zu*. *nicht* comes right after *um*. Note the two different *zu*: *zu spät* ('too late') and the infinitive particle in **zu kommen**.",
+      "pattern": "um + nicht + … + **zu** + Inf",
+      "mistake": {
+        "wrong": "Er nahm ein Taxi, um nicht zu spät zum Vorstellungsgespräch kommen.",
+        "why": "The *zu* in *zu spät* means 'too'; it is not the infinitive particle. The infinitive at the end still needs its own *zu*: *um nicht zu spät … zu kommen*."
+      },
+      "examples": [
+        {"de": "Sie schreibt alles auf, um nichts zu vergessen.", "en": "She writes everything down so as not to forget anything."},
+        {"de": "Wir sprechen leise, um niemanden zu stören.", "en": "We speak quietly so as not to disturb anyone."}
+      ],
+      "words": [{"de": "das Vorstellungsgespräch (-e)", "en": "job interview"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Viele Studierende jobben nebenbei, um sich die hohe Miete {{c1::leisten zu können::leisten · können}}.",
+      "en": "Many students work on the side to be able to afford the high rent.",
+      "focus": "*um … zu* · reflexives Verb + Modalverb",
+      "explanation": "Same subject (*Studierende*) → *um … zu*. *sich etwas leisten können* = to be able to afford something. The Dativ reflexive *sich* stays after *um*, and with the modal the order is infinitive + **zu** + *können*.",
+      "pattern": "um + sich (Dat.) + Akk + Inf + **zu** + können",
+      "mistake": {
+        "wrong": "Viele Studierende jobben nebenbei, um sich die hohe Miete zu leisten können.",
+        "why": "With a modal at the end, *zu* goes before the modal, not before the main verb: *leisten zu können*."
+      },
+      "examples": [
+        {"de": "Sie arbeitet am Wochenende, um sich eine Reise nach Japan leisten zu können.", "en": "She works at weekends to be able to afford a trip to Japan."},
+        {"de": "Er verkauft sein Motorrad, um sich ein Elektroauto leisten zu können.", "en": "He's selling his motorbike to be able to afford an electric car."}
+      ],
+      "words": [{"de": "jobben", "en": "(informal) to do odd jobs, to work part-time"}, {"de": "sich etwas leisten", "en": "to afford something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Zwecks::Präposition (Genitiv)}} besserer Planung bitten wir um Ihre Anmeldung bis Freitag.",
+      "en": "For better planning, we ask you to register by Friday.",
+      "focus": "Finalangabe im Nominalstil · Amtssprache",
+      "explanation": "**zwecks** + Genitiv is a formal preposition of purpose (= *um besser planen zu können*). Here the noun has no article, so the adjective takes the strong feminine Genitiv ending: besser**er** *Planung*.",
+      "pattern": "**zwecks** + Genitiv (formell)",
+      "mistake": {
+        "wrong": "Zwecks bessere Planung bitten wir um Ihre Anmeldung bis Freitag.",
+        "why": "*zwecks* takes the Genitiv. Without an article, the feminine Genitiv adjective ending is *-er*: *zwecks besserer Planung*."
+      },
+      "examples": [
+        {"de": "Zwecks Überprüfung Ihrer Daten benötigen wir eine Kopie Ihres Ausweises.", "en": "To check your details, we need a copy of your ID."},
+        {"de": "Die Proben wurden zwecks weiterer Analyse ins Labor geschickt.", "en": "The samples were sent to the lab for further analysis."}
+      ],
+      "words": [{"de": "die Anmeldung (-en)", "en": "registration"}],
+      "production_cue": "(formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Ärztin hat mir ein Medikament verschrieben, {{c1::damit::Zweck}} ich nachts besser schlafe.",
+      "en": "The doctor has prescribed me some medication so that I sleep better at night.",
+      "focus": "Finalsatz · Objekt im Hauptsatz ≠ Subjekt",
+      "explanation": "The subject of the main clause is *die Ärztin*; *mir* is only a Dativ object. The person who should sleep is *ich*, a different subject → **damit**. With *um … zu* the doctor would be the one who sleeps.",
+      "pattern": "Subjekt A + Dat-Objekt B …, **damit** + B (Nom.) + Verb (Ende)",
+      "mistake": {
+        "wrong": "Die Ärztin hat mir ein Medikament verschrieben, um nachts besser zu schlafen.",
+        "why": "The implied subject of *um … zu* is always the subject of the main clause (*die Ärztin*), not the object *mir*. So the meaning is wrong; use *damit ich … schlafe*."
+      },
+      "examples": [
+        {"de": "Der Chef hat uns früher nach Hause geschickt, damit wir uns ausruhen können.", "en": "The boss has sent us home earlier so that we can rest."},
+        {"de": "Meine Mutter gibt mir Geld, damit ich mir ein Ticket kaufe.", "en": "My mother gives me money so that I can buy myself a ticket."}
+      ],
+      "words": [{"de": "verschreiben", "en": "to prescribe"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about choosing between the two structures.",
+      "prompt": "How do you decide between *um … zu* and *damit*?",
+      "answer": "Compare the subjects. **Same subject** → *um … zu* (preferred; *damit* is also possible). **Different subjects** → only **damit**. The implied subject of *um … zu* is always the subject of the main clause.",
+      "explanation": "*um … zu* has no subject of its own, so the listener takes the subject from the main clause. If the purpose concerns another person or thing, that subject must be named, which is only possible in a *damit*-clause.",
+      "examples": [
+        {"de": "Ich mache Sport, um gesund zu bleiben.", "en": "I do sport to stay healthy."},
+        {"de": "Ich koche gesund, damit meine Familie gesund bleibt.", "en": "I cook healthily so that my family stays healthy."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about modal verbs in final clauses.",
+      "prompt": "Why is *damit er die Prüfung bestehen will* wrong, while *damit er die Prüfung bestehen kann* is correct?",
+      "answer": "*damit* already expresses intention, so **wollen, sollen, möchten** are redundant and wrong in final clauses. **können** adds a new meaning (possibility) and is allowed.",
+      "explanation": "*wollen/sollen* would repeat the purpose idea. *können* says that the goal is to make something possible: *damit er arbeiten kann* = so that he is able to work.",
+      "examples": [
+        {"de": "Wir sprechen Englisch, damit alle uns verstehen können.", "en": "We speak English so that everyone can understand us."},
+        {"de": "Er lernt viel, damit er die Prüfung besteht.", "en": "He studies a lot so that he passes the exam."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Contrast *weil* and *damit*.",
+      "prompt": "What is the difference between *Er spart, weil er ein Auto kaufen will* and *Er spart, um ein Auto zu kaufen*?",
+      "answer": "Both talk about his motive, but *weil* gives a **reason** (*warum?*, a fact: he wants a car), while *um … zu / damit* gives a **purpose** (*wozu?*, the goal of the action). With *weil*, *wollen* is natural; in a final clause it is not used.",
+      "explanation": "A purpose clause can often be paraphrased by *weil … wollen*. The final clause is shorter and focuses on the goal. Real causes that are not goals (*weil es regnet*) can never be expressed with *damit*.",
+      "examples": [
+        {"de": "Sie bleibt zu Hause, weil sie krank ist.", "en": "She's staying at home because she's ill."},
+        {"de": "Sie bleibt zu Hause, um sich auszukurieren.", "en": "She's staying at home to recover fully."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Distinguish the two uses of *damit*.",
+      "prompt": "*damit* can be a conjunction or a pronominal adverb. How do you tell them apart?",
+      "answer": "Conjunction (*so that*): starts a Nebensatz, verb at the **end**: *…, damit du es weißt.* Pronominal adverb (*with it*, = *mit* + *das*): stands in a main clause, verb in **position 2**: *Damit bin ich einverstanden.*",
+      "explanation": "Look at the position of the finite verb. The pronominal adverb refers back to something (*mit dem Vorschlag → damit*) and belongs to verbs with *mit* (*einverstanden sein mit, anfangen mit*).",
+      "examples": [
+        {"de": "Ich gebe dir den Code, damit du die Tür öffnen kannst.", "en": "I'm giving you the code so that you can open the door."},
+        {"de": "Damit kannst du die Tür öffnen.", "en": "You can open the door with it."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about formal alternatives.",
+      "prompt": "Which prepositional phrases can replace a final clause in formal texts?",
+      "answer": "**zu** + Dativ (*zur Vorbereitung, zum Schutz*), **zwecks** + Genitiv (*zwecks Überprüfung*), and **für** + Akkusativ with a noun (*für die Reparatur*).",
+      "explanation": "The verb of the final clause becomes a noun (*vorbereiten → die Vorbereitung*). This Nominalstil is common in official letters, reports and scientific texts. *zwecks* is very formal.",
+      "examples": [
+        {"de": "Zur Verbesserung des Service bitten wir um Ihre Meinung.", "en": "To improve our service, we ask for your opinion."},
+        {"de": "Für die Reparatur brauchen wir ein Ersatzteil.", "en": "For the repair we need a spare part."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite the *damit*-clause with *um … zu*.",
+      "prompt": "Ich mache einen Deutschkurs, damit ich mich besser bewerben kann.",
+      "answer": "Ich mache einen Deutschkurs, um mich besser bewerben zu können.",
+      "explanation": "The subjects are the same (*ich*), so *um … zu* is possible. The subject *ich* disappears, the reflexive pronoun *mich* stays, and the finite *kann* becomes *zu können* at the end."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the *um … zu* clause with a noun phrase with *zu* + Dativ.",
+      "prompt": "Um die Luftqualität zu verbessern, sperrt die Stadt die Innenstadt für Autos.",
+      "answer": "Zur Verbesserung der Luftqualität sperrt die Stadt die Innenstadt für Autos.",
+      "explanation": "*verbessern* becomes the noun *die Verbesserung* (feminine) → *zu der* = *zur*. The object *die Luftqualität* becomes a Genitiv attribute: *der Luftqualität*. The phrase stays in the Vorfeld, so *sperrt* remains in position 2."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Put the final clause at the beginning of the sentence.",
+      "prompt": "Wir haben ein größeres Auto gekauft, damit die ganze Familie Platz hat.",
+      "answer": "Damit die ganze Familie Platz hat, haben wir ein größeres Auto gekauft.",
+      "explanation": "The *damit*-clause moves into the Vorfeld. The main clause then begins with the finite verb *haben*, followed by the subject *wir*; the Partizip II *gekauft* stays at the end."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Lehrer wiederholt die Regel, um die Schüler sie besser zu verstehen.",
+      "answer": "Der Lehrer wiederholt die Regel, damit die Schüler sie besser verstehen.",
+      "explanation": "The teacher repeats, but the students should understand: different subjects. *um … zu* cannot have its own subject, so the clause must be a *damit*-clause with the verb *verstehen* at the end."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie steht um fünf Uhr auf, um den Hund zu ausführen.",
+      "answer": "Sie steht um fünf Uhr auf, um den Hund auszuführen.",
+      "explanation": "*ausführen* is separable. In the *zu*-infinitive *zu* goes between prefix and stem: *auszuführen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben die Wohnung renoviert, damit wir sie besser verkaufen wollen.",
+      "answer": "Wir haben die Wohnung renoviert, damit wir sie besser verkaufen können.",
+      "explanation": "*wollen* repeats the intention already expressed by *damit* and is not used in final clauses. The intended meaning 'so that we are able to sell it better' needs *können* (or simply *verkaufen*)."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Die Bibliothek hat jetzt länger geöffnet, ___ die Studierenden abends lernen können.",
+      "options": ["damit", "um", "weil", "dass"],
+      "correct": "damit",
+      "answer": "Die Bibliothek hat jetzt länger geöffnet, damit die Studierenden abends lernen können.",
+      "explanation": "The clause states a purpose and has its own subject (*die Studierenden*) different from *die Bibliothek* → *damit*. *um* needs *zu* and no subject; *weil* would give a reason, not a goal; *dass* alone does not express purpose."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Er hat sich ein E-Bike gekauft, ___ er schneller zur Arbeit kommt.",
+      "options": ["damit", "um", "für", "zu"],
+      "correct": "damit",
+      "answer": "Er hat sich ein E-Bike gekauft, damit er schneller zur Arbeit kommt.",
+      "explanation": "The clause has a subject (*er*) and a finite verb at the end (*kommt*), so only the conjunction *damit* fits, even though the subject is the same. *um* would need *zu* + Infinitiv and no subject (*um schneller zur Arbeit zu kommen*); *für* and *zu* cannot introduce a clause."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Um",
+      "prompt": "um / zu / mehr Zeit / haben / für die Familie / arbeitet / sie / Teilzeit",
+      "answer": "Um mehr Zeit für die Familie zu haben, arbeitet sie Teilzeit.",
+      "explanation": "The *um … zu* clause is in the Vorfeld and ends with *zu haben*. Then the main clause starts with the finite verb *arbeitet*, followed by the subject *sie*. *Um für die Familie mehr Zeit zu haben, …* is also correct. Without the fixed start: *Sie arbeitet Teilzeit, um mehr Zeit für die Familie zu haben.*"
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich lege dir den Schlüssel unter die Matte,",
+      "prompt": "ich lege dir den Schlüssel unter die Matte, / kommst / damit / du / in die Wohnung",
+      "answer": "Ich lege dir den Schlüssel unter die Matte, damit du in die Wohnung kommst.",
+      "explanation": "*damit* starts the Nebensatz, the subject *du* follows, the direction *in die Wohnung* stands in the Mittelfeld, and the finite *kommst* goes to the end."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join with *um … zu* or *damit*. Choose the correct one.",
+      "prompt": "Die Firma bietet Homeoffice an. Die Mitarbeiter sollen Familie und Beruf besser vereinbaren können.",
+      "answer": "Die Firma bietet Homeoffice an, damit die Mitarbeiter Familie und Beruf besser vereinbaren können.",
+      "explanation": "The subjects differ (*die Firma* vs. *die Mitarbeiter*) → *damit*. *sollen* expresses the purpose and is dropped; *können* stays and goes to the end of the Nebensatz."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join with *um … zu* or *damit*. Choose the shorter correct option.",
+      "prompt": "Er geht in die Stadtbibliothek. Er will dort in Ruhe lernen.",
+      "answer": "Er geht in die Stadtbibliothek, um dort in Ruhe zu lernen.",
+      "explanation": "Both sentences have the subject *er* → *um … zu* is possible and shorter. *will* is dropped because the final clause already expresses the intention; *zu lernen* goes to the end."
+    }
+  ]
+}

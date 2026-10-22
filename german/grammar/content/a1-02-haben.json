@@ -1,0 +1,1541 @@
+{
+  "topic_id": "a1-02-haben",
+  "level": "A1",
+  "title_de": "haben (Präsens)",
+  "title_en": "The verb haben (present tense)",
+  "rule": {
+    "summary": "**haben** ('to have') expresses possession, family, body features and many states: *Ich habe einen Hund. Sie hat zwei Kinder. Wir haben Hunger.* Its object is in the **Akkusativ** (*einen Hund*). It is irregular only in two forms: **du hast** and **er/sie/es hat** lose the *b* of the stem. Later, *haben* is also the most important auxiliary verb of the Perfekt (*Ich habe gearbeitet.*).",
+    "table": "| Person | Pronomen | haben | Beispiel |\n|---|---|---|---|\n| 1. Sg. | ich | hab**e** | Ich habe einen Bruder. |\n| 2. Sg. (informell) | du | **hast** | Du hast Glück. |\n| 3. Sg. | er / sie / es | **hat** | Sie hat keine Zeit. |\n| 1. Pl. | wir | hab**en** | Wir haben Hunger. |\n| 2. Pl. (informell) | ihr | hab**t** | Ihr habt ein Auto. |\n| 3. Pl. / formell | sie / Sie | hab**en** | Sie haben Fragen. |",
+    "steps": [
+      "Find the subject and choose the form: *ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben*. A singular noun subject takes **hat**, a plural noun subject takes **haben**.",
+      "The verb agrees with the subject, never with the object: *Die Wohnung* **hat** *drei Zimmer* (one flat, three rooms).",
+      "Put the object in the Akkusativ. Only masculine articles change: *ein → einen, kein → keinen, der → den, mein → meinen*. Feminine, neuter and plural look like the Nominativ.",
+      "Many states use *haben* + a noun without an article where English uses *be* + adjective: *Hunger, Durst, Angst, Glück, Fieber, Lust, Zeit haben, recht haben, Geburtstag haben*.",
+      "Negate: **kein-** before a noun with *ein* or no article (*keine Zeit, keinen Hund*); **nicht** when the noun has *der/die/das* or a possessive (*Ich habe den Schlüssel nicht.*)."
+    ],
+    "pitfalls": [
+      "Regular forms where *haben* is irregular: ✗ *du habst, er habt* → ✓ *du hast, er hat*. (*habt* is only the *ihr*-form.)",
+      "Nominativ instead of Akkusativ: ✗ *Ich habe ein Bruder.* → ✓ *Ich habe einen Bruder.*",
+      "*sein* with a noun of feeling: ✗ *Ich bin Hunger.* → ✓ *Ich habe Hunger.* (or the adjective: *Ich bin hungrig.*)",
+      "*nicht* before a noun without article: ✗ *Ich habe nicht Zeit.* → ✓ *Ich habe keine Zeit.*",
+      "*haben* for age: ✗ *Ich habe 30 Jahre.* → ✓ *Ich bin 30 (Jahre alt).*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::habe::haben}} einen Hund.",
+      "en": "I have a dog.",
+      "focus": "*ich* + Akkusativobjekt (m.)",
+      "explanation": "*ich* → **habe** (stem *hab-* + *-e*). *haben* always takes an Akkusativ object. *Hund* is masculine, so *ein Hund* becomes *einen Hund*.",
+      "pattern": "ich + **habe** + einen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich habe ein Hund.",
+        "why": "*Hund* is masculine. As the Akkusativ object of *haben* the article must be *einen*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe einen Sohn.",
+          "en": "I have a son."
+        },
+        {
+          "de": "Ich habe einen neuen Job.",
+          "en": "I have a new job."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::hast::haben}} ein neues Buch.",
+      "en": "You have a new book.",
+      "focus": "*du*-Form",
+      "explanation": "*du* → **hast**. The *b* of the stem disappears in this form: not *habst*, but *hast*. *ein neues Buch* is a neuter Akkusativ, which looks the same as the Nominativ.",
+      "pattern": "du + **hast** + Akkusativ",
+      "mistake": {
+        "wrong": "Du habst ein neues Buch.",
+        "why": "*haben* is irregular for *du*: the *b* drops, so the form is *hast*."
+      },
+      "examples": [
+        {
+          "de": "Du hast eine schöne Stimme.",
+          "en": "You have a beautiful voice."
+        },
+        {
+          "de": "Du hast ein schönes Zimmer.",
+          "en": "You have a nice room."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::hat::haben}} keine Zeit.",
+      "en": "He has no time.",
+      "focus": "*er* + Negation mit *kein*",
+      "explanation": "*er* → **hat**: the stem loses its *b* and adds only *-t*. In *Zeit haben* the noun has no article, so it is negated with *kein*: *Zeit* is feminine → *keine Zeit*.",
+      "pattern": "er + **hat** + keine + Nomen",
+      "mistake": {
+        "wrong": "Er habt keine Zeit.",
+        "why": "*habt* is the *ihr*-form. For *er/sie/es* the form is *hat*."
+      },
+      "examples": [
+        {
+          "de": "Er hat keine Geschwister.",
+          "en": "He has no siblings."
+        },
+        {
+          "de": "Sie hat keine Erfahrung.",
+          "en": "She has no experience."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie {{c1::hat::haben}} zwei Kinder.",
+      "en": "She has two children.",
+      "focus": "*sie* (Singular) + Objekt im Plural",
+      "explanation": "The verb **hat** shows that *Sie* means 'she' (3rd person singular). The verb agrees with the subject *sie*, not with the plural object *zwei Kinder*.",
+      "pattern": "sie (= she) + **hat** + Zahl + Nomen (Pl.)",
+      "mistake": {
+        "wrong": "Sie hast zwei Kinder.",
+        "why": "*hast* is the *du*-form. *sie* in the meaning 'she' takes *hat*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat drei Enkel.",
+          "en": "She has three grandchildren."
+        },
+        {
+          "de": "Meine Tante hat zwei Hunde.",
+          "en": "My aunt has two dogs."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wir {{c1::haben::to have}} Hunger.",
+      "en": "We are hungry.",
+      "focus": "*wir* + Nomen ohne Artikel (Zustand)",
+      "explanation": "*wir* → **haben**, the same form as the infinitive. German expresses hunger with *haben* + the noun *Hunger* without an article. English uses *be* + adjective.",
+      "pattern": "wir + **haben** + Nomen (ohne Artikel)",
+      "mistake": {
+        "wrong": "Wir sind Hunger.",
+        "why": "*Hunger* is a noun, so it needs *haben*. With *sein* you need the adjective: *Wir sind hungrig.*"
+      },
+      "examples": [
+        {
+          "de": "Wir haben großen Hunger.",
+          "en": "We are very hungry."
+        },
+        {
+          "de": "Die Gäste haben Hunger.",
+          "en": "The guests are hungry."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hunger",
+          "en": "hunger"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ihr {{c1::habt::haben}} eine schöne Wohnung.",
+      "en": "You (all) have a nice flat.",
+      "focus": "*ihr*-Form",
+      "explanation": "*ihr* → **habt**: here the stem keeps its *b* (*hab-* + *-t*). Only *du hast* and *er hat* lose it. *eine schöne Wohnung* is a feminine Akkusativ, the same form as the Nominativ.",
+      "pattern": "ihr + **habt** + Akkusativ",
+      "mistake": {
+        "wrong": "Ihr hat eine schöne Wohnung.",
+        "why": "*hat* is the *er/sie/es*-form. *ihr* takes *habt*."
+      },
+      "examples": [
+        {
+          "de": "Ihr habt ein großes Auto.",
+          "en": "You (all) have a big car."
+        },
+        {
+          "de": "Ihr habt nette Nachbarn.",
+          "en": "You (all) have nice neighbours."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie {{c1::haben::to have}} viele Fragen.",
+      "en": "They have a lot of questions.",
+      "focus": "*sie* (Plural) + Objekt",
+      "explanation": "*Sie* with **haben** means 'they' (or, in another context, formal 'you'). The plural form is the same as the infinitive. *viele Fragen* is a plural Akkusativ without an article.",
+      "pattern": "sie (= they) + **haben** + viele + Nomen (Pl.)",
+      "mistake": {
+        "wrong": "Sie habt viele Fragen.",
+        "why": "*habt* is only for *ihr*. 'They' and formal 'you' take *haben*."
+      },
+      "examples": [
+        {
+          "de": "Sie haben viele Freunde in Berlin.",
+          "en": "They have a lot of friends in Berlin."
+        },
+        {
+          "de": "Die Schüler haben viele Hausaufgaben.",
+          "en": "The pupils have a lot of homework."
+        }
+      ],
+      "words": [],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich {{c1::habe::haben}} heute frei.",
+      "en": "I'm off today.",
+      "focus": "feste Wendung · *frei* (arbeitsfrei)",
+      "explanation": "*frei haben* means 'to have time off' (from work or school). *frei* is not a noun here, so there is no article. *ich* → **habe**, and the time word *heute* follows the verb.",
+      "pattern": "ich + **habe** + Zeit + frei",
+      "mistake": {
+        "wrong": "Heute ich habe frei.",
+        "why": "If *heute* is in position 1, the verb must come next and the subject after it: *Heute habe ich frei.*"
+      },
+      "examples": [
+        {
+          "de": "Am Freitag habe ich frei.",
+          "en": "I am off on Friday."
+        },
+        {
+          "de": "Hast du morgen frei?",
+          "en": "Are you off tomorrow?"
+        }
+      ],
+      "words": [
+        {
+          "de": "frei haben",
+          "en": "to be off (work/school)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Hast::haben}} du Geschwister?",
+      "en": "Do you have any siblings?",
+      "focus": "Ja/Nein-Frage · *du*",
+      "explanation": "In a yes/no question the verb comes first: **Hast** *du …?* German needs no helper verb like English *do*. *Geschwister* (brothers and sisters) is a plural noun without an article; the negative answer is *Nein, ich habe keine Geschwister.*",
+      "pattern": "**Hast** + du + Nomen (Pl.)?",
+      "mistake": {
+        "wrong": "Hat du Geschwister?",
+        "why": "*hat* is 3rd person singular. With *du* the verb ends in *-st*: *Hast du …?*"
+      },
+      "examples": [
+        {
+          "de": "Hast du Haustiere?",
+          "en": "Do you have any pets?"
+        },
+        {
+          "de": "Hast du Kinder?",
+          "en": "Do you have children?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Geschwister (Pl.)",
+          "en": "siblings"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::haben::to have}} Durst.",
+      "en": "We are thirsty.",
+      "focus": "*wir* + Nomen ohne Artikel (Zustand)",
+      "explanation": "*wir* → **haben**. *Durst haben* = 'to be thirsty': the noun *Durst* stands without an article. The adjective *durstig* exists, but *Durst haben* is much more common.",
+      "pattern": "wir + **haben** + Durst",
+      "mistake": {
+        "wrong": "Wir habt Durst.",
+        "why": "*habt* is the *ihr*-form. *wir* takes *haben*, the same as the infinitive."
+      },
+      "examples": [
+        {
+          "de": "Der Hund hat Durst.",
+          "en": "The dog is thirsty."
+        },
+        {
+          "de": "Hast du keinen Durst?",
+          "en": "Aren't you thirsty?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Durst",
+          "en": "thirst"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie {{c1::hat::haben}} blaue Augen.",
+      "en": "She has blue eyes.",
+      "focus": "Körpermerkmal · *haben* + Akkusativ",
+      "explanation": "*sie* (she) → **hat**. Body features are described with *haben* + an Akkusativ object: *blaue Augen*. With *sein* the eyes must be the subject: *Ihre Augen sind blau.*",
+      "pattern": "sie + **hat** + Adjektiv + Körperteil (Pl.)",
+      "mistake": {
+        "wrong": "Sie ist blaue Augen.",
+        "why": "A person *has* a feature: *Sie hat blaue Augen.* *sein* only works if the feature is the subject: *Ihre Augen sind blau.*"
+      },
+      "examples": [
+        {
+          "de": "Er hat einen Bart.",
+          "en": "He has a beard."
+        },
+        {
+          "de": "Das Baby hat große Augen.",
+          "en": "The baby has big eyes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Habt::haben}} ihr ein Auto?",
+      "en": "Do you (all) have a car?",
+      "focus": "Ja/Nein-Frage · *ihr*",
+      "explanation": "The question starts with the verb; *ihr* → **Habt**. *ein Auto* is a neuter Akkusativ and does not change (*das Auto → ein Auto*).",
+      "pattern": "**Habt** + ihr + Akkusativ?",
+      "mistake": {
+        "wrong": "Hast ihr ein Auto?",
+        "why": "*hast* is the singular *du*-form. For a group you say *du* to, use *ihr habt*."
+      },
+      "examples": [
+        {
+          "de": "Habt ihr ein Wörterbuch?",
+          "en": "Do you (all) have a dictionary?"
+        },
+        {
+          "de": "Habt ihr einen Drucker?",
+          "en": "Do you (all) have a printer?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich {{c1::habe::haben}} eine Frage.",
+      "en": "I have a question.",
+      "focus": "*ich* + Akkusativobjekt (f.)",
+      "explanation": "*ich* → **habe**, with the *-e* that almost every German verb has in the *ich*-form. *eine Frage* is a feminine Akkusativ, the same form as the Nominativ. This is the polite way to start a question in class or at work.",
+      "pattern": "ich + **habe** + eine + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Ich hat eine Frage.",
+        "why": "*hat* is the *er/sie/es*-form. *ich* takes *habe*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe eine Idee.",
+          "en": "I have an idea."
+        },
+        {
+          "de": "Ich habe eine Bitte.",
+          "en": "I have a favour to ask."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Du {{c1::hast::haben}} ein neues Telefon.",
+      "en": "You have a new phone.",
+      "focus": "*du* + Akkusativobjekt (n.)",
+      "explanation": "*du* → **hast**. *Telefon* is neuter, so the Akkusativ is *ein neues Telefon*, the same as the Nominativ. Only a masculine noun would change: *einen neuen Laptop*.",
+      "pattern": "du + **hast** + ein + Adj. + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Du hast einen neuen Telefon.",
+        "why": "*einen* is only for masculine nouns. *Telefon* is neuter, so it stays *ein neues Telefon*."
+      },
+      "examples": [
+        {
+          "de": "Du hast einen neuen Laptop.",
+          "en": "You have a new laptop."
+        },
+        {
+          "de": "Du hast eine neue Brille.",
+          "en": "You have new glasses."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Er {{c1::hat::haben}} keine Lust.",
+      "en": "He doesn't feel like it.",
+      "focus": "feste Wendung · *Lust haben*",
+      "explanation": "*Lust haben* means 'to feel like (doing something)'. *Lust* is used without an article, so the negation is *kein*: *Lust* is feminine → *keine Lust*. *er* → **hat**.",
+      "pattern": "er + **hat** + keine Lust",
+      "mistake": {
+        "wrong": "Er hat keinen Lust.",
+        "why": "*Lust* is feminine (*die Lust*), so the Akkusativ is *keine*. *keinen* is only for masculine nouns."
+      },
+      "examples": [
+        {
+          "de": "Er hat keine Lust auf Sport.",
+          "en": "He doesn't feel like doing sport."
+        },
+        {
+          "de": "Hast du Lust auf einen Kaffee?",
+          "en": "Do you fancy a coffee?"
+        }
+      ],
+      "words": [
+        {
+          "de": "Lust haben (auf + Akk.)",
+          "en": "to feel like, to fancy"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir {{c1::haben::to have}} wenig Zeit.",
+      "en": "We have little time.",
+      "focus": "*wir* + Mengenwort",
+      "explanation": "*wir* → **haben**. *wenig* ('little') stands before an uncountable noun like *Zeit* and has no ending; the opposite is *viel Zeit*.",
+      "pattern": "wir + **haben** + wenig/viel + Nomen",
+      "mistake": {
+        "wrong": "Wir hat wenig Zeit.",
+        "why": "*hat* is singular. *wir* is plural and takes *haben*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben wenig Geld.",
+          "en": "We have little money."
+        },
+        {
+          "de": "Wir haben heute viel Arbeit.",
+          "en": "We have a lot of work today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ihr {{c1::habt::haben}} Recht.",
+      "en": "You (all) are right.",
+      "focus": "feste Wendung · *recht haben*",
+      "explanation": "*Recht haben* (also written *recht haben*; both spellings are correct) means 'to be right'. English uses *be*, German uses *haben*. *ihr* → **habt**.",
+      "pattern": "ihr + **habt** + Recht/recht",
+      "mistake": {
+        "wrong": "Ihr seid Recht.",
+        "why": "In German you *have* right: *recht haben*. *sein* is not possible in this expression."
+      },
+      "examples": [
+        {
+          "de": "Sie haben recht, Frau Meier.",
+          "en": "You are right, Mrs Meier."
+        },
+        {
+          "de": "Mein Vater hat immer recht.",
+          "en": "My father is always right."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie {{c1::hat::haben}} schöne Haare.",
+      "en": "She has beautiful hair.",
+      "focus": "*sie* (Singular) · *Haare* (Plural)",
+      "explanation": "German usually says *die Haare* (plural), while English *hair* is singular. The verb **hat** still agrees with the subject *sie* ('she'), not with the plural object.",
+      "pattern": "sie + **hat** + Adjektiv + Haare",
+      "mistake": {
+        "wrong": "Sie habt schöne Haare.",
+        "why": "*habt* is the *ihr*-form. 'She' takes *hat*; the plural object does not change the verb."
+      },
+      "examples": [
+        {
+          "de": "Er hat kurze Haare.",
+          "en": "He has short hair."
+        },
+        {
+          "de": "Meine Oma hat graue Haare.",
+          "en": "My grandma has grey hair."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Haare (Pl.)",
+          "en": "hair"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Habt::haben}} ihr Hunger?",
+      "en": "Are you (all) hungry?",
+      "focus": "Ja/Nein-Frage · *ihr* · Zustand",
+      "explanation": "Verb first: *ihr* → **Habt**. *Hunger haben* has no article. The negative answer is *Nein, wir haben keinen Hunger* (*der Hunger* is masculine → *keinen*).",
+      "pattern": "**Habt** + ihr + Hunger/Durst …?",
+      "mistake": {
+        "wrong": "Seid ihr Hunger?",
+        "why": "*Hunger* is a noun and needs *haben*. English *Are you hungry?* is translated with *Habt ihr Hunger?*"
+      },
+      "examples": [
+        {
+          "de": "Habt ihr Zeit?",
+          "en": "Do you (all) have time?"
+        },
+        {
+          "de": "Habt ihr Fragen?",
+          "en": "Do you (all) have any questions?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie {{c1::haben::to have}} eine große Familie.",
+      "en": "They have a big family.",
+      "focus": "*sie* (Plural) + Akkusativobjekt (f.)",
+      "explanation": "*Sie* + **haben** = 'they' here. *eine große Familie* is a feminine Akkusativ; feminine forms are the same in the Nominativ and Akkusativ.",
+      "pattern": "sie (= they) + **haben** + eine + Adj. + Nomen",
+      "mistake": {
+        "wrong": "Sie habe eine große Familie.",
+        "why": "*habe* is the *ich*-form. For 'they' the verb is *haben*, the same as the infinitive."
+      },
+      "examples": [
+        {
+          "de": "Sie haben ein großes Haus auf dem Land.",
+          "en": "They have a big house in the country."
+        },
+        {
+          "de": "Meine Großeltern haben einen alten Hund.",
+          "en": "My grandparents have an old dog."
+        }
+      ],
+      "words": [],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich {{c1::habe::haben}} keine Zeit.",
+      "en": "I have no time.",
+      "focus": "Negation · Nomen ohne Artikel",
+      "explanation": "*kein* is the negative form of *ein*, and it also negates nouns without an article: *Zeit haben → keine Zeit haben*. *Zeit* is feminine → *keine*. *ich* → **habe**.",
+      "pattern": "ich + **habe** + kein- + Nomen",
+      "mistake": {
+        "wrong": "Ich habe nicht Zeit.",
+        "why": "A noun without an article is negated with *kein*, not *nicht*: *Ich habe keine Zeit.*"
+      },
+      "examples": [
+        {
+          "de": "Ich habe keine Ahnung.",
+          "en": "I have no idea."
+        },
+        {
+          "de": "Ich habe heute keine Kraft mehr.",
+          "en": "I have no energy left today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Hast::haben}} du einen Moment?",
+      "en": "Have you got a moment?",
+      "focus": "Ja/Nein-Frage · Akkusativ maskulin",
+      "explanation": "*haben* takes an Akkusativ object. *Moment* is masculine, so *ein Moment* becomes *einen Moment*. The verb **Hast** comes first in the yes/no question.",
+      "pattern": "**Hast** + du + einen + Nomen (Akk. m.)?",
+      "mistake": {
+        "wrong": "Hast du ein Moment?",
+        "why": "*der Moment* is masculine, and the object of *haben* is Akkusativ → *einen Moment*."
+      },
+      "examples": [
+        {
+          "de": "Hast du einen Stift?",
+          "en": "Do you have a pen?"
+        },
+        {
+          "de": "Hast du einen Regenschirm?",
+          "en": "Do you have an umbrella?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er {{c1::hat::haben}} zwei Brüder.",
+      "en": "He has two brothers.",
+      "focus": "*er*-Form",
+      "explanation": "*er* → **hat**: the stem *hab-* loses its *b* and adds only *-t*. *Brüder* is the plural of *der Bruder*, with an umlaut; it does not change the verb.",
+      "pattern": "er + **hat** + Zahl + Nomen (Pl.)",
+      "mistake": {
+        "wrong": "Er haben zwei Brüder.",
+        "why": "*haben* is the plural form. The subject *er* is singular, so the verb is *hat*, even with a plural object."
+      },
+      "examples": [
+        {
+          "de": "Er hat zwei Töchter.",
+          "en": "He has two daughters."
+        },
+        {
+          "de": "Mein Kollege hat drei Söhne.",
+          "en": "My colleague has three sons."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Wir {{c1::haben::to have}} ein Problem.",
+      "en": "We have a problem.",
+      "focus": "Akkusativ neutral",
+      "explanation": "*Problem* is neuter (*das Problem*). Neuter *ein* does not change in the Akkusativ, so it stays *ein Problem*. Only the masculine article changes (*einen*). *wir* → **haben**.",
+      "pattern": "wir + **haben** + ein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir haben einen Problem.",
+        "why": "*einen* is masculine. *Problem* is neuter, so the Akkusativ is *ein Problem*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben ein Haustier.",
+          "en": "We have a pet."
+        },
+        {
+          "de": "Wir haben ein Angebot für Sie.",
+          "en": "We have an offer for you."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ihr {{c1::habt::haben}} Glück gehabt.",
+      "en": "You (all) were lucky.",
+      "focus": "Perfekt · Hilfsverb",
+      "explanation": "This is the Perfekt: **habt** (auxiliary, position 2) + the Partizip II *gehabt* at the end. *haben* forms its own Perfekt with *haben*. *Glück haben* means 'to be lucky'.",
+      "pattern": "ihr + **habt** + … + gehabt",
+      "mistake": {
+        "wrong": "Ihr seid Glück gehabt.",
+        "why": "The Perfekt of *haben* is formed with *haben*: *ihr habt … gehabt*, never with *sein*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe keine Zeit gehabt.",
+          "en": "I didn't have any time."
+        },
+        {
+          "de": "Hast du Spaß gehabt?",
+          "en": "Did you have fun?"
+        }
+      ],
+      "words": [
+        {
+          "de": "Glück haben",
+          "en": "to be lucky"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Die Studenten {{c1::haben::to have}} viele Fragen.",
+      "en": "The students have a lot of questions.",
+      "focus": "Nomen im Plural als Subjekt",
+      "explanation": "*Die Studenten* is a plural noun subject (= *sie*) → **haben**. *viele Fragen* is a plural object without an article; *viele* takes the ending *-e* here.",
+      "pattern": "Nomen (Pl.) + **haben** + viele + Nomen (Pl.)",
+      "mistake": {
+        "wrong": "Die Studenten hat viele Fragen.",
+        "why": "*Studenten* is plural, so the verb is plural: *haben*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinder haben viele Spielsachen.",
+          "en": "The children have a lot of toys."
+        },
+        {
+          "de": "Meine Kollegen haben viele Ideen.",
+          "en": "My colleagues have a lot of ideas."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Meine Kollegin {{c1::hat::haben}} morgen Geburtstag.",
+      "en": "It's my colleague's birthday tomorrow.",
+      "focus": "feste Wendung · *Geburtstag haben*",
+      "explanation": "German says that a person *has* a birthday: *Geburtstag haben*, without an article. *Meine Kollegin* is a singular subject → **hat**. The time word *morgen* stands between the verb and the noun.",
+      "pattern": "Person + **hat** + (Zeit) + Geburtstag",
+      "mistake": {
+        "wrong": "Meine Kollegin ist morgen Geburtstag.",
+        "why": "The person *has* the birthday: *hat Geburtstag*. With *sein* the birthday itself must be the subject: *Ihr Geburtstag ist morgen.*"
+      },
+      "examples": [
+        {
+          "de": "Wann hast du Geburtstag?",
+          "en": "When is your birthday?"
+        },
+        {
+          "de": "Mein Vater hat im Mai Geburtstag.",
+          "en": "My father's birthday is in May."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Haben::to have}} Sie eine Reservierung?",
+      "en": "Do you have a reservation?",
+      "focus": "Ja/Nein-Frage · formelles *Sie*",
+      "explanation": "Formal *Sie* takes **haben**, the same form as the infinitive, even for one person. The verb comes first in the question. *eine Reservierung* is feminine, and feminine *eine* stays *eine* in the Akkusativ.",
+      "pattern": "**Haben** + Sie + Akkusativ?",
+      "mistake": {
+        "wrong": "Hat Sie eine Reservierung?",
+        "why": "Formal *Sie* always takes the plural form *haben*. *Hat sie …?* would mean 'Does she have …?'."
+      },
+      "examples": [
+        {
+          "de": "Haben Sie eine Kundennummer?",
+          "en": "Do you have a customer number?"
+        },
+        {
+          "de": "Haben Sie einen Termin?",
+          "en": "Do you have an appointment?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Reservierung (-en)",
+          "en": "reservation, booking"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich {{c1::habe::haben}} nach dem Sport immer Durst.",
+      "en": "I'm always thirsty after sport.",
+      "focus": "Zustand · Wortstellung im Mittelfeld",
+      "explanation": "*Durst haben* expresses the state 'to be thirsty'. *ich* → **habe** in position 2; the time phrase *nach dem Sport* and *immer* come before the noun *Durst*, which stands at the end.",
+      "pattern": "ich + **habe** + Zeit + immer + Durst",
+      "mistake": {
+        "wrong": "Nach dem Sport ich habe immer Durst.",
+        "why": "*Nach dem Sport* in position 1 is one element, so the verb must come next: *Nach dem Sport habe ich immer Durst.*"
+      },
+      "examples": [
+        {
+          "de": "Ich habe nach der Arbeit oft Hunger.",
+          "en": "I am often hungry after work."
+        },
+        {
+          "de": "Er hat morgens nie Hunger.",
+          "en": "He is never hungry in the morning."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Das Zimmer {{c1::hat::haben}} kein Fenster.",
+      "en": "The room has no window.",
+      "focus": "Negation · Akkusativ neutral",
+      "explanation": "*Das Zimmer* is a singular subject (= *es*) → **hat**. *Fenster* is neuter (*das Fenster*), so the negative article in the Akkusativ is *kein* without an ending. A masculine noun would need *keinen*.",
+      "pattern": "Nomen (Sg.) + **hat** + kein + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Das Zimmer hat keinen Fenster.",
+        "why": "*keinen* is masculine Akkusativ. *Fenster* is neuter → *kein Fenster*."
+      },
+      "examples": [
+        {
+          "de": "Das Hotel hat kein Restaurant.",
+          "en": "The hotel has no restaurant."
+        },
+        {
+          "de": "Unser Haus hat keinen Keller.",
+          "en": "Our house has no cellar."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Du {{c1::hast::haben}} recht.",
+      "en": "You are right.",
+      "focus": "feste Wendung · *recht haben*",
+      "explanation": "*recht haben* (also *Recht haben*) is a fixed expression for 'to be right'. English uses *be*, German uses *haben*. *du* → **hast**.",
+      "pattern": "du + **hast** + recht",
+      "mistake": {
+        "wrong": "Du bist recht.",
+        "why": "The expression is *recht haben*. *sein* cannot be used here."
+      },
+      "examples": [
+        {
+          "de": "Vielleicht hast du recht.",
+          "en": "Maybe you're right."
+        },
+        {
+          "de": "Er hat nicht recht.",
+          "en": "He is not right."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Wir {{c1::haben::to have}} noch nichts gegessen.",
+      "en": "We haven't eaten anything yet.",
+      "focus": "Perfekt · Hilfsverb",
+      "explanation": "*haben* is also the auxiliary of the Perfekt: **haben** in position 2, the Partizip II *gegessen* at the end (Satzklammer). *noch nichts* means 'nothing yet'.",
+      "pattern": "wir + **haben** + … + Partizip II",
+      "mistake": {
+        "wrong": "Wir sind noch nichts gegessen.",
+        "why": "*essen* forms the Perfekt with *haben*, like most verbs with an Akkusativ object: *Wir haben gegessen.*"
+      },
+      "examples": [
+        {
+          "de": "Wir haben den Film schon gesehen.",
+          "en": "We have already seen the film."
+        },
+        {
+          "de": "Ich habe heute viel gelernt.",
+          "en": "I learned a lot today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Er {{c1::hat::haben}} Angst vor Hunden.",
+      "en": "He is afraid of dogs.",
+      "focus": "feste Wendung · *Angst haben vor*",
+      "explanation": "*Angst haben vor* + Dativ = 'to be afraid of'. *er* → **hat**. *vor* takes the Dativ here, and the Dativ plural noun adds *-n*: *die Hunde → vor Hunden*.",
+      "pattern": "**hat** + Angst + vor + Dativ",
+      "mistake": {
+        "wrong": "Er hat Angst vor Hunde.",
+        "why": "*vor* in *Angst haben vor* takes the Dativ, and a Dativ plural noun needs *-n*: *vor Hunden*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat Angst vor Spinnen.",
+          "en": "She is afraid of spiders."
+        },
+        {
+          "de": "Hast du Angst vor der Prüfung?",
+          "en": "Are you afraid of the exam?"
+        }
+      ],
+      "words": [
+        {
+          "de": "Angst haben vor (+ Dat.)",
+          "en": "to be afraid of"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Habt::haben}} ihr eure Tickets?",
+      "en": "Do you (all) have your tickets?",
+      "focus": "Ja/Nein-Frage · *ihr* + Possessiv",
+      "explanation": "*ihr* → **Habt**, at the start of the question. The possessive that belongs to *ihr* is *euer*; before a plural noun it takes *-e*, and the second *e* of the stem usually drops: *eure Tickets*.",
+      "pattern": "**Habt** + ihr + eure + Nomen (Pl.)?",
+      "mistake": {
+        "wrong": "Hat ihr eure Tickets?",
+        "why": "*hat* is the *er/sie/es*-form. *ihr* takes *habt*, also in a question."
+      },
+      "examples": [
+        {
+          "de": "Habt ihr eure Pässe?",
+          "en": "Do you (all) have your passports?"
+        },
+        {
+          "de": "Habt ihr eure Schlüssel?",
+          "en": "Do you (all) have your keys?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Ich {{c1::habe::haben}} den Schlüssel vergessen.",
+      "en": "I forgot the key.",
+      "focus": "Perfekt · Akkusativ maskulin",
+      "explanation": "Perfekt: **habe** in position 2 + Partizip II *vergessen* at the end (*vergessen* has no *ge-* because of the prefix *ver-*). *der Schlüssel* is the masculine Akkusativ object → *den Schlüssel*.",
+      "pattern": "ich + **habe** + den + Nomen + Partizip II",
+      "mistake": {
+        "wrong": "Ich habe der Schlüssel vergessen.",
+        "why": "*der Schlüssel* is the Nominativ. As the object of *vergessen* it must be Akkusativ: *den Schlüssel*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe den Termin vergessen.",
+          "en": "I forgot the appointment."
+        },
+        {
+          "de": "Er hat den Bus verpasst.",
+          "en": "He missed the bus."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Sie {{c1::hat::haben}} immer gute Ideen.",
+      "en": "She always has good ideas.",
+      "focus": "Wortstellung · Adverb nach dem Verb",
+      "explanation": "*sie* (she) → **hat**. The adverb *immer* comes after the verb and before the object. It cannot stand between the subject and the verb as in English *she always has*.",
+      "pattern": "sie + **hat** + immer + Akkusativ",
+      "mistake": {
+        "wrong": "Sie immer hat gute Ideen.",
+        "why": "The verb must be in position 2, directly after the subject: *Sie hat immer gute Ideen.*"
+      },
+      "examples": [
+        {
+          "de": "Sie hat immer einen Plan.",
+          "en": "She always has a plan."
+        },
+        {
+          "de": "Wir haben oft Besuch.",
+          "en": "We often have visitors."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Wir {{c1::haben::to have}} einen kleinen Garten.",
+      "en": "We have a small garden.",
+      "focus": "Akkusativ maskulin · mit Adjektiv",
+      "explanation": "*wir* → **haben**. *Garten* is masculine, so the Akkusativ object is *einen Garten*. The adjective also takes the Akkusativ ending: *einen* klein**en** *Garten*.",
+      "pattern": "wir + **haben** + einen + Adj-en + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Wir haben ein kleiner Garten.",
+        "why": "*ein kleiner Garten* is the Nominativ. After *haben* the masculine object is Akkusativ: *einen kleinen Garten*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben einen großen Balkon.",
+          "en": "We have a big balcony."
+        },
+        {
+          "de": "Wir haben einen neuen Chef.",
+          "en": "We have a new boss."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Haben::to have}} Sie heute Nachmittag Zeit?",
+      "en": "Do you have time this afternoon?",
+      "focus": "Ja/Nein-Frage · formelles *Sie* · *Zeit*",
+      "explanation": "Formal *Sie* → **Haben**, at the start of the question. The time phrase *heute Nachmittag* comes before the noun *Zeit*, which has no article in *Zeit haben*.",
+      "pattern": "**Haben** + Sie + Zeitangabe + Zeit?",
+      "mistake": {
+        "wrong": "Hat Sie heute Nachmittag Zeit?",
+        "why": "Formal *Sie* takes the plural form *haben*, even when you ask one person."
+      },
+      "examples": [
+        {
+          "de": "Haben Sie morgen Vormittag Zeit?",
+          "en": "Do you have time tomorrow morning?"
+        },
+        {
+          "de": "Haben Sie am Freitag Zeit für ein Gespräch?",
+          "en": "Do you have time for a meeting on Friday?"
+        }
+      ],
+      "words": [
+        {
+          "de": "heute Nachmittag",
+          "en": "this afternoon"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Mein Sohn {{c1::hat::haben}} Fieber.",
+      "en": "My son has a temperature.",
+      "focus": "Krankheit · Nomen als Subjekt",
+      "explanation": "*Mein Sohn* is a singular noun subject (= *er*) → **hat**. Illness symptoms are expressed with *haben* + noun, usually without an article: *Fieber haben, Schnupfen haben, Husten haben*.",
+      "pattern": "Nomen (Sg.) + **hat** + Symptom (ohne Artikel)",
+      "mistake": {
+        "wrong": "Mein Sohn haben Fieber.",
+        "why": "*Mein Sohn* is one person, so the verb is singular: *hat*. *haben* is only for plural subjects."
+      },
+      "examples": [
+        {
+          "de": "Meine Tochter hat Husten.",
+          "en": "My daughter has a cough."
+        },
+        {
+          "de": "Der Lehrer hat Schnupfen.",
+          "en": "The teacher has a cold."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Fieber",
+          "en": "fever, temperature"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich {{c1::habe::haben}} leider keinen Führerschein.",
+      "en": "Unfortunately, I don't have a driving licence.",
+      "focus": "Negation · Akkusativ maskulin",
+      "explanation": "*ich* → **habe**. *Führerschein* is masculine, so the negative article in the Akkusativ is *keinen* (like *einen*). *leider* ('unfortunately') stands after the verb.",
+      "pattern": "ich + **habe** + keinen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich habe leider kein Führerschein.",
+        "why": "*kein* takes the same endings as *ein*. For a masculine Akkusativ object it must be *keinen*."
+      },
+      "examples": [
+        {
+          "de": "Er hat leider keinen Platz mehr.",
+          "en": "Unfortunately, he has no room left."
+        },
+        {
+          "de": "Wir haben keinen Fernseher.",
+          "en": "We don't have a TV."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Führerschein (-e)",
+          "en": "driving licence"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Morgen {{c1::habe::haben}} ich einen Termin beim Arzt.",
+      "en": "Tomorrow I have a doctor's appointment.",
+      "focus": "Inversion · Zeit im Vorfeld",
+      "explanation": "*Morgen* is in position 1, so the verb **habe** stays in position 2 and the subject *ich* moves behind it. *einen Termin* is the masculine Akkusativ object.",
+      "pattern": "Zeit + **habe** + ich + Akkusativ",
+      "mistake": {
+        "wrong": "Morgen ich habe einen Termin beim Arzt.",
+        "why": "Only one element may come before the verb. After *Morgen* the verb follows directly: *Morgen habe ich …*"
+      },
+      "examples": [
+        {
+          "de": "Am Montag hat sie einen Kurs.",
+          "en": "On Monday she has a class."
+        },
+        {
+          "de": "Heute Abend haben wir Besuch.",
+          "en": "This evening we have visitors."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Termin (-e)",
+          "en": "appointment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Was {{c1::hast::haben}} du in der Tasche?",
+      "en": "What have you got in your bag?",
+      "focus": "W-Frage · *du*",
+      "explanation": "*Was* asks for the Akkusativ object and fills position 1. The verb **hast** comes in position 2, then the subject *du*. German says *in der Tasche* where English uses *your bag*.",
+      "pattern": "W-Wort + **hast** + du + …?",
+      "mistake": {
+        "wrong": "Was du hast in der Tasche?",
+        "why": "In a direct W-question the verb comes directly after the question word: *Was hast du …?*"
+      },
+      "examples": [
+        {
+          "de": "Was hast du heute vor?",
+          "en": "What are you planning today?"
+        },
+        {
+          "de": "Wie viele Geschwister hast du?",
+          "en": "How many siblings do you have?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Er {{c1::hat::haben}} gestern lange gearbeitet.",
+      "en": "He worked late yesterday.",
+      "focus": "Perfekt · Hilfsverb · *er*",
+      "explanation": "Perfekt: the auxiliary **hat** is in position 2 and the Partizip II *gearbeitet* at the end. *arbeiten* forms the Perfekt with *haben*, like most verbs that do not express a change of place or state.",
+      "pattern": "er + **hat** + … + Partizip II",
+      "mistake": {
+        "wrong": "Er ist gestern lange gearbeitet.",
+        "why": "*arbeiten* is not a verb of movement or change, so its Perfekt uses *haben*: *Er hat gearbeitet.*"
+      },
+      "examples": [
+        {
+          "de": "Sie hat gestern viel telefoniert.",
+          "en": "She was on the phone a lot yesterday."
+        },
+        {
+          "de": "Mein Vater hat das Abendessen gekocht.",
+          "en": "My father cooked dinner."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Wohnung {{c1::hat::haben}} drei Zimmer und einen Balkon.",
+      "en": "The flat has three rooms and a balcony.",
+      "focus": "Kongruenz mit dem Subjekt",
+      "explanation": "The subject is *die Wohnung*, one flat (= *sie*) → **hat**. The plural object *drei Zimmer* does not change the verb. *einen Balkon* is a masculine Akkusativ.",
+      "pattern": "Nomen (Sg.) + **hat** + Objekt (Pl.) + und + Objekt",
+      "mistake": {
+        "wrong": "Die Wohnung haben drei Zimmer und einen Balkon.",
+        "why": "The verb agrees with the subject *die Wohnung* (singular), not with the object *drei Zimmer*: *hat*."
+      },
+      "examples": [
+        {
+          "de": "Das Haus hat zwei Bäder und eine Garage.",
+          "en": "The house has two bathrooms and a garage."
+        },
+        {
+          "de": "Der Kurs hat zwölf Teilnehmer.",
+          "en": "The course has twelve participants."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Unsere Nachbarn {{c1::haben::to have}} drei Katzen.",
+      "en": "Our neighbours have three cats.",
+      "focus": "Nomen im Plural als Subjekt",
+      "explanation": "*Unsere Nachbarn* is a plural subject (= *sie*) → **haben**. The plural form of *haben* is the same as the infinitive.",
+      "pattern": "Nomen (Pl.) + **haben** + Akkusativ",
+      "mistake": {
+        "wrong": "Unsere Nachbarn hat drei Katzen.",
+        "why": "*Nachbarn* is plural, so the verb must be *haben*. *hat* is only for one person or thing."
+      },
+      "examples": [
+        {
+          "de": "Meine Freunde haben ein Boot.",
+          "en": "My friends have a boat."
+        },
+        {
+          "de": "Viele Familien haben zwei Autos.",
+          "en": "Many families have two cars."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Hast::haben}} du Zahnschmerzen?",
+      "en": "Do you have toothache?",
+      "focus": "Frage · *du* · Schmerzen ohne Artikel",
+      "explanation": "In a yes/no question the verb comes first. *du* → *hab-* loses the *b*: **hast**. *Zahnschmerzen* is plural and has no article, where English often says *a toothache* or just *toothache*.",
+      "pattern": "**Hast** + du + Nomen (Pl., ohne Artikel)?",
+      "mistake": {
+        "wrong": "Habst du Zahnschmerzen?",
+        "why": "The *du*-form of *haben* is irregular: the *b* drops → *hast*, not *habst*."
+      },
+      "examples": [
+        {
+          "de": "Hast du oft Kopfschmerzen?",
+          "en": "Do you often get headaches?"
+        },
+        {
+          "de": "Hat er Rückenschmerzen?",
+          "en": "Does he have back pain?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Zahnschmerzen (Pl.)",
+          "en": "toothache"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Habt::haben}} ihr einen Regenschirm dabei?",
+      "en": "Do you (all) have an umbrella with you?",
+      "focus": "*dabeihaben* · *ihr* · Wort am Satzende",
+      "explanation": "*dabeihaben* ('to have with you') is a separable verb: the conjugated part comes first in the question and *dabei* goes to the end. *ihr* → **habt** (regular: stem *hab-* + *-t*). *einen Regenschirm* is the masculine Akkusativ object.",
+      "pattern": "**Habt** + ihr + Akkusativ + dabei?",
+      "mistake": {
+        "wrong": "Habt ihr dabei einen Regenschirm?",
+        "why": "*dabei* belongs at the end of the clause, after the object: *Habt ihr einen Regenschirm dabei?*"
+      },
+      "examples": [
+        {
+          "de": "Hast du genug Geld dabei?",
+          "en": "Do you have enough money on you?"
+        },
+        {
+          "de": "Ich habe meinen Ausweis nicht dabei.",
+          "en": "I don't have my ID card with me."
+        }
+      ],
+      "words": [
+        {
+          "de": "dabeihaben",
+          "en": "to have with you, to have on you"
+        },
+        {
+          "de": "der Regenschirm (-e)",
+          "en": "umbrella"
+        }
+      ],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Mein Chef {{c1::hat::haben}} immer gute Laune.",
+      "en": "My boss is always in a good mood.",
+      "focus": "feste Wendung · *gute Laune haben*",
+      "explanation": "*gute/schlechte Laune haben* means 'to be in a good/bad mood'; English uses *be*. *Mein Chef* is a singular subject (= *er*) → **hat**.",
+      "pattern": "Nomen (Sg.) + **hat** + gute/schlechte Laune",
+      "mistake": {
+        "wrong": "Mein Chef habt immer gute Laune.",
+        "why": "*habt* is the *ihr*-form. For *er* (*mein Chef*) the form is *hat*."
+      },
+      "examples": [
+        {
+          "de": "Heute hat sie schlechte Laune.",
+          "en": "She is in a bad mood today."
+        },
+        {
+          "de": "Warum hast du so gute Laune?",
+          "en": "Why are you in such a good mood?"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Laune (-n)",
+          "en": "mood"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the forms of haben.",
+      "prompt": "Which forms of *haben* are irregular, and what is irregular about them?",
+      "answer": "Only **du hast** and **er/sie/es hat**: the *b* of the stem *hab-* drops. All other forms are regular: *ich habe, wir haben, ihr habt, sie/Sie haben*.",
+      "explanation": "The endings are the normal ones (*-e, -st, -t, -en, -t, -en*). Only the stem is shorter in the two singular forms with *-st* and *-t*. *habt* exists, but only for *ihr*.",
+      "examples": [
+        {
+          "de": "Hast du ein Fahrrad?",
+          "en": "Do you have a bike?"
+        },
+        {
+          "de": "Sie hat einen Hund und eine Katze.",
+          "en": "She has a dog and a cat."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the case after haben.",
+      "prompt": "Which case does the object of *haben* take, and which articles change?",
+      "answer": "The **Akkusativ**. Only masculine articles change: *ein → einen, kein → keinen, der → den, mein → meinen*. Feminine, neuter and plural forms look like the Nominativ.",
+      "explanation": "*haben* is a transitive verb: the thing you have is its direct object. Because only the masculine form is different, you must know the gender of the noun (*der Computer → keinen Computer*).",
+      "examples": [
+        {
+          "de": "Wir haben einen neuen Kühlschrank.",
+          "en": "We have a new fridge."
+        },
+        {
+          "de": "Er hat keinen Computer.",
+          "en": "He doesn't have a computer."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about expressions with haben.",
+      "prompt": "Name states that German expresses with *haben* + noun where English uses *be* + adjective.",
+      "answer": "*Hunger haben* (be hungry), *Durst haben* (be thirsty), *Angst haben* (be afraid), *Glück haben* (be lucky), *recht haben* (be right), *gute Laune haben* (be in a good mood), *Geburtstag haben* (have one's birthday).",
+      "explanation": "In these expressions the noun has no article and the verb is always *haben*. A direct translation with *sein* (✗ *Ich bin Hunger*) is wrong. Most of them are negated with *kein*: *keine Angst, keinen Hunger*. *recht haben* is the exception: it is negated with *nicht* (*Du hast nicht recht.*).",
+      "examples": [
+        {
+          "de": "Du hast Glück!",
+          "en": "You are lucky!"
+        },
+        {
+          "de": "Hat er wirklich Fieber?",
+          "en": "Does he really have a temperature?"
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about negation with haben.",
+      "prompt": "How do you negate the object of *haben*: with *kein* or with *nicht*?",
+      "answer": "**kein-** when the noun has *ein* or no article (*keine Kinder, keinen Bruder*). **nicht** when the noun has *der/die/das* or a possessive (*Ich habe das Buch nicht.*).",
+      "explanation": "*kein* takes the same Akkusativ endings as *ein* (*keinen* for masculine). With a definite article or a possessive the noun stays as it is, and *nicht* usually goes to the end of the clause.",
+      "examples": [
+        {
+          "de": "Ich habe keine Kinder.",
+          "en": "I don't have any children."
+        },
+        {
+          "de": "Ich habe das Buch nicht.",
+          "en": "I don't have the book."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the second job of haben.",
+      "prompt": "Besides 'to have', what is the second important job of *haben*?",
+      "answer": "It is the **auxiliary verb of the Perfekt** for most verbs: conjugated *haben* in position 2 + Partizip II at the end (*Ich habe gekocht.*).",
+      "explanation": "The two parts form the Satzklammer. Verbs of movement and change of state (*gehen, fahren, einschlafen*) use *sein* instead, but most other verbs, including *haben* itself (*gehabt*), use *haben*.",
+      "examples": [
+        {
+          "de": "Sie hat lange geschlafen.",
+          "en": "She slept for a long time."
+        },
+        {
+          "de": "Habt ihr schon gefrühstückt?",
+          "en": "Have you (all) had breakfast yet?"
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form of haben.",
+      "prompt": "Mein Bruder ___ eine neue Freundin.",
+      "options": [
+        "hat",
+        "hast",
+        "habt",
+        "haben"
+      ],
+      "correct": "hat",
+      "answer": "Mein Bruder hat eine neue Freundin.",
+      "explanation": "*Mein Bruder* is a singular subject (= *er*) → *hat*. *hast* is for *du*, *habt* for *ihr*, and *haben* for plural subjects."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Haben Sie ___ Stadtplan?",
+      "options": [
+        "einen",
+        "ein",
+        "eine"
+      ],
+      "correct": "einen",
+      "answer": "Haben Sie einen Stadtplan?",
+      "explanation": "*der Stadtplan* is masculine and the Akkusativ object of *haben* → *einen*. *ein* would be Nominativ masculine or neuter, and *eine* is feminine."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Ich bin müde und ich ___ Hunger.",
+      "options": [
+        "habe",
+        "bin",
+        "hat"
+      ],
+      "correct": "habe",
+      "answer": "Ich bin müde und ich habe Hunger.",
+      "explanation": "*müde* is an adjective, so it goes with *sein* (*ich bin*). *Hunger* is a noun, so it goes with *haben*: *ich habe Hunger*. *hat* is the 3rd person singular and does not match *ich*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Du habst schöne Augen.",
+      "answer": "Du hast schöne Augen.",
+      "explanation": "*haben* is irregular in the *du*-form: the *b* drops, so it is *du hast*, not *du habst*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich bin Durst.",
+      "answer": "Ich habe Durst.",
+      "explanation": "*Durst* is a noun, and German expresses this state with *haben*: *Durst haben*. *sein* would need an adjective (*durstig*)."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben kein Zeit.",
+      "answer": "Wir haben keine Zeit.",
+      "explanation": "*Zeit* is feminine (*die Zeit*). *kein* takes the endings of *ein*, so the feminine Akkusativ is *keine*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Habt ihr ein Termin?",
+      "answer": "Habt ihr einen Termin?",
+      "explanation": "*der Termin* is masculine. As the Akkusativ object of *haben* it needs *einen*, not *ein*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Make the sentence negative with kein.",
+      "prompt": "Ich habe einen Bruder.",
+      "answer": "Ich habe keinen Bruder.",
+      "explanation": "*einen* becomes *keinen*: *kein* replaces *ein* and keeps the masculine Akkusativ ending *-en*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Ask the same question formally (Sie).",
+      "prompt": "Hast du ein Auto?",
+      "answer": "Haben Sie ein Auto?",
+      "explanation": "Formal *Sie* takes the plural form *haben*, even for one person. The verb stays in position 1, and *ein Auto* does not change."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Change the subject to ihr.",
+      "prompt": "Ich habe ein Problem mit dem Drucker.",
+      "answer": "Ihr habt ein Problem mit dem Drucker.",
+      "explanation": "*ich habe* becomes *ihr habt*: the *ihr*-form keeps the *b* and adds *-t*. The object *ein Problem* does not change."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Say the same thing with haben and a noun.",
+      "prompt": "Ich bin hungrig.",
+      "answer": "Ich habe Hunger.",
+      "explanation": "The adjective *hungrig* goes with *sein*; the noun *Hunger* goes with *haben*. *Ich habe Hunger* is the more common way to say it."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Mein Mann",
+      "prompt": "keine / mein Mann / Lust / auf Kino / hat / heute",
+      "answer": "Mein Mann hat heute keine Lust auf Kino.",
+      "explanation": "Subject in position 1, *hat* in position 2. The time word *heute* comes before the object *keine Lust*, and *auf Kino* completes *Lust haben auf*. Another correct order: *Heute hat mein Mann keine Lust auf Kino.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in order to make a yes/no question.",
+      "prompt": "Fragen / ihr / noch / habt",
+      "answer": "Habt ihr noch Fragen?",
+      "explanation": "In a yes/no question the verb *habt* is in position 1, followed by the subject *ihr*. *noch* comes before the object *Fragen*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the two sentences with und. Do not repeat the verb.",
+      "prompt": "Ich habe Hunger. Ich habe auch Durst.",
+      "answer": "Ich habe Hunger und Durst.",
+      "explanation": "Both nouns are objects of the same verb *habe*, so you can join them with *und* and use *ich habe* only once. *auch* is no longer needed."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Join the two sentences with denn.",
+      "prompt": "Wir haben keine Zeit. Wir haben viel Arbeit.",
+      "answer": "Wir haben keine Zeit, denn wir haben viel Arbeit.",
+      "explanation": "*denn* gives a reason and does not change the word order: the verb *haben* stays in position 2 in the second clause. A comma stands before *denn*."
+    }
+  ]
+}

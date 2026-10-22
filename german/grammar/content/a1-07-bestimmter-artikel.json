@@ -1,0 +1,1687 @@
+{
+  "topic_id": "a1-07-bestimmter-artikel",
+  "level": "A1",
+  "title_de": "Nomen + bestimmter Artikel (der/die/das)",
+  "title_en": "Nouns and the definite article (der/die/das)",
+  "rule": {
+    "summary": "Every German noun has a grammatical gender: masculine (**der**), feminine (**die**) or neuter (**das**). The gender belongs to the word, not to the thing or person: *das Mädchen, die Person, der Löffel, die Gabel, das Messer*. In the plural all nouns take **die**. In this topic the noun is the subject or stands after *sein* (Nominativ); in other cases the article changes (*den, dem, des*), which you learn in later topics. Always learn a new noun together with its article and its plural.",
+    "table": "| Genus | Artikel (Nom.) | Gute Hinweise | Beispiele |\n|---|---|---|---|\n| maskulin | **der** | männliche Personen; Tage, Monate, Jahreszeiten; viele Wetterwörter; *-ling, -ismus, -ist*; Geräte auf *-er* | der Vater, der Montag, der Winter, der Tourist, der Computer |\n| feminin | **die** | weibliche Personen, *-in*; *-ung, -heit, -keit, -schaft, -ion, -tät, -ei, -ik, -thek*; viele Nomen auf *-e* | die Ärztin, die Zeitung, die Lektion, die Bäckerei, die Lampe |\n| neutral | **das** | *-chen, -lein*; Infinitive als Nomen; *-um, -ment*; viele Wörter mit *Ge-* | das Mädchen, das Essen, das Museum, das Gemüse |\n| Plural | **die** | alle drei Genera | die Männer, die Frauen, die Kinder |",
+    "steps": [
+      "Learn every noun as a unit: article + noun + plural (*der Tisch, -e*; *die Lampe, -n*; *das Buch, ¨-er*).",
+      "Look at the ending first. Suffixes are the most reliable clue: *-ung, -heit, -keit, -schaft, -ion, -tät* → *die*; *-chen, -lein* → *das*; *-ling, -ismus* → *der*.",
+      "For a compound noun, take the gender of the **last** part: *das Haus + die Tür → die Haustür*; *kühl + der Schrank → der Kühlschrank*.",
+      "For people, the article usually follows the natural gender (*der Vater, die Mutter*); *-in* makes a feminine form (*der Lehrer → die Lehrerin*). Learn the exceptions: *das Mädchen, das Kind, die Person*.",
+      "If the noun is plural, the Nominativ article is always *die*, whatever the singular gender: *der Mann → die Männer, das Kind → die Kinder*.",
+      "Use *der/die/das* when the noun is the subject or after *sein*. As an object or after a preposition the form changes (*den, dem, des*)."
+    ],
+    "pitfalls": [
+      "Choosing the article by the real sex of a person: ✗ *die Mädchen* (for one girl) → ✓ *das Mädchen*; ✗ *der Person* → ✓ *die Person*.",
+      "Taking the gender of the first part of a compound: ✗ *das Hausaufgabe* (because of *das Haus*) → ✓ *die Hausaufgabe*.",
+      "Thinking every noun in *-er* is masculine: ✗ *der Wasser, der Fenster* → ✓ *das Wasser, das Fenster*. The *-er* clue is reliable only for people and devices (*der Lehrer, der Drucker*); other *-er* nouns must be learned one by one.",
+      "Thinking every noun in *-e* is feminine: ✗ *die Käse* → ✓ *der Käse*; also *der Name, das Auge*.",
+      "Keeping the singular article in the plural: ✗ *das Kinder* → ✓ *die Kinder*; ✗ *der Schlüssel* (for several keys) → ✓ *die Schlüssel*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Der::Artikel}} Hund ist groß.",
+      "en": "The dog is big.",
+      "focus": "Genus · Tier",
+      "explanation": "*Hund* is masculine: **der Hund**. For animals the gender cannot be guessed from the meaning: *der Hund*, but *die Katze* and *das Pferd*. *Der Hund* is the subject, so the Nominativ form **Der** is used.",
+      "pattern": "der + maskulines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Hund ist groß.",
+        "why": "*Hund* is not neuter. Nothing in the word shows the gender, so it must be learned as *der Hund*."
+      },
+      "examples": [
+        {
+          "de": "Der Vogel singt im Garten.",
+          "en": "The bird is singing in the garden."
+        },
+        {
+          "de": "Der Fisch ist sehr frisch.",
+          "en": "The fish is very fresh."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Hund (-e)",
+          "en": "dog"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Die::Artikel}} Katze schläft auf dem Sofa.",
+      "en": "The cat is sleeping on the sofa.",
+      "focus": "Genus · Nomen auf *-e*",
+      "explanation": "*Katze* is feminine: **die Katze**. Many two-syllable nouns ending in *-e* are feminine (*die Katze, die Lampe, die Tasse*). This is a useful clue, but it has exceptions (*der Käse, der Name, das Auge*).",
+      "pattern": "die + feminines Nomen (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Katze schläft auf dem Sofa.",
+        "why": "*Katze* is feminine. As the subject (Nominativ) it takes *die*, not *der*."
+      },
+      "examples": [
+        {
+          "de": "Die Ente schwimmt auf dem See.",
+          "en": "The duck is swimming on the lake."
+        },
+        {
+          "de": "Die Tasse steht auf dem Tisch.",
+          "en": "The cup is on the table."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Katze (-n)",
+          "en": "cat"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Das::Artikel}} Auto ist neu.",
+      "en": "The car is new.",
+      "focus": "Genus · Lehnwort auf *-o*",
+      "explanation": "*Auto* is neuter: **das Auto** (short for *das Automobil*). Many nouns from other languages that end in *-o* are neuter: *das Auto, das Kino, das Radio, das Büro*. English speakers often guess *der* for things, but there is no such rule.",
+      "pattern": "das + neutrales Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Auto ist neu.",
+        "why": "*Auto* is neuter, so the Nominativ article is *das*. Learn it as one unit: *das Auto*."
+      },
+      "examples": [
+        {
+          "de": "Das Kino ist heute voll.",
+          "en": "The cinema is full today."
+        },
+        {
+          "de": "Das Büro ist im ersten Stock.",
+          "en": "The office is on the first floor."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Der::Artikel}} Lehrer kommt aus Deutschland.",
+      "en": "The teacher comes from Germany.",
+      "focus": "Genus · Person auf *-er*",
+      "explanation": "*Lehrer* is formed from the verb *lehren* + *-er* and names a male person who does something. These agent nouns are masculine: **der Lehrer**, *der Bäcker, der Fahrer*. The female form adds *-in* and is feminine: *die Lehrerin*.",
+      "pattern": "der + Nomen auf -er (Person, Nom.) + Verb",
+      "mistake": {
+        "wrong": "Die Lehrer kommt aus Deutschland.",
+        "why": "*die Lehrer* is the plural (the teachers) and needs the verb *kommen*. For one male teacher the article is *der*."
+      },
+      "examples": [
+        {
+          "de": "Der Bäcker backt jeden Morgen Brot.",
+          "en": "The baker bakes bread every morning."
+        },
+        {
+          "de": "Der Fahrer wartet vor dem Hotel.",
+          "en": "The driver is waiting in front of the hotel."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Lehrer (-)",
+          "en": "teacher (male)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Die::Artikel}} Schule beginnt um acht Uhr.",
+      "en": "School starts at eight.",
+      "focus": "Genus · Artikel bei Institutionen",
+      "explanation": "*Schule* is feminine: **die Schule**. English says *School starts* without an article, but German uses the definite article for the school or the lessons people know: **Die** *Schule beginnt*. Without the article the sentence sounds incomplete.",
+      "pattern": "die + Nomen (Nom.) + Verb + Zeit",
+      "mistake": {
+        "wrong": "Das Schule beginnt um acht Uhr.",
+        "why": "*Schule* is feminine (a noun in *-e*), so the subject is *die Schule*. Note also that the article cannot be left out here, unlike in English."
+      },
+      "examples": [
+        {
+          "de": "Die Arbeit beginnt um neun Uhr.",
+          "en": "Work starts at nine."
+        },
+        {
+          "de": "Die Uni beginnt im Oktober.",
+          "en": "University starts in October."
+        }
+      ],
+      "words": [
+        {
+          "de": "beginnen",
+          "en": "to begin, to start"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Das::Artikel}} Buch ist sehr interessant.",
+      "en": "The book is very interesting.",
+      "focus": "Genus · kurzes Nomen ohne Hinweis",
+      "explanation": "*Buch* is neuter: **das Buch**, plural *die Bücher*. Short everyday nouns like this give no clue from their form, so learn *das Buch* as one unit. It is the subject, so the article is in the Nominativ.",
+      "pattern": "das + neutrales Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Buch ist sehr interessant.",
+        "why": "*Buch* is neuter, not masculine. The Nominativ article is *das*."
+      },
+      "examples": [
+        {
+          "de": "Das Heft ist blau.",
+          "en": "The exercise book is blue."
+        },
+        {
+          "de": "Das Bild hängt an der Wand.",
+          "en": "The picture is hanging on the wall."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Buch (¨-er)",
+          "en": "book"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Der::Artikel}} Apfel ist rot.",
+      "en": "The apple is red.",
+      "focus": "Genus · Nomen auf *-el*",
+      "explanation": "*Apfel* is masculine: **der Apfel**, plural *die Äpfel*. Many nouns ending in *-el* are masculine (*der Löffel, der Schlüssel*), but there are many feminine ones too (*die Gabel, die Kartoffel*), so check each word.",
+      "pattern": "der + maskulines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Die Apfel ist rot.",
+        "why": "*Apfel* is masculine. One apple is *der Apfel*; *die* would only fit the plural *die Äpfel*."
+      },
+      "examples": [
+        {
+          "de": "Der Löffel ist schmutzig.",
+          "en": "The spoon is dirty."
+        },
+        {
+          "de": "Der Schlüssel liegt auf dem Tisch.",
+          "en": "The key is on the table."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Apfel (¨)",
+          "en": "apple"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Die::Artikel}} Lampe ist kaputt.",
+      "en": "The lamp is broken.",
+      "focus": "Genus · Artikel als einziges Signal",
+      "explanation": "*Lampe* is feminine: **die Lampe**, plural *die Lampen*. The adjective *kaputt* after *ist* has no ending, so in this sentence the article is the only word that shows the gender of the noun.",
+      "pattern": "die + feminines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Lampe ist kaputt.",
+        "why": "*Lampe* is feminine. As the subject it takes the feminine Nominativ article *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Uhr ist kaputt.",
+          "en": "The clock is broken."
+        },
+        {
+          "de": "Die Waschmaschine ist schon alt.",
+          "en": "The washing machine is already old."
+        }
+      ],
+      "words": [
+        {
+          "de": "kaputt",
+          "en": "broken"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Das::Artikel}} Haus hat einen Garten.",
+      "en": "The house has a garden.",
+      "focus": "Genus · Subjekt (Nominativ)",
+      "explanation": "*Haus* is neuter: **das Haus**. It is the subject of *hat*, so it is in the Nominativ. Compare *einen Garten*: *der Garten* is the Akkusativ object of *haben*, so its article changes. The subject article does not change.",
+      "pattern": "das + Nomen (Nom.) + hat + Akk.-Objekt",
+      "mistake": {
+        "wrong": "Der Haus hat einen Garten.",
+        "why": "*Haus* is neuter, so the subject is *das Haus*. Do not take the gender from *Garten* (masculine) in the same sentence."
+      },
+      "examples": [
+        {
+          "de": "Das Hotel hat einen Pool.",
+          "en": "The hotel has a pool."
+        },
+        {
+          "de": "Das Dorf hat eine Kirche.",
+          "en": "The village has a church."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Haus (¨-er)",
+          "en": "house"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Der::Artikel}} Kaffee ist heiß.",
+      "en": "The coffee is hot.",
+      "focus": "Genus · Getränk",
+      "explanation": "*Kaffee* is masculine: **der Kaffee**. Most hot drinks are masculine (*der Kaffee, der Tee, der Kakao*), and so are most alcoholic drinks (*der Wein, der Schnaps*). An important exception: *das Bier*.",
+      "pattern": "der + maskulines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Kaffee ist heiß.",
+        "why": "*Kaffee* is masculine, so the subject is *der Kaffee*. *das* is only for neuter drinks such as *das Bier* or *das Wasser*."
+      },
+      "examples": [
+        {
+          "de": "Der Tee ist zu stark.",
+          "en": "The tea is too strong."
+        },
+        {
+          "de": "Der Wein kommt aus Italien.",
+          "en": "The wine comes from Italy."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Die::Artikel}} Tür ist offen.",
+      "en": "The door is open.",
+      "focus": "Genus · einsilbiges Nomen",
+      "explanation": "*Tür* is feminine: **die Tür**, plural *die Türen*. One-syllable nouns give no reliable clue: *die Tür*, but *das Tor* (gate) and *der Zaun* (fence). Learn the article with the noun.",
+      "pattern": "die + feminines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Tür ist offen.",
+        "why": "*Tür* is feminine. The masculine *der* is wrong for the subject; the Nominativ is *die Tür*."
+      },
+      "examples": [
+        {
+          "de": "Die Post ist heute geschlossen.",
+          "en": "The post office is closed today."
+        },
+        {
+          "de": "Die Bank ist bis 16 Uhr offen.",
+          "en": "The bank is open until 4 p.m."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Tür (-en)",
+          "en": "door"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Das::Artikel}} Mädchen ist sehr nett.",
+      "en": "The girl is very nice.",
+      "focus": "Genus · Endung *-chen*",
+      "explanation": "*Mädchen* ends in the diminutive suffix *-chen*, and every noun in *-chen* is neuter, even when it names a girl: **das Mädchen**. The ending decides the grammatical gender, not the person.",
+      "pattern": "das + Nomen auf -chen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Die Mädchen ist sehr nett.",
+        "why": "*die Mädchen* is only possible as a plural (*Die Mädchen sind nett.*). In the singular, *-chen* always gives *das*."
+      },
+      "examples": [
+        {
+          "de": "Das Häuschen am See ist sehr alt.",
+          "en": "The little house by the lake is very old."
+        },
+        {
+          "de": "Das Kätzchen spielt mit dem Ball.",
+          "en": "The kitten is playing with the ball."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Mädchen (-)",
+          "en": "girl"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Der::Artikel}} Tisch ist klein.",
+      "en": "The table is small.",
+      "focus": "Genus · Möbel",
+      "explanation": "*Tisch* is masculine: **der Tisch**, plural *die Tische*. Many pieces of furniture are masculine (*der Tisch, der Stuhl, der Schrank*), but not all: *das Bett, das Sofa, die Couch*.",
+      "pattern": "der + maskulines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Tisch ist klein.",
+        "why": "*Tisch* is masculine, so the Nominativ article is *der*. Things are not neuter by default."
+      },
+      "examples": [
+        {
+          "de": "Der Schrank ist zu groß.",
+          "en": "The wardrobe is too big."
+        },
+        {
+          "de": "Der Teppich ist neu.",
+          "en": "The rug is new."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Tisch (-e)",
+          "en": "table"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Die::Artikel}} Sonne scheint heute.",
+      "en": "The sun is shining today.",
+      "focus": "Genus · Natur",
+      "explanation": "*Sonne* is feminine in German: **die Sonne**, while *der Mond* is masculine. In many other languages it is the other way round, so do not transfer the gender from another language.",
+      "pattern": "die + feminines Nomen (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Sonne scheint heute.",
+        "why": "In German the sun is feminine: *die Sonne*. *der* belongs to *der Mond*."
+      },
+      "examples": [
+        {
+          "de": "Die Wolke ist ganz dunkel.",
+          "en": "The cloud is very dark."
+        },
+        {
+          "de": "Die Luft ist heute sehr frisch.",
+          "en": "The air is very fresh today."
+        }
+      ],
+      "words": [
+        {
+          "de": "scheinen",
+          "en": "to shine"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Das::Artikel}} Wetter ist schön.",
+      "en": "The weather is nice.",
+      "focus": "Genus · Nomen auf *-er* (keine Person)",
+      "explanation": "*Wetter* is neuter: **das Wetter**. It ends in *-er*, but the *-er* clue for masculine is reliable only for people and devices (*der Lehrer, der Drucker*). Other neuter nouns in *-er*: *das Fenster, das Zimmer, das Wasser*.",
+      "pattern": "das + neutrales Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Wetter ist schön.",
+        "why": "*Wetter* is neuter. The ending *-er* alone does not make a noun masculine; the clue is reliable only for people and devices."
+      },
+      "examples": [
+        {
+          "de": "Das Zimmer ist sehr hell.",
+          "en": "The room is very bright."
+        },
+        {
+          "de": "Das Gewitter ist vorbei.",
+          "en": "The thunderstorm is over."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Der::Artikel}} Kaffee kostet zwei Euro.",
+      "en": "The coffee costs two euros.",
+      "focus": "Genus · Nomen auf *-ee*",
+      "explanation": "*Kaffee* ends in *-e*, which can make learners guess feminine, but it is masculine: **der Kaffee** (like *der Tee* and *der See*, 'lake'). *Euro* is masculine as well, and in prices it has no plural ending: *zwei Euro*.",
+      "pattern": "der + Nomen (Nom.) + kostet + Preis",
+      "mistake": {
+        "wrong": "Die Kaffee kostet zwei Euro.",
+        "why": "The final *-e* is not a feminine clue here. *Kaffee* is masculine: *der Kaffee*."
+      },
+      "examples": [
+        {
+          "de": "Der Eintritt kostet zehn Euro.",
+          "en": "Admission costs ten euros."
+        },
+        {
+          "de": "Der Kuchen kostet drei Euro.",
+          "en": "The cake costs three euros."
+        }
+      ],
+      "words": [
+        {
+          "de": "kosten",
+          "en": "to cost"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Die::Artikel}} Frage ist interessant.",
+      "en": "The question is interesting.",
+      "focus": "Genus · Nomen aus einem Verb + *-e*",
+      "explanation": "*Frage* comes from the verb *fragen* and is feminine: **die Frage**, plural *die Fragen*. Many nouns formed from a verb + *-e* are feminine: *reisen → die Reise, helfen → die Hilfe*.",
+      "pattern": "die + feminines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Frage ist interessant.",
+        "why": "*Frage* is feminine, so the subject article is *die*. Only the verb *fragen* has no gender."
+      },
+      "examples": [
+        {
+          "de": "Die Reise ist zu lang.",
+          "en": "The journey is too long."
+        },
+        {
+          "de": "Die Antwort ist richtig.",
+          "en": "The answer is correct."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Frage (-n)",
+          "en": "question"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Das::Artikel}} Fenster ist offen.",
+      "en": "The window is open.",
+      "focus": "Genus · ähnliche Dinge, anderes Genus",
+      "explanation": "*Fenster* is neuter: **das Fenster**, although *die Tür* is feminine. Similar things can have different genders. The plural is *die Fenster*, the same form as the singular, so only the article shows the number.",
+      "pattern": "das + neutrales Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Fenster ist offen.",
+        "why": "*Fenster* ends in *-er* but is neuter. The Nominativ singular is *das Fenster*."
+      },
+      "examples": [
+        {
+          "de": "Das Geschäft ist bis 20 Uhr offen.",
+          "en": "The shop is open until 8 p.m."
+        },
+        {
+          "de": "Das Tor ist geschlossen.",
+          "en": "The gate is closed."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Fenster (-)",
+          "en": "window"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Der::Artikel}} Park ist sehr groß.",
+      "en": "The park is very big.",
+      "focus": "Genus · Ort in der Stadt",
+      "explanation": "*Park* is masculine: **der Park**, plural *die Parks*. Many places in a town are masculine (*der Park, der Platz, der Markt, der Bahnhof*), but many are not (*die Straße, das Zentrum*), so learn each one with its article.",
+      "pattern": "der + maskulines Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Park ist sehr groß.",
+        "why": "*Park* is masculine, so the subject is *der Park*."
+      },
+      "examples": [
+        {
+          "de": "Der Bahnhof ist sehr groß.",
+          "en": "The station is very big."
+        },
+        {
+          "de": "Der Garten ist wunderschön.",
+          "en": "The garden is beautiful."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Die::Artikel}} Suppe schmeckt gut.",
+      "en": "The soup tastes good.",
+      "focus": "Genus · Essen · Subjekt von *schmecken*",
+      "explanation": "*Suppe* is feminine: **die Suppe** (a noun in *-e*). With *schmecken* the food is the subject, so it stands in the Nominativ: *Die Suppe schmeckt gut.*",
+      "pattern": "die + feminines Nomen (Nom.) + schmeckt + Adverb",
+      "mistake": {
+        "wrong": "Der Suppe schmeckt gut.",
+        "why": "*Suppe* is feminine, and as the subject of *schmeckt* it takes *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Pizza schmeckt super.",
+          "en": "The pizza tastes great."
+        },
+        {
+          "de": "Die Milch schmeckt komisch.",
+          "en": "The milk tastes strange."
+        }
+      ],
+      "words": [
+        {
+          "de": "schmecken",
+          "en": "to taste"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "{{c1::Die::Artikel}} Bibliothek ist heute geschlossen.",
+      "en": "The library is closed today.",
+      "focus": "Genus · Endung *-thek*",
+      "explanation": "Nouns ending in *-thek* are feminine: **die Bibliothek**, *die Mediathek*. Other reliable feminine endings are *-ung, -heit, -keit, -ion*. The adjective *geschlossen* after *ist* gives no help, so the ending is the clue.",
+      "pattern": "die + Nomen auf -thek (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Bibliothek ist heute geschlossen.",
+        "why": "The suffix *-thek* always gives a feminine noun, so the article is *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Mensa ist heute geschlossen.",
+          "en": "The canteen is closed today."
+        },
+        {
+          "de": "Die Apotheke ist am Sonntag geschlossen.",
+          "en": "The pharmacy is closed on Sunday."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Bibliothek (-en)",
+          "en": "library"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Der::Artikel}} Frühling beginnt im März.",
+      "en": "Spring begins in March.",
+      "focus": "Genus · Jahreszeit",
+      "explanation": "Seasons, months and days of the week are masculine: **der Frühling**, *der März, der Montag*. English uses no article for seasons, but German says *der Frühling*. One exception: *das Frühjahr*, another word for spring.",
+      "pattern": "der + Jahreszeit (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Die Frühling beginnt im März.",
+        "why": "All seasons are masculine: *der Frühling, der Sommer, der Herbst, der Winter*."
+      },
+      "examples": [
+        {
+          "de": "Der Sommer ist hier sehr heiß.",
+          "en": "Summer is very hot here."
+        },
+        {
+          "de": "Der Dezember ist oft kalt.",
+          "en": "December is often cold."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Frühling",
+          "en": "spring"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Das::Artikel}} Mädchen wartet auf den Bus.",
+      "en": "The girl is waiting for the bus.",
+      "focus": "Genus · Diminutiv",
+      "explanation": "*Mädchen* is a diminutive (originally *Magd* + *-chen*), and diminutives in *-chen* and *-lein* are always neuter: **das Mädchen**. The verb *wartet* is singular, which confirms one girl. *auf den Bus* is a different phrase: *warten auf* + Akkusativ.",
+      "pattern": "das + Nomen auf -chen (Nom.) + Verb (Sg.)",
+      "mistake": {
+        "wrong": "Die Mädchen wartet auf den Bus.",
+        "why": "The real sex of the person does not decide the article. *die Mädchen* would be plural and need *warten*; one girl is *das Mädchen*."
+      },
+      "examples": [
+        {
+          "de": "Das Kaninchen sitzt im Garten.",
+          "en": "The rabbit is sitting in the garden."
+        },
+        {
+          "de": "Das Hähnchen schmeckt lecker.",
+          "en": "The chicken tastes delicious."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "{{c1::Die::Artikel}} Freiheit ist wichtig.",
+      "en": "Freedom is important.",
+      "focus": "Genus · Endung *-heit*",
+      "explanation": "The suffix *-heit* makes abstract nouns from adjectives, and they are always feminine: *frei → **die** Freiheit*. German uses the article with abstract nouns more often than English: *Die Freiheit ist wichtig* = *Freedom is important*.",
+      "pattern": "die + Nomen auf -heit (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Freiheit ist wichtig.",
+        "why": "*-heit* nouns are feminine without exception, so the article is *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Gesundheit ist sehr wichtig.",
+          "en": "Health is very important."
+        },
+        {
+          "de": "Die Krankheit ist nicht gefährlich.",
+          "en": "The illness isn't dangerous."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Freiheit",
+          "en": "freedom"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "{{c1::Das::Artikel}} Wasser ist sehr kalt.",
+      "en": "The water is very cold.",
+      "focus": "Genus · Nomen auf *-er* (Stoff)",
+      "explanation": "*Wasser* is neuter: **das Wasser**. There is no rule that substances in *-er* are neuter (*die Butter* is feminine, *der Zucker* masculine), so this gender must simply be learned. Many common neuter nouns end in *-er*: *das Wasser, das Messer, das Fenster, das Theater*.",
+      "pattern": "das + neutrales Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Wasser ist sehr kalt.",
+        "why": "*Wasser* is neuter. The ending *-er* is not a reliable masculine clue for things: *das Wasser*."
+      },
+      "examples": [
+        {
+          "de": "Das Messer ist sehr scharf.",
+          "en": "The knife is very sharp."
+        },
+        {
+          "de": "Das Theater ist heute ausverkauft.",
+          "en": "The theatre is sold out today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "{{c1::Der::Artikel}} Computer steht auf dem Tisch.",
+      "en": "The computer is on the table.",
+      "focus": "Genus · Gerät auf *-er*",
+      "explanation": "Devices that do something and end in *-er* are usually masculine, like agent nouns for people: **der Computer**, *der Drucker, der Fernseher*. German often uses *stehen* for objects that are upright: *Der Computer steht auf dem Tisch.*",
+      "pattern": "der + Gerät auf -er (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Das Computer steht auf dem Tisch.",
+        "why": "*Computer* is a device in *-er*, and these are masculine: *der Computer*."
+      },
+      "examples": [
+        {
+          "de": "Der Drucker funktioniert nicht.",
+          "en": "The printer isn't working."
+        },
+        {
+          "de": "Der Fernseher ist zu laut.",
+          "en": "The TV is too loud."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "{{c1::Die::Artikel}} Zeitung liegt auf dem Sofa.",
+      "en": "The newspaper is on the sofa.",
+      "focus": "Genus · Endung *-ung*",
+      "explanation": "Nouns formed with the suffix *-ung* are always feminine: **die Zeitung**, *die Wohnung, die Rechnung*. Words like *der Sprung* or *der Schwung* are not exceptions, because their *-ung* is not the suffix but part of the stem.",
+      "pattern": "die + Nomen auf -ung (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Zeitung liegt auf dem Sofa.",
+        "why": "*Zeitung* ends in the suffix *-ung*, which always gives a feminine noun: *die Zeitung*."
+      },
+      "examples": [
+        {
+          "de": "Die Wohnung ist sehr hell.",
+          "en": "The flat is very bright."
+        },
+        {
+          "de": "Die Einladung liegt im Briefkasten.",
+          "en": "The invitation is in the letterbox."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Zeitung (-en)",
+          "en": "newspaper"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Das::Artikel}} Studium dauert vier Jahre.",
+      "en": "The degree programme takes four years.",
+      "focus": "Genus · Lehnwort auf *-um*",
+      "explanation": "Latin loans in *-um* are neuter: **das Studium**, *das Museum, das Zentrum*. The German suffix *-tum* is a different case: it is usually neuter too (*das Eigentum, das Wachstum*), but *der Irrtum* and *der Reichtum* are masculine.",
+      "pattern": "das + Nomen auf -um (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Studium dauert vier Jahre.",
+        "why": "*Studium* is a Latin loan in *-um*, and these are neuter: *das Studium*."
+      },
+      "examples": [
+        {
+          "de": "Das Museum ist montags geschlossen.",
+          "en": "The museum is closed on Mondays."
+        },
+        {
+          "de": "Das Zentrum ist nicht weit.",
+          "en": "The centre isn't far."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Studium",
+          "en": "university studies, degree course"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "{{c1::Die::Artikel}} Universität liegt im Zentrum.",
+      "en": "The university is in the centre.",
+      "focus": "Genus · Endung *-tät*",
+      "explanation": "The ending *-tät* (from Latin *-tas*) always gives a feminine noun: **die Universität**, *die Qualität, die Nationalität*. *liegen* is the normal verb for the location of buildings and towns.",
+      "pattern": "die + Nomen auf -tät (Nom.) + liegt + Ort",
+      "mistake": {
+        "wrong": "Das Universität liegt im Zentrum.",
+        "why": "*-tät* nouns are feminine, so the subject is *die Universität*."
+      },
+      "examples": [
+        {
+          "de": "Die Qualität ist sehr gut.",
+          "en": "The quality is very good."
+        },
+        {
+          "de": "Die Nationalität steht im Pass.",
+          "en": "The nationality is written in the passport."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "{{c1::Der::Artikel}} Käse schmeckt gut.",
+      "en": "The cheese tastes good.",
+      "focus": "Genus · Ausnahme auf *-e*",
+      "explanation": "*Käse* ends in *-e* but is masculine: **der Käse**, an exception to the *-e* → feminine tendency. Food shows that gender does not follow meaning: *der Käse, die Butter, das Brot*.",
+      "pattern": "der + maskulines Nomen (Nom.) + schmeckt + Adverb",
+      "mistake": {
+        "wrong": "Die Käse schmeckt gut.",
+        "why": "The final *-e* is misleading here. *Käse* is masculine: *der Käse*."
+      },
+      "examples": [
+        {
+          "de": "Der Salat ist frisch.",
+          "en": "The salad is fresh."
+        },
+        {
+          "de": "Der Joghurt schmeckt nach Erdbeere.",
+          "en": "The yoghurt tastes of strawberry."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Käse",
+          "en": "cheese"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Das::Artikel}} Restaurant öffnet um elf.",
+      "en": "The restaurant opens at eleven.",
+      "focus": "Genus · französisches Lehnwort",
+      "explanation": "*Restaurant* is a French loan and neuter: **das Restaurant**. Loans in *-ment* are mostly neuter (*das Dokument, das Medikament*). The ending *-ant* gives no safe rule: *das Restaurant*, but *der Elefant, der Praktikant*.",
+      "pattern": "das + Lehnwort (Nom.) + Verb + Zeit",
+      "mistake": {
+        "wrong": "Der Restaurant öffnet um elf.",
+        "why": "*Restaurant* is neuter. The masculine *der* is wrong; the subject is *das Restaurant*."
+      },
+      "examples": [
+        {
+          "de": "Das Café öffnet um acht Uhr.",
+          "en": "The café opens at eight o'clock."
+        },
+        {
+          "de": "Das Kaufhaus öffnet um zehn.",
+          "en": "The department store opens at ten."
+        }
+      ],
+      "words": [
+        {
+          "de": "öffnen",
+          "en": "to open"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "{{c1::Die::Artikel}} Kinder spielen draußen.",
+      "en": "The children are playing outside.",
+      "focus": "Plural · Subjekt",
+      "explanation": "In the plural all three genders take the same Nominativ article **die**: *das Kind → die Kinder*. The plural verb *spielen* also shows that the subject is plural.",
+      "pattern": "die + Pluralnomen (Nom.) + Verb (Pl.)",
+      "mistake": {
+        "wrong": "Das Kinder spielen draußen.",
+        "why": "*das* is only for the singular *das Kind*. In the plural the article is always *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Eltern arbeiten heute lange.",
+          "en": "The parents are working late today."
+        },
+        {
+          "de": "Die Hunde bellen laut.",
+          "en": "The dogs are barking loudly."
+        }
+      ],
+      "words": [
+        {
+          "de": "draußen",
+          "en": "outside"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "{{c1::Der::Artikel}} Kühlschrank ist leer.",
+      "en": "The fridge is empty.",
+      "focus": "Genus · Kompositum",
+      "explanation": "In a compound noun the **last** part (the Grundwort) decides the gender: *kühl + der Schrank → **der** Kühlschrank*. The first part only adds meaning: a cupboard that cools.",
+      "pattern": "der + Kompositum (letzter Teil maskulin, Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Kühlschrank ist leer.",
+        "why": "The gender comes from the last part, *der Schrank*. So the whole word is *der Kühlschrank*."
+      },
+      "examples": [
+        {
+          "de": "Der Kleiderschrank ist voll.",
+          "en": "The wardrobe is full."
+        },
+        {
+          "de": "Der Hauptbahnhof ist ganz neu.",
+          "en": "The main station is brand new."
+        }
+      ],
+      "words": [
+        {
+          "de": "leer",
+          "en": "empty"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Das::Artikel}} Handy liegt in der Tasche.",
+      "en": "The mobile phone is in the bag.",
+      "focus": "Genus · Anglizismus",
+      "explanation": "*Handy* is the German word for a mobile phone (it is not used this way in English), and it is neuter: **das Handy**. Many English loans are neuter (*das Hobby, das Baby, das Ticket*), but not all: *die Party, der Job*.",
+      "pattern": "das + Lehnwort (Nom.) + liegt + Ort",
+      "mistake": {
+        "wrong": "Der Handy liegt in der Tasche.",
+        "why": "*Handy* is neuter: *das Handy*. English loans do not become masculine automatically."
+      },
+      "examples": [
+        {
+          "de": "Das Ticket liegt auf dem Schreibtisch.",
+          "en": "The ticket is on the desk."
+        },
+        {
+          "de": "Das Baby schläft im Kinderwagen.",
+          "en": "The baby is sleeping in the pram."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Handy (-s)",
+          "en": "mobile phone"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "{{c1::Die::Artikel}} Möglichkeit besteht.",
+      "en": "The possibility exists.",
+      "focus": "Genus · Endung *-keit*",
+      "explanation": "*-keit*, like *-heit*, forms feminine abstract nouns from adjectives: *möglich → **die** Möglichkeit*. *-keit* is used mainly after adjectives in *-lich, -ig, -bar*. *bestehen* here means 'to exist'; a very common fuller form is *Es besteht die Möglichkeit, dass …*.",
+      "pattern": "die + Nomen auf -keit (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Das Möglichkeit besteht.",
+        "why": "Every noun in *-keit* is feminine, so the subject is *die Möglichkeit*."
+      },
+      "examples": [
+        {
+          "de": "Die Pünktlichkeit ist im Job wichtig.",
+          "en": "Punctuality is important at work."
+        },
+        {
+          "de": "Die Sauberkeit im Hotel ist sehr gut.",
+          "en": "The cleanliness in the hotel is very good."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Möglichkeit (-en)",
+          "en": "possibility"
+        },
+        {
+          "de": "bestehen",
+          "en": "to exist"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "{{c1::Der::Artikel}} Winter war sehr mild.",
+      "en": "The winter was very mild.",
+      "focus": "Genus · Jahreszeit und Wetter",
+      "explanation": "*Winter* is a season and therefore masculine: **der Winter**. Many weather words are masculine too (*der Regen, der Schnee, der Wind, der Nebel*), but not all: *das Wetter, das Gewitter, die Sonne, die Wolke*.",
+      "pattern": "der + Jahreszeit (Nom.) + war + Adjektiv",
+      "mistake": {
+        "wrong": "Das Winter war sehr mild.",
+        "why": "Seasons are masculine without exception (*das Frühjahr* is a separate word), so the article is *der*."
+      },
+      "examples": [
+        {
+          "de": "Der Herbst war sehr nass.",
+          "en": "The autumn was very wet."
+        },
+        {
+          "de": "Der Sommer war viel zu heiß.",
+          "en": "The summer was far too hot."
+        }
+      ],
+      "words": [
+        {
+          "de": "mild",
+          "en": "mild"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Die::Artikel}} Lektion ist heute kurz.",
+      "en": "The lesson is short today.",
+      "focus": "Genus · Endung *-ion*",
+      "explanation": "Nouns ending in *-ion* are feminine: **die Lektion**, *die Information, die Region, die Station*. The ending is stressed (*Lek-ti-ON*), which helps you hear it.",
+      "pattern": "die + Nomen auf -ion (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Das Lektion ist heute kurz.",
+        "why": "The ending *-ion* always gives a feminine noun, so the article is *die*."
+      },
+      "examples": [
+        {
+          "de": "Die Information ist leider falsch.",
+          "en": "Unfortunately the information is wrong."
+        },
+        {
+          "de": "Die Region ist sehr schön.",
+          "en": "The region is very beautiful."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Lektion (-en)",
+          "en": "lesson, unit (in a textbook)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Die::Artikel}} Mannschaft spielt heute in Berlin.",
+      "en": "The team is playing in Berlin today.",
+      "focus": "Genus · Endung *-schaft*",
+      "explanation": "*Mannschaft* contains *der Mann*, but the suffix *-schaft* decides the gender, and *-schaft* nouns are always feminine: **die Mannschaft**. Other examples: *die Freundschaft, die Landschaft*.",
+      "pattern": "die + Nomen auf -schaft (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Mannschaft spielt heute in Berlin.",
+        "why": "The gender of *der Mann* does not count. The suffix *-schaft* makes the word feminine: *die Mannschaft*."
+      },
+      "examples": [
+        {
+          "de": "Die Landschaft ist wunderschön.",
+          "en": "The landscape is beautiful."
+        },
+        {
+          "de": "Die Gesellschaft verändert sich schnell.",
+          "en": "Society is changing fast."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Mannschaft (-en)",
+          "en": "team"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Die::Artikel}} Ärztin hat heute keine Zeit.",
+      "en": "The doctor doesn't have time today.",
+      "focus": "Genus · Person mit *-in*",
+      "explanation": "*Ärztin* is the female form of *der Arzt*, made with the suffix *-in* (and an umlaut here). Every noun in *-in* for a female person is feminine: **die Ärztin**. The plural is *die Ärztinnen*.",
+      "pattern": "die + Nomen auf -in (Nom.) + Verb",
+      "mistake": {
+        "wrong": "Der Ärztin hat heute keine Zeit.",
+        "why": "*der* belongs to the male form *der Arzt*. The form with *-in* is always feminine: *die Ärztin*."
+      },
+      "examples": [
+        {
+          "de": "Die Lehrerin erklärt die Grammatik.",
+          "en": "The teacher explains the grammar. (female teacher)"
+        },
+        {
+          "de": "Die Verkäuferin hilft uns.",
+          "en": "The shop assistant is helping us. (female)"
+        }
+      ],
+      "words": [
+        {
+          "de": "die Ärztin (-nen)",
+          "en": "doctor (female)"
+        }
+      ],
+      "production_cue": "(female doctor)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Der::Artikel}} Tourist sucht den Bahnhof.",
+      "en": "The tourist is looking for the station.",
+      "focus": "Genus · Person auf *-ist*",
+      "explanation": "Person nouns in *-ist* are masculine: **der Tourist**, *der Journalist, der Polizist*. The female form is *die Touristin*. *der Tourist* is the subject (Nominativ); *den Bahnhof* is the Akkusativ object of *suchen*.",
+      "pattern": "der + Nomen auf -ist (Nom.) + Verb + Akk.-Objekt",
+      "mistake": {
+        "wrong": "Die Tourist sucht den Bahnhof.",
+        "why": "One male tourist is *der Tourist*. A female tourist is *die Touristin*, and *die Touristen* is the plural."
+      },
+      "examples": [
+        {
+          "de": "Der Journalist schreibt einen Artikel.",
+          "en": "The journalist is writing an article."
+        },
+        {
+          "de": "Der Polizist hilft dem Mann.",
+          "en": "The police officer is helping the man."
+        }
+      ],
+      "words": [
+        {
+          "de": "suchen",
+          "en": "to look for"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Das::Artikel}} Gemüse ist ganz frisch.",
+      "en": "The vegetables are really fresh.",
+      "focus": "Genus · Nomen mit *Ge-*",
+      "explanation": "Many nouns that begin with *Ge-* are neuter: **das Gemüse**, *das Getränk, das Gebäude, das Geschenk*. Exceptions exist (*der Geburtstag, die Geschichte*). *Gemüse* is a singular collective noun, so English uses the plural *vegetables* but German uses the singular *ist*.",
+      "pattern": "das + Ge-Nomen (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Die Gemüse ist ganz frisch.",
+        "why": "The final *-e* suggests feminine, but *Ge-* nouns like *Gemüse* are neuter: *das Gemüse*."
+      },
+      "examples": [
+        {
+          "de": "Das Getränk ist zu süß.",
+          "en": "The drink is too sweet."
+        },
+        {
+          "de": "Das Gebäude ist sehr alt.",
+          "en": "The building is very old."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Gemüse",
+          "en": "vegetables"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Das::Artikel}} Essen ist fertig.",
+      "en": "The food is ready.",
+      "focus": "Genus · Infinitiv als Nomen",
+      "explanation": "When an infinitive is used as a noun, it is always neuter and written with a capital letter: *essen → **das** Essen*. In the same way: *das Schwimmen, das Kochen, das Lernen*.",
+      "pattern": "das + nominalisierter Infinitiv (Nom.) + ist + Adjektiv",
+      "mistake": {
+        "wrong": "Der Essen ist fertig.",
+        "why": "A noun made from an infinitive is always neuter: *das Essen*."
+      },
+      "examples": [
+        {
+          "de": "Das Kochen macht mir Spaß.",
+          "en": "I enjoy cooking."
+        },
+        {
+          "de": "Das Schwimmen ist gesund.",
+          "en": "Swimming is healthy."
+        }
+      ],
+      "words": [
+        {
+          "de": "fertig",
+          "en": "ready, finished"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Die::Artikel}} Person am Telefon ist mein Chef.",
+      "en": "The person on the phone is my boss.",
+      "focus": "Genus · grammatisches vs. natürliches Geschlecht",
+      "explanation": "*Person* is always feminine, also when the person is a man: **die Person**. The grammatical gender belongs to the word. The man is named by *mein Chef* after *ist*, but the subject *die Person* keeps its own article.",
+      "pattern": "die + Person (Nom.) + ist + Nomen",
+      "mistake": {
+        "wrong": "Der Person am Telefon ist mein Chef.",
+        "why": "The article does not follow the real person (a man). *Person* is a feminine word: *die Person*."
+      },
+      "examples": [
+        {
+          "de": "Die Person vor mir ist sehr groß.",
+          "en": "The person in front of me is very tall."
+        },
+        {
+          "de": "Das Kind heißt Paul.",
+          "en": "The child is called Paul."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Person (-en)",
+          "en": "person"
+        },
+        {
+          "de": "der Chef (-s)",
+          "en": "boss"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Wie heißt {{c1::der::Artikel}} Mann da drüben?",
+      "en": "What's the name of the man over there?",
+      "focus": "Genus · Person · W-Frage",
+      "explanation": "For most people the article follows the natural gender: **der Mann**, *der Vater, der Bruder*. In this W-question the subject stands after the verb *heißt*, but it is still the subject and therefore still Nominativ: *der*.",
+      "pattern": "W-Wort + Verb + der + Nomen (Nom.)?",
+      "mistake": {
+        "wrong": "Wie heißt das Mann da drüben?",
+        "why": "*Mann* is masculine, matching the natural gender. The subject is *der Mann*, also after the verb."
+      },
+      "examples": [
+        {
+          "de": "Wie alt ist der Junge?",
+          "en": "How old is the boy?"
+        },
+        {
+          "de": "Woher kommt der Kellner?",
+          "en": "Where does the waiter come from?"
+        }
+      ],
+      "words": [
+        {
+          "de": "da drüben",
+          "en": "over there"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Das ist {{c1::die::Artikel}} Bushaltestelle.",
+      "en": "That's the bus stop.",
+      "focus": "*Das ist …* · Kompositum",
+      "explanation": "The first *Das* is a pointing word ('that') and never changes. The article of the noun comes from the last part of the compound: *der Bus + die Haltestelle → **die** Bushaltestelle*. So one sentence can contain *das* and *die* together.",
+      "pattern": "Das ist + Artikel des letzten Wortteils + Kompositum",
+      "mistake": {
+        "wrong": "Das ist der Bushaltestelle.",
+        "why": "*der* comes from the first part *der Bus*. The last part, *die Haltestelle*, decides: *die Bushaltestelle*."
+      },
+      "examples": [
+        {
+          "de": "Das ist der Schreibtisch von Anna.",
+          "en": "That's Anna's desk."
+        },
+        {
+          "de": "Das ist die Telefonnummer von Tom.",
+          "en": "That's Tom's phone number."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Haltestelle (-n)",
+          "en": "stop (bus, tram)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Die::Artikel}} Bäckerei öffnet um sechs Uhr.",
+      "en": "The bakery opens at six o'clock.",
+      "focus": "Genus · Endung *-ei*",
+      "explanation": "Nouns ending in stressed *-ei* are feminine: **die Bäckerei**, *die Metzgerei, die Polizei*. Compare the person *der Bäcker* (masculine) with the shop *die Bäckerei* (feminine): the new suffix brings a new gender.",
+      "pattern": "die + Nomen auf -ei (Nom.) + Verb + Zeit",
+      "mistake": {
+        "wrong": "Der Bäckerei öffnet um sechs Uhr.",
+        "why": "*der* belongs to *der Bäcker*. The suffix *-ei* makes the word feminine: *die Bäckerei*."
+      },
+      "examples": [
+        {
+          "de": "Die Polizei kommt sofort.",
+          "en": "The police are coming right away."
+        },
+        {
+          "de": "Die Metzgerei ist gleich um die Ecke.",
+          "en": "The butcher's is just around the corner."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Bäckerei (-en)",
+          "en": "bakery"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ist {{c1::die::Artikel}} Musik zu laut?",
+      "en": "Is the music too loud?",
+      "focus": "Genus · Endung *-ik* · Ja/Nein-Frage",
+      "explanation": "Nouns ending in *-ik* are feminine: **die Musik**, *die Physik, die Technik, die Politik*. In a yes/no question the verb *ist* comes first, but *die Musik* is still the subject in the Nominativ.",
+      "pattern": "Ist + die + Nomen auf -ik (Nom.) + Adjektiv?",
+      "mistake": {
+        "wrong": "Ist das Musik zu laut?",
+        "why": "*-ik* nouns are feminine. *das* is wrong here; the subject is *die Musik*."
+      },
+      "examples": [
+        {
+          "de": "Ist die Grammatik schwer?",
+          "en": "Is the grammar difficult?"
+        },
+        {
+          "de": "Ist die Technik neu?",
+          "en": "Is the technology new?"
+        }
+      ],
+      "words": [
+        {
+          "de": "laut",
+          "en": "loud"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wo sind {{c1::die::Artikel}} Schlüssel?",
+      "en": "Where are the keys?",
+      "focus": "Plural · gleiche Form wie Singular",
+      "explanation": "*der Schlüssel* has the same form in the plural: *die Schlüssel*. Here only the article **die** and the plural verb *sind* show that there are several keys. In the plural every noun takes *die* in the Nominativ.",
+      "pattern": "Wo sind + die + Pluralnomen (Nom.)?",
+      "mistake": {
+        "wrong": "Wo sind der Schlüssel?",
+        "why": "*der Schlüssel* is singular. With *sind* the subject is plural, and the plural article is *die*."
+      },
+      "examples": [
+        {
+          "de": "Wo sind die Teller?",
+          "en": "Where are the plates?"
+        },
+        {
+          "de": "Wo sind die Koffer?",
+          "en": "Where are the suitcases?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Schlüssel (-)",
+          "en": "key"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about grammatical gender.",
+      "prompt": "Why should you always learn a German noun together with its article?",
+      "answer": "Because the gender (**der/die/das**) is a property of the word and usually cannot be guessed from its meaning. Many later forms depend on it: *den/dem/des*, adjective endings and the pronouns *er/sie/es*.",
+      "explanation": "Similar things often have different genders: *der Löffel, die Gabel, das Messer*. Some endings help, but many everyday nouns have no clue. Learning *der Tisch* as one unit is faster than guessing every time.",
+      "examples": [
+        {
+          "de": "Der Löffel liegt links.",
+          "en": "The spoon is on the left."
+        },
+        {
+          "de": "Die Gabel liegt rechts.",
+          "en": "The fork is on the right."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about feminine endings.",
+      "prompt": "Which noun endings tell you that a noun is feminine?",
+      "answer": "**-ung, -heit, -keit, -schaft, -ion, -tät, -ei, -ik, -thek** and **-in** for female persons. Many nouns in *-e* are also feminine, but that clue has exceptions.",
+      "explanation": "The suffixes *-ung, -heit, -keit, -schaft, -ion, -tät* are practically without exceptions. The ending *-e* is only a tendency: *die Lampe*, but *der Käse, der Name, das Auge*.",
+      "examples": [
+        {
+          "de": "Die Übung ist ganz leicht.",
+          "en": "The exercise is very easy."
+        },
+        {
+          "de": "Die Fabrik ist geschlossen.",
+          "en": "The factory is closed."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about neuter nouns.",
+      "prompt": "Which groups of nouns are neuter?",
+      "answer": "Diminutives in **-chen / -lein**, infinitives used as nouns (*das Essen*), Latin loans in **-um** (*das Museum*), most loans in **-ment**, and many nouns with **Ge-** (*das Gemüse*).",
+      "explanation": "*-chen* and *-lein* always give *das*, even for people (*das Mädchen*). Nominalised infinitives are always neuter. The *Ge-* rule has exceptions such as *der Geburtstag* and *die Geschichte*.",
+      "examples": [
+        {
+          "de": "Das Brötchen ist noch warm.",
+          "en": "The bread roll is still warm."
+        },
+        {
+          "de": "Das Schwimmen macht Spaß.",
+          "en": "Swimming is fun."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about masculine nouns.",
+      "prompt": "Which groups of nouns are usually masculine?",
+      "answer": "Male persons (*der Vater*), days, months and seasons (*der Montag, der Mai, der Winter*), many weather words (*der Regen, der Schnee*), nouns in **-ling, -ismus, -ist**, and people or devices in **-er** (*der Lehrer, der Drucker*).",
+      "explanation": "The *-er* clue is reliable only for people and devices; things like *das Fenster* or *das Wasser* are neuter. Weather words are mixed: *das Wetter, die Sonne*.",
+      "examples": [
+        {
+          "de": "Der Januar ist kalt.",
+          "en": "January is cold."
+        },
+        {
+          "de": "Der Regen hört nicht auf.",
+          "en": "The rain won't stop."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about compound nouns.",
+      "prompt": "Which part of a compound noun decides its article?",
+      "answer": "The **last** part (the Grundwort): *das Haus + die Tür → **die** Haustür*; *schlafen + das Zimmer → **das** Schlafzimmer*.",
+      "explanation": "The first part only describes the last part more exactly. It can be a noun, a verb stem or an adjective, but its gender never counts. The plural also comes from the last part: *die Haustüren*.",
+      "examples": [
+        {
+          "de": "Die Haustür ist offen.",
+          "en": "The front door is open."
+        },
+        {
+          "de": "Das Schlafzimmer ist klein.",
+          "en": "The bedroom is small."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about the plural.",
+      "prompt": "Which definite article do plural nouns take in the Nominativ?",
+      "answer": "Always **die**, for masculine, feminine and neuter nouns: *der Mann → die Männer, die Frau → die Frauen, das Kind → die Kinder*.",
+      "explanation": "The plural has no gender distinction. Because feminine singular is also *die*, look at the noun and the verb to see the number: *Die Frau ist …* vs *Die Frauen sind …*.",
+      "examples": [
+        {
+          "de": "Die Männer sind müde.",
+          "en": "The men are tired."
+        },
+        {
+          "de": "Die Bücher liegen auf dem Tisch.",
+          "en": "The books are on the table."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "___ Wohnung ist leider zu teuer.",
+      "options": [
+        "Der",
+        "Die",
+        "Das"
+      ],
+      "correct": "Die",
+      "answer": "Die Wohnung ist leider zu teuer.",
+      "explanation": "*Wohnung* ends in the suffix *-ung*, which always gives a feminine noun: *die Wohnung*. *Der* would be masculine and *Das* neuter; neither fits an *-ung* noun."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "___ Würstchen schmeckt gut.",
+      "options": [
+        "Der",
+        "Die",
+        "Das"
+      ],
+      "correct": "Das",
+      "answer": "Das Würstchen schmeckt gut.",
+      "explanation": "*Würstchen* is the diminutive of *die Wurst*, and every noun in *-chen* is neuter: *das Würstchen*. *Die* would come from *die Wurst*, but the suffix *-chen* changes the gender. *Der* has no basis here."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "___ Tourismus ist wichtig für die Stadt.",
+      "options": [
+        "Der",
+        "Die",
+        "Das"
+      ],
+      "correct": "Der",
+      "answer": "Der Tourismus ist wichtig für die Stadt.",
+      "explanation": "Nouns ending in *-ismus* are masculine: *der Tourismus, der Journalismus*. *Die* and *Das* are wrong for this ending."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "___ Geschenk ist für dich.",
+      "options": [
+        "Der",
+        "Die",
+        "Das"
+      ],
+      "correct": "Das",
+      "answer": "Das Geschenk ist für dich.",
+      "explanation": "*Geschenk* starts with *Ge-* and, like many such nouns, is neuter: *das Geschenk*. *Der* and *Die* do not fit this word."
+    },
+    {
+      "key": "d11",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "___ Häuser in der Altstadt sind sehr alt.",
+      "options": [
+        "Der",
+        "Die",
+        "Das"
+      ],
+      "correct": "Die",
+      "answer": "Die Häuser in der Altstadt sind sehr alt.",
+      "explanation": "*Häuser* is the plural of *das Haus*, and the verb *sind* is plural. Every plural noun takes *die*. *Das* is only for the singular *das Haus*, and *Der* fits neither form."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Mädchen spielt im Garten.",
+      "answer": "Das Mädchen spielt im Garten.",
+      "explanation": "The mistake is the article. *Mädchen* ends in *-chen*, so it is neuter: *das Mädchen*. The real sex of the child does not decide the article."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Information ist richtig.",
+      "answer": "Die Information ist richtig.",
+      "explanation": "The mistake is the article. Nouns in *-ion* are feminine, so the subject is *die Information*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Hausaufgabe ist sehr schwer.",
+      "answer": "Die Hausaufgabe ist sehr schwer.",
+      "explanation": "The mistake: the article was taken from the first part, *das Haus*. In a compound the last part decides, and *die Aufgabe* is feminine: *die Hausaufgabe*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Bücher sind neu.",
+      "answer": "Die Bücher sind neu.",
+      "explanation": "The mistake: the singular article *das* (from *das Buch*) is used with a plural noun. In the plural the Nominativ article is always *die*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace *Lampe* with *Licht*. Adjust the article.",
+      "prompt": "Die Lampe ist hell.",
+      "answer": "Das Licht ist hell.",
+      "explanation": "*Lampe* is feminine (*die*), but *Licht* is neuter: *das Licht*. The rest of the sentence stays the same, because the adjective after *ist* has no ending."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Make the subject plural (*der Stuhl → die Stühle*). Change the verb.",
+      "prompt": "Der Stuhl ist bequem.",
+      "answer": "Die Stühle sind bequem.",
+      "explanation": "In the plural the masculine *der* becomes *die*, the noun gets its plural form with umlaut (*Stühle*), and the verb changes from *ist* to *sind*."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Replace *der Lehrer* with the female form. Adjust the article.",
+      "prompt": "Der Lehrer ist sehr freundlich.",
+      "answer": "Die Lehrerin ist sehr freundlich.",
+      "explanation": "The female form adds *-in*: *Lehrer → Lehrerin*. Every noun in *-in* for a female person is feminine, so *der* changes to *die*."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Heute",
+      "prompt": "geschlossen / das / ist / Museum / heute",
+      "answer": "Heute ist das Museum geschlossen.",
+      "explanation": "*Heute* is in position 1, so the verb *ist* follows in position 2 and the subject *das Museum* comes after it. *Museum* is a Latin loan in *-um* and neuter. The other correct order is *Das Museum ist heute geschlossen.*"
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "die / wo / ist / Toilette",
+      "answer": "Wo ist die Toilette?",
+      "explanation": "The question word *wo* is in position 1 and the verb *ist* in position 2. *Toilette* is feminine (a noun in *-e*), so the subject is *die Toilette*."
+    }
+  ]
+}

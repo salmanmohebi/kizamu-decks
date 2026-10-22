@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-01",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "inverted-not-only-not-only-did-she-but-she-also",
+      "term": "inverted Not only: Not only did she …, but she also …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Putting *not only* first and inverting auxiliary and subject announces a first point; *but (also)* then adds a second, usually stronger or more surprising one.",
+      "usage": "Common in writing, speeches and presentations; in casual speech people often avoid the inversion (*She not only finished, but she also …*). The inversion works as in a question, so add *do*, *does* or *did* when there is no other auxiliary. In the second clause, *also* follows the subject (*but she also*), or *as well* goes at the end.",
+      "pattern": "Not only + auxiliary + subject + verb …, but + subject + also + verb …",
+      "examples": [
+        "**Not only did she** run the marathon in under four hours, **but she also** raised $10,000 for charity.",
+        "**Not only is** the new method faster, **but** it's **also** easier to implement.",
+        "**Not only does** my neighbor fix his own car, **but** he **also** fixes everyone else's."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Not only did the airline lose}} our bags, but it also refused to pay for what we had to buy.",
+        "hint": "Rewrite with emphasis, starting with Not only: The airline lost our bags, and it also refused to pay for what we had to buy."
+      },
+      "mistake": {
+        "wrong": "Not only she finished the project, but she also trained the new hires.",
+        "right": "Not only did she finish the project, but she also trained the new hires.",
+        "why": "When *not only* starts the clause, an auxiliary (here *did*) must come before the subject."
+      }
+    },
+    {
+      "id": "little-did-i-know",
+      "term": "Little did I know …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Inversion with *little* means *I had no idea at the time*; the speaker looks back on a moment just before a surprise.",
+      "usage": "Typical of storytelling, both spoken and written, because it builds suspense: the listener knows that something big is coming. It is often used with humor in everyday anecdotes. The verb is usually *know*, *realize* or *suspect*, and the pattern works with any subject (*Little did they know*).",
+      "pattern": "Little did + subject + know / realize / suspect (that) …",
+      "examples": [
+        "I took the job for one summer. **Little did I know** I'd still be there ten years later.",
+        "**Little did they know** that the quiet student in the back row would one day win a Nobel Prize.",
+        "**Little did she suspect** that her new neighbor was a famous novelist."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Little did I know}} that the tiny puppy I adopted would grow to over a hundred pounds.",
+        "hint": "Rewrite as a storyteller: I had no idea that the tiny puppy I adopted would grow to over a hundred pounds."
+      },
+      "mistake": {
+        "wrong": "Little did I knew that he was lying.",
+        "right": "Little did I know that he was lying.",
+        "why": "After *did*, the main verb takes its base form: *did I know*, not *did I knew*."
+      }
+    },
+    {
+      "id": "it-cleft-with-not-until-it-wasn-t-until-that",
+      "term": "it-cleft with not until: It wasn't until … that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Stresses that something happened only at a certain time or after a certain event, and not before, often later than expected.",
+      "usage": "Very common in both speech and writing, and much more natural in conversation than the inverted *Not until … did*. The negative is in *wasn't*; the clause after *that* is affirmative (*It wasn't until I moved that I understood*). For the future, use *It won't be until … that …*.",
+      "pattern": "It wasn't until + time / event + that + subject + affirmative verb",
+      "examples": [
+        "**It wasn't until** I moved to New York **that** I realized how much I'd miss my family.",
+        "**It wasn't until** 1920 **that** American women won the right to vote nationwide.",
+        "**It wasn't until** we plotted the residuals **that** we saw what was wrong with the model."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It wasn't until}} I had kids of my own that I understood my parents.",
+        "hint": "Rewrite to stress the late moment: I didn't understand my parents until I had kids of my own."
+      },
+      "mistake": {
+        "wrong": "It wasn't until midnight that I didn't finish the report.",
+        "right": "It wasn't until midnight that I finished the report.",
+        "why": "The negative is already in *wasn't*, so the clause after *that* stays affirmative."
+      }
+    },
+    {
+      "id": "it-cleft-on-a-person-it-was-sarah-who",
+      "term": "it-cleft on a person: It was Sarah who …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Putting a person in *It was X who …* puts strong focus on who did something, usually to correct a wrong belief or to give credit.",
+      "usage": "Common in speech and writing; in speech the focused name gets strong stress (*It was SARAH who fixed it*). Use *who* or *that* for people, and add *not* + the wrong person to make the correction explicit. *It was* stays singular even when the focus is plural (*It was the students who complained*).",
+      "pattern": "It is / was + person + who / that + verb …",
+      "examples": [
+        "Actually, **it was Sarah who** found the bug; I just wrote the fix.",
+        "**It was** my grandfather **who** taught me to fish, not my dad.",
+        "**It was** a nurse **who** first noticed the pattern in the patients' symptoms."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It was my brother who}} broke the window; I just got the blame.",
+        "hint": "Rewrite to stress the person: My brother broke the window; I just got the blame."
+      },
+      "mistake": {
+        "wrong": "It were the students who complained.",
+        "right": "It was the students who complained.",
+        "why": "In an it-cleft, *it* always takes a singular verb, even when the focused noun is plural."
+      }
+    },
+    {
+      "id": "contrastive-it-cleft-it-s-not-the-money-that-it-s",
+      "term": "contrastive it-cleft: It's not the money that …, it's …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Rejects one thing as the cause or the focus and puts the emphasis on another: *It's not X that …, it's Y.*",
+      "usage": "Very common in conversation, opinion writing and talks when you correct an assumption. In speech both focused words are stressed (*It's not the MONEY, it's the PRINCIPLE*), and the second part is often shortened to *it's* + noun. *Who* can replace *that* when the focus is a person (*It's not the students who …*).",
+      "pattern": "It's not + X + that / who + verb …, it's + Y",
+      "examples": [
+        "**It's not the money that** bothers me, **it's** the fact that nobody asked.",
+        "**It's not** the model **that's** slow, **it's** the data loading.",
+        "**It's not** the heat **that** gets to me in Houston, **it's** the humidity."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It's not the rent that}} worries me, it's the long commute.",
+        "hint": "Rewrite to correct an assumption: The rent doesn't worry me; the long commute does."
+      },
+      "mistake": {
+        "wrong": "It's not the money what bothers me, it's the principle.",
+        "right": "It's not the money that bothers me, it's the principle.",
+        "why": "This cleft uses *that* (or *who* for people); *what* cannot follow a noun here."
+      }
+    },
+    {
+      "id": "it-s-not-that-it-s-just-that",
+      "term": "It's not that …, it's just that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Softly rules out a reason the listener might assume and gives the real one, often to avoid hurting someone's feelings.",
+      "usage": "Typical of conversation when you decline, explain or apologize (*It's not that I don't like your idea, it's just that we're out of time*). The first part names the reason you want to rule out, often in the negative: *It's not that I don't …*. *Just* makes the real reason sound smaller and more polite.",
+      "pattern": "It's not that + clause, it's just that + clause",
+      "examples": [
+        "**It's not that** I don't want to come, **it's just that** I've had a really long week.",
+        "**It's not that** the food was bad, **it's just that** the portions were tiny.",
+        "**It's not that** he's rude, **it's just that** he's very direct."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It's not that}} I don't like the design, it's just that the colors feel a bit loud.",
+        "hint": "Soften with a contrast: I do like the design, but the colors feel a bit loud."
+      },
+      "mistake": {
+        "wrong": "It's not that I don't want, it's just that I can't.",
+        "right": "It's not that I don't want to, it's just that I can't.",
+        "why": "This frame often leaves out the verb, but *want* still needs *to*: *I don't want to*, not *I don't want*."
+      }
+    },
+    {
+      "id": "wh-cleft-what-i-need-is",
+      "term": "wh-cleft: What I need is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A *what*-clause at the start delays the key information to the end, after *is*, so it gets the focus: *What I need is more time.*",
+      "usage": "Very common in speech and in clear writing, especially for requests, advice and summaries (*What we need is better data*). The *what*-clause is the subject and is followed by *is* or *was*; the focus can be a noun, a clause or a verb phrase (*What I'll do is call her*). In speech, the stress falls on the focused part at the end.",
+      "pattern": "What + subject + need / want / mean + is + focus",
+      "examples": [
+        "**What I need is** a quiet place to work for two hours.",
+        "**What we really need is** a better way to track experiments, not another dashboard.",
+        "**What she wants is** an apology, not an explanation."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What I need is}} someone who can watch the kids on Saturday night.",
+        "hint": "Rewrite to put the focus at the end: I need someone who can watch the kids on Saturday night."
+      },
+      "mistake": {
+        "wrong": "What do I need is a long vacation.",
+        "right": "What I need is a long vacation.",
+        "why": "The *what*-clause is not a question, so it keeps statement word order: *what I need*, not *what do I need*."
+      }
+    },
+    {
+      "id": "wh-cleft-with-an-adjective-what-s-interesting-is-that",
+      "term": "wh-cleft with an adjective: What's interesting is that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Comments on a fact (as interesting, surprising or strange) before stating it, so the listener pays attention to what follows.",
+      "usage": "Very common in talks, interviews and conversation to point to a key result: *What's surprising is that …*. Many adjectives fit: *interesting, strange, striking, worrying, funny*. In speech, many Americans double the verb (*What's interesting is, is that …*); this is normal in conversation but looks like an error in writing.",
+      "pattern": "What's + adjective + is (that) + clause",
+      "examples": [
+        "**What's interesting is that** the smaller model actually generalizes better.",
+        "**What was strange was that** nobody in the building heard the alarm.",
+        "The flight was delayed six hours, and **what's frustrating is that** the airline knew all morning."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What's surprising is that}} the cheaper wine actually tasted better.",
+        "hint": "Rewrite to point to the key fact: Surprisingly, the cheaper wine actually tasted better."
+      },
+      "mistake": {
+        "wrong": "The interesting is that the costs went down.",
+        "right": "What's interesting is that the costs went down.",
+        "why": "English cannot use *the* + adjective for an idea like this; say *What's interesting is* or *The interesting thing is*."
+      }
+    },
+    {
+      "id": "wh-cleft-with-happen-what-happened-was",
+      "term": "wh-cleft with happen: What happened was …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces an account of events, often to explain a problem or to tell your side of a story.",
+      "usage": "Typical of speech: explaining a delay to your boss, an accident to a police officer, or a story to friends. It tells the listener that a short narrative is coming, and *that* after it is optional. In formal writing, describe the events directly instead.",
+      "pattern": "What happened was (that) + past-tense account",
+      "examples": [
+        "Sorry I'm late. **What happened was**, the train stopped for twenty minutes outside the station.",
+        "**What happened was that** the job ran out of memory overnight, so we lost the results.",
+        "Officer, **what happened was** the other car ran the red light and hit us."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What happened was}} my alarm didn't go off, so I missed the first half of the exam.",
+        "hint": "Rewrite as a spoken explanation: My alarm didn't go off, so I missed the first half of the exam."
+      },
+      "mistake": {
+        "wrong": "What was happened was that my car broke down.",
+        "right": "What happened was that my car broke down.",
+        "why": "*Happen* has no passive, so *was happened* is not possible."
+      }
+    },
+    {
+      "id": "reversed-wh-cleft-this-is-where-that-s-where-x-comes-in",
+      "term": "reversed wh-cleft: This is where … / That's where X comes in",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Points to the key place, moment or role in an explanation: *This is where it gets tricky*, or *That's where X comes in* (X becomes useful at this point).",
+      "usage": "Very common in talks, teaching and pitches to signal an important turn: you describe a problem, then say *That's where our method comes in*. *This is where* usually points forward to what you are about to say; *that's where* points back to what was just said. *This is why* and *that's how* work the same way.",
+      "pattern": "This is where + clause / That's where + X + comes in",
+      "examples": [
+        "Labeling a million images by hand isn't realistic. **That's where** active learning **comes in**.",
+        "**This is where** it gets complicated, so bear with me.",
+        "I love cooking but hate cleaning up. **That's where** my husband **comes in**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Most working parents can't pick their kids up at three. {{That's where}} after-school programs come in.",
+        "hint": "Rewrite to introduce the solution, pointing back to the problem (not This is …): After-school programs solve exactly this problem."
+      },
+      "mistake": {
+        "wrong": "That's where comes in active learning.",
+        "right": "That's where active learning comes in.",
+        "why": "After *where*, keep normal word order: the subject comes before *comes in*."
+      }
+    },
+    {
+      "id": "all-cleft-all-i-did-was",
+      "term": "all-cleft: All I did was …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*All* + clause + *be* means *the only thing*: *All I did was ask* = *I only asked*. It stresses how small or simple the action was.",
+      "usage": "Very common in conversation, especially when defending yourself (*All I did was ask a question!*) or when making a task sound easy (*All you have to do is sign here*). After *did was* or *do is*, the verb is normally bare (*ask*), though *to ask* is also possible. No *what* follows *all*: the clause comes directly after it.",
+      "pattern": "All + subject + did / need / have to do + was / is + focus",
+      "examples": [
+        "**All I did was** ask how much it cost, and he got really defensive.",
+        "**All you have to do is** press this button and wait for the beep.",
+        "**All we need is** two more players, and then we can start the game."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{All I did was}} borrow her charger, and now she won't talk to me.",
+        "hint": "Rewrite with All to stress how small the action was: I only borrowed her charger, and now she won't talk to me."
+      },
+      "mistake": {
+        "wrong": "All what I did was ask a question.",
+        "right": "All I did was ask a question.",
+        "why": "After *all*, the clause follows directly; *all what* is not English."
+      }
+    },
+    {
+      "id": "the-thing-is-the-thing-is",
+      "term": "the thing is: The thing is, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces the real problem, the key fact or an objection, usually after a positive or polite opening: *I'd love to come. The thing is, I'm working that day.*",
+      "usage": "Very common in conversation when you explain why you can't do something or raise a concern gently. A full statement follows, and the comma (a short pause in speech) replaces *that*. *The problem is* and *The trouble is* work the same way but sound more negative.",
+      "pattern": "(Positive opening.) The thing is, + clause",
+      "examples": [
+        "I'd love to help you move. **The thing is**, I hurt my back last week.",
+        "**The thing is**, kids don't care how expensive a toy is.",
+        "Why didn't I call? Well, **the thing is**, I lost my phone on the subway."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I really like the apartment. {{The thing is}}, it's a forty-minute walk to the nearest grocery store.",
+        "hint": "Rewrite with a casual lead-in built on thing (not problem): I really like the apartment, but it's a forty-minute walk to the nearest grocery store."
+      },
+      "mistake": {
+        "wrong": "I can come on Saturday. The thing is, I'm free all day.",
+        "right": "I can come on Saturday. In fact, I'm free all day.",
+        "why": "*The thing is* leads into a problem or a correction, so listeners expect a *but*; to add good news, use *in fact* or *actually*."
+      }
+    },
+    {
+      "id": "not-that-not-that-it-matters-but",
+      "term": "Not that …: Not that it matters, but …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Not that* + clause rules out a conclusion the listener might draw from what you say: *Not that it matters, but I was here first* = *this isn't important, but …*.",
+      "usage": "Common in conversation, often with a touch of irony, because the speaker usually does care (*Not that I'm counting, but …*). It can come before the point (*Not that it matters, but …*) or after it, as a short sentence of its own (*Not that I blame her*). The clause after *not that* keeps normal statement order.",
+      "pattern": "Not that + clause, but … / Statement. Not that + clause.",
+      "examples": [
+        "**Not that it matters**, but I was actually here first.",
+        "He quit after two weeks. **Not that** I blame him; the hours were awful.",
+        "**Not that** I'm counting, but that's your fourth cookie."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Not that I'm in a hurry}}, but are we almost there?",
+        "hint": "Rewrite to deny a possible implication: I'm not in a hurry, but are we almost there?"
+      },
+      "mistake": {
+        "wrong": "Not that I complain, but you've been late three times this week.",
+        "right": "Not that I'm complaining, but you've been late three times this week.",
+        "why": "You are denying what you are doing as you speak, so use the progressive: *Not that I'm complaining*."
+      }
+    },
+    {
+      "id": "inverted-exclamative-boy-was-i-wrong",
+      "term": "inverted exclamative: Boy, was I wrong!",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A statement in question word order, said with a falling tone, expresses a strong feeling: *Boy, was I wrong!* = *I was very wrong!*",
+      "usage": "Common in American conversation and storytelling, usually after *Boy*, *Man* or *Wow*, in any tense (*Boy, is it hot today!*). It is said with falling intonation, so it doesn't sound like a question. Add *do* or *did* when there is no other auxiliary (*Man, did we laugh!*).",
+      "pattern": "(Boy / Man / Wow,) + auxiliary + subject + rest!",
+      "examples": [
+        "I thought the hike would be easy. **Boy, was I** wrong!",
+        "**Wow, is it** hot today! Let's find some shade.",
+        "**Man, did we** laugh when the dog ran off with the turkey."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After six hours in the car, {{boy, were we}} hungry!",
+        "hint": "Rewrite as an exclamation starting with Boy: After six hours in the car, we were really hungry."
+      },
+      "mistake": {
+        "wrong": "What a long day was it!",
+        "right": "What a long day it was! / Boy, was it a long day!",
+        "why": "*What a …* exclamations keep statement order; question order follows *Boy*, *Man* or *Wow*."
+      }
+    },
+    {
+      "id": "no-way-inversion-no-way-am-i-paying-that",
+      "term": "No way + inversion: No way am I paying that",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*No way* at the start, followed by question word order, is a strong, casual refusal or denial: *No way am I paying that* = *I'm definitely not paying that*.",
+      "usage": "Common in casual American speech; it is emphatic and can sound rude, so use it with friends, not with clients. Without inversion, add *there's* (*There's no way I'm paying that*); in very casual speech *No way I'm paying that* is also heard. Add *do* or *did* when there is no other auxiliary (*No way do I believe that*).",
+      "pattern": "No way + auxiliary + subject + verb",
+      "examples": [
+        "Forty dollars for parking? **No way am I** paying that.",
+        "**No way is** this the same restaurant we went to last year.",
+        "**No way will** my parents let me borrow the car again after last weekend."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{No way am I}} running a marathon in this heat.",
+        "hint": "Rewrite as a strong casual refusal with inversion: I'm definitely not running a marathon in this heat."
+      },
+      "mistake": {
+        "wrong": "No way am I agree with that.",
+        "right": "No way do I agree with that.",
+        "why": "*Agree* is a full verb, so the inversion needs *do*; *am* only goes with an *-ing* form, an adjective or a noun."
+      }
+    },
+    {
+      "id": "there-goes-there-goes-my-weekend",
+      "term": "There goes …: There goes my weekend",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*There goes* + noun says that something you had or hoped for is now lost because of what just happened: *There goes my weekend* = *my weekend is ruined*.",
+      "usage": "Common in casual speech, usually ironic or resigned, right after bad news, as in *Well, there goes our vacation*. The noun comes after *goes*, but a pronoun comes before it (*There it goes*). The same frame also has a literal use (*There goes the bus!*).",
+      "pattern": "There goes + noun phrase (a loss)",
+      "examples": [
+        "My boss just asked me to work Saturday. **There goes** my weekend.",
+        "The car needs a new transmission? Well, **there goes** our vacation fund.",
+        "It's raining again. **There go** our plans for a picnic."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The airline lost the suitcase with my suit in it. {{There goes}} my chance to look good at the wedding.",
+        "hint": "Rewrite as an ironic comment on a loss: My chance to look good at the wedding is gone."
+      },
+      "mistake": {
+        "wrong": "You lost your job? Well, there goes your income.",
+        "right": "You lost your job? I'm so sorry; that's awful.",
+        "why": "*There goes* sounds ironic and resigned, so it suits small losses or your own bad luck; about someone else's serious loss it sounds mocking."
+      }
+    },
+    {
+      "id": "emphatic-do-i-did-call",
+      "term": "emphatic do: I did call!",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A stressed *do*, *does* or *did* before the base verb insists that something is true, usually to contradict someone or to correct a wrong impression.",
+      "usage": "Common in speech and writing; in speech the auxiliary is strongly stressed (*I DID call!*). It also marks contrast (*I don't like jazz, but I do like blues*) and polite insistence (*Do sit down*), which sounds rather formal to American ears. The main verb stays in the base form.",
+      "pattern": "subject + do / does / did (stressed) + base verb",
+      "examples": [
+        "I **did** call you. Check your missed calls.",
+        "She doesn't eat meat, but she **does** eat fish.",
+        "The new parking rules **do** have some benefits, even if nobody likes them."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I know you think I forgot, but I {{did lock}} the door before we left.",
+        "hint": "Rewrite to insist: I know you think I forgot, but I locked the door before we left."
+      },
+      "mistake": {
+        "wrong": "I do am listening to you!",
+        "right": "I AM listening to you!",
+        "why": "In statements, emphatic *do* cannot go with *be*, a modal or auxiliary *have*; stress that word instead."
+      }
+    },
+    {
+      "id": "what-on-earth-emphatic-question",
+      "term": "What on earth …?: emphatic question",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*On earth* after a question word adds surprise, confusion or annoyance: *What on earth is that noise?*",
+      "usage": "Common in speech and informal writing, with any question word (*why, how, where, who on earth*). It goes directly after the question word, before the rest of the question. *In the world* works the same way; *the heck* is more casual, and *the hell* is stronger and can offend.",
+      "pattern": "question word + on earth + rest of question",
+      "examples": [
+        "**What on earth** is that smell coming from the kitchen?",
+        "**Why on earth** would you drive when the office is a ten-minute walk away?",
+        "**How on earth** did the dog get up on the roof?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Where on earth}} did you find a parking spot downtown on a Saturday?",
+        "hint": "Rewrite to show surprise (not with the heck or in the world): Where did you find a parking spot downtown on a Saturday?"
+      },
+      "mistake": {
+        "wrong": "What did you do on earth with my keys?",
+        "right": "What on earth did you do with my keys?",
+        "why": "*On earth* goes right after the question word, not later in the question."
+      }
+    },
+    {
+      "id": "negative-inversion-never-have-i",
+      "term": "negative inversion: Never have I …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Putting *never* at the start of the clause and inverting auxiliary and subject adds strong emphasis: the experience is presented as unique.",
+      "usage": "Mainly in formal writing, speeches and storytelling for dramatic effect. In everyday conversation it sounds theatrical unless you are emphasizing on purpose or joking. The auxiliary comes before the subject, exactly as in a question.",
+      "pattern": "Never + auxiliary (have / had / did / will) + subject + main verb",
+      "examples": [
+        "**Never have I seen** such a disorganized conference.",
+        "**Never had** the company **faced** a crisis on this scale.",
+        "**Never will I** agree to those conditions again."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Never have I read}} such a clear explanation of the problem.",
+        "hint": "Rewrite with emphasis: I have never read such a clear explanation of the problem."
+      },
+      "mistake": {
+        "wrong": "Never I have seen such a mess.",
+        "right": "Never have I seen such a mess.",
+        "why": "After a fronted negative adverb, the auxiliary must come before the subject."
+      }
+    },
+    {
+      "id": "negative-inversion-rarely-seldom-do",
+      "term": "negative inversion: Rarely / Seldom do …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Putting *rarely* or *seldom* first and inverting auxiliary and subject stresses how uncommon something is: *Rarely do we see* = *We very rarely see*.",
+      "usage": "Typical of formal writing, journalism and speeches; in conversation, *We rarely see …* is normal. Add *do*, *does* or *did* when there is no other auxiliary. *Seldom* is more formal and literary than *rarely*.",
+      "pattern": "Rarely / Seldom + auxiliary + subject + main verb",
+      "examples": [
+        "**Rarely do** you find a hotel this close to the beach at such a low price.",
+        "**Seldom has** a rookie made such an impact on the team in a single season.",
+        "**Rarely does** one study change how doctors treat a disease overnight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Rarely does the school cancel}} classes, but this storm forced it to.",
+        "hint": "Rewrite with emphasis, starting with Rarely: The school rarely cancels classes, but this storm forced it to."
+      },
+      "mistake": {
+        "wrong": "\"Want some cereal?\" \"No thanks, rarely do I eat breakfast.\"",
+        "right": "\"Want some cereal?\" \"No thanks, I rarely eat breakfast.\"",
+        "why": "Inversion after *rarely* belongs to formal writing and speeches; in casual conversation it sounds theatrical, so keep normal order."
+      }
+    },
+    {
+      "id": "negative-inversion-not-until-did",
+      "term": "negative inversion: Not until … did …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Not until* + time or event at the start of the sentence, followed by inversion in the main clause, stresses that something happened only then and not earlier.",
+      "usage": "Formal and literary, used in history writing, news features and speeches; in conversation, *It wasn't until … that …* or *… didn't … until …* is far more natural. The inversion is in the main clause, not in the *until* part: *Not until the lights came on did we see the damage*.",
+      "pattern": "Not until + time / clause + auxiliary + subject + main verb",
+      "examples": [
+        "**Not until** the lights came back on **did we see** how much water had come in.",
+        "**Not until** 1969 **did** anyone walk on the moon.",
+        "**Not until** the final chapter **does** the reader learn who sent the letters."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Not until she read the contract {{did she realize}} how much she had given up.",
+        "hint": "Complete the formal inversion: She didn't realize how much she had given up until she read the contract."
+      },
+      "mistake": {
+        "wrong": "It wasn't until I got home did I notice the scratch on the car.",
+        "right": "Not until I got home did I notice the scratch on the car. / It wasn't until I got home that I noticed the scratch on the car.",
+        "why": "Use inversion after a fronted *Not until*, or *It wasn't until … that* with normal order; do not mix the two."
+      }
+    },
+    {
+      "id": "only-when-did-inversion",
+      "term": "Only when … did …: inversion",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Only when* + clause at the start, with inversion in the main clause, says that something happened (or happens) only at that moment or under that condition, and not before.",
+      "usage": "Formal and dramatic, common in written narrative, journalism and speeches. The inversion is in the main clause (*Only when I got home did I notice*), never in the *when*-clause. In conversation, say *I only noticed when I got home* or *It was only when … that …*.",
+      "pattern": "Only when + clause + auxiliary + subject + main verb",
+      "examples": [
+        "**Only when** the music stopped **did I** realize how late it was.",
+        "**Only when** gas prices doubled **did** people start driving less.",
+        "**Only when** you've lived abroad **do you** understand how hard it is to start over."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Only when the baby fell asleep did we}} finally get to eat dinner.",
+        "hint": "Rewrite with emphasis, starting with Only when: We finally got to eat dinner only when the baby fell asleep."
+      },
+      "mistake": {
+        "wrong": "Only when did the doctor call I understood how serious it was.",
+        "right": "Only when the doctor called did I understand how serious it was.",
+        "why": "The inversion goes in the main clause, not in the *when*-clause."
+      }
+    },
+    {
+      "id": "only-by-can-inversion",
+      "term": "Only by … can …: inversion",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Only by* + *-ing* form at the start, with inversion, names the one method that will produce a result: *Only by working together can we fix this*.",
+      "usage": "Typical of speeches, editorials and formal reports, often in calls to action. *By* is followed by an *-ing* form, and the main clause has the inversion, usually with *can* or *will*. In conversation, say *The only way to … is to …*.",
+      "pattern": "Only by + -ing + can / will + subject + verb",
+      "examples": [
+        "**Only by** cutting costs **can we** keep the store open through the winter.",
+        "**Only by** practicing every day **will you** get comfortable on stage.",
+        "**Only by** sharing records across hospitals **can** doctors spot rare side effects."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Only by working together can we}} finish the cleanup before dark.",
+        "hint": "Rewrite with emphasis, starting with Only by: The only way we can finish the cleanup before dark is to work together."
+      },
+      "mistake": {
+        "wrong": "Only by working together we can succeed.",
+        "right": "Only by working together can we succeed.",
+        "why": "A fronted *only by* phrase requires the auxiliary before the subject."
+      }
+    },
+    {
+      "id": "only-then-did-inversion",
+      "term": "Only then did …: inversion",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Only then* points back to an event just described and, with inversion, says that something happened at that point and not before.",
+      "usage": "Common in written narrative, news reports and formal explanations, at the start of a sentence that follows the event it points back to. It needs inversion (*did we*, *could they*). In speech, *That's when …* or *It was only then that …* sounds more natural.",
+      "pattern": "(Event.) Only then + auxiliary + subject + main verb",
+      "examples": [
+        "The storm finally passed. **Only then did we** go out to check on the neighbors.",
+        "She read the letter twice. **Only then did she** understand what her father meant.",
+        "The inspectors approved the wiring. **Only then could** the family move in."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The pilot turned off the seatbelt sign. {{Only then did the passengers}} stand up.",
+        "hint": "Rewrite with emphasis, starting with Only then: The passengers didn't stand up until that moment."
+      },
+      "mistake": {
+        "wrong": "Only then understood I the problem.",
+        "right": "Only then did I understand the problem.",
+        "why": "English inverts only an auxiliary; when there is none, add *did* instead of moving the main verb."
+      }
+    },
+    {
+      "id": "only-if-will-inversion",
+      "term": "Only if … will …: inversion",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Only if* + condition at the start, with inversion in the main clause, says that the result will happen under this condition and no other.",
+      "usage": "Used in formal rules, contracts, speeches and serious warnings. The *if*-clause keeps normal order and uses the present for the future; the main clause has the inversion. In conversation, use normal order: *You can enter only if you have a ticket*.",
+      "pattern": "Only if + condition + will / can / should + subject + verb",
+      "examples": [
+        "**Only if** enough residents sign the petition **will** the city consider speed bumps.",
+        "**Only if** the weather improves **will** the race go ahead as planned.",
+        "**Only if** both sides compromise **can** the strike end soon."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Only if you show your boarding pass will}} the staff let you into the lounge.",
+        "hint": "Rewrite with emphasis, starting with Only if: The staff will let you into the lounge only if you show your boarding pass."
+      },
+      "mistake": {
+        "wrong": "Only if the board will approve it will we go ahead.",
+        "right": "Only if the board approves it will we go ahead.",
+        "why": "As in other conditions, the *if*-clause uses the present for the future; only the main clause has *will* and the inversion."
+      }
+    },
+    {
+      "id": "under-no-circumstances-should",
+      "term": "Under no circumstances should …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A fronted *under no circumstances* with inversion forbids something absolutely: *Under no circumstances should you open this door* = *never, for any reason, open it*.",
+      "usage": "Typical of written rules, safety warnings, legal texts and very firm instructions; spoken, it sounds stern or official. The verb after it is usually *should*, *must*, *will* or *are … to*. Without inversion, the phrase goes at the end with *any*: *You should not open this door under any circumstances*.",
+      "pattern": "Under no circumstances + should / must / will / are + subject + verb",
+      "examples": [
+        "**Under no circumstances should** you leave children alone near the pool.",
+        "**Under no circumstances will** we share your personal information with other companies.",
+        "**Under no circumstances are** employees **to** discuss the case with reporters."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Under no circumstances should you}} give your password to anyone who calls you.",
+        "hint": "Rewrite as an absolute warning with inversion: You should never, for any reason, give your password to anyone who calls you."
+      },
+      "mistake": {
+        "wrong": "Under any circumstances should you share your password.",
+        "right": "Under no circumstances should you share your password.",
+        "why": "The fronted phrase must be negative (*no*); *under any circumstances* goes at the end, after *not*."
+      }
+    },
+    {
+      "id": "at-no-point-did",
+      "term": "At no point did …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A fronted *at no point* with inversion strongly denies that something happened at any moment: *At no point did I agree* = *I never agreed, not even once*.",
+      "usage": "Common in official statements, news reports, court testimony and firm denials in an argument. It needs inversion (*did I*, *was there*, *has the company*). In normal order, use *not … at any point*: *I didn't agree to this at any point*.",
+      "pattern": "At no point + auxiliary + subject + main verb",
+      "examples": [
+        "**At no point did** the landlord mention that the heating was broken.",
+        "**At no point was** the public in any danger, the fire chief said.",
+        "I've reread our messages, and **at no point did** I promise to pay for the whole trip."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{At no point did the referee}} warn the player before throwing him out of the game.",
+        "hint": "Rewrite as a firm denial: The referee never warned the player before throwing him out of the game."
+      },
+      "mistake": {
+        "wrong": "At no point I didn't agree to that.",
+        "right": "At no point did I agree to that.",
+        "why": "*At no point* is already negative, so the verb stays affirmative and an inverted *did* comes before the subject."
+      }
+    },
+    {
+      "id": "in-no-way-does",
+      "term": "In no way does …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A fronted *in no way* with inversion denies something completely: *In no way does this change our plans* = *This doesn't change our plans at all*.",
+      "usage": "Used in formal writing, official statements and careful arguments to rule out a misunderstanding. At the start of the clause it needs inversion. In normal order, *in no way* goes before the main verb (*This in no way changes our plans*), which is common and less dramatic.",
+      "pattern": "In no way + auxiliary + subject + main verb",
+      "examples": [
+        "**In no way does** this decision reflect on the quality of your work.",
+        "**In no way was** the delay the pilot's fault.",
+        "**In no way should** a single mistake cost someone their job."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{In no way does the new schedule}} affect your vacation days.",
+        "hint": "Rewrite as a strong formal denial: The new schedule doesn't affect your vacation days at all."
+      },
+      "mistake": {
+        "wrong": "This changes in no way our plans.",
+        "right": "This in no way changes our plans.",
+        "why": "In normal order, *in no way* goes before the main verb; it cannot sit between the verb and its object."
+      }
+    },
+    {
+      "id": "nowhere-is-more-than",
+      "term": "Nowhere is … more … than …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Nowhere is X more Y than in Z* says that Z is the clearest example of something: *Nowhere is the housing shortage more visible than in big coastal cities*.",
+      "usage": "A favorite opening in journalism, essays and talks, used to introduce a case study. It needs inversion (*Nowhere is …*, *Nowhere does …*), and *than* is followed by *in*, *at* or *among* when the comparison is a place or a group. In speech, *X is most obvious in Z* is simpler.",
+      "pattern": "Nowhere + is / does + subject + more + adjective / verb + than + in / at / among …",
+      "examples": [
+        "**Nowhere is** the housing shortage **more** visible **than** in big coastal cities.",
+        "**Nowhere is** the love of baseball **more** obvious **than** at a minor-league game on a summer night.",
+        "**Nowhere does** good design matter **more than** in a hospital emergency room."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Nowhere is}} the town's love of football more obvious than at the Friday night games.",
+        "hint": "Rewrite with emphasis, starting with a negative place word: The town's love of football is most obvious at the Friday night games."
+      },
+      "mistake": {
+        "wrong": "Nowhere is the problem more serious than rural areas.",
+        "right": "Nowhere is the problem more serious than in rural areas.",
+        "why": "The comparison is between places, so repeat the preposition after *than*: *than in rural areas*."
+      }
+    },
+    {
+      "id": "nor-inversion-nor-did-i",
+      "term": "nor + inversion: …, nor did I …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Nor* adds a second negative statement to a first one, with the auxiliary before the subject: *She didn't call, nor did she write*.",
+      "usage": "Neutral to formal; common in writing and careful speech, after a negative clause. In short replies, Americans usually say *Neither do I* or *Me neither*; *Nor do I* sounds more formal or British. The verb after *nor* is affirmative (*nor did I*, not *nor didn't I*).",
+      "pattern": "negative clause, nor + auxiliary + subject + verb",
+      "examples": [
+        "I didn't see the accident, **nor did I** hear anything unusual that night.",
+        "The hotel never answered our emails, **nor did** it refund the deposit.",
+        "The new law doesn't ban e-scooters, **nor does it** limit their speed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My grandfather never learned to drive, {{nor did he}} ever want to.",
+        "hint": "Rewrite with a formal negative link: My grandfather never learned to drive, and he never wanted to, either."
+      },
+      "mistake": {
+        "wrong": "I don't eat meat, nor I eat fish.",
+        "right": "I don't eat meat, nor do I eat fish.",
+        "why": "*Nor* triggers inversion, so add *do* before the subject."
+      }
+    },
+    {
+      "id": "as-inversion-as-did-most-of-the-board",
+      "term": "as + inversion: …, as did most of the board",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*As* + auxiliary + subject at the end of a sentence says that someone else did the same thing: *She voted against it, as did most of the board*.",
+      "usage": "Typical of news writing, reports and formal speech. The auxiliary matches the first clause (*as did*, *as has*, *as would*); inversion is usual with a noun subject, while with a pronoun normal order is also common (*as I did*). In conversation, say *and so did most of the board*.",
+      "pattern": "clause, as + auxiliary + subject",
+      "examples": [
+        "The mayor opposed the plan, **as did** most of the city council.",
+        "Prices rose sharply in March, **as did** demand for used cars.",
+        "My sister went into nursing, **as had** our mother and grandmother before her."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The singer canceled the rest of her tour, {{as did}} her opening act.",
+        "hint": "Rewrite in a formal news style (not and so did): The singer canceled the rest of her tour, and her opening act did too."
+      },
+      "mistake": {
+        "wrong": "Sales fell in the spring, as fell profits.",
+        "right": "Sales fell in the spring, as did profits.",
+        "why": "After *as*, use an auxiliary (*did*, *has*) before the subject, not the main verb."
+      }
+    },
+    {
+      "id": "so-much-so-that",
+      "term": "so much so that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Takes the previous statement, says it was true to a high degree, and adds the result: *She loved the city, so much so that she moved there*.",
+      "usage": "Common in writing and fairly careful speech; it follows a comma or a period and refers back to the whole previous statement. It is useful when *so … that* doesn't fit, because the first statement has no adjective or adverb to put *so* before. In speech, *that* is sometimes dropped.",
+      "pattern": "statement, so much so that + result",
+      "examples": [
+        "The kids loved the aquarium, **so much so that** we went back the next day.",
+        "He's a very private person, **so much so that** most of his coworkers don't know he's married.",
+        "Demand for the new phone was huge. **So much so that** some stores ran out within hours."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My daughter loves horses, {{so much so that}} she spends every Saturday at the stables.",
+        "hint": "Rewrite to stress degree after the comma: My daughter loves horses a lot, and as a result she spends every Saturday at the stables."
+      },
+      "mistake": {
+        "wrong": "She was so much tired that she fell asleep at dinner.",
+        "right": "She was so tired that she fell asleep at dinner.",
+        "why": "*So much* doesn't go before an adjective; use *so* + adjective, or add *so much so that* after a complete statement."
+      }
+    },
+    {
+      "id": "no-inversion-with-pronouns-here-it-comes-there-she-goes",
+      "term": "no inversion with pronouns: Here it comes / There she goes",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a fronted *here* or *there* with *come*, *go* or *be*, a noun subject follows the verb (*Here comes the bus*), but a pronoun subject comes before it (*Here it comes*).",
+      "usage": "Common in speech when you point something out as it arrives or leaves: *Here comes the bride*, *There goes the train*, *Here's your coffee*. With a pronoun, keep normal order: *Here it is*, *There she goes*. *There he goes again* is also a common complaint about someone repeating annoying behavior.",
+      "pattern": "Here / There + verb + noun, but Here / There + pronoun + verb",
+      "examples": [
+        "Look, **here comes** the bus. Finally!",
+        "I found your keys. **Here they are**, under the couch cushion.",
+        "**There she goes** again, complaining about the neighbors' dog."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We've been waiting for the pizza for an hour. Oh, {{here it comes}} now.",
+        "hint": "Rewrite to point out the arrival, with the verb come: Oh, it's coming now."
+      },
+      "mistake": {
+        "wrong": "Here comes she, right on time!",
+        "right": "Here she comes, right on time!",
+        "why": "With a pronoun subject, *here* and *there* do not cause inversion: the pronoun comes before the verb."
+      }
+    },
+    {
+      "id": "fronted-participle-inversion-gone-are-the-days-when",
+      "term": "fronted participle + inversion: Gone are the days when …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Puts *gone* first and inverts *be* and the subject to say that something common in the past no longer exists: *Gone are the days when a phone was just a phone*.",
+      "usage": "Common in journalism, essays, ads and speeches, said with nostalgia or with relief. The verb agrees with the subject after it (*Gone are the days …*, *Gone is the old …*). The normal-order version, *The days when … are gone*, sounds flat by comparison.",
+      "pattern": "Gone are the days when + clause / Gone is + singular noun",
+      "examples": [
+        "**Gone are the days when** you could rent a decent apartment downtown for $800 a month.",
+        "**Gone is** the old diner where my parents had their first date.",
+        "With streaming, **gone are the days when** you had to wait a week for the next episode."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Gone are the days when}} airlines served free hot meals in economy.",
+        "hint": "Rewrite with fronting and inversion: The days when airlines served free hot meals in economy are gone."
+      },
+      "mistake": {
+        "wrong": "Gone are the times when we could park here for free.",
+        "right": "Gone are the days when we could park here for free.",
+        "why": "The fixed phrase uses *days*, even when you mean whole years or an era."
+      }
+    },
+    {
+      "id": "attached-is-enclosed-are",
+      "term": "Attached is … / Enclosed are …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A fronted *attached* or *enclosed* with inversion introduces documents sent with an email or letter: *Attached is the invoice* = *The invoice is attached*.",
+      "usage": "Standard in business emails and cover letters, slightly formal; the verb agrees with what follows (*Attached is my résumé*, *Attached are the photos*). *Enclosed* is for paper letters; for emails, use *attached*. *Please find attached* is also common, but many Americans find it stiff, and *I've attached …* sounds friendlier.",
+      "pattern": "Attached / Enclosed + is / are + document(s)",
+      "examples": [
+        "**Attached is** the signed lease; please let me know if anything's missing.",
+        "**Attached are** the photos from Saturday's game, in case you want to print any.",
+        "**Enclosed is** a check for the full amount."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Attached are}} the receipts from the trip, as you asked.",
+        "hint": "Rewrite formally with inversion: The receipts from the trip are attached, as you asked."
+      },
+      "mistake": {
+        "wrong": "Attached the slides from today's meeting.",
+        "right": "Attached are the slides from today's meeting.",
+        "why": "The fronted participle still needs a verb: *Attached are …*, or simply *I've attached …*."
+      }
+    },
+    {
+      "id": "fronted-comparative-inversion-more-important-is",
+      "term": "fronted comparative + inversion: More important is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Putting a comparative first, with *be* before the subject, adds a point that is presented as stronger than the one before: *The plan is cheap. More important is the fact that it works*.",
+      "usage": "Common in essays, editorials and formal talks to rank points. *Equally important is …*, *Even more striking is …* and *Less clear is …* work the same way. It differs from *More importantly,* + full clause, where the adverb is followed by a comma and normal order.",
+      "pattern": "More / Equally / Less + adjective + is / are + subject",
+      "examples": [
+        "The new stadium will create jobs. **More important is** the boost it will give local businesses.",
+        "The menu is great, but **equally impressive are** the desserts.",
+        "The fire is under control. **Less clear is** what caused it."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The apartment is close to work. {{More important is}} the fact that it has a yard for the dog.",
+        "hint": "Rewrite with the comparison first: The fact that it has a yard for the dog is more important."
+      },
+      "mistake": {
+        "wrong": "More importantly is the cost of the repairs.",
+        "right": "More important is the cost of the repairs.",
+        "why": "Before *is*, use the adjective *important*; *more importantly* is an adverb followed by a comma and a full clause."
+      }
+    },
+    {
+      "id": "fronted-prepositional-phrase-inversion-of-particular-concern",
+      "term": "fronted prepositional phrase + inversion: Of particular concern is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A fronted *of* + noun phrase with inversion highlights the topic that matters most: *Of particular concern is the rise in emergency room visits*.",
+      "usage": "Typical of formal reports, policy documents, academic writing and news analysis; it introduces the main issue after a general description. The verb agrees with the subject that follows (*Of particular interest are the long-term effects*), and *Of note is …* works the same way. In speech, *What worries us most is …* is more natural.",
+      "pattern": "Of particular concern / interest / importance + is / are + subject",
+      "examples": [
+        "**Of particular concern is** the number of bridges that haven't been inspected in ten years.",
+        "**Of particular interest are** the letters she wrote to her sister during the war.",
+        "**Of particular concern** to parents **is** the lack of crossing guards near the school."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Of particular concern is}} the rise in falls among older patients.",
+        "hint": "Rewrite in formal report style, starting with Of: The rise in falls among older patients is especially worrying."
+      },
+      "mistake": {
+        "wrong": "Of particular concern is the rising costs of repairs.",
+        "right": "Of particular concern are the rising costs of repairs.",
+        "why": "The subject comes after the verb here, and *be* agrees with it: *costs* is plural, so use *are*."
+      }
+    },
+    {
+      "id": "it-cleft-on-a-phrase-it-was-in-berlin-that",
+      "term": "it-cleft on a phrase: It was in Berlin that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Puts a time, place, reason or manner phrase into *It was … that …* to stress it: *It was in Berlin that I first heard her play*.",
+      "usage": "Common in writing and speech when you stress a surprising detail or correct someone (*It was in March, not May, that …*). After the focused phrase, careful English uses *that* rather than *when* or *where*, though *when* is common in speech. The verb is *is* or *was*, matching the time of the story.",
+      "pattern": "It is / was + time / place / reason phrase + that + clause",
+      "examples": [
+        "**It was in** Chicago **that** my parents first met.",
+        "**It was because of** the snow **that** the game was postponed, not the injuries.",
+        "**It was only after** the third interview **that** they offered her the job."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It was in high school that}} I first got interested in photography.",
+        "hint": "Rewrite to stress the time: I first got interested in photography in high school."
+      },
+      "mistake": {
+        "wrong": "It was in Seattle where we bought our first house.",
+        "right": "It was in Seattle that we bought our first house.",
+        "why": "In an it-cleft, the focused phrase is followed by *that*; *where* repeats the idea of place already in *in Seattle*."
+      }
+    },
+    {
+      "id": "wh-cleft-with-do-what-we-did-was",
+      "term": "wh-cleft with do: What we did was …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*What* + subject + *do* + *be* puts the focus on an action: *What we did was call the landlord* = *We called the landlord*, and that was our solution.",
+      "usage": "Very common in speech and in clear explanations, especially to describe a solution or give advice (*What you should do is call them*). The verb after *is* or *was* is usually bare (*call*), though *to call* is also correct. If *do* is progressive, the focus uses *-ing* (*What I'm doing is trying to help*).",
+      "pattern": "What + subject + do / did + is / was + (to) + base verb",
+      "examples": [
+        "The sink kept leaking, so **what we did was** call a plumber on Sunday.",
+        "**What you should do is** talk to her before she hears it from someone else.",
+        "**What I'm doing is** trying to help, so please don't yell at me."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What we did was}} rent a van and drive the furniture up ourselves.",
+        "hint": "Rewrite to focus on the action: We rented a van and drove the furniture up ourselves."
+      },
+      "mistake": {
+        "wrong": "What we did was called a plumber.",
+        "right": "What we did was call a plumber.",
+        "why": "After *What … did was*, the verb is in the base form (or *to* + base form), not the past tense."
+      }
+    },
+    {
+      "id": "the-reason-why-is-that",
+      "term": "The reason (why) … is that …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*The reason (why) X is that Y* names the cause of X and puts it at the end for focus: *The reason I'm late is that the bridge was closed*.",
+      "usage": "Common in speech and writing; *why* or *that* after *reason* is optional (*the reason I left*, *the reason why I left*). *The reason is because …* is very common in speech, but editors and many teachers treat it as redundant. In formal writing, use *the reason is that …*.",
+      "pattern": "The reason (why / that) + clause + is that + clause",
+      "examples": [
+        "**The reason** I'm late **is that** the bridge was closed for repairs.",
+        "**The reason why** the bakery closed **is that** the rent tripled.",
+        "Part of **the reason** people love that show **is that** the characters feel real."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The reason I moved to the suburbs {{is that}} I wanted a yard for the kids.",
+        "hint": "Complete in careful written style: I moved to the suburbs because I wanted a yard for the kids."
+      },
+      "mistake": {
+        "wrong": "The reason is because the train was canceled. (in a report)",
+        "right": "The reason is that the train was canceled.",
+        "why": "*Because* repeats the idea of *reason*; in writing, use *the reason is that*."
+      }
+    },
+    {
+      "id": "where-cleft-where-i-disagree-is",
+      "term": "where-cleft: Where I disagree is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Where* + subject + verb + *is* points to the exact part of an issue you want to focus on, often a disagreement or a weak spot: *Where I disagree is the timeline*.",
+      "usage": "Common in discussions, meetings and reviews to narrow a disagreement politely after agreeing with part of something. The focus after *is* is often a phrase with *on* or *with*, an *-ing* form or a *when*-clause. *Where things went wrong was …* and *Where it gets tricky is …* are common variants.",
+      "pattern": "Where + subject + verb + is / was + focus",
+      "examples": [
+        "I agree we need a bigger car. **Where I disagree is** on the price range.",
+        "**Where** the team **went wrong was** relying on a single supplier.",
+        "Assembling the shelves is easy. **Where it gets tricky is** mounting them on the wall."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your argument makes sense, but {{where I disagree is}} with the idea that kids need a phone at eight.",
+        "hint": "Rewrite to point to the exact disagreement: Your argument makes sense, but I disagree with the idea that kids need a phone at eight."
+      },
+      "mistake": {
+        "wrong": "What I disagree is the timeline.",
+        "right": "What I disagree with is the timeline. / Where I disagree is on the timeline.",
+        "why": "*Disagree* needs *with* before its object, so a *what*-cleft must keep it at the end; *where* avoids the problem."
+      }
+    },
+    {
+      "id": "the-last-thing-is-the-last-thing-we-need-is",
+      "term": "The last thing … is …: The last thing we need is …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*The last thing* + subject + *need / want* + *is* says that something would be very unwelcome: *The last thing we need is another delay* = *we really don't want another delay*.",
+      "usage": "Very common in conversation, news and emails, often with frustration or irony after bad news. The focus after *is* can be a noun or a *to*-infinitive (*The last thing I want is to upset her*). It also works with *would*: *The last thing I'd want is …*.",
+      "pattern": "The last thing + subject + need / want + is + noun / to-infinitive",
+      "examples": [
+        "We're already over budget. **The last thing we need is** another delay.",
+        "**The last thing I want is** to make her feel unwelcome.",
+        "After a twelve-hour shift, **the last thing** nurses **need is** a broken coffee machine."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{The last thing you need}} right now is a parking ticket, so move the car.",
+        "hint": "Rewrite to say it would be very unwelcome: You really don't need a parking ticket right now, so move the car."
+      },
+      "mistake": {
+        "wrong": "Thanks for the new charger; it's the last thing I needed!",
+        "right": "Thanks for the new charger; it's just what I needed!",
+        "why": "*The last thing I needed* means something very unwelcome; for something useful, say *just what I needed*."
+      }
+    },
+    {
+      "id": "if-there-s-one-thing-it-s",
+      "term": "If there's one thing …, it's …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If there's one thing* + clause, *it's* + focus singles out one fact, lesson or quality as the most certain or important: *If there's one thing I've learned, it's to back up my files*.",
+      "usage": "Common in speeches, interviews, articles and conversation, especially for lessons and strong opinions (*If there's one thing I can't stand, it's …*). The second part starts with *it's* or *it is*, followed by a noun, an *-ing* form, a *to*-infinitive or a *that*-clause.",
+      "pattern": "If there's one thing + subject + verb, it's + focus",
+      "examples": [
+        "**If there's one thing** I've learned as a parent, **it's** to pick my battles.",
+        "**If there's one thing** I can't stand, **it's** people who talk during movies.",
+        "**If there's one thing** this team does well, **it's** defense."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If there's one thing}} my grandmother taught me, it's how to make a good pie crust.",
+        "hint": "Rewrite to single out one lesson: The most important thing my grandmother taught me was how to make a good pie crust."
+      },
+      "mistake": {
+        "wrong": "If there's one thing I hate, this is waiting in line.",
+        "right": "If there's one thing I hate, it's waiting in line.",
+        "why": "The second part of this frame always starts with *it's*, not *this is* or *that is*."
+      }
+    },
+    {
+      "id": "cleft-question-what-is-it-about-that",
+      "term": "cleft question: What is it about … that …?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*What is it about X that …?* asks which quality of X causes a feeling or an effect: *What is it about cats that people love so much?*",
+      "usage": "Common in conversation, interviews and essays when you are curious or puzzled about the reason for a reaction. Only the first part is a question; the *that*-clause keeps statement order. When *that* is the subject of the clause, the verb is singular even after a plural noun: *What is it about airports that makes people so stressed?*",
+      "pattern": "What is it about + noun + that + clause?",
+      "examples": [
+        "**What is it about** road trips **that** makes everyone so hungry?",
+        "**What is it about** this song **that** you love so much?",
+        "**What is it about** small towns **that** draws so many retirees?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What is it about}} hospitals that makes people so nervous?",
+        "hint": "Rewrite to ask exactly what causes the feeling: Why do hospitals make people so nervous?"
+      },
+      "mistake": {
+        "wrong": "What is it about cats that do people love?",
+        "right": "What is it about cats that people love?",
+        "why": "Only the first part is a question; the *that*-clause keeps statement word order."
+      }
+    },
+    {
+      "id": "concessive-fronting-strange-as-it-may-seem",
+      "term": "concessive fronting: Strange as it may seem, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Adjective (or adverb) + *as* + subject + verb at the start of a sentence means *although*: *Strange as it may seem, I enjoy the commute* = *Although it may seem strange, …*.",
+      "usage": "Neutral to formal, common in writing and polished speech, with many adjectives (*Tired as she was*, *Hard as I tried*, *Much as I'd like to*). A version with an extra *as* at the start (*As strange as it may seem*) is also common, especially in American English. Do not add *although*: the structure already means it.",
+      "pattern": "Adjective / Adverb + as + subject + verb, main clause",
+      "examples": [
+        "**Strange as it may seem**, I actually enjoy my long commute.",
+        "**Tired as she was**, she stayed up to help her son with his science project.",
+        "**Much as I'd like to** help, I just don't have the time this month."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Hard as we tried}}, we couldn't get the stain out of the carpet.",
+        "hint": "Rewrite with concessive fronting, starting with the adverb (no extra as): Although we tried hard, we couldn't get the stain out of the carpet."
+      },
+      "mistake": {
+        "wrong": "Although tired as she was, she kept going.",
+        "right": "Tired as she was, she kept going.",
+        "why": "The fronted *adjective + as* already means *although*, so *although* is not added."
+      }
+    },
+    {
+      "id": "object-fronting-that-i-can-t-promise",
+      "term": "object fronting: That I can't promise",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Moving the object to the front of the clause, with normal subject-verb order after it, gives it strong contrast or emphasis: *That I can't promise* = *I can't promise that, though I can do other things*.",
+      "usage": "Common in conversation for contrast and polite limits (*I'll try to come early; that I can promise*), and in writing for rhetorical effect. No inversion follows: the subject and verb keep normal order. The fronted object usually links back to something just said.",
+      "pattern": "Object + subject + verb (normal order)",
+      "examples": [
+        "I'll do my best to finish by Friday, but a perfect result? **That I can't promise**.",
+        "Some of his songs I love; **others I** can't stand.",
+        "**This much I** know: he's not coming back."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'll help you paint the bedroom, but {{the ceiling I'm not touching}}.",
+        "hint": "Rewrite with the object first for contrast: I'll help you paint the bedroom, but I'm not touching the ceiling."
+      },
+      "mistake": {
+        "wrong": "That can I not promise.",
+        "right": "That I can't promise.",
+        "why": "Fronting an object does not cause inversion in English; the subject still comes before the verb."
+      }
+    },
+    {
+      "id": "left-dislocation-my-boss-she",
+      "term": "left dislocation: My boss, she …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Naming the topic at the start and then referring to it with a pronoun in the clause that follows: *My boss, she never answers emails*. It sets up the topic before the comment.",
+      "usage": "Very common in casual conversation and storytelling, especially when the topic is new or contrasted (*My sister, she's the athlete in the family*). In speech there is a small pause after the topic. It sounds natural when spoken but too casual for formal writing, where the pronoun is left out.",
+      "pattern": "Noun phrase (topic), + pronoun + rest of clause",
+      "examples": [
+        "**My boss, she** never reads past the first line of an email.",
+        "**That guy at the gym, he** knows everybody's name.",
+        "**These new phones, they** all look exactly the same to me."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{My uncle, he}} still thinks the internet is a passing trend.",
+        "hint": "Rewrite in casual spoken style, naming the topic first: My uncle still thinks the internet is a passing trend."
+      },
+      "mistake": {
+        "wrong": "The new policy, it reduces costs by ten percent. (in a report)",
+        "right": "The new policy reduces costs by ten percent.",
+        "why": "Repeating the subject with a pronoun is normal in casual speech, but in formal writing it looks like an error."
+      }
+    },
+    {
+      "id": "emphatic-reflexive-the-ceo-herself",
+      "term": "emphatic reflexive: The CEO herself …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A reflexive pronoun right after a noun, or at the end of the clause, stresses that this person or thing, and not someone else, is meant: *The CEO herself answered my email*.",
+      "usage": "Common in speech and writing to express surprise at someone's importance (*The mayor himself came*) or to stress personal effort (*I built it myself*). It can follow the noun directly or come at the end (*The chef cooked it himself*). It is not the object of the verb, so the sentence still works without it.",
+      "pattern": "noun + himself / herself / itself … / … + reflexive at the end",
+      "examples": [
+        "**The CEO herself** answered my complaint, which really surprised me.",
+        "We didn't hire anyone; we painted the whole house **ourselves**.",
+        "**The hotel itself** was fine, but the neighborhood was really loud."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "At the wedding, the bride {{herself}} served us the cake.",
+        "hint": "Rewrite to stress that it was this person and no one else: At the wedding, the bride served us the cake."
+      },
+      "mistake": {
+        "wrong": "My wife and myself will be there at seven.",
+        "right": "My wife and I will be there at seven.",
+        "why": "An emphatic reflexive needs a noun or pronoun to refer back to; it cannot replace *I* as the subject."
+      }
+    },
+    {
+      "id": "no-sooner-had-than",
+      "term": "No sooner had … than …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*No sooner had X happened than Y happened* says that the second event followed the first immediately, often with surprise or bad luck.",
+      "usage": "Formal and literary, found in novels, journalism and storytelling; in conversation, *As soon as …* or *I had just … when …* is more natural. The first clause uses the past perfect with inversion, and the second starts with *than*, not *when*. Without inversion, *We had no sooner sat down than …* is also correct.",
+      "pattern": "No sooner had + subject + past participle + than + past simple",
+      "examples": [
+        "**No sooner had** we sat down to eat **than** the phone rang.",
+        "**No sooner had** the store opened its doors **than** shoppers rushed in.",
+        "**No sooner had** I paid off my car **than** the engine started making strange noises."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{No sooner had I}} stepped out of the shower than the doorbell rang.",
+        "hint": "Rewrite formally to show one event came right after the other: As soon as I stepped out of the shower, the doorbell rang."
+      },
+      "mistake": {
+        "wrong": "No sooner had I arrived when it started to rain.",
+        "right": "No sooner had I arrived than it started to rain.",
+        "why": "*No sooner* is a comparative, so it pairs with *than*; *when* goes with *hardly* and *scarcely*."
+      }
+    },
+    {
+      "id": "hardly-scarcely-had-when",
+      "term": "Hardly / Scarcely had … when …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Hardly / Scarcely had X happened when Y happened* says that the second event came just after the first, almost before it was finished.",
+      "usage": "Formal and literary, used in fiction, history writing and dramatic storytelling. The first clause uses the past perfect with inversion, and the second starts with *when* (or *before*), not *than*. In conversation, use *I had just … when …*.",
+      "pattern": "Hardly / Scarcely had + subject + past participle + when + past simple",
+      "examples": [
+        "**Hardly had** the game started **when** it began to pour.",
+        "**Scarcely had** she closed her eyes **when** the baby started crying again.",
+        "**Hardly had** the band started playing **when** the power went out."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Hardly had we}} left the driveway when my son asked if we were there yet.",
+        "hint": "Rewrite formally, starting with Hardly: We had only just left the driveway when my son asked if we were there yet."
+      },
+      "mistake": {
+        "wrong": "Hardly did I sit down when the phone rang.",
+        "right": "Hardly had I sat down when the phone rang.",
+        "why": "The first event in this pattern is in the past perfect: *had* + subject + past participle."
+      }
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "topic_id": "b1-05-genitiv",
+  "level": "B1",
+  "title_de": "Genitiv",
+  "title_en": "The genitive case",
+  "rule": {
+    "summary": "The **Genitiv** links a noun to another noun: it shows possession, a part or a close relation and answers the question **wessen?** (whose?): *das Auto meines Bruders, das Ende des Films*. It is also required after Genitiv prepositions such as *wegen, trotz, während, (an)statt, innerhalb, außerhalb, aufgrund*. Masculine and neuter nouns take **-(e)s** in the singular; feminine and plural nouns take no ending. In everyday speech the Genitiv is often replaced by *von* + Dativ, but in writing and at B1 exams the Genitiv is expected.",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| bestimmt | **des** Vater**s** | **der** Mutter | **des** Kind**es** | **der** Kinder |\n| unbestimmt / Possessiv | **eines / meines** Vater**s** | **einer / meiner** Mutter | **eines / meines** Kind**es** | — / **meiner** Kinder |\n| mit Adjektiv | des alt**en** Vaters | der alt**en** Mutter | eines klein**en** Kindes | der klein**en** Kinder |\n| n-Deklination | des Kollege**n**, des Student**en** | | | |\n| Präpositionen | *wegen, trotz, während, (an)statt, innerhalb, außerhalb, aufgrund* + Genitiv | | | |",
+    "steps": [
+      "Check the trigger: a noun that belongs to another noun (*die Farbe … Wand*), the question *wessen?*, or a Genitiv preposition (*wegen, trotz, während, statt, innerhalb, außerhalb, aufgrund*).",
+      "Find the gender and number of the Genitiv noun.",
+      "Choose the article: masculine/neuter → **des / eines / meines**; feminine and plural → **der / einer / meiner**.",
+      "Add the noun ending: masculine and neuter singular → **-s** (most nouns with more than one syllable: *des Lehrers*) or **-es** (often after one syllable, always after *-s, -ß, -z, -x*: *des Hauses*); n-Deklination nouns → **-(e)n** only (*des Kollegen*); feminine and plural → no ending.",
+      "An adjective after the article takes **-en** in every Genitiv slot (*des schlechten Wetters, der neuen Kollegin*). Without an article the masculine/neuter adjective also takes *-en* (*trotz starken Regens*).",
+      "Place the Genitiv attribute **after** its noun (*das Auto meines Bruders*); only names stand before it (*Peters Auto*)."
+    ],
+    "pitfalls": [
+      "Forgetting the noun ending: ✗ *das Auto meines Bruder* → ✓ *das Auto meines Bruders*.",
+      "Adding *-s* to feminine or plural nouns: ✗ *die Tasche meiner Schwesters* → ✓ *die Tasche meiner Schwester*.",
+      "Using *-s* with n-Deklination nouns: ✗ *das Büro des Kollegens* → ✓ *das Büro des Kollegen*.",
+      "Akkusativ after a Genitiv preposition: ✗ *wegen das Wetter* → ✓ *wegen des Wetters*. (The Dativ *wegen dem Wetter* is everyday speech, not standard written German.)",
+      "Apostrophe with names: ✗ *Anna's Wohnung* (English style; the official rules only tolerate it) → ✓ *Annas Wohnung*. Only names ending in *-s, -ß, -x, -z* take an apostrophe: *Klaus' Auto*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das ist das Auto {{c1::meines::mein}} Bruders.",
+      "en": "That is my brother's car.",
+      "focus": "Genitiv maskulin · Possessivartikel",
+      "explanation": "*meines Bruders* says whose car it is → Genitiv attribute after the noun. *Bruder* is masculine, so *mein* takes the Genitiv ending **-es** (like *des*): **meines**. The noun itself also adds *-s*: *Bruders*.",
+      "pattern": "Nomen + **meines** + Nomen-**s** (Gen. m.)",
+      "mistake": {"wrong": "Das ist das Auto mein Bruders.", "why": "The possessive article needs the Genitiv ending: masculine *mein* → *meines*, just like *der* → *des*."},
+      "examples": [
+        {"de": "Das ist die Wohnung meines Onkels.", "en": "That is my uncle's flat."},
+        {"de": "Kennst du die Freundin deines Cousins?", "en": "Do you know your cousin's girlfriend?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die Farbe {{c1::der::die}} Wand ist schön.",
+      "en": "The colour of the wall is beautiful.",
+      "focus": "Genitiv feminin · bestimmter Artikel",
+      "explanation": "The colour belongs to the wall → *Wand* is a Genitiv attribute. *Wand* is feminine (*die Wand*), and the feminine Genitiv article is **der**. Feminine nouns never add *-s* in the Genitiv: *der Wand*.",
+      "pattern": "Nomen + **der** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Die Farbe des Wand ist schön.", "why": "*des* is the Genitiv article for masculine and neuter nouns. *Wand* is feminine, so the Genitiv is *der Wand*."},
+      "examples": [
+        {"de": "Die Größe der Küche ist ideal.", "en": "The size of the kitchen is ideal."},
+        {"de": "Der Preis der Jacke ist zu hoch.", "en": "The price of the jacket is too high."}
+      ],
+      "words": [{"de": "die Wand (¨-e)", "en": "wall (inside)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das Buch {{c1::des::der}} Lehrers liegt auf dem Tisch.",
+      "en": "The teacher's book is on the table.",
+      "focus": "Genitiv maskulin · bestimmter Artikel",
+      "explanation": "*Lehrer* is masculine, and the book belongs to him → Genitiv: *der* becomes **des**. A masculine noun with more than one syllable adds **-s**: *des Lehrers*.",
+      "pattern": "Nomen + **des** + Nomen-**s** (Gen. m.)",
+      "mistake": {"wrong": "Das Buch des Lehrer liegt auf dem Tisch.", "why": "In the Genitiv singular, masculine nouns need *-(e)s*. The article alone is not enough: *des Lehrers*."},
+      "examples": [
+        {"de": "Die Tasche des Arztes steht neben der Tür.", "en": "The doctor's bag is standing next to the door."},
+        {"de": "Das Zimmer des Gastes ist schon fertig.", "en": "The guest's room is already ready."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Die Mutter {{c1::der::die (Pl.)}} Kinder ist sehr nett.",
+      "en": "The children's mother is very nice.",
+      "focus": "Genitiv Plural · bestimmter Artikel",
+      "explanation": "*Kinder* is plural, and the plural Genitiv article is **der** for all genders. Plural nouns get no Genitiv ending: *der Kinder*. The verb *ist* agrees with the subject *die Mutter*, not with *Kinder*.",
+      "pattern": "Nomen + **der** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Die Mutter des Kinder ist sehr nett.", "why": "*des* is singular (*des Kindes*). *Kinder* is plural, and the plural Genitiv article is *der*."},
+      "examples": [
+        {"de": "Die Namen der Gewinner stehen in der Zeitung.", "en": "The names of the winners are in the newspaper."},
+        {"de": "Die Wünsche der Kunden sind uns wichtig.", "en": "Our customers' wishes are important to us."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Wegen::Grund}} des schlechten Wetters bleiben wir zu Hause.",
+      "en": "Because of the bad weather we're staying home.",
+      "focus": "Präposition mit Genitiv · Ursache",
+      "explanation": "The bad weather is the reason → **wegen** (\"because of\") + Genitiv. *das Wetter* is neuter → *des Wetters*, and the adjective after *des* takes *-en*. Because the prepositional phrase fills the Vorfeld, the verb *bleiben* follows directly.",
+      "pattern": "**wegen** + des + Adj-en + Nomen-s",
+      "mistake": {"wrong": "Wegen das schlechte Wetter bleiben wir zu Hause.", "why": "*wegen* never takes the Akkusativ. In standard German it takes the Genitiv: *wegen des schlechten Wetters*."},
+      "examples": [
+        {"de": "Wegen eines Unfalls ist die Autobahn gesperrt.", "en": "The motorway is closed because of an accident."},
+        {"de": "Wegen der Grippe fehlen heute viele Schüler.", "en": "Many pupils are absent today because of the flu."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Trotz::Gegengrund}} der Kälte gehen wir spazieren.",
+      "en": "Despite the cold we're going for a walk.",
+      "focus": "Präposition mit Genitiv · Gegengrund",
+      "explanation": "The cold would be a reason not to go, but we go anyway → **trotz** (\"despite\") + Genitiv. *die Kälte* is feminine → Genitiv *der Kälte*, without an ending on the noun.",
+      "pattern": "**trotz** + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Obwohl der Kälte gehen wir spazieren.", "why": "*obwohl* is a conjunction and needs a clause with a verb (*Obwohl es kalt ist, …*). Before a noun you need the preposition *trotz*."},
+      "examples": [
+        {"de": "Trotz der Schmerzen hat sie das Rennen beendet.", "en": "Despite the pain she finished the race."},
+        {"de": "Trotz des Verbots parken viele Leute hier.", "en": "Despite the ban many people park here."}
+      ],
+      "words": [{"de": "die Kälte", "en": "the cold"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Während::Zeitraum}} der Ferien fahren wir nach Italien.",
+      "en": "During the holidays we're going to Italy.",
+      "focus": "Präposition mit Genitiv · Zeitraum",
+      "explanation": "The phrase names a period of time → **während** (\"during\") + Genitiv. *Ferien* exists only in the plural, so the Genitiv article is *der*: *während der Ferien*.",
+      "pattern": "**während** + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Während des Ferien fahren wir nach Italien.", "why": "*Ferien* is a plural noun (*die Ferien*). The Genitiv plural article is *der*, not *des*."},
+      "examples": [
+        {"de": "Während der Sommermonate ist das Museum länger geöffnet.", "en": "During the summer months the museum is open longer."},
+        {"de": "Während des Studiums hat er in einer Bar gearbeitet.", "en": "During his studies he worked in a bar."}
+      ],
+      "words": [{"de": "die Ferien (Pl.)", "en": "holidays (school, university)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Statt::Ersatz · kurze Form}} eines Kaffees nehme ich einen Tee.",
+      "en": "Instead of a coffee I'll have a tea.",
+      "focus": "Präposition mit Genitiv · Alternative",
+      "explanation": "The tea replaces the coffee → **statt** (also *anstatt*, \"instead of\") + Genitiv. *der Kaffee* is masculine → *ein* becomes *eines*, and the noun adds *-s*: *eines Kaffees*.",
+      "pattern": "**statt** + eines + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Statt ein Kaffee nehme ich einen Tee.", "why": "*ein Kaffee* is Nominativ. After *statt* the noun is in the Genitiv: *eines Kaffees*."},
+      "examples": [
+        {"de": "Statt eines Geschenks schicken wir eine Karte.", "en": "Instead of a present we're sending a card."},
+        {"de": "Anstatt einer Antwort bekam ich nur ein Lächeln.", "en": "Instead of an answer I only got a smile."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das Ende {{c1::des::der}} Films war traurig.",
+      "en": "The end of the film was sad.",
+      "focus": "Genitiv maskulin · Teil von etwas",
+      "explanation": "The end is a part of the film → Genitiv attribute. *der Film* is masculine → **des**, and the noun adds *-s*: *des Films* (also possible: *des Filmes*).",
+      "pattern": "Nomen + **des** + Nomen-(e)s (Gen. m.)",
+      "mistake": {"wrong": "Das Ende der Films war traurig.", "why": "*Film* is masculine. The Genitiv article *der* is only feminine or plural; masculine is *des Films*."},
+      "examples": [
+        {"de": "Der Anfang des Romans ist etwas langweilig.", "en": "The beginning of the novel is a bit boring."},
+        {"de": "Der Rest des Tages war ruhig.", "en": "The rest of the day was quiet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Der Titel {{c1::des::das}} Buches ist interessant.",
+      "en": "The title of the book is interesting.",
+      "focus": "Genitiv neutral · einsilbiges Nomen",
+      "explanation": "*das Buch* is neuter → Genitiv article **des**. One-syllable masculine and neuter nouns usually add **-es**: *des Buches* (*des Buchs* is also correct).",
+      "pattern": "Nomen + **des** + Nomen-**es** (Gen. n.)",
+      "mistake": {"wrong": "Der Titel des Buch ist interessant.", "why": "Neuter nouns need *-(e)s* in the Genitiv singular: *des Buches* or *des Buchs*."},
+      "examples": [
+        {"de": "Der Wert des Geldes sinkt.", "en": "The value of money is falling."},
+        {"de": "Die Bewohner des Dorfes sind sehr freundlich.", "en": "The inhabitants of the village are very friendly."}
+      ],
+      "words": [{"de": "der Titel (-)", "en": "title"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Die Tasche {{c1::meiner::meine}} Schwester ist neu.",
+      "en": "My sister's bag is new.",
+      "focus": "Genitiv feminin · Possessivartikel",
+      "explanation": "*Schwester* is feminine, so *mein* takes the feminine Genitiv ending **-er** (like *der*): **meiner**. The feminine noun gets no ending: *meiner Schwester*.",
+      "pattern": "Nomen + **meiner** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Die Tasche meines Schwester ist neu.", "why": "*meines* is masculine/neuter. With a feminine noun the Genitiv is *meiner*."},
+      "examples": [
+        {"de": "Das ist das Haus meiner Großmutter.", "en": "That is my grandmother's house."},
+        {"de": "Der Mann deiner Kollegin ist sehr sympathisch.", "en": "Your colleague's husband is very likeable."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Die Häuser {{c1::der::die (Pl.)}} Nachbarn sind alt.",
+      "en": "The neighbours' houses are old.",
+      "focus": "Genitiv Plural · keine Endung am Nomen",
+      "explanation": "*Nachbarn* is plural here, so the Genitiv article is **der**. Plural nouns never take a Genitiv *-s*. *sind* agrees with the plural subject *die Häuser*.",
+      "pattern": "Nomen + **der** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Die Häuser der Nachbarns sind alt.", "why": "Plural nouns get no Genitiv ending. *Nachbarn* is already the full plural form."},
+      "examples": [
+        {"de": "Die Autos der Gäste stehen im Hof.", "en": "The guests' cars are in the courtyard."},
+        {"de": "Die Zimmer der Studenten sind sehr klein.", "en": "The students' rooms are very small."}
+      ],
+      "words": [{"de": "der Nachbar (-n)", "en": "neighbour"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wegen {{c1::des::der}} Lärms konnte ich nicht schlafen.",
+      "en": "Because of the noise I couldn't sleep.",
+      "focus": "Genitiv maskulin · nach Präposition (Grund)",
+      "explanation": "*wegen* takes the Genitiv in standard German. *der Lärm* is masculine → **des**, and the noun adds *-s*: *des Lärms*.",
+      "pattern": "wegen + **des** + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Wegen des Lärm konnte ich nicht schlafen.", "why": "The article *des* is right, but the masculine noun also needs the Genitiv *-s*: *des Lärms*."},
+      "examples": [
+        {"de": "Wegen des Streiks fahren heute keine Busse.", "en": "No buses are running today because of the strike."},
+        {"de": "Wegen des Nebels konnte das Flugzeug nicht landen.", "en": "Because of the fog the plane couldn't land."}
+      ],
+      "words": [{"de": "der Lärm", "en": "noise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Trotz {{c1::seiner::seine}} Krankheit arbeitet er weiter.",
+      "en": "Despite his illness he keeps working.",
+      "focus": "Genitiv feminin · Possessivartikel nach Präposition",
+      "explanation": "*trotz* takes the Genitiv. *Krankheit* is feminine (all nouns in *-heit* are), so *sein* takes the feminine Genitiv ending **-er**: **seiner**.",
+      "pattern": "trotz + **seiner** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Trotz seine Krankheit arbeitet er weiter.", "why": "*seine Krankheit* is Nominativ/Akkusativ. After *trotz* the feminine Genitiv is *seiner Krankheit*."},
+      "examples": [
+        {"de": "Trotz ihrer Angst ist sie geflogen.", "en": "Despite her fear she flew."},
+        {"de": "Trotz unserer Warnung ist er losgefahren.", "en": "Despite our warning he drove off."}
+      ],
+      "words": [{"de": "die Krankheit (-en)", "en": "illness"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Während {{c1::der::die}} Reise hatten wir viel Spaß.",
+      "en": "During the trip we had a lot of fun.",
+      "focus": "Genitiv feminin · nach Präposition (Zeit)",
+      "explanation": "*während* takes the Genitiv. *die Reise* is feminine singular → Genitiv article **der**, and the noun has no ending.",
+      "pattern": "während + **der** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Während die Reise hatten wir viel Spaß.", "why": "*die Reise* is the Nominativ/Akkusativ form. *während* needs the Genitiv: *der Reise*."},
+      "examples": [
+        {"de": "Während der Pause trinken wir einen Kaffee.", "en": "During the break we have a coffee."},
+        {"de": "Während der Sitzung war das Handy aus.", "en": "During the meeting the phone was off."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Der Geruch {{c1::des::der}} Kaffees ist herrlich.",
+      "en": "The smell of the coffee is wonderful.",
+      "focus": "Genitiv maskulin · Nomen auf Vokal",
+      "explanation": "*der Kaffee* is masculine → Genitiv **des**. Nouns ending in a vowel add only **-s**, not *-es*: *des Kaffees*.",
+      "pattern": "Nomen + **des** + Nomen-**s** (Gen. m.)",
+      "mistake": {"wrong": "Der Geruch des Kaffee ist herrlich.", "why": "The masculine noun needs the Genitiv *-s*: *des Kaffees*."},
+      "examples": [
+        {"de": "Die Temperatur des Tees ist perfekt.", "en": "The temperature of the tea is perfect."},
+        {"de": "Die Farbe des Sofas passt nicht zum Teppich.", "en": "The colour of the sofa doesn't match the rug."}
+      ],
+      "words": [{"de": "der Geruch (¨-e)", "en": "smell"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die Hauptstadt {{c1::Deutschlands::Deutschland}} ist Berlin.",
+      "en": "Germany's capital is Berlin.",
+      "focus": "Genitiv · Ländername ohne Artikel",
+      "explanation": "Most country names are neuter and have no article (*Deutschland, Frankreich*). In the Genitiv they simply add **-s**: *Deutschland* → **Deutschlands**. The Genitiv attribute follows the noun *die Hauptstadt*.",
+      "pattern": "Nomen + Ländername-**s**",
+      "mistake": {"wrong": "Die Hauptstadt des Deutschlands ist Berlin.", "why": "Country names without an article stay without one in the Genitiv. Only the *-s* is added: *Deutschlands*."},
+      "examples": [
+        {"de": "Die Küste Frankreichs ist sehr lang.", "en": "France's coast is very long."},
+        {"de": "Die Geschichte Europas ist kompliziert.", "en": "The history of Europe is complicated."}
+      ],
+      "words": [{"de": "die Hauptstadt (¨-e)", "en": "capital city"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir treffen uns innerhalb {{c1::einer::eine}} Woche.",
+      "en": "We'll meet within a week.",
+      "focus": "Genitiv feminin · Präposition für Zeitraum",
+      "explanation": "*innerhalb* (\"within\") takes the Genitiv. *Woche* is feminine, so *eine* takes the feminine Genitiv ending: **einer**. The noun has no ending.",
+      "pattern": "innerhalb + **einer** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Wir treffen uns innerhalb eine Woche.", "why": "*eine Woche* is Nominativ/Akkusativ. *innerhalb* needs the Genitiv *einer Woche* (or *innerhalb von einer Woche*)."},
+      "examples": [
+        {"de": "Bitte antworten Sie innerhalb einer Frist von zehn Tagen.", "en": "Please reply within a period of ten days."},
+        {"de": "Innerhalb einer Stunde war die Wohnung sauber.", "en": "Within an hour the flat was clean."}
+      ],
+      "words": [{"de": "innerhalb (+ Gen.)", "en": "within, inside"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Die Lösung {{c1::der::die}} Aufgabe ist einfach.",
+      "en": "The solution to the task is simple.",
+      "focus": "Genitiv feminin · Nomen + Attribut",
+      "explanation": "*die Aufgabe* is feminine and completes the noun *Lösung* (the solution of what?) → Genitiv article **der**, no ending on the noun. Note: *Antwort* does not work like this; it takes a preposition: *die Antwort auf die Frage*.",
+      "pattern": "Nomen + **der** + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Die Lösung des Aufgabe ist einfach.", "why": "*Aufgabe* is feminine, so the Genitiv article is *der*. *des* is only masculine or neuter."},
+      "examples": [
+        {"de": "Die Bedeutung der Regel ist nicht ganz klar.", "en": "The meaning of the rule is not quite clear."},
+        {"de": "Die Ursache der Störung ist noch unbekannt.", "en": "The cause of the fault is still unknown."}
+      ],
+      "words": [{"de": "die Lösung (-en)", "en": "solution"}],
+      "production_cue": "",
+      "sentence_card": true,
+      "correction": "The original sentence *Die Antwort der Frage ist einfach.* is not idiomatic: German says *die Antwort auf die Frage* (preposition, no Genitiv). Replaced with *Die Lösung der Aufgabe ist einfach.*, which keeps the feminine Genitiv gap *der*."
+    },
+    {
+      "key": "g19",
+      "de": "Das Auto {{c1::meines::mein}} Vaters ist sehr alt.",
+      "en": "My father's car is very old.",
+      "focus": "Genitiv maskulin · Possessivartikel · Subjekt",
+      "explanation": "*Das Auto meines Vaters* is the subject; inside it, *meines Vaters* is the Genitiv attribute. *Vater* is masculine → **meines**, and the noun adds *-s*: *Vaters*.",
+      "pattern": "Nomen + **meines** + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Das Auto meinem Vater ist sehr alt.", "why": "*meinem Vater* is Dativ. The Dativ is only possible with *von*: *das Auto von meinem Vater* (spoken). Without *von* you need the Genitiv: *meines Vaters*."},
+      "examples": [
+        {"de": "Die Firma unseres Vaters existiert seit 1970.", "en": "Our father's company has existed since 1970."},
+        {"de": "Der Garten ihres Opas ist riesig.", "en": "Her grandpa's garden is huge."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Das Büro des neuen {{c1::Kollegen::Kollege}} ist im dritten Stock.",
+      "en": "The new colleague's office is on the third floor.",
+      "focus": "Genitiv maskulin · n-Deklination",
+      "explanation": "*Kollege* belongs to the n-Deklination: in every case except the Nominativ singular it ends in *-n*. In the Genitiv it gets **-n** only, never an extra *-s*: *des neuen* **Kollegen**. The adjective after *des* takes *-en*.",
+      "pattern": "des + Adj-en + Nomen-**(e)n** (Gen. m., n-Deklination)",
+      "mistake": {"wrong": "Das Büro des neuen Kollegens ist im dritten Stock.", "why": "n-Deklination nouns do not take the Genitiv *-s*. *des Kollegen*, *des Studenten*, *des Kunden*. (A few nouns like *Name* take both: *des Namens*.)"},
+      "examples": [
+        {"de": "Die Rede des Präsidenten war kurz.", "en": "The president's speech was short."},
+        {"de": "Die Wünsche des Kunden stehen im Vertrag.", "en": "The customer's wishes are in the contract."}
+      ],
+      "words": [{"de": "der Stock", "en": "floor, storey"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Fenster des alten {{c1::Hauses::Haus}} müssen erneuert werden.",
+      "en": "The windows of the old house have to be replaced.",
+      "focus": "Genitiv neutral · Nomen auf *-s*",
+      "explanation": "*das Haus* is neuter → Genitiv *des*. Nouns that end in *-s, -ß, -z, -x* must take **-es** in the Genitiv, because a single *-s* would not be heard: *des Hauses*. The adjective takes *-en*: *des alten*.",
+      "pattern": "des + Adj-en + Nomen-**es** (Gen. n.)",
+      "mistake": {"wrong": "Die Fenster des alten Haus müssen erneuert werden.", "why": "The neuter noun needs a Genitiv ending, and after *-s* it is always *-es*: *des Hauses*."},
+      "examples": [
+        {"de": "Die Wände des Hauses sind sehr dick.", "en": "The walls of the house are very thick."},
+        {"de": "Der Preis des Kurses ist gestiegen.", "en": "The price of the course has gone up."}
+      ],
+      "words": [{"de": "erneuern", "en": "to replace, to renew"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Qualität des {{c1::frischen::frisch}} Gemüses ist hier sehr gut.",
+      "en": "The quality of the fresh vegetables is very good here.",
+      "focus": "Genitiv neutral · Adjektivendung",
+      "explanation": "*das Gemüse* is neuter → Genitiv *des Gemüses*. After *des* the adjective is weak, and every Genitiv slot takes **-en**: frisch + -en → **frischen**.",
+      "pattern": "des + Adj-**en** + Nomen-s (Gen. n.)",
+      "mistake": {"wrong": "Die Qualität des frisches Gemüses ist hier sehr gut.", "why": "*des* already carries the strong signal, so the adjective is weak: *-en*, not *-es*."},
+      "examples": [
+        {"de": "Der Preis des neuen Modells ist noch geheim.", "en": "The price of the new model is still secret."},
+        {"de": "Die Folgen des heißen Sommers sind überall sichtbar.", "en": "The effects of the hot summer are visible everywhere."}
+      ],
+      "words": [{"de": "das Gemüse", "en": "vegetables"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wir übernachten in der Wohnung {{c1::eines::ein}} guten Freundes.",
+      "en": "We're staying overnight in a good friend's flat.",
+      "focus": "Genitiv maskulin · unbestimmter Artikel + Adjektiv",
+      "explanation": "*Freund* is masculine, and the indefinite article in the Genitiv is **eines** (it has the strong *-es* ending). The adjective after *eines* is therefore weak: *guten*, and the noun adds *-es*: *Freundes*.",
+      "pattern": "Nomen + **eines** + Adj-en + Nomen-(e)s (Gen. m.)",
+      "mistake": {"wrong": "Wir übernachten in der Wohnung einem guten Freund.", "why": "*einem guten Freund* is Dativ. A noun that completes another noun without a preposition is Genitiv: *eines guten Freundes*."},
+      "examples": [
+        {"de": "Das ist der Rat eines erfahrenen Arztes.", "en": "That is the advice of an experienced doctor."},
+        {"de": "Das ist die Idee eines jungen Designers.", "en": "That is the idea of a young designer."}
+      ],
+      "words": [{"de": "übernachten", "en": "to stay overnight"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Nach Meinung {{c1::vieler::viele}} Experten ist das Risiko gering.",
+      "en": "According to many experts, the risk is low.",
+      "focus": "Genitiv Plural · ohne Artikel",
+      "explanation": "*viele Experten* is plural and has no article. In this case the Genitiv signal goes onto *viel-*: the strong plural Genitiv ending **-er** → **vieler**. *Nach Meinung* + Genitiv is a fixed formal expression.",
+      "pattern": "Nomen + **vieler** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Nach Meinung viele Experten ist das Risiko gering.", "why": "Without an article the Genitiv must be shown on *viel-*: *vieler Experten*. *viele* is Nominativ/Akkusativ."},
+      "examples": [
+        {"de": "Das ist der Wunsch vieler Eltern.", "en": "That is the wish of many parents."},
+        {"de": "Die Wohnungen einiger Mieter wurden beschädigt.", "en": "The flats of some tenants were damaged."}
+      ],
+      "words": [{"de": "der Experte (-n)", "en": "expert"}, {"de": "gering", "en": "low, small"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Annas::Anna}} Bruder studiert in Wien.",
+      "en": "Anna's brother studies in Vienna.",
+      "focus": "Genitiv · Personenname",
+      "explanation": "A person's name in the Genitiv stands **before** the noun and adds **-s**, normally with no apostrophe: *Anna* → **Annas**. The noun after it has no article: *Annas Bruder*, not *der Annas Bruder*.",
+      "pattern": "Name-**s** + Nomen (ohne Artikel)",
+      "mistake": {"wrong": "Der Annas Bruder studiert in Wien.", "why": "A name in the Genitiv before the noun takes the place of the article, so the noun cannot have its own article: *Annas Bruder* (or, in speech, *der Bruder von Anna*)."},
+      "examples": [
+        {"de": "Peters Wohnung liegt direkt am Bahnhof.", "en": "Peter's flat is right by the station."},
+        {"de": "Hast du Marias neue Telefonnummer?", "en": "Do you have Maria's new phone number?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Außerhalb::outside (of)}} der Öffnungszeiten erreichen Sie uns per E-Mail.",
+      "en": "Outside opening hours you can reach us by email.",
+      "focus": "Präposition mit Genitiv · Zeit/Ort",
+      "explanation": "**außerhalb** (\"outside\") is the opposite of *innerhalb* and takes the Genitiv. *Öffnungszeiten* is plural → *der Öffnungszeiten*. Because the phrase fills the Vorfeld, the verb *erreichen* is in position 2.",
+      "pattern": "**außerhalb** + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Außerhalb die Öffnungszeiten erreichen Sie uns per E-Mail.", "why": "*außerhalb* takes the Genitiv. The plural Genitiv article is *der*, not *die*."},
+      "examples": [
+        {"de": "Außerhalb der Stadt sind die Mieten günstiger.", "en": "Outside the city the rents are cheaper."},
+        {"de": "Er wohnt außerhalb des Zentrums.", "en": "He lives outside the centre."}
+      ],
+      "words": [{"de": "die Öffnungszeiten (Pl.)", "en": "opening hours"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Wessen::wer → Gen.}} Schlüssel liegt hier auf dem Tisch?",
+      "en": "Whose key is lying here on the table?",
+      "focus": "Genitiv · Fragewort",
+      "explanation": "The question word for the Genitiv is **wessen** (\"whose\"), the Genitiv of *wer*. It stands directly before the noun, which then has no article: *Wessen Schlüssel …?*",
+      "pattern": "**Wessen** + Nomen + Verb …?",
+      "mistake": {"wrong": "Wer Schlüssel liegt hier auf dem Tisch?", "why": "*wer* is Nominativ (\"who\"). To ask about the owner of a thing, use the Genitiv *wessen*."},
+      "examples": [
+        {"de": "Wessen Idee war das?", "en": "Whose idea was that?"},
+        {"de": "Wessen Jacke hängt an der Tür?", "en": "Whose jacket is hanging on the door?"}
+      ],
+      "words": [{"de": "der Schlüssel (-)", "en": "key"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Trotz der {{c1::hohen::hoch}} Kosten wird das Projekt fortgesetzt.",
+      "en": "Despite the high costs, the project is being continued.",
+      "focus": "Genitiv Plural · Adjektiv nach *der*",
+      "explanation": "*trotz* takes the Genitiv, and *Kosten* exists only in the plural → *der Kosten*. After *der* the adjective takes **-en**, and *hoch* loses its *c* before an ending: hoch → **hohen**.",
+      "pattern": "trotz + der + Adj-**en** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Trotz der hohe Kosten wird das Projekt fortgesetzt.", "why": "*der* here is Genitiv plural, not masculine Nominativ. All Genitiv and plural forms after an article take *-en*: *der hohen Kosten*."},
+      "examples": [
+        {"de": "Trotz der guten Noten hat er keinen Studienplatz bekommen.", "en": "Despite the good grades he didn't get a university place."},
+        {"de": "Trotz der vielen Touristen war es im Museum ruhig.", "en": "Despite the many tourists it was quiet in the museum."}
+      ],
+      "words": [{"de": "die Kosten (Pl.)", "en": "costs"}, {"de": "fortsetzen", "en": "to continue"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Zukunft {{c1::unserer::unser}} Kinder liegt uns am Herzen.",
+      "en": "Our children's future is close to our hearts.",
+      "focus": "Genitiv Plural · Possessivartikel",
+      "explanation": "*Kinder* is plural, and the possessive article takes the plural Genitiv ending **-er** (like *der*): *unser* + -er → **unserer**. The plural noun has no ending.",
+      "pattern": "Nomen + **unserer** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Die Zukunft unseren Kinder liegt uns am Herzen.", "why": "*unseren* is Dativ plural (and would need *Kindern*). The Genitiv plural ending is *-er*: *unserer Kinder*."},
+      "examples": [
+        {"de": "Die Sicherheit unserer Mitarbeiter hat Priorität.", "en": "The safety of our employees has priority."},
+        {"de": "Die Meinungen meiner Freunde sind mir wichtig.", "en": "My friends' opinions are important to me."}
+      ],
+      "words": [{"de": "jemandem am Herzen liegen", "en": "to be important to someone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Aufgrund eines technischen {{c1::Problems::Problem}} fällt der Zug heute aus.",
+      "en": "Due to a technical problem, the train is cancelled today.",
+      "focus": "Genitiv neutral · formelle Präposition",
+      "explanation": "*aufgrund* (\"due to\") is a formal Genitiv preposition, typical in announcements. *das Problem* is neuter, so after *eines technischen* the noun needs the Genitiv **-s**: **Problems**.",
+      "pattern": "aufgrund + eines + Adj-en + Nomen-**s** (Gen. n.)",
+      "mistake": {"wrong": "Aufgrund eines technischen Problem fällt der Zug heute aus.", "why": "Masculine and neuter nouns need *-(e)s* in the Genitiv singular, also after *eines*: *eines technischen Problems*."},
+      "examples": [
+        {"de": "Aufgrund eines schweren Unfalls ist die Strecke gesperrt.", "en": "Due to a serious accident, the line is closed."},
+        {"de": "Aufgrund eines kurzen Stromausfalls funktionierte das System nicht.", "en": "Due to a short power cut, the system didn't work."}
+      ],
+      "words": [{"de": "aufgrund (+ Gen.)", "en": "due to, because of"}, {"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Hauptstadt {{c1::der::die}} Schweiz ist Bern.",
+      "en": "The capital of Switzerland is Bern.",
+      "focus": "Genitiv feminin · Ländername mit Artikel",
+      "explanation": "A few country names always have an article, e.g. *die Schweiz, die Türkei* (feminine) and *die USA* (plural). Their Genitiv is formed with the article: feminine → **der Schweiz**, with no *-s*.",
+      "pattern": "Nomen + **der** + Ländername (Gen. f.)",
+      "mistake": {"wrong": "Die Hauptstadt Schweiz ist Bern.", "why": "*die Schweiz* always has its article. Without it the Genitiv is not marked; the correct form is *der Schweiz*."},
+      "examples": [
+        {"de": "Die Bevölkerung der Türkei ist sehr jung.", "en": "Turkey's population is very young."},
+        {"de": "Der Präsident der USA besucht Berlin.", "en": "The President of the USA is visiting Berlin."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Genitiv articles.",
+      "prompt": "What are the Genitiv forms of the definite article, the indefinite article and *mein*?",
+      "answer": "Masculine and neuter: **des / eines / meines** (+ noun **-(e)s**). Feminine and plural: **der / einer / meiner** (no noun ending; no plural of *ein*).",
+      "explanation": "The Genitiv has only two article patterns: *-es* for masculine and neuter, *-er* for feminine and plural. This is why *der* can be feminine Genitiv or Genitiv plural, and you must check the noun.",
+      "examples": [
+        {"de": "Die Tür des Autos klemmt.", "en": "The car door is stuck."},
+        {"de": "Die Türen der Autos sind offen.", "en": "The doors of the cars are open."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the noun endings in the Genitiv.",
+      "prompt": "When does a noun take *-es*, *-s*, *-(e)n* or no ending in the Genitiv?",
+      "answer": "**-es**: always after *-s, -ß, -z, -x* (*des Hauses*), often after one syllable (*des Buches*). **-s**: most longer masculine/neuter nouns (*des Lehrers, des Kaffees*). **-(e)n**: n-Deklination (*des Kollegen*). **No ending**: feminine and plural nouns.",
+      "explanation": "With many one-syllable nouns both forms are correct (*des Buchs / des Buches*). The n-Deklination is the main trap: these masculine nouns end in *-n* in the Genitiv and take no *-s*.",
+      "examples": [
+        {"de": "Die Farbe des Kleides gefällt mir.", "en": "I like the colour of the dress."},
+        {"de": "Das ist das Zimmer des Praktikanten.", "en": "That is the intern's room."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about Genitiv prepositions.",
+      "prompt": "Which common prepositions take the Genitiv, and what happens to them in everyday speech?",
+      "answer": "**wegen** (because of), **trotz** (despite), **während** (during), **(an)statt** (instead of), **innerhalb / außerhalb** (inside / outside), **aufgrund** (due to). In speech many people use the Dativ (*wegen dem Regen*), but written standard German uses the Genitiv.",
+      "explanation": "In exams and formal writing always use the Genitiv. *innerhalb* and *außerhalb* can also be used with *von* + Dativ, especially when there is no article: *innerhalb von zwei Tagen*.",
+      "examples": [
+        {"de": "Während des Konzerts ist Fotografieren verboten.", "en": "Taking photos is forbidden during the concert."},
+        {"de": "Innerhalb von zwei Tagen war alles erledigt.", "en": "Within two days everything was done."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about Genitiv with names and with *von*.",
+      "prompt": "How do you form the Genitiv of a person's name, and when do you use *von* + Dativ instead of the Genitiv?",
+      "answer": "Name + **-s**, placed before the noun, normally no apostrophe: *Lisas Auto*; names ending in *-s/-ß/-x/-z* take only an apostrophe: *Klaus' Auto*. Use **von + Dativ** in speech and when a plural noun has no article, so the Genitiv would not be visible: *die Preise von Wohnungen*.",
+      "explanation": "*die Preise Wohnungen* is impossible because the Genitiv is not marked. With an adjective the Genitiv works again: *die Preise neuer Wohnungen*.",
+      "examples": [
+        {"de": "Das ist Jonas' Fahrrad.", "en": "That is Jonas's bike."},
+        {"de": "Der Verkauf von Zigaretten an Kinder ist verboten.", "en": "The sale of cigarettes to children is forbidden."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the position of the Genitiv.",
+      "prompt": "Where does a Genitiv attribute stand in relation to its noun?",
+      "answer": "A normal Genitiv attribute stands **after** the noun: *das Auto meines Bruders*. Only names (and in poetic style a few other nouns) stand **before** the noun, which then loses its article: *Peters Auto*.",
+      "explanation": "English *my brother's car* puts the owner first, but German puts it after the noun. The whole group is one noun phrase and can be the subject, an object or follow a preposition.",
+      "examples": [
+        {"de": "Der Hund unserer Nachbarin bellt die ganze Nacht.", "en": "Our neighbour's dog barks all night."},
+        {"de": "Sophies Hund bellt nie.", "en": "Sophie's dog never barks."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace *von* + Dativ with the Genitiv.",
+      "prompt": "Das ist das Fahrrad von meiner Schwester.",
+      "answer": "Das ist das Fahrrad meiner Schwester.",
+      "explanation": "*von meiner Schwester* is the spoken form. In the Genitiv *von* disappears, and feminine *meine* takes the Genitiv ending *-er*: *meiner Schwester*. The form looks like the Dativ, but here it is Genitiv."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the *weil*-clause with *wegen* + Genitiv.",
+      "prompt": "Weil der Verkehr stark war, kamen wir zu spät.",
+      "answer": "Wegen des starken Verkehrs kamen wir zu spät.",
+      "explanation": "The clause becomes a noun phrase: *der Verkehr* → Genitiv *des Verkehrs*, and the predicative *stark* becomes an attributive adjective with *-en*: *des starken Verkehrs*. The main clause keeps the verb in position 2."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite in standard written German (use the Genitiv).",
+      "prompt": "Trotz dem Regen haben wir gegrillt.",
+      "answer": "Trotz des Regens haben wir gegrillt.",
+      "explanation": "*trotz dem* is colloquial. In written German *trotz* takes the Genitiv: *der Regen* (masculine) → *des Regens*, with *-s* on the noun."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Use the Genitiv of the name instead of *von*.",
+      "prompt": "Das ist die Tasche von Julia.",
+      "answer": "Das ist Julias Tasche.",
+      "explanation": "With a name, the Genitiv stands before the noun: *Julia* + *-s* → *Julias*. The article *die* disappears, and there is no apostrophe."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist das Haus meinem Onkel.",
+      "answer": "Das ist das Haus meines Onkels.",
+      "explanation": "Without a preposition, a noun that shows the owner of another noun is Genitiv. *Onkel* is masculine → *meines Onkels* (article *-es*, noun *-s*). *meinem Onkel* is Dativ."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Name des Hotel ist schwer zu merken.",
+      "answer": "Der Name des Hotels ist schwer zu merken.",
+      "explanation": "*das Hotel* is neuter. After *des* the noun also needs the Genitiv *-s*: *des Hotels*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist das Zimmer des Studentens.",
+      "answer": "Das ist das Zimmer des Studenten.",
+      "explanation": "*Student* belongs to the n-Deklination. Its Genitiv singular is *des Studenten*, without *-s*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Farbe die Tasche gefällt mir.",
+      "answer": "Die Farbe der Tasche gefällt mir.",
+      "explanation": "*die Tasche* completes the noun *Farbe* (whose colour?), so it must be Genitiv. Feminine Genitiv → *der Tasche*."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Wegen ___ Streiks fallen viele Züge aus.",
+      "options": ["des", "dem", "der", "den"],
+      "correct": "des",
+      "answer": "Wegen des Streiks fallen viele Züge aus.",
+      "explanation": "*der Streik* is masculine, and *wegen* takes the Genitiv → *des Streiks*; the *-s* on the noun confirms it. *dem* is Dativ (colloquial), *der* would be feminine or plural, and *den* is Akkusativ."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct possessive article.",
+      "prompt": "Das ist das Büro ___ Chefin.",
+      "options": ["meiner", "meines", "meine", "meinem"],
+      "correct": "meiner",
+      "answer": "Das ist das Büro meiner Chefin.",
+      "explanation": "*Chefin* is feminine, and it is a Genitiv attribute of *das Büro* → *meiner*. *meines* is masculine/neuter Genitiv, *meine* is Nominativ/Akkusativ, and *meinem* is Dativ masculine/neuter."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct adjective form.",
+      "prompt": "Am Ende des ___ Tages war ich sehr müde.",
+      "options": ["langen", "lange", "langes"],
+      "correct": "langen",
+      "answer": "Am Ende des langen Tages war ich sehr müde.",
+      "explanation": "*des Tages* is masculine Genitiv. After the article every Genitiv adjective ends in *-en*. *lange* is only for the Nominativ singular (*der lange Tag*) and the Akkusativ f/n singular, and *langes* is a strong neuter ending."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order.",
+      "prompt": "wohnen / meines Mannes / in Hamburg / die Eltern",
+      "answer": "Die Eltern meines Mannes wohnen in Hamburg.",
+      "explanation": "*meines Mannes* is a Genitiv attribute and must stay directly after *die Eltern*; together they form the subject in the Vorfeld. Also possible: *In Hamburg wohnen die Eltern meines Mannes.*"
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence with a Genitiv attribute.",
+      "prompt": "Meine Freundin hat einen Hund. Der Hund heißt Bello.",
+      "answer": "Der Hund meiner Freundin heißt Bello.",
+      "explanation": "The owner becomes a Genitiv attribute after *der Hund*. *meine Freundin* is feminine → *meiner Freundin*, with no ending on the noun."
+    }
+  ]
+}

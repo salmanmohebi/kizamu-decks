@@ -1,0 +1,1111 @@
+{
+  "topic_id": "b2-16-wortbildung-suffixe",
+  "level": "B2",
+  "title_de": "Wortbildung mit Adjektivsuffixen",
+  "title_en": "Word formation with adjective suffixes",
+  "rule": {
+    "summary": "German builds many adjectives from verbs, nouns and adverbs with a suffix. Each suffix has a typical meaning: **-bar** 'can be …-ed', **-lich** 'related to / like', **-ig** 'having …', **-isch** 'of a type or origin', **-sam** 'tending to', **-haft** 'like / with …', **-los** 'without', **-frei** 'free of', **-voll** 'full of', **-arm / -reich** 'with little / much'. If you know the suffixes, you can decode new words in texts and form precise adjectives yourself. Before a noun the new adjective takes the normal endings (*eine persönliche Frage*).",
+    "table": "| Suffix | Basis | Bedeutung | Beispiele |\n|---|---|---|---|\n| **-bar** | transitives Verb | kann …t werden | mach**bar**, lös**bar**, unbezahl**bar** |\n| **-lich** | Nomen, Verb | Bezug, Art; bei Verben auch 'kann …t werden' | beruf**lich**, ärzt**lich**, verständ**lich** |\n| **-ig** | Nomen, Adverb | hat …; Zeit: Dauer | schmutz**ig**, heut**ig**, zweistünd**ig** |\n| **-isch** | Nomen, Fremdwort, Land | Herkunft, Art; bei Personen oft abwertend | polit**isch**, japan**isch**, kind**isch** |\n| **-sam** | Verb | Neigung | spar**sam**, wirk**sam** |\n| **-haft** | Nomen | wie …, mit … | fehler**haft**, schmerz**haft** |\n| **-los** | Nomen | ohne … | arbeits**los**, hoffnungs**los** |\n| **-frei** | Nomen | ohne etwas Unerwünschtes | alkohol**frei**, schmerz**frei** |\n| **-voll** | Nomen | mit viel … | liebe**voll**, sinn**voll** |\n| **-arm / -reich** | Nomen | wenig / viel … | fett**arm**, vitamin**reich** |",
+    "steps": [
+      "Find the base: a verb stem (*mach-en → mach-*), a noun (*Schmutz*) or an adverb (*heute*).",
+      "Choose the suffix by meaning: possibility → *-bar*; without → *-los* (or *-frei* for something unwanted); with a lot → *-voll* / *-reich*; tendency → *-sam*; relation → *-lich*; foreign nouns in *-ik* and countries → *-isch*.",
+      "Apply the sound changes: umlaut is frequent with *-lich* and *-ig* (*Arzt → ärztlich, Stunde → stündig*); a final *-e* of the base drops (*Ruhe → ruhig, heute → heutig*); *-ik* is replaced by *-isch* (*Politik → politisch*).",
+      "Add the linking *-s-* (Fugen-s) after *-ung, -heit, -keit, -ion* and some other nouns before *-los / -voll*: *hoffnungslos, verantwortungsvoll*.",
+      "Negate with *un-* where it is possible (*unlesbar, unverständlich*), and add the normal adjective ending before a noun (*eine sinnlose Diskussion*)."
+    ],
+    "pitfalls": [
+      "Wrong suffix for possibility: ✗ *lösenbar* / ✗ *umkehrlich* → ✓ *lösbar* / ✓ *umkehrbar*. *-bar* is added to the verb stem, never to the full infinitive.",
+      "Missing linking *-s-*: ✗ *rücksichtlos, verantwortungvoll* → ✓ *rücksichtslos, verantwortungsvoll*.",
+      "Confusing duration and repetition: ✗ *eine zweistündliche Besprechung* ('every two hours') → ✓ *eine zweistündige Besprechung* ('lasting two hours').",
+      "Confusing neutral and negative forms: *kindlich* (childlike) ≠ *kindisch* (childish); *-frei* ≠ *-los*: ✗ *Die Patientin ist schmerzlos.* → ✓ *Die Patientin ist schmerzfrei.*",
+      "Using an adverb or noun directly before a noun as in English: ✗ *die heute Sitzung* → ✓ *die heutige Sitzung*; ✗ *ein Japan Unternehmen* → ✓ *ein japanisches Unternehmen*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Diese Aufgabe ist gut {{c1::machbar::machen}}.",
+      "en": "This task is quite doable.",
+      "focus": "Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*machen* is transitive (*etwas machen*), so it can form a -bar adjective. Drop the infinitive ending: *mach-* + **-bar** → **machbar** = 'can be done'. The sentence means *Diese Aufgabe lässt sich gut machen* ('can be done without great problems').",
+      "pattern": "sein + Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Diese Aufgabe ist gut machlich.",
+        "why": "*machlich* does not exist. The productive suffix for 'can be …-ed' is *-bar*, added to the verb stem: *mach-* + *-bar*."
+      },
+      "examples": [
+        {
+          "de": "Der Plan ist mit wenig Geld umsetzbar.",
+          "en": "The plan can be carried out with little money."
+        },
+        {
+          "de": "Die Ergebnisse sind jederzeit überprüfbar.",
+          "en": "The results can be checked at any time."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ihre Schrift ist kaum {{c1::lesbar::lesen}}.",
+      "en": "Her handwriting is barely readable.",
+      "focus": "Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*lesen* → stem *les-* + **-bar** → **lesbar** = 'can be read'. *kaum* ('hardly') weakens it almost to a negation. For handwriting, German also uses the *-lich* form: *Ihre Schrift ist kaum leserlich*; the opposite is *unleserlich*.",
+      "pattern": "kaum + Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Ihre Schrift ist kaum lesenbar.",
+        "why": "*-bar* is added to the verb stem, not to the infinitive: *les-* + *-bar* → *lesbar*."
+      },
+      "examples": [
+        {
+          "de": "Die alte Datei ist nicht mehr abspielbar.",
+          "en": "The old file can no longer be played."
+        },
+        {
+          "de": "Das Display ist auch in der Sonne gut erkennbar.",
+          "en": "The display is easy to see even in the sun."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Schrift",
+          "en": "handwriting"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Diese Pilze sind {{c1::essbar::essen}}.",
+      "en": "These mushrooms are edible.",
+      "focus": "Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*essen* → stem *ess-* + **-bar** → **essbar** = 'can be eaten (without danger)'. The double *s* of the stem stays. The opposite for mushrooms is *giftig*; food that tastes too bad to eat is *ungenießbar*.",
+      "pattern": "sein + Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Diese Pilze sind esslich.",
+        "why": "*esslich* does not exist. The 'can be …-ed' adjective of *essen* is formed with *-bar*: *essbar*."
+      },
+      "examples": [
+        {
+          "de": "Diese Beeren sind leider nicht genießbar.",
+          "en": "Unfortunately these berries are not fit to eat."
+        },
+        {
+          "de": "Die Verpackung ist vollständig recycelbar.",
+          "en": "The packaging is fully recyclable."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Pilz (-e)",
+          "en": "mushroom"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Mein Kollege ist sehr {{c1::freundlich::Freund}}.",
+      "en": "My colleague is very friendly.",
+      "focus": "Nomen → Adjektiv · Art und Weise",
+      "explanation": "*-lich* added to a person noun describes typical behaviour: *Freund* + **-lich** → **freundlich** = 'friendly, behaving like a friend'. Here it is predicative after *sein*, so it has no ending. Same type: *väterlich, herzlich*.",
+      "pattern": "sein + Nomen-**lich**",
+      "mistake": {
+        "wrong": "Mein Kollege ist sehr freundig.",
+        "why": "*-ig* means 'having something' (*schmutzig*). The adjective from *Freund* is formed with *-lich*: *freundlich*."
+      },
+      "examples": [
+        {
+          "de": "Der Empfang im Hotel war sehr herzlich.",
+          "en": "The welcome at the hotel was very warm."
+        },
+        {
+          "de": "Unser Betreuer war immer hilfsbereit und väterlich.",
+          "en": "Our supervisor was always helpful and fatherly."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das ist eine {{c1::persönliche::Person}} Frage.",
+      "en": "That's a personal question.",
+      "focus": "Nomen → Adjektiv · Bezug, attributiv",
+      "explanation": "*Person* + **-lich** → *persönlich* = 'personal, concerning a person'; the *o* becomes *ö* (umlaut). Before the noun it needs an ending: *Frage* is feminine Nominativ after *eine* → **-e** → **persönliche**.",
+      "pattern": "eine + Nomen-**lich-e** + Nomen (f.)",
+      "mistake": {
+        "wrong": "Das ist eine personliche Frage.",
+        "why": "*-lich* causes umlaut here: *Person → persönlich*. Without the umlaut the word does not exist."
+      },
+      "examples": [
+        {
+          "de": "Sie hat eine gründliche Analyse vorgelegt.",
+          "en": "She presented a thorough analysis."
+        },
+        {
+          "de": "Morgen habe ich eine mündliche Prüfung.",
+          "en": "Tomorrow I have an oral exam."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Mein Hemd ist {{c1::schmutzig::Schmutz}}.",
+      "en": "My shirt is dirty.",
+      "focus": "Nomen → Adjektiv · 'hat …'",
+      "explanation": "*-ig* added to a noun means 'having / full of': *Schmutz* + **-ig** → **schmutzig** = 'with dirt on it'. Many everyday adjectives work this way: *sandig, salzig, staubig*. Predicative after *sein* → no ending.",
+      "pattern": "sein + Nomen-**ig**",
+      "mistake": {
+        "wrong": "Mein Hemd ist schmutzlich.",
+        "why": "For 'having dirt' German uses *-ig*. *schmutzlich* does not exist."
+      },
+      "examples": [
+        {
+          "de": "Die alten Möbel im Keller waren ganz staubig.",
+          "en": "The old furniture in the basement was very dusty."
+        },
+        {
+          "de": "Die Suppe ist mir zu salzig.",
+          "en": "The soup is too salty for me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Diese Fernsehsendung ist sehr {{c1::lustig::Lust}}.",
+      "en": "This TV show is very funny.",
+      "focus": "Nomen → Adjektiv · Bedeutungswandel",
+      "explanation": "*Lust* + **-ig** → **lustig**. The meaning has moved away from the noun: *Lust* is 'desire, wish', but *lustig* means 'funny, amusing'. So the suffix gives a hint, but the dictionary meaning still has to be learned.",
+      "pattern": "sein + Nomen-**ig**",
+      "mistake": {
+        "wrong": "Diese Fernsehsendung ist sehr lustlich.",
+        "why": "*lustlich* does not exist. The adjective of *Lust* is formed with *-ig*: *lustig*."
+      },
+      "examples": [
+        {
+          "de": "Der Abend mit den Kollegen war richtig witzig.",
+          "en": "The evening with the colleagues was really funny."
+        },
+        {
+          "de": "Nach dem Training sind alle sehr durstig.",
+          "en": "After training everyone is very thirsty."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich trinke nur {{c1::alkoholfreie::Alkohol}} Getränke.",
+      "en": "I only drink non-alcoholic drinks.",
+      "focus": "Nomen → Adjektiv · ohne etwas Unerwünschtes",
+      "explanation": "*-frei* means 'free of something one does not want': *Alkohol* + **-frei** → *alkoholfrei*. Before the plural noun *Getränke* without an article, the adjective takes the strong Akkusativ plural ending **-e** → **alkoholfreie**.",
+      "pattern": "Nomen-**frei-e** + Nomen (Pl., ohne Artikel)",
+      "mistake": {
+        "wrong": "Ich trinke nur alkohollose Getränke.",
+        "why": "For products that do not contain an unwanted substance German uses *-frei*: *alkoholfrei, zuckerfrei, glutenfrei*. *alkohollos* is not used."
+      },
+      "examples": [
+        {
+          "de": "Wir kaufen nur glutenfreie Produkte.",
+          "en": "We only buy gluten-free products."
+        },
+        {
+          "de": "Viele Eltern suchen zuckerfreie Süßigkeiten.",
+          "en": "Many parents are looking for sugar-free sweets."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie ist eine {{c1::liebevolle::Liebe}} Mutter.",
+      "en": "She is a loving mother.",
+      "focus": "Nomen → Adjektiv · 'mit viel …'",
+      "explanation": "*-voll* means 'full of': *Liebe* + **-voll** → *liebevoll*; the final *-e* of *Liebe* stays here. *Mutter* is feminine Nominativ after *eine* → **-e** → **liebevolle**.",
+      "pattern": "eine + Nomen-**voll-e** + Nomen (f.)",
+      "mistake": {
+        "wrong": "Sie ist eine liebige Mutter.",
+        "why": "'Full of love' is formed with *-voll*: *liebevoll*. *liebig* does not exist."
+      },
+      "examples": [
+        {
+          "de": "Sie hat eine sehr anspruchsvolle Stelle.",
+          "en": "She has a very demanding job."
+        },
+        {
+          "de": "Das war eine wirkungsvolle Rede.",
+          "en": "That was an effective speech."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er hat keinen {{c1::sinnvollen::Sinn}} Vorschlag gemacht.",
+      "en": "He didn't make a single sensible suggestion.",
+      "focus": "Nomen → Adjektiv · 'mit …', attributiv",
+      "explanation": "*Sinn* + **-voll** → *sinnvoll* = 'sensible, useful, making sense'. *Vorschlag* is masculine Akkusativ after *keinen* → **-en** → **sinnvollen**. Note: *sinnvoll* is not 'significant'; a 'meaningful difference' is *ein nennenswerter / deutlicher Unterschied*.",
+      "pattern": "keinen + Nomen-**voll-en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Er hat keinen sinnvoll Vorschlag gemacht.",
+        "why": "A derived adjective before a noun needs the normal ending. *Vorschlag* is masculine Akkusativ after *keinen* → *sinnvollen*."
+      },
+      "examples": [
+        {
+          "de": "Wir suchen eine sinnvolle Lösung für alle.",
+          "en": "We are looking for a sensible solution for everyone."
+        },
+        {
+          "de": "Das ist ein wertvoller Hinweis.",
+          "en": "That is a valuable hint."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "correction": "The legacy sentence *Das macht keinen sinnvollen Unterschied.* is a calque of English 'a meaningful difference'. *sinnvoll* means 'sensible', so the phrase is unnatural; the sentence was replaced, keeping the answer *sinnvollen*.",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Er ist seit Jahren {{c1::arbeitslos::Arbeit}}.",
+      "en": "He has been unemployed for years.",
+      "focus": "Nomen → Adjektiv · 'ohne'",
+      "explanation": "*-los* means 'without': *Arbeit* + **-los** → **arbeitslos** = 'without work, unemployed'. Note the linking **-s-** (Fugen-s) between *Arbeit* and *-los*: *Arbeit-s-los*, as in the compound *Arbeitsplatz*. *seit Jahren* + Präsens expresses a state that is still true.",
+      "pattern": "sein + Nomen + **s** + **los**",
+      "mistake": {
+        "wrong": "Er ist seit Jahren arbeitsfrei.",
+        "why": "*-frei* describes freedom from something unwanted (*arbeitsfrei* = a day off work). Being without a job is *arbeitslos*."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Hochwasser waren viele Familien obdachlos.",
+          "en": "After the flood many families were homeless."
+        },
+        {
+          "de": "Das Paar ist bis heute kinderlos.",
+          "en": "The couple is still childless."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Die Situation ist {{c1::hoffnungslos::Hoffnung}}.",
+      "en": "The situation is hopeless.",
+      "focus": "Nomen → Adjektiv · 'ohne' + Fuge",
+      "explanation": "*Hoffnung* + **-los** → **hoffnungslos** = 'without hope'. Nouns in *-ung* always take the linking **-s-** before *-los* and *-voll*: *hoffnungslos, bedeutungslos, verantwortungsvoll*.",
+      "pattern": "Nomen auf -ung + **s** + **los**",
+      "mistake": {
+        "wrong": "Die Situation ist hoffnunglos.",
+        "why": "After *-ung* the Fugen-s is obligatory: *Hoffnung-s-los*."
+      },
+      "examples": [
+        {
+          "de": "Das neue Medikament war leider wirkungslos.",
+          "en": "Unfortunately the new medicine had no effect."
+        },
+        {
+          "de": "Für uns ist diese Regel bedeutungslos.",
+          "en": "For us this rule is meaningless."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das ist {{c1::politisch::Politik}} ein wichtiges Thema.",
+      "en": "Politically, that is an important topic.",
+      "focus": "Fremdwort auf -ik → Adjektiv · adverbial",
+      "explanation": "Nouns in *-ik* form their adjective with *-isch*, which replaces *-ik*: *Politik* → **politisch**. Here it is used as an adverb ('politically, from a political point of view'), so it has no ending. Same use: *statistisch gesehen, logisch betrachtet*.",
+      "pattern": "-ik → **-isch** (adverbial, ohne Endung)",
+      "mistake": {
+        "wrong": "Das ist politikal ein wichtiges Thema.",
+        "why": "This copies English 'political'. German forms the adjective of *Politik* with *-isch*: *politisch*."
+      },
+      "examples": [
+        {
+          "de": "Technisch ist das kein Problem.",
+          "en": "Technically, that is no problem."
+        },
+        {
+          "de": "Die Entscheidung ist ethisch problematisch.",
+          "en": "The decision is ethically problematic."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie hatten ein {{c1::romantisches::Romantik}} Wochenende.",
+      "en": "They had a romantic weekend.",
+      "focus": "Fremdwort auf -ik → Adjektiv · attributiv",
+      "explanation": "*Romantik* → *-ik* is replaced by *-isch* → *romantisch*. *Wochenende* is neuter Akkusativ after *ein*; *ein* shows no gender, so the adjective takes the strong ending **-es** → **romantisches**.",
+      "pattern": "ein + -isch-**es** + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Sie hatten ein romantikes Wochenende.",
+        "why": "The suffix *-ik* is not kept: the adjective is *romantisch*, formed with *-isch*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben ein typisches Gericht aus der Region probiert.",
+          "en": "We tried a typical dish from the region."
+        },
+        {
+          "de": "Sie hat ein hektisches Jahr hinter sich.",
+          "en": "She has had a hectic year."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Der Computer ist {{c1::reparierbar::reparieren}}.",
+      "en": "The computer can be repaired.",
+      "focus": "Verb auf -ieren → Adjektiv · passive Möglichkeit",
+      "explanation": "Verbs in *-ieren* form -bar adjectives easily: *reparieren* → stem *reparier-* + **-bar** → **reparierbar** = 'can be repaired'. The same pattern gives *kontrollierbar, finanzierbar, kombinierbar*.",
+      "pattern": "-ier- + **bar**",
+      "mistake": {
+        "wrong": "Der Computer ist reparierlich.",
+        "why": "*reparierlich* does not exist. Verbs in *-ieren* form their 'can be …-ed' adjective with *-bar*: *reparierbar*."
+      },
+      "examples": [
+        {
+          "de": "Die Kosten sind für kleine Firmen kaum finanzierbar.",
+          "en": "The costs can hardly be financed by small companies."
+        },
+        {
+          "de": "Die Bauteile sind beliebig kombinierbar.",
+          "en": "The components can be combined in any way."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie trifft eine {{c1::berufliche::Beruf}} Entscheidung.",
+      "en": "She is making a career decision.",
+      "focus": "Nomen → Adjektiv · Bezug, attributiv",
+      "explanation": "*Beruf* + **-lich** → *beruflich* = 'concerning one's job or career'; here there is no umlaut. *Entscheidung* is feminine Akkusativ after *eine* → **-e** → **berufliche**. *eine Entscheidung treffen* is the fixed verb for 'to make a decision'.",
+      "pattern": "eine + Nomen-**lich-e** + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Sie trifft eine berufige Entscheidung.",
+        "why": "*-ig* would mean 'having a job'. The relation adjective 'concerning the job' is *beruflich*."
+      },
+      "examples": [
+        {
+          "de": "Er hat gerade große gesundheitliche Probleme.",
+          "en": "He has big health problems at the moment."
+        },
+        {
+          "de": "Wir müssen die rechtliche Situation prüfen.",
+          "en": "We need to check the legal situation."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das Wasser ist {{c1::trinkbar::trinken}}.",
+      "en": "The water is drinkable.",
+      "focus": "Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*trinken* → stem *trink-* + **-bar** → **trinkbar** = 'can be drunk (safely)'. Compare the compound noun *Trinkwasser* ('drinking water'): there the stem forms a noun, here an adjective.",
+      "pattern": "sein + Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Das Wasser ist trinklich.",
+        "why": "*trinklich* does not exist. 'Can be drunk' is formed with *-bar*: *trinkbar*."
+      },
+      "examples": [
+        {
+          "de": "Die Brücke ist wieder befahrbar.",
+          "en": "The bridge is open to traffic again."
+        },
+        {
+          "de": "Der Wanderweg ist im Winter nicht begehbar.",
+          "en": "The hiking trail cannot be used in winter."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das war eine {{c1::sinnlose::Sinn}} Diskussion.",
+      "en": "That was a pointless discussion.",
+      "focus": "Nomen → Adjektiv · 'ohne', attributiv",
+      "explanation": "*Sinn* + **-los** → *sinnlos* = 'without sense, pointless'; the opposite is *sinnvoll*. *Diskussion* is feminine Nominativ after *eine* → **-e** → **sinnlose**. No Fugen-s after the short noun *Sinn*.",
+      "pattern": "eine + Nomen-**los-e** + Nomen (f.)",
+      "mistake": {
+        "wrong": "Das war eine sinnslose Diskussion.",
+        "why": "The short noun *Sinn* takes no Fugen-s: *sinnlos*, like *sinnvoll*."
+      },
+      "examples": [
+        {
+          "de": "Das war eine erfolglose Suche.",
+          "en": "That was an unsuccessful search."
+        },
+        {
+          "de": "Es war eine völlig fruchtlose Debatte.",
+          "en": "It was a completely fruitless debate."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir suchen ein {{c1::ruhiges::Ruhe}} Hotel.",
+      "en": "We're looking for a quiet hotel.",
+      "focus": "Nomen → Adjektiv · 'hat …', attributiv",
+      "explanation": "*Ruhe* + **-ig** → *ruhig*: the final *-e* of the noun drops before *-ig*. *Hotel* is neuter Akkusativ after *ein* → strong ending **-es** → **ruhiges**.",
+      "pattern": "ein + Nomen(-e)-**ig-es** + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir suchen ein ruheiges Hotel.",
+        "why": "The final *-e* of *Ruhe* disappears before *-ig*: *Ruh-ig*, like *Sonne → sonnig*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben ein sonniges Zimmer bekommen.",
+          "en": "We got a sunny room."
+        },
+        {
+          "de": "Sie hat ein eckiges Gesicht.",
+          "en": "She has an angular face."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Das ist eine {{c1::nachvollziehbare::nachvollziehen}} Erklärung.",
+      "en": "That's an understandable explanation.",
+      "focus": "trennbares Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*nachvollziehen* ('to follow, to understand someone's reasoning') is transitive and separable. In the -bar adjective the prefix stays attached: *nachvollzieh-* + **-bar** → *nachvollziehbar*. *Erklärung* is feminine Nominativ after *eine* → **-e**.",
+      "pattern": "eine + Präfix-Verbstamm-**bar-e** + Nomen (f.)",
+      "mistake": {
+        "wrong": "Das ist eine nachvollziehliche Erklärung.",
+        "why": "*nachvollziehlich* does not exist. A transitive verb forms its 'can be …-ed' adjective with *-bar*, and the prefix stays attached: *nachvollziehbar*."
+      },
+      "examples": [
+        {
+          "de": "Er hat eine durchschaubare Ausrede benutzt.",
+          "en": "He used a transparent excuse."
+        },
+        {
+          "de": "Die neue Software hat eine leicht bedienbare Oberfläche.",
+          "en": "The new software has an easy-to-use interface."
+        }
+      ],
+      "words": [
+        {
+          "de": "nachvollziehen",
+          "en": "to follow, to understand (reasoning)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Manche Folgen des Klimawandels sind nicht mehr {{c1::umkehrbar::umkehren}}.",
+      "en": "Some consequences of climate change can no longer be reversed.",
+      "focus": "trennbares Verb → Adjektiv · passive Möglichkeit",
+      "explanation": "*umkehren* is used transitively here (*etwas umkehren* = 'to reverse something'), so it forms a -bar adjective: *umkehr-* + **-bar** → **umkehrbar**. The separable prefix *um-* stays at the front. *nicht mehr umkehrbar* = *können nicht mehr umgekehrt werden*.",
+      "pattern": "nicht + Präfix-Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Manche Folgen des Klimawandels sind nicht mehr umkehrlich.",
+        "why": "*umkehrlich* does not exist. The productive suffix for 'can be …-ed' is *-bar*."
+      },
+      "examples": [
+        {
+          "de": "Diese alten Fotos sind leider nicht ersetzbar.",
+          "en": "Unfortunately these old photos cannot be replaced."
+        },
+        {
+          "de": "Manche Nebenwirkungen sind nicht vermeidbar.",
+          "en": "Some side effects cannot be avoided."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Folge (-n)",
+          "en": "consequence"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Seine Argumente waren für alle gut {{c1::verständlich::verstehen}}.",
+      "en": "His arguments were easy for everyone to understand.",
+      "focus": "Verb → Adjektiv · Möglichkeit, alte Bildung",
+      "explanation": "Some verbs form their 'can be …-ed' adjective with *-lich* instead of *-bar*. *verstehen* → **verständlich**: the stem changes to *verständ-* (compare the noun *Verstand*), with umlaut *ä*. Similar older forms: *erhältlich* ('available'), *unerträglich*, *unvermeidlich*.",
+      "pattern": "für + Akk. + gut + **-lich**-Adjektiv",
+      "mistake": {
+        "wrong": "Seine Argumente waren für alle gut verstandlich.",
+        "why": "The stem *verstand-* takes an umlaut before *-lich*: *verständlich*."
+      },
+      "examples": [
+        {
+          "de": "Das neue Modell ist ab März im Handel erhältlich.",
+          "en": "The new model will be available in shops from March."
+        },
+        {
+          "de": "Der Lärm auf der Baustelle war fast unerträglich.",
+          "en": "The noise on the building site was almost unbearable."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Im Sommer sollten wir mit dem Wasser {{c1::sparsam::sparen}} umgehen.",
+      "en": "In summer we should use water sparingly.",
+      "focus": "Verb → Adjektiv · Neigung",
+      "explanation": "*-sam* forms adjectives that describe a tendency or habit: *spar-* + **-sam** → **sparsam** = 'economical, careful with resources'. Here it is an adverb with *umgehen mit* ('to handle, to use'), so it has no ending. Other examples: *wirksam* (from *wirken*), *aufmerksam*.",
+      "pattern": "mit + Dat. + Verbstamm-**sam** + umgehen",
+      "mistake": {
+        "wrong": "Im Sommer sollten wir mit dem Wasser sparbar umgehen.",
+        "why": "*-bar* would mean 'can be saved', which does not fit *umgehen*. A habit or tendency is expressed with *-sam*: *sparsam*."
+      },
+      "examples": [
+        {
+          "de": "Das neue Medikament ist sehr wirksam.",
+          "en": "The new medicine is very effective."
+        },
+        {
+          "de": "Sie ist eine aufmerksame Zuhörerin.",
+          "en": "She is an attentive listener."
+        }
+      ],
+      "words": [
+        {
+          "de": "umgehen mit",
+          "en": "to handle, to deal with"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Lieferung war {{c1::fehlerhaft::Fehler}}, deshalb haben wir sie zurückgeschickt.",
+      "en": "The delivery was faulty, so we sent it back.",
+      "focus": "Nomen → Adjektiv · 'mit Mängeln'",
+      "explanation": "*-haft* turns a noun into an adjective meaning 'having …' or 'like …': *Fehler* + **-haft** → **fehlerhaft** = 'containing errors, faulty'. It is frequent in formal texts: *fehlerhafte Daten, lückenhafte Kenntnisse*. The opposite is *fehlerfrei*.",
+      "pattern": "sein + Nomen-**haft**",
+      "mistake": {
+        "wrong": "Die Lieferung war fehlervoll, deshalb haben wir sie zurückgeschickt.",
+        "why": "*fehlervoll* does not exist; it copies English 'full of errors'. *-voll* is used for qualities like *liebevoll, sinnvoll*. 'Faulty' is *fehlerhaft*."
+      },
+      "examples": [
+        {
+          "de": "Die Behandlung war ziemlich schmerzhaft.",
+          "en": "The treatment was quite painful."
+        },
+        {
+          "de": "Ihre Kenntnisse in Statistik sind noch lückenhaft.",
+          "en": "Her knowledge of statistics still has gaps."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Lieferung (-en)",
+          "en": "delivery"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ärzte empfehlen oft eine {{c1::fettarme::Fett}} Ernährung.",
+      "en": "Doctors often recommend a low-fat diet.",
+      "focus": "Nomen → Adjektiv · 'wenig …'",
+      "explanation": "*-arm* means 'with little …', and its opposite is *-reich* 'with a lot of …': *fettarm – fettreich, vitaminarm – vitaminreich*. *Ernährung* is feminine Akkusativ after *eine* → **-e** → **fettarme**.",
+      "pattern": "eine + Nomen-**arm-e** + Nomen (Akk. f.)",
+      "mistake": {
+        "wrong": "Ärzte empfehlen oft eine wenigfette Ernährung.",
+        "why": "This copies English 'low-fat' word for word. German expresses 'with little X' with the second element *-arm*: *fettarm*."
+      },
+      "examples": [
+        {
+          "de": "Linsen sind sehr eiweißreich.",
+          "en": "Lentils are very high in protein."
+        },
+        {
+          "de": "Wir suchen eine Wohnung in einer verkehrsarmen Gegend.",
+          "en": "We are looking for a flat in an area with little traffic."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Ernährung",
+          "en": "diet, nutrition"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Hör endlich auf, dich so {{c1::kindisch::Kind}} zu benehmen!",
+      "en": "Stop behaving so childishly!",
+      "focus": "Nomen → Adjektiv · abwertend",
+      "explanation": "From *Kind* German forms two adjectives. **kindisch** (*-isch*) is negative: 'childish, immature', used to criticise adults. *kindlich* (*-lich*) is neutral or positive: 'childlike, typical of a child' (*kindliche Neugier*). Here it is an adverb in the *zu*-infinitive clause, so it has no ending.",
+      "pattern": "sich + Nomen-**isch** + benehmen (abwertend)",
+      "mistake": {
+        "wrong": "Hör endlich auf, dich so kindlich zu benehmen!",
+        "why": "*kindlich* describes the natural qualities of a child and is not a criticism. Immature behaviour of an adult is *kindisch*."
+      },
+      "examples": [
+        {
+          "de": "Er verhält sich seinen Mitarbeitern gegenüber oft sehr herrisch.",
+          "en": "He often behaves in a very domineering way towards his staff."
+        },
+        {
+          "de": "Sei nicht so neidisch auf deine Schwester!",
+          "en": "Don't be so jealous of your sister!"
+        }
+      ],
+      "words": [
+        {
+          "de": "sich benehmen",
+          "en": "to behave"
+        }
+      ],
+      "production_cue": "(du, Imperativ)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Gestern hatten wir eine {{c1::zweistündige::zwei Stunden}} Besprechung.",
+      "en": "Yesterday we had a two-hour meeting.",
+      "focus": "Zeitangabe → Adjektiv · Dauer",
+      "explanation": "Number + time noun + *-ig* expresses duration: *zwei Stunden* → *zweistündig* = 'lasting two hours', with umlaut *u → ü* and loss of the final *-e*. With *-lich* it would mean repetition: *zweistündlich* = 'every two hours'. *Besprechung* is feminine Akkusativ after *eine* → **-e** → **zweistündige**.",
+      "pattern": "Zahl + Zeitnomen-**ig** (Dauer) + Endung",
+      "mistake": {
+        "wrong": "Gestern hatten wir eine zweistündliche Besprechung.",
+        "why": "*-lich* expresses repetition: a *zweistündliche* meeting would take place every two hours. For duration you need *-ig*."
+      },
+      "examples": [
+        {
+          "de": "Nach einer dreitägigen Wanderung waren wir völlig erschöpft.",
+          "en": "After a three-day hike we were completely exhausted."
+        },
+        {
+          "de": "Der Vertrag sieht eine sechsmonatige Probezeit vor.",
+          "en": "The contract provides for a six-month probation period."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Besprechung (-en)",
+          "en": "meeting"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die {{c1::heutige::heute}} Sitzung fällt leider aus.",
+      "en": "Unfortunately, today's meeting is cancelled.",
+      "focus": "Adverb → Adjektiv · Zeitbezug",
+      "explanation": "A time adverb like *heute* cannot stand before a noun. With *-ig* it becomes an adjective: *heute → heutig*, *gestern → gestrig*, *damals → damalig*, *hier → hiesig*. The final *-e* of *heute* drops. *Sitzung* is feminine Nominativ after *die* → weak ending **-e** → **heutige**.",
+      "pattern": "die + Adverb-**ig-e** + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Die heute Sitzung fällt leider aus.",
+        "why": "*heute* is an adverb and cannot take an adjective ending. English 'today's meeting' is *die heutige Sitzung*."
+      },
+      "examples": [
+        {
+          "de": "Die damalige Regierung hat das Gesetz abgelehnt.",
+          "en": "The government of that time rejected the law."
+        },
+        {
+          "de": "In der gestrigen Sitzung wurde nichts entschieden.",
+          "en": "Nothing was decided in yesterday's meeting."
+        }
+      ],
+      "words": [
+        {
+          "de": "ausfallen",
+          "en": "to be cancelled"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Das Projekt ist an {{c1::technischen::Technik}} Problemen gescheitert.",
+      "en": "The project failed because of technical problems.",
+      "focus": "Fremdwort auf -ik → Adjektiv · Dativ Plural",
+      "explanation": "*Technik*: the suffix *-ik* is replaced by *-isch* → *technisch*. *scheitern an* takes the Dativ, and *Problemen* is Dativ plural without an article, so the adjective takes the strong ending **-en** → **technischen**. Same type: *Logik → logisch, Ethik → ethisch, Grafik → grafisch*.",
+      "pattern": "an + -isch-**en** + Nomen (Dat. Pl., ohne Artikel)",
+      "mistake": {
+        "wrong": "Das Projekt ist an technikalen Problemen gescheitert.",
+        "why": "*technikal* copies English 'technical'. The adjective of *Technik* is formed with *-isch*: *technisch*."
+      },
+      "examples": [
+        {
+          "de": "Das ist eine rein logische Folge.",
+          "en": "That is a purely logical consequence."
+        },
+        {
+          "de": "Sie beschäftigt sich mit ökonomischen Fragen.",
+          "en": "She works on economic questions."
+        }
+      ],
+      "words": [
+        {
+          "de": "scheitern an + Dat.",
+          "en": "to fail because of"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Der Fahrer hat auf der Autobahn {{c1::rücksichtslos::Rücksicht}} überholt.",
+      "en": "The driver overtook recklessly on the motorway.",
+      "focus": "Nomen → Adjektiv · 'ohne', adverbial",
+      "explanation": "*-los* means 'without': *Rücksicht* ('consideration for others') → **rücksichtslos** = 'inconsiderate, reckless'. Between *Rücksicht* and *-los* there is a linking **-s-**, as in *rücksichtsvoll, aussichtslos*. As an adverb with *überholen* it has no ending.",
+      "pattern": "Nomen + **s** + **los** (adverbial)",
+      "mistake": {
+        "wrong": "Der Fahrer hat auf der Autobahn rücksichtlos überholt.",
+        "why": "*Rücksicht* takes the Fugen-s before *-los* and *-voll*: *rücksichtslos*."
+      },
+      "examples": [
+        {
+          "de": "Die Lage schien völlig aussichtslos.",
+          "en": "The situation seemed completely hopeless."
+        },
+        {
+          "de": "Sie geht sehr verantwortungsvoll mit den Daten um.",
+          "en": "She handles the data very responsibly."
+        }
+      ],
+      "words": [
+        {
+          "de": "überholen",
+          "en": "to overtake"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Nach der Behandlung war die Patientin endlich {{c1::schmerzfrei::Schmerz}}.",
+      "en": "After the treatment the patient was finally free of pain.",
+      "focus": "Nomen → Adjektiv · befreit von etwas Unerwünschtem",
+      "explanation": "*-frei* means 'free of something unwanted': *schmerzfrei* = 'no longer in pain', said of a person. *-los* also means 'without', but *schmerzlos* describes a procedure that causes no pain: *eine schmerzlose Behandlung*. A person who no longer feels pain is **schmerzfrei**.",
+      "pattern": "Person + sein + Nomen-**frei**",
+      "mistake": {
+        "wrong": "Nach der Behandlung war die Patientin endlich schmerzlos.",
+        "why": "*schmerzlos* characterises an action or method (*eine schmerzlose Spritze*), not a person's state. For the patient use *schmerzfrei*."
+      },
+      "examples": [
+        {
+          "de": "Das Konto ist für Studierende gebührenfrei.",
+          "en": "The account is free of charge for students."
+        },
+        {
+          "de": "Das neue Rathaus ist komplett barrierefrei.",
+          "en": "The new town hall is completely accessible."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Behandlung (-en)",
+          "en": "treatment"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Für die Reise brauchen Sie ein {{c1::ärztliches::Arzt}} Attest.",
+      "en": "You need a medical certificate for the trip.",
+      "focus": "Nomen → Adjektiv · Herkunft, attributiv",
+      "explanation": "*-lich* forms adjectives meaning 'from / related to': *Arzt* + **-lich** → *ärztlich* = 'from a doctor'. With *-lich* the stem vowel often takes an umlaut: *Arzt → ärztlich, Tag → täglich, Jahr → jährlich*. *Attest* is neuter Akkusativ after *ein* → strong ending **-es** → **ärztliches**.",
+      "pattern": "ein + Nomen(Umlaut)-**lich-es** + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Für die Reise brauchen Sie ein arztliches Attest.",
+        "why": "*-lich* causes umlaut in *Arzt*: *ärztlich*. *arztlich* does not exist."
+      },
+      "examples": [
+        {
+          "de": "Die Firma veröffentlicht einen jährlichen Bericht.",
+          "en": "The company publishes an annual report."
+        },
+        {
+          "de": "Bitte bringen Sie eine schriftliche Bestätigung mit.",
+          "en": "Please bring a written confirmation."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Attest (-e)",
+          "en": "medical certificate"
+        }
+      ],
+      "production_cue": "(Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about -bar adjectives.",
+      "prompt": "From which verbs can you form -bar adjectives, and what do they mean?",
+      "answer": "From **transitive verbs** (verbs with an Akkusativ object). Verb stem + **-bar** has a passive meaning of possibility: *lösbar* = *kann gelöst werden*. The negation uses *un-* (*unlösbar*) or *nicht*.",
+      "explanation": "Because the meaning is passive, intransitive verbs like *schlafen* or *gehen* cannot form -bar adjectives. The suffix is added to the stem: *finanzier-en → finanzierbar*; separable prefixes stay attached: *nachvollziehbar*.",
+      "examples": [
+        {
+          "de": "Die Kosten sind kaum kalkulierbar.",
+          "en": "The costs can hardly be calculated."
+        },
+        {
+          "de": "Dieser Fehler wäre vermeidbar gewesen.",
+          "en": "This mistake could have been avoided."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about adjectives that express 'without'.",
+      "prompt": "What is the difference between -los, -frei and -arm?",
+      "answer": "**-los** = without something, often something positive or needed (*arbeitslos, hoffnungslos*). **-frei** = free of something unwanted (*alkoholfrei, schmerzfrei*). **-arm** = with only a little of something (*fettarm*); opposite **-reich**.",
+      "explanation": "The choice depends on how the missing thing is seen. A job is wanted, so *arbeitslos* sounds like a lack; sugar in a drink can be unwanted, so *zuckerfrei* sounds like an advantage. *-arm* does not mean 'none', only 'little'.",
+      "examples": [
+        {
+          "de": "Das Treffen blieb völlig ergebnislos.",
+          "en": "The meeting remained completely without results."
+        },
+        {
+          "de": "Diese Zahnpasta ist fluoridfrei.",
+          "en": "This toothpaste is fluoride-free."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about -isch and -lich.",
+      "prompt": "Some nouns form adjectives with both -isch and -lich. How do the meanings differ?",
+      "answer": "With person nouns **-lich** is neutral or positive, **-isch** is often negative: *kindlich* (childlike) – *kindisch* (childish), *herrlich* (wonderful) – *herrisch* (domineering), *weiblich* (female) – *weibisch* (effeminate, pejorative).",
+      "explanation": "*-isch* also has a neutral use for origin and type (*japanisch, technisch, politisch*). The negative meaning appears mainly when it is added to native nouns for people.",
+      "examples": [
+        {
+          "de": "Die kindliche Neugier hilft beim Lernen.",
+          "en": "Childlike curiosity helps with learning."
+        },
+        {
+          "de": "Sein Verhalten in der Sitzung war ziemlich kindisch.",
+          "en": "His behaviour in the meeting was rather childish."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about time adjectives.",
+      "prompt": "What is the difference between *zweistündig* and *zweistündlich*, or *dreimonatig* and *dreimonatlich*?",
+      "answer": "**-ig** expresses **duration**: *zweistündig* = lasting two hours. **-lich** expresses **repetition**: *zweistündlich* = every two hours. Also *täglich, wöchentlich, monatlich, jährlich* = every day / week / month / year.",
+      "explanation": "With *Stunde, Tag, Woche, Jahr* both forms take an umlaut (*-stündig / -stündlich, -tägig / täglich, -wöchig / wöchentlich, -jährig / jährlich*); *Monat* has none (*-monatig / monatlich*). Mixing them changes the meaning completely: a *dreimonatige* contract lasts three months; a *dreimonatliche* payment is made every three months.",
+      "examples": [
+        {
+          "de": "Nach einer einstündigen Pause ging es weiter.",
+          "en": "After a one-hour break things continued."
+        },
+        {
+          "de": "Die Zeitschrift erscheint vierteljährlich.",
+          "en": "The magazine comes out quarterly."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about sound changes in derived adjectives.",
+      "prompt": "Which sound changes happen when you add an adjective suffix?",
+      "answer": "**Umlaut**, mainly with *-lich* and *-ig* (*Arzt → ärztlich, Tag → täglich*; not always: *Beruf → beruflich*). **Final -e drops** (*Ruhe → ruhig, Sonne → sonnig*). **-ik → -isch** (*Politik → politisch*). **Fugen-s** after *-ung, -heit, -keit, -ion* and some other nouns (*hoffnungslos, rücksichtslos*).",
+      "explanation": "The umlaut is not fully predictable, so learn the adjective with its base noun. The Fugen-s is reliable after the suffixes *-ung, -heit, -keit, -schaft, -ion, -tät*.",
+      "examples": [
+        {
+          "de": "Das war eine bedeutungsvolle Geste.",
+          "en": "That was a meaningful gesture."
+        },
+        {
+          "de": "Er hat täglich zwei Stunden trainiert.",
+          "en": "He trained for two hours every day."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the modal construction with sein + a -bar adjective.",
+      "prompt": "Diese Entwicklung kann man nicht vorhersagen.",
+      "answer": "Diese Entwicklung ist nicht vorhersagbar.",
+      "explanation": "*man kann etwas (nicht) vorhersagen* = *etwas ist (nicht) vorhersagbar*. The object *Diese Entwicklung* becomes the subject, as in the passive. The separable prefix *vorher-* stays in the adjective."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace *hat keine …* with sein + a -los adjective.",
+      "prompt": "Der Raum hat keine Fenster.",
+      "answer": "Der Raum ist fensterlos.",
+      "explanation": "*keine Fenster haben* = *fensterlos sein*. *-los* is added to the singular noun *Fenster*; *Fenster* needs no Fugen-s."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace *enthält keinen …* with sein + a -frei adjective.",
+      "prompt": "Der Saft enthält keinen Zucker.",
+      "answer": "Der Saft ist zuckerfrei.",
+      "explanation": "Sugar is an unwanted substance in a product, so German uses *-frei*: *Zucker* + *-frei* → *zuckerfrei*. *zuckerlos* is not used."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace *jeden Monat* with one adjective used as an adverb.",
+      "prompt": "Die Zeitung erscheint jeden Monat.",
+      "answer": "Die Zeitung erscheint monatlich.",
+      "explanation": "Repetition ('every month') is expressed with *-lich*: *Monat* + *-lich* → *monatlich*. As an adverb it has no ending. *monatig* is not a word on its own; it only appears in compounds of duration (*dreimonatig*)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Problem ist leider nicht lösenbar.",
+      "answer": "Das Problem ist leider nicht lösbar.",
+      "explanation": "*-bar* is added to the verb stem, not to the infinitive: *lös-en → lösbar*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat eine sehr verantwortungvolle Aufgabe.",
+      "answer": "Er hat eine sehr verantwortungsvolle Aufgabe.",
+      "explanation": "*Verantwortung* ends in *-ung*, so it needs the Fugen-s before *-voll*: *verantwortungsvoll*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Wohnung ist sehr sonnenig.",
+      "answer": "Die Wohnung ist sehr sonnig.",
+      "explanation": "Before *-ig* the final *-e* of *Sonne* drops, and no *-n-* is added: *Sonn-ig*, written with double *n* as in the noun."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct adjective.",
+      "prompt": "Der Bus fährt ___ in die Innenstadt.",
+      "options": [
+        "halbstündig",
+        "halbstündlich",
+        "halbstündige"
+      ],
+      "correct": "halbstündlich",
+      "answer": "Der Bus fährt halbstündlich in die Innenstadt.",
+      "explanation": "A bus that goes every 30 minutes is a repetition → *-lich*. *halbstündig* means 'lasting half an hour' (*eine halbstündige Pause*), and *halbstündige* has an attributive ending, which is impossible for an adverb."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the adjective that fits the meaning.",
+      "prompt": "Sein ___ Ton hat das ganze Team verärgert.",
+      "options": [
+        "herrlicher",
+        "herrischer",
+        "herrenloser"
+      ],
+      "correct": "herrischer",
+      "answer": "Sein herrischer Ton hat das ganze Team verärgert.",
+      "explanation": "*herrisch* (-isch, negative) = domineering, which explains why the team was annoyed. *herrlich* (-lich) means 'wonderful'. *herrenlos* (-los) means 'without an owner', e.g. *ein herrenloser Hund*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the adjective that fits the meaning.",
+      "prompt": "Die Suppe ist ganz ___, da fehlt Salz.",
+      "options": [
+        "geschmacklos",
+        "geschmackvoll",
+        "geschmackfrei"
+      ],
+      "correct": "geschmacklos",
+      "answer": "Die Suppe ist ganz geschmacklos, da fehlt Salz.",
+      "explanation": "*geschmacklos* = without taste (for food; for clothes or jokes it means 'in bad taste'). *geschmackvoll* means 'tasteful' and is used for style, not for food. *geschmackfrei* is not an established word."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: In München",
+      "prompt": "unbezahlbar / in München / sind / fast / die Mieten",
+      "answer": "In München sind die Mieten fast unbezahlbar.",
+      "explanation": "The verb *sind* is in position 2, the subject *die Mieten* follows it, and the predicative adjective *unbezahlbar* ('cannot be paid', from *un-* + *bezahl-* + *-bar*) ends the sentence. Also correct: *Die Mieten sind in München fast unbezahlbar.*"
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with und. Replace the second sentence with a -bar adjective.",
+      "prompt": "Die Methode ist effektiv. Man kann sie leicht anwenden.",
+      "answer": "Die Methode ist effektiv und leicht anwendbar.",
+      "explanation": "*man kann sie anwenden* = *sie ist anwendbar*. Both adjectives are predicative after the same *ist*, so the verb is not repeated. The separable prefix *an-* stays in *anwendbar*."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence with an adjective in -voll before the noun.",
+      "prompt": "Er ist ein Mensch. Er hat viel Humor.",
+      "answer": "Er ist ein humorvoller Mensch.",
+      "explanation": "*viel Humor haben* = *humorvoll sein*. Before *Mensch* (masculine Nominativ after *ein*) the adjective takes the strong ending *-er*: *humorvoller*."
+    }
+  ]
+}

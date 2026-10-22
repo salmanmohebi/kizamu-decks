@@ -1,0 +1,942 @@
+{
+  "topic_id": "a2-11-konjunktionen",
+  "level": "A2",
+  "title_de": "Konjunktionen (und, aber, oder, denn, sondern)",
+  "title_en": "Coordinating conjunctions (und, aber, oder, denn, sondern)",
+  "rule": {
+    "summary": "The coordinating conjunctions **und, aber, oder, denn, sondern** (and the more written *doch*) join two main clauses or two parts of a sentence. They stand in **position 0**: they do not count for word order, so the clause after them keeps normal main-clause order with the finite verb in **position 2**. This is the main difference from adverbs like *deshalb, trotzdem, dann* (position 1, the verb follows directly) and from subordinating conjunctions like *weil* (verb at the end).",
+    "table": "| Wort | Bedeutung | Typ | Wortstellung danach |\n|---|---|---|---|\n| **und** | and | Konjunktion (Position 0) | …, und ich **gehe** nach Hause. |\n| **aber** | but | Konjunktion (Position 0) | …, aber das Wetter **ist** schlecht. |\n| **oder** | or | Konjunktion (Position 0) | …, oder wir **bleiben** hier. |\n| **denn** | because, as | Konjunktion (Position 0) | …, denn ich **bin** müde. |\n| **sondern** | but (instead) | Konjunktion (Position 0), only after *nicht/kein* | nicht heute, sondern morgen |\n| **deshalb, trotzdem, dann, außerdem** | therefore, anyway, then, besides | Adverb (Position 1) | …, deshalb **gehe** ich nach Hause. |\n| **weil** | because | Subjunktion (Nebensatz) | …, weil ich müde **bin**. |",
+    "steps": [
+      "Decide the meaning: addition (*und*), contrast (*aber*), choice (*oder*), reason (*denn*), correction after a negation (*sondern*).",
+      "If the first part contains *nicht* or *kein* and the second part replaces the negated part, use **sondern**; if the negation stays true and you only add a contrast, use **aber**.",
+      "After *und, aber, oder, denn, sondern* build a normal main clause: one element in position 1, the finite verb in position 2, Partizip II, infinitive or separable prefix at the end.",
+      "After an adverb like *deshalb, trotzdem, dann, außerdem* the verb comes directly after the adverb, and the subject follows the verb (inversion).",
+      "Commas: always before *aber, denn, sondern, doch*; before *und/oder* between two full main clauses the comma is optional; no comma when *und/oder* join single words or phrases."
+    ],
+    "pitfalls": [
+      "Verb at the end after *denn*: ✗ *Ich bleibe zu Hause, denn ich krank bin.* → ✓ *…, denn ich bin krank.* Only *weil* sends the verb to the end.",
+      "Inversion after a conjunction: ✗ *Er ist müde, aber arbeitet er weiter.* → ✓ *…, aber er arbeitet weiter.* Position 0 does not count.",
+      "No inversion after an adverb: ✗ *Es ist spät, deshalb ich gehe.* → ✓ *…, deshalb gehe ich.*",
+      "*aber* for a correction: ✗ *Das ist nicht mein Buch, aber dein Buch.* → ✓ *…, sondern dein Buch.*",
+      "A *denn* clause at the start: ✗ *Denn ich bin krank, bleibe ich zu Hause.* → ✓ *Weil ich krank bin, bleibe ich zu Hause.* or *Ich bleibe zu Hause, denn ich bin krank.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich lerne Deutsch, {{c1::und::Addition}} mein Bruder lernt Spanisch.",
+      "en": "I'm learning German, and my brother is learning Spanish.",
+      "focus": "Zwei Hauptsätze · Position 0",
+      "explanation": "The connector simply adds a second fact with a new subject. **und** stands in position 0, outside the second clause, so the clause starts normally: *mein Bruder* in position 1, *lernt* in position 2. Between two full main clauses the comma before *und* is optional.",
+      "pattern": "Hauptsatz, + und + Subjekt + Verb (Pos. 2) …",
+      "mistake": {"wrong": "Ich lerne Deutsch, und lernt mein Bruder Spanisch.", "why": "*und* is not position 1, so it causes no inversion. After *und* the subject comes first and the verb second: *und mein Bruder lernt Spanisch*."},
+      "examples": [
+        {"de": "Sie kocht, und er deckt den Tisch.", "en": "She cooks, and he sets the table."},
+        {"de": "Wir fahren nach Spanien, und unsere Freunde bleiben zu Hause.", "en": "We're going to Spain, and our friends are staying at home."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Er ist müde, {{c1::aber::Gegensatz}} er arbeitet weiter.",
+      "en": "He's tired, but he keeps working.",
+      "focus": "Gegensatz · zwei Hauptsätze",
+      "explanation": "The second clause says something you would not expect after *müde*, so the connector is **aber**. It stands in position 0: *er* is in position 1 and *arbeitet* in position 2. *weiterarbeiten* is separable, so *weiter* goes to the end. A comma before *aber* is always required.",
+      "pattern": "Hauptsatz, + aber + Subjekt + Verb (Pos. 2) … Präfix",
+      "mistake": {"wrong": "Er ist müde, aber arbeitet er weiter.", "why": "*aber* does not take position 1, so the verb cannot follow it directly when a subject comes after the verb. Correct: *aber er arbeitet weiter*."},
+      "examples": [
+        {"de": "Das Hotel war alt, aber die Zimmer waren sauber.", "en": "The hotel was old, but the rooms were clean."},
+        {"de": "Ich habe wenig Geld, aber ich fahre im Sommer nach Italien.", "en": "I don't have much money, but I'm going to Italy in the summer."}
+      ],
+      "words": [{"de": "weiterarbeiten", "en": "to keep working"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Möchtest du Tee {{c1::oder::Alternative}} Kaffee?",
+      "en": "Would you like tea or coffee?",
+      "focus": "Auswahl · zwei Nomen",
+      "explanation": "The question offers a choice between two drinks, so the connector is **oder**. Here it joins two nouns that are both Akkusativ objects of *möchtest*; the verb is used only once and there is no comma. The answer is one of the two options, not *ja* or *nein*.",
+      "pattern": "Verb + Subjekt + Nomen + oder + Nomen?",
+      "mistake": {"wrong": "Möchtest du Tee oder möchtest Kaffee?", "why": "If you repeat the verb after *oder*, you start a second full question and need its subject too: *oder möchtest du Kaffee?* The short form joins only the two nouns: *Tee oder Kaffee*."},
+      "examples": [
+        {"de": "Nimmst du Reis oder Nudeln?", "en": "Are you having rice or pasta?"},
+        {"de": "Willst du das rote oder das blaue Hemd?", "en": "Do you want the red shirt or the blue one?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich gehe nach Hause, {{c1::denn::Grund}} ich bin müde.",
+      "en": "I'm going home because I'm tired.",
+      "focus": "Grund · Verb auf Position 2",
+      "explanation": "The second clause gives the reason for going home. **denn** stands in position 0, so the clause keeps main-clause order: *ich* in position 1, *bin* in position 2. With *weil* the same reason would have the verb at the end: *weil ich müde bin*.",
+      "pattern": "Hauptsatz, + denn + Subjekt + Verb (Pos. 2) …",
+      "mistake": {"wrong": "Ich gehe nach Hause, denn ich müde bin.", "why": "This is the word order of *weil*. *denn* is a coordinating conjunction, not a subordinating one, so the verb stays in position 2: *denn ich bin müde*."},
+      "examples": [
+        {"de": "Ich ziehe eine Jacke an, denn draußen ist es kalt.", "en": "I'm putting on a jacket because it's cold outside."},
+        {"de": "Sie trinkt viel Wasser, denn sie hat Kopfschmerzen.", "en": "She's drinking a lot of water because she has a headache."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das ist nicht mein Buch, {{c1::sondern::Korrektur}} dein Buch.",
+      "en": "That's not my book, it's yours.",
+      "focus": "Korrektur · nach *nicht*",
+      "explanation": "The first part says what is false (*nicht mein Buch*), and the second part names the right thing instead. After *nicht* or *kein*, this replacement needs **sondern**. The verb *ist* is not repeated after the conjunction.",
+      "pattern": "nicht + X, sondern + Y",
+      "mistake": {"wrong": "Das ist nicht mein Buch, aber dein Buch.", "why": "*aber* adds a contrast but does not replace the negated part. When the second part corrects the first (not X, Y instead), German uses *sondern*."},
+      "examples": [
+        {"de": "Das ist nicht unser Zug, sondern der Zug nach Hamburg.", "en": "That's not our train, it's the train to Hamburg."},
+        {"de": "Heute ist nicht Montag, sondern Dienstag.", "en": "Today isn't Monday, it's Tuesday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir bleiben zu Hause, {{c1::denn::Grund}} es regnet.",
+      "en": "We're staying at home because it's raining.",
+      "focus": "Grund · Stellung des Begründungssatzes",
+      "explanation": "*es regnet* explains why we stay at home, so the connector is **denn**. The clause after it is a full main clause: *es* in position 1, *regnet* in position 2. A *denn* clause always comes **after** the clause it explains; it can never open the sentence.",
+      "pattern": "Folge (Hauptsatz), + denn + Grund (Hauptsatz)",
+      "mistake": {"wrong": "Denn es regnet, bleiben wir zu Hause.", "why": "A *denn* clause cannot stand first. Only a *weil* clause can open the sentence: *Weil es regnet, bleiben wir zu Hause.*"},
+      "examples": [
+        {"de": "Wir fahren heute nicht ans Meer, denn es ist zu windig.", "en": "We aren't going to the sea today because it's too windy."},
+        {"de": "Die Kinder spielen drinnen, denn es schneit.", "en": "The children are playing indoors because it's snowing."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich mag Kaffee, {{c1::aber::Gegensatz}} keinen Tee.",
+      "en": "I like coffee, but not tea.",
+      "focus": "Gegensatz · verkürzter zweiter Teil",
+      "explanation": "The second part is short for *aber ich mag keinen Tee*: subject and verb are the same, so they are left out. The first part is positive and the negation is in the second part, so the contrast word is **aber**. *keinen Tee* is masculine Akkusativ, like the object of *mögen*.",
+      "pattern": "positiver Teil, aber + kein- + Nomen",
+      "mistake": {"wrong": "Ich mag Kaffee, sondern keinen Tee.", "why": "*sondern* needs a negation in the first part (*Ich mag keinen Tee, sondern Kaffee.*). Here the first part is positive, so the contrast is *aber*."},
+      "examples": [
+        {"de": "Er isst Fisch, aber kein Fleisch.", "en": "He eats fish, but not meat."},
+        {"de": "Wir haben einen Balkon, aber keinen Garten.", "en": "We have a balcony, but no garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Kommst du heute {{c1::oder::Alternative}} morgen?",
+      "en": "Are you coming today or tomorrow?",
+      "focus": "Auswahl · Zeitangaben",
+      "explanation": "**oder** joins two time expressions inside one question: *heute* or *morgen*. Both fill the same slot after the subject *du*, so nothing else is repeated. As a full question it would be *Kommst du heute, oder kommst du morgen?*",
+      "pattern": "Verb + Subjekt + Zeit + oder + Zeit?",
+      "mistake": {"wrong": "Kommst du heute sondern morgen?", "why": "*sondern* is only possible after a negation (*nicht heute, sondern morgen*). For an open choice between two options you need *oder*."},
+      "examples": [
+        {"de": "Treffen wir uns am Samstag oder am Sonntag?", "en": "Are we meeting on Saturday or on Sunday?"},
+        {"de": "Fängt der Kurs im März oder im April an?", "en": "Does the course start in March or in April?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie spricht Deutsch {{c1::und::Addition}} Englisch.",
+      "en": "She speaks German and English.",
+      "focus": "Aufzählung · zwei Nomen",
+      "explanation": "**und** joins two languages, both objects of *spricht*. When *und* joins single words, there is no comma. With three or more items, use commas and put *und* only before the last one: *Deutsch, Englisch und Französisch*.",
+      "pattern": "Nomen + und + Nomen",
+      "mistake": {"wrong": "Sie spricht beide Deutsch und Englisch.", "why": "English *both … and* is not *beide … und*. Use only *und*, or the two-part connector *sowohl … als auch*: *Sie spricht sowohl Deutsch als auch Englisch.*"},
+      "examples": [
+        {"de": "Wir brauchen Mehl und Zucker.", "en": "We need flour and sugar."},
+        {"de": "Er spielt Gitarre und Klavier.", "en": "He plays the guitar and the piano."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir essen nicht zu Hause, {{c1::sondern::Korrektur}} im Restaurant.",
+      "en": "We're not eating at home, but at a restaurant.",
+      "focus": "Korrektur · Ortsangabe nach *nicht*",
+      "explanation": "*nicht zu Hause* is negated, and *im Restaurant* is the right place that replaces it, so the connector is **sondern**. The pattern *nicht X, sondern Y* works with places, times and any other sentence part. The verb *essen* is not repeated.",
+      "pattern": "nicht + Ort, sondern + Ort",
+      "mistake": {"wrong": "Wir essen nicht zu Hause, aber im Restaurant.", "why": "The restaurant replaces the home; it is not an extra contrast. A replacement after *nicht* needs *sondern*."},
+      "examples": [
+        {"de": "Der Kurs findet nicht in Raum 12 statt, sondern in der Bibliothek.", "en": "The course isn't taking place in room 12, but in the library."},
+        {"de": "Sie arbeitet nicht in Köln, sondern in Bonn.", "en": "She doesn't work in Cologne, but in Bonn."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Es ist kalt, {{c1::aber::Gegensatz}} ich gehe trotzdem spazieren.",
+      "en": "It's cold, but I'm going for a walk anyway.",
+      "focus": "Gegensatz · mit *trotzdem* im Mittelfeld",
+      "explanation": "**aber** links the two clauses, and *trotzdem* inside the second clause stresses that the cold does not stop me. Order: *aber* (position 0), *ich* (1), *gehe* (2), then *trotzdem* in the Mittelfeld and *spazieren* at the end. *aber* and *trotzdem* often appear together.",
+      "pattern": "…, aber + Subjekt + Verb + trotzdem …",
+      "mistake": {"wrong": "Es ist kalt, aber trotzdem ich gehe spazieren.", "why": "If *trotzdem* comes directly after *aber*, it takes position 1, and the verb must follow it: *aber trotzdem gehe ich spazieren*."},
+      "examples": [
+        {"de": "Der Weg ist weit, aber wir laufen trotzdem.", "en": "It's a long way, but we're walking anyway."},
+        {"de": "Das Restaurant ist teuer, aber wir gehen trotzdem hin.", "en": "The restaurant is expensive, but we're going there anyway."}
+      ],
+      "words": [{"de": "trotzdem", "en": "anyway, nevertheless"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich schlafe lange, {{c1::denn::Grund}} ich bin sehr müde.",
+      "en": "I'm sleeping in because I'm very tired.",
+      "focus": "Grund · keine Inversion",
+      "explanation": "The second clause gives the reason for *lange schlafen*, and it keeps verb-second order: *ich* (position 1), *bin* (position 2), *sehr müde*. The connector **denn** itself does not count. In speech many people use *weil* here, but then the verb moves to the end: *weil ich sehr müde bin*.",
+      "pattern": "…, denn + Subjekt + sein + Adjektiv",
+      "mistake": {"wrong": "Ich schlafe lange, denn bin ich sehr müde.", "why": "*denn* is not position 1, so it causes no inversion. Something must stand before the verb: *denn ich bin sehr müde*."},
+      "examples": [
+        {"de": "Ich lege mich kurz hin, denn ich habe Kopfschmerzen.", "en": "I'm going to lie down for a bit because I have a headache."},
+        {"de": "Am Sonntag schläft er bis zehn, denn er arbeitet die ganze Woche viel.", "en": "On Sunday he sleeps until ten because he works a lot all week."}
+      ],
+      "words": [{"de": "lange schlafen", "en": "to sleep in, to sleep late"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich habe Hunger {{c1::und::Addition}} Durst.",
+      "en": "I'm hungry and thirsty.",
+      "focus": "Addition · zwei Nomen nach *haben*",
+      "explanation": "German says *Hunger haben* and *Durst haben* (noun + *haben*), while English uses adjectives. **und** joins the two nouns, which share the verb *habe*; there is no comma and no article.",
+      "pattern": "haben + Nomen + und + Nomen",
+      "mistake": {"wrong": "Ich habe Hunger und ich Durst.", "why": "If you repeat the subject after *und*, you start a new main clause and need its verb as well: *und ich habe Durst*. Otherwise join only the nouns: *Hunger und Durst*."},
+      "examples": [
+        {"de": "Wir haben Zeit und Lust.", "en": "We have the time and we feel like it."},
+        {"de": "Das Kind hat Fieber und Husten.", "en": "The child has a fever and a cough."}
+      ],
+      "words": [{"de": "der Durst", "en": "thirst"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er ist krank, {{c1::aber::Gegensatz}} er arbeitet trotzdem.",
+      "en": "He's sick, but he's working anyway.",
+      "focus": "Gegensatz · unerwartete Folge",
+      "explanation": "Being sick is a reason not to work, so the second fact is unexpected; **aber** marks this contrast, and *trotzdem* at the end adds 'anyway'. Keep the two words apart in your head: *aber* is position 0 (no inversion), while *trotzdem* at the start of a clause is position 1 (*trotzdem arbeitet er*).",
+      "pattern": "…, aber + Subjekt + Verb + trotzdem",
+      "mistake": {"wrong": "Er ist krank, aber er trotzdem arbeitet.", "why": "After *aber* the clause is a main clause, so the finite verb must be in position 2, right after the subject: *aber er arbeitet trotzdem*."},
+      "examples": [
+        {"de": "Sie hat Fieber, aber sie geht trotzdem zur Uni.", "en": "She has a fever, but she's going to university anyway."},
+        {"de": "Das Auto ist alt, aber es fährt noch gut.", "en": "The car is old, but it still runs well."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir gehen heute {{c1::oder::Alternative}} morgen.",
+      "en": "We're going today or tomorrow.",
+      "focus": "Auswahl · Zeitangabe im Aussagesatz",
+      "explanation": "The statement leaves two times open, so the connector is **oder**. It joins the two time adverbs, and the verb *gehen* is used once. To make the choice stronger, add *entweder*: *Wir gehen entweder heute oder morgen.*",
+      "pattern": "Subjekt + Verb + Zeit + oder + Zeit",
+      "mistake": {"wrong": "Wir gehen entweder heute noch morgen.", "why": "The two-part connectors have fixed pairs: *entweder … oder* and *weder … noch*. Correct: *entweder heute oder morgen*, or simply *heute oder morgen*."},
+      "examples": [
+        {"de": "Ich rufe dich heute Abend oder morgen früh an.", "en": "I'll call you this evening or tomorrow morning."},
+        {"de": "Wir kommen am Freitag oder am Samstag zurück.", "en": "We're coming back on Friday or on Saturday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Sie schläft, {{c1::denn::Grund}} sie ist müde.",
+      "en": "She's sleeping because she's tired.",
+      "focus": "Grund · Hauptsatz-Wortstellung",
+      "explanation": "*sie ist müde* is the reason for *sie schläft*. With **denn** the reason is a normal main clause: *sie* (position 1), *ist* (position 2), *müde*. The comma before *denn* is required, even in a short sentence like this.",
+      "pattern": "Kurzer Hauptsatz, + denn + Hauptsatz",
+      "mistake": {"wrong": "Sie schläft, weil sie ist müde.", "why": "With *weil* the verb must go to the end (*weil sie müde ist*). If you want verb-second order, the connector has to be *denn*."},
+      "examples": [
+        {"de": "Er lacht, denn der Witz ist gut.", "en": "He's laughing because the joke is good."},
+        {"de": "Das Baby weint, denn es hat Hunger.", "en": "The baby is crying because it's hungry."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das ist nicht warm, {{c1::sondern::Korrektur}} sehr kalt.",
+      "en": "That's not warm, it's very cold.",
+      "focus": "Korrektur · zwei Adjektive",
+      "explanation": "*nicht warm* is rejected, and *sehr kalt* is the right description that replaces it, so the connector is **sondern**. It joins two predicative adjectives after *ist*, which is not repeated. Typical with opposites: *nicht schwer, sondern leicht*.",
+      "pattern": "sein + nicht + Adjektiv, sondern + Adjektiv",
+      "mistake": {"wrong": "Das ist nicht warm, aber sehr kalt.", "why": "*aber* would present *sehr kalt* as an extra contrast, which makes no sense here. *kalt* replaces *warm*, so you need *sondern*."},
+      "examples": [
+        {"de": "Der Film war nicht lustig, sondern ziemlich traurig.", "en": "The film wasn't funny; it was rather sad."},
+        {"de": "Die Prüfung war nicht schwer, sondern ganz leicht.", "en": "The exam wasn't hard; it was really easy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir bleiben hier, {{c1::denn::Grund}} der Bus kommt nicht.",
+      "en": "We're staying here because the bus isn't coming.",
+      "focus": "Grund · Negation im zweiten Satz",
+      "explanation": "The reason clause has the subject *der Bus* in position 1 and *kommt* in position 2, because **denn** does not count. *nicht* stands at the end and negates the whole clause, as in any main clause.",
+      "pattern": "…, denn + Subjekt + Verb + nicht",
+      "mistake": {"wrong": "Wir bleiben hier, denn der Bus nicht kommt.", "why": "Verb-final order belongs to *weil*. After *denn* the verb stays in position 2, and *nicht* follows it: *denn der Bus kommt nicht*."},
+      "examples": [
+        {"de": "Wir nehmen ein Taxi, denn die U-Bahn fährt heute nicht.", "en": "We're taking a taxi because the underground isn't running today."},
+        {"de": "Ich rufe später an, denn der Chef ist gerade nicht da.", "en": "I'll call later because the boss isn't here right now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Möchten Sie mit Karte {{c1::oder::Alternative}} mit Bargeld zahlen?",
+      "en": "Would you like to pay by card or in cash?",
+      "focus": "Auswahl · zwei Präpositionalphrasen in der Satzklammer",
+      "explanation": "**oder** joins two prepositional phrases with *mit*. Both belong to the infinitive *zahlen*, which stays at the end of the Satzklammer (*Möchten … zahlen*). The modal verb and the infinitive are used only once.",
+      "pattern": "Modalverb + Subjekt + mit X + oder + mit Y + Infinitiv?",
+      "mistake": {"wrong": "Möchten Sie mit Karte oder Sie möchten mit Bargeld zahlen?", "why": "A second full clause after *oder* must also be a question with the verb first: *oder möchten Sie bar zahlen?* Simpler and more natural: join only the two phrases."},
+      "examples": [
+        {"de": "Wollen Sie mit dem Bus oder mit der Bahn fahren?", "en": "Do you want to go by bus or by train?"},
+        {"de": "Möchtest du im Garten oder auf dem Balkon frühstücken?", "en": "Would you like to have breakfast in the garden or on the balcony?"}
+      ],
+      "words": [{"de": "das Bargeld", "en": "cash"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich lerne Deutsch {{c1::und::Addition}} höre Musik.",
+      "en": "I'm learning German and listening to music.",
+      "focus": "Gleiches Subjekt · zwei Verben",
+      "explanation": "**und** joins two verb phrases with the same subject *ich*: *lerne Deutsch* and *höre Musik*. Because the subject is the same, it is not repeated, and there is no comma. With the subject repeated it is also correct: *Ich lerne Deutsch und ich höre Musik.*",
+      "pattern": "Subjekt + Verb … + und + Verb …",
+      "mistake": {"wrong": "Ich lerne Deutsch und höre ich Musik.", "why": "*und* causes no inversion. Either leave out the subject (*und höre Musik*) or put it before the verb (*und ich höre Musik*)."},
+      "examples": [
+        {"de": "Er steht auf und macht Kaffee.", "en": "He gets up and makes coffee."},
+        {"de": "Wir gehen in den Park und spielen Fußball.", "en": "We go to the park and play football."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich bin müde, {{c1::aber::Gegensatz}} ich komme mit.",
+      "en": "I'm tired, but I'll come along.",
+      "focus": "Gegensatz · Position 0 · trennbares Verb",
+      "explanation": "**aber**, like *und, oder, denn, sondern*, stands in position 0, outside the clause. So the clause after it starts with *ich* (position 1) and *komme* (position 2). *mitkommen* is separable: *mit* goes to the end.",
+      "pattern": "…, aber + Subjekt + Verb … Präfix",
+      "mistake": {"wrong": "Ich bin müde, aber komme ich mit.", "why": "The verb comes directly after *aber* only when the subject is left out. With the subject *ich*, the order is *aber ich komme mit*."},
+      "examples": [
+        {"de": "Der Kurs ist teuer, aber ich melde mich an.", "en": "The course is expensive, but I'm signing up."},
+        {"de": "Das Wetter ist schlecht, aber wir fahren los.", "en": "The weather is bad, but we're setting off."}
+      ],
+      "words": [{"de": "mitkommen", "en": "to come along"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Ich nehme den Bus, {{c1::denn::Grund}} mein Fahrrad ist kaputt.",
+      "en": "I'm taking the bus because my bike is broken.",
+      "focus": "Grund · Verb auf Position 2 oder am Ende?",
+      "explanation": "**denn** keeps the verb *ist* in position 2, after the subject *mein Fahrrad*. *weil* gives the same meaning with the verb at the end: *weil mein Fahrrad kaputt ist*. In writing *denn* is common; in speech *weil* is more frequent.",
+      "pattern": "…, denn + Subjekt + ist + Adjektiv",
+      "mistake": {"wrong": "Ich nehme den Bus, denn mein Fahrrad kaputt ist.", "why": "This mixes *denn* with the word order of *weil*. Either *denn mein Fahrrad ist kaputt* or *weil mein Fahrrad kaputt ist*."},
+      "examples": [
+        {"de": "Ich gehe heute zu Fuß, denn mein Auto ist in der Werkstatt.", "en": "I'm walking today because my car is at the garage."},
+        {"de": "Er ruft dich an, denn sein Laptop funktioniert nicht.", "en": "He's calling you because his laptop isn't working."}
+      ],
+      "words": [{"de": "kaputt", "en": "broken"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er hat nicht angerufen, {{c1::sondern::Korrektur}} geschrieben.",
+      "en": "He didn't call; he wrote instead.",
+      "focus": "Korrektur · Perfekt mit gemeinsamem Hilfsverb",
+      "explanation": "*nicht angerufen* is negated, and *geschrieben* is what he did instead, so the connector is **sondern**. Both participles share the auxiliary *hat*, so after the conjunction only the Partizip II is needed.",
+      "pattern": "hat + nicht + Partizip II, sondern + Partizip II",
+      "mistake": {"wrong": "Er hat nicht angerufen, sondern er geschrieben.", "why": "After *sondern* either repeat the full clause with its verb (*sondern er hat geschrieben*) or give only the replacing part (*sondern geschrieben*). A subject without a verb is not possible."},
+      "examples": [
+        {"de": "Sie ist nicht geflogen, sondern mit dem Zug gefahren.", "en": "She didn't fly; she went by train."},
+        {"de": "Wir haben nicht gekocht, sondern Pizza bestellt.", "en": "We didn't cook; we ordered pizza."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Zahlen Sie bar {{c1::oder::Alternative}} mit Karte?",
+      "en": "Are you paying in cash or by card?",
+      "focus": "Auswahl · Adverb und Präpositionalphrase",
+      "explanation": "**oder** can join two different kinds of phrase: the adverb *bar* and the prepositional phrase *mit Karte*. This works because both answer the same question (*wie?*). With full clauses it would be *Zahlen Sie bar, oder zahlen Sie mit Karte?*",
+      "pattern": "Verb + Subjekt + Adverb + oder + Präp.-Phrase?",
+      "mistake": {"wrong": "Zahlen Sie bar oder zahlen mit Karte?", "why": "If you repeat the verb after *oder*, the new question needs its own subject: *oder zahlen Sie mit Karte?* Otherwise join only *bar* and *mit Karte*."},
+      "examples": [
+        {"de": "Fährst du allein oder mit deiner Familie?", "en": "Are you going alone or with your family?"},
+        {"de": "Kommen Sie heute oder in der nächsten Woche?", "en": "Are you coming today or next week?"}
+      ],
+      "words": [{"de": "bar zahlen", "en": "to pay in cash"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Es ist spät, {{c1::deshalb::Folge}} gehe ich jetzt.",
+      "en": "It's late, so I'm going now.",
+      "focus": "Folge · Adverb auf Position 1",
+      "explanation": "**deshalb** (therefore) is not a conjunction but an adverb. It takes position 1 inside the second clause, so the verb *gehe* follows directly and the subject *ich* moves behind it (inversion). The first clause gives the cause, the *deshalb* clause the result.",
+      "pattern": "Grund, deshalb + Verb + Subjekt …",
+      "mistake": {"wrong": "Es ist spät, deshalb ich gehe jetzt.", "why": "*deshalb* fills position 1, so the finite verb must come right after it: *deshalb gehe ich jetzt*."},
+      "examples": [
+        {"de": "Ich habe morgen eine Prüfung, deshalb lerne ich heute lange.", "en": "I have an exam tomorrow, so I'm studying late today."},
+        {"de": "Der Zug hatte Verspätung, deshalb sind wir zu spät gekommen.", "en": "The train was delayed, so we arrived late."}
+      ],
+      "words": [{"de": "deshalb", "en": "therefore, that's why"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Sie ist krank, {{c1::trotzdem::Gegensatz (Adverb)}} arbeitet sie.",
+      "en": "She's ill; she's working anyway.",
+      "focus": "Unerwartete Folge · Adverb auf Position 1",
+      "explanation": "**trotzdem** (nevertheless) says that the result is not what you expect. Like *deshalb*, it is an adverb in position 1, so *arbeitet* follows directly and *sie* comes after the verb. Before it you can use a comma or a full stop.",
+      "pattern": "Gegengrund, trotzdem + Verb + Subjekt …",
+      "mistake": {"wrong": "Sie ist krank, trotzdem sie arbeitet.", "why": "*trotzdem* is an adverb, not a conjunction, so it counts as position 1. The verb comes next: *trotzdem arbeitet sie*."},
+      "examples": [
+        {"de": "Der Film hatte schlechte Kritiken, trotzdem war das Kino voll.", "en": "The film had bad reviews; the cinema was full anyway."},
+        {"de": "Es war schon dunkel, trotzdem ist er noch joggen gegangen.", "en": "It was already dark, but he still went jogging."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Zuerst essen wir, {{c1::dann::Zeitfolge}} gehen wir spazieren.",
+      "en": "First we'll eat, then we'll go for a walk.",
+      "focus": "Zeitliche Reihenfolge · Adverb auf Position 1",
+      "explanation": "*Zuerst* and **dann** put two actions in order. Both are adverbs in position 1, so in each clause the verb follows directly: *Zuerst essen wir*, *dann gehen wir*. *spazieren* stays at the end with *gehen*.",
+      "pattern": "Zuerst + Verb + Subjekt, dann + Verb + Subjekt …",
+      "mistake": {"wrong": "Zuerst essen wir, dann wir gehen spazieren.", "why": "*dann* is an adverb, not a conjunction, so it takes position 1 and the verb must follow it: *dann gehen wir*."},
+      "examples": [
+        {"de": "Zuerst duscht sie, dann frühstückt sie.", "en": "First she showers, then she has breakfast."},
+        {"de": "Zuerst kaufen wir die Tickets, dann suchen wir unsere Plätze.", "en": "First we buy the tickets, then we look for our seats."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Ich habe angerufen, {{c1::aber::Gegensatz}} niemand war da.",
+      "en": "I called, but nobody was there.",
+      "focus": "Gegensatz · Pronomen als Subjekt",
+      "explanation": "After **aber** the second clause is a new main clause. Its subject is *niemand* (Nominativ) in position 1, followed by *war* in position 2. Mixing Perfekt (*habe angerufen*) and the Präteritum of *sein* (*war*) is normal in spoken German.",
+      "pattern": "…, aber + Subjekt + Verb …",
+      "mistake": {"wrong": "Ich habe angerufen, aber war niemand da.", "why": "*aber* does not fill position 1, so the clause needs its own first element before *war*: *aber niemand war da* (or *aber es war niemand da*)."},
+      "examples": [
+        {"de": "Ich habe geklingelt, aber keiner hat aufgemacht.", "en": "I rang the bell, but nobody opened the door."},
+        {"de": "Wir haben lange gewartet, aber der Kellner ist nicht gekommen.", "en": "We waited a long time, but the waiter didn't come."}
+      ],
+      "words": [{"de": "niemand", "en": "nobody"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Er lernt viel, {{c1::denn::Grund}} er will die Prüfung bestehen.",
+      "en": "He studies a lot because he wants to pass the exam.",
+      "focus": "Grund · Modalverb im zweiten Satz",
+      "explanation": "In the reason clause the modal *will* is the finite verb in position 2 and the infinitive *bestehen* goes to the end, as in any main clause. That is the word order after **denn**. With *weil* both verbs go to the end, the modal last: *weil er die Prüfung bestehen will*.",
+      "pattern": "…, denn + Subjekt + Modalverb + … + Infinitiv",
+      "mistake": {"wrong": "Er lernt viel, denn er die Prüfung bestehen will.", "why": "This is *weil* order. After *denn* the modal stays in position 2: *denn er will die Prüfung bestehen*."},
+      "examples": [
+        {"de": "Sie spart Geld, denn sie will im Sommer nach Kanada fliegen.", "en": "She's saving money because she wants to fly to Canada in the summer."},
+        {"de": "Ich trinke keinen Wein, denn ich muss noch Auto fahren.", "en": "I'm not drinking any wine because I still have to drive."}
+      ],
+      "words": [{"de": "eine Prüfung bestehen", "en": "to pass an exam"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "{{c1::Entweder::zweiteilig, mit oder}} wir fahren heute oder gar nicht.",
+      "en": "Either we go today or not at all.",
+      "focus": "Zweiteilige Konjunktion · nur eine Möglichkeit",
+      "explanation": "**entweder … oder** presents two options, and only one of them can happen. *entweder* can stand in position 0, as here (*Entweder wir fahren*), or in position 1 with inversion (*Entweder fahren wir heute oder gar nicht*). The part after *oder* is shortened: *oder (wir fahren) gar nicht*.",
+      "pattern": "Entweder + Subjekt + Verb …, oder + …",
+      "mistake": {"wrong": "Entweder wir fahren heute oder fahren wir gar nicht.", "why": "*entweder* may cause inversion, but *oder* never does. A full second clause must be *oder wir fahren gar nicht*."},
+      "examples": [
+        {"de": "Entweder du kommst jetzt mit oder du bleibst allein hier.", "en": "Either you come with us now or you stay here alone."},
+        {"de": "Entweder wir buchen heute oder die Plätze sind weg.", "en": "Either we book today or the seats will be gone."}
+      ],
+      "words": [{"de": "gar nicht", "en": "not at all"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Sie kann {{c1::weder::zweiteilig, mit noch}} kochen noch backen.",
+      "en": "She can neither cook nor bake.",
+      "focus": "Zweiteilige Negation",
+      "explanation": "**weder … noch** means neither … nor. It negates both parts by itself, so the sentence needs no *nicht* and no *kein*. Here it joins two infinitives that depend on the modal *kann*.",
+      "pattern": "weder + X + noch + Y",
+      "mistake": {"wrong": "Sie kann nicht weder kochen noch backen.", "why": "*weder … noch* is already negative. An extra *nicht* would be a double negation, which is wrong in Standard German."},
+      "examples": [
+        {"de": "Er trinkt weder Kaffee noch Tee.", "en": "He drinks neither coffee nor tea."},
+        {"de": "Wir haben weder Zeit noch Geld für eine Reise.", "en": "We have neither the time nor the money for a trip."}
+      ],
+      "words": [{"de": "backen", "en": "to bake"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Wir haben Zeit, {{c1::außerdem::Zusatz (Adverb)}} ist das Wetter schön.",
+      "en": "We have time, and besides, the weather is nice.",
+      "focus": "Zusätzliches Argument · Adverb auf Position 1",
+      "explanation": "**außerdem** (besides, also) adds another argument. It is an adverb in position 1, so the verb *ist* follows immediately and the subject *das Wetter* comes after it. With *und* the order would be normal: *und das Wetter ist schön*.",
+      "pattern": "…, außerdem + Verb + Subjekt …",
+      "mistake": {"wrong": "Wir haben Zeit, außerdem das Wetter ist schön.", "why": "*außerdem* is not a conjunction; it fills position 1. The verb comes right after it: *außerdem ist das Wetter schön*."},
+      "examples": [
+        {"de": "Die Wohnung ist hell, außerdem liegt sie zentral.", "en": "The flat is bright, and besides, it's centrally located."},
+        {"de": "Ich habe keine Lust, außerdem muss ich noch arbeiten.", "en": "I don't feel like it, and besides, I still have to work."}
+      ],
+      "words": [{"de": "außerdem", "en": "besides, in addition"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Das Zimmer ist klein, {{c1::dafür::Ausgleich}} aber günstig.",
+      "en": "The room is small, but cheap to make up for it.",
+      "focus": "Ausgleich · Nachteil und Vorteil",
+      "explanation": "**dafür** here means 'to make up for it': a negative point (*klein*) is balanced by a positive one (*günstig*). It is an adverb; in a full clause it takes position 1 with inversion: *dafür ist es aber günstig*. In this short form the verb is left out, and *aber* adds the contrast.",
+      "pattern": "Nachteil, dafür (aber) + Vorteil",
+      "mistake": {"wrong": "Das Zimmer ist klein, dafür es ist aber günstig.", "why": "In a full clause *dafür* is in position 1, so the verb must follow it: *dafür ist es aber günstig*."},
+      "examples": [
+        {"de": "Der Job ist anstrengend, dafür verdient man gut.", "en": "The job is tiring, but on the other hand you earn well."},
+        {"de": "Das Restaurant ist etwas teuer, dafür ist das Essen hervorragend.", "en": "The restaurant is a bit expensive, but the food is excellent."}
+      ],
+      "words": [{"de": "günstig", "en": "cheap, good value"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Er wollte helfen, {{c1::doch::Gegensatz, eher schriftlich}} es war zu spät.",
+      "en": "He wanted to help, but it was too late.",
+      "focus": "Gegensatz · gehobene Alternative",
+      "explanation": "**doch** can be a coordinating conjunction like *aber*: in position 0, with *es* in position 1 and *war* in position 2. It sounds more written than *aber*. *doch* can also be used as an adverb in position 1 with inversion: *doch war es zu spät*. Both orders are correct.",
+      "pattern": "…, doch + Subjekt + Verb … (or: doch + Verb + Subjekt)",
+      "mistake": {"wrong": "Er wollte helfen, doch es zu spät war.", "why": "*doch* never introduces a subordinate clause, so the verb cannot go to the end. Correct: *doch es war zu spät* or *doch war es zu spät*."},
+      "examples": [
+        {"de": "Wir haben lange gesucht, doch wir haben den Schlüssel nicht gefunden.", "en": "We searched for a long time, but we didn't find the key."},
+        {"de": "Sie wollte anrufen, doch ihr Akku war leer.", "en": "She wanted to call, but her battery was dead."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Am Wochenende putzen wir die Wohnung {{c1::und::Addition}} kaufen für die ganze Woche ein.",
+      "en": "At the weekend we clean the flat and do the shopping for the whole week.",
+      "focus": "Gleiches Subjekt · erster Satz mit Inversion",
+      "explanation": "The first clause has inversion because *Am Wochenende* is in position 1 (*putzen wir*). After **und** the shared subject *wir* is simply left out, and the second verb *kaufen* follows the connector; its separable prefix *ein* goes to the end. This short form is the most natural way to join two actions of the same person.",
+      "pattern": "Zeit + Verb + Subjekt …, und + Verb … Präfix",
+      "mistake": {"wrong": "Am Wochenende putzen wir die Wohnung und wir für die ganze Woche einkaufen.", "why": "*und* is a coordinating conjunction (position 0), not a subordinating one, so it never sends the verb to the end. Either leave out the subject (*und kaufen … ein*) or build a normal main clause with the verb in position 2 (*und wir kaufen … ein*)."},
+      "examples": [
+        {"de": "Morgens trinkt sie einen Kaffee und liest die Zeitung.", "en": "In the mornings she drinks a coffee and reads the newspaper."},
+        {"de": "Nach der Arbeit holt er die Kinder ab und kocht das Abendessen.", "en": "After work he picks up the children and cooks dinner."}
+      ],
+      "words": [{"de": "einkaufen", "en": "to do the shopping"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Wohnung ist schön, {{c1::aber::Gegensatz}} leider ist sie sehr teuer.",
+      "en": "The flat is nice, but unfortunately it's very expensive.",
+      "focus": "Gegensatz · anderes Element auf Position 1",
+      "explanation": "The connector **aber** is in position 0, and position 1 can be filled by any element, not only the subject. Here *leider* takes position 1, so *ist* follows and the subject *sie* moves behind the verb. The inversion comes from *leider*, not from the conjunction.",
+      "pattern": "…, aber + Adverb + Verb + Subjekt …",
+      "mistake": {"wrong": "Die Wohnung ist schön, aber leider sie ist sehr teuer.", "why": "After *aber* the clause is a normal main clause: *leider* is position 1, so the verb must be in position 2: *aber leider ist sie sehr teuer*."},
+      "examples": [
+        {"de": "Der Urlaub war toll, aber am Ende hatte ich kein Geld mehr.", "en": "The holiday was great, but at the end I had no money left."},
+        {"de": "Ich mag meinen Job, aber manchmal ist er sehr stressig.", "en": "I like my job, but sometimes it's very stressful."}
+      ],
+      "words": [{"de": "leider", "en": "unfortunately"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Lena war gestern nicht im Büro, {{c1::denn::Grund}} sie hat ihre Mutter im Krankenhaus besucht.",
+      "en": "Lena wasn't in the office yesterday because she visited her mother in hospital.",
+      "focus": "Grund · Perfekt im zweiten Satz",
+      "explanation": "In the reason clause the auxiliary *hat* is the finite verb and stands in position 2; the Partizip II *besucht* goes to the end (Satzklammer). This is normal main-clause order, because **denn** does not change word order. With *weil* the auxiliary would move to the very end: *weil sie ihre Mutter im Krankenhaus besucht hat*.",
+      "pattern": "…, denn + Subjekt + haben/sein + … + Partizip II",
+      "mistake": {"wrong": "Lena war gestern nicht im Büro, denn sie ihre Mutter im Krankenhaus besucht hat.", "why": "Verb-final order belongs to *weil*. After *denn* the auxiliary stays in position 2: *denn sie hat … besucht*."},
+      "examples": [
+        {"de": "Wir sind spät angekommen, denn wir haben den Zug verpasst.", "en": "We arrived late because we missed the train."},
+        {"de": "Er ist sehr müde, denn er hat die ganze Nacht gearbeitet.", "en": "He's very tired because he worked all night."}
+      ],
+      "words": [{"de": "das Krankenhaus (¨-er)", "en": "hospital"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Das ist kein Fehler im Programm, {{c1::sondern::Korrektur}} ein Problem mit dem Server.",
+      "en": "That's not a bug in the program but a problem with the server.",
+      "focus": "Korrektur · nach *kein*",
+      "explanation": "The correction pattern also works after *kein*, the negation of a noun with an indefinite article. *kein Fehler im Programm* is rejected and *ein Problem mit dem Server* replaces it, so the connector is **sondern**. Both noun phrases are Nominativ after *ist*; the second part is positive (*ein*, not *kein*).",
+      "pattern": "kein + Nomen, sondern + ein + Nomen",
+      "mistake": {"wrong": "Das ist kein Fehler im Programm, aber ein Problem mit dem Server.", "why": "The speaker replaces the wrong cause with the real one. After *kein* a replacement needs *sondern*; *aber* would only add a second, separate fact."},
+      "examples": [
+        {"de": "Ich habe keinen Bruder, sondern zwei Schwestern.", "en": "I don't have a brother; I have two sisters."},
+        {"de": "Das ist kein Hotel, sondern eine Jugendherberge.", "en": "That's not a hotel but a youth hostel."}
+      ],
+      "words": [{"de": "der Fehler (-)", "en": "mistake, bug"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie spricht nicht nur Englisch, {{c1::sondern::nicht nur … auch}} auch Japanisch.",
+      "en": "She speaks not only English but also Japanese.",
+      "focus": "Zweiteilige Konjunktion · Steigerung",
+      "explanation": "*nicht nur … sondern auch* (not only … but also) adds a second, often surprising point. *nicht nur* is not a real negation here: both facts are true. The fixed second part is **sondern auch**; *aber auch* is not used in this pair.",
+      "pattern": "nicht nur + X, sondern auch + Y",
+      "mistake": {"wrong": "Sie spricht nicht nur Englisch, aber auch Japanisch.", "why": "The pair is fixed: *nicht nur … sondern auch*. English *but also* tempts learners to use *aber auch*, which is wrong here."},
+      "examples": [
+        {"de": "Er kocht nicht nur gern, sondern auch sehr gut.", "en": "He not only likes cooking, he's also very good at it."},
+        {"de": "Wir besuchen nicht nur Berlin, sondern auch Potsdam.", "en": "We're visiting not only Berlin but also Potsdam."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Fahren wir mit dem Zug, {{c1::oder::Alternative}} nehmen wir das Auto?",
+      "en": "Are we going by train, or are we taking the car?",
+      "focus": "Auswahl · zwei Entscheidungsfragen",
+      "explanation": "**oder** joins two complete yes/no questions. In each question the verb is in position 1 (*Fahren wir … nehmen wir*). The conjunction is in position 0, so it does not change this order. Between two full clauses the comma before *oder* is optional.",
+      "pattern": "Verb + Subjekt …, oder + Verb + Subjekt …?",
+      "mistake": {"wrong": "Fahren wir mit dem Zug, oder wir das Auto nehmen?", "why": "*oder* does not start a subordinate clause, so the verb does not go to the end. The second part is a normal question: *oder nehmen wir das Auto?*"},
+      "examples": [
+        {"de": "Gehen wir ins Kino, oder bleiben wir heute zu Hause?", "en": "Shall we go to the cinema, or shall we stay at home today?"},
+        {"de": "Hast du schon gegessen, oder soll ich dir etwas machen?", "en": "Have you eaten already, or shall I make you something?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Kurs ist nicht billig, {{c1::aber::Gegensatz}} er lohnt sich.",
+      "en": "The course isn't cheap, but it's worth it.",
+      "focus": "Negation + Gegensatz (keine Korrektur)",
+      "explanation": "The first clause contains *nicht*, but the second clause does not replace *billig*; it adds a positive point against it. So the connector is **aber**, not *sondern*. Test: *sondern* only fits if the second part can replace the negated word (*nicht billig, sondern teuer*).",
+      "pattern": "nicht + X, aber + neuer Hauptsatz",
+      "mistake": {"wrong": "Der Kurs ist nicht billig, sondern er lohnt sich.", "why": "*er lohnt sich* is not a correction of *billig*; both statements are true at the same time. A contrast like this needs *aber*."},
+      "examples": [
+        {"de": "Die Reise war nicht einfach, aber sie war wunderschön.", "en": "The journey wasn't easy, but it was beautiful."},
+        {"de": "Ich verstehe nicht alles, aber ich verstehe das Wichtigste.", "en": "I don't understand everything, but I understand the most important things."}
+      ],
+      "words": [{"de": "sich lohnen", "en": "to be worth it"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Wir müssen uns beeilen, {{c1::denn::Grund}} der Zug fährt in zehn Minuten ab.",
+      "en": "We have to hurry because the train leaves in ten minutes.",
+      "focus": "Grund · trennbares Verb",
+      "explanation": "In the reason clause *fährt* is in position 2 and the separable prefix *ab* goes to the end, exactly as in a normal main clause; **denn** does not change this. With *weil*, prefix and verb join again at the end: *weil der Zug in zehn Minuten abfährt*.",
+      "pattern": "…, denn + Subjekt + Verb … + Präfix",
+      "mistake": {"wrong": "Wir müssen uns beeilen, denn der Zug in zehn Minuten abfährt.", "why": "Verb-final order with a joined prefix belongs to *weil*. After *denn* the verb is in position 2 and the prefix separates: *denn der Zug fährt … ab*."},
+      "examples": [
+        {"de": "Ich muss los, denn der Film fängt gleich an.", "en": "I have to go because the film starts soon."},
+        {"de": "Ich ziehe mich schnell um, denn wir gehen heute Abend aus.", "en": "I'm quickly getting changed because we're going out tonight."}
+      ],
+      "words": [{"de": "sich beeilen", "en": "to hurry"}, {"de": "abfahren", "en": "to leave, to depart"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Mein Handy war leer, {{c1::deshalb::Folge}} konnte ich dich nicht anrufen.",
+      "en": "My phone was dead, so I couldn't call you.",
+      "focus": "Folge · Modalverb im Präteritum",
+      "explanation": "The second clause gives the result of the first. **deshalb** is an adverb in position 1, so the modal *konnte* follows directly, then the subject *ich*; the infinitive *anrufen* goes to the end. Compare *denn*, which gives the reason instead and keeps normal order: *Ich konnte dich nicht anrufen, denn mein Handy war leer.*",
+      "pattern": "Grund, deshalb + Modalverb + Subjekt … + Infinitiv",
+      "mistake": {"wrong": "Mein Handy war leer, deshalb ich konnte dich nicht anrufen.", "why": "*deshalb* fills position 1, so the finite verb *konnte* must come immediately after it: *deshalb konnte ich*."},
+      "examples": [
+        {"de": "Der Aufzug war kaputt, deshalb mussten wir die Treppe nehmen.", "en": "The lift was broken, so we had to take the stairs."},
+        {"de": "Es hat stark geschneit, deshalb konnte der Bus nicht fahren.", "en": "It snowed heavily, so the bus couldn't run."}
+      ],
+      "words": [{"de": "leer (Akku, Handy)", "en": "dead, flat (battery)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er hat viel gelernt. {{c1::Trotzdem::Gegensatz (Adverb)}} hat er die Prüfung nicht bestanden.",
+      "en": "He studied a lot. Even so, he didn't pass the exam.",
+      "focus": "Unerwartete Folge · neuer Satz",
+      "explanation": "**Trotzdem** can also start a new sentence after a full stop. It fills position 1, so the auxiliary *hat* comes next, then the subject *er*, and the Partizip II *bestanden* goes to the end. The expected result (passing) did not happen.",
+      "pattern": "Satz. Trotzdem + Hilfsverb + Subjekt … + Partizip II",
+      "mistake": {"wrong": "Er hat viel gelernt. Trotzdem er hat die Prüfung nicht bestanden.", "why": "*Trotzdem* is in position 1, so the finite verb *hat* must follow it directly: *Trotzdem hat er …*"},
+      "examples": [
+        {"de": "Wir haben früh angefangen. Trotzdem sind wir nicht fertig geworden.", "en": "We started early. Even so, we didn't finish."},
+        {"de": "Das Essen war teuer. Trotzdem hat es uns nicht geschmeckt.", "en": "The food was expensive. Even so, we didn't like it."}
+      ],
+      "words": [{"de": "bestehen", "en": "to pass (an exam)"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Meine Schwester studiert Medizin {{c1::und::Addition}} mein Bruder macht eine Ausbildung.",
+      "en": "My sister is studying medicine and my brother is doing an apprenticeship.",
+      "focus": "Zwei Hauptsätze ohne Komma",
+      "explanation": "Two main clauses with different subjects are joined by **und**. Under the current spelling rules, the comma between two main clauses joined by *und* is optional; this sentence is written without one. Each clause keeps its own subject and verb: *meine Schwester studiert*, *mein Bruder macht*.",
+      "pattern": "Subjekt 1 + Verb … und + Subjekt 2 + Verb …",
+      "mistake": {"wrong": "Meine Schwester studiert Medizin und macht mein Bruder eine Ausbildung.", "why": "*und* does not count as position 1, so there is no inversion. The new subject comes first: *und mein Bruder macht eine Ausbildung*."},
+      "examples": [
+        {"de": "Tom spielt Gitarre und seine Freundin singt.", "en": "Tom plays the guitar and his girlfriend sings."},
+        {"de": "Der Laden ist klein und die Preise sind hoch.", "en": "The shop is small and the prices are high."}
+      ],
+      "words": [{"de": "die Ausbildung (-en)", "en": "vocational training, apprenticeship"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Entweder wir nehmen ein Taxi, {{c1::oder::zweiteilig, mit entweder}} wir gehen zu Fuß.",
+      "en": "Either we take a taxi or we walk.",
+      "focus": "Zweiteilige Konjunktion · zwei Hauptsätze",
+      "explanation": "Here the two-part connector joins two full clauses. *Entweder* is in position 0, so the first clause has *wir* before *nehmen*; the second part, **oder**, is always position 0, so *wir gehen* keeps normal order. *Entweder* may also take position 1 with inversion: *Entweder nehmen wir ein Taxi, oder …*",
+      "pattern": "Entweder + Hauptsatz, oder + Hauptsatz",
+      "mistake": {"wrong": "Entweder wir nehmen ein Taxi, oder gehen wir zu Fuß.", "why": "*oder* never causes inversion. After it the subject comes before the verb: *oder wir gehen zu Fuß*."},
+      "examples": [
+        {"de": "Entweder du hilfst mir, oder ich mache es allein.", "en": "Either you help me or I'll do it alone."},
+        {"de": "Entweder wir essen jetzt, oder wir essen nach dem Kino.", "en": "Either we eat now or we eat after the cinema."}
+      ],
+      "words": [{"de": "zu Fuß gehen", "en": "to walk, to go on foot"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the position of the coordinating conjunctions.",
+      "prompt": "Which connectors stand in position 0, and what does that mean for the word order of the clause after them?",
+      "answer": "**und, aber, oder, denn, sondern** (and *doch*). They stand outside the clause, so the clause after them has normal main-clause order: one element in position 1, the finite verb in position 2.",
+      "explanation": "Position 0 means the connector is not counted. The clause after it starts with the subject or any other element, and the verb follows in position 2. A memory aid is **ADUSO**: *aber, denn, und, sondern, oder*.",
+      "examples": [
+        {"de": "Ich warte schon lange, aber der Bus kommt nicht.", "en": "I've been waiting for a long time, but the bus isn't coming."},
+        {"de": "Wir gehen ins Kino, oder wir spielen Karten.", "en": "We'll go to the cinema, or we'll play cards."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the difference between the two connectors.",
+      "prompt": "After a negation, when do you use sondern and when do you use aber?",
+      "answer": "**sondern** when the second part replaces the negated part (not X, Y instead). **aber** when the negated statement stays true and the second part only adds a contrast.",
+      "explanation": "*sondern* always needs *nicht* or *kein* in the first part, and the two parts exclude each other. *aber* can follow a positive or a negative clause; both statements are true. Test: can the second part take the place of the negated word? Then use *sondern*.",
+      "examples": [
+        {"de": "Ich trinke keinen Wein, sondern Wasser.", "en": "I'm not drinking wine; I'm drinking water."},
+        {"de": "Der Laptop ist nicht neu, aber er funktioniert gut.", "en": "The laptop isn't new, but it works well."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Compare the three connectors of cause and result.",
+      "prompt": "denn, weil and deshalb all deal with cause and result. How do they differ in meaning and word order?",
+      "answer": "**denn** + reason, main clause with the verb in position 2. **weil** + reason, Nebensatz with the verb at the end. **deshalb** + result, adverb in position 1, so the verb follows directly (inversion).",
+      "explanation": "*denn* and *weil* introduce the reason; *deshalb* introduces the consequence, so the clause order is reversed. Only a *weil* clause can stand at the start of the sentence; a *denn* clause always comes second.",
+      "examples": [
+        {"de": "Ich bleibe im Bett, weil ich Fieber habe.", "en": "I'm staying in bed because I have a fever."},
+        {"de": "Ich habe Fieber, deshalb bleibe ich im Bett.", "en": "I have a fever, so I'm staying in bed."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about commas.",
+      "prompt": "When do you need a comma before und, oder, aber, denn and sondern?",
+      "answer": "Always before **aber, denn, sondern** (and *doch*). Before **und / oder** between two full main clauses the comma is optional; when *und / oder* join single words or phrases there is no comma.",
+      "explanation": "*aber, denn* and *sondern* always mark a contrast or a reason, so German always separates them with a comma, even before a short phrase (*nicht heute, sondern morgen*). *und* and *oder* only get a comma by choice, to make a long sentence clearer.",
+      "examples": [
+        {"de": "Ich kaufe Brot und Milch.", "en": "I'm buying bread and milk."},
+        {"de": "Sie ist nicht hier, sondern in München.", "en": "She isn't here; she's in Munich."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about leaving out the subject.",
+      "prompt": "After which connectors can you leave out a subject that is the same in both clauses?",
+      "answer": "After **und, oder, aber, sondern** (*Er steht auf und duscht.*). Not after **denn**: a *denn* clause always needs its own subject.",
+      "explanation": "With *und, oder, aber* and *sondern* the second part can share the subject (and even an auxiliary) with the first part. *denn* always introduces a complete main clause with its own subject and verb. If you repeat the subject after *und*, it comes before the verb (*und er duscht*), not after it (✗ *und duscht er*).",
+      "examples": [
+        {"de": "Sie hat lange gesucht, aber nichts gefunden.", "en": "She searched for a long time but found nothing."},
+        {"de": "Er bleibt zu Hause, denn er fühlt sich nicht gut.", "en": "He's staying at home because he doesn't feel well."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Wir fahren nicht im Juli in den Urlaub, ___ im August.",
+      "options": ["aber", "sondern", "oder"],
+      "correct": "sondern",
+      "answer": "Wir fahren nicht im Juli in den Urlaub, sondern im August.",
+      "explanation": "*im August* replaces the negated *im Juli*, so you need *sondern*. *aber* would add a contrast, not a correction, and *oder* offers a choice, which makes no sense after *nicht*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct connector for this word order.",
+      "prompt": "Ich kann heute nicht kommen, ___ ich habe einen Arzttermin.",
+      "options": ["weil", "denn", "deshalb"],
+      "correct": "denn",
+      "answer": "Ich kann heute nicht kommen, denn ich habe einen Arzttermin.",
+      "explanation": "The second clause gives the reason and has the verb *habe* in position 2 after the subject, which fits only *denn*. *weil* would need the verb at the end (*weil ich einen Arzttermin habe*). *deshalb* introduces a result and needs inversion (*deshalb habe ich …*), which does not fit the meaning either."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Das Konzert war sehr laut, ___ die Musik war toll.",
+      "options": ["aber", "sondern", "deshalb"],
+      "correct": "aber",
+      "answer": "Das Konzert war sehr laut, aber die Musik war toll.",
+      "explanation": "The second clause is a positive contrast to a negative point, so *aber* is right; it keeps the order *die Musik war*. *sondern* needs a negation in the first clause. *deshalb* would need inversion (*deshalb war die Musik …*) and would wrongly present the music as a result of the noise."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich esse kein Fleisch, denn ich Vegetarier bin.",
+      "answer": "Ich esse kein Fleisch, denn ich bin Vegetarier.",
+      "explanation": "The verb is at the end, as after *weil*. *denn* is a coordinating conjunction, so the clause after it keeps the verb in position 2: *denn ich bin Vegetarier*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist nicht mein Handy, aber das Handy von Paul.",
+      "answer": "Das ist nicht mein Handy, sondern das Handy von Paul.",
+      "explanation": "The second part corrects the negated part: the phone belongs to Paul, not to me. A correction after *nicht* needs *sondern*, not *aber*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Es regnet stark, deshalb wir bleiben heute drinnen.",
+      "answer": "Es regnet stark, deshalb bleiben wir heute drinnen.",
+      "explanation": "*deshalb* is an adverb in position 1, not a conjunction in position 0. The verb must come directly after it, and the subject follows: *deshalb bleiben wir*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe Hunger, aber ist der Kühlschrank leer.",
+      "answer": "Ich habe Hunger, aber der Kühlschrank ist leer.",
+      "explanation": "*aber* is in position 0 and causes no inversion. The subject *der Kühlschrank* takes position 1, and *ist* follows in position 2."
+    },
+    {
+      "key": "d13",
+      "type": "combine",
+      "instruction": "Join the two sentences with *denn*.",
+      "prompt": "Ich mache das Fenster auf. Im Zimmer ist es sehr warm.",
+      "answer": "Ich mache das Fenster auf, denn im Zimmer ist es sehr warm.",
+      "explanation": "The second sentence is the reason, so it follows *denn* after a comma. Its word order does not change: *im Zimmer* stays in position 1 and *ist* in position 2, because *denn* is position 0."
+    },
+    {
+      "key": "d14",
+      "type": "combine",
+      "instruction": "Join the two sentences with *sondern*. Do not repeat what is the same.",
+      "prompt": "Er fährt nicht nach Rom. Er fährt nach Mailand.",
+      "answer": "Er fährt nicht nach Rom, sondern nach Mailand.",
+      "explanation": "*nach Mailand* replaces the negated *nach Rom*, so *sondern* is the connector. Subject and verb (*er fährt*) are the same in both sentences, so after *sondern* only the new place is needed."
+    },
+    {
+      "key": "d15",
+      "type": "combine",
+      "instruction": "Join the two sentences with *trotzdem* at the start of the second clause.",
+      "prompt": "Der Film war sehr lang. Wir haben ihn bis zum Ende gesehen.",
+      "answer": "Der Film war sehr lang, trotzdem haben wir ihn bis zum Ende gesehen.",
+      "explanation": "*trotzdem* takes position 1 of the second clause, so the auxiliary *haben* follows directly and the subject *wir* comes after it. The Partizip II *gesehen* stays at the end."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace *denn* with *weil*. Change the word order where necessary.",
+      "prompt": "Sie lernt jeden Abend, denn sie hat bald eine Prüfung.",
+      "answer": "Sie lernt jeden Abend, weil sie bald eine Prüfung hat.",
+      "explanation": "The meaning stays the same, but *weil* starts a Nebensatz. The finite verb *hat* moves from position 2 to the end of the clause."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Rewrite with *deshalb*: the reason comes first, the result second.",
+      "prompt": "Ich bin nicht gekommen, denn ich war krank.",
+      "answer": "Ich war krank, deshalb bin ich nicht gekommen.",
+      "explanation": "*deshalb* introduces the result, so the two clauses change places. In the *deshalb* clause the auxiliary *bin* comes right after *deshalb* (position 1 → verb in position 2), then *ich*, and the Partizip II *gekommen* stays at the end."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich gehe",
+      "prompt": "denn / ins Bett / ich / muss / morgen früh / jetzt / aufstehen / ich gehe",
+      "answer": "Ich gehe jetzt ins Bett, denn ich muss morgen früh aufstehen.",
+      "explanation": "The first clause is *Ich gehe jetzt ins Bett* (time before place). After *denn* comes a normal main clause: subject *ich*, modal *muss* in position 2, and the infinitive *aufstehen* at the end. Also correct: *…, denn morgen früh muss ich aufstehen.* (time in position 1, subject after the modal)."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Es war",
+      "prompt": "trotzdem / sehr kalt / wir / sind / schwimmen gegangen / es war",
+      "answer": "Es war sehr kalt, trotzdem sind wir schwimmen gegangen.",
+      "explanation": "*trotzdem* is in position 1 of the second clause, so the auxiliary *sind* follows directly and the subject *wir* comes after it. *schwimmen gegangen* stays at the end of the clause. Also correct: *Es war sehr kalt, wir sind trotzdem schwimmen gegangen.* (subject in position 1, *trotzdem* in the Mittelfeld)."
+    }
+  ]
+}

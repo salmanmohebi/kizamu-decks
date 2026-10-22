@@ -1,0 +1,715 @@
+{
+  "topic_id": "h03-konjunktiv-2-modal-vergangenheit",
+  "level": "B2",
+  "title_de": "Konjunktiv II der Vergangenheit mit Modalverben",
+  "title_en": "Past subjunctive with modal verbs (should have, could have, would have had to)",
+  "rule": {
+    "summary": "The Konjunktiv II der Vergangenheit of a modal verb is formed with **hätte** + infinitive of the main verb + **infinitive of the modal** (Ersatzinfinitiv): *Ich hätte früher kommen sollen.* It talks about past actions that did **not** happen: regret (*hätte … sollen/müssen*), reproach (*Du hättest anrufen können!*), missed possibilities (*hätte … können*), things that should not have happened (*hätte nicht … dürfen*) and consequences of unreal conditions (*Ohne Auto hätten wir laufen müssen*). The passive version is *hätte* + Partizip II + *werden* + modal: *Das hätte gemacht werden müssen.* It contrasts with the indicative Präteritum (*ich musste, ich konnte, ich sollte*), which reports what really was necessary, possible or planned.",
+    "table": "| Form | Bedeutung | Beispiel |\n|---|---|---|\n| hätte … **sollen** | should have (advice, regret, criticism) | Ich hätte früher gehen **sollen**. |\n| hätte … **müssen** | ought to have / would have had to | Du hättest das wissen **müssen**. · Sonst hätten wir laufen **müssen**. |\n| hätte … **können** | could have (missed chance, reproach, worse outcome) | Du hättest anrufen **können**! |\n| hätte nicht … **dürfen** | should not have (not acceptable) | Das hätte nicht passieren **dürfen**. |\n| hätte … **wollen** | would have wanted to (rare) | Sie hätte lieber Kunst studieren **wollen**. |\n| hätte nicht zu … **brauchen** | needn't have | Du hättest nicht zu kommen **brauchen**. |\n| Passiv: hätte + Part. II + werden + Modal | should have been / could have been | Die Brücke hätte saniert werden **müssen**. |\n| Indikativ Prät.: musste / konnte / sollte / durfte | real past necessity / ability / plan / permission | Ich **musste** zu Fuß gehen. |",
+    "steps": [
+      "Decide whether the action really happened. If yes, use the indicative (*Ich musste warten. Er konnte helfen.*). If it did **not** happen (or is imagined), use the Konjunktiv II der Vergangenheit.",
+      "Choose the modal by meaning: advice/regret → *sollen*; strong necessity or an unreal consequence → *müssen*; missed possibility or reproach → *können*; not acceptable → *nicht dürfen*.",
+      "Use **hätte** in all persons (*hätte, hättest, hätten, hättet*) – also with verbs that take *sein* in the Perfekt (*gehen, passieren, einreisen*), because the auxiliary belongs to the modal.",
+      "Main clause: *hätte* in position 2 (position 1 in a yes/no question); at the end the main-verb infinitive, then the modal infinitive: *… anrufen können.* No Partizip of the modal (✗ *gekonnt*) and no Partizip of the main verb (✗ *angerufen können*).",
+      "Passive: Partizip II + **werden** (not *worden*) + modal infinitive at the end: *hätte repariert werden müssen*. With *lassen*: *hätte reparieren lassen sollen*.",
+      "In a Nebensatz *hätte* moves to the front of the cluster (*obwohl ich es hätte wissen sollen*); see the topic *Verbcluster im Nebensatz*."
+    ],
+    "pitfalls": [
+      "*wäre* with a sein-verb: ✗ *Ich wäre früher gehen sollen.* → ✓ *Ich hätte früher gehen sollen.*",
+      "Partizip instead of infinitive: ✗ *Du hättest anrufen gekonnt.* / ✗ *Du hättest angerufen können.* → ✓ *Du hättest anrufen können.*",
+      "*worden* in the passive: ✗ *Das hätte gemacht worden müssen.* → ✓ *Das hätte gemacht werden müssen.*",
+      "Indicative for a missed action: *Ich sollte dich anrufen* = I was supposed to call you (a plan; or: I should call you now). Regret about not calling is ✓ *Ich hätte dich anrufen sollen.*",
+      "Confusing *hätte … können* with *könnte … haben*: ✓ *Er hätte den Zug nehmen können* (it was possible, he didn't) vs. ✓ *Er könnte den Zug genommen haben* (perhaps he did)."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Ich {{c1::hätte::haben (Konj. II)}} mich viel früher um einen Studienplatz bewerben sollen.",
+      "en": "I should have applied for a university place much earlier.",
+      "focus": "Bedauern · eigene Entscheidung",
+      "explanation": "The speaker regrets something that did not happen in the past. The Konjunktiv II der Vergangenheit of *sollen* is **hätte** (position 2) + *bewerben* + *sollen* (Ersatzinfinitiv) at the end. The reflexive *mich* and the adverbials stay in the Mittelfeld.",
+      "pattern": "Subjekt + **hätte** + … + Infinitiv + sollen",
+      "mistake": {"wrong": "Ich hätte mich viel früher um einen Studienplatz bewerben gesollt.", "why": "When a modal has a dependent infinitive, it never appears as a Partizip (*gesollt*). It takes the infinitive form *sollen* (Ersatzinfinitiv)."},
+      "examples": [
+        {"de": "Ich hätte die Wohnung vor dem Einzug genauer besichtigen sollen.", "en": "I should have inspected the flat more carefully before moving in."},
+        {"de": "Wir hätten besser eine Reiserücktrittsversicherung abschließen sollen.", "en": "We really should have taken out travel cancellation insurance."}
+      ],
+      "words": [{"de": "sich bewerben um", "en": "to apply for"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir hätten uns auf dieses riskante Geschäft nie einlassen {{c1::sollen::Modalverb · Rat}}.",
+      "en": "We should never have got involved in this risky deal.",
+      "focus": "Bedauern · negiert mit nie",
+      "explanation": "*hätte … nie … sollen* = should never have: the deal happened, and now the speakers regret it. *sollen* expresses that it would have been the right advice not to do it. The order at the end is main verb first, modal last: *einlassen* **sollen**.",
+      "pattern": "hätte + … + nie + Infinitiv + **sollen**",
+      "mistake": {"wrong": "Wir hätten uns auf dieses riskante Geschäft nie sollen einlassen.", "why": "In a main clause the modal infinitive is the very last word. The main-verb infinitive *einlassen* comes before it."},
+      "examples": [
+        {"de": "Du hättest ihm das Geld nie leihen sollen.", "en": "You should never have lent him the money."},
+        {"de": "Die Partei hätte diesen Kandidaten nie aufstellen sollen.", "en": "The party should never have nominated this candidate."}
+      ],
+      "words": [{"de": "sich einlassen auf + Akk.", "en": "to get involved in"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Als erfahrene Juristin hätte ich die Lücke im Vertrag sofort {{c1::bemerken müssen::bemerken + Pflicht}}.",
+      "en": "As an experienced lawyer I ought to have noticed the gap in the contract immediately.",
+      "focus": "Selbstkritik · starke Verpflichtung",
+      "explanation": "*hätte … müssen* is stronger than *hätte … sollen*: given the speaker's experience, noticing the gap was clearly her duty, but she did not notice it. Both verbs stand as infinitives at the end: **bemerken müssen**. The phrase *Als erfahrene Juristin* fills the Vorfeld, so *hätte* comes before the subject *ich*.",
+      "pattern": "Vorfeld + **hätte** + Subjekt + … + **Infinitiv + müssen**",
+      "mistake": {"wrong": "Als erfahrene Juristin hätte ich die Lücke im Vertrag sofort bemerkt müssen.", "why": "The main verb is an infinitive in this construction, not a Partizip II. *bemerkt müssen* mixes the Perfekt of *bemerken* with the modal."},
+      "examples": [
+        {"de": "Als Kapitän hätte er die Gefahr früher erkennen müssen.", "en": "As captain he ought to have recognised the danger earlier."},
+        {"de": "Bei diesen Symptomen hätte der Arzt sofort einen Test anordnen müssen.", "en": "With these symptoms the doctor ought to have ordered a test immediately."}
+      ],
+      "words": [{"de": "die Juristin (-nen)", "en": "lawyer (female)"}, {"de": "die Lücke (-n)", "en": "gap, loophole"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Du hättest mir wenigstens kurz Bescheid sagen {{c1::können::Modalverb · Vorwurf}}!",
+      "en": "You could at least have let me know!",
+      "focus": "Vorwurf · mit wenigstens",
+      "explanation": "*hätte … können* as a reproach: it would have been easy and possible, so the speaker is annoyed that it did not happen. The particle *wenigstens* (at least) is typical of this use. The modal infinitive **können** closes the sentence after *Bescheid sagen*.",
+      "pattern": "Du + hättest + wenigstens + … + Infinitiv + **können**!",
+      "mistake": {"wrong": "Du hättest mir wenigstens kurz Bescheid gesagt können!", "why": "*gesagt* is a Partizip II. In the Konjunktiv II der Vergangenheit with a modal, both verbs at the end are infinitives: *sagen können*."},
+      "examples": [
+        {"de": "Ihr hättet wenigstens den Müll rausbringen können!", "en": "You could at least have taken the rubbish out!"},
+        {"de": "Er hätte sich wenigstens entschuldigen können.", "en": "He could at least have apologised."}
+      ],
+      "words": [{"de": "Bescheid sagen", "en": "to let sb. know"}],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Das {{c1::hättest du::du / haben (Konj. II)}} vor den Kunden wirklich nicht sagen dürfen.",
+      "en": "You really shouldn't have said that in front of the customers.",
+      "focus": "Vorwurf · Objekt im Vorfeld",
+      "explanation": "*hätte nicht … dürfen* says that an action that did happen was not acceptable. The object *Das* is in the Vorfeld for emphasis, so the finite **hättest** stays in position 2 and the subject **du** follows it. *sagen dürfen* closes the sentence.",
+      "pattern": "Objekt (Vorfeld) + **hättest + du** + … + nicht + Infinitiv + dürfen",
+      "mistake": {"wrong": "Das hättest du vor den Kunden wirklich nicht sagen gedurft.", "why": "With a dependent infinitive the modal appears as an infinitive (*dürfen*), never as the Partizip *gedurft*."},
+      "examples": [
+        {"de": "So etwas hätte der Trainer öffentlich nicht behaupten dürfen.", "en": "The coach shouldn't have claimed something like that in public."},
+        {"de": "Diese Daten hätte die Firma ohne Zustimmung nicht weitergeben dürfen.", "en": "The company should not have passed on this data without consent."}
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ein solcher Fehler {{c1::hätte::Hilfsverb (Konj. II)}} in einem Labor dieser Größe nie passieren dürfen.",
+      "en": "A mistake like that should never have happened in a laboratory of this size.",
+      "focus": "Kritik · Verb mit sein im Perfekt",
+      "explanation": "*passieren* forms its Perfekt with *sein* (*es ist passiert*), but here the auxiliary belongs to the modal *dürfen*, and modals always use *haben*. So the form is **hätte** … *passieren dürfen*, never *wäre*. *nie … dürfen* expresses strong criticism of something that did happen.",
+      "pattern": "Subjekt + **hätte** + … + nie + Infinitiv (sein-Verb) + dürfen",
+      "mistake": {"wrong": "Ein solcher Fehler wäre in einem Labor dieser Größe nie passieren dürfen.", "why": "The choice of auxiliary depends on the last verb in the chain, the modal *dürfen*, which takes *haben*. *wäre* is only correct without a modal: *Das wäre nie passiert.*"},
+      "examples": [
+        {"de": "So ein Unfall hätte auf einer modernen Baustelle nicht passieren dürfen.", "en": "An accident like that should not have happened on a modern building site."},
+        {"de": "Der Zug hätte bei diesem Signal gar nicht losfahren dürfen.", "en": "The train should not have set off at all with this signal."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ihr {{c1::hättet::Hilfsverb, ihr (Konj. II)}} doch gleich mit dem Taxi zum Flughafen fahren können.",
+      "en": "You could have just taken a taxi to the airport straight away.",
+      "focus": "Vorwurf mit doch · Bewegungsverb",
+      "explanation": "*fahren* takes *sein* in the Perfekt, but the modal *können* decides the auxiliary: **hättet** (Konjunktiv II of *haben*, 2nd person plural). The particle *doch* makes the reproach sound like an obvious solution that the others missed.",
+      "pattern": "Ihr + **hättet** + doch + … + Infinitiv + können",
+      "mistake": {"wrong": "Ihr wärt doch gleich mit dem Taxi zum Flughafen fahren können.", "why": "*wärt* would be correct only without the modal (*Ihr wärt mit dem Taxi gefahren*). With a modal, the auxiliary is always a form of *haben*: *hättet*."},
+      "examples": [
+        {"de": "Du hättest doch einfach mit dem Rad kommen können.", "en": "You could just have come by bike."},
+        {"de": "Sie hätten doch eine Station früher aussteigen können.", "en": "They could have got off one stop earlier."}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Mit einem besseren Torwart {{c1::hätte die Mannschaft::die Mannschaft / haben (Konj. II)}} das Finale gewinnen können.",
+      "en": "With a better goalkeeper the team could have won the final.",
+      "focus": "Verpasste Möglichkeit · Bedingung ohne wenn",
+      "explanation": "*Mit einem besseren Torwart* replaces an unreal condition (*Wenn sie einen besseren Torwart gehabt hätte, …*). As a phrase in the Vorfeld it triggers inversion: **hätte die Mannschaft**. *hätte … gewinnen können* describes a possibility that was not realised.",
+      "pattern": "Präpositionalphrase (Vorfeld) + **hätte + Subjekt** + … + Infinitiv + können",
+      "mistake": {"wrong": "Mit einem besseren Torwart die Mannschaft hätte das Finale gewinnen können.", "why": "The prepositional phrase already fills the Vorfeld, so the finite *hätte* must come directly after it, and the subject follows."},
+      "examples": [
+        {"de": "Mit etwas mehr Glück hätten wir die Ausschreibung gewinnen können.", "en": "With a bit more luck we could have won the tender."},
+        {"de": "Bei besserem Wetter hätte man vom Gipfel bis zu den Alpen sehen können.", "en": "In better weather you could have seen as far as the Alps from the summit."}
+      ],
+      "words": [{"de": "der Torwart (¨-e)", "en": "goalkeeper"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Der Unfall sah dramatisch aus, aber es hätte noch viel schlimmer {{c1::ausgehen können::ausgehen + Möglichkeit}}.",
+      "en": "The accident looked dramatic, but it could have turned out much worse.",
+      "focus": "Mögliches schlimmeres Ergebnis",
+      "explanation": "*hätte … können* here does not criticise anyone: it names a worse outcome that was possible but did not happen (relief). *ausgehen* (to turn out) is separable and stays joined in the infinitive: **ausgehen können**. Although *ausgehen* takes *sein* in the Perfekt, the modal requires *hätte*.",
+      "pattern": "es + hätte + … + **Infinitiv + können**",
+      "mistake": {"wrong": "Der Unfall sah dramatisch aus, aber es wäre noch viel schlimmer ausgehen können.", "why": "The auxiliary is chosen by the modal *können*, which always takes *haben*. *wäre* only works without the modal: *es wäre schlimmer ausgegangen*."},
+      "examples": [
+        {"de": "Zum Glück war niemand im Haus – das hätte böse enden können.", "en": "Luckily nobody was in the house – that could have ended badly."},
+        {"de": "Der Sturz hätte ihn das Leben kosten können.", "en": "The fall could have cost him his life."}
+      ],
+      "words": [{"de": "ausgehen", "en": "to turn out, to end"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wenn der letzte Zug ausgefallen wäre, hätten wir ein Taxi nehmen {{c1::müssen::Notwendigkeit}}.",
+      "en": "If the last train had been cancelled, we would have had to take a taxi.",
+      "focus": "Irreale Folge · Notwendigkeit",
+      "explanation": "Here *hätte … müssen* is not a criticism but the consequence of an unreal condition: the train was not cancelled, so the taxi was not needed. English uses *would have had to*. The *wenn*-clause fills the Vorfeld, so the main clause starts with *hätten*, and **müssen** closes it.",
+      "pattern": "Wenn + … + wäre/hätte, + **hätten** + Subjekt + … + Infinitiv + müssen",
+      "mistake": {"wrong": "Wenn der letzte Zug ausgefallen wäre, hätten wir ein Taxi nehmen gemusst.", "why": "*gemusst* is only used when *müssen* has no other verb (*Wir hätten es gemusst*). With the infinitive *nehmen* it must be *müssen*."},
+      "examples": [
+        {"de": "Wenn die Heizung im Winter ausgefallen wäre, hätten wir das Haus räumen müssen.", "en": "If the heating had failed in winter, we would have had to leave the house."},
+        {"de": "Wenn das Gericht anders entschieden hätte, hätte die Firma Millionen zahlen müssen.", "en": "If the court had decided differently, the company would have had to pay millions."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Hätte man die Warnungen ernst genommen, hätten viele Menschen {{c1::gerettet werden können::retten → Passiv + Möglichkeit}}.",
+      "en": "If the warnings had been taken seriously, many people could have been saved.",
+      "focus": "Passiv · verpasste Möglichkeit",
+      "explanation": "The condition has verb-first order instead of *wenn* (*Hätte man …*). The consequence is passive: *viele Menschen* are the ones who could have been saved. The passive infinitive is **gerettet werden** (Partizip II + *werden*), followed by the modal infinitive *können*: **gerettet werden können**.",
+      "pattern": "Hätte + …, hätten + Subjekt + **Partizip II + werden + können**",
+      "mistake": {"wrong": "Hätte man die Warnungen ernst genommen, hätten viele Menschen gerettet worden können.", "why": "*worden* is the Partizip of passive *werden* and is used only in the Perfekt passive (*sind gerettet worden*). Before a modal infinitive the passive infinitive *gerettet werden* is needed."},
+      "examples": [
+        {"de": "Hätte man rechtzeitig reagiert, hätte der Brand schneller gelöscht werden können.", "en": "If people had reacted in time, the fire could have been put out faster."},
+        {"de": "Mit einer besseren Planung hätten die Kosten deutlich gesenkt werden können.", "en": "With better planning the costs could have been reduced considerably."}
+      ],
+      "words": [{"de": "ernst nehmen", "en": "to take seriously"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Brücke hätte schon vor Jahren {{c1::saniert werden müssen::sanieren → Passiv + Notwendigkeit}}.",
+      "en": "The bridge should have been renovated years ago.",
+      "focus": "Passiv · Kritik an Versäumnis",
+      "explanation": "A criticism without naming the person responsible: the passive *saniert werden* puts the bridge in the subject position. With the modal the end of the sentence is **saniert werden müssen**, and the finite verb is *hätte*. English uses *should have been* here, although the German modal is *müssen* (strong necessity).",
+      "pattern": "Subjekt + hätte + … + **Partizip II + werden + müssen**",
+      "mistake": {"wrong": "Die Brücke wäre schon vor Jahren saniert werden müssen.", "why": "Passive *werden* takes *sein* in the Perfekt, but here the finite auxiliary belongs to *müssen*, so it must be *hätte*."},
+      "examples": [
+        {"de": "Die Akten hätten längst digitalisiert werden müssen.", "en": "The files should have been digitised long ago."},
+        {"de": "Der Patient hätte viel früher operiert werden müssen.", "en": "The patient should have been operated on much earlier."}
+      ],
+      "words": [{"de": "sanieren", "en": "to renovate, to refurbish"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Der Patient hätte in diesem Zustand nicht {{c1::entlassen werden dürfen::entlassen → Passiv + Erlaubnis}}.",
+      "en": "The patient should not have been discharged in this condition.",
+      "focus": "Passiv · nicht dürfen",
+      "explanation": "The patient was discharged, and the speaker says this was not acceptable: *hätte nicht … dürfen* in the passive. *entlassen* is already the Partizip (inseparable *ent-*, no *ge-*), so the passive infinitive is *entlassen werden*, then the modal: **entlassen werden dürfen**.",
+      "pattern": "Subjekt + hätte + … + nicht + **Partizip II + werden + dürfen**",
+      "mistake": {"wrong": "Der Patient hätte in diesem Zustand nicht entlassen dürfen werden.", "why": "The modal infinitive always comes last. The passive infinitive *entlassen werden* stays together before *dürfen*."},
+      "examples": [
+        {"de": "Das Gebäude hätte ohne Brandschutzprüfung nicht eröffnet werden dürfen.", "en": "The building should not have been opened without a fire safety inspection."},
+        {"de": "Die Wahl hätte unter diesen Bedingungen nicht durchgeführt werden dürfen.", "en": "The election should not have been held under these conditions."}
+      ],
+      "words": [{"de": "entlassen", "en": "to discharge (from hospital)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Die Anwohner hätten viel früher über die Baupläne {{c1::informiert werden sollen::informieren → Passiv + Rat}}.",
+      "en": "The residents should have been informed about the building plans much earlier.",
+      "focus": "Passiv · hätte … sollen",
+      "explanation": "*sollen* gives a milder criticism than *müssen*: it would have been the right thing to do. In the passive, the people who were (not) informed become the subject (*die Anwohner*, plural → *hätten*). The end of the sentence is **informiert werden sollen**.",
+      "pattern": "Subjekt + hätten + … + **Partizip II + werden + sollen**",
+      "mistake": {"wrong": "Die Anwohner hätten viel früher über die Baupläne informiert sollen werden.", "why": "*werden* belongs to the passive infinitive and stays directly after the Partizip; the modal *sollen* is the last word."},
+      "examples": [
+        {"de": "Die Ergebnisse hätten vor der Veröffentlichung noch einmal geprüft werden sollen.", "en": "The results should have been checked again before publication."},
+        {"de": "Die Mitarbeiter hätten in die Entscheidung einbezogen werden sollen.", "en": "The employees should have been included in the decision."}
+      ],
+      "words": [{"de": "der Anwohner (-)", "en": "resident (local)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "{{c1::Hätte ich::ich / haben (Konj. II)}} den Notarzt früher rufen sollen?",
+      "en": "Should I have called the emergency doctor earlier?",
+      "focus": "Ja/Nein-Frage · Zweifel",
+      "explanation": "A yes/no question has no Vorfeld, so the finite **Hätte** stands in position 1 and the subject **ich** follows. The infinitives *rufen sollen* close the bracket at the end. The speaker asks, in hindsight, whether a different action would have been right.",
+      "pattern": "**Hätte + Subjekt** + … + Infinitiv + sollen?",
+      "mistake": {"wrong": "Hätte ich den Notarzt früher gerufen sollen?", "why": "The main verb is an infinitive (*rufen*), not a Partizip (*gerufen*). Both verbs at the end are infinitives."},
+      "examples": [
+        {"de": "Hätten wir das Angebot doch annehmen sollen?", "en": "Should we have accepted the offer after all?"},
+        {"de": "Hätte die Polizei schneller eingreifen müssen?", "en": "Should the police have intervened more quickly?"}
+      ],
+      "words": [{"de": "der Notarzt (¨-e)", "en": "emergency doctor"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Was hätte ich in dieser Situation denn sonst tun {{c1::sollen::Modalverb · Rat}}?",
+      "en": "What else was I supposed to do in that situation?",
+      "focus": "Rhetorische W-Frage · Rechtfertigung",
+      "explanation": "A rhetorical question that defends a past decision: there was no better option. The W-word *Was* fills the Vorfeld, *hätte* is in position 2, and *tun* **sollen** closes the question. The particles *denn sonst* are typical of this defensive tone.",
+      "pattern": "W-Wort + hätte + Subjekt + … + Infinitiv + **sollen**?",
+      "mistake": {"wrong": "Was hätte ich in dieser Situation denn sonst getan sollen?", "why": "*getan* is a Partizip II. The main verb must be the infinitive *tun* before the modal infinitive."},
+      "examples": [
+        {"de": "Wie hätten wir das denn vorher wissen sollen?", "en": "How were we supposed to know that beforehand?"},
+        {"de": "Wen hätte sie um diese Uhrzeit sonst anrufen sollen?", "en": "Who else was she supposed to call at that time of night?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Du hättest meinetwegen nicht extra aus Hamburg {{c1::anzureisen brauchen::anreisen + nicht nötig}}.",
+      "en": "You needn't have travelled all the way from Hamburg because of me.",
+      "focus": "nicht brauchen · Konjunktiv II Vergangenheit",
+      "explanation": "*nicht brauchen + zu*-Infinitiv is the negative of *müssen* (= not necessary). In the Konjunktiv II der Vergangenheit it also takes the Ersatzinfinitiv: *hättest … nicht … zu … brauchen*. With the separable verb *anreisen*, *zu* goes between prefix and stem: **anzureisen brauchen**. The friend did travel, but it was not necessary.",
+      "pattern": "hätte + nicht + … + **zu-Infinitiv + brauchen**",
+      "mistake": {"wrong": "Du hättest meinetwegen nicht extra aus Hamburg anreisen brauchen.", "why": "In standard German *brauchen* in this sense needs *zu* (*anzureisen*). Leaving out *zu* is common in speech, but not correct in writing."},
+      "examples": [
+        {"de": "Sie hätten sich wirklich nicht zu entschuldigen brauchen.", "en": "You really needn't have apologised."},
+        {"de": "Wir hätten gar nicht so früh aufzustehen brauchen.", "en": "We needn't have got up so early at all."}
+      ],
+      "words": [{"de": "anreisen", "en": "to travel (to a place)"}],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Wir hätten das Gutachten von einem unabhängigen Büro {{c1::erstellen lassen sollen::sollen / lassen / erstellen}}.",
+      "en": "We should have had the report prepared by an independent firm.",
+      "focus": "Drei Infinitive · mit lassen",
+      "explanation": "Causative *lassen* (to have something done) adds a third infinitive. The order at the end goes from the most dependent verb to the modal: *erstellen* (what is done) – *lassen* (having it done) – *sollen* (should have): **erstellen lassen sollen**. *hätten* stays in position 2.",
+      "pattern": "hätte + … + **Infinitiv + lassen + sollen**",
+      "mistake": {"wrong": "Wir hätten das Gutachten von einem unabhängigen Büro erstellen sollen lassen.", "why": "The modal *sollen* governs *lassen*, so it stands last. *lassen* governs *erstellen* and comes directly after it."},
+      "examples": [
+        {"de": "Du hättest die Bremsen vor der Fahrt überprüfen lassen sollen.", "en": "You should have had the brakes checked before the journey."},
+        {"de": "Sie hätten den Vertrag von einem Anwalt prüfen lassen müssen.", "en": "They ought to have had the contract checked by a lawyer."}
+      ],
+      "words": [{"de": "das Gutachten (-)", "en": "expert report"}, {"de": "erstellen", "en": "to prepare, to draw up"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Eigentlich hätte sie lieber Architektur {{c1::studieren wollen::studieren + Wunsch}}, aber ihre Eltern bestanden auf Jura.",
+      "en": "Actually she would have preferred to study architecture, but her parents insisted on law.",
+      "focus": "Unerfüllter Wunsch in der Vergangenheit",
+      "explanation": "*hätte … wollen* describes a past wish that was not fulfilled. It is less frequent than the other modals; *hätte gern/lieber … studiert* is a common alternative. The form follows the same pattern: *hätte* in position 2 (after *Eigentlich* in the Vorfeld), and **studieren wollen** at the end.",
+      "pattern": "Vorfeld + hätte + Subjekt + … + **Infinitiv + wollen**",
+      "mistake": {"wrong": "Eigentlich hätte sie lieber Architektur studiert wollen, aber ihre Eltern bestanden auf Jura.", "why": "The main verb must be an infinitive before the modal infinitive: *studieren wollen*, not *studiert wollen*."},
+      "examples": [
+        {"de": "Nach dem Abitur hätte er am liebsten ein Jahr lang reisen wollen.", "en": "After finishing school he would most of all have liked to travel for a year."},
+        {"de": "Er hätte die Firma lieber an seine Tochter übergeben wollen.", "en": "He would have preferred to hand the company over to his daughter."}
+      ],
+      "words": [{"de": "bestehen auf + Dat.", "en": "to insist on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Dass das Restaurant montags geschlossen ist, {{c1::hätte ich dir::ich / dir / haben (Konj. II)}} gleich sagen können.",
+      "en": "I could have told you right away that the restaurant is closed on Mondays.",
+      "focus": "Nebensatz im Vorfeld · hätte … können",
+      "explanation": "The *dass*-clause is the object of *sagen* and fills the Vorfeld. Therefore the finite **hätte** comes directly after the comma, then the subject *ich* and the Dativ pronoun *dir*. *hätte … sagen können* = it would have been possible for me to tell you (and save you the trip).",
+      "pattern": "[dass-Satz] (Vorfeld), **hätte + Subjekt + Dat.** + … + Infinitiv + können",
+      "mistake": {"wrong": "Dass das Restaurant montags geschlossen ist, ich hätte dir gleich sagen können.", "why": "The *dass*-clause already occupies position 1. The main clause cannot start again with the subject; the finite verb *hätte* must follow the comma directly."},
+      "examples": [
+        {"de": "Dass der Termin platzen würde, hätte man eigentlich vorhersehen können.", "en": "You could actually have predicted that the appointment would fall through."},
+        {"de": "Wie hoch die Nebenkosten sind, hätte uns der Makler vorher sagen müssen.", "en": "The estate agent ought to have told us beforehand how high the service charges are."}
+      ],
+      "words": [],
+      "production_cue": "(du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Zum Glück {{c1::konnte::können}} die Feuerwehr alle Bewohner rechtzeitig aus dem Gebäude holen.",
+      "en": "Fortunately the fire brigade was able to get all the residents out of the building in time.",
+      "focus": "Modalverb · reales Ereignis in der Vergangenheit",
+      "explanation": "The rescue really happened, so the indicative Präteritum **konnte** is used: a real past ability that was used. *hätte … holen können* would mean the opposite: it was possible, but did not happen. *Zum Glück* shows that the speaker reports a real, positive result.",
+      "pattern": "Indikativ: **konnte** + … + Infinitiv (= real geschehen)",
+      "mistake": {"wrong": "Zum Glück hätte die Feuerwehr alle Bewohner rechtzeitig aus dem Gebäude holen können.", "why": "The Konjunktiv II der Vergangenheit says the residents were *not* rescued, which contradicts *Zum Glück*. For a real past ability use the indicative *konnte*."},
+      "examples": [
+        {"de": "Trotz des Staus konnten wir den Flug gerade noch erreichen.", "en": "Despite the traffic jam we were just able to catch the flight."},
+        {"de": "Nach der Operation konnte er schon nach drei Tagen wieder laufen.", "en": "After the operation he was able to walk again after only three days."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Du {{c1::solltest::sollen (Rat für jetzt)}} dich endlich um die Steuererklärung kümmern, die Frist läuft nächste Woche ab.",
+      "en": "You should finally get round to your tax return – the deadline is next week.",
+      "focus": "Konjunktiv II Gegenwart · Rat für jetzt",
+      "explanation": "The deadline has not passed, so the advice refers to now: Konjunktiv II Gegenwart **solltest** + infinitive. *Du hättest dich … kümmern sollen* would criticise a past failure and only fits after the deadline. Note: *solltest* looks like the indicative Präteritum; the context (advice, future deadline) shows the meaning.",
+      "pattern": "Konj. II Gegenwart: **sollte** + … + Infinitiv (Rat jetzt)",
+      "mistake": {"wrong": "Du hättest dich endlich um die Steuererklärung kümmern sollen, die Frist läuft nächste Woche ab.", "why": "*hättest … sollen* refers to a missed past chance, but the deadline is still in the future. For advice about now use *solltest* + infinitive."},
+      "examples": [
+        {"de": "Sie sollten den Vertrag vor der Unterschrift genau lesen.", "en": "You should read the contract carefully before signing."},
+        {"de": "Ihr solltet langsam losgehen, der Bus kommt in zehn Minuten.", "en": "You should get going, the bus comes in ten minutes."}
+      ],
+      "words": [{"de": "die Steuererklärung (-en)", "en": "tax return"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Ohne Navi {{c1::hätten wir::wir / haben (Konj. II)}} das Ferienhaus im Dunkeln nie finden können.",
+      "en": "Without the satnav we would never have been able to find the holiday cottage in the dark.",
+      "focus": "Irreale Bedingung mit ohne",
+      "explanation": "*Ohne Navi* stands for an unreal condition (*Wenn wir kein Navi gehabt hätten, …*). It fills the Vorfeld, so **hätten** follows directly and the subject **wir** comes after it. *hätten … nie finden können* describes what would not have been possible.",
+      "pattern": "Ohne + Nomen (Vorfeld) + **hätten + Subjekt** + … + Infinitiv + können",
+      "mistake": {"wrong": "Ohne Navi wir hätten das Ferienhaus im Dunkeln nie finden können.", "why": "*Ohne Navi* is one constituent in the Vorfeld. The finite *hätten* must stand in position 2, before the subject."},
+      "examples": [
+        {"de": "Ohne deine Unterstützung hätte ich das Studium nicht abschließen können.", "en": "Without your support I couldn't have finished my degree."},
+        {"de": "Ohne Kredit hätte die Firma die Krise kaum überstehen können.", "en": "Without a loan the company could hardly have survived the crisis."}
+      ],
+      "words": [{"de": "das Navi (-s)", "en": "satnav, GPS"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Eigentlich hätten wir noch eine Woche länger bleiben {{c1::können::Möglichkeit}}, aber wir wollten vor dem Streik zurück sein.",
+      "en": "We actually could have stayed one more week, but we wanted to be back before the strike.",
+      "focus": "Nicht genutzte Möglichkeit · bewusste Entscheidung",
+      "explanation": "*hätte … können* here describes a real option that the speakers chose not to use; there is no reproach. *Eigentlich* signals that the actual decision was different, and the *aber*-clause gives the reason. **können** closes the main clause after *bleiben*.",
+      "pattern": "Eigentlich + hätten + Subjekt + … + Infinitiv + **können**, aber …",
+      "mistake": {"wrong": "Eigentlich wären wir noch eine Woche länger bleiben können, aber wir wollten vor dem Streik zurück sein.", "why": "*bleiben* takes *sein* in the Perfekt, but the auxiliary here belongs to *können*: *hätten*."},
+      "examples": [
+        {"de": "Eigentlich hätte sie den Kredit sofort zurückzahlen können, aber sie wartete ab.", "en": "Actually she could have paid back the loan immediately, but she waited."},
+        {"de": "Wir hätten auch den direkten Weg nehmen können, aber die Küstenstraße ist schöner.", "en": "We could also have taken the direct route, but the coast road is nicer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Hätte ich den Job in Basel angenommen, hätte ich jeden Tag zwei Stunden {{c1::pendeln müssen::pendeln + Notwendigkeit}}.",
+      "en": "If I had taken the job in Basel, I would have had to commute for two hours every day.",
+      "focus": "Irreale Folge · Bedingung mit Verberststellung",
+      "explanation": "The condition has verb-first order (*Hätte ich … angenommen*) instead of *wenn*. The consequence uses *hätte … müssen* = would have had to: the speaker did not take the job, so the commuting did not happen. The main clause starts with its finite verb *hätte*, and **pendeln müssen** closes it.",
+      "pattern": "Hätte + … + Partizip II, hätte + … + **Infinitiv + müssen**",
+      "mistake": {"wrong": "Hätte ich den Job in Basel angenommen, hätte ich jeden Tag zwei Stunden gependelt müssen.", "why": "Only the condition uses the Partizip (*angenommen*). In the modal construction both verbs at the end are infinitives: *pendeln müssen*."},
+      "examples": [
+        {"de": "Hätten wir das Haus gekauft, hätten wir einen riesigen Kredit aufnehmen müssen.", "en": "If we had bought the house, we would have had to take out a huge loan."},
+        {"de": "Wäre der Flug gestrichen worden, hätten wir in Frankfurt übernachten müssen.", "en": "If the flight had been cancelled, we would have had to stay overnight in Frankfurt."}
+      ],
+      "words": [{"de": "pendeln", "en": "to commute"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Vielleicht hätten Sie den Antrag besser persönlich {{c1::abgeben sollen::abgeben + Rat}}.",
+      "en": "Perhaps it would have been better if you had handed in the application in person.",
+      "focus": "Höflicher Rat im Nachhinein",
+      "explanation": "*Vielleicht … besser … hätten … sollen* is a polite, careful way to say that another action would have been wiser. *abgeben* is separable and stays joined in the infinitive: **abgeben sollen**. With formal *Sie* the finite form is *hätten*.",
+      "pattern": "Vielleicht + hätten + Sie + besser + … + **Infinitiv + sollen**",
+      "mistake": {"wrong": "Vielleicht hätten Sie den Antrag besser persönlich abgegeben sollen.", "why": "*abgegeben* is a Partizip II. Before the modal infinitive the main verb must also be an infinitive: *abgeben sollen*."},
+      "examples": [
+        {"de": "Vielleicht hätten Sie vorher beim Kundenservice anrufen sollen.", "en": "Perhaps you should have called customer service beforehand."},
+        {"de": "Vielleicht hättest du das Thema nicht vor allen ansprechen sollen.", "en": "Perhaps you shouldn't have raised the topic in front of everyone."}
+      ],
+      "words": [{"de": "der Antrag (¨-e)", "en": "application"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Mit einem gültigen Visum hätte er ohne Probleme {{c1::einreisen dürfen::einreisen + Erlaubnis}}.",
+      "en": "With a valid visa he would have been allowed to enter the country without any problems.",
+      "focus": "Irreale Erlaubnis",
+      "explanation": "*hätte … dürfen* without *nicht* = would have been allowed to: the permission existed only under a condition that was not met (he had no valid visa). *einreisen* takes *sein* in the Perfekt, but with the modal the auxiliary is *hätte*; the end of the clause is **einreisen dürfen**.",
+      "pattern": "Mit + Bedingung (Vorfeld) + hätte + Subjekt + … + **Infinitiv + dürfen**",
+      "mistake": {"wrong": "Mit einem gültigen Visum wäre er ohne Probleme einreisen dürfen.", "why": "The auxiliary belongs to *dürfen*, which forms its tenses with *haben*. *wäre* is only correct without the modal: *wäre er eingereist*."},
+      "examples": [
+        {"de": "Mit einem ärztlichen Attest hätte sie die Prüfung später schreiben dürfen.", "en": "With a medical certificate she would have been allowed to take the exam later."},
+        {"de": "Mit gültigen Tickets hätten die Fans ins Stadion gehen dürfen.", "en": "With valid tickets the fans would have been allowed into the stadium."}
+      ],
+      "words": [{"de": "einreisen", "en": "to enter (a country)"}, {"de": "gültig", "en": "valid"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Eine Fusion mit dem größten Konkurrenten? Das hätte der Firmengründer nie {{c1::gewollt::wollen, ohne zweites Verb}}.",
+      "en": "A merger with the biggest competitor? The company's founder would never have wanted that.",
+      "focus": "Modalverb ohne Infinitiv · Partizip II",
+      "explanation": "Here *wollen* is a full verb with an object (*das*) and no dependent infinitive. Then there is no Ersatzinfinitiv: the Konjunktiv II der Vergangenheit uses the normal Partizip II → *hätte … nie* **gewollt**. Compare *Das hätte er nie tun wollen* (with infinitive → *wollen*).",
+      "pattern": "hätte + … + **Partizip II des Modalverbs** (ohne Infinitiv)",
+      "mistake": {"wrong": "Eine Fusion mit dem größten Konkurrenten? Das hätte der Firmengründer nie wollen.", "why": "The Ersatzinfinitiv is only used when the modal has a dependent infinitive. Without one, the modal takes its normal Partizip *gewollt*."},
+      "examples": [
+        {"de": "Ohne Hilfe hätte ich das nie gekonnt.", "en": "I could never have done that without help."},
+        {"de": "Das hätten meine Eltern damals sicher nicht gedurft.", "en": "My parents surely wouldn't have been allowed to do that back then."}
+      ],
+      "words": [{"de": "die Fusion (-en)", "en": "merger"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Im Nachhinein {{c1::hätte er sich::sich / er / haben (Konj. II)}} gründlicher auf das Vorstellungsgespräch vorbereiten sollen.",
+      "en": "In hindsight he should have prepared more thoroughly for the job interview.",
+      "focus": "Reflexivverb · Inversion",
+      "explanation": "*Im Nachhinein* fills the Vorfeld, so **hätte** is in position 2, followed by the subject pronoun **er** and the reflexive **sich** (subject pronoun before reflexive pronoun). *sich vorbereiten auf* stays joined in the infinitive: *vorbereiten sollen* at the end.",
+      "pattern": "Vorfeld + **hätte + Subjektpronomen + sich** + … + Infinitiv + sollen",
+      "mistake": {"wrong": "Im Nachhinein hätte sich er gründlicher auf das Vorstellungsgespräch vorbereiten sollen.", "why": "After the inversion the subject pronoun *er* must come directly after *hätte*, before the reflexive pronoun: *hätte er sich*. Only with a noun subject can *sich* come first (*hätte sich der Bewerber …*)."},
+      "examples": [
+        {"de": "Im Nachhinein hätte ich mich früher um eine Betreuung kümmern sollen.", "en": "In hindsight I should have arranged childcare earlier."},
+        {"de": "Rückblickend hätte sie sich nicht so schnell entscheiden sollen.", "en": "Looking back, she shouldn't have decided so quickly."}
+      ],
+      "words": [{"de": "im Nachhinein", "en": "in hindsight"}, {"de": "das Vorstellungsgespräch (-e)", "en": "job interview"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Statt monatelang zu streiten, hätten die Koalitionspartner längst einen Kompromiss {{c1::finden müssen::finden + Notwendigkeit}}.",
+      "en": "Instead of arguing for months, the coalition partners ought to have found a compromise long ago.",
+      "focus": "Politische Kritik · hätte … müssen",
+      "explanation": "*hätte … müssen* criticises a clear failure: finding a compromise was necessary, but it did not happen. The *statt … zu*-clause fills the Vorfeld, so *hätten* follows directly, then the subject. *längst* (long ago) is typical in this kind of criticism; **finden müssen** closes the sentence.",
+      "pattern": "Statt … zu …, hätten + Subjekt + längst + … + **Infinitiv + müssen**",
+      "mistake": {"wrong": "Statt monatelang zu streiten, hätten die Koalitionspartner längst einen Kompromiss gefunden müssen.", "why": "*gefunden* is the Partizip II. Before *müssen* the main verb must be the infinitive *finden*."},
+      "examples": [
+        {"de": "Die Behörde hätte längst eine Lösung vorlegen müssen.", "en": "The authority ought to have presented a solution long ago."},
+        {"de": "Statt abzuwarten, hätte die Zentralbank die Zinsen früher erhöhen müssen.", "en": "Instead of waiting, the central bank ought to have raised interest rates earlier."}
+      ],
+      "words": [{"de": "der Koalitionspartner (-)", "en": "coalition partner"}, {"de": "längst", "en": "long ago, long since"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the meaning of each modal in the Konjunktiv II der Vergangenheit.",
+      "prompt": "What is the difference between *Du hättest anrufen sollen / müssen / können* and *Du hättest nicht anrufen dürfen*?",
+      "answer": "**sollen:** it would have been the right thing (advice, mild criticism). **müssen:** it was clearly necessary or your duty (strong criticism; also *would have had to* in unreal conditions). **können:** it was possible and easy (reproach, or simply a missed chance). **nicht dürfen:** you did it, and it was not acceptable.",
+      "explanation": "In the first three cases the call did **not** happen; with *nicht dürfen* it **did** happen. English often uses *should have* for both *sollen* and *müssen*, and *could have* for *können*.",
+      "examples": [
+        {"de": "Du hättest vorher fragen sollen.", "en": "You should have asked beforehand."},
+        {"de": "Du hättest das Auto ohne Führerschein nicht fahren dürfen.", "en": "You shouldn't have driven the car without a licence."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the auxiliary.",
+      "prompt": "Why is it *Ich hätte früher gehen sollen*, although *gehen* forms its Perfekt with *sein*?",
+      "answer": "The finite auxiliary belongs to the **last verb of the chain, the modal**, not to the main verb. Modal verbs always form their Perfekt and Konjunktiv II der Vergangenheit with **haben**. So: *hätte … gehen sollen, hätte … passieren dürfen, hätte … repariert werden müssen* – never *wäre*.",
+      "explanation": "Compare without a modal: *Ich wäre früher gegangen* (sein-verb → *wäre*). As soon as a modal is added, the auxiliary changes to *hätte*. This also applies to passive *werden* and to *bleiben, fahren, kommen, einreisen*.",
+      "examples": [
+        {"de": "Wir wären gern länger geblieben.", "en": "We would have liked to stay longer."},
+        {"de": "Wir hätten gern länger bleiben können.", "en": "We would have liked to be able to stay longer."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the forms.",
+      "prompt": "What can *Ich sollte dich anrufen* mean, and how is it different from *Ich hätte dich anrufen sollen*?",
+      "answer": "*sollte* has two readings: **indicative Präteritum** = I was supposed to call you (a task or plan in the past, no statement about whether I did it), or **Konjunktiv II Gegenwart** = I should call you (advice for now). *hätte … anrufen sollen* is **Konjunktiv II der Vergangenheit** = I should have called you, but I did not (regret).",
+      "explanation": "Only *hätte … sollen* clearly says that the action did not happen. The context decides between the two readings of *sollte*: with a past time phrase it is usually the indicative (*Gestern sollte ich …*), with *jetzt, mal, unbedingt* it is advice.",
+      "examples": [
+        {"de": "Eigentlich sollte die Lieferung schon gestern kommen.", "en": "The delivery was actually supposed to come yesterday."},
+        {"de": "Die Lieferung hätte schon gestern kommen sollen.", "en": "The delivery should have come yesterday."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between indicative and Konjunktiv.",
+      "prompt": "What is the difference between *Wir mussten zu Fuß gehen* and *Wir hätten zu Fuß gehen müssen*?",
+      "answer": "*mussten* (indicative Präteritum): the necessity was real and **we really walked**. *hätten … müssen*: either we **should have walked but did not** (criticism), or we **would have had to walk** under an unreal condition (*ohne Taxi*). In both readings the walking did not happen.",
+      "explanation": "The same contrast exists for every modal: *konnte* = was able to (and did) vs. *hätte … können* = could have (but didn't); *durfte* = was allowed to vs. *hätte … dürfen* = would have been allowed to.",
+      "examples": [
+        {"de": "Als der Bus nicht kam, mussten wir zu Fuß gehen.", "en": "When the bus didn't come, we had to walk."},
+        {"de": "Ohne das Taxi hätten wir zu Fuß gehen müssen.", "en": "Without the taxi we would have had to walk."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two könnte/hätte forms.",
+      "prompt": "What is the difference between *Er hätte den Zug nehmen können* and *Er könnte den Zug genommen haben*?",
+      "answer": "*hätte … nehmen können* = **objective, counterfactual**: taking the train was possible, but he did not do it. *könnte … genommen haben* = **subjective assumption** about the past (modal + Infinitiv Perfekt): perhaps he took the train, the speaker does not know.",
+      "explanation": "Look at where the past is marked. In *hätte … können* the modal itself is in the past subjunctive. In *könnte … genommen haben* the modal is in the present (Konjunktiv II Gegenwart) and the past lies in the infinitive *genommen haben*.",
+      "examples": [
+        {"de": "Sie hätte den Fehler leicht finden können.", "en": "She could easily have found the mistake."},
+        {"de": "Sie könnte den Fehler schon gefunden haben.", "en": "She may already have found the mistake."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about the Partizip of modal verbs.",
+      "prompt": "When do you say *hätte … gekonnt / gewollt / gemusst*, and when *hätte … können / wollen / müssen*?",
+      "answer": "With a **dependent infinitive** the modal takes the infinitive form (Ersatzinfinitiv): *Ich hätte es machen **können**.* Without a dependent infinitive (the modal is the only verb, often with *das/es*) it takes the normal **Partizip II**: *Ich hätte es **gekonnt**.*",
+      "explanation": "The test is simple: is there another verb at the end? *Das hätte ich nie gewollt* has none → *gewollt*. *Das hätte ich nie sagen wollen* has *sagen* → *wollen*.",
+      "examples": [
+        {"de": "Mit mehr Training hätte sie es gekonnt.", "en": "With more training she would have been able to do it."},
+        {"de": "Mit mehr Training hätte sie den Marathon laufen können.", "en": "With more training she could have run the marathon."}
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Turn the question into a reproach with *hätte … können*.",
+      "prompt": "Warum hast du die Kollegen nicht vorher informiert?",
+      "answer": "Du hättest die Kollegen vorher informieren können!",
+      "explanation": "The Perfekt question *hast … informiert* becomes *hättest … informieren können*: the Partizip *informiert* turns into the infinitive *informieren*, followed by the modal infinitive *können*. The missing *nicht* is not repeated, because the reproach names the action that should have happened."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Change the advice into a criticism of the past (Konjunktiv II der Vergangenheit).",
+      "prompt": "Du solltest den Mietvertrag genau lesen.",
+      "answer": "Du hättest den Mietvertrag genau lesen sollen.",
+      "explanation": "*solltest* + infinitive is advice for now. For a past action that did not happen, the finite verb becomes *hättest*, and *sollen* moves to the end as an infinitive after *lesen*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite in the passive. Leave out *man*.",
+      "prompt": "Man hätte die Anwohner vor dem Hochwasser warnen müssen.",
+      "answer": "Die Anwohner hätten vor dem Hochwasser gewarnt werden müssen.",
+      "explanation": "The Akkusativ object *die Anwohner* becomes the subject (plural → *hätten*). The infinitive *warnen* becomes the passive infinitive *gewarnt werden*, and the modal infinitive *müssen* stays last."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Express regret with *hätte … sollen* and the word *mehr*.",
+      "prompt": "Ich habe für die Prüfung zu wenig gelernt.",
+      "answer": "Ich hätte für die Prüfung mehr lernen sollen.",
+      "explanation": "The fact (*zu wenig gelernt*) becomes the opposite wish in the past: *mehr lernen sollen*. *habe … gelernt* changes to *hätte … lernen sollen*: Konjunktiv II of *haben*, then two infinitives."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Du wärst bei dem Wetter nicht mit dem Motorrad fahren sollen.",
+      "answer": "Du hättest bei dem Wetter nicht mit dem Motorrad fahren sollen.",
+      "explanation": "*fahren* takes *sein* in the Perfekt, but the auxiliary here belongs to the modal *sollen*, which takes *haben*. So it must be *hättest*, not *wärst*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir hätten das Problem früher erkannt müssen.",
+      "answer": "Wir hätten das Problem früher erkennen müssen.",
+      "explanation": "Before the modal infinitive the main verb must also be an infinitive: *erkennen müssen*. *erkannt* is the Partizip II and is wrong in this construction."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Formular hätte von beiden Eltern unterschrieben worden müssen.",
+      "answer": "Das Formular hätte von beiden Eltern unterschrieben werden müssen.",
+      "explanation": "The passive infinitive is *unterschrieben werden*. *worden* is only used in the Perfekt passive without a modal (*ist unterschrieben worden*)."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ihr hättet uns ruhig vorher Bescheid sagen gekonnt.",
+      "answer": "Ihr hättet uns ruhig vorher Bescheid sagen können.",
+      "explanation": "*können* has the dependent infinitive *sagen*, so it takes the Ersatzinfinitiv *können*, not the Partizip *gekonnt*. The particle *ruhig* softens the reproach."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "hätte / früher / buchen / sollen / ich / die Flugtickets",
+      "answer": "Ich hätte die Flugtickets früher buchen sollen.",
+      "explanation": "*hätte* is in position 2 after the subject. The definite object *die Flugtickets* and the adverb *früher* fill the Mittelfeld, and the two infinitives close the sentence: main verb *buchen*, then modal *sollen*."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Vor dem Sturm",
+      "prompt": "die Fenster / hätten / müssen / geschlossen / werden / vor dem Sturm",
+      "answer": "Vor dem Sturm hätten die Fenster geschlossen werden müssen.",
+      "explanation": "*Vor dem Sturm* fills the Vorfeld, so *hätten* is in position 2 and the subject *die Fenster* follows. The passive infinitive *geschlossen werden* comes before the modal infinitive *müssen*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Make a yes/no question.",
+      "prompt": "hätte / den Schaden / man / verhindern / können",
+      "answer": "Hätte man den Schaden verhindern können?",
+      "explanation": "In a yes/no question the finite *Hätte* stands in position 1, followed by the subject *man* and the object *den Schaden*. The infinitives *verhindern können* close the question."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct continuation.",
+      "prompt": "Der Zug war pünktlich, deshalb ___.",
+      "options": ["konnten wir den Anschluss problemlos erreichen", "hätten wir den Anschluss problemlos erreichen können", "könnten wir den Anschluss problemlos erreicht haben"],
+      "correct": "konnten wir den Anschluss problemlos erreichen",
+      "answer": "Der Zug war pünktlich, deshalb konnten wir den Anschluss problemlos erreichen.",
+      "explanation": "The train was on time, so the connection was really caught: indicative Präteritum *konnten*. *hätten … erreichen können* would mean that they did not catch it. *könnten … erreicht haben* is a vague assumption, which does not fit a clear consequence with *deshalb*."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Die Anmeldefrist ist gestern abgelaufen – du ___!",
+      "options": ["hättest dich früher anmelden sollen", "solltest dich früher anmelden", "hättest dich früher angemeldet sollen", "wärst dich früher anmelden sollen"],
+      "correct": "hättest dich früher anmelden sollen",
+      "answer": "Die Anmeldefrist ist gestern abgelaufen – du hättest dich früher anmelden sollen!",
+      "explanation": "The deadline has passed, so this is a criticism of the past: *hättest … anmelden sollen*. *solltest … anmelden* is advice for now and no longer makes sense. *angemeldet sollen* uses a Partizip instead of an infinitive, and *wärst* is the wrong auxiliary with a modal."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Bei einer so wichtigen Operation ___ so ein Fehler nicht passieren dürfen.",
+      "options": ["hätte", "wäre", "würde"],
+      "correct": "hätte",
+      "answer": "Bei einer so wichtigen Operation hätte so ein Fehler nicht passieren dürfen.",
+      "explanation": "The modal *dürfen* forms its past subjunctive with *haben*: *hätte … passieren dürfen*. *wäre* is wrong because the auxiliary belongs to the modal, not to *passieren*. *würde … passieren dürfen* would be present or future, not past."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one unreal conditional sentence with *wenn* and *hätte … können*.",
+      "prompt": "Wir hatten kein Auto. Deshalb konnten wir das Bergdorf nicht besuchen.",
+      "answer": "Wenn wir ein Auto gehabt hätten, hätten wir das Bergdorf besuchen können.",
+      "explanation": "The real facts are negative, so the unreal version is positive. The condition uses the Konjunktiv II der Vergangenheit of *haben*: *gehabt hätten*. The consequence *konnten … nicht besuchen* becomes *hätten … besuchen können*."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Make one sentence with *Ohne* + Akkusativ and *hätte … können*.",
+      "prompt": "Du hast mir bei der Bewerbung geholfen. Nur deshalb habe ich die Stelle bekommen.",
+      "answer": "Ohne deine Hilfe bei der Bewerbung hätte ich die Stelle nicht bekommen können.",
+      "explanation": "*Ohne deine Hilfe* replaces the unreal condition (*Wenn du mir nicht geholfen hättest*). It fills the Vorfeld, so *hätte* follows directly, then the subject *ich*. The consequence is negative: *nicht bekommen können*."
+    }
+  ]
+}

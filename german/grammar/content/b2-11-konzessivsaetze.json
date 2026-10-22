@@ -1,0 +1,696 @@
+{
+  "topic_id": "b2-11-konzessivsaetze",
+  "level": "B2",
+  "title_de": "Konzessivsätze (Vertiefung)",
+  "title_en": "Concessive clauses (in depth)",
+  "rule": {
+    "summary": "A concession names a counter-reason: a fact that would normally prevent something, but the main action happens anyway (*although, even though, even if*). German expresses it with subordinating conjunctions (**obwohl**, formal **obgleich / obschon / wenngleich**, **auch wenn / selbst wenn**), with adverbs (**trotzdem**, formal **dennoch**), with the two-part connector **zwar … aber**, with the preposition **trotz** + Genitiv, and with generalising clauses (**so … auch**, **was auch immer**). You need to choose the form that fits the word order and the register of your sentence.",
+    "table": "| Mittel | Wortart | Wortstellung | Beispiel |\n|---|---|---|---|\n| **obwohl**, *obgleich, obschon, wenngleich* | Subjunktion | Verb am Ende | **Obwohl** er müde war, fuhr er weiter. |\n| **auch wenn**, **selbst wenn** | Subjunktion | Verb am Ende; oft hypothetisch | **Auch wenn** es teuer ist, buche ich den Kurs. |\n| **trotzdem**, *dennoch* | Adverb | Position 1 oder Mittelfeld, Verb an Position 2 | Er war müde. **Trotzdem** fuhr er weiter. |\n| **zwar … aber** | zweiteiliger Konnektor | *zwar* im 1. Satz, *aber* auf Position 0 | Die Küche ist **zwar** alt, **aber** sauber. |\n| **trotz** | Präposition + Gen. | vor einer Nominalgruppe | **Trotz** der Müdigkeit fuhr er weiter. |\n| **so … auch**, **was auch immer** | verallgemeinernd | Verb am Ende; Hauptsatz meist ohne Inversion | **So** teuer es **auch** ist, ich kaufe es. |",
+    "steps": [
+      "Check what follows: a full clause with its own verb → conjunction (*obwohl, auch wenn*); a noun phrase → preposition **trotz** + Genitiv; a separate main clause that refers back → adverb **trotzdem / dennoch**.",
+      "With a conjunction, put the finite verb at the end of the Nebensatz (*obwohl es regnet*). If the Nebensatz comes first, the main clause starts with its finite verb (*Obwohl es regnet, **gehen** wir spazieren*).",
+      "With *trotzdem / dennoch*, use normal main-clause order: the adverb in position 1 is followed by the finite verb (*Trotzdem **fand** das Konzert statt*), or the adverb stands in the Mittelfeld (*Wir haben ihn trotzdem erreicht*).",
+      "Choose the meaning and register: a fact → *obwohl* (neutral), *obgleich / wenngleich* (formal); a possible or unreal condition → *auch wenn / selbst wenn*, with Konjunktiv II for unreal cases.",
+      "With *zwar … aber*, put *zwar* in the first clause (Mittelfeld or position 1) and start the second clause with *aber* or *doch*. After a generalising clause (*so … auch, wer/was … auch immer*) the main clause usually keeps normal order: *So sehr er sich auch bemühte, er schaffte es nicht.*"
+    ],
+    "pitfalls": [
+      "Using *trotzdem* as a conjunction: ✗ *Trotzdem es regnet, gehen wir raus.* → ✓ *Obwohl es regnet, gehen wir raus.* In standard German *trotzdem* is an adverb.",
+      "Using *trotz* before a clause: ✗ *Er kam, trotz er krank war.* → ✓ *Er kam, obwohl er krank war.* or *Er kam trotz seiner Krankheit.*",
+      "No inversion after a Nebensatz: ✗ *Obwohl es spät ist, ich arbeite noch.* → ✓ *Obwohl es spät ist, arbeite ich noch.*",
+      "Two elements before the verb: ✗ *Obwohl wir müde waren, trotzdem gingen wir weiter.* → ✓ *Obwohl wir müde waren, gingen wir weiter.* (or *…, gingen wir trotzdem weiter*).",
+      "*sondern* after *zwar*: ✗ *Das Auto ist zwar alt, sondern zuverlässig.* → ✓ *Das Auto ist zwar alt, aber zuverlässig.* *sondern* only follows a negation."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} es regnet, gehen wir spazieren.",
+      "en": "Although it's raining, we're going for a walk.",
+      "focus": "Konzessivsatz · Nebensatz im Vorfeld",
+      "explanation": "Rain would normally stop a walk, but the walk still happens: this unexpected contrast is a concession. The neutral, everyday conjunction is **obwohl**; it sends *regnet* to the end. The Nebensatz fills position 1, so the main clause continues with the finite verb *gehen*.",
+      "pattern": "Obwohl + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Obwohl es regnet, wir gehen spazieren.", "why": "The Nebensatz is position 1 of the whole sentence. The finite verb *gehen* must come right after the comma, before the subject *wir*."},
+      "examples": [
+        {"de": "Obwohl der Film drei Stunden dauert, wird er nie langweilig.", "en": "Although the film lasts three hours, it never gets boring."},
+        {"de": "Obwohl sie Vegetarierin ist, kocht sie für ihre Familie Fleisch.", "en": "Although she is a vegetarian, she cooks meat for her family."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Obgleich::'although' · formell (Schriftsprache)}} er müde war, arbeitete er weiter.",
+      "en": "Although he was tired, he kept working.",
+      "focus": "Konzessivsatz · gehobener Stil · Präteritum",
+      "explanation": "**obgleich** means the same as *obwohl* but belongs to formal written German (reports, literature). The grammar is identical: *war* goes to the end of the Nebensatz, then the main clause starts with *arbeitete*. *weiterarbeiten* is separable: *arbeitete … weiter*. Also correct here: *Obwohl* (neutral, the everyday form) and *Wenngleich* (gehoben, literary).",
+      "pattern": "Obgleich + … + Verb, + finites Verb + Subjekt … + Präfix",
+      "mistake": {"wrong": "Obgleich er war müde, arbeitete er weiter.", "why": "*obgleich* is a subordinating conjunction like *obwohl*. The finite verb *war* must stand at the end of its clause: *obgleich er müde war*."},
+      "examples": [
+        {"de": "Obgleich die Firma Verluste machte, zahlte sie hohe Boni aus.", "en": "Although the company made losses, it paid out large bonuses."},
+        {"de": "Obgleich das Wetter unsicher war, startete die Expedition pünktlich.", "en": "Although the weather was uncertain, the expedition set off on time."}
+      ],
+      "words": [],
+      "production_cue": "(formal register)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Auch wenn::'even if' · neutral}} es schwer ist, gebe ich nicht auf.",
+      "en": "Even if it's hard, I won't give up.",
+      "focus": "Konzessivsatz · Möglichkeit oder Tatsache",
+      "explanation": "**auch wenn** can mean *even if* (a possible condition) or *even though* (a fact); the context decides. Here: whether or not it is hard, the result stays the same. Like *obwohl*, it sends *ist* to the end, and the main clause starts with the finite verb *gebe*. Also correct here: *Selbst wenn* (same meaning, a little more emphatic).",
+      "pattern": "Auch wenn + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Wenn auch es schwer ist, gebe ich nicht auf.", "why": "At the start of the clause the order is *auch wenn*. In the variant *wenn … auch*, *auch* stands inside the clause: *Wenn es auch schwer ist, …*."},
+      "examples": [
+        {"de": "Auch wenn der Zug ausfällt, komme ich irgendwie zur Hochzeit.", "en": "Even if the train is cancelled, I'll get to the wedding somehow."},
+        {"de": "Auch wenn die Bewerbung abgelehnt wird, habe ich viel gelernt.", "en": "Even if the application is rejected, I have learned a lot."}
+      ],
+      "words": [{"de": "aufgeben", "en": "to give up"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Wenngleich::'although' · gehoben, literarisch}} sie jung ist, ist sie sehr erfahren.",
+      "en": "Although she is young, she is very experienced.",
+      "focus": "Konzessivsatz · literarischer Stil",
+      "explanation": "**wenngleich** is a formal, rather literary synonym of *obwohl*, written as one word. Its clause ends with the verb (*jung ist*); the main clause then starts with the finite verb, so two forms of *sein* meet at the comma: *ist, ist*. This is correct. Also correct here: *Obgleich* (formell, written German) and *Obwohl* (neutral).",
+      "pattern": "Wenngleich + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Wenn gleich sie jung ist, ist sie sehr erfahren.", "why": "The concessive conjunction is one word: *wenngleich*. *wenn gleich* would mean *if immediately*."},
+      "examples": [
+        {"de": "Wenngleich das Hotel teuer war, hat sich der Aufenthalt gelohnt.", "en": "Although the hotel was expensive, the stay was worth it."},
+        {"de": "Wenngleich die Ergebnisse vorläufig sind, geben sie Anlass zur Hoffnung.", "en": "Although the results are preliminary, they give reason for hope."}
+      ],
+      "words": [{"de": "erfahren", "en": "experienced"}],
+      "production_cue": "(formal register)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er ist {{c1::zwar::Einräumung · Teil 1}} reich, aber nicht glücklich.",
+      "en": "He may be rich, but he isn't happy.",
+      "focus": "zweiteiliger Konnektor · Einräumung + Gegensatz",
+      "explanation": "**zwar … aber** first admits a fact (he is rich) and then sets a contrast against it. *zwar* is an adverb and stands in the Mittelfeld after the finite verb *ist*; *aber* opens the second part. The second part is shortened: *aber (er ist) nicht glücklich*.",
+      "pattern": "Subjekt + Verb + zwar + X, aber + Y",
+      "mistake": {"wrong": "Er ist zwar reich, sondern nicht glücklich.", "why": "*sondern* only follows a negation and replaces something (*nicht reich, sondern arm*). After *zwar* the contrast is always *aber* (or *doch*)."},
+      "examples": [
+        {"de": "Die Wohnung ist zwar klein, aber gemütlich.", "en": "The flat may be small, but it's cosy."},
+        {"de": "Das Handy ist zwar teuer, aber sehr robust.", "en": "The phone may be expensive, but it's very robust."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} er viel verdient, spart er nichts.",
+      "en": "Although he earns a lot, he doesn't save anything.",
+      "focus": "Konzessivsatz · erwartete Folge bleibt aus",
+      "explanation": "A high salary leads you to expect savings; the opposite happens → concession with **obwohl**. The Nebensatz ends with *verdient*; the main clause starts with *spart* (verb – comma – verb). The same idea with an adverb: *Er verdient viel. Trotzdem spart er nichts.*",
+      "pattern": "Obwohl + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Trotzdem er viel verdient, spart er nichts.", "why": "In standard German *trotzdem* is an adverb, not a conjunction. It cannot send the verb to the end of a clause; use *obwohl*."},
+      "examples": [
+        {"de": "Obwohl sie wenig schläft, ist sie immer gut gelaunt.", "en": "Although she sleeps little, she is always in a good mood."},
+        {"de": "Obwohl das Restaurant teuer ist, ist es jeden Abend voll.", "en": "Although the restaurant is expensive, it's full every evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie ist {{c1::zwar::Einräumung · Teil 1}} klug, aber faul.",
+      "en": "She is clever, but lazy.",
+      "focus": "Einräumung + Gegensatz · zwei Eigenschaften",
+      "explanation": "*zwar* admits a positive quality, *aber* adds the opposing one. Both adjectives are predicative after *ist* and have no ending. Without *zwar* the sentence is still correct, but *zwar* signals early that a contrast is coming.",
+      "pattern": "Subjekt + ist + zwar + Adj., aber + Adj.",
+      "mistake": {"wrong": "Sie ist klug zwar, aber faul.", "why": "*zwar* stands before the part it concedes, here directly before *klug*: *Sie ist zwar klug, …*."},
+      "examples": [
+        {"de": "Der Kollege ist zwar nett, aber unzuverlässig.", "en": "The colleague is nice, but unreliable."},
+        {"de": "Der Roman ist zwar spannend, aber schlecht geschrieben.", "en": "The novel is exciting, but badly written."}
+      ],
+      "words": [{"de": "faul", "en": "lazy"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Auch wenn::'even if' · Einwand zugeben}} du recht hast, ist es zu spät.",
+      "en": "Even if you're right, it's too late.",
+      "focus": "Konzessivsatz · Einwand anerkennen",
+      "explanation": "The speaker accepts that the other person may be right, but this changes nothing → **auch wenn**. In *recht haben* the finite verb *hast* goes to the end, after *recht* (the capitalised *Recht haben* is also allowed). The main clause starts with *ist*, then *es*. Also correct here: *Selbst wenn* (more emphatic) and *Obwohl* (if you treat it as a fact: 'although you are right').",
+      "pattern": "Auch wenn + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Auch wenn du hast recht, ist es zu spät.", "why": "*auch wenn* introduces a Nebensatz, so *hast* must go to the end: *auch wenn du recht hast*."},
+      "examples": [
+        {"de": "Auch wenn du dich beeilst, schaffst du den Zug nicht mehr.", "en": "Even if you hurry, you won't catch the train any more."},
+        {"de": "Auch wenn Sie sich beschweren, ändert sich an der Regel nichts.", "en": "Even if you complain, nothing about the rule will change."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} ich nichts verstehe, finde ich es interessant.",
+      "en": "Although I don't understand anything, I find it interesting.",
+      "focus": "Konzessivsatz · Negation im Nebensatz",
+      "explanation": "Not understanding anything would normally make a topic boring; the speaker still finds it interesting → **obwohl**. *nichts* is the object inside the Nebensatz and stands before the finite verb *verstehe*. In the main clause *finde* comes first, then *ich*.",
+      "pattern": "Obwohl + … + nichts + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Obwohl ich verstehe nichts, finde ich es interessant.", "why": "In the *obwohl* clause the finite verb goes after the negation, to the end: *obwohl ich nichts verstehe*."},
+      "examples": [
+        {"de": "Obwohl ich kein Wort Japanisch spreche, schaue ich gern japanische Filme.", "en": "Although I don't speak a word of Japanese, I like watching Japanese films."},
+        {"de": "Obwohl er keine Noten lesen kann, spielt er hervorragend Klavier.", "en": "Although he can't read music, he plays the piano brilliantly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Es ist {{c1::zwar::Einräumung · Teil 1}} kalt, aber sonnig.",
+      "en": "It's cold, but sunny.",
+      "focus": "Einräumung + Gegensatz · Wetter mit *es*",
+      "explanation": "With weather the subject is *es*. *zwar* admits the negative side (*kalt*), *aber* adds the positive one (*sonnig*). Subject and verb are not repeated after *aber*: *aber (es ist) sonnig*.",
+      "pattern": "Es ist zwar + Adj., aber + Adj.",
+      "mistake": {"wrong": "Es ist zwar kalt, aber ist sonnig.", "why": "After *aber* either the whole clause is repeated with its subject (*aber es ist sonnig*) or only the adjective remains (*aber sonnig*). A verb without a subject is wrong."},
+      "examples": [
+        {"de": "Es ist zwar windig, aber trocken.", "en": "It's windy, but dry."},
+        {"de": "Es ist zwar spät, aber noch hell.", "en": "It's late, but still light."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} wir wenig Zeit hatten, schafften wir alles.",
+      "en": "Although we had little time, we managed everything.",
+      "focus": "Konzessivsatz · Präteritum in beiden Sätzen",
+      "explanation": "Little time is the counter-reason, managing everything the surprising result → **obwohl**. Both clauses are in the Präteritum: *hatten* at the end of the Nebensatz, *schafften* directly after the comma. *wenig Zeit* has no article and no ending on *wenig*.",
+      "pattern": "Obwohl + … + Verb (Prät.), + Verb (Prät.) + Subjekt …",
+      "mistake": {"wrong": "Obwohl wir wenig Zeit hatten, trotzdem schafften wir alles.", "why": "The Nebensatz already fills position 1, so *trotzdem* before the verb would be a second element there. Leave it out, or move it into the Mittelfeld: *…, schafften wir trotzdem alles*."},
+      "examples": [
+        {"de": "Obwohl wir uns verfahren hatten, kamen wir pünktlich an.", "en": "Although we had taken a wrong turn, we arrived on time."},
+        {"de": "Obwohl das Budget knapp war, wurde die Brücke rechtzeitig fertig.", "en": "Although the budget was tight, the bridge was finished on time."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Auch wenn::'even when' · Gewohnheit}} es regnet, fahre ich Fahrrad.",
+      "en": "Even when it rains, I cycle.",
+      "focus": "Konzessivsatz · Gewohnheit",
+      "explanation": "Here **auch wenn** has a general, repeated meaning: *every time* it rains, the speaker still cycles (English *even when*). The Nebensatz ends with *regnet*; the main clause starts with *fahre*. *Fahrrad fahren* keeps *Fahrrad* before the verb at the end of a Nebensatz (*…, weil ich Fahrrad fahre*). Also correct here: *Selbst wenn* (same meaning, a little more emphatic).",
+      "pattern": "Auch wenn + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Auch wenn es regnet, ich fahre Fahrrad.", "why": "After the Nebensatz in position 1 the finite verb follows directly: *…, fahre ich Fahrrad*."},
+      "examples": [
+        {"de": "Auch wenn es schneit, geht sie joggen.", "en": "Even when it snows, she goes jogging."},
+        {"de": "Auch wenn er müde ist, liest er abends noch ein Kapitel.", "en": "Even when he is tired, he still reads a chapter in the evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Er kam, {{c1::obwohl::Gegengrund · neutral}} er krank war.",
+      "en": "He came although he was ill.",
+      "focus": "Konzessivsatz · nachgestellt",
+      "explanation": "The Nebensatz follows the main clause, so the main clause has normal order (*Er kam*). A comma separates the clauses, and *war* stands at the end of the Nebensatz. Being ill would be a reason to stay at home → concession with **obwohl**.",
+      "pattern": "Hauptsatz, obwohl + … + Verb (Ende)",
+      "mistake": {"wrong": "Er kam, trotz er krank war.", "why": "*trotz* is a preposition and needs a noun in the Genitiv (*trotz seiner Krankheit*). To introduce a clause, use *obwohl*."},
+      "examples": [
+        {"de": "Sie ging zur Arbeit, obwohl sie Fieber hatte.", "en": "She went to work although she had a temperature."},
+        {"de": "Wir haben gewonnen, obwohl wir nur zu zehnt waren.", "en": "We won although there were only ten of us."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Obgleich::'although' · formell (Bericht)}} der Plan riskant ist, versuchen wir es.",
+      "en": "Although the plan is risky, we'll try it.",
+      "focus": "Konzessivsatz · formell · Präsens mit Zukunftsbezug",
+      "explanation": "**obgleich** is the formal synonym of *obwohl*, typical of written reports. The Nebensatz ends with *ist*; the main clause begins with *versuchen*, and the Präsens refers to the future here. *es* refers to the plan as a whole (*es versuchen* = to give it a try). Also correct here: *Obwohl* (neutral) and *Wenngleich* (gehoben).",
+      "pattern": "Obgleich + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Obgleich der Plan ist riskant, versuchen wir es.", "why": "*obgleich* is a subordinating conjunction: *ist* belongs at the end of its clause."},
+      "examples": [
+        {"de": "Obgleich die Nachfrage sinkt, investiert der Hersteller weiter.", "en": "Although demand is falling, the manufacturer keeps investing."},
+        {"de": "Obgleich Beweise fehlen, hält die Polizei an ihrer Theorie fest.", "en": "Although there is no evidence, the police are sticking to their theory."}
+      ],
+      "words": [{"de": "riskant", "en": "risky"}],
+      "production_cue": "(formal register)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie hat {{c1::zwar::Einräumung · Teil 1}} bestanden, aber knapp.",
+      "en": "She passed, but only just.",
+      "focus": "Einräumung + Gegensatz · Perfekt",
+      "explanation": "*zwar* concedes the main fact (she passed), *aber* limits it (only just). In the Perfekt *zwar* stands in the Mittelfeld between *hat* and the Partizip II *bestanden*. The second part is reduced to one word: *aber knapp*.",
+      "pattern": "Subjekt + hat + zwar + Partizip II, aber + Einschränkung",
+      "mistake": {"wrong": "Sie hat bestanden zwar, aber knapp.", "why": "*zwar* belongs in the Mittelfeld, before the Partizip II, which closes the Satzklammer: *Sie hat zwar bestanden*."},
+      "examples": [
+        {"de": "Wir haben zwar gewonnen, aber nur durch einen Elfmeter.", "en": "We won, but only thanks to a penalty."},
+        {"de": "Er hat zwar angerufen, aber viel zu spät.", "en": "He did call, but far too late."}
+      ],
+      "words": [{"de": "knapp", "en": "narrowly, only just"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} sie viel lernt, hat sie schlechte Noten.",
+      "en": "Although she studies a lot, she gets bad marks.",
+      "focus": "Konzessivsatz · Gegensatz zur Erwartung",
+      "explanation": "Studying a lot should lead to good marks; the opposite happens → **obwohl**. *lernen* (to study for school/exams) is used here, not *studieren* (to study at university). The Nebensatz ends with *lernt*, and the main clause begins with *hat*.",
+      "pattern": "Obwohl + … + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Weil sie viel lernt, hat sie schlechte Noten.", "why": "*weil* presents studying as the cause of the bad marks, which is illogical. The result goes against the expectation, so the sentence needs *obwohl*."},
+      "examples": [
+        {"de": "Obwohl er jeden Tag trainiert, verliert er fast jedes Spiel.", "en": "Although he trains every day, he loses almost every match."},
+        {"de": "Obwohl die Pflanze genug Wasser bekommt, welkt sie.", "en": "Although the plant gets enough water, it is wilting."}
+      ],
+      "words": [{"de": "die Note (-n)", "en": "mark, grade"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Auch wenn::'even if' · Gegengrund beiseite}} ich es nicht mag, akzeptiere ich es.",
+      "en": "Even if I don't like it, I accept it.",
+      "focus": "Konzessivsatz · Negation im Nebensatz",
+      "explanation": "**auch wenn** introduces a counter-reason that the speaker admits but sets aside. In the Nebensatz *nicht* stands before the finite verb *mag* at the end. The main clause starts with *akzeptiere*, and *es* refers to the same thing in both clauses. Also correct here: *Selbst wenn* (more emphatic) and *Obwohl* ('although'; it presents the dislike as a fact).",
+      "pattern": "Auch wenn + … + nicht + Verb, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Auch wenn ich es mag nicht, akzeptiere ich es.", "why": "In a Nebensatz the finite verb comes after *nicht*, at the end: *auch wenn ich es nicht mag*."},
+      "examples": [
+        {"de": "Auch wenn ich die Regel unfair finde, halte ich mich daran.", "en": "Even if I find the rule unfair, I stick to it."},
+        {"de": "Auch wenn wir nicht einer Meinung sind, respektiere ich deine Entscheidung.", "en": "Even if we don't agree, I respect your decision."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} es spät ist, arbeite ich noch.",
+      "en": "Although it's late, I'm still working.",
+      "focus": "Konzessivsatz · *es* als Subjekt",
+      "explanation": "The late hour is the counter-reason; the speaker keeps working anyway → **obwohl**. In the Nebensatz the impersonal subject *es* follows the conjunction and *ist* goes to the end. *noch* in the main clause means *still* and stands after the verb and subject.",
+      "pattern": "Obwohl + es + … + Verb, + finites Verb + Subjekt + noch",
+      "mistake": {"wrong": "Obwohl ist es spät, arbeite ich noch.", "why": "After *obwohl* the subject comes first and the finite verb goes to the end: *obwohl es spät ist*. Verb-first order is for questions and conditions without *wenn*."},
+      "examples": [
+        {"de": "Obwohl es schon Mitternacht ist, sind die Straßen voll.", "en": "Although it's already midnight, the streets are full."},
+        {"de": "Obwohl es Sonntag ist, hat die Apotheke geöffnet.", "en": "Although it's Sunday, the pharmacy is open."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Er ist {{c1::zwar::Einräumung · Teil 1}} alt, aber fit.",
+      "en": "He may be old, but he's fit.",
+      "focus": "Einräumung + Gegensatz · verkürzter zweiter Teil",
+      "explanation": "*zwar* concedes *alt*, *aber* sets *fit* against it. The second part is reduced to the adjective, because subject and verb are the same (*aber er ist fit*). *zwar* needs a partner: *aber* or *doch*.",
+      "pattern": "Subjekt + ist + zwar + Adj., aber + Adj.",
+      "mistake": {"wrong": "Er ist zwar alt, obwohl fit.", "why": "*zwar* must be answered by *aber* or *doch*. *obwohl* introduces the counter-reason itself and cannot be the second part of *zwar*."},
+      "examples": [
+        {"de": "Die Methode ist zwar aufwendig, aber präzise.", "en": "The method may be laborious, but it is precise."},
+        {"de": "Unser Hund ist zwar klein, aber sehr mutig.", "en": "Our dog may be small, but it is very brave."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Obwohl::Gegengrund · neutral}} sie nicht studiert hat, ist sie erfolgreich.",
+      "en": "Although she didn't go to university, she's successful.",
+      "focus": "Konzessivsatz · Perfekt im Nebensatz",
+      "explanation": "Not having a degree would suggest less success; she is successful anyway → **obwohl**. The Nebensatz is in the Perfekt: *nicht* before the Partizip II, the auxiliary *hat* last (*nicht studiert hat*). The main clause is in the Präsens and starts with *ist*.",
+      "pattern": "Obwohl + … + nicht + Partizip II + hat, + Verb + Subjekt …",
+      "mistake": {"wrong": "Obwohl sie hat nicht studiert, ist sie erfolgreich.", "why": "In the Nebensatz the auxiliary *hat* does not stay in second position; it goes to the end: *obwohl sie nicht studiert hat*."},
+      "examples": [
+        {"de": "Obwohl er nie Unterricht hatte, spielt er hervorragend Gitarre.", "en": "Although he never had lessons, he plays the guitar brilliantly."},
+        {"de": "Obwohl sie keine Ausbildung gemacht hat, leitet sie heute eine Abteilung.", "en": "Although she didn't do any vocational training, she now runs a department."}
+      ],
+      "words": [{"de": "studieren", "en": "to study at university"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Es regnete in Strömen. {{c1::Trotzdem::Gegengrund · Adverb · neutral}} fand das Konzert im Freien statt.",
+      "en": "It was pouring with rain. Nevertheless, the concert took place outdoors.",
+      "focus": "Konzessivadverb · Position 1",
+      "explanation": "**trotzdem** is an adverb that refers back to the previous sentence. It fills position 1, so the finite verb *fand* follows directly and the subject *das Konzert* comes after it. The separable verb *stattfinden* is split in the main clause: *fand … statt*.",
+      "pattern": "Satz 1. Trotzdem + finites Verb + Subjekt … + Präfix.",
+      "mistake": {"wrong": "Es regnete in Strömen. Trotzdem das Konzert fand im Freien statt.", "why": "*trotzdem* takes position 1 like any adverb. The finite verb *fand* must come next, before the subject."},
+      "examples": [
+        {"de": "Die Prüfung war schwer. Trotzdem haben fast alle bestanden.", "en": "The exam was hard. Nevertheless, almost everyone passed."},
+        {"de": "Der Flug war teuer. Trotzdem haben wir ihn gebucht.", "en": "The flight was expensive. We booked it anyway."}
+      ],
+      "words": [{"de": "in Strömen regnen", "en": "to pour with rain"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Trotz::'despite' · neutral · + Gen.}} der hohen Kosten hält die Stadt am Projekt fest.",
+      "en": "Despite the high costs, the city is sticking to the project.",
+      "focus": "Konzession · Nominalgruppe statt Nebensatz",
+      "explanation": "**trotz** is the prepositional form of the concession: it takes a noun phrase in the Genitiv (*der hohen Kosten*, plural). It is the nominal version of *Obwohl die Kosten hoch sind, …*. *festhalten an* + Dativ is split in the main clause: *hält … am Projekt fest* (*am* = *an dem*). Also correct here: *Ungeachtet* (formell, 'regardless of').",
+      "pattern": "Trotz + Genitiv, + finites Verb + Subjekt …",
+      "mistake": {"wrong": "Obwohl der hohen Kosten hält die Stadt am Projekt fest.", "why": "*obwohl* is a conjunction and needs a full clause with a verb. Before a noun phrase use the preposition *trotz* + Genitiv."},
+      "examples": [
+        {"de": "Trotz des Streiks fuhren einige Züge.", "en": "Despite the strike, some trains were running."},
+        {"de": "Trotz seiner Verletzung spielte er bis zum Ende.", "en": "Despite his injury, he played until the end."}
+      ],
+      "words": [{"de": "festhalten an (+ Dat.)", "en": "to stick to, to hold on to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Studie hat methodische Schwächen; sie liefert {{c1::dennoch::Adverb · formell · = trotzdem}} wichtige Hinweise.",
+      "en": "The study has methodological weaknesses; nevertheless, it provides important indications.",
+      "focus": "Konzessivadverb · Mittelfeld · formell",
+      "explanation": "**dennoch** means the same as *trotzdem* but is more formal and typical of academic and journalistic texts. Here it stands in the Mittelfeld after the finite verb *liefert*; it could also start the clause (*Dennoch liefert sie …*). As an adverb it does not change the verb position.",
+      "pattern": "Satz 1; Subjekt + Verb + dennoch + …",
+      "mistake": {"wrong": "Die Studie hat methodische Schwächen; dennoch sie liefert wichtige Hinweise.", "why": "If *dennoch* starts the clause, it is position 1 and the verb follows: *dennoch liefert sie*. Otherwise put it after the verb: *sie liefert dennoch*."},
+      "examples": [
+        {"de": "Die Verhandlungen waren schwierig; man hat sich dennoch geeinigt.", "en": "The negotiations were difficult; nevertheless, an agreement was reached."},
+        {"de": "Der Umsatz ist gesunken; das Unternehmen bleibt dennoch profitabel.", "en": "Turnover has fallen; the company nevertheless remains profitable."}
+      ],
+      "words": [{"de": "der Hinweis (-e)", "en": "indication, evidence, hint"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Lage hat sich verbessert, {{c1::wenn auch::'albeit' · ohne Verb}} nur langsam.",
+      "en": "The situation has improved, if only slowly.",
+      "focus": "verkürzter Konzessivsatz ohne Verb",
+      "explanation": "**wenn auch** + a single word or phrase is a shortened concessive clause (*wenn sie sich auch nur langsam verbessert hat*). It adds a limiting fact without a verb. It is common in written German and corresponds to English *if only* or *albeit*. Also correct here: *wenngleich* (gehoben; it can also stand without a verb).",
+      "pattern": "Hauptsatz, wenn auch + Adverb/Phrase",
+      "mistake": {"wrong": "Die Lage hat sich verbessert, trotz nur langsam.", "why": "*trotz* is a preposition and needs a noun in the Genitiv. A concession before an adverb like *langsam* is expressed with *wenn auch*."},
+      "examples": [
+        {"de": "Das Projekt wurde abgeschlossen, wenn auch mit Verspätung.", "en": "The project was completed, albeit late."},
+        {"de": "Sie hat zugestimmt, wenn auch widerwillig.", "en": "She agreed, if reluctantly."}
+      ],
+      "words": [{"de": "widerwillig", "en": "reluctantly"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::So::'however (much)' · mit *auch*}} sehr er sich auch bemühte, er konnte sie nicht überzeugen.",
+      "en": "However hard he tried, he couldn't convince her.",
+      "focus": "verallgemeinernder Konzessivsatz · Wortstellung danach",
+      "explanation": "**so** + adjective/adverb + … + *auch* means *however (much)*: no degree of effort changes the result. The clause has the verb at the end (*bemühte*). The main clause usually keeps normal order (*er konnte*), because this type of concessive clause stands outside the sentence and does not fill position 1; inversion (*konnte er*) is possible but less common. Also correct here: *Wie* (*Wie sehr er sich auch bemühte, …*; same meaning, equally common).",
+      "pattern": "So + Adj./Adv. + Subjekt + … + auch + Verb, + Subjekt + Verb …",
+      "mistake": {"wrong": "So sehr er sich bemühte auch, er konnte sie nicht überzeugen.", "why": "*auch* belongs in the Mittelfeld of the concessive clause, before the finite verb, which must be last: *so sehr er sich auch bemühte*."},
+      "examples": [
+        {"de": "So teuer die Wohnung auch ist, wir nehmen sie.", "en": "However expensive the flat is, we're taking it."},
+        {"de": "So schnell sie auch lief, der Bus war schon weg.", "en": "However fast she ran, the bus had already gone."}
+      ],
+      "words": [{"de": "sich bemühen", "en": "to try hard, to make an effort"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Selbst wenn ich mehr Zeit {{c1::hätte::haben → Konj. II}}, würde ich diesen Kurs nicht belegen.",
+      "en": "Even if I had more time, I wouldn't take this course.",
+      "focus": "irreale Konzession · Konjunktiv II",
+      "explanation": "**selbst wenn** stresses *even if* more strongly than *auch wenn*. The condition is unreal (the speaker does not have more time), so both clauses use the Konjunktiv II: **hätte** in the Nebensatz and *würde … belegen* in the main clause. The main clause starts with the finite verb *würde*.",
+      "pattern": "Selbst wenn + … + Konj. II, + würde + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Selbst wenn ich mehr Zeit habe, würde ich diesen Kurs nicht belegen.", "why": "The Indikativ *habe* presents the condition as real, but *würde* in the main clause marks it as unreal. For an unreal concession both clauses need the Konjunktiv II: *hätte … würde*."},
+      "examples": [
+        {"de": "Selbst wenn er sich entschuldigen würde, könnte ich ihm nicht verzeihen.", "en": "Even if he apologised, I couldn't forgive him."},
+        {"de": "Selbst wenn wir jetzt ein Taxi nähmen, kämen wir zu spät.", "en": "Even if we took a taxi now, we would arrive too late."}
+      ],
+      "words": [{"de": "einen Kurs belegen", "en": "to take / enrol in a course"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Wir sind pünktlich angekommen, obwohl wir unterwegs zweimal umsteigen {{c1::mussten::müssen, Präteritum}}.",
+      "en": "We arrived on time although we had to change trains twice on the way.",
+      "focus": "Konzessivsatz · Modalverb am Ende",
+      "explanation": "In the *obwohl* clause the modal verb is the finite verb and goes to the very end, after the infinitive: *umsteigen* **mussten**. The separable verb *umsteigen* stays joined. Modal verbs usually use the Präteritum for the past, even when the main clause is in the Perfekt.",
+      "pattern": "Hauptsatz, obwohl + … + Infinitiv + Modalverb (Ende)",
+      "mistake": {"wrong": "Wir sind pünktlich angekommen, obwohl wir unterwegs mussten zweimal umsteigen.", "why": "In a Nebensatz the finite modal verb goes to the end, after the infinitive: *zweimal umsteigen mussten*."},
+      "examples": [
+        {"de": "Sie hat gute Laune, obwohl sie am Wochenende arbeiten muss.", "en": "She is in a good mood although she has to work at the weekend."},
+        {"de": "Er hat den Kredit bekommen, obwohl er keine Sicherheiten vorweisen konnte.", "en": "He got the loan although he couldn't provide any collateral."}
+      ],
+      "words": [{"de": "umsteigen", "en": "to change (trains, buses)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Obwohl die Mieten stark gestiegen sind, {{c1::will::wollen}} kaum jemand aus der Innenstadt wegziehen.",
+      "en": "Although rents have risen sharply, hardly anyone wants to move out of the city centre.",
+      "focus": "Nebensatz im Vorfeld · Modalverb im Hauptsatz",
+      "explanation": "The *obwohl* clause fills position 1; in the main clause the finite verb, the modal **will**, comes next, then the subject *kaum jemand*. *jemand* is 3rd person singular → *will* (no ending). The infinitive *wegziehen* closes the Satzklammer.",
+      "pattern": "Obwohl + … + Verb, + Modalverb + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Obwohl die Mieten stark gestiegen sind, kaum jemand will aus der Innenstadt wegziehen.", "why": "After the Nebensatz in position 1, the finite verb *will* must come directly after the comma, before the subject *kaum jemand*."},
+      "examples": [
+        {"de": "Obwohl das Angebot gut ist, möchte niemand den Vertrag unterschreiben.", "en": "Although the offer is good, nobody wants to sign the contract."},
+        {"de": "Obwohl die Bahn pünktlicher geworden ist, fahren viele Pendler weiter mit dem Auto.", "en": "Although the trains have become more punctual, many commuters still go by car."}
+      ],
+      "words": [{"de": "wegziehen", "en": "to move away"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Zwar ist die Wohnung klein, {{c1::aber::'but' · Gegenstück zu *zwar*}} sie liegt sehr zentral.",
+      "en": "The flat may be small, but it's very central.",
+      "focus": "*zwar* im Vorfeld · Wortstellung im zweiten Teil",
+      "explanation": "When *zwar* fills position 1, the finite verb follows at once: *Zwar ist die Wohnung klein*. **aber** stands outside the next clause (position 0), so that clause keeps normal order: *aber sie liegt*. *doch* is also possible here (*doch sie liegt* or *doch liegt sie*). Also correct here: *doch* (a little more written in style).",
+      "pattern": "Zwar + Verb + Subjekt …, aber + Subjekt + Verb …",
+      "mistake": {"wrong": "Zwar die Wohnung ist klein, aber sie liegt sehr zentral.", "why": "*zwar* is an adverb. In position 1 it must be followed directly by the finite verb: *Zwar ist die Wohnung klein*."},
+      "examples": [
+        {"de": "Zwar ist der Weg weit, aber die Aussicht lohnt sich.", "en": "The walk may be long, but the view is worth it."},
+        {"de": "Zwar hat das Team verloren, aber es hat gut gespielt.", "en": "The team may have lost, but it played well."}
+      ],
+      "words": [{"de": "zentral liegen", "en": "to be centrally located"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Was auch immer {{c1::passiert::passieren}}, wir halten zusammen.",
+      "en": "Whatever happens, we stick together.",
+      "focus": "verallgemeinernder Konzessivsatz · W-Wort + *auch immer*",
+      "explanation": "*was auch immer* (*whatever*) makes a general concession: no event will change the main clause. The clause has the verb at the end: **passiert** (3rd person singular, because *was* is the subject). As with *so … auch*, the main clause usually keeps normal order (*wir halten*).",
+      "pattern": "W-Wort + auch immer + … + Verb, + Subjekt + Verb …",
+      "mistake": {"wrong": "Was passiert auch immer, wir halten zusammen.", "why": "*was auch immer* stays together at the start of the clause, and the verb goes to the end: *Was auch immer passiert*."},
+      "examples": [
+        {"de": "Wer auch immer anruft, ich bin heute nicht erreichbar.", "en": "Whoever calls, I'm not available today."},
+        {"de": "Wo auch immer sie wohnt, sie findet schnell Freunde.", "en": "Wherever she lives, she quickly makes friends."}
+      ],
+      "words": [{"de": "zusammenhalten", "en": "to stick together"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Mag::mögen}} die Aufgabe auch schwierig sein, sie ist lösbar.",
+      "en": "However difficult the task may be, it can be solved.",
+      "focus": "formelle Konzession · Modalverb in Position 1",
+      "explanation": "A formal written concession: the modal **mag** stands first, *auch* in the Mittelfeld, and the main verb in the infinitive at the end (*schwierig sein*). It means *even though / however much … may be*. As with other *auch* concessions, the following main clause keeps normal order (*sie ist lösbar*).",
+      "pattern": "Mag + Subjekt + auch + … + Infinitiv, + Subjekt + Verb …",
+      "mistake": {"wrong": "Mag die Aufgabe auch schwierig ist, sie ist lösbar.", "why": "*mag* is already the finite verb. The main verb must be an infinitive at the end: *Mag die Aufgabe auch schwierig sein*."},
+      "examples": [
+        {"de": "Mag der Weg auch lang sein, wir geben nicht auf.", "en": "However long the road may be, we won't give up."},
+        {"de": "Mag sie auch recht haben, ihr Ton war unhöflich.", "en": "She may well be right, but her tone was rude."}
+      ],
+      "words": [{"de": "lösbar", "en": "solvable"}],
+      "production_cue": "(formal register)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Sie fühlte sich unsicher, obwohl sie sich gründlich vorbereitet {{c1::hatte::haben, Plusquamperfekt}}.",
+      "en": "She felt unsure, although she had prepared thoroughly.",
+      "focus": "Konzessivsatz · Vorzeitigkeit in der Vergangenheit",
+      "explanation": "The preparation happened before the feeling, so the *obwohl* clause uses the Plusquamperfekt (*vorbereitet* **hatte**), while the main clause is in the Präteritum. The auxiliary *hatte* goes to the very end. *sich vorbereiten* is reflexive, and the pronoun follows the subject: *sie sich*.",
+      "pattern": "Hauptsatz (Prät.), obwohl + … + Partizip II + hatte",
+      "mistake": {"wrong": "Sie fühlte sich unsicher, obwohl sie hatte sich gründlich vorbereitet.", "why": "In the *obwohl* clause the auxiliary *hatte* goes to the end, after the Partizip II: *vorbereitet hatte*."},
+      "examples": [
+        {"de": "Er war nervös, obwohl er die Rede oft geübt hatte.", "en": "He was nervous although he had practised the speech many times."},
+        {"de": "Die Pflanzen gingen ein, obwohl wir sie regelmäßig gegossen hatten.", "en": "The plants died although we had watered them regularly."}
+      ],
+      "words": [{"de": "gründlich", "en": "thoroughly"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the difference between the conjunction and the adverb.",
+      "prompt": "What is the grammatical difference between *obwohl* and *trotzdem*?",
+      "answer": "**obwohl** is a subordinating conjunction: it introduces the counter-reason, and the verb goes to the end of its clause. **trotzdem** is an adverb in the main clause that refers back to the counter-reason: it takes position 1 (verb follows) or a place in the Mittelfeld.",
+      "explanation": "Both sentences say the same thing. With *obwohl* the counter-reason is a Nebensatz; with *trotzdem* it is a separate main clause, and *trotzdem* in position 1 is followed by the finite verb *sprangen*. *trotzdem* never sends the verb to the end in standard German.",
+      "examples": [
+        {"de": "Obwohl das Wasser eiskalt war, sprangen die Kinder hinein.", "en": "Although the water was ice-cold, the children jumped in."},
+        {"de": "Das Wasser war eiskalt. Trotzdem sprangen die Kinder hinein.", "en": "The water was ice-cold. Nevertheless, the children jumped in."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about register.",
+      "prompt": "How do *obwohl*, *obgleich*, *obschon* and *wenngleich* differ?",
+      "answer": "They have the same meaning and the same grammar (verb at the end). They differ only in register: **obwohl** is neutral and used everywhere; **obgleich** and **obschon** are formal; **wenngleich** is formal and rather literary.",
+      "explanation": "In everyday speech and most emails, use *obwohl*. In reports, academic writing and literature you will also meet *obgleich* and *wenngleich*. *wenngleich* is also used in shortened phrases without a verb (*ein kleiner, wenngleich wichtiger Schritt*).",
+      "examples": [
+        {"de": "Obschon die Daten lückenhaft sind, lassen sich Trends erkennen.", "en": "Although the data are incomplete, trends can be seen."},
+        {"de": "Es war ein kleiner, wenngleich wichtiger Schritt.", "en": "It was a small, if important, step."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *obwohl* and *auch wenn / selbst wenn*?",
+      "answer": "**obwohl** always presents the counter-reason as a **fact**. **auch wenn / selbst wenn** can present a fact, but also a **possible** condition (*even if*); with the Konjunktiv II they present an **unreal** one. *selbst wenn* is stronger than *auch wenn*.",
+      "explanation": "*Obwohl er anruft* means he does call. *Auch wenn er anruft* can mean *even if he calls* (we do not know yet). *Selbst wenn er anriefe / anrufen würde* is unreal: he will probably not call.",
+      "examples": [
+        {"de": "Obwohl er anruft, gehe ich nicht ans Telefon.", "en": "Although he is calling, I'm not answering the phone."},
+        {"de": "Selbst wenn er anrufen würde, ginge ich nicht ans Telefon.", "en": "Even if he called, I wouldn't answer the phone."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "Why does the main clause often keep normal word order after *so … auch* or *wer/was … auch immer* (*So teuer es auch ist, ich kaufe es*)?",
+      "answer": "These generalising concessive clauses say that the condition is **irrelevant** for the main clause. They stand outside the sentence (before position 1), so the main clause keeps its own Vorfeld: *ich kaufe es*. After *obwohl* clauses, in contrast, the main clause must invert.",
+      "explanation": "Compare *Obwohl es teuer ist, kaufe ich es* (inversion) with *So teuer es auch ist, ich kaufe es* (no inversion). With *so … auch* inversion is also accepted, but normal order is more frequent; with *obwohl* normal order is wrong.",
+      "examples": [
+        {"de": "Wie sehr ich mich auch beeile, ich komme immer zu spät.", "en": "However much I hurry, I'm always late."},
+        {"de": "Wer auch immer das behauptet hat, es stimmt nicht.", "en": "Whoever claimed that, it isn't true."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "combine",
+      "instruction": "Join the sentences with *obwohl*. Start with *Obwohl*.",
+      "prompt": "Der Laptop ist erst ein Jahr alt. Er funktioniert nicht mehr richtig.",
+      "answer": "Obwohl der Laptop erst ein Jahr alt ist, funktioniert er nicht mehr richtig.",
+      "explanation": "The first sentence is the counter-reason, so it becomes the *obwohl* clause with *ist* at the end. The Nebensatz fills position 1, so the main clause starts with *funktioniert*, followed by *er*."
+    },
+    {
+      "key": "d06",
+      "type": "combine",
+      "instruction": "Join the sentences with *zwar … aber*. Keep the subject at the start.",
+      "prompt": "Das Hotel liegt ruhig. Es ist weit vom Strand entfernt.",
+      "answer": "Das Hotel liegt zwar ruhig, aber es ist weit vom Strand entfernt.",
+      "explanation": "*zwar* goes into the first clause after the finite verb *liegt*. The second clause starts with *aber* in position 0 and keeps normal order (*es ist*). The quiet location is admitted, the distance to the beach is the contrast."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite as two main clauses joined by a comma. Put *trotzdem* in position 1 of the second clause.",
+      "prompt": "Obwohl die Kritiken schlecht waren, war das Theater ausverkauft.",
+      "answer": "Die Kritiken waren schlecht, trotzdem war das Theater ausverkauft.",
+      "explanation": "The *obwohl* clause becomes a main clause with the verb in position 2 (*waren*). *trotzdem* fills position 1 of the second clause, so *war* follows it directly, then the subject *das Theater*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the *obwohl* clause with *trotz* + Genitiv (*der starke Regen*).",
+      "prompt": "Obwohl es stark regnete, fand der Marathon statt.",
+      "answer": "Trotz des starken Regens fand der Marathon statt.",
+      "explanation": "*trotz* takes the Genitiv: masculine *der Regen* → *des Regens*, and the adjective after *des* takes *-en*: *des starken Regens*. The prepositional phrase fills position 1, followed by *fand*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Make the concession unreal: use *selbst wenn* and the Konjunktiv II in both clauses.",
+      "prompt": "Auch wenn das Angebot günstiger ist, bleibe ich bei meinem Anbieter.",
+      "answer": "Selbst wenn das Angebot günstiger wäre, würde ich bei meinem Anbieter bleiben.",
+      "explanation": "The Indikativ *ist* becomes the Konjunktiv II *wäre*, and the main clause changes to *würde … bleiben*. Now the speaker says that the offer is not actually cheaper; the decision would be the same anyway."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Trotzdem er wenig Erfahrung hat, hat er die Stelle bekommen.",
+      "answer": "Obwohl er wenig Erfahrung hat, hat er die Stelle bekommen.",
+      "explanation": "*trotzdem* is an adverb and cannot introduce a Nebensatz with the verb at the end. The conjunction for this structure is *obwohl*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Obwohl wir uns beeilt haben, wir haben den Zug verpasst.",
+      "answer": "Obwohl wir uns beeilt haben, haben wir den Zug verpasst.",
+      "explanation": "The *obwohl* clause fills position 1, so the finite verb of the main clause must come right after the comma: *haben wir*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Essen war zwar teuer, sondern sehr lecker.",
+      "answer": "Das Essen war zwar teuer, aber sehr lecker.",
+      "explanation": "*zwar* is answered by *aber* (or *doch*). *sondern* only follows a negation and replaces the negated part (*nicht teuer, sondern billig*)."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the word that fits the structure.",
+      "prompt": "___ der guten Vorbereitung war sie nervös.",
+      "options": ["Trotz", "Obwohl", "Trotzdem", "Zwar"],
+      "correct": "Trotz",
+      "answer": "Trotz der guten Vorbereitung war sie nervös.",
+      "explanation": "After the gap comes a noun phrase in the Genitiv (*der guten Vorbereitung*), so you need the preposition *trotz*. *Obwohl* needs a clause with a verb. *Trotzdem* and *Zwar* are adverbs and cannot govern a noun phrase."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the word that fits the structure.",
+      "prompt": "Der Flug wurde gestrichen; wir sind ___ rechtzeitig angekommen.",
+      "options": ["trotzdem", "obwohl", "trotz", "zwar"],
+      "correct": "trotzdem",
+      "answer": "Der Flug wurde gestrichen; wir sind trotzdem rechtzeitig angekommen.",
+      "explanation": "The gap is in the Mittelfeld of a main clause (*wir sind … angekommen*) and refers back to the first clause, so the adverb *trotzdem* fits. *obwohl* would need a Nebensatz with the verb at the end, *trotz* needs a Genitiv noun, and *zwar* would need a following *aber*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Obgleich",
+      "prompt": "obgleich / die Umfragen / schlecht / waren / gewann / die Partei / die Wahl",
+      "answer": "Obgleich die Umfragen schlecht waren, gewann die Partei die Wahl.",
+      "explanation": "In the *obgleich* clause the finite verb *waren* stands at the end. The Nebensatz fills position 1, so the main clause starts with *gewann*, then the subject *die Partei* and the object *die Wahl*."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Zwar",
+      "prompt": "zwar / ist / das Gerät / teuer / aber / es / spart / viel Strom",
+      "answer": "Zwar ist das Gerät teuer, aber es spart viel Strom.",
+      "explanation": "*Zwar* in position 1 is followed directly by the finite verb *ist*. *aber* is in position 0 of the second clause, so the order there is normal: *es spart*. Starting with the subject is also correct: *Das Gerät ist zwar teuer, aber es spart viel Strom.*"
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences: turn the second one into a short phrase with *wenn auch*.",
+      "prompt": "Die Firma hat ihren Gewinn gesteigert. Die Steigerung war nur gering.",
+      "answer": "Die Firma hat ihren Gewinn gesteigert, wenn auch nur geringfügig.",
+      "explanation": "*wenn auch* + adverb is a concession without a verb: it admits the increase but limits it. *geringfügig* (*only slightly*) is the usual adverb with a verb like *steigern*; *wenn auch nur gering* is also correct."
+    }
+  ]
+}

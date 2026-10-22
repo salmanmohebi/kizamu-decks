@@ -1,0 +1,1113 @@
+{
+  "topic_id": "b1-14-konnektoren-zweiteilig",
+  "level": "B1",
+  "title_de": "Zweiteilige Konnektoren",
+  "title_en": "Two-part connectors",
+  "rule": {
+    "summary": "Two-part connectors (zweiteilige Konnektoren) link two words, phrases or clauses of the same kind and make their relation clear: addition (**sowohl … als auch**, **nicht nur … sondern auch**), alternative (**entweder … oder**), negation of both elements (**weder … noch**), concession (**zwar … aber**), two sides of one matter (**einerseits … andererseits**) and proportion (**je … desto/umso**). The first part prepares the listener, the second part brings the second element. Word order depends on the connector: some parts are adverbs that fill the Vorfeld, some stand outside the clause (position 0), and *je* opens a Nebensatz.",
+    "table": "| Konnektor | Bedeutung | Beispiel |\n|---|---|---|\n| **sowohl … als auch** | both … and | Ich spreche sowohl Deutsch als auch Englisch. |\n| **nicht nur … sondern auch** | not only … but also | Er ist nicht nur klug, sondern auch fleißig. |\n| **entweder … oder** | either … or | Entweder kommst du mit, oder du bleibst hier. |\n| **weder … noch** | neither … nor | Sie isst weder Fleisch noch Fisch. |\n| **zwar … aber** | admittedly … but | Es ist zwar kalt, aber sonnig. |\n| **einerseits … andererseits** | on the one hand … on the other hand | Einerseits verdient er gut, andererseits hat er kaum Zeit. |\n| **je … desto / umso** | the (more) … the (more) | Je mehr ich lerne, desto mehr verstehe ich. |",
+    "steps": [
+      "Choose the connector by meaning: both (*sowohl … als auch*), not only … but also (*nicht nur … sondern auch*), one of two (*entweder … oder*), none of two (*weder … noch*), admitted fact + counterpoint (*zwar … aber*), two sides (*einerseits … andererseits*), proportion (*je … desto*).",
+      "Link parallel elements: noun + noun, adjective + adjective, infinitive + infinitive, clause + clause. Put the first part directly before the first element.",
+      "Main clauses: *entweder, weder, noch, zwar, einerseits, andererseits* can fill the Vorfeld → finite verb directly after them (*Zwar habe ich …*). *oder, aber, sondern* stand in position 0 → normal order after them (*oder du bleibst*). After *entweder* both orders are correct.",
+      "*je* + comparative opens a Nebensatz → finite verb at the end. *desto/umso* + comparative opens the main clause → finite verb directly after the comparative group, then the subject.",
+      "Subject agreement: two subjects with *sowohl … als auch* normally take a plural verb; two singular subjects with *entweder … oder* take a singular verb. *weder … noch* already negates: no *nicht*, no *kein*."
+    ],
+    "pitfalls": [
+      "Double negation: ✗ *Ich habe weder keine Zeit noch keine Lust.* → ✓ *Ich habe weder Zeit noch Lust.*",
+      "Wrong partner: ✗ *sowohl Deutsch und Englisch* → ✓ *sowohl Deutsch als auch Englisch*; ✗ *nicht nur klug, aber auch fleißig* → ✓ *nicht nur klug, sondern auch fleißig*.",
+      "Main-clause order in the *je* part or Nebensatz order in the *desto* part: ✗ *Je mehr lerne ich, desto ich verstehe mehr.* → ✓ *Je mehr ich lerne, desto mehr verstehe ich.*",
+      "Inversion after *oder/aber*: ✗ *Entweder kommst du mit, oder bleibst du hier.* → ✓ *…, oder du bleibst hier.*",
+      "Mixing *obwohl* and *aber*: ✗ *Obwohl sie jung ist, aber sie ist erfahren.* → ✓ *Sie ist zwar jung, aber erfahren.* / *Obwohl sie jung ist, ist sie erfahren.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich spreche {{c1::sowohl}} Deutsch als auch Englisch.",
+      "en": "I speak both German and English.",
+      "focus": "Aufzählung · Partner von *als auch*",
+      "explanation": "This connector (both … and) links two parallel elements, here two Akkusativ objects of *spreche*. **sowohl** stands directly before the first element, *als auch* before the second. It is stronger than *und*: it stresses that both are true.",
+      "pattern": "**sowohl** X **als auch** Y",
+      "mistake": {
+        "wrong": "Ich spreche sowohl Deutsch und Englisch.",
+        "why": "*sowohl* needs its own partner *als auch*. It cannot be completed with *und*."
+      },
+      "examples": [
+        {
+          "de": "Sie spielt sowohl Klavier als auch Gitarre.",
+          "en": "She plays both the piano and the guitar."
+        },
+        {
+          "de": "Für den Kuchen brauchen wir sowohl Eier als auch Mehl.",
+          "en": "For the cake we need both eggs and flour."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wir nehmen {{c1::entweder}} den Bus oder die Bahn.",
+      "en": "We're taking either the bus or the train.",
+      "focus": "Alternative · Partner von *oder*",
+      "explanation": "This connector (either … or) offers exactly two options, and only one of them will happen. Here it links two Akkusativ objects of *nehmen*: **entweder** before the first, *oder* before the second. No comma is needed between two noun phrases.",
+      "pattern": "**entweder** X **oder** Y",
+      "mistake": {
+        "wrong": "Wir nehmen entweder den Bus und die Bahn.",
+        "why": "*und* adds a second element, but *entweder* asks for a choice. Its partner is always *oder*."
+      },
+      "examples": [
+        {
+          "de": "Ich trinke morgens entweder Tee oder Wasser.",
+          "en": "In the morning I drink either tea or water."
+        },
+        {
+          "de": "Das Treffen ist entweder am Montag oder am Dienstag.",
+          "en": "The meeting is either on Monday or on Tuesday."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie isst {{c1::weder}} Fleisch noch Fisch.",
+      "en": "She eats neither meat nor fish.",
+      "focus": "Verneinung beider Teile · Partner von *noch*",
+      "explanation": "This connector (neither … nor) negates both elements at the same time. **weder** stands before the first noun, *noch* before the second. The connector itself is the negation, so the sentence has no *nicht* and no *kein*.",
+      "pattern": "**weder** X **noch** Y (ohne *nicht/kein*)",
+      "mistake": {
+        "wrong": "Sie isst weder kein Fleisch noch keinen Fisch.",
+        "why": "*weder … noch* already negates both nouns. An extra *kein* makes a double negation, which is wrong in standard German."
+      },
+      "examples": [
+        {
+          "de": "Er trinkt weder Bier noch Wein.",
+          "en": "He drinks neither beer nor wine."
+        },
+        {
+          "de": "Wir haben weder Milch noch Butter im Kühlschrank.",
+          "en": "We have neither milk nor butter in the fridge."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er ist {{c1::nicht nur}} klug, sondern auch fleißig.",
+      "en": "He's not only smart but also hard-working.",
+      "focus": "Steigerung · Partner von *sondern auch*",
+      "explanation": "This connector adds a second quality and stresses it: the second part is often the more important or surprising one. Here it links two predicative adjectives after *ist*. A comma always stands before *sondern*.",
+      "pattern": "**nicht nur** X, **sondern auch** Y",
+      "mistake": {
+        "wrong": "Er ist nicht nur klug, aber auch fleißig.",
+        "why": "English *but also* leads to *aber auch*. After *nicht nur* German always uses *sondern auch*."
+      },
+      "examples": [
+        {
+          "de": "Das Hotel ist nicht nur günstig, sondern auch sauber.",
+          "en": "The hotel is not only cheap but also clean."
+        },
+        {
+          "de": "Die Aufgabe war nicht nur schwer, sondern auch langweilig.",
+          "en": "The task was not only difficult but also boring."
+        }
+      ],
+      "words": [
+        {
+          "de": "fleißig",
+          "en": "hard-working"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Es ist {{c1::zwar}} kalt, aber sonnig.",
+      "en": "It's cold, admittedly, but sunny.",
+      "focus": "Einräumung · Partner von *aber*",
+      "explanation": "This connector first admits a fact (it is cold) and then gives a contrasting, often more important point (but sunny). **zwar** stands in the Mittelfeld after *ist*; *aber* introduces the second adjective. The verb *ist* is shared and not repeated.",
+      "pattern": "… **zwar** X, **aber** Y",
+      "mistake": {
+        "wrong": "Es ist zwar kalt, sondern sonnig.",
+        "why": "*zwar* is completed by *aber* (in formal style also *doch*). *sondern* corrects a negated statement and does not fit here."
+      },
+      "examples": [
+        {
+          "de": "Das Zimmer ist zwar klein, aber gemütlich.",
+          "en": "The room is small, admittedly, but cosy."
+        },
+        {
+          "de": "Der Weg ist zwar weit, aber schön.",
+          "en": "The way is long, it's true, but beautiful."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Je}} mehr ich lerne, desto mehr verstehe ich.",
+      "en": "The more I learn, the more I understand.",
+      "focus": "Proportion · Komparativ · Nebensatz zuerst",
+      "explanation": "**Je** + comparative opens a Nebensatz, so its finite verb goes to the end: *ich lerne*. The second part starts with *desto* + comparative, and the finite verb follows this group directly, before the subject: *desto mehr verstehe ich*. *mehr* is the comparative of *viel*.",
+      "pattern": "**Je** + Komp. … Verb (Ende), desto + Komp. + Verb + Subjekt",
+      "mistake": {
+        "wrong": "Je mehr lerne ich, desto mehr verstehe ich.",
+        "why": "The *je* part is a Nebensatz, so the finite verb goes to the end: *Je mehr ich lerne*."
+      },
+      "examples": [
+        {
+          "de": "Je mehr er liest, desto mehr weiß er.",
+          "en": "The more he reads, the more he knows."
+        },
+        {
+          "de": "Je mehr wir sparen, desto öfter können wir reisen.",
+          "en": "The more we save, the more often we can travel."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Sowohl}} mein Bruder als auch meine Schwester wohnen in Berlin.",
+      "en": "Both my brother and my sister live in Berlin.",
+      "focus": "Subjekt aus zwei Teilen · Vorfeld",
+      "explanation": "Here the connector links two subjects, *mein Bruder* and *meine Schwester*. The whole group fills the Vorfeld, so the finite verb follows in position 2. Both persons are included, so the verb is normally plural: *wohnen*.",
+      "pattern": "**Sowohl** Subj. 1 als auch Subj. 2 + Verb (Pl.) …",
+      "mistake": {
+        "wrong": "Sowohl mein Bruder als auch meine Schwester in Berlin wohnen.",
+        "why": "*sowohl … als auch* does not open a Nebensatz. The whole subject group is position 1, and the verb comes directly after it."
+      },
+      "examples": [
+        {
+          "de": "Sowohl die Lehrer als auch die Eltern waren zufrieden.",
+          "en": "Both the teachers and the parents were satisfied."
+        },
+        {
+          "de": "Sowohl meine Chefin als auch mein Kollege sind heute im Homeoffice.",
+          "en": "Both my boss and my colleague are working from home today."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Entweder}} kommst du mit, oder du bleibst zu Hause.",
+      "en": "Either you come along, or you stay at home.",
+      "focus": "Alternative zwischen zwei Hauptsätzen",
+      "explanation": "Here the connector links two main clauses. **Entweder** fills the Vorfeld, so the verb comes directly after it: *kommst du* (*Entweder du kommst mit* is also correct). *oder* stands in position 0, so the second clause has normal order: *du bleibst*.",
+      "pattern": "**Entweder** + Verb + Subj. …, oder + Subj. + Verb …",
+      "mistake": {
+        "wrong": "Entweder kommst du mit, oder bleibst du zu Hause.",
+        "why": "*oder* takes no place in the clause (position 0). After it the subject comes first: *oder du bleibst*."
+      },
+      "examples": [
+        {
+          "de": "Entweder rufst du sie an, oder ich mache es.",
+          "en": "Either you call her, or I'll do it."
+        },
+        {
+          "de": "Entweder zahlen wir jetzt, oder wir bekommen eine Mahnung.",
+          "en": "Either we pay now, or we'll get a reminder."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich habe {{c1::weder}} Zeit noch Lust.",
+      "en": "I have neither the time nor the inclination.",
+      "focus": "Verneinung von zwei Nomen",
+      "explanation": "The connector negates both nouns: no time and no desire. Because it carries the negation, the nouns stand without *keine*. **weder** comes directly before the first element, *noch* before the second.",
+      "pattern": "haben + **weder** Nomen **noch** Nomen",
+      "mistake": {
+        "wrong": "Ich habe weder Zeit oder Lust.",
+        "why": "The partner of *weder* is always *noch*, not *oder*."
+      },
+      "examples": [
+        {
+          "de": "Sie hat weder Geschwister noch Cousins.",
+          "en": "She has neither siblings nor cousins."
+        },
+        {
+          "de": "Im Ferienhaus hatten wir weder Strom noch Internet.",
+          "en": "In the holiday house we had neither electricity nor internet."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Sie ist {{c1::nicht nur}} hübsch, sondern auch sympathisch.",
+      "en": "She's not only pretty but also likeable.",
+      "focus": "zweite Eigenschaft wird betont",
+      "explanation": "The connector links two adjectives after *ist* and puts the stress on the second one. The first part stands before the first adjective; *sondern auch* comes after the comma. *auch* is necessary: it shows that the first quality is still true.",
+      "pattern": "**nicht nur** Adj., sondern auch Adj.",
+      "mistake": {
+        "wrong": "Sie ist nicht nur hübsch, sondern sympathisch.",
+        "why": "Without *auch* the sentence sounds like a correction (*not pretty, but rather likeable*). To add a quality, keep *sondern auch*."
+      },
+      "examples": [
+        {
+          "de": "Unsere Nachbarin ist nicht nur freundlich, sondern auch sehr hilfsbereit.",
+          "en": "Our neighbour is not only friendly but also very helpful."
+        },
+        {
+          "de": "Der Kurs war nicht nur interessant, sondern auch nützlich.",
+          "en": "The course was not only interesting but also useful."
+        }
+      ],
+      "words": [
+        {
+          "de": "sympathisch",
+          "en": "likeable, pleasant"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Zwar}} habe ich wenig Geld, aber ich bin glücklich.",
+      "en": "I may not have much money, but I'm happy.",
+      "focus": "Einräumung im Vorfeld",
+      "explanation": "**Zwar** is an adverb and stands in the Vorfeld here, so the verb follows directly: *habe ich*. The second clause starts with *aber*, which stands in position 0 and does not change the order: *aber ich bin glücklich*.",
+      "pattern": "**Zwar** + Verb + Subj. …, aber + Subj. + Verb …",
+      "mistake": {
+        "wrong": "Zwar ich habe wenig Geld, aber ich bin glücklich.",
+        "why": "*zwar* in the Vorfeld counts as position 1, so the verb must follow it directly: *Zwar habe ich*."
+      },
+      "examples": [
+        {
+          "de": "Zwar ist die Wohnung teuer, aber sie liegt sehr ruhig.",
+          "en": "The flat may be expensive, but it's in a very quiet location."
+        },
+        {
+          "de": "Zwar hat er sich entschuldigt, aber ich bin immer noch sauer.",
+          "en": "He did apologise, but I'm still angry."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Je mehr du übst, {{c1::desto}} besser wirst du.",
+      "en": "The more you practise, the better you get.",
+      "focus": "zweiter Teil · Komparativ",
+      "explanation": "After the *je* clause the main clause begins with **desto** + comparative (*besser*, from *gut*). This group fills position 1, so the finite verb *wirst* follows directly, then the subject *du*. *umso* has the same meaning and the same word order.",
+      "pattern": "Je + Komp. …, **desto** + Komp. + Verb + Subjekt",
+      "mistake": {
+        "wrong": "Je mehr du übst, desto du wirst besser.",
+        "why": "*desto besser* is one unit in position 1. The finite verb must come right after it: *desto besser wirst du*."
+      },
+      "examples": [
+        {
+          "de": "Je früher wir losfahren, desto weniger Verkehr gibt es.",
+          "en": "The earlier we set off, the less traffic there is."
+        },
+        {
+          "de": "Je wärmer das Wasser ist, desto länger bleiben die Kinder im See.",
+          "en": "The warmer the water is, the longer the children stay in the lake."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir haben {{c1::sowohl}} Pizza als auch Salat bestellt.",
+      "en": "We ordered both pizza and salad.",
+      "focus": "Perfekt · Aufzählung im Mittelfeld",
+      "explanation": "In the Perfekt, *haben* and the participle *bestellt* form the Satzklammer. The connector with both Akkusativ objects stays inside the Mittelfeld: **sowohl** *Pizza als auch Salat*. The participle closes the sentence.",
+      "pattern": "haben + **sowohl** X **als auch** Y + Partizip II",
+      "mistake": {
+        "wrong": "Wir haben sowohl Pizza als Salat bestellt.",
+        "why": "The second part is always *als auch*. *als* alone means *as* or *than* and cannot complete *sowohl*."
+      },
+      "examples": [
+        {
+          "de": "Ich habe sowohl Brot als auch Käse gekauft.",
+          "en": "I bought both bread and cheese."
+        },
+        {
+          "de": "Sie hat sowohl ihre Eltern als auch ihre Freunde eingeladen.",
+          "en": "She invited both her parents and her friends."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Entweder}} regnet es heute, oder es schneit.",
+      "en": "Either it'll rain today or it'll snow.",
+      "focus": "Alternative · unpersönliches *es*",
+      "explanation": "Two main clauses with the weather subject *es*. The first part fills the Vorfeld, so *regnet es* follows (*Entweder es regnet heute* is also correct). *oder* stands in position 0, so the second clause keeps normal order: *oder es schneit*. The impersonal *es* is needed in both clauses, because weather verbs always have *es* as subject.",
+      "pattern": "**Entweder** + Verb + es …, oder es + Verb",
+      "mistake": {
+        "wrong": "Entweder regnet es heute, und es schneit.",
+        "why": "The partner of *entweder* is *oder*. With *und* the sentence says both will happen, which contradicts *entweder*."
+      },
+      "examples": [
+        {
+          "de": "Entweder klappt es heute, oder wir versuchen es morgen noch einmal.",
+          "en": "Either it works today, or we'll try again tomorrow."
+        },
+        {
+          "de": "Entweder schläft er schon, oder er hat sein Handy ausgeschaltet.",
+          "en": "Either he's already asleep, or he has switched off his phone."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich habe {{c1::weder}} ihn noch sie gesehen.",
+      "en": "I've seen neither him nor her.",
+      "focus": "Verneinung von zwei Pronomen · Perfekt",
+      "explanation": "The connector links two Akkusativ pronouns, *ihn* and *sie*. The whole negated group stays in the Mittelfeld, and the participle *gesehen* closes the Satzklammer. **weder** replaces *nicht*: the sentence needs no other negation.",
+      "pattern": "haben + **weder** Pron. **noch** Pron. + Partizip II",
+      "mistake": {
+        "wrong": "Ich habe nicht ihn noch sie gesehen.",
+        "why": "*noch* in the meaning *nor* needs the partner *weder*: *weder ihn noch sie*."
+      },
+      "examples": [
+        {
+          "de": "Ich kenne weder ihn noch seine Frau.",
+          "en": "I know neither him nor his wife."
+        },
+        {
+          "de": "Wir haben weder dich noch deinen Bruder auf der Party gesehen.",
+          "en": "We saw neither you nor your brother at the party."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er kann {{c1::nicht nur}} kochen, sondern auch backen.",
+      "en": "He can not only cook but also bake.",
+      "focus": "zwei Infinitive nach Modalverb",
+      "explanation": "The modal verb *kann* is in position 2, and both linked verbs depend on it, so both are infinitives at the end: *kochen*, *backen*. The first part of the connector stands before the first infinitive, *sondern auch* before the second.",
+      "pattern": "Modalverb + **nicht nur** Inf., sondern auch Inf.",
+      "mistake": {
+        "wrong": "Er kann nicht nur kochen, sondern auch backt.",
+        "why": "Both verbs depend on *kann*, so both stay in the infinitive: *sondern auch backen*."
+      },
+      "examples": [
+        {
+          "de": "Sie kann nicht nur singen, sondern auch tanzen.",
+          "en": "She can not only sing but also dance."
+        },
+        {
+          "de": "Wir müssen nicht nur putzen, sondern auch einkaufen.",
+          "en": "We not only have to clean but also go shopping."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Je}} älter er wird, desto ruhiger wird er.",
+      "en": "The older he gets, the calmer he becomes.",
+      "focus": "Proportion · Komparativ mit Umlaut",
+      "explanation": "**Je** + *älter* (comparative of *alt*, with umlaut) opens a Nebensatz with *wird* at the end. In the main clause *desto ruhiger* fills position 1 and *wird er* follows. The same verb appears twice: once at the end, once in position 2.",
+      "pattern": "**Je** + Komp. + Subj. + Verb, desto + Komp. + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je alt er wird, desto ruhig wird er.",
+        "why": "*je … desto* always needs comparatives in both parts: *je älter*, *desto ruhiger*."
+      },
+      "examples": [
+        {
+          "de": "Je größer die Stadt ist, desto teurer sind die Wohnungen.",
+          "en": "The bigger the city is, the more expensive the flats are."
+        },
+        {
+          "de": "Je später es wird, desto müder werden die Kinder.",
+          "en": "The later it gets, the more tired the children become."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie ist {{c1::zwar}} jung, aber sehr erfahren.",
+      "en": "She's young, admittedly, but very experienced.",
+      "focus": "Einräumung · zwei Adjektive",
+      "explanation": "The connector first admits a fact that might speak against her (*jung*, so little experience?), then gives the stronger counterpoint with *aber*: *sehr erfahren*. **zwar** stands in the Mittelfeld directly after the verb *ist*.",
+      "pattern": "sein + **zwar** Adj., aber Adj.",
+      "mistake": {
+        "wrong": "Obwohl sie jung ist, aber sie ist sehr erfahren.",
+        "why": "*obwohl* opens a Nebensatz and is never combined with *aber*. Use *Sie ist zwar jung, aber sehr erfahren* or *Obwohl sie jung ist, ist sie sehr erfahren*."
+      },
+      "examples": [
+        {
+          "de": "Der Laptop ist zwar alt, aber sehr zuverlässig.",
+          "en": "The laptop is old, admittedly, but very reliable."
+        },
+        {
+          "de": "Die Prüfung war zwar schwer, aber fair.",
+          "en": "The exam was difficult, it's true, but fair."
+        }
+      ],
+      "words": [
+        {
+          "de": "erfahren (Adj.)",
+          "en": "experienced"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Sowohl}} im Sommer als auch im Winter ist es hier schön.",
+      "en": "It's beautiful here both in summer and in winter.",
+      "focus": "zwei Zeitangaben im Vorfeld",
+      "explanation": "The connector links two time phrases (*im Sommer*, *im Winter*). The whole group fills the Vorfeld, so the finite verb *ist* comes in position 2 and the subject *es* follows it.",
+      "pattern": "**Sowohl** Zeit 1 als auch Zeit 2 + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Sowohl im Sommer als auch im Winter es ist hier schön.",
+        "why": "The time group is position 1. The verb must follow it directly: *ist es hier schön*."
+      },
+      "examples": [
+        {
+          "de": "Sowohl am Wochenende als auch unter der Woche ist das Café voll.",
+          "en": "The café is full both at the weekend and during the week."
+        },
+        {
+          "de": "Sowohl in der Stadt als auch auf dem Land steigen die Mieten.",
+          "en": "Rents are rising both in the city and in the countryside."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Entweder}} machen wir es jetzt oder gar nicht.",
+      "en": "Either we do it now or not at all.",
+      "focus": "Alternative · verkürzter zweiter Teil",
+      "explanation": "The first part fills the Vorfeld, so the verb follows directly: *machen wir*. The second part is shortened: *oder gar nicht* = *oder wir machen es gar nicht*. Because the second part is not a full clause, no comma is needed.",
+      "pattern": "**Entweder** + Verb + Subj. … oder + Satzteil",
+      "mistake": {
+        "wrong": "Entweder wir es jetzt machen oder gar nicht.",
+        "why": "*entweder* is not a subordinating conjunction, so the verb does not go to the end. Use *Entweder machen wir es jetzt* or *Entweder wir machen es jetzt*."
+      },
+      "examples": [
+        {
+          "de": "Entweder fahren wir heute los oder erst am Montag.",
+          "en": "Either we set off today or not until Monday."
+        },
+        {
+          "de": "Entweder sagst du es ihm heute oder nie.",
+          "en": "Either you tell him today or never."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Weder hat er angerufen, noch {{c1::hat er::er · haben}} eine Nachricht geschickt.",
+      "en": "He neither called nor sent a message.",
+      "focus": "zweiter Hauptsatz · Wortstellung nach *noch*",
+      "explanation": "Here the connector links two main clauses in the Perfekt. Both parts fill the Vorfeld of their clause: after *Weder* the verb follows directly (*hat er*), and after *noch* as well: noch **hat er**. This is the difference from *oder* and *aber*, which stand outside the clause.",
+      "pattern": "Weder + Verb + Subj. …, noch + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Weder hat er angerufen, noch er hat eine Nachricht geschickt.",
+        "why": "*noch* counts as position 1 of its clause, so the verb must follow it directly: *noch hat er*."
+      },
+      "examples": [
+        {
+          "de": "Weder hat sie geantwortet, noch hat sie sich entschuldigt.",
+          "en": "She neither answered nor apologised."
+        },
+        {
+          "de": "Weder war das Essen gut, noch war der Service freundlich.",
+          "en": "The food wasn't good, and the service wasn't friendly either."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Er spricht nicht nur Deutsch, {{c1::sondern}} auch Arabisch und Türkisch.",
+      "en": "He speaks not only German but also Arabic and Turkish.",
+      "focus": "zweiter Teil nach *nicht nur*",
+      "explanation": "*nicht nur* in the first part needs **sondern** + *auch* in the second, with a comma before it. The second part can contain more than one element: *Arabisch und Türkisch*. *auch* stands directly after *sondern*.",
+      "pattern": "nicht nur X, **sondern** auch Y (und Z)",
+      "mistake": {
+        "wrong": "Er spricht nicht nur Deutsch, sondern Arabisch und Türkisch auch.",
+        "why": "*auch* belongs directly after *sondern*, before the elements it adds: *sondern auch Arabisch und Türkisch*."
+      },
+      "examples": [
+        {
+          "de": "Die App zeigt nicht nur das Wetter, sondern auch die Luftqualität.",
+          "en": "The app shows not only the weather but also the air quality."
+        },
+        {
+          "de": "Wir besuchen nicht nur Rom, sondern auch Florenz und Venedig.",
+          "en": "We're visiting not only Rome but also Florence and Venice."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Firma hat nicht nur neue Leute eingestellt, sondern {{c1::auch}} die Gehälter erhöht.",
+      "en": "The company has not only hired new people but also raised salaries.",
+      "focus": "zwei Partizipien mit einem Hilfsverb",
+      "explanation": "Two participle phrases share the same subject and the same auxiliary *hat*: *neue Leute eingestellt* and *die Gehälter erhöht*. So the second part is shortened: *sondern* **auch** + object + participle, without a second *hat*.",
+      "pattern": "hat nicht nur … Partizip II, sondern **auch** … Partizip II",
+      "mistake": {
+        "wrong": "Die Firma hat nicht nur neue Leute eingestellt, sondern auch hat die Gehälter erhöht.",
+        "why": "After *sondern auch* use either the short form without *hat* or a full clause with a subject: *sondern sie hat auch die Gehälter erhöht*."
+      },
+      "examples": [
+        {
+          "de": "Wir haben nicht nur die Küche geputzt, sondern auch die Fenster gewaschen.",
+          "en": "We not only cleaned the kitchen but also washed the windows."
+        },
+        {
+          "de": "Sie hat nicht nur ihr Studium abgeschlossen, sondern auch eine Stelle gefunden.",
+          "en": "She has not only finished her degree but also found a job."
+        }
+      ],
+      "words": [
+        {
+          "de": "einstellen",
+          "en": "to hire, to employ"
+        },
+        {
+          "de": "das Gehalt (¨-er)",
+          "en": "salary"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Wohnung ist zwar klein, {{c1::aber}} sie liegt sehr zentral.",
+      "en": "The flat is small, admittedly, but it's very central.",
+      "focus": "Gegenargument im zweiten Hauptsatz",
+      "explanation": "*zwar* in the first clause admits a weak point; the more important point follows with **aber**. *aber* stands in position 0, so the second main clause has normal order: *sie liegt*. Here the second part is a full clause, because it has its own verb.",
+      "pattern": "… zwar …, **aber** + Subj. + Verb …",
+      "mistake": {
+        "wrong": "Die Wohnung ist zwar klein, aber liegt sie sehr zentral.",
+        "why": "*aber* takes no place in the clause. After it the subject comes first and the verb second: *aber sie liegt*."
+      },
+      "examples": [
+        {
+          "de": "Das Auto ist zwar alt, aber es fährt noch gut.",
+          "en": "The car is old, admittedly, but it still runs well."
+        },
+        {
+          "de": "Der Job ist zwar stressig, aber er macht mir Spaß.",
+          "en": "The job is stressful, it's true, but I enjoy it."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Je früher du dich {{c1::anmeldest::anmelden}}, desto günstiger ist der Kurs.",
+      "en": "The earlier you register, the cheaper the course is.",
+      "focus": "*je*-Teil · Stellung des Verbs · trennbar",
+      "explanation": "The *je* part is a Nebensatz: *je* + comparative (*früher*), then the subject, and the finite verb at the end. At the end, the separable verb stays together: **anmeldest**. The *desto* part is the main clause with inversion: *desto günstiger ist der Kurs*.",
+      "pattern": "Je + Komp. + Subj. … **Verb**, desto + Komp. + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je früher meldest du dich an, desto günstiger ist der Kurs.",
+        "why": "*je* works like a subordinating conjunction. The finite verb goes to the end of the *je* clause, and the separable verb is written as one word: *Je früher du dich anmeldest*."
+      },
+      "examples": [
+        {
+          "de": "Je länger wir warten, desto teurer wird die Reparatur.",
+          "en": "The longer we wait, the more expensive the repair gets."
+        },
+        {
+          "de": "Je öfter sie Deutsch spricht, desto sicherer fühlt sie sich.",
+          "en": "The more often she speaks German, the more confident she feels."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich anmelden",
+          "en": "to register, to sign up"
+        },
+        {
+          "de": "günstig",
+          "en": "cheap, good value"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Je mehr Touristen kommen, umso teurer {{c1::werden die Hotels::die Hotels · werden}}.",
+      "en": "The more tourists come, the more expensive the hotels get.",
+      "focus": "*umso*-Teil · Verb und Subjekt",
+      "explanation": "*umso* is an alternative to *desto* with the same word order: after *umso teurer* the finite verb comes directly, then the subject: **werden die Hotels**. In the *je* part, *mehr* + noun (*mehr Touristen*) is the comparative group, and *kommen* goes to the end.",
+      "pattern": "Je mehr + Nomen … Verb, umso + Komp. + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je mehr Touristen kommen, umso teurer die Hotels werden.",
+        "why": "Only the *je* part is a Nebensatz. The *umso* part is a main clause, so the verb follows the comparative group directly."
+      },
+      "examples": [
+        {
+          "de": "Je mehr Leute mitmachen, umso schöner wird das Fest.",
+          "en": "The more people take part, the nicer the party will be."
+        },
+        {
+          "de": "Je weniger Fleisch wir essen, umso besser ist es für das Klima.",
+          "en": "The less meat we eat, the better it is for the climate."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Entweder mein Vater oder meine Mutter {{c1::holt::abholen}} dich vom Bahnhof ab.",
+      "en": "Either my father or my mother will pick you up from the station.",
+      "focus": "Subjekt aus zwei Teilen · Verbform",
+      "explanation": "Here *entweder … oder* links two subjects, and only one of them will act. With two singular subjects the verb is singular: **holt** (3rd person of the separable verb *abholen*; *ab* goes to the end). Compare *sowohl … als auch*, which normally takes a plural verb.",
+      "pattern": "Entweder Subj. (Sg.) oder Subj. (Sg.) + **Verb (Sg.)** …",
+      "mistake": {
+        "wrong": "Entweder mein Vater oder meine Mutter holen dich vom Bahnhof ab.",
+        "why": "Only one person will come, so the verb agrees with one singular subject: *holt*. The plural fits *sowohl … als auch* (both people)."
+      },
+      "examples": [
+        {
+          "de": "Entweder Jonas oder Lea schreibt heute das Protokoll.",
+          "en": "Either Jonas or Lea will write the minutes today."
+        },
+        {
+          "de": "Entweder die Chefin oder ihr Stellvertreter unterschreibt den Vertrag.",
+          "en": "Either the boss or her deputy will sign the contract."
+        }
+      ],
+      "words": [
+        {
+          "de": "abholen",
+          "en": "to pick up, to collect"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Einerseits}} verdient er gut, andererseits hat er kaum Freizeit.",
+      "en": "On the one hand he earns well; on the other hand he has hardly any free time.",
+      "focus": "zwei Seiten einer Sache · erster Teil",
+      "explanation": "This pair puts two sides of one situation next to each other, often a pro and a contra. Both words are adverbs, so each fills the Vorfeld of its own clause and the verb follows directly: **Einerseits** *verdient er*, *andererseits hat er*.",
+      "pattern": "**Einerseits** + Verb + Subj. …, andererseits + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Einerseits er verdient gut, andererseits er hat kaum Freizeit.",
+        "why": "*einerseits* and *andererseits* are adverbs in position 1, so the finite verb must follow each of them directly."
+      },
+      "examples": [
+        {
+          "de": "Einerseits ist das Angebot günstig, andererseits ist die Qualität schlecht.",
+          "en": "On the one hand the offer is cheap; on the other hand the quality is poor."
+        },
+        {
+          "de": "Einerseits möchte sie reisen, andererseits fehlt ihr das Geld.",
+          "en": "On the one hand she'd like to travel; on the other hand she lacks the money."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Freizeit",
+          "en": "free time"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Einerseits möchte ich im Ausland studieren, {{c1::andererseits}} fällt mir der Abschied von meiner Familie schwer.",
+      "en": "On the one hand I'd like to study abroad; on the other hand I find it hard to leave my family.",
+      "focus": "zwei Seiten einer Sache · zweiter Teil",
+      "explanation": "The second side is introduced by **andererseits**, an adverb in position 1, so the verb *fällt* follows directly. In *schwerfallen* the thing that is hard is the subject (*der Abschied*) and the person is in the Dativ (*mir*). *aber andererseits* is also common; *aber* stands in position 0 and changes nothing.",
+      "pattern": "Einerseits …, **andererseits** + Verb + …",
+      "mistake": {
+        "wrong": "Einerseits möchte ich im Ausland studieren, andererseits mir fällt der Abschied von meiner Familie schwer.",
+        "why": "*andererseits* fills position 1 of the second clause. The finite verb *fällt* must come directly after it."
+      },
+      "examples": [
+        {
+          "de": "Einerseits liebe ich meine Arbeit, andererseits brauche ich mehr Ruhe.",
+          "en": "On the one hand I love my work; on the other hand I need more peace and quiet."
+        },
+        {
+          "de": "Einerseits ist das Dorf sehr ruhig, andererseits fahren dort kaum Busse.",
+          "en": "On the one hand the village is very quiet; on the other hand there are hardly any buses."
+        }
+      ],
+      "words": [
+        {
+          "de": "schwerfallen (+ Dat.)",
+          "en": "to be hard for sb."
+        },
+        {
+          "de": "der Abschied",
+          "en": "farewell, leaving"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Das Museum ist sowohl für Kinder {{c1::als auch}} für Erwachsene interessant.",
+      "en": "The museum is interesting for both children and adults.",
+      "focus": "zweiter Teil · zwei Präpositionalgruppen",
+      "explanation": "*sowohl* stands before the first prepositional phrase, **als auch** before the second. Both parts have the same form (*für* + Akkusativ). There is no comma before *als auch*, because it only links two phrases.",
+      "pattern": "sowohl für X **als auch** für Y",
+      "mistake": {
+        "wrong": "Das Museum ist sowohl für Kinder und auch für Erwachsene interessant.",
+        "why": "*und auch* cannot complete *sowohl*. The fixed partner is *als auch*."
+      },
+      "examples": [
+        {
+          "de": "Der Kurs ist sowohl für Anfänger als auch für Fortgeschrittene geeignet.",
+          "en": "The course is suitable for both beginners and advanced learners."
+        },
+        {
+          "de": "Das Programm läuft sowohl auf Windows als auch auf dem Mac.",
+          "en": "The program runs both on Windows and on the Mac."
+        }
+      ],
+      "words": [
+        {
+          "de": "der/die Erwachsene (-n)",
+          "en": "adult"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Er kann {{c1::weder}} schwimmen noch Fahrrad fahren.",
+      "en": "He can neither swim nor ride a bike.",
+      "focus": "zwei Infinitive verneint · Modalverb",
+      "explanation": "The connector links two infinitives that depend on the modal verb *kann*: *schwimmen* and *Fahrrad fahren*. **weder** stands before the first infinitive, *noch* before the second. The sentence is negative without *nicht*.",
+      "pattern": "Modalverb + **weder** Inf. noch Inf.",
+      "mistake": {
+        "wrong": "Er kann weder schwimmen noch nicht Fahrrad fahren.",
+        "why": "*noch* already negates the second part. *nicht* after it is a double negation."
+      },
+      "examples": [
+        {
+          "de": "Sie kann weder lesen noch schreiben.",
+          "en": "She can neither read nor write."
+        },
+        {
+          "de": "Nach der Operation darf ich weder Sport machen noch schwer heben.",
+          "en": "After the operation I'm not allowed to do sport or lift heavy things."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Je mehr ich darüber nachgedacht habe, desto unsicherer {{c1::bin ich::ich · sein}} geworden.",
+      "en": "The more I thought about it, the less sure I became.",
+      "focus": "*je … desto* im Perfekt",
+      "explanation": "In the *je* clause the whole verb group stands at the end, with the finite verb last: *nachgedacht habe*. In the main clause the auxiliary follows *desto unsicherer*, then the subject: **bin ich**; the participle *geworden* goes to the end. *werden* forms its Perfekt with *sein*.",
+      "pattern": "Je + Komp. … Partizip II + haben, desto + Komp. + Hilfsverb + Subj. … Partizip II",
+      "mistake": {
+        "wrong": "Je mehr ich darüber nachgedacht habe, desto unsicherer ich bin geworden.",
+        "why": "The *desto* part is a main clause: the finite verb *bin* must follow the comparative group directly, before the subject."
+      },
+      "examples": [
+        {
+          "de": "Je länger wir gewartet haben, desto ungeduldiger sind wir geworden.",
+          "en": "The longer we waited, the more impatient we became."
+        },
+        {
+          "de": "Je mehr sie trainiert hat, desto schneller ist sie gelaufen.",
+          "en": "The more she trained, the faster she ran."
+        }
+      ],
+      "words": [
+        {
+          "de": "nachdenken über (+ Akk.)",
+          "en": "to think about"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about word order with je … desto.",
+      "prompt": "Where is the finite verb in the je part and in the desto part?",
+      "answer": "**je** part = Nebensatz: finite verb at the **end** (*Je mehr ich arbeite*). **desto/umso** part = main clause: *desto* + comparative fill position 1, the finite verb comes **directly after** them, then the subject (*desto müder bin ich*).",
+      "explanation": "Think of *je* as a subordinating conjunction and of *desto* + comparative as one Vorfeld element. Both parts always contain a comparative, also *mehr/weniger* + noun.",
+      "examples": [
+        {
+          "de": "Je mehr ich arbeite, desto müder bin ich.",
+          "en": "The more I work, the more tired I am."
+        },
+        {
+          "de": "Je teurer das Ticket ist, umso weniger Leute kaufen es.",
+          "en": "The more expensive the ticket is, the fewer people buy it."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about negation with weder … noch.",
+      "prompt": "Why is there no nicht or kein in a sentence with weder … noch?",
+      "answer": "**weder … noch** is itself the negation of both parts (= *nicht X und auch nicht Y*). The nouns stand without *kein*: *kein Auto und kein Fahrrad* → *weder ein Auto noch ein Fahrrad*.",
+      "explanation": "Standard German does not allow double negation. When you rewrite *kein* + noun, *kein* becomes *ein* (or no article with uncountable nouns and plurals): *keine Zeit → weder Zeit*.",
+      "examples": [
+        {
+          "de": "Ich habe weder ein Auto noch ein Fahrrad.",
+          "en": "I have neither a car nor a bike."
+        },
+        {
+          "de": "Sie war weder nervös noch müde.",
+          "en": "She was neither nervous nor tired."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two endings.",
+      "prompt": "What is the difference between nicht X, sondern Y and nicht nur X, sondern auch Y?",
+      "answer": "*nicht X, sondern Y* **corrects**: X is false, Y is true. *nicht nur X, sondern auch Y* **adds**: X is true and Y is true as well (with extra stress on Y).",
+      "explanation": "Both use *sondern*, never *aber*. The small words *nur* and *auch* decide the meaning: without them the first element is replaced; with them it stays and the second is added.",
+      "examples": [
+        {
+          "de": "Das ist nicht mein Handy, sondern deins.",
+          "en": "That isn't my phone, it's yours."
+        },
+        {
+          "de": "Das Handy ist nicht nur schnell, sondern auch billig.",
+          "en": "The phone is not only fast but also cheap."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about word order after entweder.",
+      "prompt": "Which word orders are possible when a main clause starts with entweder?",
+      "answer": "Two orders are correct: *entweder* in the **Vorfeld** with the verb directly after it (*Entweder gehen wir jetzt …*), or *entweder* in **position 0** with normal order (*Entweder wir gehen jetzt …*). After *oder* the order is always normal.",
+      "explanation": "*weder, zwar, einerseits* behave like adverbs and normally take inversion. *entweder* is special because both versions are standard. The second partner *oder* never takes a place in the clause.",
+      "examples": [
+        {
+          "de": "Entweder gehen wir jetzt, oder wir verpassen den Anfang.",
+          "en": "Either we go now, or we'll miss the beginning."
+        },
+        {
+          "de": "Entweder wir gehen jetzt, oder wir bleiben ganz zu Hause.",
+          "en": "Either we go now, or we stay at home altogether."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the meaning of zwar … aber.",
+      "prompt": "What does zwar … aber express, and how is it different from obwohl?",
+      "answer": "*zwar … aber* first **admits** a fact and then gives a **contrasting** point; both parts are main clauses. *obwohl* expresses the same idea in a **Nebensatz** (verb at the end) and is never combined with *aber*.",
+      "explanation": "The two sentences in the examples mean nearly the same. With *zwar … aber* the weight lies on the *aber* part. With *obwohl* the main clause carries the main information.",
+      "examples": [
+        {
+          "de": "Das Restaurant ist zwar teuer, aber das Essen ist hervorragend.",
+          "en": "The restaurant is expensive, admittedly, but the food is excellent."
+        },
+        {
+          "de": "Obwohl das Restaurant teuer ist, gehen wir oft hin.",
+          "en": "Although the restaurant is expensive, we often go there."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the connector that fits the second part of the sentence.",
+      "prompt": "Das Hotel war ___ teuer, aber das Frühstück war ausgezeichnet.",
+      "options": [
+        "zwar",
+        "sowohl",
+        "weder",
+        "entweder"
+      ],
+      "correct": "zwar",
+      "answer": "Das Hotel war zwar teuer, aber das Frühstück war ausgezeichnet.",
+      "explanation": "The second part starts with *aber* and gives a counterpoint → *zwar … aber*. *sowohl* needs *als auch*, *weder* needs *noch*, and *entweder* needs *oder*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the word that completes the proportion.",
+      "prompt": "Je wärmer es ist, ___ mehr Leute gehen ins Freibad.",
+      "options": [
+        "desto",
+        "als",
+        "so",
+        "dann"
+      ],
+      "correct": "desto",
+      "answer": "Je wärmer es ist, desto mehr Leute gehen ins Freibad.",
+      "explanation": "The partner of *je* is *desto* (or *umso*) + comparative. *als* is used in comparisons (*wärmer als*), *so* only with the base form (*so warm wie*), and *dann* does not combine with a comparative in this structure."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct second part.",
+      "prompt": "Mein Opa trinkt weder Kaffee ___ Tee.",
+      "options": [
+        "noch",
+        "oder",
+        "und",
+        "nicht"
+      ],
+      "correct": "noch",
+      "answer": "Mein Opa trinkt weder Kaffee noch Tee.",
+      "explanation": "*weder* is always completed by *noch*. *oder* belongs to *entweder*, *und* would not negate the second noun, and *nicht* would create a double negation."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich spreche sowohl Spanisch und Portugiesisch.",
+      "answer": "Ich spreche sowohl Spanisch als auch Portugiesisch.",
+      "explanation": "*sowohl* has the fixed partner *als auch*. *und* is only used without *sowohl*: *Ich spreche Spanisch und Portugiesisch.*"
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Je öfter ich joggen gehe, desto ich werde fitter.",
+      "answer": "Je öfter ich joggen gehe, desto fitter werde ich.",
+      "explanation": "The comparative belongs directly after *desto*, and together they fill position 1. The finite verb *werde* follows, then the subject *ich*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie hat weder keinen Führerschein noch ein Auto.",
+      "answer": "Sie hat weder einen Führerschein noch ein Auto.",
+      "explanation": "*weder* already negates the noun, so *keinen* is a double negation. The masculine Akkusativ article is *einen*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er ist nicht nur Arzt, aber auch Musiker.",
+      "answer": "Er ist nicht nur Arzt, sondern auch Musiker.",
+      "explanation": "After *nicht nur* the second part is always *sondern auch*. *aber auch* is a translation of English *but also* and is wrong here."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with weder … noch.",
+      "prompt": "Ich habe keinen Bruder und keine Schwester.",
+      "answer": "Ich habe weder einen Bruder noch eine Schwester.",
+      "explanation": "*weder … noch* replaces both negations. *keinen* and *keine* lose their *k-* and become *einen* (masculine Akkusativ) and *eine* (feminine Akkusativ)."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with nicht nur … sondern auch.",
+      "prompt": "Die Reise war teuer und auch anstrengend.",
+      "answer": "Die Reise war nicht nur teuer, sondern auch anstrengend.",
+      "explanation": "*nicht nur* goes before the first adjective, *sondern auch* before the second, with a comma before *sondern*. The new sentence puts more stress on *anstrengend*."
+    },
+    {
+      "key": "d15",
+      "type": "combine",
+      "instruction": "Join the sentences with je … desto.",
+      "prompt": "Das Wetter ist schön. Viele Menschen fahren Fahrrad.",
+      "answer": "Je schöner das Wetter ist, desto mehr Menschen fahren Fahrrad.",
+      "explanation": "Both parts need a comparative: *schön → schöner*, *viele → mehr*. The *je* clause has the verb *ist* at the end; after *desto mehr Menschen* the verb *fahren* follows directly."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with zwar … aber.",
+      "prompt": "Der Film war lang. Er war spannend.",
+      "answer": "Der Film war zwar lang, aber spannend.",
+      "explanation": "The first sentence is the admitted fact → *zwar* after *war*. The second gives the counterpoint → *aber spannend*. The subject and *war* are the same, so they are not repeated."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with entweder … oder. Start with: Entweder, and put the verb directly after it.",
+      "prompt": "Wir fahren mit dem Zug. Oder wir nehmen das Auto.",
+      "answer": "Entweder fahren wir mit dem Zug, oder wir nehmen das Auto.",
+      "explanation": "*Entweder* in the Vorfeld → *fahren wir*. *oder* stays in position 0, so the second clause keeps normal order. Also correct: *Entweder wir fahren mit dem Zug, oder wir nehmen das Auto.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Einerseits",
+      "prompt": "andererseits / gern in der Stadt / einerseits / vermisse / ich / wohne / die Natur / ich",
+      "answer": "Einerseits wohne ich gern in der Stadt, andererseits vermisse ich die Natur.",
+      "explanation": "*einerseits* and *andererseits* each fill the Vorfeld of their clause, so the verb follows directly in both: *wohne ich*, *vermisse ich*. A comma separates the two main clauses. The two sides can also change places: *Einerseits vermisse ich die Natur, andererseits wohne ich gern in der Stadt.*"
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Je mehr",
+      "prompt": "desto / trainierst / mehr / es / du / ist / je / leichter",
+      "answer": "Je mehr du trainierst, desto leichter ist es.",
+      "explanation": "*Je mehr* opens the Nebensatz, and the verb *trainierst* goes to its end. In the main clause *desto leichter* is position 1, followed by the verb *ist* and the subject *es*."
+    }
+  ]
+}

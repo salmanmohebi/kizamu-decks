@@ -1,0 +1,776 @@
+{
+  "topic_id": "b2-07-zustandspassiv",
+  "level": "B2",
+  "title_de": "Zustandspassiv (sein + Partizip II)",
+  "title_en": "The state passive (sein + past participle)",
+  "rule": {
+    "summary": "German has two passives. The **Vorgangspassiv** (*werden* + Partizip II) describes an action or process: *Die Tür wird geschlossen* (someone is closing it). The **Zustandspassiv** (*sein* + Partizip II) describes the state that exists after the action is finished: *Die Tür ist geschlossen*. English often uses 'is closed' for both, so you must decide from the meaning: process → *werden*, result → *sein*. The Zustandspassiv usually has no agent (*von …*), because the focus is on the state, not on the person.",
+    "table": "| Zeit | Vorgangspassiv (Prozess) | Zustandspassiv (Resultat) |\n|---|---|---|\n| Präsens | Die Tür **wird** geschlossen. | Die Tür **ist** geschlossen. |\n| Präteritum | Die Tür **wurde** geschlossen. | Die Tür **war** geschlossen. |\n| Perfekt | Die Tür **ist** geschlossen **worden**. | Die Tür **ist** geschlossen **gewesen**. |\n| mit Modalverb | Die Tür **muss** geschlossen **werden**. | Die Tür **muss** geschlossen **sein**. |\n| Futur I | Die Tür **wird** geschlossen **werden**. | Die Tür **wird** geschlossen **sein**. |",
+    "steps": [
+      "Ask: is the sentence about an action in progress or about the result after the action? Process → *werden*, result/state → *sein*.",
+      "Form the Zustandspassiv with a form of **sein** + **Partizip II** at the end: *Das Büro ist renoviert.*",
+      "Change only *sein* for tense: *ist/sind* (Präsens), *war/waren* (Präteritum), *ist … gewesen* (Perfekt), modal + Partizip II + *sein*.",
+      "Check that the verb really produces a lasting result (*schließen, reparieren, buchen, verletzen*). Verbs without a resulting state (*loben, sehen, lieben*) have no natural Zustandspassiv.",
+      "Do not confuse it with the Perfekt Aktiv of *sein*-verbs: *Er ist gefahren* (active, movement) is not a passive."
+    ],
+    "pitfalls": [
+      "*werden* for a state: ✗ *Das Geschäft wird schon geöffnet* (when you mean it is open) → ✓ *Das Geschäft ist schon geöffnet.*",
+      "*sein* for an ongoing action: ✗ *Die Straße ist gerade repariert.* → ✓ *Die Straße wird gerade repariert.* Words like *gerade, jetzt, jeden Tag* point to a process.",
+      "Mixing the two Perfekt forms: *Das Auto ist repariert worden* (the action happened) ≠ *Das Auto ist repariert gewesen* (it was in a repaired state). ✗ *Das Auto ist repariert geworden.*",
+      "Zustandspassiv of verbs without a result: ✗ *Der Schüler ist gelobt.* → ✓ *Der Schüler wurde gelobt.*",
+      "Infinitive form with a modal: ✗ *Der Antrag muss bis Freitag ausgefüllt werden sein.* → ✓ *Der Antrag muss bis Freitag ausgefüllt sein.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Die Tür {{c1::ist::sein / werden?}} geschlossen.",
+      "en": "The door is closed.",
+      "focus": "Zustand oder Vorgang? · Präsens",
+      "explanation": "The sentence describes the result: the door is in a closed state, and nobody is closing it right now. A state needs **sein** + Partizip II. *Die Tür wird geschlossen* would mean that someone is closing it at this moment.",
+      "pattern": "Subjekt + **sein** + Partizip II (Zustand)",
+      "mistake": {
+        "wrong": "Die Tür ist geschließt.",
+        "why": "*schließen* is a strong verb: its Partizip II is *geschlossen*. The Zustandspassiv uses this normal Partizip II form."
+      },
+      "examples": [
+        {"de": "Die Grenze ist seit gestern geschlossen.", "en": "The border has been closed since yesterday."},
+        {"de": "Das Konto ist gesperrt.", "en": "The account is blocked."}
+      ],
+      "words": [],
+      "production_cue": "(state)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das Geschäft {{c1::ist::sein / werden?}} schon geöffnet.",
+      "en": "The shop is already open.",
+      "focus": "Zustand oder Vorgang? · *schon*",
+      "explanation": "*schon* shows that the opening is finished and the shop is now open: a state → **ist** + *geöffnet*. Compare the adjective *offen*, which has the same meaning in everyday speech: *Das Geschäft ist schon offen.*",
+      "pattern": "sein + schon + Partizip II",
+      "mistake": {
+        "wrong": "Das Geschäft wird schon geöffnet.",
+        "why": "This means 'someone is already opening the shop' (the process). For the state 'it is open' use *ist geöffnet*."
+      },
+      "examples": [
+        {"de": "Die Bibliothek ist heute bis 20 Uhr geöffnet.", "en": "The library is open until 8 p.m. today."},
+        {"de": "Das Schwimmbad ist im Winter nicht geöffnet.", "en": "The swimming pool is not open in winter."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Der Brief {{c1::ist::sein / werden?}} noch nicht geschrieben.",
+      "en": "The letter isn't written yet.",
+      "focus": "Zustandspassiv · Negation *noch nicht*",
+      "explanation": "*noch nicht* says that the result does not exist yet. The Zustandspassiv **ist** + *geschrieben* describes the (missing) finished state. *wird noch nicht geschrieben* would mean the writing process has not started.",
+      "pattern": "sein + noch nicht + Partizip II",
+      "mistake": {
+        "wrong": "Der Brief hat noch nicht geschrieben.",
+        "why": "*hat geschrieben* is the active Perfekt and would make the letter the writer. The letter is what is written, so the passive state *ist geschrieben* is needed."
+      },
+      "examples": [
+        {"de": "Das Protokoll ist noch nicht unterschrieben.", "en": "The minutes aren't signed yet."},
+        {"de": "Die Zimmer sind noch nicht gereinigt.", "en": "The rooms haven't been cleaned yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das Auto {{c1::ist::sein / werden?}} repariert.",
+      "en": "The car is repaired.",
+      "focus": "Zustandspassiv · Resultat",
+      "explanation": "The repair is finished and the car is now in a repaired state, so the sentence uses **ist** + *repariert*. It is the result of the Vorgangspassiv *Das Auto ist repariert worden*; without *worden* only the state remains.",
+      "pattern": "sein + Partizip II (= Resultat von *ist … worden*)",
+      "mistake": {
+        "wrong": "Das Auto wird repariert, du kannst es abholen.",
+        "why": "If you can pick it up, the work is done: a state → *ist repariert*. *wird repariert* means the work is still going on."
+      },
+      "examples": [
+        {"de": "Die Heizung ist endlich repariert.", "en": "The heating is finally fixed."},
+        {"de": "Der Drucker ist installiert.", "en": "The printer is installed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Die Aufgabe {{c1::ist::sein / werden?}} bereits erledigt.",
+      "en": "The task is already done.",
+      "focus": "Zustandspassiv · *bereits*",
+      "explanation": "*bereits* ('already') marks a finished result, so the state passive **ist** + *erledigt* is used. The person who did the task is not important here, which is typical of the Zustandspassiv.",
+      "pattern": "sein + bereits + Partizip II",
+      "mistake": {
+        "wrong": "Die Aufgabe wird bereits erledigt.",
+        "why": "With *werden* the meaning is 'someone is already working on the task'. 'It is already done' needs *ist bereits erledigt*."
+      },
+      "examples": [
+        {"de": "Die Formalitäten sind bereits geregelt.", "en": "The formalities have already been taken care of."},
+        {"de": "Das Problem ist bereits gelöst.", "en": "The problem is already solved."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das Hotel {{c1::ist::sein / werden?}} komplett gebucht.",
+      "en": "The hotel is fully booked.",
+      "focus": "Zustandspassiv · Resultat",
+      "explanation": "All rooms have been booked, and the result is the state 'fully booked': **ist** + *gebucht*. *ausgebucht* is a common alternative with the same structure: *Das Hotel ist ausgebucht.*",
+      "pattern": "sein + Adverb + Partizip II",
+      "mistake": {
+        "wrong": "Das Hotel hat komplett gebucht.",
+        "why": "*hat gebucht* is the Perfekt Aktiv (the hotel booked something). The passive state needs *sein*: *ist gebucht*."
+      },
+      "examples": [
+        {"de": "Der Flug ist leider voll besetzt.", "en": "Unfortunately, the flight is fully occupied."},
+        {"de": "Der Kurs ist schon ausgebucht.", "en": "The course is already fully booked."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Mein Computer {{c1::ist::sein / werden?}} kaputt.",
+      "en": "My computer is broken.",
+      "focus": "*sein* + Adjektiv (Vergleich mit dem Zustandspassiv)",
+      "explanation": "*kaputt* is an adjective, not a Partizip II, but the structure is the same: **ist** + a word that describes a state. It works like the Zustandspassiv *Mein Computer ist beschädigt*. *wird kaputt* would mean 'is breaking / is getting broken'.",
+      "pattern": "sein + Adjektiv (Zustand)",
+      "mistake": {
+        "wrong": "Mein Computer hat kaputt.",
+        "why": "A state is expressed with *sein*, never with *haben*: *ist kaputt*. English 'has broken' is *ist kaputtgegangen*."
+      },
+      "examples": [
+        {"de": "Der Aufzug ist schon wieder defekt.", "en": "The lift is broken again."},
+        {"de": "Mein Handy ist beschädigt.", "en": "My phone is damaged."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Die Tickets {{c1::sind::sein / werden?}} ausverkauft.",
+      "en": "The tickets are sold out.",
+      "focus": "Zustandspassiv · Plural",
+      "explanation": "*Die Tickets* is plural, so *sein* becomes **sind**. *ausverkauft* is the Partizip II of *ausverkaufen*; the selling is finished and the result is a state.",
+      "pattern": "sind + Partizip II (Plural)",
+      "mistake": {
+        "wrong": "Die Tickets ist ausverkauft.",
+        "why": "The plural subject *die Tickets* needs the plural form *sind*."
+      },
+      "examples": [
+        {"de": "Die Plätze in der ersten Reihe sind reserviert.", "en": "The seats in the first row are reserved."},
+        {"de": "Alle Konzerte der Tour sind ausverkauft.", "en": "All the concerts on the tour are sold out."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Der Kuchen {{c1::ist::sein / werden?}} schon gebacken.",
+      "en": "The cake is already baked.",
+      "focus": "Zustandspassiv · *schon*",
+      "explanation": "*schon* shows that the baking is over: the cake is ready. State → **ist** + *gebacken* (Partizip II of the strong verb *backen*).",
+      "pattern": "sein + schon + Partizip II",
+      "mistake": {
+        "wrong": "Der Kuchen ist schon gebackt.",
+        "why": "*backen* is traditionally strong: the Partizip II is *gebacken*, not *gebackt*."
+      },
+      "examples": [
+        {"de": "Das Brot ist schon geschnitten.", "en": "The bread is already sliced."},
+        {"de": "Die Geschenke sind schon verpackt.", "en": "The presents are already wrapped."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Das Fenster {{c1::war::sein / werden?}} offen.",
+      "en": "The window was open.",
+      "focus": "*sein* + Adjektiv · Präteritum",
+      "explanation": "*offen* is an adjective; the past state uses the Präteritum of *sein*: **war**. With the Partizip II the meaning is the same: *Das Fenster war geöffnet* (Zustandspassiv Präteritum).",
+      "pattern": "war + Adjektiv / Partizip II (Zustand in der Vergangenheit)",
+      "mistake": {
+        "wrong": "Das Fenster wurde offen.",
+        "why": "*wurde* would describe a change ('became open'), which is unusual with *offen*. A state in the past is *war offen* or *war geöffnet*."
+      },
+      "examples": [
+        {"de": "Die Garage war nicht abgeschlossen.", "en": "The garage wasn't locked."},
+        {"de": "Das Licht war die ganze Nacht an.", "en": "The light was on all night."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Die Briefe {{c1::sind::sein / werden?}} bereits abgeschickt.",
+      "en": "The letters have already been sent.",
+      "focus": "Zustandspassiv · Plural · trennbares Verb",
+      "explanation": "The sending is finished, so the state passive is used: plural **sind** + Partizip II *abgeschickt* (separable: ab-ge-schickt). English prefers the present perfect here ('have been sent').",
+      "pattern": "sind + bereits + Partizip II (trennbar: ab**ge**schickt)",
+      "mistake": {
+        "wrong": "Die Briefe sind bereits geabschickt.",
+        "why": "In the Partizip II of separable verbs *-ge-* stands between prefix and stem: *abgeschickt*."
+      },
+      "examples": [
+        {"de": "Die Einladungen sind schon verschickt.", "en": "The invitations have already been sent out."},
+        {"de": "Die Pakete sind bereits abgeholt.", "en": "The parcels have already been collected."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Der Tisch {{c1::ist::sein / werden?}} schon gedeckt.",
+      "en": "The table is already set.",
+      "focus": "Zustandspassiv · *schon*",
+      "explanation": "*den Tisch decken* means 'to set the table'. The work is done and the table is ready: **ist** + *gedeckt*. In the middle of the work you would say *Der Tisch wird gerade gedeckt*.",
+      "pattern": "sein + schon + Partizip II",
+      "mistake": {
+        "wrong": "Der Tisch wird schon gedeckt, wir können essen.",
+        "why": "'We can eat' shows a finished state: *ist schon gedeckt*. *wird gedeckt* describes the ongoing action."
+      },
+      "examples": [
+        {"de": "Das Bett ist schon gemacht.", "en": "The bed is already made."},
+        {"de": "Die Koffer sind schon gepackt.", "en": "The suitcases are already packed."}
+      ],
+      "words": [{"de": "den Tisch decken", "en": "to set the table"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Die Wäsche {{c1::war::sein / werden?}} schon gewaschen.",
+      "en": "The laundry was already washed.",
+      "focus": "Zustandspassiv · Präteritum",
+      "explanation": "The sentence describes a state at a point in the past: the washing was already over. Zustandspassiv Präteritum = **war** + Partizip II. *wurde gewaschen* would describe the washing itself.",
+      "pattern": "war + schon + Partizip II",
+      "mistake": {
+        "wrong": "Die Wäsche war schon gewascht.",
+        "why": "*waschen* is a strong verb: the Partizip II is *gewaschen*, not *gewascht*."
+      },
+      "examples": [
+        {"de": "Das Geschirr war schon abgewaschen.", "en": "The dishes were already washed up."},
+        {"de": "Die Fenster waren frisch geputzt.", "en": "The windows had been freshly cleaned."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Das Buch {{c1::ist::sein / werden?}} ausgeliehen.",
+      "en": "The book is checked out.",
+      "focus": "Zustandspassiv · trennbares Verb",
+      "explanation": "Someone has borrowed the book, and now it is not available: a state → **ist** + *ausgeliehen*. This is the typical library or shop information: the result matters, not the person.",
+      "pattern": "sein + Partizip II (trennbar: aus**ge**liehen)",
+      "mistake": {
+        "wrong": "Das Buch ist ausgeleiht.",
+        "why": "*leihen* is strong: the Partizip II is *geliehen*, so *ausleihen* → *ausgeliehen*."
+      },
+      "examples": [
+        {"de": "Die DVD ist zurzeit verliehen.", "en": "The DVD is on loan at the moment."},
+        {"de": "Alle Fahrräder sind schon vermietet.", "en": "All the bikes are already rented out."}
+      ],
+      "words": [{"de": "ausleihen", "en": "to borrow, to lend out"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Mein Auto {{c1::war::sein / werden?}} versperrt.",
+      "en": "My car was locked.",
+      "focus": "Zustandspassiv · Präteritum",
+      "explanation": "The car was in a locked state: Zustandspassiv Präteritum **war** + *versperrt*. Note: *versperren* = 'to lock' is Austrian and southern German; in Germany and Switzerland *abschließen* is more common (*war abgeschlossen*), and *versperrt* often means 'blocked'.",
+      "pattern": "war + Partizip II",
+      "mistake": {
+        "wrong": "Mein Auto wurde versperrt gewesen.",
+        "why": "*wurde* and *gewesen* cannot be combined. The Präteritum of the Zustandspassiv is simply *war* + Partizip II."
+      },
+      "examples": [
+        {"de": "Die Haustür war abgeschlossen.", "en": "The front door was locked."},
+        {"de": "Der Eingang war mit Absperrband gesichert.", "en": "The entrance was secured with barrier tape."}
+      ],
+      "words": [{"de": "versperren", "en": "(Austrian) to lock; (generally) to block"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Die Sache {{c1::ist::sein / werden?}} geklärt.",
+      "en": "The matter is resolved.",
+      "focus": "Zustandspassiv · abstraktes Subjekt",
+      "explanation": "The Zustandspassiv also works with abstract subjects: the clarification is finished, so the matter is now in a clear state: **ist** + *geklärt*. This is a typical sentence for ending a discussion.",
+      "pattern": "sein + Partizip II",
+      "mistake": {
+        "wrong": "Die Sache hat sich geklärt worden.",
+        "why": "This mixes the reflexive *hat sich geklärt* with the passive *ist geklärt worden*. The state is simply *ist geklärt*."
+      },
+      "examples": [
+        {"de": "Die Finanzierung ist gesichert.", "en": "The funding is secured."},
+        {"de": "Die Frage ist noch nicht entschieden.", "en": "The question hasn't been decided yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das Spiel {{c1::ist::sein / werden?}} verloren.",
+      "en": "The game is lost.",
+      "focus": "Zustandspassiv · Resultat",
+      "explanation": "*Das Spiel ist verloren* states a final result: there is no chance to win any more. **ist** + Partizip II *verloren* (from *verlieren*). The Perfekt Aktiv would need a person as subject: *Wir haben das Spiel verloren.*",
+      "pattern": "sein + Partizip II",
+      "mistake": {
+        "wrong": "Das Spiel hat verloren.",
+        "why": "*hat verloren* is active and would make the game the loser. The game is what was lost, so it needs the passive state *ist verloren*."
+      },
+      "examples": [
+        {"de": "Die Wahl ist entschieden.", "en": "The election is decided."},
+        {"de": "Der Vertrag ist gekündigt.", "en": "The contract is terminated."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Die Stelle {{c1::ist::sein / werden?}} noch besetzt.",
+      "en": "The position is still filled.",
+      "focus": "Zustandspassiv · *noch*",
+      "explanation": "*besetzen* (to fill, to occupy) produces a state: someone holds the position. *noch* says this state continues: **ist** + *besetzt*. A process would be *Die Stelle wird neu besetzt* (someone new is being appointed).",
+      "pattern": "sein + noch + Partizip II",
+      "mistake": {
+        "wrong": "Die Stelle ist noch gebesetzt.",
+        "why": "*besetzen* has the inseparable prefix *be-*, so the Partizip II has no *ge-*: *besetzt*."
+      },
+      "examples": [
+        {"de": "Die Toilette ist besetzt.", "en": "The toilet is occupied."},
+        {"de": "Der Parkplatz ist leider schon belegt.", "en": "Unfortunately, the parking space is already taken."}
+      ],
+      "words": [{"de": "besetzen", "en": "to fill (a post), to occupy"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das Fest {{c1::war::sein / werden?}} schon vorbei.",
+      "en": "The party was already over.",
+      "focus": "*sein* + Adverb · Präteritum",
+      "explanation": "*vorbei* is an adverb, not a Partizip II, but it also describes a state, so it uses *sein*: Präteritum **war**. Compare the Zustandspassiv *Das Fest war schon beendet*.",
+      "pattern": "war + Adverb (Zustand in der Vergangenheit)",
+      "mistake": {
+        "wrong": "Das Fest hatte schon vorbei.",
+        "why": "*vorbei sein* always takes *sein*. *haben* + *vorbei* is not possible."
+      },
+      "examples": [
+        {"de": "Der Sommer war viel zu schnell vorbei.", "en": "The summer was over far too quickly."},
+        {"de": "Die Sitzung war schon beendet.", "en": "The meeting had already ended."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Die Pläne {{c1::sind::sein / werden?}} fertig.",
+      "en": "The plans are finished.",
+      "focus": "*sein* + Adjektiv · Plural",
+      "explanation": "*fertig* is an adjective that describes a state; the plural subject needs **sind**. The Zustandspassiv with the same meaning is *Die Pläne sind fertiggestellt*. *werden fertig* would mean 'are being finished'.",
+      "pattern": "sind + Adjektiv (Zustand)",
+      "mistake": {
+        "wrong": "Die Pläne haben fertig.",
+        "why": "A state is expressed with *sein*: *sind fertig*. *haben* + *fertig* is a typical learner error from 'I have finished' (*Ich bin fertig*)."
+      },
+      "examples": [
+        {"de": "Die Entwürfe sind fertiggestellt.", "en": "The drafts are completed."},
+        {"de": "Die Unterlagen sind vollständig.", "en": "The documents are complete."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Als die Gäste kamen, war die Wohnung zum Glück schon {{c1::aufgeräumt::aufräumen}}.",
+      "en": "When the guests arrived, the flat was luckily already tidied up.",
+      "focus": "Zustandspassiv Präteritum · trennbares Verb",
+      "explanation": "At the moment the guests came, the tidying was finished: a state in the past → *war* + Partizip II. *aufräumen* is separable and weak: auf + ge + räum + t → **aufgeräumt**.",
+      "pattern": "war + schon + Partizip II (trennbar)",
+      "mistake": {
+        "wrong": "Als die Gäste kamen, wurde die Wohnung zum Glück schon aufgeräumt.",
+        "why": "*wurde aufgeräumt* means the tidying was going on (or happened) as an action. 'Already tidy when they came' is the state *war aufgeräumt*."
+      },
+      "examples": [
+        {"de": "Als ich ins Büro kam, war die Kaffeemaschine schon eingeschaltet.", "en": "When I came into the office, the coffee machine was already switched on."},
+        {"de": "Bei unserer Ankunft war das Zimmer noch nicht vorbereitet.", "en": "When we arrived, the room wasn't prepared yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Schau mal, die Straße {{c1::wird::sein / werden?}} gerade von der Polizei für den Marathon abgesperrt.",
+      "en": "Look, the road is being closed off by the police for the marathon right now.",
+      "focus": "Vorgang oder Zustand? · *gerade*",
+      "explanation": "*gerade* ('right now') and the agent *von der Polizei* show an action in progress: the police are putting up the barriers at this moment. A process needs the Vorgangspassiv **wird** + Partizip II. Once the barriers are up, the state is *Die Straße ist abgesperrt*.",
+      "pattern": "werden + gerade + Partizip II (Vorgang)",
+      "mistake": {
+        "wrong": "Schau mal, die Straße wird gerade von der Polizei für den Marathon absperren.",
+        "why": "The Vorgangspassiv is *werden* + Partizip II (*abgesperrt*). *wird … absperren* would be the active Futur I, with the street as the one who closes something."
+      },
+      "examples": [
+        {"de": "Das Rathaus wird zurzeit renoviert.", "en": "The town hall is currently being renovated."},
+        {"de": "Die Patienten werden gerade untersucht.", "en": "The patients are being examined right now."}
+      ],
+      "words": [{"de": "absperren", "en": "to close off, to cordon off"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Museum ist wegen der Renovierung den ganzen Sommer geschlossen {{c1::gewesen::sein}}.",
+      "en": "The museum was closed all summer because of the renovation.",
+      "focus": "Zustandspassiv · Perfekt",
+      "explanation": "The Perfekt of the Zustandspassiv is *ist* + Partizip II + **gewesen** (the Partizip II of *sein*). It reports a state that lasted in the past. Do not confuse it with *ist geschlossen worden*, the Perfekt of the Vorgangspassiv (the act of closing).",
+      "pattern": "ist + Partizip II + **gewesen**",
+      "mistake": {
+        "wrong": "Das Museum hat wegen der Renovierung den ganzen Sommer geschlossen gewesen.",
+        "why": "*sein* forms its Perfekt with *sein*: *ist … gewesen*, never *hat … gewesen*."
+      },
+      "examples": [
+        {"de": "Die Strecke ist drei Wochen gesperrt gewesen.", "en": "The line was closed for three weeks."},
+        {"de": "Die Wohnung ist lange nicht vermietet gewesen.", "en": "The flat wasn't rented out for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Bis zur Sitzung am Montag muss der Vertrag {{c1::unterschrieben::unterschreiben}} sein.",
+      "en": "The contract must be signed by the meeting on Monday.",
+      "focus": "Zustandspassiv mit Modalverb",
+      "explanation": "With a modal the Zustandspassiv is modal + Partizip II + **sein** (infinitive) at the end. *unterschreiben* is inseparable, so the Partizip II has no *ge-*: **unterschrieben**. The deadline requires a finished state, not just the action.",
+      "pattern": "Modalverb + … + Partizip II + **sein**",
+      "mistake": {
+        "wrong": "Bis zur Sitzung am Montag muss der Vertrag geunterschrieben sein.",
+        "why": "*unterschreiben* has the inseparable prefix *unter-* here (stress on *-schrei-*), so the Partizip II is *unterschrieben* without *ge-*."
+      },
+      "examples": [
+        {"de": "Bis zum Abflug müssen alle Koffer eingecheckt sein.", "en": "All suitcases must be checked in before departure."},
+        {"de": "Der Raum sollte vor Beginn gelüftet sein.", "en": "The room should be aired before the start."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Bis Ende des Jahres wird die alte Brücke vollständig saniert {{c1::sein::sein / werden?}}.",
+      "en": "By the end of the year, the old bridge will be completely renovated.",
+      "focus": "Zustandspassiv · Futur I",
+      "explanation": "*Bis Ende des Jahres* points to the result at a future time: then the bridge will be in a renovated state. Futur I of the Zustandspassiv: *wird* + Partizip II + **sein**. *wird saniert werden* would describe the renovation work itself in the future.",
+      "pattern": "wird + … + Partizip II + **sein** (zukünftiger Zustand)",
+      "mistake": {
+        "wrong": "Bis Ende des Jahres ist die alte Brücke vollständig saniert werden.",
+        "why": "The Futur needs *wird* as the finite verb and the infinitive *sein* at the end: *wird … saniert sein*."
+      },
+      "examples": [
+        {"de": "Morgen früh wird alles erledigt sein.", "en": "By tomorrow morning, everything will be done."},
+        {"de": "In zwei Jahren wird das neue Werk gebaut sein.", "en": "In two years, the new plant will be built."}
+      ],
+      "words": [{"de": "sanieren", "en": "to renovate, to restore"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Wir können erst abfahren, wenn alle Fenster im Haus geschlossen {{c1::sind::sein / werden?}}.",
+      "en": "We can only leave when all the windows in the house are closed.",
+      "focus": "Zustandspassiv · Nebensatz",
+      "explanation": "The condition is a finished state (all windows closed), so the Zustandspassiv is used. In the *wenn*-clause the finite verb goes to the end: *geschlossen* **sind**.",
+      "pattern": "wenn + … + Partizip II + **sind** (Verb am Ende)",
+      "mistake": {
+        "wrong": "Wir können erst abfahren, wenn alle Fenster im Haus sind geschlossen.",
+        "why": "In a Nebensatz the finite *sind* is the last word, after the Partizip II: *geschlossen sind*."
+      },
+      "examples": [
+        {"de": "Ich bin erst beruhigt, wenn alle Formulare ausgefüllt sind.", "en": "I'll only be reassured when all the forms are filled in."},
+        {"de": "Er weiß nicht, ob die Rechnung schon bezahlt ist.", "en": "He doesn't know whether the bill has already been paid."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Meine Schwester {{c1::ist::sein / werden?}} seit zehn Jahren verheiratet.",
+      "en": "My sister has been married for ten years.",
+      "focus": "Zustand von einem reflexiven Verb · *seit*",
+      "explanation": "*sich verheiraten* → the resulting state is *verheiratet sein* (Zustandsreflexiv: the reflexive pronoun disappears). *seit* + a period shows a state that continues until now: Präsens **ist**, where English uses the present perfect.",
+      "pattern": "sein + Partizip II (aus *sich* + Verb) + seit",
+      "mistake": {
+        "wrong": "Meine Schwester ist sich seit zehn Jahren verheiratet.",
+        "why": "In the state form of a reflexive verb the reflexive pronoun is dropped: *ist verheiratet*, *ist erkältet*, *ist verliebt*."
+      },
+      "examples": [
+        {"de": "Er ist seit Montag erkältet.", "en": "He has had a cold since Monday."},
+        {"de": "Die beiden sind schon lange verlobt.", "en": "The two of them have been engaged for a long time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Altstadt {{c1::ist::sein / werden?}} bis heute von einer mittelalterlichen Mauer umgeben.",
+      "en": "The old town is still surrounded by a medieval wall today.",
+      "focus": "Zustandspassiv · mit *von*-Angabe",
+      "explanation": "*umgeben* describes a permanent situation, not an action, so it uses **ist**. Here a *von*-phrase is possible because it names the thing that forms the state, not a person who acts. *umgeben* is inseparable: Partizip II = infinitive form *umgeben*.",
+      "pattern": "sein + von + Dativ + Partizip II (dauerhafter Zustand)",
+      "mistake": {
+        "wrong": "Die Altstadt ist bis heute von einer mittelalterlichen Mauer umgegeben.",
+        "why": "*umgeben* is inseparable (stress on *-ge-*), so the Partizip II has no extra *ge-*: *umgeben*."
+      },
+      "examples": [
+        {"de": "Das Grundstück ist von hohen Bäumen umgeben.", "en": "The property is surrounded by tall trees."},
+        {"de": "Der Gipfel ist das ganze Jahr von Schnee bedeckt.", "en": "The summit is covered with snow all year round."}
+      ],
+      "words": [{"de": "mittelalterlich", "en": "medieval"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wegen des Hochwassers bleibt die Brücke bis Montag {{c1::gesperrt::sperren}}.",
+      "en": "Because of the flooding, the bridge will stay closed until Monday.",
+      "focus": "*bleiben* + Partizip II · Dauer eines Zustands",
+      "explanation": "*bleiben* + Partizip II is a variant of the Zustandspassiv: it says that a state continues. *sperren* is weak: ge + sperr + t → **gesperrt**. The Präsens *bleibt* refers to the near future here.",
+      "pattern": "bleiben + … + Partizip II (Zustand dauert an)",
+      "mistake": {
+        "wrong": "Wegen des Hochwassers bleibt die Brücke bis Montag gesperrt werden.",
+        "why": "*bleiben* takes the Partizip II alone, without *werden*: *bleibt gesperrt*."
+      },
+      "examples": [
+        {"de": "Die Geschäfte bleiben am Feiertag geschlossen.", "en": "The shops stay closed on the public holiday."},
+        {"de": "Der Eingang bleibt während der Bauarbeiten verschlossen.", "en": "The entrance remains locked during the construction work."}
+      ],
+      "words": [{"de": "das Hochwasser", "en": "flood(ing)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Keine Sorge, die Rechnung ist schon letzte Woche bezahlt {{c1::worden::werden}}.",
+      "en": "Don't worry, the bill was paid last week.",
+      "focus": "Vorgangspassiv Perfekt oder Zustandspassiv? · Zeitangabe",
+      "explanation": "*letzte Woche* names the time of the action, so the sentence reports an event: Vorgangspassiv Perfekt *ist* + Partizip II + **worden**. The pure state would be *Die Rechnung ist bezahlt* (no time of the action).",
+      "pattern": "ist + Partizip II + **worden** (Vorgang in der Vergangenheit)",
+      "mistake": {
+        "wrong": "Keine Sorge, die Rechnung ist schon letzte Woche bezahlt geworden.",
+        "why": "In the passive the Partizip II of *werden* is *worden* (without *ge-*). *geworden* is only used when *werden* means 'become': *Sie ist Ärztin geworden*."
+      },
+      "examples": [
+        {"de": "Das Paket ist gestern zugestellt worden.", "en": "The parcel was delivered yesterday."},
+        {"de": "Der Fehler ist schon im März entdeckt worden.", "en": "The error was already discovered in March."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt, passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Alle Patientendaten sind auf dem Server {{c1::verschlüsselt::verschlüsseln}}.",
+      "en": "All patient data on the server is encrypted.",
+      "focus": "Zustandspassiv · untrennbares Präfix",
+      "explanation": "The data is permanently in an encrypted state: **sind** + Partizip II. *verschlüsseln* has the inseparable prefix *ver-*, so there is no *ge-*: **verschlüsselt**. *Daten* is plural, so the verb is *sind*.",
+      "pattern": "sind + Partizip II (untrennbar, ohne *ge-*)",
+      "mistake": {
+        "wrong": "Alle Patientendaten sind auf dem Server geverschlüsselt.",
+        "why": "Verbs with the prefixes *be-, ver-, er-, ent-, zer-* have no *ge-* in the Partizip II: *verschlüsselt*."
+      },
+      "examples": [
+        {"de": "Die Verbindung ist durch ein Passwort geschützt.", "en": "The connection is protected by a password."},
+        {"de": "Die Ergebnisse sind in der Datenbank gespeichert.", "en": "The results are saved in the database."}
+      ],
+      "words": [{"de": "verschlüsseln", "en": "to encrypt"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wenn das Dach besser isoliert {{c1::wäre::sein (Konj. II)}}, würden wir viel Energie sparen.",
+      "en": "If the roof were better insulated, we would save a lot of energy.",
+      "focus": "Zustandspassiv · Konjunktiv II · irreale Bedingung",
+      "explanation": "The condition is an unreal state: the roof is not well insulated. The Zustandspassiv in the Konjunktiv II uses **wäre** + Partizip II. In the *wenn*-clause *wäre* stands at the end.",
+      "pattern": "wenn + … + Partizip II + **wäre**",
+      "mistake": {
+        "wrong": "Wenn das Dach besser isoliert hätte, würden wir viel Energie sparen.",
+        "why": "The Zustandspassiv is built with *sein*, so its Konjunktiv II is *wäre* + Partizip II. *hätte* + Partizip II would be an active form with the roof as the one who insulates."
+      },
+      "examples": [
+        {"de": "Wenn der Akku geladen wäre, könnten wir losfahren.", "en": "If the battery were charged, we could set off."},
+        {"de": "Wenn die Regeln klar formuliert wären, gäbe es weniger Streit.", "en": "If the rules were clearly worded, there would be fewer arguments."}
+      ],
+      "words": [{"de": "isolieren", "en": "to insulate"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the two passives.",
+      "prompt": "What is the difference in meaning between *Das Büro wird renoviert* and *Das Büro ist renoviert*?",
+      "answer": "*wird renoviert* (**Vorgangspassiv**) = the renovation is going on. *ist renoviert* (**Zustandspassiv**) = the renovation is finished, and the office is now in a renovated state.",
+      "explanation": "*werden* focuses on the action, *sein* on the result. Context words help: *gerade, zurzeit, jeden Tag* → process; *schon, bereits, endlich, noch nicht* → state.",
+      "examples": [
+        {"de": "Die Wände werden heute gestrichen.", "en": "The walls are being painted today."},
+        {"de": "Die Wände sind frisch gestrichen.", "en": "The walls are freshly painted."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about tense forms.",
+      "prompt": "How do you form the Perfekt of the Zustandspassiv, and how does it differ from the Perfekt of the Vorgangspassiv?",
+      "answer": "Zustandspassiv: *ist* + Partizip II + **gewesen** (*Die Bank ist geschlossen gewesen*). Vorgangspassiv: *ist* + Partizip II + **worden** (*Die Bank ist geschlossen worden*).",
+      "explanation": "Both use *ist*, because both *sein* and *werden* form their Perfekt with *sein*. *gewesen* reports a past state; *worden* reports a past action. In practice the Präteritum *war geschlossen* is more common than *ist geschlossen gewesen*.",
+      "examples": [
+        {"de": "Der Pass ist im Winter gesperrt gewesen.", "en": "The mountain pass was closed in winter."},
+        {"de": "Der Pass ist wegen Lawinengefahr gesperrt worden.", "en": "The mountain pass was closed because of the risk of avalanches."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about which verbs can form the Zustandspassiv.",
+      "prompt": "Why can you say *Das Fenster ist geöffnet* but not *Der Schüler ist gelobt*?",
+      "answer": "The Zustandspassiv needs a verb whose action produces a **lasting result** in the object (*öffnen → offen*). *loben* (to praise) leaves no visible state, so only the Vorgangspassiv works: *Der Schüler wurde gelobt*.",
+      "explanation": "Typical Zustandspassiv verbs: *schließen, öffnen, reparieren, buchen, verletzen, beenden, verkaufen*. Verbs of perception, feeling or communication (*sehen, lieben, fragen, loben*) normally have no state passive.",
+      "examples": [
+        {"de": "Der Fahrer ist schwer verletzt.", "en": "The driver is seriously injured."},
+        {"de": "Die Sängerin wurde vom Publikum gefeiert.", "en": "The singer was celebrated by the audience."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about a structure that looks the same.",
+      "prompt": "*Der Zug ist abgefahren* and *Die Tür ist abgeschlossen* both have *ist* + Partizip II. Which one is a Zustandspassiv?",
+      "answer": "*Die Tür ist abgeschlossen* is Zustandspassiv (someone locked the door; the door is the object). *Der Zug ist abgefahren* is the **Perfekt Aktiv** of a *sein*-verb: the train did the action itself.",
+      "explanation": "Test: can you make an active sentence with the subject as the Akkusativ object? *Jemand hat die Tür abgeschlossen* works, so it is passive. *abfahren* has no Akkusativ object, so *ist abgefahren* is active.",
+      "examples": [
+        {"de": "Die Gäste sind schon gegangen.", "en": "The guests have already left."},
+        {"de": "Die Gäste sind schon begrüßt.", "en": "The guests have already been welcomed."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Describe the result: change the Vorgangspassiv (Perfekt) into the Zustandspassiv (Präsens).",
+      "prompt": "Die Heizung ist eingeschaltet worden.",
+      "answer": "Die Heizung ist eingeschaltet.",
+      "explanation": "The Zustandspassiv is the result of the finished action. You drop *worden*, and *ist* + Partizip II remains: the heating is now on."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite in the Zustandspassiv (Präteritum). Leave out the agent.",
+      "prompt": "Jemand hatte den Saal schon geschmückt.",
+      "answer": "Der Saal war schon geschmückt.",
+      "explanation": "The Akkusativ object *den Saal* becomes the subject *der Saal*. The state in the past is *war* + Partizip II; the unknown agent *jemand* disappears, as usual in the Zustandspassiv."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Add the modal verb *müssen* and keep the Zustandspassiv.",
+      "prompt": "Die Unterlagen sind vor der Prüfung eingereicht.",
+      "answer": "Die Unterlagen müssen vor der Prüfung eingereicht sein.",
+      "explanation": "The modal becomes the finite verb (*müssen*, plural), and *sein* moves to the end as an infinitive after the Partizip II: *eingereicht sein*."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Bitte warten Sie, Ihr Zimmer ist im Moment noch gereinigt.",
+      "answer": "Bitte warten Sie, Ihr Zimmer wird im Moment noch gereinigt.",
+      "explanation": "*im Moment noch* and *bitte warten Sie* show that the cleaning is still going on. A process needs the Vorgangspassiv *wird gereinigt*; *ist gereinigt* would mean the room is already clean."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Ausstellung ist im letzten Jahr drei Monate geschlossen geworden.",
+      "answer": "Die Ausstellung ist im letzten Jahr drei Monate geschlossen gewesen.",
+      "explanation": "*drei Monate* describes how long a state lasted, so the Perfekt of the Zustandspassiv is needed: *ist … geschlossen gewesen*. *geworden* is never used in the passive."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Bis morgen muss die Präsentation fertiggestellt werden sein.",
+      "answer": "Bis morgen muss die Präsentation fertiggestellt sein.",
+      "explanation": "*werden sein* is impossible: the Zustandspassiv with a modal is modal + Partizip II + *sein*. (The Vorgangspassiv would be *muss fertiggestellt werden*.)"
+    },
+    {
+      "key": "d11",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Seit gestern ___ die Autobahn zwischen Köln und Bonn gesperrt.",
+      "options": ["ist", "wird", "wurde"],
+      "correct": "ist",
+      "answer": "Seit gestern ist die Autobahn zwischen Köln und Bonn gesperrt.",
+      "explanation": "*seit gestern* describes a state that started in the past and continues now: Zustandspassiv Präsens *ist gesperrt*. *wird gesperrt* would be the act of closing, and *wurde* is past and does not fit with *seit*."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Jedes Jahr ___ im Dezember auf dem Marktplatz ein Weihnachtsbaum aufgestellt.",
+      "options": ["wird", "ist", "bleibt"],
+      "correct": "wird",
+      "answer": "Jedes Jahr wird im Dezember auf dem Marktplatz ein Weihnachtsbaum aufgestellt.",
+      "explanation": "*Jedes Jahr im Dezember* describes a repeated action, so the Vorgangspassiv *wird aufgestellt* is correct. *ist aufgestellt* and *bleibt aufgestellt* describe a state and do not fit with a repeated event."
+    },
+    {
+      "key": "d13",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Zum Glück",
+      "prompt": "zum Glück / schon / der Flug / gebucht / war",
+      "answer": "Zum Glück war der Flug schon gebucht.",
+      "explanation": "*Zum Glück* fills the Vorfeld, so the finite *war* is in position 2, followed by the subject. The Partizip II *gebucht* closes the sentence (Satzklammer *war … gebucht*)."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich frage mich, ob",
+      "prompt": "ich frage mich, ob / geklärt / die Finanzierung / schon / ist",
+      "answer": "Ich frage mich, ob die Finanzierung schon geklärt ist.",
+      "explanation": "*ob* starts a Nebensatz, so the finite *ist* goes to the end, after the Partizip II *geklärt*."
+    },
+    {
+      "key": "d15",
+      "type": "combine",
+      "instruction": "Join the sentences with *nachdem*. Use the Vorgangspassiv (Plusquamperfekt) in the *nachdem*-clause.",
+      "prompt": "Das Gebäude wurde renoviert. Das Gebäude war wieder geöffnet.",
+      "answer": "Nachdem das Gebäude renoviert worden war, war es wieder geöffnet.",
+      "explanation": "The *nachdem*-clause reports the earlier action: Plusquamperfekt Vorgangspassiv *renoviert worden war*. The main clause describes the resulting state with the Zustandspassiv *war … geöffnet*; the second *das Gebäude* becomes *es*."
+    }
+  ]
+}

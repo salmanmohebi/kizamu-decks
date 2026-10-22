@@ -1,0 +1,708 @@
+{
+  "topic_id": "b1-03-passiv-praesens",
+  "level": "B1",
+  "title_de": "Passiv (Präsens)",
+  "title_en": "The passive voice (present tense)",
+  "rule": {
+    "summary": "The **Vorgangspassiv** puts the action or the thing affected in the centre, not the person who acts. It is formed with a conjugated form of **werden** in position 2 and the **Partizip II** of the main verb at the end of the clause (Satzklammer). The Akkusativ object of the active sentence becomes the Nominativ subject; the agent is often left out, or added with **von** + Dativ (person, actor) or **durch** + Akkusativ (means, cause). You need it in news, instructions, rules, descriptions of processes and formal letters: *Hier wird nicht geraucht. Ihr Antrag wird geprüft.*",
+    "table": "| Person | *werden* | Beispiel |\n|---|---|---|\n| ich | **werde** | Ich **werde** oft *gefragt*. |\n| du | **wirst** | Du **wirst** *erwartet*. |\n| er/sie/es | **wird** | Das Auto **wird** *repariert*. |\n| wir | **werden** | Wir **werden** *abgeholt*. |\n| ihr | **werdet** | Ihr **werdet** *aufgerufen*. |\n| sie/Sie | **werden** | Die Briefe **werden** *verteilt*. |\n| Aktiv → Passiv | | *Der Mechaniker repariert das Auto.* → *Das Auto wird (vom Mechaniker) repariert.* |",
+    "steps": [
+      "Find the Akkusativ object of the active sentence (*Man baut* **ein Haus**). It becomes the subject in the Nominativ (**Ein Haus** *wird gebaut*).",
+      "Conjugate *werden* to agree with this new subject: singular → *wird*, plural → *werden*. Put it in position 2 (main clause) or at the very end (Nebensatz).",
+      "Put the Partizip II of the main verb at the end of the main clause: *ge-…-t* / *ge-…-en*; no *ge-* for *be-/ver-/er-/zer-* verbs and *-ieren* verbs; separable verbs put *-ge-* after the prefix (*abgeholt*).",
+      "Add the agent only if it matters: **von** + Dativ for a person or actor (*von der Lehrerin*), **durch** + Akkusativ for a means or cause (*durch eine Mauer*). The active subject *man* is always dropped.",
+      "If the active verb has no Akkusativ object (*helfen, tanzen, arbeiten*), there is no subject: the verb stays in the 3rd person singular (*Den Kunden* **wird** *geholfen*; *Hier* **wird** *gearbeitet*)."
+    ],
+    "pitfalls": [
+      "Infinitive instead of Partizip II: ✗ *Das Haus wird bauen.* → ✓ *Das Haus wird gebaut.* *werden* + Infinitiv is the Futur I active.",
+      "Wrong agreement with a plural subject after the verb: ✗ *Hier wird keine Kreditkarten akzeptiert.* → ✓ *Hier werden keine Kreditkarten akzeptiert.*",
+      "Making a Dativ object the subject: ✗ *Die Kunden werden geholfen.* → ✓ *Den Kunden wird geholfen.* The Dativ stays Dativ, and *werden* stays singular.",
+      "Using *worden* in the Präsens: ✗ *Das Problem wird gelöst worden.* → ✓ *Das Problem wird gelöst.* *worden* belongs only to the Perfekt and Plusquamperfekt passive.",
+      "Partizip II not at the end: ✗ *Das Essen wird gekocht in der Küche.* → ✓ *Das Essen wird in der Küche gekocht.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das Auto {{c1::wird::Hilfsverb}} von einem Mechaniker repariert.",
+      "en": "The car is being repaired by a mechanic.",
+      "focus": "Passiv Präsens · 3. Person Singular · mit Agens",
+      "explanation": "The active sentence is *Ein Mechaniker repariert das Auto.* The Akkusativ object *das Auto* becomes the subject, so the auxiliary agrees with a 3rd person singular subject: **wird**. The agent is a person, so it follows **von** + Dativ: *von einem Mechaniker*. *repariert* (an *-ieren* verb, no *ge-*) goes to the end.",
+      "pattern": "Subjekt + **wird** + von + Dat. + Partizip II",
+      "mistake": {"wrong": "Das Auto wird von ein Mechaniker repariert.", "why": "*von* always takes the Dativ. The masculine Dativ of *ein* is *einem*: *von einem Mechaniker*."},
+      "examples": [
+        {"de": "Die Wohnung wird von einer Firma gereinigt.", "en": "The flat is cleaned by a company."},
+        {"de": "Das Paket wird von einem Kurier gebracht.", "en": "The parcel is brought by a courier."}
+      ],
+      "words": [{"de": "der Mechaniker (-)", "en": "mechanic"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die Briefe {{c1::werden::Hilfsverb}} jeden Tag verteilt.",
+      "en": "The letters are delivered every day.",
+      "focus": "Passiv Präsens · Subjekt im Plural",
+      "explanation": "*Die Briefe* is a plural subject, so the auxiliary must be 3rd person plural: **werden**. *jeden Tag* is an Akkusativ time phrase, not the subject. *verteilen* has the inseparable prefix *ver-*, so its Partizip II has no *ge-*: **verteilt**.",
+      "pattern": "Subjekt (Pl.) + **werden** + … + Partizip II",
+      "mistake": {"wrong": "Die Briefe wird jeden Tag verteilt.", "why": "The verb agrees with the subject *die Briefe*, which is plural. *wird* is only for a singular subject."},
+      "examples": [
+        {"de": "Die Zeitungen werden schon um fünf Uhr ausgetragen.", "en": "The newspapers are already delivered at five o'clock."},
+        {"de": "Die Prüfungen werden zweimal im Jahr angeboten.", "en": "The exams are offered twice a year."}
+      ],
+      "words": [{"de": "verteilen", "en": "to distribute, to deliver"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Hier {{c1::wird::Hilfsverb}} ein neues Haus gebaut.",
+      "en": "A new house is being built here.",
+      "focus": "Passiv Präsens · Subjekt nach dem Verb",
+      "explanation": "*Hier* is in the Vorfeld, so the subject *ein neues Haus* comes after the verb. It is singular (Nominativ neuter: *ein neues*), so the auxiliary is **wird**. The Partizip II *gebaut* closes the Satzklammer at the end.",
+      "pattern": "Adverb + **wird** + Subjekt + Partizip II",
+      "mistake": {"wrong": "Hier wird ein neues Haus bauen.", "why": "*werden* + Infinitiv is the Futur I active (\"will build\"), and a house cannot build anything. The passive needs the Partizip II: *gebaut*."},
+      "examples": [
+        {"de": "Nebenan wird eine neue Schule eröffnet.", "en": "A new school is being opened next door."},
+        {"de": "Morgen wird ein neuer Bürgermeister gewählt.", "en": "A new mayor is being elected tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das Geschenk {{c1::wird::Hilfsverb}} schön verpackt.",
+      "en": "The gift is being nicely wrapped.",
+      "focus": "Passiv Präsens · 3. Person Singular",
+      "explanation": "*Das Geschenk* is singular (3rd person), so the auxiliary is **wird**. *schön* is used as an adverb (how it is wrapped) and has no ending. *verpacken* has the inseparable prefix *ver-* → Partizip II without *ge-*: *verpackt*.",
+      "pattern": "Subjekt (Sg.) + **wird** + Adverb + Partizip II",
+      "mistake": {"wrong": "Das Geschenk werdet schön verpackt.", "why": "*werdet* is the *ihr* form. *Das Geschenk* is 3rd person singular, which needs *wird*."},
+      "examples": [
+        {"de": "Der Saal wird festlich dekoriert.", "en": "The hall is being festively decorated."},
+        {"de": "Das Fahrrad wird sorgfältig geprüft.", "en": "The bike is being checked carefully."}
+      ],
+      "words": [{"de": "verpacken", "en": "to wrap, to pack"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Die Kinder {{c1::werden::Hilfsverb}} von der Lehrerin gelobt.",
+      "en": "The children are praised by the teacher.",
+      "focus": "Passiv Präsens · Plural · Agens (Person)",
+      "explanation": "In the active sentence *Die Lehrerin lobt die Kinder*, the children are the Akkusativ object. In the passive they are the plural subject → **werden**. The former subject becomes the agent with **von** + Dativ: *die Lehrerin* → *von der Lehrerin*.",
+      "pattern": "Subjekt (Pl.) + **werden** + von + Dat. + Partizip II",
+      "mistake": {"wrong": "Die Kinder werden von die Lehrerin gelobt.", "why": "*von* is a Dativ preposition. The feminine Dativ article is *der*: *von der Lehrerin*."},
+      "examples": [
+        {"de": "Die Spieler werden vom Trainer kritisiert.", "en": "The players are criticised by the coach."},
+        {"de": "Die Gäste werden von der Chefin begrüßt.", "en": "The guests are welcomed by the boss."}
+      ],
+      "words": [{"de": "loben", "en": "to praise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das Essen {{c1::wird::Hilfsverb}} in der Küche gekocht.",
+      "en": "The food is being cooked in the kitchen.",
+      "focus": "Passiv Präsens · Satzklammer",
+      "explanation": "*Das Essen* is singular → **wird** in position 2. The place *in der Küche* stands in the Mittelfeld, between the auxiliary and the Partizip II. *gekocht* must be the last element of the main clause.",
+      "pattern": "Subjekt + **wird** + Ortsangabe + Partizip II",
+      "mistake": {"wrong": "Das Essen wird gekocht in der Küche.", "why": "The passive forms a Satzklammer: *wird* in position 2, the Partizip II at the end. The place goes inside the bracket: *wird in der Küche gekocht*."},
+      "examples": [
+        {"de": "Der Kaffee wird in Italien geröstet.", "en": "The coffee is roasted in Italy."},
+        {"de": "Die Medikamente werden im Labor getestet.", "en": "The medicines are tested in the laboratory."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Die Tür {{c1::wird::Hilfsverb}} um acht Uhr geöffnet.",
+      "en": "The door is opened at eight.",
+      "focus": "Passiv Präsens · feminines Subjekt im Singular",
+      "explanation": "*die Tür* is feminine singular; *die* here is not a plural article. So the auxiliary is **wird**. *öffnen* is a weak verb whose stem ends in *-n* after a consonant, so the Partizip II adds *-et*: **geöffnet**.",
+      "pattern": "Subjekt (Sg.) + **wird** + Zeitangabe + Partizip II",
+      "mistake": {"wrong": "Die Tür werden um acht Uhr geöffnet.", "why": "*die* does not always mean plural. *Tür* is feminine singular here, so the verb is *wird*."},
+      "examples": [
+        {"de": "Die Kasse wird um neun Uhr geschlossen.", "en": "The till is closed at nine."},
+        {"de": "Die Ausstellung wird am Freitag eröffnet.", "en": "The exhibition will be opened on Friday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Viele Filme {{c1::werden::Hilfsverb}} auf Deutsch synchronisiert.",
+      "en": "Many films are dubbed into German.",
+      "focus": "Passiv Präsens · Plural · Verb auf *-ieren*",
+      "explanation": "*Viele Filme* is a plural subject → **werden**. *synchronisieren* is an *-ieren* verb, and these verbs never take *ge-* in the Partizip II: **synchronisiert**. *auf Deutsch* gives the language.",
+      "pattern": "Subjekt (Pl.) + **werden** + … + Partizip II",
+      "mistake": {"wrong": "Viele Filme werden auf Deutsch gesynchronisiert.", "why": "Verbs ending in *-ieren* form the Partizip II without *ge-*: *synchronisiert*, *repariert*, *kontrolliert*."},
+      "examples": [
+        {"de": "Viele Bücher werden ins Englische übersetzt.", "en": "Many books are translated into English."},
+        {"de": "Die meisten Serien werden im Original gezeigt.", "en": "Most series are shown in the original language."}
+      ],
+      "words": [{"de": "synchronisieren", "en": "to dub (a film)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Die Straßen {{c1::werden::Hilfsverb}} jede Woche gereinigt.",
+      "en": "The streets are cleaned every week.",
+      "focus": "Passiv Präsens · Plural · regelmäßiger Vorgang",
+      "explanation": "The subject *die Straßen* is plural → **werden**. *jede Woche* is an Akkusativ time phrase and does not affect the verb. The passive fits here because nobody cares who cleans the streets. *reinigen* → Partizip II **gereinigt**.",
+      "pattern": "Subjekt (Pl.) + **werden** + Zeitangabe + Partizip II",
+      "mistake": {"wrong": "Die Straßen wird jede Woche gereinigt.", "why": "*wird* is singular. The subject *die Straßen* is plural, so the auxiliary is *werden*."},
+      "examples": [
+        {"de": "Die Mülltonnen werden jeden Montag geleert.", "en": "The bins are emptied every Monday."},
+        {"de": "Die Handtücher werden täglich gewechselt.", "en": "The towels are changed every day."}
+      ],
+      "words": [{"de": "reinigen", "en": "to clean"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Mein Auto {{c1::wird::Hilfsverb}} morgen abgeholt.",
+      "en": "My car will be picked up tomorrow.",
+      "focus": "Passiv Präsens · trennbares Verb · Zukunftsbedeutung",
+      "explanation": "*Mein Auto* is singular → **wird**. The Präsens passive with *morgen* refers to the future; German does not need the Futur here. *abholen* is separable, so *-ge-* goes between prefix and stem: **abgeholt**.",
+      "pattern": "Subjekt + **wird** + Zeitangabe + Präfix-ge-Stamm-t",
+      "mistake": {"wrong": "Mein Auto wird morgen geabholt.", "why": "With separable verbs *ge-* goes after the prefix, not before it: *ab-ge-holt*."},
+      "examples": [
+        {"de": "Der alte Schrank wird am Samstag abgebaut.", "en": "The old wardrobe will be taken apart on Saturday."},
+        {"de": "Das Licht wird um 22 Uhr ausgeschaltet.", "en": "The light is switched off at 10 p.m."}
+      ],
+      "words": [{"de": "abholen", "en": "to pick up, to collect"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das Brot {{c1::wird::Hilfsverb}} jeden Morgen frisch gebacken.",
+      "en": "The bread is freshly baked every morning.",
+      "focus": "Passiv Präsens · starkes Partizip II",
+      "explanation": "*Das Brot* is singular → **wird**. *backen* has a strong Partizip II with *-en*: **gebacken** (the Präteritum is usually weak: *backte*). *frisch* describes how it is baked and has no ending.",
+      "pattern": "Subjekt + **wird** + … + ge-…-**en**",
+      "mistake": {"wrong": "Das Brot wird jeden Morgen frisch gebackt.", "why": "The Partizip II of *backen* is strong: *gebacken*, not *gebackt*."},
+      "examples": [
+        {"de": "Der Kuchen wird nach einem alten Rezept gebacken.", "en": "The cake is baked from an old recipe."},
+        {"de": "Die Pizza wird im Holzofen gebacken.", "en": "The pizza is baked in a wood-fired oven."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ihre Frage {{c1::wird::Hilfsverb}} bald beantwortet.",
+      "en": "Your question will be answered soon.",
+      "focus": "Passiv Präsens · formelle Anrede · Verb mit *be-*",
+      "explanation": "*Ihre Frage* (formal *Sie*) is the singular subject → **wird**. With *bald* the Präsens has a future meaning. *beantworten* has the inseparable prefix *be-*, so the Partizip II is **beantwortet**, without *ge-*.",
+      "pattern": "Subjekt + **wird** + bald + Partizip II (ohne *ge-*)",
+      "mistake": {"wrong": "Ihre Frage wird bald gebeantwortet.", "why": "Verbs with the inseparable prefixes *be-, ver-, er-, ent-, zer-, ge-, miss-* do not add *ge-*: *beantwortet*."},
+      "examples": [
+        {"de": "Ihre Bestellung wird morgen verschickt.", "en": "Your order will be sent tomorrow."},
+        {"de": "Ihr Antrag wird innerhalb von zwei Wochen bearbeitet.", "en": "Your application will be processed within two weeks."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das Problem {{c1::wird::Hilfsverb}} schnell gelöst.",
+      "en": "The problem is being solved quickly.",
+      "focus": "Passiv Präsens · Vorgang",
+      "explanation": "*Das Problem* is singular → **wird**. The Präsens passive has only two parts: *wird* + Partizip II (*lösen → gelöst*). It describes the process of solving that is happening now.",
+      "pattern": "Subjekt + **wird** + Adverb + Partizip II",
+      "mistake": {"wrong": "Das Problem wird schnell gelöst worden.", "why": "*worden* is only used in the Perfekt and Plusquamperfekt passive (*ist gelöst worden*). The Präsens is just *wird gelöst*."},
+      "examples": [
+        {"de": "Der Fehler wird sofort korrigiert.", "en": "The error is being corrected immediately."},
+        {"de": "Der Streit wird friedlich beigelegt.", "en": "The dispute is being settled peacefully."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Die Bücher {{c1::werden::Hilfsverb}} in die Bibliothek gebracht.",
+      "en": "The books are taken to the library.",
+      "focus": "Passiv Präsens · Plural · gemischtes Verb",
+      "explanation": "*Die Bücher* is plural → **werden**. *bringen* is a mixed verb: the stem changes and the ending is *-t*: **gebracht**. *in die Bibliothek* is a direction (*wohin?*) → *in* + Akkusativ.",
+      "pattern": "Subjekt (Pl.) + **werden** + Richtung + Partizip II",
+      "mistake": {"wrong": "Die Bücher werden in die Bibliothek gebringt.", "why": "*bringen* is a mixed verb with an irregular Partizip II: *gebracht*."},
+      "examples": [
+        {"de": "Die Verletzten werden ins Krankenhaus gebracht.", "en": "The injured are taken to hospital."},
+        {"de": "Die Kisten werden in den Keller getragen.", "en": "The boxes are carried into the basement."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Der Computer {{c1::wird::Hilfsverb}} gerade benutzt.",
+      "en": "The computer is being used right now.",
+      "focus": "Passiv Präsens · Vorgang im Moment",
+      "explanation": "German has no special progressive form for English \"is being used\": *gerade* + Präsens passive is enough. *Der Computer* is singular → **wird**; *benutzen* → **benutzt**.",
+      "pattern": "Subjekt + **wird** + gerade + Partizip II",
+      "mistake": {"wrong": "Der Computer benutzt gerade.", "why": "This is active and says the computer is using something. The computer is affected by the action, so you need the passive: *wird … benutzt*."},
+      "examples": [
+        {"de": "Der Raum wird gerade geputzt.", "en": "The room is being cleaned right now."},
+        {"de": "Das Programm wird gerade aktualisiert.", "en": "The program is being updated right now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Diese Sprache {{c1::wird::Hilfsverb}} weltweit gesprochen.",
+      "en": "This language is spoken worldwide.",
+      "focus": "Passiv Präsens · allgemeine Aussage",
+      "explanation": "The passive is typical for general facts where the agent is \"people in general\". *Diese Sprache* is singular → **wird**. *sprechen* is strong: Partizip II **gesprochen**.",
+      "pattern": "Subjekt + **wird** + … + Partizip II (stark)",
+      "mistake": {"wrong": "Diese Sprache wird weltweit gesprecht.", "why": "*sprechen* is a strong verb; its Partizip II is *gesprochen*, with a vowel change and *-en*."},
+      "examples": [
+        {"de": "In Österreich wird Deutsch gesprochen.", "en": "German is spoken in Austria."},
+        {"de": "Dieser Roman wird in vielen Schulen gelesen.", "en": "This novel is read in many schools."}
+      ],
+      "words": [{"de": "weltweit", "en": "worldwide"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Wir {{c1::werden::Hilfsverb}} morgen abgeholt.",
+      "en": "We're being picked up tomorrow.",
+      "focus": "Passiv Präsens · 1. Person Plural",
+      "explanation": "The subject *wir* receives the action (someone picks us up), so the sentence is passive. *wir* → **werden**. *abholen* is separable → Partizip II **abgeholt** at the end.",
+      "pattern": "wir + **werden** + Zeitangabe + Partizip II",
+      "mistake": {"wrong": "Wir werden morgen abholen.", "why": "*werden* + Infinitiv is the Futur I active: \"we will pick (someone) up\". If we are picked up, it is *werden* + Partizip II: *abgeholt*."},
+      "examples": [
+        {"de": "Wir werden nach der Landung mit dem Bus zum Hotel gebracht.", "en": "After landing we are taken to the hotel by bus."},
+        {"de": "Wir werden jedes Jahr zu ihrem Fest eingeladen.", "en": "We are invited to her party every year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das Buch {{c1::wird::Hilfsverb}} von vielen Leuten gelesen.",
+      "en": "The book is read by many people.",
+      "focus": "Passiv Präsens · Agens im Dativ Plural",
+      "explanation": "*Das Buch* is singular → **wird**, even though the agent is plural: the verb agrees only with the subject. The agent follows *von* + Dativ plural: *viele Leute* → *von vielen Leuten* (adjective *-en*, noun *-n*).",
+      "pattern": "Subjekt (Sg.) + **wird** + von + Dat. Pl. + Partizip II",
+      "mistake": {"wrong": "Das Buch wird von viele Leute gelesen.", "why": "*von* needs the Dativ. Dativ plural: *vielen Leuten*, with *-en* on *viel* and *-n* on the noun."},
+      "examples": [
+        {"de": "Die App wird von vielen Studenten genutzt.", "en": "The app is used by many students."},
+        {"de": "Das Museum wird von vielen Touristen besucht.", "en": "The museum is visited by many tourists."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Hier {{c1::werden::Hilfsverb}} keine Kreditkarten akzeptiert.",
+      "en": "Credit cards aren't accepted here.",
+      "focus": "Passiv Präsens · Subjekt (Pl.) nach dem Verb",
+      "explanation": "*Hier* is in the Vorfeld, and the subject *keine Kreditkarten* follows the verb. It is plural, so the auxiliary is **werden**. *akzeptieren* is an *-ieren* verb → **akzeptiert**.",
+      "pattern": "Hier + **werden** + Subjekt (Pl.) + Partizip II",
+      "mistake": {"wrong": "Hier wird keine Kreditkarten akzeptiert.", "why": "The subject is not at the start, but it still decides the verb form. *keine Kreditkarten* is plural → *werden*."},
+      "examples": [
+        {"de": "Hier werden keine Schecks angenommen.", "en": "Cheques are not accepted here."},
+        {"de": "Bei uns werden alle Bewerbungen gelesen.", "en": "At our company, every application is read."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Du {{c1::wirst::Hilfsverb}} schon erwartet.",
+      "en": "You're already expected.",
+      "focus": "Passiv Präsens · 2. Person Singular",
+      "explanation": "The subject is *du*, and the *du* form of *werden* is irregular: **wirst** (*ich werde, du wirst, er wird*). *erwarten* has the prefix *er-* → Partizip II **erwartet**, without *ge-*.",
+      "pattern": "du + **wirst** + Partizip II",
+      "mistake": {"wrong": "Du wird schon erwartet.", "why": "*wird* is the 3rd person form. With *du* the form is *wirst*."},
+      "examples": [
+        {"de": "Du wirst am Telefon verlangt.", "en": "You're wanted on the phone."},
+        {"de": "Du wirst im Büro gebraucht.", "en": "You're needed in the office."}
+      ],
+      "words": [{"de": "erwarten", "en": "to expect, to wait for"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Ich {{c1::werde::werden → ich}} oft nach meiner Herkunft gefragt.",
+      "en": "I'm often asked about where I come from.",
+      "focus": "Passiv Präsens · 1. Person Singular",
+      "explanation": "Active: *Die Leute fragen mich oft.* The Akkusativ *mich* becomes the Nominativ subject *ich*, so the auxiliary is **werde**. *fragen nach* + Dativ stays unchanged: *nach meiner Herkunft*.",
+      "pattern": "ich + **werde** + … + Partizip II",
+      "mistake": {"wrong": "Mich wird oft nach meiner Herkunft gefragt.", "why": "In the passive the Akkusativ object becomes the subject in the Nominativ: *mich* → *ich*, and the verb agrees: *ich werde*."},
+      "examples": [
+        {"de": "Ich werde jeden Morgen um sechs geweckt.", "en": "I'm woken up at six every morning."},
+        {"de": "Ich werde zu selten gelobt.", "en": "I'm praised too rarely."}
+      ],
+      "words": [{"de": "die Herkunft", "en": "origin, background"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ihr {{c1::werdet::werden → ihr}} in zehn Minuten aufgerufen.",
+      "en": "You'll be called in ten minutes.",
+      "focus": "Passiv Präsens · 2. Person Plural",
+      "explanation": "The subject is *ihr* (you, plural, informal) → **werdet**. *aufrufen* is separable and strong: *auf-ge-rufen* → **aufgerufen** at the end. The Präsens with *in zehn Minuten* refers to the near future.",
+      "pattern": "ihr + **werdet** + Zeitangabe + Partizip II",
+      "mistake": {"wrong": "Ihr werden in zehn Minuten aufgerufen.", "why": "*werden* is the form for *wir* and *sie/Sie*. With *ihr* the form is *werdet*."},
+      "examples": [
+        {"de": "Ihr werdet nach dem Kurs nach Hause gefahren.", "en": "You'll be driven home after the course."},
+        {"de": "Ihr werdet heute Abend vom Trainer informiert.", "en": "You'll be informed by the coach this evening."}
+      ],
+      "words": [{"de": "aufrufen", "en": "to call (someone's name/number)"}],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Heizung wird im Oktober {{c1::eingeschaltet::einschalten}}.",
+      "en": "The heating is switched on in October.",
+      "focus": "Partizip II · trennbares Verb",
+      "explanation": "The passive needs the Partizip II at the end of the clause. *einschalten* is separable (stressed prefix *ein-*), so *-ge-* goes between the prefix and the stem: ein + ge + schaltet → **eingeschaltet**.",
+      "pattern": "Subjekt + wird + … + **Präfix-ge-Stamm-t**",
+      "mistake": {"wrong": "Die Heizung wird im Oktober geeinschaltet.", "why": "With separable verbs *ge-* never stands before the prefix: *ein-ge-schaltet*, like *ab-ge-holt*."},
+      "examples": [
+        {"de": "Die Geräte werden nachts abgeschaltet.", "en": "The devices are switched off at night."},
+        {"de": "Das Wasser wird am Montag abgestellt.", "en": "The water is being turned off on Monday."}
+      ],
+      "words": [{"de": "die Heizung (-en)", "en": "heating"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Alle Koffer werden am Eingang {{c1::kontrolliert::kontrollieren}}.",
+      "en": "All suitcases are checked at the entrance.",
+      "focus": "Partizip II · Verb auf *-ieren*",
+      "explanation": "*Alle Koffer* is plural → *werden*. The main verb *kontrollieren* goes to the end as Partizip II. Verbs in *-ieren* drop *-en* and add *-t*, with no *ge-*: **kontrolliert**.",
+      "pattern": "Subjekt + werden + … + **-iert**",
+      "mistake": {"wrong": "Alle Koffer werden am Eingang gekontrolliert.", "why": "*-ieren* verbs never take *ge-* in the Partizip II: *kontrolliert*, *studiert*, *informiert*."},
+      "examples": [
+        {"de": "Die Ergebnisse werden morgen präsentiert.", "en": "The results are presented tomorrow."},
+        {"de": "Die Teilnehmer werden per E-Mail informiert.", "en": "The participants are informed by email."}
+      ],
+      "words": [{"de": "der Koffer (-)", "en": "suitcase"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "In diesem Laden werden auch gebrauchte Fahrräder {{c1::verkauft::verkaufen}}.",
+      "en": "Second-hand bikes are also sold in this shop.",
+      "focus": "Partizip II · untrennbares Präfix",
+      "explanation": "*verkaufen* has the inseparable prefix *ver-* (unstressed), so the Partizip II has no *ge-*: **verkauft**. The plural subject *gebrauchte Fahrräder* comes after the verb, which is why the auxiliary is *werden*.",
+      "pattern": "Ort + werden + Subjekt (Pl.) + Partizip II ohne *ge-*",
+      "mistake": {"wrong": "In diesem Laden werden auch gebrauchte Fahrräder geverkauft.", "why": "Inseparable prefixes (*be-, ver-, er-, ent-, zer-, ge-, miss-, emp-*) block *ge-*: *verkauft*."},
+      "examples": [
+        {"de": "Im Bürgeramt werden neue Pässe beantragt.", "en": "New passports are applied for at the citizens' office."},
+        {"de": "In diesem Zentrum werden Geflüchtete kostenlos beraten.", "en": "Refugees get free advice at this centre."}
+      ],
+      "words": [{"de": "gebraucht", "en": "second-hand, used"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Altstadt wird {{c1::durch::Mittel}} eine hohe Mauer geschützt.",
+      "en": "The old town is protected by a high wall.",
+      "focus": "Passiv · Mittel, nicht Person",
+      "explanation": "The wall is not a person who acts; it is the means by which the town is protected. A means or cause takes **durch** + Akkusativ: *durch eine hohe Mauer* (feminine Akkusativ). A person or actor takes *von* + Dativ.",
+      "pattern": "Subjekt + wird + **durch** + Akk. + Partizip II",
+      "mistake": {"wrong": "Die Altstadt wird durch einer hohen Mauer geschützt.", "why": "*durch* always takes the Akkusativ, also in a passive sentence: *durch eine hohe Mauer*, not the Dativ *einer hohen Mauer*."},
+      "examples": [
+        {"de": "Viele Krankheiten werden durch Viren übertragen.", "en": "Many diseases are transmitted by viruses."},
+        {"de": "Das Dorf wird durch einen Damm vor dem Hochwasser geschützt.", "en": "The village is protected from flooding by a dam."}
+      ],
+      "words": [{"de": "die Mauer (-n)", "en": "wall (outside, stone)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Antrag wird von {{c1::der::die}} zuständigen Sachbearbeiterin geprüft.",
+      "en": "The application is checked by the clerk in charge.",
+      "focus": "Agens · *von* + Kasus · feminin",
+      "explanation": "The agent is a person, so it follows *von*, and *von* always takes the Dativ. *Sachbearbeiterin* is feminine → Dativ article **der**; the adjective after *der* is weak: *zuständigen*.",
+      "pattern": "von + **der** + Adj-en + Nomen (Dat. f.)",
+      "mistake": {"wrong": "Der Antrag wird von die zuständige Sachbearbeiterin geprüft.", "why": "The agent keeps the case of the preposition *von*: Dativ, not Nominativ or Akkusativ. Feminine Dativ = *der zuständigen*."},
+      "examples": [
+        {"de": "Die Rechnung wird von der Krankenkasse bezahlt.", "en": "The bill is paid by the health insurance."},
+        {"de": "Das Projekt wird von der Stadt finanziert.", "en": "The project is funded by the city."}
+      ],
+      "words": [{"de": "zuständig", "en": "responsible, in charge"}, {"de": "die Sachbearbeiterin (-nen)", "en": "(female) clerk, case officer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "In unserer Familie {{c1::wird::Hilfsverb}} viel gelacht.",
+      "en": "There is a lot of laughing in our family.",
+      "focus": "unpersönliches Passiv · kein Subjekt",
+      "explanation": "*lachen* has no Akkusativ object, so the passive has no subject at all (unpersönliches Passiv). Without a subject, the auxiliary is always 3rd person singular: **wird**. The sentence focuses only on the activity.",
+      "pattern": "Vorfeld + **wird** + Partizip II (kein Subjekt)",
+      "mistake": {"wrong": "In unserer Familie werden viel gelacht.", "why": "There is no plural subject here; *viel* is not a subject. A passive without a subject always takes *wird*."},
+      "examples": [
+        {"de": "Am Wochenende wird hier bis spät getanzt.", "en": "At the weekend people dance here until late."},
+        {"de": "In der Bibliothek wird nicht laut gesprochen.", "en": "People don't talk loudly in the library."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Den Kunden {{c1::wird::Hilfsverb}} an der Information schnell geholfen.",
+      "en": "Customers get help quickly at the information desk.",
+      "focus": "Passiv · Verb mit Dativobjekt",
+      "explanation": "*helfen* takes a Dativ object, and a Dativ object cannot become the subject of a passive sentence. *Den Kunden* stays Dativ plural, the sentence has no subject, so the auxiliary is singular: **wird**.",
+      "pattern": "Dat. + **wird** + … + Partizip II (kein Subjekt)",
+      "mistake": {"wrong": "Die Kunden werden an der Information schnell geholfen.", "why": "Only an Akkusativ object becomes the passive subject. With *helfen* the Dativ stays: *Den Kunden wird geholfen*."},
+      "examples": [
+        {"de": "Den Opfern wird sofort geholfen.", "en": "The victims are helped immediately."},
+        {"de": "Dem Team wird für die gute Arbeit gedankt.", "en": "The team is thanked for the good work."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Weißt du, ob das Paket heute noch {{c1::geliefert wird::liefern}}?",
+      "en": "Do you know if the parcel is still being delivered today?",
+      "focus": "Passiv im Nebensatz · Wortstellung",
+      "explanation": "*ob* starts a Nebensatz, so the finite verb goes to the very end. In the passive the finite verb is *wird*, so the order at the end is Partizip II + auxiliary: **geliefert wird**.",
+      "pattern": "…, ob + Subjekt + … + **Partizip II + wird**",
+      "mistake": {"wrong": "Weißt du, ob das Paket wird heute noch geliefert?", "why": "In a Nebensatz with *ob* the conjugated verb *wird* goes to the end, after the Partizip II."},
+      "examples": [
+        {"de": "Ich frage mich, ob die Straße bald gesperrt wird.", "en": "I wonder whether the road will be closed soon."},
+        {"de": "Er will wissen, ob sein Vertrag verlängert wird.", "en": "He wants to know whether his contract will be extended."}
+      ],
+      "words": [{"de": "liefern", "en": "to deliver"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Wie {{c1::wird::Hilfsverb}} dieses Wort ausgesprochen?",
+      "en": "How is this word pronounced?",
+      "focus": "Passiv · W-Frage",
+      "explanation": "In a W-question the question word is in position 1 and the finite verb in position 2: *Wie* **wird**. The subject *dieses Wort* is singular. *aussprechen* is separable and strong → *ausgesprochen* at the end.",
+      "pattern": "W-Wort + **wird** + Subjekt + Partizip II?",
+      "mistake": {"wrong": "Wie dieses Wort wird ausgesprochen?", "why": "In a W-question the finite verb stands directly after the question word: *Wie wird dieses Wort ausgesprochen?*"},
+      "examples": [
+        {"de": "Wo werden die Tickets verkauft?", "en": "Where are the tickets sold?"},
+        {"de": "Wann wird das Ergebnis bekannt gegeben?", "en": "When will the result be announced?"}
+      ],
+      "words": [{"de": "aussprechen", "en": "to pronounce"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "In dieser Fabrik {{c1::werden::Hilfsverb}} jeden Tag 500 Autos produziert.",
+      "en": "500 cars are produced in this factory every day.",
+      "focus": "Passiv Präsens · Subjekt (Pl.) im Mittelfeld",
+      "explanation": "The place *In dieser Fabrik* is in the Vorfeld, so the subject *500 Autos* comes later in the Mittelfeld. It is plural, so the auxiliary is **werden**. *produzieren* → **produziert** (no *ge-*).",
+      "pattern": "Ort + **werden** + Zeit + Subjekt (Pl.) + Partizip II",
+      "mistake": {"wrong": "In dieser Fabrik wird jeden Tag 500 Autos produziert.", "why": "*500 Autos* is the subject and it is plural. The subject decides the verb form wherever it stands: *werden*."},
+      "examples": [
+        {"de": "In Deutschland werden jedes Jahr Millionen Tonnen Kartoffeln geerntet.", "en": "Millions of tonnes of potatoes are harvested in Germany every year."},
+        {"de": "In der Kantine werden täglich drei Gerichte gekocht.", "en": "Three dishes are cooked in the canteen every day."}
+      ],
+      "words": [{"de": "die Fabrik (-en)", "en": "factory"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about how the passive is formed.",
+      "prompt": "How do you form the Passiv Präsens, and where do the two verb parts stand?",
+      "answer": "Conjugated **werden** (*werde, wirst, wird, werden, werdet, werden*) + **Partizip II** of the main verb. *werden* is in position 2 (main clause) and the Partizip II is at the end; in a Nebensatz both are at the end: *… gebaut wird*.",
+      "explanation": "The passive uses the same Satzklammer as the Perfekt: the finite auxiliary opens it and the Partizip II closes it. Only *werden* changes with the person; the Partizip II never changes.",
+      "examples": [
+        {"de": "Das Konzert wird live übertragen.", "en": "The concert is broadcast live."},
+        {"de": "Ich glaube, dass das Konzert live übertragen wird.", "en": "I think that the concert is broadcast live."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the difference between the two agent prepositions.",
+      "prompt": "When do you use *von* and when *durch* to name the agent in a passive sentence?",
+      "answer": "**von** + Dativ for the person or actor who does the action (*vom Arzt, von der Polizei*). **durch** + Akkusativ for the means, the cause or a go-between (*durch einen Sturm, durch eine Mauer, durch einen Boten*).",
+      "explanation": "*von* answers *von wem?* (by whom?). *durch* answers *wodurch?* (through what? by what means?). Note the cases: *von* is always Dativ, *durch* always Akkusativ. Very often the agent is simply left out.",
+      "examples": [
+        {"de": "Der Dieb wird von der Polizei gesucht.", "en": "The thief is being searched for by the police."},
+        {"de": "Viele Bäume werden durch den Sturm beschädigt.", "en": "Many trees are damaged by the storm."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the three uses of *werden*.",
+      "prompt": "How can you tell *werden* in the passive from *werden* in the Futur I and *werden* as a full verb?",
+      "answer": "Look at the other verb form: **werden + Partizip II** = Passiv (*wird gebaut*); **werden + Infinitiv** = Futur I (*wird bauen*); **werden + Nomen/Adjektiv** = full verb \"to become\" (*wird Ärztin, wird kalt*).",
+      "explanation": "The form of *werden* is the same in all three. Only the second element at the end shows the meaning. A Partizip II usually has *ge-* and ends in *-t* or *-en* (*gebaut, gelesen*); an infinitive has no *ge-* and ends in *-en/-n* (*bauen, lesen*).",
+      "examples": [
+        {"de": "Die Brücke wird gebaut.", "en": "The bridge is being built."},
+        {"de": "Die Firma wird eine Brücke bauen.", "en": "The company will build a bridge."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about passive sentences without a subject.",
+      "prompt": "What happens in the passive when the active verb has no Akkusativ object (e.g. *helfen, arbeiten, tanzen*)?",
+      "answer": "The passive has **no subject** (unpersönliches Passiv). *werden* is always **3rd person singular (wird)**; a Dativ object stays Dativ. If nothing else is in the Vorfeld, **es** fills it: *Es wird getanzt.*",
+      "explanation": "Only an Akkusativ object can become the passive subject. *es* is only a placeholder for position 1; it disappears when another element takes the Vorfeld: *Heute wird getanzt.*",
+      "examples": [
+        {"de": "Es wird bis Mitternacht gefeiert.", "en": "People celebrate until midnight."},
+        {"de": "Den Nachbarn wird beim Umzug geholfen.", "en": "The neighbours are being helped with the move."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Compare the passive with the active sentence with *man*.",
+      "prompt": "How is the passive related to an active sentence with *man*, and what happens to *man*?",
+      "answer": "Both hide the agent. In the passive, **man disappears completely** (it is never turned into *von man*); the Akkusativ object becomes the subject: *Man repariert die Heizung.* → *Die Heizung wird repariert.*",
+      "explanation": "*man* is the typical subject of active sentences that you can change into the passive. The passive sounds more formal and puts the affected thing first; the *man* sentence is more common in speech.",
+      "examples": [
+        {"de": "Man öffnet das Schwimmbad um sieben.", "en": "They open the swimming pool at seven."},
+        {"de": "Das Schwimmbad wird um sieben geöffnet.", "en": "The swimming pool is opened at seven."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Change to the passive (Präsens). Keep the agent.",
+      "prompt": "Der Hausmeister repariert die Heizung.",
+      "answer": "Die Heizung wird vom Hausmeister repariert.",
+      "explanation": "The Akkusativ object *die Heizung* becomes the subject; it is singular → *wird*. The active subject becomes the agent with *von* + Dativ: *vom (= von dem) Hausmeister*. *repariert* moves to the end."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Change to the passive (Präsens). Start with: In Bayern",
+      "prompt": "Man trinkt in Bayern viel Bier.",
+      "answer": "In Bayern wird viel Bier getrunken.",
+      "explanation": "*man* disappears in the passive. *viel Bier* becomes the subject; it is singular (uncountable) → *wird*. *trinken* is strong → Partizip II *getrunken* at the end."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Change to the active voice (Präsens).",
+      "prompt": "Die Rechnungen werden von der Buchhaltung bezahlt.",
+      "answer": "Die Buchhaltung bezahlt die Rechnungen.",
+      "explanation": "The agent after *von* becomes the active subject in the Nominativ: *die Buchhaltung*, singular → *bezahlt*. The passive subject *die Rechnungen* becomes the Akkusativ object."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Change to the passive (Präsens). Start with: Den Kindern",
+      "prompt": "Man hilft den Kindern bei den Hausaufgaben.",
+      "answer": "Den Kindern wird bei den Hausaufgaben geholfen.",
+      "explanation": "*helfen* has a Dativ object, so there is no passive subject. *den Kindern* stays Dativ, *man* disappears, and *werden* is singular: *wird … geholfen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Alle Zimmer wird jeden Morgen gereinigt.",
+      "answer": "Alle Zimmer werden jeden Morgen gereinigt.",
+      "explanation": "*Zimmer* has the same form in singular and plural, but *alle* shows that it is plural here (singular: *das Zimmer*). A plural subject needs *werden*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Kuchen wird von meiner Oma gebackt.",
+      "answer": "Der Kuchen wird von meiner Oma gebacken.",
+      "explanation": "The auxiliary *wird* and the agent *von meiner Oma* are correct. The mistake is the Partizip II: *backen* has the strong form *gebacken*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Den Gästen werden sofort geholfen.",
+      "answer": "Den Gästen wird sofort geholfen.",
+      "explanation": "*den Gästen* is a Dativ plural object of *helfen*, not a subject. The sentence has no subject, so *werden* must be 3rd person singular: *wird*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Vertrag wird unterschrieben morgen.",
+      "answer": "Der Vertrag wird morgen unterschrieben.",
+      "explanation": "The Partizip II closes the Satzklammer and must be at the end of the main clause. The time *morgen* goes into the Mittelfeld. (*unterschreiben* is inseparable → *unterschrieben*.)"
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct form of *werden*.",
+      "prompt": "In der Schweiz ___ vier Sprachen gesprochen.",
+      "options": ["wird", "werden", "wurde", "werdet"],
+      "correct": "werden",
+      "answer": "In der Schweiz werden vier Sprachen gesprochen.",
+      "explanation": "The subject *vier Sprachen* is plural and comes after the verb → *werden*. *wird* is singular, *wurde* is Präteritum singular (and the fact is true now), and *werdet* is the *ihr* form."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct preposition for the agent.",
+      "prompt": "Die Kinder werden heute ___ ihrer Großmutter abgeholt.",
+      "options": ["von", "durch", "mit"],
+      "correct": "von",
+      "answer": "Die Kinder werden heute von ihrer Großmutter abgeholt.",
+      "explanation": "The grandmother is a person who does the action → *von* + Dativ (*ihrer*). *durch* is for a means or cause and takes the Akkusativ (*ihre* would be needed). *mit* would mean the children are collected together with her, not by her."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: In diesem Restaurant",
+      "prompt": "nur mit Bargeld / bezahlt / in diesem Restaurant / wird",
+      "answer": "In diesem Restaurant wird nur mit Bargeld bezahlt.",
+      "explanation": "*bezahlen* has no Akkusativ object here, so this is an impersonal passive: no subject, *wird* in position 2, the Partizip II *bezahlt* at the end. Without the place phrase in the Vorfeld you would need *es*: *Es wird nur mit Bargeld bezahlt.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order to make one sentence with a Nebensatz.",
+      "prompt": "verschoben / ich weiß nicht / wird / der Termin / ob",
+      "answer": "Ich weiß nicht, ob der Termin verschoben wird.",
+      "explanation": "*ob* introduces a Nebensatz, and a comma separates it from the main clause. In the Nebensatz the finite verb *wird* stands at the very end, after the Partizip II *verschoben*."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join with *weil*.",
+      "prompt": "Das Museum ist geschlossen. Es wird renoviert.",
+      "answer": "Das Museum ist geschlossen, weil es renoviert wird.",
+      "explanation": "*weil* sends the finite verb to the end of the Nebensatz. In a passive Nebensatz the order at the end is Partizip II + *wird*: *renoviert wird*. *es* refers to *das Museum* and is the subject."
+    }
+  ]
+}

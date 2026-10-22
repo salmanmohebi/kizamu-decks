@@ -1,0 +1,1080 @@
+{
+  "topic_id": "b1-09-pronominaladverbien",
+  "level": "B1",
+  "title_de": "Pronominaladverbien (worauf, darauf, woran, daran …)",
+  "title_en": "Pronominal adverbs (wo- and da- + preposition)",
+  "rule": {
+    "summary": "When a verb has a fixed preposition (*warten auf, denken an*) and you ask about or refer to a **thing, an idea or a whole clause**, German does not use *auf was* or *auf es*. It joins the preposition with **wo-** (questions: *worauf, woran*) or **da-** (reference: *darauf, daran*). If the preposition starts with a vowel, an **-r-** is inserted: *wo**r**über, da**r**an*. For **people** you keep preposition + question word or personal pronoun: *Auf wen wartest du? Ich warte auf ihn.*",
+    "table": "| Verb + Präp. | Frage (Sache) | Verweis (Sache) | Person |\n|---|---|---|---|\n| warten **auf** | **wor**auf? | **dar**auf | auf wen? · auf ihn |\n| denken **an** | **wor**an? | **dar**an | an wen? · an sie |\n| sprechen **über** | **wor**über? | **dar**über | über wen? · über ihn |\n| bitten **um** | **wor**um? | **dar**um | – |\n| bestehen **in** / **aus** | **wor**in? / **wor**aus? | **dar**in / **dar**aus | – |\n| sich interessieren **für** | **wo**für? | **da**für | für wen? · für sie |\n| sich beschäftigen **mit** | **wo**mit? | **da**mit | mit wem? · mit ihm |\n| träumen **von** | **wo**von? | **da**von | von wem? · von ihr |\n| Angst haben **vor** | **wo**vor? | **da**vor | vor wem? · vor ihm |\n| sein **gegen** | **wo**gegen? | **da**gegen | gegen wen? · gegen ihn |\n| helfen **bei** | **wo**bei? | **da**bei | – |\n| brauchen … **zu** (Zweck) | **wo**zu? | **da**zu | – |",
+    "steps": [
+      "Find the fixed preposition of the verb, adjective or noun (*sich freuen über, Angst haben vor*).",
+      "Person or thing? For a **person** use preposition + *wen/wem* (question) or preposition + personal pronoun (*an ihn, mit ihr*). For a **thing, an idea or a clause** use a pronominal adverb.",
+      "Question → **wo-** + preposition; reference to something known → **da-** + preposition.",
+      "Preposition starts with a vowel (*an, auf, aus, in, über, um, unter*) → insert **-r-**: *woran, darauf, worüber, darum*.",
+      "A *da*-word can also point forward to a *dass*-clause, a w-clause or a *zu*-infinitive: *Ich denke daran, dass …* / *Ich träume davon, … zu reisen.*",
+      "In an indirect question the *wo*-word starts a Nebensatz, so the finite verb goes to the end: *Weißt du, worüber sie spricht?*"
+    ],
+    "pitfalls": [
+      "Preposition + *es* for things: ✗ *Ich warte auf es.* → ✓ *Ich warte darauf.*",
+      "Forgetting or adding the -r-: ✗ *Woauf wartest du?* → ✓ *Worauf wartest du?*; ✗ *Worfür?* → ✓ *Wofür?* (the -r- only comes before a vowel).",
+      "Pronominal adverb for a person: ✗ *Mein Opa? Ich denke oft daran.* → ✓ *Mein Opa? Ich denke oft an ihn.*",
+      "Leaving the preposition at the end, as in English: ✗ *Was wartest du auf?* → ✓ *Worauf wartest du?*",
+      "Using the wrong preposition inside the word: ✗ *Wovon hast du Angst?* → ✓ *Wovor hast du Angst?* The *wo*/*da*-word keeps the verb's own preposition. (*Auf was …?* and *Über was …?* are heard in casual speech, but in standard and written German use the *wo*-forms.)"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Worauf::Frage}} wartest du?",
+      "en": "What are you waiting for?",
+      "focus": "Frage nach einer Sache · *warten*",
+      "explanation": "*warten* has the fixed preposition *auf*. You ask about a thing, so you join **wo-** + *auf*. *auf* starts with a vowel, so an **-r-** is inserted: wo + r + auf → **worauf**.",
+      "pattern": "Wo**r** + Präp. (Vokal) + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Woauf wartest du?",
+        "why": "Before a preposition that begins with a vowel the linking *-r-* is required: *worauf*, not *woauf*."
+      },
+      "examples": [
+        {
+          "de": "Worauf freust du dich am meisten?",
+          "en": "What are you looking forward to most?"
+        },
+        {
+          "de": "Worauf muss ich bei der Anmeldung achten?",
+          "en": "What do I need to pay attention to when I register?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich warte schon lange {{c1::darauf::Verweis}}.",
+      "en": "I've been waiting for it for a long time.",
+      "focus": "Verweis auf eine Sache · *warten*",
+      "explanation": "The sentence refers back to a thing that was mentioned before (e.g. a parcel, a reply). For a thing German does not say *auf es*; it uses **da-** + preposition, with the linking *-r-* before the vowel: da + r + auf → **darauf**.",
+      "pattern": "Verb … **dar** + Präp. (Sache, bekannt)",
+      "mistake": {
+        "wrong": "Ich warte schon lange auf es.",
+        "why": "A preposition + *es* is not used for things. The pronoun *es* after a preposition is replaced by a *da*-word: *darauf*."
+      },
+      "examples": [
+        {
+          "de": "Das neue Album? Ich freue mich schon darauf.",
+          "en": "The new album? I'm already looking forward to it."
+        },
+        {
+          "de": "Die Ergebnisse kommen nächste Woche, wir warten noch darauf.",
+          "en": "The results come next week; we're still waiting for them."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Woran::Frage}} denkst du gerade?",
+      "en": "What are you thinking about right now?",
+      "focus": "Frage nach einer Sache · *denken*",
+      "explanation": "*denken* has the fixed preposition *an*. The question asks about a thought or a thing, so it is **wo-** + *an*, with *-r-* before the vowel: **woran**. If you expected a person, the question would be *An wen denkst du?*",
+      "pattern": "Wo**r** + an + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Wovon denkst du gerade?",
+        "why": "English *think of* leads to *von*. The *wo*-word keeps the preposition of the verb: *denken an* → *woran*."
+      },
+      "examples": [
+        {
+          "de": "Woran erkennt man einen guten Wein?",
+          "en": "How can you tell a good wine?"
+        },
+        {
+          "de": "Woran hast du ihn sofort erkannt?",
+          "en": "How did you recognise him straight away?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich denke {{c1::daran::Verweis + Nebensatz}}, was du gesagt hast.",
+      "en": "I'm thinking about what you said.",
+      "focus": "Verweis auf einen Nebensatz · *denken*",
+      "explanation": "Here the *da*-word does not refer back; it points **forward** to the w-clause *was du gesagt hast*. A preposition cannot stand directly before a clause, so *an* becomes **daran** and the clause follows after the comma.",
+      "pattern": "denken **daran**, w-Nebensatz",
+      "mistake": {
+        "wrong": "Ich denke darauf, was du gesagt hast.",
+        "why": "The *da*-word must contain the verb's own preposition. *denken* takes *an*, so the correct form is *daran*, not *darauf*."
+      },
+      "examples": [
+        {
+          "de": "Denk bitte daran, dass wir morgen früh losfahren.",
+          "en": "Please remember that we're leaving early tomorrow."
+        },
+        {
+          "de": "Sie erinnert sich nicht daran, wo sie den Schlüssel hingelegt hat.",
+          "en": "She can't remember where she put the key."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Worüber::Frage}} sprecht ihr?",
+      "en": "What are you talking about?",
+      "focus": "Frage nach dem Thema · *sprechen*",
+      "explanation": "The topic of a conversation follows *über* (*sprechen über* + Akk). The question about a topic is **wo-** + *über*, with *-r-* before the vowel: **worüber**. *sprecht* is the *ihr*-form, so the English *you* is plural here.",
+      "pattern": "Wo**r** + über + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Worum sprecht ihr?",
+        "why": "*worum* belongs to *es geht um* (*Worum geht es?*). *sprechen* takes *über*, so the question word is *worüber*."
+      },
+      "examples": [
+        {
+          "de": "Worüber habt ihr euch gestern gestritten?",
+          "en": "What did you argue about yesterday?"
+        },
+        {
+          "de": "Worüber schreibst du deine Hausarbeit?",
+          "en": "What are you writing your term paper about?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir sprechen {{c1::darüber::Verweis + Nebensatz}}, wie wir Geld sparen.",
+      "en": "We're talking about how to save money.",
+      "focus": "Verweis auf einen w-Satz · *sprechen*",
+      "explanation": "The topic of the conversation is a whole indirect question: *wie wir Geld sparen*. *über* cannot introduce a clause, so it becomes the *da*-word **darüber** in the main clause, and the w-clause follows with the verb at the end.",
+      "pattern": "sprechen **darüber**, wie/ob/was … Verb",
+      "mistake": {
+        "wrong": "Wir sprechen über, wie wir Geld sparen.",
+        "why": "A preposition always needs a noun or pronoun after it. Before a clause it must turn into a *da*-word: *darüber, wie …*."
+      },
+      "examples": [
+        {
+          "de": "Wir diskutieren darüber, ob wir umziehen sollen.",
+          "en": "We're discussing whether we should move."
+        },
+        {
+          "de": "Lass uns darüber reden, was wir am Wochenende machen.",
+          "en": "Let's talk about what we're doing at the weekend."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Wofür::Frage}} interessierst du dich?",
+      "en": "What are you interested in?",
+      "focus": "Frage nach einer Sache · *sich interessieren*",
+      "explanation": "*sich interessieren* takes *für*. *für* starts with a consonant, so no *-r-* is needed: wo + für → **wofür**. The reflexive pronoun *dich* follows the subject *du*.",
+      "pattern": "Wo + Präp. (Konsonant) + Verb + Subjekt + sich?",
+      "mistake": {
+        "wrong": "Worfür interessierst du dich?",
+        "why": "The linking *-r-* is only used before a vowel. Before *für* (a consonant) it is *wofür*."
+      },
+      "examples": [
+        {
+          "de": "Wofür gibst du das meiste Geld aus?",
+          "en": "What do you spend most of your money on?"
+        },
+        {
+          "de": "Wofür hast du dich am Ende entschieden?",
+          "en": "What did you decide on in the end?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich interessiere mich {{c1::dafür::Verweis + Nebensatz}}, wie Sprachen funktionieren.",
+      "en": "I'm interested in how languages work.",
+      "focus": "Verweis auf einen w-Satz · *sich interessieren*",
+      "explanation": "The object of the interest is the w-clause *wie Sprachen funktionieren*. Because *für* cannot stand before a clause, the main clause has the *da*-word: da + für → **dafür** (no *-r-* before a consonant).",
+      "pattern": "sich interessieren **dafür**, wie … Verb",
+      "mistake": {
+        "wrong": "Ich interessiere mich darfür, wie Sprachen funktionieren.",
+        "why": "The *-r-* is only inserted before vowels (*darauf, darüber*). *für* begins with a consonant: *dafür*."
+      },
+      "examples": [
+        {
+          "de": "Viele Kunden interessieren sich dafür, woher die Produkte kommen.",
+          "en": "Many customers are interested in where the products come from."
+        },
+        {
+          "de": "Er interessiert sich nicht dafür, was andere denken.",
+          "en": "He isn't interested in what other people think."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Womit::Frage}} kann ich Ihnen helfen?",
+      "en": "What can I help you with?",
+      "focus": "Frage nach einer Sache · *helfen* (Service)",
+      "explanation": "This is a standard polite question in shops and offices. *helfen* has the person in the Dativ (*Ihnen*) and the matter with a preposition; the question about the matter is wo + *mit* → **womit** (no *-r-*, because *mit* starts with a consonant). *Wobei kann ich Ihnen helfen?* (*helfen bei*) is also correct and common.",
+      "pattern": "Wo + mit + Modalverb + Subjekt + Dat. + Infinitiv?",
+      "mistake": {
+        "wrong": "Was kann ich Ihnen helfen?",
+        "why": "*helfen* has no Akkusativ object, so *was* cannot be used. The matter you help with needs a pronominal adverb: *Womit* (or *Wobei*) *kann ich Ihnen helfen?*"
+      },
+      "examples": [
+        {
+          "de": "Womit beschäftigt sich dein Institut?",
+          "en": "What does your institute work on?"
+        },
+        {
+          "de": "Womit hast du die Flecken entfernt?",
+          "en": "What did you use to remove the stains?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Wovon::Frage}} träumst du?",
+      "en": "What do you dream of?",
+      "focus": "Frage nach einer Sache · *träumen*",
+      "explanation": "*träumen* takes *von* + Dativ. The question about the content of the dream is wo + *von* → **wovon**; *von* starts with a consonant, so there is no *-r-*.",
+      "pattern": "Wo + von + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Worüber träumst du?",
+        "why": "English *dream about* leads to *über*. The *wo*-word must contain the verb's own preposition: *träumen von* → *wovon*."
+      },
+      "examples": [
+        {
+          "de": "Wovon lebt eine freie Journalistin?",
+          "en": "What does a freelance journalist live on?"
+        },
+        {
+          "de": "Wovon hängt die Entscheidung ab?",
+          "en": "What does the decision depend on?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich träume {{c1::davon::Verweis + zu-Infinitiv}}, nach Italien zu reisen.",
+      "en": "I dream of travelling to Italy.",
+      "focus": "Verweis auf einen *zu*-Infinitiv · *träumen*",
+      "explanation": "The dream is expressed by the infinitive clause *nach Italien zu reisen* (same subject *ich*). The preposition *von* cannot stand before it, so the main clause has the *da*-word **davon**, and the *zu*-infinitive follows after a comma.",
+      "pattern": "träumen **davon**, … zu + Infinitiv",
+      "mistake": {
+        "wrong": "Ich träume von, nach Italien zu reisen.",
+        "why": "A preposition cannot stand alone before a clause. *von* must become *davon*."
+      },
+      "examples": [
+        {
+          "de": "Sie träumt davon, ein eigenes Café zu eröffnen.",
+          "en": "She dreams of opening her own café."
+        },
+        {
+          "de": "Viele Studierende träumen davon, im Ausland zu arbeiten.",
+          "en": "Many students dream of working abroad."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Worin::Frage}} besteht dein Job?",
+      "en": "What does your job involve?",
+      "focus": "Frage nach dem Inhalt · *bestehen*",
+      "explanation": "*bestehen in* + Dativ asks about the essence or the main content of something (*to consist in*). Question: wo + *in*, with *-r-* before the vowel → **worin**. Compare *bestehen aus* for the parts of a whole (*Woraus besteht der Kuchen?*).",
+      "pattern": "Wo**r** + in + bestehen + Subjekt?",
+      "mistake": {
+        "wrong": "Woin besteht dein Job?",
+        "why": "*in* begins with a vowel, so the linking *-r-* is needed: *worin*."
+      },
+      "examples": [
+        {
+          "de": "Worin liegt der Unterschied zwischen den beiden Modellen?",
+          "en": "What is the difference between the two models?"
+        },
+        {
+          "de": "Worin besteht der Vorteil dieser Methode?",
+          "en": "What is the advantage of this method?"
+        }
+      ],
+      "words": [
+        {
+          "de": "bestehen in (+ Dat.)",
+          "en": "to consist in"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Worum::Frage}} bittest du mich?",
+      "en": "What are you asking me for?",
+      "focus": "Frage nach einer Sache · *bitten*",
+      "explanation": "*bitten* has the person in the Akkusativ (*mich*) and the thing with *um*. Question: wo + *um* with *-r-* before the vowel → **worum**. The same word appears in *Worum geht es?* (*es geht um*).",
+      "pattern": "Wo**r** + um + Verb + Subjekt + Akk.?",
+      "mistake": {
+        "wrong": "Wofür bittest du mich?",
+        "why": "English *ask for* leads to *für*. *bitten* takes *um*, so the question word is *worum*."
+      },
+      "examples": [
+        {
+          "de": "Worum geht es in dem Film?",
+          "en": "What is the film about?"
+        },
+        {
+          "de": "Worum kümmert sich die Personalabteilung?",
+          "en": "What does the HR department take care of?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Wozu::Frage · Zweck}} brauchst du das Werkzeug?",
+      "en": "What do you need the tool for?",
+      "focus": "Frage nach dem Zweck · *brauchen*",
+      "explanation": "**wozu** asks about the purpose (*what for?*). It is wo + *zu*; *zu* begins with a consonant, so there is no *-r-*. A typical answer has *um … zu* or *dazu*: *Um das Regal aufzubauen.* *Wofür brauchst du das Werkzeug?* is also correct and common in everyday speech.",
+      "pattern": "Wozu + Verb + Subjekt + Objekt?",
+      "mistake": {
+        "wrong": "Worzu brauchst du das Werkzeug?",
+        "why": "The *-r-* is only inserted before a vowel. *zu* begins with a consonant: *wozu*."
+      },
+      "examples": [
+        {
+          "de": "Wozu dient dieser Knopf?",
+          "en": "What is this button for?"
+        },
+        {
+          "de": "Wozu lernst du eigentlich Japanisch?",
+          "en": "What are you actually learning Japanese for?"
+        }
+      ],
+      "words": [
+        {
+          "de": "das Werkzeug (-e)",
+          "en": "tool"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich brauche es {{c1::dazu::Verweis + zu-Infinitiv}}, das Regal aufzubauen.",
+      "en": "I need it to put up the shelf.",
+      "focus": "Verweis auf einen Zweck · *zu*-Infinitiv",
+      "explanation": "The answer to *wozu?* uses the matching *da*-word: **dazu** points forward to the purpose *das Regal aufzubauen*. With the separable verb *aufbauen*, *zu* goes between prefix and stem: *aufzubauen*. In everyday speech *um … zu* without *dazu* is more common: *Ich brauche es, um das Regal aufzubauen.*",
+      "pattern": "… **dazu**, … zu + Infinitiv (Zweck)",
+      "mistake": {
+        "wrong": "Ich brauche es darzu, das Regal aufzubauen.",
+        "why": "*zu* begins with a consonant, so there is no linking *-r-*: *dazu*."
+      },
+      "examples": [
+        {
+          "de": "Wir nutzen die App dazu, unsere Termine zu planen.",
+          "en": "We use the app to plan our appointments."
+        },
+        {
+          "de": "Der Kurs dient dazu, die Teilnehmer auf die Prüfung vorzubereiten.",
+          "en": "The course serves to prepare the participants for the exam."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Regal (-e)",
+          "en": "shelf"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Wogegen::Frage}} sind die Demonstranten?",
+      "en": "What are the protesters against?",
+      "focus": "Frage nach einer Sache · *sein gegen*",
+      "explanation": "*gegen etwas sein* means *to be against something*. The question about the thing is wo + *gegen* → **wogegen**; *gegen* begins with a consonant, so there is no *-r-*. The opposite question is *Wofür sind sie?*",
+      "pattern": "Wogegen + sein + Subjekt?",
+      "mistake": {
+        "wrong": "Was sind die Demonstranten gegen?",
+        "why": "German cannot leave the preposition at the end of the question as English does. The preposition joins the question word at the start: *Wogegen …?*"
+      },
+      "examples": [
+        {
+          "de": "Wogegen hilft dieses Medikament?",
+          "en": "What is this medicine for?"
+        },
+        {
+          "de": "Wogegen protestieren die Studierenden?",
+          "en": "What are the students protesting against?"
+        }
+      ],
+      "words": [
+        {
+          "de": "der Demonstrant (-en)",
+          "en": "protester"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Wovor::Frage}} hast du Angst?",
+      "en": "What are you afraid of?",
+      "focus": "Frage nach einer Sache · *Angst haben*",
+      "explanation": "Fear is expressed with *Angst haben vor* + Dativ. The question about the thing you fear is wo + *vor* → **wovor**; *vor* begins with a consonant, so there is no *-r-*.",
+      "pattern": "Wovor + haben + Subjekt + Angst?",
+      "mistake": {
+        "wrong": "Wovon hast du Angst?",
+        "why": "English *afraid of* leads to *von*. The fixed preposition is *vor*, so the question word is *wovor*."
+      },
+      "examples": [
+        {
+          "de": "Wovor fürchten sich die Menschen am meisten?",
+          "en": "What are people most afraid of?"
+        },
+        {
+          "de": "Wovor hat der Arzt dich gewarnt?",
+          "en": "What did the doctor warn you about?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Ich habe Angst {{c1::davor::Verweis + zu-Infinitiv}}, allein zu reisen.",
+      "en": "I'm afraid of travelling alone.",
+      "focus": "Verweis auf einen *zu*-Infinitiv · *Angst haben*",
+      "explanation": "The fear is the infinitive clause *allein zu reisen* (same subject *ich*). *vor* cannot stand before a clause, so the main clause has **davor**, and the *zu*-infinitive follows after the comma.",
+      "pattern": "Angst haben **davor**, … zu + Infinitiv",
+      "mistake": {
+        "wrong": "Ich habe Angst davon, allein zu reisen.",
+        "why": "The *da*-word keeps the preposition of the expression: *Angst haben vor* → *davor*, not *davon*."
+      },
+      "examples": [
+        {
+          "de": "Viele haben Angst davor, ihren Job zu verlieren.",
+          "en": "Many people are afraid of losing their job."
+        },
+        {
+          "de": "Sie hat Angst davor, vor Publikum zu sprechen.",
+          "en": "She's afraid of speaking in front of an audience."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Woran::Frage}} arbeitest du?",
+      "en": "What are you working on?",
+      "focus": "Frage nach einem Projekt · *arbeiten*",
+      "explanation": "*arbeiten an* + Dativ means *to work on* a project or task. The question is wo + *an* with *-r-* before the vowel → **woran**. Without the preposition, *Was arbeitest du?* would be a colloquial question about someone's job.",
+      "pattern": "Wo**r** + an + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Wo arbeitest du an?",
+        "why": "*an* cannot be left at the end like English *on*. It joins *wo* at the start: *Woran arbeitest du?* (*Wo arbeitest du?* alone asks about a place.)"
+      },
+      "examples": [
+        {
+          "de": "Woran arbeitet das Forschungsteam zurzeit?",
+          "en": "What is the research team working on at the moment?"
+        },
+        {
+          "de": "Woran zweifelst du noch?",
+          "en": "What do you still have doubts about?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Ich erinnere mich gut {{c1::daran::Verweis}}.",
+      "en": "I remember it well.",
+      "focus": "Verweis auf eine Sache · *sich erinnern*",
+      "explanation": "*sich erinnern* takes *an* + Akkusativ. The sentence refers back to a known event or thing, so *an es* is replaced by da + r + an → **daran**. English uses a simple object (*remember it*), German needs the pronominal adverb.",
+      "pattern": "sich erinnern … **daran** (Sache, bekannt)",
+      "mistake": {
+        "wrong": "Ich erinnere mich gut an es.",
+        "why": "For things German avoids preposition + *es*. The correct form is the pronominal adverb *daran*."
+      },
+      "examples": [
+        {
+          "de": "Unser erstes Treffen? Ja, ich denke noch oft daran.",
+          "en": "Our first meeting? Yes, I still often think about it."
+        },
+        {
+          "de": "Die neue Software ist kompliziert, aber man gewöhnt sich daran.",
+          "en": "The new software is complicated, but you get used to it."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Mit wem::Frage · Person}} gehst du heute Abend ins Kino?",
+      "en": "Who are you going to the cinema with tonight?",
+      "focus": "Frage nach einer Person · *gehen* + Begleitung",
+      "explanation": "The question is about a **person**, so no pronominal adverb is used (*womit* would ask about a thing). You keep the preposition and add the question word in the case of the preposition: *mit* + Dativ → **mit wem**. The whole phrase stands in the Vorfeld.",
+      "pattern": "Präp. + wem/wen (Person) + Verb + Subjekt?",
+      "mistake": {
+        "wrong": "Womit gehst du heute Abend ins Kino?",
+        "why": "*womit* asks about a thing or a means (*with what?*). For a person you need *mit wem*."
+      },
+      "examples": [
+        {
+          "de": "Mit wem hast du dich gestern gestritten?",
+          "en": "Who did you argue with yesterday?"
+        },
+        {
+          "de": "Für wen ist das Geschenk?",
+          "en": "Who is the present for?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Das ist meine Nachbarin. Ich kann mich immer {{c1::auf sie::Person · Akk.}} verlassen.",
+      "en": "That's my neighbour. I can always rely on her.",
+      "focus": "Verweis auf eine Person · *sich verlassen*",
+      "explanation": "The reference is to a **person** (*meine Nachbarin*), so you do not use *darauf*. You keep the preposition *auf* (+ Akkusativ) and use the personal pronoun: feminine Akkusativ → **auf sie**.",
+      "pattern": "Präp. + Personalpronomen (Person)",
+      "mistake": {
+        "wrong": "Das ist meine Nachbarin. Ich kann mich immer darauf verlassen.",
+        "why": "*darauf* only refers to things or facts. A person after a preposition is a personal pronoun: *auf sie*."
+      },
+      "examples": [
+        {
+          "de": "Kennst du Herrn Lang? Ich habe lange nichts von ihm gehört.",
+          "en": "Do you know Mr Lang? I haven't heard from him for a long time."
+        },
+        {
+          "de": "Mein Opa wird neunzig. Wir sind sehr stolz auf ihn.",
+          "en": "My grandpa is turning ninety. We are very proud of him."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich freue mich {{c1::darauf::Verweis + dass-Satz}}, dass du mich bald besuchst.",
+      "en": "I'm looking forward to you visiting me soon.",
+      "focus": "Verweis auf einen *dass*-Satz · *sich freuen* (Zukunft)",
+      "explanation": "The thing you look forward to is a whole *dass*-clause with a different subject (*du*). *sich freuen auf* keeps its preposition in the main clause as the *da*-word **darauf**, which points forward to the *dass*-clause. The visit is in the future, so it is *auf*, not *über*.",
+      "pattern": "sich freuen **darauf**, dass … Verb",
+      "mistake": {
+        "wrong": "Ich freue mich auf, dass du mich bald besuchst.",
+        "why": "A preposition cannot introduce a *dass*-clause. It must become the *da*-word: *darauf, dass …*."
+      },
+      "examples": [
+        {
+          "de": "Die Kinder freuen sich darauf, dass bald Ferien sind.",
+          "en": "The children are looking forward to the holidays starting soon."
+        },
+        {
+          "de": "Wir verlassen uns darauf, dass die Lieferung pünktlich kommt.",
+          "en": "We are relying on the delivery arriving on time."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die meisten Anwohner sind {{c1::dagegen::Verweis · Meinung}}, dass der Park bebaut wird.",
+      "en": "Most residents are against the park being built on.",
+      "focus": "Meinung · *sein gegen* + *dass*-Satz",
+      "explanation": "*gegen etwas sein* means *to be against something*. The thing they are against is a *dass*-clause, so the main clause has da + *gegen* → **dagegen** (no *-r-*). The opposite is *dafür sein*.",
+      "pattern": "**dagegen/dafür** sein, dass … Verb",
+      "mistake": {
+        "wrong": "Die meisten Anwohner sind gegen, dass der Park bebaut wird.",
+        "why": "*gegen* needs a noun or pronoun after it. Before a clause it becomes the *da*-word *dagegen*."
+      },
+      "examples": [
+        {
+          "de": "Bist du dafür, dass wir das Meeting verschieben?",
+          "en": "Are you in favour of postponing the meeting?"
+        },
+        {
+          "de": "Die Gewerkschaft ist dagegen, dass die Arbeitszeit verlängert wird.",
+          "en": "The union is against working hours being extended."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anwohner (-)",
+          "en": "resident"
+        },
+        {
+          "de": "bebauen",
+          "en": "to build on"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich habe ein neues Handy. {{c1::Damit::Verweis · Mittel}} kann ich viel bessere Fotos machen.",
+      "en": "I have a new phone. With it I can take much better photos.",
+      "focus": "Verweis auf eine Sache · Mittel · im Vorfeld",
+      "explanation": "Here the *da*-word refers back to a thing used as a tool (*mit dem Handy*): da + *mit* → **damit**. It is a pronominal adverb in the Vorfeld, so the finite verb *kann* follows in position 2. Do not confuse it with the conjunction *damit* (*so that*), which sends the verb to the end.",
+      "pattern": "**Damit** (= mit + Sache) + Verb (Position 2) …",
+      "mistake": {
+        "wrong": "Ich habe ein neues Handy. Damit ich kann viel bessere Fotos machen.",
+        "why": "Here *damit* is a pronominal adverb in the Vorfeld, not a conjunction. The finite verb must follow directly in position 2: *Damit kann ich …*."
+      },
+      "examples": [
+        {
+          "de": "Hier ist ein Schraubenzieher. Damit kannst du das Gerät öffnen.",
+          "en": "Here is a screwdriver. You can open the device with it."
+        },
+        {
+          "de": "Die Firma hat eine neue Software gekauft und arbeitet seit Mai damit.",
+          "en": "The company bought new software and has been working with it since May."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Es gibt einen neuen Vorschlag. Was hältst du {{c1::davon::Verweis}}?",
+      "en": "There's a new proposal. What do you think of it?",
+      "focus": "Meinung · *halten* + Verweis",
+      "explanation": "*halten von* + Dativ asks for an opinion (*What do you think of …?*). The thing was just mentioned (*der Vorschlag*), so *von ihm* is replaced by da + *von* → **davon**. *halten* is a strong verb: *du hältst*.",
+      "pattern": "Was hältst du **davon**?",
+      "mistake": {
+        "wrong": "Es gibt einen neuen Vorschlag. Was hältst du darüber?",
+        "why": "English *think about* leads to *über*. In this opinion question *halten* always takes *von*: *davon*."
+      },
+      "examples": [
+        {
+          "de": "Was halten Sie davon, wenn wir morgen anfangen?",
+          "en": "What do you think about us starting tomorrow?"
+        },
+        {
+          "de": "Ich halte nicht viel davon.",
+          "en": "I don't think much of it."
+        }
+      ],
+      "words": [
+        {
+          "de": "halten von (+ Dat.)",
+          "en": "to think of (opinion)"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Du hast mir Blumen geschickt. Ich habe mich sehr {{c1::darüber::Verweis}} gefreut.",
+      "en": "You sent me flowers. I was very pleased about them.",
+      "focus": "Verweis auf eine Sache · *sich freuen* (Vergangenheit) · Perfekt",
+      "explanation": "The flowers have already arrived, so it is *sich freuen über* + Akk. The *da*-word replaces *über sie*: da + r + über → **darüber**. In the Perfekt it stands in the Mittelfeld, before the Partizip II *gefreut*.",
+      "pattern": "hat … **darüber** … Partizip II",
+      "mistake": {
+        "wrong": "Du hast mir Blumen geschickt. Ich habe mich sehr darauf gefreut.",
+        "why": "*sich freuen auf* means looking forward to something in the future. The flowers are already here, so the joy is *über* them: *darüber*."
+      },
+      "examples": [
+        {
+          "de": "Die Bahn war schon wieder zu spät. Alle haben sich darüber geärgert.",
+          "en": "The train was late again. Everyone was annoyed about it."
+        },
+        {
+          "de": "Das Thema ist wichtig, wir haben lange darüber diskutiert.",
+          "en": "The topic is important; we discussed it for a long time."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Weißt du, {{c1::worüber::Frage · indirekt}} sie sich so ärgert?",
+      "en": "Do you know what she is so annoyed about?",
+      "focus": "indirekte Frage · *sich ärgern* · Verbstellung",
+      "explanation": "*sich ärgern über* + Akk → the question word is **worüber**. In an indirect question the *wo*-word introduces a Nebensatz, so the finite verb *ärgert* goes to the end. The reflexive pronoun *sich* comes directly after the subject *sie*.",
+      "pattern": "…, wo(r) + Präp. + Subjekt … Verb (Ende)?",
+      "mistake": {
+        "wrong": "Weißt du, worüber ärgert sie sich so?",
+        "why": "After *worüber* in an indirect question the verb must stand at the end: *worüber sie sich so ärgert*."
+      },
+      "examples": [
+        {
+          "de": "Ich verstehe nicht, worauf du hinauswillst.",
+          "en": "I don't understand what you are getting at."
+        },
+        {
+          "de": "Kannst du mir sagen, wofür man dieses Formular braucht?",
+          "en": "Can you tell me what you need this form for?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Oh nein, der Termin! {{c1::Daran::Verweis}} habe ich gar nicht mehr gedacht.",
+      "en": "Oh no, the appointment! I had completely forgotten about it.",
+      "focus": "Verweis im Vorfeld · *denken* · Perfekt",
+      "explanation": "*denken an* + Akk; the appointment was just named, so *an ihn* (a thing) becomes da + r + an → **daran**. The pronominal adverb is in the Vorfeld for emphasis, so the finite verb *habe* follows in position 2, and the subject *ich* comes after it.",
+      "pattern": "**Dar** + Präp. + Verb (Position 2) + Subjekt … Partizip II",
+      "mistake": {
+        "wrong": "Oh nein, der Termin! Darauf habe ich gar nicht mehr gedacht.",
+        "why": "The *da*-word must contain the verb's own preposition. *denken* takes *an*, so it is *daran*; *darauf* belongs to verbs like *warten auf*."
+      },
+      "examples": [
+        {
+          "de": "Darauf habe ich lange gewartet.",
+          "en": "I've waited a long time for this."
+        },
+        {
+          "de": "Davon hat mir niemand etwas erzählt.",
+          "en": "Nobody told me anything about it."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Der Chef will die Teams neu organisieren. Was sagst du {{c1::dazu::Verweis · Meinung}}?",
+      "en": "The boss wants to reorganise the teams. What do you say to that?",
+      "focus": "Meinung · *sagen* + Verweis",
+      "explanation": "*etwas zu etwas sagen* asks for a reaction or opinion. The reference is to the plan in the first sentence, so *zu* + thing becomes da + *zu* → **dazu** (no *-r-* before a consonant).",
+      "pattern": "Was sagst du **dazu**?",
+      "mistake": {
+        "wrong": "Der Chef will die Teams neu organisieren. Was sagst du zu es?",
+        "why": "Preposition + *es* is not used. A thing or a fact after a preposition is replaced by a *da*-word: *dazu*."
+      },
+      "examples": [
+        {
+          "de": "Die Mieten steigen weiter. Was meinen die Experten dazu?",
+          "en": "Rents keep rising. What do the experts say about it?"
+        },
+        {
+          "de": "Ich habe dazu eine Frage.",
+          "en": "I have a question about that."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "In dem Projekt geht es {{c1::darum::Verweis + zu-Infinitiv}}, den Energieverbrauch zu senken.",
+      "en": "The project is about reducing energy consumption.",
+      "focus": "*es geht um* + *zu*-Infinitiv",
+      "explanation": "The fixed expression *es geht um* + Akk says what something is about. Here the content is the infinitive clause *den Energieverbrauch zu senken*, so *um* becomes da + r + um → **darum**. The subject is the impersonal *es*.",
+      "pattern": "es geht **darum**, … zu + Infinitiv / dass …",
+      "mistake": {
+        "wrong": "In dem Projekt geht es dafür, den Energieverbrauch zu senken.",
+        "why": "*es geht* always takes *um*. The *da*-word must contain this preposition: *darum*."
+      },
+      "examples": [
+        {
+          "de": "Bei der Reform geht es darum, Bürokratie abzubauen.",
+          "en": "The reform is about reducing bureaucracy."
+        },
+        {
+          "de": "Es geht nicht darum, wer recht hat.",
+          "en": "It's not about who is right."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Energieverbrauch",
+          "en": "energy consumption"
+        },
+        {
+          "de": "senken",
+          "en": "to reduce, to lower"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich muss am Samstag die Küche streichen. Kannst du mir {{c1::dabei::Verweis · Tätigkeit}} helfen?",
+      "en": "I have to paint the kitchen on Saturday. Can you help me with it?",
+      "focus": "Verweis auf eine Tätigkeit · *helfen*",
+      "explanation": "*helfen* takes the person in the Dativ (*mir*) and the task with *bei* + Dativ. The task (painting the kitchen) was just named, so *bei* + thing becomes da + *bei* → **dabei**. It stands before the infinitive *helfen* at the end.",
+      "pattern": "jdm. **dabei** helfen (Tätigkeit, bekannt)",
+      "mistake": {
+        "wrong": "Ich muss am Samstag die Küche streichen. Kannst du mir damit helfen?",
+        "why": "*helfen* uses *bei* for a task, so the *da*-word is *dabei*. *damit* would mean *with that tool/thing*."
+      },
+      "examples": [
+        {
+          "de": "Die Steuererklärung ist kompliziert. Mein Bruder hilft mir dabei.",
+          "en": "The tax return is complicated. My brother helps me with it."
+        },
+        {
+          "de": "Wir planen eine Party. Hilfst du uns dabei?",
+          "en": "We're planning a party. Will you help us with it?"
+        }
+      ],
+      "words": [
+        {
+          "de": "streichen",
+          "en": "to paint (a wall, a room)"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of pronominal adverbs.",
+      "prompt": "How are pronominal adverbs formed, and when do you insert an -r-?",
+      "answer": "**wo-** (question) or **da-** (reference) + preposition: *womit, damit, wofür, dafür*. If the preposition starts with a **vowel**, insert **-r-**: *wo**r**auf, da**r**an, wo**r**über, da**r**um*.",
+      "explanation": "The *-r-* only makes the word easier to pronounce. Prepositions with a consonant (*mit, von, für, vor, bei, zu, gegen, nach*) never get it: *wovon, dazu*. Prepositions with a vowel (*an, auf, aus, in, über, um, unter*) always get it.",
+      "examples": [
+        {
+          "de": "Worüber lachst du?",
+          "en": "What are you laughing about?"
+        },
+        {
+          "de": "Wovon sprichst du?",
+          "en": "What are you talking about?"
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the contrast between people and things.",
+      "prompt": "When do you use *darauf / worauf*, and when *auf ihn / auf wen*?",
+      "answer": "For **things, ideas and clauses** use the pronominal adverb (*darauf, worauf*). For **people** (and usually animals) keep preposition + personal pronoun or question word: *auf ihn, auf sie, auf wen, mit wem*.",
+      "explanation": "The *da/wo*-forms replace *es*, *das* and *was* after a preposition, and these words refer to things. A person keeps the normal pronoun in the case of the preposition.",
+      "examples": [
+        {
+          "de": "Wartest du auf den Zug? – Ja, ich warte darauf.",
+          "en": "Are you waiting for the train? – Yes, I'm waiting for it."
+        },
+        {
+          "de": "Wartest du auf Paul? – Ja, ich warte auf ihn.",
+          "en": "Are you waiting for Paul? – Yes, I'm waiting for him."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *da*-words before clauses.",
+      "prompt": "Why do you need *darauf* in *Ich warte darauf, dass du anrufst*?",
+      "answer": "A preposition cannot stand directly before a clause. When the object of a verb with a fixed preposition is a **dass-clause, a w-clause or a zu-infinitive**, the preposition goes into the main clause as a *da*-word that points forward to the clause.",
+      "explanation": "The *da*-word works as a placeholder (Korrelat). With some verbs it may be left out (*Ich erinnere mich, dass …*), but with most verbs, e.g. *warten auf, bestehen in, es geht um*, it is needed.",
+      "examples": [
+        {
+          "de": "Ich warte darauf, dass du anrufst.",
+          "en": "I'm waiting for you to call."
+        },
+        {
+          "de": "Er hat sich daran gewöhnt, früh aufzustehen.",
+          "en": "He has got used to getting up early."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference between the two uses of *damit*.",
+      "prompt": "*Damit kann ich arbeiten.* vs. *Ich spare, damit ich reisen kann.* What is the difference?",
+      "answer": "In the first sentence *damit* is a **pronominal adverb** (= *mit dem/mit dieser Sache*); it is part of the main clause, and the verb stays in position 2. In the second, *damit* is a **conjunction** (*so that*); it starts a Nebensatz and sends the verb to the end.",
+      "explanation": "Check the verb position: verb directly after *damit* → pronominal adverb. Verb at the end of the clause → conjunction of purpose.",
+      "examples": [
+        {
+          "de": "Das ist mein neuer Laptop. Damit kann ich endlich schnell arbeiten.",
+          "en": "This is my new laptop. With it I can finally work fast."
+        },
+        {
+          "de": "Ich spare, damit ich im Sommer reisen kann.",
+          "en": "I'm saving so that I can travel in the summer."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct question word.",
+      "prompt": "___ hast du dich so geärgert?",
+      "options": [
+        "Worüber",
+        "Worum",
+        "Wovon",
+        "Darüber"
+      ],
+      "correct": "Worüber",
+      "answer": "Worüber hast du dich so geärgert?",
+      "explanation": "*sich ärgern* takes *über*, so the question word is *worüber*. *worum* belongs to *es geht um* or *bitten um*, *wovon* to verbs with *von*. *Darüber* is not a question word; it refers back to something already known."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form for a person.",
+      "prompt": "Lukas hat angerufen, und ich habe lange ___ gesprochen.",
+      "options": [
+        "mit ihm",
+        "damit",
+        "womit"
+      ],
+      "correct": "mit ihm",
+      "answer": "Lukas hat angerufen, und ich habe lange mit ihm gesprochen.",
+      "explanation": "Lukas is a person, so you keep the preposition and use the personal pronoun: *mit* + Dativ, masculine → *mit ihm*. *damit* refers to a thing, and *womit* is a question word."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct pronominal adverb.",
+      "prompt": "Die Prüfung ist morgen, aber ich habe keine Angst ___.",
+      "options": [
+        "davor",
+        "davon",
+        "darauf"
+      ],
+      "correct": "davor",
+      "answer": "Die Prüfung ist morgen, aber ich habe keine Angst davor.",
+      "explanation": "*Angst haben vor* + Dativ → *davor*. *davon* copies English *afraid of*, and *darauf* belongs to verbs like *warten auf* or *sich freuen auf*."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Morgen kommt mein Paket. Ich freue mich schon auf es.",
+      "answer": "Morgen kommt mein Paket. Ich freue mich schon darauf.",
+      "explanation": "The parcel is a thing, and German does not use preposition + *es*. *auf es* is replaced by the pronominal adverb *darauf*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Worfür brauchst du so viel Geld?",
+      "answer": "Wofür brauchst du so viel Geld?",
+      "explanation": "The mistake is the *-r-*. It is only inserted before a vowel; *für* begins with a consonant, so the form is *wofür*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Meine Oma? Ich denke jeden Tag daran.",
+      "answer": "Meine Oma? Ich denke jeden Tag an sie.",
+      "explanation": "*daran* can only refer to a thing or a fact. Here you think of a person (*meine Oma*), so it is *an* + Akkusativ personal pronoun, feminine → *an sie*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich weiß nicht, worauf wartet er.",
+      "answer": "Ich weiß nicht, worauf er wartet.",
+      "explanation": "*worauf* introduces an indirect question, which is a Nebensatz. The finite verb *wartet* must go to the end: *worauf er wartet*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace the prepositional phrase with a pronominal adverb.",
+      "prompt": "Wir sprechen oft über die Zukunft.",
+      "answer": "Wir sprechen oft darüber.",
+      "explanation": "*die Zukunft* is a thing, so *über* + noun becomes da + r + über → *darüber*. The pronominal adverb takes the place of the whole phrase."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Ask about the thing after the preposition.",
+      "prompt": "Er interessiert sich für Fußball.",
+      "answer": "Wofür interessiert er sich?",
+      "explanation": "*Fußball* is a thing, so the question uses wo + *für* → *wofür* (no *-r-*). The finite verb follows in position 2, then the subject and the reflexive pronoun *sich*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Ask about the person after the preposition.",
+      "prompt": "Sie wartet auf ihren Freund.",
+      "answer": "Auf wen wartet sie?",
+      "explanation": "The object is a person, so no *worauf*. *warten auf* takes the Akkusativ, and the Akkusativ question word for people is *wen*: *Auf wen …?*"
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "daran / nicht / ich / mehr / erinnere / mich",
+      "answer": "Ich erinnere mich nicht mehr daran.",
+      "explanation": "Subject, finite verb in position 2, reflexive pronoun, then *nicht mehr* and the pronominal adverb at the end of the Mittelfeld. With emphasis you can also start with it: *Daran erinnere ich mich nicht mehr.* *Ich erinnere mich daran nicht mehr.* is also correct."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a question.",
+      "prompt": "ihr / wovon / eigentlich / lebt",
+      "answer": "Wovon lebt ihr eigentlich?",
+      "explanation": "In a w-question the question word comes first and the finite verb second: *Wovon lebt ihr …?* (*leben von* = to live on). The particle *eigentlich* stands in the Mittelfeld after the subject."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the sentences with a pronominal adverb and a *dass*-clause.",
+      "prompt": "Ich freue mich. Du hast die Stelle bekommen.",
+      "answer": "Ich freue mich darüber, dass du die Stelle bekommen hast.",
+      "explanation": "You already have the job, so it is *sich freuen über* → *darüber* in the main clause. The *dass*-clause follows with the finite verb *hast* at the end, after the Partizip II."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join the sentences with a pronominal adverb and a *zu*-infinitive.",
+      "prompt": "Er hat Angst. Er hält vor vielen Leuten eine Rede.",
+      "answer": "Er hat Angst davor, vor vielen Leuten eine Rede zu halten.",
+      "explanation": "Both sentences have the same subject, so a *zu*-infinitive is possible. *Angst haben vor* → *davor* in the main clause; the infinitive clause ends with *zu halten*."
+    }
+  ]
+}

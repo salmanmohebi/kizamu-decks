@@ -1,0 +1,710 @@
+{
+  "topic_id": "b1-16-lassen",
+  "level": "B1",
+  "title_de": "lassen + Infinitiv",
+  "title_en": "lassen + infinitive",
+  "rule": {
+    "summary": "*lassen* is one of the most flexible German verbs. With a bare infinitive (no *zu*) it means **have something done** by someone else (causative: *Ich lasse mein Auto reparieren*) or **let, allow** (*Er lässt die Kinder spielen*); *Lass uns …* makes a suggestion. Without an infinitive it is a full verb meaning **leave** something somewhere or in a state (*Ich lasse den Schlüssel hier*) or **stop doing** (*Lass das!*). In the Perfekt it is *hat … gelassen*, but *hat … machen **lassen*** when another infinitive depends on it (Ersatzinfinitiv).",
+    "table": "| Bedeutung | Struktur | Beispiel |\n|---|---|---|\n| Kausativ (have sth. done) | lassen + Akk. + Infinitiv | Ich **lasse** mein Auto **reparieren**. |\n| Kausativ für sich selbst | sich (Dat.) + Akk. + Inf. + lassen | Ich **lasse** mir die Haare **schneiden**. |\n| Erlaubnis (let) | lassen + Person (Akk.) + Infinitiv | Er **lässt** die Kinder draußen **spielen**. |\n| Vorschlag (let's) | Lass / Lasst / Lassen Sie + uns + Inf. | **Lass uns** ins Kino **gehen**! |\n| Vollverb: leave, stop | lassen + Akk. (+ Ort / Adjektiv) | Ich **lasse** den Schlüssel hier. **Lass** das! |\n| Perfekt mit Infinitiv | haben + … + Inf. + **lassen** | Ich habe das Auto reparieren **lassen**. |\n| Perfekt ohne Infinitiv | haben + … + **gelassen** | Ich habe den Schlüssel zu Hause **gelassen**. |\n| Formen | Präsens · Präteritum · Imperativ | ich lasse, du **lässt**, er **lässt**, wir lassen, ihr **lasst** · **ließ** · **lass! lasst! lassen Sie!** |",
+    "steps": [
+      "Is there a second verb? Yes → *lassen* + bare infinitive (never *zu*) at the end of the clause. No → *lassen* is a full verb (leave, stop).",
+      "Decide the meaning: someone else does it for the subject → causative (*have done*); the subject allows it → *let*. The person who acts is an Akkusativ object (*Er lässt **mich** ausreden*); a worker or expert can be added with *von* + Dativ.",
+      "Conjugate: umlaut only in *du lässt* and *er/sie/es lässt*; *ihr lasst*. Präteritum *ließ*. Imperative *lass!* (du), *lasst!* (ihr), *lassen Sie!* (Sie).",
+      "Reflexive pronoun: Dativ (*mir, dir, sich, uns, euch*) when there is another Akkusativ object (*mir die Haare schneiden*); Akkusativ (*mich, dich, sich*) when the subject itself is the one treated (*mich untersuchen*).",
+      "Perfekt: with a second infinitive → *hat … Infinitiv + lassen*; alone → *hat … gelassen*. In a Nebensatz the finite form goes last: *…, dass er das Auto reparieren lässt*."
+    ],
+    "pitfalls": [
+      "*zu* after *lassen*: ✗ *Ich lasse mein Auto zu reparieren.* → ✓ *Ich lasse mein Auto reparieren.*",
+      "Wrong Perfekt form: ✗ *Ich habe das Auto repariert lassen.* → ✓ *… reparieren lassen.* (*reparieren gelassen* is heard in speech, but the standard form is *lassen*.) But alone: ✗ *Ich habe den Schlüssel zu Hause lassen.* → ✓ *… gelassen.*",
+      "Umlaut in the wrong person: ✗ *er lasst*, *ihr lässt* → ✓ *er lässt*, *ihr lasst*.",
+      "Akkusativ instead of Dativ reflexive: ✗ *Ich lasse mich die Haare schneiden.* → ✓ *Ich lasse mir die Haare schneiden.*",
+      "*verlassen* for objects: ✗ *Ich habe meine Brille im Auto verlassen.* → ✓ *… gelassen.* (*verlassen* = to leave a place or a person.)"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::lasse::lassen}} mein Auto reparieren.",
+      "en": "I'm having my car repaired.",
+      "focus": "Kausativ · jemand anderes macht die Arbeit",
+      "explanation": "The verb is causative here: I don't repair the car myself, a mechanic does it for me. The finite form (ich **lasse**) is in position 2, and the action stands as a bare infinitive at the end: *reparieren*, without *zu*. The person who does the work is not mentioned.",
+      "pattern": "lassen + Akk. + Infinitiv (Ende)",
+      "mistake": {"wrong": "Ich lasse mein Auto zu reparieren.", "why": "*lassen* works like a modal verb: the second verb is a bare infinitive, never with *zu*."},
+      "examples": [
+        {"de": "Wir lassen die Heizung reparieren.", "en": "We're having the heating repaired."},
+        {"de": "Ich lasse die Dokumente übersetzen.", "en": "I'm having the documents translated."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} uns ins Kino gehen!",
+      "en": "Let's go to the cinema!",
+      "focus": "Vorschlag · *uns* · eine Person angesprochen",
+      "explanation": "*Lass uns* + infinitive is a suggestion (*Let's …*). **Lass** is the du-imperative, because the speaker talks to one friend; *uns* is the Akkusativ and includes the speaker. The infinitive *gehen* goes to the end without *zu*.",
+      "pattern": "Lass + uns + … + Infinitiv!",
+      "mistake": {"wrong": "Lass wir ins Kino gehen!", "why": "The pronoun is the Akkusativ object of *lassen*, so it must be *uns*, not *wir*. (With *wir* you say *Gehen wir ins Kino!*)"},
+      "examples": [
+        {"de": "Lass uns morgen früher anfangen!", "en": "Let's start earlier tomorrow!"},
+        {"de": "Lass uns heute Abend Pizza bestellen!", "en": "Let's order pizza tonight!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::lässt::lassen}} die Kinder draußen spielen.",
+      "en": "He's letting the children play outside.",
+      "focus": "Erlaubnis · 3. Person Singular",
+      "explanation": "Here the verb means *to let, to allow*: he permits the children to play outside. The 3rd person singular has an umlaut: er **lässt** (like *du lässt*). The people who act (*die Kinder*) are the Akkusativ object, and *spielen* stands at the end as a bare infinitive.",
+      "pattern": "Subj. + lässt + Person (Akk.) + Infinitiv",
+      "mistake": {"wrong": "Er lasst die Kinder draußen spielen.", "why": "*lassen* changes *a → ä* in the du- and er/sie/es-forms: *du lässt, er lässt*. *lasst* is the ihr-form."},
+      "examples": [
+        {"de": "Sie lässt ihren Sohn allein mit dem Bus fahren.", "en": "She lets her son take the bus on his own."},
+        {"de": "Der Trainer lässt die Spieler heute früher gehen.", "en": "The coach is letting the players go earlier today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Sie {{c1::lässt::lassen}} ihre Haare schneiden.",
+      "en": "She's getting her hair cut.",
+      "focus": "Kausativ · Dienstleistung",
+      "explanation": "Causative: a hairdresser cuts her hair. **lässt** (with umlaut) is in position 2, and *schneiden* is the bare infinitive at the end. More usual in everyday German is the version with a Dativ reflexive pronoun and the definite article: *Sie lässt sich die Haare schneiden.*",
+      "pattern": "lässt + Akk. + Infinitiv",
+      "mistake": {"wrong": "Sie lässt ihre Haare geschnitten.", "why": "English *get her hair cut* uses a participle. German uses *lassen* + infinitive: *schneiden lassen*."},
+      "examples": [
+        {"de": "Sie lässt ihre Schuhe beim Schuster reparieren.", "en": "She's having her shoes repaired at the cobbler's."},
+        {"de": "Er lässt seine Brille neu einstellen.", "en": "He's having his glasses readjusted."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Lasst::lassen · ihr-Imperativ}} mich bitte in Ruhe!",
+      "en": "Please leave me alone!",
+      "focus": "Imperativ · mehrere vertraute Personen",
+      "explanation": "The speaker talks to several people they know (*ihr*), so the imperative is the ihr-form **Lasst** (= *ihr lasst* without *ihr*). *jemanden in Ruhe lassen* means *to leave someone alone, not to disturb them*; *mich* is the Akkusativ object.",
+      "pattern": "Lasst + Akk. + in Ruhe!",
+      "mistake": {"wrong": "Lässt mich bitte in Ruhe!", "why": "*lässt* is the du/er-form of the Präsens, not an imperative. The imperatives are *Lass!* (du), *Lasst!* (ihr), *Lassen Sie!* (Sie)."},
+      "examples": [
+        {"de": "Lasst den Hund bitte schlafen!", "en": "Please let the dog sleep!"},
+        {"de": "Lasst eure Taschen einfach hier!", "en": "Just leave your bags here!"}
+      ],
+      "words": [{"de": "in Ruhe lassen", "en": "to leave alone, not to disturb"}],
+      "production_cue": "(informal ihr, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich habe meinen Schlüssel zu Hause {{c1::gelassen::lassen · Perfekt}}.",
+      "en": "I left my key at home.",
+      "focus": "Vollverb (= leave) · Perfekt ohne zweites Verb",
+      "explanation": "Here the verb is a full verb meaning *to leave something somewhere*. There is no second infinitive, so the Perfekt uses the normal participle **gelassen** with *haben*.",
+      "pattern": "haben + Akk. + Ort + **gelassen**",
+      "mistake": {"wrong": "Ich habe meinen Schlüssel zu Hause lassen.", "why": "The infinitive form *lassen* in the Perfekt is only used when another infinitive stands next to it (*reparieren lassen*). Alone, the participle is *gelassen*."},
+      "examples": [
+        {"de": "Sie hat ihre Jacke im Restaurant gelassen.", "en": "She left her jacket in the restaurant."},
+        {"de": "Wir haben das Auto am Bahnhof gelassen.", "en": "We left the car at the station."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wir {{c1::lassen::lassen (wir)}} das Essen kommen.",
+      "en": "We're having the food delivered.",
+      "focus": "Kausativ · *kommen* als Infinitiv",
+      "explanation": "*etwas kommen lassen* means to have something brought or delivered. The wir-form **lassen** is in position 2, and *kommen* goes to the end as a bare infinitive. Today people also often say *Wir lassen uns das Essen liefern.*",
+      "pattern": "lassen + Akk. + kommen",
+      "mistake": {"wrong": "Wir lassen das Essen zu kommen.", "why": "No *zu* after *lassen*: the infinitive *kommen* stands alone at the end."},
+      "examples": [
+        {"de": "Wir lassen einen Techniker kommen.", "en": "We're getting a technician to come."},
+        {"de": "Ich lasse dir ein Taxi kommen.", "en": "I'll call a taxi for you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Bitte {{c1::lass::lassen · du-Imperativ}} mich vorbei!",
+      "en": "Please let me through!",
+      "focus": "Bitte · trennbares Verb im Imperativ",
+      "explanation": "*jemanden vorbeilassen* (to let someone pass) is separable. In the imperative **lass** comes first (here after *Bitte*), the object *mich* follows, and the prefix *vorbei* goes to the end. The du-imperative has no *-st* and no *du*.",
+      "pattern": "(Bitte) lass + Akk. + Präfix!",
+      "mistake": {"wrong": "Bitte lass vorbei mich!", "why": "The separable prefix closes the sentence. The pronoun object comes before it: *lass mich vorbei*."},
+      "examples": [
+        {"de": "Lass mich bitte durch!", "en": "Let me through, please!"},
+        {"de": "Lass sie bitte rein, sie gehört zu uns.", "en": "Please let her in – she's with us."}
+      ],
+      "words": [{"de": "vorbeilassen", "en": "to let pass, to let through"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Er hat mich nicht ausreden {{c1::lassen::lassen · Perfekt}}.",
+      "en": "He didn't let me finish speaking.",
+      "focus": "Perfekt · Ersatzinfinitiv",
+      "explanation": "*jemanden ausreden lassen* = to let someone finish speaking. In the Perfekt, when another infinitive depends on it, the verb does not take the participle *gelassen* but its infinitive form (Ersatzinfinitiv): *hat … ausreden* **lassen**. The two infinitives stand at the end, *lassen* last. (*ausreden gelassen* is common in speech, but the standard form is *lassen*.)",
+      "pattern": "haben + … + Infinitiv + **lassen**",
+      "mistake": {"wrong": "Er hat mich nicht lassen ausreden.", "why": "In a main clause the two infinitives close the sentence in a fixed order: first the dependent verb, then *lassen*: *ausreden lassen*."},
+      "examples": [
+        {"de": "Sie hat ihre Kinder lange schlafen lassen.", "en": "She let her children sleep for a long time."},
+        {"de": "Wir haben das Dach reparieren lassen.", "en": "We had the roof repaired."}
+      ],
+      "words": [{"de": "ausreden", "en": "to finish speaking"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} uns einen Kaffee trinken!",
+      "en": "Let's have a coffee!",
+      "focus": "Vorschlag · Objekt vor dem Infinitiv",
+      "explanation": "Another suggestion with *Lass uns* + infinitive. The Akkusativ object *einen Kaffee* belongs to *trinken* and stands before it; the infinitive closes the sentence. A suggestion with the same meaning: *Trinken wir einen Kaffee!*",
+      "pattern": "Lass uns + Objekt + Infinitiv!",
+      "mistake": {"wrong": "Lass uns trinken einen Kaffee!", "why": "The infinitive goes to the end of the sentence, after its object: *einen Kaffee trinken*."},
+      "examples": [
+        {"de": "Lass uns eine kurze Pause machen!", "en": "Let's take a short break!"},
+        {"de": "Lass uns den Film zusammen anschauen!", "en": "Let's watch the film together!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich {{c1::lasse::lassen}} dich nicht allein.",
+      "en": "I won't leave you on your own.",
+      "focus": "Vollverb · jemanden in einem Zustand",
+      "explanation": "Here the verb is a full verb without a second infinitive: *jemanden allein lassen* = to leave someone on their own. **lasse** is in position 2, *dich* is the Akkusativ object, and *nicht* stands before the predicative word *allein*.",
+      "pattern": "lassen + Akk. + Adjektiv/Adverb",
+      "mistake": {"wrong": "Ich lasse dir nicht allein.", "why": "*lassen* takes an Akkusativ object: *dich*, not the Dativ *dir*."},
+      "examples": [
+        {"de": "Sie lässt ihren Hund nie allein.", "en": "She never leaves her dog alone."},
+        {"de": "Ich lasse die Heizung heute aus.", "en": "I'm leaving the heating off today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie {{c1::lässt::lassen}} ihren Hund draußen warten.",
+      "en": "She has her dog wait outside.",
+      "focus": "handelnde Person im Akkusativ",
+      "explanation": "*lassen* + Akkusativ + infinitive: she has her dog wait outside. The one who acts (*ihren Hund*) is the Akkusativ object, **lässt** is in position 2, and *warten* goes to the end without *zu*.",
+      "pattern": "lassen + Akk. (wer handelt) + Infinitiv",
+      "mistake": {"wrong": "Sie lässt ihrem Hund draußen warten.", "why": "The one who does the action after *lassen* is in the Akkusativ: *ihren Hund*, not the Dativ *ihrem Hund*."},
+      "examples": [
+        {"de": "Der Arzt lässt die Patienten oft lange warten.", "en": "The doctor often keeps the patients waiting for a long time."},
+        {"de": "Er lässt seine Gäste nie lange warten.", "en": "He never keeps his guests waiting long."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir {{c1::lassen::lassen (wir)}} das Haus putzen.",
+      "en": "We're having the house cleaned.",
+      "focus": "Kausativ · Dienstleistung (wir)",
+      "explanation": "Causative: a cleaning service cleans the house for us. The wir-form **lassen** is in position 2, *putzen* is the bare infinitive at the end. The person or firm that does the work can be added with *von*: *Wir lassen das Haus von einer Firma putzen.*",
+      "pattern": "lassen + Akk. + Infinitiv (+ von + Dat.)",
+      "mistake": {"wrong": "Wir machen das Haus putzen.", "why": "German does not use *machen* + infinitive for *have something done*. The causative verb is *lassen*."},
+      "examples": [
+        {"de": "Die Firma lässt die Büros jeden Abend reinigen.", "en": "The company has the offices cleaned every evening."},
+        {"de": "Wir lassen den Garten von einem Gärtner pflegen.", "en": "We have a gardener look after the garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} mich das machen.",
+      "en": "Let me do that.",
+      "focus": "Angebot · *mich* als handelnde Person",
+      "explanation": "*Lass mich* + infinitive offers help or asks for permission: *let me do it*. *mich* (Akkusativ) is the person who will act; *das* is the object of *machen*, and *machen* goes to the end.",
+      "pattern": "Lass + mich + Objekt + Infinitiv",
+      "mistake": {"wrong": "Lass mir das machen.", "why": "The person who acts after *lassen* is Akkusativ: *mich*. A Dativ like *mir* only appears next to a separate Akkusativ object, as in *Lass dir Zeit*."},
+      "examples": [
+        {"de": "Lass mich dir helfen!", "en": "Let me help you!"},
+        {"de": "Lass mich kurz nachdenken.", "en": "Let me think for a moment."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich habe meine Brille im Auto {{c1::gelassen::lassen · Perfekt}}.",
+      "en": "I left my glasses in the car.",
+      "focus": "Gegenstand zurücklassen · Perfekt",
+      "explanation": "Full verb meaning *to leave something behind*. No infinitive stands next to it, so the Perfekt is *haben* + **gelassen**. Compare: *Ich habe meine Brille reparieren lassen* (with an infinitive → *lassen*).",
+      "pattern": "haben + Akk. + Ort + **gelassen**",
+      "mistake": {"wrong": "Ich habe meine Brille im Auto verlassen.", "why": "*verlassen* means to leave a place or a person (*Ich verlasse das Haus*). For leaving an object somewhere German uses *lassen*."},
+      "examples": [
+        {"de": "Hast du dein Handy im Büro gelassen?", "en": "Did you leave your phone at the office?"},
+        {"de": "Er hat seinen Regenschirm im Zug gelassen.", "en": "He left his umbrella on the train."}
+      ],
+      "words": [{"de": "die Brille (-n)", "en": "glasses"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er hat sich die Haare schneiden {{c1::lassen::lassen · Perfekt}}.",
+      "en": "He had his hair cut.",
+      "focus": "Perfekt · Dativ-Reflexiv · zwei Infinitive",
+      "explanation": "Perfekt of the causative with a reflexive pronoun: *sich* is Dativ (for himself), because *die Haare* is the Akkusativ object. Two infinitives close the sentence: *schneiden* **lassen** (Ersatzinfinitiv, not *gelassen*).",
+      "pattern": "hat + sich (Dat.) + Akk. + Inf. + **lassen**",
+      "mistake": {"wrong": "Er hat sich die Haare lassen schneiden.", "why": "In a main clause the dependent infinitive comes first and *lassen* last: *schneiden lassen*."},
+      "examples": [
+        {"de": "Sie hat sich ein Kleid nähen lassen.", "en": "She had a dress made for herself."},
+        {"de": "Wir haben uns die Möbel liefern lassen.", "en": "We had the furniture delivered."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} dir Zeit!",
+      "en": "Take your time!",
+      "focus": "feste Wendung · Dativ-Reflexiv",
+      "explanation": "Fixed expression *sich Zeit lassen* = to take one's time. *Zeit* is the Akkusativ object, so the reflexive pronoun is Dativ: *dir* (du). Imperative: **Lass** + *dir* + *Zeit*.",
+      "pattern": "Lass + Dat.-Reflexiv + Zeit!",
+      "mistake": {"wrong": "Lass dich Zeit!", "why": "*Zeit* already fills the Akkusativ slot, so the reflexive pronoun must be Dativ: *dir*."},
+      "examples": [
+        {"de": "Lassen Sie sich ruhig Zeit!", "en": "Do take your time!"},
+        {"de": "Lasst euch Zeit mit der Antwort!", "en": "Take your time with the answer!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie {{c1::lässt::lassen}} ihre Tochter um zehn ins Bett gehen.",
+      "en": "She lets her daughter go to bed at ten.",
+      "focus": "Erlaubnis oder Anweisung · Mittelfeld",
+      "explanation": "*lassen* + person + infinitive can mean *let* (permission) or *have/make* (instruction); the context decides. **lässt** is in position 2, the time and place phrases stand in the Mittelfeld, and *gehen* closes the sentence.",
+      "pattern": "lässt + Person (Akk.) + Zeit + Ort + Infinitiv",
+      "mistake": {"wrong": "Sie lässt ihre Tochter um zehn ins Bett zu gehen.", "why": "*lassen* never takes *zu*. The infinitive *gehen* stands alone at the end."},
+      "examples": [
+        {"de": "Er lässt seinen Sohn am Wochenende länger aufbleiben.", "en": "He lets his son stay up later at the weekend."},
+        {"de": "Die Eltern lassen die Kinder heute im Garten zelten.", "en": "The parents are letting the children camp in the garden today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir {{c1::lassen::lassen (wir)}} euch nicht im Stich.",
+      "en": "We won't let you down.",
+      "focus": "feste Wendung · Vollverb",
+      "explanation": "Fixed expression *jemanden im Stich lassen* = to abandon someone, to let them down. The verb is a full verb here, *euch* is the Akkusativ object (ihr), and *nicht* stands before *im Stich*. Perfekt: *Er hat uns im Stich gelassen* (no second infinitive → *gelassen*).",
+      "pattern": "jemanden (Akk.) im Stich lassen",
+      "mistake": {"wrong": "Wir lassen ihr nicht im Stich.", "why": "*lassen* needs an Akkusativ object. *ihr* is the Nominativ; the Akkusativ of *ihr* is *euch*."},
+      "examples": [
+        {"de": "Ich lasse meine Freunde nie im Stich.", "en": "I never let my friends down."},
+        {"de": "Er hat seine Familie im Stich gelassen.", "en": "He abandoned his family."}
+      ],
+      "words": [{"de": "im Stich lassen", "en": "to let down, to abandon"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} das!",
+      "en": "Stop that!",
+      "focus": "Vollverb = aufhören · kurze Aufforderung",
+      "explanation": "*Lass das!* = Stop it! / Don't do that! Here the verb is a full verb meaning *to stop doing, to refrain from*. The du-imperative **Lass** + Akkusativ *das* is a short, direct order; the formal version is *Lassen Sie das!*",
+      "pattern": "Lass + das!",
+      "mistake": {"wrong": "Lässt das!", "why": "*lässt* is a Präsens form (*du lässt, er lässt*), not an imperative. The du-imperative drops the ending and the umlaut: *Lass!*"},
+      "examples": [
+        {"de": "Lass das, das ist gefährlich!", "en": "Stop that, it's dangerous!"},
+        {"de": "Lassen Sie das bitte, hier ist Rauchen verboten!", "en": "Please stop that, smoking is not allowed here!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Wir haben die Wohnung vor dem Einzug renovieren {{c1::lassen::lassen · Perfekt}}.",
+      "en": "We had the flat renovated before we moved in.",
+      "focus": "Kausativ im Perfekt",
+      "explanation": "Causative in the Perfekt: a company renovated the flat for us. Because the infinitive *renovieren* depends on it, the Perfekt uses the Ersatzinfinitiv: *haben … renovieren* **lassen**. *renovieren gelassen* is heard in speech, but it is not the standard form.",
+      "pattern": "haben + Akk. + Infinitiv + **lassen**",
+      "mistake": {"wrong": "Wir haben die Wohnung vor dem Einzug renoviert lassen.", "why": "English *had the flat renovated* uses a participle, but German keeps the main verb in the infinitive: *renovieren lassen*. The Perfekt of *lassen* itself is the Ersatzinfinitiv *lassen*."},
+      "examples": [
+        {"de": "Ich habe meinen Laptop reparieren lassen.", "en": "I had my laptop repaired."},
+        {"de": "Sie haben die Hochzeitstorte in einer Konditorei backen lassen.", "en": "They had the wedding cake made at a patisserie."}
+      ],
+      "words": [{"de": "der Einzug", "en": "moving in"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich lasse {{c1::mir::ich → Dat.}} morgen die Haare schneiden.",
+      "en": "I'm having my hair cut tomorrow.",
+      "focus": "Kausativ für sich selbst · Reflexivpronomen",
+      "explanation": "*sich etwas machen lassen* = to have something done for oneself. There is already an Akkusativ object (*die Haare*), so the reflexive pronoun is Dativ: ich → **mir**. With body parts German uses the definite article (*die Haare*), not *meine*.",
+      "pattern": "lassen + Dat.-Reflexiv + Akk. + Infinitiv",
+      "mistake": {"wrong": "Ich lasse mich morgen die Haare schneiden.", "why": "The Akkusativ slot is taken by *die Haare*. The reflexive pronoun must be Dativ: *mir*."},
+      "examples": [
+        {"de": "Er lässt sich einen Anzug nähen.", "en": "He's having a suit made."},
+        {"de": "Wir lassen uns die Pizza nach Hause liefern.", "en": "We're having the pizza delivered to our home."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich lasse {{c1::mich::ich → Akk.}} jedes Jahr vom Hausarzt untersuchen.",
+      "en": "I have a check-up with my GP every year.",
+      "focus": "Kausativ · die Person selbst wird behandelt",
+      "explanation": "There is no other Akkusativ object: I myself am the one who is examined. So the reflexive pronoun is Akkusativ: ich → **mich**. The person who does the action can be added with *von* + Dativ: *vom Hausarzt*.",
+      "pattern": "lassen + Akk.-Reflexiv + (von + Dat.) + Infinitiv",
+      "mistake": {"wrong": "Ich lasse mir jedes Jahr vom Hausarzt untersuchen.", "why": "*mir* is only correct with another Akkusativ object (*mir die Zähne untersuchen*). Here I am the one examined → Akkusativ *mich*."},
+      "examples": [
+        {"de": "Sie lässt sich von einer Expertin beraten.", "en": "She's getting advice from an expert."},
+        {"de": "Lass dich von ihm nicht ärgern!", "en": "Don't let him annoy you!"}
+      ],
+      "words": [{"de": "der Hausarzt (¨-e)", "en": "family doctor, GP"}, {"de": "untersuchen", "en": "to examine"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich glaube, dass sie sich die Haare färben {{c1::lässt::lassen}}.",
+      "en": "I think she has her hair dyed.",
+      "focus": "Nebensatz · Reihenfolge der Verben",
+      "explanation": "In a *dass* clause the finite verb goes to the end. The dependent infinitive comes first and the finite form of the causative verb last: *färben* **lässt**. *sich* is Dativ, because *die Haare* is the Akkusativ object.",
+      "pattern": "…, dass + Subj. … Infinitiv + **lässt**",
+      "mistake": {"wrong": "Ich glaube, dass sie lässt sich die Haare färben.", "why": "In a Nebensatz the finite verb is the last word: *dass sie sich die Haare färben lässt*."},
+      "examples": [
+        {"de": "Ich hoffe, dass du dich bald impfen lässt.", "en": "I hope you get vaccinated soon."},
+        {"de": "Sie sagt, dass sie die Küche neu streichen lässt.", "en": "She says she's having the kitchen repainted."}
+      ],
+      "words": [{"de": "färben", "en": "to dye, to colour"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Der Lehrer {{c1::ließ::lassen · Präteritum}} die Schüler früher nach Hause gehen.",
+      "en": "The teacher let the pupils go home early.",
+      "focus": "Erlaubnis · Präteritum",
+      "explanation": "*lassen* is a strong verb: Präteritum **ließ** (with *ß* after the long vowel *ie*), Partizip II *gelassen*. Here it means *let*: the pupils were allowed to go home early. *gehen* stays a bare infinitive at the end.",
+      "pattern": "Subj. + **ließ** + Person (Akk.) + Infinitiv",
+      "mistake": {"wrong": "Der Lehrer lasste die Schüler früher nach Hause gehen.", "why": "*lassen* is strong and has no *-te* Präteritum. The forms are *ich ließ, du ließest, er ließ, wir ließen*."},
+      "examples": [
+        {"de": "Die Polizei ließ niemanden durch.", "en": "The police didn't let anyone through."},
+        {"de": "Der König ließ ein neues Schloss bauen.", "en": "The king had a new palace built."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Lassen Sie::lassen · Sie-Form}} uns das Thema morgen in Ruhe besprechen.",
+      "en": "Let's discuss the topic properly tomorrow.",
+      "focus": "Vorschlag · formelle Anrede",
+      "explanation": "This is the formal version of *Lass uns …*: with people you address as *Sie* the imperative is **Lassen Sie** + *uns* + infinitive. The pronoun *Sie* is required in the formal imperative. The infinitive *besprechen* goes to the end.",
+      "pattern": "Lassen Sie + uns + … + Infinitiv",
+      "mistake": {"wrong": "Lassen uns das Thema morgen in Ruhe besprechen.", "why": "The formal imperative always contains *Sie*: *Lassen Sie uns …*."},
+      "examples": [
+        {"de": "Lassen Sie uns kurz zusammenfassen.", "en": "Let's briefly summarise."},
+        {"de": "Lassen Sie uns mit dem ersten Punkt beginnen.", "en": "Let's start with the first point."}
+      ],
+      "words": [{"de": "besprechen", "en": "to discuss"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Chefin {{c1::lässt::lassen}} den Praktikanten die Präsentation vorbereiten.",
+      "en": "The boss is having the intern prepare the presentation.",
+      "focus": "zwei Akkusative: wer handelt und was",
+      "explanation": "In *jemanden etwas machen lassen* the person who acts (*den Praktikanten*) and the object of the action (*die Präsentation*) are both Akkusativ. *Praktikant* is an n-Deklination noun → *den Praktikanten*. **lässt** is in position 2, *vorbereiten* at the end.",
+      "pattern": "lassen + Person (Akk.) + Sache (Akk.) + Infinitiv",
+      "mistake": {"wrong": "Die Chefin lässt den Praktikanten die Präsentation vorzubereiten.", "why": "The separable verb takes no *zu* after *lassen*: *vorbereiten*, not *vorzubereiten*."},
+      "examples": [
+        {"de": "Der Trainer lässt die Spieler zehn Runden laufen.", "en": "The coach makes the players run ten laps."},
+        {"de": "Ich lasse meinen Sohn den Rasen mähen.", "en": "I'm getting my son to mow the lawn."}
+      ],
+      "words": [{"de": "der Praktikant (-en)", "en": "intern"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Hast du dich schon gegen Grippe impfen {{c1::lassen::lassen · Perfekt}}?",
+      "en": "Have you had your flu jab yet?",
+      "focus": "Perfekt · Ja/Nein-Frage · Reflexivpronomen",
+      "explanation": "*sich impfen lassen* = to get vaccinated. In the yes/no question the auxiliary *hast* comes first, and the two infinitives close the sentence with **lassen** last (Ersatzinfinitiv). *dich* is Akkusativ, because there is no other object.",
+      "pattern": "Hast + Subj. + Akk.-Reflexiv … + Infinitiv + **lassen**?",
+      "mistake": {"wrong": "Hast du dir schon gegen Grippe impfen lassen?", "why": "You yourself are vaccinated and there is no other Akkusativ object, so the reflexive pronoun is Akkusativ: *dich*."},
+      "examples": [
+        {"de": "Habt ihr euch schon beraten lassen?", "en": "Have you already got advice?"},
+        {"de": "Hat sie sich schon untersuchen lassen?", "en": "Has she had a check-up yet?"}
+      ],
+      "words": [{"de": "sich impfen lassen", "en": "to get vaccinated"}],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Lass::lassen · du-Imperativ}} bitte das Fenster offen, es ist so warm hier.",
+      "en": "Please leave the window open – it's so warm in here.",
+      "focus": "Vollverb + Adjektiv · Zustand",
+      "explanation": "*etwas offen / an / zu lassen* = to leave something in a state. Here the verb is a full verb with an adjective (*offen*), not with an infinitive. **Lass** is the du-imperative; *bitte* can stand directly after it, and the adjective goes to the end of the clause.",
+      "pattern": "Lass + Akk. + Adjektiv (Ende)",
+      "mistake": {"wrong": "Lass bitte offen das Fenster, es ist so warm hier.", "why": "The adjective that describes the state closes the clause, like a separable prefix: *das Fenster offen*."},
+      "examples": [
+        {"de": "Lass das Licht im Flur bitte an.", "en": "Please leave the light on in the hall."},
+        {"de": "Lassen Sie die Tür bitte geschlossen.", "en": "Please keep the door closed."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Kannst du mich bitte kurz in Ruhe {{c1::arbeiten lassen::arbeiten + lassen}}?",
+      "en": "Can you let me work in peace for a moment, please?",
+      "focus": "nach Modalverb · zwei Infinitive",
+      "explanation": "With a modal verb (*kannst*) the causative verb becomes an infinitive too. Two infinitives close the sentence: first the dependent verb, then the one it depends on: **arbeiten lassen**.",
+      "pattern": "Modalverb + … + Infinitiv + lassen",
+      "mistake": {"wrong": "Kannst du mich bitte kurz in Ruhe lassen arbeiten?", "why": "The dependent infinitive comes first, *lassen* last: *arbeiten lassen*."},
+      "examples": [
+        {"de": "Du musst ihn das selbst entscheiden lassen.", "en": "You have to let him decide that himself."},
+        {"de": "Wir sollten das Auto mal überprüfen lassen.", "en": "We should have the car checked."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Lasst::lassen · ihr-Imperativ}} uns endlich anfangen!",
+      "en": "Let's finally get started!",
+      "focus": "Vorschlag an mehrere Freunde",
+      "explanation": "When the speaker addresses several friends (*ihr*) and includes themself, the suggestion is **Lasst** *uns* + infinitive. The imperative form follows the people addressed: *du → lass, ihr → lasst, Sie → lassen Sie*.",
+      "pattern": "Lasst + uns + … + Infinitiv!",
+      "mistake": {"wrong": "Lassen uns endlich anfangen!", "why": "Without *Sie*, *lassen* is not an imperative. To a group of friends: *Lasst uns*; formally: *Lassen Sie uns*."},
+      "examples": [
+        {"de": "Lasst uns noch ein Foto machen!", "en": "Let's take one more photo!"},
+        {"de": "Lasst uns über etwas anderes reden!", "en": "Let's talk about something else!"}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich weiß nicht mehr, wo ich meinen Schirm {{c1::gelassen habe::lassen · Perfekt}}.",
+      "en": "I can't remember where I left my umbrella.",
+      "focus": "Vollverb · Perfekt im Nebensatz",
+      "explanation": "Full verb meaning *to leave something somewhere*, so the Perfekt uses **gelassen**. In the Nebensatz with *wo* the finite auxiliary *habe* goes to the very end, after the participle: *gelassen habe*.",
+      "pattern": "…, wo + Subj. + Akk. + gelassen + habe",
+      "mistake": {"wrong": "Ich weiß nicht mehr, wo ich habe meinen Schirm gelassen.", "why": "In a Nebensatz the finite verb is last: *wo ich meinen Schirm gelassen habe*."},
+      "examples": [
+        {"de": "Weißt du, wo ich meine Schlüssel gelassen habe?", "en": "Do you know where I left my keys?"},
+        {"de": "Sie fragt, wo sie ihren Ausweis gelassen hat.", "en": "She's asking where she left her ID card."}
+      ],
+      "words": [{"de": "der Schirm (-e)", "en": "umbrella"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the Perfekt of lassen.",
+      "prompt": "When is the Perfekt of lassen formed with gelassen and when with lassen?",
+      "answer": "**gelassen** when *lassen* stands alone (leave, stop): *Ich habe den Schlüssel zu Hause gelassen.* **lassen** (Ersatzinfinitiv) when another infinitive depends on it: *Ich habe das Auto reparieren lassen.*",
+      "explanation": "*lassen* behaves like a modal verb here: *Ich habe es machen müssen / machen lassen.* The auxiliary is always *haben*. The two infinitives stand at the end, the dependent one first.",
+      "examples": [
+        {"de": "Er hat seine Tasche im Kino gelassen.", "en": "He left his bag at the cinema."},
+        {"de": "Er hat seine Tasche reparieren lassen.", "en": "He had his bag repaired."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two main meanings.",
+      "prompt": "How do you know if lassen + infinitive means have something done or let someone do something?",
+      "answer": "**Causative** (have done): the subject wants the action and someone else does it for them, often a service (*Ich lasse den Computer reparieren*). **Permission** (let): the person in the Akkusativ wants to act and the subject allows it (*Ich lasse die Kinder fernsehen*). The structure is the same; the context decides.",
+      "explanation": "In the causative meaning the worker is often not mentioned; if needed, use *von* + Dativ (*von einem Techniker*). In the permission meaning the person who acts is the Akkusativ object right after the verb.",
+      "examples": [
+        {"de": "Wir lassen den Computer von einem Techniker reparieren.", "en": "We're having the computer repaired by a technician."},
+        {"de": "Wir lassen die Kinder am Wochenende länger fernsehen.", "en": "We let the children watch TV longer at the weekend."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the reflexive pronoun.",
+      "prompt": "With sich … lassen, when is the reflexive pronoun Dativ and when Akkusativ?",
+      "answer": "**Dativ** (*mir, dir*) when there is another Akkusativ object: *Ich lasse mir die Haare schneiden.* **Akkusativ** (*mich, dich*) when the subject itself is the one treated and there is no other Akkusativ: *Ich lasse mich beraten.*",
+      "explanation": "Only one Akkusativ object is possible in this slot. If a thing (*die Haare, einen Pass*) takes it, the person moves to the Dativ. The difference is only visible with *ich, du* (*mir/mich, dir/dich*); *sich, uns, euch* have the same form in both cases.",
+      "examples": [
+        {"de": "Ich lasse mir einen neuen Pass ausstellen.", "en": "I'm having a new passport issued."},
+        {"de": "Ich lasse mich vor der Reise beraten.", "en": "I'm getting advice before the trip."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two verbs.",
+      "prompt": "What is the difference between lassen and verlassen (both can mean leave)?",
+      "answer": "**lassen** = to leave an object somewhere or in a state (*Ich lasse die Jacke hier*). **verlassen** = to leave (go away from) a place or a person (*Ich verlasse das Büro um fünf*). *verlassen* is inseparable and has the participle *verlassen*.",
+      "explanation": "Ask what stays behind: if you leave a thing behind, use *lassen*; if you yourself go away from a place or abandon a person, use *verlassen*. Both take an Akkusativ object.",
+      "examples": [
+        {"de": "Ich lasse meine Jacke im Auto.", "en": "I'm leaving my jacket in the car."},
+        {"de": "Wir verlassen das Hotel morgen früh.", "en": "We're leaving the hotel tomorrow morning."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the forms.",
+      "prompt": "Which forms of lassen have an umlaut, and what are the imperative forms?",
+      "answer": "Only **du lässt** and **er/sie/es lässt** have *ä*; *ihr* **lasst** has none. Präteritum: **ließ**. Imperative: **lass!** (du), **lasst!** (ihr), **lassen Sie!** (Sie).",
+      "explanation": "*lassen* works like *fahren → du fährst*: the vowel change appears only in the 2nd and 3rd person singular. The du-imperative has no umlaut (*Lass das!*), and *lässt* [ɛ] and *lasst* [a] sound different.",
+      "examples": [
+        {"de": "Du lässt mich nie ausreden!", "en": "You never let me finish!"},
+        {"de": "Ihr lasst das Licht immer an.", "en": "You always leave the light on."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct Perfekt form.",
+      "prompt": "Ich habe mein Fahrrad im Keller ___.",
+      "options": ["gelassen", "lassen", "gelasst", "verlassen"],
+      "correct": "gelassen",
+      "answer": "Ich habe mein Fahrrad im Keller gelassen.",
+      "explanation": "There is no second infinitive, so the Perfekt uses the participle *gelassen*. *lassen* would need another infinitive (*reparieren lassen*), *gelasst* does not exist, and *verlassen* is for leaving a place or a person."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct Perfekt form.",
+      "prompt": "Wir haben die Heizung reparieren ___.",
+      "options": ["lassen", "gelasst", "zu lassen", "lässt"],
+      "correct": "lassen",
+      "answer": "Wir haben die Heizung reparieren lassen.",
+      "explanation": "The infinitive *reparieren* depends on *lassen*, so the Perfekt uses the Ersatzinfinitiv *lassen*. *gelasst* does not exist (the participle is *gelassen*, for *lassen* alone), *zu* is never used here, and *lässt* is a Präsens form."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct Präsens form.",
+      "prompt": "Du ___ dir immer so viel Zeit!",
+      "options": ["lässt", "lasst", "lassest", "lass"],
+      "correct": "lässt",
+      "answer": "Du lässt dir immer so viel Zeit!",
+      "explanation": "The du-form of *lassen* has an umlaut and ends in *-t* (the stem already ends in *-s*): *du lässt*. *lasst* is the ihr-form, *lassest* is not a modern form, and *lass* is the imperative."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich lasse mich einen neuen Ausweis ausstellen.",
+      "answer": "Ich lasse mir einen neuen Ausweis ausstellen.",
+      "explanation": "*einen neuen Ausweis* is the Akkusativ object, so the reflexive pronoun must be Dativ: *mir* (for me)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat seinen Laptop lassen reparieren.",
+      "answer": "Er hat seinen Laptop reparieren lassen.",
+      "explanation": "In the Perfekt *lassen* is an infinitive (Ersatzinfinitiv), and in a main clause the dependent infinitive comes first: *reparieren lassen*, not *lassen reparieren*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ihr lässt eure Kinder zu viel fernsehen.",
+      "answer": "Ihr lasst eure Kinder zu viel fernsehen.",
+      "explanation": "The umlaut appears only in *du lässt* and *er/sie/es lässt*. The ihr-form is *lasst*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Ich lasse meine Jacke reinigen.",
+      "answer": "Ich habe meine Jacke reinigen lassen.",
+      "explanation": "*lassen* has a dependent infinitive (*reinigen*), so the Perfekt is *haben* + Ersatzinfinitiv: *habe … reinigen lassen*. The dependent infinitive stands before *lassen*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Sie lässt den Regenschirm im Bus.",
+      "answer": "Sie hat den Regenschirm im Bus gelassen.",
+      "explanation": "Here *lassen* is a full verb (to leave something behind) without a second infinitive, so the Perfekt uses the normal participle: *hat … gelassen*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite as a suggestion with Lass uns (to one friend).",
+      "prompt": "Gehen wir heute spazieren!",
+      "answer": "Lass uns heute spazieren gehen!",
+      "explanation": "*Lass uns* + infinitive has the same meaning as the wir-imperative. The finite verb *gehen* becomes an infinitive and moves to the end: *spazieren gehen*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Rewrite from the owner's point of view (ich) with lassen. Leave out the mechanic.",
+      "prompt": "Ein Mechaniker wechselt meine Reifen.",
+      "answer": "Ich lasse meine Reifen wechseln.",
+      "explanation": "The owner becomes the subject and *lassen* the finite verb; the action *wechseln* goes to the end as a bare infinitive. The worker is not needed; if you keep him, use *von einem Mechaniker*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence with lassen (meaning: allow).",
+      "prompt": "Die Kinder spielen im Garten. Die Mutter erlaubt es.",
+      "answer": "Die Mutter lässt die Kinder im Garten spielen.",
+      "explanation": "The one who allows (*die Mutter*) becomes the subject of *lässt*. The children become the Akkusativ object, and *spielen* goes to the end as a bare infinitive."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "lässt / sich / die Haare / er / schneiden / jeden Monat",
+      "answer": "Er lässt sich jeden Monat die Haare schneiden.",
+      "explanation": "*lässt* is in position 2. In the Mittelfeld the reflexive pronoun *sich* comes first, then the time *jeden Monat*, then the object *die Haare*; *schneiden* closes the sentence. *Er lässt sich die Haare jeden Monat schneiden* is also correct."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie sagt",
+      "prompt": "dass / das Kleid / sie sagt / ändern / sie / lässt",
+      "answer": "Sie sagt, dass sie das Kleid ändern lässt.",
+      "explanation": "In the *dass* clause the finite verb goes to the end, after the dependent infinitive: *ändern lässt*. The subject *sie* follows *dass* directly."
+    }
+  ]
+}

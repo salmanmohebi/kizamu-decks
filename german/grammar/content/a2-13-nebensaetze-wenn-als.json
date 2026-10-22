@@ -1,0 +1,944 @@
+{
+  "topic_id": "a2-13-nebensaetze-wenn-als",
+  "level": "A2",
+  "title_de": "Nebensätze mit wenn und als",
+  "title_en": "Subordinate clauses with wenn and als",
+  "rule": {
+    "summary": "**wenn** and **als** both translate English *when*, and both start a Nebensatz with the finite verb at the end. **als** is only for **one event or one period in the past** (*Als ich klein war, …*). **wenn** is for the present and the future, for **repeated** events in any tense (*immer wenn, jedes Mal wenn*), and for real conditions (English *if*). Do not confuse them with the question word **wann** (*Wann kommst du? / Weißt du, wann …?*).",
+    "table": "| | Gegenwart / Zukunft | Vergangenheit |\n|---|---|---|\n| einmal | **wenn** – *Wenn ich ankomme, rufe ich an.* | **als** – *Als ich ankam, rief ich an.* |\n| mehrmals | **(immer) wenn** – *Wenn ich Zeit habe, lese ich.* | **(immer) wenn** – *Wenn ich Zeit hatte, las ich.* |\n| Bedingung (*if*) | **wenn** – *Wenn es regnet, bleiben wir hier.* | — |\n| Frage nach der Zeit | **wann** – *Weißt du, wann der Zug kommt?* | **wann** – *Weißt du, wann er gekommen ist?* |",
+    "steps": [
+      "Is it a question about time (direct or indirect)? → **wann**.",
+      "Is the event in the past and did it happen only once (or is it one period, like childhood)? → **als**.",
+      "Present, future, a condition, or a repeated event (also in the past)? → **wenn**. Signal words: *immer, jedes Mal, oft*.",
+      "Put the finite verb at the end of the Nebensatz; separable verbs stay together (*ankomme*), auxiliaries come last (*angerufen hast*).",
+      "If the Nebensatz comes first, the main clause starts with its finite verb (*Als ich ankam, war …*); *dann* or *so* may stand before it."
+    ],
+    "pitfalls": [
+      "*wenn* for one past event: ✗ *Wenn ich gestern nach Hause kam, …* → ✓ *Als ich gestern nach Hause kam, …*",
+      "*als* for a repeated past event: ✗ *Immer als ich Oma besuchte, …* → ✓ *Immer wenn ich Oma besuchte, …*",
+      "*als* for the future: ✗ *Als ich in Rente bin, …* → ✓ *Wenn ich in Rente bin, …*",
+      "*wann* as a conjunction: ✗ *Ruf mich an, wann du ankommst.* → ✓ *…, wenn du ankommst.* *wann* only asks for a time.",
+      "Subject before the verb after a leading Nebensatz: ✗ *Wenn es regnet, ich bleibe zu Hause.* → ✓ *Wenn es regnet, bleibe ich zu Hause.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Wenn}} ich Zeit habe, gehe ich spazieren.",
+      "en": "When I have time, I go for a walk.",
+      "focus": "Gegenwart · wiederholte Situation",
+      "explanation": "The sentence describes a general habit in the present: every time I have time. Present and repeated events need **wenn**. The Nebensatz has the verb *habe* at the end, and because it comes first, the main clause starts with the verb: *gehe ich*.",
+      "pattern": "Wenn + Subjekt + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich Zeit habe, gehe ich spazieren.", "why": "*als* is only for one event or period in the past. For a present habit you need *wenn*."},
+      "examples": [
+        {"de": "Wenn ich Stress habe, mache ich Yoga.", "en": "When I'm stressed, I do yoga."},
+        {"de": "Wenn er frei hat, fährt er Fahrrad.", "en": "When he has time off, he goes cycling."}
+      ],
+      "words": [{"de": "spazieren gehen", "en": "to go for a walk"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Wenn}} es regnet, bleibe ich zu Hause.",
+      "en": "When it rains, I stay at home.",
+      "focus": "Bedingung / Regel · Gegenwart",
+      "explanation": "This is a general rule or a condition (*when / if it rains*), so the conjunction is **wenn**. The Nebensatz *es regnet* has the verb at the end and fills position 1. The main clause therefore begins with its finite verb: *bleibe ich*.",
+      "pattern": "Wenn + es + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Wenn es regnet, ich bleibe zu Hause.", "why": "The Nebensatz already takes position 1. The main clause must continue with the verb, then the subject: *bleibe ich zu Hause*."},
+      "examples": [
+        {"de": "Wenn es schneit, fahre ich mit dem Bus.", "en": "When it snows, I take the bus."},
+        {"de": "Wenn es heiß ist, schlafen wir bei offenem Fenster.", "en": "When it's hot, we sleep with the window open."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich rufe dich an, {{c1::wenn}} ich ankomme.",
+      "en": "I'll call you when I arrive.",
+      "focus": "Einmaliges Ereignis in der Zukunft",
+      "explanation": "The arrival happens once, but in the future, so the conjunction is **wenn**; *als* is never used for the future. German uses the present tense for the future here (*rufe an, ankomme*). The separable verb *ankommen* stays in one piece at the end of the Nebensatz.",
+      "pattern": "Hauptsatz, wenn + Subjekt + trennbares Verb (zusammen)",
+      "mistake": {"wrong": "Ich rufe dich an, wenn ich komme an.", "why": "In a Nebensatz a separable verb is not split. Prefix and verb go together to the end: *wenn ich ankomme*."},
+      "examples": [
+        {"de": "Ich schreibe dir, wenn ich zu Hause bin.", "en": "I'll text you when I'm home."},
+        {"de": "Sag Bescheid, wenn du fertig bist.", "en": "Let me know when you're done."}
+      ],
+      "words": [{"de": "ankommen", "en": "to arrive"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Als}} ich klein war, wohnte ich im Iran.",
+      "en": "When I was little, I lived in Iran.",
+      "focus": "Vergangenheit · ein Zeitraum",
+      "explanation": "Childhood is one single period in the past, so the conjunction is **als**. In the Nebensatz the verb *war* is last; the main clause then begins with *wohnte*. Note *im Iran*: some country names have an article (*der Iran, die Schweiz, die Türkei*).",
+      "pattern": "Als + Subjekt + … + Verb (Präteritum), Verb + Subjekt …",
+      "mistake": {"wrong": "Wenn ich klein war, wohnte ich im Iran.", "why": "Childhood happened only once and is over, so it needs *als*. *wenn* in the past would mean 'every time I was small', which makes no sense."},
+      "examples": [
+        {"de": "Als ich Studentin war, hatte ich wenig Geld.", "en": "When I was a student, I had little money."},
+        {"de": "Als wir in Hamburg wohnten, fuhren wir viel Rad.", "en": "When we lived in Hamburg, we cycled a lot."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Als}} sie zwanzig war, fuhr sie nach Berlin.",
+      "en": "When she was twenty, she went to Berlin.",
+      "focus": "Vergangenheit · Alter als Zeitpunkt",
+      "explanation": "Being twenty is one period in the past and the trip is one event, so the conjunction is **als**. The Nebensatz ends with *war*, and the main clause starts with the Präteritum *fuhr* (from *fahren*), followed by the subject *sie*.",
+      "pattern": "Als + Subjekt + Alter + war, Verb + Subjekt …",
+      "mistake": {"wrong": "Als sie zwanzig war, sie fuhr nach Berlin.", "why": "After a leading Nebensatz the main clause starts with the finite verb: *fuhr sie nach Berlin*."},
+      "examples": [
+        {"de": "Als er achtzehn war, machte er den Führerschein.", "en": "When he was eighteen, he got his driving licence."},
+        {"de": "Als ich dreißig war, bekam ich mein erstes Kind.", "en": "When I was thirty, I had my first child."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich war müde, {{c1::als}} du angerufen hast.",
+      "en": "I was tired when you called.",
+      "focus": "Einmaliges Ereignis · Perfekt im Nebensatz",
+      "explanation": "The phone call happened once in the past, so the conjunction is **als**. In speech *als* is often used with the Perfekt: the Partizip II *angerufen* comes first and the auxiliary *hast* is the last word. The Nebensatz can follow the main clause, as here.",
+      "pattern": "Hauptsatz, als + Subjekt + Partizip II + Hilfsverb",
+      "mistake": {"wrong": "Ich war müde, als du hast angerufen.", "why": "In the Nebensatz the finite auxiliary *hast* must be at the end, after the participle: *als du angerufen hast*."},
+      "examples": [
+        {"de": "Ich war gerade im Bad, als der Postbote geklingelt hat.", "en": "I was in the bathroom when the postman rang the bell."},
+        {"de": "Wir waren schon im Bett, als ihr angekommen seid.", "en": "We were already in bed when you arrived."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Immer {{c1::wenn}} ich ihn sehe, lacht er.",
+      "en": "Whenever I see him, he laughs.",
+      "focus": "Wiederholung · *immer*",
+      "explanation": "*immer* shows that this happens again and again, so the conjunction must be **wenn**. *Immer wenn* (= whenever) introduces the Nebensatz with *sehe* at the end; the main clause then starts with *lacht*.",
+      "pattern": "Immer wenn + Subjekt + … + Verb, Verb + Subjekt",
+      "mistake": {"wrong": "Immer als ich ihn sehe, lacht er.", "why": "*als* is never used for repeated events and never for the present. *immer* needs *wenn*."},
+      "examples": [
+        {"de": "Immer wenn ich koche, ruft meine Mutter an.", "en": "Whenever I cook, my mother calls."},
+        {"de": "Immer wenn sie Musik hört, tanzt sie.", "en": "Whenever she listens to music, she dances."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Als}} der Zug kam, regnete es.",
+      "en": "When the train came, it was raining.",
+      "focus": "Erzählung · ein Moment in der Vergangenheit",
+      "explanation": "The sentence tells about one specific arrival of the train in the past, so the conjunction is **als**. Both clauses are in the Präteritum, typical for narration. After the Nebensatz the main clause starts with *regnete*, followed by *es*.",
+      "pattern": "Als + Subjekt + Verb (Prät.), Verb (Prät.) + Subjekt",
+      "mistake": {"wrong": "Wenn der Zug kam, regnete es.", "why": "With *wenn* the sentence would mean 'every time the train came, it rained'. For one specific moment in the past you need *als*."},
+      "examples": [
+        {"de": "Als das Taxi kam, standen wir schon draußen.", "en": "When the taxi came, we were already standing outside."},
+        {"de": "Als der Lehrer hereinkam, wurde es still.", "en": "When the teacher came in, it went quiet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Was machst du, {{c1::wenn}} du Hunger hast?",
+      "en": "What do you do when you're hungry?",
+      "focus": "Allgemeine Situation · Frage im Hauptsatz",
+      "explanation": "The question asks about a general, repeated situation in the present, so the Nebensatz uses **wenn**. The main clause is a W-question (*Was machst du*); the Nebensatz after it ends with *hast*. The question mark belongs at the end of the whole sentence.",
+      "pattern": "W-Frage, wenn + Subjekt + … + Verb?",
+      "mistake": {"wrong": "Was machst du, wann du Hunger hast?", "why": "*wann* is a question word ('at what time?'). It does not mean 'in the situation that'. To link a situation, use *wenn*."},
+      "examples": [
+        {"de": "Was machst du, wenn du nicht schlafen kannst?", "en": "What do you do when you can't sleep?"},
+        {"de": "Wen rufst du an, wenn du Hilfe brauchst?", "en": "Who do you call when you need help?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Als}} ich nach Hause kam, war niemand da.",
+      "en": "When I got home, no one was there.",
+      "focus": "Einmaliges Ereignis · Präteritum",
+      "explanation": "This describes one particular homecoming in the past, so the conjunction is **als**. *kam* is the Präteritum of *kommen* and stands at the end of the Nebensatz. The main clause starts with its verb *war*, and the subject *niemand* follows.",
+      "pattern": "Als + Subjekt + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich nach Hause kam, niemand war da.", "why": "The *als* clause is in position 1, so the next word must be the finite verb *war*: *…, war niemand da*."},
+      "examples": [
+        {"de": "Als wir am Hotel ankamen, war die Rezeption schon zu.", "en": "When we arrived at the hotel, reception was already closed."},
+        {"de": "Als sie aufwachte, war es schon hell.", "en": "When she woke up, it was already light."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Wenn}} du müde bist, geh ins Bett.",
+      "en": "If you're tired, go to bed.",
+      "focus": "Bedingung · Imperativ im Hauptsatz",
+      "explanation": "The Nebensatz is a condition (*if you're tired*), so it starts with **wenn**. The main clause is an imperative; after the Nebensatz it simply starts with the imperative form *geh*. In the Nebensatz the verb *bist* is last.",
+      "pattern": "Wenn + Subjekt + … + Verb, Imperativ …",
+      "mistake": {"wrong": "Wenn du bist müde, geh ins Bett.", "why": "In the *wenn* clause the finite verb goes to the end: *wenn du müde bist*."},
+      "examples": [
+        {"de": "Wenn du Fragen hast, schreib mir einfach.", "en": "If you have questions, just write to me."},
+        {"de": "Wenn dir kalt ist, mach die Heizung an.", "en": "If you're cold, turn on the heating."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich war glücklich, {{c1::als}} ich das Geschenk bekam.",
+      "en": "I was happy when I got the present.",
+      "focus": "Einmaliges Ereignis · Nebensatz hinten",
+      "explanation": "Getting this present happened once in the past, so the conjunction is **als**. Here the Nebensatz follows the main clause; its verb *bekam* (Präteritum of *bekommen*) is last.",
+      "pattern": "Hauptsatz (Prät.), als + Subjekt + Objekt + Verb (Prät.)",
+      "mistake": {"wrong": "Ich war glücklich, wenn ich das Geschenk bekam.", "why": "*wenn* in the past means 'every time'. One specific present on one day needs *als*."},
+      "examples": [
+        {"de": "Sie war überrascht, als sie die Nachricht las.", "en": "She was surprised when she read the message."},
+        {"de": "Wir waren erleichtert, als der Arzt anrief.", "en": "We were relieved when the doctor called."}
+      ],
+      "words": [{"de": "das Geschenk (-e)", "en": "present, gift"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich bin glücklich, {{c1::wenn}} ich Musik höre.",
+      "en": "I'm happy when I listen to music.",
+      "focus": "Gegenwart · allgemeine Aussage",
+      "explanation": "The sentence states something general in the present: every time I listen to music. Present-tense statements use **wenn**. The object *Musik* stands before the verb *höre*, which ends the Nebensatz.",
+      "pattern": "Hauptsatz, wenn + Subjekt + Objekt + Verb",
+      "mistake": {"wrong": "Ich bin glücklich, wenn ich höre Musik.", "why": "In the Nebensatz the object *Musik* comes before the verb, and *höre* is the last word: *wenn ich Musik höre*."},
+      "examples": [
+        {"de": "Ich bin entspannt, wenn ich im Garten arbeite.", "en": "I'm relaxed when I work in the garden."},
+        {"de": "Er ist nervös, wenn er vor vielen Leuten spricht.", "en": "He's nervous when he speaks in front of a lot of people."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Als}} der Krieg begann, war ich noch klein.",
+      "en": "When the war began, I was still little.",
+      "focus": "Historisches Ereignis · einmalig",
+      "explanation": "The beginning of the war is one event in the past, so the conjunction is **als**. *begann* is the Präteritum of *beginnen* and closes the Nebensatz. The main clause starts with the verb *war*, then *ich*.",
+      "pattern": "Als + Subjekt + Verb (Prät.), Verb + Subjekt …",
+      "mistake": {"wrong": "Wann der Krieg begann, war ich noch klein.", "why": "*wann* only asks for a time (*Wann begann der Krieg?*). To connect a past event with another fact, use *als*."},
+      "examples": [
+        {"de": "Als die Mauer fiel, lebte meine Familie in Leipzig.", "en": "When the Wall came down, my family was living in Leipzig."},
+        {"de": "Als das Erdbeben kam, schliefen die meisten Menschen.", "en": "When the earthquake struck, most people were asleep."}
+      ],
+      "words": [{"de": "der Krieg (-e)", "en": "war"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Was machst du, {{c1::wenn}} es regnet?",
+      "en": "What do you do when it rains?",
+      "focus": "Wiederkehrende Situation · Wetter",
+      "explanation": "Rain is a situation that comes again and again, and the question is in the present, so the conjunction is **wenn**. The Nebensatz is short: *es* + *regnet*, with the verb last.",
+      "pattern": "W-Frage, wenn + es + Verb?",
+      "mistake": {"wrong": "Was machst du, wenn regnet es?", "why": "A Nebensatz has no inversion. The subject *es* follows *wenn*, and the verb goes to the end: *wenn es regnet*."},
+      "examples": [
+        {"de": "Was macht ihr, wenn es schneit?", "en": "What do you do when it snows?"},
+        {"de": "Wohin gehst du, wenn es zu heiß ist?", "en": "Where do you go when it's too hot?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Als}} ich in Deutschland ankam, sprach ich kein Wort.",
+      "en": "When I arrived in Germany, I didn't speak a word.",
+      "focus": "Einmaliges Ereignis · trennbares Verb (Präteritum)",
+      "explanation": "Arriving in Germany happened once, so the conjunction is **als**. In the Präteritum *ankommen* is *kam … an* in a main clause, but in the Nebensatz prefix and verb join at the end: *ankam*. The main clause starts with *sprach* (from *sprechen*).",
+      "pattern": "Als + Subjekt + … + Präfix·Verb (Prät.), Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich in Deutschland kam an, sprach ich kein Wort.", "why": "A separable verb is not split in a Nebensatz, also not in the Präteritum: *als ich in Deutschland ankam*."},
+      "examples": [
+        {"de": "Als wir in Wien ankamen, regnete es in Strömen.", "en": "When we arrived in Vienna, it was pouring with rain."},
+        {"de": "Als er das Paket aufmachte, freute er sich sehr.", "en": "When he opened the parcel, he was very pleased."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Wenn}} ich groß bin, werde ich Arzt.",
+      "en": "When I grow up, I'll be a doctor.",
+      "focus": "Zukunft · einmaliges Ereignis",
+      "explanation": "Growing up is one event, but it lies in the future, so the conjunction is **wenn**. *Arzt werden* means 'to become a doctor'; German uses the present tense *werde* with a future meaning here. Jobs follow *werden* and *sein* without an article.",
+      "pattern": "Wenn + Subjekt + … + Verb (Präsens), Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich groß bin, werde ich Arzt.", "why": "*als* is only for the past. One event in the future is introduced with *wenn*."},
+      "examples": [
+        {"de": "Wenn ich in Rente bin, reise ich um die Welt.", "en": "When I'm retired, I'll travel around the world."},
+        {"de": "Wenn die Kinder älter sind, arbeite ich wieder Vollzeit.", "en": "When the children are older, I'll work full-time again."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Als}} die Schule zu Ende war, gingen wir nach Hause.",
+      "en": "When school was over, we went home.",
+      "focus": "Erzählung · ein bestimmter Tag",
+      "explanation": "The sentence tells about one day in the past (narration in the Präteritum), so the conjunction is **als**. *zu Ende sein* means 'to be over'; *war* closes the Nebensatz. The main clause starts with *gingen*. If it described what happened every day, it would be *Wenn die Schule zu Ende war, …*",
+      "pattern": "Als + Subjekt + zu Ende + war, Verb + Subjekt …",
+      "mistake": {"wrong": "Als die Schule war zu Ende, gingen wir nach Hause.", "why": "*war* is the finite verb of the Nebensatz and must be the last word: *als die Schule zu Ende war*."},
+      "examples": [
+        {"de": "Als der Unterricht vorbei war, gingen alle in die Mensa.", "en": "When the lesson was over, everyone went to the canteen."},
+        {"de": "Als die Party zu Ende war, räumten wir zusammen auf.", "en": "When the party was over, we tidied up together."}
+      ],
+      "words": [{"de": "zu Ende sein", "en": "to be over"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich freue mich, {{c1::wenn}} du anrufst.",
+      "en": "I'm happy when you call.",
+      "focus": "Gegenwart · immer wieder / Zukunft",
+      "explanation": "The sentence is in the present and means 'every time you call' (or 'if you call'), so **wenn** is the only choice. The separable verb *anrufen* stays together at the end of the Nebensatz: *anrufst*.",
+      "pattern": "Hauptsatz (Präsens), wenn + Subjekt + Verb",
+      "mistake": {"wrong": "Ich freue mich, als du anrufst.", "why": "*als* can only refer to one past event. With the present tense (*anrufst*) the conjunction must be *wenn*."},
+      "examples": [
+        {"de": "Meine Oma freut sich, wenn wir sie besuchen.", "en": "My grandma is happy when we visit her."},
+        {"de": "Der Hund bellt, wenn jemand klingelt.", "en": "The dog barks when someone rings the bell."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Als}} ich jung war, hatte ich viele Träume.",
+      "en": "When I was young, I had a lot of dreams.",
+      "focus": "Lebensphase in der Vergangenheit",
+      "explanation": "Youth is one period of life in the past, so the conjunction is **als**, even though the dreams lasted a long time. *war* ends the Nebensatz, and the main clause starts with *hatte* (Präteritum of *haben*), followed by *ich*.",
+      "pattern": "Als + Subjekt + Adjektiv + war, Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich jung war, ich hatte viele Träume.", "why": "The *als* clause fills position 1. The main clause must start with the verb: *hatte ich viele Träume*."},
+      "examples": [
+        {"de": "Als sie jung war, spielte sie Tennis.", "en": "When she was young, she played tennis."},
+        {"de": "Als mein Opa jung war, gab es noch kein Internet.", "en": "When my grandpa was young, there was no internet yet."}
+      ],
+      "words": [{"de": "der Traum (¨-e)", "en": "dream"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "{{c1::Als}} ich klein war, wohnten wir in Rom.",
+      "en": "When I was little, we lived in Rome.",
+      "focus": "Vergangenheit · ein Zeitraum · anderes Subjekt",
+      "explanation": "**als** is for one event or one period in the past; childhood is such a period. The subject of the Nebensatz (*ich*) and of the main clause (*wir*) can be different. The verb *war* ends the Nebensatz, and *wohnten* starts the main clause.",
+      "pattern": "Als + Subjekt 1 + … + Verb, Verb + Subjekt 2 …",
+      "mistake": {"wrong": "Als ich war klein, wohnten wir in Rom.", "why": "In the *als* clause the verb goes to the end: *als ich klein war*."},
+      "examples": [
+        {"de": "Als ich ein Baby war, lebten meine Eltern in Graz.", "en": "When I was a baby, my parents lived in Graz."},
+        {"de": "Als mein Bruder klein war, hatten wir einen Hund.", "en": "When my brother was little, we had a dog."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Wenn}} ich Zeit habe, rufe ich dich an.",
+      "en": "When I have time, I'll call you.",
+      "focus": "Zukunft / Bedingung · trennbares Verb im Hauptsatz",
+      "explanation": "**wenn** is for the present, the future and repeated events. Here it refers to the future (*when I have time later*). In the main clause *anrufen* is split: *rufe* comes first, right after the comma, and *an* goes to the end.",
+      "pattern": "Wenn + … + Verb, Verb + Subjekt + … + Präfix",
+      "mistake": {"wrong": "Wenn ich Zeit habe, ich rufe dich an.", "why": "After a leading Nebensatz the finite verb comes first in the main clause: *rufe ich dich an*."},
+      "examples": [
+        {"de": "Wenn ich fertig bin, hole ich dich ab.", "en": "When I'm finished, I'll pick you up."},
+        {"de": "Wenn der Regen aufhört, fahren wir los.", "en": "When the rain stops, we'll set off."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Immer {{c1::wenn}} es regnet, bleibe ich drinnen.",
+      "en": "Whenever it rains, I stay inside.",
+      "focus": "Wiederholung · Signalwort *immer*",
+      "explanation": "*immer wenn* stresses repetition: every single time. Repetition always needs **wenn**, also in the past (*Immer wenn es regnete, blieb ich drinnen.*). *als* is never possible with *immer*.",
+      "pattern": "Immer wenn + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Immer als es regnete, blieb ich drinnen.", "why": "Even in the past, repeated events need *wenn*: *Immer wenn es regnete, …* *als* is only for one single event."},
+      "examples": [
+        {"de": "Immer wenn ich Zeit hatte, besuchte ich meine Tante.", "en": "Whenever I had time, I visited my aunt."},
+        {"de": "Immer wenn das Telefon klingelt, ist es meine Mutter.", "en": "Whenever the phone rings, it's my mother."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "{{c1::Als}} sie den Brief öffnete, weinte sie.",
+      "en": "When she opened the letter, she cried.",
+      "focus": "Einmalige Handlung · schriftliche Erzählung",
+      "explanation": "Opening this letter is a one-off action in the past, so the conjunction is **als**. In written narration both clauses use the Präteritum: *öffnete* (end of the Nebensatz) and *weinte* (start of the main clause).",
+      "pattern": "Als + Subjekt + Objekt + Verb (Prät.), Verb (Prät.) + Subjekt",
+      "mistake": {"wrong": "Wenn sie den Brief öffnete, weinte sie.", "why": "With *wenn* the sentence would mean that she cried every time she opened the letter. One single moment needs *als*."},
+      "examples": [
+        {"de": "Als er die Tür aufschloss, bellte der Hund.", "en": "When he unlocked the door, the dog barked."},
+        {"de": "Als sie das Ergebnis sah, lachte sie laut.", "en": "When she saw the result, she laughed out loud."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "{{c1::Wenn}} das Paket ankommt, schreibe ich dir.",
+      "en": "When the parcel arrives, I'll text you.",
+      "focus": "Zukunft · einmaliges Ereignis",
+      "explanation": "The parcel will arrive once, in the future, so the conjunction is **wenn**. German *wenn* covers both English *when* and *if* in real conditions. *ankommt* stays together at the end of the Nebensatz.",
+      "pattern": "Wenn + Subjekt + Präfix·Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Als das Paket ankommt, schreibe ich dir.", "why": "*als* only refers to the past. A single event in the future needs *wenn*."},
+      "examples": [
+        {"de": "Wenn der Techniker kommt, mache ich ihm die Tür auf.", "en": "When the technician comes, I'll open the door for him."},
+        {"de": "Wenn die Ergebnisse da sind, rufe ich Sie an.", "en": "When the results are in, I'll call you."}
+      ],
+      "words": [{"de": "das Paket (-e)", "en": "parcel"}],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "{{c1::Als}} der Film zu Ende war, gingen alle nach Hause.",
+      "en": "When the film ended, everyone went home.",
+      "focus": "Nebensatz vorne · Verb direkt nach dem Komma",
+      "explanation": "One film on one evening in the past → **als**. Because the Nebensatz comes first, the main verb *gingen* follows directly after the comma, and the subject *alle* comes after it.",
+      "pattern": "Als + …, Verb + Subjekt …",
+      "mistake": {"wrong": "Als der Film zu Ende war, alle gingen nach Hause.", "why": "The main clause cannot start with its subject here. The *als* clause is in position 1, so *gingen* comes next: *gingen alle nach Hause*."},
+      "examples": [
+        {"de": "Als das Spiel vorbei war, feierten die Fans auf der Straße.", "en": "When the match was over, the fans celebrated in the street."},
+        {"de": "Als die Rede zu Ende war, klatschten alle.", "en": "When the speech was over, everyone clapped."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Ich freue mich, {{c1::wenn}} du kommst.",
+      "en": "I'll be glad if you come.",
+      "focus": "Nebensatz nach dem Hauptsatz",
+      "explanation": "The Nebensatz can also follow the main clause; then the main clause keeps normal order (*Ich freue mich*). The visit lies in the future (or is a condition), so the conjunction is **wenn**, and *kommst* closes the Nebensatz.",
+      "pattern": "Hauptsatz, wenn + Subjekt + Verb",
+      "mistake": {"wrong": "Ich freue mich, wenn kommst du.", "why": "A Nebensatz has no inversion. Subject first, verb last: *wenn du kommst*."},
+      "examples": [
+        {"de": "Wir freuen uns, wenn ihr mitfeiert.", "en": "We'll be glad if you celebrate with us."},
+        {"de": "Mein Chef ist zufrieden, wenn alles pünktlich fertig ist.", "en": "My boss is happy when everything is finished on time."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Bevor::zeitlich: davor}} ich gehe, räume ich auf.",
+      "en": "Before I leave, I'll tidy up.",
+      "focus": "Andere Zeitkonjunktion · Reihenfolge",
+      "explanation": "**bevor** (before) is a subordinating conjunction like *wenn* and *als*: verb at the end of the Nebensatz. The action in the main clause (*aufräumen*) happens first. The Nebensatz is in position 1, so the main clause starts with *räume*.",
+      "pattern": "Bevor + Subjekt + Verb, Verb + Subjekt … Präfix",
+      "mistake": {"wrong": "Vor ich gehe, räume ich auf.", "why": "*vor* is a preposition (*vor dem Essen*). Before a clause you need the conjunction *bevor*."},
+      "examples": [
+        {"de": "Bevor wir essen, waschen wir die Hände.", "en": "Before we eat, we wash our hands."},
+        {"de": "Bevor du losfährst, schau auf die Karte.", "en": "Before you set off, look at the map."}
+      ],
+      "words": [{"de": "aufräumen", "en": "to tidy up"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "{{c1::Nachdem::zeitlich: danach}} wir gegessen hatten, gingen wir spazieren.",
+      "en": "After we had eaten, we went for a walk.",
+      "focus": "Andere Zeitkonjunktion · Zeitenfolge",
+      "explanation": "**nachdem** (after) introduces the earlier action. If the main clause is in the Präteritum, the *nachdem* clause is usually one step further back, in the Plusquamperfekt: *gegessen hatten*. The verb *hatten* is last in the Nebensatz.",
+      "pattern": "Nachdem + … + Partizip II + hatte/war, Verb (Prät.) + Subjekt …",
+      "mistake": {"wrong": "Nachdem wir gegessen haben, gingen wir spazieren.", "why": "The tenses do not fit: with a Präteritum main clause, *nachdem* takes the Plusquamperfekt (*gegessen hatten*)."},
+      "examples": [
+        {"de": "Nachdem sie das Studium beendet hatte, zog sie nach Zürich.", "en": "After she had finished her degree, she moved to Zurich."},
+        {"de": "Nachdem der Regen aufgehört hatte, spielten die Kinder draußen.", "en": "After the rain had stopped, the children played outside."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "{{c1::Während::gleichzeitig}} sie kocht, deckt er den Tisch.",
+      "en": "While she's cooking, he sets the table.",
+      "focus": "Andere Zeitkonjunktion · zwei Handlungen parallel",
+      "explanation": "**während** (while) connects two actions that happen at the same time. It sends the verb *kocht* to the end of the Nebensatz. The main clause starts with *deckt*, then the subject *er*.",
+      "pattern": "Während + Subjekt + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Während sie kocht, er deckt den Tisch.", "why": "The Nebensatz is in position 1, so the main clause continues with the verb: *deckt er den Tisch*."},
+      "examples": [
+        {"de": "Während ich telefoniere, spielen die Kinder im Garten.", "en": "While I'm on the phone, the children play in the garden."},
+        {"de": "Während er duscht, macht sie Frühstück.", "en": "While he's showering, she makes breakfast."}
+      ],
+      "words": [{"de": "den Tisch decken", "en": "to set the table"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Bis::Endpunkt}} der Bus kommt, warten wir hier.",
+      "en": "We'll wait here until the bus comes.",
+      "focus": "Andere Zeitkonjunktion · Ende eines Zeitraums",
+      "explanation": "**bis** (until) marks the end point of the waiting. As a conjunction it starts a Nebensatz with the verb at the end (*kommt*). The main clause then starts with *warten*.",
+      "pattern": "Bis + Subjekt + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Bis kommt der Bus, warten wir hier.", "why": "*bis* here is a conjunction, so the clause after it is a Nebensatz: subject first, verb last: *bis der Bus kommt*."},
+      "examples": [
+        {"de": "Bis das Essen fertig ist, lese ich noch ein bisschen.", "en": "Until the food is ready, I'll read a bit more."},
+        {"de": "Bis die Wohnung frei ist, wohnt sie bei ihrer Schwester.", "en": "Until the flat is free, she's living with her sister."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "{{c1::Seit::Beginn bis jetzt}} ich hier arbeite, bin ich zufriedener.",
+      "en": "Since I've been working here, I've been happier.",
+      "focus": "Andere Zeitkonjunktion · Zustand bis heute",
+      "explanation": "**seit** (since) as a conjunction describes something that started in the past and is still true. German uses the present tense for this (*arbeite, bin*), where English uses the present perfect. *arbeite* stands at the end of the Nebensatz.",
+      "pattern": "Seit + Subjekt + … + Verb (Präsens), Verb (Präsens) + Subjekt …",
+      "mistake": {"wrong": "Seit ich hier gearbeitet habe, bin ich zufriedener.", "why": "The work is still going on, so German uses the present tense with *seit*: *seit ich hier arbeite*."},
+      "examples": [
+        {"de": "Seit wir einen Hund haben, gehen wir viel spazieren.", "en": "Since we've had a dog, we go for a lot of walks."},
+        {"de": "Seit sie Sport macht, schläft sie besser.", "en": "Since she started doing sport, she's been sleeping better."}
+      ],
+      "words": [{"de": "zufrieden", "en": "satisfied, content"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "{{c1::Wenn::Bedingung}} ich damals mehr geübt hätte, wäre es leichter.",
+      "en": "If I had practised more back then, it would be easier now.",
+      "focus": "Irreale Bedingung · Konjunktiv II",
+      "explanation": "**wenn** also introduces unreal conditions with the Konjunktiv II (B1). *geübt hätte* refers to the past, *wäre es leichter* to the present result. *als* is impossible here, even though *damals* points to the past, because this is a condition, not a time.",
+      "pattern": "Wenn + … + Partizip II + hätte, wäre/würde …",
+      "mistake": {"wrong": "Als ich damals mehr geübt hätte, wäre es leichter.", "why": "*als* only gives the time of a real past event. A condition, real or unreal, is always introduced with *wenn*."},
+      "examples": [
+        {"de": "Wenn ich mehr Zeit hätte, würde ich Gitarre lernen.", "en": "If I had more time, I would learn the guitar."},
+        {"de": "Wenn wir früher losgefahren wären, wären wir jetzt schon da.", "en": "If we had left earlier, we would already be there now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Als::Rolle}} Kind habe ich viel gelesen.",
+      "en": "As a child I read a lot.",
+      "focus": "*als* + Nomen ohne Artikel",
+      "explanation": "Here **als** is not a conjunction but means 'as, in the role of'. It is followed by a noun **without an article** (*als Kind, als Lehrerin, als Tourist*), so there is no Nebensatz and no verb at the end. *Als Kind* fills position 1, so *habe* comes next.",
+      "pattern": "Als + Nomen (ohne Artikel), Verb + Subjekt …",
+      "mistake": {"wrong": "Als ein Kind habe ich viel gelesen.", "why": "English says *as a child*, but German uses no article after *als* in this meaning: *als Kind*."},
+      "examples": [
+        {"de": "Als Studentin habe ich in einem Café gearbeitet.", "en": "As a student I worked in a café."},
+        {"de": "Als Arzt muss er oft nachts arbeiten.", "en": "As a doctor he often has to work at night."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Wenn}} wir früher Oma besuchten, backte sie immer einen Kuchen.",
+      "en": "Whenever we visited Grandma in the past, she always baked a cake.",
+      "focus": "Vergangenheit · wiederholt",
+      "explanation": "The visits are in the past, but they happened many times (*früher … immer*). Repeated past events need **wenn**, not *als*. Both clauses are in the Präteritum: *besuchten* closes the Nebensatz, *backte* opens the main clause.",
+      "pattern": "Wenn + … + Verb (Prät.), Verb (Prät.) + Subjekt + immer …",
+      "mistake": {"wrong": "Als wir früher Oma besuchten, backte sie immer einen Kuchen.", "why": "*als* would mean one single visit, but *früher … immer* shows many visits. Repeated past events take *wenn*."},
+      "examples": [
+        {"de": "Wenn mein Vater nach Hause kam, las er zuerst die Zeitung.", "en": "Whenever my father came home, he read the newspaper first."},
+        {"de": "Wenn wir in den Ferien am Meer waren, schwammen wir jeden Tag.", "en": "Whenever we were at the seaside in the holidays, we swam every day."}
+      ],
+      "words": [{"de": "früher", "en": "in the past, formerly"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Als}} ich gestern nach Hause gekommen bin, hat das Telefon geklingelt.",
+      "en": "When I got home yesterday, the phone rang.",
+      "focus": "Einmaliges Ereignis · gesprochene Sprache (Perfekt)",
+      "explanation": "*gestern* fixes one single moment in the past, so the conjunction is **als**. In speech *als* is often combined with the Perfekt: in the Nebensatz *gekommen bin* (auxiliary last), in the main clause *hat … geklingelt* (auxiliary in position 2 after the Nebensatz).",
+      "pattern": "Als + … + Partizip II + Hilfsverb, Hilfsverb + Subjekt + … + Partizip II",
+      "mistake": {"wrong": "Wenn ich gestern nach Hause gekommen bin, hat das Telefon geklingelt.", "why": "*gestern* refers to one particular day. *wenn* in the past means 'every time'; one past event needs *als*."},
+      "examples": [
+        {"de": "Als wir am Bahnhof angekommen sind, war der Zug schon weg.", "en": "When we got to the station, the train had already gone."},
+        {"de": "Als ich die Tür aufgemacht habe, ist die Katze rausgelaufen.", "en": "When I opened the door, the cat ran out."}
+      ],
+      "words": [{"de": "klingeln", "en": "to ring"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wenn du morgen Zeit hast, {{c1::kannst::können}} du mir beim Umzug helfen.",
+      "en": "If you have time tomorrow, you can help me with the move.",
+      "focus": "Hauptsatz nach dem Nebensatz · Modalverb",
+      "explanation": "The *wenn* clause is a condition and fills position 1. So the main clause starts with its finite verb, the modal **kannst** (*du*-form of *können*), then the subject *du*; the infinitive *helfen* goes to the end.",
+      "pattern": "Wenn + … + Verb, Modalverb + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Wenn du morgen Zeit hast, du kannst mir beim Umzug helfen.", "why": "After the Nebensatz the finite verb must come first: *kannst du mir … helfen*. The subject follows the verb."},
+      "examples": [
+        {"de": "Wenn ihr Hunger habt, könnt ihr euch etwas aus dem Kühlschrank nehmen.", "en": "If you're hungry, you can take something from the fridge."},
+        {"de": "Wenn es dir nicht gut geht, musst du nicht kommen.", "en": "If you're not feeling well, you don't have to come."}
+      ],
+      "words": [{"de": "der Umzug (¨-e)", "en": "move (house)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Weißt du, {{c1::wann}} der Kurs anfängt?",
+      "en": "Do you know when the course starts?",
+      "focus": "Indirekte Frage nach dem Zeitpunkt",
+      "explanation": "This is a question about a point in time, put inside *Weißt du*. Questions about time always use **wann**, both direct (*Wann fängt der Kurs an?*) and indirect. In the indirect question the separable verb stays together at the end: *anfängt*.",
+      "pattern": "Weißt du, wann + Subjekt + Verb?",
+      "mistake": {"wrong": "Weißt du, wenn der Kurs anfängt?", "why": "*wenn* means 'when / if' in the sense of a condition or a situation. A question about the time needs *wann*."},
+      "examples": [
+        {"de": "Kannst du mir sagen, wann die Apotheke aufmacht?", "en": "Can you tell me when the pharmacy opens?"},
+        {"de": "Ich weiß nicht, wann der letzte Bus fährt.", "en": "I don't know when the last bus leaves."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Jedes Mal, {{c1::wenn}} ich in Hamburg bin, regnet es.",
+      "en": "Every time I'm in Hamburg, it rains.",
+      "focus": "Wiederholung · Signalwort *jedes Mal*",
+      "explanation": "*Jedes Mal* (every time) signals repetition, so the conjunction is **wenn**. Unlike *immer wenn*, *jedes Mal* is usually written with a comma before *wenn*. The whole group *Jedes Mal, wenn … bin* fills position 1, so *regnet* comes next.",
+      "pattern": "Jedes Mal, wenn + … + Verb, Verb + Subjekt",
+      "mistake": {"wrong": "Jedes Mal, als ich in Hamburg bin, regnet es.", "why": "*als* is only for a single past event. *jedes Mal* means repetition, and the sentence is in the present, so you need *wenn*."},
+      "examples": [
+        {"de": "Jedes Mal, wenn ich ihn anrufe, ist er beschäftigt.", "en": "Every time I call him, he's busy."},
+        {"de": "Jedes Mal, wenn wir uns sehen, streiten wir.", "en": "Every time we see each other, we argue."}
+      ],
+      "words": [{"de": "jedes Mal", "en": "every time"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Als}} wir in Spanien lebten, konnten wir jeden Tag ans Meer gehen.",
+      "en": "When we lived in Spain, we could go to the sea every day.",
+      "focus": "Ein Zeitraum in der Vergangenheit · wiederholte Handlungen darin",
+      "explanation": "The Nebensatz names one period of time in the past: the years in Spain. That period happened once, so the conjunction is **als**, even though the main clause describes something repeated (*jeden Tag*). The main clause starts with the modal *konnten*, and the infinitive *gehen* is at the end.",
+      "pattern": "Als + … + Verb (Prät.), Modalverb (Prät.) + Subjekt + … + Infinitiv",
+      "mistake": {"wrong": "Wenn wir in Spanien lebten, konnten wir jeden Tag ans Meer gehen.", "why": "The choice depends on the *wenn/als* clause itself: living in Spain was one period, so *als*. *wenn* would suggest several separate times in Spain."},
+      "examples": [
+        {"de": "Als ich in München studierte, ging ich oft in die Berge.", "en": "When I was studying in Munich, I often went to the mountains."},
+        {"de": "Als sie in Paris arbeitete, fuhr sie jeden Tag mit der Metro.", "en": "When she worked in Paris, she took the metro every day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich gebe dir Bescheid, {{c1::wenn}} ich mehr weiß.",
+      "en": "I'll let you know when I know more.",
+      "focus": "Zukunft · Nebensatz hinten",
+      "explanation": "Knowing more lies in the future, so the conjunction is **wenn**. The main clause comes first with normal order; the Nebensatz ends with *weiß* (irregular: *ich weiß*). *Bescheid geben* is a very common phrase for 'to let someone know'.",
+      "pattern": "Hauptsatz (Präsens = Zukunft), wenn + Subjekt + … + Verb",
+      "mistake": {"wrong": "Ich gebe dir Bescheid, als ich mehr weiß.", "why": "*als* cannot refer to the present or the future. For a future moment use *wenn*."},
+      "examples": [
+        {"de": "Ich melde mich, wenn ich in Berlin bin.", "en": "I'll get in touch when I'm in Berlin."},
+        {"de": "Sie schickt uns die Fotos, wenn sie zurück ist.", "en": "She'll send us the photos when she's back."}
+      ],
+      "words": [{"de": "Bescheid geben", "en": "to let someone know"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Wenn die Kinder im Bett sind, dann {{c1::hat::haben}} sie endlich Zeit für sich.",
+      "en": "When the children are in bed, she finally has time for herself.",
+      "focus": "Hauptsatz mit *dann* nach dem Nebensatz",
+      "explanation": "After a *wenn* clause, *dann* can start the main clause to stress the sequence. *dann* sits between the Nebensatz and the verb, and the finite verb **hat** still comes directly after it, followed by the subject *sie*.",
+      "pattern": "Wenn + … + Verb, dann + Verb + Subjekt …",
+      "mistake": {"wrong": "Wenn die Kinder im Bett sind, dann sie hat endlich Zeit für sich.", "why": "*dann* does not change the rule: the finite verb follows immediately, then the subject: *dann hat sie*."},
+      "examples": [
+        {"de": "Wenn der Bericht fertig ist, dann machen wir Feierabend.", "en": "When the report is finished, we'll call it a day."},
+        {"de": "Wenn alle da sind, dann fangen wir an.", "en": "When everyone is here, we'll start."}
+      ],
+      "words": [{"de": "Zeit für sich haben", "en": "to have time for oneself"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wir saßen gerade beim Essen, {{c1::als}} das Licht plötzlich ausging.",
+      "en": "We were just having dinner when the lights suddenly went out.",
+      "focus": "Plötzliches Ereignis in einer laufenden Handlung",
+      "explanation": "The main clause describes an ongoing situation (*saßen gerade beim Essen*), and the Nebensatz names one sudden event that interrupts it. One past event → **als**. *ausgehen* (to go out) stays together at the end: *ausging*.",
+      "pattern": "Hauptsatz (gerade …), als + Subjekt + plötzlich + Verb (Prät.)",
+      "mistake": {"wrong": "Wir saßen gerade beim Essen, wenn das Licht plötzlich ausging.", "why": "*gerade* and *plötzlich* describe one single moment. A single past event needs *als*, not *wenn*."},
+      "examples": [
+        {"de": "Ich stand gerade unter der Dusche, als es an der Tür klingelte.", "en": "I was just in the shower when the doorbell rang."},
+        {"de": "Sie wollte gerade gehen, als ihr Chef sie rief.", "en": "She was just about to leave when her boss called her."}
+      ],
+      "words": [{"de": "ausgehen (Licht)", "en": "to go out (light)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Wenn}} Sie Fragen haben, rufen Sie mich einfach an.",
+      "en": "If you have any questions, just give me a call.",
+      "focus": "Bedingung · formeller Imperativ",
+      "explanation": "The Nebensatz is a real condition (*if you have questions*), so it starts with **wenn**. The main clause is a *Sie*-imperative: the verb *rufen* comes first, then *Sie*, and the prefix *an* goes to the end.",
+      "pattern": "Wenn Sie + … + Verb, Verb + Sie + … + Präfix",
+      "mistake": {"wrong": "Wenn Sie Fragen haben, Sie rufen mich einfach an.", "why": "After the Nebensatz the main clause starts with the verb. For the *Sie*-imperative the order is *rufen Sie mich einfach an*."},
+      "examples": [
+        {"de": "Wenn Sie Hilfe brauchen, sagen Sie bitte Bescheid.", "en": "If you need help, please let me know."},
+        {"de": "Wenn Sie den Termin nicht schaffen, schreiben Sie uns eine E-Mail.", "en": "If you can't make the appointment, send us an email."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Als}} meine Großmutter achtzig wurde, hat die ganze Familie gefeiert.",
+      "en": "When my grandmother turned eighty, the whole family celebrated.",
+      "focus": "Einmaliger Anlass · Geburtstag",
+      "explanation": "A person turns eighty only once, and it is in the past, so the conjunction is **als**. *achtzig werden* means 'to turn eighty'; *wurde* (Präteritum of *werden*) ends the Nebensatz. The main clause uses the Perfekt: *hat* comes first, *gefeiert* at the end.",
+      "pattern": "Als + Subjekt + Alter + wurde, Hilfsverb + Subjekt + Partizip II",
+      "mistake": {"wrong": "Wenn meine Großmutter achtzig wurde, hat die ganze Familie gefeiert.", "why": "A birthday like this happens only once. *wenn* in the past would mean that it happened again and again; you need *als*."},
+      "examples": [
+        {"de": "Als mein Bruder achtzehn wurde, hat er eine große Party gemacht.", "en": "When my brother turned eighteen, he threw a big party."},
+        {"de": "Als unsere Tochter geboren wurde, haben wir in Köln gewohnt.", "en": "When our daughter was born, we were living in Cologne."}
+      ],
+      "words": [{"de": "achtzig werden", "en": "to turn eighty"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "{{c1::Wenn}} ich nächstes Jahr in Rente gehe, ziehe ich ans Meer.",
+      "en": "When I retire next year, I'm moving to the seaside.",
+      "focus": "Einmaliges Ereignis · Zukunft",
+      "explanation": "Retiring happens only once, but *nächstes Jahr* puts it in the future. For the future German always uses **wenn**, even for one single event; *als* is only for the past. Both clauses use the present tense with a future meaning.",
+      "pattern": "Wenn + Zeit (Zukunft) + … + Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Als ich nächstes Jahr in Rente gehe, ziehe ich ans Meer.", "why": "Being a single event is not enough for *als*; it must also be in the past. A future event takes *wenn*."},
+      "examples": [
+        {"de": "Wenn ich im Sommer nach Japan fliege, besuche ich meinen Freund in Osaka.", "en": "When I fly to Japan in the summer, I'll visit my friend in Osaka."},
+        {"de": "Wenn das Baby da ist, nehme ich ein Jahr Elternzeit.", "en": "When the baby arrives, I'll take a year of parental leave."}
+      ],
+      "words": [{"de": "in Rente gehen", "en": "to retire"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the difference between the two conjunctions.",
+      "prompt": "When do you use als, and when do you use wenn?",
+      "answer": "**als**: one event or one period **in the past**. **wenn**: present and future (also single events), repeated events in **any** tense, and conditions (*if*).",
+      "explanation": "Ask two questions: Is it in the past? Did it happen only once? Only if both answers are yes, use *als*. In every other case, use *wenn*. English *when* covers both, so the tense and the number of events decide.",
+      "examples": [
+        {"de": "Als ich nach Wien zog, kannte ich niemanden.", "en": "When I moved to Vienna, I didn't know anyone."},
+        {"de": "Wenn ich nach Wien fahre, besuche ich immer das Museum.", "en": "When I go to Vienna, I always visit the museum."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about repeated events in the past.",
+      "prompt": "Which conjunction do you use for something that happened many times in the past, and which signal words help?",
+      "answer": "**wenn**, often with **immer wenn** or **jedes Mal, wenn** (also *oft*, *meistens* in the main clause). *als* is never used for repetition.",
+      "explanation": "The tense alone does not decide: *wenn* can stand with the Präteritum. *Wenn wir Oma besuchten* means 'every time we visited'; *Als wir Oma besuchten* means one specific visit.",
+      "examples": [
+        {"de": "Immer wenn es Ferien gab, fuhren wir zu meinen Großeltern.", "en": "Whenever we had holidays, we went to my grandparents'."},
+        {"de": "Als wir letzten Sommer bei meinen Großeltern waren, war es sehr heiß.", "en": "When we were at my grandparents' last summer, it was very hot."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Compare three similar words.",
+      "prompt": "What is the difference between wann, wenn and als?",
+      "answer": "**wann** is a question word (*at what time?*), used in direct and indirect questions. **wenn** and **als** are conjunctions that connect a time or condition with a main clause.",
+      "explanation": "Test: can you answer with a time (*um acht, morgen*)? Then it is a question and needs *wann*. If the clause describes a situation in which something else happens, use *wenn* or *als* according to tense and frequency.",
+      "examples": [
+        {"de": "Wann beginnt das Seminar?", "en": "When does the seminar start?"},
+        {"de": "Wenn das Seminar beginnt, mache ich das Handy aus.", "en": "When the seminar starts, I switch my phone off."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "What is the word order when a wenn- or als-clause comes first?",
+      "answer": "In the Nebensatz the finite verb is **last**. The whole Nebensatz is position 1, so the main clause starts with its **finite verb**, then the subject: *Als ich ankam, **war** niemand da.* *dann* may stand before that verb.",
+      "explanation": "Two verbs therefore meet at the comma (*ankam, war*). In the main clause after the Nebensatz you cannot put the subject first. *dann* is optional and only stresses the sequence: *Wenn ich fertig bin, dann rufe ich an.*",
+      "examples": [
+        {"de": "Wenn der Film anfängt, sind wir still.", "en": "When the film starts, we're quiet."},
+        {"de": "Als sie anrief, saß ich im Zug.", "en": "When she called, I was sitting on the train."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the other uses of als.",
+      "prompt": "Apart from 'when' in the past, what other meanings does als have, and does it send the verb to the end there?",
+      "answer": "**als** + noun without article = 'as, in the role of' (*als Kind, als Lehrer*). **als** after a comparative = 'than' (*größer als*). In these uses it does **not** start a Nebensatz, so it has no effect on the verb.",
+      "explanation": "Only the temporal *als* is a subordinating conjunction with the verb at the end. *Als Kind habe ich …* is a main clause with *Als Kind* in position 1. *Sie ist älter als ich* is a comparison, not a time clause.",
+      "examples": [
+        {"de": "Als Tourist braucht man hier kein Visum.", "en": "As a tourist you don't need a visa here."},
+        {"de": "Der Zug ist schneller als das Auto.", "en": "The train is faster than the car."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "___ ich 2015 nach Leipzig zog, kannte ich dort niemanden.",
+      "options": ["Wenn", "Als", "Wann"],
+      "correct": "Als",
+      "answer": "Als ich 2015 nach Leipzig zog, kannte ich dort niemanden.",
+      "explanation": "*2015* fixes one move in the past, so *als* is correct. *Wenn* would mean a repeated or future event. *Wann* is a question word and cannot connect two clauses like this."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Wir gehen ins Schwimmbad, ___ es am Wochenende warm ist.",
+      "options": ["als", "wann", "wenn"],
+      "correct": "wenn",
+      "answer": "Wir gehen ins Schwimmbad, wenn es am Wochenende warm ist.",
+      "explanation": "The weekend is in the future and the clause is a condition, so *wenn* is correct. *als* is only for one past event. *wann* asks for a time and cannot express a condition."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Kannst du mir sagen, ___ das Spiel beginnt?",
+      "options": ["wenn", "wann", "als"],
+      "correct": "wann",
+      "answer": "Kannst du mir sagen, wann das Spiel beginnt?",
+      "explanation": "This is an indirect question about the time (*Wann beginnt das Spiel?*), so the question word *wann* is correct. *wenn* and *als* are conjunctions and do not ask for information."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Jedes Mal, ___ mein Vater von der Arbeit kam, war er müde.",
+      "options": ["als", "wenn", "wann"],
+      "correct": "wenn",
+      "answer": "Jedes Mal, wenn mein Vater von der Arbeit kam, war er müde.",
+      "explanation": "*Jedes Mal* shows a repeated event in the past, so *wenn* is correct. *als* is only for a single past event, and *wann* is a question word."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn ich gestern im Supermarkt war, habe ich Paul getroffen.",
+      "answer": "Als ich gestern im Supermarkt war, habe ich Paul getroffen.",
+      "explanation": "*gestern* refers to one single event in the past, so the conjunction must be *als*, not *wenn*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Als ich morgen in Berlin bin, besuche ich dich.",
+      "answer": "Wenn ich morgen in Berlin bin, besuche ich dich.",
+      "explanation": "*morgen* is in the future. *als* only refers to the past, so the conjunction must be *wenn*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn ich Zeit habe, ich lese gern Krimis.",
+      "answer": "Wenn ich Zeit habe, lese ich gern Krimis.",
+      "explanation": "The *wenn* clause fills position 1, so the main clause must start with the verb *lese*; the subject *ich* follows it."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ruf mich an, wann du zu Hause bist.",
+      "answer": "Ruf mich an, wenn du zu Hause bist.",
+      "explanation": "*wann* only asks for a time. Here the clause gives the moment when the call should happen (a future situation), so the conjunction is *wenn*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Put the *wenn* clause at the beginning of the sentence.",
+      "prompt": "Ich höre Musik, wenn ich koche.",
+      "answer": "Wenn ich koche, höre ich Musik.",
+      "explanation": "The Nebensatz keeps its order (*wenn ich koche*). In front it is position 1, so the main clause starts with *höre*, followed by *ich*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Tell the sentence as one event in the past. Use the Präteritum and change the conjunction if necessary.",
+      "prompt": "Wenn das Konzert beginnt, wird es still im Saal.",
+      "answer": "Als das Konzert begann, wurde es still im Saal.",
+      "explanation": "One past event needs *als* instead of *wenn*. Both verbs go into the Präteritum: *beginnt → begann* (strong verb), *wird → wurde*. The word order stays the same."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the two sentences with *als*. Start with the *als* clause.",
+      "prompt": "Ich war zehn Jahre alt. Wir sind nach Kanada gezogen.",
+      "answer": "Als ich zehn Jahre alt war, sind wir nach Kanada gezogen.",
+      "explanation": "Being ten is one period in the past → *als*. In the Nebensatz *war* goes to the end. Then the main clause starts with the auxiliary *sind*, and *gezogen* stays at the end."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the two sentences with *wenn*. Start with the *wenn* clause.",
+      "prompt": "Der Kaffee ist fertig. Ich rufe euch.",
+      "answer": "Wenn der Kaffee fertig ist, rufe ich euch.",
+      "explanation": "The coffee will be ready soon (future) → *wenn*. *ist* goes to the end of the Nebensatz, and the main clause starts with *rufe*, followed by *ich*."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Als",
+      "prompt": "als / ich / den Schlüssel / suchte / klingelte / das Telefon",
+      "answer": "Als ich den Schlüssel suchte, klingelte das Telefon.",
+      "explanation": "In the *als* clause the verb *suchte* comes last. The main clause starts with its verb *klingelte*, and the subject *das Telefon* follows. Without the fixed start, the Nebensatz could also come second: *Das Telefon klingelte, als ich den Schlüssel suchte.*"
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Immer wenn",
+      "prompt": "immer wenn / sie / nervös / ist / redet / sie / zu viel",
+      "answer": "Immer wenn sie nervös ist, redet sie zu viel.",
+      "explanation": "*Immer wenn* introduces a repeated situation. *ist* closes the Nebensatz, and the main clause starts with *redet*, then *sie* and *zu viel*."
+    }
+  ]
+}

@@ -1,0 +1,1157 @@
+{
+  "topic_id": "h09-relativsaetze-wer-was-wo",
+  "level": "B2",
+  "title_de": "Relativsätze mit wer, was, wo und wo(r)+Präposition",
+  "title_en": "Relative clauses with wer, was, wo and wo(r)+preposition",
+  "rule": {
+    "summary": "This topic covers relative clauses that do not use *der/die/das*. **wer** (*wen, wem, wessen*) and **was** start *free* relative clauses without a noun (*Wer zu spät kommt, muss draußen warten.*). **was** is also used after *alles, nichts, etwas, vieles, das* and nominalised adjectives and superlatives (*das Beste, was …*), and to refer to a whole clause (*Er kam pünktlich, was mich überraschte.*). **wo** refers to places and some time expressions. When a preposition is needed and the reference is a thing, an idea or a whole clause, German uses **wo(r)+Präposition** (*worüber, womit*); for people it always uses Präposition + Relativpronomen (*mit der, an den*).",
+    "table": "| Bezug | Relativwort | Beispiel |\n|---|---|---|\n| no noun, person ('whoever') | **wer / wen / wem / wessen** + correlate *der / den / dem* | *Wer fragt, (der) bekommt Hilfe.* · *Wer fragt, **dem** hilft man.* |\n| no noun, thing ('what') | **was** + correlate *das* / *da(r)+Präp.* | *Was er plant, **davon** weiß ich nichts.* |\n| *alles, nichts, etwas, vieles, einiges, das*, *das Beste, das Einzige* | **was** | *alles, **was** …* · *das Beste, **was** …* |\n| a whole clause | **was** / **wo(r)+Präp.** | *…, **was** mich freut.* · *…, **worüber** ich mich freue.* |\n| place, city or country name; *dort, überall, jetzt* | **wo / wohin / woher** | *Berlin, **wo** …* · *jetzt, **wo** …* |\n| preposition + thing or idea (after *was*-words, clauses) | **wo(r)+Präp.** | *alles, **wofür** …* · *…, **womit** niemand rechnete* |\n| preposition + person | **Präp. + der/die/das** | *die Kollegin, **mit der** …* |",
+    "steps": [
+      "Is there a noun the clause refers to? If not, it is a free relative clause: person → a form of *wer*, thing or idea → *was*.",
+      "In a *wer*-clause, find the case of *wer* inside the clause (its verb decides: *helfen* → *wem*), then the case the main clause needs → correlate *der / den / dem*. Same case (Nom.–Nom.) → the correlate may be left out; *wer* in the Nominativ but the main clause needs Akk./Dat. → the correlate is obligatory (*Wer …, dem …*). If *wer* has a 'higher' case (*wem, wen*) and the main clause needs the Nominativ, the correlate is often left out (*Wem das nicht passt, (der) kann gehen*), but keeping it is always correct.",
+      "If the reference is *alles, nichts, etwas, vieles, einiges, manches*, a demonstrative *das*, a nominalised neuter adjective or superlative, or the whole previous clause → **was**.",
+      "If *was* would need a preposition, use **wo(r)+Präposition**: *-r-* before a vowel (*woran, worauf, worüber*), no *-r-* before a consonant (*womit, wofür, wovor*).",
+      "For people always use Präposition + *der/die/das* (*mit der, bei dem*). For places use *wo* (or *in dem* etc.), for a direction *wohin*, for an origin *woher*."
+    ],
+    "pitfalls": [
+      "*der* without a noun: ✗ *Der zu spät kommt, muss draußen warten.* → ✓ *Wer zu spät kommt, muss draußen warten.*",
+      "Missing correlate when the cases differ: ✗ *Wer mir hilft, danke ich.* → ✓ *Wer mir hilft, dem danke ich.*",
+      "*was* and *das* mixed up: ✗ *alles, das …* · ✗ *das Buch, was ich lese* → ✓ *alles, was …* · ✓ *das Buch, das ich lese*. *was* is for indefinite words and ideas, *das* for neuter nouns.",
+      "wo-form for people: ✗ *die Kollegin, womit ich arbeite* → ✓ *die Kollegin, mit der ich arbeite*.",
+      "*das* for a whole clause: ✗ *Er kam pünktlich, das mich überraschte.* → ✓ *Er kam pünktlich, was mich überraschte.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "{{c1::Wer::wer/wem/wen?}} sich bis zum 31. März anmeldet, zahlt nur die Hälfte der Gebühr.",
+      "en": "Anyone who registers by 31 March pays only half the fee.",
+      "focus": "freier Relativsatz · Person · Kasus im Nebensatz",
+      "explanation": "There is no noun before the clause; it means 'anyone who'. In the relative clause the pronoun is the subject of *sich anmeldet* → Nominativ **Wer**. The main clause *zahlt* also needs a Nominativ subject, so the correlate *der* can be left out: *Wer …, (der) zahlt …*.",
+      "pattern": "Wer (Nom.) + … + Verb, (der) + Verb + …",
+      "mistake": {
+        "wrong": "Der sich bis zum 31. März anmeldet, zahlt nur die Hälfte der Gebühr.",
+        "why": "Without a noun to refer to, *der* cannot introduce a relative clause. For 'anyone who', German uses *wer* (or *Jeder, der …*)."
+      },
+      "examples": [
+        {
+          "de": "Wer die Prüfung zweimal nicht besteht, muss den Kurs wiederholen.",
+          "en": "Anyone who fails the exam twice has to repeat the course."
+        },
+        {
+          "de": "Wer mit dem Rad zur Arbeit kommt, bekommt einen Zuschuss.",
+          "en": "Anyone who cycles to work receives a subsidy."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Gebühr (-en)",
+          "en": "fee"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wer im Homeoffice arbeitet, {{c1::dem::der/dem/den?}} fehlt oft der Kontakt zu den Kollegen.",
+      "en": "People who work from home often miss contact with their colleagues.",
+      "focus": "freier Relativsatz · Korrelat im Hauptsatz · Dativ",
+      "explanation": "In the relative clause *wer* is the subject (Nominativ). In the main clause the person is the Dativ object of *fehlen* (*jemandem fehlt etwas*); the subject there is *der Kontakt*. The cases differ, so the correlate cannot be left out and must be Dativ: **dem**.",
+      "pattern": "Wer (Nom.) …, dem (Dat.) + Verb + …",
+      "mistake": {
+        "wrong": "Wer im Homeoffice arbeitet, fehlt oft der Kontakt zu den Kollegen.",
+        "why": "*wer* is Nominativ, but *fehlen* needs a Dativ for the person in the main clause. When the main clause needs a case other than the Nominativ of *wer*, the correlate can never be left out: *dem* is required."
+      },
+      "examples": [
+        {
+          "de": "Wer viel reist, dem fällt die Umstellung leichter.",
+          "en": "People who travel a lot find the adjustment easier."
+        },
+        {
+          "de": "Wer ehrlich ist, dem vertrauen die Leute.",
+          "en": "People trust those who are honest."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Wem::wer/wem/wen?}} die neuen Regeln nicht passen, der kann sich gern beim Betriebsrat beschweren.",
+      "en": "Anyone who doesn't like the new rules is welcome to complain to the works council.",
+      "focus": "freier Relativsatz · Verb mit Dativ im Nebensatz",
+      "explanation": "*passen* takes the person in the Dativ (*jemandem passt etwas*), and the subject of the clause is *die neuen Regeln* → **Wem**. That is why the verb *passen* is plural: it agrees with *die Regeln*, not with the person. The main clause needs a subject for *kann sich beschweren* → correlate *der* (Nominativ).",
+      "pattern": "Wem (Dat.) + Subjekt + … + Verb, der (Nom.) + Verb + …",
+      "mistake": {
+        "wrong": "Wer die neuen Regeln nicht passen, der kann sich gern beim Betriebsrat beschweren.",
+        "why": "*wer* would be the subject, but the subject of *passen* is *die neuen Regeln*. The person who is affected stands in the Dativ: *wem*."
+      },
+      "examples": [
+        {
+          "de": "Wem der Weg zu weit ist, der kann den Shuttlebus nehmen.",
+          "en": "Anyone who finds the walk too far can take the shuttle bus."
+        },
+        {
+          "de": "Wem das Wetter zu unsicher ist, der sollte die Wanderung verschieben.",
+          "en": "Anyone who finds the weather too uncertain should postpone the hike."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Betriebsrat (-räte)",
+          "en": "works council"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Wen::wer/wem/wen?}} das Thema näher interessiert, der findet weitere Informationen auf unserer Website.",
+      "en": "Anyone who is interested in the topic in more detail will find further information on our website.",
+      "focus": "freier Relativsatz · Verb mit Akkusativ im Nebensatz",
+      "explanation": "*interessieren* takes the person in the Akkusativ (*etwas interessiert jemanden*), and *das Thema* is the subject → **Wen**. The main clause needs a Nominativ subject for *findet* → correlate *der*. In speech the correlate is sometimes left out here, but in careful German it stays because the cases differ.",
+      "pattern": "Wen (Akk.) + Subjekt + … + Verb, der (Nom.) + Verb + …",
+      "mistake": {
+        "wrong": "Wem das Thema näher interessiert, der findet weitere Informationen auf unserer Website.",
+        "why": "*interessieren* takes an Akkusativ object, not a Dativ: *Das interessiert mich* → *wen*."
+      },
+      "examples": [
+        {
+          "de": "Wen die Stelle reizt, der sollte sich bis Freitag bewerben.",
+          "en": "Anyone who finds the position attractive should apply by Friday."
+        },
+        {
+          "de": "Wen der Lärm stört, der kann Ohrstöpsel an der Rezeption bekommen.",
+          "en": "Anyone who is bothered by the noise can get earplugs at reception."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wer gegen die Hausordnung verstößt, {{c1::den::der/dem/den?}} kann der Vermieter abmahnen.",
+      "en": "The landlord can issue a formal warning to anyone who breaks the house rules.",
+      "focus": "freier Relativsatz · Korrelat als Akkusativobjekt",
+      "explanation": "*wer* is the subject of *verstößt* (Nominativ). In the main clause the subject is *der Vermieter*, and the person is the Akkusativ object of *abmahnen* (*jemanden abmahnen*) → correlate **den**. It must stay, because the cases differ, and it fills the Vorfeld before *kann*.",
+      "pattern": "Wer (Nom.) …, den (Akk.) + Verb + Subjekt + … + Infinitiv",
+      "mistake": {
+        "wrong": "Wer gegen die Hausordnung verstößt, der kann der Vermieter abmahnen.",
+        "why": "The clause now has two Nominativs (*der … der Vermieter*). The landlord is the subject; the person who breaks the rules is the Akkusativ object → *den*."
+      },
+      "examples": [
+        {
+          "de": "Wer ohne Ticket fährt, den kontrolliert man früher oder später.",
+          "en": "People who ride without a ticket get checked sooner or later."
+        },
+        {
+          "de": "Wer bei der Prüfung schummelt, den schließt die Hochschule vom Studium aus.",
+          "en": "The university expels anyone who cheats in the exam."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Hausordnung (-en)",
+          "en": "house rules"
+        },
+        {
+          "de": "abmahnen",
+          "en": "to issue a formal warning"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Wessen::wer → Gen.}} Antrag unvollständig ist, der muss mit längeren Wartezeiten rechnen.",
+      "en": "Anyone whose application is incomplete must expect longer waiting times.",
+      "focus": "freier Relativsatz · Besitz",
+      "explanation": "The clause is about possession: the application belongs to the person → Genitiv **Wessen**. Like *dessen/deren*, *wessen* stands directly before the noun, and the noun has no article (*wessen Antrag*). The main clause needs a subject for *muss rechnen* → correlate *der*.",
+      "pattern": "Wessen + Nomen (ohne Artikel) …, der + Verb + …",
+      "mistake": {
+        "wrong": "Wessen der Antrag unvollständig ist, der muss mit längeren Wartezeiten rechnen.",
+        "why": "After *wessen* the noun takes no article: *wessen Antrag*, not *wessen der Antrag*."
+      },
+      "examples": [
+        {
+          "de": "Wessen Kind noch nicht angemeldet ist, der sollte sich beeilen.",
+          "en": "Anyone whose child is not yet registered should hurry."
+        },
+        {
+          "de": "Wessen Name auf der Liste steht, der darf hinein.",
+          "en": "Anyone whose name is on the list may go in."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Antrag (-träge)",
+          "en": "application (form)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Teilnehmen darf nur, {{c1::wer::wer/wem/wen?}} einen gültigen Studierendenausweis vorlegt.",
+      "en": "Only those who present a valid student ID may take part.",
+      "focus": "freier Relativsatz nach dem Hauptsatz",
+      "explanation": "The free relative clause can also follow the main clause. Then it is the subject of the main clause (*Teilnehmen darf nur, wer …* = *Nur wer …, darf teilnehmen*), and there is no correlate. Inside the clause the pronoun is the subject of *vorlegt* → Nominativ **wer**.",
+      "pattern": "Vorfeld + Verb + (nur), wer + … + Verb",
+      "mistake": {
+        "wrong": "Teilnehmen darf nur, der einen gültigen Studierendenausweis vorlegt.",
+        "why": "*der* alone cannot stand for 'whoever'. Use *wer*, or a full demonstrative + relative pronoun: *nur derjenige, der …*."
+      },
+      "examples": [
+        {
+          "de": "Eine Ermäßigung bekommt, wer jünger als 26 ist.",
+          "en": "Those under 26 get a discount."
+        },
+        {
+          "de": "Gewonnen hat, wer zuerst alle Fragen richtig beantwortet.",
+          "en": "The winner is whoever answers all the questions correctly first."
+        }
+      ],
+      "words": [
+        {
+          "de": "vorlegen",
+          "en": "to present, to show (a document)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Was::Relativwort ohne Bezugswort}} mich an der Stelle am meisten reizt, ist die internationale Zusammenarbeit.",
+      "en": "What attracts me most about the position is the international collaboration.",
+      "focus": "freier Relativsatz · Sache oder Idee",
+      "explanation": "**Was** introduces a free relative clause about a thing or idea ('what', 'the thing that'). It is the subject of *reizt* (Nominativ), and the whole clause is the subject of *ist*. The correlate *das* is left out because both cases are Nominativ.",
+      "pattern": "Was (Nom.) + … + Verb, ist + …",
+      "mistake": {
+        "wrong": "Das mich an der Stelle am meisten reizt, ist die internationale Zusammenarbeit.",
+        "why": "*das* cannot start a relative clause without a noun before it. English 'what' corresponds to *was* (or *das, was*)."
+      },
+      "examples": [
+        {
+          "de": "Was mich an dem Film gestört hat, war das Ende.",
+          "en": "What bothered me about the film was the ending."
+        },
+        {
+          "de": "Was wir jetzt brauchen, ist eine klare Entscheidung.",
+          "en": "What we need now is a clear decision."
+        }
+      ],
+      "words": [
+        {
+          "de": "reizen",
+          "en": "to attract, to appeal to"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Was du mir gestern erzählt hast, {{c1::darüber::da(r)+Präp.}} muss ich erst in Ruhe nachdenken.",
+      "en": "I need to think calmly about what you told me yesterday.",
+      "focus": "freier *was*-Satz · Korrelat mit Präposition",
+      "explanation": "*was* is the Akkusativ object of *erzählt hast*. In the main clause, *nachdenken* needs a prepositional object with *über* (*über etwas nachdenken*), so the correlate is the Pronominaladverb **darüber**. It cannot be left out, because the main clause needs this preposition.",
+      "pattern": "Was (Akk.) …, da(r)+Präp. + Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Was du mir gestern erzählt hast, muss ich erst in Ruhe nachdenken.",
+        "why": "*nachdenken* has no Akkusativ object; it needs *über*. Without the correlate *darüber* the main clause has no prepositional object."
+      },
+      "examples": [
+        {
+          "de": "Was in dem Vertrag steht, davon hat der Kunde nichts gewusst.",
+          "en": "The customer knew nothing about what is in the contract."
+        },
+        {
+          "de": "Was sie damals erlebt hat, daran erinnert sie sich nicht gern.",
+          "en": "She doesn't like to remember what she went through back then."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Alles, {{c1::was::Relativwort}} Sie in diesem Saal sehen, stammt aus dem 18. Jahrhundert.",
+      "en": "Everything you see in this hall dates from the 18th century.",
+      "focus": "Relativsatz nach *alles*",
+      "explanation": "After indefinite neuter words like *alles*, the relative pronoun is **was**, not *das*. *was* is the Akkusativ object of *sehen* (its form is the same as the Nominativ). The main verb *stammt* is singular, because *alles* is grammatically singular.",
+      "pattern": "Alles, was + … + Verb, + Verb (Sg.) + …",
+      "mistake": {
+        "wrong": "Alles, das Sie in diesem Saal sehen, stammt aus dem 18. Jahrhundert.",
+        "why": "*alles* is not a noun with a gender; it refers to an indefinite set. After *alles* standard German uses *was*."
+      },
+      "examples": [
+        {
+          "de": "Alles, was du sagst, kann gegen dich verwendet werden.",
+          "en": "Anything you say can be used against you."
+        },
+        {
+          "de": "Alles, was übrig bleibt, spenden wir der Tafel.",
+          "en": "Everything that is left over we donate to the food bank."
+        }
+      ],
+      "words": [
+        {
+          "de": "stammen aus (+ Dat.)",
+          "en": "to date from, to come from"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Es gibt nichts, {{c1::was::Relativwort}} mich mehr nervt als Leute, die im Kino telefonieren.",
+      "en": "There's nothing that annoys me more than people who make phone calls in the cinema.",
+      "focus": "Relativsatz nach *nichts* · Kontrast mit Nomen",
+      "explanation": "*nichts* is indefinite and has no gender, so the relative pronoun is **was**, the subject of *nervt*. The second relative clause shows the contrast: *Leute* is a real plural noun, so it takes the normal relative pronoun *die*.",
+      "pattern": "nichts, was … · Nomen, der/die/das …",
+      "mistake": {
+        "wrong": "Es gibt nichts, was mich mehr nervt als Leute, was im Kino telefonieren.",
+        "why": "*was* is only for indefinite words and ideas. After a noun (*Leute*, plural) the relative pronoun agrees with the noun: *die*."
+      },
+      "examples": [
+        {
+          "de": "Es gibt nichts, was er nicht schon ausprobiert hätte.",
+          "en": "There's nothing he hasn't already tried."
+        },
+        {
+          "de": "Sie hat nichts gesagt, was mich beruhigt hätte.",
+          "en": "She said nothing that would have reassured me."
+        }
+      ],
+      "words": [
+        {
+          "de": "nerven",
+          "en": "to annoy, to get on someone's nerves"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich habe dir etwas mitgebracht, {{c1::was::Relativwort}} dir bestimmt gefallen wird.",
+      "en": "I've brought you something that I'm sure you'll like.",
+      "focus": "Relativsatz nach *etwas* · Nachfeld",
+      "explanation": "After *etwas* the relative pronoun is **was** (in written German *etwas, das* is also found). *was* is the subject of *gefallen wird*; *gefallen* takes the person in the Dativ (*dir*). The relative clause stands after the Partizip II *mitgebracht* (in the Nachfeld), which is normal when it would otherwise split the Satzklammer.",
+      "pattern": "… etwas + Partizip II, was + … + Verb",
+      "mistake": {
+        "wrong": "Ich habe dir etwas mitgebracht, welches dir bestimmt gefallen wird.",
+        "why": "*welcher/welches* can replace *der/das* after a noun, but not after *etwas*. After indefinite pronouns use *was*."
+      },
+      "examples": [
+        {
+          "de": "Er hat etwas entdeckt, was die ganze Theorie in Frage stellt.",
+          "en": "He has discovered something that calls the whole theory into question."
+        },
+        {
+          "de": "Gibt es etwas, was ich für dich tun kann?",
+          "en": "Is there anything I can do for you?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Vieles, {{c1::was::Relativwort}} in den sozialen Medien behauptet wird, lässt sich leicht widerlegen.",
+      "en": "Much of what is claimed on social media can easily be disproved.",
+      "focus": "Relativsatz nach *vieles* · Passiv",
+      "explanation": "*vieles* (like *manches, einiges, weniges*) is an indefinite neuter pronoun → **was**. Here *was* is the subject of the passive *behauptet wird*, and it is singular, like *vieles*. The main clause uses *sich lassen* + infinitive (= *kann widerlegt werden*).",
+      "pattern": "Vieles, was + … + Verb (Sg.), + Verb + …",
+      "mistake": {
+        "wrong": "Vieles, was in den sozialen Medien behauptet werden, lässt sich leicht widerlegen.",
+        "why": "*vieles* and *was* are grammatically singular (unlike *viele* + plural noun), so the verb must be singular: *behauptet wird*."
+      },
+      "examples": [
+        {
+          "de": "Vieles, was wir damals gelernt haben, ist heute überholt.",
+          "en": "Much of what we learned back then is outdated today."
+        },
+        {
+          "de": "Manches, was im Protokoll steht, stimmt so nicht.",
+          "en": "Some of what is in the minutes isn't quite right."
+        }
+      ],
+      "words": [
+        {
+          "de": "widerlegen",
+          "en": "to disprove, to refute"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Das, {{c1::was::Relativwort}} du da vorschlägst, ist rechtlich ziemlich problematisch.",
+      "en": "What you're suggesting there is legally quite problematic.",
+      "focus": "Relativsatz nach dem Demonstrativum *das*",
+      "explanation": "The demonstrative *das* has no noun; it stands for an idea. After such a *das* (also *dasselbe, dasjenige* in this sense) the relative pronoun is **was**. *was* is the Akkusativ object of *vorschlägst*; *das* is the subject of *ist*.",
+      "pattern": "Das, was + … + Verb, + Verb + …",
+      "mistake": {
+        "wrong": "Das, das du da vorschlägst, ist rechtlich ziemlich problematisch.",
+        "why": "*das* here is not a neuter noun but a pronoun for an idea. A relative clause after it uses *was*: *das, was*."
+      },
+      "examples": [
+        {
+          "de": "Das, was du gerade beschreibst, nennt man Burnout.",
+          "en": "What you are describing right now is called burnout."
+        },
+        {
+          "de": "Das, was in der Anzeige versprochen wird, ist reines Marketing.",
+          "en": "What the advert promises is pure marketing."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Das war das Beste, {{c1::was::Relativwort}} mir in diesem Jahr passiert ist.",
+      "en": "That was the best thing that happened to me this year.",
+      "focus": "Relativsatz nach nominalisiertem Superlativ",
+      "explanation": "After a nominalised neuter superlative (*das Beste, das Schönste, das Wichtigste*) the relative pronoun is **was**, because the reference is an abstract idea, not a concrete thing. *was* is the subject of *passiert ist*; *passieren* takes the person in the Dativ (*mir*).",
+      "pattern": "das + Superlativ (Nomen), was + … + Verb",
+      "mistake": {
+        "wrong": "Das war das Beste, wo mir in diesem Jahr passiert ist.",
+        "why": "*wo* as a general relative word is dialect (southern German). In standard German, *wo* is only for places and some times; here you need *was*."
+      },
+      "examples": [
+        {
+          "de": "Das ist das Dümmste, was ich seit Langem gehört habe.",
+          "en": "That's the most stupid thing I've heard in a long time."
+        },
+        {
+          "de": "Das Wichtigste, was du mitbringen musst, ist Geduld.",
+          "en": "The most important thing you need to bring is patience."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Es gibt einiges, {{c1::worüber::wo(r)+Präp.}} wir vor der Vertragsunterzeichnung noch sprechen müssen.",
+      "en": "There are a few things we still need to discuss before signing the contract.",
+      "focus": "*einiges* + Präposition im Relativsatz",
+      "explanation": "After *einiges* the relative word would be *was*. But *sprechen* needs *über* (*über etwas sprechen*), and in standard German *was* does not follow a preposition. So *über* + *was* becomes **worüber**, with *-r-* because *über* begins with a vowel.",
+      "pattern": "einiges/vieles/alles, wo(r)+Präp. + … + Verb",
+      "mistake": {
+        "wrong": "Es gibt einiges, darüber wir vor der Vertragsunterzeichnung noch sprechen müssen.",
+        "why": "*darüber* is a demonstrative Pronominaladverb and cannot introduce a relative clause. Relative clauses use the *wo*-form: *worüber*."
+      },
+      "examples": [
+        {
+          "de": "Das ist alles, wofür ich mich im Moment interessiere.",
+          "en": "That's all I'm interested in at the moment."
+        },
+        {
+          "de": "Es gibt vieles, worauf man bei einem Gebrauchtwagen achten sollte.",
+          "en": "There are many things you should pay attention to with a used car."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Vertragsunterzeichnung",
+          "en": "signing of the contract"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Der Zug kam auf die Minute pünktlich, {{c1::was::Relativwort}} mich ehrlich gesagt überrascht hat.",
+      "en": "The train arrived exactly on time, which, to be honest, surprised me.",
+      "focus": "Relativsatz bezogen auf den ganzen Satz",
+      "explanation": "The relative clause refers to the whole main clause (the fact that the train was on time), not to the noun *der Zug*. For this, German uses **was**, here the subject of *überrascht hat*. *der* would refer to the train itself.",
+      "pattern": "Hauptsatz, was + … + Verb (Bezug: ganzer Satz)",
+      "mistake": {
+        "wrong": "Der Zug kam auf die Minute pünktlich, das mich ehrlich gesagt überrascht hat.",
+        "why": "*das* cannot refer back to a whole clause as a relative pronoun. Use *was*, or start a new main clause: *Das hat mich überrascht.*"
+      },
+      "examples": [
+        {
+          "de": "Sie hat die Stelle abgelehnt, was niemand verstanden hat.",
+          "en": "She turned the job down, which nobody understood."
+        },
+        {
+          "de": "Die Mieten steigen weiter, was vor allem Studierende trifft.",
+          "en": "Rents keep rising, which hits students in particular."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Sie hat das Stipendium bekommen, {{c1::worüber::wo(r)+Präp.}} sich ihre ganze Familie riesig freut.",
+      "en": "She got the scholarship, which her whole family is thrilled about.",
+      "focus": "Satzbezug · Verb mit Präposition",
+      "explanation": "The relative clause refers to the whole fact (*dass sie das Stipendium bekommen hat*). *sich freuen* about something that has already happened takes *über* → *über* + *was* → **worüber**. *sich freuen auf* would mean looking forward to something in the future.",
+      "pattern": "Hauptsatz, wo(r)+Präp. + … + Verb (Bezug: ganzer Satz)",
+      "mistake": {
+        "wrong": "Sie hat das Stipendium bekommen, worauf sich ihre ganze Familie riesig freut.",
+        "why": "*sich freuen auf* is for future events ('look forward to'). The scholarship has already been awarded, so the family is happy *about* it: *sich freuen über* → *worüber*."
+      },
+      "examples": [
+        {
+          "de": "Er hat sich bei allen entschuldigt, worüber ich sehr froh bin.",
+          "en": "He apologised to everyone, which I'm very glad about."
+        },
+        {
+          "de": "Die Sitzung wurde abgesagt, worüber sich keiner beschwert hat.",
+          "en": "The meeting was cancelled, which nobody complained about."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Stipendium (Stipendien)",
+          "en": "scholarship, grant"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Firma hat ihre Preise um 30 Prozent erhöht, {{c1::wodurch::wo(r)+Präp.}} viele Stammkunden abgesprungen sind.",
+      "en": "The company raised its prices by 30 per cent, as a result of which many regular customers left.",
+      "focus": "Satzbezug · Folge",
+      "explanation": "**wodurch** (*durch* + *was*) refers to the whole main clause and names it as the cause: through this price rise, the customers left. It is a typical written way to attach a consequence. No *-r-*, because *durch* begins with a consonant; the finite verb *sind* goes to the end.",
+      "pattern": "Hauptsatz, wodurch + … + Partizip II + Hilfsverb",
+      "mistake": {
+        "wrong": "Die Firma hat ihre Preise um 30 Prozent erhöht, wodurch viele Stammkunden sind abgesprungen.",
+        "why": "A clause with *wodurch* is a Nebensatz, so the finite verb must be at the end: *abgesprungen sind*."
+      },
+      "examples": [
+        {
+          "de": "Der Server ist ausgefallen, wodurch alle Daten vom Vormittag verloren gingen.",
+          "en": "The server crashed, as a result of which all the data from the morning was lost."
+        },
+        {
+          "de": "Die Straße wurde verbreitert, wodurch sich der Verkehr deutlich verbessert hat.",
+          "en": "The road was widened, which has considerably improved the traffic."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Stammkunde (-n)",
+          "en": "regular customer"
+        },
+        {
+          "de": "abspringen",
+          "en": "(here) to drop out, to leave"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Er hat auf keine meiner E-Mails geantwortet, {{c1::woraus::wo(r)+Präp.}} ich schließe, dass er kein Interesse mehr hat.",
+      "en": "He hasn't replied to any of my emails, from which I conclude that he's no longer interested.",
+      "focus": "Satzbezug · Verb mit Präposition · Schlussfolgerung",
+      "explanation": "*schließen* in the sense 'conclude' takes *aus* (*aus etwas schließen*). The relative clause refers to the whole previous clause → *aus* + *was* → **woraus**. *aus* begins with a vowel, so *-r-* is inserted.",
+      "pattern": "Hauptsatz, wor+Präp. (Vokal) + … + Verb",
+      "mistake": {
+        "wrong": "Er hat auf keine meiner E-Mails geantwortet, woaus ich schließe, dass er kein Interesse mehr hat.",
+        "why": "Before a preposition that begins with a vowel, *wo* takes a linking *-r-*: *woraus, worauf, worüber*."
+      },
+      "examples": [
+        {
+          "de": "Die Werte sind stabil geblieben, woraus die Ärzte schließen, dass die Therapie wirkt.",
+          "en": "The values have remained stable, from which the doctors conclude that the therapy is working."
+        },
+        {
+          "de": "Sie hat nichts gesagt, woraus man ihre Meinung erkennen konnte.",
+          "en": "She said nothing from which you could tell her opinion."
+        }
+      ],
+      "words": [
+        {
+          "de": "schließen aus (+ Dat.)",
+          "en": "to conclude from"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Das ist das Café, {{c1::wo::Ort, 1 Wort}} wir uns zum ersten Mal getroffen haben.",
+      "en": "That's the café where we met for the first time.",
+      "focus": "Relativsatz · Ort · Relativadverb",
+      "explanation": "For places, the relative adverb **wo** can replace Präposition + Relativpronomen (*in dem*). It has no gender or case forms. It is very common in speech and accepted in standard German; in formal writing *in dem* is often preferred.",
+      "pattern": "Nomen (Ort), wo + … + Verb",
+      "mistake": {
+        "wrong": "Das ist das Café, in das wir uns zum ersten Mal getroffen haben.",
+        "why": "*sich treffen* is a location (*wo?*), so *in* needs the Dativ: *in dem* (or simply *wo*). *in das* means a direction."
+      },
+      "examples": [
+        {
+          "de": "Wir suchen eine Wohnung, wo auch Haustiere erlaubt sind.",
+          "en": "We're looking for a flat where pets are allowed too."
+        },
+        {
+          "de": "Das ist die Klinik, wo meine Tochter geboren wurde.",
+          "en": "That's the hospital where my daughter was born."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Nächste Woche fliege ich nach Lissabon, {{c1::wo::Ort, 1 Wort}} meine Schwester seit drei Jahren lebt.",
+      "en": "Next week I'm flying to Lisbon, where my sister has been living for three years.",
+      "focus": "Relativsatz nach Städtenamen",
+      "explanation": "After names of cities and countries without an article, **wo** is the normal relative word; *in dem* sounds unnatural because the name has no visible article. The main clause expresses a direction (*nach Lissabon*), but the relative clause a location (*lebt*), so it is *wo*, not *wohin*.",
+      "pattern": "Städtename, wo + … + Verb",
+      "mistake": {
+        "wrong": "Nächste Woche fliege ich nach Lissabon, wohin meine Schwester seit drei Jahren lebt.",
+        "why": "The choice depends on the verb in the relative clause. *leben* is a location (*wo?*), not a direction, so the word is *wo*."
+      },
+      "examples": [
+        {
+          "de": "Er stammt aus Graz, wo er auch Medizin studiert hat.",
+          "en": "He comes from Graz, where he also studied medicine."
+        },
+        {
+          "de": "Im Juli fahren wir nach Norwegen, wo es im Sommer kaum dunkel wird.",
+          "en": "In July we're going to Norway, where it hardly gets dark in summer."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Überall, {{c1::wohin::Richtung}} man in der Altstadt schaut, sieht man Baukräne.",
+      "en": "Everywhere you look in the old town, you see construction cranes.",
+      "focus": "Relativsatz nach *überall* · Richtung",
+      "explanation": "*schauen* (to look somewhere) is a direction → **wohin**. After place adverbs like *überall, dort, da* there is no noun to agree with, so a *wo*-word is used. The whole relative clause fills the Vorfeld, so the finite verb *sieht* follows directly.",
+      "pattern": "Überall, wohin + … + Verb, + Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Überall, wohin man in der Altstadt schaut, man sieht Baukräne.",
+        "why": "The relative clause and *überall* together form the Vorfeld. The finite verb must come next (position 2), before the subject: *sieht man*."
+      },
+      "examples": [
+        {
+          "de": "Überall, wohin wir kamen, wurden wir freundlich empfangen.",
+          "en": "Everywhere we went, we were warmly welcomed."
+        },
+        {
+          "de": "Sie kann gehen, wohin sie will.",
+          "en": "She can go wherever she wants."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Baukran (-kräne)",
+          "en": "construction crane"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Dort, {{c1::wo::Ort, 1 Wort}} früher die Textilfabrik stand, ist heute ein Wohnviertel mit Park.",
+      "en": "Where the textile factory used to stand, there is now a residential area with a park.",
+      "focus": "Korrelat *dort* + Relativadverb",
+      "explanation": "*dort* is the correlate in the main clause, and **wo** introduces the relative clause about the place: *dort, wo* = 'in the place where'. *dort* can also be left out: *Wo früher …, ist heute …*. Inside the clause the finite verb *stand* is last.",
+      "pattern": "Dort, wo + … + Verb, + Verb + …",
+      "mistake": {
+        "wrong": "Dort, wo früher stand die Textilfabrik, ist heute ein Wohnviertel mit Park.",
+        "why": "A *wo*-clause is a Nebensatz, so the finite verb goes to the end: *wo früher die Textilfabrik stand*."
+      },
+      "examples": [
+        {
+          "de": "Dort, wo die Straße endet, beginnt der Wanderweg.",
+          "en": "Where the road ends, the hiking trail begins."
+        },
+        {
+          "de": "Wir zelten dort, wo es erlaubt ist.",
+          "en": "We camp where it is allowed."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Jetzt, {{c1::wo::Zeit, 1 Wort}} die Kinder aus dem Haus sind, reisen wir viel mehr.",
+      "en": "Now that the children have left home, we travel much more.",
+      "focus": "*jetzt* + temporales Relativadverb",
+      "explanation": "After *jetzt* (and *nun*), **wo** has a temporal meaning: *jetzt, wo* = 'now that'. This use is standard; in formal style *jetzt, da* is also possible. The clause describes a present situation, so *als* is impossible.",
+      "pattern": "Jetzt, wo + … + Verb, + Verb + Subjekt + …",
+      "mistake": {
+        "wrong": "Jetzt, als die Kinder aus dem Haus sind, reisen wir viel mehr.",
+        "why": "*als* is only for single events or periods in the past. For a present situation after *jetzt*, use *wo* (or *da*)."
+      },
+      "examples": [
+        {
+          "de": "Jetzt, wo du es sagst, fällt es mir auch auf.",
+          "en": "Now that you mention it, I notice it too."
+        },
+        {
+          "de": "Nun, wo das Projekt abgeschlossen ist, können wir endlich Urlaub machen.",
+          "en": "Now that the project is finished, we can finally go on holiday."
+        }
+      ],
+      "words": [
+        {
+          "de": "aus dem Haus sein",
+          "en": "to have left home (children)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Der Professor, {{c1::bei dem::Präp. + Relativpronomen}} ich promoviere, ist gerade für ein Semester in Kyoto.",
+      "en": "The professor I'm doing my PhD with is in Kyoto for a semester at the moment.",
+      "focus": "Präposition + Person",
+      "explanation": "*bei jemandem promovieren* = to do a doctorate under someone; *bei* takes the Dativ. The antecedent is a person (masculine), so you must use Präposition + Relativpronomen: **bei dem**. wo(r)+Präposition is never used for people.",
+      "pattern": "Person, Präp. + der/die/das (Kasus der Präp.) + … + Verb",
+      "mistake": {
+        "wrong": "Der Professor, wobei ich promoviere, ist gerade für ein Semester in Kyoto.",
+        "why": "*wobei* refers to things or whole clauses, never to people. For a person: *bei dem*."
+      },
+      "examples": [
+        {
+          "de": "Die Ärztin, bei der ich in Behandlung bin, hat eine eigene Praxis.",
+          "en": "The doctor who is treating me has her own practice."
+        },
+        {
+          "de": "Die Familie, bei der ich während des Austauschs wohnte, lebt in Lyon.",
+          "en": "The family I stayed with during the exchange lives in Lyon."
+        }
+      ],
+      "words": [
+        {
+          "de": "promovieren (bei + Dat.)",
+          "en": "to do a doctorate (under)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Die Anwältin, {{c1::an die::Präp. + Relativpronomen}} ich mich gewandt habe, hat mir sofort weitergeholfen.",
+      "en": "The lawyer I turned to helped me right away.",
+      "focus": "Präposition + Person · Akkusativ",
+      "explanation": "*sich an jemanden wenden* (to turn to someone) takes *an* + Akkusativ. The antecedent is a woman → feminine Akkusativ **an die**. The person cannot be replaced by *woran*, which is only for things and ideas.",
+      "pattern": "Person, Präp. + Relativpronomen (Akk.) + … + Verb",
+      "mistake": {
+        "wrong": "Die Anwältin, woran ich mich gewandt habe, hat mir sofort weitergeholfen.",
+        "why": "*woran* is only for things, ideas or whole clauses. For a person, use the preposition + relative pronoun: *an die*."
+      },
+      "examples": [
+        {
+          "de": "Der Kollege, an den ich die Anfrage weitergeleitet habe, ist leider im Urlaub.",
+          "en": "The colleague I forwarded the request to is unfortunately on holiday."
+        },
+        {
+          "de": "Die Freunde, auf die ich mich immer verlassen kann, wohnen alle in der Nähe.",
+          "en": "The friends I can always rely on all live nearby."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich wenden an (+ Akk.)",
+          "en": "to turn to, to contact"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Der Vertrag, {{c1::auf den::Präp. + Relativpronomen}} wir uns nach langen Verhandlungen geeinigt haben, gilt ab Januar.",
+      "en": "The contract we agreed on after long negotiations comes into force in January.",
+      "focus": "Präposition + Sache (Nomen)",
+      "explanation": "*sich auf etwas einigen* takes *auf* + Akkusativ, and *Vertrag* is masculine → **auf den**. When the antecedent is a concrete noun, standard German prefers Präposition + Relativpronomen; *worauf* is possible but sounds old-fashioned or colloquial here.",
+      "pattern": "Nomen (Sache), Präp. + Relativpronomen + … + Verb",
+      "mistake": {
+        "wrong": "Der Vertrag, auf dem wir uns nach langen Verhandlungen geeinigt haben, gilt ab Januar.",
+        "why": "*sich einigen auf* takes the Akkusativ, not the Dativ: *auf den* (masculine Akkusativ)."
+      },
+      "examples": [
+        {
+          "de": "Die Lösung, auf die wir gekommen sind, ist ziemlich einfach.",
+          "en": "The solution we came up with is quite simple."
+        },
+        {
+          "de": "Das Projekt, für das sie sich beworben hat, beginnt im Herbst.",
+          "en": "The project she applied for starts in the autumn."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich einigen auf (+ Akk.)",
+          "en": "to agree on"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Das ist genau das, {{c1::wovor::wo(r)+Präp.}} ich dich gewarnt habe.",
+      "en": "That's exactly what I warned you about.",
+      "focus": "Demonstrativum *das* + Präposition",
+      "explanation": "*jemanden vor etwas warnen* takes *vor*. After the demonstrative *das* the relative word would be *was*, and *vor* + *was* becomes **wovor**. *vor* begins with a consonant, so no *-r-* is inserted.",
+      "pattern": "das, wo+Präp. (Konsonant) + … + Verb",
+      "mistake": {
+        "wrong": "Das ist genau das, worvor ich dich gewarnt habe.",
+        "why": "The linking *-r-* is only used before a vowel (*woran, worüber*). Before a consonant: *wovor, womit, wofür*."
+      },
+      "examples": [
+        {
+          "de": "Das ist genau das, wofür wir seit Jahren kämpfen.",
+          "en": "That's exactly what we've been fighting for for years."
+        },
+        {
+          "de": "Das war das, wovon ich die ganze Zeit geträumt hatte.",
+          "en": "That was what I had been dreaming of the whole time."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Sie hat das Angebot der Konkurrenz abgelehnt, {{c1::womit::wo(r)+Präp.}} niemand gerechnet hatte.",
+      "en": "She turned down the competitor's offer, which nobody had expected.",
+      "focus": "Satzbezug · *rechnen* + Präposition",
+      "explanation": "The relative clause refers to the fact that she declined, not to *das Angebot*. *mit etwas rechnen* (to expect something) needs *mit* → *mit* + *was* → **womit** (no *-r-* before a consonant). Plusquamperfekt *hatte gerechnet*, because the expectation was before the decision.",
+      "pattern": "Hauptsatz, wo+Präp. + … + Partizip II + Hilfsverb",
+      "mistake": {
+        "wrong": "Sie hat das Angebot der Konkurrenz abgelehnt, mit dem niemand gerechnet hatte.",
+        "why": "*mit dem* would refer to the noun *das Angebot* ('an offer nobody had expected'). To refer to the whole fact that she declined, use *womit*."
+      },
+      "examples": [
+        {
+          "de": "Der Außenseiter hat das Turnier gewonnen, womit kein Experte gerechnet hatte.",
+          "en": "The outsider won the tournament, which no expert had expected."
+        },
+        {
+          "de": "Er hat seine Fehler offen zugegeben, wofür ich ihn sehr respektiere.",
+          "en": "He openly admitted his mistakes, for which I respect him a lot."
+        }
+      ],
+      "words": [
+        {
+          "de": "rechnen mit (+ Dat.)",
+          "en": "to expect, to reckon with"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the correlate after wer-clauses.",
+      "prompt": "In *Wer …, (der) …*, when can the correlate *der* be left out, and when must it be there?",
+      "answer": "It can be left out when **both clauses need the same case**, usually Nominativ–Nominativ (*Wer zahlt, (der) bestimmt.*). When the cases differ, the correlate must appear in the case the **main clause** needs: *Wer …, **dem** hilft man* (Dat.) · *Wer …, **den** lädt man ein* (Akk.).",
+      "explanation": "*wer/wen/wem/wessen* takes its case from the relative clause, the correlate *der/den/dem* takes its case from the main clause. You also hear and read *Wem es nicht gefällt, kann gehen* without *der*: when *wer* has a 'higher' case (Dat., Akk.) than the main clause needs (Nom.), many grammars accept the omission. The reverse (*Wer …, hilft man*) is always wrong. The safe rule is: different cases → keep the correlate.",
+      "examples": [
+        {
+          "de": "Wer zuerst kommt, mahlt zuerst.",
+          "en": "First come, first served."
+        },
+        {
+          "de": "Wer viel arbeitet, dem gönnt man auch eine Pause.",
+          "en": "People who work hard deserve a break."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about was as a relative pronoun.",
+      "prompt": "After which words is the relative pronoun *was* and not *das*?",
+      "answer": "After **indefinite pronouns** (*alles, nichts, etwas, vieles, manches, einiges, weniges*), after the **demonstrative *das*** (*das, was …*), after **nominalised neuter adjectives and superlatives** (*das Einzige, das Beste, was …*) and when the clause refers to a **whole sentence**.",
+      "explanation": "All these references have no real noun with a gender; they refer to something general or abstract. After a neuter noun (*das Buch, das Problem*) the pronoun is *das*: *das Problem, das …*. Colloquial *das Buch, was* is not standard.",
+      "examples": [
+        {
+          "de": "Das Problem, das wir haben, ist die Finanzierung.",
+          "en": "The problem we have is the funding."
+        },
+        {
+          "de": "Das Einzige, was uns fehlt, ist die Finanzierung.",
+          "en": "The only thing we lack is the funding."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two forms.",
+      "prompt": "When do you use wo(r)+Präposition (*womit, worüber*) and when Präposition + Relativpronomen (*mit dem, über die*)?",
+      "answer": "**wo(r)+Präp.**: after *was*-words (*alles, etwas, das …*) and when the clause refers to a **whole sentence**. **Präp. + der/die/das**: always for **people**, and normally for **concrete nouns** (*der Vertrag, auf den …*).",
+      "explanation": "Standard German does not put *was* after a preposition (*über was* is colloquial), so *was* + preposition becomes *wo(r)+Präp.*. With a concrete thing noun, *womit/worauf* is possible but old-fashioned; with a person it is always wrong.",
+      "examples": [
+        {
+          "de": "Es gibt nichts, wofür ich mich schämen müsste.",
+          "en": "There's nothing I would have to be ashamed of."
+        },
+        {
+          "de": "Die Kollegin, für die ich die Präsentation vorbereitet habe, ist krank.",
+          "en": "The colleague I prepared the presentation for is ill."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the relative adverb wo.",
+      "prompt": "Where is the relative adverb *wo* standard German, and what are its limits?",
+      "answer": "For **places** (*die Stadt, wo …*), obligatory in practice after **city and country names** (*Wien, wo …*) and after **dort, überall, da**; temporally after **jetzt/nun** (*jetzt, wo …*). For a direction use **wohin**, for an origin **woher**. *wo* for things or people (*das Buch, wo …*) is dialect.",
+      "explanation": "*wo* has no gender or case, so it is easy to use, but it only replaces place expressions. After time nouns (*der Tag, wo …*) it is common in speech; formal writing prefers *an dem / als*.",
+      "examples": [
+        {
+          "de": "Wir übernachten in Bozen, wo wir auch Freunde haben.",
+          "en": "We're staying overnight in Bolzano, where we also have friends."
+        },
+        {
+          "de": "Er kehrte in das Dorf zurück, woher seine Eltern stammten.",
+          "en": "He returned to the village his parents came from."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *Sie schickte mir ein Paket, das mich überraschte* and *Sie schickte mir ein Paket, was mich überraschte*?",
+      "answer": "With **das**, the relative clause refers to the noun *das Paket*: the parcel itself (its content) surprised me. With **was**, it refers to the **whole fact**: that she sent me a parcel at all surprised me.",
+      "explanation": "*das* agrees with a neuter noun; *was* refers back to the complete main clause. The choice of pronoun therefore changes the meaning, and *was* after a whole clause cannot be replaced by *das*.",
+      "examples": [
+        {
+          "de": "Er erzählte eine Geschichte, die niemand glaubte.",
+          "en": "He told a story that nobody believed."
+        },
+        {
+          "de": "Er kam ohne Geschenk, was alle ziemlich peinlich fanden.",
+          "en": "He came without a present, which everyone found rather embarrassing."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about the form of wo(r)+Präposition.",
+      "prompt": "When does *wo* + preposition take a linking *-r-*? Give examples of both groups.",
+      "answer": "**With -r-** before a vowel: *woran, worauf, woraus, worin, worüber, worum, worunter*. **Without -r-** before a consonant: *wobei, wodurch, wofür, wogegen, womit, wonach, wovon, wovor, wozu*.",
+      "explanation": "The *-r-* only makes pronunciation easier between two vowels; the rule is the same as for *da(r)+Präp.* (*darauf, damit*). Forms like *woaus* or *worvor* do not exist.",
+      "examples": [
+        {
+          "de": "Das ist alles, worum ich dich bitte.",
+          "en": "That's all I'm asking of you."
+        },
+        {
+          "de": "Es gibt kaum etwas, wovon sie nicht schon gehört hat.",
+          "en": "There's hardly anything she hasn't already heard of."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite with a free relative clause beginning with *Wer*. Keep the meaning.",
+      "prompt": "Alle, die vor 8 Uhr kommen, bekommen einen Parkplatz.",
+      "answer": "Wer vor 8 Uhr kommt, bekommt einen Parkplatz.",
+      "explanation": "*wer* is grammatically singular, so both verbs change to the singular: *kommt, bekommt*. Both clauses need the Nominativ, so no correlate is needed (*der bekommt* would also be correct)."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace *Die Leute, denen …* with a free relative clause with *wem* and the correct correlate.",
+      "prompt": "Die Leute, denen das Konzept nicht gefällt, können Änderungen vorschlagen.",
+      "answer": "Wem das Konzept nicht gefällt, der kann Änderungen vorschlagen.",
+      "explanation": "*gefallen* takes the Dativ → *wem*; the verb *gefällt* agrees with the subject *das Konzept*. The main clause needs a Nominativ subject → correlate *der*, and the verb becomes singular: *kann*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace *Die Sache, die* with *Das, was*.",
+      "prompt": "Die Sache, die mich stört, ist der Ton der E-Mail.",
+      "answer": "Das, was mich stört, ist der Ton der E-Mail.",
+      "explanation": "*die Sache* is a feminine noun → *die*. The demonstrative *das* has no noun and stands for an idea, so the relative pronoun changes to *was*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in standard written German: replace the preposition + *was* with a wo(r)-form.",
+      "prompt": "Es gibt vieles, über was man sich hier ärgern kann.",
+      "answer": "Es gibt vieles, worüber man sich hier ärgern kann.",
+      "explanation": "*über was* is colloquial. After *vieles* the relative word is *was*, and *über* + *was* becomes *worüber* (with *-r-*, because *über* begins with a vowel)."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Haus, was wir gekauft haben, ist über 200 Jahre alt.",
+      "answer": "Das Haus, das wir gekauft haben, ist über 200 Jahre alt.",
+      "explanation": "*das Haus* is a concrete neuter noun, so the relative pronoun agrees with it: *das*. *was* is only for indefinite words (*alles, nichts*), ideas and whole clauses."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wer zu spät zum Training kommt, kann der Trainer nicht aufstellen.",
+      "answer": "Wer zu spät zum Training kommt, den kann der Trainer nicht aufstellen.",
+      "explanation": "The correlate is missing. *wer* is Nominativ, but in the main clause the person is the Akkusativ object of *aufstellen* (the subject is *der Trainer*) → *den* must appear."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Freundin, womit ich in den Urlaub fahre, heißt Mira.",
+      "answer": "Die Freundin, mit der ich in den Urlaub fahre, heißt Mira.",
+      "explanation": "*womit* cannot refer to a person. For *die Freundin* use the preposition + feminine Dativ relative pronoun: *mit der*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat die Prüfung im ersten Versuch bestanden, das niemand erwartet hatte.",
+      "answer": "Er hat die Prüfung im ersten Versuch bestanden, was niemand erwartet hatte.",
+      "explanation": "The relative clause refers to the whole fact (that he passed), not to a noun. A relative clause about a whole sentence needs *was*."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist etwas, woauf ich mich schon lange freue.",
+      "answer": "Das ist etwas, worauf ich mich schon lange freue.",
+      "explanation": "*auf* begins with a vowel, so *wo* needs the linking *-r-*: *worauf*. *sich freuen auf* fits here because the event is in the future."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "___ der Aufstieg zu anstrengend ist, der kann mit der Seilbahn fahren.",
+      "options": [
+        "Wer",
+        "Wem",
+        "Wen"
+      ],
+      "correct": "Wem",
+      "answer": "Wem der Aufstieg zu anstrengend ist, der kann mit der Seilbahn fahren.",
+      "explanation": "The subject of the relative clause is *der Aufstieg*; the person for whom it is too tiring stands in the Dativ (*jemandem ist etwas zu anstrengend*) → *Wem*. *Wer* would be a second subject, and *wen* (Akkusativ) has no function in this clause."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct relative word.",
+      "prompt": "Das Schönste, ___ ich auf der Reise erlebt habe, war der Sonnenaufgang in der Wüste.",
+      "options": [
+        "was",
+        "das",
+        "wo"
+      ],
+      "correct": "was",
+      "answer": "Das Schönste, was ich auf der Reise erlebt habe, war der Sonnenaufgang in der Wüste.",
+      "explanation": "After a nominalised neuter superlative the standard relative pronoun is *was*. *das* is used after concrete neuter nouns, and *wo* as a general relative word is dialect; in standard German it is only for places and some times."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Das ist die Firma, ___ ich mich als Ingenieurin beworben habe.",
+      "options": [
+        "bei der",
+        "bei dem",
+        "wobei"
+      ],
+      "correct": "bei der",
+      "answer": "Das ist die Firma, bei der ich mich als Ingenieurin beworben habe.",
+      "explanation": "*sich bei einer Firma bewerben* takes *bei* + Dativ, and *Firma* is feminine → *bei der*. *bei dem* has the wrong gender. *wobei* is used after *was*-words or whole clauses, not after a concrete noun like *die Firma*."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Unser Team hat den Innovationspreis gewonnen, ___ wir uns natürlich sehr gefreut haben.",
+      "options": [
+        "worüber",
+        "worauf",
+        "darüber"
+      ],
+      "correct": "worüber",
+      "answer": "Unser Team hat den Innovationspreis gewonnen, worüber wir uns natürlich sehr gefreut haben.",
+      "explanation": "The relative clause refers to the whole fact of winning, and *sich freuen über* needs *über* → *worüber*. *worauf* would mean looking forward to a future event (*sich freuen auf*), but the prize has already been won. *darüber* is a demonstrative and cannot introduce a relative clause."
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wer",
+      "prompt": "kündigt / wer / der / eine Vertragsstrafe / vorzeitig / zahlt",
+      "answer": "Wer vorzeitig kündigt, der zahlt eine Vertragsstrafe.",
+      "explanation": "In the *wer*-clause the finite verb *kündigt* is last. The correlate *der* fills the Vorfeld of the main clause, and *zahlt* follows in position 2. Both clauses need the Nominativ, so *Wer vorzeitig kündigt, zahlt eine Vertragsstrafe* is also correct."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das ist",
+      "prompt": "das Einzige / ist / was / das / mich / wirklich / interessiert",
+      "answer": "Das ist das Einzige, was mich wirklich interessiert.",
+      "explanation": "*Das* fills the Vorfeld and *ist* is in position 2. After the nominalised adjective *das Einzige* the relative pronoun is *was*, and the finite verb *interessiert* closes the relative clause."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Join the sentences with a free relative clause beginning with *Wer*.",
+      "prompt": "Jemand hat seinen Reisepass vergessen. Diese Person kann nicht mitfliegen.",
+      "answer": "Wer seinen Reisepass vergessen hat, kann nicht mitfliegen.",
+      "explanation": "*Jemand … diese Person* becomes one free relative clause with *wer* (Nominativ, subject of *vergessen hat*). The main clause also needs a Nominativ subject, so the correlate *der* can be left out."
+    },
+    {
+      "key": "d23",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause that refers to the whole first sentence.",
+      "prompt": "Die Stadt hat das Freibad geschlossen. Darüber ärgern sich viele Familien.",
+      "answer": "Die Stadt hat das Freibad geschlossen, worüber sich viele Familien ärgern.",
+      "explanation": "*darüber* refers back to the whole first sentence; in a relative clause it becomes *worüber*. The relative clause is a Nebensatz, so the finite verb *ärgern* moves to the end."
+    },
+    {
+      "key": "d24",
+      "type": "combine",
+      "instruction": "Join the sentences with *wo*.",
+      "prompt": "Wir fahren am Wochenende nach Freiburg. Dort habe ich studiert.",
+      "answer": "Wir fahren am Wochenende nach Freiburg, wo ich studiert habe.",
+      "explanation": "*dort* (location) is replaced by the relative adverb *wo*; after a city name *wo* is the normal choice. In the relative clause the finite verb *habe* goes to the end."
+    }
+  ]
+}

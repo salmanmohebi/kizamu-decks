@@ -1,0 +1,713 @@
+{
+  "topic_id": "h02-verbcluster-nebensatz",
+  "level": "B2",
+  "title_de": "Verbcluster im Nebensatz",
+  "title_en": "Verb clusters at the end of subordinate clauses",
+  "rule": {
+    "summary": "In a Nebensatz all verb forms stand at the end and form a **Verbcluster**. Normally the dependent verbs come first and the finite verb is last (*dass er kommen **muss**; weil es repariert werden **muss**; dass er festgenommen worden **ist***). The big exception is the **Ersatzinfinitiv**: when a modal verb (or *lassen*, *sehen*, *hören*) appears as an infinitive instead of a Partizip II in the Perfekt, Plusquamperfekt or Konjunktiv II der Vergangenheit, the finite auxiliary moves to the **front** of the cluster: *dass er **hat** kommen müssen; obwohl ich es **hätte** wissen sollen*. In the Futur with a modal, *werden* usually moves to the front in the same way: *dass sie **wird** arbeiten müssen*.",
+    "table": "| Struktur | Ende des Nebensatzes | Beispiel |\n|---|---|---|\n| Modal (Präsens/Präteritum) | Inf. + **Modal** | dass er kommen **muss** |\n| Passiv + Modal | Part. II + werden + **Modal** | weil es repariert werden **muss** |\n| Passiv Perfekt | Part. II + worden + **sein** | dass er festgenommen worden **ist** |\n| Modal + Infinitiv Perfekt | Part. II + haben/sein + **Modal** | dass er es vergessen haben **muss** |\n| Futur II | Part. II + haben/sein + **werden** | dass wir es abgeschlossen haben **werden** |\n| Perfekt Modal (Ersatzinfinitiv) | **haben** + Inf. + Modal-Inf. | dass er **hat** kommen müssen |\n| Konj. II Vergangenheit + Modal | **hätte** + Inf. + Modal-Inf. | obwohl ich es **hätte** wissen sollen |\n| Perfekt/Konj. II + Passiv + Modal | **hat/hätte** + Part. II + werden + Modal-Inf. | dass es **hätte** geprüft werden müssen |\n| Futur I + Modal | **werden** + Inf. + Modal-Inf. | dass sie **wird** arbeiten müssen |",
+    "steps": [
+      "Build the verb chain as in a main clause first: *Er hat kommen müssen. / Es muss repariert werden. / Sie wird arbeiten müssen.*",
+      "Put every verb form at the end of the Nebensatz. Everything else (subject, objects, *nicht*, adverbials) stays in the Mittelfeld before the cluster.",
+      "Normal case: the dependent forms keep their order and the **finite verb goes last** (*repariert werden muss*, *festgenommen worden ist*, *abgeschlossen haben werden*).",
+      "Ersatzinfinitiv case: if the cluster ends in two infinitives because a modal, *lassen* or *sehen/hören* stands in the Perfekt or Konjunktiv II der Vergangenheit, put the **finite haben-form in front**: *hat/hatte/hätte* + infinitive(s) + modal infinitive.",
+      "Futur I + modal: put *werden* in front of the two infinitives (*wird arbeiten müssen*); *arbeiten müssen wird* is also correct but less common.",
+      "Check the forms: in the Ersatzinfinitiv cluster there is **no Partizip of the modal** (✗ *gemusst*, ✗ *gekonnt*), and the separable verb stays joined in the infinitive (*hat aufstehen müssen*)."
+    ],
+    "pitfalls": [
+      "Main-clause order inside the Nebensatz: ✗ *…, weil die Fahrbahn muss erneuert werden.* → ✓ *…, weil die Fahrbahn erneuert werden muss.*",
+      "Finite auxiliary at the end of an Ersatzinfinitiv cluster: ✗ *…, dass Sie so lange warten müssen haben.* → ✓ *…, dass Sie so lange haben warten müssen.*",
+      "Partizip of the modal instead of the infinitive: ✗ *…, weil sie nicht teilnehmen gekonnt hat.* → ✓ *…, weil sie nicht hat teilnehmen können.*",
+      "Moving the auxiliary forward where there is no Ersatzinfinitiv: ✗ *…, dass der Täter ist festgenommen worden.* → ✓ *…, dass der Täter festgenommen worden ist.* The same for Futur II and for modal + Infinitiv Perfekt.",
+      "Putting *nicht* or an adverb inside the cluster: ✗ *…, dass er hat nicht kommen wollen.* → ✓ *…, dass er nicht hat kommen wollen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Die Ärztin hat mir erklärt, dass ich das Antibiotikum mindestens zehn Tage lang {{c1::einnehmen muss::müssen / einnehmen}}.",
+      "en": "The doctor explained to me that I have to take the antibiotic for at least ten days.",
+      "focus": "Modalverb im Nebensatz · Präsens",
+      "explanation": "*dass* sends the finite verb to the end. The chain is *muss + einnehmen*; in the Nebensatz the infinitive comes first and the finite modal last: **einnehmen muss**. The separable verb stays joined in the infinitive (*einnehmen*), because a separable verb is only split when it is the finite verb in position 1 or 2 of a main clause.",
+      "pattern": "dass + … + Infinitiv + **Modalverb (finit)**",
+      "mistake": {"wrong": "Die Ärztin hat mir erklärt, dass ich das Antibiotikum mindestens zehn Tage lang muss einnehmen.", "why": "This is main-clause order. In a Nebensatz with a simple modal construction the finite modal is the last word."},
+      "examples": [
+        {"de": "Er hat vergessen, dass er den Mietvertrag bis Ende Mai kündigen muss.", "en": "He forgot that he has to give notice on the rental contract by the end of May."},
+        {"de": "Ich hoffe, dass ich die Unterlagen auch digital einreichen kann.", "en": "I hope that I can also submit the documents digitally."}
+      ],
+      "words": [{"de": "einnehmen", "en": "to take (medicine)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Flug wurde annulliert, weil die Maschine wegen eines technischen Defekts nicht {{c1::starten konnte::können (Prät.) / starten}}.",
+      "en": "The flight was cancelled because the plane could not take off due to a technical fault.",
+      "focus": "Modalverb im Nebensatz · Präteritum",
+      "explanation": "In the Präteritum the modal itself carries tense (*konnte*), so there is no auxiliary. After *weil* the finite *konnte* goes to the end, after the infinitive: **starten konnte**. *nicht* stays in the Mittelfeld before the cluster.",
+      "pattern": "weil + … + nicht + Infinitiv + **Modalverb (Prät., finit)**",
+      "mistake": {"wrong": "Der Flug wurde annulliert, weil die Maschine wegen eines technischen Defekts nicht konnte starten.", "why": "In standard German the Ersatzinfinitiv rule (auxiliary in front) does not apply to a simple Präteritum. The finite modal *konnte* must be last."},
+      "examples": [
+        {"de": "Sie war wütend, weil sie bei der Sitzung nichts sagen durfte.", "en": "She was angry because she wasn't allowed to say anything at the meeting."},
+        {"de": "Wir sind zu Hause geblieben, weil die Kinder am nächsten Morgen früh aufstehen mussten.", "en": "We stayed at home because the children had to get up early the next morning."}
+      ],
+      "words": [{"de": "annullieren", "en": "to cancel (a flight)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wir suchen eine Projektleiterin, die auch unter Zeitdruck den Überblick {{c1::behalten kann::können / behalten}}.",
+      "en": "We are looking for a project manager who can keep track of things even under time pressure.",
+      "focus": "Modalverb im Relativsatz",
+      "explanation": "A relative clause is a Nebensatz, so the verbs go to the end. *die* is the subject of the relative clause (Nominativ, feminine). The infinitive *behalten* comes first, the finite modal last: **behalten kann**.",
+      "pattern": "…, Relativpronomen + … + Infinitiv + **Modalverb (finit)**",
+      "mistake": {"wrong": "Wir suchen eine Projektleiterin, die auch unter Zeitdruck den Überblick kann behalten.", "why": "The relative pronoun makes the clause a Nebensatz. The finite modal must stand at the very end, after the infinitive."},
+      "examples": [
+        {"de": "Das ist ein Problem, das man nicht mit Geld lösen kann.", "en": "That is a problem that can't be solved with money."},
+        {"de": "Gesucht wird ein Mitarbeiter, der fließend Französisch sprechen kann.", "en": "We are looking for an employee who can speak fluent French."}
+      ],
+      "words": [{"de": "den Überblick behalten", "en": "to keep track, to keep an overview"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich weiß noch nicht, ob ich nächste Woche an der Tagung in Leipzig {{c1::teilnehmen darf::dürfen / teilnehmen}}.",
+      "en": "I don't know yet whether I will be allowed to attend the conference in Leipzig next week.",
+      "focus": "Modalverb in der indirekten Frage",
+      "explanation": "An indirect yes/no question with *ob* is a Nebensatz with the verbs at the end. The Präsens *darf* also refers to the future here. Infinitive first, finite modal last: **teilnehmen darf**; *teilnehmen* stays joined.",
+      "pattern": "ob + … + Infinitiv + **Modalverb (finit)**",
+      "mistake": {"wrong": "Ich weiß noch nicht, ob ich nächste Woche an der Tagung in Leipzig darf teilnehmen.", "why": "*ob* introduces a Nebensatz, so the finite modal *darf* cannot stay before the infinitive. It is the last word of the clause."},
+      "examples": [
+        {"de": "Kannst du mir sagen, wann ich die Ergebnisse abholen kann?", "en": "Can you tell me when I can pick up the results?"},
+        {"de": "Es ist unklar, ob die Firma alle Stellen erhalten will.", "en": "It is unclear whether the company wants to keep all the jobs."}
+      ],
+      "words": [{"de": "die Tagung (-en)", "en": "conference"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Brücke bleibt gesperrt, weil die Fahrbahn komplett {{c1::erneuert werden muss::müssen / werden / erneuern}}.",
+      "en": "The bridge remains closed because the road surface has to be completely renewed.",
+      "focus": "Passiv mit Modalverb im Nebensatz",
+      "explanation": "The passive with a modal is *Partizip II + werden* (Infinitiv Passiv) + modal: *muss erneuert werden*. In the Nebensatz the order is from the most dependent verb to the finite one: **erneuert** (main verb) – **werden** (passive) – **muss** (finite modal, last).",
+      "pattern": "weil + … + Partizip II + werden + **Modalverb (finit)**",
+      "mistake": {"wrong": "Die Brücke bleibt gesperrt, weil die Fahrbahn komplett muss erneuert werden.", "why": "This keeps main-clause order. You may hear it in some southern regions, but in standard German the finite modal goes to the end: *erneuert werden muss*."},
+      "examples": [
+        {"de": "Der Antrag wurde abgelehnt, weil er persönlich unterschrieben werden muss.", "en": "The application was rejected because it has to be signed in person."},
+        {"de": "Wir verschieben die Feier, weil der Saal noch renoviert werden muss.", "en": "We are postponing the party because the hall still has to be renovated."}
+      ],
+      "words": [{"de": "die Fahrbahn (-en)", "en": "road surface, carriageway"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Hersteller versichert, dass das Problem mit einem Software-Update {{c1::behoben werden kann::können / werden / beheben}}.",
+      "en": "The manufacturer gives assurances that the problem can be fixed with a software update.",
+      "focus": "Passiv mit können im dass-Satz",
+      "explanation": "Main clause: *Das Problem kann behoben werden.* In the *dass*-clause the finite *kann* moves to the end: **behoben werden kann**. The Partizip *behoben* (from *beheben*, strong: *behob – behoben*) starts the cluster.",
+      "pattern": "dass + … + Partizip II + werden + **können (finit)**",
+      "mistake": {"wrong": "Der Hersteller versichert, dass das Problem mit einem Software-Update kann behoben werden.", "why": "In a *dass*-clause the finite modal is not in second position. It follows the passive infinitive *behoben werden*."},
+      "examples": [
+        {"de": "Die Forscher hoffen, dass die Krankheit bald früher erkannt werden kann.", "en": "The researchers hope that the disease can soon be detected earlier."},
+        {"de": "Es ist fraglich, ob der Zeitplan noch eingehalten werden kann.", "en": "It is doubtful whether the schedule can still be kept."}
+      ],
+      "words": [{"de": "beheben", "en": "to fix, to remedy"}, {"de": "versichern", "en": "to assure"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Mehrere Anträge, die aus formalen Gründen nicht {{c1::bearbeitet werden konnten::können (Prät.) / werden / bearbeiten}}, wurden an die Antragsteller zurückgeschickt.",
+      "en": "Several applications that could not be processed for formal reasons were sent back to the applicants.",
+      "focus": "Passiv mit Modalverb im Relativsatz · Präteritum",
+      "explanation": "The relative clause is placed in the middle of the main clause, after *Mehrere Anträge*. Inside it the verbs go to the end: **bearbeitet werden konnten**, with the finite Präteritum *konnten* (plural, agreeing with *die* = die Anträge) last. Then the main clause continues with its finite verb *wurden*.",
+      "pattern": "Nomen, die + … + Partizip II + werden + **Modal (Prät.)**, + V2 …",
+      "mistake": {"wrong": "Mehrere Anträge, die aus formalen Gründen nicht bearbeitet konnten werden, wurden an die Antragsteller zurückgeschickt.", "why": "*werden* belongs to the passive infinitive *bearbeitet werden* and must stay with the Partizip. The finite modal *konnten* closes the cluster."},
+      "examples": [
+        {"de": "Die Dateien, die nicht geöffnet werden konnten, liegen jetzt beim IT-Support.", "en": "The files that could not be opened are now with IT support."},
+        {"de": "Patienten, die nicht sofort operiert werden mussten, wurden in andere Kliniken verlegt.", "en": "Patients who did not need immediate surgery were transferred to other hospitals."}
+      ],
+      "words": [{"de": "der Antragsteller (-)", "en": "applicant"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich habe gelesen, dass der mutmaßliche Täter bereits gestern {{c1::festgenommen worden ist::sein / werden / festnehmen}}.",
+      "en": "I read that the suspected offender was already arrested yesterday.",
+      "focus": "Passiv Perfekt im Nebensatz · ohne Ersatzinfinitiv",
+      "explanation": "The Perfekt passive is *ist + Partizip II + worden*. *worden* is a Partizip, not an infinitive, so there is no Ersatzinfinitiv and no reordering: the finite *ist* simply goes last → **festgenommen worden ist**.",
+      "pattern": "dass + … + Partizip II + worden + **sein (finit)**",
+      "mistake": {"wrong": "Ich habe gelesen, dass der mutmaßliche Täter bereits gestern ist festgenommen worden.", "why": "The auxiliary moves to the front only before two infinitives (Ersatzinfinitiv). With *Partizip + worden* the finite *ist* stays at the end."},
+      "examples": [
+        {"de": "Wir wurden informiert, dass die Sitzung abgesagt worden ist.", "en": "We were informed that the meeting has been cancelled."},
+        {"de": "Er wusste nicht, dass sein Antrag schon genehmigt worden war.", "en": "He didn't know that his application had already been approved."}
+      ],
+      "words": [{"de": "mutmaßlich", "en": "suspected, alleged"}, {"de": "festnehmen", "en": "to arrest"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Viele Fachleute sind der Meinung, dass das Gesetz dringend {{c1::überarbeitet werden müsste::müssen (Konj. II) / werden / überarbeiten}}.",
+      "en": "Many experts are of the opinion that the law really ought to be revised urgently.",
+      "focus": "Passiv mit Modalverb · Konjunktiv II Gegenwart",
+      "explanation": "*müsste* (Konjunktiv II of *müssen*) makes the demand sound cautious. Konjunktiv II Gegenwart of the modal has no auxiliary, so the normal order applies: Partizip – *werden* – finite modal last → **überarbeitet werden müsste**. *überarbeiten* is inseparable, so its Partizip has no *ge-*.",
+      "pattern": "dass + … + Partizip II + werden + **müsste (finit)**",
+      "mistake": {"wrong": "Viele Fachleute sind der Meinung, dass das Gesetz dringend müsste überarbeitet werden.", "why": "Only a finite auxiliary (*hat, hätte, wird*) before two infinitives moves to the front. A finite *müsste* with a passive infinitive goes to the end like any other finite modal."},
+      "examples": [
+        {"de": "Ich finde, dass die Regeln klarer formuliert werden sollten.", "en": "I think that the rules should be formulated more clearly."},
+        {"de": "Der Gutachter meint, dass die Fassade bald gestrichen werden müsste.", "en": "The surveyor thinks that the façade ought to be painted soon."}
+      ],
+      "words": [{"de": "überarbeiten", "en": "to revise"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Es tut mir sehr leid, dass Sie so lange {{c1::haben warten müssen::müssen / haben / warten}}.",
+      "en": "I am very sorry that you had to wait so long.",
+      "focus": "Perfekt Modalverb im dass-Satz · Ersatzinfinitiv",
+      "explanation": "The Perfekt of a modal with another verb uses the infinitive *müssen* instead of the Partizip *gemusst* (Ersatzinfinitiv): *Sie haben warten müssen*. In the Nebensatz the cluster ends in two infinitives, so the finite auxiliary **haben** moves to the front of the cluster: **haben warten müssen**.",
+      "pattern": "dass + … + **haben (finit)** + Infinitiv + Modal-Infinitiv",
+      "mistake": {"wrong": "Es tut mir sehr leid, dass Sie so lange warten müssen haben.", "why": "In an Ersatzinfinitiv cluster the finite auxiliary is never placed after the two infinitives. It stands before them: *haben warten müssen*."},
+      "examples": [
+        {"de": "Ich ärgere mich, dass wir das Konzert haben absagen müssen.", "en": "I'm annoyed that we had to cancel the concert."},
+        {"de": "Sie erzählte, dass sie als Kind jeden Tag Klavier hat üben müssen.", "en": "She said that as a child she had to practise the piano every day."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Sie ist enttäuscht, weil sie wegen einer Grippe nicht an der Prüfung {{c1::hat teilnehmen können::können / haben / teilnehmen}}.",
+      "en": "She is disappointed because she couldn't take part in the exam due to the flu.",
+      "focus": "Perfekt von können im weil-Satz",
+      "explanation": "Main clause: *Sie hat nicht teilnehmen können* (Ersatzinfinitiv *können*, not *gekonnt*). In the *weil*-clause the finite *hat* moves in front of the two infinitives: **hat teilnehmen können**. *nicht* and *an der Prüfung* stay in the Mittelfeld, before the whole cluster.",
+      "pattern": "weil + … + nicht + … + **hat** + Infinitiv + können",
+      "mistake": {"wrong": "Sie ist enttäuscht, weil sie wegen einer Grippe nicht an der Prüfung teilnehmen gekonnt hat.", "why": "When a modal has a dependent infinitive, its Perfekt uses the infinitive *können*, not the Partizip *gekonnt*. Then *hat* moves to the front of the cluster."},
+      "examples": [
+        {"de": "Er ist sauer, weil er das Spiel nicht hat sehen können.", "en": "He is annoyed because he couldn't watch the match."},
+        {"de": "Wir sind froh, dass wir die Wohnung so schnell haben vermieten können.", "en": "We are glad that we were able to let the flat so quickly."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Obwohl er ursprünglich gar nicht {{c1::hatte kandidieren wollen::wollen / haben (Prät.) / kandidieren}}, wurde er zum Vorsitzenden gewählt.",
+      "en": "Although he had not originally wanted to stand for election at all, he was elected chairman.",
+      "focus": "Plusquamperfekt Modalverb · Nebensatz im Vorfeld",
+      "explanation": "The wish lies before the election, so the Plusquamperfekt is used: *hatte + kandidieren + wollen* (Ersatzinfinitiv). The finite *hatte* moves to the front of the cluster: **hatte kandidieren wollen**. The whole *obwohl*-clause fills the Vorfeld, so the main clause starts with its finite verb *wurde*.",
+      "pattern": "Obwohl + … + **hatte** + Infinitiv + Modal-Inf., + V2 …",
+      "mistake": {"wrong": "Obwohl er ursprünglich gar nicht kandidieren wollen hatte, wurde er zum Vorsitzenden gewählt.", "why": "The Ersatzinfinitiv rule also applies to the Plusquamperfekt: *hatte* must stand before the two infinitives."},
+      "examples": [
+        {"de": "Nachdem sie zwei Stunden auf den Techniker hatte warten müssen, rief sie die Hotline an.", "en": "After she had had to wait two hours for the technician, she called the hotline."},
+        {"de": "Weil wir das Hotel nicht mehr hatten stornieren können, fuhren wir trotzdem hin.", "en": "Because we had not been able to cancel the hotel any more, we went anyway."}
+      ],
+      "words": [{"de": "kandidieren", "en": "to stand (run) for election"}, {"de": "der Vorsitzende (-n)", "en": "chairman"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Die Kollegin, die die Präsentation kurzfristig {{c1::hat übernehmen müssen::müssen / haben / übernehmen}}, hat ihre Sache hervorragend gemacht.",
+      "en": "The colleague who had to take over the presentation at short notice did an excellent job.",
+      "focus": "Perfekt Modalverb im Relativsatz",
+      "explanation": "Inside the relative clause (*die* = Nominativ, subject) the Perfekt *hat übernehmen müssen* forms the cluster at the end. Because it ends in two infinitives, the finite **hat** comes first: **hat übernehmen müssen**. *übernehmen* is inseparable here (Partizip *übernommen*) and stays one word in the infinitive.",
+      "pattern": "Nomen, die + … + **hat** + Infinitiv + Modal-Inf., + V2 …",
+      "mistake": {"wrong": "Die Kollegin, die die Präsentation kurzfristig übernehmen gemusst hat, hat ihre Sache hervorragend gemacht.", "why": "With a dependent infinitive the modal appears as an infinitive (*müssen*), never as *gemusst*. The finite *hat* then moves to the front of the cluster."},
+      "examples": [
+        {"de": "Der Fahrer, der die Strecke nachts hat fahren müssen, war völlig erschöpft.", "en": "The driver who had to drive the route at night was completely exhausted."},
+        {"de": "Die Gäste, die nicht haben kommen können, bekommen ein Video der Feier.", "en": "The guests who could not come will get a video of the celebration."}
+      ],
+      "words": [{"de": "kurzfristig", "en": "at short notice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Ich bin froh, dass ich die Bremsen vor der Reise noch {{c1::habe überprüfen lassen::lassen / haben / überprüfen}}.",
+      "en": "I'm glad that I had the brakes checked before the trip.",
+      "focus": "Perfekt von lassen im dass-Satz",
+      "explanation": "Causative *lassen* (to have something done) behaves like a modal: its Perfekt with an infinitive uses the Ersatzinfinitiv *lassen*, not *gelassen*. In the Nebensatz the finite *habe* moves to the front: **habe überprüfen lassen**.",
+      "pattern": "dass + … + **haben (finit)** + Infinitiv + lassen",
+      "mistake": {"wrong": "Ich bin froh, dass ich die Bremsen vor der Reise noch überprüfen gelassen habe.", "why": "Causative *lassen* with an infinitive takes the Ersatzinfinitiv in standard German. With *lassen* the finite *habe* moves in front: *habe überprüfen lassen*."},
+      "examples": [
+        {"de": "Sie erzählte, dass sie sich die Haare hat färben lassen.", "en": "She said that she had had her hair dyed."},
+        {"de": "Wir bereuen nicht, dass wir das Dach haben dämmen lassen.", "en": "We don't regret having had the roof insulated."}
+      ],
+      "words": [{"de": "die Bremse (-n)", "en": "brake"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die Zeugin sagte aus, dass sie den Mann kurz vor Mitternacht aus dem Haus {{c1::hat kommen sehen::sehen / haben / kommen}}.",
+      "en": "The witness testified that she saw the man come out of the house shortly before midnight.",
+      "focus": "Perfekt von sehen + Infinitiv · Ersatzinfinitiv im Nebensatz",
+      "explanation": "*sehen* + bare infinitive (*kommen sehen*) usually takes the Ersatzinfinitiv in the Perfekt: *sie hat ihn kommen sehen*. In the Nebensatz the finite *hat* then moves to the front: **hat kommen sehen**. With *sehen* and *hören* the Partizip is also accepted (*kommen gesehen hat*); with modals and *lassen* it is not.",
+      "pattern": "dass + … + **hat** + Infinitiv + sehen",
+      "mistake": {"wrong": "Die Zeugin sagte aus, dass sie den Mann kurz vor Mitternacht aus dem Haus kommen sehen hat.", "why": "If you use the Ersatzinfinitiv *sehen*, the cluster ends in two infinitives and the finite *hat* must stand before them."},
+      "examples": [
+        {"de": "Die Nachbarn behaupten, dass sie niemanden haben schreien hören.", "en": "The neighbours claim that they didn't hear anyone scream."},
+        {"de": "Ich bin sicher, dass ich ihn gestern ins Büro habe gehen sehen.", "en": "I'm sure that I saw him go into the office yesterday."}
+      ],
+      "words": [{"de": "aussagen", "en": "to testify, to give evidence"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Weißt du, warum der Termin so kurzfristig {{c1::hat verschoben werden müssen::müssen / werden / haben / verschieben}}?",
+      "en": "Do you know why the appointment had to be postponed at such short notice?",
+      "focus": "Perfekt · Passiv mit Modalverb · vier Verben",
+      "explanation": "Main clause: *Der Termin hat verschoben werden müssen* (Perfekt of *muss verschoben werden*, with Ersatzinfinitiv *müssen*). The cluster ends in the infinitives *werden müssen*, so in the Nebensatz the finite **hat** goes to the front, and the rest keeps its order: Partizip – *werden* – *müssen* → **hat verschoben werden müssen**. In everyday speech the Präteritum *verschoben werden musste* is more common.",
+      "pattern": "warum + … + **hat** + Partizip II + werden + Modal-Inf.",
+      "mistake": {"wrong": "Weißt du, warum der Termin so kurzfristig verschoben werden müssen hat?", "why": "Even with four verbs the rule is the same: the finite auxiliary of an Ersatzinfinitiv cluster stands first, not last."},
+      "examples": [
+        {"de": "Niemand versteht, warum die Halle hat geschlossen werden müssen.", "en": "Nobody understands why the hall had to be closed."},
+        {"de": "Der Bericht erklärt, weshalb der Zug hat evakuiert werden müssen.", "en": "The report explains why the train had to be evacuated."}
+      ],
+      "words": [{"de": "verschieben", "en": "to postpone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Mich wundert, dass er die gut bezahlte Stelle in München {{c1::nicht hat annehmen wollen::wollen / annehmen / nicht / haben}}.",
+      "en": "I'm surprised that he didn't want to accept the well-paid job in Munich.",
+      "focus": "Negation vor dem Verbcluster",
+      "explanation": "The Perfekt *hat annehmen wollen* (Ersatzinfinitiv *wollen*) forms the cluster, with *hat* in front. *nicht* is not part of the cluster: it stays in the Mittelfeld and stands **before** the finite auxiliary → **nicht hat annehmen wollen**. Nothing can be placed between *hat* and the infinitives in standard German.",
+      "pattern": "dass + … + **nicht** + hat + Infinitiv + Modal-Inf.",
+      "mistake": {"wrong": "Mich wundert, dass er die gut bezahlte Stelle in München hat nicht annehmen wollen.", "why": "*nicht* cannot break up the verb cluster. It belongs to the Mittelfeld and stands before *hat*."},
+      "examples": [
+        {"de": "Es ist schade, dass ihr gestern nicht habt mitfeiern können.", "en": "It's a pity that you couldn't join the party yesterday."},
+        {"de": "Er gab zu, dass er die Mail lange nicht hat beantworten wollen.", "en": "He admitted that for a long time he hadn't wanted to answer the email."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Da wir drei Wochen auf die Laborergebnisse {{c1::haben warten müssen::müssen / warten / haben}}, verzögert sich die Veröffentlichung.",
+      "en": "Since we had to wait three weeks for the lab results, the publication is delayed.",
+      "focus": "Ersatzinfinitiv im vorangestellten Nebensatz",
+      "explanation": "The *da*-clause comes first and fills the Vorfeld. Inside it the Perfekt *haben warten müssen* stands at the end with *haben* in front of the two infinitives. After the comma the main clause continues with its finite verb *verzögert* (position 2), so the clause ends in *müssen, verzögert*.",
+      "pattern": "Da + … + **haben** + Inf. + Modal-Inf., + V2 + Subjekt …",
+      "mistake": {"wrong": "Da wir drei Wochen auf die Laborergebnisse warten müssen haben, verzögert sich die Veröffentlichung.", "why": "The finite *haben* belongs in front of the two infinitives, also when the Nebensatz stands at the beginning of the sentence."},
+      "examples": [
+        {"de": "Weil der Bus nicht hat fahren können, sind wir zu Fuß gegangen.", "en": "Because the bus couldn't run, we walked."},
+        {"de": "Obwohl sie die Rede kaum hat vorbereiten können, hat sie das Publikum überzeugt.", "en": "Although she had hardly been able to prepare the speech, she convinced the audience."}
+      ],
+      "words": [{"de": "sich verzögern", "en": "to be delayed"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Ich habe die Frist verpasst, obwohl ich es eigentlich {{c1::hätte wissen müssen::müssen / wissen / haben (Konj. II)}}.",
+      "en": "I missed the deadline, although I really should have known.",
+      "focus": "Konjunktiv II Vergangenheit + Modal im obwohl-Satz",
+      "explanation": "*Ich hätte es wissen müssen* is the Konjunktiv II der Vergangenheit of *müssen* with Ersatzinfinitiv: *hätte* + infinitive + modal infinitive. In the Nebensatz **hätte** moves to the front of the cluster: **hätte wissen müssen**. *es* and *eigentlich* stay in the Mittelfeld.",
+      "pattern": "obwohl + … + **hätte** + Infinitiv + Modal-Inf.",
+      "mistake": {"wrong": "Ich habe die Frist verpasst, obwohl ich es eigentlich wissen müssen hätte.", "why": "The Ersatzinfinitiv rule applies to *hätte* in the same way as to *hat*: the finite form stands before the two infinitives."},
+      "examples": [
+        {"de": "Er hat sich nicht entschuldigt, obwohl er das hätte tun sollen.", "en": "He didn't apologise, although he should have done so."},
+        {"de": "Wir sind mit dem Auto gefahren, obwohl wir den Zug hätten nehmen können.", "en": "We went by car, although we could have taken the train."}
+      ],
+      "words": [{"de": "die Frist (-en)", "en": "deadline"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Wenn wir das Problem früher {{c1::hätten erkennen können::können / haben (Konj. II) / erkennen}}, wäre der Schaden viel geringer gewesen.",
+      "en": "If we had been able to recognise the problem earlier, the damage would have been much smaller.",
+      "focus": "Irreale Bedingung mit Modalverb · Vergangenheit",
+      "explanation": "An unreal condition in the past with a modal: *hätten* + *erkennen* + *können*. In the *wenn*-clause the finite **hätten** comes before the two infinitives: **hätten erkennen können**. The main clause after the comma starts with its finite verb *wäre* (the *wenn*-clause fills the Vorfeld).",
+      "pattern": "Wenn + … + **hätten** + Inf. + Modal-Inf., wäre/hätte + … + Partizip",
+      "mistake": {"wrong": "Wenn wir das Problem früher erkennen gekonnt hätten, wäre der Schaden viel geringer gewesen.", "why": "With a dependent infinitive the modal keeps the infinitive form *können*. *gekonnt* is only used without another verb (*Wir hätten es gekonnt*)."},
+      "examples": [
+        {"de": "Wenn ich hätte bleiben dürfen, hätte ich das Angebot sofort angenommen.", "en": "If I had been allowed to stay, I would have accepted the offer immediately."},
+        {"de": "Wenn du nicht hättest arbeiten müssen, wären wir zusammen in die Berge gefahren.", "en": "If you hadn't had to work, we would have gone to the mountains together."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Der Untersuchungsbericht kommt zu dem Schluss, dass das Medikament nie {{c1::hätte zugelassen werden dürfen::dürfen / werden / haben (Konj. II) / zulassen}}.",
+      "en": "The investigation report concludes that the drug should never have been approved.",
+      "focus": "Konjunktiv II Vergangenheit · Passiv mit Modalverb",
+      "explanation": "Present passive with modal: *darf zugelassen werden*. Konjunktiv II der Vergangenheit: *hätte zugelassen werden dürfen* (Ersatzinfinitiv *dürfen*). In the *dass*-clause the finite **hätte** stands first, followed by Partizip – *werden* – *dürfen*. *nie hätte … dürfen* expresses that something was not permitted, but happened anyway.",
+      "pattern": "dass + … + nie + **hätte** + Partizip II + werden + Modal-Inf.",
+      "mistake": {"wrong": "Der Untersuchungsbericht kommt zu dem Schluss, dass das Medikament nie zugelassen werden dürfen hätte.", "why": "The cluster ends in the infinitives *werden dürfen*, so *hätte* must move to the front of the cluster, not stay at the end."},
+      "examples": [
+        {"de": "Experten kritisieren, dass die Warnungen viel ernster hätten genommen werden müssen.", "en": "Experts criticise that the warnings should have been taken much more seriously."},
+        {"de": "Es ist klar, dass das Gebäude früher hätte saniert werden sollen.", "en": "It is clear that the building should have been renovated earlier."}
+      ],
+      "words": [{"de": "zulassen", "en": "to approve, to license"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Das ist genau die Art von Fehler, die man mit etwas mehr Sorgfalt {{c1::hätte vermeiden können::können / vermeiden / haben (Konj. II)}}.",
+      "en": "That is exactly the kind of mistake that could have been avoided with a little more care.",
+      "focus": "Verpasste Möglichkeit im Relativsatz",
+      "explanation": "*die* refers to *Art von Fehler* and is the Akkusativ object of *vermeiden*. The missed possibility is expressed with *hätte + vermeiden + können*. In the relative clause the finite *hätte* is placed before the infinitives: **hätte vermeiden können**. With *man* the English often uses a passive.",
+      "pattern": "…, die + … + **hätte** + Infinitiv + können",
+      "mistake": {"wrong": "Das ist genau die Art von Fehler, die man mit etwas mehr Sorgfalt vermeiden gekonnt hätte.", "why": "*gekonnt* is wrong when *können* has a dependent infinitive. The correct form is the Ersatzinfinitiv, with *hätte* in front: *hätte vermeiden können*."},
+      "examples": [
+        {"de": "Es gab Lösungen, die man viel billiger hätte umsetzen können.", "en": "There were solutions that could have been implemented much more cheaply."},
+        {"de": "Er nannte drei Unfälle, die man mit besseren Kontrollen hätte verhindern können.", "en": "He mentioned three accidents that could have been prevented with better checks."}
+      ],
+      "words": [{"de": "die Sorgfalt", "en": "care, diligence"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Ich frage mich manchmal, ob wir die Wohnung damals nicht doch {{c1::hätten kaufen sollen::sollen / kaufen / haben (Konj. II)}}.",
+      "en": "I sometimes wonder whether we shouldn't have bought the flat back then after all.",
+      "focus": "Konjunktiv II Vergangenheit in der indirekten Frage",
+      "explanation": "Regret about a past decision: *Wir hätten die Wohnung kaufen sollen*. In the *ob*-clause the finite *hätten* moves in front of the two infinitives: **hätten kaufen sollen**. *nicht doch* is not a real negation here; it softens the question (= maybe we should have after all) and stays in the Mittelfeld.",
+      "pattern": "ob + … + **hätten** + Infinitiv + sollen",
+      "mistake": {"wrong": "Ich frage mich manchmal, ob wir die Wohnung damals nicht doch kaufen sollen hätten.", "why": "In the Konjunktiv II der Vergangenheit of a modal, *hätten* stands before the two infinitives, never after them."},
+      "examples": [
+        {"de": "Sie überlegt, ob sie das Studium hätte abbrechen sollen.", "en": "She is wondering whether she should have dropped out of her studies."},
+        {"de": "Wir diskutieren noch, ob wir den Kunden früher hätten warnen müssen.", "en": "We are still discussing whether we should have warned the client earlier."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Experten gehen davon aus, dass die Regierung die Steuern im nächsten Jahr {{c1::wird erhöhen müssen::müssen / erhöhen / werden}}.",
+      "en": "Experts assume that the government will have to raise taxes next year.",
+      "focus": "Futur I mit Modalverb im dass-Satz",
+      "explanation": "Futur I with a modal: *wird + erhöhen + müssen*. As with the Ersatzinfinitiv, the cluster ends in two infinitives, and the finite *wird* usually moves to the front: **wird erhöhen müssen**. The order *erhöhen müssen wird* is also correct but less frequent.",
+      "pattern": "dass + … + **wird** + Infinitiv + Modal-Inf.",
+      "mistake": {"wrong": "Experten gehen davon aus, dass die Regierung die Steuern im nächsten Jahr wird müssen erhöhen.", "why": "The dependent infinitive comes before the modal infinitive: *erhöhen müssen*. Only the finite *wird* may stand in front of them."},
+      "examples": [
+        {"de": "Es ist abzusehen, dass wir mehr Personal werden einstellen müssen.", "en": "It is foreseeable that we will have to hire more staff."},
+        {"de": "Sie befürchtet, dass sie im Sommer wird arbeiten müssen.", "en": "She fears that she will have to work in the summer."}
+      ],
+      "words": [{"de": "davon ausgehen, dass", "en": "to assume that"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Viele Mieter sind besorgt, weil sie sich die Wohnungen nach der Sanierung nicht mehr {{c1::werden leisten können::können / leisten / werden}}.",
+      "en": "Many tenants are worried because they will no longer be able to afford the flats after the renovation.",
+      "focus": "Futur I mit können im weil-Satz",
+      "explanation": "Futur I of *sich etwas leisten können*: *sie werden sich … leisten können*. In the *weil*-clause the finite **werden** (plural, agreeing with *sie*) normally stands before the two infinitives: **werden leisten können**. The reflexive *sich* and *nicht mehr* stay in the Mittelfeld.",
+      "pattern": "weil + … + nicht mehr + **werden** + Infinitiv + können",
+      "mistake": {"wrong": "Viele Mieter sind besorgt, weil sie sich die Wohnungen nach der Sanierung nicht mehr werden können leisten.", "why": "Inside the cluster the dependent infinitive *leisten* precedes the modal infinitive *können*."},
+      "examples": [
+        {"de": "Ich glaube nicht, dass wir das Projekt allein werden finanzieren können.", "en": "I don't think we will be able to finance the project on our own."},
+        {"de": "Es ist fraglich, ob die Region die Einbußen wird ausgleichen können.", "en": "It is questionable whether the region will be able to make up for the losses."}
+      ],
+      "words": [{"de": "sich etw. leisten können", "en": "to be able to afford sth."}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Es ist noch unklar, ob die Studierenden die Klausur auch online {{c1::werden schreiben dürfen::dürfen / schreiben / werden}}.",
+      "en": "It is still unclear whether the students will be allowed to sit the exam online as well.",
+      "focus": "Futur I mit dürfen in der indirekten Frage",
+      "explanation": "Futur I with *dürfen*: *sie werden schreiben dürfen*. In the *ob*-clause the finite *werden* goes in front of the two infinitives: **werden schreiben dürfen**. *auch online* stays in the Mittelfeld before the cluster.",
+      "pattern": "ob + … + **werden** + Infinitiv + dürfen",
+      "mistake": {"wrong": "Es ist noch unklar, ob die Studierenden die Klausur auch online werden dürfen schreiben.", "why": "The dependent infinitive *schreiben* must come before *dürfen*; the cluster is *werden schreiben dürfen*."},
+      "examples": [
+        {"de": "Niemand weiß, ob wir im Herbst wieder werden reisen dürfen.", "en": "Nobody knows whether we will be allowed to travel again in the autumn."},
+        {"de": "Die Fans fragen sich, ob sie beim Finale ihre Fahnen werden mitbringen dürfen.", "en": "The fans are wondering whether they will be allowed to bring their flags to the final."}
+      ],
+      "words": [{"de": "die Klausur (-en)", "en": "written exam"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Ich hoffe, dass wir die erste Projektphase bis Ende März {{c1::abgeschlossen haben werden::werden / haben / abschließen}}.",
+      "en": "I hope that we will have completed the first project phase by the end of March.",
+      "focus": "Futur II im Nebensatz · ohne Umstellung",
+      "explanation": "Futur II = *werden* + Partizip II + *haben/sein*. The cluster contains a Partizip and only one infinitive (*haben*), so there is no Ersatzinfinitiv and no reordering: the finite *werden* simply goes last → **abgeschlossen haben werden**.",
+      "pattern": "dass + … + Partizip II + haben + **werden (finit)**",
+      "mistake": {"wrong": "Ich hoffe, dass wir die erste Projektphase bis Ende März werden abgeschlossen haben.", "why": "*werden* moves forward only before two infinitives (*wird arbeiten müssen*). In the Futur II the cluster is Partizip + *haben*, so the finite *werden* stays at the end."},
+      "examples": [
+        {"de": "Ich bin sicher, dass er bis Montag alle Mails beantwortet haben wird.", "en": "I am sure that he will have answered all the emails by Monday."},
+        {"de": "Sie ist zuversichtlich, dass sie die Prüfung bis zum Sommer bestanden haben wird.", "en": "She is confident that she will have passed the exam by the summer."}
+      ],
+      "words": [{"de": "die Projektphase (-n)", "en": "project phase"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Die Polizei vermutet, dass der Einbrecher einen Schlüssel zur Wohnung {{c1::gehabt haben muss::müssen / haben / haben (Part. II)}}.",
+      "en": "The police suspect that the burglar must have had a key to the flat.",
+      "focus": "Modalverb + Infinitiv Perfekt · Vermutung",
+      "explanation": "Here *müssen* expresses a logical conclusion about the past (subjective use). The past lies in the infinitive: Infinitiv Perfekt *gehabt haben*. The modal itself is in the Präsens and finite, so there is no Ersatzinfinitiv: **gehabt haben muss**, finite verb last. Compare *dass er hat gehen müssen* = he was obliged to go (objective, Perfekt of the modal).",
+      "pattern": "dass + … + Partizip II + haben/sein + **Modalverb (finit)**",
+      "mistake": {"wrong": "Die Polizei vermutet, dass der Einbrecher einen Schlüssel zur Wohnung muss gehabt haben.", "why": "The finite modal *muss* is the last word of a normal Nebensatz cluster. There are no two infinitives at the end, so nothing moves to the front."},
+      "examples": [
+        {"de": "Ich glaube, dass sie den Termin vergessen haben könnte.", "en": "I think that she might have forgotten the appointment."},
+        {"de": "Die Ermittler sind sicher, dass der Täter durch das Kellerfenster eingestiegen sein muss.", "en": "The investigators are sure that the perpetrator must have got in through the cellar window."}
+      ],
+      "words": [{"de": "der Einbrecher (-)", "en": "burglar"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Der Minister erklärte, dass er wegen der unklaren Datenlage nicht früher {{c1::habe eingreifen können::können / eingreifen / haben (Konj. I)}}.",
+      "en": "The minister stated that he had not been able to intervene earlier because the data were unclear.",
+      "focus": "Indirekte Rede · Konjunktiv I Perfekt mit Modalverb",
+      "explanation": "In reported speech the Perfekt of the modal is in Konjunktiv I: *er habe eingreifen können*. The Ersatzinfinitiv rule applies to every finite form of *haben*, so in the *dass*-clause **habe** goes in front of the two infinitives: **habe eingreifen können**.",
+      "pattern": "dass + … + **habe (Konj. I)** + Infinitiv + Modal-Inf.",
+      "mistake": {"wrong": "Der Minister erklärte, dass er wegen der unklaren Datenlage nicht früher eingreifen können habe.", "why": "Konjunktiv I does not change the word order: the finite *habe* must stand before the infinitives, just like *hat* or *hätte*."},
+      "examples": [
+        {"de": "Die Sprecherin sagte, dass die Firma die Lieferung nicht habe garantieren können.", "en": "The spokeswoman said that the company had not been able to guarantee the delivery."},
+        {"de": "Der Angeklagte behauptete, dass er das Geld habe zurückzahlen wollen.", "en": "The defendant claimed that he had wanted to pay the money back."}
+      ],
+      "words": [{"de": "eingreifen", "en": "to intervene"}, {"de": "die Datenlage", "en": "available data"}],
+      "production_cue": "(reported speech, Konjunktiv I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Ich verstehe einfach nicht, warum er sich von dem Vertreter so leicht {{c1::hat überreden lassen::lassen / überreden / haben}}.",
+      "en": "I simply don't understand why he let himself be talked into it so easily by the sales rep.",
+      "focus": "Perfekt von sich lassen + Infinitiv",
+      "explanation": "*sich überreden lassen* (to let oneself be persuaded) has a passive meaning. Its Perfekt uses the Ersatzinfinitiv: *er hat sich überreden lassen*. In the *warum*-clause the finite **hat** moves to the front of the cluster: **hat überreden lassen**. The reflexive *sich* and the agent *von dem Vertreter* stay in the Mittelfeld.",
+      "pattern": "warum + sich + … + **hat** + Infinitiv + lassen",
+      "mistake": {"wrong": "Ich verstehe einfach nicht, warum er sich von dem Vertreter so leicht überreden lassen hat.", "why": "*überreden lassen* are two infinitives at the end of the cluster, so the finite *hat* must stand before them."},
+      "examples": [
+        {"de": "Sie ärgert sich, dass sie sich so leicht hat ablenken lassen.", "en": "She is annoyed that she let herself be distracted so easily."},
+        {"de": "Es ist erstaunlich, dass sich das Team nicht hat entmutigen lassen.", "en": "It is remarkable that the team didn't let itself be discouraged."}
+      ],
+      "words": [{"de": "überreden", "en": "to persuade, to talk sb. into sth."}, {"de": "der Vertreter (-)", "en": "sales representative"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the special word order of the Ersatzinfinitiv cluster.",
+      "prompt": "Why is it *dass er kommen muss*, but *dass er hat kommen müssen*?",
+      "answer": "Normally the finite verb is the **last** word of a Nebensatz (*kommen muss*). But when the cluster ends in **two infinitives** because of an Ersatzinfinitiv (Perfekt, Plusquamperfekt, Konjunktiv II Vergangenheit of a modal, *lassen*, *sehen/hören*), the finite *haben*-form (*hat, hatte, hätte, habe*) moves to the **front** of the cluster: **hat** kommen müssen.",
+      "explanation": "The order of the remaining verbs does not change; only the finite auxiliary jumps to the left of the whole group. The same left position is usual for *werden* in the Futur I with a modal (*dass sie wird arbeiten müssen*). Everything else in the clause (objects, *nicht*, adverbs) stays before the auxiliary.",
+      "examples": [
+        {"de": "Ich weiß, dass er morgen früher gehen muss.", "en": "I know that he has to leave earlier tomorrow."},
+        {"de": "Ich weiß, dass er gestern früher hat gehen müssen.", "en": "I know that he had to leave earlier yesterday."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about which verbs use the Ersatzinfinitiv.",
+      "prompt": "Which verbs replace their Partizip II by an infinitive when they have a dependent infinitive, and how strict is the rule?",
+      "answer": "**Obligatory:** the modal verbs *dürfen, können, mögen, müssen, sollen, wollen* and causative **lassen**. **Usual:** *brauchen* (*hätte nicht zu kommen brauchen*). **Optional:** *sehen, hören* (*hat kommen sehen* / *kommen gesehen*), rarely *helfen, fühlen*. Without a dependent infinitive the normal Partizip is used: *Das habe ich nicht gewollt.*",
+      "explanation": "Only the Ersatzinfinitiv creates the special order with the auxiliary in front. If you choose the Partizip with *sehen/hören*, the finite verb stays at the end (*dass sie ihn kommen gesehen hat*). With modals and *lassen* the Partizip is wrong when there is another infinitive.",
+      "examples": [
+        {"de": "Das habe ich wirklich nicht gewollt.", "en": "I really didn't want that."},
+        {"de": "Das habe ich wirklich nicht sagen wollen.", "en": "I really didn't mean to say that."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in form and meaning.",
+      "prompt": "What is the difference between *dass sie es vergessen haben muss* and *dass sie es hat vergessen müssen*?",
+      "answer": "*vergessen haben muss* = modal in the **Präsens** + Infinitiv Perfekt → a **conclusion** about the past (she must have forgotten it). Normal cluster, finite *muss* last. *hat vergessen müssen* = **Perfekt of the modal** with Ersatzinfinitiv → an **obligation** in the past (she was forced to forget it). Auxiliary *hat* in front.",
+      "explanation": "The position of the past marker shows the meaning: in the subjective use the past is in the infinitive (*vergessen haben*), in the objective use it is in the modal (*hat … müssen*). Only the second has two infinitives at the end, so only the second puts the finite verb first.",
+      "examples": [
+        {"de": "Alles deutet darauf hin, dass er den Zug verpasst haben muss.", "en": "Everything suggests that he must have missed the train."},
+        {"de": "Es ist schade, dass sie die Feier hat absagen müssen.", "en": "It is a pity that she had to cancel the party."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about clusters without reordering.",
+      "prompt": "In which three-verb clusters does the finite verb stay at the end, even though there are three verbs?",
+      "answer": "When the cluster does **not** end in two infinitives: **Passiv + Modal** (*repariert werden muss*), **Passiv Perfekt** (*repariert worden ist*), **Futur II** (*repariert haben wird*), **Modal + Infinitiv Perfekt** (*repariert haben muss*). Here the order is simply dependent forms first, finite verb last.",
+      "explanation": "The test is the non-finite part of the cluster. If it contains a Partizip followed by only one infinitive or by *worden* (*repariert werden*, *repariert haben*, *repariert worden*), there is no reordering. Only when it ends in two infinitives (*Infinitiv + Modal-Infinitiv*, or *+ lassen/sehen*) does the finite auxiliary move to the front.",
+      "examples": [
+        {"de": "Wir wissen nicht, ob der Schaden schon gemeldet worden ist.", "en": "We don't know whether the damage has already been reported."},
+        {"de": "Wir wissen nicht, ob der Schaden noch hätte gemeldet werden müssen.", "en": "We don't know whether the damage should still have been reported."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the rest of the clause.",
+      "prompt": "Can *nicht*, an adverb or a pronoun stand between *hat/hätte* and the infinitives in standard German?",
+      "answer": "**No.** The cluster *hat/hätte + infinitives* stays together. *nicht*, adverbs, pronouns and objects all stand in the Mittelfeld **before** the finite auxiliary: *dass er es nicht **hat** sehen wollen*, *obwohl wir früher **hätten** gehen sollen*.",
+      "explanation": "A typical learner error is to keep the adverb next to the main verb, as in a main clause: ✗ *dass wir hätten früher gehen sollen*. In the Nebensatz the whole verb group moves to the end, and the adverb stays where it was in the Mittelfeld.",
+      "examples": [
+        {"de": "Er bedauert, dass er sich nicht rechtzeitig hat impfen lassen.", "en": "He regrets that he did not get vaccinated in time."},
+        {"de": "Sie meint, dass wir das Paket gleich hätten zurückschicken sollen.", "en": "She thinks that we should have sent the parcel back straight away."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about regional variation.",
+      "prompt": "In Austria and southern Germany you often hear *dass er kommen hat müssen*. Is this standard, and which order is wrong everywhere?",
+      "answer": "*kommen hat müssen* (auxiliary in the middle) is a **regional, mostly spoken** variant; standard written German and the Goethe exams use **hat kommen müssen**. The order **kommen müssen hat** (auxiliary at the end) is wrong in every variety.",
+      "explanation": "You should be able to understand the regional order, but write the standard order. The same applies to *hätte*: standard *obwohl ich es hätte wissen sollen*, regional *wissen hätte sollen*.",
+      "examples": [
+        {"de": "Ich finde es gut, dass sie das selbst hat entscheiden dürfen.", "en": "I think it's good that she was allowed to decide that herself."},
+        {"de": "Es war klar, dass wir viel früher hätten umdrehen müssen.", "en": "It was clear that we should have turned back much earlier."}
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the dass-clause in the Perfekt.",
+      "prompt": "Ich weiß, dass er am Wochenende arbeiten muss.",
+      "answer": "Ich weiß, dass er am Wochenende hat arbeiten müssen.",
+      "explanation": "Perfekt of *müssen* with an infinitive: *hat arbeiten müssen* (Ersatzinfinitiv, not *gemusst*). Because the cluster now ends in two infinitives, the finite *hat* comes first."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the dass-clause in the Futur I.",
+      "prompt": "Es ist klar, dass wir in den nächsten Monaten sparen müssen.",
+      "answer": "Es ist klar, dass wir in den nächsten Monaten werden sparen müssen.",
+      "explanation": "Futur I = *werden* + infinitive; with a modal the chain is *werden sparen müssen*. In the Nebensatz the finite *werden* usually stands in front of the two infinitives (*sparen müssen werden* is also possible)."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite as a passive dass-clause after *Der Vermieter hat angekündigt,*.",
+      "prompt": "Man muss die alte Gasheizung im Herbst austauschen.",
+      "answer": "Der Vermieter hat angekündigt, dass die alte Gasheizung im Herbst ausgetauscht werden muss.",
+      "explanation": "The Akkusativ object *die alte Gasheizung* becomes the subject; *man* disappears. Passive with modal: *ausgetauscht werden muss* – Partizip, *werden*, and the finite modal at the end."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Change the obwohl-clause to the Konjunktiv II der Vergangenheit (a missed possibility).",
+      "prompt": "Wir haben den Fehler übersehen, obwohl wir ihn bemerken konnten.",
+      "answer": "Wir haben den Fehler übersehen, obwohl wir ihn hätten bemerken können.",
+      "explanation": "*konnten* (indicative) says that they were able to; *hätten bemerken können* says that it was possible, but did not happen. With *hätten* the cluster ends in two infinitives, so *hätten* moves to the front."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Make the main clause a dass-clause after *Er wusste nicht,*.",
+      "prompt": "Sie hat das Stipendium nicht annehmen dürfen.",
+      "answer": "Er wusste nicht, dass sie das Stipendium nicht hat annehmen dürfen.",
+      "explanation": "In the main clause *hat* is in position 2. In the *dass*-clause it does not go to the end but to the front of the cluster *annehmen dürfen*. *nicht* stays before the cluster."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich bin sicher, dass er das allein machen gekonnt hat.",
+      "answer": "Ich bin sicher, dass er das allein hat machen können.",
+      "explanation": "With a dependent infinitive the modal takes the Ersatzinfinitiv *können*, not the Partizip *gekonnt*. The cluster then ends in two infinitives, so *hat* moves to the front."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Schade, dass ihr so lange auf den Bus warten müssen habt.",
+      "answer": "Schade, dass ihr so lange auf den Bus habt warten müssen.",
+      "explanation": "The forms are right, but the finite *habt* is in the wrong place. In an Ersatzinfinitiv cluster it stands before the two infinitives: *habt warten müssen*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Bericht zeigt, dass die Messdaten nicht korrekt sind erfasst worden.",
+      "answer": "Der Bericht zeigt, dass die Messdaten nicht korrekt erfasst worden sind.",
+      "explanation": "Perfekt passive in a Nebensatz: Partizip + *worden* + finite *sind*. There are no two infinitives, so the finite verb is not moved forward; it stays at the end."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Statikerin sagt, dass das Dach noch dieses Jahr muss neu gedeckt werden.",
+      "answer": "Die Statikerin sagt, dass das Dach noch dieses Jahr neu gedeckt werden muss.",
+      "explanation": "Passive with a modal in the Präsens: *neu gedeckt werden muss*. The finite modal *muss* is the last word of the Nebensatz; it does not stay before the passive infinitive."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Alle meinen,",
+      "prompt": "alle meinen / dass / er / früher / zum Arzt / hätte / gehen / sollen",
+      "answer": "Alle meinen, dass er früher zum Arzt hätte gehen sollen.",
+      "explanation": "*früher* and *zum Arzt* stay in the Mittelfeld. The cluster at the end is *hätte gehen sollen*: Konjunktiv II der Vergangenheit with Ersatzinfinitiv, finite *hätte* in front. *zum Arzt* cannot follow *hätte*."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Complete the sentence *Die Hausverwaltung verschickte sofort einen Brief, …* with the parts in the correct order.",
+      "prompt": "weil / informiert / die Mieter / mussten / rechtzeitig / werden",
+      "answer": "Die Hausverwaltung verschickte sofort einen Brief, weil die Mieter rechtzeitig informiert werden mussten.",
+      "explanation": "Passive with a modal in the Präteritum: *informiert werden mussten*. There is no Ersatzinfinitiv, so the finite *mussten* is last. *rechtzeitig* stays in the Mittelfeld after the subject."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Niemand weiß,",
+      "prompt": "niemand weiß / ob / die Firma / die Löhne / wird / bezahlen / können",
+      "answer": "Niemand weiß, ob die Firma die Löhne wird bezahlen können.",
+      "explanation": "Futur I with *können* in an *ob*-clause: the finite *wird* stands in front of the two infinitives *bezahlen können*. The alternative *bezahlen können wird* is also correct, but less common."
+    },
+    {
+      "key": "d19",
+      "type": "choice",
+      "instruction": "Choose the correct verb cluster.",
+      "prompt": "Ich bedaure sehr, dass ich Ihnen nicht ___.",
+      "options": ["habe helfen können", "helfen können habe", "helfen gekonnt habe", "habe geholfen können"],
+      "correct": "habe helfen können",
+      "answer": "Ich bedaure sehr, dass ich Ihnen nicht habe helfen können.",
+      "explanation": "Perfekt of *können* with an infinitive → Ersatzinfinitiv, finite *habe* in front. *helfen können habe* puts the auxiliary at the end. *gekonnt* is wrong with a dependent infinitive. *geholfen können* uses a Partizip where an infinitive is needed."
+    },
+    {
+      "key": "d20",
+      "type": "choice",
+      "instruction": "Choose the form that expresses a conclusion about the past.",
+      "prompt": "Die Spuren zeigen, dass der Einbrecher durch das Dachfenster ___.",
+      "options": ["eingestiegen sein muss", "hat einsteigen müssen", "muss eingestiegen sein", "eingestiegen muss sein"],
+      "correct": "eingestiegen sein muss",
+      "answer": "Die Spuren zeigen, dass der Einbrecher durch das Dachfenster eingestiegen sein muss.",
+      "explanation": "A conclusion from evidence uses the modal in the Präsens + Infinitiv Perfekt; in the Nebensatz the finite *muss* is last. *hat einsteigen müssen* is correct in form but means he was forced to climb in. *muss eingestiegen sein* is main-clause order, and *eingestiegen muss sein* splits the Infinitiv Perfekt."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Join the sentences with weil.",
+      "prompt": "Wir haben den Anschlusszug verpasst. Wir haben in Fulda eine Stunde warten müssen.",
+      "answer": "Wir haben den Anschlusszug verpasst, weil wir in Fulda eine Stunde haben warten müssen.",
+      "explanation": "In the *weil*-clause the Perfekt *haben warten müssen* goes to the end. Because of the Ersatzinfinitiv, the finite *haben* stands in front of *warten müssen*, not after it."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Make the second sentence a dass-clause after *Die Kommission kritisiert*.",
+      "prompt": "Die Kommission kritisiert etwas. Die Gefahr hätte früher erkannt werden müssen.",
+      "answer": "Die Kommission kritisiert, dass die Gefahr früher hätte erkannt werden müssen.",
+      "explanation": "The four-verb cluster *hätte erkannt werden müssen* moves to the end with *hätte* in front. The adverb *früher* stays in the Mittelfeld before *hätte*; it cannot stand inside the cluster (✗ *hätte früher erkannt werden müssen*). *etwas* is replaced by the *dass*-clause."
+    }
+  ]
+}

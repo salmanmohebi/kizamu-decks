@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-02",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "mixed-conditional-past-condition-present-result-if-i-had-tak",
+      "term": "mixed conditional: past condition → present result (If I had taken it, I'd be … now)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Imagines a different past (*if* + past perfect) and says how the present would be different as a result (*would* + base verb), often with *now* or *today*.",
+      "usage": "Very common in speech and writing when people look back on decisions with regret or relief. In speech both parts are contracted: *If I'd taken that job, I'd be living in Seattle now*. Unlike the third conditional (*would have* + past participle), which imagines a different past result, this form keeps the result in the present.",
+      "pattern": "If + past perfect, … would / could / might + base verb (now)",
+      "examples": [
+        "**If I'd taken** that job in Seattle, **I'd be** living near the ocean now.",
+        "**If** we **hadn't bought** the house in 2019, we **couldn't afford** one today.",
+        "**If** we **had fixed** the data split last month, we **wouldn't be** rerunning everything this week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If she hadn't moved to Madrid, she {{wouldn't speak}} Spanish so well today.",
+        "hint": "Combine into one sentence (past cause, present result): She moved to Madrid, and that's why she speaks Spanish so well today."
+      },
+      "mistake": {
+        "wrong": "If I had taken that job, I would have been rich now.",
+        "right": "If I had taken that job, I would be rich now.",
+        "why": "With *now*, the result is about the present, so it takes *would* + base verb, not *would have* + past participle."
+      }
+    },
+    {
+      "id": "inverted-conditional-should-you-have-any-questions",
+      "term": "inverted conditional: Should you have any questions, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Should* + subject at the start of the clause replaces *if* and presents the condition as possible but not expected: *Should you have any questions* = *If you have any questions*.",
+      "usage": "Very common in formal emails, letters, customer notices and contracts, especially in closing lines. In conversation and casual messages it sounds stiff; say *If you have any questions* or *Let me know if …*. There is no *if*, and the verb after the subject is the base form; the negative is *Should you not wish to …*.",
+      "pattern": "Should + subject + base verb …, (please) + imperative / will …",
+      "examples": [
+        "**Should you have** any questions, please don't hesitate to contact me.",
+        "**Should the flight be** canceled, passengers will receive a full refund.",
+        "**Should** the tenant **fail** to pay rent on time, a late fee of fifty dollars will apply."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Should you need}} any further information, please contact our office.",
+        "hint": "Rewrite as a formal email line, without if: If you need any further information, please contact our office."
+      },
+      "mistake": {
+        "wrong": "If should you have any questions, please call me.",
+        "right": "Should you have any questions, please call me.",
+        "why": "The inverted *should* replaces *if*; use one or the other, never both."
+      }
+    },
+    {
+      "id": "say-let-s-say-suppose-say-you-lost-your-job",
+      "term": "say / let's say (= suppose): Say you lost your job …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Say* or *let's say* at the start of a sentence sets up an imagined situation for discussion, like *suppose*: *Say you lost your job* = imagine that you lost your job.",
+      "usage": "Very common in conversation, teaching and meetings to set up a scenario before a question. A present verb makes the situation sound realistic (*Say you lose your job*), a past verb more hypothetical (*Say you lost it*). It is more casual than *suppose*; in formal writing use *suppose* or *assume*.",
+      "pattern": "Say / Let's say (that) + present or past clause. … ?",
+      "examples": [
+        "**Say you lost** your job tomorrow. How long could you cover the rent?",
+        "**Let's say** the meeting runs late. Can you still pick up the kids?",
+        "**Let's say** we double the batch size. What happens to memory use?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Let's say}} you won the lottery tomorrow. What would you buy first?",
+        "hint": "Rewrite as a casual spoken scenario, two words (not suppose or imagine): If you won the lottery tomorrow, what would you buy first?"
+      },
+      "mistake": {
+        "wrong": "Say you lost your job. What will you do?",
+        "right": "Say you lost your job. What would you do?",
+        "why": "A past verb after *say* makes the situation hypothetical, so the question takes *would*; with a present verb (*Say you lose it*), *will* is fine."
+      }
+    },
+    {
+      "id": "what-if-past-suggestion-what-if-we-tried",
+      "term": "what if + past (suggestion): What if we tried …?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*What if* + past tense makes a tentative suggestion (*What if we tried a different route?*) or asks someone to imagine an unreal situation.",
+      "usage": "Very common in meetings and brainstorming because it sounds open, not pushy. *What if we try …* (present) is also common and a little more direct; the past tense makes the idea sound more tentative. *Why don't we …* is a more direct suggestion.",
+      "pattern": "What if + subject + past verb …?",
+      "examples": [
+        "**What if we tried** moving the meeting to Thursday instead?",
+        "**What if** you **called** her and just apologized?",
+        "**What if** we **trained** on half the data first, just to see if it helps?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{What if we went}} to the beach on Saturday instead of the mall?",
+        "hint": "Rewrite as a tentative suggestion with a past verb: Let's go to the beach on Saturday instead of the mall."
+      },
+      "mistake": {
+        "wrong": "What about we try a different route?",
+        "right": "What if we tried a different route?",
+        "why": "*What about* takes a noun or an *-ing* form (*What about trying …?*); before a full clause, use *What if*."
+      }
+    },
+    {
+      "id": "even-if-vs-even-though",
+      "term": "even if vs. even though",
+      "label": "confusable pair",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Even if* introduces a condition that may or may not be true and says it will not change the result; *even though* introduces a known fact and says the result happens despite it.",
+      "usage": "Use *even though* when the clause is true (*Even though it was raining, we went*) and *even if* when it is only a possibility (*Even if it rains, we'll go*). Using *even if* for a known fact makes it sound as if you doubt the fact. *Even though* is a stronger *although*.",
+      "pattern": "even if + possible or unreal condition / even though + known fact",
+      "examples": [
+        "We're going hiking on Sunday **even if** it rains.",
+        "**Even though** she'd practiced for weeks, she failed her driving test.",
+        "**Even if** you apologize now, I don't think she'll forgive you."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I still enjoyed the trip, {{even though}} it rained every single day.",
+        "hint": "Combine with even if or even though: It rained every single day, but I still enjoyed the trip."
+      },
+      "mistake": {
+        "wrong": "Even if he is my brother, I don't trust him.",
+        "right": "Even though he is my brother, I don't trust him.",
+        "why": "He really is your brother, so it is a fact and needs *even though*; *even if* is for conditions that may not be true."
+      }
+    },
+    {
+      "id": "in-case-vs-if-take-a-jacket-in-case-it-gets-cold",
+      "term": "in case vs. if: Take a jacket in case it gets cold",
+      "label": "confusable pair",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*In case* gives the reason for a precaution you take beforehand, because something might happen; *if* says the action happens only when the condition is true.",
+      "usage": "*Take a jacket in case it gets cold* means take it now; *Wear a jacket if it gets cold* means only when it is cold. After *in case*, use a present verb for the future, and *just in case* is very common in speech. In phrases like *in case you need me*, it is also used loosely to mean *if*, but the precaution meaning is the core one.",
+      "pattern": "action now + (just) in case + present verb / action + if + present verb",
+      "examples": [
+        "I always keep some cash in the car **in case** my card doesn't work.",
+        "Save a copy on your laptop **in case** the upload fails.",
+        "I'll pack a sweater **in case** it gets cold, but I'll only wear it **if** I need to."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Write down my number {{in case}} your phone dies.",
+        "hint": "Combine as a precaution (not if): Your phone might die, so write down my number now."
+      },
+      "mistake": {
+        "wrong": "Take an umbrella in case it will rain.",
+        "right": "Take an umbrella in case it rains.",
+        "why": "After *in case*, use a present verb for a future possibility, not *will*."
+      }
+    },
+    {
+      "id": "wish-past-perfect-i-wish-i-had",
+      "term": "wish + past perfect: I wish I had …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses regret about the past: the speaker is sorry that something happened or did not happen.",
+      "usage": "Very common in speech and writing; in speech *had* is contracted (*I wish I'd known*). Past regret needs the past perfect; *I wish I studied* would refer to the present. In casual American speech you will hear *I wish I would have …*, but it is nonstandard, and editors treat it as an error in writing.",
+      "pattern": "wish + (that) + subject + had (not) + past participle",
+      "examples": [
+        "**I wish I'd bought** an apartment back when prices were still low.",
+        "**I wish** you **had told** me you were coming; I'd have cooked something.",
+        "She **wishes** she **hadn't posted** that comment, but it's too late now."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I wish I had listened}} to my dad's advice about saving money.",
+        "hint": "Rewrite as a regret: I didn't listen to my dad's advice about saving money."
+      },
+      "mistake": {
+        "wrong": "I wish I didn't eat so much last night.",
+        "right": "I wish I hadn't eaten so much last night.",
+        "why": "For regret about the past, *wish* takes the past perfect; the past simple refers to the present."
+      }
+    },
+    {
+      "id": "would-rather-past-other-subject-i-d-rather-you-didn-t",
+      "term": "would rather + past (other subject): I'd rather you didn't",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "States a preference about what another person does; the past tense refers to the present or future: *I'd rather you didn't* = please don't.",
+      "usage": "Common in speech as a polite but firm way to object or refuse; *I'd rather you didn't* alone is a complete answer. With the same subject, use the base verb (*I'd rather stay*); with a different subject, use the past (*I'd rather you stayed*). For a past situation, use the past perfect: *I'd rather you had asked first*.",
+      "pattern": "would rather + other subject + past verb (present or future meaning)",
+      "examples": [
+        "\"Mind if I smoke?\" \"**I'd rather you didn't**.\"",
+        "**I'd rather you told** me now than let me find out from someone else.",
+        "My parents **would rather** we **spent** the holidays with them this year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I'd rather you didn't bring}} the dog this time; my sister is allergic.",
+        "hint": "Rewrite as a polite preference: Please don't bring the dog this time; my sister is allergic."
+      },
+      "mistake": {
+        "wrong": "I'd rather you don't tell anyone yet.",
+        "right": "I'd rather you didn't tell anyone yet.",
+        "why": "With a different subject after *would rather*, standard English uses the past tense, even for the present or future."
+      }
+    },
+    {
+      "id": "like-as-a-conjunction-it-looks-like-it-s-going-to-rain",
+      "term": "like as a conjunction: It looks like it's going to rain",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Like* before a full clause means *as if* (*It looks like it's going to rain*) or *as* (*like I said*).",
+      "usage": "Normal in American conversation and common in informal writing; *it looks like*, *it feels like* and *like I said* are everyday phrases. Traditional style guides prefer *as if* and *as* in formal writing, so use those in reports and papers.",
+      "pattern": "look / seem / sound / feel + like + clause; like + subject + verb (= as)",
+      "examples": [
+        "**It looks like** we're going to be late again.",
+        "**Like I said**, the store closes at nine on Sundays.",
+        "It **feels like** nobody actually read the proposal before the meeting."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "It sounds {{like}} you had a rough day at work.",
+        "hint": "Rewrite in relaxed spoken style: It sounds as if you had a rough day at work."
+      },
+      "mistake": {
+        "wrong": "It seems like that nobody read the email.",
+        "right": "It seems like nobody read the email.",
+        "why": "*Like* already introduces the clause; *like that* mixes two patterns (*seems like* + clause and *seems that* + clause)."
+      }
+    },
+    {
+      "id": "it-s-not-as-if-like",
+      "term": "It's not as if / like …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Rejects an idea as obviously untrue, usually to defend yourself or to show that a worry or complaint makes no sense: *It's not like I had a choice.*",
+      "usage": "Typical of conversation, often defensive or a little sarcastic. *It's not like* is the more casual form and very common in American speech; *It's not as if* is a bit more careful and also fits writing. The verb usually takes its normal tense (*It's not like we're rich*).",
+      "pattern": "It's not as if / It's not like + clause",
+      "examples": [
+        "Why are you so upset? **It's not like** I forgot your birthday on purpose.",
+        "Of course we're taking the bus. **It's not as if** we can afford a taxi.",
+        "Just send the draft. **It's not like** anyone's going to read it tonight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Sure, borrow my car. {{It's not like}} I'm going anywhere this weekend.",
+        "hint": "Rewrite to wave away the worry, casual style: Sure, borrow my car. Obviously I'm not going anywhere this weekend."
+      },
+      "mistake": {
+        "wrong": "It's not like if I had a choice.",
+        "right": "It's not like I had a choice.",
+        "why": "Use *like* or *as if*, not both; *like if* is not standard English."
+      }
+    },
+    {
+      "id": "x-if-not-y-hundreds-if-not-thousands",
+      "term": "X, if not Y: hundreds, if not thousands",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Gives an amount or quality and suggests that the real one may be even bigger or stronger: *hundreds, if not thousands* = at least hundreds, possibly thousands.",
+      "usage": "Common in speech, journalism and essays, usually with commas around *if not Y*. Y must be the bigger number or the stronger word. With some adjectives it can also mean *but not* (*a pleasant, if not exciting, evening*), so make sure the second word is clearly stronger when you mean *possibly even*.",
+      "pattern": "X, if not Y, … (Y = a bigger number or a stronger word)",
+      "examples": [
+        "The roof repair will cost **thousands, if not tens of thousands**, of dollars.",
+        "It's one of the best, **if not the best**, pizza places in Chicago.",
+        "**Dozens, if not hundreds**, of people called the station to complain."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Getting a permit for the new deck could take {{months, if not years}}.",
+        "hint": "Rewrite to suggest the time may be even longer: Getting a permit for the new deck could take months, maybe even years."
+      },
+      "mistake": {
+        "wrong": "The repairs will cost thousands, if not hundreds, of dollars.",
+        "right": "The repairs will cost hundreds, if not thousands, of dollars.",
+        "why": "The second item must be the bigger one, because *X, if not Y* means 'possibly even Y'."
+      }
+    },
+    {
+      "id": "if-happen-to-if-you-happen-to-see-him",
+      "term": "if … happen to: If you happen to see him, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Happen to* in the *if*-clause makes the condition sound casual, accidental or not very likely: *If you happen to see him* = if, by chance, you see him.",
+      "usage": "Very common in polite requests in speech and email (*If you happen to be in town, let me know*), because it shows you are not expecting or demanding anything. It sounds friendlier and less formal than *If you should see him*.",
+      "pattern": "If + subject + happen(s) to + base verb …",
+      "examples": [
+        "**If you happen to** see Mark at the gym, tell him I said hi.",
+        "**If** the package **happens to** arrive while I'm out, could you sign for it?",
+        "**If you happen to** have a spare umbrella, could I borrow it?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If you {{happen to be}} in Boston next month, let's grab dinner.",
+        "hint": "Rewrite so the condition sounds casual, by chance: If you are in Boston next month, let's grab dinner."
+      },
+      "mistake": {
+        "wrong": "If it happens that you see Mark, tell him to call me.",
+        "right": "If you happen to see Mark, tell him to call me.",
+        "why": "English makes the person the subject of *happen to*; *if it happens that* is grammatical but sounds stiff and translated."
+      }
+    },
+    {
+      "id": "past-tense-for-politeness-i-was-wondering-if-you-could",
+      "term": "past tense for politeness: I was wondering if you could …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The past continuous (*I was wondering if …*, *I was hoping …*) makes a present request sound softer and less direct; the time is still now.",
+      "usage": "Very common in American emails, phone calls and requests to people you don't know well. *I was wondering if you could* is softer than *Could you*, and *I was hoping you could* is similar. Follow it with *could* or *would* (*if you could*, *if you'd be willing to*).",
+      "pattern": "I was wondering if + subject + could / would + base verb; I was hoping (that) …",
+      "examples": [
+        "**I was wondering if you could** look over my cover letter before Friday.",
+        "Hi, **I was hoping** to move my reservation to Saturday night.",
+        "**We were wondering if** you could keep an eye on our house while we're away."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I was wondering if you could}} give me a ride to the airport on Sunday.",
+        "hint": "Rewrite as a softer request: Can you give me a ride to the airport on Sunday?"
+      },
+      "mistake": {
+        "wrong": "I was wondering if could you help me with the move.",
+        "right": "I was wondering if you could help me with the move.",
+        "why": "After *wondering if*, use statement word order: the subject comes before *could*."
+      }
+    },
+    {
+      "id": "mixed-conditional-present-condition-past-result-if-i-were-i",
+      "term": "mixed conditional: present condition → past result (If I were …, I would have …)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "An unreal present fact or a permanent quality (*If I were taller*, *If she weren't so shy*) explains a past result that did not happen.",
+      "usage": "Used to explain past events through character, skills or permanent situations. The *if*-clause has the past simple or *were* (true now and always), and the main clause has *would have* + past participle (*If I weren't so busy, I'd have come*). It is less common than the past-condition / present-result type.",
+      "pattern": "If + past simple / were (now, always), … would have + past participle (then)",
+      "examples": [
+        "**If I were** more organized, **I would have finished** my taxes weeks ago.",
+        "**If** he **didn't speak** fluent Japanese, the company **wouldn't have sent** him to Tokyo.",
+        "**If** she **weren't** so modest, she **would have mentioned** the award at dinner."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If I weren't afraid of heights, I {{would have gone}} skydiving with you last weekend.",
+        "hint": "Combine (permanent fact, past result): I'm afraid of heights, so I didn't go skydiving with you last weekend."
+      },
+      "mistake": {
+        "wrong": "If I weren't so shy, I would speak at the meeting yesterday.",
+        "right": "If I weren't so shy, I would have spoken at the meeting yesterday.",
+        "why": "The result is in the past (*yesterday*), so it needs *would have* + past participle."
+      }
+    },
+    {
+      "id": "were-to-if-prices-were-to-rise",
+      "term": "were to: If prices were to rise, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* + subject + *were to* + verb presents a future condition as hypothetical or unlikely; it can also make a suggestion sound less direct.",
+      "usage": "Common in formal writing, reports, news and careful speech. It is more tentative than *If prices rise* and more formal than *If prices rose*; the most formal version drops *if* (*Were prices to rise, …*). *Was to* is common in speech, but *were* is preferred in writing.",
+      "pattern": "If + subject + were to + base verb, … would + base verb / Were + subject + to + base verb, …",
+      "examples": [
+        "**If** interest rates **were to** rise again, many first-time buyers would be priced out.",
+        "**If you were to** quit tomorrow, who would take over your clients?",
+        "**Were** the bridge **to** close, commuters would face an hour-long detour."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If the power {{were to go}} out during the storm, the generator would start automatically.",
+        "hint": "Rewrite with were to, so it sounds more hypothetical: If the power went out during the storm, the generator would start automatically."
+      },
+      "mistake": {
+        "wrong": "If interest rates were to rose, many buyers would wait.",
+        "right": "If interest rates were to rise, many buyers would wait.",
+        "why": "*Were to* is followed by the base form of the verb."
+      }
+    },
+    {
+      "id": "if-should-if-you-should-need-anything",
+      "term": "if … should: If you should need anything, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Should* after *if* presents the condition as possible but not expected: *If you should need anything* = if, by any chance, you need anything.",
+      "usage": "Polite and slightly formal; common in customer service, letters and offers of help. It is more formal than *If you need …* and less formal than the inverted *Should you need …*. The main clause is often an imperative or uses *will*.",
+      "pattern": "If + subject + should + base verb, … (imperative / will)",
+      "examples": [
+        "**If you should need** anything during your stay, the front desk is open all night.",
+        "**If** the symptoms **should return**, call your doctor right away.",
+        "**If** anyone **should ask** where I am, tell them I'm at lunch."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If the car {{should break}} down on the trip, call this roadside assistance number.",
+        "hint": "Keep if, but make the condition sound unlikely: If the car breaks down on the trip, call this roadside assistance number."
+      },
+      "mistake": {
+        "wrong": "If you should to need more time, just let me know.",
+        "right": "If you should need more time, just let me know.",
+        "why": "*Should* is a modal, so it takes the base verb without *to*."
+      }
+    },
+    {
+      "id": "inverted-conditional-had-i-known-i-would-have",
+      "term": "inverted conditional: Had I known, I would have …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Had* + subject + past participle replaces *if* + subject + *had* + past participle; it expresses regret or explains a past decision: *Had I known, I would have called.*",
+      "usage": "Formal: common in writing, speeches and careful or dramatic speech, while *If I'd known* is the normal spoken form. In conditionals only *had*, *were* and *should* can move to the front like this. The negative is *Had I not known*, never *Hadn't I known*.",
+      "pattern": "Had + subject + (not) + past participle, … would have + past participle",
+      "examples": [
+        "**Had I known** about the traffic, I would have left an hour earlier.",
+        "**Had** the team **tested** the software properly, the crash would never have happened.",
+        "**Had she not called** an ambulance when she did, he might not have survived."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Had we checked}} the forecast, we would never have planned a picnic for that day.",
+        "hint": "Rewrite with inversion (no if): If we had checked the forecast, we would never have planned a picnic for that day."
+      },
+      "mistake": {
+        "wrong": "Hadn't I missed the bus, I would have been on time.",
+        "right": "Had I not missed the bus, I would have been on time.",
+        "why": "In an inverted conditional, *not* comes after the subject; the contraction *hadn't* cannot start the clause."
+      }
+    },
+    {
+      "id": "if-it-weren-t-for",
+      "term": "If it weren't for …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that a present situation exists, or does not exist, only because of one person or thing: *If it weren't for my sister, I'd be lost.*",
+      "usage": "Common in speech and writing to give credit or to name the one problem: *If it weren't for the noise, I'd love this apartment*. In speech *If it wasn't for* is very common; *weren't* is preferred in careful writing. For a past result, use *If it hadn't been for*.",
+      "pattern": "If it weren't (wasn't) for + noun, … would + base verb",
+      "examples": [
+        "**If it weren't for** my neighbor, I'd have no idea what goes on in this building.",
+        "**If it weren't for** the commute, I'd love this job.",
+        "**If it weren't for** tourism, this little town would be empty most of the year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If it weren't for}} my morning coffee, I'd never get out of bed.",
+        "hint": "Rewrite to show what makes the difference now: My morning coffee is the only reason I get out of bed."
+      },
+      "mistake": {
+        "wrong": "If it isn't for my parents' help, we couldn't pay the rent.",
+        "right": "If it weren't for my parents' help, we couldn't pay the rent.",
+        "why": "This is an unreal condition, so it needs the past form *weren't* (or *wasn't*), not the present."
+      }
+    },
+    {
+      "id": "if-it-hadn-t-been-for",
+      "term": "If it hadn't been for …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that a past result happened, or was avoided, only because of one person or thing: *If it hadn't been for the seat belt, he would have died.*",
+      "usage": "Common in thanks, in giving credit, and in stories about lucky escapes or failures. The main clause usually has *would have*, *could have* or *might have* + past participle. More formal short forms are *Had it not been for* and *But for*.",
+      "pattern": "If it hadn't been for + noun, … would (not) have + past participle",
+      "examples": [
+        "**If it hadn't been for** the seat belt, he would have been seriously hurt.",
+        "**If it hadn't been for** my coach, I would have quit swimming at fifteen.",
+        "**If it hadn't been for** the rain, the fire would have spread across the whole valley."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If it hadn't been for}} the GPS, we would have gotten completely lost in the desert.",
+        "hint": "Rewrite to show what made the difference then: The GPS was the only reason we didn't get completely lost in the desert."
+      },
+      "mistake": {
+        "wrong": "If it wouldn't have been for your help, I would have failed.",
+        "right": "If it hadn't been for your help, I would have failed.",
+        "why": "In standard English, *would* does not go in the *if*-clause; use *hadn't been*."
+      }
+    },
+    {
+      "id": "if-not-for-if-not-for-her-help",
+      "term": "If not for …: If not for her help, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A shorter form of *If it weren't for* and *If it hadn't been for*: *If not for her help, we would have failed.*",
+      "usage": "Common in journalism and writing; it is more compact and a little more formal than the full forms. It works for both present and past results, and the main clause shows the time (*would* or *would have*). It can also come at the end: *We'd be lost if not for her.*",
+      "pattern": "If not for + noun, … would + base verb / would have + past participle",
+      "examples": [
+        "**If not for** her quick thinking, the kitchen fire could have spread to the whole building.",
+        "**If not for** the scholarship, I could never have gone to college.",
+        "Many small farms would have closed years ago **if not for** online sales."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If not for}} the lifeguard, the boy would have drowned.",
+        "hint": "Shorten the if-clause, keeping for: If it hadn't been for the lifeguard, the boy would have drowned."
+      },
+      "mistake": {
+        "wrong": "If not for her help, we will fail.",
+        "right": "If not for her help, we would fail.",
+        "why": "*If not for* introduces an unreal condition, so the main clause needs *would* (or *would have*)."
+      }
+    },
+    {
+      "id": "implied-conditional-with-without-without-your-help-we-would",
+      "term": "implied conditional with without: Without your help, we would have …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Without* + noun can replace a full *if*-clause: *Without your help* = *If you hadn't helped* or *If it weren't for your help*.",
+      "usage": "Very common in speech and writing, especially in thanks and acknowledgments. The main clause shows the time: *would* + base verb for the present, *would have* + past participle for the past. *But for* means the same but is formal and old-fashioned.",
+      "pattern": "Without + noun / -ing, … would + base verb / would have + past participle",
+      "examples": [
+        "**Without your help**, we **would never have finished** the move in one day.",
+        "**Without** air conditioning, summers in Phoenix **would be** unbearable.",
+        "**Without** the extra funding, the clinic **would have closed** last year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Without the map}}, we would have taken the wrong trail.",
+        "hint": "Replace the if-clause with a preposition + noun (not but for): If we hadn't had the map, we would have taken the wrong trail."
+      },
+      "mistake": {
+        "wrong": "Without you helped me, I would have failed.",
+        "right": "Without your help, I would have failed.",
+        "why": "*Without* is a preposition, so it takes a noun or an *-ing* form, not a clause."
+      }
+    },
+    {
+      "id": "otherwise-if-not-otherwise-we-would-have",
+      "term": "otherwise (= if not): …; otherwise, we would have …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Otherwise* means *if not* or *if that were not so*: it states what would happen, or would have happened, without the action or fact just mentioned.",
+      "usage": "Very common in speech and writing, at the start of a clause after a semicolon, a period or *and*. After a past fact it often takes *would have* + past participle (*I took a cab; otherwise, I'd have been late*). For a warning about the future, use *will* (*Hurry; otherwise, we'll miss it*).",
+      "pattern": "fact or action; otherwise, … would (have) + verb / will + verb",
+      "examples": [
+        "I'm glad you reminded me; **otherwise, I would have forgotten** her birthday completely.",
+        "Save your work often; **otherwise**, you **could lose** hours of progress.",
+        "We booked the tickets early; **otherwise**, we **would have paid** twice as much."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Luckily the dog barked; {{otherwise}}, we would never have noticed the smoke.",
+        "hint": "Combine with one linking word (not or): Luckily the dog barked. If it hadn't, we would never have noticed the smoke."
+      },
+      "mistake": {
+        "wrong": "I'm glad you reminded me, else I would have forgotten.",
+        "right": "I'm glad you reminded me; otherwise, I would have forgotten.",
+        "why": "*Else* cannot link two clauses on its own in standard American English; use *otherwise* or *or else*."
+      }
+    },
+    {
+      "id": "or-else-or-if-not-hurry-or-we-ll-miss-it",
+      "term": "or else / or (= if not): Hurry, or we'll miss it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After an order or a piece of advice, *or* or *or else* introduces the bad result that will follow if the action does not happen: *Hurry, or we'll miss it.*",
+      "usage": "Very common in speech after an imperative or a clause with *must*, *have to* or *should*; the result clause uses *will*. *Or else* is stronger, and at the end of a sentence it is a threat, often a joking one: *Be home by ten, or else!* In writing, *otherwise* sounds more neutral.",
+      "pattern": "imperative / have to …, or (else) + subject + will + verb",
+      "examples": [
+        "**Hurry up, or** we'll miss the start of the movie.",
+        "You need to renew your passport soon, **or else** you won't be able to travel in June.",
+        "Turn that music down, **or else**!"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Put on sunscreen, {{or else}} you'll get burned in an hour.",
+        "hint": "Combine as a strong spoken warning, two words (not otherwise): Put on sunscreen. If you don't, you'll get burned in an hour."
+      },
+      "mistake": {
+        "wrong": "Hurry up, or we would miss the bus.",
+        "right": "Hurry up, or we'll miss the bus.",
+        "why": "For a real warning about the future, the result after *or* takes *will*, not *would*."
+      }
+    },
+    {
+      "id": "provided-that-providing-you-can-go-provided-you",
+      "term": "provided (that) / providing: You can go, provided you …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces a condition that must be met for something to happen or be allowed: *You can go, provided you're back by ten* = only if you are back by ten.",
+      "usage": "Common in agreements, contracts, plans and careful speech; a little more formal than *as long as*. *Provided (that)* is the more common form, and *providing* means the same. Like *if*, it takes a present verb for the future, not *will*.",
+      "pattern": "…, provided (that) / providing + subject + present verb",
+      "examples": [
+        "You can borrow the car, **provided** you fill up the tank before you bring it back.",
+        "The landlord will return the deposit **provided that** there's no damage to the apartment.",
+        "**Provided** the weather holds, the launch will go ahead on Thursday morning."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We'll sign the contract {{provided}} the price stays the same.",
+        "hint": "Rewrite the condition in contract style (not as long as or providing): We'll sign the contract only if the price stays the same."
+      },
+      "mistake": {
+        "wrong": "Provided that the weather was bad, we stayed home.",
+        "right": "Given that the weather was bad, we stayed home.",
+        "why": "*Provided (that)* sets a condition; for a known fact or a reason, use *given that* or *since*."
+      }
+    },
+    {
+      "id": "as-long-as-so-long-as-only-if",
+      "term": "as long as / so long as (= only if)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces the one condition that must be true; *as long as* = only if, on condition that: *I don't mind what you wear, as long as you're on time.*",
+      "usage": "Very common in everyday speech, often to give permission with a condition (*You can stay up late as long as you finish your homework*). *So long as* means the same but sounds more formal or old-fashioned in American English. Use a present verb for the future, not *will*.",
+      "pattern": "…, as long as / so long as + subject + present verb",
+      "examples": [
+        "You can have a party **as long as** you clean up afterward.",
+        "I don't mind working weekends **as long as** I get paid for it.",
+        "**So long as** you pay the fine by Friday, the case will be closed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'll lend you my bike {{as long as}} you bring it back by Sunday.",
+        "hint": "Rewrite in everyday speech (not provided or so long as): I'll lend you my bike, but only if you bring it back by Sunday."
+      },
+      "mistake": {
+        "wrong": "As long as I was in Denver, I visited my aunt twice.",
+        "right": "While I was in Denver, I visited my aunt twice.",
+        "why": "*As long as* sets a condition or means *for the whole time that*; for something that happened during a period, use *while*."
+      }
+    },
+    {
+      "id": "assuming-that",
+      "term": "assuming (that) …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Introduces something you treat as true for now so that you can plan or argue from it: *Assuming the flight is on time, we'll be there by eight.*",
+      "usage": "Common in planning, budgets, estimates and arguments, in both speech and writing. It is more neutral than *provided*: it states an assumption, not a demand. *Assuming all goes well* is a fixed phrase.",
+      "pattern": "Assuming (that) + clause, … will / should / can + verb",
+      "examples": [
+        "**Assuming** the flight is on time, we'll be at the hotel by eight.",
+        "**Assuming that** prices stay flat, we can afford the renovation next spring.",
+        "**Assuming** the effect is real, it should show up in the larger sample too."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Assuming}} the store is still open, I'll pick up some milk on the way home.",
+        "hint": "Rewrite as a working assumption, one word (not if, provided or supposing): If, as I expect, the store is still open, I'll pick up some milk on the way home."
+      },
+      "mistake": {
+        "wrong": "Assume the flight is on time, we'll land at eight.",
+        "right": "Assuming the flight is on time, we'll land at eight.",
+        "why": "Start the condition with the *-ing* form *Assuming*; *Assume …* is an instruction."
+      }
+    },
+    {
+      "id": "suppose-supposing-imagine-past-imagine-if-you-lived",
+      "term": "suppose / supposing / imagine + past: Imagine if you lived …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Asks the listener to picture an unreal or unlikely situation, often before a question: *Suppose you had a million dollars …*, *Imagine if you lived by the sea …*",
+      "usage": "Common in conversation, teaching and thought experiments. The past tense marks the situation as unreal; a present verb makes it sound more likely (*Suppose it rains*). *Imagine if* is the most casual, and *supposing* is less common than *suppose*, especially in American English.",
+      "pattern": "Suppose / Supposing / Imagine (if) + subject + past verb …",
+      "examples": [
+        "**Suppose** you **had** a year off with full pay. What would you do with it?",
+        "**Imagine if** everyone **took** the train to work; the roads would be empty.",
+        "**Supposing** the server **crashed** during the launch, who would we call first?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Imagine if you had}} no phone for a month. How would you get by?",
+        "hint": "Rewrite as an invitation to picture an unreal situation (not suppose or say): You don't have a phone for a month. How would you get by?"
+      },
+      "mistake": {
+        "wrong": "Imagine to live in Paris!",
+        "right": "Imagine living in Paris! / Imagine if you lived in Paris!",
+        "why": "*Imagine* takes an *-ing* form or a clause, never *to* + verb."
+      }
+    },
+    {
+      "id": "what-if-past-perfect-what-if-i-d-said-no",
+      "term": "what if + past perfect: What if I'd said no?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Imagines a different past and asks what would have happened: *What if I'd said no?* It often expresses worry, relief or regret.",
+      "usage": "Common in conversation when people think about lucky escapes or big decisions. The implied answer uses *would have* + past participle (*We'd never have met*). Compare *What if* + past (*What if I said no?*), which is about the present or future.",
+      "pattern": "What if + subject + had (not) + past participle …?",
+      "examples": [
+        "We got lucky. **What if** the brakes **had failed** on the highway?",
+        "**What if** I **hadn't gone** to that party? We'd never have met.",
+        "**What if** the doctors **had missed** the tumor on the first scan?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'm so glad you checked. {{What if we had left}} the stove on all weekend?",
+        "hint": "Turn into a worried question about a past that didn't happen: It's lucky we didn't leave the stove on all weekend."
+      },
+      "mistake": {
+        "wrong": "What if I would have missed the flight?",
+        "right": "What if I had missed the flight?",
+        "why": "*What if* works like *if*, so a different past needs *had* + past participle, not *would have*."
+      }
+    },
+    {
+      "id": "unless-vs-if-not",
+      "term": "unless vs. if not",
+      "label": "confusable pair",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Unless* means *except if*: the result is true in every case but one. *If … not* is a general negative condition, and some *if … not* sentences cannot use *unless*.",
+      "usage": "Use *unless* for the one exception to a general rule: *I'll walk unless it's raining*. It does not fit when the negative event itself causes the result (*I'll be upset if she doesn't call*, not *unless she calls*). After *unless*, the verb is normally affirmative (*unless you hurry*, not *unless you don't hurry*).",
+      "pattern": "result + unless + affirmative clause (= except if) / result + if + negative clause",
+      "examples": [
+        "I'll walk to work **unless** it's raining.",
+        "You can't enter the building **unless** you have a badge.",
+        "I'd be really disappointed **if** she **didn't** come to the wedding."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'll be really hurt {{if you don't}} come to my birthday party.",
+        "hint": "Complete with unless or if … not (your not coming is what would hurt me): I'll be really hurt … come to my birthday party."
+      },
+      "mistake": {
+        "wrong": "I'll be surprised unless he wins.",
+        "right": "I'll be surprised if he doesn't win.",
+        "why": "*Unless* means 'except if'; it does not work when the negative event itself causes the feeling."
+      }
+    },
+    {
+      "id": "only-if-vs-if-only",
+      "term": "only if vs. if only",
+      "label": "confusable pair",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Only if* sets a strict condition: this and nothing else makes it happen. *If only* expresses a strong wish or regret about something unreal.",
+      "usage": "*Only if* is a condition and sounds strict (*I'll go only if you come too*); at the start of a sentence it causes inversion in formal style (*Only if you agree will we continue*). *If only* is emotional and works like *I wish*: past tense for the present, past perfect for the past. The two are never interchangeable.",
+      "pattern": "only if + strict condition / If only + past or past perfect (wish)",
+      "examples": [
+        "I'll take the job **only if** they let me work from home two days a week.",
+        "**If only** I'd brought a jacket; it's freezing out here.",
+        "**Only if** every member agrees **will** the board approve the sale."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "You can have dessert {{only if}} you finish your vegetables.",
+        "hint": "only if or if only? Rewrite as a strict condition: You must finish your vegetables first; then you can have dessert."
+      },
+      "mistake": {
+        "wrong": "If only you finish early, you can leave.",
+        "right": "You can leave only if you finish early.",
+        "why": "*If only* expresses a wish; for a strict condition, use *only if*."
+      }
+    },
+    {
+      "id": "whether-or-not-whether-or-not-you-agree",
+      "term": "whether or not: Whether or not you agree, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says the result is the same in both cases: *Whether or not you agree, the decision is final* = it doesn't matter if you agree.",
+      "usage": "Common in speech and writing. *Or not* can follow *whether* directly or come at the end of the clause (*whether you agree or not*). In this 'it doesn't matter' sense, you need *or not* (or a second option: *whether you win or lose*), and *if* cannot replace *whether*.",
+      "pattern": "Whether or not + clause, … / Whether + clause + or not, …",
+      "examples": [
+        "**Whether or not** you like him, he's the best player on the team.",
+        "We're going camping this weekend, **whether** it rains **or not**.",
+        "**Whether or not** the deal goes through, the company plans to cut costs."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Whether or not}} you're hungry, eat something before the long drive.",
+        "hint": "Rewrite so the advice applies in both cases: It doesn't matter if you're hungry; eat something before the long drive."
+      },
+      "mistake": {
+        "wrong": "If or not you like it, we're leaving at six.",
+        "right": "Whether or not you like it, we're leaving at six.",
+        "why": "*If* cannot be followed directly by *or not*; use *whether or not*."
+      }
+    },
+    {
+      "id": "wish-past-i-wish-i-had-more-time",
+      "term": "wish + past: I wish I had more time",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses a wish about the present: the speaker wants a present situation to be different. *I wish I had more time* = I don't have enough time.",
+      "usage": "Very common in speech. The past tense refers to the present; *were* is used for all persons in careful style (*I wish I were taller*), while *was* is very common in speech. For abilities, use *could* (*I wish I could swim*).",
+      "pattern": "wish + (that) + subject + past simple / were / could + verb (present meaning)",
+      "examples": [
+        "**I wish I had** more time to read for fun.",
+        "**I wish** we **lived** closer to my parents; the kids miss them.",
+        "She **wishes** she **were** a little more confident in meetings."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I wish I knew}} how to fix this leaky faucet.",
+        "hint": "Rewrite as a wish about now: I don't know how to fix this leaky faucet."
+      },
+      "mistake": {
+        "wrong": "I wish I have a bigger apartment.",
+        "right": "I wish I had a bigger apartment.",
+        "why": "A wish about the present takes the past tense, not the present."
+      }
+    },
+    {
+      "id": "wish-would-i-wish-you-would-stop",
+      "term": "wish + would: I wish you would stop …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses annoyance about someone's behavior, or a wish that a person or thing would change: *I wish you would stop interrupting.*",
+      "usage": "Common in speech, usually as a complaint or an impatient request. It is for actions and changes, not for states: *I wish my apartment were bigger*, not *would be bigger*. Avoid *I wish I would …* about yourself; use *could* or the past tense.",
+      "pattern": "wish + other subject + would (not) + base verb",
+      "examples": [
+        "**I wish you would stop** checking your phone while we're talking.",
+        "**I wish** the neighbors **would turn** their music down after midnight.",
+        "**I wish** it **would stop** raining; we've been stuck inside all week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I wish you would put}} your dishes in the dishwasher for once.",
+        "hint": "Rewrite as a complaint: You never put your dishes in the dishwasher, and it annoys me."
+      },
+      "mistake": {
+        "wrong": "I wish my apartment would be bigger.",
+        "right": "I wish my apartment were bigger.",
+        "why": "*Wish + would* is for actions and changes, not for states; for a present state, use *were* or the past tense."
+      }
+    },
+    {
+      "id": "wish-could-have-i-wish-i-could-have-helped",
+      "term": "wish + could have: I wish I could have helped",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses regret that something was not possible in the past: *I wish I could have helped* = I wanted to help, but I wasn't able to.",
+      "usage": "Common in sympathetic speech and in emails that apologize or decline (*I wish I could have been there*). It points to a lack of ability or opportunity, while *I wish I had helped* points to a choice you now regret. In speech, *could have* sounds like *could've*.",
+      "pattern": "wish + subject + could have + past participle",
+      "examples": [
+        "**I wish I could have been** at your graduation, but I was stuck in Denver.",
+        "**I wish** we **could have stayed** longer, but the kids had school on Monday.",
+        "The doctor said she **wished** she **could have done** more for him."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I wish I could have come}} to your wedding, but my flight was canceled.",
+        "hint": "Rewrite as a regret about something that wasn't possible: I wasn't able to come to your wedding because my flight was canceled."
+      },
+      "mistake": {
+        "wrong": "I wish I could help you yesterday, but I was at work.",
+        "right": "I wish I could have helped you yesterday, but I was at work.",
+        "why": "For the past, *could* needs *have* + past participle; *I wish I could help* is about now."
+      }
+    },
+    {
+      "id": "if-only-past-if-only-i-knew",
+      "term": "if only + past: If only I knew …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses a strong wish that the present were different: *If only I knew her number* = I really wish I knew it.",
+      "usage": "Stronger and more emotional than *I wish*; common in speech and in writing for dramatic effect. It often stands alone as an exclamation (*If only I had more time!*) or comes before a main clause. As with *wish*, the past tense refers to the present, and *were* is preferred in careful style.",
+      "pattern": "If only + subject + past simple / were / could + verb (present meaning)",
+      "examples": [
+        "**If only** I **knew** her number, I could call and apologize.",
+        "**If only** we **had** a bigger kitchen!",
+        "Everyone tells me to just relax. **If only** it **were** that simple."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If only I had}} a car! I'm so tired of taking two buses to work.",
+        "hint": "Rewrite as a strong wish about now (not I wish): I don't have a car. I'm so tired of taking two buses to work."
+      },
+      "mistake": {
+        "wrong": "If only I can speak Spanish!",
+        "right": "If only I could speak Spanish!",
+        "why": "*If only* about the present takes a past form, so *can* becomes *could*."
+      }
+    },
+    {
+      "id": "if-only-past-perfect-if-only-i-d-listened",
+      "term": "if only + past perfect: If only I'd listened!",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Expresses strong regret about the past: *If only I'd listened!* = I really regret that I didn't listen.",
+      "usage": "Emotional, common in speech and in storytelling; it often stands alone as an exclamation. It is stronger than *I wish I had …*, and *had* is usually contracted in speech (*If only I'd known*). It can also come before a result clause with *would have* (*If only we'd left earlier, we wouldn't have missed it*).",
+      "pattern": "If only + subject + had (not) + past participle!",
+      "examples": [
+        "**If only I'd listened** to my mom about that guy!",
+        "**If only** we **had left** ten minutes earlier, we wouldn't have missed the flight.",
+        "**If only** the city **had repaired** the levee years ago, half the town wouldn't be underwater."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If only I hadn't eaten}} that third slice of pizza!",
+        "hint": "Rewrite as a strong regret (not I wish): I really regret eating that third slice of pizza."
+      },
+      "mistake": {
+        "wrong": "If only I didn't say that to her yesterday!",
+        "right": "If only I hadn't said that to her yesterday!",
+        "why": "Regret about the past needs the past perfect after *if only*."
+      }
+    },
+    {
+      "id": "it-s-high-time-past-it-s-time-we-left",
+      "term": "It's (high) time + past: It's time we left",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Says that something should happen now, or should already have happened: *It's time we left* = we should leave now, and we're a little late.",
+      "usage": "Common in speech and writing; *high* or *about* adds impatience or criticism (*It's about time you got a job*). *It's about time* is very common in American speech, and *high time* sounds a bit more formal. *It's time to leave* or *It's time for us to leave* is neutral, with no criticism.",
+      "pattern": "It's (high / about) time + subject + past verb (present meaning)",
+      "examples": [
+        "It's almost midnight. **It's time we went** home.",
+        "**It's high time** the city **fixed** the traffic lights on this corner.",
+        "You're thirty-two. **It's about time** you **learned** to cook."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It's high time we replaced}} this old washing machine; it leaks every week.",
+        "hint": "Rewrite with impatience, using high: We should have replaced this old washing machine long ago; it leaks every week."
+      },
+      "mistake": {
+        "wrong": "It's time we leave.",
+        "right": "It's time we left.",
+        "why": "In standard English, the verb after *It's time* + subject is in the past tense, even though the meaning is present."
+      }
+    },
+    {
+      "id": "as-if-present-real-it-looks-as-if-it-s-going-to-rain",
+      "term": "as if + present (real): It looks as if it's going to rain",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*As if* or *as though* + a normal tense describes what the evidence suggests, when the comparison is probably true: *It looks as if it's going to rain.*",
+      "usage": "Common after *look*, *seem*, *sound* and *feel*. The normal tense shows you think the idea is likely; the past (*as if he were*) shows it is unreal. In American conversation, *like* often replaces *as if* (*It looks like it's going to rain*), but *as if* is the safer choice in writing.",
+      "pattern": "look / seem / sound / feel + as if / as though + present or future clause",
+      "examples": [
+        "**It looks as if** the game **is going to** be postponed.",
+        "You **sound as if** you have a cold. Are you OK?",
+        "**It seems as though** the new bus schedule **is** working."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It looks as if}} the bakery has closed for good; the windows are covered.",
+        "hint": "Rewrite in neutral style, from what you can see (not like or as though): The bakery has probably closed for good; the windows are covered."
+      },
+      "mistake": {
+        "wrong": "It looks as if it were going to rain, so take an umbrella.",
+        "right": "It looks as if it's going to rain, so take an umbrella.",
+        "why": "When you think the comparison is probably true, keep the normal tense; *were* suggests that it isn't really going to rain."
+      }
+    },
+    {
+      "id": "as-if-past-unreal-he-acts-as-if-he-were-the-boss",
+      "term": "as if + past (unreal): He acts as if he were the boss",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*As if* + past tense (or *were*) compares someone's behavior with a situation that is not true: *He acts as if he were the boss* (he isn't).",
+      "usage": "The past tense shows that the comparison is unreal; *were* for all persons is preferred in formal writing, and *was* is common in speech. In American conversation, *like* + present often replaces it (*He acts like he's the boss*). On its own, *As if!* is a sarcastic way to say *that will never happen*.",
+      "pattern": "act / talk / behave / treat … + as if / as though + past simple / were",
+      "examples": [
+        "**He acts as if he were** the boss, but he's only been here a month.",
+        "She **talks** to me **as if** I **were** a child.",
+        "They spend money **as if** they **had** no bills to pay."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My brother treats his car {{as if it were}} a member of the family.",
+        "hint": "Rewrite as an unreal comparison: My brother treats his car like a member of the family, but of course it isn't one."
+      },
+      "mistake": {
+        "wrong": "He acts as a child whenever he doesn't get his way.",
+        "right": "He acts like a child (or as if he were a child) whenever he doesn't get his way.",
+        "why": "*As* + noun means a real role (*She works as a nurse*); for a comparison, use *like* or *as if*."
+      }
+    },
+    {
+      "id": "as-if-past-perfect-she-looked-as-if-she-had-seen-a-ghost",
+      "term": "as if + past perfect: She looked as if she had seen a ghost",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Compares a situation with an earlier event that did not happen: *She looked as if she had seen a ghost* (she hadn't).",
+      "usage": "Common in storytelling and in descriptions of looks and reactions. The past perfect shows that the imagined event comes before the moment of *looked*, *acted* or *felt*. In conversation, *like* is very common: *She looked like she'd seen a ghost*.",
+      "pattern": "look / act / feel + as if / as though + past perfect",
+      "examples": [
+        "When I told her the price, she **looked as if** I **had slapped** her.",
+        "They **acted as if** nothing **had happened**, which made it even more awkward.",
+        "The kitchen **looked as though** a bomb **had gone off** in it."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "After the hike, my legs felt {{as if I had run}} a marathon.",
+        "hint": "Rewrite as an unreal comparison: After the hike, my legs were as tired as after a marathon, but I hadn't run one."
+      },
+      "mistake": {
+        "wrong": "He looked as if he has seen a ghost.",
+        "right": "He looked as if he had seen a ghost.",
+        "why": "After a past verb (*looked*), an earlier imagined event needs the past perfect."
+      }
+    },
+    {
+      "id": "mandative-subjunctive-after-verbs-i-suggest-that-he-be",
+      "term": "mandative subjunctive after verbs: I suggest (that) he be …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "US",
+      "ipa": "",
+      "meaning": "After verbs like *suggest*, *recommend*, *insist*, *demand* and *request*, the *that*-clause uses the base form for all persons: *I suggest that he be on time*.",
+      "usage": "Standard in American English, in formal writing and also in neutral speech (*The doctor recommended that he rest*). British English more often uses *should* (*that he should rest*) or a normal tense. The verb does not change for person or tense: *They demanded that he pay*.",
+      "pattern": "suggest / recommend / insist / demand / request + (that) + subject + base verb",
+      "examples": [
+        "The doctor **recommended that** he **take** a week off work.",
+        "My landlord **insists that** every tenant **sign** a new lease each year.",
+        "The committee **requested that** the report **be submitted** by the end of the month."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The coach {{insisted that every player arrive}} an hour before the game.",
+        "hint": "Rewrite with insist + subjunctive: The coach said firmly that every player had to arrive an hour before the game."
+      },
+      "mistake": {
+        "wrong": "My manager suggested me to take a course.",
+        "right": "My manager suggested that I take a course.",
+        "why": "*Suggest* is not followed by an object + *to*-infinitive; use *that* + subject + base verb (or *suggested taking*)."
+      }
+    },
+    {
+      "id": "subjunctive-after-adjectives-it-is-essential-that-she-attend",
+      "term": "subjunctive after adjectives: It is essential that she attend",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "US",
+      "ipa": "",
+      "meaning": "After adjectives like *essential*, *important*, *vital* and *necessary* in *It is … that*, the verb takes the base form for all persons: *It is essential that she attend.*",
+      "usage": "Typical of formal American writing such as instructions, policies, and medical or legal texts, and also heard in careful speech. British English more often uses *should* (*that she should attend*) or the normal present. A less formal choice in both varieties is *It's important for her to attend*.",
+      "pattern": "It is essential / important / vital / necessary + that + subject + base verb",
+      "examples": [
+        "**It is essential that** every employee **complete** the safety training by Friday.",
+        "**It's important that** he **be** on time for the interview.",
+        "**It is vital that** the patient **remain** in bed for the next two days."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{It is essential that he renew}} his license before he drives again.",
+        "hint": "Rewrite formally, starting It is essential that: He absolutely must renew his license before he drives again."
+      },
+      "mistake": {
+        "wrong": "It is essential that she attends the meeting.",
+        "right": "It is essential that she attend the meeting.",
+        "why": "In formal American English, the verb after *essential that* is the base form, with no *-s*."
+      }
+    },
+    {
+      "id": "negative-subjunctive-we-ask-that-you-not",
+      "term": "negative subjunctive: We ask that you not …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "formal",
+      "region": "US",
+      "ipa": "",
+      "meaning": "In the subjunctive, *not* goes directly before the base verb, without *do*: *We ask that you not smoke on the premises.*",
+      "usage": "Common in formal American notices, signs, instructions and polite requests (*We ask that guests not bring food into the pool area*). British English would more often say *should not* or *please do not*. It sounds formal; in conversation, say *Please don't …*.",
+      "pattern": "ask / request / recommend / it is important + that + subject + not + base verb",
+      "examples": [
+        "**We ask that you not** use your phone during the performance.",
+        "The doctor **recommended that** she **not lift** anything heavy for six weeks.",
+        "**It's important that** the kids **not be** left alone near the pool."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{We ask that visitors not feed}} the animals.",
+        "hint": "Rewrite as a formal notice: Visitors, please don't feed the animals."
+      },
+      "mistake": {
+        "wrong": "We ask that you not to park in front of the gate.",
+        "right": "We ask that you not park in front of the gate.",
+        "why": "After *that*, use *not* + base verb; *not to* belongs to a different pattern (*We ask you not to park here*)."
+      }
+    },
+    {
+      "id": "were-subjunctive-if-i-were-vs-was",
+      "term": "were-subjunctive: If I were … (vs. was)",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In unreal conditions and wishes, *were* is used for all persons (*If I were you*, *if she were here*); *was* is the informal alternative with the same meaning.",
+      "usage": "*Were* is expected in formal writing and is fixed in *If I were you*; *was* is very common in everyday speech, in both American and British English (*If I was rich …*). For a real possibility in the past, only *was* is correct: *If he was at the meeting, he heard the news*.",
+      "pattern": "If + I / he / she / it + were (formal) / was (informal) …, … would + base verb",
+      "examples": [
+        "**If I were** you, I'd ask for a raise before your annual review.",
+        "**If** the hotel **were** closer to downtown, it would be perfect.",
+        "**If** it **were** up to me, we'd leave right now."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If my grandmother {{were}} alive today, she would be amazed by video calls.",
+        "hint": "Rewrite for formal writing: If my grandmother was alive today, she would be amazed by video calls."
+      },
+      "mistake": {
+        "wrong": "If he were at the party last night, he saw everything.",
+        "right": "If he was at the party last night, he saw everything.",
+        "why": "*Were* is only for unreal situations; for a real possibility in the past (maybe he was there), use *was*."
+      }
+    },
+    {
+      "id": "if-need-be",
+      "term": "if need be",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Means *if it is necessary*: *We can work on Saturday if need be.* *Be* here is an old subjunctive form, so the phrase never changes.",
+      "usage": "Common in speech and writing, slightly formal but not stiff. It usually comes at the end of a clause or between commas and introduces a fallback plan. *If needs be* is a British variant; Americans say *if need be* or simply *if necessary*.",
+      "pattern": "…, if need be / If need be, …",
+      "examples": [
+        "We can take a later flight **if need be**.",
+        "I'll sell the car **if need be**, but I'd rather not.",
+        "**If need be**, the hospital can move patients to the new wing."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I can stay late tonight {{if need be}}, so don't worry about the deadline.",
+        "hint": "Rewrite with the fixed three-word phrase: I can stay late tonight if it's necessary, so don't worry about the deadline."
+      },
+      "mistake": {
+        "wrong": "I can drive you to the airport in case of need.",
+        "right": "I can drive you to the airport if need be.",
+        "why": "*In case of need* is a word-for-word translation that English doesn't use; say *if need be* or *if necessary*."
+      }
+    },
+    {
+      "id": "few-if-any",
+      "term": "few, if any, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Means *very few, and possibly none*: *Few, if any, students finished the test.* The same pattern gives *little, if any*, *rarely, if ever* and *…, if at all*.",
+      "usage": "Common in writing, news and careful speech, where it sounds precise. Use *few, if any* with plural nouns, *little, if any* with uncountable nouns, *rarely, if ever* for frequency, and *if at all* after a verb phrase (*The rules will change very little, if at all*). The *if* phrase usually sits between commas.",
+      "pattern": "few / little, if any, + noun; rarely / seldom, if ever, + verb; …, if at all",
+      "examples": [
+        "**Few, if any**, of the guests noticed that the cake was store-bought.",
+        "The new rule will have **little, if any**, effect on most families.",
+        "My brother **rarely, if ever**, answers his phone before noon."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Few, if any}}, restaurants in this town stay open after ten.",
+        "hint": "Rewrite to mean 'very few, maybe none': Very few restaurants in this town stay open after ten, and maybe none do."
+      },
+      "mistake": {
+        "wrong": "Little, if any, people came to the meeting.",
+        "right": "Few, if any, people came to the meeting.",
+        "why": "*People* is a countable plural, so use *few*; *little, if any* is for uncountable nouns."
+      }
+    },
+    {
+      "id": "if-that-ten-minutes-if-that",
+      "term": "if that: ten minutes, if that",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After an amount, *if that* says the real amount may be even smaller: *ten minutes, if that* = ten minutes at most, probably less.",
+      "usage": "Informal and very common in American conversation, often a little dismissive or critical. It comes at the end, after a comma. It is the opposite of *X, if not Y*, which pushes the number up.",
+      "pattern": "amount, if that",
+      "examples": [
+        "The meeting will take ten minutes, **if that**.",
+        "He left a two-dollar tip, **if that**, on a sixty-dollar bill.",
+        "I'd say there were thirty people at the concert, **if that**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The walk to the beach takes five minutes, {{if that}}.",
+        "hint": "Rewrite casually, suggesting it's probably even less: The walk to the beach takes five minutes at the very most."
+      },
+      "mistake": {
+        "wrong": "It's a five-minute walk, if not.",
+        "right": "It's a five-minute walk, if that.",
+        "why": "*If that* means 'maybe less'; *if not* needs a bigger amount after it (*five minutes, if not ten*)."
+      }
+    },
+    {
+      "id": "polite-would-in-the-if-clause-if-you-d-follow-me",
+      "term": "polite would in the if-clause: If you'd follow me, …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Would* in an *if*-clause can mean *if you are willing*, which makes a request or instruction very polite: *If you'd follow me, I'll show you to your table.*",
+      "usage": "Common in service settings, offices and formal speech (*If you would sign here, please*). It is an exception to the rule that *would* does not go in the *if*-clause: it is correct only when it means willingness. For a simple condition, use the present (*If it rains, …*).",
+      "pattern": "If you would / If you'd + base verb, … (please)",
+      "examples": [
+        "**If you'd follow me**, I'll show you to your table.",
+        "**If you would** just **sign** here and here, we're all set.",
+        "**If you'd** all **turn** to page twelve, we can get started."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If you'd step}} this way, the nurse will take your blood pressure.",
+        "hint": "Rewrite as a very polite instruction: Please step this way; the nurse will take your blood pressure."
+      },
+      "mistake": {
+        "wrong": "If it would rain tomorrow, we'll cancel the picnic.",
+        "right": "If it rains tomorrow, we'll cancel the picnic.",
+        "why": "*Would* in an *if*-clause is only for willingness (*if you'd follow me*); for a simple condition, use the present."
+      }
+    },
+    {
+      "id": "would-you-mind-if-i-past-would-you-mind-if-i-opened",
+      "term": "Would you mind if I + past: Would you mind if I opened …?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Asks for permission very politely; the past tense (*opened*) makes the request more tentative than *Do you mind if I open …?*",
+      "usage": "Common with strangers, colleagues and hosts. A *no* answer gives permission: *No, not at all* or *No, go ahead*. *Do you mind if I* + present is a little more direct and also very common.",
+      "pattern": "Would you mind if I + past simple …?",
+      "examples": [
+        "**Would you mind if I opened** the window? It's a little stuffy in here.",
+        "**Would you mind if I left** a few minutes early today?",
+        "**Would you mind if** we **brought** our dog to the barbecue?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Would you mind if I borrowed}} your charger for a few minutes?",
+        "hint": "Rewrite as a very polite request for permission: Can I borrow your charger for a few minutes?"
+      },
+      "mistake": {
+        "wrong": "Would you mind to close the window?",
+        "right": "Would you mind closing the window?",
+        "why": "*Mind* is never followed by *to* + verb; use *-ing* (*closing*) or *if I* + past (*if I closed*)."
+      }
+    },
+    {
+      "id": "conditional-participle-clause-given-the-chance-i-d",
+      "term": "conditional participle clause: Given the chance, I'd …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A participle phrase such as *Given the chance*, *Left alone* or *Taken daily* can replace an *if*-clause: *Given the chance, I'd move to Italy* = if I were given the chance.",
+      "usage": "Common in writing and in fluent speech; *given the chance* and *given the choice* are especially frequent. The hidden subject of the participle must be the subject of the main clause; otherwise the sentence 'dangles' and sounds wrong or funny. *If asked* and *if needed* are related short forms.",
+      "pattern": "past participle phrase (Given the chance / Left alone / Taken daily), subject + would / will + verb",
+      "examples": [
+        "**Given the chance**, most people would happily work a four-day week.",
+        "**Left alone** for more than an hour, our puppy chews everything in sight.",
+        "**Taken** every day, this medication can lower blood pressure significantly."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Given the choice}}, my kids would eat pizza every single night.",
+        "hint": "Shorten the if-clause to a participle phrase: If they were given the choice, my kids would eat pizza every single night."
+      },
+      "mistake": {
+        "wrong": "Given the chance, Italy is where I'd live.",
+        "right": "Given the chance, I'd live in Italy.",
+        "why": "The participle phrase must refer to the subject of the main clause: *I* would be given the chance, not *Italy*."
+      }
+    }
+  ]
+}

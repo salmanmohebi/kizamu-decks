@@ -1,0 +1,718 @@
+{
+  "topic_id": "b2-02-partizip-1-adjektiv",
+  "level": "B2",
+  "title_de": "Partizip I als Adjektiv",
+  "title_en": "The present participle (Partizip I) as an adjective",
+  "rule": {
+    "summary": "The Partizip I (infinitive + **-d**: *spielen → spielend*) describes an action that is going on at the same time as the main verb, and its meaning is always **active**: *das schlafende Baby* = the baby that is sleeping. In front of a noun it takes the normal adjective endings (*der spielende Junge, ein brennendes Haus, bei strömendem Regen*). Without an ending it works as an adverb (*Sie hörte schweigend zu.*); only lexicalised forms like *spannend, dringend, überraschend* can stand after *sein*. Written German uses it often because it shortens relative clauses: *die Preise, die steigen → die steigenden Preise*.",
+    "table": "| Verwendung | Beispiel | Endung |\n|---|---|---|\n| attributiv nach *der/die/das* | der spielend**e** Junge, die tanzend**en** Paare | schwach (-e/-en) |\n| attributiv nach *ein/kein/mein* | ein brennend**es** Haus, einen weinend**en** Mann | gemischt |\n| attributiv ohne Artikel | bei strömend**em** Regen, mit zitternd**en** Händen | stark |\n| adverbial | Sie hörte schweigend zu. | keine |\n| prädikativ (nur lexikalisiert) | Der Film ist spannend. | keine |\n| substantiviert | die Studierend**en**, ein Vorsitzend**er** | wie Adjektiv |\n| Gerundiv (*zu* + Partizip I) | die zu lösend**en** Aufgaben | wie Adjektiv |",
+    "steps": [
+      "Check the meaning: is the noun itself doing the action at that moment (*das Kind weint*)? → Partizip I. Is the noun the object of a finished action (*jemand hat das Ei gekocht*)? → Partizip II (*das gekochte Ei*).",
+      "Form it from the full infinitive + **-d**: *lachen → lachend, lächeln → lächelnd, zittern → zitternd*. Separable prefixes stay in front (*bevorstehend*), and reflexive verbs keep *sich* before the participle (*die sich nähernde Front*).",
+      "In front of a noun, add the adjective ending exactly as for any adjective: check the article type, gender, case and number.",
+      "If the participle says *how* something is done, it is an adverb and has no ending (*Sie kam lachend herein.*).",
+      "After *sein* use only lexicalised participles (*spannend, dringend, überraschend, anstrengend*); otherwise use the verb itself: *Das Baby schläft.*"
+    ],
+    "pitfalls": [
+      "Forgetting the ending before a noun: ✗ *das schlafend Baby* → ✓ *das schlafende Baby*.",
+      "Partizip II instead of Partizip I: ✗ *die gesungenen Kinder* → ✓ *die singenden Kinder*; ✗ *eine überzeugte Rede* → ✓ *eine überzeugende Rede*.",
+      "An extra *e* or a *t* in the participle: ✗ *lächelendes, strahlente* → ✓ *lächelndes, strahlende*.",
+      "Using a normal Partizip I after *sein*: ✗ *Das Baby ist schlafend.* → ✓ *Das Baby schläft.*",
+      "Weak ending where there is no article: ✗ *bei strömenden Regen* → ✓ *bei strömendem Regen*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Der {{c1::spielende::spielen}} Junge ist mein Sohn.",
+      "en": "The boy who is playing is my son.",
+      "focus": "Partizip I · Nominativ maskulin · nach *der*",
+      "explanation": "*der spielende Junge* = *der Junge, der spielt*: the boy is doing the action right now, so the Partizip I (spielen + d) is used. In front of the noun it is declined like any adjective: *der Junge* is the masculine Nominativ subject, and after *der* the weak ending is **-e** → **spielende**.",
+      "pattern": "der + Partizip I-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der spielend Junge ist mein Sohn.", "why": "A Partizip I in front of a noun is used as an adjective and needs an ending. Without an ending it can only be an adverb (*Er lernt spielend.* = he learns easily)."},
+      "examples": [
+        {"de": "Der wartende Kunde wird langsam ungeduldig.", "en": "The waiting customer is slowly getting impatient."},
+        {"de": "Der rauchende Mann vor der Tür ist unser Nachbar.", "en": "The man smoking outside the door is our neighbour."}
+      ],
+      "words": [],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die {{c1::lachende::lachen}} Frau ist meine Schwester.",
+      "en": "The woman who is laughing is my sister.",
+      "focus": "Partizip I · Nominativ feminin · Bildung",
+      "explanation": "The Partizip I is the infinitive + **-d**: lachen + d → *lachend*. *die Frau* is the feminine Nominativ subject, so after *die* the weak ending is **-e** → **lachende**.",
+      "pattern": "die + Partizip I-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die lachene Frau ist meine Schwester.", "why": "*lachene* has lost the *d*. The Partizip I always keeps the full infinitive plus *-d*: *lachen-d-e*."},
+      "examples": [
+        {"de": "Die singende Kellnerin ist im ganzen Viertel bekannt.", "en": "The singing waitress is known in the whole neighbourhood."},
+        {"de": "Die führende Partei hat die Wahl knapp gewonnen.", "en": "The leading party narrowly won the election."}
+      ],
+      "words": [],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das {{c1::schreiende::schreien}} Kind beunruhigt die Mutter.",
+      "en": "The screaming child is worrying the mother.",
+      "focus": "Partizip I · Nominativ neutral · nach *das*",
+      "explanation": "*das schreiende Kind* = *das Kind, das schreit*. The neuter Nominativ article *das* already shows case and gender, so the participle takes the weak ending **-e** → **schreiende**. *die Mutter* is the Akkusativ object of *beunruhigen*.",
+      "pattern": "das + Partizip I-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das schreiendes Kind beunruhigt die Mutter.", "why": "*-es* is the strong neuter ending, used after *ein* or without an article (*ein schreiendes Kind*). After *das* the participle takes *-e*."},
+      "examples": [
+        {"de": "Das klingelnde Telefon weckte die ganze Familie.", "en": "The ringing phone woke the whole family."},
+        {"de": "Das quengelnde Kind wollte nicht ins Bett.", "en": "The whining child didn't want to go to bed."}
+      ],
+      "words": [{"de": "beunruhigen", "en": "to worry, to disturb"}],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er sah ein {{c1::brennendes::brennen}} Haus.",
+      "en": "He saw a burning house.",
+      "focus": "Partizip I · Akkusativ neutral · nach *ein*",
+      "explanation": "*sehen* takes an Akkusativ object, and *Haus* is neuter. After *ein* the neuter Akkusativ has no ending on the article, so the participle carries the strong signal **-es**: brennend + es → **brennendes**.",
+      "pattern": "ein + Partizip I-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Er sah ein brennende Haus.", "why": "*ein* does not show the gender here, so the participle must show it: neuter Nominativ/Akkusativ after *ein* → *-es*."},
+      "examples": [
+        {"de": "Sie fand ein schlafendes Kätzchen im Keller.", "en": "She found a sleeping kitten in the cellar."},
+        {"de": "Wir brauchen ein funktionierendes System.", "en": "We need a system that works."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Die {{c1::tanzenden::tanzen}} Paare sahen glücklich aus.",
+      "en": "The dancing couples looked happy.",
+      "focus": "Partizip I · Nominativ Plural",
+      "explanation": "*Paare* is plural (*das Paar → die Paare*) and the subject. After the plural article *die* every adjective ending is **-en**, and participles follow the same rule: tanzend + en → **tanzenden**.",
+      "pattern": "die + Partizip I-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die tanzende Paare sahen glücklich aus.", "why": "*die* + *-e* is the feminine singular pattern. *Paare* is plural, and so is the verb *sahen*, so the ending must be *-en*."},
+      "examples": [
+        {"de": "Die streikenden Lokführer legten den Bahnverkehr lahm.", "en": "The striking train drivers brought rail traffic to a standstill."},
+        {"de": "Die demonstrierenden Studenten zogen zum Rathaus.", "en": "The demonstrating students marched to the town hall."}
+      ],
+      "words": [{"de": "das Paar (-e)", "en": "couple"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich bemerkte einen {{c1::weinenden::weinen}} Mann am Bahnhof.",
+      "en": "I noticed a crying man at the station.",
+      "focus": "Partizip I · Akkusativ maskulin · nach *einen*",
+      "explanation": "*bemerken* takes an Akkusativ object; *Mann* is masculine → *einen*. *einen* already shows masculine Akkusativ, so the participle takes **-en**: weinend + en → **weinenden**.",
+      "pattern": "einen + Partizip I-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Ich bemerkte einen weinender Mann am Bahnhof.", "why": "*-er* is the masculine Nominativ ending after *ein* (*ein weinender Mann*). In the Akkusativ the article is *einen*, and the participle ends in *-en*."},
+      "examples": [
+        {"de": "Die Polizei suchte einen flüchtenden Autofahrer.", "en": "The police were looking for a fleeing driver."},
+        {"de": "Sie hat einen gut verdienenden Partner.", "en": "She has a partner who earns well."}
+      ],
+      "words": [{"de": "bemerken", "en": "to notice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wir hörten die {{c1::singenden::singen}} Kinder.",
+      "en": "We heard the children singing.",
+      "focus": "Partizip I · Akkusativ Plural · aktive Bedeutung",
+      "explanation": "The children are doing the action themselves (*die Kinder singen*), so the active Partizip I is needed: singen + d → *singend*. *Kinder* is the plural Akkusativ object, and after *die* the plural ending is **-en** → **singenden**.",
+      "pattern": "die + Partizip I-**en** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Wir hörten die gesungenen Kinder.", "why": "*gesungen* (Partizip II) has a passive meaning: something that has been sung (*die gesungenen Lieder*). Children cannot be sung, so the active Partizip I *singenden* is correct."},
+      "examples": [
+        {"de": "Wir beobachteten die spielenden Delfine.", "en": "We watched the dolphins playing."},
+        {"de": "Sie fotografierte die blühenden Kirschbäume.", "en": "She photographed the blossoming cherry trees."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Das {{c1::schlafende::schlafen}} Baby liegt im Bett.",
+      "en": "The sleeping baby is lying in bed.",
+      "focus": "Partizip I · intransitives Verb · Gleichzeitigkeit",
+      "explanation": "*schlafen* has no object, and the baby is asleep right now, so the Partizip I describes an ongoing state: *das Baby, das schläft*. Neuter Nominativ after *das* → **-e** → **schlafende**.",
+      "pattern": "das + Partizip I-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das geschlafene Baby liegt im Bett.", "why": "*schlafen* forms its Perfekt with *haben* and has no object, so its Partizip II cannot be used as an attribute. For an ongoing state use the Partizip I *schlafend*."},
+      "examples": [
+        {"de": "Das blinkende Licht zeigt einen Fehler an.", "en": "The flashing light indicates an error."},
+        {"de": "Das parkende Auto blockiert die Einfahrt.", "en": "The parked car is blocking the driveway."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie schaute den {{c1::vorbeifahrenden::vorbeifahren}} Autos zu.",
+      "en": "She watched the cars driving past.",
+      "focus": "Partizip I · trennbares Verb · Dativ Plural",
+      "explanation": "*zuschauen* takes a Dativ object, so the cars are in the Dativ plural: *den Autos*. The separable verb *vorbeifahren* keeps its prefix in front in the participle: *vorbeifahrend*, here with the plural ending **-en** → **vorbeifahrenden**. The Partizip I shows that the cars were passing while she watched.",
+      "pattern": "den + Partizip I-**en** + Nomen (Dat. Pl.)",
+      "mistake": {"wrong": "Sie schaute den vorbeigefahrenen Autos zu.", "why": "*vorbeigefahren* (Partizip II of a *sein*-verb) means the cars had already passed. You can only watch cars while they pass, so the Partizip I *vorbeifahrenden* is needed."},
+      "examples": [
+        {"de": "Er winkte den vorbeilaufenden Kindern zu.", "en": "He waved to the children running past."},
+        {"de": "Die Kinder winkten den ankommenden Gästen.", "en": "The children waved to the arriving guests."}
+      ],
+      "words": [{"de": "zuschauen (+ Dat.)", "en": "to watch"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Der {{c1::redende::reden}} Politiker wirkte unsicher.",
+      "en": "The politician who was speaking seemed unsure.",
+      "focus": "Partizip I · Nominativ maskulin · Gleichzeitigkeit in der Vergangenheit",
+      "explanation": "The Partizip I has no tense of its own; it shows that its action happens at the same time as the main verb. With *wirkte* (Präteritum) it means *the politician who was speaking*. Masculine Nominativ after *der* → **-e** → **redende**.",
+      "pattern": "der + Partizip I-**e** + Nomen (Nom. m.) + Verb (Prät.)",
+      "mistake": {"wrong": "Der redender Politiker wirkte unsicher.", "why": "*-er* is the ending after *ein* (*ein redender Politiker*). After *der* the article shows the case, so the participle takes the weak ending *-e*."},
+      "examples": [
+        {"de": "Der vortragende Professor sprach sehr schnell.", "en": "The professor giving the lecture spoke very fast."},
+        {"de": "Der leitende Arzt beantwortete alle Fragen.", "en": "The senior doctor answered all the questions."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie hat ein {{c1::funkelndes::funkeln}} Lächeln.",
+      "en": "She has a sparkling smile.",
+      "focus": "Partizip I · Akkusativ neutral · Verb auf *-eln*",
+      "explanation": "Verbs ending in *-eln* form the Partizip I like all other verbs: funkeln + d → *funkelnd*, with no extra *e*. *das Lächeln* is a neuter noun made from a verb, and after *ein* in the Akkusativ the participle needs **-es** → **funkelndes**.",
+      "pattern": "ein + Partizip I-**es** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Sie hat einen funkelnden Lächeln.", "why": "Nouns made from an infinitive (*das Lächeln, das Essen*) are always neuter. So the Akkusativ is *ein funkelndes Lächeln*, not the masculine *einen … -en*."},
+      "examples": [
+        {"de": "Er hat ein gewinnendes Wesen.", "en": "He has a winning personality."},
+        {"de": "Das Hotel bietet ein atemberaubendes Panorama.", "en": "The hotel offers a breathtaking panorama."}
+      ],
+      "words": [{"de": "funkeln", "en": "to sparkle"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Der {{c1::strahlende::strahlen}} Sonnenschein ist herrlich.",
+      "en": "The radiant sunshine is wonderful.",
+      "focus": "Partizip I · Nominativ maskulin · Schreibung",
+      "explanation": "strahlen + d → *strahlend*. At the end of the word the *-d* sounds like [t], but it is always written *d*, and before an ending it is pronounced [d]. *der Sonnenschein* is masculine Nominativ → **-e** → **strahlende**.",
+      "pattern": "der + Partizip I-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der strahlente Sonnenschein ist herrlich.", "why": "The Partizip I ends in *-d*, never *-t*: *strahlend, strahlende*. A *-t* ending belongs to the Partizip II of weak verbs (*gestrahlt*)."},
+      "examples": [
+        {"de": "Der blühende Garten lockt viele Bienen an.", "en": "The blooming garden attracts lots of bees."},
+        {"de": "Der glänzende Boden war frisch geputzt.", "en": "The gleaming floor had just been cleaned."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das {{c1::wachsende::wachsen}} Interesse freut mich.",
+      "en": "The growing interest pleases me.",
+      "focus": "Partizip I · Nominativ neutral · laufender Prozess",
+      "explanation": "*wachsend* describes a process that is still going on: the interest is growing. *das Interesse* is the neuter Nominativ subject of *freut*, so after *das* the ending is **-e** → **wachsende**.",
+      "pattern": "das + Partizip I-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das wachsenden Interesse freut mich.", "why": "Neuter Nominativ singular after *das* is an *-e* slot. *-en* would fit the Dativ (*dem wachsenden Interesse*) or the Genitiv (*des wachsenden Interesses*)."},
+      "examples": [
+        {"de": "Das zunehmende Verkehrsaufkommen belastet die Anwohner.", "en": "The increasing volume of traffic is a burden on residents."},
+        {"de": "Das schwindende Vertrauen in die Politik ist ein Problem.", "en": "The dwindling trust in politics is a problem."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wir sahen den {{c1::kommenden::kommen}} Sturm.",
+      "en": "We saw the approaching storm.",
+      "focus": "Partizip I · Akkusativ maskulin · nach *den*",
+      "explanation": "*den Sturm* is the masculine Akkusativ object of *sehen*, so after *den* the participle ends in **-en** → **kommenden**. In practice *kommend* is used mostly for time (*die kommende Woche*); for a storm, *aufziehend* or *herannahend* sounds more idiomatic.",
+      "pattern": "den + Partizip I-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Wir sahen den kommende Sturm.", "why": "After *den* (masculine Akkusativ) every adjective and participle takes *-en*."},
+      "examples": [
+        {"de": "Wir bereiten uns auf den kommenden Winter vor.", "en": "We are preparing for the coming winter."},
+        {"de": "Die Bauern beobachteten den aufziehenden Nebel.", "en": "The farmers watched the fog rolling in."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Die {{c1::steigenden::steigen}} Preise sind problematisch.",
+      "en": "The rising prices are a problem.",
+      "focus": "Partizip I · Nominativ Plural · intransitives Verb",
+      "explanation": "*steigen* (to rise) has no object: the prices rise by themselves. Its Partizip I *steigend* describes this ongoing process. *die Preise* is the plural subject → **-en** → **steigenden**.",
+      "pattern": "die + Partizip I-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die steigernden Preise sind problematisch.", "why": "*steigern* is transitive (to increase something), so *steigernde Preise* would be prices that increase something else. The prices themselves rise → *steigen* → *steigende*."},
+      "examples": [
+        {"de": "Die schmelzenden Gletscher sind ein Warnsignal.", "en": "The melting glaciers are a warning sign."},
+        {"de": "Die fallenden Zinsen helfen den Käufern.", "en": "The falling interest rates help buyers."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er ist ein {{c1::reisender::reisen}} Geschäftsmann.",
+      "en": "He is a travelling businessman.",
+      "focus": "Partizip I · Nominativ maskulin · nach *ein*",
+      "explanation": "After *sein* the noun phrase is in the Nominativ. *ein* has no ending in the masculine Nominativ, so the participle must carry the strong signal **-er**: reisend + er → **reisender**.",
+      "pattern": "ein + Partizip I-**er** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Er ist ein reisende Geschäftsmann.", "why": "With *ein* the masculine Nominativ is not visible on the article, so the participle needs *-er*: *ein reisender Geschäftsmann*."},
+      "examples": [
+        {"de": "Das ist ein führender Experte für Klimapolitik.", "en": "That is a leading expert on climate policy."},
+        {"de": "Er war ein liebender Vater.", "en": "He was a loving father."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ein {{c1::lächelndes::lächeln}} Kind bringt Freude.",
+      "en": "A smiling child brings joy.",
+      "focus": "Partizip I · Nominativ neutral · Verb auf *-eln*",
+      "explanation": "*lächeln* ends in *-eln*, and the Partizip I simply adds *-d*: *lächelnd*, with no extra *e*. *Kind* is neuter and the subject; after *ein* the neuter Nominativ needs **-es** → **lächelndes**.",
+      "pattern": "ein + Partizip I-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Ein lächelendes Kind bringt Freude.", "why": "The Partizip I is the infinitive + *-d*. The infinitive is *lächeln*, not *lächelen*, so the form is *lächelnd-es*."},
+      "examples": [
+        {"de": "Ein klingelndes Handy störte die Vorlesung.", "en": "A ringing phone disrupted the lecture."},
+        {"de": "Ein wanderndes Theater gastiert im Dorf.", "en": "A touring theatre company is performing in the village."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie ist eine {{c1::aufstrebende::aufstreben}} Künstlerin.",
+      "en": "She is an up-and-coming artist.",
+      "focus": "Partizip I · trennbares Verb · Nominativ feminin",
+      "explanation": "*aufstreben* is separable, but in the Partizip I the prefix stays attached in front: *aufstrebend*. After *eine* the feminine Nominativ takes **-e** → **aufstrebende**. The participle is used figuratively: *aufstrebend* = rising, becoming successful.",
+      "pattern": "eine + Partizip I-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Sie ist eine aufstrebenden Künstlerin.", "why": "After *eine* in the Nominativ (and Akkusativ) the feminine ending is *-e*. *-en* belongs to the Dativ and Genitiv (*einer aufstrebenden Künstlerin*)."},
+      "examples": [
+        {"de": "Leipzig ist eine aufblühende Stadt.", "en": "Leipzig is a flourishing city."},
+        {"de": "Das ist eine weitreichende Entscheidung.", "en": "That is a far-reaching decision."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Die {{c1::sinkenden::sinken}} Temperaturen kündigen den Winter an.",
+      "en": "The falling temperatures announce the arrival of winter.",
+      "focus": "Partizip I · Nominativ Plural · Subjekt",
+      "explanation": "*sinken* (to fall, to drop) has no object; the temperatures are falling by themselves. *die Temperaturen* is the plural subject of *kündigen … an*, so the ending is **-en** → **sinkenden**.",
+      "pattern": "die + Partizip I-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die sinkende Temperaturen kündigen den Winter an.", "why": "*Temperaturen* is plural, and so is the verb *kündigen*, so after *die* the participle needs *-en*, not *-e*."},
+      "examples": [
+        {"de": "Die zunehmenden Niederschläge führen zu Überschwemmungen.", "en": "The increasing rainfall is leading to floods."},
+        {"de": "Die schwindenden Vorräte machen den Bewohnern Sorgen.", "en": "The dwindling supplies are worrying the residents."}
+      ],
+      "words": [{"de": "ankündigen", "en": "to announce"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Der {{c1::hupende::hupen}} LKW machte mich wütend.",
+      "en": "The honking lorry made me angry.",
+      "focus": "Partizip I · Nominativ maskulin · Subjekt",
+      "explanation": "*der LKW* (*der Lastkraftwagen*) is masculine and the subject of *machte* → Nominativ. After *der* the participle takes the weak ending **-e** → **hupende**. The Akkusativ in this sentence is *mich*, not the lorry.",
+      "pattern": "der + Partizip I-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der hupenden LKW machte mich wütend.", "why": "After *der*, the ending *-en* only fits feminine Dativ/Genitiv or Genitiv plural. The lorry is the masculine Nominativ subject, so the ending is *-e*."},
+      "examples": [
+        {"de": "Der quietschende Bus hält direkt vor unserem Haus.", "en": "The squeaking bus stops right in front of our house."},
+        {"de": "Der tropfende Wasserhahn hat mich die ganze Nacht wach gehalten.", "en": "The dripping tap kept me awake all night."}
+      ],
+      "words": [{"de": "der LKW (-s)", "en": "lorry, truck"}, {"de": "hupen", "en": "to honk"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Aufgrund der {{c1::fehlenden::fehlen}} Unterlagen wurde der Antrag abgelehnt.",
+      "en": "The application was rejected because of the missing documents.",
+      "focus": "Partizip I · Genitiv Plural · nach *aufgrund*",
+      "explanation": "*aufgrund* takes the Genitiv, and *die Unterlagen* exists only in the plural → Genitiv plural *der Unterlagen*. Every plural ending after the article is **-en** → **fehlenden**. *fehlend* (the documents are missing) is a very frequent Partizip I in official language.",
+      "pattern": "aufgrund + der + Partizip I-**en** + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Aufgrund der fehlende Unterlagen wurde der Antrag abgelehnt.", "why": "Here *der* is Genitiv plural, not masculine Nominativ, so the participle needs *-en*."},
+      "examples": [
+        {"de": "Wegen der fehlenden Parkplätze kommen viele mit dem Bus.", "en": "Because there are not enough parking spaces, many people come by bus."},
+        {"de": "Aufgrund der anhaltenden Hitze bleiben die Freibäder länger offen.", "en": "Because of the continuing heat, the open-air pools stay open longer."}
+      ],
+      "words": [{"de": "die Unterlagen (Pl.)", "en": "documents, papers"}, {"de": "ablehnen", "en": "to reject"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Mit {{c1::zitternden::zittern}} Händen öffnete sie den Brief.",
+      "en": "She opened the letter with trembling hands.",
+      "focus": "Partizip I · Dativ Plural · ohne Artikel",
+      "explanation": "*mit* takes the Dativ, and *Händen* is Dativ plural. There is no article, so the participle shows the case itself with the strong ending, which in the Dativ plural is **-en** → **zitternden**. *zittern* ends in *-ern*, so the participle is simply zittern + d.",
+      "pattern": "mit + Partizip I-**en** + Nomen-**n** (Dat. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Mit zitternde Händen öffnete sie den Brief.", "why": "*-e* is the strong ending for Nominativ/Akkusativ plural (*zitternde Hände*). After *mit* the Dativ plural needs *-en*."},
+      "examples": [
+        {"de": "Mit leuchtenden Augen erzählte sie von der Reise.", "en": "With shining eyes, she talked about the trip."},
+        {"de": "Bei steigenden Temperaturen trinken wir mehr Wasser.", "en": "When temperatures rise, we drink more water."}
+      ],
+      "words": [{"de": "zittern", "en": "to tremble"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Bei {{c1::strömendem::strömen}} Regen sind wir trotzdem losgefahren.",
+      "en": "We set off anyway in the pouring rain.",
+      "focus": "Partizip I · Dativ maskulin · ohne Artikel",
+      "explanation": "*bei* takes the Dativ, and *der Regen* is masculine. Without an article the participle must show the Dativ itself with the strong ending **-em** (as in *dem*) → **strömendem**. *bei strömendem Regen* is a fixed collocation.",
+      "pattern": "bei + Partizip I-**em** + Nomen (Dat. m., ohne Artikel)",
+      "mistake": {"wrong": "Bei strömenden Regen sind wir trotzdem losgefahren.", "why": "Without an article the participle takes the strong ending, and masculine Dativ is *-em*: *bei strömendem Regen*. *-en* is only correct after *dem* (*bei dem strömenden Regen*)."},
+      "examples": [
+        {"de": "Bei laufendem Motor darf man nicht tanken.", "en": "You must not refuel with the engine running."},
+        {"de": "Mit klopfendem Herzen betrat er den Prüfungsraum.", "en": "With a pounding heart, he entered the exam room."}
+      ],
+      "words": [{"de": "strömen", "en": "to pour, to stream"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die {{c1::bevorstehende::bevorstehen}} Wahl beherrscht die Nachrichten.",
+      "en": "The upcoming election dominates the news.",
+      "focus": "Partizip I · trennbares Verb · Nominativ feminin",
+      "explanation": "*bevorstehen* (to be imminent) is separable: *die Wahl steht bevor*. In the Partizip I the prefix is not separated: *bevorstehend*. *die Wahl* is the feminine Nominativ subject → **-e** → **bevorstehende**.",
+      "pattern": "die + Präfix-Partizip I-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die bevorstehend Wahl beherrscht die Nachrichten.", "why": "In front of a noun the participle needs an adjective ending: *die bevorstehende Wahl*."},
+      "examples": [
+        {"de": "Der bevorstehende Streik betrifft alle Flughäfen.", "en": "The impending strike affects all airports."},
+        {"de": "Die anstehende Reform wird seit Jahren diskutiert.", "en": "The forthcoming reform has been discussed for years."}
+      ],
+      "words": [{"de": "bevorstehen", "en": "to be imminent, to be coming up"}, {"de": "beherrschen", "en": "to dominate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Sie hörte mir {{c1::schweigend::schweigen}} zu.",
+      "en": "She listened to me in silence.",
+      "focus": "Partizip I · adverbial · Art und Weise",
+      "explanation": "Here the participle says *how* she listened, so it is an adverb, and adverbs have no ending: **schweigend**. Its action happens at the same time as the main verb: she listened and was silent.",
+      "pattern": "Verb + Partizip I (ohne Endung) als Adverb",
+      "mistake": {"wrong": "Sie hörte mir schweigende zu.", "why": "Only a participle in front of a noun is declined. As an adverb of manner it keeps the base form *schweigend*."},
+      "examples": [
+        {"de": "Der Hund lief bellend hinter dem Auto her.", "en": "The dog ran after the car, barking."},
+        {"de": "Die Kinder kamen singend aus der Schule.", "en": "The children came out of school singing."}
+      ],
+      "words": [{"de": "schweigen", "en": "to be silent"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Ergebnisse der Studie sind {{c1::überraschend::überraschen}}.",
+      "en": "The results of the study are surprising.",
+      "focus": "Partizip I · prädikativ · lexikalisiert",
+      "explanation": "Some Partizip I forms have become real adjectives and can stand after *sein*: *überraschend, spannend, dringend, anstrengend, entscheidend*. After *sein* they have no ending: **überraschend**. The results cause surprise, so the active Partizip I is used.",
+      "pattern": "Subjekt + sein + Partizip I (lexikalisiert, ohne Endung)",
+      "mistake": {"wrong": "Die Ergebnisse der Studie sind überrascht.", "why": "*überrascht* (Partizip II) means *surprised*, a feeling of a person. Results cannot feel surprise; they cause it → *überraschend*."},
+      "examples": [
+        {"de": "Der Krimi ist von Anfang bis Ende spannend.", "en": "The crime novel is exciting from start to finish."},
+        {"de": "Die Arbeit in der Notaufnahme ist sehr anstrengend.", "en": "Working in the emergency department is very tiring."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die {{c1::Studierenden::studieren}} protestieren gegen höhere Gebühren.",
+      "en": "The students are protesting against higher fees.",
+      "focus": "Partizip I · substantiviert · Plural",
+      "explanation": "A Partizip I can become a noun: *studierend* → *die Studierenden* (people who study). It is written with a capital letter but keeps adjective endings: after the plural *die* → **-en** → **Studierenden**. The word is widely used as a gender-neutral alternative to *Studenten*.",
+      "pattern": "die + Partizip I-**en** (substantiviert, Pl.)",
+      "mistake": {"wrong": "Die Studierende protestieren gegen höhere Gebühren.", "why": "A substantivised participle is declined like an adjective. After the plural article *die* the ending is *-en*; *die Studierende* is one female student."},
+      "examples": [
+        {"de": "Die Reisenden mussten zwei Stunden warten.", "en": "The travellers had to wait two hours."},
+        {"de": "Die Lehrenden treffen sich am Freitag zur Konferenz.", "en": "The teaching staff are meeting for a conference on Friday."}
+      ],
+      "words": [{"de": "die Gebühr (-en)", "en": "fee"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ein {{c1::Vorsitzender::vorsitzen}} muss neutral bleiben.",
+      "en": "A chairperson must remain neutral.",
+      "focus": "Partizip I · substantiviert · nach *ein*",
+      "explanation": "*der Vorsitzende* (the chair) comes from *vorsitzen* (to chair). Like every substantivised adjective it changes its ending with the article: after *der* → *Vorsitzende*, but after *ein* the masculine Nominativ needs the strong **-er** → **Vorsitzender**.",
+      "pattern": "ein + Partizip I-**er** (substantiviert, Nom. m.)",
+      "mistake": {"wrong": "Ein Vorsitzende muss neutral bleiben.", "why": "After *ein* the masculine Nominativ ending must appear on the noun itself, as in *ein Deutscher* or *ein Angestellter*: *ein Vorsitzender*."},
+      "examples": [
+        {"de": "Ein Reisender hat seinen Koffer im Zug vergessen.", "en": "A traveller left his suitcase on the train."},
+        {"de": "Ein Auszubildender verdient im ersten Jahr nicht viel.", "en": "An apprentice does not earn much in the first year."}
+      ],
+      "words": [{"de": "der/die Vorsitzende (adj. Nomen)", "en": "chair, chairperson"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Ministerin hielt eine {{c1::überzeugende::überzeugen}} Rede.",
+      "en": "The minister gave a convincing speech.",
+      "focus": "Partizip I oder II · Akkusativ feminin",
+      "explanation": "The speech convinces the listeners (active) → Partizip I *überzeugend*. *eine Rede halten* takes the Akkusativ; *Rede* is feminine, and after *eine* the ending is **-e** → **überzeugende**. Compare *überzeugte Zuhörer*: listeners who have been convinced.",
+      "pattern": "eine + Partizip I-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Die Ministerin hielt eine überzeugte Rede.", "why": "*überzeugt* (Partizip II) means *convinced*, a state of a person. A speech does not become convinced; it convinces others → *überzeugend*."},
+      "examples": [
+        {"de": "Der Anwalt brachte ein überzeugendes Argument vor.", "en": "The lawyer put forward a convincing argument."},
+        {"de": "Sie lieferte eine beeindruckende Leistung ab.", "en": "She delivered an impressive performance."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir beobachteten die {{c1::sich nähernde::sich nähern}} Gewitterfront.",
+      "en": "We watched the approaching storm front.",
+      "focus": "Partizip I · reflexives Verb · Akkusativ feminin",
+      "explanation": "*sich nähern* (to approach) is reflexive, and the reflexive pronoun stays in the participle phrase, directly before the participle: *die sich nähernde Front*. *die Gewitterfront* is the feminine Akkusativ object of *beobachten* → **-e**.",
+      "pattern": "die + sich + Partizip I-**e** + Nomen (Akk. f.)",
+      "mistake": {"wrong": "Wir beobachteten die nähernde Gewitterfront.", "why": "*nähern* is only used with *sich*. Without the reflexive pronoun the participle is incomplete: *die sich nähernde Gewitterfront*."},
+      "examples": [
+        {"de": "Die sich verändernde Arbeitswelt stellt neue Anforderungen.", "en": "The changing world of work makes new demands."},
+        {"de": "Die sich ausbreitende Krankheit beunruhigt die Behörden.", "en": "The spreading disease is worrying the authorities."}
+      ],
+      "words": [{"de": "sich nähern (+ Dat.)", "en": "to approach"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die {{c1::zu lösenden::lösen}} Aufgaben stehen auf Seite drei.",
+      "en": "The tasks to be solved are on page three.",
+      "focus": "Gerundiv · passive Notwendigkeit",
+      "explanation": "*zu* + Partizip I (the Gerundiv) has a passive meaning of necessity or possibility: *die zu lösenden Aufgaben* = *die Aufgaben, die gelöst werden müssen*. *zu* stands directly before the participle, which takes the plural ending **-en** after *die*. Only transitive verbs can form it.",
+      "pattern": "die + zu + Partizip I-**en** + Nomen",
+      "mistake": {"wrong": "Die lösenden Aufgaben stehen auf Seite drei.", "why": "Without *zu* the Partizip I is active: *lösende Aufgaben* would be tasks that solve something. The passive meaning *to be solved* needs *zu*: *die zu lösenden Aufgaben*."},
+      "examples": [
+        {"de": "Die zu erwartenden Kosten sind hoch.", "en": "The costs to be expected are high."},
+        {"de": "Das ist ein nicht zu unterschätzendes Risiko.", "en": "That is a risk that should not be underestimated."}
+      ],
+      "words": [],
+      "production_cue": "(formal written style)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wir suchen noch einen {{c1::passenden::passen}} Termin für das Treffen.",
+      "en": "We are still looking for a suitable date for the meeting.",
+      "focus": "Partizip I · Akkusativ maskulin · lexikalisiert",
+      "explanation": "*passend* (suitable, matching) is a lexicalised Partizip I of *passen*. *suchen* takes the Akkusativ; *der Termin* is masculine → *einen*, which already shows the case, so the ending is **-en** → **passenden**.",
+      "pattern": "einen + Partizip I-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Wir suchen noch einen passender Termin für das Treffen.", "why": "*-er* is the masculine Nominativ ending after *ein*. After *einen* (Akkusativ) the participle takes *-en*."},
+      "examples": [
+        {"de": "Die Firma sucht einen leitenden Ingenieur.", "en": "The company is looking for a senior engineer."},
+        {"de": "Er braucht einen ausreichenden Nachweis über sein Einkommen.", "en": "He needs sufficient proof of his income."}
+      ],
+      "words": [{"de": "der Termin (-e)", "en": "appointment, date"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Partizip I.",
+      "prompt": "How do you form the Partizip I? What happens with verbs in -eln/-ern, separable verbs and reflexive verbs?",
+      "answer": "Infinitive + **-d**: *spielen → spielen**d***. Verbs in *-eln/-ern* also just add *-d* (*lächeln**d**, zittern**d***). Separable verbs keep the prefix in front (*bevorstehen**d***). Reflexive verbs keep *sich* before the participle (*die **sich** nähernde Front*).",
+      "explanation": "The Partizip I is the most regular verb form in German: there are no irregular stems or vowel changes. Only *sein* (*seiend*) and *tun* (*tuend*) are special, and both are rare. In front of a noun it always needs an adjective ending.",
+      "examples": [
+        {"de": "Die wartenden Fahrgäste wurden unruhig.", "en": "The waiting passengers grew restless."},
+        {"de": "Ein lächelnder Kellner brachte die Rechnung.", "en": "A smiling waiter brought the bill."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the difference between Partizip I and Partizip II.",
+      "prompt": "What is the difference in meaning between *die kochende Suppe* and *die gekochte Suppe*?",
+      "answer": "**Partizip I** = active and ongoing: *die kochende Suppe* is boiling right now. **Partizip II** of a transitive verb = passive and completed: *die gekochte Suppe* has been cooked (it may already be cold).",
+      "explanation": "The Partizip I always presents the noun as the doer of an action at the same time as the main verb (*die Suppe kocht*). The Partizip II of a transitive verb presents the noun as the object of a finished action (*jemand hat die Suppe gekocht*).",
+      "examples": [
+        {"de": "Sie rührte in der kochenden Suppe.", "en": "She stirred the boiling soup."},
+        {"de": "Die gekochte Suppe stand im Kühlschrank.", "en": "The cooked soup was in the fridge."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the uses of the Partizip I.",
+      "prompt": "In which four ways can a Partizip I be used, and when does it take an ending?",
+      "answer": "1. **Attributive** before a noun → adjective ending (*der weinende Mann*). 2. **Adverbial** → no ending (*Sie kam lachend herein.*). 3. **Substantivised** → capital letter + adjective ending (*die Reisenden*). 4. **Predicative** after *sein* → only lexicalised forms, no ending (*Das ist spannend.*).",
+      "explanation": "Normal participles cannot stand after *sein*: not *Das Kind ist schlafend*, but *Das Kind schläft*. Lexicalised participles have become real adjectives and even form comparatives: *spannender, am dringendsten*.",
+      "examples": [
+        {"de": "Sie kam lachend ins Büro.", "en": "She came into the office laughing."},
+        {"de": "Diese Anfrage ist dringend.", "en": "This request is urgent."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the Gerundiv.",
+      "prompt": "What does *zu* + Partizip I mean (*die zu lesenden Texte*), and what does it replace?",
+      "answer": "It is the **Gerundiv** with a **passive** meaning of necessity or possibility: *die zu lesenden Texte* = *die Texte, die gelesen werden müssen/können*. It replaces a passive relative clause with *müssen, können* or *sollen*.",
+      "explanation": "Only transitive verbs form the Gerundiv, because the noun is the object of the action. With separable verbs *zu* goes between prefix and stem: *die anzumeldenden Teilnehmer*. The structure is typical of formal written style.",
+      "examples": [
+        {"de": "Die zu erledigenden Aufgaben stehen auf der Liste.", "en": "The tasks to be done are on the list."},
+        {"de": "Das ist ein kaum zu lösendes Problem.", "en": "That is a problem that can hardly be solved."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about relative clauses and the Partizip I.",
+      "prompt": "When can you replace a relative clause with a Partizip I attribute?",
+      "answer": "When the relative clause is **active** and the relative pronoun is its **subject** (Nominativ): *die Kinder, die spielen → die spielenden Kinder*. Its action must happen **at the same time** as the main verb: the Partizip I has no tense of its own (*die Kinder, die spielten, lachten → die spielenden Kinder lachten*). An earlier, finished action needs the Partizip II (*die angekommenen Gäste*).",
+      "explanation": "Objects and adverbs of the relative clause move in front of the participle (*die im Garten spielenden Kinder*, an extended attribute). If the relative pronoun is an object (*die Kinder, die ich sehe*), no Partizip I is possible.",
+      "examples": [
+        {"de": "Die neu anfangenden Mitarbeiter bekommen eine Schulung.", "en": "Employees who are just starting get a training course."},
+        {"de": "Die im Garten spielenden Kinder sind sehr laut.", "en": "The children playing in the garden are very loud."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a Partizip I attribute.",
+      "prompt": "Das Kind, das weint, sucht seine Mutter.",
+      "answer": "Das weinende Kind sucht seine Mutter.",
+      "explanation": "The relative pronoun *das* is the subject of *weint*, so the clause can be shortened. *weinen* → *weinend*, placed between the article and the noun with the neuter Nominativ ending *-e*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a Partizip I attribute.",
+      "prompt": "Die Zahl der Menschen, die hungern, ist gestiegen.",
+      "answer": "Die Zahl der hungernden Menschen ist gestiegen.",
+      "explanation": "*der Menschen* is Genitiv plural, so the participle takes *-en*: *der hungernden Menschen*. The main verb *ist gestiegen* stays unchanged."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the participle with a relative clause in the Präsens.",
+      "prompt": "Die streikenden Piloten fordern mehr Geld.",
+      "answer": "Die Piloten, die streiken, fordern mehr Geld.",
+      "explanation": "The noun becomes the antecedent, and the relative pronoun *die* (plural Nominativ) is the subject of *streiken*. The verb goes to the end of the relative clause, which is set off by commas."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace the relative clause with *zu* + Partizip I.",
+      "prompt": "Die Fragen, die noch geklärt werden müssen, besprechen wir morgen.",
+      "answer": "Die noch zu klärenden Fragen besprechen wir morgen.",
+      "explanation": "*die geklärt werden müssen* is passive + *müssen*, which is exactly the meaning of the Gerundiv. *noch* moves in front of *zu klärenden*, and the plural Akkusativ after *die* takes *-en*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Gib die Nudeln in das kochend Wasser.",
+      "answer": "Gib die Nudeln in das kochende Wasser.",
+      "explanation": "*in das* (direction) takes the Akkusativ, and *Wasser* is neuter. In front of the noun the participle needs the weak ending *-e* after *das*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist ein sehr angestrengter Job.",
+      "answer": "Das ist ein sehr anstrengender Job.",
+      "explanation": "The job causes effort, so you need the lexicalised Partizip I *anstrengend* (tiring). *angestrengt* (Partizip II) describes a person who is making an effort (*ein angestrengtes Gesicht*). After *ein* the masculine Nominativ ending is *-er*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die wartenden Reisende wurden über die Verspätung informiert.",
+      "answer": "Die wartenden Reisenden wurden über die Verspätung informiert.",
+      "explanation": "*Reisende* is a substantivised Partizip I and keeps adjective endings. After the plural article *die* it needs *-en*, just like *wartenden*."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Im ___ Kapitel geht es um Statistik.",
+      "options": ["folgende", "folgenden", "folgendem"],
+      "correct": "folgenden",
+      "answer": "Im folgenden Kapitel geht es um Statistik.",
+      "explanation": "*im* = *in dem* (Dativ neuter). After *dem* the participle is weak → *-en*. *folgendem* is the strong ending used without an article (*in folgendem Kapitel*), and *folgende* fits only the Nominativ or Akkusativ."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Das ist eine sehr ___ Frage.",
+      "options": ["spannende", "gespannte", "spannend"],
+      "correct": "spannende",
+      "answer": "Das ist eine sehr spannende Frage.",
+      "explanation": "The question creates interest → lexicalised Partizip I *spannend*, with *-e* after *eine* before a feminine noun. *gespannt* means *curious, eager* (a state of a person), and *spannend* without an ending is only possible after *sein*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form for a warning sign.",
+      "prompt": "Vorsicht, ___ Wasser!",
+      "options": ["kochendes", "gekochtes", "kochende"],
+      "correct": "kochendes",
+      "answer": "Vorsicht, kochendes Wasser!",
+      "explanation": "The water is boiling right now (danger) → Partizip I. Without an article the neuter Nominativ takes the strong ending *-es*. *gekochtes Wasser* has been boiled and may already be cold; *kochende* has the wrong ending for a neuter noun without an article."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Tierärztin",
+      "prompt": "den / zitternden / beruhigte / die Tierärztin / Hund",
+      "answer": "Die Tierärztin beruhigte den zitternden Hund.",
+      "explanation": "The verb *beruhigte* is in position 2. The participle stands between the article and the noun: *den zitternden Hund* (masculine Akkusativ → *-en*)."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Professor",
+      "prompt": "verließ / kopfschüttelnd / der Professor / den Saal",
+      "answer": "Der Professor verließ kopfschüttelnd den Saal.",
+      "explanation": "*kopfschüttelnd* (shaking his head) is an adverbial Partizip I without an ending. Other correct orders: *Der Professor verließ den Saal kopfschüttelnd.* / *Kopfschüttelnd verließ der Professor den Saal.*"
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a Partizip I attribute in the second sentence.",
+      "prompt": "Die Zahl der Unfälle steigt. Die Polizei ist besorgt über die Zahl der Unfälle.",
+      "answer": "Die Polizei ist besorgt über die steigende Zahl der Unfälle.",
+      "explanation": "*steigen* → *steigend*. *über* (topic) takes the Akkusativ, and *die Zahl* is feminine, so after *die* the ending is *-e*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a Partizip I attribute in the second sentence.",
+      "prompt": "Der Hund bellt. Der Hund stört die Nachbarn.",
+      "answer": "Der bellende Hund stört die Nachbarn.",
+      "explanation": "The first sentence describes what the dog is doing at the same time, so it becomes the attribute *bellend*. *der Hund* is the masculine Nominativ subject → *der bellende Hund*."
+    }
+  ]
+}

@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-05",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "a-an-for-first-mention-the-for-second-i-saw-a-dog-the-dog",
+      "term": "a / an for first mention, the for second: I saw a dog. The dog …",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Use *a/an* when you first mention a singular countable thing the listener doesn't know yet, and *the* when you mention it again, because now the listener knows which one.",
+      "usage": "This is the basic system of English articles, in every register. Plurals and uncountables have no article or *some* at first mention (*some apples … the apples*). Something connected to the first noun can also take *the* right away (*a bakery … the owner*).",
+      "pattern": "a / an + noun (new to the listener) → the + noun (already known)",
+      "examples": [
+        "**A man** and **a woman** walked into the café, and **the woman** ordered for both of them.",
+        "I ordered **a salad** and **a burger**. **The salad** was great, but **the burger** was cold.",
+        "There's **a new bakery** on Elm Street. **The owner** used to work in Paris."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I saw a fox in the yard this morning. {{The}} fox was eating our tomatoes.",
+        "hint": "Choose a or the: I saw a fox in the yard this morning. ___ fox was eating our tomatoes."
+      },
+      "mistake": {
+        "wrong": "I bought new jacket yesterday. A jacket is really warm.",
+        "right": "I bought a new jacket yesterday. The jacket is really warm.",
+        "why": "A singular countable noun needs *a/an* the first time and *the* once the listener knows which one."
+      }
+    },
+    {
+      "id": "a-an-with-jobs-she-s-an-engineer",
+      "term": "a / an with jobs: She's an engineer",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After *be*, *work as* or *become*, a singular job or role needs *a/an*: *She's an engineer*, *He works as a nurse*.",
+      "usage": "Required in all registers; leaving it out is a very noticeable error for speakers of German, French, Spanish, Russian and many other languages. There is no article with plural jobs (*They're nurses*) or with a unique position (*She became CEO in 2019*, *He was elected mayor*).",
+      "pattern": "be / work as / become + a / an + singular job",
+      "examples": [
+        "My brother's **a firefighter** in Cleveland, so he works crazy hours.",
+        "She worked **as a waitress** to pay her way through college.",
+        "My daughter wants to be **an astronaut** when she grows up."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My sister is {{an}} electrician, so she rewired our whole house for free.",
+        "hint": "Add the missing word: My sister is electrician, so she rewired our whole house for free."
+      },
+      "mistake": {
+        "wrong": "I'm student at Ohio State.",
+        "right": "I'm a student at Ohio State.",
+        "why": "A singular job or role after *be* needs *a/an*."
+      }
+    },
+    {
+      "id": "how-much-vs-how-many-how-much-time-how-many-people",
+      "term": "how much vs. how many: how much time / how many people",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*How much* asks about an amount of something uncountable (*time, money, water*); *how many* asks about a number of countable things (*people, days, emails*).",
+      "usage": "Basic and neutral. *How much* alone also asks about price (*How much is it?*). Watch nouns that are uncountable in English but countable in other languages, such as *information, advice, luggage, furniture* and *homework*.",
+      "pattern": "how much + uncountable noun / how many + plural noun",
+      "examples": [
+        "**How many people** are coming to the barbecue on Saturday?",
+        "**How much time** do we have before the movie starts?",
+        "**How much homework** did the kids get tonight?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{How much}} furniture are you taking to the new apartment?",
+        "hint": "Choose how much or how many: ___ furniture are you taking to the new apartment?"
+      },
+      "mistake": {
+        "wrong": "How many informations do you need from me?",
+        "right": "How much information do you need from me?",
+        "why": "*Information* is uncountable in English (unlike German *Informationen*), so it takes *how much* and has no plural."
+      }
+    },
+    {
+      "id": "a-lot-vs-a-lot-of-i-like-it-a-lot-a-lot-of-people",
+      "term": "a lot vs. a lot of: I like it a lot / a lot of people",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A lot of* comes before a noun (*a lot of people*); *a lot* without *of* stands alone or comes after a verb (*I like it a lot*).",
+      "usage": "Both are very common in speech and informal writing; in formal writing, *many, much* or *a great deal of* sound better. *Lots of* is a more casual variant. The verb agrees with the noun after *of*: *A lot of people are …*, *A lot of money is …*.",
+      "pattern": "a lot of + noun / verb + a lot",
+      "examples": [
+        "There were **a lot of** families at the beach today.",
+        "I miss my friends back home **a lot**, especially around the holidays.",
+        "We've been eating out **a lot** lately."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My kids play {{a lot of}} video games on the weekends.",
+        "hint": "Complete with a lot or a lot of: My kids play ___ video games on the weekends."
+      },
+      "mistake": {
+        "wrong": "We have a lot work to do before Friday.",
+        "right": "We have a lot of work to do before Friday.",
+        "why": "Before a noun, *a lot* needs *of*."
+      }
+    },
+    {
+      "id": "some-in-offers-and-requests-would-you-like-some-coffee",
+      "term": "some in offers and requests: Would you like some coffee?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In questions that are offers or requests, *some* is normal because you expect or hope for a *yes*: *Would you like some coffee?*, *Can I have some water?*",
+      "usage": "*Some* in a question signals that you expect or want a *yes*, so offers sound warm and requests sound natural. *Any* belongs in open questions (*Do you have any questions?*); in a request (*Can I have any water?*), it sounds as if you doubt there is any. *Something* works the same way, though *anything* is also common in offers (*Can I get you anything?*).",
+      "pattern": "Would you like / Can I have / Could I get + some (+ noun)?",
+      "examples": [
+        "Would you like **some** more pie? There's plenty left.",
+        "Can I borrow **some** sugar? I ran out halfway through the recipe.",
+        "Can I get you **something** to drink while you wait?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Could I have {{some}} water, please? I'm really thirsty.",
+        "hint": "Choose some or any: Could I have ___ water, please? I'm really thirsty."
+      },
+      "mistake": {
+        "wrong": "Excuse me, could we have any more napkins?",
+        "right": "Excuse me, could we have some more napkins?",
+        "why": "In a request, you want a *yes*, so use *some*; *any* sounds as if you doubt there are any left."
+      }
+    },
+    {
+      "id": "any-in-questions-and-negatives-do-you-have-any-questions",
+      "term": "any in questions and negatives: Do you have any questions?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Any* is used in open questions and after a negative verb, with plural or uncountable nouns: *Do you have any questions?*, *We don't have any bread*.",
+      "usage": "Very common in all registers. In questions, *any* is neutral and open (you don't know the answer); *some* would suggest you expect a *yes*. *Any* also follows words with a negative meaning, such as *never, hardly* and *without* (*She left without any money*).",
+      "pattern": "Do you have any …? / not + any + plural or uncountable noun",
+      "examples": [
+        "Do you have **any** allergies we should know about?",
+        "There aren't **any** good restaurants near our hotel.",
+        "Did you get **any** sleep on the flight?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "There {{isn't any}} milk left in the fridge.",
+        "hint": "Make it negative with any: There's some milk left in the fridge."
+      },
+      "mistake": {
+        "wrong": "I don't have some cash on me right now.",
+        "right": "I don't have any cash on me right now.",
+        "why": "After a negative verb, use *any*, not *some*."
+      }
+    },
+    {
+      "id": "no-double-negative-i-didn-t-see-anyone",
+      "term": "no double negative: I didn't see anyone",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Standard English uses only one negative word per clause: *I didn't see anyone* or *I saw no one*, not *I didn't see nobody*.",
+      "usage": "Double negatives are normal in several American dialects and in song lyrics, but standard speech and writing treat them as errors. After *not / n't*, use *any-* words (*anything, anyone, anywhere, ever*); without *not*, use *no-* words. Speakers of Spanish, French, Italian, Russian and other languages that require two negatives often make this error.",
+      "pattern": "not + any- word / no- word with a positive verb",
+      "examples": [
+        "I **couldn't find my keys anywhere**, so I was late for work.",
+        "**Don't tell anyone**, but I'm thinking of quitting.",
+        "**Nobody** knows where the cat goes at night."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I was home all day, but I didn't hear {{anything}}.",
+        "hint": "Correct the double negative, keeping didn't: I was home all day, but I didn't hear nothing."
+      },
+      "mistake": {
+        "wrong": "We didn't go nowhere last summer.",
+        "right": "We didn't go anywhere last summer.",
+        "why": "After *didn't*, use an *any-* word; a second negative word makes the sentence nonstandard."
+      }
+    },
+    {
+      "id": "another-vs-other-vs-the-others-another-coffee-other-people-t",
+      "term": "another vs. other vs. the others: another coffee / other people / the others",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Another* (one more, or a different one) goes with a singular noun; *other* goes with plural nouns; *the others* means the rest of a known group.",
+      "usage": "*Another* is one word (*an* + *other*), so it never follows *the* or *a*. *Others* with *-s* is a pronoun used without a noun (*Some liked it; others didn't*); before a noun, *other* never takes *-s*. *The other* + singular means the second of two (*the other shoe*).",
+      "pattern": "another + singular noun / other + plural noun / the others (= the rest)",
+      "examples": [
+        "Can we get **another** bottle of water for the table?",
+        "Some people love the heat; **other** people can't stand it.",
+        "Lena's already here, but **the others** are stuck in traffic."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "There were eight of us. Three took the train, and {{the others}} drove up on Saturday.",
+        "hint": "Choose another, other, others or the others: There were eight of us. Three took the train, and ___ drove up on Saturday."
+      },
+      "mistake": {
+        "wrong": "We visited Rome and two others cities.",
+        "right": "We visited Rome and two other cities.",
+        "why": "Before a noun, *other* never takes *-s*; *others* is used only alone, as a pronoun."
+      }
+    },
+    {
+      "id": "must-vs-have-to-i-must-go-i-have-to-go",
+      "term": "must vs. have to: I must go / I have to go",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Must* expresses an obligation that the speaker feels or imposes; *have to* expresses an obligation from outside, such as rules or schedules. In everyday American speech, *have to* is used for both.",
+      "usage": "In American conversation, *must* for obligation sounds strong or formal; it is mostly found in written rules and instructions (*All visitors must sign in*). Americans say *I have to go* or *I've got to go* rather than *I must go*. *Must* has no past or future form, so use *had to* or *will have to*.",
+      "pattern": "must + base verb (written rules, strong) / have to + base verb (everyday)",
+      "examples": [
+        "Sorry, I **have to** leave early to pick up my son.",
+        "All passengers **must** wear a seat belt while the sign is on.",
+        "You **have to** try the tacos at this place; they're amazing."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My bus leaves in five minutes, so I really {{have to}} go.",
+        "hint": "Say it the everyday American way, with have: My bus leaves in five minutes, so I really must go."
+      },
+      "mistake": {
+        "wrong": "Do you must work this Saturday?",
+        "right": "Do you have to work this Saturday?",
+        "why": "*Must* does not form questions with *do*; in everyday English, ask *Do you have to …?*"
+      }
+    },
+    {
+      "id": "don-t-have-to-vs-mustn-t-you-don-t-have-to-come-you-mustn-t",
+      "term": "don't have to vs. mustn't: You don't have to come / You mustn't tell anyone",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Don't have to* means something is not necessary (you can if you want); *mustn't* means it is not allowed or is a bad idea.",
+      "usage": "Mixing them up changes the message completely. *Don't have to* is very common in all registers. *Mustn't* is rare in American English and sounds British or very formal; Americans say *can't*, *shouldn't* or *aren't allowed to*, and written rules use *must not*.",
+      "pattern": "don't / doesn't have to + verb (not necessary) / mustn't, can't + verb (not allowed)",
+      "examples": [
+        "It's a casual party, so you **don't have to** wear a tie.",
+        "We **don't have to** be at the airport until ten.",
+        "Patients **must not** eat or drink anything after midnight before surgery."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Tomorrow's a holiday, so I {{don't have to}} get up early.",
+        "hint": "Choose mustn't or don't have to: Tomorrow's a holiday, so I ___ get up early."
+      },
+      "mistake": {
+        "wrong": "You mustn't come to the party if you're busy.",
+        "right": "You don't have to come to the party if you're busy.",
+        "why": "*Mustn't* means it is forbidden; German *musst nicht* (= not necessary) is *don't have to* in English."
+      }
+    },
+    {
+      "id": "had-to-for-past-obligation-i-had-to-work-late",
+      "term": "had to for past obligation: I had to work late",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Had to* + verb expresses obligation or necessity in the past: *I had to work late* means it was necessary for me to work late.",
+      "usage": "*Must* has no past form, so *had to* covers all past obligation. Questions and negatives use *did*: *Did you have to wait?*, *We didn't have to pay*. Do not confuse it with *must have* + past participle, which is a guess about the past (*She must have left*).",
+      "pattern": "had to + base verb / did … have to? / didn't have to",
+      "examples": [
+        "I **had to** work late, so I missed my daughter's school play.",
+        "**Did** you **have to** wait long at the DMV?",
+        "The flight was overbooked, so two passengers **had to** take a later one."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My car was in the shop last week, so I {{had to}} take the bus every day.",
+        "hint": "Express the past obligation: My car was in the shop last week, so I must take the bus every day."
+      },
+      "mistake": {
+        "wrong": "Yesterday I must work until nine.",
+        "right": "Yesterday I had to work until nine.",
+        "why": "*Must* has no past form; for a past obligation, use *had to*."
+      }
+    },
+    {
+      "id": "should-for-advice-you-should-see-a-doctor",
+      "term": "should for advice: You should see a doctor",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Should* + base verb gives advice or says what is the right or sensible thing to do: *You should see a doctor*.",
+      "usage": "The normal way to give advice in every register; *I think you should* or *Maybe you should* makes it softer. *Ought to* means the same but is less common in American speech and sounds a little more formal. *Had better* is stronger and suggests a bad result if you don't.",
+      "pattern": "should / shouldn't + base verb",
+      "examples": [
+        "That cough sounds bad. You **should** get it checked out.",
+        "It's starting to snow. We **should** probably head home soon.",
+        "You really **shouldn't** text while you're driving."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If your back still hurts tomorrow, {{you should}} see a physical therapist.",
+        "hint": "Give advice with the most common modal (not ought to): If your back still hurts tomorrow, it's a good idea to see a physical therapist."
+      },
+      "mistake": {
+        "wrong": "You should to drink more water in this heat.",
+        "right": "You should drink more water in this heat.",
+        "why": "*Should* is a modal verb, so the base form follows without *to*."
+      }
+    },
+    {
+      "id": "must-be-for-present-deduction-she-must-be-tired",
+      "term": "must be for present deduction: She must be tired",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Must be* (or *must* + verb) expresses a confident conclusion from evidence: *She must be tired* means I'm almost sure she's tired because of what I see or know.",
+      "usage": "Very common in conversation, often as a sympathetic reaction (*You must be exhausted!*, *That must be hard*). It is a conclusion, not something you know for a fact. The opposite is *can't be*; for a weaker guess, use *might be*.",
+      "pattern": "must be + adjective / noun; must + base verb",
+      "examples": [
+        "You've been traveling all day. You **must be** starving.",
+        "Their lights have been off all week. They **must be** away on vacation.",
+        "She **must** really **love** that band; she's seen them five times this year."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "You ran a marathon this morning? You {{must be}} exhausted!",
+        "hint": "Say you're almost sure: You ran a marathon this morning? I'm sure you're exhausted!"
+      },
+      "mistake": {
+        "wrong": "Someone's at the door. It can be the pizza guy.",
+        "right": "Someone's at the door. It must be the pizza guy.",
+        "why": "For a confident guess about now, use *must be* (or *might be* if you are unsure); *can be* means *is sometimes*."
+      }
+    },
+    {
+      "id": "can-t-be-for-present-deduction-that-can-t-be-right",
+      "term": "can't be for present deduction: That can't be right",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Can't be* expresses a confident negative conclusion, when you are sure something is not true or not possible: *That can't be right*.",
+      "usage": "Very common in speech, often as a reaction to surprising news or numbers (*That can't be right!*, *You can't be hungry already!*). It is the negative partner of *must be*. Americans also use *must not* here (*They must not know yet*), which sounds a little less certain than *can't*.",
+      "pattern": "can't be + adjective / noun / -ing; can't + base verb",
+      "examples": [
+        "Forty dollars for a burger? That **can't be** right.",
+        "She **can't be** home yet; she only left the office ten minutes ago.",
+        "You **can't be** serious! You're quitting tomorrow?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "He {{can't be}} the new manager; he looks about nineteen!",
+        "hint": "Choose must be or can't be: He ___ the new manager; he looks about nineteen!"
+      },
+      "mistake": {
+        "wrong": "\"Was that Jen at the concert last night?\" \"It can't be Jen; she was in Denver all weekend.\"",
+        "right": "\"Was that Jen at the concert last night?\" \"It can't have been Jen; she was in Denver all weekend.\"",
+        "why": "*Can't be* is for a conclusion about the present; for the past, use *can't have been* (or *couldn't have been*)."
+      }
+    },
+    {
+      "id": "might-may-could-be-he-might-be-in-a-meeting",
+      "term": "might / may / could be: He might be in a meeting",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Might be*, *may be* and *could be* say that something is possibly true now, without certainty: *He might be in a meeting* means perhaps he is.",
+      "usage": "*Might* is the most frequent in American speech, *may* sounds a bit more formal, and *could* is common when you suggest an explanation (*It could be the battery*). *Might not* and *may not* mean *perhaps not*, but *couldn't be* means *it's impossible*, like *can't be*.",
+      "pattern": "might / may / could + be (+ adjective / noun / -ing)",
+      "examples": [
+        "Try her cell; she **might be** on her way home.",
+        "The car won't start. It **could be** the battery.",
+        "Don't worry if he doesn't answer. He **may be** with a patient."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I haven't seen Ben all day. He {{might be}} at the gym, but I'm not sure.",
+        "hint": "Choose must be or might be: I haven't seen Ben all day. He ___ at the gym, but I'm not sure."
+      },
+      "mistake": {
+        "wrong": "May be she's stuck in traffic.",
+        "right": "Maybe she's stuck in traffic.",
+        "why": "*Maybe* (one word) is an adverb meaning *perhaps*; *may be* (two words) is a verb: *She may be stuck in traffic*."
+      }
+    },
+    {
+      "id": "can-i-could-i-may-i-for-permission-could-i-borrow-your-pen",
+      "term": "Can I / Could I / May I for permission: Could I borrow your pen?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "All three ask for permission: *Can I* is casual and direct, *Could I* is more polite, and *May I* is formal and very polite.",
+      "usage": "*Can I* is fine with friends and family and in most stores; *Could I* is a safe choice with strangers and at work. *May I* is common in service settings (*May I help you?*) and when you want to show respect. To give permission, say *Sure* or *Yes, you can*, not *Yes, you could*.",
+      "pattern": "Can / Could / May + I + base verb …?",
+      "examples": [
+        "**Could I** borrow your car on Saturday? Mine's in the shop.",
+        "**Can I** have a bite of your sandwich?",
+        "Good afternoon, Dr. Kim's office. **May I** ask what this is regarding?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Excuse me, {{could I}} sit here, or is this seat taken?",
+        "hint": "Make it more polite, but not formal (not may): Excuse me, can I sit here, or is this seat taken?"
+      },
+      "mistake": {
+        "wrong": "\"Could I use your phone?\" \"Yes, you could.\"",
+        "right": "\"Could I use your phone?\" \"Sure, go ahead.\"",
+        "why": "*Could* in the question only adds politeness; to give permission, answer with *can* or a phrase like *Sure*."
+      }
+    },
+    {
+      "id": "could-you-would-you-for-requests-could-you-send-me-the-file",
+      "term": "Could you / Would you for requests: Could you send me the file?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Could you* and *Would you* + base verb make polite requests; *Can you* is more casual and direct.",
+      "usage": "*Could you* is the safest neutral choice in emails and at work. *Would you* is also polite, but with an impatient tone it can sound like an order (*Would you please stop that?*). For an even softer request, use *Would you mind* + *-ing*.",
+      "pattern": "Could / Would / Can you + base verb …? / Would you mind + -ing?",
+      "examples": [
+        "**Could you** send me the address when you get a chance?",
+        "**Would you** hold the door for me, please?",
+        "**Can you** turn the TV down a little? I'm on the phone."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Could you}} save me a seat if you get there first?",
+        "hint": "Make the request more polite (not would): Can you save me a seat if you get there first?"
+      },
+      "mistake": {
+        "wrong": "Would you mind to send me the file again?",
+        "right": "Would you mind sending me the file again?",
+        "why": "*Would you mind* is followed by *-ing*, not *to* + verb."
+      }
+    },
+    {
+      "id": "much-far-a-lot-comparative-much-better-far-more-expensive",
+      "term": "much / far / a lot + comparative: much better, far more expensive",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Much, far, a lot* and, informally, *way* before a comparative say that the difference is big: *much better*, *far more expensive*.",
+      "usage": "*Much* is neutral, *far* is a bit more emphatic or formal, and *a lot* and *way* are casual (*way better*). *Very* cannot modify a comparative (*very better* is wrong). Before *more* + plural noun, use *many more* (*many more people*).",
+      "pattern": "much / far / a lot / way + comparative",
+      "examples": [
+        "Our new apartment is **much bigger** than the old one.",
+        "Flying is **far more expensive** than driving at this time of year.",
+        "I feel **a lot better** since I started walking to work."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This mattress is {{much}} more comfortable than our old one.",
+        "hint": "Correct the intensifier, using the neutral word: This mattress is very more comfortable than our old one."
+      },
+      "mistake": {
+        "wrong": "There were much more people at the game than last year.",
+        "right": "There were many more people at the game than last year.",
+        "why": "Before *more* + a plural noun, use *many more*, not *much more*."
+      }
+    },
+    {
+      "id": "a-bit-slightly-comparative-a-bit-cheaper-slightly-higher",
+      "term": "a bit / slightly + comparative: a bit cheaper, slightly higher",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A bit, a little* and *slightly* before a comparative show that the difference is small: *a bit cheaper*, *slightly higher*.",
+      "usage": "*A bit* and *a little* are common in conversation; *slightly* is neutral to formal and common in reports and news (*slightly higher than expected*). In requests, they make you sound polite: *Could you speak a bit more slowly?*",
+      "pattern": "a bit / a little / slightly + comparative",
+      "examples": [
+        "Can we sit **a bit closer** to the front? I can't see the screen.",
+        "The blue one is **slightly cheaper**, but I like the green one better.",
+        "Unemployment was **slightly lower** last month than economists expected."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Gas prices were {{slightly}} higher in July than in June.",
+        "hint": "Rewrite in news style, replacing a bit (one word, not marginally or somewhat): Gas prices were a bit higher in July than in June."
+      },
+      "mistake": {
+        "wrong": "This hotel is a few cheaper than the other one.",
+        "right": "This hotel is a little cheaper than the other one.",
+        "why": "*A few* goes with plural nouns; before a comparative, use *a little*, *a bit* or *slightly*."
+      }
+    },
+    {
+      "id": "as-as-as-fast-as-just-as-good-as",
+      "term": "as … as: as fast as / just as good as",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*As* + adjective or adverb + *as* says that two things are equal in some quality: *She's as tall as her mother*.",
+      "usage": "Neutral and very common. The second word is *as*, not *than* or *like*. *Just as* stresses that they are really equal, while *almost as* or *nearly as* says that one is a little less.",
+      "pattern": "(just / almost / nearly) as + adjective / adverb + as",
+      "examples": [
+        "The sequel is **just as good as** the first movie.",
+        "My fourteen-year-old son is already **as tall as** his dad.",
+        "I'll get there **as fast as** I can, I promise."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The homemade bread is {{as good as}} the bread from the bakery.",
+        "hint": "Rewrite with as … as: The homemade bread and the bread from the bakery are equally good."
+      },
+      "mistake": {
+        "wrong": "My phone is as old than yours.",
+        "right": "My phone is as old as yours.",
+        "why": "An equal comparison is *as … as*; *than* follows only a comparative (*older than*)."
+      }
+    },
+    {
+      "id": "not-as-as-it-s-not-as-hard-as-i-thought",
+      "term": "not as … as: It's not as hard as I thought",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Not as* + adjective or adverb + *as* says that the first thing has less of a quality than the second: *It's not as hard as I thought* means it's easier than I thought.",
+      "usage": "Very common in conversation, where it sounds more natural than *less … than* (*less hard than* sounds odd). It is also a polite way to criticize (*The service isn't as good as it used to be*). *Not so … as* means the same but sounds formal or dated in American English.",
+      "pattern": "not as + adjective / adverb + as",
+      "examples": [
+        "The hike **wasn't as hard as** everyone said, even with the steep part at the end.",
+        "Their new album **isn't as good as** the last one.",
+        "I **don't run as fast as** I used to, but I still run every morning."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This summer {{wasn't as hot as}} last summer.",
+        "hint": "Rewrite with not as … as: Last summer was hotter than this summer."
+      },
+      "mistake": {
+        "wrong": "The movie was less good than the book.",
+        "right": "The movie wasn't as good as the book.",
+        "why": "*Less* sounds unnatural with short adjectives like *good, big* or *hard*; use *not as … as*."
+      }
+    },
+    {
+      "id": "superlative-ever-with-present-perfect-the-best-movie-i-ve-ev",
+      "term": "superlative + ever with present perfect: the best movie I've ever seen",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A superlative + a clause with *ever* describes the most extreme case in someone's experience up to now: *the best movie I've ever seen*.",
+      "usage": "Very common in speech, reviews and social media, usually with the present perfect (*I've ever had*). In American speech, the simple past is also common (*the best teacher I ever had*), especially for a finished period. Use *ever*, not *never*, after the superlative.",
+      "pattern": "the + superlative + noun + (that) + subject + have ever + past participle",
+      "examples": [
+        "Honestly, that's **the best pizza I've ever had**.",
+        "This is **the hardest decision I've ever had to make**.",
+        "She's **the funniest person I've ever met**, and she doesn't even try."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This is {{the most beautiful beach I've ever seen}}.",
+        "hint": "Rewrite with a superlative + ever: I've never seen such a beautiful beach."
+      },
+      "mistake": {
+        "wrong": "It's the best movie I have never seen.",
+        "right": "It's the best movie I have ever seen.",
+        "why": "After a superlative, use *ever*; *never* would mean you haven't seen it."
+      }
+    },
+    {
+      "id": "no-double-comparative-cheaper-not-more-cheaper",
+      "term": "no double comparative: cheaper, not 'more cheaper'",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A comparative uses either *-er* (short adjectives) or *more* (longer ones), never both: *cheaper* and *more expensive*, not *more cheaper*.",
+      "usage": "One-syllable adjectives take *-er* (*bigger*), and two-syllable adjectives ending in *-y* take *-ier* (*easier*). Most other adjectives of two or more syllables take *more* (*more careful*, *more modern*), though a few allow both (*quieter*, *more quiet*). Irregular forms such as *better, worse* and *farther* never take *more*.",
+      "pattern": "short adjective + -er / more + longer adjective (never both)",
+      "examples": [
+        "Let's take the train; it's **cheaper** and usually **faster**.",
+        "The second interview was **more relaxed** than the first one.",
+        "My cold is **worse** today than it was yesterday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This route is {{shorter}} than the one the GPS suggested.",
+        "hint": "Correct the comparative: This route is more shorter than the one the GPS suggested."
+      },
+      "mistake": {
+        "wrong": "This phone is more better than my old one.",
+        "right": "This phone is much better than my old one.",
+        "why": "*Better* is already a comparative; to make it stronger, use *much* or *a lot*, not *more*."
+      }
+    },
+    {
+      "id": "one-of-the-superlative-plural-one-of-the-best-restaurants",
+      "term": "one of the + superlative + plural: one of the best restaurants",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*One of the* + superlative + plural noun picks out one member of a top group: *one of the best restaurants in town*.",
+      "usage": "Very common in speech, reviews and writing, often as a softer claim than a plain superlative. The noun is always plural. When *one* is the subject, the verb is singular: *One of the best players is injured*.",
+      "pattern": "one of the + superlative + plural noun (+ singular verb)",
+      "examples": [
+        "Yellowstone is **one of the most popular parks** in the country.",
+        "That was **one of the hardest years** of my life.",
+        "**One of the biggest problems** in our building is the noise from the bar downstairs."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Lisbon is one of the most beautiful {{cities}} I've ever visited.",
+        "hint": "Correct the noun: Lisbon is one of the most beautiful city I've ever visited."
+      },
+      "mistake": {
+        "wrong": "He's one of best players on the team.",
+        "right": "He's one of the best players on the team.",
+        "why": "A superlative needs *the*, so the pattern is *one of the* + superlative + plural noun."
+      }
+    },
+    {
+      "id": "question-tags-it-s-late-isn-t-it",
+      "term": "question tags: It's late, isn't it?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A short question at the end of a statement (*isn't it?*, *do you?*) asks the listener to confirm or agree; a positive statement takes a negative tag, and a negative statement a positive tag.",
+      "usage": "Very common in conversation. The tag repeats the auxiliary or *be* from the statement (*You've met her, haven't you?*), or uses *do / does / did* if there is none (*She lives here, doesn't she?*). In casual American speech, *right?* is a very common tag that never changes.",
+      "pattern": "positive statement, negative auxiliary + pronoun? / negative statement, positive auxiliary + pronoun?",
+      "examples": [
+        "It's freezing out there today, **isn't it**?",
+        "You haven't seen my keys anywhere, **have you**?",
+        "She works at the children's hospital, **doesn't she**?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "You didn't forget the tickets, {{did you}}?",
+        "hint": "Add a question tag: You didn't forget the tickets."
+      },
+      "mistake": {
+        "wrong": "He lives in Austin, isn't it?",
+        "right": "He lives in Austin, doesn't he?",
+        "why": "The tag repeats the auxiliary and the subject of the statement; *isn't it* is not a general-purpose tag."
+      }
+    },
+    {
+      "id": "indirect-questions-could-you-tell-me-where-the-station-is",
+      "term": "indirect questions: Could you tell me where the station is?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After openings like *Could you tell me* or *Do you know*, a wh-question uses statement word order and no *do*: *Could you tell me where the station is?*",
+      "usage": "Indirect questions sound more polite than direct ones and are very common with strangers, in stores and in emails. After *I wonder* or *I'd like to know*, the sentence is a statement and ends with a period. The same word order applies after *I don't know* and *I'm not sure*.",
+      "pattern": "Could you tell me / Do you know + wh-word + subject + verb",
+      "examples": [
+        "Do you know **what time the game starts**?",
+        "Could you tell me **where I can find** the restrooms?",
+        "I'm not sure **how much the tickets cost**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Excuse me, do you know {{where the nearest gas station is}}?",
+        "hint": "Make it polite: Excuse me, where is the nearest gas station?"
+      },
+      "mistake": {
+        "wrong": "Can you tell me where is the post office?",
+        "right": "Can you tell me where the post office is?",
+        "why": "In an indirect question, the subject comes before the verb, as in a statement."
+      }
+    },
+    {
+      "id": "indirect-yes-no-questions-do-you-know-if-she-s-here",
+      "term": "indirect yes/no questions: Do you know if she's here?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "An indirect yes/no question uses *if* or *whether* + statement word order: *Do you know if she's here?* asks *Is she here?* politely.",
+      "usage": "Very common in polite requests and emails (*I was wondering if …*). *If* is more common in speech; *whether* is more formal. Do not leave out *if / whether* and do not use *do*: *Do you know is she here?* is wrong.",
+      "pattern": "Do you know / Can you tell me / I wonder + if / whether + subject + verb",
+      "examples": [
+        "Do you know **if the bank is open** on Saturdays?",
+        "Can you check **whether my package has arrived**?",
+        "I'll text them and ask **if they need a ride** from the airport."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Could you ask the waiter {{if the soup is}} vegetarian?",
+        "hint": "Make the question indirect, with if: Could you ask the waiter: is the soup vegetarian?"
+      },
+      "mistake": {
+        "wrong": "Do you know does this bus go downtown?",
+        "right": "Do you know if this bus goes downtown?",
+        "why": "An indirect yes/no question needs *if* or *whether* and statement word order, without *do*."
+      }
+    },
+    {
+      "id": "subject-vs-object-questions-who-called-you-who-did-you-call",
+      "term": "subject vs. object questions: Who called you? / Who did you call?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When *who* or *what* is the subject, the question uses statement word order and no *do*: *Who called you?* When it is the object, use *do / does / did*: *Who did you call?*",
+      "usage": "The two forms ask different things: *Who called you?* asks for the caller; *Who did you call?* asks for the person you called. The same applies to *which* + noun and *how many* + noun (*How many people came?*).",
+      "pattern": "Who / What + verb …? (subject) / Who / What + do / does / did + subject + verb? (object)",
+      "examples": [
+        "**Who told** you about the surprise party? It was supposed to be a secret.",
+        "**What happened** to your arm? Did you fall off your bike?",
+        "So **who did** you **invite** to the wedding in the end?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Who won}} the game last night?",
+        "hint": "Ask about the person: Somebody won the game last night."
+      },
+      "mistake": {
+        "wrong": "What did happen at the meeting yesterday?",
+        "right": "What happened at the meeting yesterday?",
+        "why": "*What* is the subject, so the question takes no *did*."
+      }
+    },
+    {
+      "id": "might-may-for-future-possibility-i-might-come-later",
+      "term": "might / may for future possibility: I might come later",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Might* or *may* + base verb says that something is possible in the future but not certain: *I might come later* means perhaps I will come.",
+      "usage": "*Might* is the usual choice in American conversation; *may* is more common in writing, news and announcements (*Delays may occur*). *Might not* and *may not* mean *perhaps not*, but *may not* can also mean *not allowed* in formal rules.",
+      "pattern": "might / may (not) + base verb",
+      "examples": [
+        "I **might** stop by after work, but don't wait for me.",
+        "Bring a jacket; it **might** get cold after sunset.",
+        "Some flights **may** be delayed because of the storm."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'm not feeling great, so I {{might not}} make it to the party tonight.",
+        "hint": "Rewrite with might: I'm not feeling great, so perhaps I won't make it to the party tonight."
+      },
+      "mistake": {
+        "wrong": "Take an umbrella; it might be rain later.",
+        "right": "Take an umbrella; it might rain later.",
+        "why": "*Rain* is the verb here, so it follows *might* directly, without *be*."
+      }
+    },
+    {
+      "id": "the-for-things-both-speakers-know-can-you-close-the-door",
+      "term": "the for things both speakers know: Can you close the door?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Use *the* when the listener knows which thing you mean because it is the only one in the situation (*the door*, *the kitchen*) or the only one in general (*the sun*).",
+      "usage": "This works even at first mention: *Can you close the door?* is fine because there is only one door in the room. Shared knowledge in a home, an office or a town works the same way (*the bank*, *the boss*, *the store*).",
+      "pattern": "the + noun (the listener can tell which one from the situation)",
+      "examples": [
+        "Can you turn off **the lights** when you leave?",
+        "I'm running to **the store**. Need anything?",
+        "**The sun** is really strong today, so don't forget sunscreen."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Could you take {{the}} trash out before you go to bed?",
+        "hint": "Add the missing article: Could you take trash out before you go to bed?"
+      },
+      "mistake": {
+        "wrong": "I'm going to supermarket. Do you need anything?",
+        "right": "I'm going to the supermarket. Do you need anything?",
+        "why": "The listener knows which supermarket you mean (your usual one), so use *the*."
+      }
+    },
+    {
+      "id": "no-article-with-meals-sports-and-languages-have-lunch-play-t",
+      "term": "no article with meals, sports and languages: have lunch, play tennis",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Meals (*breakfast, lunch, dinner*), sports and games (*tennis, chess*) and languages (*German, Spanish*) take no article when used in general.",
+      "usage": "Use an article only when the noun is specific or described: *a big breakfast*, *the dinner we had in Rome*. A language name on its own takes no article; with some nationality words, *the* means the people (*the Spanish*, *the French*).",
+      "pattern": "have + breakfast / lunch / dinner; play + sport; speak / learn + language (no article)",
+      "examples": [
+        "Do you want to get **lunch** on Friday?",
+        "My kids play **soccer** every Saturday morning.",
+        "She grew up speaking **Korean** at home and **English** at school."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We usually have {{dinner}} around seven, after the kids' practice.",
+        "hint": "Correct the sentence: We usually have the dinner around seven, after the kids' practice."
+      },
+      "mistake": {
+        "wrong": "I'm learning the Spanish for my new job.",
+        "right": "I'm learning Spanish for my new job.",
+        "why": "Language names take no article; *the Spanish* means the people of Spain."
+      }
+    },
+    {
+      "id": "a-an-for-rates-and-frequency-twice-a-week-20-an-hour",
+      "term": "a / an for rates and frequency: twice a week, $20 an hour",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*A/an* after a number or frequency word means *per* or *each*: *twice a week*, *$20 an hour*, *sixty miles an hour*.",
+      "usage": "Normal in all everyday contexts; *per* is more formal and common in written prices and rules (*$5 per person*). Use *an* before a vowel sound: *an hour*, but *a year*.",
+      "pattern": "number / frequency + a / an + time or unit",
+      "examples": [
+        "I try to go to the gym **three times a week**.",
+        "The babysitter charges **eighteen dollars an hour**.",
+        "The speed limit on this road is **forty-five miles an hour**."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We eat out about twice {{a}} month.",
+        "hint": "Replace per with the everyday word: We eat out about twice per month."
+      },
+      "mistake": {
+        "wrong": "Take this pill twice in a day.",
+        "right": "Take this pill twice a day.",
+        "why": "For frequency, *a* already means *per*, so no *in* is needed."
+      }
+    },
+    {
+      "id": "no-article-before-next-last-time-next-week-last-year",
+      "term": "no article before next / last + time: next week, last year",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With *next, last, this* and *every* + a time word, English uses no article and no preposition: *next week*, *last year*, *this Friday*.",
+      "usage": "Do not add *on, in* or *the*: *on next Monday* and *in last year* are wrong. *The next week* and *the last week* mean something different: a seven-day period after another point, or the seven days up to now (*I've been sick for the last week*).",
+      "pattern": "next / last / this / every + time word (no article, no preposition)",
+      "examples": [
+        "We're moving to Portland **next month**, so we're packing every night.",
+        "I ran into them at the hardware store **last Saturday**.",
+        "**This year** we're spending Thanksgiving at my sister's place."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The dentist can see you {{next Tuesday}} at ten.",
+        "hint": "Correct the time phrase: The dentist can see you on the next Tuesday at ten."
+      },
+      "mistake": {
+        "wrong": "I started this job in last March.",
+        "right": "I started this job last March.",
+        "why": "*Last, next* and *this* + a time word take no preposition."
+      }
+    },
+    {
+      "id": "plenty-of-we-have-plenty-of-time",
+      "term": "plenty of: We have plenty of time",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Plenty of* + noun means *a lot, more than enough*: *We have plenty of time*.",
+      "usage": "Neutral and friendly, often used to reassure people (*Don't worry, there's plenty of food*). It goes with plural and uncountable nouns and is mainly used in positive sentences and questions; in negatives, use *not much* or *not enough*. *Plenty* can also stand alone (*No thanks, I've got plenty*).",
+      "pattern": "plenty of + plural / uncountable noun",
+      "examples": [
+        "There's **plenty of parking** behind the building.",
+        "Make sure the kids drink **plenty of water** in this heat.",
+        "We have **plenty of extra blankets** if you get cold tonight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Don't buy more chips; we already have {{plenty of}} snacks for the party.",
+        "hint": "Rewrite with plenty: Don't buy more chips; we already have more than enough snacks for the party."
+      },
+      "mistake": {
+        "wrong": "Relax, we have plenty time before the train leaves.",
+        "right": "Relax, we have plenty of time before the train leaves.",
+        "why": "Before a noun, *plenty* needs *of*."
+      }
+    },
+    {
+      "id": "no-noun-vs-not-any-there-s-no-milk-there-isn-t-any-milk",
+      "term": "no + noun vs. not any: There's no milk / There isn't any milk",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*There's no coffee* and *There isn't any coffee* mean the same; *no* + noun sounds a little stronger or more definite.",
+      "usage": "Use *no* with a positive verb and *any* with a negative verb, never both in one clause. *No* sounds more definite and is typical of signs and rules (*No parking*); with a singular countable noun, *no* is often the natural choice (*There's no reason to worry*). In conversation, *isn't any* is a little softer and very common.",
+      "pattern": "positive verb + no + noun / negative verb + any + noun",
+      "examples": [
+        "Sorry, there's **no** hot water this morning; the water heater is broken.",
+        "We have **no** plans for the weekend yet.",
+        "**No** dogs are allowed on the beach in summer."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We {{have no}} idea what to get her for her birthday.",
+        "hint": "Rewrite with no: We don't have any idea what to get her for her birthday."
+      },
+      "mistake": {
+        "wrong": "There's not parking anywhere near the stadium.",
+        "right": "There's no parking anywhere near the stadium.",
+        "why": "Before a noun, use *no* (or *isn't any*); *not* goes with a verb."
+      }
+    },
+    {
+      "id": "each-vs-every-each-of-us-every-day",
+      "term": "each vs. every: each of us / every day",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Each* looks at the members of a group one by one and can be used for two; *every* looks at all the members of a group of three or more together.",
+      "usage": "Often both are possible (*each day*, *every day*). Use *each* for two (*each hand*) and *each of* + plural noun or pronoun (*each of us*); *every of* is wrong, but *every one of us* is fine. Use *every* with *almost* or *nearly* and for intervals (*every two weeks*).",
+      "pattern": "each (of) + noun / every + singular noun / every one of",
+      "examples": [
+        "She came in with a cup of coffee in **each hand**.",
+        "We walk the dog **every morning** before work.",
+        "**Each of** us paid for our own ticket."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{Each of}} my cousins got a different present from Grandma.",
+        "hint": "Correct the sentence (two words): Every of my cousins got a different present from Grandma."
+      },
+      "mistake": {
+        "wrong": "I check my email almost each hour.",
+        "right": "I check my email almost every hour.",
+        "why": "*Almost* and *nearly* go with *every*, not *each*."
+      }
+    },
+    {
+      "id": "too-much-too-many-too-much-work-too-many-emails",
+      "term": "too much / too many: too much work / too many emails",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Too much* + uncountable noun and *too many* + plural noun mean more than is good or acceptable: *too much work*, *too many emails*.",
+      "usage": "Very common for complaints. *Too much* also works alone after a verb (*You worry too much*). Before an adjective, use *too* or *much too*, not *too much* (*too much expensive* is wrong).",
+      "pattern": "too much + uncountable noun / too many + plural noun / verb + too much",
+      "examples": [
+        "I've had **too much coffee** today; my hands are shaking.",
+        "There are **too many tourists** in the old town in August.",
+        "You spend **too much time** on your phone."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I can't go out tonight; I have {{too much}} homework.",
+        "hint": "Choose too much or too many: I can't go out tonight; I have ___ homework."
+      },
+      "mistake": {
+        "wrong": "There's too many traffic downtown at five.",
+        "right": "There's too much traffic downtown at five.",
+        "why": "*Traffic* is uncountable, so it takes *too much*."
+      }
+    },
+    {
+      "id": "don-t-need-to-for-no-necessity-you-don-t-need-to-bring-anyth",
+      "term": "don't need to for no necessity: You don't need to bring anything",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Don't need to* + verb means something is not necessary: *You don't need to bring anything*.",
+      "usage": "It means about the same as *don't have to* and is very common in American English, while *needn't* sounds British or formal to most Americans. *Didn't need to* says that something was not necessary in the past, whether or not it was done.",
+      "pattern": "don't / doesn't / didn't need to + base verb",
+      "examples": [
+        "You **don't need to** take your shoes off; come on in.",
+        "We **didn't need to** book a table; the place was half empty.",
+        "You **don't need to** print your ticket; just show it on your phone."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "It's a casual dinner, so you {{don't need to}} dress up.",
+        "hint": "Rewrite the American way, keeping need: It's a casual dinner, so you needn't dress up."
+      },
+      "mistake": {
+        "wrong": "You don't need bring anything to the party.",
+        "right": "You don't need to bring anything to the party.",
+        "why": "In American English, *need* is a normal verb, so it takes *to* + verb."
+      }
+    },
+    {
+      "id": "be-supposed-to-for-rules-you-re-not-supposed-to-park-here",
+      "term": "be supposed to for rules: You're not supposed to park here",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be supposed to* + verb says what a rule, an agreement or other people expect you to do: *You're not supposed to park here* means it's not allowed.",
+      "usage": "Very common in American conversation; it is softer and less direct than *must* or *can't*. It often suggests that the rule is sometimes broken (*We're supposed to wear helmets, but nobody does*). *Not supposed to* is the usual polite way to say that something isn't allowed.",
+      "pattern": "be (not) supposed to + base verb",
+      "examples": [
+        "You're **not supposed to** eat in the library.",
+        "We're **supposed to** check out of the hotel by eleven.",
+        "Am I **supposed to** tip the delivery driver?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Hurry up! {{We're supposed to}} be there by seven.",
+        "hint": "Rewrite with supposed to: Hurry up! They expect us to be there by seven."
+      },
+      "mistake": {
+        "wrong": "We're suppose to bring our own towels.",
+        "right": "We're supposed to bring our own towels.",
+        "why": "The *-d* is hard to hear in speech, but it is always written: *supposed to*."
+      }
+    },
+    {
+      "id": "can-t-for-rules-you-can-t-park-here",
+      "term": "can't for rules: You can't park here",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "*Can't* (or *cannot*) says that something is not allowed by a rule or by the speaker: *You can't park here*.",
+      "usage": "The normal way to state a prohibition in American speech; *mustn't* sounds British or old-fashioned, and *may not* is formal (*Guests may not bring food into the pool area*). In the same way, *can* gives permission (*You can park on the street after six*).",
+      "pattern": "can't / cannot + base verb (not allowed)",
+      "examples": [
+        "Sorry, you **can't** bring drinks into the theater.",
+        "Since last year, you **can't** smoke anywhere on campus, even outdoors.",
+        "Kids under twelve **can't** ride without an adult."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Sorry, you {{can't}} swim here today; there's no lifeguard on duty.",
+        "hint": "Say it the everyday American way: Sorry, you mustn't swim here today; there's no lifeguard on duty."
+      },
+      "mistake": {
+        "wrong": "It's not allowed to park in front of the garage.",
+        "right": "You can't park in front of the garage.",
+        "why": "English doesn't use *It's not allowed to* + verb; say *You can't park …*, *You're not allowed to park …* or *Parking isn't allowed …*."
+      }
+    },
+    {
+      "id": "be-able-to-in-other-forms-will-be-able-to-have-been-able-to",
+      "term": "be able to in other forms: will be able to, have been able to",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Can* has only two forms, *can* and *could*, so *be able to* fills the other forms: *will be able to*, *have been able to*, *might be able to*, *to be able to*.",
+      "usage": "Use *will be able to* for a future ability that depends on something new (*Once I get my license, I'll be able to drive*); for plans and arrangements, *can* is fine (*I can come tomorrow*). After another modal or after verbs like *want* and *hope*, only *be able to* works.",
+      "pattern": "will / might / should be able to; have / has been able to; to be able to + base verb",
+      "examples": [
+        "After the surgery, she **won't be able to** drive for a few weeks.",
+        "We **haven't been able to** reach anyone at the insurance company.",
+        "With the new scanner, the lab **will be able to** process twice as many samples."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I {{haven't been able to}} sleep well since we moved.",
+        "hint": "Correct the verb (present perfect): I can't sleep well since we moved."
+      },
+      "mistake": {
+        "wrong": "I will can help you with the move next week.",
+        "right": "I'll be able to help you with the move next week.",
+        "why": "*Can* cannot follow another modal like *will*; use *be able to*."
+      }
+    },
+    {
+      "id": "twice-as-as-twice-as-expensive-as",
+      "term": "twice as … as: twice as expensive as",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Twice, three times* or *half* + *as … as* compares two things by a multiple: *twice as expensive as* means two times the price.",
+      "usage": "Common in conversation, news and reports. Before a noun, use *as much* or *as many* (*twice as many people*). *Three times bigger than* is also common, but *twice* and *half* normally use *as … as* (*twice bigger* is nonstandard).",
+      "pattern": "twice / three times / half + as + adjective (or much / many + noun) + as",
+      "examples": [
+        "Rent here is **twice as high as** in my hometown.",
+        "Our new fridge uses **half as much electricity as** the old one.",
+        "There were **three times as many people as** last year, so we ran out of food."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new bridge is {{twice as long as}} the old one.",
+        "hint": "Rewrite with twice as … as: The new bridge is double the length of the old one."
+      },
+      "mistake": {
+        "wrong": "This phone is twice more expensive than mine.",
+        "right": "This phone is twice as expensive as mine.",
+        "why": "With *twice* and *half*, use *as … as*, not a comparative with *than*."
+      }
+    },
+    {
+      "id": "comparative-and-comparative-better-and-better-more-and-more",
+      "term": "comparative and comparative: better and better, more and more",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Repeating a comparative (*better and better*, *more and more expensive*) shows a change that keeps going.",
+      "usage": "Common in speech and storytelling, often with *get* or *become* (*It's getting harder and harder*). With long adjectives, repeat only *more*: *more and more difficult*. *Less and less* shows a steady decrease.",
+      "pattern": "comparative + and + comparative / more and more + adjective or noun",
+      "examples": [
+        "Her piano playing is getting **better and better**.",
+        "Rents in this city are getting **more and more expensive**.",
+        "**More and more** people are choosing to bike to work."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "As the night went on, the music got {{louder and louder}}.",
+        "hint": "Show that the change continued: As the night went on, the music kept getting louder."
+      },
+      "mistake": {
+        "wrong": "It's getting more difficult and more difficult to find parking.",
+        "right": "It's getting more and more difficult to find parking.",
+        "why": "With long adjectives, repeat only *more* and say the adjective once."
+      }
+    },
+    {
+      "id": "different-from-different-than-us-it-s-different-than-i-expec",
+      "term": "different from / different than (US): It's different than I expected",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "US",
+      "ipa": "",
+      "meaning": "Both introduce the thing being compared after *different*; *different than* is normal in American English, especially before a clause (*different than I expected*).",
+      "usage": "*Different from* is accepted everywhere and is the safest choice in formal writing. *Different than* is standard in American speech and in much American writing, and it is smoother before a clause (*different than it used to be*, instead of *different from what it used to be*). *Different to* is British.",
+      "pattern": "different from + noun / different than + noun or clause (US)",
+      "examples": [
+        "The neighborhood looks **different than** I remember it.",
+        "Her accent is a little **different from** her brother's.",
+        "Working from home is very **different than** working in an office."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new version of the app is totally {{different than}} it used to be.",
+        "hint": "Shorten it the American way, without what: The new version of the app is totally different from what it used to be."
+      },
+      "mistake": {
+        "wrong": "My new job is very different of my old one.",
+        "right": "My new job is very different from my old one.",
+        "why": "*Different* takes *from* (or *than* in American English), not *of*."
+      }
+    },
+    {
+      "id": "much-too-adjective-much-too-expensive",
+      "term": "much too + adjective: much too expensive",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Much too* (or *far too*, *way too*) + adjective or adverb makes *too* stronger: *much too expensive* means far more than is acceptable.",
+      "usage": "*Much too* is neutral, *far too* is a bit more formal, and *way too* is very common in casual American speech. The order matters: *too much* goes before a noun (*too much sugar*), *much too* before an adjective (*much too sweet*).",
+      "pattern": "much / far / way + too + adjective / adverb",
+      "examples": [
+        "That dress is **much too expensive** for something I'll wear once.",
+        "It's **way too early** to start decorating for Christmas!",
+        "The instructions were **far too complicated** for a simple bookshelf."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "These shoes are {{much too}} small for him now.",
+        "hint": "Correct the word order: These shoes are too much small for him now."
+      },
+      "mistake": {
+        "wrong": "It's very too hot to sit outside today.",
+        "right": "It's much too hot to sit outside today.",
+        "why": "*Very* cannot make *too* stronger; use *much, far* or *way*."
+      }
+    },
+    {
+      "id": "question-tag-after-i-m-i-m-late-aren-t-i",
+      "term": "question tag after I'm: I'm late, aren't I?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The negative tag after *I am* is *aren't I*: *I'm late, aren't I?* Forms like *am not I* are wrong, and *amn't I* is not standard American English.",
+      "usage": "Natural in all registers, even though *I aren't* is impossible as a statement. *Am I not* is possible but sounds very formal. After a negative statement, the tag is regular: *I'm not late, am I?*",
+      "pattern": "I'm + …, aren't I? / I'm not + …, am I?",
+      "examples": [
+        "I'm next in line, **aren't I**?",
+        "I'm invited to the barbecue too, **aren't I**?",
+        "I'm not in your way here, **am I**?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'm right about this, {{aren't I}}?",
+        "hint": "Add a question tag: I'm right about this."
+      },
+      "mistake": {
+        "wrong": "I'm older than you, am not I?",
+        "right": "I'm older than you, aren't I?",
+        "why": "The negative tag for *I am* is irregular: *aren't I*."
+      }
+    },
+    {
+      "id": "answering-negative-questions-you-re-not-coming-no-i-m-not",
+      "term": "answering negative questions: You're not coming? No, I'm not.",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In English, *yes* and *no* follow the facts, not the form of the question: *You're not coming? – No, I'm not* (= I'm not coming); *Yes, I am* (= I am coming).",
+      "usage": "Japanese and Korean speakers often answer the form of the question (*Yes* = right, I'm not coming), and German and French have a special word (*doch*, *si*) to contradict a negative question. In English, use *No* + a negative or *Yes* + a positive, and add the short verb to be clear (*Yes, I am*, *No, I'm not*).",
+      "pattern": "Negative question? – No + negative (agree) / Yes + positive (contradict)",
+      "examples": [
+        "\"You didn't lock the door?\" \"**No, I didn't**. Sorry!\"",
+        "\"Aren't you hungry?\" \"**Yes, I'm starving**. Let's eat.\"",
+        "\"Don't you like spicy food?\" \"**No, not really**.\""
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "\"You don't eat meat?\" \"{{No, I don't}}. I've been a vegetarian for years.\"",
+        "hint": "Answer, confirming that you don't eat meat: You don't eat meat?"
+      },
+      "mistake": {
+        "wrong": "\"Aren't you tired?\" \"Yes, I'm not.\"",
+        "right": "\"Aren't you tired?\" \"No, I'm not.\"",
+        "why": "*Yes* goes with a positive answer and *no* with a negative one."
+      }
+    },
+    {
+      "id": "position-of-all-and-both-we-all-agreed-they-re-both-busy",
+      "term": "position of all and both: We all agreed / They're both busy",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*All* and *both* that refer to the subject go in mid position: before a main verb (*We all agreed*) but after *be* or the first auxiliary (*They're both busy*, *We've all seen it*).",
+      "usage": "A common, natural alternative to *all of us* or *both of them*. With an object pronoun, they come after it (*I invited them all*, *I love you both*). German puts *alle* after the verb (*Wir stimmten alle zu*), so German speakers often say *We agreed all*.",
+      "pattern": "subject + all / both + main verb / subject + be or auxiliary + all / both",
+      "examples": [
+        "My parents **both** work night shifts at the hospital.",
+        "The kids are **all** asleep, so let's open the wine.",
+        "We've **all** been there, so don't feel bad."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My roommates {{are both}} out of town this weekend.",
+        "hint": "Put both in the right place: My roommates both are out of town this weekend."
+      },
+      "mistake": {
+        "wrong": "We agreed all on the new schedule.",
+        "right": "We all agreed on the new schedule.",
+        "why": "With a main verb, *all* and *both* go before it."
+      }
+    },
+    {
+      "id": "which-vs-what-in-questions-which-one-do-you-want",
+      "term": "which vs. what in questions: Which one do you want?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Which* asks about a choice from a limited, known set (*Which one do you want?*); *what* asks about an open choice (*What do you want for dinner?*).",
+      "usage": "Both are possible in many cases (*What color* or *Which color do you like?*), but *which* signals that the options are known. Use *which* before *one, ones* and *of* (*which of these*); *what of* is not possible.",
+      "pattern": "which (one / of) … (limited choice) / what + noun … (open choice)",
+      "examples": [
+        "**Which** of these two photos should I use for my profile?",
+        "**What** kind of music do you listen to when you work out?",
+        "**Which** gate does our flight leave from, B12 or B14?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "There are two buses at the stop. {{Which}} one goes downtown?",
+        "hint": "Choose which or what: There are two buses at the stop. ___ one goes downtown?"
+      },
+      "mistake": {
+        "wrong": "What of these jackets do you like best?",
+        "right": "Which of these jackets do you like best?",
+        "why": "Before *of*, only *which* is possible."
+      }
+    },
+    {
+      "id": "one-ones-as-a-substitute-i-ll-take-the-blue-one",
+      "term": "one / ones as a substitute: I'll take the blue one",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*One* (singular) and *ones* (plural) replace a countable noun that was just mentioned, usually after an adjective or *the*: *I'll take the blue one*.",
+      "usage": "Very common when shopping, choosing and comparing. It replaces only countable nouns (*I prefer red wine to white*, not *white one*). An adjective cannot stand alone in place of the noun: *a new one*, not *a new*.",
+      "pattern": "a / the / this / which + (adjective) + one / ones",
+      "examples": [
+        "These cookies are good, but the chocolate **ones** are even better.",
+        "My phone is really old. I need a new **one**.",
+        "\"Which car is yours?\" \"The gray **one** by the gate.\""
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I don't like the green mugs; let's get the white {{ones}}.",
+        "hint": "Avoid repeating the noun: I don't like the green mugs; let's get the white mugs."
+      },
+      "mistake": {
+        "wrong": "I lost my umbrella, so I bought a new.",
+        "right": "I lost my umbrella, so I bought a new one.",
+        "why": "An adjective cannot stand alone in place of a countable noun; add *one*."
+      }
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "topic_id": "a2-18-n-deklination",
+  "level": "A2",
+  "title_de": "N-Deklination",
+  "title_en": "The n-declension (weak masculine nouns)",
+  "rule": {
+    "summary": "A group of **masculine** nouns adds **-(e)n** in every form except the **Nominativ singular**: *der Student → den/dem/des Studenten*. Most of them name people or animals (*der Junge, der Kollege, der Tourist, der Löwe*). The article alone is not enough here: the noun itself must show that it is not the subject. A few nouns (*der Name, der Gedanke, der Buchstabe*) also add **-s** in the Genitiv: *des Namens*.",
+    "table": "| | der Junge | der Student | der Herr | der Name |\n|---|---|---|---|---|\n| Nom | der Junge | der Student | der Herr | der Name |\n| Akk | den Junge**n** | den Student**en** | den Herr**n** | den Name**n** |\n| Dat | dem Junge**n** | dem Student**en** | dem Herr**n** | dem Name**n** |\n| Gen | des Junge**n** | des Student**en** | des Herr**n** | des Name**ns** |\n| Plural (alle Kasus) | die Junge**n** | die Student**en** | die Herr**en** | die Name**n** |",
+    "steps": [
+      "Is the noun masculine? Feminine and (almost all) neuter nouns are never n-Deklination: *die Studentin, der Studentin*.",
+      "Does it belong to an n-group? (a) masculine nouns in **-e** for people, animals and nationalities: *Junge, Kollege, Kunde, Löwe, Franzose*; (b) foreign nouns in **-ant, -ent, -ist, -at, -oge, -graf**: *Praktikant, Student, Polizist, Kandidat, Biologe, Fotograf*; (c) single words: *Mensch, Herr, Nachbar, Bauer, Held, Automat*.",
+      "Find the case. Nominativ singular (subject, after *sein*, after *als* with a subject) → no ending: *der Kollege*. Akkusativ, Dativ, Genitiv singular → **-(e)n**: *den/dem/des Kollegen*.",
+      "Use **-n** after *-e*, *-er* and *-ar* (*Junge → Jungen, Bauer → Bauern, Nachbar → Nachbarn*) and **-en** after other consonants (*Student → Studenten*). *Herr* is special: **Herrn** in the singular, **Herren** in the plural.",
+      "In the Genitiv singular there is no *-s* (*des Studenten*, not *des Studentes*), except for *Name, Gedanke, Buchstabe, Glaube, Wille*: *des Namens*."
+    ],
+    "pitfalls": [
+      "Forgetting the ending outside the Nominativ: ✗ *Ich frage den Polizist.* → ✓ *Ich frage den Polizisten.*",
+      "Adding *-en* in the Nominativ singular: ✗ *Der Studenten wohnt hier.* → ✓ *Der Student wohnt hier.*",
+      "Adding the normal Genitiv *-s*: ✗ *das Büro des Polizists* → ✓ *das Büro des Polizisten*. Exception: *des Namens*.",
+      "Using the plural *Herren* for one man: ✗ *Ich frage den Herren.* → ✓ *Ich frage den Herrn.*",
+      "Putting the ending on every masculine noun: ✗ *Ich rufe den Arzten an.* → ✓ *Ich rufe den Arzt an.* *Arzt, Lehrer, Freund, Tisch* are normal nouns."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich kenne den {{c1::Studenten::der Student}}.",
+      "en": "I know the student.",
+      "focus": "Akkusativ · Nomen auf *-ent*",
+      "explanation": "*kennen* takes an Akkusativ object → masculine article *den*. *Student* ends in *-ent*, a typical n-Deklination ending, so the noun also changes outside the Nominativ: Student + -en → **Studenten**.",
+      "pattern": "den + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich kenne den Student.", "why": "*den* alone is not enough. n-Deklination nouns add *-en* in the Akkusativ singular: *den Studenten*."},
+      "examples": [
+        {"de": "Ich kenne den Dirigenten persönlich.", "en": "I know the conductor personally."},
+        {"de": "Kennst du den Agenten des Sängers?", "en": "Do you know the singer's agent?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich helfe dem {{c1::Jungen::der Junge}}.",
+      "en": "I'm helping the boy.",
+      "focus": "Dativ · nach *helfen* · Nomen auf *-e*",
+      "explanation": "*helfen* always takes the Dativ → *dem*. *Junge* is a masculine noun in *-e* that names a person, so it belongs to the n-Deklination. After *-e* only **-n** is added: Junge + -n → **Jungen**.",
+      "pattern": "dem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Ich helfe dem Junge.", "why": "Masculine nouns in *-e* for people are n-Deklination. In the Dativ singular they need *-n*: *dem Jungen*."},
+      "examples": [
+        {"de": "Die Lehrerin hilft dem Jungen beim Lesen.", "en": "The teacher helps the boy with his reading."},
+        {"de": "Wir helfen dem Neffen beim Umzug.", "en": "We are helping the nephew with his move."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir sprechen mit dem {{c1::Polizisten::der Polizist}}.",
+      "en": "We're talking to the police officer.",
+      "focus": "Dativ · nach *mit* · Nomen auf *-ist*",
+      "explanation": "*mit* always takes the Dativ → *dem*. Nouns in *-ist* (*Polizist, Tourist, Journalist*) are n-Deklination, so the noun adds **-en** after the consonant: Polizist + -en → **Polizisten**.",
+      "pattern": "mit + dem + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Wir sprechen mit dem Polizist.", "why": "After *mit dem* the n-Deklination noun must show the Dativ too: *mit dem Polizisten*."},
+      "examples": [
+        {"de": "Sie spricht mit dem Journalisten über das Projekt.", "en": "She is talking to the journalist about the project."},
+        {"de": "Ich habe lange mit dem Pianisten geredet.", "en": "I talked to the pianist for a long time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das ist das Buch eines {{c1::Studenten::der Student}}.",
+      "en": "That is a student's book.",
+      "focus": "Genitiv · nach *eines*",
+      "explanation": "*eines Studenten* says whose book it is → Genitiv. Normal masculine nouns add *-(e)s* in the Genitiv (*eines Mannes*), but n-Deklination nouns add **-en** instead: Student + -en → **Studenten**.",
+      "pattern": "eines + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Das ist das Buch eines Studentes.", "why": "n-Deklination nouns never take the Genitiv *-(e)s*. The Genitiv singular ends in *-en*: *eines Studenten*."},
+      "examples": [
+        {"de": "Das ist die Idee eines Praktikanten.", "en": "That is an intern's idea."},
+        {"de": "Hier steht das Auto eines Touristen aus Italien.", "en": "Here is a car belonging to a tourist from Italy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich frage den {{c1::Herrn::der Herr}} nach dem Weg.",
+      "en": "I'm asking the gentleman for directions.",
+      "focus": "Akkusativ Singular · Sonderform",
+      "explanation": "*fragen* takes an Akkusativ object → *den*. *Herr* is a special n-noun: in the singular it adds only **-n** → **Herrn**. The plural is *Herren*. *nach dem Weg fragen* = to ask for directions.",
+      "pattern": "den + Herr**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich frage den Herren nach dem Weg.", "why": "*Herren* is the plural (*die Herren*). For one man the Akkusativ singular is *den Herrn*."},
+      "examples": [
+        {"de": "Kennen Sie den Herrn mit dem Hut?", "en": "Do you know the gentleman with the hat?"},
+        {"de": "Bitte geben Sie dem Herrn seinen Mantel.", "en": "Please give the gentleman his coat."}
+      ],
+      "words": [{"de": "nach dem Weg fragen", "en": "to ask for directions"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Der Name dieses {{c1::Menschen::der Mensch}} ist mir bekannt.",
+      "en": "This person's name is familiar to me.",
+      "focus": "Genitiv · nach *dieses*",
+      "explanation": "*dieses Menschen* is a Genitiv attribute (whose name?). *Mensch* is an n-noun without a typical ending, so you must learn it. Genitiv singular → **-en**, no *-s*: **Menschen**.",
+      "pattern": "dieses + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Der Name dieses Mensches ist mir bekannt.", "why": "*Mensch* belongs to the n-Deklination, so the Genitiv is *des/dieses Menschen*, without *-es*."},
+      "examples": [
+        {"de": "Das Gesicht dieses Jungen ist mir bekannt.", "en": "This boy's face is familiar to me."},
+        {"de": "Das Leben eines Menschen ist kurz.", "en": "A human life is short."}
+      ],
+      "words": [{"de": "bekannt", "en": "known, familiar"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wir schreiben dem {{c1::Kollegen::der Kollege}} eine E-Mail.",
+      "en": "We're writing the colleague an email.",
+      "focus": "Dativ · Empfänger nach *schreiben*",
+      "explanation": "With *schreiben* the receiver is in the Dativ (*dem*) and the thing in the Akkusativ (*eine E-Mail*). *Kollege* is a masculine person noun in *-e* → n-Deklination: Kollege + -n → **Kollegen**.",
+      "pattern": "dem + Nomen-**n** + Akk. (Dat. Sg.)",
+      "mistake": {"wrong": "Wir schreiben dem Kollege eine E-Mail.", "why": "*Kollege* is n-Deklination. In the Dativ singular it needs *-n*: *dem Kollegen*."},
+      "examples": [
+        {"de": "Ich gebe dem Kunden die Quittung.", "en": "I give the customer the receipt."},
+        {"de": "Sie zeigt dem Neffen ihre alten Fotos.", "en": "She shows her nephew her old photos."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Kennst du diesen {{c1::Touristen::der Tourist}}?",
+      "en": "Do you know this tourist?",
+      "focus": "Akkusativ · nach *diesen*",
+      "explanation": "*kennen* takes the Akkusativ; *diesen* already shows masculine Akkusativ. The noun *Tourist* (ending *-ist*) still adds its own ending: Tourist + -en → **Touristen**.",
+      "pattern": "diesen + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Kennst du diesen Tourist?", "why": "The n-Deklination ending is needed after every article word, also after *diesen*: *diesen Touristen*."},
+      "examples": [
+        {"de": "Kennst du diesen Spezialisten?", "en": "Do you know this specialist?"},
+        {"de": "Hast du diesen Polizisten schon mal gesehen?", "en": "Have you ever seen this police officer before?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das Auto gehört dem {{c1::Nachbarn::der Nachbar}}.",
+      "en": "The car belongs to the neighbour.",
+      "focus": "Dativ · nach *gehören* · Nomen auf *-ar*",
+      "explanation": "*gehören* names the owner in the Dativ → *dem*. *Nachbar* is an n-noun although it does not end in *-e* or *-ist*; you must learn it. After *-ar* only **-n** is added: **Nachbarn**.",
+      "pattern": "gehören + dem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Das Auto gehört dem Nachbar.", "why": "*Nachbar* is n-Deklination: *den/dem/des Nachbarn*. Only the Nominativ singular is *der Nachbar*."},
+      "examples": [
+        {"de": "Der Garten gehört dem Bauern.", "en": "The garden belongs to the farmer."},
+        {"de": "Das Fahrrad gehört dem Jungen von nebenan.", "en": "The bike belongs to the boy next door."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich kenne den {{c1::Namen::der Name}} nicht.",
+      "en": "I don't know the name.",
+      "focus": "Akkusativ · Nicht-Person",
+      "explanation": "*Name* is a masculine noun in *-e* that is not a person, but it still adds **-n** outside the Nominativ: *den* **Namen**. It belongs to a small special group (*Name, Gedanke, Buchstabe*) that also has *-ns* in the Genitiv: *des Namens*.",
+      "pattern": "den + Name**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich kenne den Name nicht.", "why": "*Name* adds *-n* in the Akkusativ: *den Namen*. Only the Nominativ is *der Name*."},
+      "examples": [
+        {"de": "Kannst du mir den Namen des Hotels sagen?", "en": "Can you tell me the name of the hotel?"},
+        {"de": "Ich habe seinen Namen vergessen.", "en": "I've forgotten his name."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich höre dem {{c1::Piloten::der Pilot}} zu.",
+      "en": "I'm listening to the pilot.",
+      "focus": "Dativ · nach *zuhören*",
+      "explanation": "*zuhören* takes a Dativ object → *dem*. *Pilot* is a foreign n-noun (like *Soldat, Kandidat*), so it adds **-en**: **Piloten**. The separable prefix *zu* goes to the end.",
+      "pattern": "zuhören + dem + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Ich höre dem Pilot zu.", "why": "*Pilot* is n-Deklination. After *dem* it must be *Piloten*."},
+      "examples": [
+        {"de": "Alle hören dem Präsidenten aufmerksam zu.", "en": "Everyone is listening carefully to the president."},
+        {"de": "Hör dem Architekten bitte genau zu!", "en": "Please listen carefully to the architect!"}
+      ],
+      "words": [{"de": "zuhören (+ Dat.)", "en": "to listen to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir helfen einem {{c1::Studenten::der Student}} bei den Hausaufgaben.",
+      "en": "We're helping a student with the homework.",
+      "focus": "Dativ · nach *einem*",
+      "explanation": "*helfen* takes the Dativ → indefinite article *einem*. The n-Deklination works the same after *ein*: Student + -en → **Studenten**. *bei* + Dativ gives the task: *bei den Hausaufgaben*.",
+      "pattern": "einem + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Wir helfen einem Student bei den Hausaufgaben.", "why": "*einem* shows the Dativ, but the n-noun must show it too: *einem Studenten*."},
+      "examples": [
+        {"de": "Sie hilft einem Patienten beim Aufstehen.", "en": "She is helping a patient get up."},
+        {"de": "Er gibt einem Praktikanten Tipps für die Bewerbung.", "en": "He is giving an intern tips for the application."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir helfen dem {{c1::Kunden::der Kunde}}.",
+      "en": "We help the customer.",
+      "focus": "Dativ · Person auf *-e*",
+      "explanation": "*helfen* + Dativ → *dem*. *Kunde* is a masculine person noun in *-e*, so it adds **-n**: **Kunden**. Note: *dem Kunden* (one customer, Dativ) and *die Kunden* (plural) look alike; the article shows the difference.",
+      "pattern": "dem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Wir helfen dem Kunde.", "why": "*Kunde* belongs to the n-Deklination: *den/dem/des Kunden*."},
+      "examples": [
+        {"de": "Der Verkäufer hilft dem Kunden bei der Auswahl.", "en": "The salesman is helping the customer choose."},
+        {"de": "Wir antworten dem Kunden noch heute.", "en": "We'll answer the customer today."}
+      ],
+      "words": [{"de": "der Kunde (-n)", "en": "customer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich begegne einem alten {{c1::Kollegen::der Kollege}}.",
+      "en": "I run into an old colleague.",
+      "focus": "Dativ · nach *begegnen* · mit Adjektiv",
+      "explanation": "*begegnen* takes the Dativ → *einem*; the adjective takes *-en* (*alten*). The noun *Kollege* also needs its n-ending: **Kollegen**. So all three words show the Dativ.",
+      "pattern": "einem + Adj-en + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Ich begegne einem alten Kollege.", "why": "The adjective ending does not replace the noun ending. *Kollege* still needs *-n*: *einem alten Kollegen*."},
+      "examples": [
+        {"de": "Gestern bin ich einem früheren Nachbarn begegnet.", "en": "Yesterday I ran into a former neighbour."},
+        {"de": "Im Zug saß ich neben einem netten Studenten.", "en": "On the train I sat next to a nice student."}
+      ],
+      "words": [{"de": "begegnen (+ Dat.)", "en": "to run into, to meet by chance"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Das ist die Tasche meines {{c1::Nachbarn::der Nachbar}}.",
+      "en": "That is my neighbour's bag.",
+      "focus": "Genitiv · nach *meines*",
+      "explanation": "*meines Nachbarn* says whose bag → Genitiv. The possessive article takes *-es* (*meines*), but the n-noun takes **-n**, not *-s*: **Nachbarn**.",
+      "pattern": "meines + Nomen-**n** (Gen. Sg.)",
+      "mistake": {"wrong": "Das ist die Tasche meines Nachbar.", "why": "In the Genitiv the n-noun cannot stay without an ending: *meines Nachbarn*. (A Genitiv *des Nachbars* exists as a rare variant, but *des Nachbarn* is the normal standard form.)"},
+      "examples": [
+        {"de": "Das ist das Zimmer meines Neffen.", "en": "That is my nephew's room."},
+        {"de": "Das ist das Büro unseres Assistenten.", "en": "That is our assistant's office."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich erinnere mich an einen {{c1::Studenten::der Student}} aus Spanien.",
+      "en": "I remember a student from Spain.",
+      "focus": "Akkusativ · nach *sich erinnern an*",
+      "explanation": "*sich erinnern an* + Akkusativ → *einen*. After the preposition the n-noun also changes: Student + -en → **Studenten**. *aus Spanien* adds where he is from.",
+      "pattern": "an + einen + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich erinnere mich an einen Student aus Spanien.", "why": "*an* + Akkusativ: the n-noun needs *-en* after *einen*: *an einen Studenten*."},
+      "examples": [
+        {"de": "Ich erinnere mich gut an den ersten Patienten.", "en": "I remember the first patient well."},
+        {"de": "Sie denkt oft an einen Jungen aus ihrer Klasse.", "en": "She often thinks about a boy from her class."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Der Lehrer fragt einen {{c1::Jungen::der Junge}}.",
+      "en": "The teacher asks a boy.",
+      "focus": "Akkusativ · nach *einen* · Kontrast zum Subjekt",
+      "explanation": "*Der Lehrer* is the subject and not an n-noun. The object of *fragen* is Akkusativ → *einen*, and *Junge* adds **-n**: **Jungen**. Compare: *Der Junge fragt einen Lehrer* (no endings on either noun).",
+      "pattern": "einen + Nomen-**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Der Lehrer fragt einen Junge.", "why": "As the object (Akkusativ), *Junge* needs *-n*: *einen Jungen*. Only the subject form is *ein Junge*."},
+      "examples": [
+        {"de": "Die Ärztin untersucht einen Jungen mit Fieber.", "en": "The doctor is examining a boy with a temperature."},
+        {"de": "Wir suchen einen Kollegen für das neue Team.", "en": "We are looking for a colleague for the new team."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das ist der Hund eines {{c1::Bauern::der Bauer}}.",
+      "en": "That is a farmer's dog.",
+      "focus": "Genitiv · Nomen auf *-er*",
+      "explanation": "*eines Bauern* says whose dog → Genitiv. Most nouns in *-er* are normal (*des Lehrers*), but *Bauer* is an n-noun and adds **-n**: **Bauern**. You must learn it as an exception.",
+      "pattern": "eines + Nomen-**n** (Gen. Sg.)",
+      "mistake": {"wrong": "Das ist der Hund eines Bauer.", "why": "The Genitiv cannot stay without an ending. *Bauer* is n-Deklination, so it needs *-n*: *eines Bauern*."},
+      "examples": [
+        {"de": "Das ist der Traktor eines Nachbarn.", "en": "That is a neighbour's tractor."},
+        {"de": "Das sind die Kühe eines Bauern aus dem Nachbardorf.", "en": "Those are the cows of a farmer from the next village."}
+      ],
+      "words": [{"de": "der Bauer (-n)", "en": "farmer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Kennst du den {{c1::Russen::der Russe}}?",
+      "en": "Do you know the Russian?",
+      "focus": "Akkusativ · Nationalität auf *-e*",
+      "explanation": "Masculine nationality nouns in *-e* (*Russe, Franzose, Türke, Chinese*) are n-Deklination. *kennen* + Akkusativ → *den*, and the noun adds **-n**: **Russen**.",
+      "pattern": "den + Nationalität-**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Kennst du den Russe?", "why": "Nationality nouns in *-e* add *-n* outside the Nominativ: *den Russen*."},
+      "examples": [
+        {"de": "Kennst du den Chinesen aus dem Sprachkurs?", "en": "Do you know the Chinese man from the language course?"},
+        {"de": "Wir haben einen Schweden in unserer WG.", "en": "We have a Swede in our flat share."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir gratulieren dem {{c1::Praktikanten::der Praktikant}}.",
+      "en": "We congratulate the intern.",
+      "focus": "Dativ · nach *gratulieren* · Nomen auf *-ant*",
+      "explanation": "*gratulieren* takes the Dativ (*jemandem gratulieren*) → *dem*. Nouns in *-ant* are n-Deklination, so the noun adds **-en**: **Praktikanten**.",
+      "pattern": "gratulieren + dem + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Wir gratulieren dem Praktikant.", "why": "*Praktikant* ends in *-ant*, an n-Deklination ending. After *dem* it must be *Praktikanten*."},
+      "examples": [
+        {"de": "Alle gratulieren dem Doktoranden zur Promotion.", "en": "Everyone congratulates the PhD student on his doctorate."},
+        {"de": "Wir danken dem Lieferanten für die schnelle Lieferung.", "en": "We thank the supplier for the fast delivery."}
+      ],
+      "words": [{"de": "gratulieren (+ Dat.)", "en": "to congratulate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich kenne diesen {{c1::Studenten::der Student}} gut.",
+      "en": "I know this student well.",
+      "focus": "Akkusativ · *dieser*-Wort",
+      "explanation": "Masculine nouns in *-ent* add **-en** in every form except the Nominativ singular. *kennen* + Akkusativ → *diesen* + **Studenten**. *gut* is an adverb and has no effect on the ending.",
+      "pattern": "diesen + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich kenne diesen Student gut.", "why": "*Student* is n-Deklination, so the Akkusativ is *diesen Studenten*, with *-en* on the noun as well."},
+      "examples": [
+        {"de": "Ich kenne diesen Präsidenten nur aus dem Fernsehen.", "en": "I only know this president from TV."},
+        {"de": "Wir kennen diesen Assistenten schon lange.", "en": "We have known this assistant for a long time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Wir haben mit dem {{c1::Kollegen::der Kollege}} gesprochen.",
+      "en": "We spoke with the colleague.",
+      "focus": "Dativ · nach *mit* · Perfekt",
+      "explanation": "*mit* always takes the Dativ: *der Kollege → dem* **Kollegen**. The tense (Perfekt here) does not change the case or the n-ending. *gesprochen* closes the Satzklammer.",
+      "pattern": "mit + dem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Wir haben mit dem Kollege gesprochen.", "why": "*Kollege* needs *-n* after *mit dem*: *mit dem Kollegen*."},
+      "examples": [
+        {"de": "Hast du schon mit dem Kunden telefoniert?", "en": "Have you already spoken to the customer on the phone?"},
+        {"de": "Sie ist mit dem Jungen zum Arzt gegangen.", "en": "She went to the doctor with the boy."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er hilft einem {{c1::Nachbarn::der Nachbar}}.",
+      "en": "He helps a neighbour.",
+      "focus": "Dativ · nach *einem* · Ausnahme ohne typische Endung",
+      "explanation": "*der Nachbar* is an n-noun even though it ends in a consonant and has no foreign suffix. *helfen* + Dativ → *einem*, and after *-ar* only **-n** is added: **Nachbarn**.",
+      "pattern": "einem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Er hilft einem Nachbar.", "why": "*Nachbar* belongs to the n-Deklination. Outside the Nominativ singular it is always *Nachbarn*."},
+      "examples": [
+        {"de": "Sie hilft einem Bauern bei der Ernte.", "en": "She is helping a farmer with the harvest."},
+        {"de": "Wir schenken einem Nachbarn unser altes Sofa.", "en": "We are giving our old sofa to a neighbour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Fragen Sie bitte den {{c1::Herrn::der Herr}} dort.",
+      "en": "Please ask the gentleman over there.",
+      "focus": "Akkusativ · Imperativ mit *Sie*",
+      "explanation": "*fragen* + Akkusativ → *den*. *Herr* is irregular inside the n-Deklination: singular forms add only *-n* (*den/dem/des* **Herrn**), the plural is *die Herren*.",
+      "pattern": "den + Herr**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Fragen Sie bitte den Herr dort.", "why": "*Herr* without an ending is only the Nominativ (*der Herr*). As the object it must be *den Herrn*."},
+      "examples": [
+        {"de": "Zeigen Sie dem Herrn bitte den Weg.", "en": "Please show the gentleman the way."},
+        {"de": "Das ist der Platz des Herrn am Fenster.", "en": "That is the seat of the gentleman by the window."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Der {{c1::Junge::der Junge}} spielt im Hof.",
+      "en": "The boy is playing in the yard.",
+      "focus": "Nominativ Singular · Subjekt",
+      "explanation": "*Der Junge* is the subject of *spielt* → Nominativ singular. This is the only form of an n-noun without the extra ending, so it stays **Junge**.",
+      "pattern": "der + Nomen (Nom. Sg., keine Endung)",
+      "mistake": {"wrong": "Der Jungen spielt im Hof.", "why": "The *-n* appears only outside the Nominativ singular. The subject is *der Junge*; *die Jungen* would be plural (*spielen*)."},
+      "examples": [
+        {"de": "Der Kollege kommt heute später.", "en": "The colleague is coming later today."},
+        {"de": "Der Patient wartet im Flur.", "en": "The patient is waiting in the corridor."}
+      ],
+      "words": [{"de": "der Hof (¨-e)", "en": "yard, courtyard"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich habe den {{c1::Jungen::der Junge}} gesehen.",
+      "en": "I saw the boy.",
+      "focus": "Akkusativ · Perfekt",
+      "explanation": "*sehen* takes the Akkusativ → *den*, and *Junge* adds **-n**: **Jungen**. Note that *den Jungen* can also be Dativ plural; here *sehen* and the singular meaning show the Akkusativ singular.",
+      "pattern": "den + Nomen-**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich habe den Junge gesehen.", "why": "In the Akkusativ the n-noun adds *-n*: *den Jungen*."},
+      "examples": [
+        {"de": "Hast du den Praktikanten heute schon gesehen?", "en": "Have you seen the intern today?"},
+        {"de": "Wir haben den Löwen im Zoo fotografiert.", "en": "We took a photo of the lion at the zoo."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Sie arbeitet als {{c1::Journalistin::der Journalist → feminin}}.",
+      "en": "She works as a journalist.",
+      "focus": "Femininum · *als* + Beruf",
+      "explanation": "The feminine form in *-in* is **not** n-Deklination: feminine nouns have no case endings in the singular (*die/der Journalistin*). After *als* the noun is in the same case as the subject *Sie* → Nominativ: **Journalistin**.",
+      "pattern": "als + Beruf-**in** (Nom., keine n-Endung)",
+      "mistake": {"wrong": "Sie arbeitet als Journalisten.", "why": "*als* + profession takes the case of the subject (Nominativ), and the woman is a *Journalistin*. The *-en* form belongs to the masculine noun outside the Nominativ."},
+      "examples": [
+        {"de": "Er arbeitet als Fotograf bei einer Zeitung.", "en": "He works as a photographer for a newspaper."},
+        {"de": "Meine Tante arbeitet als Polizistin in Köln.", "en": "My aunt works as a police officer in Cologne."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Der Name des {{c1::Präsidenten::der Präsident}} steht im Brief.",
+      "en": "The president's name is in the letter.",
+      "focus": "Genitiv · nach *des* · Nomen auf *-ent*",
+      "explanation": "*des Präsidenten* is a Genitiv attribute (whose name?). For n-nouns the Genitiv ending is **-en**, not *-s*: **Präsidenten**.",
+      "pattern": "des + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Der Name des Präsidents steht im Brief.", "why": "The Genitiv *-s* is for normal masculine nouns (*des Vaters*). n-nouns take *-en*: *des Präsidenten*."},
+      "examples": [
+        {"de": "Die Rede des Kandidaten war kurz.", "en": "The candidate's speech was short."},
+        {"de": "Das Büro des Dozenten ist im dritten Stock.", "en": "The lecturer's office is on the third floor."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Wir laden alle {{c1::Kunden::der Kunde → Plural}} ein.",
+      "en": "We're inviting all the customers.",
+      "focus": "Plural · nach *alle*",
+      "explanation": "n-nouns form the plural with **-(e)n** in every case: *die Kunden, den Kunden, der Kunden*. So the plural looks like the singular forms outside the Nominativ. *einladen* is separable: *ein* goes to the end.",
+      "pattern": "alle + Nomen-**n** (Pl.)",
+      "mistake": {"wrong": "Wir laden alle Kunde ein.", "why": "*alle* needs a plural noun. The plural of *der Kunde* is *die Kunden*."},
+      "examples": [
+        {"de": "Alle Studenten müssen sich bis Freitag anmelden.", "en": "All students must register by Friday."},
+        {"de": "Wir begrüßen die Touristen am Bahnhof.", "en": "We welcome the tourists at the station."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Er ist ein {{c1::Experte::der Experte}} für Datenschutz.",
+      "en": "He is an expert on data protection.",
+      "focus": "Nominativ nach *sein*",
+      "explanation": "After *sein* the noun is in the Nominativ (it describes the subject). So the n-noun keeps its base form: *ein* **Experte**. The Akkusativ would be *einen Experten* (*Wir suchen einen Experten.*).",
+      "pattern": "sein + ein + Nomen (Nom. Sg., keine Endung)",
+      "mistake": {"wrong": "Er ist ein Experten für Datenschutz.", "why": "*sein* takes the Nominativ, and the Nominativ singular of an n-noun has no *-n*: *ein Experte*."},
+      "examples": [
+        {"de": "Sein Vater ist ein bekannter Architekt.", "en": "His father is a well-known architect."},
+        {"de": "Mein Bruder ist ein echter Held.", "en": "My brother is a real hero."}
+      ],
+      "words": [{"de": "der Experte (-n)", "en": "expert"}, {"de": "der Datenschutz", "en": "data protection"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich vertraue diesem {{c1::Menschen::der Mensch}} nicht.",
+      "en": "I don't trust this person.",
+      "focus": "Dativ · nach *vertrauen*",
+      "explanation": "*vertrauen* takes the Dativ → *diesem*. *der Mensch* adds **-en** everywhere except the Nominativ singular: **Menschen**. It has no typical n-ending, so you must learn it.",
+      "pattern": "diesem + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Ich vertraue diesem Mensch nicht.", "why": "*Mensch* is n-Deklination: the Dativ is *diesem Menschen*."},
+      "examples": [
+        {"de": "Ich vertraue diesem Fotografen voll und ganz.", "en": "I trust this photographer completely."},
+        {"de": "Sie glaubt dem Zeugen nicht.", "en": "She doesn't believe the witness."}
+      ],
+      "words": [{"de": "vertrauen (+ Dat.)", "en": "to trust"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Der Bericht des {{c1::Polizisten::der Polizist}} war klar.",
+      "en": "The police officer's report was clear.",
+      "focus": "Genitiv · Nomen auf *-ist*",
+      "explanation": "Nouns in *-ist* follow the n-Deklination. *des Polizisten* is a Genitiv attribute (whose report?), so the noun takes **-en**, not *-s*: **Polizisten**.",
+      "pattern": "des + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Der Bericht des Polizists war klar.", "why": "*-s* is the normal Genitiv ending, but n-nouns take *-en*: *des Polizisten*."},
+      "examples": [
+        {"de": "Die Fotos des Journalisten waren beeindruckend.", "en": "The journalist's photos were impressive."},
+        {"de": "Das Konzert des Pianisten war ausverkauft.", "en": "The pianist's concert was sold out."}
+      ],
+      "words": [{"de": "der Bericht (-e)", "en": "report"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie hat einen {{c1::Elefanten::der Elefant}} gesehen.",
+      "en": "She saw an elephant.",
+      "focus": "Akkusativ · Tier auf *-ant*",
+      "explanation": "Animals can be n-nouns too: *der Elefant, der Löwe, der Affe, der Bär*. *sehen* + Akkusativ → *einen*, and *Elefant* adds **-en**: **Elefanten**.",
+      "pattern": "einen + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Sie hat einen Elefant gesehen.", "why": "*Elefant* is n-Deklination. As the Akkusativ object it must be *einen Elefanten*."},
+      "examples": [
+        {"de": "Im Wald haben wir einen Hasen gesehen.", "en": "We saw a hare in the forest."},
+        {"de": "Das Kind füttert den Affen mit einer Banane.", "en": "The child is feeding the monkey a banana."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Das Herz des {{c1::Patienten::der Patient}} schlägt normal.",
+      "en": "The patient's heart is beating normally.",
+      "focus": "Genitiv · medizinisches Wort auf *-ent*",
+      "explanation": "*der Patient* is a typical n-noun from medicine. *des Patienten* is a Genitiv attribute (whose heart?) → **-en**, no *-s*: **Patienten**.",
+      "pattern": "des + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Das Herz des Patients schlägt normal.", "why": "n-nouns do not take the Genitiv *-s*. Correct: *des Patienten*."},
+      "examples": [
+        {"de": "Der Blutdruck des Patienten ist zu hoch.", "en": "The patient's blood pressure is too high."},
+        {"de": "Die Familie des Patienten wartet draußen.", "en": "The patient's family is waiting outside."}
+      ],
+      "words": [{"de": "der Patient (-en)", "en": "patient"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Wir haben einen Brief an {{c1::Herrn::der Herr}} Schneider geschickt.",
+      "en": "We sent a letter to Mr Schneider.",
+      "focus": "Akkusativ · *Herr* + Nachname",
+      "explanation": "*an* + Akkusativ (a direction: to whom the letter goes). With a surname there is no article, but *Herr* still takes its n-ending: **Herrn** Schneider. This form is also used in addresses on envelopes: *Herrn Max Schneider*.",
+      "pattern": "an + Herr**n** + Nachname (Akk.)",
+      "mistake": {"wrong": "Wir haben einen Brief an Herr Schneider geschickt.", "why": "Even without an article, *Herr* needs *-n* outside the Nominativ: *an Herrn Schneider*."},
+      "examples": [
+        {"de": "Ich habe gestern mit Herrn Yilmaz telefoniert.", "en": "I spoke to Mr Yilmaz on the phone yesterday."},
+        {"de": "Bitte geben Sie die Unterlagen Herrn Becker.", "en": "Please give the documents to Mr Becker."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Schreibweise des {{c1::Namens::der Name}} ist ungewöhnlich.",
+      "en": "The spelling of the name is unusual.",
+      "focus": "Genitiv · Sondergruppe",
+      "explanation": "*Name* belongs to a small special group (*Name, Gedanke, Buchstabe, Glaube*). It adds *-n* like the other n-nouns, but in the Genitiv it adds **-ns**: *des* **Namens**.",
+      "pattern": "des + Name**ns** (Gen. Sg.)",
+      "mistake": {"wrong": "Die Schreibweise des Namen ist ungewöhnlich.", "why": "*Name* is special: its Genitiv singular ends in *-ns*: *des Namens*."},
+      "examples": [
+        {"de": "Die Bedeutung des Namens ist nicht klar.", "en": "The meaning of the name is not clear."},
+        {"de": "Die Aussprache des Buchstabens ist schwierig.", "en": "The pronunciation of the letter is difficult."}
+      ],
+      "words": [{"de": "die Schreibweise (-n)", "en": "spelling"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich kann mich an den {{c1::Gedanken::der Gedanke}} nicht gewöhnen.",
+      "en": "I can't get used to the idea.",
+      "focus": "Akkusativ · nach *sich gewöhnen an*",
+      "explanation": "*sich gewöhnen an* + Akkusativ → *den*. *Gedanke* (thought, idea) is not a person, but it adds **-n** like *Name*: **Gedanken**. Its Genitiv is *des Gedankens*.",
+      "pattern": "an + den + Gedanke**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Ich kann mich an den Gedanke nicht gewöhnen.", "why": "*Gedanke* belongs to the *Name*-group and takes *-n* in the Akkusativ: *an den Gedanken*."},
+      "examples": [
+        {"de": "Sie mag den Gedanken nicht, allein zu wohnen.", "en": "She doesn't like the idea of living alone."},
+        {"de": "Er hat den Gedanken an eine Weltreise nie aufgegeben.", "en": "He never gave up the idea of a trip around the world."}
+      ],
+      "words": [{"de": "sich gewöhnen an (+ Akk.)", "en": "to get used to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Meine Schwester hat einen {{c1::Franzosen::der Franzose}} geheiratet.",
+      "en": "My sister married a Frenchman.",
+      "focus": "Akkusativ · Nationalität",
+      "explanation": "*heiraten* takes an Akkusativ object → *einen*. *Franzose* is a masculine nationality noun in *-e*, so it adds **-n**: **Franzosen**. The feminine form *die Französin* has no ending.",
+      "pattern": "einen + Nationalität-**n** (Akk. Sg.)",
+      "mistake": {"wrong": "Meine Schwester hat einen Franzose geheiratet.", "why": "Nationality nouns in *-e* are n-Deklination: *einen Franzosen*."},
+      "examples": [
+        {"de": "Er hat sich in einen Griechen verliebt.", "en": "He fell in love with a Greek man."},
+        {"de": "Wir haben im Urlaub einen Polen kennengelernt.", "en": "We met a Polish man on holiday."}
+      ],
+      "words": [{"de": "heiraten", "en": "to marry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Partei unterstützt einen jungen {{c1::Kandidaten::der Kandidat}}.",
+      "en": "The party is supporting a young candidate.",
+      "focus": "Akkusativ · Nomen auf *-at* · mit Adjektiv",
+      "explanation": "*unterstützen* takes the Akkusativ → *einen jungen*. Nouns in *-at* for people (*Kandidat, Soldat, Diplomat*) are n-Deklination, so the noun adds **-en**: **Kandidaten**.",
+      "pattern": "einen + Adj-en + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Die Partei unterstützt einen jungen Kandidat.", "why": "*Kandidat* is n-Deklination. The adjective ending does not replace the noun ending: *einen jungen Kandidaten*."},
+      "examples": [
+        {"de": "Die Firma sucht einen erfahrenen Biologen.", "en": "The company is looking for an experienced biologist."},
+        {"de": "Die Polizei sucht einen jungen Zeugen.", "en": "The police are looking for a young witness."}
+      ],
+      "words": [{"de": "unterstützen", "en": "to support"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Für die Hochzeit haben wir einen {{c1::Fotografen::der Fotograf}} gebucht.",
+      "en": "We booked a photographer for the wedding.",
+      "focus": "Akkusativ · Nomen auf *-graf*",
+      "explanation": "*buchen* takes the Akkusativ → *einen*. Nouns in *-graf* (*Fotograf, Geograf*) are n-Deklination, so the noun adds **-en**: **Fotografen**. *Für die Hochzeit* fills the Vorfeld, so *haben* comes before *wir*.",
+      "pattern": "einen + Nomen-**en** (Akk. Sg.)",
+      "mistake": {"wrong": "Für die Hochzeit haben wir einen Fotograf gebucht.", "why": "*Fotograf* ends in *-graf*, an n-Deklination ending: *einen Fotografen*."},
+      "examples": [
+        {"de": "Für das Interview haben wir einen Journalisten eingeladen.", "en": "We invited a journalist for the interview."},
+        {"de": "Die Zeitung hat einen Fotografen nach Kiew geschickt.", "en": "The newspaper sent a photographer to Kyiv."}
+      ],
+      "words": [{"de": "die Hochzeit (-en)", "en": "wedding"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Reiseleiter erklärt den {{c1::Touristen::der Tourist → Plural}} die Altstadt.",
+      "en": "The tour guide explains the old town to the tourists.",
+      "focus": "Dativ Plural · Empfänger nach *erklären*",
+      "explanation": "With *erklären* the person is in the Dativ and the thing in the Akkusativ (*die Altstadt*). Dativ plural → *den*. The plural of an n-noun already ends in *-en*, so no extra Dativ-plural *-n* is added: **Touristen**. *Der Reiseleiter* is a normal noun and the subject.",
+      "pattern": "den + Nomen-**en** + Akk. (Dat. Pl.)",
+      "mistake": {"wrong": "Der Reiseleiter erklärt den Tourist die Altstadt.", "why": "*den* in the Dativ is plural, and the plural of *Tourist* is *Touristen*. *Tourist* without ending is only the Nominativ singular."},
+      "examples": [
+        {"de": "Die Professorin erklärt den Studenten die Aufgabe.", "en": "The professor explains the task to the students."},
+        {"de": "Wir schicken den Kunden einen Newsletter.", "en": "We send the customers a newsletter."}
+      ],
+      "words": [{"de": "der Reiseleiter (-)", "en": "tour guide"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Film erzählt die Geschichte eines jungen {{c1::Helden::der Held}}.",
+      "en": "The film tells the story of a young hero.",
+      "focus": "Genitiv · einsilbiges Nomen",
+      "explanation": "*eines jungen Helden* is a Genitiv attribute (whose story?). *Held* is a short n-noun without a typical ending, so you must learn it. Genitiv singular → **-en**, no *-es*: **Helden**.",
+      "pattern": "eines + Adj-en + Nomen-**en** (Gen. Sg.)",
+      "mistake": {"wrong": "Der Film erzählt die Geschichte eines jungen Heldes.", "why": "*Held* is n-Deklination, so the Genitiv is *eines Helden*, not *Heldes*."},
+      "examples": [
+        {"de": "Das Buch beschreibt das Leben eines armen Bauern.", "en": "The book describes the life of a poor farmer."},
+        {"de": "Die Ausstellung zeigt die Bilder eines bekannten Fotografen.", "en": "The exhibition shows the pictures of a well-known photographer."}
+      ],
+      "words": [{"de": "der Held (-en)", "en": "hero"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Im Zoo haben die Kinder lange vor dem {{c1::Löwen::der Löwe}} gestanden.",
+      "en": "At the zoo the children stood in front of the lion for a long time.",
+      "focus": "Dativ · *vor* + Ort (wo?) · Tier auf *-e*",
+      "explanation": "*stehen* is a location (*wo?*), so the Wechselpräposition *vor* takes the Dativ → *dem*. *Löwe* is a masculine animal noun in *-e* → n-Deklination: Löwe + -n → **Löwen**.",
+      "pattern": "vor + dem + Nomen-**n** (Dat. Sg.)",
+      "mistake": {"wrong": "Im Zoo haben die Kinder lange vor dem Löwe gestanden.", "why": "Masculine animals in *-e* (*Löwe, Affe, Hase*) are n-Deklination: *vor dem Löwen*."},
+      "examples": [
+        {"de": "Das Mädchen hat keine Angst vor dem Affen.", "en": "The girl isn't afraid of the monkey."},
+        {"de": "Die Besucher machen vor dem Bären Fotos.", "en": "The visitors are taking photos in front of the bear."}
+      ],
+      "words": [{"de": "der Löwe (-n)", "en": "lion"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich habe am {{c1::Automaten::der Automat}} ein Ticket gekauft.",
+      "en": "I bought a ticket at the machine.",
+      "focus": "Dativ · *an* + Ort · Nicht-Person",
+      "explanation": "*am* = *an dem* (location, *wo?*) → Dativ. *Automat* is one of the few n-nouns that are things, not people or animals: Automat + -en → **Automaten**.",
+      "pattern": "am (= an dem) + Nomen-**en** (Dat. Sg.)",
+      "mistake": {"wrong": "Ich habe am Automat ein Ticket gekauft.", "why": "*Automat* follows the n-Deklination, although it is a thing: *am Automaten*."},
+      "examples": [
+        {"de": "Er holt Geld am Automaten.", "en": "He is getting money from the cash machine."},
+        {"de": "Der Kaffee aus dem Automaten schmeckt nicht.", "en": "The coffee from the machine doesn't taste good."}
+      ],
+      "words": [{"de": "der Automat (-en)", "en": "machine (ticket/vending/cash machine)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Morgen rufe ich den {{c1::Arzt::der Arzt}} an.",
+      "en": "I'll call the doctor tomorrow.",
+      "focus": "Akkusativ maskulin · Nomen ohne typische n-Endung",
+      "explanation": "*anrufen* takes the Akkusativ → *den*. But *Arzt* is **not** an n-noun: it has none of the n-endings, so only the article shows the case: *den* **Arzt**. Its Genitiv is *des Arztes*.",
+      "pattern": "den + Nomen (Akk. Sg., keine n-Endung)",
+      "mistake": {"wrong": "Morgen rufe ich den Arzten an.", "why": "Not every masculine person noun is n-Deklination. *Arzt, Lehrer, Freund, Chef* are normal nouns: *den Arzt*."},
+      "examples": [
+        {"de": "Ich frage den Chef nach einem freien Tag.", "en": "I'll ask the boss for a day off."},
+        {"de": "Wir treffen den Lehrer morgen nach dem Unterricht.", "en": "We are meeting the teacher tomorrow after class."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Meine Damen und {{c1::Herren::der Herr → Plural}}, herzlich willkommen!",
+      "en": "Ladies and gentlemen, welcome!",
+      "focus": "Plural · feste Anrede",
+      "explanation": "*Meine Damen und Herren* addresses several men and women, so *Herr* is plural. Unlike the singular forms (*Herrn*), the plural adds **-en**: **Herren**.",
+      "pattern": "Herr → Sg. Herr**n** / Pl. Herr**en**",
+      "mistake": {"wrong": "Meine Damen und Herrn, herzlich willkommen!", "why": "*Herrn* is the singular form outside the Nominativ (*den/dem Herrn*). The plural is *Herren*."},
+      "examples": [
+        {"de": "Sehr geehrte Damen und Herren, vielen Dank für Ihre Geduld.", "en": "Ladies and gentlemen, thank you for your patience."},
+        {"de": "Die beiden Herren warten an der Rezeption.", "en": "The two gentlemen are waiting at reception."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about which nouns belong to the n-Deklination.",
+      "prompt": "Which nouns follow the n-Deklination?",
+      "answer": "Only **masculine** nouns: (a) nouns in **-e** for people, animals and nationalities (*Junge, Kollege, Löwe, Russe*); (b) foreign nouns in **-ant, -ent, -ist, -at, -oge, -graf** (*Praktikant, Student, Polizist, Kandidat, Biologe, Fotograf*); (c) some single words (*Mensch, Herr, Nachbar, Bauer, Held, Automat*) and the *Name*-group (*Name, Gedanke, Buchstabe*).",
+      "explanation": "The ending of the Nominativ often tells you the group, so learn the typical suffixes. Words in group (c) have no clear sign and must be learned one by one. Feminine forms (*die Kollegin*) and normal masculine nouns (*der Lehrer, der Arzt*) are never n-Deklination.",
+      "examples": [
+        {"de": "Wir warten auf den Mechaniker und den Elektriker.", "en": "We are waiting for the mechanic and the electrician."},
+        {"de": "Wir warten noch auf den Architekten.", "en": "We are still waiting for the architect."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the endings.",
+      "prompt": "In which forms does an n-noun take -(e)n, and when is it -n or -en?",
+      "answer": "In **all forms except the Nominativ singular**: Akkusativ, Dativ, Genitiv singular and the whole plural. **-n** after *-e, -er, -ar* (*Kollegen, Bauern, Nachbarn*); **-en** after other consonants (*Studenten, Menschen*). *Herr*: **Herrn** (Sg.), **Herren** (Pl.).",
+      "explanation": "The n-ending replaces the normal Genitiv *-s* and the Dativ-plural *-n*. Because the singular forms and the plural look alike (*den Studenten*), the article and the verb tell you whether one or more people are meant.",
+      "examples": [
+        {"de": "Der Kollege bringt heute Kuchen mit.", "en": "The colleague is bringing cake today."},
+        {"de": "Wir danken dem Kollegen für den Kuchen.", "en": "We thank the colleague for the cake."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the special group.",
+      "prompt": "What is special about *der Name, der Gedanke* and *der Buchstabe*?",
+      "answer": "They add **-n** in the Akkusativ, Dativ and plural like n-nouns, but their Genitiv singular ends in **-ns**: *des Namens, des Gedankens, des Buchstabens*.",
+      "explanation": "This mixed pattern combines the n-ending with the normal Genitiv *-s*. *der Glaube* and *der Wille* follow it too. Do not use *-ns* for person nouns: *des Kollegen*, not *des Kollegens*.",
+      "examples": [
+        {"de": "Er schreibt den Buchstaben sehr groß.", "en": "He writes the letter very large."},
+        {"de": "Trotz des Namens ist das Restaurant nicht italienisch.", "en": "Despite its name, the restaurant is not Italian."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two forms.",
+      "prompt": "Why is it *dem Studenten* but *der Studentin*?",
+      "answer": "The n-Deklination exists only for **masculine** nouns. Feminine nouns never have case endings in the singular, so *die Studentin* only changes its article: *der Studentin* (Dativ).",
+      "explanation": "*-in* always makes a noun feminine. The feminine plural *-innen* is a plural ending, not an n-Deklination ending. So check the gender first: *der Kunde → dem Kunden*, but *die Kundin → der Kundin*.",
+      "examples": [
+        {"de": "Ich gebe der Praktikantin den Schlüssel.", "en": "I give the intern (female) the key."},
+        {"de": "Ich gebe dem Praktikanten den Ausweis.", "en": "I give the intern (male) the ID card."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct form of the noun.",
+      "prompt": "Hast du schon mit dem ___ gesprochen?",
+      "options": ["Architekt", "Architekten", "Architektes"],
+      "correct": "Architekten",
+      "answer": "Hast du schon mit dem Architekten gesprochen?",
+      "explanation": "*mit* takes the Dativ, and *Architekt* is n-Deklination: *dem Architekten*. *Architekt* is only the Nominativ singular, and *-es* is a Genitiv ending of normal nouns."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form of the noun.",
+      "prompt": "Der ___ hat mir einen guten Tipp gegeben.",
+      "options": ["Kollege", "Kollegen", "Kollegem"],
+      "correct": "Kollege",
+      "answer": "Der Kollege hat mir einen guten Tipp gegeben.",
+      "explanation": "*Der Kollege* is the subject → Nominativ singular, the only form without *-n*. *Kollegen* would be Akkusativ/Dativ/Genitiv or plural (with a plural verb), and *Kollegem* does not exist."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct Genitiv form.",
+      "prompt": "Kennst du die Bedeutung deines ___?",
+      "options": ["Namen", "Namens", "Name"],
+      "correct": "Namens",
+      "answer": "Kennst du die Bedeutung deines Namens?",
+      "explanation": "*deines …* is Genitiv (the meaning of your name). *Name* belongs to the special group with Genitiv *-ns*: *deines Namens*. *Namen* is Akkusativ/Dativ or plural, and *Name* is the Nominativ."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe gestern einen netten Mensch kennengelernt.",
+      "answer": "Ich habe gestern einen netten Menschen kennengelernt.",
+      "explanation": "*kennenlernen* takes the Akkusativ. *Mensch* is n-Deklination, so the noun needs *-en* after *einen netten*: *einen netten Menschen*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Ärztin hat lange mit dem Patient gesprochen.",
+      "answer": "Die Ärztin hat lange mit dem Patienten gesprochen.",
+      "explanation": "*mit* + Dativ, and *Patient* (ending *-ent*) is n-Deklination: *mit dem Patienten*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Polizisten hat uns den Weg gezeigt.",
+      "answer": "Der Polizist hat uns den Weg gezeigt.",
+      "explanation": "*Der Polizist* is the subject → Nominativ singular, which has no *-en*. The ending appears only in the other cases and in the plural."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace *die Studentin* with *der Student*. Adjust the article and the noun.",
+      "prompt": "Ich helfe der Studentin.",
+      "answer": "Ich helfe dem Studenten.",
+      "explanation": "*helfen* takes the Dativ. Feminine Dativ is *der Studentin* (no noun ending); masculine Dativ is *dem* + n-ending: *dem Studenten*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Make the subject plural. Change the verb if needed.",
+      "prompt": "Der Kunde ist zufrieden.",
+      "answer": "Die Kunden sind zufrieden.",
+      "explanation": "The plural of *der Kunde* is *die Kunden* in all cases. The verb agrees with the plural subject: *ist → sind*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace *der Lehrer* with *der Kollege*. Adjust the noun.",
+      "prompt": "Ich spreche mit dem Lehrer.",
+      "answer": "Ich spreche mit dem Kollegen.",
+      "explanation": "*Lehrer* is a normal noun, so the Dativ singular has no noun ending: *dem Lehrer*. *Kollege* is n-Deklination and needs *-n*: *dem Kollegen*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "dem / ein Paket / Nachbarn / ich / bringe",
+      "answer": "Ich bringe dem Nachbarn ein Paket.",
+      "explanation": "The verb *bringe* is in position 2. The Dativ object (*dem Nachbarn*, with n-ending) comes before the Akkusativ noun *ein Paket*, the normal order for two noun objects."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Idee",
+      "prompt": "die Idee / des / war / Assistenten / gut",
+      "answer": "Die Idee des Assistenten war gut.",
+      "explanation": "The Genitiv attribute *des Assistenten* follows the noun it describes (*die Idee*). Together they form the subject, so *war* follows in position 2. *Assistent* takes the n-ending *-en* in the Genitiv."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join with *weil* and replace the second *der Kollege* with a pronoun.",
+      "prompt": "Ich danke dem Kollegen. Der Kollege hat mir geholfen.",
+      "answer": "Ich danke dem Kollegen, weil er mir geholfen hat.",
+      "explanation": "*danken* takes the Dativ: *dem Kollegen* (n-ending). In the *weil*-clause the subject *der Kollege* becomes *er* (Nominativ, no ending), and the finite verb *hat* goes to the end."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence with a Genitiv attribute.",
+      "prompt": "Das ist das Fahrrad. Das Fahrrad gehört einem Studenten.",
+      "answer": "Das ist das Fahrrad eines Studenten.",
+      "explanation": "The owner becomes a Genitiv attribute after the noun: *einem Studenten* (Dativ) → *eines Studenten* (Genitiv). The article changes; the n-noun keeps *-en*, because Dativ and Genitiv singular have the same noun form."
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "topic_id": "h21-reflexiv-vertiefung",
+  "level": "B2",
+  "title_de": "Reflexive Verben Vertiefung: Dativ-Reflexiv, reziprok, sich lassen",
+  "title_en": "Reflexive verbs in depth: Dativ reflexive, reciprocal sich/einander, sich lassen",
+  "rule": {
+    "summary": "The reflexive pronoun is **Akkusativ** when it is the only object (*Ich wasche mich*) and **Dativ** when the clause already has an Akkusativ object (*Ich wasche mir die Hände*, *Ich kaufe mir ein Auto*). Some verbs are always Dativ-reflexive (*sich etwas merken, leisten, wünschen, vorstellen, überlegen*). The difference is only visible for *ich* (*mich/mir*) and *du* (*dich/dir*). With a plural subject *sich* can also mean *each other*; *einander* and *sich gegenseitig* make this clear, and after a preposition you use *miteinander, voneinander* etc. **sich lassen** + infinitive is a passive alternative (*Das lässt sich erklären* = *Das kann erklärt werden*). In the Mittelfeld the reflexive pronoun stands near the front.",
+    "table": "| | Akkusativ | Dativ |\n|---|---|---|\n| ich | **mich** | **mir** |\n| du | **dich** | **dir** |\n| er/sie/es, sie, Sie | sich | sich |\n| wir | uns | uns |\n| ihr | euch | euch |\n| **Gebrauch** | einziges Objekt: *Ich wasche mich.* *Ich stelle mich vor.* | + Akk.-Objekt: *Ich wasche mir die Hände.* *Ich stelle mir das vor.* |\n| **immer Dativ** | | *sich etwas merken, leisten, wünschen, überlegen, ansehen, aneignen, abgewöhnen, zutrauen, einbilden; sich Sorgen machen; sich einer Sache bewusst sein* |\n| **reziprok** | *Sie kennen sich / einander.* *Sie helfen sich gegenseitig.* | Präp. + einander: *miteinander, voneinander, aufeinander, füreinander* |\n| **sich lassen** | *Das lässt sich leicht erklären.* (= kann erklärt werden) | Perfekt: *Das hat sich nicht klären lassen.* |",
+    "steps": [
+      "Check whether the clause has another Akkusativ object (a noun, a pronoun such as *es/das*, or a *dass*-/*zu*-clause). Yes → reflexive pronoun in the **Dativ**; no → **Akkusativ**.",
+      "Learn the verbs that are always Dativ-reflexive and the pairs that change meaning: *sich vorstellen* (Akk. = introduce oneself) vs. *sich etwas vorstellen* (Dat. = imagine); *sich trauen* (Akk. = dare) vs. *sich etwas zutrauen* (Dat.).",
+      "Match the pronoun to the subject: *ich → mich/mir, du → dich/dir, Sie → sich*. In a *zu*-infinitive the pronoun refers to the subject of the main clause (*Ich versuche, mir … abzugewöhnen*).",
+      "Reciprocal meaning (plural subject, *each other*): *sich*, clearer *sich gegenseitig* or formal *einander*; after a preposition always one word: *mit + einander → miteinander*. Never *sich einander*.",
+      "Passive alternative: subject (= the thing affected) + **lassen** + **sich** + infinitive. Perfekt: *hat sich … + infinitive + lassen*. Causative *lassen* (have something done): Akk. *Ich lasse mich impfen*, Dat. + object *Ich lasse mir die Haare schneiden*.",
+      "Position: after the finite verb (or the conjunction). A pronoun subject comes first (*hat er sich*); a noun subject can come before or after (*hat sich der Lehrer / hat der Lehrer sich*); two pronouns: Akk. before Dat. (*es mir*)."
+    ],
+    "pitfalls": [
+      "Akkusativ instead of Dativ before another object: ✗ *Ich kann mich das vorstellen.* → ✓ *Ich kann mir das vorstellen.* ✗ *Merk dich die Nummer!* → ✓ *Merk dir die Nummer!*",
+      "Possessive instead of Dativ with body parts: *Ich habe meine Hand verletzt* is possible, but the normal form is ✓ *Ich habe mir die Hand verletzt.*",
+      "*mit sich* for *with each other*: ✗ *Sie sprechen nicht mehr mit sich.* → ✓ *Sie sprechen nicht mehr miteinander.* And ✗ *sich einander* → ✓ *sich gegenseitig* or *einander*.",
+      "Wrong pronoun order: ✗ *Gestern hat sich er entschuldigt.* → ✓ *Gestern hat er sich entschuldigt.*",
+      "Partizip II after *sich lassen*: ✗ *Das hat sich nicht klären gelassen.* → ✓ *Das hat sich nicht klären lassen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Bevor ich das Labor betrete, binde ich {{c1::mir::ich}} die Haare zusammen.",
+      "en": "Before I enter the lab, I tie my hair back.",
+      "focus": "Körperteil als Akkusativobjekt",
+      "explanation": "*zusammenbinden* already has an Akkusativ object: *die Haare*. When you do something to your own body part, the person is in the Dativ: *ich* → **mir**. German uses the definite article (*die Haare*), not *meine Haare*, because the Dativ already shows whose hair it is.",
+      "pattern": "Verb + **mir/dir** (Dat.) + *der/die/das* + Körperteil (Akk.)",
+      "mistake": {"wrong": "Bevor ich das Labor betrete, binde ich mich die Haare zusammen.", "why": "*die Haare* is the Akkusativ object, and the verb cannot take a second Akkusativ. The reflexive pronoun must be Dativ: *mir*."},
+      "examples": [
+        {"de": "Vor dem Essen wäschst du dir bitte die Hände.", "en": "Please wash your hands before eating."},
+        {"de": "Ich putze mir nach jeder Mahlzeit die Zähne.", "en": "I brush my teeth after every meal."}
+      ],
+      "words": [{"de": "zusammenbinden", "en": "to tie back, tie together"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich habe {{c1::mir::ich}} beim Fußballspielen das Handgelenk gebrochen.",
+      "en": "I broke my wrist playing football.",
+      "focus": "Körperteil · Perfekt",
+      "explanation": "*das Handgelenk* is the Akkusativ object of *brechen*, so the person affected is in the Dativ: *ich* → **mir**. Like every reflexive construction, it forms the Perfekt with *haben*, even though *brechen* without an object (*Das Eis ist gebrochen*) takes *sein*.",
+      "pattern": "haben + **mir** (Dat.) + Körperteil (Akk.) + Partizip II",
+      "mistake": {"wrong": "Ich bin mir beim Fußballspielen das Handgelenk gebrochen.", "why": "With an Akkusativ object *brechen* is transitive and forms the Perfekt with *haben*: *Ich habe mir … gebrochen*."},
+      "examples": [
+        {"de": "Sie hat sich beim Joggen den Knöchel verstaucht.", "en": "She sprained her ankle while jogging."},
+        {"de": "Hast du dir beim Umzug den Rücken verrenkt?", "en": "Did you put your back out during the move?"}
+      ],
+      "words": [{"de": "das Handgelenk", "en": "wrist"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Kauf {{c1::dir::du}} doch endlich einen vernünftigen Bürostuhl, statt ständig über Rückenschmerzen zu klagen!",
+      "en": "Just buy yourself a decent office chair instead of constantly complaining about back pain!",
+      "focus": "Nutznießer = Subjekt · Imperativ",
+      "explanation": "*kaufen* has the Akkusativ object *einen Bürostuhl*. The person who benefits is added in the Dativ; if it is the subject itself, it is a Dativ reflexive. In the *du*-imperative the hidden subject is *du* → **dir**.",
+      "pattern": "Imperativ + **dir** (Dat.) + Akk.-Objekt",
+      "mistake": {"wrong": "Kauf dich doch endlich einen vernünftigen Bürostuhl, statt ständig über Rückenschmerzen zu klagen!", "why": "*dich* is Akkusativ, but *einen Bürostuhl* already fills the Akkusativ slot. The person you buy something for is Dativ: *dir*."},
+      "examples": [
+        {"de": "Gönn dir nach der Prüfung ein paar freie Tage!", "en": "Treat yourself to a few days off after the exam!"},
+        {"de": "Nimm dir ruhig noch ein Stück Kuchen.", "en": "Go ahead and help yourself to another piece of cake."}
+      ],
+      "words": [{"de": "vernünftig", "en": "decent, sensible"}],
+      "production_cue": "(du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ehrlich gesagt kann ich {{c1::mir::ich}} ein Leben ohne Internet kaum noch vorstellen.",
+      "en": "To be honest, I can hardly imagine a life without the internet any more.",
+      "focus": "*vorstellen* · Bedeutung *imagine*",
+      "explanation": "*sich etwas vorstellen* (*to imagine*) has a Dativ reflexive, because the thing imagined is the Akkusativ object (*ein Leben ohne Internet*). *ich* → **mir**. The prefix *vor* is joined to the infinitive at the end: *vorstellen*.",
+      "pattern": "sich (Dat.) + etwas (Akk.) + vorstellen",
+      "mistake": {"wrong": "Ehrlich gesagt kann ich mich ein Leben ohne Internet kaum noch vorstellen.", "why": "*mich vorstellen* means *to introduce myself*. For *imagine*, the imagined thing is Akkusativ and the reflexive pronoun is Dativ: *mir*."},
+      "examples": [
+        {"de": "Kannst du dir vorstellen, ein paar Jahre im Ausland zu arbeiten?", "en": "Can you imagine working abroad for a few years?"},
+        {"de": "Ich kann mir gut vorstellen, dass das Projekt länger dauert.", "en": "I can easily imagine that the project will take longer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Darf ich {{c1::mich::ich}} kurz vorstellen? Ich leite das neue Forschungsprojekt.",
+      "en": "May I briefly introduce myself? I'm leading the new research project.",
+      "focus": "*vorstellen* · Bedeutung *introduce*",
+      "explanation": "*sich vorstellen* without another Akkusativ object means *to introduce oneself* (also *to attend an interview*). The person is the only object → Akkusativ **mich**. Compare *Ich stelle mir das vor* (Dativ, *I imagine that*).",
+      "pattern": "sich (Akk.) vorstellen = *introduce oneself*",
+      "mistake": {"wrong": "Darf ich mir kurz vorstellen? Ich leite das neue Forschungsprojekt.", "why": "*mir* is only correct with an Akkusativ object (*mir etwas vorstellen* = imagine something). To introduce yourself you are the Akkusativ object: *mich*."},
+      "examples": [
+        {"de": "Morgen stellst du dich beim Personalchef vor.", "en": "Tomorrow you have your interview with the head of HR."},
+        {"de": "Ich habe mich letzte Woche bei drei Firmen vorgestellt.", "en": "Last week I had interviews at three companies."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die neue PIN muss ich {{c1::mir::ich}} unbedingt merken, sonst wird die Karte gesperrt.",
+      "en": "I absolutely have to remember the new PIN, otherwise the card will be blocked.",
+      "focus": "festes Reflexivverb · *merken*",
+      "explanation": "*sich etwas merken* (*to remember, memorise*) is always Dativ-reflexive: the thing you remember is the Akkusativ object (*die neue PIN*, here in the Vorfeld). *ich* → **mir**. Do not mix it up with *sich an etwas erinnern* (Akkusativ reflexive + *an*).",
+      "pattern": "sich (Dat.) + etwas (Akk.) + merken",
+      "mistake": {"wrong": "Die neue PIN muss ich mich unbedingt merken, sonst wird die Karte gesperrt.", "why": "*merken* belongs to the verbs with a fixed Dativ reflexive: *ich merke mir, du merkst dir*. The Akkusativ is *die neue PIN*."},
+      "examples": [
+        {"de": "Merk dir bitte die Adresse, ich habe nichts zum Schreiben dabei.", "en": "Please remember the address, I have nothing to write with."},
+        {"de": "Können Sie sich das Kennzeichen merken?", "en": "Can you remember the number plate?"}
+      ],
+      "words": [{"de": "sperren", "en": "to block"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Mit deinem Gehalt kannst du {{c1::dir::du}} doch keine Wohnung in der Münchner Innenstadt leisten!",
+      "en": "You surely can't afford a flat in central Munich on your salary!",
+      "focus": "festes Reflexivverb · *leisten*",
+      "explanation": "*sich etwas leisten* (*to afford*) has a Dativ reflexive and an Akkusativ object (*keine Wohnung*). *du* → **dir**. It is very often used with *können*: *sich etwas leisten können*.",
+      "pattern": "sich (Dat.) + etwas (Akk.) + leisten (können)",
+      "mistake": {"wrong": "Mit deinem Gehalt kannst du dich doch keine Wohnung in der Münchner Innenstadt leisten!", "why": "With *dich* the noun *keine Wohnung* would have no case slot left. *sich leisten* always has the Dativ reflexive: *du leistest dir*."},
+      "examples": [
+        {"de": "Einen Fehler dieser Art kann sich die Firma nicht noch einmal leisten.", "en": "The company cannot afford a mistake of this kind again."},
+        {"de": "Wir haben uns endlich eine neue Küche geleistet.", "en": "We finally treated ourselves to a new kitchen."}
+      ],
+      "words": [{"de": "sich etwas leisten", "en": "to afford something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Zum Geburtstag wünsche ich {{c1::mir::ich}} vor allem ein ruhiges Wochenende mit meiner Familie.",
+      "en": "For my birthday, what I want most is a quiet weekend with my family.",
+      "focus": "festes Reflexivverb · *wünschen*",
+      "explanation": "*sich etwas wünschen* (*to want, wish for*) has a Dativ reflexive (**mir**) and the wish as Akkusativ object (*ein ruhiges Wochenende*). Without the reflexive the verb means *to wish someone something*: *Ich wünsche dir alles Gute.*",
+      "pattern": "sich (Dat.) + etwas (Akk.) + wünschen",
+      "mistake": {"wrong": "Zum Geburtstag wünsche ich mich vor allem ein ruhiges Wochenende mit meiner Familie.", "why": "The person who wants something is the Dativ, the wish is the Akkusativ: *ich wünsche mir ein Wochenende*."},
+      "examples": [
+        {"de": "Was wünschst du dir zu Weihnachten?", "en": "What do you want for Christmas?"},
+        {"de": "Viele Beschäftigte wünschen sich flexiblere Arbeitszeiten.", "en": "Many employees would like more flexible working hours."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Das Angebot klingt gut, aber ich muss {{c1::es mir::ich / es}} noch in Ruhe überlegen.",
+      "en": "The offer sounds good, but I still need to think it over calmly.",
+      "focus": "zwei Pronomen im Mittelfeld",
+      "explanation": "*sich etwas überlegen* (*to think something over*) = Dativ reflexive + Akkusativ object. When the object is the pronoun *es*, two pronouns stand at the start of the Mittelfeld, and the Akkusativ pronoun comes before the Dativ pronoun: **es mir**.",
+      "pattern": "Akk.-Pronomen + Dat.-Reflexivpronomen: **es mir**",
+      "mistake": {"wrong": "Das Angebot klingt gut, aber ich muss mich es noch in Ruhe überlegen.", "why": "*überlegen* has the Akkusativ object *es*, so the reflexive must be Dativ: *mir*. With two pronouns the order is Akkusativ before Dativ: *es mir*."},
+      "examples": [
+        {"de": "Das Passwort? Ich habe es mir aufgeschrieben.", "en": "The password? I wrote it down for myself."},
+        {"de": "Die Ausstellung ist toll, du solltest sie dir unbedingt ansehen.", "en": "The exhibition is great, you should definitely go and see it."}
+      ],
+      "words": [{"de": "in Ruhe", "en": "calmly, without hurry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wie hast du {{c1::dir::du}} in so kurzer Zeit so gute Spanischkenntnisse angeeignet?",
+      "en": "How did you acquire such good Spanish in such a short time?",
+      "focus": "festes Reflexivverb · *aneignen* · Perfekt",
+      "explanation": "*sich etwas aneignen* (*to acquire, learn*) is Dativ-reflexive: the knowledge is the Akkusativ object (*so gute Spanischkenntnisse*). *du* → **dir**. The Partizip II of a separable verb has *-ge-* after the prefix: *angeeignet*.",
+      "pattern": "haben + **dir** (Dat.) + Akk.-Objekt + Partizip II",
+      "mistake": {"wrong": "Wie hast du dich in so kurzer Zeit so gute Spanischkenntnisse angeeignet?", "why": "What you acquire is the Akkusativ (*Spanischkenntnisse*); the learner is the Dativ reflexive: *du hast dir … angeeignet*."},
+      "examples": [
+        {"de": "Sie hat sich das Programmieren selbst beigebracht.", "en": "She taught herself programming."},
+        {"de": "Er eignet sich das Fachvokabular mit Karteikarten an.", "en": "He is learning the technical vocabulary with flashcards."}
+      ],
+      "words": [{"de": "sich etwas aneignen", "en": "to acquire (knowledge, skills)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Seht {{c1::euch::ihr}} die Daten bitte genau an, bevor ihr sie veröffentlicht.",
+      "en": "Please look at the data carefully before you publish it.",
+      "focus": "*ihr*-Imperativ · Reflexivpronomen",
+      "explanation": "*sich etwas ansehen* (*to take a look at*) is Dativ-reflexive with the Akkusativ object *die Daten*. For *ihr* the reflexive pronoun is **euch** in both Dativ and Akkusativ, so the form does not show the case; only *ich* (*mich/mir*) and *du* (*dich/dir*) do.",
+      "pattern": "Imperativ (ihr) + **euch** + Akk.-Objekt + Präfix",
+      "mistake": {"wrong": "Seht sich die Daten bitte genau an, bevor ihr sie veröffentlicht.", "why": "*sich* is only for the 3rd person and the formal *Sie*. The *ihr*-imperative needs the *ihr*-form of the reflexive pronoun: *euch*."},
+      "examples": [
+        {"de": "Wir sehen uns die Wohnung am Samstag noch einmal an.", "en": "We'll take another look at the flat on Saturday."},
+        {"de": "Habt ihr euch den Vertrag schon durchgelesen?", "en": "Have you read through the contract yet?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich versuche seit Monaten, {{c1::mir::ich}} das Rauchen abzugewöhnen.",
+      "en": "I've been trying to give up smoking for months.",
+      "focus": "Reflexivpronomen im zu-Infinitiv",
+      "explanation": "*sich etwas abgewöhnen* is Dativ-reflexive (*das Rauchen* = Akkusativ). In a *zu*-infinitive the reflexive pronoun refers to the subject of the main clause: *ich* → **mir**. *zu* stands between prefix and stem: *abzugewöhnen*.",
+      "pattern": "Hauptsatz (ich), **mir** + Akk. + Präfix-**zu**-Verb",
+      "mistake": {"wrong": "Ich versuche seit Monaten, sich das Rauchen abzugewöhnen.", "why": "The infinitive clause has the same subject as the main clause (*ich*). *sich* is only for the 3rd person and *Sie*; for *ich* the pronoun is *mir*."},
+      "examples": [
+        {"de": "Er hat beschlossen, sich das Nägelkauen abzugewöhnen.", "en": "He has decided to stop biting his nails."},
+        {"de": "Versuch doch, dir eine feste Lernroutine anzugewöhnen.", "en": "Why not try to get into a fixed study routine?"}
+      ],
+      "words": [{"de": "sich etwas abgewöhnen", "en": "to give up a habit"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Traust du {{c1::dir::du}} zu, das Projekt ganz allein zu leiten?",
+      "en": "Do you think you can manage the project entirely on your own?",
+      "focus": "*zutrauen* vs. *sich trauen*",
+      "explanation": "*sich etwas zutrauen* (*to think oneself capable of something*) has a Dativ reflexive. The Akkusativ object here is the *zu*-infinitive clause (*das Projekt … zu leiten*). *du* → **dir**.",
+      "pattern": "sich (Dat.) + zutrauen + zu-Infinitiv (= Akk.-Objekt)",
+      "mistake": {"wrong": "Traust du dich zu, das Projekt ganz allein zu leiten?", "why": "*sich trauen* (Akk.) is a different verb: *Traust du dich?* = *Do you dare?* *zutrauen* takes the Dativ reflexive: *Traust du dir das zu?*"},
+      "examples": [
+        {"de": "Inzwischen traue ich mir die Präsentation auf Englisch zu.", "en": "By now I feel confident enough to give the presentation in English."},
+        {"de": "Die Praktikantin traut sich viel zu wenig zu.", "en": "The intern has far too little confidence in her own abilities."}
+      ],
+      "words": [{"de": "sich etwas zutrauen", "en": "to believe one can do something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Bilde {{c1::dir::du}} bloß nichts darauf ein, dass die Chefin dich gelobt hat!",
+      "en": "Don't get too full of yourself just because the boss praised you!",
+      "focus": "*einbilden* · Imperativ",
+      "explanation": "*sich etwas einbilden (auf + Akk.)* means *to be conceited about something*; *sich etwas einbilden* alone also means *to imagine something that is not real*. *nichts* is the Akkusativ object, so the reflexive pronoun is Dativ: *du* → **dir**. The prefix *ein* goes to the end of the imperative clause.",
+      "pattern": "Imperativ + **dir** + *nichts* (Akk.) + *darauf* + Präfix",
+      "mistake": {"wrong": "Bilde dich bloß nichts darauf ein, dass die Chefin dich gelobt hat!", "why": "*nichts* already fills the Akkusativ slot of *einbilden*. The reflexive therefore has to be Dativ: *bilde dir nichts ein*."},
+      "examples": [
+        {"de": "Er bildet sich viel auf seinen Doktortitel ein.", "en": "He is very conceited about his doctorate."},
+        {"de": "Ich habe mir das Geräusch wohl nur eingebildet.", "en": "I probably just imagined the noise."}
+      ],
+      "words": [{"de": "sich etwas einbilden auf", "en": "to be conceited about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Nach dem Streit hat {{c1::er sich::sich / er}} sofort bei ihr entschuldigt.",
+      "en": "After the argument he apologised to her straight away.",
+      "focus": "Wortstellung · Pronomen als Subjekt",
+      "explanation": "In the Mittelfeld unstressed pronouns come first, and a pronoun subject stands before every other pronoun: **er sich**. With a noun subject both orders are possible: *hat sich der Lehrer entschuldigt* / *hat der Lehrer sich entschuldigt*.",
+      "pattern": "Vorfeld + Verb + **Subjektpronomen + sich** + … Partizip II",
+      "mistake": {"wrong": "Nach dem Streit hat sich er sofort bei ihr entschuldigt.", "why": "When the subject is a pronoun, it comes directly after the finite verb, before the reflexive pronoun: *hat er sich*."},
+      "examples": [
+        {"de": "Am Ende hat sie sich doch für das Studium in Wien entschieden.", "en": "In the end she decided to study in Vienna after all."},
+        {"de": "Gestern hat er sich zum ersten Mal allein ans Steuer getraut.", "en": "Yesterday he dared to drive on his own for the first time."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Nehmen Sie {{c1::sich::Sie}} ruhig Zeit für Ihre Entscheidung.",
+      "en": "Do take your time with your decision.",
+      "focus": "Höflichkeitsform · Reflexivpronomen",
+      "explanation": "In the formal imperative *Sie* follows the verb, and the reflexive pronoun for *Sie* is always **sich**, never *Sie* or *Ihnen*. *sich Zeit nehmen* is Dativ-reflexive (*Zeit* is the Akkusativ), but *sich* has the same form in both cases.",
+      "pattern": "Verb + Sie + **sich** + Akk.-Objekt",
+      "mistake": {"wrong": "Nehmen Sie Ihnen ruhig Zeit für Ihre Entscheidung.", "why": "*Ihnen* is the Dativ of polite *Sie* when it refers to someone else. When it refers back to the subject *Sie*, the pronoun is the reflexive *sich*."},
+      "examples": [
+        {"de": "Setzen Sie sich bitte, Frau Dr. Wagner kommt gleich.", "en": "Please take a seat, Dr Wagner will be with you shortly."},
+        {"de": "Merken Sie sich bitte das Datum der Prüfung.", "en": "Please make a note of the exam date."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Ich bin nicht sicher, ob {{c1::sie sich::sich / sie}} der Risiken wirklich bewusst ist.",
+      "en": "I'm not sure whether she is really aware of the risks.",
+      "focus": "Wortstellung im Nebensatz · Dativ-Reflexiv mit Adjektiv",
+      "explanation": "*sich einer Sache (Gen.) bewusst sein* has a Dativ reflexive (*ich bin mir bewusst*). In the Nebensatz the pronoun subject comes right after the conjunction, then the reflexive pronoun: **ob sie sich**. The Genitiv *der Risiken* is the object of *bewusst*.",
+      "pattern": "ob + Subjektpronomen + **sich** (Dat.) + Gen. + bewusst + Verb",
+      "mistake": {"wrong": "Ich bin nicht sicher, ob sie ihr der Risiken wirklich bewusst ist.", "why": "The pronoun refers back to the subject *sie*, so it must be the reflexive *sich*. *ihr* would point to a different woman."},
+      "examples": [
+        {"de": "Bist du dir sicher, dass die Tür abgeschlossen ist?", "en": "Are you sure the door is locked?"},
+        {"de": "Ich bin mir der Verantwortung durchaus bewusst.", "en": "I am fully aware of the responsibility."}
+      ],
+      "words": [{"de": "sich einer Sache bewusst sein", "en": "to be aware of something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Nach dem Aufruf in der Zeitung {{c1::meldete sich::sich / melden, Präteritum}} ein wichtiger Zeuge bei der Polizei.",
+      "en": "After the appeal in the newspaper, an important witness came forward to the police.",
+      "focus": "Wortstellung · Reflexivpronomen vor dem Subjekt",
+      "explanation": "*Nach dem Aufruf in der Zeitung* fills the Vorfeld, so the finite verb **meldete** comes second. The unstressed reflexive pronoun moves to the very front of the Mittelfeld, and a new, indefinite subject (*ein wichtiger Zeuge*) normally follows it: **meldete sich** *ein Zeuge*.",
+      "pattern": "Vorfeld + Verb + **sich** + indefinites Subjekt",
+      "mistake": {"wrong": "Nach dem Aufruf in der Zeitung sich meldete ein wichtiger Zeuge bei der Polizei.", "why": "The finite verb must be in position 2, directly after the Vorfeld. The reflexive pronoun can only follow it: *meldete sich*."},
+      "examples": [
+        {"de": "Kurz vor Mitternacht ereignete sich auf der A7 ein schwerer Unfall.", "en": "Shortly before midnight a serious accident occurred on the A7."},
+        {"de": "Im Laufe des Abends entwickelte sich eine lebhafte Diskussion.", "en": "In the course of the evening a lively discussion developed."}
+      ],
+      "words": [{"de": "sich melden", "en": "to come forward, get in touch"}, {"de": "der Aufruf", "en": "appeal"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die beiden Forscherinnen kennen {{c1::sich::reziprok · kurz}} seit dem Studium in Heidelberg.",
+      "en": "The two researchers have known each other since they studied in Heidelberg.",
+      "focus": "reziproke Bedeutung · Plural",
+      "explanation": "With a plural subject **sich** can mean *each other*: A knows B and B knows A. The formal *einander* is also possible (*kennen einander*). German uses the present tense with *seit* for a state that began in the past and still continues.",
+      "pattern": "Pluralsubjekt + Verb + **sich** (= each other)",
+      "mistake": {"wrong": "Die beiden Forscherinnen kennen sie seit dem Studium in Heidelberg.", "why": "*sie* points to other people (*they know them*). To refer back to the plural subject itself (*each other*), you need *sich* or *einander*."},
+      "examples": [
+        {"de": "Wir schreiben uns seit Jahren jede Woche.", "en": "We have been writing to each other every week for years."},
+        {"de": "Die beiden Teams respektieren sich trotz der Konkurrenz.", "en": "The two teams respect each other despite the rivalry."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Die Geschwister haben nach dem Erbstreit jahrelang nicht {{c1::miteinander::reziprok · mit}} gesprochen.",
+      "en": "After the dispute over the inheritance, the siblings did not speak to each other for years.",
+      "focus": "reziprok nach Präposition",
+      "explanation": "After a preposition the reciprocal meaning is expressed with preposition + *einander*, written as one word: *mit* + *einander* → **miteinander**. *mit sich* would mean *with oneself*.",
+      "pattern": "Präposition + *einander* → **miteinander**",
+      "mistake": {"wrong": "Die Geschwister haben nach dem Erbstreit jahrelang nicht mit sich gesprochen.", "why": "*mit sich sprechen* means *to talk to oneself*. For *with each other* German uses *miteinander*."},
+      "examples": [
+        {"de": "Die beiden Abteilungen arbeiten eng miteinander zusammen.", "en": "The two departments work closely together."},
+        {"de": "Wir müssen dringend offen miteinander reden.", "en": "We urgently need to talk to each other openly."}
+      ],
+      "words": [{"de": "der Erbstreit", "en": "dispute over an inheritance"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die beiden Studien sind völlig unabhängig {{c1::voneinander::reziprok · von}} entstanden.",
+      "en": "The two studies were produced completely independently of each other.",
+      "focus": "reziprok nach Präposition · Adjektiv mit *von*",
+      "explanation": "The adjective *unabhängig* takes *von*. With a reciprocal meaning the preposition fuses with *einander*: **voneinander**. The verb *entstehen* forms its Perfekt with *sein*.",
+      "pattern": "unabhängig + **voneinander**",
+      "mistake": {"wrong": "Die beiden Studien sind völlig unabhängig von sich entstanden.", "why": "*von sich* is reflexive (*of themselves*), not reciprocal. *of each other* is *voneinander*."},
+      "examples": [
+        {"de": "Die Ergebnisse unterscheiden sich deutlich voneinander.", "en": "The results differ clearly from each other."},
+        {"de": "Die Zwillinge können sich kaum voneinander trennen.", "en": "The twins can hardly bear to be apart."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Nach der Niederlage machten die Spieler {{c1::sich gegenseitig::Reflexivpronomen + 'each other'}} Vorwürfe.",
+      "en": "After the defeat, the players blamed each other.",
+      "focus": "reziprok eindeutig machen",
+      "explanation": "*sich (Dat.) Vorwürfe machen* alone could mean *blame oneself* or *blame each other*. **sich gegenseitig** makes the reciprocal meaning clear. *einander* alone is also possible (*machten einander Vorwürfe*), but never both together.",
+      "pattern": "**sich gegenseitig** + Verb (= eindeutig reziprok)",
+      "mistake": {"wrong": "Nach der Niederlage machten die Spieler sich einander Vorwürfe.", "why": "*einander* already contains the reciprocal meaning and replaces *sich*. Use *sich gegenseitig* or *einander*, not *sich einander*."},
+      "examples": [
+        {"de": "Die Nachbarn unterstützen sich gegenseitig bei der Kinderbetreuung.", "en": "The neighbours support each other with childcare."},
+        {"de": "Die Kandidaten warfen sich gegenseitig Lügen vor.", "en": "The candidates accused each other of lying."}
+      ],
+      "words": [{"de": "jemandem Vorwürfe machen", "en": "to reproach, blame someone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "In einem guten Team müssen sich die Kolleginnen und Kollegen {{c1::aufeinander::reziprok · auf}} verlassen können.",
+      "en": "In a good team, colleagues must be able to rely on each other.",
+      "focus": "reflexives Verb + reziproke Präposition",
+      "explanation": "*sich verlassen auf* + Akkusativ is always reflexive; *sich* belongs to the verb. The reciprocal *on each other* is the prepositional object: *auf* + *einander* → **aufeinander**.",
+      "pattern": "sich verlassen + **aufeinander**",
+      "mistake": {"wrong": "In einem guten Team müssen sich die Kolleginnen und Kollegen auf sich verlassen können.", "why": "*auf sich* means *on themselves*. The prepositional object with the meaning *on each other* is *aufeinander*."},
+      "examples": [
+        {"de": "Die Teilnehmenden warteten am Eingang aufeinander.", "en": "The participants waited for each other at the entrance."},
+        {"de": "Die Teile müssen genau aufeinander abgestimmt sein.", "en": "The parts have to be precisely matched to each other."}
+      ],
+      "words": [{"de": "sich verlassen auf", "en": "to rely on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Bei dem Gipfeltreffen begegneten die Delegationen {{c1::einander::reziprok · gehoben}} mit großem Respekt.",
+      "en": "At the summit, the delegations treated each other with great respect.",
+      "focus": "reziprok ohne *sich* · gehobener Stil",
+      "explanation": "*begegnen* takes a Dativ object (*jemandem mit Respekt begegnen* = *to treat someone with respect*). Without a preposition the reciprocal *each other* can be **einander** (formal, written) instead of *sich*. *einander* has the same form in every case.",
+      "pattern": "Pluralsubjekt + Verb + **einander**",
+      "mistake": {"wrong": "Bei dem Gipfeltreffen begegneten die Delegationen ihnen mit großem Respekt.", "why": "*ihnen* refers to other people. A reciprocal reference back to the subject needs *einander* (or *sich*)."},
+      "examples": [
+        {"de": "Die beiden Ehepartner vertrauen einander blind.", "en": "The two spouses trust each other completely."},
+        {"de": "Nach dem Hochwasser halfen die Nachbarn einander beim Aufräumen.", "en": "After the flood, the neighbours helped each other clear up."}
+      ],
+      "words": [{"de": "das Gipfeltreffen", "en": "summit meeting"}],
+      "production_cue": "(formal)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Das Phänomen {{c1::lässt::lassen}} sich mit den bisherigen Modellen nicht erklären.",
+      "en": "The phenomenon cannot be explained with the existing models.",
+      "focus": "*sich lassen* als Passiversatz",
+      "explanation": "**sich lassen** + infinitive is a passive alternative with the meaning of *können*: *lässt sich nicht erklären* = *kann nicht erklärt werden*. The subject (*das Phänomen*) is what would be the object of *erklären*, and *lassen* agrees with it: 3rd person singular with vowel change **lässt**.",
+      "pattern": "Subjekt (Sache) + **lässt** + sich + … Infinitiv",
+      "mistake": {"wrong": "Das Phänomen lässt sich mit den bisherigen Modellen nicht erklärt.", "why": "*sich lassen* is followed by the bare infinitive, not the Partizip II: *nicht erklären*."},
+      "examples": [
+        {"de": "Der Fehler lässt sich zum Glück leicht beheben.", "en": "Fortunately, the error can be fixed easily."},
+        {"de": "Die Ergebnisse lassen sich nicht ohne Weiteres verallgemeinern.", "en": "The results cannot simply be generalised."}
+      ],
+      "words": [{"de": "das Phänomen", "en": "phenomenon"}],
+      "production_cue": "(with lassen)",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Der Schaden hat sich bis heute nicht vollständig beheben {{c1::lassen::lassen, Perfekt}}.",
+      "en": "To this day it has not been possible to repair the damage completely.",
+      "focus": "Passiversatz mit *sich* · Perfekt · Ersatzinfinitiv",
+      "explanation": "In the Perfekt *sich lassen* + infinitive forms a double infinitive: *haben* + infinitive + **lassen** (Ersatzinfinitiv instead of *gelassen*). The reflexive pronoun stays at the front of the Mittelfeld: *hat sich … beheben lassen*.",
+      "pattern": "hat + sich + … Infinitiv + **lassen**",
+      "mistake": {"wrong": "Der Schaden hat sich bis heute nicht vollständig beheben gelassen.", "why": "When *lassen* has a dependent infinitive, its Perfekt uses the Ersatzinfinitiv: *beheben lassen*, not *beheben gelassen*."},
+      "examples": [
+        {"de": "Die Ursache des Feuers hat sich nicht mehr klären lassen.", "en": "It was no longer possible to establish the cause of the fire."},
+        {"de": "Der Termin hat sich leider nicht verschieben lassen.", "en": "Unfortunately it wasn't possible to move the appointment."}
+      ],
+      "words": [{"de": "beheben", "en": "to repair, fix"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Ob sich die Kosten noch weiter senken {{c1::lassen::lassen, Plural}}, ist derzeit völlig unklar.",
+      "en": "Whether the costs can be reduced any further is completely unclear at the moment.",
+      "focus": "Passiversatz mit *sich* · Verb am Ende des Nebensatzes",
+      "explanation": "In the Nebensatz the finite verb **lassen** goes to the end, after the infinitive *senken*, and agrees with the plural subject *die Kosten*. The reflexive pronoun usually comes right after the conjunction, before a noun subject: *ob sich die Kosten …*",
+      "pattern": "ob + sich + Subjekt + … Infinitiv + **lassen**",
+      "mistake": {"wrong": "Ob sich die Kosten noch weiter lassen senken, ist derzeit völlig unklar.", "why": "In the Präsens there is no double-infinitive order. The finite verb comes last in the Nebensatz: *senken lassen*."},
+      "examples": [
+        {"de": "Ich weiß nicht, ob sich das Problem so schnell lösen lässt.", "en": "I don't know whether the problem can be solved that quickly."},
+        {"de": "Es ist fraglich, ob sich die Ergebnisse wiederholen lassen.", "en": "It is questionable whether the results can be replicated."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Ich lasse {{c1::mir::ich}} die Unterlagen per Post zuschicken.",
+      "en": "I'm having the documents sent to me by post.",
+      "focus": "kausatives *lassen* · Empfänger",
+      "explanation": "Causative *lassen*: someone else does the action for me. *jemandem etwas zuschicken* has a Dativ receiver and an Akkusativ object (*die Unterlagen*). The receiver is the subject itself → Dativ reflexive **mir**.",
+      "pattern": "lassen + **mir** (Dat.) + Akk.-Objekt + Infinitiv",
+      "mistake": {"wrong": "Ich lasse mich die Unterlagen per Post zuschicken.", "why": "*die Unterlagen* is the Akkusativ object of *zuschicken*. The person who receives them is Dativ: *mir*."},
+      "examples": [
+        {"de": "Lass dir beim Friseur doch mal die Haare kürzer schneiden.", "en": "Why not have your hair cut shorter at the hairdresser's?"},
+        {"de": "Ich habe mir vom Hausarzt eine Überweisung ausstellen lassen.", "en": "I had my GP write me a referral."}
+      ],
+      "words": [{"de": "zuschicken", "en": "to send (to someone)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Vor der Reise nach Ghana lasse ich {{c1::mich::ich}} gegen Gelbfieber impfen.",
+      "en": "Before the trip to Ghana, I'm getting vaccinated against yellow fever.",
+      "focus": "kausatives *lassen* · Person als Objekt",
+      "explanation": "Causative *lassen* with *impfen*: the doctor vaccinates me. *jemanden impfen* takes the person as Akkusativ object, and there is no other Akkusativ → reflexive **mich**. Compare *Ich lasse mir eine Spritze geben* (Akk. *eine Spritze*, so Dativ *mir*).",
+      "pattern": "lassen + **mich** (Akk.) + Infinitiv",
+      "mistake": {"wrong": "Vor der Reise nach Ghana lasse ich mir gegen Gelbfieber impfen.", "why": "*impfen* takes the vaccinated person in the Akkusativ, and no other Akkusativ object is present. The reflexive is therefore *mich*."},
+      "examples": [
+        {"de": "Wann hast du dich zuletzt gründlich untersuchen lassen?", "en": "When did you last have a thorough check-up?"},
+        {"de": "Er lässt sich jeden Morgen von einem Fahrdienst abholen.", "en": "He has a driver service pick him up every morning."}
+      ],
+      "words": [{"de": "impfen", "en": "to vaccinate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Der neue Roman {{c1::liest::lesen}} sich trotz seiner 800 Seiten erstaunlich leicht.",
+      "en": "Despite its 800 pages, the new novel is surprisingly easy to read.",
+      "focus": "Verb + *sich* + Adverb (Mittelkonstruktion)",
+      "explanation": "This is the *Mittelkonstruktion*: verb + *sich* + adverb (*leicht, gut, schwer*). The thing (*der Roman*) is the subject, and the sentence says how easily the action can be done; it is close to *sich lassen*, but needs an adverb. *lesen* changes its vowel: *er* **liest**.",
+      "pattern": "Subjekt (Sache) + Verb + **sich** + Adverb",
+      "mistake": {"wrong": "Der neue Roman liest trotz seiner 800 Seiten erstaunlich leicht.", "why": "Without *sich* the novel itself would be the reader. The Mittelkonstruktion always needs the reflexive pronoun: *liest sich leicht*."},
+      "examples": [
+        {"de": "Das neue Modell fährt sich deutlich ruhiger als das alte.", "en": "The new model drives much more smoothly than the old one."},
+        {"de": "Dieser Stoff wäscht sich problemlos bei 60 Grad.", "en": "This fabric washes without any problem at 60 degrees."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the case of the reflexive pronoun.",
+      "prompt": "When is the reflexive pronoun Dativ instead of Akkusativ?",
+      "answer": "When the clause already has an **Akkusativ object** (a noun, a pronoun like *es/das*, or a *dass*-/*zu*-clause): *Ich wasche mir die Hände. Ich merke es mir.* Some verbs are **always** Dativ-reflexive: *sich etwas merken, leisten, wünschen, überlegen, ansehen, aneignen, abgewöhnen, zutrauen, einbilden*. Otherwise the reflexive pronoun is Akkusativ: *Ich wasche mich.*",
+      "explanation": "A clause has only one Akkusativ object here. If something else takes that slot, the reflexive pronoun moves to the Dativ. This is why the same verb can have both: *Ich ziehe mich an* vs. *Ich ziehe mir die Schuhe an*.",
+      "examples": [
+        {"de": "Ich ärgere mich über den Fehler.", "en": "I'm annoyed about the mistake."},
+        {"de": "Ich hole mir schnell einen Kaffee.", "en": "I'll quickly get myself a coffee."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the forms of the reflexive pronoun.",
+      "prompt": "For which persons can you see whether the reflexive pronoun is Akkusativ or Dativ?",
+      "answer": "Only for **ich** (*mich / mir*) and **du** (*dich / dir*). *uns, euch* and *sich* (3rd person and polite *Sie*) have the same form in both cases.",
+      "explanation": "This is why errors appear mainly with *ich* and *du*. To check the case of *sich* or *uns*, replace the subject with *ich*: *Er merkt sich das* → *Ich merke **mir** das* → Dativ.",
+      "examples": [
+        {"de": "Du hast dich sehr verändert.", "en": "You have changed a lot."},
+        {"de": "Du hast dir die Haare gefärbt!", "en": "You've dyed your hair!"}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about reciprocal meaning.",
+      "prompt": "*Sie loben sich.* can mean *they praise themselves* or *they praise each other*. How do you make *each other* clear, and what happens after a preposition?",
+      "answer": "Use **sich gegenseitig** or (formal) **einander**: *Sie loben sich gegenseitig / einander.* After a preposition use **preposition + einander** as one word: *miteinander, voneinander, aufeinander, füreinander, nebeneinander*. Never *sich einander*, and never *mit sich* for *with each other*.",
+      "explanation": "*einander* does not change its form, so it works for Akkusativ, Dativ and after prepositions. Some verbs are reciprocal by meaning (*sich treffen, sich einigen, sich streiten*) and need no extra word.",
+      "examples": [
+        {"de": "Die Kinder spielen friedlich nebeneinander.", "en": "The children are playing peacefully side by side."},
+        {"de": "Die beiden nehmen sich viel Zeit füreinander.", "en": "The two of them make a lot of time for each other."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the two uses of *sich lassen*.",
+      "prompt": "What is the difference between *Das Fenster lässt sich nicht öffnen* and *Ich lasse mich operieren*?",
+      "answer": "**1. Passive alternative** (subject = a thing, meaning *kann … werden*): *Das Fenster lässt sich nicht öffnen* = *kann nicht geöffnet werden*. **2. Causative** (a person has something done to or for themselves): *Ich lasse mich operieren* (Akk.), *Ich lasse mir die Haare schneiden* (Dat. because *die Haare* is Akk.).",
+      "explanation": "In the first use no agent is named; it describes a possibility. In the second use someone else (doctor, hairdresser) performs the action. Both form the Perfekt with the Ersatzinfinitiv: *hat sich nicht öffnen lassen*, *habe mich operieren lassen*.",
+      "examples": [
+        {"de": "Die Tür lässt sich nur von innen öffnen.", "en": "The door can only be opened from the inside."},
+        {"de": "Sie lässt sich für die Hochzeit ein Kleid nähen.", "en": "She is having a dress made for the wedding."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "Where does the reflexive pronoun stand in the Mittelfeld?",
+      "answer": "Near the front: right after the finite verb (main clause) or the conjunction (Nebensatz). A **pronoun subject** comes before it (*hat er sich*). A **noun subject** can come before or after it (*hat sich der Lehrer / hat der Lehrer sich*); a new, indefinite subject usually follows it (*meldete sich ein Zeuge*). With an Akkusativ pronoun: Akk. before Dat. (*es mir*).",
+      "explanation": "Unstressed pronouns move to the beginning of the Mittelfeld, before nouns and adverbials. That is why *sich* can come before a noun subject, but not before a pronoun subject.",
+      "examples": [
+        {"de": "Warum hat sich der Zug so stark verspätet?", "en": "Why was the train so badly delayed?"},
+        {"de": "Weil er sich verspätet hatte, verpasste er den Anschluss.", "en": "Because he was late, he missed his connection."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Use *anziehen* and add the object *eine warme Jacke*.",
+      "prompt": "Ich ziehe mich um.",
+      "answer": "Ich ziehe mir eine warme Jacke an.",
+      "explanation": "*sich umziehen* has no other object, so the pronoun is Akkusativ (*mich*). With *eine warme Jacke* as Akkusativ object, the reflexive pronoun changes to the Dativ: *mir*. The prefix *an* goes to the end."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Change the subject to *ich*.",
+      "prompt": "Er hat sich das Knie verletzt.",
+      "answer": "Ich habe mir das Knie verletzt.",
+      "explanation": "*das Knie* is the Akkusativ object, so the reflexive is Dativ. For *er* you cannot see this (*sich*), but for *ich* the Dativ form is *mir*, not *mich*. The auxiliary changes to *habe*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite with *sich lassen* (Präsens).",
+      "prompt": "Das Problem kann nicht so einfach gelöst werden.",
+      "answer": "Das Problem lässt sich nicht so einfach lösen.",
+      "explanation": "*kann … gelöst werden* (modal passive) = *lässt sich … lösen*. The subject *das Problem* stays; *lassen* is finite (*lässt*), *sich* follows it, and the infinitive *lösen* goes to the end."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Die Ursache ließ sich nicht feststellen.",
+      "answer": "Die Ursache hat sich nicht feststellen lassen.",
+      "explanation": "The Perfekt of *sich lassen* + infinitive uses *haben* and the Ersatzinfinitiv: *hat sich … feststellen lassen*. *gelassen* is not used when there is a dependent infinitive."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Replace *die vielen Namen* with a pronoun.",
+      "prompt": "Ich kann mir die vielen Namen nicht merken.",
+      "answer": "Ich kann sie mir nicht merken.",
+      "explanation": "*die vielen Namen* is the Akkusativ plural → *sie*. With two pronouns in the Mittelfeld the Akkusativ pronoun comes before the Dativ reflexive: *sie mir*. *mir* stays Dativ because there is still an Akkusativ object."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace *sich gegenseitig* with *einander*.",
+      "prompt": "Die Kolleginnen haben sich gegenseitig viel beigebracht.",
+      "answer": "Die Kolleginnen haben einander viel beigebracht.",
+      "explanation": "*einander* replaces the whole *sich gegenseitig*; you must not keep *sich*. *beibringen* takes a Dativ person, and *einander* fits every case. The style becomes more formal."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace *die Chefin* with a pronoun. Keep *Gestern* at the start.",
+      "prompt": "Gestern hat sich die Chefin für den Fehler entschuldigt.",
+      "answer": "Gestern hat sie sich für den Fehler entschuldigt.",
+      "explanation": "With a noun subject *sich* may come before it. A pronoun subject must come directly after the finite verb and before the reflexive pronoun: *hat sie sich*. ✗ *hat sich sie* is wrong."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich kann mich gut vorstellen, wie anstrengend die Reise war.",
+      "answer": "Ich kann mir gut vorstellen, wie anstrengend die Reise war.",
+      "explanation": "*sich etwas vorstellen* (*imagine*) has a Dativ reflexive; the *wie*-clause is the thing imagined (Akkusativ object). So *ich* → *mir*. *mich vorstellen* means *introduce myself*."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die beiden Firmen arbeiten seit Jahren eng mit sich zusammen.",
+      "answer": "Die beiden Firmen arbeiten seit Jahren eng miteinander zusammen.",
+      "explanation": "*with each other* after a preposition is *mit* + *einander* = *miteinander*. *mit sich* is reflexive (*with itself / themselves*) and does not express that each firm works with the other."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich lasse mich beim Friseur die Haare färben.",
+      "answer": "Ich lasse mir beim Friseur die Haare färben.",
+      "explanation": "*die Haare* is the Akkusativ object of *färben*. The person whose hair is dyed is in the Dativ: *mir*. Compare *Ich lasse mich beraten* (no other object → Akkusativ)."
+    },
+    {
+      "key": "d16",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe vergessen, sich rechtzeitig für den Kurs anzumelden.",
+      "answer": "Ich habe vergessen, mich rechtzeitig für den Kurs anzumelden.",
+      "explanation": "The subject of the *zu*-infinitive is the subject of the main clause, *ich*. The reflexive pronoun must match it: *mich*. *sich* is not a general infinitive form; it is only for the 3rd person and *Sie*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct reflexive pronoun.",
+      "prompt": "Stell ___ vor, wir hätten im Lotto gewonnen!",
+      "options": ["dich", "dir", "sich", "mich"],
+      "correct": "dir",
+      "answer": "Stell dir vor, wir hätten im Lotto gewonnen!",
+      "explanation": "*sich etwas vorstellen* = *imagine*, and the clause *wir hätten …* is what you imagine (Akkusativ object). *du*-imperative → Dativ *dir*. *dich* would mean *introduce yourself*; *sich* and *mich* do not match the subject *du*."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Die beiden Parteien sind ___ in vielen Punkten entgegengekommen.",
+      "options": ["einander", "sich selbst", "miteinander", "gegeneinander"],
+      "correct": "einander",
+      "answer": "Die beiden Parteien sind einander in vielen Punkten entgegengekommen.",
+      "explanation": "*jemandem entgegenkommen* (*to meet someone halfway*) takes a Dativ object, and the meaning is reciprocal → *einander*. *sich selbst* means *themselves*; *miteinander* and *gegeneinander* contain prepositions that *entgegenkommen* does not take."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Gestern",
+      "prompt": "hat / der Minister / sich / gestern / entschuldigt / öffentlich",
+      "answer": "Gestern hat sich der Minister öffentlich entschuldigt.",
+      "explanation": "*Gestern* fills the Vorfeld, the finite verb *hat* is second, and the Partizip II *entschuldigt* closes the Satzklammer. With a noun subject the reflexive pronoun can also follow it: *Gestern hat der Minister sich öffentlich entschuldigt.*"
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "es / mir / habe / ich / anders / vorgestellt",
+      "answer": "Ich habe es mir anders vorgestellt.",
+      "explanation": "*sich etwas vorstellen* with the Akkusativ pronoun *es*: Akkusativ pronoun before Dativ pronoun → *es mir*. Pronouns come before the adverb *anders*, and the Partizip II *vorgestellt* goes to the end."
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make one sentence with a reflexive pronoun.",
+      "prompt": "Ich kaufe ein neues Fahrrad. Das Fahrrad ist für mich.",
+      "answer": "Ich kaufe mir ein neues Fahrrad.",
+      "explanation": "*für mich* (the beneficiary) becomes a Dativ reflexive. *ein neues Fahrrad* is the Akkusativ object, so the pronoun is *mir*, not *mich*."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Make one sentence with a reciprocal pronoun. Make the meaning *each other* clear.",
+      "prompt": "Anna hilft Ben. Ben hilft Anna.",
+      "answer": "Anna und Ben helfen sich gegenseitig.",
+      "explanation": "With the plural subject *Anna und Ben*, *sich* refers to both people; *gegenseitig* makes the reciprocal meaning clear. *helfen* takes the Dativ, and *sich* is the Dativ form here. *Anna und Ben helfen einander.* is also correct."
+    }
+  ]
+}

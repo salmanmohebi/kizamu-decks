@@ -1,0 +1,925 @@
+{
+  "topic_id": "a2-06-wechselpraepositionen-vertiefung",
+  "level": "A2",
+  "title_de": "Wechselpräpositionen (Vertiefung)",
+  "title_en": "Two-way prepositions in depth",
+  "rule": {
+    "summary": "The nine Wechselpräpositionen **in, an, auf, hinter, neben, über, unter, vor, zwischen** take the **Akkusativ** when something or someone moves to a new place (*wohin?*) and the **Dativ** for a position or an action inside one place (*wo?*). Usually the verb decides, and the verb pairs *legen/liegen, stellen/stehen, setzen/sitzen, hängen/hängen, stecken/stecken* show the contrast clearly. In time phrases with *vor, in, an, zwischen* (*vor einer Woche, in einem Monat, am Montag*) they take the Dativ (exception: *über* + Akk., *übers Wochenende*), and with fixed verb + preposition pairs the case is fixed (*denken an* + Akk., *warten auf* + Akk.).",
+    "table": "| Akkusativ · wohin? (movement to a new place) | Dativ · wo? (position) |\n|---|---|\n| *legen* (legte, gelegt): Ich lege das Buch **auf den** Tisch. | *liegen* (lag, gelegen): Das Buch liegt **auf dem** Tisch. |\n| *stellen* (stellte, gestellt): Ich stelle die Flasche **in den** Kühlschrank. | *stehen* (stand, gestanden): Die Flasche steht **im** Kühlschrank. |\n| *sich setzen* (setzte, gesetzt): Er setzt sich **neben die** Tür. | *sitzen* (saß, gesessen): Er sitzt **neben der** Tür. |\n| *hängen* (hängte, gehängt): Ich hänge das Bild **an die** Wand. | *hängen* (hing, gehangen): Das Bild hängt **an der** Wand. |\n| *stecken* (steckte, gesteckt): Ich stecke den Brief **in die** Tasche. | *stecken*: Der Brief steckt **in der** Tasche. |\n| *gehen, fahren, springen* + goal: **in den** Park | *sein, wohnen, arbeiten, spielen, ankommen*: **im** Park |\n\nContractions: in das → **ins**, an das → **ans**, auf das → **aufs** (Akk.); in dem → **im**, an dem → **am** (Dat.).",
+    "steps": [
+      "Check the preposition: is it one of the nine (*in, an, auf, hinter, neben, über, unter, vor, zwischen*)? Only then do you choose between Akkusativ and Dativ.",
+      "Ask *wohin?*: does something or someone change place, and does the phrase name the goal? → Akkusativ (*Ich gehe in den Garten.*).",
+      "Ask *wo?*: is something in a place, or does an action happen inside one place, even with movement (*im Garten laufen*)? → Dativ.",
+      "Use the verb pairs: the weak verbs of putting (*legen, stellen, setzen, hängen* with object, *stecken* with object) take the Akkusativ; the position verbs (*liegen, stehen, sitzen, hängen* without object, *stecken* without object) take the Dativ.",
+      "Special cases: *ankommen, landen, warten, sich treffen* name a place → Dativ (*am Bahnhof ankommen*). Time phrases with *vor, in, an, zwischen* → Dativ (*vor einem Jahr*); *über* + time is Akkusativ (*übers Wochenende*). Fixed verb + preposition: learn the case (*an* + Akk. *denken*, *auf* + Akk. *warten*).",
+      "Build the article and check contractions and the Dativ plural *-n*: *ins Kino, im Kino, in den Regalen*."
+    ],
+    "pitfalls": [
+      "Movement inside one place takes the Dativ: ✗ *Wir laufen in den Park herum.* → ✓ *Wir laufen im Park herum.* Movement alone is not enough; the Akkusativ needs a goal.",
+      "*ankommen* with the Akkusativ: ✗ *Wir kommen in die Stadt an.* → ✓ *Wir kommen in der Stadt an.*",
+      "The two verbs *hängen*: ✗ *Ich habe das Bild an die Wand gehangen.* → ✓ *gehängt*. *gehangen* belongs to the position verb: *Das Bild hat an der Wand gehangen.*",
+      "Using *stellen/legen* with the Dativ: ✗ *Ich stelle die Vase auf dem Tisch.* → ✓ *auf den Tisch*.",
+      "Forgetting the Dativ plural *-n*: ✗ *in den Regale* → ✓ *in den Regalen*. And in time phrases: ✗ *vor eine Woche* → ✓ *vor einer Woche*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das Bild hängt {{c1::an der::an + Artikel}} Wand.",
+      "en": "The picture is hanging on the wall.",
+      "focus": "Position (wo?) · *hängen* ohne Objekt",
+      "explanation": "Here *hängen* has no object: the picture simply hangs in its place (strong verb: *hing, gehangen*). Position → *wo?* → Dativ. *Wand* is feminine → Dativ **der**: **an der Wand**. *an* is the preposition for vertical surfaces.",
+      "pattern": "hängen (intransitiv) + an + Dat.",
+      "mistake": {"wrong": "Das Bild hängt an die Wand.", "why": "*an die Wand* is the goal of the transitive verb (*Ich hänge das Bild an die Wand*). When the picture is already there, the phrase is a position and needs the Dativ."},
+      "examples": [
+        {"de": "Der Spiegel hängt an der Tür.", "en": "The mirror is hanging on the door."},
+        {"de": "Ein Zettel hängt am Kühlschrank.", "en": "A note is hanging on the fridge."}
+      ],
+      "words": [{"de": "hängen (hing, gehangen)", "en": "to hang, to be hanging"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich hänge das Bild {{c1::an die::an + Artikel}} Wand.",
+      "en": "I'm hanging the picture on the wall.",
+      "focus": "Richtung (wohin?) · *hängen* mit Objekt",
+      "explanation": "Here *hängen* has an object (*das Bild*): I move the picture to a new place (weak verb: *hängte, gehängt*). Movement to a goal → *wohin?* → Akkusativ. Feminine *Wand* keeps **die**: **an die Wand**.",
+      "pattern": "hängen (transitiv) + Akk.-Objekt + an + Akk.",
+      "mistake": {"wrong": "Ich hänge das Bild an der Wand.", "why": "*an der Wand* is the position after the action. While you hang the picture up, it moves to the wall, so you need the Akkusativ *an die Wand*."},
+      "examples": [
+        {"de": "Sie hängt den Mantel an den Haken.", "en": "She hangs the coat on the hook."},
+        {"de": "Wir hängen die Fotos an die Tür.", "en": "We're hanging the photos on the door."}
+      ],
+      "words": [{"de": "hängen (hängte, gehängt)", "en": "to hang (something) up"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Die Schuhe stehen {{c1::vor der::vor + Artikel}} Tür.",
+      "en": "The shoes are in front of the door.",
+      "focus": "Position (wo?) · *stehen*",
+      "explanation": "*stehen* (stand, gestanden) describes where something is → *wo?* → Dativ. *Tür* is feminine → **vor der Tür**. German uses *stehen* for shoes, bottles and other objects that stand upright, where English just says *are*.",
+      "pattern": "stehen + vor + Dat.",
+      "mistake": {"wrong": "Die Schuhe stehen vor die Tür.", "why": "*stehen* never names a movement, so it never takes the Akkusativ after a Wechselpräposition. *vor die Tür* belongs to *stellen*."},
+      "examples": [
+        {"de": "Das Fahrrad steht vor dem Haus.", "en": "The bike is in front of the house."},
+        {"de": "Ein Polizist steht vor der Bank.", "en": "A police officer is standing in front of the bank."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich stelle die Schuhe {{c1::vor die::vor + Artikel}} Tür.",
+      "en": "I'm putting the shoes in front of the door.",
+      "focus": "Richtung (wohin?) · *stellen*",
+      "explanation": "*stellen* (stellte, gestellt) means to put something somewhere in an upright position. The shoes change place → *wohin?* → Akkusativ. Feminine *Tür* stays **die**: **vor die Tür**.",
+      "pattern": "stellen + Akk.-Objekt + vor + Akk.",
+      "mistake": {"wrong": "Ich stelle die Schuhe vor der Tür.", "why": "With *stellen* the object moves to a new place. The goal of that movement is Akkusativ: *vor die Tür*."},
+      "examples": [
+        {"de": "Stell den Koffer vor den Schrank.", "en": "Put the suitcase in front of the wardrobe."},
+        {"de": "Sie stellt die Mülltonne vor das Haus.", "en": "She puts the bin in front of the house."}
+      ],
+      "words": [{"de": "stellen", "en": "to put, to place (upright)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er sitzt {{c1::zwischen}} mir und meinem Bruder.",
+      "en": "He is sitting between me and my brother.",
+      "focus": "Position · links und rechts eine Person",
+      "explanation": "*sitzen* is a position verb → *wo?* → Dativ. **zwischen** joins two nouns or pronouns, and both are in the Dativ: *ich → mir* and *mein Bruder → meinem Bruder*.",
+      "pattern": "sitzen + zwischen + Dat. + und + Dat.",
+      "mistake": {"wrong": "Er sitzt zwischen mich und meinen Bruder.", "why": "*mich* and *meinen* are Akkusativ forms. *sitzen* describes a position, so both parts after *zwischen* must be Dativ."},
+      "examples": [
+        {"de": "Die Bank steht zwischen zwei Bäumen.", "en": "The bench is between two trees."},
+        {"de": "Das Kind schläft zwischen seinen Eltern.", "en": "The child is sleeping between its parents."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Setz dich {{c1::neben}} mich!",
+      "en": "Sit next to me!",
+      "focus": "Richtung · *sich setzen* · Imperativ",
+      "explanation": "*sich setzen* is the movement of sitting down → *wohin?* → Akkusativ. **neben** + the Akkusativ of *ich*: *mich*. After you sit down, the position is Dativ: *Du sitzt neben mir.*",
+      "pattern": "sich setzen + neben + Akk.-Pronomen",
+      "mistake": {"wrong": "Setz dich neben mir!", "why": "*neben mir* (Dativ) is the position after sitting down. The movement *sich setzen* needs the Akkusativ: *neben mich*."},
+      "examples": [
+        {"de": "Darf ich mich neben dich setzen?", "en": "May I sit next to you?"},
+        {"de": "Stell den Stuhl neben das Fenster.", "en": "Put the chair next to the window."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Die Lampe hängt {{c1::über dem::über + Artikel}} Tisch.",
+      "en": "The lamp hangs above the table.",
+      "focus": "Position · oberhalb ohne Kontakt",
+      "explanation": "*hängen* without an object = position → Dativ. **über** means *above* with no contact (with contact you use *auf*). *Tisch* is masculine → Dativ **dem**: **über dem Tisch**.",
+      "pattern": "hängen (intransitiv) + über + Dat.",
+      "mistake": {"wrong": "Die Lampe hängt über den Tisch.", "why": "The lamp is already in its place, so *über* takes the Dativ: masculine *dem*. *über den Tisch* is the goal when you hang it up."},
+      "examples": [
+        {"de": "Über dem Bett hängt ein altes Foto.", "en": "An old photo hangs above the bed."},
+        {"de": "Ein Hubschrauber kreist über der Stadt.", "en": "A helicopter is circling above the city."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Häng die Lampe bitte {{c1::über den::über + Artikel}} Tisch!",
+      "en": "Please hang the lamp above the table!",
+      "focus": "Richtung · *hängen* mit Objekt · Imperativ",
+      "explanation": "The imperative *häng(e)!* has the object *die Lampe*: the lamp gets a new place → *wohin?* → Akkusativ. *Tisch* is masculine → **den**: **über den Tisch**.",
+      "pattern": "Häng + Akk.-Objekt + über + Akk.!",
+      "mistake": {"wrong": "Häng die Lampe bitte über dem Tisch!", "why": "With transitive *hängen* the lamp moves to its new place, so standard German uses the Akkusativ. *über dem Tisch* describes the result: *Die Lampe hängt über dem Tisch.* (Only with *aufhängen* is the Dativ also common: *die Lampe über dem Tisch aufhängen*.)"},
+      "examples": [
+        {"de": "Häng das Handtuch über die Heizung.", "en": "Hang the towel over the radiator."},
+        {"de": "Sie hängt ihre Jacke über den Stuhl.", "en": "She hangs her jacket over the chair."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Der Hund schläft {{c1::unter dem::unter + Artikel}} Bett.",
+      "en": "The dog sleeps under the bed.",
+      "focus": "Ort einer Tätigkeit · *schlafen*",
+      "explanation": "*schlafen* is not a movement; it happens in one place → *wo?* → Dativ. *Bett* is neuter, and the neuter Dativ is **dem**: **unter dem Bett**.",
+      "pattern": "Tätigkeit + unter + Dat.",
+      "mistake": {"wrong": "Der Hund schläft unter das Bett.", "why": "*unter das Bett* would be a goal (*Der Hund kriecht unter das Bett*). Sleeping has no goal, so the Dativ is correct."},
+      "examples": [
+        {"de": "Die Katze liegt unter dem Tisch.", "en": "The cat is lying under the table."},
+        {"de": "Unter der Brücke fließt ein kleiner Bach.", "en": "A small stream flows under the bridge."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Die Katze geht {{c1::hinter das::hinter + Artikel}} Sofa.",
+      "en": "The cat goes behind the sofa.",
+      "focus": "Richtung · Ziel der Bewegung",
+      "explanation": "The cat moves from the room to the space behind the sofa → *wohin?* → Akkusativ. *Sofa* is neuter, so the Akkusativ article is **das**, the same as the Nominativ: **hinter das Sofa**. Once it is there: *Die Katze ist hinter dem Sofa.*",
+      "pattern": "gehen + hinter + Akk. (n.)",
+      "mistake": {"wrong": "Die Katze geht hinter den Sofa.", "why": "*den* is the masculine Akkusativ. *Sofa* is neuter (*das Sofa*), and the neuter Akkusativ stays *das*."},
+      "examples": [
+        {"de": "Der Ball ist hinter den Schrank gerollt.", "en": "The ball rolled behind the cupboard."},
+        {"de": "Er stellt das Fahrrad hinter das Haus.", "en": "He puts the bike behind the house."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir wohnen {{c1::in der::in + Artikel}} Stadt.",
+      "en": "We live in the city.",
+      "focus": "Position · *wohnen*",
+      "explanation": "*wohnen* names the place where you live → *wo?* → Dativ. *Stadt* is feminine → Dativ **der**: **in der Stadt**. *wohnen* never expresses a movement, so it never takes the Akkusativ.",
+      "pattern": "wohnen + in + Dat.",
+      "mistake": {"wrong": "Wir wohnen in die Stadt.", "why": "*in die Stadt* is a goal (*Wir ziehen in die Stadt* = we are moving to the city). For the place where you live use the Dativ."},
+      "examples": [
+        {"de": "Meine Eltern wohnen in einem kleinen Dorf.", "en": "My parents live in a small village."},
+        {"de": "Sie arbeitet in der Bibliothek.", "en": "She works in the library."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich gehe {{c1::in den::in + Artikel}} Park.",
+      "en": "I'm going to the park.",
+      "focus": "Richtung · Ziel einer Bewegung (m.)",
+      "explanation": "*gehen* + a goal → *wohin?* → Akkusativ. *Park* is masculine, so *der* changes to **den**: **in den Park**. English says *to the park*, but German uses *in* because you go into the area.",
+      "pattern": "gehen + in + Akk. (m.)",
+      "mistake": {"wrong": "Ich gehe in der Park.", "why": "*der Park* is the Nominativ. As a goal after *in*, the masculine article becomes *den*."},
+      "examples": [
+        {"de": "Wir fahren morgen in den Schwarzwald.", "en": "Tomorrow we're going to the Black Forest."},
+        {"de": "Er bringt den Müll in den Keller.", "en": "He takes the rubbish down to the cellar."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich gehe {{c1::auf den::auf + Artikel}} Markt.",
+      "en": "I'm going to the market.",
+      "focus": "Richtung · offener Platz",
+      "explanation": "For open places and public events German often uses **auf**: *auf den Markt, auf den Spielplatz, auf eine Party*. The market is the goal → *wohin?* → Akkusativ, masculine **den**: **auf den Markt**.",
+      "pattern": "gehen + auf + Akk. (offener Platz)",
+      "mistake": {"wrong": "Ich gehe auf der Markt.", "why": "*der Markt* is the Nominativ. As a goal after *auf*, masculine *der* becomes *den*. The position would be *auf dem Markt* (*Ich kaufe auf dem Markt ein*)."},
+      "examples": [
+        {"de": "Die Kinder gehen auf den Spielplatz.", "en": "The children are going to the playground."},
+        {"de": "Gehst du am Samstag auf die Party?", "en": "Are you going to the party on Saturday?"}
+      ],
+      "words": [{"de": "der Markt (¨-e)", "en": "market"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie steht {{c1::auf der::auf + Artikel}} Bühne.",
+      "en": "She is standing on the stage.",
+      "focus": "Position · *stehen*",
+      "explanation": "*stehen* = position → *wo?* → Dativ. *Bühne* is feminine → Dativ **der**: **auf der Bühne**. The movement onto the stage would be Akkusativ: *Sie geht auf die Bühne.*",
+      "pattern": "stehen + auf + Dat.",
+      "mistake": {"wrong": "Sie steht auf die Bühne.", "why": "*auf die Bühne* names a goal. *stehen* describes where she is, so it needs the Dativ *auf der Bühne*."},
+      "examples": [
+        {"de": "Der Lehrer steht vor der Klasse.", "en": "The teacher is standing in front of the class."},
+        {"de": "Wir stehen schon auf dem Bahnsteig.", "en": "We're already standing on the platform."}
+      ],
+      "words": [{"de": "die Bühne (-n)", "en": "stage"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Stell die Vase {{c1::auf den::auf + Artikel}} Tisch!",
+      "en": "Put the vase on the table!",
+      "focus": "Richtung · *stellen* · Imperativ",
+      "explanation": "*stellen* with the object *die Vase*: you put the vase upright in a new place → *wohin?* → Akkusativ. *Tisch* is masculine → **den**: **auf den Tisch**.",
+      "pattern": "Stell + Akk.-Objekt + auf + Akk.!",
+      "mistake": {"wrong": "Stell die Vase auf dem Tisch!", "why": "*stellen* always expresses a movement to a place, so after *auf* the goal is Akkusativ: *auf den Tisch*."},
+      "examples": [
+        {"de": "Stellen Sie das Gepäck bitte auf den Wagen.", "en": "Please put the luggage on the trolley."},
+        {"de": "Stell den Topf auf den Herd.", "en": "Put the pot on the stove."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Die Vase steht {{c1::auf dem::auf + Artikel}} Tisch.",
+      "en": "The vase is on the table.",
+      "focus": "Position · Ergebnis von *stellen*",
+      "explanation": "This is the result of *Ich stelle die Vase auf den Tisch*: after the movement with *stellen* (Akk.), the vase *steht* (Dat.). *stehen* = *wo?* → masculine Dativ **dem**: **auf dem Tisch**.",
+      "pattern": "stehen + auf + Dat. (m.)",
+      "mistake": {"wrong": "Die Vase steht auf den Tisch.", "why": "*den* is the goal form for *stellen*. *stehen* only describes a position, so the masculine article is *dem*."},
+      "examples": [
+        {"de": "Die Milch steht auf dem Küchentisch.", "en": "The milk is on the kitchen table."},
+        {"de": "Auf dem Herd steht ein Topf Suppe.", "en": "There's a pot of soup on the stove."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ich fahre {{c1::an die::an + Artikel}} Nordsee.",
+      "en": "I'm going to the North Sea.",
+      "focus": "Richtung · Meer und Küste",
+      "explanation": "For seas, lakes, rivers and coasts German uses **an** (you are at the edge of the water). The trip has a goal → *wohin?* → Akkusativ. *die Nordsee* is feminine → **an die Nordsee**.",
+      "pattern": "fahren + an + Akk. (Meer, See, Fluss)",
+      "mistake": {"wrong": "Ich fahre nach der Nordsee.", "why": "*nach* is used for cities and countries without an article (*nach Hamburg, nach Dänemark*). For a sea or a coast use *an* + Akkusativ: *an die Nordsee*."},
+      "examples": [
+        {"de": "Am Wochenende fahren wir an den Bodensee.", "en": "At the weekend we're going to Lake Constance."},
+        {"de": "Wir gehen nach dem Essen an den Strand.", "en": "We'll go to the beach after dinner."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir wohnen {{c1::an der::an + Artikel}} Ostsee.",
+      "en": "We live by the Baltic Sea.",
+      "focus": "Position · Wohnort am Meer",
+      "explanation": "*wohnen* = position → *wo?* → Dativ. Coasts and shores take **an**: feminine *die Ostsee* → Dativ **der**: **an der Ostsee**. The contraction for masculine and neuter is *am* (*am Rhein, am Meer*).",
+      "pattern": "wohnen + an + Dat. (Küste)",
+      "mistake": {"wrong": "Wir wohnen in der Ostsee.", "why": "*in der Ostsee* means inside the water (*Wir schwimmen in der Ostsee*). A place on the coast takes *an*."},
+      "examples": [
+        {"de": "Mein Onkel hat ein Haus am Bodensee.", "en": "My uncle has a house on Lake Constance."},
+        {"de": "Die Stadt liegt an der Donau.", "en": "The town is on the Danube."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Setz dich {{c1::auf den::auf + Artikel}} Stuhl!",
+      "en": "Sit down on the chair!",
+      "focus": "Richtung · *sich setzen* · Imperativ",
+      "explanation": "*sich setzen* is the movement of sitting down → *wohin?* → Akkusativ. *Stuhl* is masculine → **den**: **auf den Stuhl**. After the movement: *Du sitzt auf dem Stuhl.*",
+      "pattern": "sich setzen + auf + Akk. (m.)",
+      "mistake": {"wrong": "Setz dich auf dem Stuhl!", "why": "*sich setzen* is the movement, *sitzen* the position. The movement needs the Akkusativ: *auf den Stuhl*."},
+      "examples": [
+        {"de": "Setzt euch bitte auf die Bank.", "en": "Please sit down on the bench (you all)."},
+        {"de": "Er setzt sich auf den Boden.", "en": "He sits down on the floor."}
+      ],
+      "words": [{"de": "sich setzen", "en": "to sit down"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er sitzt {{c1::auf dem::auf + Artikel}} Sofa.",
+      "en": "He is sitting on the sofa.",
+      "focus": "Position · *sitzen*",
+      "explanation": "*sitzen* (saß, gesessen) = position → *wo?* → Dativ. *Sofa* is neuter → Dativ **dem**: **auf dem Sofa**. Compare the movement: *Er setzt sich auf das Sofa.*",
+      "pattern": "sitzen + auf + Dat. (n.)",
+      "mistake": {"wrong": "Er sitzt auf das Sofa.", "why": "*sitzen* never takes the Akkusativ after a Wechselpräposition. *auf das Sofa* belongs to *sich setzen*."},
+      "examples": [
+        {"de": "Die Oma sitzt auf der Terrasse.", "en": "Grandma is sitting on the terrace."},
+        {"de": "Die Kinder sitzen auf dem Boden.", "en": "The children are sitting on the floor."}
+      ],
+      "words": [{"de": "sitzen (saß, gesessen)", "en": "to sit, to be sitting"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich setze mich {{c1::auf}} das Sofa.",
+      "en": "I sit down on the sofa.",
+      "focus": "Richtung · *sich setzen* · Neutrum",
+      "explanation": "*sich setzen* is a movement to a new place → Akkusativ. *Sofa* is neuter, so the Akkusativ is *das*, the same as the Nominativ. **auf** is used because you sit on a surface; in speech *auf das* often becomes *aufs*.",
+      "pattern": "sich setzen + auf + das (Akk. n.)",
+      "mistake": {"wrong": "Ich setze mich auf dem Sofa.", "why": "*auf dem Sofa* is the position verb's case (*Ich sitze auf dem Sofa*). The movement *sich setzen* takes the Akkusativ."},
+      "examples": [
+        {"de": "Ich setze mich auf die Treppe.", "en": "I sit down on the stairs."},
+        {"de": "Er setzt sich auf die Bank am Fluss.", "en": "He sits down on the bench by the river."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Sie sitzt schon {{c1::auf}} dem Sofa.",
+      "en": "She's already sitting on the sofa.",
+      "focus": "Position · Bewegung ist vorbei",
+      "explanation": "*schon* shows that the movement is finished: she sat down earlier and is now in her place. *sitzen* = position → Dativ: *dem Sofa*. With **auf** the object is a surface she sits on.",
+      "pattern": "sitzen + auf + dem (Dat. n.)",
+      "mistake": {"wrong": "Sie sitzt schon auf das Sofa.", "why": "*sitzen* is a position verb and always takes the Dativ. Only *sich setzen* takes *auf das Sofa*."},
+      "examples": [
+        {"de": "Der Vogel sitzt auf dem Dach.", "en": "The bird is sitting on the roof."},
+        {"de": "Die Gäste sitzen schon am Tisch.", "en": "The guests are already sitting at the table."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Häng die Jacke {{c1::in}} den Schrank.",
+      "en": "Hang the jacket in the wardrobe.",
+      "focus": "Richtung · *hängen* mit Objekt",
+      "explanation": "Transitive *hängen* (with the object *die Jacke*) moves the jacket to a new place → Akkusativ: masculine *der Schrank* → *den Schrank*. **in** is used because the jacket goes inside the wardrobe.",
+      "pattern": "hängen + Akk.-Objekt + in + Akk. (m.)",
+      "mistake": {"wrong": "Häng die Jacke in dem Schrank.", "why": "*in dem (im) Schrank* is the result: *Die Jacke hängt im Schrank.* The action of hanging it up needs the Akkusativ *in den Schrank*."},
+      "examples": [
+        {"de": "Ich hänge die nassen Handtücher auf den Balkon.", "en": "I'm hanging the wet towels on the balcony."},
+        {"de": "Häng deinen Mantel an die Garderobe.", "en": "Hang your coat on the coat rack."}
+      ],
+      "words": [{"de": "der Schrank (¨-e)", "en": "wardrobe, cupboard"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Die Jacke hängt {{c1::im}} Schrank.",
+      "en": "The jacket is hanging in the wardrobe.",
+      "focus": "Position · *hängen* ohne Objekt · Verschmelzung",
+      "explanation": "Intransitive *hängen* (no object; *hing, gehangen*) = position → Dativ. *Schrank* is masculine → *in dem*, which normally contracts to **im**: *im Schrank*.",
+      "pattern": "hängen (intransitiv) + im (= in dem)",
+      "mistake": {"wrong": "Die Jacke hängt in den Schrank.", "why": "*in den Schrank* is the goal of the action *hängen* + object. Here the jacket is already in its place, so it is *im Schrank*."},
+      "examples": [
+        {"de": "Die Handtücher hängen im Bad.", "en": "The towels are hanging in the bathroom."},
+        {"de": "Im Flur hängt ein großer Spiegel.", "en": "There's a big mirror hanging in the hall."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Wir steigen {{c1::in}} den Zug ein.",
+      "en": "We're getting on the train.",
+      "focus": "Richtung · trennbares Verb *einsteigen*",
+      "explanation": "*einsteigen* is a movement into a vehicle → Akkusativ: masculine *der Zug* → *den Zug*. The prefix *ein* goes to the end of the clause. The opposite *aussteigen* takes *aus* + Dativ: *aus dem Zug aussteigen*.",
+      "pattern": "einsteigen: steigen + in + Akk. + ein",
+      "mistake": {"wrong": "Wir steigen in dem Zug ein.", "why": "Getting on means moving from the platform into the train, so *in* needs the Akkusativ: *in den Zug*."},
+      "examples": [
+        {"de": "Steigen Sie bitte hinten in den Bus ein.", "en": "Please get on the bus at the back."},
+        {"de": "Sie steigt vor dem Hotel in ein Taxi ein.", "en": "She gets into a taxi in front of the hotel."}
+      ],
+      "words": [{"de": "einsteigen", "en": "to get on/in (a vehicle)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Das Foto steht {{c1::auf}} dem Regal.",
+      "en": "The photo is on the shelf.",
+      "focus": "Position · *stehen* für aufrechte Dinge",
+      "explanation": "*stehen* is the position verb that belongs to *stellen*. The photo is in its place → Dativ: neuter *das Regal* → *dem Regal*. Photos in a frame, books and bottles *stehen* in German because they are upright.",
+      "pattern": "stehen + auf + Dat. (n.)",
+      "mistake": {"wrong": "Das Foto steht auf das Regal.", "why": "*auf das Regal* is the goal after *stellen*. *stehen* describes a position and needs the Dativ *auf dem Regal*."},
+      "examples": [
+        {"de": "Eine Kerze steht auf dem Fensterbrett.", "en": "A candle is on the windowsill."},
+        {"de": "Neben dem Fernseher steht eine Pflanze.", "en": "There's a plant next to the TV."}
+      ],
+      "words": [{"de": "das Regal (-e)", "en": "shelf, shelves"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Er legt das Handy {{c1::neben}} den Teller.",
+      "en": "He puts the phone next to the plate.",
+      "focus": "Richtung · *legen*",
+      "explanation": "*legen* (legte, gelegt) means to put something down flat. The phone changes place → *wohin?* → Akkusativ: masculine *der Teller* → *den Teller*. **neben** = next to.",
+      "pattern": "legen + Akk.-Objekt + neben + Akk. (m.)",
+      "mistake": {"wrong": "Er legt das Handy neben dem Teller.", "why": "*legen* always describes a movement, so the goal after *neben* is Akkusativ: *neben den Teller*."},
+      "examples": [
+        {"de": "Leg die Schlüssel bitte neben die Tür.", "en": "Please put the keys next to the door."},
+        {"de": "Ich lege die Brille neben das Bett.", "en": "I put my glasses next to the bed."}
+      ],
+      "words": [{"de": "legen", "en": "to lay, to put (down flat)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Das Handy liegt {{c1::neben}} dem Teller.",
+      "en": "The phone is lying next to the plate.",
+      "focus": "Position · *liegen*",
+      "explanation": "*liegen* (lag, gelegen) = position → *wo?* → Dativ: *der Teller* → *dem Teller*. The preposition **neben** is the same as with *legen*; only the verb changes, and with it the case (*den → dem*).",
+      "pattern": "liegen + neben + Dat. (m.)",
+      "mistake": {"wrong": "Das Handy liegt neben den Teller.", "why": "*den* is the goal form that belongs to *legen*. *liegen* describes a position: *neben dem Teller*."},
+      "examples": [
+        {"de": "Der Brief liegt neben der Kaffeemaschine.", "en": "The letter is next to the coffee machine."},
+        {"de": "Neben dem Sofa liegt ein Teppich.", "en": "There's a rug next to the sofa."}
+      ],
+      "words": [{"de": "liegen (lag, gelegen)", "en": "to lie, to be (lying)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich gehe heute {{c1::ins::in + Artikel}} Kino.",
+      "en": "I'm going to the cinema today.",
+      "focus": "Richtung · Verschmelzung · Neutrum",
+      "explanation": "**ins** = *in das*. Going to the cinema has a goal → *wohin?* → Akkusativ; *Kino* is neuter → *das*, contracted to *ins*. Buildings where an activity takes place (cinema, theatre, museum) take *in*.",
+      "pattern": "gehen + ins (= in das) + Nomen (n.)",
+      "mistake": {"wrong": "Ich gehe heute im Kino.", "why": "*im* = *in dem*, a Dativ for the position. *gehen* + goal needs the Akkusativ *in das → ins*."},
+      "examples": [
+        {"de": "Wir gehen morgen ins Theater.", "en": "We're going to the theatre tomorrow."},
+        {"de": "Kommst du mit ins Schwimmbad?", "en": "Are you coming to the swimming pool with us?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wir sitzen schon {{c1::im::in + Artikel}} Kino.",
+      "en": "We're already sitting in the cinema.",
+      "focus": "Position · Verschmelzung · Neutrum",
+      "explanation": "**im** = *in dem*. *sitzen* = position → Dativ; *Kino* is neuter → *dem*, contracted to *im*. Compare the movement before: *Wir gehen ins Kino.*",
+      "pattern": "sitzen + im (= in dem) + Nomen (n.)",
+      "mistake": {"wrong": "Wir sitzen schon ins Kino.", "why": "*ins* = *in das* (Akkusativ, goal). *sitzen* is a position, so the contraction must be the Dativ *im*."},
+      "examples": [
+        {"de": "Sie ist gerade im Museum.", "en": "She's at the museum right now."},
+        {"de": "Im Theater darf man nicht essen.", "en": "You're not allowed to eat in the theatre."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Stell die Blumen {{c1::vor}} das Fenster.",
+      "en": "Put the flowers in front of the window.",
+      "focus": "Richtung · *stellen* · Neutrum",
+      "explanation": "*stellen* = movement to a new place → Akkusativ. *Fenster* is neuter, so the Akkusativ is *das*, the same as the Nominativ: **vor** *das Fenster*. The position afterwards is Dativ: *Die Blumen stehen vor dem Fenster.*",
+      "pattern": "stellen + Akk.-Objekt + vor + das (Akk. n.)",
+      "mistake": {"wrong": "Stell die Blumen vor dem Fenster.", "why": "*vor dem Fenster* is the position. The action *stellen* names a goal, so it needs the Akkusativ *vor das Fenster*."},
+      "examples": [
+        {"de": "Stell das Fahrrad bitte vor die Garage.", "en": "Please put the bike in front of the garage."},
+        {"de": "Wir stellen den Tisch vor das Sofa.", "en": "We're putting the table in front of the sofa."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Die Kinder spielen {{c1::hinter}} dem Haus.",
+      "en": "The children are playing behind the house.",
+      "focus": "Ort einer Tätigkeit · kein Ziel",
+      "explanation": "*spielen* is an activity in one place and has no goal → *wo?* → Dativ: neuter *das Haus* → *dem Haus*. The children may run around while they play, but they stay in the same area **hinter** the house.",
+      "pattern": "Tätigkeit + hinter + Dat. (n.)",
+      "mistake": {"wrong": "Die Kinder spielen hinter das Haus.", "why": "The Akkusativ needs a movement to a goal. *spielen* only describes what happens in a place, so the Dativ is correct."},
+      "examples": [
+        {"de": "Hinter dem Bahnhof gibt es einen Parkplatz.", "en": "There's a car park behind the station."},
+        {"de": "Hinter der Schule ist ein Sportplatz.", "en": "There's a sports ground behind the school."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie fährt jeden Sommer {{c1::an}} die Nordsee.",
+      "en": "She goes to the North Sea every summer.",
+      "focus": "Richtung · Küste · regelmäßige Reise",
+      "explanation": "*jeden Sommer* describes a repeated trip, but each trip still has a goal → *wohin?* → Akkusativ: **an** *die Nordsee*. When she is there: *Sie ist an der Nordsee* (Dativ).",
+      "pattern": "fahren + an + Akk. (Küste)",
+      "mistake": {"wrong": "Sie fährt jeden Sommer an der Nordsee.", "why": "*an der Nordsee* (Dativ) is the position: *Sie ist an der Nordsee.* Each trip has the coast as its goal (*wohin?*), so *fahren* needs the Akkusativ: *an die Nordsee*."},
+      "examples": [
+        {"de": "Jedes Jahr fahren wir ans Mittelmeer.", "en": "Every year we go to the Mediterranean."},
+        {"de": "Fahrt ihr im August wieder an den Gardasee?", "en": "Are you going to Lake Garda again in August?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Der Hund springt {{c1::auf}} den Stuhl.",
+      "en": "The dog jumps onto the chair.",
+      "focus": "Richtung · Ortswechsel nach oben",
+      "explanation": "The dog is on the floor first and on the chair afterwards: the jump changes its place → *wohin?* → Akkusativ: **auf** *den Stuhl*. If the dog jumps up and down while it stays on the chair, it is Dativ: *Er springt auf dem Stuhl herum.*",
+      "pattern": "springen + auf + Akk. (Ziel)",
+      "mistake": {"wrong": "Der Hund springt auf der Stuhl.", "why": "*der Stuhl* is the Nominativ. After *auf* with a goal, the masculine article becomes *den*."},
+      "examples": [
+        {"de": "Die Katze springt auf den Schrank.", "en": "The cat jumps onto the cupboard."},
+        {"de": "Er ist ins kalte Wasser gesprungen.", "en": "He jumped into the cold water."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Die Kinder laufen {{c1::im::in + Artikel}} Garten herum.",
+      "en": "The children are running around in the garden.",
+      "focus": "Bewegung innerhalb eines Ortes",
+      "explanation": "There is movement, but no goal: the children stay inside the garden and run around there → *wo?* → Dativ. *Garten* is masculine → *in dem*, contracted to **im**. *herum* signals movement without a destination.",
+      "pattern": "laufen + im (Dat.) + herum",
+      "mistake": {"wrong": "Die Kinder laufen in den Garten herum.", "why": "*in den Garten* would be a goal (*Sie laufen in den Garten* = into the garden). With *herum* there is no goal, so the Dativ is required."},
+      "examples": [
+        {"de": "Wir sind den ganzen Tag in der Stadt herumgelaufen.", "en": "We walked around the town all day."},
+        {"de": "Im Park joggen morgens viele Leute.", "en": "Lots of people go jogging in the park in the morning."}
+      ],
+      "words": [{"de": "herumlaufen", "en": "to run/walk around"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir sind um Mitternacht {{c1::am::an + Artikel}} Flughafen angekommen.",
+      "en": "We arrived at the airport at midnight.",
+      "focus": "*ankommen* · Ankunftsort",
+      "explanation": "*ankommen* looks like a movement, but it names the place where you are at the end (*wo bist du angekommen?*) → Dativ. *Flughafen* is masculine → *an dem*, contracted to **am**. The same is true for *landen* and *eintreffen*.",
+      "pattern": "ankommen + an/in + Dat.",
+      "mistake": {"wrong": "Wir sind um Mitternacht an den Flughafen angekommen.", "why": "*ankommen* always takes the Dativ after a Wechselpräposition: *am Flughafen, in der Stadt, im Hotel*. Learners choose the Akkusativ because they think of the movement."},
+      "examples": [
+        {"de": "Der Zug kommt um 9 Uhr in Berlin an.", "en": "The train arrives in Berlin at 9 o'clock."},
+        {"de": "Wann seid ihr im Hotel angekommen?", "en": "When did you arrive at the hotel?"}
+      ],
+      "words": [{"de": "ankommen (ist angekommen)", "en": "to arrive"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Vor einer::vor + Artikel}} Woche war ich noch in Rom.",
+      "en": "A week ago I was still in Rome.",
+      "focus": "Zeitangabe · vergangener Zeitpunkt",
+      "explanation": "In time phrases *vor, in, an* and *zwischen* take the Dativ; there is no *wohin?*. *vor* + period = *ago*. *Woche* is feminine → Dativ *einer*: **Vor einer** *Woche*.",
+      "pattern": "vor + Dat. (Zeit) = ago",
+      "mistake": {"wrong": "Vor eine Woche war ich noch in Rom.", "why": "*eine* is Nominativ/Akkusativ. Time phrases with *vor, in, an, zwischen* use the Dativ: *vor einer Woche, in einem Monat, am Montag*."},
+      "examples": [
+        {"de": "Vor zwei Jahren haben wir geheiratet.", "en": "We got married two years ago."},
+        {"de": "In einem Monat beginnt das Semester.", "en": "The semester starts in a month."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich stecke den Schlüssel {{c1::in die::in + Artikel}} Jackentasche.",
+      "en": "I put the key in my jacket pocket.",
+      "focus": "Richtung · *stecken* mit Objekt",
+      "explanation": "*stecken* with an object means to put something into a narrow space (pocket, lock, envelope). The key moves → *wohin?* → Akkusativ: feminine **die**: **in die** *Jackentasche*. Without an object, *stecken* is the position: *Der Schlüssel steckt in der Jackentasche.*",
+      "pattern": "stecken + Akk.-Objekt + in + Akk.",
+      "mistake": {"wrong": "Ich stecke den Schlüssel in der Jackentasche.", "why": "*in der Jackentasche* is the place where the key is afterwards. While you put it there, you need the Akkusativ *in die Jackentasche*."},
+      "examples": [
+        {"de": "Sie steckt den Brief in den Umschlag.", "en": "She puts the letter into the envelope."},
+        {"de": "Er steckt sein Handy in die Hosentasche.", "en": "He puts his phone in his trouser pocket."}
+      ],
+      "words": [{"de": "stecken", "en": "to put (into); to be (stuck) in"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Leg die Zeitung bitte {{c1::auf den::auf + Artikel}} Schreibtisch.",
+      "en": "Please put the newspaper on the desk.",
+      "focus": "Richtung · *legen* · Imperativ",
+      "explanation": "*legen* + object: the newspaper is put down flat in a new place → *wohin?* → Akkusativ. *Schreibtisch* is masculine (compound noun: the gender comes from the last part, *der Tisch*) → **auf den** *Schreibtisch*.",
+      "pattern": "Leg + Akk.-Objekt + auf + Akk. (m.)",
+      "mistake": {"wrong": "Leg die Zeitung bitte auf dem Schreibtisch.", "why": "*legen* is the verb of movement in the pair *legen/liegen*. Its goal is Akkusativ: *auf den Schreibtisch*."},
+      "examples": [
+        {"de": "Legen Sie Ihre Tasche bitte auf das Band.", "en": "Please put your bag on the conveyor belt."},
+        {"de": "Ich lege das Baby ins Bett.", "en": "I'm putting the baby to bed."}
+      ],
+      "words": [{"de": "der Schreibtisch (-e)", "en": "desk"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Dein Handy liegt {{c1::unter der::unter + Artikel}} Zeitung.",
+      "en": "Your phone is under the newspaper.",
+      "focus": "Position · *liegen*",
+      "explanation": "*liegen* = position → *wo?* → Dativ. *Zeitung* is feminine → Dativ **der**: **unter der** *Zeitung*. Flat objects (phones, papers, keys) *liegen* in German, where English just says *is*.",
+      "pattern": "liegen + unter + Dat. (f.)",
+      "mistake": {"wrong": "Dein Handy liegt unter die Zeitung.", "why": "*unter die Zeitung* would be a goal (*Ich lege das Handy unter die Zeitung*). *liegen* describes a position, so it needs the Dativ."},
+      "examples": [
+        {"de": "Die Schuhe liegen unter dem Sofa.", "en": "The shoes are under the sofa."},
+        {"de": "Unter dem Teppich lag ein Zettel.", "en": "There was a note under the rug."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Geh nicht bei Rot {{c1::über die::über + Artikel}} Straße!",
+      "en": "Don't cross the street when the light is red!",
+      "focus": "Richtung · von einer Seite zur anderen",
+      "explanation": "*über* + Akkusativ can describe a movement across something to the other side: *über die Straße gehen* = to cross the street. The person changes place → *wohin?* → Akkusativ; *Straße* is feminine → **über die** *Straße*.",
+      "pattern": "gehen + über + Akk. (= cross)",
+      "mistake": {"wrong": "Geh nicht bei Rot über der Straße!", "why": "*über der Straße* (Dativ) means *above* the street (*Die Ampel hängt über der Straße*). Crossing is a movement to the other side, so it takes the Akkusativ."},
+      "examples": [
+        {"de": "Wir sind mit dem Boot über den See gefahren.", "en": "We crossed the lake by boat."},
+        {"de": "Die Katze läuft über den Hof.", "en": "The cat runs across the yard."}
+      ],
+      "words": [{"de": "bei Rot", "en": "when the light is red"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Apotheke liegt {{c1::zwischen der::zwischen + Artikel}} Post und dem Supermarkt.",
+      "en": "The pharmacy is between the post office and the supermarket.",
+      "focus": "Position · zwei Orte · *liegen* für Gebäude",
+      "explanation": "*liegen* is also used for buildings and towns: *Die Apotheke liegt …* = is located. Position → Dativ for **both** nouns after *zwischen*: feminine *die Post* → **der Post**, masculine *der Supermarkt* → *dem Supermarkt*.",
+      "pattern": "liegen + zwischen + Dat. + und + Dat.",
+      "mistake": {"wrong": "Die Apotheke liegt zwischen der Post und den Supermarkt.", "why": "The Dativ after *zwischen* applies to both nouns. Learners often change only the first one; *der Supermarkt* must also become *dem Supermarkt*."},
+      "examples": [
+        {"de": "Unser Dorf liegt zwischen zwei Seen.", "en": "Our village lies between two lakes."},
+        {"de": "Zwischen den Häusern steht ein alter Baum.", "en": "There's an old tree between the houses."}
+      ],
+      "words": [{"de": "die Apotheke (-n)", "en": "pharmacy"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Katze springt {{c1::aufs::auf + Artikel}} Bett.",
+      "en": "The cat jumps onto the bed.",
+      "focus": "Richtung · Verschmelzung · Neutrum",
+      "explanation": "The jump changes the cat's place → *wohin?* → Akkusativ. *Bett* is neuter → *auf das*, which in everyday German contracts to **aufs**. In the same way: *ans Fenster, ins Bett*.",
+      "pattern": "springen + aufs (= auf das) + Nomen (n.)",
+      "mistake": {"wrong": "Die Katze springt auf den Bett.", "why": "*den* is the masculine Akkusativ. *Bett* is neuter (*das Bett*), so the goal is *auf das Bett*, contracted to *aufs*."},
+      "examples": [
+        {"de": "Er geht ans Fenster und schaut hinaus.", "en": "He goes to the window and looks out."},
+        {"de": "Die Kinder klettern aufs Dach.", "en": "The children are climbing onto the roof."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir warten {{c1::vor dem::vor + Artikel}} Kino auf dich.",
+      "en": "We'll wait for you in front of the cinema.",
+      "focus": "Ort einer Tätigkeit · *warten*",
+      "explanation": "*warten* happens in one place → *wo?* → Dativ: neuter *das Kino* → **vor dem** *Kino*. The second phrase *auf dich* is different: it belongs to the fixed verb *warten auf* + Akkusativ and does not depend on *wo?/wohin?*.",
+      "pattern": "warten + vor + Dat. (Ort) + auf + Akk. (Person)",
+      "mistake": {"wrong": "Wir warten vor das Kino auf dich.", "why": "Waiting is not a movement to a goal. The place where you wait is always Dativ: *vor dem Kino*."},
+      "examples": [
+        {"de": "Ich warte unten vor der Tür.", "en": "I'll wait downstairs in front of the door."},
+        {"de": "Treffen wir uns vor dem Rathaus?", "en": "Shall we meet in front of the town hall?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die alten Bücher stehen {{c1::in den::in + Artikel}} Regalen.",
+      "en": "The old books are on the shelves.",
+      "focus": "Position · Dativ Plural",
+      "explanation": "*stehen* = position → Dativ. *Regale* is plural, and the Dativ plural article is **den**; the noun adds *-n*: **in den** *Regalen*. Do not confuse it with masculine Akkusativ *den*: here the *-n* on the noun shows the Dativ plural.",
+      "pattern": "stehen + in + den + Nomen-n (Dat. Pl.)",
+      "mistake": {"wrong": "Die alten Bücher stehen in den Regale.", "why": "In the Dativ plural the noun needs *-n*: *in den Regalen*. Without it, *den Regale* is not a correct form."},
+      "examples": [
+        {"de": "Auf den Tischen liegen schon die Speisekarten.", "en": "The menus are already on the tables."},
+        {"de": "In den Zimmern gibt es kein WLAN.", "en": "There's no Wi-Fi in the rooms."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich denke oft {{c1::an die::an + Artikel}} Zeit in Spanien.",
+      "en": "I often think about the time in Spain.",
+      "focus": "festes Verb + Präposition",
+      "explanation": "Here *an* is not a place: it belongs to the fixed verb *denken an* + Akkusativ. In such pairs the case is fixed, and you cannot ask *wo?* or *wohin?*. *Zeit* is feminine → **an die** *Zeit*.",
+      "pattern": "denken + an + Akk. (feste Präposition)",
+      "mistake": {"wrong": "Ich denke oft an der Zeit in Spanien.", "why": "*denken an* always takes the Akkusativ. The question *wo?* (Dativ) does not apply, because no place is meant."},
+      "examples": [
+        {"de": "Sie erinnert sich gern an den Urlaub in Griechenland.", "en": "She likes to remember the holiday in Greece."},
+        {"de": "Wir warten schon lange auf den Bus.", "en": "We've been waiting for the bus for a long time."}
+      ],
+      "words": [{"de": "denken an (+ Akk.)", "en": "to think of/about"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about choosing the case.",
+      "prompt": "After a Wechselpräposition, how do you decide between Akkusativ and Dativ?",
+      "answer": "**Akkusativ** when someone or something moves to a new place and the phrase names the goal (*wohin?*). **Dativ** when the phrase names a position or the place of an action (*wo?*), even if there is movement inside that place.",
+      "explanation": "The question is not \"Is there movement?\" but \"Is there a change of place to a goal?\". *Wir laufen in den Wald* (into the forest, Akk.) vs. *Wir laufen im Wald* (inside the forest, Dat.).",
+      "examples": [
+        {"de": "Wir laufen in den Wald.", "en": "We're running into the forest."},
+        {"de": "Wir laufen jeden Morgen im Wald.", "en": "We run in the forest every morning."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the verb pairs.",
+      "prompt": "Name the five verb pairs for putting and position, and say which case each side takes.",
+      "answer": "Akkusativ (movement, with object): **legen, stellen, (sich) setzen, hängen (hängte, gehängt), stecken (steckte, gesteckt)**. Dativ (position, no object): **liegen, stehen, sitzen, hängen (hing, gehangen), stecken**.",
+      "explanation": "The movement verbs are weak and transitive: you do something with an object. The position verbs are mostly strong and intransitive. *hängen* and *stecken* have the same infinitive for both meanings, so only the object and the case show the difference.",
+      "examples": [
+        {"de": "Ich habe den Zettel an die Tür gehängt.", "en": "I hung the note on the door."},
+        {"de": "Der Zettel hat den ganzen Tag an der Tür gehangen.", "en": "The note hung on the door all day."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about special verbs.",
+      "prompt": "Why does *ankommen* take the Dativ (*am Bahnhof ankommen*), although it describes travel?",
+      "answer": "Because the phrase names the place where you are at the end of the journey (*wo?*), not a goal you move into. *ankommen, landen, eintreffen* → Dativ; *fahren, fliegen, gehen* + goal → Akkusativ.",
+      "explanation": "Compare *Wir fahren in die Stadt* (goal, Akk.) and *Wir kommen in der Stadt an* (arrival place, Dat.). A quick test: you ask *Wo bist du angekommen?*, never *Wohin bist du angekommen?*",
+      "examples": [
+        {"de": "Wir fliegen nach Wien und landen am Flughafen Schwechat.", "en": "We fly to Vienna and land at Schwechat airport."},
+        {"de": "Das Paket ist gestern in der Firma angekommen.", "en": "The parcel arrived at the company yesterday."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about uses without place.",
+      "prompt": "Which case do Wechselpräpositionen take in time phrases and with fixed verbs like *warten auf* or *denken an*?",
+      "answer": "Time phrases with *vor, in, an, zwischen*: **Dativ** (*vor einer Stunde, in einem Jahr, am Abend, zwischen den Feiertagen*); only *über* + time takes the Akkusativ (*übers Wochenende*). Fixed verb + preposition: a fixed case you must learn. With *auf* and *über* it is almost always **Akkusativ** (*warten auf, sprechen über*); with *an* both occur (*denken an* + Akk., *teilnehmen an* + Dat.); *vor* and *unter* take the **Dativ** (*Angst haben vor, leiden unter*).",
+      "explanation": "The *wo?/wohin?* test only works for real places. In *Ich warte auf den Bus* nothing moves onto the bus; the Akkusativ comes from the verb, so the case must be learned together with the verb.",
+      "examples": [
+        {"de": "Am Abend sprechen wir über den Plan.", "en": "In the evening we'll talk about the plan."},
+        {"de": "Er hat Angst vor dem Zahnarzt.", "en": "He is afraid of the dentist."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Ich habe die Milch in ___ Kühlschrank gestellt.",
+      "options": ["den", "dem", "der"],
+      "correct": "den",
+      "answer": "Ich habe die Milch in den Kühlschrank gestellt.",
+      "explanation": "*stellen* names a movement to a goal → Akkusativ; *Kühlschrank* is masculine → *den*. *dem* would be the position (*Die Milch steht im Kühlschrank*), and *der* is the Nominativ."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct Partizip II.",
+      "prompt": "Das Bild hat jahrelang über dem Kamin ___.",
+      "options": ["gehängt", "gehangen", "hängen"],
+      "correct": "gehangen",
+      "answer": "Das Bild hat jahrelang über dem Kamin gehangen.",
+      "explanation": "There is no object and the phrase *über dem Kamin* is Dativ → position verb *hängen, hing, gehangen*. *gehängt* belongs to the transitive verb (*Ich habe das Bild aufgehängt / an die Wand gehängt*), and the infinitive *hängen* does not form the Perfekt."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Wir sind erst spät ___ Hotel angekommen.",
+      "options": ["ins", "im", "in das"],
+      "correct": "im",
+      "answer": "Wir sind erst spät im Hotel angekommen.",
+      "explanation": "*ankommen* names the place of arrival → Dativ: *in dem → im*. *ins* and *in das* are the same Akkusativ form and would only fit a verb with a goal, such as *gehen* or *fahren*."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich habe die Teller schon auf dem Tisch gestellt.",
+      "answer": "Ich habe die Teller schon auf den Tisch gestellt.",
+      "explanation": "*stellen* is the movement verb of the pair *stellen/stehen*, so the goal must be Akkusativ: masculine *den Tisch*. *auf dem Tisch* fits *stehen*: *Die Teller stehen auf dem Tisch.*"
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Um zehn Uhr liegen die Kinder schon in die Betten.",
+      "answer": "Um zehn Uhr liegen die Kinder schon in den Betten.",
+      "explanation": "*liegen* is a position verb → Dativ. *Betten* is plural, so the Dativ plural is *in den Betten* (the plural already ends in *-n*). *in die Betten* is the goal form for *Die Kinder gehen in die Betten*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat seinen Mantel an den Haken gehangen.",
+      "answer": "Er hat seinen Mantel an den Haken gehängt.",
+      "explanation": "The sentence has an object (*seinen Mantel*) and an Akkusativ goal (*an den Haken*), so it is the transitive weak verb: *hängen, hängte, gehängt*. *gehangen* belongs to the intransitive position verb."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Describe the result of the action with the position verb *liegen*.",
+      "prompt": "Ich lege den Pass in die Schublade.",
+      "answer": "Der Pass liegt in der Schublade.",
+      "explanation": "*legen* (movement, Akk.) becomes *liegen* (position, Dat.). The object *den Pass* becomes the subject *der Pass*, and the goal *in die Schublade* becomes the position *in der Schublade* (feminine Dativ *der*)."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Change the position into the movement: use *sich setzen*.",
+      "prompt": "Die Kinder sitzen auf der Bank.",
+      "answer": "Die Kinder setzen sich auf die Bank.",
+      "explanation": "*sitzen* (Dat.) becomes reflexive *sich setzen* (Akk.). The feminine Dativ *der Bank* changes to the Akkusativ *die Bank*, and the reflexive *sich* is added after the verb."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite with *ich* as the subject and the transitive verb *stecken*: say what you do.",
+      "prompt": "Der Schlüssel steckt im Schloss.",
+      "answer": "Ich stecke den Schlüssel ins Schloss.",
+      "explanation": "Intransitive *stecken* (position) takes the Dativ *im Schloss*. Transitive *stecken* (I put the key in) takes the Akkusativ: neuter *in das → ins Schloss*. The key becomes the Akkusativ object *den Schlüssel*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Katze",
+      "prompt": "ist / das Bett / die Katze / unter / gelaufen",
+      "answer": "Die Katze ist unter das Bett gelaufen.",
+      "explanation": "Perfekt: *ist* in position 2, *gelaufen* at the end (Satzklammer). The cat moves to a new place → *unter das Bett* (Akkusativ, neuter). Compare the position: *Die Katze liegt unter dem Bett.*"
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Im Sommer",
+      "prompt": "an der Ostsee / wir / im Sommer / Urlaub / machen",
+      "answer": "Im Sommer machen wir Urlaub an der Ostsee.",
+      "explanation": "*Im Sommer* is in the Vorfeld, so *machen* follows in position 2 and the subject *wir* in position 3. *Urlaub machen* is an activity in one place → Dativ *an der Ostsee*. *Im Sommer machen wir an der Ostsee Urlaub* is also correct."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with *weil*.",
+      "prompt": "Der Schlüssel liegt nicht auf dem Tisch. Ich habe ihn in die Schublade gelegt.",
+      "answer": "Der Schlüssel liegt nicht auf dem Tisch, weil ich ihn in die Schublade gelegt habe.",
+      "explanation": "In the *weil* clause the finite verb *habe* goes to the end. The cases stay the same: *liegen auf dem Tisch* (position, Dat.) and *legen in die Schublade* (goal, Akk.)."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Geh bitte nicht ___ Küche, der Boden ist noch nass.",
+      "options": ["in die", "in der", "im"],
+      "correct": "in die",
+      "answer": "Geh bitte nicht in die Küche, der Boden ist noch nass.",
+      "explanation": "*gehen* + goal → Akkusativ; *Küche* is feminine → *in die Küche*. *in der Küche* is the position (Dativ), and *im* is the Dativ contraction for masculine or neuter nouns."
+    }
+  ]
+}

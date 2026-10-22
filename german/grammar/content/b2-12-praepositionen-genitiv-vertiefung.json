@@ -1,0 +1,698 @@
+{
+  "topic_id": "b2-12-praepositionen-genitiv-vertiefung",
+  "level": "B2",
+  "title_de": "Präpositionen mit Genitiv (Vertiefung)",
+  "title_en": "Prepositions with the genitive (in depth)",
+  "rule": {
+    "summary": "Besides *wegen, trotz, während* and *(an)statt*, formal German uses many more prepositions with the Genitiv. Most of them come from nouns or participles (*auf Grund → aufgrund, zu Gunsten → zugunsten*) and are typical of reports, news, academic texts and business letters: **aufgrund, infolge, angesichts** (cause), **anhand, mittels** (basis, instrument), **hinsichtlich, bezüglich** (topic), **zugunsten, anstelle, seitens, anlässlich, ungeachtet** and place/time prepositions like **innerhalb, außerhalb, oberhalb, jenseits, entlang**. In speech you often hear the Dativ (*aufgrund dem*), but standard written German requires the Genitiv.",
+    "table": "| Präposition | Bedeutung | Beispiel |\n|---|---|---|\n| **aufgrund**, **infolge**, **angesichts** | due to · as a result of · in view of | aufgrund **des** Wetter**s**, infolge **der** Krise |\n| **anhand**, **mittels** | on the basis of · by means of | anhand **der** Daten, mittels **eines** Code**s** |\n| **hinsichtlich**, **bezüglich** | regarding | bezüglich **Ihrer** Anfrage |\n| **zugunsten**, **anstelle**, **seitens** | in favour of · instead of · on the part of | zugunsten **der** Opfer |\n| **anlässlich**, **ungeachtet** | on the occasion of · regardless of | anlässlich **des** Jubiläum**s** |\n| **innerhalb**, **außerhalb**, **oberhalb**, **unterhalb**, **jenseits**, **diesseits** | within · outside · above · below · beyond · on this side of | innerhalb **einer** Woche, außerhalb Europa**s** |\n| **entlang** (vor dem Nomen) / *zufolge* (nach dem Nomen, + Dativ) | along · according to | entlang **des** Fluss**es** / **dem** Bericht zufolge |",
+    "steps": [
+      "Choose the preposition by meaning: cause (*aufgrund, infolge, angesichts*), basis or tool (*anhand, mittels*), topic (*hinsichtlich, bezüglich*), beneficiary or replacement (*zugunsten, anstelle*), place or time (*innerhalb, außerhalb, oberhalb, jenseits*).",
+      "Put the noun phrase in the Genitiv: articles **des / der / eines / einer**, possessives *meines, ihrer …*; adjectives after an article take **-en**.",
+      "Add the noun ending: masculine and neuter singular nouns take **-(e)s** (*des Sturms, eines Missverständnisses*); names of countries and cities take **-s** (*außerhalb Europas*). Feminine and plural nouns take no ending.",
+      "If the Genitiv is not visible (plural noun without article or adjective: *zwei Wochen, Problemen*), use **von + Dativ**: *innerhalb von zwei Wochen, aufgrund von Bauarbeiten*. With an adjective the Genitiv is visible again: *aufgrund technischer Probleme*.",
+      "Check the exceptions: *entlang* + Genitiv before the noun but + Akkusativ after it (*den Fluss entlang*); *zufolge* follows the noun and takes the Dativ (*dem Bericht zufolge*); *ungeachtet* can also follow the noun."
+    ],
+    "pitfalls": [
+      "Using the Dativ in writing: ✗ *aufgrund dem Wetter* → ✓ *aufgrund des Wetters*. The Dativ is colloquial; exams and formal texts expect the Genitiv.",
+      "Forgetting the noun ending: ✗ *anhand dieses Beispiel* → ✓ *anhand dieses Beispiels*; ✗ *eines Missverständnis* → ✓ *eines Missverständnisses*.",
+      "Genitiv that cannot be seen: ✗ *innerhalb zwei Wochen* → ✓ *innerhalb von zwei Wochen* (or formal *innerhalb zweier Wochen*).",
+      "Weak adjective ending without an article: ✗ *aufgrund technischen Probleme* → ✓ *aufgrund technischer Probleme*. Without an article the adjective takes the strong ending *-er*.",
+      "Treating *zufolge* like the others: ✗ *zufolge des Berichts* → ✓ *dem Bericht zufolge*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Aufgrund::'due to' · formell}} des schlechten Wetters fällt der Flug aus.",
+      "en": "Due to the bad weather, the flight is cancelled.",
+      "focus": "Genitivpräposition · Grund · formell",
+      "explanation": "**aufgrund** gives a reason, like *wegen*, but is more formal (announcements, reports). It takes the Genitiv: *das Wetter* → *des schlechten Wetters* (article *des*, adjective *-en*, noun *-s*). The phrase fills position 1, so *fällt* follows, and *ausfallen* is split. Also correct here: *Wegen* (neutral, everyday) and *Infolge* (formell; it presents the cancellation as a consequence).",
+      "pattern": "aufgrund + des + Adj-en + Nomen-s (Gen. n.)",
+      "mistake": {"wrong": "Aufgrund dem schlechten Wetter fällt der Flug aus.", "why": "The Dativ is common in speech, but in standard written German *aufgrund* takes the Genitiv: *des schlechten Wetters*."},
+      "examples": [
+        {"de": "Aufgrund eines Fehlers im System wurden die Rechnungen doppelt verschickt.", "en": "Due to a system error, the invoices were sent twice."},
+        {"de": "Aufgrund der hohen Nachfrage ist das Produkt ausverkauft.", "en": "Due to high demand, the product is sold out."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Anhand::'on the basis of' · Material einer Analyse}} der Daten erkennen wir den Trend.",
+      "en": "On the basis of the data, we can see the trend.",
+      "focus": "Genitivpräposition · Grundlage einer Analyse",
+      "explanation": "**anhand** means *on the basis of / with the help of* something you look at or analyse (data, examples, documents). It takes the Genitiv: *die Daten* (plural) → *der Daten*. Do not confuse it with *mittels*, which names a tool or instrument. Also correct here: *Aufgrund* (it presents the data as the reason, not as the material you look at).",
+      "pattern": "anhand + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Anhand von der Daten erkennen wir den Trend.", "why": "*anhand von* + Dativ exists, but only without the Genitiv article (*anhand von Daten*). *von* followed by the Genitiv *der Daten* mixes two structures."},
+      "examples": [
+        {"de": "Anhand der Fotos konnte die Polizei den Täter identifizieren.", "en": "Using the photos, the police were able to identify the offender."},
+        {"de": "Anhand einer Checkliste prüfen wir jede Bewerbung.", "en": "We check every application against a checklist."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Mittels::'by means of' · Amtssprache}} eines Codes können Sie die Tür öffnen.",
+      "en": "You can open the door by means of a code.",
+      "focus": "Genitivpräposition · Instrument · Amtssprache",
+      "explanation": "**mittels** names the instrument (*by means of*). It is typical of technical and official texts; in everyday speech you say *mit einem Code*. *der Code* → Genitiv *eines Codes* (article *eines*, noun *-s*). Also correct here: *Mithilfe* (also + Genitiv; more neutral).",
+      "pattern": "mittels + eines + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Mittels einem Code können Sie die Tür öffnen.", "why": "The Dativ belongs to *mit*, not to *mittels*. In written German *mittels* takes the Genitiv: *mittels eines Codes*."},
+      "examples": [
+        {"de": "Mittels eines Fragebogens wurden 500 Personen befragt.", "en": "500 people were surveyed by means of a questionnaire."},
+        {"de": "Die Daten werden mittels einer Schnittstelle übertragen.", "en": "The data are transferred via an interface."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Hinsichtlich::'with respect to' · formell, sachlich}} der Kosten gibt es noch Fragen.",
+      "en": "Regarding the costs, there are still questions.",
+      "focus": "Genitivpräposition · Bezug (Thema)",
+      "explanation": "**hinsichtlich** (*regarding, with respect to*) names the topic a statement refers to. It takes the Genitiv: *die Kosten* (plural) → *der Kosten*. It is formal; in conversation people say *was die Kosten angeht* or *zu den Kosten*. Also correct here: *Bezüglich* (same meaning, typical of letters and emails).",
+      "pattern": "hinsichtlich + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Hinsichtlich die Kosten gibt es noch Fragen.", "why": "*die Kosten* is the Nominativ/Akkusativ plural. *hinsichtlich* needs the Genitiv plural article *der*."},
+      "examples": [
+        {"de": "Hinsichtlich der Qualität gibt es keine Beschwerden.", "en": "As regards quality, there are no complaints."},
+        {"de": "Hinsichtlich des Datenschutzes ist die App unbedenklich.", "en": "With regard to data protection, the app is safe."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Bezüglich::'regarding' · Brief/E-Mail}} Ihrer E-Mail antworte ich heute.",
+      "en": "Regarding your email, I'll reply today.",
+      "focus": "Genitivpräposition · Bezug · Geschäftskorrespondenz",
+      "explanation": "**bezüglich** (*regarding*) is very common in business letters and emails, often at the start (*Bezüglich Ihrer Anfrage …*). *Ihre E-Mail* is feminine → Genitiv *Ihrer E-Mail*. The phrase fills position 1, so the verb *antworte* follows directly. Also correct here: *Hinsichtlich* (same meaning, a little more formal and abstract).",
+      "pattern": "bezüglich + Ihrer + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Bezüglich Ihre E-Mail antworte ich heute.", "why": "*Ihre* is Nominativ/Akkusativ. The feminine Genitiv of the possessive is *Ihrer*: *bezüglich Ihrer E-Mail*."},
+      "examples": [
+        {"de": "Bezüglich Ihrer Bestellung haben wir noch eine Frage.", "en": "We have one more question regarding your order."},
+        {"de": "Bezüglich des Termins melde ich mich morgen.", "en": "I'll get back to you tomorrow about the appointment."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Infolge::Folge}} des Sturms fielen viele Bäume.",
+      "en": "As a result of the storm, many trees fell.",
+      "focus": "Genitivpräposition · Ereignis mit Folge",
+      "explanation": "**infolge** presents the event in the Genitiv as the cause and the main clause as its result (*as a result of*). It is used with events and processes, not with intentions. *der Sturm* → *des Sturms* (also *des Sturmes*).",
+      "pattern": "infolge + des + Nomen-(e)s (Gen. m.)",
+      "mistake": {"wrong": "Infolge vom Sturm fielen viele Bäume.", "why": "*infolge von* + Dativ is only used when the Genitiv cannot be seen (*infolge von Stürmen*). With an article, use the Genitiv: *infolge des Sturms*."},
+      "examples": [
+        {"de": "Infolge des Hochwassers mussten Hunderte Menschen ihre Häuser verlassen.", "en": "As a result of the flood, hundreds of people had to leave their homes."},
+        {"de": "Infolge eines Stromausfalls stand die Produktion still.", "en": "As a result of a power cut, production came to a standstill."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Die Schule liegt {{c1::innerhalb::Ort: drinnen}} der Stadt.",
+      "en": "The school is within the city.",
+      "focus": "Genitivpräposition · Ort (innen)",
+      "explanation": "**innerhalb** + Genitiv means *inside / within* a limited area. *die Stadt* → *der Stadt*. Unlike *in der Stadt*, *innerhalb der Stadt* stresses the boundary: within the city limits.",
+      "pattern": "innerhalb + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Die Schule liegt innerhalb die Stadt.", "why": "*die Stadt* is Nominativ/Akkusativ. *innerhalb* takes the Genitiv; the feminine Genitiv article is *der*."},
+      "examples": [
+        {"de": "Innerhalb des Gebäudes ist das Rauchen verboten.", "en": "Smoking is prohibited inside the building."},
+        {"de": "Die Klinik liegt innerhalb des Universitätsgeländes.", "en": "The clinic is located on the university campus."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Außerhalb::Ort: draußen}} der Stadt ist es ruhiger.",
+      "en": "Outside the city it's quieter.",
+      "focus": "Genitivpräposition · Ort (außen)",
+      "explanation": "**außerhalb** is the opposite of *innerhalb*: *outside* an area. Genitiv: *der Stadt*. The phrase fills position 1, so the verb *ist* comes next and the subject *es* follows it. The comparative *ruhiger* compares with life in the city.",
+      "pattern": "außerhalb + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Außerhalb von der Stadt ist es ruhiger.", "why": "*von* + Dativ is only a substitute when the Genitiv cannot be seen (*außerhalb von Berlin*). With an article, standard German uses the Genitiv: *außerhalb der Stadt*."},
+      "examples": [
+        {"de": "Außerhalb der Saison sind die Hotels günstiger.", "en": "Outside the season, the hotels are cheaper."},
+        {"de": "Außerhalb des Zentrums gibt es kaum Busverbindungen.", "en": "Outside the centre there are hardly any bus connections."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Zugunsten::Nutzen}} der Kinder spenden wir Geld.",
+      "en": "We are donating money for the benefit of the children.",
+      "focus": "Genitivpräposition · wer profitiert",
+      "explanation": "**zugunsten** (*in favour of, for the benefit of*) names who profits. It takes the Genitiv: *die Kinder* → *der Kinder* (plural, no noun ending). It can also be written *zu Gunsten*.",
+      "pattern": "zugunsten + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Zugunsten den Kindern spenden wir Geld.", "why": "*den Kindern* is Dativ plural. *zugunsten* takes the Genitiv: *der Kinder*."},
+      "examples": [
+        {"de": "Zugunsten der Umwelt verzichtet die Firma auf Plastikverpackungen.", "en": "For the sake of the environment, the company does without plastic packaging."},
+        {"de": "Das Gericht entschied zugunsten des Klägers.", "en": "The court ruled in favour of the plaintiff."}
+      ],
+      "words": [{"de": "spenden", "en": "to donate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Ungeachtet::'regardless of' · formell}} der Probleme machen wir weiter.",
+      "en": "Regardless of the problems, we are carrying on.",
+      "focus": "Genitivpräposition · Konzession · formell",
+      "explanation": "**ungeachtet** (*regardless of, despite*) is a formal concessive preposition, close to *trotz*. It takes the Genitiv: *der Probleme* (plural). It can also follow the noun: *der Probleme ungeachtet*. Also correct here: *Trotz* (neutral, 'despite').",
+      "pattern": "ungeachtet + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Ungeachtet die Probleme machen wir weiter.", "why": "*die Probleme* is Nominativ/Akkusativ. The Genitiv plural article after *ungeachtet* is *der*."},
+      "examples": [
+        {"de": "Ungeachtet aller Kritik hält die Regierung an ihrem Plan fest.", "en": "Regardless of all the criticism, the government is sticking to its plan."},
+        {"de": "Ungeachtet seines Alters läuft er jedes Jahr einen Marathon.", "en": "Regardless of his age, he runs a marathon every year."}
+      ],
+      "words": [{"de": "weitermachen", "en": "to carry on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Aufgrund::'because of' · formell}} eines Missverständnisses gab es Streit.",
+      "en": "Because of a misunderstanding, there was an argument.",
+      "focus": "Genitivpräposition · Grund · Nomen auf *-nis*",
+      "explanation": "*das Missverständnis* in the Genitiv with the indefinite article: *eines Missverständnisses* — nouns in *-nis* double the *s* before the ending (*-nisses*). **aufgrund** gives the reason in formal style. *es gab* + Akkusativ: *Streit* without an article. Also correct here: *Wegen* (neutral, everyday) and *Infolge* (formell; it presents the argument as a consequence).",
+      "pattern": "aufgrund + eines + Nomen-ses (Gen. n.)",
+      "mistake": {"wrong": "Aufgrund eines Missverständnis gab es Streit.", "why": "Neuter nouns need the Genitiv ending, and *-nis* becomes *-nisses*: *eines Missverständnisses*."},
+      "examples": [
+        {"de": "Aufgrund eines Tippfehlers kam die E-Mail nicht an.", "en": "Because of a typo, the email didn't arrive."},
+        {"de": "Aufgrund eines Streiks fallen heute viele Flüge aus.", "en": "Because of a strike, many flights are cancelled today."}
+      ],
+      "words": [{"de": "das Missverständnis (-se)", "en": "misunderstanding"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Anhand::'with the help of' · Beispiel}} dieses Beispiels wird es klarer.",
+      "en": "This example makes it clearer.",
+      "focus": "Genitivpräposition · Erklärung mit Beispiel",
+      "explanation": "**anhand** is typical when you explain something with an example, a model or a case. *dieses Beispiel* → Genitiv *dieses Beispiels*: *dieser* has the same endings as *der/des*, and the neuter noun adds *-s*.",
+      "pattern": "anhand + dieses + Nomen-s (Gen. n.)",
+      "mistake": {"wrong": "Anhand dieses Beispiel wird es klarer.", "why": "The neuter noun needs the Genitiv ending *-s*: *dieses Beispiels*."},
+      "examples": [
+        {"de": "Anhand dieses Diagramms sieht man den Unterschied deutlich.", "en": "This diagram shows the difference clearly."},
+        {"de": "Anhand eines konkreten Falls erklärt die Anwältin das neue Gesetz.", "en": "The lawyer explains the new law using a concrete case."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Mittels::'by means of' · Werkzeug · formell}} der neuen Software arbeiten wir effizienter.",
+      "en": "We work more efficiently by means of the new software.",
+      "focus": "Genitivpräposition · Werkzeug · Adjektiv",
+      "explanation": "*die Software* is feminine → Genitiv *der neuen Software* (adjective *-en* after *der*). **mittels** names the tool; in speech *mit der neuen Software* is more common. *effizienter* is a comparative used as an adverb. Also correct here: *Mithilfe* (also + Genitiv; more neutral).",
+      "pattern": "mittels + der + Adj-en + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Mittels der neue Software arbeiten wir effizienter.", "why": "Here *der* is feminine Genitiv, and every Genitiv adjective after an article ends in *-en*: *der neuen Software*."},
+      "examples": [
+        {"de": "Mittels eines neuen Verfahrens lässt sich Wasser günstiger reinigen.", "en": "With a new process, water can be purified more cheaply."},
+        {"de": "Mittels einer App können die Kunden ihre Termine selbst buchen.", "en": "Customers can book their appointments themselves via an app."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Hinsichtlich::'as regards' · formell, sachlich}} der Sicherheit gibt es klare Regeln.",
+      "en": "As regards safety, there are clear rules.",
+      "focus": "Genitivpräposition · Bezug · feminines Nomen",
+      "explanation": "**hinsichtlich** names the area a statement concerns. *die Sicherheit* → *der Sicherheit* (feminine Genitiv, no ending on the noun). The phrase in position 1 is followed by *gibt es*. Also correct here: *Bezüglich* (same meaning, typical of letters and emails).",
+      "pattern": "hinsichtlich + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Hinsichtlich der Sicherheit es gibt klare Regeln.", "why": "The prepositional phrase fills position 1, so the finite verb *gibt* must come next, before *es*."},
+      "examples": [
+        {"de": "Hinsichtlich der Arbeitszeiten sind die Regeln flexibel.", "en": "As regards working hours, the rules are flexible."},
+        {"de": "Hinsichtlich des Klimaschutzes hat die Stadt ehrgeizige Ziele.", "en": "With regard to climate protection, the city has ambitious goals."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Bezüglich::'regarding' · Anfrage per E-Mail}} der Reise haben wir noch Fragen.",
+      "en": "Regarding the trip, we still have questions.",
+      "focus": "Genitivpräposition · Bezug · Anfrage",
+      "explanation": "*die Reise* → *der Reise* (feminine Genitiv). **bezüglich** is typical of emails to a travel agency, a hotel or an office. In conversation you would rather say *Zur Reise haben wir noch Fragen.* Also correct here: *Hinsichtlich* (same meaning, a little more formal and abstract).",
+      "pattern": "bezüglich + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Bezüglich der Reise wir haben noch Fragen.", "why": "*Bezüglich der Reise* is position 1. The finite verb *haben* must follow directly, then the subject *wir*."},
+      "examples": [
+        {"de": "Bezüglich der Unterkunft gibt es eine Änderung.", "en": "There is a change regarding the accommodation."},
+        {"de": "Bezüglich des Vertrags rufe ich Sie morgen an.", "en": "I'll call you tomorrow about the contract."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Infolge::Folge}} der Krise wurden viele entlassen.",
+      "en": "As a result of the crisis, many people were laid off.",
+      "focus": "Genitivpräposition · Folge · Passiv",
+      "explanation": "**infolge** + Genitiv (*der Krise*, feminine) names the event that caused the result. The main clause is passive (*wurden … entlassen*), and *viele* means *many people*.",
+      "pattern": "infolge + der + Nomen (Gen. f.) + Passiv",
+      "mistake": {"wrong": "Infolge die Krise wurden viele entlassen.", "why": "*die Krise* is Nominativ/Akkusativ. After *infolge* the feminine Genitiv article is *der*."},
+      "examples": [
+        {"de": "Infolge der Inflation sind die Mieten gestiegen.", "en": "As a result of inflation, rents have risen."},
+        {"de": "Infolge des Klimawandels schmelzen die Gletscher schneller.", "en": "As a result of climate change, the glaciers are melting faster."}
+      ],
+      "words": [{"de": "entlassen", "en": "to dismiss, to lay off"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Innerhalb::Zeitraum}} einer Woche bekommen Sie eine Antwort.",
+      "en": "You will get an answer within a week.",
+      "focus": "Genitivpräposition · Zeitraum",
+      "explanation": "**innerhalb** also has a time meaning: *within* a period. *eine Woche* → Genitiv *einer Woche*. Compare *in einer Woche* (= one week from now, at that point in time).",
+      "pattern": "innerhalb + einer + Nomen (Gen. f., Zeit)",
+      "mistake": {"wrong": "Innerhalb eine Woche bekommen Sie eine Antwort.", "why": "*eine Woche* is Nominativ/Akkusativ. *innerhalb* takes the Genitiv: *einer Woche*."},
+      "examples": [
+        {"de": "Innerhalb eines Jahres hat sich der Umsatz verdoppelt.", "en": "Within a year, turnover doubled."},
+        {"de": "Bitte zahlen Sie innerhalb der nächsten zehn Tage.", "en": "Please pay within the next ten days."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Aufgrund::'because of' · formell}} seiner Erfahrung wurde er gewählt.",
+      "en": "He was chosen because of his experience.",
+      "focus": "Genitivpräposition · Grund · Possessivartikel",
+      "explanation": "*seine Erfahrung* (feminine) → Genitiv *seiner Erfahrung*. **aufgrund** names the reason for the decision; the main clause is passive (*wurde … gewählt*). Also correct here: *Wegen* (neutral, everyday).",
+      "pattern": "aufgrund + seiner + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Aufgrund seine Erfahrung wurde er gewählt.", "why": "*seine* is Nominativ/Akkusativ. The feminine Genitiv of the possessive ends in *-er*: *seiner Erfahrung*."},
+      "examples": [
+        {"de": "Aufgrund ihrer Sprachkenntnisse bekam sie die Stelle in Brüssel.", "en": "Because of her language skills, she got the job in Brussels."},
+        {"de": "Aufgrund seines Alters darf er noch nicht wählen.", "en": "Because of his age, he isn't allowed to vote yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Anhand::'on the basis of' · Material einer Analyse}} der Statistik analysieren wir das Problem.",
+      "en": "We analyse the problem on the basis of the statistics.",
+      "focus": "Genitivpräposition · Material einer Analyse",
+      "explanation": "**anhand** names the material that the analysis is based on. *die Statistik* (feminine singular) → *der Statistik*. The phrase fills position 1, so *analysieren* follows directly.",
+      "pattern": "anhand + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Anhand die Statistik analysieren wir das Problem.", "why": "*die Statistik* is Nominativ/Akkusativ. *anhand* takes the Genitiv: *der Statistik*."},
+      "examples": [
+        {"de": "Anhand der Umfrageergebnisse plant die Stadt neue Radwege.", "en": "The city is planning new cycle paths on the basis of the survey results."},
+        {"de": "Anhand der Röntgenbilder stellte die Ärztin einen Bruch fest.", "en": "The doctor found a fracture on the X-rays."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Hinsichtlich::'as far as … is concerned' · formell}} der Termine müssen wir flexibel sein.",
+      "en": "As far as the dates are concerned, we have to be flexible.",
+      "focus": "Genitivpräposition · Bezug · Plural",
+      "explanation": "*die Termine* (plural) → *der Termine*; a plural noun after a Genitiv article takes no extra ending. The modal *müssen* follows the phrase in position 1, and the infinitive *sein* closes the clause. Also correct here: *Bezüglich* (same meaning, typical of letters and emails).",
+      "pattern": "hinsichtlich + der + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Hinsichtlich den Terminen müssen wir flexibel sein.", "why": "*den Terminen* is Dativ plural. In standard German *hinsichtlich* takes the Genitiv plural: *der Termine*."},
+      "examples": [
+        {"de": "Hinsichtlich der Preise gibt es große Unterschiede.", "en": "There are big differences in terms of prices."},
+        {"de": "Hinsichtlich der Öffnungszeiten informieren Sie sich bitte online.", "en": "For information on opening hours, please check online."}
+      ],
+      "words": [{"de": "der Termin (-e)", "en": "appointment, date"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Angesichts::= in Anbetracht}} der steigenden Energiepreise senkt die Universität die Raumtemperatur.",
+      "en": "In view of rising energy prices, the university is lowering the room temperature.",
+      "focus": "Genitivpräposition · Lage als Anlass einer Reaktion",
+      "explanation": "**angesichts** (*in view of, given*) presents a situation that leads to a reaction. It takes the Genitiv: *die Energiepreise* → *der steigenden Energiepreise* (Partizip I as adjective, ending *-en*). It is formal; *in Anbetracht* + Genitiv means the same.",
+      "pattern": "angesichts + der + Adj-en + Nomen (Gen. Pl.)",
+      "mistake": {"wrong": "Angesichts den steigenden Energiepreisen senkt die Universität die Raumtemperatur.", "why": "*den … Energiepreisen* is Dativ plural. *angesichts* takes the Genitiv: *der steigenden Energiepreise*, without the Dativ *-n* on the noun."},
+      "examples": [
+        {"de": "Angesichts der Lage bleibt uns keine andere Wahl.", "en": "Given the situation, we have no other choice."},
+        {"de": "Angesichts des Fachkräftemangels wirbt das Krankenhaus Pflegekräfte im Ausland an.", "en": "In view of the shortage of skilled workers, the hospital is recruiting nurses abroad."}
+      ],
+      "words": [{"de": "angesichts (+ Gen.)", "en": "in view of, given"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Innerhalb {{c1::von::Ersatzform}} zwei Wochen müssen Sie die Unterlagen einreichen.",
+      "en": "You must submit the documents within two weeks.",
+      "focus": "Genitiv nicht erkennbar · Plural ohne Artikel",
+      "explanation": "*zwei Wochen* has no article and no adjective, so a Genitiv would not be visible. In this case German uses **von** + Dativ: *innerhalb von zwei Wochen*. The same applies to *aufgrund von, infolge von, anhand von*. Very formal German can also say *innerhalb zweier Wochen*.",
+      "pattern": "innerhalb + von + Zahl + Nomen (Dat. Pl.)",
+      "mistake": {"wrong": "Innerhalb zwei Wochen müssen Sie die Unterlagen einreichen.", "why": "*zwei Wochen* shows no case at all. Without *von* the case is not marked, which standard German does not accept: *innerhalb von zwei Wochen*."},
+      "examples": [
+        {"de": "Aufgrund von Bauarbeiten ist die Straße gesperrt.", "en": "The road is closed due to construction work."},
+        {"de": "Infolge von Unwettern kam es zu Überschwemmungen.", "en": "Severe storms led to flooding."}
+      ],
+      "words": [{"de": "die Unterlagen (Pl.)", "en": "documents, papers"}, {"de": "einreichen", "en": "to submit"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Aufgrund {{c1::technischer::technisch}} Probleme verzögert sich der Start der Rakete.",
+      "en": "Due to technical problems, the rocket launch is delayed.",
+      "focus": "Genitiv Plural ohne Artikel · Adjektivendung",
+      "explanation": "The plural noun has an adjective but no article, so the adjective must carry the Genitiv signal itself: strong ending **-er** → *technischer Probleme*. Because the case is now visible, *von* is not needed (compare *aufgrund von Problemen*).",
+      "pattern": "aufgrund + Adj-er + Nomen (Gen. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Aufgrund technischen Probleme verzögert sich der Start der Rakete.", "why": "*-en* is the weak ending after an article. Without an article the adjective takes the strong Genitiv plural ending *-er*: *technischer Probleme*."},
+      "examples": [
+        {"de": "Aufgrund starker Regenfälle wurde das Festival abgesagt.", "en": "Due to heavy rainfall, the festival was cancelled."},
+        {"de": "Infolge massiver Proteste zog die Regierung das Gesetz zurück.", "en": "As a result of massive protests, the government withdrew the law."}
+      ],
+      "words": [{"de": "sich verzögern", "en": "to be delayed"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Infolge eines schweren {{c1::Unfalls::Unfall}} ist die Autobahn gesperrt.",
+      "en": "As a result of a serious accident, the motorway is closed.",
+      "focus": "Genitiv maskulin · Endung am Nomen",
+      "explanation": "*der Unfall* is masculine, so the Genitiv is marked on the article (*eines*), on the adjective (*schweren*, *-en* after *eines*) and on the noun: **Unfalls**. Nouns with several syllables usually take *-s*; one-syllable nouns often take *-es* (*des Sturmes*).",
+      "pattern": "infolge + eines + Adj-en + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Infolge eines schweren Unfall ist die Autobahn gesperrt.", "why": "Masculine and neuter nouns need the Genitiv ending: *eines schweren Unfalls*."},
+      "examples": [
+        {"de": "Aufgrund eines technischen Defekts musste das Flugzeug notlanden.", "en": "Due to a technical fault, the plane had to make an emergency landing."},
+        {"de": "Mittels eines einfachen Tricks lässt sich das Problem lösen.", "en": "The problem can be solved with a simple trick."}
+      ],
+      "words": [{"de": "gesperrt", "en": "closed (road)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Entlang {{c1::des::der → Gen.}} Flusses führt ein schöner Radweg.",
+      "en": "A beautiful cycle path runs along the river.",
+      "focus": "*entlang* vor dem Nomen · Kasus",
+      "explanation": "When *entlang* stands **before** the noun, it usually takes the Genitiv: *entlang* **des** *Flusses* (the Dativ *entlang dem Fluss* is less common but also correct). When it **follows** the noun, it takes the Akkusativ: *den Fluss entlang*. *der Fluss* → Genitiv *des Flusses*.",
+      "pattern": "entlang + des + Nomen-es (Gen. m.) / Nomen (Akk.) + entlang",
+      "mistake": {"wrong": "Entlang den Fluss führt ein schöner Radweg.", "why": "The Akkusativ is only possible when *entlang* follows the noun (*den Fluss entlang*). Before the noun use the Genitiv: *entlang des Flusses*."},
+      "examples": [
+        {"de": "Entlang der Küste gibt es viele kleine Fischerdörfer.", "en": "There are many small fishing villages along the coast."},
+        {"de": "Entlang der alten Stadtmauer stehen Bänke.", "en": "There are benches along the old city wall."}
+      ],
+      "words": [{"de": "der Radweg (-e)", "en": "cycle path"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Dem::der → Dat.}} Bericht zufolge ist die Arbeitslosigkeit gesunken.",
+      "en": "According to the report, unemployment has fallen.",
+      "focus": "nachgestellte Präposition · Quelle",
+      "explanation": "*zufolge* (*according to*) comes **after** the noun and takes the Dativ: **dem** *Bericht zufolge*. It is often taught together with the Genitiv prepositions, but it is an exception. *laut* (before the noun) means the same: *laut dem Bericht* or *laut Bericht*.",
+      "pattern": "Dativ-Nominalgruppe + zufolge",
+      "mistake": {"wrong": "Zufolge des Berichts ist die Arbeitslosigkeit gesunken.", "why": "*zufolge* is a postposition with the Dativ: it follows the noun phrase, *dem Bericht zufolge*."},
+      "examples": [
+        {"de": "Ersten Schätzungen zufolge sind die Schäden gering.", "en": "According to initial estimates, the damage is minor."},
+        {"de": "Einer Umfrage zufolge arbeiten viele Menschen lieber von zu Hause.", "en": "According to a survey, many people prefer to work from home."}
+      ],
+      "words": [{"de": "die Arbeitslosigkeit", "en": "unemployment"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Seitens::Urheber}} der Geschäftsleitung gibt es noch keine Stellungnahme.",
+      "en": "There has been no statement from the management yet.",
+      "focus": "Genitivpräposition · Urheber · Pressesprache",
+      "explanation": "**seitens** (*on the part of, from*) names the person or institution that acts or speaks. It takes the Genitiv: *die Geschäftsleitung* → *der Geschäftsleitung*. It is typical of official and journalistic style; in speech you say *von der Geschäftsleitung*.",
+      "pattern": "seitens + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Seitens von der Geschäftsleitung gibt es noch keine Stellungnahme.", "why": "*seitens* already means *von Seiten*. It takes the Genitiv directly, without *von*: *seitens der Geschäftsleitung*."},
+      "examples": [
+        {"de": "Seitens der Behörden wurden keine Fehler gemacht.", "en": "No mistakes were made on the part of the authorities."},
+        {"de": "Seitens des Vermieters kam keine Reaktion.", "en": "There was no response from the landlord."}
+      ],
+      "words": [{"de": "die Stellungnahme (-n)", "en": "statement, comment"}, {"de": "die Geschäftsleitung", "en": "management"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "{{c1::Anlässlich::Gelegenheit}} ihres 80. Geburtstags gab die Stadt einen Empfang.",
+      "en": "On the occasion of her 80th birthday, the town held a reception.",
+      "focus": "Genitivpräposition · Ereignis, das gefeiert wird",
+      "explanation": "**anlässlich** (*on the occasion of*) names an event that is celebrated or marked. Genitiv: *ihr Geburtstag* → *ihres 80. Geburtstags*. The ordinal *80.* is read with the weak ending: *ihres achtzigsten Geburtstags*.",
+      "pattern": "anlässlich + ihres + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Anlässlich ihrem 80. Geburtstag gab die Stadt einen Empfang.", "why": "*ihrem … Geburtstag* is Dativ. *anlässlich* takes the Genitiv: *ihres 80. Geburtstags*."},
+      "examples": [
+        {"de": "Anlässlich des Jubiläums gibt es freien Eintritt.", "en": "Entry is free to mark the anniversary."},
+        {"de": "Anlässlich der Eröffnung hält die Bürgermeisterin eine Rede.", "en": "The mayor is giving a speech to mark the opening."}
+      ],
+      "words": [{"de": "der Empfang (¨-e)", "en": "reception"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Jenseits::Ort: andere Seite}} der Grenze spricht man einen ähnlichen Dialekt.",
+      "en": "On the other side of the border, people speak a similar dialect.",
+      "focus": "Genitivpräposition · Ort · andere Seite",
+      "explanation": "**jenseits** (*on the other side of, beyond*) and its opposite *diesseits* (*on this side of*) take the Genitiv: *der Grenze*. *jenseits* is also used figuratively: *jenseits der 60* (over 60), *jenseits aller Erwartungen* (beyond all expectations).",
+      "pattern": "jenseits + der + Nomen (Gen. f.)",
+      "mistake": {"wrong": "Jenseits die Grenze spricht man einen ähnlichen Dialekt.", "why": "*die Grenze* is Nominativ/Akkusativ. *jenseits* takes the Genitiv: *der Grenze*."},
+      "examples": [
+        {"de": "Jenseits des Tals beginnt das Naturschutzgebiet.", "en": "The nature reserve begins on the other side of the valley."},
+        {"de": "Diesseits der Alpen ist das Klima rauer.", "en": "On this side of the Alps, the climate is harsher."}
+      ],
+      "words": [{"de": "die Grenze (-n)", "en": "border"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Hütte liegt etwa 200 Meter {{c1::oberhalb::Ort: höher}} des Dorfes.",
+      "en": "The hut is about 200 metres above the village.",
+      "focus": "Genitivpräposition · höhere Lage",
+      "explanation": "**oberhalb** (*above*) and *unterhalb* (*below*) describe a higher or lower position and take the Genitiv: *das Dorf* → *des Dorfes*. A measurement (*200 Meter*) can stand before the preposition.",
+      "pattern": "Maßangabe + oberhalb + des + Nomen-es (Gen. n.)",
+      "mistake": {"wrong": "Die Hütte liegt etwa 200 Meter oberhalb dem Dorf.", "why": "*dem Dorf* is Dativ. *oberhalb* takes the Genitiv: *des Dorfes*."},
+      "examples": [
+        {"de": "Unterhalb der Burg liegt die Altstadt.", "en": "The old town lies below the castle."},
+        {"de": "Der Schmerz sitzt knapp oberhalb des Knies.", "en": "The pain is just above the knee."}
+      ],
+      "words": [{"de": "die Hütte (-n)", "en": "hut, mountain lodge"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Anstelle::'in place of' · Person ersetzt}} des erkrankten Ministers sprach seine Staatssekretärin.",
+      "en": "His state secretary spoke in place of the minister, who was ill.",
+      "focus": "Genitivpräposition · Ersatz einer Person",
+      "explanation": "**anstelle** (also *an Stelle*, close to *statt*) names a person or thing that is replaced. Genitiv: *der Minister* → *des erkrankten Ministers*. The Partizip II *erkrankt* is used as an adjective and takes the weak ending *-en* after *des*. Also correct here: *Statt* or *Anstatt* (same meaning; *anstelle* stresses that someone takes over another person's role).",
+      "pattern": "anstelle + des + Partizip-en + Nomen-s (Gen. m.)",
+      "mistake": {"wrong": "Anstelle dem erkrankten Minister sprach seine Staatssekretärin.", "why": "*dem … Minister* is Dativ. *anstelle* takes the Genitiv: *des erkrankten Ministers*."},
+      "examples": [
+        {"de": "Anstelle des geplanten Konzerts gibt es eine Lesung.", "en": "Instead of the planned concert, there will be a reading."},
+        {"de": "Anstelle eines Geschenks wünscht sie sich eine Spende.", "en": "Instead of a present, she would like a donation."}
+      ],
+      "words": [{"de": "die Staatssekretärin (-nen)", "en": "state secretary (senior official in a ministry)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Außerhalb {{c1::Europas::Europa}} ist die Marke kaum bekannt.",
+      "en": "Outside Europe, the brand is hardly known.",
+      "focus": "Genitiv bei Eigennamen ohne Artikel",
+      "explanation": "Names of countries, continents and cities without an article take **-s** in the Genitiv: *Europa* → **Europas**. So *außerhalb* + Genitiv needs no article here. With *von* the name stays unchanged: *außerhalb von Europa* (more colloquial).",
+      "pattern": "außerhalb + Name-s (Gen.)",
+      "mistake": {"wrong": "Außerhalb Europa ist die Marke kaum bekannt.", "why": "Without an article the Genitiv must be shown on the name itself: *außerhalb Europas* (or *außerhalb von Europa*)."},
+      "examples": [
+        {"de": "Innerhalb Deutschlands ist der Versand kostenlos.", "en": "Shipping is free within Germany."},
+        {"de": "Außerhalb Wiens sind die Mieten deutlich niedriger.", "en": "Outside Vienna, rents are considerably lower."}
+      ],
+      "words": [{"de": "die Marke (-n)", "en": "brand"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Explain the rule for a Genitiv that cannot be seen.",
+      "prompt": "Why do we say *innerhalb von zwei Wochen* but *innerhalb einer Woche*?",
+      "answer": "The Genitiv must be visible. *einer Woche* shows it on the article. *zwei Wochen* has no article and no adjective, so nothing shows the case; then German uses **von + Dativ**. With an adjective the Genitiv is visible again: *innerhalb weniger Wochen*.",
+      "explanation": "This applies to all Genitiv prepositions: *aufgrund von Problemen*, but *aufgrund technischer Probleme* and *aufgrund der Probleme*. Very formal German sometimes uses Genitiv forms of numbers (*innerhalb zweier Wochen*), but *von* is the normal choice.",
+      "examples": [
+        {"de": "Die Reparatur ist innerhalb weniger Tage erledigt.", "en": "The repair will be done within a few days."},
+        {"de": "Aufgrund von Lieferengpässen fehlen einige Medikamente.", "en": "Some medicines are unavailable due to supply shortages."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about exceptions.",
+      "prompt": "Which prepositions in this group do not simply take the Genitiv before the noun?",
+      "answer": "**entlang**: Genitiv before the noun (*entlang des Weges*), Akkusativ after it (*den Weg entlang*). **zufolge**: after the noun, with the Dativ (*dem Bericht zufolge*). **ungeachtet** can also follow the noun (*der Kritik ungeachtet*). **dank** and **laut** take the Genitiv or the Dativ.",
+      "explanation": "Most Genitiv prepositions are fixed: before the noun, Genitiv. The exceptions above are frequent in exams. A useful contrast: *laut* stands before the noun (*laut dem Bericht*), *zufolge* after it (*dem Bericht zufolge*); both mean *according to*.",
+      "examples": [
+        {"de": "Wir gingen den Weg entlang bis zum See.", "en": "We walked along the path to the lake."},
+        {"de": "Dank ihrer Hilfe haben wir es rechtzeitig geschafft.", "en": "Thanks to her help, we made it on time."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *anhand*, *mittels* and *aufgrund*?",
+      "answer": "**anhand**: the material you look at to see, explain or judge something (*anhand der Daten*). **mittels**: the tool or method that does the job (*mittels eines Codes*). **aufgrund**: the reason or cause (*aufgrund der Daten* = because the data show it).",
+      "explanation": "Ask: Do I examine it? → *anhand*. Do I use it as an instrument? → *mittels*. Is it the cause? → *aufgrund*. *anhand* and *aufgrund* can both appear with *Daten*, but the meaning changes: *anhand der Daten erkennen* (by looking at the data) vs. *aufgrund der Daten entscheiden* (because of what the data say).",
+      "examples": [
+        {"de": "Anhand der Spuren rekonstruierte die Polizei den Unfall.", "en": "The police reconstructed the accident from the traces."},
+        {"de": "Die Bilder werden mittels künstlicher Intelligenz analysiert.", "en": "The images are analysed by means of artificial intelligence."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about register.",
+      "prompt": "Is *aufgrund dem Wetter* or *wegen dem Stau* acceptable?",
+      "answer": "In informal speech, yes: the Dativ is very common there. In **standard written German** (exams, letters, reports) these prepositions take the **Genitiv**: *aufgrund des Wetters, wegen des Staus*.",
+      "explanation": "Most of the prepositions in this topic (*aufgrund, hinsichtlich, mittels, infolge …*) belong to the written register anyway, so the Genitiv is expected with them. In a Goethe B2 writing task, the Dativ would count as a mistake.",
+      "examples": [
+        {"de": "Wegen des Staus kam ich eine Stunde zu spät.", "en": "Because of the traffic jam, I arrived an hour late."},
+        {"de": "Aufgrund des Feiertags bleibt das Amt geschlossen.", "en": "Due to the public holiday, the office remains closed."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Replace the *weil* clause with *aufgrund* + Genitiv (*die gestiegene Nachfrage*).",
+      "prompt": "Weil die Nachfrage gestiegen ist, erhöht der Hersteller die Produktion.",
+      "answer": "Aufgrund der gestiegenen Nachfrage erhöht der Hersteller die Produktion.",
+      "explanation": "The clause becomes a noun phrase in the Genitiv: *die Nachfrage* (feminine) → *der Nachfrage*, and the Partizip II used as an adjective takes *-en*: *der gestiegenen Nachfrage*. The phrase fills position 1, so *erhöht* follows."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the *obwohl* clause with *ungeachtet* + Genitiv (*die eindeutigen Warnungen*).",
+      "prompt": "Obwohl die Warnungen eindeutig waren, gingen die Touristen auf den Gletscher.",
+      "answer": "Ungeachtet der eindeutigen Warnungen gingen die Touristen auf den Gletscher.",
+      "explanation": "*ungeachtet* is the formal concessive preposition. *die Warnungen* (plural) → Genitiv *der eindeutigen Warnungen*, adjective *-en* after *der*. The predicative *eindeutig* becomes an attributive adjective."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the *weil* clause with *infolge* + Genitiv (*die lange Trockenheit*).",
+      "prompt": "Weil es lange trocken war, ist der Wasserstand des Rheins niedrig.",
+      "answer": "Infolge der langen Trockenheit ist der Wasserstand des Rheins niedrig.",
+      "explanation": "*infolge* presents the dry period as the event that caused the result. *die Trockenheit* (feminine) → *der langen Trockenheit*. *des Rheins* is a separate Genitiv attribute and stays unchanged."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake (standard written German).",
+      "prompt": "Aufgrund dem hohen Krankenstand bleibt die Praxis heute geschlossen.",
+      "answer": "Aufgrund des hohen Krankenstands bleibt die Praxis heute geschlossen.",
+      "explanation": "*aufgrund* takes the Genitiv. *der Krankenstand* is masculine, so the article becomes *des* and the noun takes *-s*: *des hohen Krankenstands*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Innerhalb drei Tagen erhalten Sie Ihr Paket.",
+      "answer": "Innerhalb von drei Tagen erhalten Sie Ihr Paket.",
+      "explanation": "*drei Tage* has no article or adjective, so the Genitiv is not visible. German then uses *von* + Dativ: *innerhalb von drei Tagen*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Mittels einem Spezialwerkzeug wurde das Schloss geöffnet.",
+      "answer": "Mittels eines Spezialwerkzeugs wurde das Schloss geöffnet.",
+      "explanation": "*mittels* takes the Genitiv. *das Werkzeug* is neuter → *eines Spezialwerkzeugs*, with *-s* on the noun. The Dativ *einem* belongs to *mit*."
+    },
+    {
+      "key": "d11",
+      "type": "choice",
+      "instruction": "Choose the preposition that fits the meaning.",
+      "prompt": "___ der vorliegenden Daten lässt sich keine eindeutige Aussage treffen.",
+      "options": ["Anhand", "Zugunsten", "Jenseits", "Anlässlich"],
+      "correct": "Anhand",
+      "answer": "Anhand der vorliegenden Daten lässt sich keine eindeutige Aussage treffen.",
+      "explanation": "The data are the material you examine, so *anhand* fits. *Zugunsten* would mean that the data profit from something. *Jenseits* is a place (*on the other side of*). *Anlässlich* needs an event that is marked or celebrated."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the preposition that fits the meaning.",
+      "prompt": "Der Verein sammelt Spenden ___ der Flutopfer.",
+      "options": ["zugunsten", "ungeachtet", "anstelle", "außerhalb"],
+      "correct": "zugunsten",
+      "answer": "Der Verein sammelt Spenden zugunsten der Flutopfer.",
+      "explanation": "The flood victims benefit from the donations → *zugunsten*. *ungeachtet* would mean *regardless of the victims*, *anstelle* *instead of the victims*, and *außerhalb* is a place."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Hinsichtlich ___ Finanzierung gibt es noch offene Fragen.",
+      "options": ["der", "die", "dem"],
+      "correct": "der",
+      "answer": "Hinsichtlich der Finanzierung gibt es noch offene Fragen.",
+      "explanation": "*hinsichtlich* takes the Genitiv, and *die Finanzierung* is feminine → *der*. *die* is Nominativ/Akkusativ, and *dem* is masculine or neuter Dativ."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Anhand",
+      "prompt": "anhand / zeigt / die Dozentin / eines Beispiels / die Methode",
+      "answer": "Anhand eines Beispiels zeigt die Dozentin die Methode.",
+      "explanation": "The prepositional phrase *Anhand eines Beispiels* (Genitiv, neuter, *-s*) fills position 1. The finite verb *zeigt* follows, then the subject *die Dozentin* and the object *die Methode*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Außerhalb",
+      "prompt": "außerhalb / der Öffnungszeiten / erreichen / Sie / uns / per E-Mail",
+      "answer": "Außerhalb der Öffnungszeiten erreichen Sie uns per E-Mail.",
+      "explanation": "*Außerhalb der Öffnungszeiten* (Genitiv plural) is position 1, followed by the verb *erreichen* and the subject *Sie*. The pronoun object *uns* comes before the adverbial *per E-Mail*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a phrase with *infolge* (*der stundenlange Stromausfall*).",
+      "prompt": "Der Stromausfall dauerte stundenlang. Viele Geschäfte mussten schließen.",
+      "answer": "Infolge des stundenlangen Stromausfalls mussten viele Geschäfte schließen.",
+      "explanation": "The first sentence becomes the cause in the Genitiv: masculine *der Stromausfall* → *des stundenlangen Stromausfalls* (adjective *-en*, noun *-s*). The phrase fills position 1, so the modal *mussten* follows."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one formal sentence: *Bei Fragen bezüglich …*, then the request.",
+      "prompt": "Sie haben Fragen zu Ihrer Rechnung. Wenden Sie sich bitte an den Kundenservice.",
+      "answer": "Bei Fragen bezüglich Ihrer Rechnung wenden Sie sich bitte an den Kundenservice.",
+      "explanation": "*bezüglich* replaces *zu* and takes the Genitiv: *Ihre Rechnung* → *Ihrer Rechnung*. The whole phrase *Bei Fragen bezüglich Ihrer Rechnung* fills position 1 of the imperative sentence with *Sie*."
+    }
+  ]
+}

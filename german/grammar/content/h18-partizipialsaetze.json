@@ -1,0 +1,1175 @@
+{
+  "topic_id": "h18-partizipialsaetze",
+  "level": "C1",
+  "title_de": "Partizipialsätze (verkürzte Nebensätze)",
+  "title_en": "Participle clauses (shortened subordinate clauses)",
+  "rule": {
+    "summary": "A **Partizipialsatz** (participle group) is a shortened Nebensatz without conjunction, subject or finite verb. It is typical of written, journalistic and literary German. **Partizip II** of a *sein*-verb shows an action finished before the main clause (*Am Ziel angekommen, …* = *Nachdem sie angekommen war, …*). **Partizip II** of a transitive verb has a passive or state meaning (*Von der Kritik enttäuscht, …*). **Partizip I** shows an action at the same time (*Leise fluchend …*). The understood subject is always the subject of the main clause; only fixed comment phrases (*genau genommen, offen gesagt, abgesehen davon, verglichen mit*) are free from this rule.",
+    "table": "| Typ | Bedeutung | Partizipialsatz | voller Nebensatz |\n|---|---|---|---|\n| Partizip I | gleichzeitig, aktiv | Leise fluchend suchte er … | Während er leise fluchte, … |\n| Partizip II (*sein*-Verb) | vorzeitig, aktiv | Am Ziel angekommen, rief sie … | Nachdem sie am Ziel angekommen war, … |\n| Partizip II (transitiv) | passiv / Zustand | Von der Kritik enttäuscht, zog sie sich … | Weil sie von der Kritik enttäuscht war, … |\n| Konjunktion + Partizip | Gegengrund, Bedingung | Obwohl gewarnt, … / Einmal gestartet, … | Obwohl er gewarnt worden war, … |\n| feste Wendung | Kommentar des Sprechers | Genau genommen ist … / Offen gesagt, ich … | Wenn man es genau nimmt, … |",
+    "steps": [
+      "Check the subject: the participle group has no subject of its own and refers to the subject of the main clause. If the two subjects differ, use a full Nebensatz.",
+      "Choose the participle: simultaneous active action → **Partizip I**; earlier action of a *sein*-verb → **Partizip II**; passive or resulting state of a transitive verb → **Partizip II**. Intransitive *haben*-verbs (*arbeiten, warten*) cannot form a Partizip II clause.",
+      "Build the group like a Nebensatz: objects and adverbials first, the participle last. Separable prefixes stay attached (*herziehend, zurückgekehrt*). *sich* stays with Partizip I and disappears with Partizip II.",
+      "A group in front of the main clause is its Vorfeld: the finite verb follows directly, then the subject (*Am Ziel angekommen, rief sie …*).",
+      "Commas: at the beginning optional; inserted after a noun or added at the end → comma(s); a single participle without other words → no comma.",
+      "To expand a group into a full clause, add a fitting conjunction (*nachdem, weil, während, obwohl, wenn*), the subject and a finite verb in the right tense and voice."
+    ],
+    "pitfalls": [
+      "Different subjects (dangling participle): ✗ *Im Hotel angekommen, klingelte das Telefon.* → ✓ *Als sie im Hotel ankam, klingelte das Telefon.*",
+      "Main-clause order after the group: ✗ *Im Hotel angekommen, sie rief ihren Mann an.* → ✓ *Im Hotel angekommen, rief sie ihren Mann an.*",
+      "Partizip I instead of Partizip II (active instead of passive): ✗ *Von der Nachricht schockierend, …* → ✓ *Von der Nachricht schockiert, …*",
+      "Partizip II of an intransitive *haben*-verb: ✗ *Lange gearbeitet, ging sie nach Hause.* → ✓ *Nachdem sie lange gearbeitet hatte, ging sie nach Hause.*",
+      "Keeping *sich* or auxiliaries with Partizip II: ✗ *Sich gut erholt, …*, ✗ *Vom Lärm geweckt worden, …* → ✓ *Gut erholt, …*, ✓ *Vom Lärm geweckt, …*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Am Flughafen {{c1::angekommen::ankommen}}, suchte sie zuerst einen Geldautomaten.",
+      "en": "Having arrived at the airport, she first looked for a cash machine.",
+      "focus": "Partizip II · Bewegungsverb · Vorzeitigkeit",
+      "explanation": "*ankommen* forms its Perfekt with *sein*, so its Partizip II **angekommen** has an active meaning: she arrived. In a participle clause it shows an action finished before the main clause: = *Nachdem sie am Flughafen angekommen war, …*. The group is the Vorfeld, so *suchte* follows directly.",
+      "pattern": "[Adverbial + Partizip II (*sein*-Verb)], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Am Flughafen ankommend, suchte sie zuerst einen Geldautomaten.",
+        "why": "Partizip I (*ankommend*) means *while arriving*. The search comes after the arrival, so you need the Partizip II."
+      },
+      "examples": [
+        {
+          "de": "In Lissabon gelandet, nahmen wir sofort ein Taxi in die Altstadt.",
+          "en": "Having landed in Lisbon, we immediately took a taxi to the old town."
+        },
+        {
+          "de": "Zu Hause angekommen, ließ er sich erschöpft aufs Sofa fallen.",
+          "en": "Once he got home, he dropped onto the sofa, exhausted."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Geldautomat",
+          "en": "cash machine, ATM"
+        }
+      ],
+      "production_cue": "(participle clause)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Aus dem Urlaub {{c1::zurückgekehrt::zurückkehren}}, fand er einen Brief vom Finanzamt im Briefkasten.",
+      "en": "Back from holiday, he found a letter from the tax office in his letterbox.",
+      "focus": "Partizip II · trennbares *sein*-Verb",
+      "explanation": "Separable verbs put *-ge-* between prefix and stem: zurück + ge + kehrt → **zurückgekehrt**. *zurückkehren* takes *sein*, so the meaning is active and earlier: = *Nachdem er aus dem Urlaub zurückgekehrt war, …*. The prepositional phrase *aus dem Urlaub* stands before the participle.",
+      "pattern": "[Präp.-Phrase + Präfix-ge-Stamm-t], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Aus dem Urlaub gezurückkehrt, fand er einen Brief vom Finanzamt im Briefkasten.",
+        "why": "With separable verbs *-ge-* goes between the prefix and the stem: *zurückgekehrt*."
+      },
+      "examples": [
+        {
+          "de": "Vom Einkaufen zurückgekommen, merkte sie, dass sie die Milch vergessen hatte.",
+          "en": "Back from shopping, she noticed that she had forgotten the milk."
+        },
+        {
+          "de": "Aus dem Koma erwacht, erkannte der Patient seine Familie sofort.",
+          "en": "Having woken from the coma, the patient recognised his family immediately."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Finanzamt",
+          "en": "tax office"
+        }
+      ],
+      "production_cue": "(participle clause)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Kaum {{c1::eingeschlafen::einschlafen}}, wurde das Baby vom Donner wieder geweckt.",
+      "en": "Barely asleep, the baby was woken up again by the thunder.",
+      "focus": "*kaum* + Partizip II · unmittelbare Folge",
+      "explanation": "*kaum* + Partizip II says that the main event happens right after the first one: = *Kaum war das Baby eingeschlafen, da wurde es …*. *einschlafen* is a *sein*-verb → **eingeschlafen** (active). The understood subject is the subject of the main clause, *das Baby*, which is why the main clause is in the passive.",
+      "pattern": "Kaum + Partizip II, Verb + Subj. …",
+      "mistake": {
+        "wrong": "Kaum eingeschlafen, weckte der Donner das Baby wieder.",
+        "why": "The participle refers to the main-clause subject. Here that is *der Donner*, so the sentence would say that the thunder had fallen asleep."
+      },
+      "examples": [
+        {
+          "de": "Kaum angekommen, musste sie schon wieder zum nächsten Termin.",
+          "en": "She had barely arrived when she already had to leave for the next appointment."
+        },
+        {
+          "de": "Kaum aufgestanden, saß er schon wieder am Laptop.",
+          "en": "Barely out of bed, he was already sitting at his laptop again."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Oben auf dem Gipfel angelangt, {{c1::machten die Wanderer::machen · die Wanderer}} eine lange Pause.",
+      "en": "Having reached the summit, the hikers took a long break.",
+      "focus": "Hauptsatz nach der Partizipialgruppe · Verbstellung",
+      "explanation": "The participle group counts as the Vorfeld of the main clause, even when a comma follows it. So the finite verb comes directly after it (**machten**), and the subject follows the verb (**die Wanderer**).",
+      "pattern": "[Partizipialgruppe], **Verb** + **Subj.** …",
+      "mistake": {
+        "wrong": "Oben auf dem Gipfel angelangt, die Wanderer machten eine lange Pause.",
+        "why": "The participle group already occupies the Vorfeld. A second element before the verb breaks the verb-second rule."
+      },
+      "examples": [
+        {
+          "de": "Am Campingplatz angekommen, bauten wir zuerst das Zelt auf.",
+          "en": "Having arrived at the campsite, we put up the tent first."
+        },
+        {
+          "de": "Im Ziel eingetroffen, brach die Läuferin vor Erschöpfung zusammen.",
+          "en": "Having reached the finish, the runner collapsed from exhaustion."
+        }
+      ],
+      "words": [
+        {
+          "de": "anlangen",
+          "en": "to arrive at, to reach"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Von der Kritik {{c1::enttäuscht::enttäuschen}}, zog sich die Autorin aus der Öffentlichkeit zurück.",
+      "en": "Disappointed by the criticism, the author withdrew from public life.",
+      "focus": "Partizip II · transitives Verb · Grund",
+      "explanation": "*enttäuschen* is transitive, so its Partizip II **enttäuscht** has a passive/state meaning: she was disappointed. Here the group gives the reason: = *Weil sie von der Kritik enttäuscht war, …*. The cause is added with *von*.",
+      "pattern": "[von + Dat. + Partizip II (passiv)], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Von der Kritik enttäuschend, zog sich die Autorin aus der Öffentlichkeit zurück.",
+        "why": "Partizip I (*enttäuschend*) is active: it would mean that the author disappointed someone. She was disappointed → Partizip II."
+      },
+      "examples": [
+        {
+          "de": "Von der langen Reise erschöpft, ging er früh ins Bett.",
+          "en": "Exhausted by the long journey, he went to bed early."
+        },
+        {
+          "de": "Durch den Erfolg ermutigt, gründete sie ein zweites Unternehmen.",
+          "en": "Encouraged by the success, she founded a second company."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich zurückziehen",
+          "en": "to withdraw"
+        }
+      ],
+      "production_cue": "(participle clause)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Vom Lärm der Baustelle {{c1::geweckt::wecken}}, stand er schon um sechs Uhr auf.",
+      "en": "Woken by the noise from the building site, he got up as early as six o'clock.",
+      "focus": "Partizip II · Passiv · Vorzeitigkeit",
+      "explanation": "*wecken* is transitive → **geweckt** is passive: he was woken. The waking happened before he got up, so the full clause would be *Nachdem er vom Lärm der Baustelle geweckt worden war, …* (Plusquamperfekt Passiv). The participle clause keeps only the participle.",
+      "pattern": "[vom + Dat. + Partizip II], Verb + Subj. … Präfix",
+      "mistake": {
+        "wrong": "Vom Lärm der Baustelle geweckt worden, stand er schon um sechs Uhr auf.",
+        "why": "A participle clause contains only the participle. Auxiliaries such as *worden*, *sein* or *war* are dropped."
+      },
+      "examples": [
+        {
+          "de": "Von einem Freund eingeladen, verbrachte sie das Wochenende in Hamburg.",
+          "en": "Invited by a friend, she spent the weekend in Hamburg."
+        },
+        {
+          "de": "Vom Chef zur Rede gestellt, gab der Mitarbeiter seinen Fehler zu.",
+          "en": "Confronted by the boss, the employee admitted his mistake."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Baustelle",
+          "en": "building site"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "In großer Eile {{c1::geschrieben::schreiben}}, enthält der Bericht zahlreiche Fehler.",
+      "en": "Written in great haste, the report contains numerous errors.",
+      "focus": "Partizip II · Sache als Subjekt",
+      "explanation": "The understood subject is the main-clause subject *der Bericht*: the report was written in haste (passive **geschrieben**). The group gives the reason: = *Weil der Bericht in großer Eile geschrieben wurde, …*. With passive participles a thing as subject is very common.",
+      "pattern": "[Adverbial + Partizip II], Verb + Subj. (Sache) …",
+      "mistake": {
+        "wrong": "In großer Eile geschrieben, hat er im Bericht zahlreiche Fehler gemacht.",
+        "why": "With *er* as the main-clause subject, the sentence says that *he* was written in haste. The thing that was written must be the subject: *der Bericht*."
+      },
+      "examples": [
+        {
+          "de": "Aus recyceltem Kunststoff hergestellt, ist die Verpackung besonders umweltfreundlich.",
+          "en": "Made from recycled plastic, the packaging is particularly environmentally friendly."
+        },
+        {
+          "de": "Im 12. Jahrhundert erbaut, gehört die Burg zu den ältesten der Region.",
+          "en": "Built in the 12th century, the castle is one of the oldest in the region."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Von allen Seiten unter Druck {{c1::gesetzt::setzen}}, trat der Minister schließlich zurück.",
+      "en": "Put under pressure from all sides, the minister finally resigned.",
+      "focus": "Partizip II · Funktionsverbgefüge · passiv",
+      "explanation": "*jemanden unter Druck setzen* → passive Partizip II *unter Druck* **gesetzt**: the fixed noun part stays directly before the participle. The group gives the cause: = *Weil er von allen Seiten unter Druck gesetzt worden war, …*.",
+      "pattern": "[von + Dat. + Nomenteil + Partizip II], Verb + Subj. … Präfix",
+      "mistake": {
+        "wrong": "Von allen Seiten unter Druck setzend, trat der Minister schließlich zurück.",
+        "why": "Partizip I would mean that the minister put others under pressure. He was put under pressure → Partizip II."
+      },
+      "examples": [
+        {
+          "de": "Von der Opposition scharf kritisiert, verteidigte die Regierung ihr Sparpaket.",
+          "en": "Sharply criticised by the opposition, the government defended its austerity package."
+        },
+        {
+          "de": "Von den Fans gefeiert, verließ die Mannschaft das Spielfeld.",
+          "en": "Celebrated by the fans, the team left the pitch."
+        }
+      ],
+      "words": [
+        {
+          "de": "zurücktreten",
+          "en": "to resign"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Einmal {{c1::gestartet::starten}}, lässt sich der Vorgang nicht mehr abbrechen.",
+      "en": "Once started, the process cannot be stopped.",
+      "focus": "*einmal* + Partizip II · Bedingung",
+      "explanation": "*einmal* + Partizip II has a conditional-temporal meaning: = *Wenn der Vorgang einmal gestartet ist, …*. The subject *der Vorgang* is the thing that is started, so **gestartet** is passive. *sich lassen* + Infinitiv in the main clause expresses (im)possibility.",
+      "pattern": "Einmal + Partizip II, Verb + Subj. …",
+      "mistake": {
+        "wrong": "Einmal startend, lässt sich der Vorgang nicht mehr abbrechen.",
+        "why": "Partizip I would mean that the process is starting something. It is started (passive, completed) → Partizip II."
+      },
+      "examples": [
+        {
+          "de": "Einmal geöffnet, ist die Milch innerhalb von drei Tagen zu verbrauchen.",
+          "en": "Once opened, the milk must be used within three days."
+        },
+        {
+          "de": "Einmal veröffentlicht, lassen sich Fotos im Internet kaum noch löschen.",
+          "en": "Once published, photos on the internet can hardly be deleted."
+        }
+      ],
+      "words": [
+        {
+          "de": "abbrechen",
+          "en": "to stop, to cancel"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Obwohl mehrfach {{c1::gewarnt::warnen}}, fuhr er bei Glatteis los.",
+      "en": "Although he had been warned several times, he set off on the icy roads.",
+      "focus": "Konjunktion + Partizip II · Gegengrund",
+      "explanation": "Some conjunctions (*obwohl, wenn, falls, sobald, wie*) can introduce a shortened participle clause to make the relation clear. **gewarnt** is passive: = *Obwohl er mehrfach gewarnt worden war, …*. The subject is again the main-clause subject *er*.",
+      "pattern": "Obwohl + (Adverb) + Partizip II, Verb + Subj. …",
+      "mistake": {
+        "wrong": "Obwohl mehrfach gewarnt, er fuhr bei Glatteis los.",
+        "why": "The shortened clause is the Vorfeld. The finite verb *fuhr* must follow it directly, before the subject."
+      },
+      "examples": [
+        {
+          "de": "Obwohl schwer verletzt, schaffte es der Fahrer, den Notruf zu wählen.",
+          "en": "Although badly injured, the driver managed to call the emergency number."
+        },
+        {
+          "de": "Falls nicht anders vereinbart, erfolgt die Zahlung innerhalb von 14 Tagen.",
+          "en": "Unless otherwise agreed, payment is due within 14 days."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Glatteis",
+          "en": "black ice, icy roads"
+        }
+      ],
+      "production_cue": "(shortened clause with obwohl)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Gut {{c1::erholt::sich erholen}}, kehrte sie nach drei Wochen an ihren Arbeitsplatz zurück.",
+      "en": "Well rested, she returned to work after three weeks.",
+      "focus": "reflexives Verb · Partizip II",
+      "explanation": "Reflexive verbs whose Partizip II names a resulting state (*sie ist erholt, sie ist vorbereitet*) can form a participle clause, and the reflexive pronoun disappears: *sich erholen* → *gut* **erholt**. = *Nachdem sie sich gut erholt hatte, …*.",
+      "pattern": "[Adverb + Partizip II (ohne *sich*)], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Sich gut erholt, kehrte sie nach drei Wochen an ihren Arbeitsplatz zurück.",
+        "why": "With Partizip II the reflexive pronoun is dropped. *sich* stays only with Partizip I (*sich umsehend*)."
+      },
+      "examples": [
+        {
+          "de": "Bestens vorbereitet, ging die Anwältin in die Verhandlung.",
+          "en": "Thoroughly prepared, the lawyer went into the hearing."
+        },
+        {
+          "de": "Frisch verliebt, sah er die ganze Welt mit anderen Augen.",
+          "en": "Newly in love, he saw the whole world through different eyes."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich erholen",
+          "en": "to recover, to rest"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Ministerin, sichtlich {{c1::verärgert::verärgern}}, verließ die Pressekonferenz vorzeitig.",
+      "en": "The minister, visibly annoyed, left the press conference early.",
+      "focus": "eingeschobene Partizipialgruppe · Komma",
+      "explanation": "A participle group can stand directly after the noun it describes, as an insertion. Then it must be enclosed in commas on both sides. **verärgert** is a state (*sie war verärgert*). The insertion does not change the verb position: *Die Ministerin … verließ*.",
+      "pattern": "Subj., [Partizipialgruppe], Verb …",
+      "mistake": {
+        "wrong": "Die Ministerin, sichtlich verärgert, sie verließ die Pressekonferenz vorzeitig.",
+        "why": "The inserted group does not start a new sentence. The subject *die Ministerin* is not repeated with a pronoun."
+      },
+      "examples": [
+        {
+          "de": "Der Angeklagte, von zwei Polizisten begleitet, betrat den Gerichtssaal.",
+          "en": "The defendant, accompanied by two police officers, entered the courtroom."
+        },
+        {
+          "de": "Der Zug, mit zwei Stunden Verspätung eingetroffen, war völlig überfüllt.",
+          "en": "The train, which had arrived two hours late, was completely overcrowded."
+        }
+      ],
+      "words": [
+        {
+          "de": "sichtlich",
+          "en": "visibly"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Sie saß stundenlang am Schreibtisch, in ihre Akten {{c1::vertieft::sich vertiefen}}.",
+      "en": "She sat at her desk for hours, absorbed in her files.",
+      "focus": "nachgestellte Partizipialgruppe · Rektion",
+      "explanation": "The group follows the main clause as an addition and is separated by a comma. *sich in etwas vertiefen* → state **vertieft** (*sie war in ihre Akten vertieft*); *sich* is dropped. The participle keeps the preposition and case of its verb: *in* + Akkusativ → *in ihre Akten*.",
+      "pattern": "Hauptsatz, [in + Akk. + Partizip II].",
+      "mistake": {
+        "wrong": "Sie saß stundenlang am Schreibtisch, in ihren Akten vertieft.",
+        "why": "*sich vertiefen in* takes the Akkusativ, and the participle keeps this government: *in ihre Akten*."
+      },
+      "examples": [
+        {
+          "de": "Er stand am Fenster, in Gedanken versunken.",
+          "en": "He stood at the window, lost in thought."
+        },
+        {
+          "de": "Die Kinder kamen nach Hause, von oben bis unten mit Schlamm bedeckt.",
+          "en": "The children came home, covered in mud from head to toe."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Akte (-n)",
+          "en": "file, record"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Leise {{c1::fluchend::fluchen}} suchte er im Dunkeln nach dem Lichtschalter.",
+      "en": "Swearing quietly, he searched for the light switch in the dark.",
+      "focus": "Partizip I · Gleichzeitigkeit",
+      "explanation": "Partizip I = infinitive + *-d*: fluchen → **fluchend**. It is active and describes an action at the same time as the main clause (= *Während er leise fluchte, …*). A short group like this is usually written without a comma; the finite verb *suchte* follows directly.",
+      "pattern": "[Adverb + Partizip I] + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Leise geflucht suchte er im Dunkeln nach dem Lichtschalter.",
+        "why": "*fluchen* is an intransitive *haben*-verb, so its Partizip II cannot form a participle clause. A simultaneous action needs Partizip I."
+      },
+      "examples": [
+        {
+          "de": "Lächelnd nahm sie den Preis entgegen.",
+          "en": "Smiling, she accepted the prize."
+        },
+        {
+          "de": "Kopfschüttelnd hörte sich der Lehrer die Ausrede an.",
+          "en": "Shaking his head, the teacher listened to the excuse."
+        }
+      ],
+      "words": [
+        {
+          "de": "fluchen",
+          "en": "to swear, to curse"
+        }
+      ],
+      "production_cue": "(Partizip I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Einen schweren Koffer hinter sich {{c1::herziehend::herziehen}}, eilte sie zum Bahnsteig.",
+      "en": "Pulling a heavy suitcase behind her, she hurried to the platform.",
+      "focus": "Partizip I · trennbares Verb mit Objekt",
+      "explanation": "The Partizip I of a separable verb keeps the prefix attached: her + ziehend → **herziehend**. The Akkusativ object (*einen schweren Koffer*) and the adverbial (*hinter sich*) come first; the participle closes the group, like the verb in a Nebensatz.",
+      "pattern": "[Akk.-Objekt + Adverbial + Partizip I], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Ziehend einen schweren Koffer hinter sich her, eilte sie zum Bahnsteig.",
+        "why": "In a participle group the participle is the last element, and the separable prefix is not split off."
+      },
+      "examples": [
+        {
+          "de": "Einen Kinderwagen vor sich herschiebend, überquerte die Frau die Straße.",
+          "en": "Pushing a pram in front of her, the woman crossed the street."
+        },
+        {
+          "de": "Ein fröhliches Lied vor sich hin pfeifend, kam der Postbote die Treppe herauf.",
+          "en": "Whistling a cheerful tune to himself, the postman came up the stairs."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Bahnsteig",
+          "en": "platform"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Auf eine Antwort {{c1::wartend::warten}}, starrte er unablässig auf sein Handy.",
+      "en": "Waiting for a reply, he stared constantly at his phone.",
+      "focus": "Partizip I · Verb mit Präpositionalobjekt",
+      "explanation": "*warten auf* + Akkusativ keeps its prepositional object in the participle group: *auf eine Antwort* **wartend**. Partizip I shows the same time: = *Während er auf eine Antwort wartete, …*.",
+      "pattern": "[Präp. + Akk. + Partizip I], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Auf einer Antwort wartend, starrte er unablässig auf sein Handy.",
+        "why": "The participle keeps the government of its verb: *warten auf* takes the Akkusativ → *auf eine Antwort*."
+      },
+      "examples": [
+        {
+          "de": "Auf den Bus wartend, las sie die Nachrichten auf ihrem Handy.",
+          "en": "Waiting for the bus, she read the news on her phone."
+        },
+        {
+          "de": "Über das Angebot nachdenkend, ging er im Zimmer auf und ab.",
+          "en": "Thinking about the offer, he paced up and down the room."
+        }
+      ],
+      "words": [
+        {
+          "de": "unablässig",
+          "en": "constantly, incessantly"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Sich immer wieder {{c1::umsehend::sich umsehen}}, ging sie durch die dunkle Gasse.",
+      "en": "Looking around again and again, she walked through the dark alley.",
+      "focus": "Partizip I · reflexives Verb",
+      "explanation": "With Partizip I the reflexive pronoun stays, because the action is active and ongoing: *sich … umsehend*. *sich* usually stands at the beginning of the group. The separable prefix stays attached: um + sehend → **umsehend**.",
+      "pattern": "[sich + Adverb + Partizip I], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Immer wieder umsehend, ging sie durch die dunkle Gasse.",
+        "why": "*sich umsehen* is reflexive. With Partizip I the pronoun *sich* must stay; only Partizip II drops it."
+      },
+      "examples": [
+        {
+          "de": "Sich höflich verbeugend, verließ der Pianist die Bühne.",
+          "en": "Bowing politely, the pianist left the stage."
+        },
+        {
+          "de": "Sich auf ihre Notizen stützend, beantwortete die Zeugin alle Fragen.",
+          "en": "Relying on her notes, the witness answered all the questions."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Gasse",
+          "en": "alley, lane"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Die Demonstrierenden zogen durch die Innenstadt, Parolen {{c1::rufend::rufen}}.",
+      "en": "The demonstrators marched through the city centre, chanting slogans.",
+      "focus": "nachgestellte Partizip-I-Gruppe",
+      "explanation": "A Partizip I group can follow the main clause and describe how the action happened. It is added after a comma at the end. The object *Parolen* stands before the participle **rufend**, which closes the group.",
+      "pattern": "Hauptsatz, [Objekt + Partizip I].",
+      "mistake": {
+        "wrong": "Die Demonstrierenden zogen durch die Innenstadt, rufend Parolen.",
+        "why": "As in every participle group, the participle stands at the end, after its object."
+      },
+      "examples": [
+        {
+          "de": "Sie verließ den Saal, laut über den Redner schimpfend.",
+          "en": "She left the hall, loudly complaining about the speaker."
+        },
+        {
+          "de": "Er saß auf der Bank, die Tauben mit Brotkrumen fütternd.",
+          "en": "He sat on the bench, feeding the pigeons with breadcrumbs."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Parole (-n)",
+          "en": "slogan"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Gefahr {{c1::unterschätzend::unterschätzen}}, wagten sich die Touristen zu weit aufs Eis.",
+      "en": "Underestimating the danger, the tourists ventured too far out onto the ice.",
+      "focus": "Partizip I · Grund",
+      "explanation": "Partizip I can also express a cause: = *Weil sie die Gefahr unterschätzten, …*. The tourists did the underestimating (active), and *die Gefahr* is the Akkusativ object. *unterschätzen* is inseparable, so the Partizip I is simply **unterschätzend**.",
+      "pattern": "[Akk.-Objekt + Partizip I], Verb + Subj. …",
+      "mistake": {
+        "wrong": "Die Gefahr unterschätzt, wagten sich die Touristen zu weit aufs Eis.",
+        "why": "*unterschätzen* is a *haben*-verb with an Akkusativ object. Its Partizip II cannot form an active participle clause (*having underestimated*); that needs a full clause (*Weil sie die Gefahr unterschätzt hatten, …*). For an active, simultaneous meaning use Partizip I: *unterschätzend*."
+      },
+      "examples": [
+        {
+          "de": "Die Folgen nicht bedenkend, unterschrieb er den Vertrag sofort.",
+          "en": "Not considering the consequences, he signed the contract immediately."
+        },
+        {
+          "de": "Ihre Chance erkennend, griff die Mannschaft sofort an.",
+          "en": "Recognising their chance, the team attacked at once."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich wagen",
+          "en": "to venture, to dare to go"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Am Bahnhof angekommen, {{c1::stellten wir fest::feststellen · wir}}, dass der letzte Zug schon weg war.",
+      "en": "When we got to the station, we realised that the last train had already left.",
+      "focus": "gleiches Subjekt in beiden Teilen",
+      "explanation": "The participle group has no subject of its own and refers to the subject of the main clause. *wir* arrived, so *wir* must be the main-clause subject: **stellten wir fest**. With *der letzte Zug* as subject, the sentence would say that the train had arrived.",
+      "pattern": "[Partizip II], Verb + Subj. (= Subj. des Partizips) …",
+      "mistake": {
+        "wrong": "Am Bahnhof angekommen, war der letzte Zug schon weg.",
+        "why": "Dangling participle: the understood subject would be *der Zug*. With different subjects, use a full clause: *Als wir am Bahnhof ankamen, war der letzte Zug schon weg.*"
+      },
+      "examples": [
+        {
+          "de": "In der Klinik eingetroffen, erfuhr er, dass die Operation verschoben worden war.",
+          "en": "On arriving at the clinic, he learned that the operation had been postponed."
+        },
+        {
+          "de": "Zu Hause angekommen, sahen wir, dass jemand eingebrochen hatte.",
+          "en": "When we got home, we saw that someone had broken in."
+        }
+      ],
+      "words": [
+        {
+          "de": "feststellen",
+          "en": "to realise, to notice"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Von einem herabfallenden Ast {{c1::getroffen::treffen}}, musste der Radfahrer ins Krankenhaus gebracht werden.",
+      "en": "Hit by a falling branch, the cyclist had to be taken to hospital.",
+      "focus": "gleiches Subjekt · Passiv im Hauptsatz",
+      "explanation": "The cyclist was hit (passive Partizip II **getroffen**), so *der Radfahrer* must be the main-clause subject. A passive main clause (*musste … gebracht werden*) makes this possible. *herabfallend* inside the group is a Partizip I used as an adjective.",
+      "pattern": "[von + Dat. + Partizip II], Modalverb + Subj. … Partizip II + werden",
+      "mistake": {
+        "wrong": "Von einem herabfallenden Ast getroffen, brachte man den Radfahrer ins Krankenhaus.",
+        "why": "The understood subject would be *man*, but the people who took him to hospital were not hit. Keep *der Radfahrer* as the subject (passive main clause)."
+      },
+      "examples": [
+        {
+          "de": "Von einem Auto erfasst, wurde die Fußgängerin schwer verletzt.",
+          "en": "Hit by a car, the pedestrian was seriously injured."
+        },
+        {
+          "de": "Vom Blitz getroffen, brannte die alte Scheune bis auf die Grundmauern nieder.",
+          "en": "Struck by lightning, the old barn burned to the ground."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Ast (¨-e)",
+          "en": "branch"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "{{c1::Genau genommen::genau · nehmen}} ist das Problem nicht technischer, sondern organisatorischer Natur.",
+      "en": "Strictly speaking, the problem is not technical but organisational in nature.",
+      "focus": "feste Wendung im Vorfeld",
+      "explanation": "**genau genommen** is a fixed participle phrase that comments on the statement. It has no subject of its own, so the subject rule does not apply. In the Vorfeld it is normally written without a comma, and the finite verb *ist* follows directly. (*technischer Natur* is a Genitiv: *of a technical nature*.)",
+      "pattern": "Genau genommen + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Genau nehmend ist das Problem nicht technischer, sondern organisatorischer Natur.",
+        "why": "The fixed phrase always uses the Partizip II: *genau genommen*, like *streng genommen*."
+      },
+      "examples": [
+        {
+          "de": "Streng genommen ist das gar kein Fehler.",
+          "en": "Strictly speaking, that isn't a mistake at all."
+        },
+        {
+          "de": "Genau genommen haben wir den Vertrag nie unterschrieben.",
+          "en": "Strictly speaking, we never signed the contract."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "{{c1::Offen gesagt::offen · sagen}}, ich halte diesen Vorschlag für unrealistisch.",
+      "en": "Frankly, I think this proposal is unrealistic.",
+      "focus": "feste Wendung vor dem Satz",
+      "explanation": "Comment phrases like **offen gesagt, ehrlich gesagt, kurz gesagt** can stand before the sentence, separated by a comma. Then the following clause has its own Vorfeld (*ich halte …*). Without the comma the phrase is the Vorfeld itself: *Offen gesagt halte ich diesen Vorschlag für unrealistisch.*",
+      "pattern": "Offen gesagt, + vollständiger Hauptsatz",
+      "mistake": {
+        "wrong": "Offen gesagt, ich diesen Vorschlag für unrealistisch halte.",
+        "why": "After the comma comes a complete main clause with the finite verb in position 2 (*ich halte …*). *Offen gesagt* is not a conjunction, so it does not send the verb to the end."
+      },
+      "examples": [
+        {
+          "de": "Ehrlich gesagt, ich habe den Film nicht verstanden.",
+          "en": "To be honest, I didn't understand the film."
+        },
+        {
+          "de": "Kurz gesagt: Wir brauchen mehr Personal.",
+          "en": "In short: we need more staff."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "{{c1::Abgesehen von::absehen · Präp.}} einigen Tippfehlern ist Ihre Masterarbeit hervorragend.",
+      "en": "Apart from a few typos, your master's thesis is excellent.",
+      "focus": "feste Wendung mit Präposition",
+      "explanation": "**abgesehen von** + Dativ means *apart from*. It comes from *von etwas absehen* and works like a preposition: *von einigen Tippfehlern* is Dativ plural. The whole group fills the Vorfeld, so *ist* follows. The participle can also follow the noun: *Von einigen Tippfehlern abgesehen(,) ist …* (the comma is optional).",
+      "pattern": "Abgesehen von + Dat. + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Abgesehen von einige Tippfehler ist Ihre Masterarbeit hervorragend.",
+        "why": "*von* takes the Dativ: *von einigen Tippfehlern* (Dativ plural *-en* on the article word and *-n* on the noun)."
+      },
+      "examples": [
+        {
+          "de": "Von kleinen Verzögerungen abgesehen, verlief der Umzug problemlos.",
+          "en": "Apart from small delays, the move went smoothly."
+        },
+        {
+          "de": "Abgesehen vom Preis hat mich das Hotel überzeugt.",
+          "en": "Apart from the price, the hotel won me over."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Tippfehler",
+          "en": "typo"
+        }
+      ],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Die Mieten sind hier, {{c1::verglichen mit::vergleichen · Präp.}} München, noch relativ moderat.",
+      "en": "Compared with Munich, rents here are still relatively moderate.",
+      "focus": "feste Wendung · eingeschoben",
+      "explanation": "**verglichen mit** + Dativ (*compared with*) is a fixed participle phrase. Inserted in the middle of the clause, it is enclosed in commas. At the start it fills the Vorfeld: *Verglichen mit München sind die Mieten hier noch moderat.*",
+      "pattern": "…, verglichen mit + Dat., …",
+      "mistake": {
+        "wrong": "Die Mieten sind hier, vergleichend mit München, noch relativ moderat.",
+        "why": "The fixed phrase uses the Partizip II: *verglichen mit*. *vergleichend* is not used in this meaning."
+      },
+      "examples": [
+        {
+          "de": "Verglichen mit dem Vorjahr ist die Zahl der Unfälle deutlich gesunken.",
+          "en": "Compared with the previous year, the number of accidents has fallen significantly."
+        },
+        {
+          "de": "Unsere Probleme sind, verglichen mit ihren, eher klein.",
+          "en": "Compared with theirs, our problems are rather small."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "{{c1::Abgesehen davon::absehen · Pronominaladverb}}, dass das Hotel etwas laut war, hat uns der Urlaub gut gefallen.",
+      "en": "Apart from the hotel being a bit noisy, we really enjoyed the holiday.",
+      "focus": "feste Wendung + *dass*-Satz",
+      "explanation": "When *abgesehen von* refers to a whole clause, it becomes **abgesehen davon, dass …**: *davon* is a Korrelat that points to the *dass* clause. The whole group (phrase + *dass* clause) fills the Vorfeld, so the finite verb *hat* follows it directly.",
+      "pattern": "Abgesehen davon, dass …, Verb + …",
+      "mistake": {
+        "wrong": "Abgesehen von, dass das Hotel etwas laut war, hat uns der Urlaub gut gefallen.",
+        "why": "A preposition cannot stand directly before a *dass* clause. You need the pronominal adverb *davon*."
+      },
+      "examples": [
+        {
+          "de": "Abgesehen davon, dass es ständig regnete, war die Reise ein Erfolg.",
+          "en": "Apart from the fact that it rained all the time, the trip was a success."
+        },
+        {
+          "de": "Das Auto ist zu teuer. Abgesehen davon brauchen wir es gar nicht.",
+          "en": "The car is too expensive. Apart from that, we don't even need it."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "{{c1::Im Grunde genommen::Grund · nehmen}} verfolgen beide Parteien dasselbe Ziel.",
+      "en": "Basically, both parties are pursuing the same goal.",
+      "focus": "feste Wendung · Satzadverb",
+      "explanation": "**im Grunde genommen** (*basically, essentially*) is a fixed phrase with the Partizip II of *nehmen*; it is often shortened to *im Grunde*. It works like a sentence adverb in the Vorfeld, so the verb *verfolgen* follows, without a comma.",
+      "pattern": "Im Grunde genommen + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Im Grunde genommen beide Parteien verfolgen dasselbe Ziel.",
+        "why": "The fixed phrase fills the Vorfeld. The finite verb *verfolgen* must come next, before the subject."
+      },
+      "examples": [
+        {
+          "de": "Im Grunde genommen hat sich seit der Reform wenig verändert.",
+          "en": "Basically, little has changed since the reform."
+        },
+        {
+          "de": "Er ist im Grunde genommen ein sehr schüchterner Mensch.",
+          "en": "He is basically a very shy person."
+        }
+      ],
+      "words": [
+        {
+          "de": "verfolgen (ein Ziel)",
+          "en": "to pursue (a goal)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "{{c1::Vorausgesetzt::voraussetzen}}, die Finanzierung steht, beginnen die Bauarbeiten im Frühjahr.",
+      "en": "Provided the funding is in place, construction will begin in spring.",
+      "focus": "Partizip II als Bedingung",
+      "explanation": "**vorausgesetzt** (*provided that*) introduces a condition. It is followed by a comma and either a main clause (*die Finanzierung steht*) or a *dass* clause (*vorausgesetzt, dass die Finanzierung steht*). The whole construction fills the Vorfeld, so the main verb *beginnen* follows. *angenommen* (*assuming*) works the same way.",
+      "pattern": "Vorausgesetzt, + Satz, + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Vorausgesetzt, die Finanzierung steht, die Bauarbeiten beginnen im Frühjahr.",
+        "why": "The condition counts as the Vorfeld of the main clause, so the finite verb *beginnen* must follow it directly."
+      },
+      "examples": [
+        {
+          "de": "Angenommen, du bekommst die Stelle, würdest du dann nach Basel ziehen?",
+          "en": "Assuming you get the job, would you move to Basel?"
+        },
+        {
+          "de": "Vorausgesetzt, dass alle zustimmen, tritt die Regelung im Mai in Kraft.",
+          "en": "Provided that everyone agrees, the rule will come into force in May."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Finanzierung steht",
+          "en": "the funding is secured"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Wie bereits {{c1::erwähnt::erwähnen}}, beginnt die Sitzung heute eine Stunde später.",
+      "en": "As already mentioned, the meeting starts an hour later today.",
+      "focus": "*wie* + Partizip II · Kommentar zum Text",
+      "explanation": "*wie* + Partizip II (*wie erwähnt, wie angekündigt, wie vereinbart*) is a shortened comparison clause: = *wie bereits erwähnt wurde*. It refers to the text or the situation, not to the subject, so the subject rule does not apply. It counts as the Vorfeld, so *beginnt* follows directly.",
+      "pattern": "Wie + Partizip II, Verb + Subj. …",
+      "mistake": {
+        "wrong": "Wie bereits erwähnend, beginnt die Sitzung heute eine Stunde später.",
+        "why": "The meaning is passive (*as has been mentioned*), so the phrase needs the Partizip II *erwähnt*."
+      },
+      "examples": [
+        {
+          "de": "Wie angekündigt, erhöht der Verein ab Januar die Mitgliedsbeiträge.",
+          "en": "As announced, the club is raising membership fees from January."
+        },
+        {
+          "de": "Wie vereinbart, schicke ich Ihnen die Unterlagen bis Freitag.",
+          "en": "As agreed, I'll send you the documents by Friday."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Sitzung",
+          "en": "meeting, session"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "{{c1::So gesehen::so · sehen}} war die Absage vielleicht sogar ein Glück.",
+      "en": "Seen that way, the cancellation was perhaps even a stroke of luck.",
+      "focus": "feste Wendung · Perspektive",
+      "explanation": "**so gesehen** (*seen that way, from this perspective*) is a fixed Partizip II phrase that refers back to an argument just made. Like *genau genommen* it stands in the Vorfeld without a comma, and the finite verb *war* follows.",
+      "pattern": "So gesehen + Verb + Subj. …",
+      "mistake": {
+        "wrong": "So sehend war die Absage vielleicht sogar ein Glück.",
+        "why": "The fixed phrase uses the Partizip II: *so gesehen* (also *rein rechtlich gesehen, langfristig gesehen*)."
+      },
+      "examples": [
+        {
+          "de": "So gesehen hast du natürlich recht.",
+          "en": "Seen that way, you're right, of course."
+        },
+        {
+          "de": "Rein rechtlich gesehen ist der Vertrag gültig.",
+          "en": "From a purely legal point of view, the contract is valid."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Absage",
+          "en": "cancellation, refusal"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the meaning of the two participles.",
+      "prompt": "What is the difference in meaning between a Partizip I and a Partizip II participle clause?",
+      "answer": "**Partizip I** (*fluchend, wartend*): active, **at the same time** as the main clause. **Partizip II of a *sein*-verb** (*angekommen*): active, **before** the main clause. **Partizip II of a transitive verb** (*enttäuscht, geweckt*): **passive** or a resulting state.",
+      "explanation": "The participle itself does not name the logical relation: depending on the context, the clause can be temporal, causal, conditional or concessive. Conjunctions such as *obwohl, wenn, sobald* make the relation explicit: *Obwohl schwer verletzt, …*.",
+      "examples": [
+        {
+          "de": "Ungeduldig auf die Uhr blickend, wartete er auf seinen Termin.",
+          "en": "Looking impatiently at the clock, he waited for his appointment."
+        },
+        {
+          "de": "Vom langen Warten genervt, verließ er die Praxis.",
+          "en": "Annoyed by the long wait, he left the surgery."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the subject of a participle clause.",
+      "prompt": "Who is the subject of a participle clause, and what is wrong with *Im Hotel angekommen, klingelte das Telefon*?",
+      "answer": "A participle clause has **no subject of its own**; it always refers to the **subject of the main clause**. In the example that subject is *das Telefon*, so the sentence says that the phone arrived. Correct: *Als sie im Hotel ankam, klingelte das Telefon.* or *Im Hotel angekommen, hörte sie das Telefon klingeln.*",
+      "explanation": "If the two subjects are different, use a full Nebensatz. The exceptions are fixed comment phrases (*genau genommen, offen gesagt, wie erwähnt, verglichen mit*), which refer to the speaker or the text.",
+      "examples": [
+        {
+          "de": "Im Hotel angekommen, hörte sie das Telefon klingeln.",
+          "en": "Having arrived at the hotel, she heard the phone ringing."
+        },
+        {
+          "de": "Als sie im Hotel ankam, klingelte das Telefon.",
+          "en": "When she arrived at the hotel, the phone rang."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about commas.",
+      "prompt": "When do you need a comma with a participle group?",
+      "answer": "**At the beginning**: optional (*Im Hotel angekommen(,) rief sie an*); usually written with longer groups. **Inserted after a noun**: commas on both sides (*Die Ministerin, sichtlich verärgert, verließ …*). **Added at the end**: comma before the group (*…, in ihre Akten vertieft.*). **A single participle** alone: no comma (*Lächelnd nahm sie …*).",
+      "explanation": "A group at the beginning is still the Vorfeld of the main clause, even with a comma, so the finite verb follows directly. Fixed phrases in the Vorfeld (*Genau genommen ist …*) are normally written without a comma.",
+      "examples": [
+        {
+          "de": "Schweigend hörten die Zuschauer zu.",
+          "en": "The audience listened in silence."
+        },
+        {
+          "de": "Der Vorsitzende, von der Frage überrascht, suchte nach Worten.",
+          "en": "The chairman, surprised by the question, searched for words."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about restrictions on Partizip II clauses.",
+      "prompt": "Which verbs cannot form a Partizip II clause, and what happens to *sich*?",
+      "answer": "**Intransitive *haben*-verbs** (*arbeiten, schlafen, fluchen, warten*) cannot: ✗ *Lange gearbeitet, ging sie nach Hause.* → *Nachdem sie lange gearbeitet hatte, …*. **Reflexive verbs** whose Partizip II names a state drop *sich* (*gut erholt, gründlich informiert*); with Partizip I *sich* stays (*sich umsehend*).",
+      "explanation": "A Partizip II clause needs either an active *sein*-verb (*angekommen*) or a passive/state meaning (*gewarnt, vertieft*). An intransitive *haben*-verb has neither, so you need a full clause with *nachdem* or a Partizip I for simultaneous action.",
+      "examples": [
+        {
+          "de": "Nachdem sie den ganzen Tag gearbeitet hatte, ging sie früh schlafen.",
+          "en": "After she had worked all day, she went to bed early."
+        },
+        {
+          "de": "Ausgeruht und gut gelaunt, begann sie die neue Woche.",
+          "en": "Rested and in a good mood, she started the new week."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about fixed participle phrases.",
+      "prompt": "How are fixed participle phrases like *genau genommen* or *offen gesagt* used, and where can they stand?",
+      "answer": "They comment on the statement and need **no identical subject**. Two positions: in the **Vorfeld** without a comma, with the verb directly after (*Genau genommen ist das falsch.*), or **before the sentence** with a comma, followed by a complete main clause (*Offen gesagt, ich halte das für falsch.*).",
+      "explanation": "Common phrases: *genau/streng genommen, im Grunde genommen, offen/ehrlich/kurz gesagt, so gesehen, abgesehen von/davon, verglichen mit, vorausgesetzt, angenommen, wie erwähnt*. Phrases with a preposition (*abgesehen von, verglichen mit*) take the Dativ.",
+      "examples": [
+        {
+          "de": "Streng genommen dürfte er hier gar nicht parken.",
+          "en": "Strictly speaking, he isn't allowed to park here at all."
+        },
+        {
+          "de": "Ehrlich gesagt, mir ist das egal.",
+          "en": "To be honest, I don't care."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Answer the question about expanding participle clauses.",
+      "prompt": "How do you turn a participle clause back into a full Nebensatz?",
+      "answer": "Add a conjunction that fits the meaning, the subject of the main clause and a finite verb: Partizip II of a *sein*-verb → *nachdem* + Plusquamperfekt; Partizip II of a transitive verb → *weil/da/nachdem* + Passiv or *sein* + Partizip; Partizip I → *während/indem/weil* + the tense of the main clause.",
+      "explanation": "The participle shows neither tense nor the logical relation, so you decide from the context. *Von der Kritik enttäuscht* can become *Weil sie von der Kritik enttäuscht war* (cause) or *Nachdem sie von der Kritik enttäuscht worden war* (time).",
+      "examples": [
+        {
+          "de": "Nachdem sie am Ziel angekommen war, rief sie ihre Eltern an.",
+          "en": "After she had reached her destination, she called her parents."
+        },
+        {
+          "de": "Indem er laut pfiff, rief er seinen Hund zurück.",
+          "en": "He called his dog back by whistling loudly."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Von dem Ergebnis völlig ___, verließ der Trainer wortlos das Stadion.",
+      "options": [
+        "überrascht",
+        "überraschend",
+        "überraschen"
+      ],
+      "correct": "überrascht",
+      "answer": "Von dem Ergebnis völlig überrascht, verließ der Trainer wortlos das Stadion.",
+      "explanation": "The coach was surprised by the result (passive, *von dem Ergebnis*) → Partizip II *überrascht*. *überraschend* (Partizip I) would mean that he surprised someone. The infinitive *überraschen* cannot form a participle group."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Den Kopf ___, verließ der Schiedsrichter das Spielfeld.",
+      "options": [
+        "schüttelnd",
+        "geschüttelt",
+        "schütteln"
+      ],
+      "correct": "schüttelnd",
+      "answer": "Den Kopf schüttelnd, verließ der Schiedsrichter das Spielfeld.",
+      "explanation": "The referee shakes his head while leaving (same time, active) and *den Kopf* is an Akkusativ object → Partizip I *schüttelnd*. *Den Kopf geschüttelt* would describe a finished state (like *den Kopf gesenkt*, \"with lowered head\"), which does not fit an ongoing movement. An infinitive cannot form a participle group."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct form of the fixed phrase.",
+      "prompt": "___ mit dem letzten Quartal ist der Umsatz um vier Prozent gestiegen.",
+      "options": [
+        "Verglichen",
+        "Vergleichend",
+        "Vergleicht"
+      ],
+      "correct": "Verglichen",
+      "answer": "Verglichen mit dem letzten Quartal ist der Umsatz um vier Prozent gestiegen.",
+      "explanation": "The fixed phrase is *verglichen mit* + Dativ, with the Partizip II. *Vergleichend* is not used in this phrase, and the finite form *Vergleicht* would need a subject. The phrase fills the Vorfeld, so *ist* follows directly."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the correct main clause.",
+      "prompt": "In Berlin angekommen, ___.",
+      "options": [
+        "nahm sie ein Taxi zum Hotel",
+        "sie nahm ein Taxi zum Hotel",
+        "wartete schon ein Taxi auf sie"
+      ],
+      "correct": "nahm sie ein Taxi zum Hotel",
+      "answer": "In Berlin angekommen, nahm sie ein Taxi zum Hotel.",
+      "explanation": "The participle group is the Vorfeld, so the finite verb *nahm* follows directly; *sie nahm …* puts a second element before the verb. *wartete schon ein Taxi auf sie* has the right word order, but its subject is *ein Taxi*, so it would say that the taxi arrived in Berlin."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Im Büro angekommen, sie schaltete sofort den Computer ein.",
+      "answer": "Im Büro angekommen, schaltete sie sofort den Computer ein.",
+      "explanation": "*Im Büro angekommen* is the Vorfeld of the main clause, even with the comma. The finite verb *schaltete* must come directly after it, then the subject *sie*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Von der Diagnose schockierend, saß er lange schweigend im Auto.",
+      "answer": "Von der Diagnose schockiert, saß er lange schweigend im Auto.",
+      "explanation": "He was shocked by the diagnosis (passive, *von der Diagnose*) → Partizip II *schockiert*. *schockierend* is active and would mean that he shocked someone. *schweigend* is correct: it is a Partizip I for a simultaneous action."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sich gründlich informiert, traf sie eine Entscheidung.",
+      "answer": "Gründlich informiert, traf sie eine Entscheidung.",
+      "explanation": "*sich informieren* is reflexive, but its Partizip II names a state (*sie ist informiert*) and drops *sich* in a participle clause. Only a Partizip I keeps the reflexive pronoun (*sich gründlich informierend*)."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake: the participle refers to the wrong subject.",
+      "prompt": "Nach langer Diskussion überzeugt, wurde der Antrag von allen Mitgliedern unterstützt.",
+      "answer": "Nach langer Diskussion überzeugt, unterstützten alle Mitglieder den Antrag.",
+      "explanation": "*überzeugt* refers to the people who were convinced, but the main-clause subject is *der Antrag*, so the sentence says that the motion was convinced. Making *alle Mitglieder* the subject (active main clause) fixes the reference."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake. Use a full clause with nachdem.",
+      "prompt": "Lange am Projekt gearbeitet, fuhr sie in den Urlaub.",
+      "answer": "Nachdem sie lange am Projekt gearbeitet hatte, fuhr sie in den Urlaub.",
+      "explanation": "*arbeiten* is an intransitive *haben*-verb, so its Partizip II cannot form a participle clause. The earlier action needs a full Nebensatz: *nachdem* + Plusquamperfekt (*gearbeitet hatte*)."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Replace the Nebensatz with a Partizipialsatz (Partizip II).",
+      "prompt": "Nachdem er in Wien angekommen war, meldete er sich bei seinen Gastgebern.",
+      "answer": "In Wien angekommen, meldete er sich bei seinen Gastgebern.",
+      "explanation": "The conjunction *nachdem*, the subject *er* and the auxiliary *war* are dropped; only *in Wien angekommen* remains. This works because both clauses have the same subject and *ankommen* is a *sein*-verb (active, earlier action)."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace the Nebensatz with a Partizipialsatz (Partizip I).",
+      "prompt": "Während sie nervös auf ihre Uhr schaute, wartete sie auf den Zug.",
+      "answer": "Nervös auf ihre Uhr schauend, wartete sie auf den Zug.",
+      "explanation": "*während* shows the same time, so Partizip I is used: *schauen* → *schauend*. Conjunction and subject disappear, the adverb *nervös* and the prepositional phrase *auf ihre Uhr* stay before the participle."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Rewrite the Partizipialsatz as a full Nebensatz with weil.",
+      "prompt": "Von dem Angebot überzeugt, unterschrieb die Firma den Vertrag.",
+      "answer": "Weil die Firma von dem Angebot überzeugt war, unterschrieb sie den Vertrag.",
+      "explanation": "*überzeugt* describes a state (*Zustandspassiv*): *die Firma war überzeugt*. The subject moves into the *weil* clause, so the main clause uses the pronoun *sie*. The finite verb *war* goes to the end of the Nebensatz."
+    },
+    {
+      "key": "d19",
+      "type": "transform",
+      "instruction": "Rewrite the Partizipialsatz as a nachdem clause (Plusquamperfekt Passiv).",
+      "prompt": "Vom Notarzt versorgt, wurde die Verletzte ins Krankenhaus gebracht.",
+      "answer": "Nachdem die Verletzte vom Notarzt versorgt worden war, wurde sie ins Krankenhaus gebracht.",
+      "explanation": "*versorgt* is passive, and the treatment came before the transport. So the full clause is Plusquamperfekt Passiv: *versorgt worden war*. The subject *die Verletzte* moves into the Nebensatz and is replaced by *sie* in the main clause."
+    },
+    {
+      "key": "d20",
+      "type": "transform",
+      "instruction": "Rewrite the Partizipialsatz as a conditional clause with wenn.",
+      "prompt": "Richtig eingesetzt, kann die Methode viel Zeit sparen.",
+      "answer": "Wenn die Methode richtig eingesetzt wird, kann sie viel Zeit sparen.",
+      "explanation": "*richtig eingesetzt* has a conditional meaning here (*if it is used correctly*). *einsetzen* is transitive, so the full clause is in the Präsens Passiv: *eingesetzt wird*. The main clause takes the pronoun *sie*."
+    },
+    {
+      "key": "d21",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Völlig erschöpft",
+      "prompt": "ließ / völlig erschöpft / sich / der Läufer / ins Gras / fallen",
+      "answer": "Völlig erschöpft ließ sich der Läufer ins Gras fallen.",
+      "explanation": "*völlig erschöpft* (Partizip II, state) fills the Vorfeld, so the finite verb *ließ* follows. The reflexive pronoun *sich* usually comes before a full-noun subject; *fallen* closes the clause. A comma after *erschöpft* is optional. Also correct: *Völlig erschöpft ließ der Läufer sich ins Gras fallen.*"
+    },
+    {
+      "key": "d22",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ehrlich gesagt",
+      "prompt": "ehrlich gesagt / keine Lust / habe / ich / mehr",
+      "answer": "Ehrlich gesagt habe ich keine Lust mehr.",
+      "explanation": "Without a comma, *ehrlich gesagt* is the Vorfeld: the verb *habe* follows, then the subject *ich*. With a comma it can also stand before a complete main clause: *Ehrlich gesagt, ich habe keine Lust mehr.*"
+    },
+    {
+      "key": "d23",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a Partizipialsatz (Partizip II).",
+      "prompt": "Die Forscherin war von den Ergebnissen begeistert. Sie veröffentlichte sofort einen Artikel.",
+      "answer": "Von den Ergebnissen begeistert, veröffentlichte die Forscherin sofort einen Artikel.",
+      "explanation": "Both sentences have the same subject, so the first one can be shortened to *von den Ergebnissen begeistert* (state/cause). The full noun *die Forscherin* moves into the main clause, after the verb *veröffentlichte*."
+    },
+    {
+      "key": "d24",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the second sentence into a Partizip I group inside the first.",
+      "prompt": "Der Hund lief über die Wiese. Er bellte laut.",
+      "answer": "Der Hund lief laut bellend über die Wiese.",
+      "explanation": "The barking happens at the same time as the running, so Partizip I is used: *bellen* → *bellend*. A short group like *laut bellend* can stand in the Mittelfeld without commas, as an adverbial of manner."
+    }
+  ]
+}

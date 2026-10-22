@@ -1,0 +1,785 @@
+{
+  "topic_id": "b2-09-konsekutivsaetze",
+  "level": "B2",
+  "title_de": "Konsekutivsätze (sodass / so … dass)",
+  "title_en": "Result clauses (sodass / so … dass)",
+  "rule": {
+    "summary": "Consecutive clauses express the **result** or consequence of what the main clause says (*mit welcher Folge?*). **sodass** (also written *so dass*) introduces a Nebensatz with the verb at the end and presents the whole main clause as the cause: *Es regnete, sodass wir zu Hause blieben.* In **so + Adjektiv/Adverb …, dass** the word *so* stays in the main clause and intensifies one word; the *dass*-clause says what this high degree leads to: *Er war so müde, dass er einschlief.* Related forms are *derart/dermaßen … dass*, *ein solch-… dass*, *zu … um … zu* and *zu … als dass*.",
+    "table": "| Struktur | Was wird betont? | Beispiel |\n|---|---|---|\n| …, **sodass** + V-Ende | die ganze Situation | *Es schneite stark, **sodass** der Zug ausfiel.* |\n| **so** + Adj./Adv. …, **dass** + V-Ende | der Grad einer Eigenschaft | *Es war **so** kalt, **dass** der See zufror.* |\n| **so viel(e) / so sehr** …, **dass** | Menge / Intensität (Verb) | *Er arbeitete **so viel**, **dass** er krank wurde.* |\n| **ein solch-** / **derart** …, **dass** | Art oder Grad (formeller) | *Es herrschte **eine solche** Hitze, **dass** …* |\n| **zu** + Adj., **um … zu** | Übermaß → negative Folge | *Er ist **zu** müde, **um** Auto **zu** fahren.* |\n| **zu** + Adj., **als dass** + Konj. II | Übermaß → negative Folge | *Es ist **zu** spät, **als dass** wir noch kommen **könnten**.* |",
+    "steps": [
+      "Check that the second part is a result (*mit welcher Folge?*), not a purpose (*wozu? → damit*) or a reason (*warum? → weil*).",
+      "If one adjective, adverb or quantity causes the result because of its high degree, put **so** before it in the main clause and start the result with **dass**.",
+      "If the whole situation leads to the result, start the result with **sodass** (no *so* in the main clause).",
+      "In both cases the result clause is a Nebensatz: conjugated verb at the end, separated by a comma. The result clause comes **after** the main clause.",
+      "For a result that does not happen because something is excessive, use *zu* + adjective + *um … zu* (same subject, or an understood general subject: *zu schwer, um sie zu tragen*) or *als dass* + Konjunktiv II (any subject)."
+    ],
+    "pitfalls": [
+      "Verb in position 2 after *sodass*: ✗ *…, sodass wir blieben zu Hause.* → ✓ *…, sodass wir zu Hause blieben.*",
+      "*sodass* together with *so* in the main clause: ✗ *Er war so müde, sodass er einschlief.* → ✓ *Er war so müde, dass er einschlief.*",
+      "Confusing result and purpose: ✗ *Ich spreche laut, sodass du mich verstehst* (if you mean your intention) → ✓ *…, damit du mich verstehst.* *sodass* only reports what actually follows.",
+      "*so viel* with a verb of feeling: ✗ *Sie freute sich so viel, dass …* → ✓ *Sie freute sich so sehr, dass …*",
+      "Result clause at the start: ✗ *Sodass wir zu Hause blieben, regnete es.* The *sodass*-clause cannot stand in the Vorfeld; to put the result first, use *deshalb* in a main clause instead."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Es regnete stark, {{c1::sodass::Folge}} wir zu Hause blieben.",
+      "en": "It was raining hard, so we stayed at home.",
+      "focus": "Konsekutivsatz · kein Korrelat im Hauptsatz",
+      "explanation": "The heavy rain as a whole situation causes the result, and the main clause has no *so*. Therefore the result is introduced by the single conjunction **sodass**. The conjugated verb *blieben* goes to the end of the Nebensatz.",
+      "pattern": "Hauptsatz, **sodass** + Subjekt + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Es regnete stark, sodass wir blieben zu Hause.",
+        "why": "*sodass* is a subordinating conjunction: the finite verb must be at the end, *sodass wir zu Hause blieben*."
+      },
+      "examples": [
+        {"de": "Der Akku war leer, sodass ich niemanden anrufen konnte.", "en": "The battery was dead, so I couldn't call anyone."},
+        {"de": "Die Brücke war gesperrt, sodass wir einen Umweg fahren mussten.", "en": "The bridge was closed, so we had to take a detour."}
+      ],
+      "words": [],
+      "production_cue": "(use sodass)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Er war {{c1::so::Grad}} müde, dass er einschlief.",
+      "en": "He was so tired that he fell asleep.",
+      "focus": "Konsekutivsatz · Korrelat vor dem Adjektiv",
+      "explanation": "It is the high degree of *müde* that causes the result. **so** stands directly before the adjective in the main clause, and the result follows with *dass*. The separable verb *einschlief* stays together at the end of the Nebensatz.",
+      "pattern": "**so** + Adjektiv, dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Er war so müde, sodass er einschlief.",
+        "why": "When *so* already stands in the main clause, the result clause starts with *dass* only. *so … sodass* repeats *so*."
+      },
+      "examples": [
+        {"de": "Sie war so nervös, dass sie ihren Text vergaß.", "en": "She was so nervous that she forgot her lines."},
+        {"de": "Der Koffer war so schwer, dass ich ihn kaum tragen konnte.", "en": "The suitcase was so heavy that I could hardly carry it."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie sprach {{c1::so::Grad}} schnell, dass ich nichts verstand.",
+      "en": "She spoke so fast that I understood nothing.",
+      "focus": "Konsekutivsatz · Korrelat vor einem Adverb",
+      "explanation": "*schnell* is an adverb here (it describes how she spoke). **so** intensifies it in the main clause, and *dass* introduces the result. The subjects (*sie* / *ich*) can differ freely in consecutive clauses.",
+      "pattern": "Verb + **so** + Adverb, dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Sie sprach so schnell, dass ich verstand nichts.",
+        "why": "In the *dass*-clause the finite verb goes to the end: *dass ich nichts verstand*."
+      },
+      "examples": [
+        {"de": "Der Redner sprach so leise, dass man ihn hinten nicht hörte.", "en": "The speaker spoke so quietly that you couldn't hear him at the back."},
+        {"de": "Er schrieb so undeutlich, dass niemand die Notiz lesen konnte.", "en": "He wrote so unclearly that nobody could read the note."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das Buch war {{c1::so::Grad}} gut, dass ich es zweimal las.",
+      "en": "The book was so good that I read it twice.",
+      "focus": "Konsekutivsatz · Korrelat vor dem Adjektiv",
+      "explanation": "The quality of the book (*gut*) causes the result. **so** stands before the predicative adjective *gut*, and the result is a *dass*-clause with the verb *las* at the end.",
+      "pattern": "sein + **so** + Adjektiv, dass …",
+      "mistake": {
+        "wrong": "Das Buch war sehr gut, dass ich es zweimal las.",
+        "why": "*sehr* does not prepare a result clause. A *dass*-clause of result needs *so* (or *derart*) in the main clause: *so gut, dass*."
+      },
+      "examples": [
+        {"de": "Der Film war so spannend, dass ich ihn sofort weiterempfahl.", "en": "The film was so exciting that I recommended it right away."},
+        {"de": "Das Essen war so lecker, dass wir noch einmal bestellten.", "en": "The food was so delicious that we ordered again."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wir hatten viel Spaß, {{c1::sodass::Folge}} wir nicht früher gehen wollten.",
+      "en": "We had a lot of fun, so we didn't want to leave early.",
+      "focus": "Konsekutivsatz · Modalverb am Ende",
+      "explanation": "The whole situation (we had fun) leads to the result, and there is no *so* in the main clause → **sodass**. In the Nebensatz the modal *wollten* is the finite verb and stands last, after the infinitive *gehen*. With *so viel Spaß, dass* you would stress the amount of fun.",
+      "pattern": "Hauptsatz, **sodass** + … + Inf + Modalverb (Ende)",
+      "mistake": {
+        "wrong": "Wir hatten viel Spaß, sodass wir wollten nicht früher gehen.",
+        "why": "After *sodass* the finite verb moves to the end: *sodass wir nicht früher gehen wollten*."
+      },
+      "examples": [
+        {"de": "Das Wetter war herrlich, sodass wir noch einen Tag bleiben wollten.", "en": "The weather was wonderful, so we wanted to stay one more day."},
+        {"de": "Der Abend war sehr gemütlich, sodass niemand nach Hause gehen wollte.", "en": "The evening was very cosy, so nobody wanted to go home."}
+      ],
+      "words": [],
+      "production_cue": "(use sodass)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er arbeitete {{c1::so::Grad}} viel, dass er krank wurde.",
+      "en": "He worked so much that he got sick.",
+      "focus": "Konsekutivsatz · Menge bei einem Verb",
+      "explanation": "*viel* gives the amount of work. **so viel** in the main clause marks this high amount as the cause, and the *dass*-clause states the result. *wurde* (Präteritum of *werden*) is at the end.",
+      "pattern": "Verb + **so** viel, dass …",
+      "mistake": {
+        "wrong": "Er arbeitete so viel, dass er wurde krank.",
+        "why": "In the *dass*-clause the conjugated verb *wurde* must be last: *dass er krank wurde*."
+      },
+      "examples": [
+        {"de": "Sie lernte so viel, dass sie kaum noch schlief.", "en": "She studied so much that she hardly slept any more."},
+        {"de": "Wir sind so viel gelaufen, dass uns die Füße wehtaten.", "en": "We walked so much that our feet hurt."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Die Musik war {{c1::so::Grad}} laut, dass die Nachbarn sich beschwerten.",
+      "en": "The music was so loud that the neighbours complained.",
+      "focus": "Konsekutivsatz · reflexives Verb im Nebensatz",
+      "explanation": "**so laut** in the main clause gives the cause; *dass* gives the result. In the Nebensatz the reflexive pronoun *sich* stands in the Mittelfeld and *beschwerten* is at the end. (*dass sich die Nachbarn beschwerten* is also correct.)",
+      "pattern": "**so** + Adjektiv, dass + Subjekt + sich + Verb (Ende)",
+      "mistake": {
+        "wrong": "Die Musik war so laut, sodass die Nachbarn sich beschwerten.",
+        "why": "With *so* in the main clause, the result clause begins with *dass*, not *sodass*."
+      },
+      "examples": [
+        {"de": "Die Party war so laut, dass die Polizei kam.", "en": "The party was so loud that the police came."},
+        {"de": "Der Service war so schlecht, dass sich mehrere Gäste beschwerten.", "en": "The service was so bad that several guests complained."}
+      ],
+      "words": [{"de": "sich beschweren", "en": "to complain"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sie kam {{c1::so::Grad}} spät, dass alle schon gegangen waren.",
+      "en": "She came so late that everyone had already left.",
+      "focus": "Konsekutivsatz · Plusquamperfekt im Nebensatz",
+      "explanation": "**so spät** is the cause. The result describes something that had happened before her arrival, so it is in the Plusquamperfekt: *gegangen waren*, with the finite *waren* at the end.",
+      "pattern": "**so** + Adverb, dass + … + Partizip II + waren",
+      "mistake": {
+        "wrong": "Sie kam so spät, dass alle schon waren gegangen.",
+        "why": "In the Nebensatz the finite auxiliary is the last word, after the Partizip II: *gegangen waren*."
+      },
+      "examples": [
+        {"de": "Wir kamen so spät an, dass das Restaurant schon geschlossen hatte.", "en": "We arrived so late that the restaurant had already closed."},
+        {"de": "Er reagierte so spät, dass der Unfall nicht mehr zu vermeiden war.", "en": "He reacted so late that the accident could no longer be avoided."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das Wetter war schlecht, {{c1::sodass::Folge}} wir zu Hause bleiben mussten.",
+      "en": "The weather was bad, so we had to stay at home.",
+      "focus": "Konsekutivsatz · Modalverb am Ende",
+      "explanation": "The bad weather as a whole leads to the result → **sodass**. The modal *mussten* is the conjugated verb and goes to the end, after the infinitive *bleiben*.",
+      "pattern": "Hauptsatz, **sodass** + … + Inf + mussten (Ende)",
+      "mistake": {
+        "wrong": "Das Wetter war schlecht, damit wir zu Hause bleiben mussten.",
+        "why": "*damit* expresses a purpose (an intention). Staying at home was a consequence, not the goal of the bad weather, so *sodass* is required."
+      },
+      "examples": [
+        {"de": "Der Flug wurde gestrichen, sodass wir im Hotel übernachten mussten.", "en": "The flight was cancelled, so we had to spend the night at a hotel."},
+        {"de": "Die Heizung fiel aus, sodass wir den ganzen Tag mit Jacken arbeiten mussten.", "en": "The heating broke down, so we had to work in jackets all day."}
+      ],
+      "words": [],
+      "production_cue": "(use sodass)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Er war {{c1::so::Grad}} schnell, dass niemand ihn fangen konnte.",
+      "en": "He was so fast that no one could catch him.",
+      "focus": "Konsekutivsatz · Korrelat vor dem Adjektiv",
+      "explanation": "**so schnell** is the cause in the main clause. In the result clause, the object pronoun *ihn* stands in the Mittelfeld and the modal *konnte* is at the end. (*dass ihn niemand fangen konnte* is also correct; pronouns often move forward.)",
+      "pattern": "**so** + Adjektiv, dass + … + Inf + konnte (Ende)",
+      "mistake": {
+        "wrong": "Er war so schnell, dass niemand konnte ihn fangen.",
+        "why": "The finite modal *konnte* belongs at the end of the *dass*-clause, after *fangen*."
+      },
+      "examples": [
+        {"de": "Der Hund war so schnell, dass ihn keiner einholen konnte.", "en": "The dog was so fast that nobody could catch up with him."},
+        {"de": "Sie war so gut vorbereitet, dass sie jede Frage beantworten konnte.", "en": "She was so well prepared that she could answer every question."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Es war {{c1::so::Grad}} kalt, dass wir Handschuhe brauchten.",
+      "en": "It was so cold that we needed gloves.",
+      "focus": "Konsekutivsatz · unpersönliches *es*",
+      "explanation": "In *Es war kalt* the subject is the impersonal *es*. **so** intensifies *kalt*, and the result follows in the *dass*-clause with *brauchten* at the end.",
+      "pattern": "Es war **so** + Adjektiv, dass …",
+      "mistake": {
+        "wrong": "Es war so kalt, dass wir brauchten Handschuhe.",
+        "why": "In the *dass*-clause the finite verb goes to the end: *dass wir Handschuhe brauchten*."
+      },
+      "examples": [
+        {"de": "Es war so heiß, dass wir nur nachts schlafen konnten.", "en": "It was so hot that we could only sleep at night."},
+        {"de": "Es war so neblig, dass man die Straße kaum sah.", "en": "It was so foggy that you could hardly see the road."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie sang {{c1::so::Grad}} schön, dass alle weinten.",
+      "en": "She sang so beautifully that everyone cried.",
+      "focus": "Konsekutivsatz · Korrelat vor einem Adverb",
+      "explanation": "*schön* describes how she sang (adverbial use, no ending). **so schön** marks the degree, and the result clause *dass alle weinten* follows with the verb at the end.",
+      "pattern": "Verb + **so** + Adverb, dass …",
+      "mistake": {
+        "wrong": "Sie sang so schön, sodass alle weinten.",
+        "why": "*so* is already in the main clause, so the result clause starts with *dass* alone."
+      },
+      "examples": [
+        {"de": "Er spielte so gut, dass das Publikum aufstand.", "en": "He played so well that the audience stood up."},
+        {"de": "Die Kinder tanzten so ausgelassen, dass alle mitmachten.", "en": "The children danced so exuberantly that everyone joined in."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir aßen {{c1::so::Grad}} viel, dass wir uns nicht mehr bewegen konnten.",
+      "en": "We ate so much that we couldn't move anymore.",
+      "focus": "Konsekutivsatz · Menge · reflexives Verb + Modalverb",
+      "explanation": "**so viel** gives the amount that causes the result. In the *dass*-clause *uns* (reflexive) stays in the Mittelfeld, and the verb group *bewegen konnten* closes the clause with the modal last.",
+      "pattern": "Verb + **so** viel, dass + … + sich + Inf + Modalverb",
+      "mistake": {
+        "wrong": "Wir aßen so viel, dass wir konnten uns nicht mehr bewegen.",
+        "why": "In the Nebensatz the finite modal goes to the end: *dass wir uns nicht mehr bewegen konnten*."
+      },
+      "examples": [
+        {"de": "Sie lachten so viel, dass ihnen der Bauch wehtat.", "en": "They laughed so much that their stomachs hurt."},
+        {"de": "Er hat so viel getrunken, dass er nicht mehr fahren durfte.", "en": "He drank so much that he was no longer allowed to drive."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er fuhr {{c1::so::Grad}} schnell, dass er einen Strafzettel bekam.",
+      "en": "He drove so fast that he got a ticket.",
+      "focus": "Konsekutivsatz · Korrelat vor einem Adverb",
+      "explanation": "**so schnell** describes the speed that caused the ticket. The result clause has its own subject *er* and the verb *bekam* at the end.",
+      "pattern": "Verb + **so** + Adverb, dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Er fuhr so schnell, damit er einen Strafzettel bekam.",
+        "why": "*damit* would mean that he wanted to get a ticket (purpose). The ticket is the unplanned result, so the clause needs *dass*."
+      },
+      "examples": [
+        {"de": "Sie bremste so plötzlich, dass der Wagen hinter ihr fast auffuhr.", "en": "She braked so suddenly that the car behind her almost ran into her."},
+        {"de": "Er fuhr so vorsichtig, dass wir eine Stunde zu spät ankamen.", "en": "He drove so carefully that we arrived an hour late."}
+      ],
+      "words": [{"de": "der Strafzettel (-)", "en": "(parking/speeding) ticket"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Die Aufgabe war {{c1::so::Grad}} schwer, dass niemand sie löste.",
+      "en": "The task was so hard that nobody solved it.",
+      "focus": "Konsekutivsatz · Korrelat vor dem Adjektiv",
+      "explanation": "**so schwer** is the cause; *dass niemand sie löste* is the result. *sie* refers back to *die Aufgabe* (feminine Akkusativ) and stands in the Mittelfeld before the final verb *löste*.",
+      "pattern": "**so** + Adjektiv, dass + Subjekt + Pronomen + Verb (Ende)",
+      "mistake": {
+        "wrong": "Die Aufgabe war zu schwer, dass niemand sie löste.",
+        "why": "*zu* + adjective does not combine with a simple *dass*-clause. Use *so schwer, dass …* or *zu schwer, als dass sie jemand hätte lösen können*."
+      },
+      "examples": [
+        {"de": "Die Prüfung war so schwer, dass die Hälfte durchfiel.", "en": "The exam was so hard that half the students failed."},
+        {"de": "Das Rätsel war so kompliziert, dass wir die Lösung nachschlagen mussten.", "en": "The puzzle was so complicated that we had to look up the solution."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er hat viele Bücher gelesen, {{c1::sodass::Folge}} er ein Experte ist.",
+      "en": "He has read many books, so he's an expert.",
+      "focus": "Konsekutivsatz · Präsens nach Perfekt",
+      "explanation": "The reading (Perfekt) leads to a present result: he is an expert now. There is no *so* in the main clause, so the result is introduced by **sodass**. The tenses of the two clauses can differ when the result is in the present.",
+      "pattern": "Hauptsatz (Perfekt), **sodass** + … + Verb (Präsens, Ende)",
+      "mistake": {
+        "wrong": "Er hat viele Bücher gelesen, sodass ist er ein Experte.",
+        "why": "*sodass* is not an adverb; it does not cause inversion. It starts a Nebensatz: *sodass er ein Experte ist*."
+      },
+      "examples": [
+        {"de": "Sie hat jahrelang in Japan gelebt, sodass sie fließend Japanisch spricht.", "en": "She lived in Japan for years, so she speaks fluent Japanese."},
+        {"de": "Wir haben schon alles vorbereitet, sodass wir morgen sofort anfangen können.", "en": "We've already prepared everything, so we can start straight away tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "(use sodass)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie ist {{c1::so::Grad}} klug, dass sie alles versteht.",
+      "en": "She's so smart that she understands everything.",
+      "focus": "Konsekutivsatz · Präsens",
+      "explanation": "The degree of *klug* explains the result. **so** goes before the adjective in the main clause, and the *dass*-clause ends with *versteht*.",
+      "pattern": "**so** + Adjektiv, dass + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Sie ist so klug, als sie alles versteht.",
+        "why": "The result clause after *so* + adjective is introduced by *dass*. *als* is used for comparisons (*klüger als*) or time."
+      },
+      "examples": [
+        {"de": "Er ist so hilfsbereit, dass ihn alle mögen.", "en": "He is so helpful that everyone likes him."},
+        {"de": "Das Kind ist so neugierig, dass es ständig Fragen stellt.", "en": "The child is so curious that it constantly asks questions."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Es schneite stark, {{c1::sodass::Folge}} der Unterricht ausfiel.",
+      "en": "It snowed heavily, so classes were cancelled.",
+      "focus": "Konsekutivsatz · trennbares Verb am Ende",
+      "explanation": "The heavy snowfall as a whole causes the result → **sodass**. The separable verb *ausfallen* (to be cancelled) stays together at the end of the Nebensatz: *ausfiel*.",
+      "pattern": "Hauptsatz, **sodass** + Subjekt + trennbares Verb (Ende)",
+      "mistake": {
+        "wrong": "Es schneite stark, sodass der Unterricht fiel aus.",
+        "why": "In a Nebensatz the separable verb is not split: *sodass der Unterricht ausfiel*."
+      },
+      "examples": [
+        {"de": "Es stürmte heftig, sodass mehrere Züge ausfielen.", "en": "There was a heavy storm, so several trains were cancelled."},
+        {"de": "Der Strom fiel aus, sodass die Prüfung verschoben wurde.", "en": "There was a power cut, so the exam was postponed."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}],
+      "production_cue": "(use sodass)",
+      "sentence_card": true,
+      "correction": "Old German: 'sodass die Schule abgesagt wurde'. *die Schule absagen* is not idiomatic (you cancel an event, not a school). Changed to 'sodass der Unterricht ausfiel'; the cloze answer sodass is unchanged."
+    },
+    {
+      "key": "g18",
+      "de": "Das Hotel war {{c1::so::Grad}} teuer, dass wir nicht buchen konnten.",
+      "en": "The hotel was so expensive that we couldn't book it.",
+      "focus": "Konsekutivsatz · Negation + Modalverb",
+      "explanation": "**so teuer** is the cause, and the negative result follows in the *dass*-clause. *nicht* stands before the verb group, and the modal *konnten* is last.",
+      "pattern": "**so** + Adjektiv, dass + … + nicht + Inf + Modalverb",
+      "mistake": {
+        "wrong": "Das Hotel war so teuer, dass wir konnten nicht buchen.",
+        "why": "The finite *konnten* goes to the end of the *dass*-clause: *dass wir nicht buchen konnten*."
+      },
+      "examples": [
+        {"de": "Die Wohnung war so klein, dass wir nicht einziehen wollten.", "en": "The flat was so small that we didn't want to move in."},
+        {"de": "Der Zug war so voll, dass wir nicht einsteigen konnten.", "en": "The train was so full that we couldn't get on."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie hat ihn {{c1::so::Grad}} überrascht, dass er sprachlos war.",
+      "en": "She surprised him so much that he was speechless.",
+      "focus": "Konsekutivsatz · Korrelat beim Verb",
+      "explanation": "Here *so* refers to the intensity of the action *überraschen* ('surprised him so much'). It stands in the Mittelfeld of the main clause, before the Partizip II. The result follows in the *dass*-clause with *war* at the end.",
+      "pattern": "haben + Objekt + **so** + Partizip II, dass …",
+      "mistake": {
+        "wrong": "Sie hat ihn so viel überrascht, dass er sprachlos war.",
+        "why": "With verbs of feeling and effect the intensity is *so* or *so sehr*, not *so viel* (which is for amounts)."
+      },
+      "examples": [
+        {"de": "Die Nachricht hat uns so schockiert, dass wir lange schwiegen.", "en": "The news shocked us so much that we were silent for a long time."},
+        {"de": "Der Film hat mich so berührt, dass ich weinen musste.", "en": "The film moved me so much that I had to cry."}
+      ],
+      "words": [{"de": "sprachlos", "en": "speechless"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die Professorin hielt einen {{c1::so::Grad}} spannenden Vortrag, dass niemand auf die Uhr sah.",
+      "en": "The professor gave such an exciting lecture that nobody looked at the clock.",
+      "focus": "Konsekutivsatz · Korrelat vor attributivem Adjektiv",
+      "explanation": "*so* can also intensify an adjective in front of a noun: *einen* **so** *spannenden Vortrag*. It stands between the article and the declined adjective (*spannenden*: masculine Akkusativ after *einen*). English uses 'such a …' here.",
+      "pattern": "ein- + **so** + Adj-Endung + Nomen, dass …",
+      "mistake": {
+        "wrong": "Die Professorin hielt einen spannenden so Vortrag, dass niemand auf die Uhr sah.",
+        "why": "*so* stands directly before the adjective it intensifies, not before the noun: *einen so spannenden Vortrag*."
+      },
+      "examples": [
+        {"de": "Er stellte eine so gute Frage, dass der Redner kurz überlegen musste.", "en": "He asked such a good question that the speaker had to think for a moment."},
+        {"de": "Wir hatten ein so schönes Wochenende, dass wir es bald wiederholen wollen.", "en": "We had such a lovely weekend that we want to repeat it soon."}
+      ],
+      "words": [{"de": "einen Vortrag halten", "en": "to give a lecture/talk"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Verkehr war derart chaotisch, {{c1::dass::Folge}} viele Pendler zu spät zur Arbeit kamen.",
+      "en": "The traffic was so chaotic that many commuters were late for work.",
+      "focus": "Konsekutivsatz · formelles Korrelat",
+      "explanation": "**derart** (also *dermaßen*) is a stronger, more formal alternative to *so* in the main clause. Like *so*, it is followed by a result clause with **dass**, not *sodass*.",
+      "pattern": "derart / dermaßen + Adjektiv, **dass** + … + Verb (Ende)",
+      "mistake": {
+        "wrong": "Der Verkehr war derart chaotisch, sodass viele Pendler zu spät zur Arbeit kamen.",
+        "why": "*derart* is a correlate like *so*, so the result clause starts with *dass*. *derart … sodass* doubles the correlate."
+      },
+      "examples": [
+        {"de": "Die Preise sind derart gestiegen, dass sich viele Familien keinen Urlaub mehr leisten können.", "en": "Prices have risen so much that many families can no longer afford a holiday."},
+        {"de": "Er war dermaßen wütend, dass er die Tür zuschlug.", "en": "He was so furious that he slammed the door."}
+      ],
+      "words": [{"de": "der Pendler (-)", "en": "commuter"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "In der Stadt herrschte eine {{c1::solche::solch-}} Hitze, dass die Schulen früher schlossen.",
+      "en": "There was such heat in the city that the schools closed early.",
+      "focus": "Konsekutivsatz · Korrelat vor einem Nomen",
+      "explanation": "When the cause is a noun, the correlate is *ein solch-* (or *so ein-*): *eine* **solche** *Hitze*. After *eine* (feminine Nominativ) *solch-* is declined like an adjective → *-e*. The result follows with *dass*.",
+      "pattern": "ein- + **solch**-Endung + Nomen, dass …",
+      "mistake": {
+        "wrong": "In der Stadt herrschte eine so Hitze, dass die Schulen früher schlossen.",
+        "why": "*so* can only stand before an adjective or adverb. Before a noun you need *eine solche Hitze* (or colloquially *so eine Hitze*)."
+      },
+      "examples": [
+        {"de": "Es gab einen solchen Andrang, dass die Polizei die Straße sperren musste.", "en": "There was such a crowd that the police had to close the street."},
+        {"de": "Sie hatte solche Angst, dass sie nicht sprechen konnte.", "en": "She was so frightened that she couldn't speak."}
+      ],
+      "words": [{"de": "herrschen", "en": "to prevail (weather, mood)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Nach der Nachtschicht ist er {{c1::zu::Übermaß}} müde, um noch Auto zu fahren.",
+      "en": "After the night shift he is too tired to drive.",
+      "focus": "negative Folge · Übermaß + Infinitivsatz",
+      "explanation": "**zu** + adjective means 'more than is possible or acceptable'. The consequence that does not happen follows in an *um … zu* clause (same subject *er*). Meaning: *Er ist so müde, dass er nicht mehr Auto fahren kann.*",
+      "pattern": "**zu** + Adjektiv, um … zu + Inf (Folge tritt nicht ein)",
+      "mistake": {
+        "wrong": "Nach der Nachtschicht ist er zu müde, dass er noch Auto fährt.",
+        "why": "*zu* + adjective cannot be followed by a plain *dass*-clause. Use *um … zu* (same subject) or *als dass* + Konjunktiv II."
+      },
+      "examples": [
+        {"de": "Die Kiste ist zu schwer, um sie allein zu tragen.", "en": "The box is too heavy to carry alone."},
+        {"de": "Das Wasser ist zu kalt, um darin zu schwimmen.", "en": "The water is too cold to swim in."}
+      ],
+      "words": [{"de": "die Nachtschicht (-en)", "en": "night shift"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Das Thema ist zu komplex, als dass man es in zehn Minuten erklären {{c1::könnte::können (Konj. II)}}.",
+      "en": "The topic is too complex to be explained in ten minutes.",
+      "focus": "negative Folge · Übermaß + *als dass*",
+      "explanation": "After *zu* + adjective, a result that does not happen can be expressed by **als dass** + Konjunktiv II, which marks the result as unreal: **könnte**. It is the clearest choice when the result has its own subject (here *man*, not *das Thema*). *um es in zehn Minuten zu erklären* is also used, with an understood general subject, but *als dass* names the subject and stresses that the result is unreal.",
+      "pattern": "**zu** + Adjektiv, **als dass** + … + Konjunktiv II (Ende)",
+      "mistake": {
+        "wrong": "Das Thema ist zu komplex, dass man es in zehn Minuten erklären könnte.",
+        "why": "After *zu* + adjective the result clause must begin with *als dass*, not with *dass* alone."
+      },
+      "examples": [
+        {"de": "Die Zeit ist zu knapp, als dass wir alle Punkte besprechen könnten.", "en": "Time is too short for us to discuss all the points."},
+        {"de": "Er ist zu stolz, als dass er um Hilfe bitten würde.", "en": "He is too proud to ask for help."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Zur Eröffnung kamen {{c1::so viele::Menge (Plural)}} Besucher, dass der Eingang geschlossen werden musste.",
+      "en": "So many visitors came to the opening that the entrance had to be closed.",
+      "focus": "Konsekutivsatz · Menge vor einem Plural-Nomen",
+      "explanation": "Before a countable plural noun the amount is *viele*, intensified by *so*: **so viele** *Besucher*. The result clause contains a passive with a modal: *geschlossen werden musste*, with the finite modal at the end.",
+      "pattern": "**so viele** + Nomen (Pl.), dass + … + Partizip II + werden + Modalverb",
+      "mistake": {
+        "wrong": "Zur Eröffnung kamen so viele Besucher, sodass der Eingang geschlossen werden musste.",
+        "why": "*so viele* is already the correlate in the main clause, so the result clause starts with *dass*. *so … sodass* doubles the correlate."
+      },
+      "examples": [
+        {"de": "Es gab so viele Bewerbungen, dass die Frist verlängert wurde.", "en": "There were so many applications that the deadline was extended."},
+        {"de": "Wir hatten so viel Gepäck, dass wir ein größeres Taxi brauchten.", "en": "We had so much luggage that we needed a bigger taxi."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Zug hatte eine Stunde Verspätung, folglich {{c1::verpasste::verpassen}} ich meinen Anschluss.",
+      "en": "The train was an hour late, so I missed my connection.",
+      "focus": "Folge im Hauptsatz · Konnektor-Adverb",
+      "explanation": "*folglich* (also *deshalb, daher, also*) expresses a result, but it is an adverb, not a conjunction. It fills position 1 of a main clause, so the finite verb **verpasste** follows in position 2, then the subject *ich*. Compare: *…, sodass ich meinen Anschluss verpasste* (verb at the end).",
+      "pattern": "Hauptsatz, folglich + **Verb** + Subjekt + …",
+      "mistake": {
+        "wrong": "Der Zug hatte eine Stunde Verspätung, folglich ich verpasste meinen Anschluss.",
+        "why": "*folglich* takes position 1, so verb and subject are inverted: *folglich verpasste ich*. Only after *sodass* does the verb go to the end."
+      },
+      "examples": [
+        {"de": "Die Nachfrage ist gesunken, folglich hat die Firma die Produktion reduziert.", "en": "Demand has fallen, so the company has reduced production."},
+        {"de": "Er hatte kein Ticket, deshalb musste er eine Strafe zahlen.", "en": "He had no ticket, so he had to pay a fine."}
+      ],
+      "words": [{"de": "der Anschluss (¨-e)", "en": "connection (train)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Firma hat ihre Preise stark erhöht, sodass viele Kunden zur Konkurrenz {{c1::gewechselt sind::wechseln · Perfekt}}.",
+      "en": "The company has raised its prices sharply, so many customers have switched to competitors.",
+      "focus": "*sodass*-Satz · Perfekt mit *sein*",
+      "explanation": "The result is reported in the Perfekt. *wechseln* in the sense of moving to another place or provider usually takes *sein*: Partizip II + **sind**, with the finite auxiliary at the end of the Nebensatz.",
+      "pattern": "Hauptsatz, sodass + … + Partizip II + **sind** (Ende)",
+      "mistake": {
+        "wrong": "Die Firma hat ihre Preise stark erhöht, sodass viele Kunden zur Konkurrenz sind gewechselt.",
+        "why": "In the *sodass*-clause the finite auxiliary *sind* is the last word, after the Partizip II: *gewechselt sind*."
+      },
+      "examples": [
+        {"de": "Der Bus ist ausgefallen, sodass wir zu Fuß gegangen sind.", "en": "The bus was cancelled, so we walked."},
+        {"de": "Die Mieten sind gestiegen, sodass viele junge Leute aufs Land gezogen sind.", "en": "Rents have risen, so many young people have moved to the countryside."}
+      ],
+      "words": [{"de": "die Konkurrenz", "en": "competition, competitors"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Festplatte war beschädigt, sodass die Daten nicht mehr {{c1::wiederhergestellt::wiederherstellen}} werden konnten.",
+      "en": "The hard drive was damaged, so the data could no longer be recovered.",
+      "focus": "*sodass*-Satz · Passiv mit Modalverb",
+      "explanation": "The result clause is a passive with a modal in the Präteritum: Partizip II + *werden* + *konnten*. *wiederherstellen* is separable, so *-ge-* goes after the full prefix *wieder-her-*: **wiederhergestellt**.",
+      "pattern": "sodass + … + Partizip II + werden + Modalverb (Ende)",
+      "mistake": {
+        "wrong": "Die Festplatte war beschädigt, sodass die Daten nicht mehr wiedergehergestellt werden konnten.",
+        "why": "The prefix is *wiederher-* as a whole, so *ge* comes after it: *wieder|her|ge|stellt* → *wiederhergestellt*."
+      },
+      "examples": [
+        {"de": "Das Gebäude war einsturzgefährdet, sodass es abgerissen werden musste.", "en": "The building was in danger of collapse, so it had to be demolished."},
+        {"de": "Der Vertrag war fehlerhaft, sodass er neu aufgesetzt werden musste.", "en": "The contract was faulty, so it had to be drawn up again."}
+      ],
+      "words": [{"de": "wiederherstellen", "en": "to restore, to recover"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Sitzung hat {{c1::so::Grad}} lange gedauert, dass ich den letzten Bus verpasst habe.",
+      "en": "The meeting went on so long that I missed the last bus.",
+      "focus": "Konsekutivsatz · Korrelat in der Satzklammer",
+      "explanation": "In the Perfekt, **so lange** stays in the Mittelfeld between *hat* and *gedauert*. The *dass*-clause follows the complete main clause, and its auxiliary *habe* goes to the end.",
+      "pattern": "hat + **so** + Adverb + Partizip II, dass + … + Partizip II + habe",
+      "mistake": {
+        "wrong": "Die Sitzung hat so lange gedauert, dass ich habe den letzten Bus verpasst.",
+        "why": "In the *dass*-clause the finite *habe* goes to the end, after the Partizip II: *verpasst habe*."
+      },
+      "examples": [
+        {"de": "Der Film hat so lange gedauert, dass die Kinder eingeschlafen sind.", "en": "The film went on so long that the children fell asleep."},
+        {"de": "Wir haben so lange diskutiert, dass das Essen kalt geworden ist.", "en": "We discussed for so long that the food went cold."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Kinder freuten sich {{c1::so sehr::Grad (Verb)}}, dass sie laut jubelten.",
+      "en": "The children were so happy that they cheered loudly.",
+      "focus": "Konsekutivsatz · Intensität eines Gefühlsverbs",
+      "explanation": "With verbs of feeling (*sich freuen, sich ärgern, lieben, leiden*) the intensity is expressed with **so sehr**, not *so viel*. It stands in the Mittelfeld of the main clause, after the reflexive pronoun *sich*.",
+      "pattern": "Verb + sich + **so sehr**, dass …",
+      "mistake": {
+        "wrong": "Die Kinder freuten sich so viel, dass sie laut jubelten.",
+        "why": "*so viel* refers to an amount (*so viel essen, so viel Geld*). The intensity of a feeling is *so sehr*."
+      },
+      "examples": [
+        {"de": "Er hat sich so sehr geärgert, dass er nicht schlafen konnte.", "en": "He was so annoyed that he couldn't sleep."},
+        {"de": "Sie vermisst ihre Familie so sehr, dass sie jeden Tag anruft.", "en": "She misses her family so much that she calls every day."}
+      ],
+      "words": [{"de": "jubeln", "en": "to cheer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Mit sechzehn ist sie alt {{c1::genug::ausreichend}}, um allein mit dem Zug zu reisen.",
+      "en": "At sixteen she is old enough to travel alone by train.",
+      "focus": "positive Folge · ausreichender Grad + Infinitivsatz",
+      "explanation": "**genug** expresses a sufficient degree, so the result is possible; it is the positive counterpart of *zu … um zu*. Unlike English 'enough', it comes **after** the adjective: *alt genug*. The consequence follows in an *um … zu* clause.",
+      "pattern": "Adjektiv + **genug**, um … zu + Inf",
+      "mistake": {
+        "wrong": "Mit sechzehn ist sie genug alt, um allein mit dem Zug zu reisen.",
+        "why": "*genug* follows the adjective it modifies: *alt genug*, *groß genug*. *genug alt* is wrong in standard German."
+      },
+      "examples": [
+        {"de": "Der Raum ist groß genug, um alle Gäste unterzubringen.", "en": "The room is big enough to accommodate all the guests."},
+        {"de": "Er ist erfahren genug, um das Projekt zu leiten.", "en": "He is experienced enough to lead the project."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the two main structures.",
+      "prompt": "When do you use *sodass* and when *so … dass*?",
+      "answer": "**so … dass**: one adjective, adverb or quantity in the main clause causes the result because of its degree; *so* stands before this word (*so müde, dass*). **sodass**: the whole main clause is the cause; there is no *so* in the main clause (*Es regnete, sodass …*).",
+      "explanation": "Both introduce a Nebensatz with the verb at the end. *so* in the main clause and *sodass* are never combined. *sodass* may also be written *so dass*.",
+      "examples": [
+        {"de": "Die Straße war so glatt, dass mehrere Autos rutschten.", "en": "The road was so slippery that several cars skidded."},
+        {"de": "Es hatte gefroren, sodass die Straße glatt war.", "en": "It had frozen, so the road was slippery."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Contrast result and purpose.",
+      "prompt": "What is the difference between *Er sprach laut, sodass alle ihn hörten* and *Er sprach laut, damit alle ihn hörten*?",
+      "answer": "*sodass* reports a **real result**: everyone did hear him. *damit* states a **purpose**: he wanted everyone to hear him (whether they did is open).",
+      "explanation": "Ask *mit welcher Folge?* for *sodass* and *wozu?* for *damit*. A *sodass*-clause describes what actually followed; a *damit*-clause describes an intention.",
+      "examples": [
+        {"de": "Sie stellte den Wecker, damit sie pünktlich aufwachte.", "en": "She set the alarm so that she would wake up on time."},
+        {"de": "Der Wecker klingelte nicht, sodass sie verschlief.", "en": "The alarm didn't ring, so she overslept."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about word order.",
+      "prompt": "Why can a *sodass*-clause not stand at the beginning of the sentence, and what do you use instead if you want to start with the cause?",
+      "answer": "The result must logically follow the cause, so the *sodass*-clause always comes **after** the main clause. If you want two main clauses, use an adverb such as **deshalb, daher, folglich**: *Es regnete, deshalb blieben wir zu Hause* (verb in position 2).",
+      "explanation": "Unlike *weil* or *damit* clauses, consecutive clauses cannot fill the Vorfeld. The adverbs *deshalb/folglich* count as position 1 of their own main clause, so the verb follows immediately.",
+      "examples": [
+        {"de": "Die Batterie war leer, deshalb sprang das Auto nicht an.", "en": "The battery was flat, so the car wouldn't start."},
+        {"de": "Die Batterie war leer, sodass das Auto nicht ansprang.", "en": "The battery was flat, so the car didn't start."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about negative results.",
+      "prompt": "How can you say that a result does **not** happen because something is excessive?",
+      "answer": "**zu** + adjective + **um … zu** (same subject or an understood general subject: *Er ist zu müde, um zu fahren*) or **zu** + adjective + **als dass** + Konjunktiv II (also with a different subject: *Es ist zu laut, als dass man schlafen könnte*).",
+      "explanation": "The word *zu* already contains the negative meaning: the infinitive clause names what is not possible. The Konjunktiv II after *als dass* shows that the result is unreal. The positive version uses *genug*: *alt genug, um …*.",
+      "examples": [
+        {"de": "Der Fluss ist zu tief, um ihn zu Fuß zu durchqueren.", "en": "The river is too deep to cross on foot."},
+        {"de": "Die Sache ist zu wichtig, als dass wir sie einfach ignorieren könnten.", "en": "The matter is too important for us to simply ignore it."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Rewrite with *so … dass*: move the intensity into the main clause.",
+      "prompt": "Der Film war langweilig, sodass ich nach einer halben Stunde ging.",
+      "answer": "Der Film war so langweilig, dass ich nach einer halben Stunde ging.",
+      "explanation": "*so* goes before the adjective *langweilig* in the main clause, and *sodass* becomes *dass*. The Nebensatz with the verb at the end stays the same."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite with *zu … um … zu*.",
+      "prompt": "Der Schrank ist so schwer, dass ich ihn nicht heben kann.",
+      "answer": "Der Schrank ist zu schwer, um ihn zu heben.",
+      "explanation": "*so … dass … nicht können* becomes *zu … um … zu*: the negation and *können* disappear, because *zu* already means 'too much for it to be possible'. The subject *ich* is left out; it is understood as a general subject (one can't lift it)."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite the second sentence as a main clause with *deshalb*.",
+      "prompt": "Es gab einen Stau auf der Autobahn, sodass wir den Flug verpassten.",
+      "answer": "Es gab einen Stau auf der Autobahn, deshalb verpassten wir den Flug.",
+      "explanation": "*deshalb* is an adverb in position 1 of a main clause. The finite verb *verpassten* moves to position 2, directly before the subject *wir*."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Wohnung war so dunkel, sodass wir tagsüber Licht brauchten.",
+      "answer": "Die Wohnung war so dunkel, dass wir tagsüber Licht brauchten.",
+      "explanation": "*so* is already in the main clause, so the result clause begins with *dass*. *so … sodass* is a double correlate."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Prüfung wurde verschoben, sodass wir hatten mehr Zeit zum Lernen.",
+      "answer": "Die Prüfung wurde verschoben, sodass wir mehr Zeit zum Lernen hatten.",
+      "explanation": "*sodass* starts a Nebensatz, so the finite verb *hatten* must go to the end."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Vortrag war zu kompliziert, dass die Studierenden ihn verstanden.",
+      "answer": "Der Vortrag war zu kompliziert, als dass die Studierenden ihn verstanden hätten.",
+      "explanation": "After *zu* + adjective, a plain *dass*-clause is wrong. With a new subject the result is introduced by *als dass* + Konjunktiv II: *verstanden hätten*. (Alternative: *so kompliziert, dass die Studierenden ihn nicht verstanden*.)"
+    },
+    {
+      "key": "d11",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Die Nachfrage war ___ groß, dass die Tickets nach einer Stunde ausverkauft waren.",
+      "options": ["so", "sodass", "zu", "sehr"],
+      "correct": "so",
+      "answer": "Die Nachfrage war so groß, dass die Tickets nach einer Stunde ausverkauft waren.",
+      "explanation": "The *dass*-clause of result needs the correlate *so* before the adjective. *sodass* is a conjunction and cannot stand before *groß*; *zu groß* would need *um … zu* or *als dass*; *sehr* does not prepare a *dass*-clause."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct connector.",
+      "prompt": "Der Server war überlastet, ___ die Website stundenlang nicht erreichbar war.",
+      "options": ["sodass", "damit", "deshalb", "so"],
+      "correct": "sodass",
+      "answer": "Der Server war überlastet, sodass die Website stundenlang nicht erreichbar war.",
+      "explanation": "The second part is a real result with the verb at the end, and there is no *so* in the main clause → *sodass*. *damit* would be a purpose; *deshalb* would need the verb in position 2 (*deshalb war die Website …*); *so* alone cannot introduce a Nebensatz."
+    },
+    {
+      "key": "d13",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Luft war",
+      "prompt": "die Luft war / dass / so / viele Menschen / schlecht, / Masken / trugen",
+      "answer": "Die Luft war so schlecht, dass viele Menschen Masken trugen.",
+      "explanation": "*so* goes before the adjective *schlecht* in the main clause. After the comma the *dass*-clause follows with its subject, object and the finite verb *trugen* at the end."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Software wurde aktualisiert,",
+      "prompt": "die Software wurde aktualisiert, / jetzt / sodass / läuft / schneller / sie",
+      "answer": "Die Software wurde aktualisiert, sodass sie jetzt schneller läuft.",
+      "explanation": "*sodass* opens the Nebensatz, the subject *sie* follows, *jetzt schneller* stands in the Mittelfeld, and the finite verb *läuft* is last."
+    },
+    {
+      "key": "d15",
+      "type": "combine",
+      "instruction": "Join the sentences with *so … dass*. Put *so* before the adjective.",
+      "prompt": "Das Wasser war klar. Man konnte bis auf den Grund sehen.",
+      "answer": "Das Wasser war so klar, dass man bis auf den Grund sehen konnte.",
+      "explanation": "*so* intensifies *klar* in the main clause. The second sentence becomes the *dass*-clause; the modal *konnte* moves to the end after *sehen*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with *sodass*.",
+      "prompt": "Mehrere Mitarbeiter waren krank. Das Projekt hat sich um zwei Wochen verzögert.",
+      "answer": "Mehrere Mitarbeiter waren krank, sodass sich das Projekt um zwei Wochen verzögert hat.",
+      "explanation": "The whole first sentence is the cause → *sodass*. In the Nebensatz the reflexive *sich* moves forward before the subject (common with pronouns), and the auxiliary *hat* goes to the end after *verzögert*."
+    }
+  ]
+}

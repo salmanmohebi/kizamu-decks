@@ -1,0 +1,926 @@
+{
+  "topic_id": "a2-01-dativ",
+  "level": "A2",
+  "title_de": "Dativ (indirektes Objekt)",
+  "title_en": "The dative case (indirect object)",
+  "rule": {
+    "summary": "The **Dativ** marks the indirect object: usually the person who receives something or who profits from an action (question **Wem?**). Verbs of giving, showing and telling often have two objects: the person in the Dativ and the thing in the Akkusativ (*Ich gebe dem Mann ein Buch.*). A small group of verbs takes only a Dativ object (*helfen, danken, antworten, gehören, gefallen*).",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nom | der / ein / mein Mann | die / eine / meine Frau | das / ein / mein Kind | die / – / meine Kinder |\n| Dat | **dem** / **einem** / **meinem** Mann | **der** / **einer** / **meiner** Frau | **dem** / **einem** / **meinem** Kind | **den** / – / **meinen** Kinder**n** |",
+    "steps": [
+      "Find the verb and ask *Wem?*: who receives something, or who is helped, thanked, answered? That person is the Dativ object. The thing (*Was?*) is the Akkusativ object.",
+      "Find the gender and number of the Dativ noun (*der Mann, die Frau, das Kind, die Kinder*).",
+      "Give the article its Dativ ending: masculine and neuter **-m** (*dem, einem, meinem*), feminine **-r** (*der, einer, meiner*), plural **-n** (*den, keinen, meinen*). *kein* and all possessives (*mein, dein, sein, ihr, unser, euer, Ihr*) follow *ein*.",
+      "Check the noun: in the Dativ plural it adds **-n** (*den Kindern*), unless the plural already ends in *-n* or *-s* (*den Frauen, den Autos*). n-Deklination nouns add **-(e)n** in the singular too (*dem Studenten, dem Herrn*).",
+      "Order the objects: two nouns → Dativ before Akkusativ (*dem Kind den Ball*); Akkusativ pronoun → it comes first (*ihn dem Kind*); a pronoun stands before a noun (*ihr eine Nachricht*)."
+    ],
+    "pitfalls": [
+      "Akkusativ instead of Dativ for the receiver, because English has no visible difference: ✗ *Ich gebe den Mann das Buch.* → ✓ *Ich gebe dem Mann das Buch.*",
+      "Feminine Dativ with *die*: ✗ *Ich helfe die Frau.* → ✓ *Ich helfe der Frau.* In the Dativ, feminine *die* becomes *der*.",
+      "Forgetting the plural *-n*: ✗ *Wir zeigen den Kinder den Weg.* → ✓ *Wir zeigen den Kindern den Weg.*",
+      "Using *zu* like English *to*: ✗ *Er erzählt eine Geschichte zu seinem Sohn.* → ✓ *Er erzählt seinem Sohn eine Geschichte.* The receiver is a plain Dativ object, without a preposition.",
+      "Forgetting the n-Deklination: ✗ *Das gehört dem Student.* → ✓ *Das gehört dem Studenten.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich gebe {{c1::dem::der}} Mann ein Buch.",
+      "en": "I'm giving the man a book.",
+      "focus": "Empfänger (Wem?) · nach *geben*",
+      "explanation": "*geben* has two objects: the receiver in the Dativ (*Wem gebe ich das Buch?*) and the thing in the Akkusativ (*ein Buch*). *Mann* is masculine, and the masculine Dativ article is **dem**.",
+      "pattern": "geben + Dat. (Person) + Akk. (Sache)",
+      "mistake": {"wrong": "Ich gebe den Mann ein Buch.", "why": "*den Mann* is the Akkusativ. The Akkusativ slot is already taken by the thing (*ein Buch*); the receiver of *geben* is always Dativ: *dem Mann*."},
+      "examples": [
+        {"de": "Ich gebe dem Kellner das Geld.", "en": "I'm giving the waiter the money."},
+        {"de": "Sie gibt dem Fahrer ihre Fahrkarte.", "en": "She gives the driver her ticket."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Sie schenkt {{c1::der::die}} Frau Blumen.",
+      "en": "She's giving the woman flowers.",
+      "focus": "Empfänger (Wem?) · nach *schenken*",
+      "explanation": "*schenken* (to give as a present) has a receiver in the Dativ and a gift in the Akkusativ (*Blumen*). *Frau* is feminine, and in the Dativ feminine *die* becomes **der**.",
+      "pattern": "schenken + Dat. (Person) + Akk. (Sache)",
+      "mistake": {"wrong": "Sie schenkt die Frau Blumen.", "why": "*die* is the feminine Nominativ/Akkusativ. The receiver of a present is in the Dativ, and the feminine Dativ article is *der*."},
+      "examples": [
+        {"de": "Er schenkt der Nachbarin einen Kuchen.", "en": "He gives the neighbour a cake."},
+        {"de": "Wir schenken der Lehrerin ein Buch.", "en": "We're giving the teacher a book as a present."}
+      ],
+      "words": [{"de": "schenken", "en": "to give (as a present)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Wir helfen {{c1::dem::das}} Kind.",
+      "en": "We're helping the child.",
+      "focus": "Objekt von *helfen*",
+      "explanation": "*helfen* has only one object, and it is always in the Dativ (*Wem helfen wir?*). *Kind* is neuter, and the neuter Dativ article is **dem**, the same form as masculine.",
+      "pattern": "helfen + Dat.",
+      "mistake": {"wrong": "Wir helfen das Kind.", "why": "English *help* takes a direct object, so learners use the Akkusativ. In German *helfen* always takes the Dativ: *dem Kind*."},
+      "examples": [
+        {"de": "Die Ärztin hilft dem Patienten.", "en": "The doctor helps the patient."},
+        {"de": "Hilfst du dem Mädchen?", "en": "Are you helping the girl?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Er sagt {{c1::dem::der}} Lehrer die Wahrheit.",
+      "en": "He tells the teacher the truth.",
+      "focus": "Empfänger (Wem?) · nach *sagen*",
+      "explanation": "*sagen* has the listener in the Dativ and the content in the Akkusativ (*die Wahrheit*). *Lehrer* is masculine → Dativ **dem**. *Lehrer* has no extra ending in the Dativ singular.",
+      "pattern": "sagen + Dat. (Person) + Akk. (Sache)",
+      "mistake": {"wrong": "Er sagt den Lehrer die Wahrheit.", "why": "*den Lehrer* is Akkusativ. The listener after *sagen* is Dativ, and *die Wahrheit* is already the Akkusativ object."},
+      "examples": [
+        {"de": "Sag dem Chef bitte Bescheid.", "en": "Please let the boss know."},
+        {"de": "Er sagt dem Polizisten seinen Namen.", "en": "He tells the police officer his name."}
+      ],
+      "words": [{"de": "die Wahrheit", "en": "the truth"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich danke {{c1::einem::ein}} Freund.",
+      "en": "I'm thanking a friend.",
+      "focus": "Objekt von *danken* · unbestimmter Artikel",
+      "explanation": "*danken* takes a Dativ object (*Wem danke ich?*). *Freund* is masculine, and the indefinite article in the masculine Dativ is **einem** (ein + -em, like *dem*).",
+      "pattern": "danken + Dat. (einem + Nomen)",
+      "mistake": {"wrong": "Ich danke einen Freund.", "why": "*einen* is the masculine Akkusativ. *danken* is a Dativ verb, so the indefinite article ends in *-em*: *einem Freund*."},
+      "examples": [
+        {"de": "Wir danken einem Kollegen für seine Hilfe.", "en": "We thank a colleague for his help."},
+        {"de": "Sie dankt einem Passanten.", "en": "She thanks a passer-by."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er schickt {{c1::seiner::sein}} Mutter eine Karte.",
+      "en": "He's sending his mother a card.",
+      "focus": "Empfänger (Wem?) · Possessivartikel",
+      "explanation": "*schicken* has a receiver in the Dativ and the thing sent in the Akkusativ (*eine Karte*). *Mutter* is feminine; possessive articles take the same endings as *ein*, so the feminine Dativ is *sein* + -er → **seiner**.",
+      "pattern": "schicken + Dat. (seiner + Nomen) + Akk.",
+      "mistake": {"wrong": "Er schickt seine Mutter eine Karte.", "why": "*seine* is the feminine Nominativ/Akkusativ. The receiver needs the Dativ ending *-er*: *seiner Mutter*."},
+      "examples": [
+        {"de": "Er schickt seiner Schwester ein Foto.", "en": "He sends his sister a photo."},
+        {"de": "Sie schickt ihrer Chefin den Bericht.", "en": "She sends her boss the report."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wir zeigen {{c1::den::die (Pl.)}} Kindern den Weg.",
+      "en": "We're showing the children the way.",
+      "focus": "Empfänger (Wem?) · Plural",
+      "explanation": "*zeigen* has the person in the Dativ and the thing in the Akkusativ (*den Weg*). *Kinder* is plural: the Dativ plural article is **den**, and the noun adds *-n*: *Kinder → Kindern*.",
+      "pattern": "zeigen + den + Nomen-**n** (Dat. Pl.) + Akk.",
+      "mistake": {"wrong": "Wir zeigen den Kinder den Weg.", "why": "The article is correct, but in the Dativ plural the noun also needs *-n*: *den Kindern*."},
+      "examples": [
+        {"de": "Wir zeigen den Besuchern die Stadt.", "en": "We're showing the visitors the town."},
+        {"de": "Die Reiseleiterin zeigt den Urlaubern den Strand.", "en": "The guide shows the holidaymakers the beach."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich erzähle {{c1::meinem::mein}} Bruder eine Geschichte.",
+      "en": "I'm telling my brother a story.",
+      "focus": "Zuhörer (Wem?) · nach *erzählen*",
+      "explanation": "*erzählen* has the listener in the Dativ and the story in the Akkusativ. *Bruder* is masculine, so the possessive takes the Dativ ending *-em*: mein + -em → **meinem**.",
+      "pattern": "erzählen + Dat. (meinem + Nomen) + Akk.",
+      "mistake": {"wrong": "Ich erzähle meinen Bruder eine Geschichte.", "why": "*meinen* is the masculine Akkusativ (or the Dativ plural). For a single masculine listener the Dativ is *meinem*."},
+      "examples": [
+        {"de": "Sie erzählt ihrem Vater alles.", "en": "She tells her father everything."},
+        {"de": "Er erzählt seinem Freund einen Witz.", "en": "He tells his friend a joke."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Bringst du {{c1::der::die}} Kollegin den Kaffee?",
+      "en": "Are you bringing the colleague the coffee?",
+      "focus": "Empfänger (Wem?) · Ja/Nein-Frage",
+      "explanation": "*bringen* has the receiver in the Dativ and the thing in the Akkusativ (*den Kaffee*). *Kollegin* is feminine (*-in*) → Dativ **der**. The question form does not change the cases.",
+      "pattern": "Verb + du + Dat. (Person) + Akk. (Sache)?",
+      "mistake": {"wrong": "Bringst du die Kollegin den Kaffee?", "why": "*die Kollegin* would be a second Akkusativ. The person who receives the coffee is in the Dativ: *der Kollegin*."},
+      "examples": [
+        {"de": "Bringst du der Oma die Zeitung?", "en": "Are you bringing Grandma the newspaper?"},
+        {"de": "Bringen Sie der Patientin bitte ein Glas Wasser?", "en": "Could you bring the patient a glass of water, please?"}
+      ],
+      "words": [{"de": "die Kollegin (-nen)", "en": "colleague (female)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich antworte {{c1::dem::der}} Lehrer.",
+      "en": "I'm answering the teacher.",
+      "focus": "Objekt von *antworten*",
+      "explanation": "*antworten* takes the person in the Dativ (*Wem antworte ich?*), although English *answer someone* has a direct object. *Lehrer* is masculine → **dem**. For the question itself, use *auf* + Akkusativ: *auf die Frage antworten*.",
+      "pattern": "antworten + Dat. (Person)",
+      "mistake": {"wrong": "Ich antworte den Lehrer.", "why": "*antworten* is a Dativ verb. *den Lehrer* (Akkusativ) is a direct translation of English *answer the teacher*."},
+      "examples": [
+        {"de": "Antworte der Frau bitte höflich.", "en": "Please answer the woman politely."},
+        {"de": "Er antwortet dem Kunden sofort.", "en": "He answers the customer straight away."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Sie hilft {{c1::ihrer::ihr}} Schwester im Garten.",
+      "en": "She helps her sister in the garden.",
+      "focus": "Objekt von *helfen* · Possessivartikel",
+      "explanation": "*helfen* takes the Dativ. *Schwester* is feminine, so the possessive *ihr* takes the feminine Dativ ending *-er* → **ihrer**. *im Garten* is a second Dativ, triggered by the place (*in* + *wo?*), not by *helfen*.",
+      "pattern": "helfen + Dat. (ihrer + Nomen)",
+      "mistake": {"wrong": "Sie hilft ihre Schwester im Garten.", "why": "*ihre Schwester* is Nominativ/Akkusativ. After *helfen* the possessive needs the Dativ ending: *ihrer Schwester*."},
+      "examples": [
+        {"de": "Sie hilft ihrer Mutter in der Küche.", "en": "She helps her mother in the kitchen."},
+        {"de": "Er hilft seiner Tante beim Einkaufen.", "en": "He helps his aunt with the shopping."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Das Buch gehört {{c1::einem::ein}} Studenten.",
+      "en": "The book belongs to a student.",
+      "focus": "Besitzer nach *gehören* · n-Deklination",
+      "explanation": "*gehören* names the owner in the Dativ. *Student* is masculine → indefinite Dativ **einem**. *Student* is an n-Deklination noun, so the noun also adds *-en*: *einem Studenten*.",
+      "pattern": "gehören + einem + Nomen-**en** (Dat. m., n-Deklination)",
+      "mistake": {"wrong": "Das Buch gehört einem Student.", "why": "The article is correct, but *Student* belongs to the n-Deklination: every case except the Nominativ singular ends in *-en* → *einem Studenten*."},
+      "examples": [
+        {"de": "Der Koffer gehört einem Touristen.", "en": "The suitcase belongs to a tourist."},
+        {"de": "Die Jacke gehört einem Kunden.", "en": "The jacket belongs to a customer."}
+      ],
+      "words": [{"de": "gehören (+ Dat.)", "en": "to belong to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich gebe {{c1::der::die}} Lehrerin den Test.",
+      "en": "I'm giving the teacher the test.",
+      "focus": "Empfänger (Wem?) · Femininum auf *-in*",
+      "explanation": "The receiver of *geben* is Dativ; the thing (*den Test*) is Akkusativ. *Lehrerin* ends in *-in*, so it is feminine → Dativ **der**. Note the two different forms: *der Lehrerin* (Dat.) and *den Test* (Akk.).",
+      "pattern": "geben + der + Nomen (Dat. f.) + Akk.",
+      "mistake": {"wrong": "Ich gebe die Lehrerin den Test.", "why": "Learners keep the dictionary form *die*. The feminine Dativ article is *der*, the same word as the masculine Nominativ."},
+      "examples": [
+        {"de": "Ich gebe der Sekretärin das Formular.", "en": "I give the secretary the form."},
+        {"de": "Er gibt der Verkäuferin einen Gutschein.", "en": "He gives the shop assistant a voucher."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie kauft {{c1::ihrer::ihr}} Tochter ein Eis.",
+      "en": "She buys her daughter an ice cream.",
+      "focus": "Nutznießer (für wen?) · nach *kaufen*",
+      "explanation": "With *kaufen* the person who gets the thing can be a Dativ object (*Wem kauft sie ein Eis?*). *Tochter* is feminine → possessive *ihr* + -er → **ihrer**. *ein Eis* is the Akkusativ object.",
+      "pattern": "kaufen + Dat. (Person) + Akk. (Sache)",
+      "mistake": {"wrong": "Sie kauft ihre Tochter ein Eis.", "why": "*ihre Tochter* would be an Akkusativ object, as if she were buying her daughter. The person who receives the ice cream is Dativ: *ihrer Tochter* (or *für ihre Tochter*)."},
+      "examples": [
+        {"de": "Er kauft seiner Frau eine Uhr.", "en": "He buys his wife a watch."},
+        {"de": "Kaufst du deinem Sohn ein Fahrrad?", "en": "Are you buying your son a bike?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir helfen {{c1::den::die (Pl.)}} Touristen am Bahnhof.",
+      "en": "We help the tourists at the station.",
+      "focus": "Objekt von *helfen* · Plural",
+      "explanation": "*helfen* takes the Dativ, and *Touristen* is plural → Dativ plural article **den**. The noun gets no extra *-n*, because the plural *Touristen* already ends in *-n*.",
+      "pattern": "helfen + den + Nomen (Dat. Pl.)",
+      "mistake": {"wrong": "Wir helfen die Touristen am Bahnhof.", "why": "*die Touristen* is the Nominativ/Akkusativ plural. After *helfen* use the Dativ plural article *den*."},
+      "examples": [
+        {"de": "Die Stadt hilft den Familien mit Kindern.", "en": "The city helps families with children."},
+        {"de": "Wir helfen den Studenten bei der Wohnungssuche.", "en": "We help the students look for a flat."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er erzählt {{c1::seinem::sein}} Sohn eine Geschichte.",
+      "en": "He tells his son a story.",
+      "focus": "Zuhörer (Wem?) · nach *erzählen*",
+      "explanation": "The listener of *erzählen* is in the Dativ. *Sohn* is masculine → *sein* + -em → **seinem**. The two nouns stand in the normal order: Dativ (*seinem Sohn*) before Akkusativ (*eine Geschichte*).",
+      "pattern": "erzählen + Dat. + Akk. (Nomen vor Nomen)",
+      "mistake": {"wrong": "Er erzählt eine Geschichte zu seinem Sohn.", "why": "This copies English *tell a story to*. German does not use *zu* here; the listener is a plain Dativ object: *seinem Sohn eine Geschichte*."},
+      "examples": [
+        {"de": "Sie liest ihrem Sohn ein Märchen vor.", "en": "She reads her son a fairy tale."},
+        {"de": "Er erklärt seinem Enkel die Spielregeln.", "en": "He explains the rules of the game to his grandson."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ich gratuliere {{c1::der::die}} Kollegin zum Geburtstag.",
+      "en": "I congratulate my colleague on her birthday.",
+      "focus": "Objekt von *gratulieren*",
+      "explanation": "*gratulieren* takes the person in the Dativ (*Wem gratuliere ich?*) and the occasion with *zu* (*zum Geburtstag*). *Kollegin* is feminine → Dativ **der**.",
+      "pattern": "gratulieren + Dat. (Person) + zu + Dat. (Anlass)",
+      "mistake": {"wrong": "Ich gratuliere die Kollegin zum Geburtstag.", "why": "English *congratulate someone* has a direct object, but *gratulieren* is a Dativ verb: *der Kollegin*."},
+      "examples": [
+        {"de": "Wir gratulieren dem Team zum Sieg.", "en": "We congratulate the team on the win."},
+        {"de": "Er gratuliert seiner Cousine zur Hochzeit.", "en": "He congratulates his cousin on her wedding."}
+      ],
+      "words": [{"de": "gratulieren (+ Dat.)", "en": "to congratulate"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir bringen {{c1::dem::der}} Vater Blumen.",
+      "en": "We're bringing Father some flowers.",
+      "focus": "Empfänger (Wem?) · nach *bringen*",
+      "explanation": "*bringen* has the receiver in the Dativ and the thing in the Akkusativ (*Blumen*, plural without article). *Vater* is masculine → **dem**. In families German often uses the definite article for *Vater, Mutter, Oma*.",
+      "pattern": "bringen + Dat. (Person) + Akk. (Sache)",
+      "mistake": {"wrong": "Wir bringen den Vater Blumen.", "why": "*den Vater* is Akkusativ, as if we were carrying our father. The receiver of the flowers is Dativ: *dem Vater*."},
+      "examples": [
+        {"de": "Wir bringen dem Opa die Post.", "en": "We're bringing Grandpa the post."},
+        {"de": "Die Kinder bringen dem Hausmeister einen Kuchen.", "en": "The children are bringing the caretaker a cake."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Sie schickt {{c1::einer::ein}} Freundin eine Postkarte.",
+      "en": "She's sending a friend a postcard.",
+      "focus": "Empfänger (Wem?) · unbestimmter Artikel",
+      "explanation": "The receiver of *schicken* is Dativ. *Freundin* is feminine, and the feminine Dativ of the indefinite article is **einer**. Compare the two feminine phrases: *einer Freundin* (Dat.) and *eine Postkarte* (Akk.).",
+      "pattern": "schicken + einer + Nomen (Dat. f.) + Akk.",
+      "mistake": {"wrong": "Sie schickt eine Freundin eine Postkarte.", "why": "With two times *eine*, the sentence has no Dativ. The person who receives the card needs the feminine Dativ *einer*."},
+      "examples": [
+        {"de": "Er schickt einer Kollegin die Präsentation.", "en": "He sends a colleague the presentation."},
+        {"de": "Ich schreibe einer Freundin in Spanien eine E-Mail.", "en": "I'm writing an email to a friend in Spain."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Das gehört {{c1::dem::das}} kleinen Kind.",
+      "en": "That belongs to the little child.",
+      "focus": "Besitzer nach *gehören* · mit Adjektiv",
+      "explanation": "*gehören* names the owner in the Dativ. *Kind* is neuter → **dem**. After *dem* the adjective takes the weak ending *-en*: *dem kleinen Kind*.",
+      "pattern": "gehören + dem + Adj-**en** + Nomen (Dat. n.)",
+      "mistake": {"wrong": "Das gehört dem kleine Kind.", "why": "The article is correct, but after *dem* an adjective always ends in *-en*: *dem kleinen Kind*."},
+      "examples": [
+        {"de": "Der Ball gehört dem kleinen Jungen.", "en": "The ball belongs to the little boy."},
+        {"de": "Das Fahrrad gehört dem neuen Mitarbeiter.", "en": "The bike belongs to the new employee."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich gebe {{c1::dem::das}} Kind einen Apfel.",
+      "en": "I give the child an apple.",
+      "focus": "Empfänger · Neutrum",
+      "explanation": "The receiver of *geben* is Dativ. *Kind* is neuter (*das Kind*), and in the Dativ *das* becomes **dem**, like masculine *der*. *einen Apfel* is the masculine Akkusativ object.",
+      "pattern": "das → dem (Dat. n.)",
+      "mistake": {"wrong": "Ich gebe das Kind einen Apfel.", "why": "*das* does not change in the Akkusativ, but it does change in the Dativ: *das Kind* → *dem Kind*."},
+      "examples": [
+        {"de": "Ich gebe dem Baby die Flasche.", "en": "I give the baby the bottle."},
+        {"de": "Die Mutter gibt dem Mädchen ein Taschentuch.", "en": "The mother gives the girl a tissue."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Sie erzählt {{c1::der::die}} Kollegin die Neuigkeiten.",
+      "en": "She tells her colleague the news.",
+      "focus": "Zuhörer · Femininum",
+      "explanation": "Feminine *die* becomes **der** in the Dativ. This *der* looks like the masculine Nominativ, but here it is feminine Dativ: the colleague is the listener of *erzählen*. *die Neuigkeiten* is the plural Akkusativ object.",
+      "pattern": "die → der (Dat. f.)",
+      "mistake": {"wrong": "Sie erzählt die Kollegin die Neuigkeiten.", "why": "Two times *die* means two Akkusativ objects, which *erzählen* cannot have. The listener is Dativ: *der Kollegin*."},
+      "examples": [
+        {"de": "Er erklärt der Kundin den Vertrag.", "en": "He explains the contract to the customer."},
+        {"de": "Sie zeigt der Nachbarin die neuen Fotos.", "en": "She shows the neighbour the new photos."}
+      ],
+      "words": [{"de": "die Neuigkeiten (Pl.)", "en": "the news (personal)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Wir helfen {{c1::den::die (Pl.)}} Nachbarn beim Umzug.",
+      "en": "We're helping the neighbours with the move.",
+      "focus": "Objekt von *helfen* · Plural",
+      "explanation": "*helfen* takes the Dativ; the plural article becomes **den**. *Nachbar* has the plural *Nachbarn*, which already ends in *-n*, so no second *-n* is added. *beim Umzug* (= bei dem) is another Dativ, after *bei*.",
+      "pattern": "die → den (Dat. Pl.)",
+      "mistake": {"wrong": "Wir helfen die Nachbarn beim Umzug.", "why": "*die Nachbarn* is Nominativ/Akkusativ plural. *helfen* needs the Dativ plural article *den*."},
+      "examples": [
+        {"de": "Wir helfen den Großeltern im Garten.", "en": "We help the grandparents in the garden."},
+        {"de": "Die Firma hilft den Mitarbeitern bei der Wohnungssuche.", "en": "The company helps its employees find a flat."}
+      ],
+      "words": [{"de": "der Umzug (¨-e)", "en": "move (to a new home)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Das Buch gehört {{c1::meinem::mein}} Vater.",
+      "en": "The book belongs to my father.",
+      "focus": "Besitzer nach *gehören* · Possessivartikel",
+      "explanation": "*gehören* has no Akkusativ object at all: the thing is the subject (*das Buch*), and the owner is Dativ. *Vater* is masculine → *mein* + -em → **meinem**.",
+      "pattern": "Sache (Nom.) + gehören + Besitzer (Dat.)",
+      "mistake": {"wrong": "Das Buch gehört meinen Vater.", "why": "*meinen Vater* is Akkusativ. *gehören* only takes a Dativ: *meinem Vater*."},
+      "examples": [
+        {"de": "Der Garten gehört meinem Onkel.", "en": "The garden belongs to my uncle."},
+        {"de": "Gehört die Tasche deinem Freund?", "en": "Does the bag belong to your boyfriend?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Kannst du {{c1::mir::ich}} das erklären?",
+      "en": "Can you explain that to me?",
+      "focus": "Personalpronomen · Person bei *erklären*",
+      "explanation": "*erklären* has the person in the Dativ and the thing in the Akkusativ (*das*). The Dativ of *ich* is **mir**. The short personal pronoun *mir* comes before the demonstrative *das*; with *es* the order changes: *Kannst du es mir erklären?*",
+      "pattern": "erklären + mir (Dat.) + das (Akk.)",
+      "mistake": {"wrong": "Kannst du mich das erklären?", "why": "*mich* is the Akkusativ of *ich*. The person who gets the explanation is Dativ: *mir*."},
+      "examples": [
+        {"de": "Kannst du mir den Weg zeigen?", "en": "Can you show me the way?"},
+        {"de": "Gibst du mir bitte das Salz?", "en": "Can you pass me the salt, please?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich schicke {{c1::ihr::sie (Sg.)}} eine Nachricht.",
+      "en": "I'm sending her a message.",
+      "focus": "Personalpronomen · Empfänger",
+      "explanation": "The receiver of *schicken* is Dativ. The Dativ of *sie* (singular, *she*) is **ihr**; for a man it would be *ihm*. The pronoun stands before the noun object *eine Nachricht*.",
+      "pattern": "schicken + ihr (Dat.) + Akk.",
+      "mistake": {"wrong": "Ich schicke sie eine Nachricht.", "why": "*sie* is the Nominativ/Akkusativ. The receiver of the message needs the Dativ form *ihr*."},
+      "examples": [
+        {"de": "Ich gebe ihr meine Nummer.", "en": "I'm giving her my number."},
+        {"de": "Wir kaufen ihm ein Geschenk.", "en": "We're buying him a present."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Er zeigt {{c1::uns::wir}} seine Fotos.",
+      "en": "He is showing us his photos.",
+      "focus": "Personalpronomen · Wortstellung Pronomen vor Nomen",
+      "explanation": "The Dativ of *wir* is **uns** (the same form as the Akkusativ). A pronoun object stands before a noun object, so *uns* comes before *seine Fotos*.",
+      "pattern": "Verb + Pronomen (Dat.) + Nomen (Akk.)",
+      "mistake": {"wrong": "Er zeigt seine Fotos zu uns.", "why": "English *show to us* does not work with *zu*. The person is a plain Dativ object: *Er zeigt uns seine Fotos.*"},
+      "examples": [
+        {"de": "Sie erklärt uns die Aufgabe.", "en": "She explains the task to us."},
+        {"de": "Der Kellner bringt uns die Speisekarte.", "en": "The waiter brings us the menu."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Das Kleid passt {{c1::dir::du}} sehr gut.",
+      "en": "The dress fits you very well.",
+      "focus": "Personalpronomen · nach *passen*",
+      "explanation": "*passen* (to fit, the right size) takes the person in the Dativ; so do *stehen* (to suit) and *gefallen* (to please). The Dativ of *du* is **dir**.",
+      "pattern": "Sache (Nom.) + passen + Person (Dat.)",
+      "mistake": {"wrong": "Das Kleid passt dich sehr gut.", "why": "*dich* is the Akkusativ of *du*. *passen* takes the person in the Dativ: *dir*."},
+      "examples": [
+        {"de": "Die Farbe steht dir gut.", "en": "The colour suits you."},
+        {"de": "Passt dir der Termin am Montag?", "en": "Does the appointment on Monday suit you?"}
+      ],
+      "words": [{"de": "passen (+ Dat.)", "en": "to fit; to suit (a date, a plan)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich danke {{c1::Ihnen::Sie (formell)}} für die Hilfe.",
+      "en": "Thank you for your help.",
+      "focus": "Höflichkeitsform · nach *danken*",
+      "explanation": "*danken* takes the person in the Dativ and the reason with *für* + Akkusativ. The Dativ of formal *Sie* is **Ihnen**, written with a capital *I* like *Sie* and *Ihr*.",
+      "pattern": "danken + Ihnen (Dat.) + für + Akk.",
+      "mistake": {"wrong": "Ich danke Sie für die Hilfe.", "why": "*Sie* is the Nominativ/Akkusativ. *danken* needs the Dativ: *Ihnen*. Small *ihnen* would mean *them*."},
+      "examples": [
+        {"de": "Ich danke Ihnen für Ihre Geduld.", "en": "Thank you for your patience."},
+        {"de": "Kann ich Ihnen helfen?", "en": "Can I help you?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wie geht es {{c1::deinem::dein}} Bruder?",
+      "en": "How is your brother?",
+      "focus": "feste Wendung *Wie geht es …?*",
+      "explanation": "In *es geht* + person the subject is *es*, and the person is in the Dativ: *Wie geht es dir / Ihnen / deinem Bruder?* *Bruder* is masculine → *dein* + -em → **deinem**.",
+      "pattern": "Wie geht es + Dat.?",
+      "mistake": {"wrong": "Wie geht es dein Bruder?", "why": "The subject of this sentence is *es*, not the brother. The person is Dativ, so the possessive needs *-em*: *deinem Bruder*."},
+      "examples": [
+        {"de": "Wie geht es deiner Mutter?", "en": "How is your mother?"},
+        {"de": "Wie geht es euren Kindern?", "en": "How are your children?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Wir bringen {{c1::den::die (Pl.)}} Gästen etwas zu trinken.",
+      "en": "We're bringing the guests something to drink.",
+      "focus": "Empfänger · Plural mit Umlaut",
+      "explanation": "The receivers of *bringen* are Dativ plural → **den**. The plural of *der Gast* is *Gäste*, and the Dativ plural adds *-n*: *den Gästen*. *etwas zu trinken* is the Akkusativ object.",
+      "pattern": "den + Plural-**n** (Dat. Pl.)",
+      "mistake": {"wrong": "Wir bringen den Gäste etwas zu trinken.", "why": "*den* is correct, but *Gäste* does not end in *-n* or *-s*, so the Dativ plural noun must add *-n*: *Gästen*."},
+      "examples": [
+        {"de": "Wir zeigen den Gästen das Zimmer.", "en": "We show the guests the room."},
+        {"de": "Er gibt den Hunden frisches Wasser.", "en": "He gives the dogs fresh water."}
+      ],
+      "words": [{"de": "der Gast (¨-e)", "en": "guest"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Sie antwortet {{c1::ihrem::ihr}} Chef nicht.",
+      "en": "She isn't answering her boss.",
+      "focus": "Objekt von *antworten* · Possessivartikel",
+      "explanation": "*antworten* takes the person in the Dativ, although English *answer* takes a direct object. *Chef* is masculine → *ihr* + -em → **ihrem**. *nicht* at the end negates the whole sentence.",
+      "pattern": "antworten + ihrem + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Sie antwortet ihren Chef nicht.", "why": "*ihren Chef* is the masculine Akkusativ. *antworten* needs the Dativ: *ihrem Chef*."},
+      "examples": [
+        {"de": "Er antwortet seiner Tante nie.", "en": "He never answers his aunt."},
+        {"de": "Warum antwortest du deinem Vermieter nicht?", "en": "Why aren't you answering your landlord?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Das Handy gehört {{c1::keinem::kein}} von uns.",
+      "en": "The phone belongs to none of us.",
+      "focus": "Besitzer nach *gehören* · *kein* als Pronomen",
+      "explanation": "*keiner von uns* (none of us) is a pronoun that takes the Dativ after *gehören*. Used generally (for a mixed group), it takes the masculine Dativ form **keinem**, like *einem* and *dem*.",
+      "pattern": "gehören + keinem von + Dat.",
+      "mistake": {"wrong": "Das Handy gehört kein von uns.", "why": "Used as a pronoun, *kein* always needs an ending, and after *gehören* it is the Dativ *-em*: *keinem von uns*."},
+      "examples": [
+        {"de": "Ich habe es keinem von euch gesagt.", "en": "I didn't tell any of you."},
+        {"de": "Der Schirm gehört keinem von den Gästen.", "en": "The umbrella doesn't belong to any of the guests."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ich glaube {{c1::dem::der}} Bericht nicht.",
+      "en": "I don't believe the report.",
+      "focus": "*glauben* · Quelle einer Information",
+      "explanation": "*glauben* takes the Dativ for the person or source you trust (*dir, dem Bericht, der Zeitung*). *Bericht* is masculine → **dem**. The content itself is Akkusativ, usually a pronoun: *Das glaube ich dir nicht.*",
+      "pattern": "glauben + Dat. (Quelle) / + Akk. (Inhalt)",
+      "mistake": {"wrong": "Ich glaube der Bericht nicht.", "why": "*der Bericht* is the Nominativ, but the subject of the sentence is *ich*. The report is the source you do not trust, so it is the Dativ object of *glauben*: masculine *dem Bericht*."},
+      "examples": [
+        {"de": "Ich glaube der Zeitung nicht mehr.", "en": "I don't believe the newspaper any more."},
+        {"de": "Glaubst du dem Verkäufer?", "en": "Do you believe the salesman?"}
+      ],
+      "words": [{"de": "der Bericht (-e)", "en": "report"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "{{c1::Wem::Fragewort, Person}} hast du das Geld gegeben?",
+      "en": "Who did you give the money to?",
+      "focus": "Fragewort · indirektes Objekt",
+      "explanation": "The question word changes with the case: *wer?* (Nom.), *wen?* (Akk.), **wem?** (Dat.). Here the person is the receiver of *geben*, so the question asks for a Dativ → *wem*. Answer: *Ich habe es meinem Bruder gegeben.*",
+      "pattern": "Wem + Verb + Subjekt + Akk. …?",
+      "mistake": {"wrong": "Wen hast du das Geld gegeben?", "why": "*wen* asks for an Akkusativ object, but that slot is already filled by *das Geld*. The receiver is Dativ, so the question word is *wem*."},
+      "examples": [
+        {"de": "Wem schreibst du so spät noch?", "en": "Who are you writing to so late?"},
+        {"de": "Wem gehört dieser Schlüssel?", "en": "Who does this key belong to?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Arzt empfiehlt {{c1::dem::der}} Patienten viel Ruhe.",
+      "en": "The doctor recommends a lot of rest to the patient.",
+      "focus": "Empfänger · n-Deklination",
+      "explanation": "*empfehlen* has the person in the Dativ and the thing in the Akkusativ (*viel Ruhe*). *Patient* is masculine → **dem**, and as an n-Deklination noun it adds *-en*: *dem Patienten*.",
+      "pattern": "empfehlen + dem + Nomen-**en** (Dat. m.) + Akk.",
+      "mistake": {"wrong": "Der Arzt empfiehlt den Patient viel Ruhe.", "why": "Two mistakes in one phrase: the receiver must be Dativ (*dem*, not *den*), and *Patient* is n-Deklination → *Patienten*."},
+      "examples": [
+        {"de": "Die Lehrerin empfiehlt dem Jungen ein Buch.", "en": "The teacher recommends a book to the boy."},
+        {"de": "Ich empfehle dem Kunden das günstige Modell.", "en": "I recommend the cheap model to the customer."}
+      ],
+      "words": [{"de": "empfehlen", "en": "to recommend"}, {"de": "die Ruhe", "en": "rest, quiet"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich leihe {{c1::meinen::mein}} Freunden nie mein Auto.",
+      "en": "I never lend my friends my car.",
+      "focus": "Empfänger · Possessivartikel im Plural",
+      "explanation": "*leihen* has the person in the Dativ and the thing in the Akkusativ. *Freunde* is plural → possessive *mein* + -en → **meinen**, and the plural noun adds *-n*: *Freunde → Freunden*.",
+      "pattern": "leihen + meinen + Nomen-**n** (Dat. Pl.) + Akk.",
+      "mistake": {"wrong": "Ich leihe meine Freunde nie mein Auto.", "why": "*meine Freunde* is Nominativ/Akkusativ plural. The people who get the car are Dativ plural: *meinen Freunden*."},
+      "examples": [
+        {"de": "Er schickt seinen Eltern jede Woche Fotos.", "en": "He sends his parents photos every week."},
+        {"de": "Wir zeigen unseren Kindern die Berge.", "en": "We show our children the mountains."}
+      ],
+      "words": [{"de": "leihen", "en": "to lend"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Trainerin erklärt {{c1::den::die (Pl.)}} Teams die Regeln.",
+      "en": "The coach explains the rules to the teams.",
+      "focus": "Empfänger · Plural auf *-s*",
+      "explanation": "*erklären* has the person (here: the teams) in the Dativ → plural article **den**. *Team* has the plural *Teams*; nouns with an *-s* plural do not add the Dativ *-n*: *den Teams*.",
+      "pattern": "den + Plural auf -s (Dat. Pl., kein -n)",
+      "mistake": {"wrong": "Die Trainerin erklärt die Teams die Regeln.", "why": "*die Teams* is Nominativ/Akkusativ plural, and *die Regeln* is already the Akkusativ object. The teams are the receivers → Dativ plural *den Teams* (without *-n*, because of the *-s* plural)."},
+      "examples": [
+        {"de": "Wir schicken den Hotels eine Anfrage.", "en": "We're sending the hotels an enquiry."},
+        {"de": "Der Opa liest den Babys ein Bilderbuch vor.", "en": "Grandpa reads a picture book to the babies."}
+      ],
+      "words": [{"de": "die Regel (-n)", "en": "rule"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ich habe {{c1::meiner::mein}} Oma einen Brief geschrieben.",
+      "en": "I wrote my grandma a letter.",
+      "focus": "Empfänger · Perfekt",
+      "explanation": "*schreiben* has the person in the Dativ and the letter in the Akkusativ. *Oma* is feminine → *mein* + -er → **meiner**. In the Perfekt both objects stay in the Mittelfeld, before the Partizip II *geschrieben*.",
+      "pattern": "haben + Dat. + Akk. + Partizip II",
+      "mistake": {"wrong": "Ich habe meine Oma einen Brief geschrieben.", "why": "*meine Oma* is Nominativ/Akkusativ. The person who receives the letter needs the feminine Dativ *meiner*."},
+      "examples": [
+        {"de": "Wir haben unserer Nachbarin eine Karte geschickt.", "en": "We sent our neighbour a card."},
+        {"de": "Er hat seiner Freundin ein Gedicht geschrieben.", "en": "He wrote his girlfriend a poem."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Gib {{c1::dem::der}} Hund bitte keine Schokolade!",
+      "en": "Please don't give the dog any chocolate!",
+      "focus": "Empfänger · Imperativ",
+      "explanation": "In the imperative the cases do not change: *geben* has the receiver in the Dativ (*Wem?*) and the thing in the Akkusativ (*keine Schokolade*). *Hund* is masculine → **dem**.",
+      "pattern": "Imperativ + Dat. (Person/Tier) + Akk.",
+      "mistake": {"wrong": "Gib den Hund bitte keine Schokolade!", "why": "*den Hund* is Akkusativ. The dog is the receiver, so the article must be the Dativ *dem*."},
+      "examples": [
+        {"de": "Gib dem Baby bitte den Schnuller!", "en": "Please give the baby the dummy!"},
+        {"de": "Zeig dem Arzt deine Hand!", "en": "Show the doctor your hand!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Kannst du {{c1::unserem::unser}} Nachbarn das Paket geben?",
+      "en": "Can you give our neighbour the parcel?",
+      "focus": "Empfänger · Possessivartikel · n-Deklination",
+      "explanation": "The receiver of *geben* is Dativ. *Nachbar* is masculine → *unser* + -em → **unserem**. *Nachbar* belongs to the n-Deklination, so the noun becomes *Nachbarn* in the Dativ singular.",
+      "pattern": "geben + unserem + Nomen-**n** (Dat. m.) + Akk.",
+      "mistake": {"wrong": "Kannst du unseren Nachbar das Paket geben?", "why": "*unseren* is masculine Akkusativ; the receiver needs the Dativ *unserem*. And *Nachbar* adds *-n* outside the Nominativ singular: *unserem Nachbarn*."},
+      "examples": [
+        {"de": "Wir geben unserem Hausmeister den Ersatzschlüssel.", "en": "We're giving our caretaker the spare key."},
+        {"de": "Bring unserem Kollegen bitte die Unterlagen.", "en": "Please bring our colleague the documents."}
+      ],
+      "words": [{"de": "der Nachbar (-n)", "en": "neighbour (n-Deklination)"}, {"de": "das Paket (-e)", "en": "parcel"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Jacke? Ich habe sie {{c1::meinem::mein}} Bruder geliehen.",
+      "en": "The jacket? I lent it to my brother.",
+      "focus": "Empfänger · Wortstellung mit Akkusativpronomen",
+      "explanation": "*sie* refers to *die Jacke* and is the Akkusativ object. When the Akkusativ object is a pronoun, it comes **before** the Dativ noun. *Bruder* is masculine → *mein* + -em → **meinem**.",
+      "pattern": "Akk.-Pronomen + Dat.-Nomen (Akk. zuerst)",
+      "mistake": {"wrong": "Die Jacke? Ich habe meinem Bruder sie geliehen.", "why": "In the normal order an unstressed pronoun object does not follow a noun object. The Akkusativ pronoun *sie* must stand first: *sie meinem Bruder*."},
+      "examples": [
+        {"de": "Das Fahrrad? Ich habe es meiner Cousine verkauft.", "en": "The bike? I sold it to my cousin."},
+        {"de": "Den Brief? Wir haben ihn dem Chef gegeben.", "en": "The letter? We gave it to the boss."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Was schenkst du {{c1::deiner::dein}} Freundin zu Weihnachten?",
+      "en": "What are you giving your girlfriend for Christmas?",
+      "focus": "Empfänger · W-Frage nach der Sache",
+      "explanation": "*was* asks for the Akkusativ object (the present). The person who gets it is the Dativ object: *Freundin* is feminine → *dein* + -er → **deiner**.",
+      "pattern": "Was (Akk.) + schenken + Subjekt + Dat.?",
+      "mistake": {"wrong": "Was schenkst du deine Freundin zu Weihnachten?", "why": "*deine Freundin* is Nominativ/Akkusativ. The Akkusativ is already *was*; the receiver must be Dativ: *deiner Freundin*."},
+      "examples": [
+        {"de": "Was kaufst du deinem Vater zum Geburtstag?", "en": "What are you buying your father for his birthday?"},
+        {"de": "Was bringen wir unseren Gastgebern mit?", "en": "What shall we bring for our hosts?"}
+      ],
+      "words": [{"de": "Weihnachten", "en": "Christmas"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Der Reiseführer zeigt {{c1::einer::ein}} Gruppe aus Japan die Altstadt.",
+      "en": "The tour guide is showing a group from Japan the old town.",
+      "focus": "Empfänger · unbestimmter Artikel · Femininum",
+      "explanation": "*zeigen* has two noun objects, so the normal order is Dativ before Akkusativ. *Gruppe* is feminine → indefinite Dativ **einer**. *aus Japan* is an extra Dativ phrase after *aus*. *die Altstadt* is the Akkusativ object.",
+      "pattern": "zeigen + einer + Nomen (Dat. f.) + Akk. (Nomen vor Nomen)",
+      "mistake": {"wrong": "Der Reiseführer zeigt eine Gruppe aus Japan die Altstadt.", "why": "*eine Gruppe* is the Nominativ/Akkusativ. The group sees the town, so it is the receiver of *zeigen* → Dativ *einer Gruppe*."},
+      "examples": [
+        {"de": "Die Bibliothekarin zeigt einer Studentin den Lesesaal.", "en": "The librarian shows a student the reading room."},
+        {"de": "Der Hausmeister zeigt einer Familie die Wohnung.", "en": "The caretaker shows a family the flat."}
+      ],
+      "words": [{"de": "der Reiseführer (-)", "en": "tour guide"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich sage es {{c1::keinem::kein}} Menschen.",
+      "en": "I won't tell anyone.",
+      "focus": "Empfänger · Negation mit *kein*",
+      "explanation": "*sagen* has the listener in the Dativ; *kein* takes the same endings as *ein* → masculine Dativ **keinem**. *Mensch* is an n-Deklination noun → *keinem Menschen*. The Akkusativ pronoun *es* comes first.",
+      "pattern": "es (Akk.) + keinem + Nomen-**en** (Dat. m.)",
+      "mistake": {"wrong": "Ich sage es keinen Mensch.", "why": "*keinen* is masculine Akkusativ; the listener needs the Dativ *keinem*. *Mensch* is n-Deklination: *keinem Menschen*."},
+      "examples": [
+        {"de": "Er zeigt das Foto keinem Kollegen.", "en": "He doesn't show the photo to any colleague."},
+        {"de": "Wir geben keinem Kind Süßigkeiten vor dem Essen.", "en": "We don't give any child sweets before the meal."}
+      ],
+      "words": [{"de": "der Mensch (-en)", "en": "person, human being (n-Deklination)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Habt ihr {{c1::eurer::euer}} Lehrerin schon die Hausaufgaben gegeben?",
+      "en": "Have you given your teacher the homework yet?",
+      "focus": "Empfänger · Possessivartikel *euer*",
+      "explanation": "The receiver of *geben* is Dativ, and *Lehrerin* is feminine → ending *-er*. *euer* loses the *e* of its stem when an ending is added: euer + -er → **eurer** (not *euerer*).",
+      "pattern": "geben + eurer + Nomen (Dat. f.) + Akk.",
+      "mistake": {"wrong": "Habt ihr euer Lehrerin schon die Hausaufgaben gegeben?", "why": "*euer* without an ending is only Nominativ m/n or Akkusativ n. A feminine Dativ needs *-er*, and the stem shortens: *eurer Lehrerin*."},
+      "examples": [
+        {"de": "Habt ihr eurem Vermieter die Miete überwiesen?", "en": "Have you transferred the rent to your landlord?"},
+        {"de": "Schreibt eurer Oma bitte eine Karte!", "en": "Please write your grandma a card!"}
+      ],
+      "words": [{"de": "die Hausaufgaben (Pl.)", "en": "homework"}],
+      "production_cue": "(informal ihr, Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the function of the Dativ.",
+      "prompt": "In a sentence with two objects, what does the Dativ usually mark, and which question word finds it?",
+      "answer": "The **indirect object**: usually the person who receives something or who profits from the action. Question word: **wem?** The thing is the Akkusativ object (*was?*).",
+      "explanation": "Verbs like *geben, schenken, zeigen, erklären, schicken, bringen, empfehlen* have a person and a thing. Ask *Wem?* for the person and *Was?* for the thing. English often shows the indirect object only by word order or *to*, German shows it with the Dativ ending.",
+      "examples": [
+        {"de": "Der Postbote bringt der Nachbarin ein Paket.", "en": "The postman brings the neighbour a parcel."},
+        {"de": "Wem bringt er das Paket?", "en": "Who is he bringing the parcel to?"}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Give the Dativ forms of the articles.",
+      "prompt": "What are the Dativ forms of the definite article, *ein/kein* and the possessive articles?",
+      "answer": "maskulin/neutral: **dem / einem / meinem**; feminin: **der / einer / meiner**; Plural: **den / keinen / meinen** + **-n** on the noun.",
+      "explanation": "The endings are easy to see: *-m* for masculine and neuter, *-r* for feminine, *-n* for plural. *kein* and all possessives (*dein, sein, ihr, unser, euer, Ihr*) have the same endings as *ein*. *ein* has no plural; use *keinen* or a possessive.",
+      "examples": [
+        {"de": "Ich schreibe einer Kollegin eine Nachricht.", "en": "I'm writing a colleague a message."},
+        {"de": "Wir helfen unseren Eltern im Haus.", "en": "We help our parents in the house."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the plural noun.",
+      "prompt": "When does a noun add -n in the Dativ plural, and when does it not?",
+      "answer": "Add **-n** to the plural form (*die Kinder → den Kindern, die Gäste → den Gästen*). No extra *-n* if the plural already ends in **-n** (*den Frauen, den Studenten*) or in **-s** (*den Autos, den Teams*).",
+      "explanation": "The rule always starts from the plural form, not from the singular: *der Freund → die Freunde → den Freunden*. Plurals in *-s* are mostly loan words (*Hotels, Handys, Fotos*) and never take the Dativ *-n*.",
+      "examples": [
+        {"de": "Die Lehrerin gibt den Schülern die Noten.", "en": "The teacher gives the pupils their marks."},
+        {"de": "Er schickt den Kunden die Fotos.", "en": "He sends the customers the photos."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the word order of the two objects.",
+      "prompt": "In which order do the Dativ object and the Akkusativ object stand?",
+      "answer": "Two nouns: **Dativ before Akkusativ** (*Ich gebe dem Kind den Ball.*). Akkusativ pronoun: **Akkusativ first** (*Ich gebe ihn dem Kind.*). A pronoun always stands before a noun (*Ich gebe ihm den Ball.*).",
+      "explanation": "Short, known information comes early in the Mittelfeld. Personal pronouns are short and known, so they move to the front. With two pronouns the Akkusativ comes first: *Ich gebe ihn ihm.*",
+      "examples": [
+        {"de": "Sie leiht dem Kollegen ihr Ladekabel.", "en": "She lends the colleague her charging cable."},
+        {"de": "Sie leiht es dem Kollegen.", "en": "She lends it to the colleague."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the difference between the two nouns.",
+      "prompt": "Why do we say *dem Studenten* but *dem Lehrer*?",
+      "answer": "*Student* belongs to the **n-Deklination**: some masculine nouns (*Student, Kollege, Kunde, Junge, Mensch, Nachbar, Herr, Patient, Tourist*) add **-(e)n** in every case except the Nominativ singular. Normal masculine nouns like *Lehrer* have no Dativ ending in the singular.",
+      "explanation": "Many n-Deklination nouns end in *-e* (*der Kollege*) or are male persons with foreign endings like *-ent, -ist, -ant* (*der Student, der Tourist, der Praktikant*). *Herr* adds only *-n* in the singular (*dem Herrn*) but *-en* in the plural (*den Herren*).",
+      "examples": [
+        {"de": "Ich gebe dem Praktikanten eine Aufgabe.", "en": "I give the intern a task."},
+        {"de": "Ich gebe dem Lehrer mein Heft.", "en": "I give the teacher my exercise book."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct possessive form.",
+      "prompt": "Ich schreibe ___ Großeltern einen Brief.",
+      "options": ["meine", "meinen", "meiner"],
+      "correct": "meinen",
+      "answer": "Ich schreibe meinen Großeltern einen Brief.",
+      "explanation": "The grandparents receive the letter → Dativ plural → *meinen*. *Großeltern* already ends in *-n*, so the noun does not change. *meine* is Nominativ/Akkusativ plural, and *meiner* is feminine Dativ singular."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Kannst du ___ Chefin die Datei schicken?",
+      "options": ["die", "der", "dem"],
+      "correct": "der",
+      "answer": "Kannst du der Chefin die Datei schicken?",
+      "explanation": "The boss receives the file → Dativ, and *Chefin* is feminine → *der*. *die* would be Akkusativ (the file is already the Akkusativ object). *dem* is only for masculine and neuter nouns."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct article.",
+      "prompt": "Wir wünschen ___ Kind gute Besserung.",
+      "options": ["das", "dem", "den"],
+      "correct": "dem",
+      "answer": "Wir wünschen dem Kind gute Besserung.",
+      "explanation": "*wünschen* has the person in the Dativ and the wish in the Akkusativ (*gute Besserung*). *Kind* is neuter → Dativ *dem*. *das* is Nominativ/Akkusativ; *den* is masculine Akkusativ or Dativ plural."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich gebe die Frau meine Telefonnummer.",
+      "answer": "Ich gebe der Frau meine Telefonnummer.",
+      "explanation": "The woman receives the number, so she is the Dativ object. The feminine Dativ article is *der*, not *die*. *meine Telefonnummer* is the Akkusativ object and is correct."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Opa erzählt den Enkelkinder eine Geschichte.",
+      "answer": "Der Opa erzählt den Enkelkindern eine Geschichte.",
+      "explanation": "*den* (Dativ plural) is correct, but the noun is missing its Dativ-plural *-n*: *die Enkelkinder → den Enkelkindern*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake in the word order.",
+      "prompt": "Ich habe meinem Bruder ihn gegeben.",
+      "answer": "Ich habe ihn meinem Bruder gegeben.",
+      "explanation": "*ihn* is an Akkusativ pronoun. A pronoun object stands before a noun object, so *ihn* must come before the Dativ *meinem Bruder*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace *für* + Akkusativ with a Dativ object without a preposition.",
+      "prompt": "Ich kaufe ein Fahrrad für meinen Sohn.",
+      "answer": "Ich kaufe meinem Sohn ein Fahrrad.",
+      "explanation": "The person *für meinen Sohn* (Akkusativ after *für*) becomes the Dativ object: *mein* + -em → *meinem Sohn*. Two nouns → Dativ before Akkusativ, so *meinem Sohn* moves in front of *ein Fahrrad*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Make the Dativ object plural (*der Schüler → die Schüler*).",
+      "prompt": "Die Lehrerin erklärt dem Schüler die Aufgabe.",
+      "answer": "Die Lehrerin erklärt den Schülern die Aufgabe.",
+      "explanation": "Dativ singular *dem* becomes Dativ plural *den*. The plural *Schüler* has no ending of its own, so the Dativ adds *-n*: *den Schülern*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace the Akkusativ object with a pronoun and put it in the correct position.",
+      "prompt": "Wir schenken der Lehrerin das Buch.",
+      "answer": "Wir schenken es der Lehrerin.",
+      "explanation": "*das Buch* becomes the Akkusativ pronoun *es*. A pronoun moves before the noun object, so *es* now stands before the Dativ *der Lehrerin*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Maria",
+      "prompt": "einen Kuchen / backt / ihrer Nachbarin / Maria",
+      "answer": "Maria backt ihrer Nachbarin einen Kuchen.",
+      "explanation": "The verb *backt* is in position 2. With two noun objects the Dativ (*ihrer Nachbarin*, the person who gets the cake) comes before the Akkusativ (*einen Kuchen*)."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Mein Vater",
+      "prompt": "dem Taxifahrer / gibt / ein Trinkgeld / mein Vater / immer",
+      "answer": "Mein Vater gibt dem Taxifahrer immer ein Trinkgeld.",
+      "explanation": "*gibt* is in position 2. The Dativ *dem Taxifahrer* comes before the Akkusativ *ein Trinkgeld*. The adverb *immer* normally stands after the definite Dativ and before the new information *ein Trinkgeld*. *Mein Vater gibt immer dem Taxifahrer ein Trinkgeld.* is also possible, but it stresses *dem Taxifahrer* (in contrast to other people)."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: replace *ihm* with the person from the first sentence. Start with: Ich habe",
+      "prompt": "Das ist Herr Braun. Ich habe ihm den Schlüssel gegeben.",
+      "answer": "Ich habe Herrn Braun den Schlüssel gegeben.",
+      "explanation": "*ihm* is a Dativ pronoun, so the noun that replaces it must be Dativ too. *Herr* is n-Deklination: Dativ singular *Herrn*. With a name, *Herr* has no article: *Herrn Braun*."
+    }
+  ]
+}

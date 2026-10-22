@@ -1,0 +1,1080 @@
+{
+  "topic_id": "b2-17-nominalisierung",
+  "level": "B2",
+  "title_de": "Nominalisierung",
+  "title_en": "Nominalisation",
+  "rule": {
+    "summary": "Nominalisation turns a verb into a noun. Every infinitive can become a **neuter noun with a capital letter** (*lesen → das Lesen*); many verbs also have a derived noun (*ankommen → die Ankunft, entscheiden → die Entscheidung*). With prepositions these nouns replace whole Nebensätze (*während ich lese → beim Lesen*, *nachdem der Zug angekommen war → nach der Ankunft des Zuges*). This compact Nominalstil is typical of written, formal and academic German, and you need it to read and write B2/C1 texts.",
+    "table": "| Verbalstil (Nebensatz) | Nominalstil (Präpositionalphrase) |\n|---|---|\n| während / wenn ich koche | **beim** Kochen · **während des** Kochen**s** |\n| um zu lernen / um mich vorzubereiten | **zum** Lernen · **zur** Vorbereitung |\n| bevor wir essen | **vor dem** Essen |\n| nachdem der Zug angekommen war | **nach der** Ankunft **des Zuges** |\n| weil sich der Flug verspätet hat | **wegen der** Verspätung **des Fluges** |\n| obwohl die Experten warnten | **trotz der** Warnungen **der Experten** |\n| seit das Museum eröffnet wurde | **seit der** Eröffnung **des Museums** |\n| wenn man schnell reagiert | bei **schneller** Reaktion |",
+    "steps": [
+      "Choose the noun: use the established derived noun if there is one (*ankommen → die Ankunft, warnen → die Warnung, abschließen → der Abschluss*); otherwise use the nominalized infinitive (*das Rauchen, das Warten*), which is always neuter and written with a capital letter.",
+      "Replace the connector with a preposition and its case: *während → beim / während* + Gen., *um … zu → zum / zur*, *bevor → vor* + Dat., *nachdem → nach* + Dat., *weil → wegen* + Gen., *obwohl → trotz* + Gen., *seit → seit* + Dat.",
+      "Turn the subject (or the Akkusativ object) into a Genitiv attribute after the noun (*der Zug kommt an → die Ankunft des Zuges*) or a possessive (*er verhält sich → sein Verhalten*). A plural noun without article takes *von* + Dativ instead (*die Herstellung von Impfstoffen*), unless an adjective shows the Genitiv (*die Herstellung neuer Impfstoffe*).",
+      "Turn adverbs into adjectives with endings (*schnell reagieren → die schnelle Reaktion*). The preposition of the verb usually stays (*sich vorbereiten auf → die Vorbereitung auf*).",
+      "Check spelling and contractions: *bei dem → beim, zu dem → zum, zu der → zur*; separable verbs and verb groups become one word (*das Aufstehen, das Autofahren, das Schlafengehen*); the neuter Genitiv adds *-s* (*des Essens*)."
+    ],
+    "pitfalls": [
+      "Wrong gender or contraction: ✗ *zur Lernen*, ✗ *der Kochen* → ✓ *zum Lernen*, ✓ *das Kochen*. Nominalized infinitives are always neuter.",
+      "Missing Genitiv -s: ✗ *während des Essen* → ✓ *während des Essens*.",
+      "Subject left in the Nominativ: ✗ *die Ankunft der Zug* → ✓ *die Ankunft des Zuges*.",
+      "Adverb without ending in the noun phrase: ✗ *die schnell Reaktion* → ✓ *die schnelle Reaktion*.",
+      "Conjunction instead of preposition, or an invented -ung noun: ✗ *nachdem dem Essen*, ✗ *die Rauchung* → ✓ *nach dem Essen*, ✓ *das Rauchen*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Beim {{c1::Lesen::Verb: lesen}} fällt mir die Konzentration leicht.",
+      "en": "I find it easy to concentrate when I'm reading.",
+      "focus": "nominalisierter Infinitiv · nach *beim*",
+      "explanation": "*beim* = *bei dem*, so the noun after it is a neuter Dativ. Any infinitive can become a neuter noun: *lesen* → **das Lesen**, with a capital letter. *beim* + nominalized infinitive replaces a *wenn/während*-clause: *Wenn ich lese, fällt mir die Konzentration leicht.*",
+      "pattern": "beim + nominalisierter Infinitiv",
+      "mistake": {
+        "wrong": "Bei Lesen fällt mir die Konzentration leicht.",
+        "why": "The nominalized infinitive needs the article after *bei*: *bei dem Lesen* → contracted *beim Lesen*."
+      },
+      "examples": [
+        {
+          "de": "Beim Zuhören habe ich viel gelernt.",
+          "en": "I learned a lot by listening."
+        },
+        {
+          "de": "Beim Spazierengehen kommen mir die besten Ideen.",
+          "en": "I get my best ideas when I go for a walk."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Zum {{c1::Lernen::Verb: lernen}} brauche ich Ruhe.",
+      "en": "I need quiet to study.",
+      "focus": "nominalisierter Infinitiv · Zweck",
+      "explanation": "*zum* = *zu dem* + neuter Dativ. *zum* + nominalized infinitive expresses a purpose ('for …-ing') and replaces an *um … zu*-clause: *Um zu lernen, brauche ich Ruhe.* Because *das Lernen* is neuter, it is always *zum*, never *zur*.",
+      "pattern": "zum + nominalisierter Infinitiv (Zweck)",
+      "mistake": {
+        "wrong": "Zur Lernen brauche ich Ruhe.",
+        "why": "*zur* (= *zu der*) is for feminine nouns. Nominalized infinitives are neuter → *zum Lernen*."
+      },
+      "examples": [
+        {
+          "de": "Zum Arbeiten brauche ich einen großen Bildschirm.",
+          "en": "I need a big screen for working."
+        },
+        {
+          "de": "Zum Entspannen geht sie in die Sauna.",
+          "en": "She goes to the sauna to relax."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Nach dem {{c1::Aufstehen::Verb: aufstehen}} dusche ich immer.",
+      "en": "After getting up I always take a shower.",
+      "focus": "trennbares Verb · nach *nach* + Dativ",
+      "explanation": "*nach* takes the Dativ → *dem* (neuter). A separable verb is nominalized as one word with the prefix in front: *aufstehen* → **das Aufstehen**. The phrase replaces a *nachdem*-clause: *Nachdem ich aufgestanden bin, dusche ich immer.*",
+      "pattern": "nach dem + Präfix-Infinitiv (ein Wort)",
+      "mistake": {
+        "wrong": "Nach das Aufstehen dusche ich immer.",
+        "why": "*nach* always takes the Dativ. The neuter Dativ article is *dem*: *nach dem Aufstehen*."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Einkaufen räume ich sofort den Kühlschrank ein.",
+          "en": "After shopping I put everything in the fridge right away."
+        },
+        {
+          "de": "Nach dem Ausschlafen frühstücken wir gemütlich.",
+          "en": "After sleeping in we have a relaxed breakfast."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Vor dem {{c1::Essen::Verb: essen}} wäscht man sich die Hände.",
+      "en": "You wash your hands before eating.",
+      "focus": "nominalisierter Infinitiv · nach temporalem *vor*",
+      "explanation": "Temporal *vor* takes the Dativ → *vor dem*. *das Essen* is both the nominalized infinitive ('eating') and the ordinary noun ('meal'); here both readings give 'before the meal'. It replaces a *bevor*-clause: *Bevor man isst, wäscht man sich die Hände.*",
+      "pattern": "vor dem + nominalisierter Infinitiv",
+      "mistake": {
+        "wrong": "Bevor dem Essen wäscht man sich die Hände.",
+        "why": "*bevor* is a conjunction and must start a Nebensatz with a verb. Before a noun you need the preposition *vor*: *vor dem Essen*."
+      },
+      "examples": [
+        {
+          "de": "Vor dem Unterschreiben sollten Sie den Vertrag genau lesen.",
+          "en": "Before signing, you should read the contract carefully."
+        },
+        {
+          "de": "Vor dem Duschen mache ich noch ein paar Übungen.",
+          "en": "Before showering I do a few more exercises."
+        }
+      ],
+      "words": [],
+      "production_cue": "(man)",
+      "correction": "The legacy sentence *Vor dem Essen wäscht man die Hände.* lacks the reflexive Dativ: the standard phrase is *sich die Hände waschen*, so *sich* was added.",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das {{c1::Schwimmen::Verb: schwimmen}} im Meer ist herrlich.",
+      "en": "Swimming in the sea is wonderful.",
+      "focus": "nominalisierter Infinitiv · Subjekt",
+      "explanation": "The nominalized infinitive **das Schwimmen** is the subject of *ist herrlich*. Like a normal noun it can take an attribute after it: *im Meer* says where. The verb is *ist* (singular), because the activity is one thing.",
+      "pattern": "das + nominalisierter Infinitiv + Attribut + Verb",
+      "mistake": {
+        "wrong": "Die Schwimmen im Meer ist herrlich.",
+        "why": "A nominalized infinitive is always neuter: *das Schwimmen*, never *die* or *der*."
+      },
+      "examples": [
+        {
+          "de": "Das Wandern in den Bergen entspannt mich.",
+          "en": "Hiking in the mountains relaxes me."
+        },
+        {
+          "de": "Das Warten auf die Ergebnisse war schlimm.",
+          "en": "Waiting for the results was awful."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Beim::gleichzeitig}} Kochen höre ich gern Musik.",
+      "en": "I like to listen to music while I'm cooking.",
+      "focus": "Präposition + Artikel · Gleichzeitigkeit",
+      "explanation": "**Beim** (*bei dem*) + nominalized infinitive shows that two actions happen at the same time ('while cooking'). It replaces *Während ich koche, …*. The whole phrase *Beim Kochen* fills the Vorfeld, so the finite verb *höre* follows directly.",
+      "pattern": "Beim + Infinitiv (Vorfeld) + Verb + Subjekt",
+      "mistake": {
+        "wrong": "Zum Kochen höre ich gern Musik.",
+        "why": "*zum* expresses a purpose ('in order to cook'), but music is not a tool for cooking. For simultaneous actions use *beim*."
+      },
+      "examples": [
+        {
+          "de": "Beim Bügeln telefoniere ich oft mit meiner Mutter.",
+          "en": "I often talk to my mother on the phone while ironing."
+        },
+        {
+          "de": "Beim Abwaschen hören wir Podcasts.",
+          "en": "We listen to podcasts while doing the dishes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Zum::Zweck}} Lesen brauche ich eine Brille.",
+      "en": "I need glasses for reading.",
+      "focus": "Präposition + Artikel · Zweck",
+      "explanation": "**Zum** (*zu dem*) + nominalized infinitive names the purpose: the glasses are needed *for reading*. It replaces *Um zu lesen, brauche ich eine Brille.* With neuter infinitives it is always *zum*.",
+      "pattern": "Zum + Infinitiv + brauchen + Akk.",
+      "mistake": {
+        "wrong": "Für Lesen brauche ich eine Brille.",
+        "why": "*für* + a nominalized infinitive needs an article (*fürs Lesen*, colloquial). The standard way to express a purpose is *zum Lesen*."
+      },
+      "examples": [
+        {
+          "de": "Zum Schneiden brauchst du ein schärferes Messer.",
+          "en": "You need a sharper knife for cutting."
+        },
+        {
+          "de": "Zum Fotografieren nehme ich einfach mein Handy.",
+          "en": "I just use my phone for taking photos."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Sein {{c1::Verhalten::Verb: sich verhalten}} hat alle überrascht.",
+      "en": "His behaviour surprised everyone.",
+      "focus": "lexikalisierter Infinitiv · mit Possessivartikel",
+      "explanation": "Some nominalized infinitives have become ordinary nouns with a fixed meaning: *sich verhalten* ('to behave') → **das Verhalten** ('behaviour'). The reflexive *sich* disappears in the noun. The possessive *sein* (neuter, Nominativ) replaces the subject: *Wie er sich verhalten hat, hat alle überrascht.*",
+      "pattern": "Possessiv + Infinitiv-Nomen (n.) = Subjekt",
+      "mistake": {
+        "wrong": "Seine Verhaltung hat alle überrascht.",
+        "why": "*Verhaltung* does not exist. The noun of *sich verhalten* is the neuter infinitive *das Verhalten*, so the possessive is *sein*."
+      },
+      "examples": [
+        {
+          "de": "Ihr Schweigen sagte mehr als tausend Worte.",
+          "en": "Her silence said more than a thousand words."
+        },
+        {
+          "de": "Das Vertrauen der Kunden ist stark gesunken.",
+          "en": "Customer trust has fallen sharply."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Verhalten",
+          "en": "behaviour"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das {{c1::Reisen::Verb: reisen}} bildet.",
+      "en": "Travel broadens the mind.",
+      "focus": "nominalisierter Infinitiv · allgemeine Aussage",
+      "explanation": "General statements about an activity often use the nominalized infinitive as subject: *reisen* → **das Reisen**. The saying is also used without article: *Reisen bildet.* Do not confuse it with *die Reise* ('a trip'), the ordinary feminine noun, which is countable.",
+      "pattern": "das + Infinitiv (allgemein) + Verb",
+      "mistake": {
+        "wrong": "Das Reise bildet.",
+        "why": "*die Reise* is feminine and means one trip. The neuter activity noun is *das Reisen*."
+      },
+      "examples": [
+        {
+          "de": "Das Lernen hört nie auf.",
+          "en": "Learning never stops."
+        },
+        {
+          "de": "Das Lesen erweitert den Horizont.",
+          "en": "Reading broadens your horizons."
+        }
+      ],
+      "words": [
+        {
+          "de": "bilden",
+          "en": "to educate, to broaden the mind"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich freue mich auf das {{c1::Wiedersehen::Verb: wiedersehen}}.",
+      "en": "I'm looking forward to seeing you again.",
+      "focus": "Präfixverb · nach *sich freuen auf*",
+      "explanation": "*sich freuen auf* + Akkusativ refers to something in the future. *wiedersehen* → **das Wiedersehen** ('seeing each other again, reunion'), one word with the prefix *wieder-*. The same noun appears in the greeting *Auf Wiedersehen!*",
+      "pattern": "sich freuen auf + das + Infinitiv-Nomen (Akk.)",
+      "mistake": {
+        "wrong": "Ich freue mich auf das Wieder Sehen.",
+        "why": "A verb with a prefix is nominalized as one word: *das Wiedersehen*, like *das Aufstehen*."
+      },
+      "examples": [
+        {
+          "de": "Ich freue mich schon aufs Ausschlafen am Wochenende.",
+          "en": "I'm already looking forward to sleeping in at the weekend."
+        },
+        {
+          "de": "Die Kinder freuen sich auf das Auspacken der Geschenke.",
+          "en": "The children are looking forward to unwrapping the presents."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Beim::gleichzeitig}} Sport schwitzt man.",
+      "en": "You sweat when you do sport.",
+      "focus": "Präposition + Artikel · Tätigkeitsnomen",
+      "explanation": "*beim* is used not only with nominalized infinitives but with any noun for an activity: *beim Sport, beim Training, beim Frühstück*. *der Sport* is masculine → *bei dem* → **Beim**. The meaning is 'while doing sport'.",
+      "pattern": "Beim + Tätigkeitsnomen (m./n.)",
+      "mistake": {
+        "wrong": "Während Sport schwitzt man.",
+        "why": "*während* needs the Genitiv with an article: *während des Sports*. The short everyday form is *beim Sport*."
+      },
+      "examples": [
+        {
+          "de": "Beim Training trinke ich viel Wasser.",
+          "en": "I drink a lot of water during training."
+        },
+        {
+          "de": "Beim Frühstück reden wir über den Tag.",
+          "en": "At breakfast we talk about the day."
+        }
+      ],
+      "words": [],
+      "production_cue": "(man)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Nach dem {{c1::Mittagessen::zu Mittag essen}} mache ich eine Pause.",
+      "en": "After lunch I take a break.",
+      "focus": "zusammengesetztes Nomen · nach *nach* + Dativ",
+      "explanation": "*das Mittagessen* is a compound noun (*Mittag* + *Essen*), like *das Abendessen*. Its gender comes from the last part: *das Essen* → neuter → *nach dem*. It corresponds to *Nachdem ich zu Mittag gegessen habe, mache ich eine Pause.*",
+      "pattern": "nach dem + Kompositum (n.)",
+      "mistake": {
+        "wrong": "Nach dem Mittag essen mache ich eine Pause.",
+        "why": "As a noun, the compound is written as one word: *das Mittagessen*. *zu Mittag essen* is the verb form."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Abendessen spielen wir oft Karten.",
+          "en": "After dinner we often play cards."
+        },
+        {
+          "de": "Nach dem Frühstück gehen wir los.",
+          "en": "We'll set off after breakfast."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das {{c1::Schreiben::Verb: schreiben}} ist anstrengend.",
+      "en": "Writing is exhausting.",
+      "focus": "nominalisierter Infinitiv · Subjekt",
+      "explanation": "*schreiben* → **das Schreiben** is the subject of *ist anstrengend*. Note: *das Schreiben* can also be a lexicalized noun meaning 'a letter, an official document' (*Ihr Schreiben vom 3. Mai*); here the adjective *anstrengend* shows that the activity is meant.",
+      "pattern": "das + Infinitiv + sein + Adj.",
+      "mistake": {
+        "wrong": "Der Schreiben ist anstrengend.",
+        "why": "Nominalized infinitives are neuter: *das Schreiben*."
+      },
+      "examples": [
+        {
+          "de": "Das Rechnen fällt ihm schwer.",
+          "en": "He finds arithmetic hard."
+        },
+        {
+          "de": "Das Packen dauert immer länger als geplant.",
+          "en": "Packing always takes longer than planned."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Vor dem {{c1::Schlafengehen::schlafen gehen}} lese ich ein Buch.",
+      "en": "Before going to bed I read a book.",
+      "focus": "nominalisierte Verbgruppe · ein Wort",
+      "explanation": "A verb group like *schlafen gehen* is nominalized as one word, with only the first letter capitalized: **das Schlafengehen**. *vor* + Dativ → *vor dem*. It replaces *Bevor ich schlafen gehe, lese ich ein Buch.*",
+      "pattern": "vor dem + Verbgruppe als ein Wort",
+      "mistake": {
+        "wrong": "Vor dem Schlafen Gehen lese ich ein Buch.",
+        "why": "A nominalized verb group is written as one word: *das Schlafengehen*, like *das Spazierengehen*."
+      },
+      "examples": [
+        {
+          "de": "Nach dem Zähneputzen gehen die Kinder ins Bett.",
+          "en": "After brushing their teeth the children go to bed."
+        },
+        {
+          "de": "Vor dem Kaffeetrinken ist er nicht ansprechbar.",
+          "en": "He can't be spoken to before he has had his coffee."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Beim::gleichzeitig}} Tanzen vergesse ich alles.",
+      "en": "When I'm dancing I forget everything.",
+      "focus": "Präposition + Artikel · Vorfeld",
+      "explanation": "**Beim Tanzen** (*bei dem Tanzen*) means 'while dancing' and is one Satzglied. It fills the Vorfeld, so the finite verb *vergesse* is in position 2 and the subject *ich* follows it. The verbal version is *Wenn ich tanze, vergesse ich alles.*",
+      "pattern": "Beim + Infinitiv + Verb (Pos. 2) + Subjekt",
+      "mistake": {
+        "wrong": "Beim Tanzen ich vergesse alles.",
+        "why": "The nominal phrase *Beim Tanzen* already occupies position 1. The finite verb must come next: *Beim Tanzen vergesse ich alles.*"
+      },
+      "examples": [
+        {
+          "de": "Beim Malen kann ich gut abschalten.",
+          "en": "I can switch off well when I'm painting."
+        },
+        {
+          "de": "Beim Singen vergisst sie ihre Sorgen.",
+          "en": "She forgets her worries when she sings."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Das {{c1::Kochen::Verb: kochen}} macht mir Spaß.",
+      "en": "I enjoy cooking.",
+      "focus": "nominalisierter Infinitiv · Subjekt von *Spaß machen*",
+      "explanation": "In *etwas macht mir Spaß* the activity is the subject and the person is Dativ (*mir*). The activity is the nominalized infinitive **das Kochen**. Without article it is also correct: *Kochen macht mir Spaß.*",
+      "pattern": "das + Infinitiv + macht + Dat. + Spaß",
+      "mistake": {
+        "wrong": "Der Koch macht mir Spaß.",
+        "why": "*der Koch* is the person who cooks. The activity is the neuter nominalized infinitive *das Kochen*."
+      },
+      "examples": [
+        {
+          "de": "Das Gärtnern entspannt mich total.",
+          "en": "Gardening relaxes me completely."
+        },
+        {
+          "de": "Das Fotografieren ist sein größtes Hobby.",
+          "en": "Photography is his biggest hobby."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Zum::Zweck}} Schreiben brauche ich einen Stift.",
+      "en": "I need a pen to write with.",
+      "focus": "Präposition + Artikel · Zweck",
+      "explanation": "**Zum** + nominalized infinitive names what the pen is for. It is the short form of *Um zu schreiben, brauche ich einen Stift.* *einen Stift* is the masculine Akkusativ object of *brauchen*.",
+      "pattern": "Zum + Infinitiv + brauchen + Akk.",
+      "mistake": {
+        "wrong": "Um Schreiben brauche ich einen Stift.",
+        "why": "*um* belongs to the infinitive clause *um … zu schreiben*. With a nominalized infinitive the purpose preposition is *zum*."
+      },
+      "examples": [
+        {
+          "de": "Zum Bezahlen brauchen Sie Ihre PIN.",
+          "en": "You need your PIN to pay."
+        },
+        {
+          "de": "Zum Messen benutzen wir ein digitales Thermometer.",
+          "en": "We use a digital thermometer for measuring."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sein {{c1::Lachen::Verb: lachen}} ist ansteckend.",
+      "en": "His laugh is contagious.",
+      "focus": "nominalisierter Infinitiv · mit Possessivartikel",
+      "explanation": "*lachen* → **das Lachen** ('laughter, his way of laughing'). The possessive *sein* replaces the subject of the verb: *wie er lacht* → *sein Lachen*. Because the noun is neuter, the possessive has no ending in the Nominativ.",
+      "pattern": "sein (n. Nom.) + Infinitiv-Nomen",
+      "mistake": {
+        "wrong": "Seine Lachen ist ansteckend.",
+        "why": "*Lachen* is neuter, so the possessive in the Nominativ is *sein*, not *seine*."
+      },
+      "examples": [
+        {
+          "de": "Ihr Lächeln hat mich sofort beruhigt.",
+          "en": "Her smile calmed me down immediately."
+        },
+        {
+          "de": "Sein Schnarchen weckt die ganze Familie.",
+          "en": "His snoring wakes up the whole family."
+        }
+      ],
+      "words": [
+        {
+          "de": "ansteckend",
+          "en": "contagious"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Beim::gleichzeitig}} Joggen denke ich nach.",
+      "en": "I think things over when I go jogging.",
+      "focus": "Präposition + Artikel · Gleichzeitigkeit",
+      "explanation": "**Beim Joggen** = *Während ich jogge*. Loan verbs like *joggen, surfen, chatten* are nominalized in the same way: *das Joggen*. The separable verb *nachdenken* splits in the main clause: *denke … nach*.",
+      "pattern": "Beim + Infinitiv + Verb … Präfix",
+      "mistake": {
+        "wrong": "Während Joggen denke ich nach.",
+        "why": "*während* needs the Genitiv with an article: *während des Joggens*. The short everyday form is *beim Joggen*."
+      },
+      "examples": [
+        {
+          "de": "Beim Surfen im Internet vergesse ich die Zeit.",
+          "en": "I lose track of time when I'm surfing the internet."
+        },
+        {
+          "de": "Beim Radfahren trage ich immer einen Helm.",
+          "en": "I always wear a helmet when cycling."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Das {{c1::Verstehen::Verb: verstehen}} dieser Regel ist schwierig.",
+      "en": "Understanding this rule is difficult.",
+      "focus": "Infinitiv-Nomen · Objekt als Genitiv",
+      "explanation": "The Akkusativ object of the verb (*diese Regel verstehen*) becomes a Genitiv attribute after the noun: **das Verstehen** *dieser Regel*. Feminine Genitiv: *diese → dieser*. In formal texts the noun *das Verständnis* is also common.",
+      "pattern": "das + Infinitiv + Genitivattribut (= Objekt)",
+      "mistake": {
+        "wrong": "Das Verstehen diese Regel ist schwierig.",
+        "why": "An object that follows a noun must be in the Genitiv: *dieser Regel*, not the Akkusativ *diese Regel*."
+      },
+      "examples": [
+        {
+          "de": "Das Lernen neuer Vokabeln kostet Zeit.",
+          "en": "Learning new vocabulary takes time."
+        },
+        {
+          "de": "Das Ausfüllen des Formulars dauert nur fünf Minuten.",
+          "en": "Filling in the form only takes five minutes."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Bei der {{c1::Ankunft::Verb: ankommen}} des Zuges war der Bahnsteig völlig überfüllt.",
+      "en": "When the train arrived, the platform was completely overcrowded.",
+      "focus": "abgeleitetes Nomen · Subjekt als Genitiv",
+      "explanation": "Many verbs have an established derived noun that is preferred over the infinitive: *ankommen* → **die Ankunft** (feminine). The subject of the verb (*der Zug kommt an*) becomes a Genitiv attribute: *des Zuges*. *Bei der Ankunft des Zuges* replaces *Als der Zug ankam, …*.",
+      "pattern": "bei der + Nomen + Genitiv (= Subjekt)",
+      "mistake": {
+        "wrong": "Bei der Ankunft der Zug war der Bahnsteig völlig überfüllt.",
+        "why": "The former subject now follows a noun, so it must be in the Genitiv: masculine *der Zug* → *des Zuges*."
+      },
+      "examples": [
+        {
+          "de": "Bei der Abfahrt des Busses regnete es in Strömen.",
+          "en": "When the bus left, it was pouring with rain."
+        },
+        {
+          "de": "Bei der Landung des Flugzeugs klatschten einige Passagiere.",
+          "en": "When the plane landed, some passengers clapped."
+        }
+      ],
+      "words": [
+        {
+          "de": "überfüllt",
+          "en": "overcrowded"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Nach {{c1::Abschluss::Verb: abschließen}} der Bauarbeiten wird die Straße wieder freigegeben.",
+      "en": "Once the construction work is completed, the road will be reopened.",
+      "focus": "abgeleitetes Nomen · formell ohne Artikel",
+      "explanation": "*abschließen* → **der Abschluss**. In formal German *nach* + such a noun often stands without article: *nach Abschluss, nach Ablauf der Frist, nach Eingang der Zahlung*. The object (*die Bauarbeiten abschließen*) becomes a Genitiv plural: *der Bauarbeiten*. It replaces *Nachdem die Bauarbeiten abgeschlossen sind, …*.",
+      "pattern": "nach + Nomen (ohne Artikel) + Genitiv",
+      "mistake": {
+        "wrong": "Nachdem Abschluss der Bauarbeiten wird die Straße wieder freigegeben.",
+        "why": "*nachdem* is a conjunction and needs a Nebensatz with a verb. Before a noun phrase you need the preposition *nach*."
+      },
+      "examples": [
+        {
+          "de": "Nach Ablauf der Frist werden keine Anträge mehr angenommen.",
+          "en": "After the deadline, no more applications will be accepted."
+        },
+        {
+          "de": "Nach Eingang Ihrer Zahlung schicken wir die Ware los.",
+          "en": "Once we receive your payment, we will send the goods."
+        }
+      ],
+      "words": [
+        {
+          "de": "freigeben",
+          "en": "to open, to release"
+        }
+      ],
+      "production_cue": "(Passiv)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wegen der {{c1::Verspätung::Verb: sich verspäten}} des Fluges haben wir den Anschluss verpasst.",
+      "en": "Because of the delay of the flight, we missed our connection.",
+      "focus": "Kausalsatz → *wegen* + Genitiv",
+      "explanation": "*wegen* + Genitiv replaces a *weil*-clause: *Weil sich der Flug verspätet hatte, …*. *sich verspäten* → **die Verspätung**; the reflexive *sich* disappears. The subject *der Flug* becomes the Genitiv attribute *des Fluges*.",
+      "pattern": "wegen der + Nomen + Genitiv (= Subjekt)",
+      "mistake": {
+        "wrong": "Wegen der Verspätung der Flug haben wir den Anschluss verpasst.",
+        "why": "*der Flug* is the old subject. After the noun *Verspätung* it must be a Genitiv: *des Fluges*."
+      },
+      "examples": [
+        {
+          "de": "Wegen der Erkrankung des Trainers fiel das Training aus.",
+          "en": "Training was cancelled because the coach was ill."
+        },
+        {
+          "de": "Wegen der Sperrung der Autobahn gab es lange Staus.",
+          "en": "There were long traffic jams because the motorway was closed."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Anschluss",
+          "en": "connection (train, flight)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Trotz der {{c1::Warnungen::Verb: warnen}} der Experten wurde das Gesetz verabschiedet.",
+      "en": "Despite the experts' warnings, the law was passed.",
+      "focus": "Konzessivsatz → *trotz* + Genitiv",
+      "explanation": "*trotz* + Genitiv replaces an *obwohl*-clause: *Obwohl die Experten gewarnt hatten, …*. *warnen* → **die Warnung**; the plural **Warnungen** shows that there were several. The subject *die Experten* becomes a Genitiv plural attribute: *der Experten*.",
+      "pattern": "trotz der + Nomen (Pl.) + Genitiv",
+      "mistake": {
+        "wrong": "Trotz die Warnungen der Experten wurde das Gesetz verabschiedet.",
+        "why": "*trotz* takes the Genitiv in standard German. Genitiv plural article: *der Warnungen*."
+      },
+      "examples": [
+        {
+          "de": "Trotz der Proteste der Anwohner wurde die Straße gebaut.",
+          "en": "Despite the residents' protests, the road was built."
+        },
+        {
+          "de": "Trotz der Bemühungen des Teams kam das Projekt nicht voran.",
+          "en": "Despite the team's efforts, the project made no progress."
+        }
+      ],
+      "words": [
+        {
+          "de": "verabschieden",
+          "en": "to pass (a law)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Zur {{c1::Vorbereitung::Verb: sich vorbereiten}} auf die Prüfung besucht er einen Intensivkurs.",
+      "en": "To prepare for the exam, he is taking an intensive course.",
+      "focus": "Finalsatz → *zur* + feminines Nomen",
+      "explanation": "*sich vorbereiten auf* → **die Vorbereitung auf**: the preposition of the verb stays with the noun. *Vorbereitung* is feminine, so *zu der* → **zur** (compare *zum Lernen*, neuter). It replaces *Um sich auf die Prüfung vorzubereiten, …*.",
+      "pattern": "zur + -ung-Nomen + Präposition des Verbs",
+      "mistake": {
+        "wrong": "Zum Vorbereitung auf die Prüfung besucht er einen Intensivkurs.",
+        "why": "Nouns in *-ung* are feminine: *die Vorbereitung* → *zu der* → *zur*. *zum* is only for masculine and neuter nouns."
+      },
+      "examples": [
+        {
+          "de": "Zur Erholung fährt sie zwei Wochen ans Meer.",
+          "en": "She is going to the seaside for two weeks to recover."
+        },
+        {
+          "de": "Zur Begrüßung gab es ein Glas Sekt.",
+          "en": "There was a glass of sparkling wine as a welcome."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Während des {{c1::Essens::Verb: essen}} sollte man nicht aufs Handy schauen.",
+      "en": "You shouldn't look at your phone during the meal.",
+      "focus": "nominalisierter Infinitiv · Genitiv nach *während*",
+      "explanation": "*während* takes the Genitiv. A nominalized infinitive is neuter, so its Genitiv is *des* + infinitive + **-s**: **des Essens**. In everyday speech the shorter *beim Essen* means the same.",
+      "pattern": "während des + Infinitiv-**s**",
+      "mistake": {
+        "wrong": "Während des Essen sollte man nicht aufs Handy schauen.",
+        "why": "Neuter nouns take *-s* in the Genitiv singular. This also applies to nominalized infinitives: *des Essens*."
+      },
+      "examples": [
+        {
+          "de": "Während des Fahrens darf man nicht telefonieren.",
+          "en": "You must not use the phone while driving."
+        },
+        {
+          "de": "Während des Schlafens erholt sich das Gehirn.",
+          "en": "The brain recovers during sleep."
+        }
+      ],
+      "words": [],
+      "production_cue": "(man)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die schnelle {{c1::Reaktion::Verb: reagieren}} der Feuerwehr hat Schlimmeres verhindert.",
+      "en": "The fire brigade's quick reaction prevented something worse.",
+      "focus": "Adverb → Adjektiv · Subjekt als Genitiv",
+      "explanation": "*reagieren* → **die Reaktion**. In the verbal version *schnell* is an adverb (*Die Feuerwehr hat schnell reagiert*). In the noun phrase it becomes an adjective with an ending: feminine Nominativ after *die* → *schnelle*. The subject *die Feuerwehr* becomes the Genitiv *der Feuerwehr*.",
+      "pattern": "die + Adj-**e** + Nomen + Genitiv",
+      "mistake": {
+        "wrong": "Die schnell Reaktion der Feuerwehr hat Schlimmeres verhindert.",
+        "why": "Before a noun, *schnell* is an attributive adjective and needs an ending: *die schnelle Reaktion*."
+      },
+      "examples": [
+        {
+          "de": "Die gründliche Prüfung der Unterlagen dauert zwei Wochen.",
+          "en": "The thorough check of the documents takes two weeks."
+        },
+        {
+          "de": "Der plötzliche Rücktritt des Ministers überraschte alle.",
+          "en": "The minister's sudden resignation surprised everyone."
+        }
+      ],
+      "words": [
+        {
+          "de": "Schlimmeres",
+          "en": "something worse"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Das {{c1::Autofahren::Auto fahren}} in der Innenstadt ist oft stressig.",
+      "en": "Driving in the city centre is often stressful.",
+      "focus": "Verb + Objekt · nominalisiert als ein Wort",
+      "explanation": "When a verb with its object is nominalized, the whole group becomes one noun: *Auto fahren* → **das Autofahren**. Only the first letter is capitalized. The group is neuter because the last part is the infinitive *fahren*.",
+      "pattern": "das + Objekt+Infinitiv (ein Wort)",
+      "mistake": {
+        "wrong": "Das Auto Fahren in der Innenstadt ist oft stressig.",
+        "why": "A nominalized verb group is written together: *das Autofahren*, like *das Klavierspielen*."
+      },
+      "examples": [
+        {
+          "de": "Das Zeitunglesen am Morgen gehört für ihn dazu.",
+          "en": "For him, reading the newspaper in the morning is part of the routine."
+        },
+        {
+          "de": "Das Klavierspielen hat sie als Kind gelernt.",
+          "en": "She learned to play the piano as a child."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Rauchen::Verb: rauchen}} ist in allen öffentlichen Gebäuden verboten.",
+      "en": "Smoking is prohibited in all public buildings.",
+      "focus": "nominalisierter Infinitiv · ohne Artikel",
+      "explanation": "In rules, signs and general statements the nominalized infinitive often has no article: *Rauchen verboten!* It is still a noun (capital letter) and the subject of *ist verboten*. *rauchen* has no -ung noun, so the infinitive is the only possible nominalization.",
+      "pattern": "Infinitiv-Nomen (ohne Artikel) + ist verboten",
+      "mistake": {
+        "wrong": "Die Rauchung ist in allen öffentlichen Gebäuden verboten.",
+        "why": "Not every verb has an -ung noun; *Rauchung* does not exist. Use the nominalized infinitive *(das) Rauchen*."
+      },
+      "examples": [
+        {
+          "de": "Parken ist hier nur für Anwohner erlaubt.",
+          "en": "Parking here is only allowed for residents."
+        },
+        {
+          "de": "Fotografieren ist im Museum leider nicht gestattet.",
+          "en": "Unfortunately, photography is not permitted in the museum."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Das ständige {{c1::Klingeln::Verb: klingeln}} des Telefons stört mich bei der Arbeit.",
+      "en": "The constant ringing of the phone disturbs me at work.",
+      "focus": "nominalisierter Infinitiv · Adjektiv + Genitiv",
+      "explanation": "*Das Telefon klingelt ständig* → **das ständige Klingeln des Telefons**. The subject becomes the Genitiv *des Telefons*, and the adverb *ständig* becomes an adjective: neuter Nominativ after *das* → *-e*. The whole phrase is the subject of *stört*.",
+      "pattern": "das + Adj-**e** + Infinitiv + Genitiv",
+      "mistake": {
+        "wrong": "Der ständige Klingeln des Telefons stört mich bei der Arbeit.",
+        "why": "A nominalized infinitive is neuter: *das Klingeln*, not *der*."
+      },
+      "examples": [
+        {
+          "de": "Das laute Bellen des Hundes weckte die Nachbarn.",
+          "en": "The loud barking of the dog woke the neighbours."
+        },
+        {
+          "de": "Das lange Warten auf den Termin hat mich genervt.",
+          "en": "The long wait for the appointment annoyed me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Seit der {{c1::Eröffnung::Verb: eröffnen}} des neuen Museums kommen mehr Touristen in die Stadt.",
+      "en": "Since the new museum opened, more tourists have been coming to the town.",
+      "focus": "Temporalsatz → *seit* + Dativ",
+      "explanation": "*seit* (preposition) + Dativ replaces the clause *Seit das neue Museum eröffnet wurde, …*. *eröffnen* → **die Eröffnung** (feminine Dativ: *der*). The subject of the passive clause, *das Museum*, becomes the Genitiv *des neuen Museums*.",
+      "pattern": "seit der + -ung-Nomen + Genitiv",
+      "mistake": {
+        "wrong": "Seit die Eröffnung des neuen Museums kommen mehr Touristen in die Stadt.",
+        "why": "As a preposition, *seit* takes the Dativ: feminine *die Eröffnung* → *seit der Eröffnung*."
+      },
+      "examples": [
+        {
+          "de": "Seit der Einführung des Tempolimits gibt es weniger Unfälle.",
+          "en": "Since the speed limit was introduced, there have been fewer accidents."
+        },
+        {
+          "de": "Seit der Gründung der Firma sind zehn Jahre vergangen.",
+          "en": "Ten years have passed since the company was founded."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die {{c1::Herstellung::Verb: herstellen}} von Impfstoffen dauert oft mehrere Jahre.",
+      "en": "Producing vaccines often takes several years.",
+      "focus": "Objekt ohne Artikel → *von* + Dativ",
+      "explanation": "*herstellen* → **die Herstellung**. The Akkusativ object (*Impfstoffe herstellen*) normally becomes a Genitiv. But a plural noun without an article shows no Genitiv form, so German uses *von* + Dativ instead: *von Impfstoffen*. With an article or an adjective the Genitiv is fine: *die Herstellung der Impfstoffe*, *die Herstellung neuer Impfstoffe*.",
+      "pattern": "Nomen + von + Dat. Pl. (ohne Artikel)",
+      "mistake": {
+        "wrong": "Die Herstellung Impfstoffe dauert oft mehrere Jahre.",
+        "why": "A bare plural cannot show the Genitiv, so it cannot follow the noun directly. Use *von Impfstoffen* (or *der Impfstoffe* with article)."
+      },
+      "examples": [
+        {
+          "de": "Der Verkauf von Alkohol an Jugendliche ist verboten.",
+          "en": "The sale of alcohol to minors is prohibited."
+        },
+        {
+          "de": "Die Entwicklung von Medikamenten ist sehr teuer.",
+          "en": "The development of medicines is very expensive."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Impfstoff (-e)",
+          "en": "vaccine"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the nominalized infinitive.",
+      "prompt": "What gender and which forms does a nominalized infinitive have?",
+      "answer": "It is always **neuter** and written with a capital letter: *das Lesen*. Dativ: *dem Lesen* (*beim, zum*); Genitiv adds **-s**: *des Lesens*. It normally has no plural.",
+      "explanation": "Any infinitive can be nominalized, so this is the safe option when a verb has no derived noun. Separable verbs and verb groups are written as one word: *das Aufstehen, das Autofahren*.",
+      "examples": [
+        {
+          "de": "Er hat die Kunst des Zuhörens gelernt.",
+          "en": "He has learned the art of listening."
+        },
+        {
+          "de": "Das Warten hat sich gelohnt.",
+          "en": "The wait was worth it."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about prepositions with nominalized infinitives.",
+      "prompt": "What do *beim*, *zum*, *vor dem* and *nach dem* + nominalized infinitive express?",
+      "answer": "**beim** = at the same time ('while …-ing', = *während/wenn*); **zum** = purpose ('for …-ing', = *um … zu*); **vor dem** = before (= *bevor*); **nach dem** = after (= *nachdem*).",
+      "explanation": "All four use the Dativ, and with neuter infinitives the article is *dem*, which contracts with *bei* and *zu*. The phrase is one Satzglied, so in the Vorfeld it is followed directly by the finite verb.",
+      "examples": [
+        {
+          "de": "Beim Umsteigen habe ich meinen Schirm im Zug vergessen.",
+          "en": "When I changed trains, I left my umbrella on the train."
+        },
+        {
+          "de": "Zum Abnehmen braucht man vor allem Geduld.",
+          "en": "To lose weight you mainly need patience."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about subjects and objects in the Nominalstil.",
+      "prompt": "What happens to the subject and the object of a verb when you nominalize it?",
+      "answer": "They become a **Genitiv attribute** after the noun (*die Regierung entscheidet → die Entscheidung der Regierung*; *das Projekt planen → die Planung des Projekts*) or a **possessive** (*er entscheidet → seine Entscheidung*). A plural without article takes **von + Dativ** (*die Planung von Projekten*).",
+      "explanation": "Only one Genitiv usually follows the noun. If both subject and object are present, the subject is often expressed with *durch* or a possessive: *die Planung des Projekts durch die Stadt*.",
+      "examples": [
+        {
+          "de": "Die Planung des Projekts hat Monate gedauert.",
+          "en": "The planning of the project took months."
+        },
+        {
+          "de": "Die Entscheidung der Regierung wurde scharf kritisiert.",
+          "en": "The government's decision was sharply criticised."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the choice of noun.",
+      "prompt": "When do you use a derived noun (*die Lösung*) and when the nominalized infinitive (*das Lösen*)?",
+      "answer": "If an established derived noun exists, it is usually preferred in formal style and often names the **result** (*die Lösung* = solution). The nominalized infinitive names the **activity or process** (*das Lösen der Aufgabe*), and it is the only option when no derived noun exists (*das Rauchen*).",
+      "explanation": "Derived nouns have many forms (*-ung, -e, -t, stem*): *die Entscheidung, die Hilfe, die Ankunft, der Besuch*. They must be learned with their gender. Inventing an -ung noun is a frequent error.",
+      "examples": [
+        {
+          "de": "Das Lösen der Aufgabe hat lange gedauert.",
+          "en": "Solving the task took a long time."
+        },
+        {
+          "de": "Die Lösung war am Ende ganz einfach.",
+          "en": "In the end the solution was quite simple."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about adverbs and prepositional objects.",
+      "prompt": "What happens to adverbs and to the preposition of the verb when you nominalize a clause?",
+      "answer": "Adverbs become **adjectives with endings** (*gründlich vorbereiten → die gründliche Vorbereitung*). The preposition of the verb usually stays (*sich vorbereiten auf → die Vorbereitung auf*), but some nouns take another one (*sich interessieren für → das Interesse an*).",
+      "explanation": "In a noun phrase there is no verb to modify, so the description must attach to the noun as an adjective. Learn nouns with their preposition, just like verbs.",
+      "examples": [
+        {
+          "de": "Die gründliche Vorbereitung auf das Interview hat sich gelohnt.",
+          "en": "The thorough preparation for the interview paid off."
+        },
+        {
+          "de": "Sein Interesse an Politik ist sehr groß.",
+          "en": "His interest in politics is very strong."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the wenn-clause with beim + a nominalized infinitive.",
+      "prompt": "Wenn ich einkaufe, vergesse ich oft die Hälfte.",
+      "answer": "Beim Einkaufen vergesse ich oft die Hälfte.",
+      "explanation": "*einkaufen* → *das Einkaufen* (one word, capitalized). *bei dem* → *beim*. The phrase fills the Vorfeld, so *vergesse* stays in position 2 and the subject *ich* follows."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the nachdem-clause with nach + a noun.",
+      "prompt": "Nachdem der Vertrag unterzeichnet worden war, begann die Arbeit.",
+      "answer": "Nach der Unterzeichnung des Vertrags begann die Arbeit.",
+      "explanation": "*unterzeichnen* → *die Unterzeichnung* (feminine) → *nach der*. The passive subject *der Vertrag* becomes the Genitiv *des Vertrags*. The passive verb forms disappear completely."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the weil-clause with wegen + a noun.",
+      "prompt": "Weil die Preise stark gestiegen sind, kaufen viele Leute weniger.",
+      "answer": "Wegen des starken Anstiegs der Preise kaufen viele Leute weniger.",
+      "explanation": "*steigen / ansteigen* → *der Anstieg*; *wegen* + Genitiv → *des Anstiegs*. The adverb *stark* becomes an adjective (masculine Genitiv → *starken*), and the subject *die Preise* becomes the Genitiv plural *der Preise*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace the obwohl-clause with trotz + a noun.",
+      "prompt": "Obwohl es stark regnete, fand das Fest statt.",
+      "answer": "Trotz des starken Regens fand das Fest statt.",
+      "explanation": "*regnen* → *der Regen*; *trotz* + Genitiv → *des Regens*. *stark* becomes an attributive adjective: masculine Genitiv after *des* → *starken*. The formal subject *es* disappears."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in the Verbalstil: replace vor + noun with a bevor-clause.",
+      "prompt": "Vor der Abfahrt des Busses kaufen wir noch Wasser.",
+      "answer": "Bevor der Bus abfährt, kaufen wir noch Wasser.",
+      "explanation": "*die Abfahrt* → the verb *abfahren*. The Genitiv *des Busses* becomes the subject *der Bus*. In the Nebensatz the finite verb *abfährt* goes to the end, and the main clause starts with the verb *kaufen*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Zur Entspannen mache ich abends Yoga.",
+      "answer": "Zum Entspannen mache ich abends Yoga.",
+      "explanation": "*das Entspannen* is a neuter nominalized infinitive, so *zu dem* → *zum*. *zur* is only for feminine nouns (*zur Entspannung*)."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Während des Warten habe ich ein ganzes Buch gelesen.",
+      "answer": "Während des Wartens habe ich ein ganzes Buch gelesen.",
+      "explanation": "*während* takes the Genitiv, and the neuter nominalized infinitive adds *-s*: *des Wartens*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Bau der Flughafen hat zehn Jahre gedauert.",
+      "answer": "Der Bau des Flughafens hat zehn Jahre gedauert.",
+      "explanation": "The object of *bauen* (*den Flughafen bauen*) becomes a Genitiv attribute after *der Bau*. *Flughafen* is masculine singular, so the Genitiv is *des Flughafens*, with *-s* on the noun."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Ich brauche das Wörterbuch ___ Übersetzen.",
+      "options": [
+        "zum",
+        "zur",
+        "zu"
+      ],
+      "correct": "zum",
+      "answer": "Ich brauche das Wörterbuch zum Übersetzen.",
+      "explanation": "*das Übersetzen* is neuter, so the contraction of *zu dem* is *zum*. *zur* is for feminine nouns (*zur Übersetzung*), and *zu* without article cannot stand before a nominalized infinitive here."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Der Beginn ___ verzögert sich um zehn Minuten.",
+      "options": [
+        "des Konzerts",
+        "das Konzert",
+        "dem Konzert"
+      ],
+      "correct": "des Konzerts",
+      "answer": "Der Beginn des Konzerts verzögert sich um zehn Minuten.",
+      "explanation": "*Das Konzert beginnt* → *der Beginn des Konzerts*: the subject becomes a Genitiv attribute. *das Konzert* is Nominativ or Akkusativ, and *dem Konzert* is Dativ; neither can follow a noun as an attribute."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Beim Einparken",
+      "prompt": "beim Einparken / ein anderes Auto / er / hat / gestreift",
+      "answer": "Beim Einparken hat er ein anderes Auto gestreift.",
+      "explanation": "*Beim Einparken* (= *Als er einparkte*) fills the Vorfeld, *hat* is in position 2, the subject *er* follows, and the Partizip II *gestreift* closes the Satzklammer. Also correct: *Er hat beim Einparken ein anderes Auto gestreift.*"
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a prepositional phrase with nach.",
+      "prompt": "Wir verabschieden uns. Danach fahren wir nach Hause.",
+      "answer": "Nach dem Abschied fahren wir nach Hause.",
+      "explanation": "*sich verabschieden* → the established noun *der Abschied* (masculine) → *nach dem Abschied*. *Danach* is no longer needed because *nach* already expresses the order. *Nach der Verabschiedung* is also correct but more formal."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into the object of the second, using a noun.",
+      "prompt": "Die Regierung hat entschieden. Viele Bürger kritisieren das.",
+      "answer": "Viele Bürger kritisieren die Entscheidung der Regierung.",
+      "explanation": "*entscheiden* → *die Entscheidung*. It replaces *das* as the Akkusativ object of *kritisieren*. The former subject *die Regierung* becomes the Genitiv attribute *der Regierung*."
+    }
+  ]
+}

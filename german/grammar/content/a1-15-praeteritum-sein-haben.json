@@ -1,0 +1,1102 @@
+{
+  "topic_id": "a1-15-praeteritum-sein-haben",
+  "level": "A1",
+  "title_de": "Präteritum von sein und haben",
+  "title_en": "The simple past of sein and haben",
+  "rule": {
+    "summary": "For most verbs, spoken German uses the Perfekt for the past. **sein** and **haben** are different: people almost always use the **Präteritum** (*war, hatte*), even in conversation. The same is true for the modal verbs (*konnte, musste, wollte*) and *wissen* (*wusste*). The Präteritum is one word in position 2, so there is no Satzklammer: *Ich war krank. Wir hatten keine Zeit.*",
+    "table": "| Person | sein | haben | können (Modalverb) |\n|---|---|---|---|\n| ich | war | hatte | konnte |\n| du | war**st** | hatte**st** | konnte**st** |\n| er / sie / es | war | hatte | konnte |\n| wir | war**en** | hatte**n** | konnte**n** |\n| ihr | war**t** | hatte**t** | konnte**t** |\n| sie / Sie | war**en** | hatte**n** | konnte**n** |",
+    "steps": [
+      "Use the Präteritum of *sein* and *haben* for the past in speech and writing: *Ich war zu Hause* is more common than *Ich bin zu Hause gewesen*.",
+      "Take the stem: *sein → war-*, *haben → hatte-* (the *b* is replaced by *t*, plus the past marker *-te*).",
+      "Add the personal ending: *ich* and *er/sie/es* have **no ending** (*ich war, er hatte*); *du* **-st**, *wir/sie/Sie* **-(e)n**, *ihr* **-t**.",
+      "Put the verb in position 2 (position 1 in yes/no questions). Nothing goes to the end, because there is no participle.",
+      "Remember expressions with *haben* where English uses *be*: *Hunger/Durst/Angst haben, recht haben, Glück haben, Geburtstag haben*."
+    ],
+    "pitfalls": [
+      "Adding an ending for *ich* or *er*: ✗ *Ich hattete keine Zeit.* → ✓ *Ich hatte keine Zeit.* The *-te* is already the past marker.",
+      "Using *sein* where German uses *haben*: ✗ *Ich war Hunger.* → ✓ *Ich hatte Hunger.* (English: *I was hungry.*)",
+      "Mixing up the *ihr*-forms: ✓ *ihr wart* (from *sein*), ✓ *ihr hattet* (from *haben*); *ihr wartet* is the verb *warten* (to wait).",
+      "Confusing the Präteritum with the Konjunktiv II: *ich war* (I was) but *ich wäre* (I would be); *ich hatte* (I had) but *ich hätte* (I would have).",
+      "Wrong person ending: ✗ *Du war müde.* → ✓ *Du warst müde.* ✗ *Wir war …* → ✓ *Wir waren …*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::war::sein}} gestern sehr müde.",
+      "en": "I was very tired yesterday.",
+      "focus": "Präteritum · ich",
+      "explanation": "*gestern* shows the past, and with *sein* German uses the Präteritum. The *ich*-form has no ending: **war**. *müde* is a predicative adjective and has no ending.",
+      "pattern": "ich + war + Zeit + Adjektiv",
+      "mistake": {
+        "wrong": "Ich waren gestern sehr müde.",
+        "why": "*waren* is the form for *wir* and *sie/Sie*. For *ich* the Präteritum of *sein* has no ending: *ich war*."
+      },
+      "examples": [
+        {"de": "Ich war am Montag beim Zahnarzt.", "en": "I was at the dentist's on Monday."},
+        {"de": "Ich war sehr nervös.", "en": "I was very nervous."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::warst::sein}} den ganzen Tag zu Hause.",
+      "en": "You were at home all day.",
+      "focus": "Präteritum · du",
+      "explanation": "The *du*-form adds **-st** to the stem *war-*: **warst**. *den ganzen Tag* is an Akkusativ of time.",
+      "pattern": "du + war**st** + …",
+      "mistake": {
+        "wrong": "Du war den ganzen Tag zu Hause.",
+        "why": "*war* without ending is only for *ich* and *er/sie/es*. The *du*-form always ends in *-st*: *du warst*."
+      },
+      "examples": [
+        {"de": "Du warst gestern nicht im Kurs.", "en": "You weren't in class yesterday."},
+        {"de": "Du warst sehr mutig.", "en": "You were very brave."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::war::sein}} in der Schule.",
+      "en": "He was at school.",
+      "focus": "Präteritum · er/sie/es",
+      "explanation": "*er/sie/es* has the same form as *ich*, without any ending: **war**. *in der Schule* is a location (Dativ, *wo?*).",
+      "pattern": "er + war + Ort",
+      "mistake": {
+        "wrong": "Er wart in der Schule.",
+        "why": "*wart* is the *ihr*-form. For *er* the form is *war* with no ending."
+      },
+      "examples": [
+        {"de": "Sie war in der Bibliothek.", "en": "She was in the library."},
+        {"de": "Er war beim Friseur.", "en": "He was at the hairdresser's."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::waren::sein}} gestern im Kino.",
+      "en": "We were at the cinema yesterday.",
+      "focus": "Präteritum · wir",
+      "explanation": "*wir* adds **-en** to the stem *war-*: **waren**. In speech *Wir waren im Kino* is the normal way to say this; *Wir sind im Kino gewesen* is possible but less common.",
+      "pattern": "wir + war**en** + Zeit + Ort",
+      "mistake": {
+        "wrong": "Wir wart gestern im Kino.",
+        "why": "*wart* belongs to *ihr*. The *wir*-form ends in *-en*: *wir waren*."
+      },
+      "examples": [
+        {"de": "Wir waren am Samstag im Theater.", "en": "We were at the theatre on Saturday."},
+        {"de": "Wir waren letzte Woche in Prag.", "en": "We were in Prague last week."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ihr {{c1::wart::sein}} sehr nett zu mir.",
+      "en": "You (pl.) were very nice to me.",
+      "focus": "Präteritum · ihr",
+      "explanation": "The *ihr*-form adds only **-t** to *war-*: **wart**, without an *-e-*. *nett zu* + Dativ: *zu mir*.",
+      "pattern": "ihr + war**t** + Adjektiv + zu + Dat.",
+      "mistake": {
+        "wrong": "Ihr wartet sehr nett zu mir.",
+        "why": "*wartet* is the present tense of *warten* (to wait). The Präteritum of *sein* for *ihr* is *wart*."
+      },
+      "examples": [
+        {"de": "Ihr wart sehr freundlich zu uns.", "en": "You (pl.) were very friendly to us."},
+        {"de": "Ihr wart gestern sehr lustig.", "en": "You (pl.) were very funny yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie {{c1::waren::sein}} im Urlaub in Spanien.",
+      "en": "They were on holiday in Spain.",
+      "focus": "Präteritum · sie (Plural)",
+      "explanation": "*sie* (they) takes the same ending as *wir*: **waren**. A location (*in Spanien*) needs *sein*, not *haben*.",
+      "pattern": "sie (Pl.) + war**en** + Ort",
+      "mistake": {
+        "wrong": "Sie hatten im Urlaub in Spanien.",
+        "why": "To say where someone was, German uses *sein*. *haben* needs an object: *Sie hatten Urlaub.*"
+      },
+      "examples": [
+        {"de": "Sie waren eine Woche in Griechenland.", "en": "They were in Greece for a week."},
+        {"de": "Meine Eltern waren im Sommer an der Ostsee.", "en": "My parents were at the Baltic Sea in the summer."}
+      ],
+      "words": [],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich {{c1::hatte::haben}} keine Zeit.",
+      "en": "I didn't have any time.",
+      "focus": "Präteritum von haben · ich",
+      "explanation": "The past stem of *haben* is *hatte-*: the *b* becomes *t* and the past marker *-te* follows. The *ich*-form has no extra ending: **hatte**.",
+      "pattern": "ich + hatte + Akk.-Objekt",
+      "mistake": {
+        "wrong": "Ich hattete keine Zeit.",
+        "why": "*hatte* already contains the past marker *-te*. Adding another *-te* is wrong: *ich hatte*."
+      },
+      "examples": [
+        {"de": "Ich hatte keinen Hunger.", "en": "I wasn't hungry."},
+        {"de": "Ich hatte einen Termin beim Arzt.", "en": "I had a doctor's appointment."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Du {{c1::hattest::haben}} eine sehr gute Idee.",
+      "en": "You had a very good idea.",
+      "focus": "Präteritum von haben · du",
+      "explanation": "*du* adds **-st** to the past stem *hatte-*: **hattest**. The Akkusativ object *eine sehr gute Idee* follows.",
+      "pattern": "du + hatte**st** + Akk.-Objekt",
+      "mistake": {
+        "wrong": "Du hatte eine sehr gute Idee.",
+        "why": "The *du*-form always needs *-st*: *du hattest*."
+      },
+      "examples": [
+        {"de": "Du hattest eine schwere Woche.", "en": "You had a hard week."},
+        {"de": "Du hattest gestern Besuch.", "en": "You had visitors yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie {{c1::hatte::haben}} großen Hunger.",
+      "en": "She was very hungry.",
+      "focus": "Präteritum · Hunger + Verb",
+      "explanation": "German says *Hunger haben* where English says *be hungry*, so the verb is *haben*. *sie* (she) has the same form as *ich*: **hatte**.",
+      "pattern": "sie (Sg.) + hatte + großen + Nomen",
+      "mistake": {
+        "wrong": "Sie war großen Hunger.",
+        "why": "*Hunger* is a noun object of *haben*. *sein* cannot take this object: *Sie hatte Hunger.*"
+      },
+      "examples": [
+        {"de": "Er hatte großen Durst.", "en": "He was very thirsty."},
+        {"de": "Das Kind hatte Fieber.", "en": "The child had a temperature."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::hatten::haben}} viel Spaß auf der Party.",
+      "en": "We had a lot of fun at the party.",
+      "focus": "Präteritum von haben · wir",
+      "explanation": "*wir* adds **-n** to *hatte-*: **hatten**. *Spaß haben* = to have fun.",
+      "pattern": "wir + hatte**n** + Objekt + Ort",
+      "mistake": {
+        "wrong": "Wir hattet viel Spaß auf der Party.",
+        "why": "*hattet* is the *ihr*-form. For *wir* the form is *hatten*."
+      },
+      "examples": [
+        {"de": "Wir hatten viel Arbeit.", "en": "We had a lot of work."},
+        {"de": "Wir hatten schönes Wetter im Urlaub.", "en": "We had nice weather on holiday."}
+      ],
+      "words": [{"de": "der Spaß", "en": "fun"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Hattet::haben}} ihr ein Problem mit dem Auto?",
+      "en": "Did you (pl.) have a problem with the car?",
+      "focus": "Präteritum von haben · ihr, Frage",
+      "explanation": "The *ihr*-form adds **-t** to *hatte-*: **hattet**. In a yes/no question the verb is in position 1.",
+      "pattern": "Hatte**t** + ihr + Objekt …?",
+      "mistake": {
+        "wrong": "Hatten ihr ein Problem mit dem Auto?",
+        "why": "*hatten* is for *wir* and *sie/Sie*. With *ihr* the ending is *-t*: *Hattet ihr …?*"
+      },
+      "examples": [
+        {"de": "Hattet ihr eine gute Zeit in Wien?", "en": "Did you (pl.) have a good time in Vienna?"},
+        {"de": "Hattet ihr Probleme mit dem Hotel?", "en": "Did you (pl.) have problems with the hotel?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie {{c1::hatten::haben}} damals keinen Hund.",
+      "en": "They didn't have a dog back then.",
+      "focus": "Präteritum von haben · sie (Plural)",
+      "explanation": "*sie* (they) takes **-n**: **hatten**. *damals* (back then) refers to a period in the past, which fits the Präteritum well.",
+      "pattern": "sie (Pl.) + hatte**n** + damals + kein- + Nomen",
+      "mistake": {
+        "wrong": "Sie habten damals keinen Hund.",
+        "why": "*haben* is irregular in the Präteritum: the stem is *hatte-*, not *habte-*."
+      },
+      "examples": [
+        {"de": "Sie hatten damals wenig Geld.", "en": "They had little money back then."},
+        {"de": "Meine Großeltern hatten einen großen Garten.", "en": "My grandparents had a big garden."}
+      ],
+      "words": [{"de": "damals", "en": "back then, at that time"}],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir {{c1::waren::sein}} damals jung.",
+      "en": "We were young at that time.",
+      "focus": "Präteritum · wir, Zeitraum",
+      "explanation": "*damals* refers to a past period. For *wir* the form is **waren** (stem *war-* + *-en*).",
+      "pattern": "wir + war**en** + damals + Adjektiv",
+      "mistake": {
+        "wrong": "Wir war damals jung.",
+        "why": "*war* has no ending and fits only *ich* and *er/sie/es*. *wir* needs *-en*: *wir waren*."
+      },
+      "examples": [
+        {"de": "Wir waren damals Studenten.", "en": "We were students at that time."},
+        {"de": "Wir waren damals sehr glücklich.", "en": "We were very happy at that time."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Sie {{c1::hatte::haben}} keinen Schlüssel dabei.",
+      "en": "She didn't have a key with her.",
+      "focus": "Präteritum · dabeihaben",
+      "explanation": "*dabeihaben* is separable. In the Präteritum the verb part *hatte* stands in position 2 and *dabei* goes to the end. *sie* (she) → **hatte** without ending.",
+      "pattern": "sie (Sg.) + hatte + Objekt + dabei",
+      "mistake": {
+        "wrong": "Sie hattet keinen Schlüssel dabei.",
+        "why": "*hattet* is the *ihr*-form. For *sie* (she) the form is *hatte*."
+      },
+      "examples": [
+        {"de": "Er hatte keinen Ausweis dabei.", "en": "He didn't have any ID with him."},
+        {"de": "Ich hatte kein Geld dabei.", "en": "I didn't have any money on me."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Du {{c1::warst::sein}} sehr leise.",
+      "en": "You were very quiet.",
+      "focus": "Präteritum · du + Adjektiv",
+      "explanation": "*du* → stem *war-* + *-st* → **warst**. The adjective *leise* is predicative and has no ending.",
+      "pattern": "du + war**st** + Adjektiv",
+      "mistake": {
+        "wrong": "Du wart sehr leise.",
+        "why": "*wart* is the *ihr*-form (*-t*). The *du*-form ends in *-st*: *du warst*."
+      },
+      "examples": [
+        {"de": "Du warst sehr geduldig.", "en": "You were very patient."},
+        {"de": "Du warst heute sehr fleißig.", "en": "You were very hard-working today."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich {{c1::hatte::haben}} große Angst.",
+      "en": "I was very afraid.",
+      "focus": "Präteritum · Angst + Verb",
+      "explanation": "*Angst haben* = to be afraid; German uses *haben* + the noun *Angst*. *ich* → **hatte**. *große Angst* is the Akkusativ object (feminine, adjective *-e*).",
+      "pattern": "ich + hatte + Adj. + Nomen",
+      "mistake": {
+        "wrong": "Ich war große Angst.",
+        "why": "English uses *be*, but German uses *haben* with the noun *Angst*: *Ich hatte Angst.*"
+      },
+      "examples": [
+        {"de": "Er hatte große Sorgen.", "en": "He was very worried."},
+        {"de": "Ich hatte Kopfschmerzen.", "en": "I had a headache."}
+      ],
+      "words": [{"de": "die Angst", "en": "fear"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Er {{c1::war::sein}} nicht zu Hause.",
+      "en": "He was not at home.",
+      "focus": "Präteritum · Verneinung",
+      "explanation": "*er* → **war** without ending. *nicht* follows the verb and negates the place *zu Hause*.",
+      "pattern": "er + war + nicht + Ort",
+      "mistake": {
+        "wrong": "Er waren nicht zu Hause.",
+        "why": "*waren* is plural. The subject *er* is singular: *er war*."
+      },
+      "examples": [
+        {"de": "Sie war nicht im Büro.", "en": "She was not in the office."},
+        {"de": "Der Chef war heute nicht da.", "en": "The boss wasn't there today."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wir {{c1::hatten::haben}} viele Freunde.",
+      "en": "We had many friends.",
+      "focus": "Präteritum von haben · wir, Plural-Objekt",
+      "explanation": "*wir* → *hatte-* + *-n* → **hatten**. The ending depends on the subject *wir*, not on the plural object *viele Freunde*.",
+      "pattern": "wir + hatte**n** + Akk.-Objekt",
+      "mistake": {
+        "wrong": "Wir hatte viele Freunde.",
+        "why": "*hatte* is for *ich* and *er/sie/es*. With *wir* the verb needs *-n*: *wir hatten*."
+      },
+      "examples": [
+        {"de": "Wir hatten zwei Katzen.", "en": "We had two cats."},
+        {"de": "Wir hatten viele Gäste.", "en": "We had a lot of guests."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Wart::sein}} ihr im Restaurant?",
+      "en": "Were you (pl.) at the restaurant?",
+      "focus": "Präteritum · ihr, Ja/Nein-Frage",
+      "explanation": "In a yes/no question the verb comes first. *ihr* → *war-* + *-t* → **Wart**.",
+      "pattern": "War**t** + ihr + Ort?",
+      "mistake": {
+        "wrong": "Waren ihr im Restaurant?",
+        "why": "*waren* is for *wir* and *sie/Sie*. With *ihr* the form is *wart*."
+      },
+      "examples": [
+        {"de": "Wart ihr schon im Museum?", "en": "Have you (pl.) been to the museum yet?"},
+        {"de": "Wart ihr gestern auf dem Markt?", "en": "Were you (pl.) at the market yesterday?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Sie {{c1::waren::sein}} sehr froh.",
+      "en": "They were very happy.",
+      "focus": "Präteritum · sie (Plural) + Adjektiv",
+      "explanation": "An adjective that describes the subject (*froh*) needs *sein*. *sie* (they) → **waren**.",
+      "pattern": "sie (Pl.) + war**en** + Adjektiv",
+      "mistake": {
+        "wrong": "Sie hatten sehr froh.",
+        "why": "*haben* needs an object. To describe how someone was, use *sein*: *Sie waren froh.*"
+      },
+      "examples": [
+        {"de": "Die Gäste waren sehr zufrieden.", "en": "The guests were very satisfied."},
+        {"de": "Sie waren sehr überrascht.", "en": "They were very surprised."}
+      ],
+      "words": [{"de": "froh", "en": "happy, glad"}],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich {{c1::war::sein}} gestern zu Hause.",
+      "en": "I was at home yesterday.",
+      "focus": "Präteritum statt Perfekt · Alltagssprache",
+      "explanation": "With *sein* speakers prefer the Präteritum even in conversation: **war**, not *bin … gewesen*. The *ich*-form has no ending.",
+      "pattern": "ich + war + Zeit + Ort",
+      "mistake": {
+        "wrong": "Ich warst gestern zu Hause.",
+        "why": "*warst* is the *du*-form. For *ich* the form is *war* without ending."
+      },
+      "examples": [
+        {"de": "Ich war gestern im Büro.", "en": "I was at the office yesterday."},
+        {"de": "Ich war am Wochenende bei meinen Eltern.", "en": "I was at my parents' place at the weekend."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "{{c1::Waren::sein}} Sie schon einmal in Italien?",
+      "en": "Have you ever been to Italy?",
+      "focus": "Präteritum · formelle Frage",
+      "explanation": "The formal *Sie* takes the same form as *wir*: **Waren** Sie …? German uses the Präteritum of *sein* here, where English uses the present perfect (*have you ever been*).",
+      "pattern": "War**en** + Sie + schon einmal + Ort?",
+      "mistake": {
+        "wrong": "Wart Sie schon einmal in Italien?",
+        "why": "*wart* is the *ihr*-form. Formal *Sie* takes *waren*."
+      },
+      "examples": [
+        {"de": "Waren Sie schon einmal in Berlin?", "en": "Have you ever been to Berlin?"},
+        {"de": "Waren Sie gestern im Büro?", "en": "Were you at the office yesterday?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Wir {{c1::hatten::haben}} keine andere Wahl.",
+      "en": "We had no other choice.",
+      "focus": "Präteritum von haben · Stamm",
+      "explanation": "*haben* forms its past stem irregularly: the *b* is replaced by *t* and *-te* is added → *hatte-*. For *wir* + *-n*: **hatten**.",
+      "pattern": "wir + hatte**n** + kein- + Nomen",
+      "mistake": {
+        "wrong": "Wir hattet keine andere Wahl.",
+        "why": "*hattet* has the *ihr*-ending *-t*. For *wir* the form is *hatten*."
+      },
+      "examples": [
+        {"de": "Wir hatten keine Chance.", "en": "We had no chance."},
+        {"de": "Wir hatten keine Lust.", "en": "We didn't feel like it."}
+      ],
+      "words": [{"de": "die Wahl", "en": "choice"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Er {{c1::konnte::können}} nicht schlafen.",
+      "en": "He couldn't sleep.",
+      "focus": "Präteritum · Modalverb",
+      "explanation": "Modal verbs also prefer the Präteritum. *können* drops the umlaut and adds *-te*: **konnte**. The infinitive *schlafen* goes to the end.",
+      "pattern": "er + Modalverb (Prät.) + … + Infinitiv",
+      "mistake": {
+        "wrong": "Er kannte nicht schlafen.",
+        "why": "*kannte* is the Präteritum of *kennen* (to know a person). The Präteritum of *können* is *konnte*."
+      },
+      "examples": [
+        {"de": "Sie konnte gut schwimmen.", "en": "She could swim well."},
+        {"de": "Ich konnte dich nicht anrufen.", "en": "I couldn't call you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Sie {{c1::musste::müssen}} früher gehen.",
+      "en": "She had to leave earlier.",
+      "focus": "Präteritum · Modalverb müssen",
+      "explanation": "*müssen* loses the umlaut and adds *-te*: **musste** (with *ss*). For *sie* (she) there is no extra ending. This is much more common than the Perfekt *hat gehen müssen*.",
+      "pattern": "sie (Sg.) + musste + … + Infinitiv",
+      "mistake": {
+        "wrong": "Sie musstet früher gehen.",
+        "why": "*musstet* is the *ihr*-form. For *sie* (she) the form is *musste*."
+      },
+      "examples": [
+        {"de": "Ich musste lange warten.", "en": "I had to wait a long time."},
+        {"de": "Er musste am Samstag arbeiten.", "en": "He had to work on Saturday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich {{c1::wollte::wollen}} dich nicht stören.",
+      "en": "I didn't want to disturb you.",
+      "focus": "Präteritum · Modalverb wollen",
+      "explanation": "*wollen* has no umlaut to lose; the Präteritum is the stem *woll-* + *-te*: **wollte**. *Ich wollte nicht stören* is a common polite phrase.",
+      "pattern": "ich + wollte + Objekt + nicht + Infinitiv",
+      "mistake": {
+        "wrong": "Ich willte dich nicht stören.",
+        "why": "The vowel *i* belongs only to the present singular (*ich will*). The Präteritum uses *o*: *wollte*."
+      },
+      "examples": [
+        {"de": "Ich wollte nur kurz fragen.", "en": "I just wanted to ask quickly."},
+        {"de": "Wir wollten ins Kino gehen.", "en": "We wanted to go to the cinema."}
+      ],
+      "words": [{"de": "stören", "en": "to disturb"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Es {{c1::war::sein}} sehr windig.",
+      "en": "It was very windy.",
+      "focus": "Präteritum · Wetter mit es",
+      "explanation": "Weather is described with the impersonal subject *es* + *sein*. *es* takes the form without ending: **war**.",
+      "pattern": "Es + war + Adjektiv",
+      "mistake": {
+        "wrong": "Es waren sehr windig.",
+        "why": "*es* is singular, so the verb has no plural ending: *es war*."
+      },
+      "examples": [
+        {"de": "Es war sehr heiß.", "en": "It was very hot."},
+        {"de": "Gestern war es neblig.", "en": "It was foggy yesterday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "{{c1::Hattest::haben}} du damals ein Auto?",
+      "en": "Did you have a car back then?",
+      "focus": "Präteritum von haben · du, Frage",
+      "explanation": "*du* adds *-st* after the past marker *-te*: hat + te + st → **hattest**. In the yes/no question the verb is in position 1.",
+      "pattern": "Hatte**st** + du + damals + Objekt?",
+      "mistake": {
+        "wrong": "Hatte du damals ein Auto?",
+        "why": "The *du*-form needs the ending *-st*: *Hattest du …?*"
+      },
+      "examples": [
+        {"de": "Hattest du einen schönen Urlaub?", "en": "Did you have a nice holiday?"},
+        {"de": "Hattest du gestern Zeit?", "en": "Did you have time yesterday?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Wir {{c1::durften::dürfen}} nicht fotografieren.",
+      "en": "We weren't allowed to take photos.",
+      "focus": "Präteritum · Modalverb dürfen",
+      "explanation": "*dürfen* loses the umlaut and adds *-te*: *durfte-*. For *wir* + *-n*: **durften**. Do not keep the umlaut: *dürften* is the Konjunktiv II (*might*).",
+      "pattern": "wir + durfte**n** + nicht + Infinitiv",
+      "mistake": {
+        "wrong": "Wir durfen nicht fotografieren.",
+        "why": "The past marker *-te-* is missing. The Präteritum is *durften*."
+      },
+      "examples": [
+        {"de": "Wir durften lange aufbleiben.", "en": "We were allowed to stay up late."},
+        {"de": "Die Kinder durften draußen spielen.", "en": "The children were allowed to play outside."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ihr {{c1::wart::sein}} sehr hilfsbereit.",
+      "en": "You (pl.) were very helpful.",
+      "focus": "Präteritum · ihr ohne -e-",
+      "explanation": "*ihr* + *war-* + *-t* → **wart**, with no *-e-* in between (compare *ihr hattet*, where *-te-* already contains an *e*).",
+      "pattern": "ihr + war**t** + Adjektiv",
+      "mistake": {
+        "wrong": "Ihr waret sehr hilfsbereit.",
+        "why": "No *-e-* is inserted after *war-*: the *ihr*-form is short, *wart*. *waret* is not a modern standard form."
+      },
+      "examples": [
+        {"de": "Ihr wart sehr pünktlich.", "en": "You (pl.) were very punctual."},
+        {"de": "Ihr wart wirklich toll.", "en": "You (pl.) were really great."}
+      ],
+      "words": [{"de": "hilfsbereit", "en": "helpful"}],
+      "production_cue": "(ihr)",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Ich {{c1::hatte::haben}} großen Hunger.",
+      "en": "I was very hungry.",
+      "focus": "Präteritum · feste Verbindung mit Hunger",
+      "explanation": "*Hunger haben* keeps *haben* in every tense: *ich habe Hunger → ich **hatte** Hunger*. *großen Hunger* is a masculine Akkusativ object.",
+      "pattern": "ich + hatte + großen + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich hattest großen Hunger.",
+        "why": "*hattest* is the *du*-form. For *ich* the form is *hatte* without ending."
+      },
+      "examples": [
+        {"de": "Ich hatte großen Durst.", "en": "I was very thirsty."},
+        {"de": "Ich hatte kalte Füße.", "en": "My feet were cold."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Sie {{c1::sollten::sollen}} eigentlich um acht kommen.",
+      "en": "They were actually supposed to come at eight.",
+      "focus": "Präteritum · Modalverb sollen",
+      "explanation": "*sollen* → *sollte-* (no umlaut, so nothing changes in the stem) + *-n* for *sie* (they) → **sollten**. With *eigentlich* it often describes a plan that did not happen.",
+      "pattern": "sie (Pl.) + sollte**n** + eigentlich + … + Infinitiv",
+      "mistake": {
+        "wrong": "Sie solltet eigentlich um acht kommen.",
+        "why": "*solltet* is the *ihr*-form. For *sie* (they) the ending is *-n*: *sollten*."
+      },
+      "examples": [
+        {"de": "Wir sollten eigentlich um neun da sein.", "en": "We were actually supposed to be there at nine."},
+        {"de": "Er sollte eigentlich heute anrufen.", "en": "He was actually supposed to call today."}
+      ],
+      "words": [{"de": "eigentlich", "en": "actually (in fact)"}],
+      "production_cue": "(they)",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Das {{c1::war::sein}} eine gute Entscheidung.",
+      "en": "That was a good decision.",
+      "focus": "Präteritum · das + Nominativ",
+      "explanation": "*das* refers to one thing → **war** (singular). After *sein* the noun is a Nominativ: *eine gute Entscheidung*.",
+      "pattern": "Das + war + Nominativ",
+      "mistake": {
+        "wrong": "Das waren eine gute Entscheidung.",
+        "why": "*waren* is used only when the noun after *das* is plural (*Das waren gute Tage*). With one decision the verb is singular: *war*."
+      },
+      "examples": [
+        {"de": "Das war eine tolle Reise.", "en": "That was a great trip."},
+        {"de": "Das war ein schöner Abend.", "en": "That was a lovely evening."}
+      ],
+      "words": [{"de": "die Entscheidung", "en": "decision"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Wir {{c1::hatten::haben}} damals kein Internet.",
+      "en": "We didn't have internet back then.",
+      "focus": "Präteritum von haben · damals",
+      "explanation": "*damals* marks a past period; with *haben* the Präteritum is natural: **hatten** (*wir* → *-n*). *kein Internet* negates the noun.",
+      "pattern": "wir + hatte**n** + damals + kein + Nomen",
+      "mistake": {
+        "wrong": "Wir hat damals kein Internet.",
+        "why": "*hat* is the present tense for *er/sie/es*. The subject is *wir* and the time is past: *wir hatten*."
+      },
+      "examples": [
+        {"de": "Wir hatten damals keinen Fernseher.", "en": "We didn't have a TV back then."},
+        {"de": "Wir hatten damals kein Handy.", "en": "We didn't have mobile phones back then."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Er {{c1::mochte::mögen}} das Essen nicht.",
+      "en": "He didn't like the food.",
+      "focus": "Präteritum · Modalverb mögen",
+      "explanation": "*mögen* has a special past stem: *ö → o* and *g → ch*: *mochte-*. *er* takes no ending: **mochte**.",
+      "pattern": "er + mochte + Objekt + nicht",
+      "mistake": {
+        "wrong": "Er mögte das Essen nicht.",
+        "why": "The Präteritum of *mögen* changes the stem to *moch-*: *mochte*. (*möchte* without *-g-* is the Konjunktiv II: *would like*.)"
+      },
+      "examples": [
+        {"de": "Sie mochte den Film nicht.", "en": "She didn't like the film."},
+        {"de": "Ich mochte meine Lehrerin sehr.", "en": "I liked my teacher very much."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Ich {{c1::wusste::wissen}} das nicht.",
+      "en": "I didn't know that.",
+      "focus": "Präteritum · wissen",
+      "explanation": "*wissen* behaves like a modal verb: the stem changes *i → u* and *-te* is added: **wusste**. Like *war* and *hatte*, it is used in the Präteritum even in speech.",
+      "pattern": "ich + wusste + Objekt + nicht",
+      "mistake": {
+        "wrong": "Ich wisste das nicht.",
+        "why": "The Präteritum of *wissen* has the vowel *u*: *wusste*."
+      },
+      "examples": [
+        {"de": "Er wusste die Antwort.", "en": "He knew the answer."},
+        {"de": "Wir wussten nichts davon.", "en": "We didn't know anything about it."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Wo {{c1::warst::sein}} du am Wochenende?",
+      "en": "Where were you at the weekend?",
+      "focus": "Präteritum · W-Frage, du",
+      "explanation": "In a W-question the verb is in position 2, after the question word. *du* → *war-* + *-st* → **warst**. This is the normal way to ask where someone was.",
+      "pattern": "W-Wort + war**st** + du + Zeit?",
+      "mistake": {
+        "wrong": "Wo wart du am Wochenende?",
+        "why": "*wart* is the *ihr*-form. With *du* the ending is *-st*: *Wo warst du?*"
+      },
+      "examples": [
+        {"de": "Wo warst du gestern Abend?", "en": "Where were you last night?"},
+        {"de": "Wie lange warst du in Paris?", "en": "How long were you in Paris?"}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Gestern {{c1::hatte::haben}} ich Geburtstag.",
+      "en": "It was my birthday yesterday.",
+      "focus": "Präteritum · Inversion, feste Verbindung",
+      "explanation": "German says *Geburtstag haben* (English: *it is my birthday*). *Gestern* is in position 1, so the verb **hatte** is in position 2 and *ich* follows it.",
+      "pattern": "Zeit + hatte + ich + Nomen",
+      "mistake": {
+        "wrong": "Gestern war ich Geburtstag.",
+        "why": "*Geburtstag* is the object of *haben*, not a description of the person: *Ich hatte Geburtstag.*"
+      },
+      "examples": [
+        {"de": "Letzte Woche hatte meine Mutter Geburtstag.", "en": "It was my mother's birthday last week."},
+        {"de": "Am Montag hatte ich keinen Unterricht.", "en": "I had no lessons on Monday."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Du {{c1::hattest::haben}} recht.",
+      "en": "You were right.",
+      "focus": "Präteritum · feste Verbindung recht + Verb",
+      "explanation": "*recht haben* = to be right; German uses *haben*, not *sein*. *du* → *hatte-* + *-st* → **hattest**. *recht* is normally written in lower case in this phrase (*Recht haben* is also allowed).",
+      "pattern": "Subjekt + hatte**st** + recht",
+      "mistake": {
+        "wrong": "Du warst recht.",
+        "why": "English says *you were right*, but the German phrase is *recht haben*: *Du hattest recht.*"
+      },
+      "examples": [
+        {"de": "Sie hatte recht.", "en": "She was right."},
+        {"de": "Ihr hattet recht.", "en": "You (pl.) were right."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wie {{c1::war::sein}} das Wetter in London?",
+      "en": "What was the weather like in London?",
+      "focus": "Präteritum · W-Frage, Nomen als Subjekt",
+      "explanation": "The subject *das Wetter* is singular (3rd person), so the verb is **war**. *Wie war …?* is the standard question about an experience in the past.",
+      "pattern": "Wie + war + Subjekt (Sg.) + …?",
+      "mistake": {
+        "wrong": "Wie waren das Wetter in London?",
+        "why": "*das Wetter* is singular, so the verb has no plural ending: *Wie war das Wetter?*"
+      },
+      "examples": [
+        {"de": "Wie war die Prüfung?", "en": "How was the exam?"},
+        {"de": "Wie war dein Urlaub?", "en": "How was your holiday?"}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Hatten::haben}} Sie eine gute Reise?",
+      "en": "Did you have a good trip?",
+      "focus": "Präteritum von haben · formelle Frage",
+      "explanation": "Formal *Sie* takes the same form as *wir* and *sie* (they): *hatte-* + *-n* → **Hatten**. The verb comes first in a yes/no question.",
+      "pattern": "Hatte**n** + Sie + Objekt?",
+      "mistake": {
+        "wrong": "Hattet Sie eine gute Reise?",
+        "why": "*hattet* is for *ihr*. Formal *Sie* always takes the plural form: *Hatten Sie …?*"
+      },
+      "examples": [
+        {"de": "Hatten Sie einen Termin?", "en": "Did you have an appointment?"},
+        {"de": "Hatten Sie einen schönen Abend?", "en": "Did you have a nice evening?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Er {{c1::hatte::haben}} Fieber und {{c2::war::sein}} im Bett.",
+      "en": "He had a temperature and was in bed.",
+      "focus": "Präteritum · haben oder sein?",
+      "explanation": "c1: *Fieber* is an Akkusativ object → *haben*: **hatte**. c2: *im Bett* is a location → *sein*: **war**. Both verbs share the subject *er*, so both have no ending.",
+      "pattern": "er + hatte + Objekt + und + war + Ort",
+      "mistake": {
+        "wrong": "Er hatte Fieber und hatte im Bett.",
+        "why": "A location needs *sein*: *war im Bett*. *haben* would need an object."
+      },
+      "examples": [
+        {"de": "Sie hatte Husten und war zu Hause.", "en": "She had a cough and was at home."},
+        {"de": "Wir hatten Zeit und waren im Park.", "en": "We had time and were in the park."}
+      ],
+      "words": [{"de": "das Fieber", "en": "fever, temperature"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Mein Handy {{c1::hatte::haben}} keinen Akku mehr.",
+      "en": "My phone's battery was dead.",
+      "focus": "Präteritum von haben · Nomen als Subjekt",
+      "explanation": "The subject *mein Handy* is a singular noun (3rd person) → **hatte** without ending. *kein … mehr* = no more.",
+      "pattern": "Subjekt (Sg.) + hatte + kein- + Nomen + mehr",
+      "mistake": {
+        "wrong": "Mein Handy hatten keinen Akku mehr.",
+        "why": "*mein Handy* is singular, so the verb has no plural *-n*: *hatte*."
+      },
+      "examples": [
+        {"de": "Das Hotel hatte keinen Parkplatz.", "en": "The hotel had no car park."},
+        {"de": "Der Zug hatte eine Stunde Verspätung.", "en": "The train was an hour late."}
+      ],
+      "words": [{"de": "der Akku", "en": "(rechargeable) battery"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Letztes Jahr {{c1::war::sein}} ich drei Wochen in Portugal.",
+      "en": "Last year I was in Portugal for three weeks.",
+      "focus": "Präteritum · Inversion nach Zeitangabe",
+      "explanation": "*Letztes Jahr* takes position 1, so the verb **war** comes in position 2 and the subject *ich* after it. *drei Wochen* is a duration (Akkusativ).",
+      "pattern": "Zeit + war + ich + Dauer + Ort",
+      "mistake": {
+        "wrong": "Letztes Jahr ich war drei Wochen in Portugal.",
+        "why": "The verb must be in position 2. After a time phrase in position 1, the subject comes after the verb: *Letztes Jahr war ich …*"
+      },
+      "examples": [
+        {"de": "Im Sommer war ich zwei Wochen in Norwegen.", "en": "In the summer I was in Norway for two weeks."},
+        {"de": "Am Dienstag war sie in Basel.", "en": "On Tuesday she was in Basel."}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Konntest::können}} du gestern nicht kommen?",
+      "en": "Couldn't you come yesterday?",
+      "focus": "Präteritum · Modalverb, du",
+      "explanation": "*können* → *konnte-* (umlaut gone) + *-st* for *du* → **Konntest**. In the question the modal is in position 1 and the infinitive *kommen* at the end.",
+      "pattern": "Modalverb-**st** + du + … + Infinitiv?",
+      "mistake": {
+        "wrong": "Konnte du gestern nicht kommen?",
+        "why": "Modal verbs follow the same endings as *hatte*: *du* needs *-st*: *Konntest du …?*"
+      },
+      "examples": [
+        {"de": "Musstest du lange warten?", "en": "Did you have to wait long?"},
+        {"de": "Wolltest du nicht mitkommen?", "en": "Didn't you want to come along?"}
+      ],
+      "words": [],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Damals {{c1::waren::sein}} die Mieten noch billig.",
+      "en": "Back then, rents were still cheap.",
+      "focus": "Präteritum · Plural-Subjekt nach dem Verb",
+      "explanation": "The subject *die Mieten* is plural, so the verb is **waren**, even though the subject comes after it (inversion after *Damals*).",
+      "pattern": "Zeit + war**en** + Subjekt (Pl.) + Adjektiv",
+      "mistake": {
+        "wrong": "Damals war die Mieten noch billig.",
+        "why": "The verb agrees with the subject, not with the word in position 1. *die Mieten* is plural → *waren*."
+      },
+      "examples": [
+        {"de": "Damals waren die Straßen leer.", "en": "Back then the streets were empty."},
+        {"de": "Früher waren die Winter kälter.", "en": "The winters used to be colder."}
+      ],
+      "words": [{"de": "die Miete", "en": "rent"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Warum {{c1::hattet::haben}} ihr keine Zeit?",
+      "en": "Why didn't you (pl.) have time?",
+      "focus": "Präteritum von haben · ihr, W-Frage",
+      "explanation": "*ihr* → *hatte-* + *-t* → **hattet**. The question word *warum* is in position 1 and the verb in position 2.",
+      "pattern": "W-Wort + hatte**t** + ihr + Objekt?",
+      "mistake": {
+        "wrong": "Warum hattest ihr keine Zeit?",
+        "why": "*hattest* is the *du*-form. With *ihr* the ending is *-t*: *hattet*."
+      },
+      "examples": [
+        {"de": "Wann hattet ihr Urlaub?", "en": "When were you (pl.) on holiday?"},
+        {"de": "Warum hattet ihr kein Ticket?", "en": "Why didn't you (pl.) have a ticket?"}
+      ],
+      "words": [],
+      "production_cue": "(ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wir {{c1::waren::sein}} in Rom und haben viel gesehen.",
+      "en": "We were in Rome and saw a lot.",
+      "focus": "Präteritum und Perfekt im Gespräch",
+      "explanation": "In everyday speech people combine both tenses: *sein* in the Präteritum (**waren**), other verbs in the Perfekt (*haben … gesehen*). *in Rom* is a location → *sein*.",
+      "pattern": "wir + war**en** + Ort + und + Perfekt",
+      "mistake": {
+        "wrong": "Wir hatten in Rom und haben viel gesehen.",
+        "why": "A place where someone was needs *sein*: *Wir waren in Rom.* *haben* would need an object."
+      },
+      "examples": [
+        {"de": "Ich war beim Arzt und habe ein Rezept bekommen.", "en": "I was at the doctor's and got a prescription."},
+        {"de": "Wir hatten Hunger und haben Pizza bestellt.", "en": "We were hungry and ordered pizza."}
+      ],
+      "words": [],
+      "production_cue": "(spoken past)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the use of the Präteritum.",
+      "prompt": "Why do Germans say *Ich war krank* rather than *Ich bin krank gewesen* in conversation?",
+      "answer": "For **sein**, **haben**, the **modal verbs** and **wissen**, the Präteritum is the normal past tense, also in speech. Most other verbs use the Perfekt in speech.",
+      "explanation": "The Perfekt of *sein* and *haben* is correct but sounds long and heavy (*bin gewesen, habe gehabt*). So a typical spoken sentence mixes tenses: *Ich war müde und bin früh ins Bett gegangen.*",
+      "examples": [
+        {"de": "Ich war gestern krank.", "en": "I was ill yesterday."},
+        {"de": "Ich war müde und bin früh ins Bett gegangen.", "en": "I was tired and went to bed early."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the endings.",
+      "prompt": "Which persons have no ending in the Präteritum, and what are the other endings?",
+      "answer": "**ich** and **er/sie/es** have no ending (*war, hatte*). *du* **-st**, *wir* and *sie/Sie* **-(e)n**, *ihr* **-t**: *warst, waren, wart / hattest, hatten, hattet*.",
+      "explanation": "This is different from the present tense, where *ich* has *-e* and *er* has *-t*. In the Präteritum *ich* and *er* always look the same, for every verb (*ich konnte – er konnte*).",
+      "examples": [
+        {"de": "Ich war im Garten.", "en": "I was in the garden."},
+        {"de": "Er war auch im Garten.", "en": "He was in the garden too."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *haben* in fixed expressions.",
+      "prompt": "Which common expressions use *haben* in German where English uses *to be*?",
+      "answer": "**Hunger/Durst haben** (be hungry/thirsty), **Angst haben** (be afraid), **recht haben** (be right), **Glück haben** (be lucky), **Geburtstag haben** (it is someone's birthday), **Verspätung haben** (be late – trains, buses).",
+      "explanation": "In these expressions the second word is a noun object of *haben*, so *sein* is not possible. In the past they all use *hatte*: *Wir hatten Glück.*",
+      "examples": [
+        {"de": "Wir hatten Glück mit dem Wetter.", "en": "We were lucky with the weather."},
+        {"de": "Der Bus hatte zehn Minuten Verspätung.", "en": "The bus was ten minutes late."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about similar-looking forms.",
+      "prompt": "What is the difference between *ihr wart*, *ihr hattet* and *ihr wartet*?",
+      "answer": "**ihr wart** = you were (Präteritum of *sein*). **ihr hattet** = you had (Präteritum of *haben*). **ihr wartet** = you wait (present tense of *warten*).",
+      "explanation": "*sein* adds only *-t* (*wart*), but *haben* already has the past marker *-te* and then adds *-t* (*hattet*). *wartet* has nothing to do with *sein*.",
+      "examples": [
+        {"de": "Ihr wart gestern nicht da.", "en": "You (pl.) weren't there yesterday."},
+        {"de": "Ihr wartet schon lange, oder?", "en": "You (pl.) have been waiting a long time, haven't you?"}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the modal verbs.",
+      "prompt": "How do the modal verbs form the Präteritum?",
+      "answer": "Stem **without umlaut** + **-te** + the endings of *hatte*: *können → konnte, müssen → musste, dürfen → durfte, wollen → wollte, sollen → sollte*. *mögen → mochte* (with *ch*).",
+      "explanation": "The forms with umlaut (*könnte, müsste, dürfte, möchte*) are Konjunktiv II and have a different meaning (*could, would have to, might, would like*).",
+      "examples": [
+        {"de": "Ich konnte nicht kommen.", "en": "I couldn't come."},
+        {"de": "Ich könnte morgen kommen.", "en": "I could come tomorrow."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Gestern ___ ich keine Lust auf Sport.",
+      "options": ["hatte", "war", "hattest"],
+      "correct": "hatte",
+      "answer": "Gestern hatte ich keine Lust auf Sport.",
+      "explanation": "*Lust haben* = to feel like doing something; *Lust* is the object of *haben*. For *ich* the form is *hatte*. *war* is the wrong verb, and *hattest* is the *du*-form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "___ ihr am Wochenende in den Bergen?",
+      "options": ["Wart", "Wartet", "Waren"],
+      "correct": "Wart",
+      "answer": "Wart ihr am Wochenende in den Bergen?",
+      "explanation": "Location → *sein*; *ihr* → *wart*. *Wartet* is the present tense of *warten*, and *Waren* is for *wir* or *sie/Sie*."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Nach der Reise ___ wir sehr müde.",
+      "options": ["waren", "hatten", "wart"],
+      "correct": "waren",
+      "answer": "Nach der Reise waren wir sehr müde.",
+      "explanation": "*müde* describes the subject → *sein*. *wir* → *waren* (inversion after *Nach der Reise*). *hatten* needs an object, and *wart* is the *ihr*-form."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich hattete gestern Kopfschmerzen.",
+      "answer": "Ich hatte gestern Kopfschmerzen.",
+      "explanation": "*hatte* already contains the past marker *-te*. The *ich*-form has no further ending: *ich hatte*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Warst ihr gestern beim Arzt?",
+      "answer": "Wart ihr gestern beim Arzt?",
+      "explanation": "*warst* is the *du*-form. With *ihr* the Präteritum of *sein* is *wart*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie war nach dem Training großen Durst.",
+      "answer": "Sie hatte nach dem Training großen Durst.",
+      "explanation": "*Durst* is a noun object, and German says *Durst haben*, not *Durst sein*. For *sie* (she) the form is *hatte*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite with the Präteritum instead of the Perfekt.",
+      "prompt": "Ich bin letztes Jahr in Wien gewesen.",
+      "answer": "Ich war letztes Jahr in Wien.",
+      "explanation": "*bin … gewesen* becomes the one-word form *war* in position 2. The participle disappears, so nothing stands at the end after the place."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite the question in the Präteritum and change *heute* to *gestern*.",
+      "prompt": "Hast du heute Abend frei?",
+      "answer": "Hattest du gestern Abend frei?",
+      "explanation": "*hast* becomes *hattest* (*hatte-* + *-st*) and stays in position 1. The time word must change too: *heute* does not fit the past, so use *gestern*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite in the Präteritum.",
+      "prompt": "Die Kinder sind im Garten.",
+      "answer": "Die Kinder waren im Garten.",
+      "explanation": "*die Kinder* is plural (3rd person) → *sind* becomes *waren*. The word order stays the same."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Gestern",
+      "prompt": "beim Arzt / ich / gestern / war",
+      "answer": "Gestern war ich beim Arzt.",
+      "explanation": "*Gestern* is in position 1, the verb *war* in position 2, then the subject *ich*. Without the fixed start: *Ich war gestern beim Arzt.*"
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "ihr / im Urlaub / wo / wart",
+      "answer": "Wo wart ihr im Urlaub?",
+      "explanation": "The question word *wo* comes first, the verb *wart* (for *ihr*) second, then the subject and the rest."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join the two sentences with *und*. Do not repeat the subject.",
+      "prompt": "Ich hatte Hunger. Ich war sehr müde.",
+      "answer": "Ich hatte Hunger und war sehr müde.",
+      "explanation": "With the same subject, *und* can join the two verbs without repeating *ich*. Each part keeps its own verb: *hatte* (object *Hunger*) and *war* (adjective *müde*)."
+    }
+  ]
+}

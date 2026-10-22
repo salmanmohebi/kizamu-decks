@@ -1,0 +1,1128 @@
+{
+  "topic_id": "h17-je-desto-vergleiche",
+  "level": "B1+",
+  "title_de": "je … desto / umso, immer + Komparativ, Vergleichssätze",
+  "title_en": "je … desto / umso, immer + comparative, comparison clauses",
+  "rule": {
+    "summary": "**je … desto / umso** links two degrees that grow or shrink together (*the more …, the more …*). The *je* part is a Nebensatz with the verb at the end; the *desto/umso* part is a main clause in which *desto/umso* + Komparativ fills the Vorfeld, so the finite verb follows directly. **immer + Komparativ** describes a continuous change (*immer kälter, immer mehr Menschen*). A comparison can also be a full clause: Komparativ / *anders* + **als** …, *so* + base form + **wie** …, with a comma and the verb at the end. **umso + Komparativ, als …** means *all the more … because*.",
+    "table": "| Struktur | Wortstellung | Beispiel |\n|---|---|---|\n| **je** + Komparativ (Nebensatz) | Verb am Ende | Je länger ich hier wohne, … |\n| **desto/umso** + Komparativ (Hauptsatz) | Verb direkt danach, dann Subjekt | … desto besser gefällt es mir. |\n| Hauptsatz + **je**-Satz | *umso* im Mittelfeld | Die Luft wird umso dünner, je höher man steigt. |\n| **immer** + Komparativ | stetige Veränderung | Es wird immer kälter. |\n| Komparativ / *anders* + **als** (+ Nebensatz) | Ungleichheit | teurer, als ich gedacht hatte |\n| (*nicht*) **so** + Grundform + **wie** (+ Nebensatz) | Gleichheit | nicht so schwer, wie ich befürchtet hatte |\n| **umso** + Komparativ, **als** + Nebensatz | Steigerung + Grund | umso wichtiger, als die Frist abläuft |",
+    "steps": [
+      "Start the first part with **je** + Komparativ. A noun that belongs to the comparative goes with it (*je mehr Menschen*). The clause is a Nebensatz: finite verb at the end, then a comma.",
+      "Start the second part with **desto** or **umso** + Komparativ (+ noun). This group is the Vorfeld, so the finite verb comes next and the subject after it: *desto besser **gefällt es** mir*.",
+      "If the je-clause comes second, the main clause has normal word order and *umso* stands before the comparative in the Mittelfeld.",
+      "For a steady change use **immer** + Komparativ. Before a noun the comparative also takes an adjective ending (*immer größere Teile*).",
+      "Inequality → Komparativ or *anders* + **als**; equality → *so/genauso/doppelt so* + base form + **wie**. If the comparison contains a finite verb, it is a Nebensatz: comma, verb last.",
+      "To add a reason for a higher degree, use **umso** + Komparativ, **als** + Nebensatz."
+    ],
+    "pitfalls": [
+      "Inversion in the je-part: ✗ *Je länger wohne ich hier, …* → ✓ *Je länger ich hier wohne, …*",
+      "Verb-final order in the desto-part: ✗ *…, desto besser es mir gefällt.* → ✓ *…, desto besser gefällt es mir.* And *desto* cannot stand alone: ✗ *desto kostet es mehr* → ✓ *desto mehr kostet es*.",
+      "Comparatives with *mehr*: ✗ *immer mehr teuer* → ✓ *immer teurer*.",
+      "Wrong comparison word: ✗ *teurer wie gedacht*, ✗ *teurer als wie gedacht* → ✓ *teurer als gedacht*; ✗ *so groß als* → ✓ *so groß wie*.",
+      "Missing comma before a comparison clause: ✗ *teurer als ich gedacht hatte* → ✓ *teurer, als ich gedacht hatte* (but no comma in *teurer als gedacht*)."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Je länger ich in Hamburg {{c1::wohne::wohnen}}, desto besser gefällt mir die Stadt.",
+      "en": "The longer I live in Hamburg, the more I like the city.",
+      "focus": "je-Teil · Position des finiten Verbs",
+      "explanation": "*je* + Komparativ (*länger*) opens a Nebensatz, so the finite verb goes to the end: **wohne**. The comma closes the je-clause, and in the desto-part the verb comes right after the comparative (*desto besser gefällt*).",
+      "pattern": "Je + Komp. + Subj. … **Verb**, desto + Komp. + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je länger wohne ich in Hamburg, desto besser gefällt mir die Stadt.",
+        "why": "*je* is a subordinating conjunction. Its clause has the verb at the end, not inversion."
+      },
+      "examples": [
+        {
+          "de": "Je länger der Film dauerte, desto unruhiger wurden die Kinder.",
+          "en": "The longer the film went on, the more restless the children became."
+        },
+        {
+          "de": "Je genauer man hinsieht, desto mehr Details entdeckt man.",
+          "en": "The more closely you look, the more details you discover."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Je früher wir buchen, desto {{c1::günstiger::günstig}} sind die Flüge.",
+      "en": "The earlier we book, the cheaper the flights are.",
+      "focus": "*desto* + Komparativ · prädikativ",
+      "explanation": "Both halves need a Komparativ: *früher* in the je-part and günstig + -er → **günstiger** in the desto-part. The comparative is predicative here (it belongs to *sind*), so it has no adjective ending.",
+      "pattern": "desto + Komp. (prädikativ) + sein + Subj.",
+      "mistake": {
+        "wrong": "Je früher wir buchen, desto günstig sind die Flüge.",
+        "why": "*desto* must be followed by a Komparativ. The base form *günstig* cannot express the relation *the more …, the more …*."
+      },
+      "examples": [
+        {
+          "de": "Je wärmer das Wasser ist, desto schneller löst sich der Zucker auf.",
+          "en": "The warmer the water is, the faster the sugar dissolves."
+        },
+        {
+          "de": "Je dunkler der Raum ist, desto größer werden die Pupillen.",
+          "en": "The darker the room is, the larger the pupils become."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Je mehr ich über das Thema lese, desto unsicherer {{c1::werde ich::werden · ich}}.",
+      "en": "The more I read about the topic, the less certain I become.",
+      "focus": "*desto*-Teil · Verb und Subjekt",
+      "explanation": "The desto-part is a main clause, and *desto unsicherer* fills the Vorfeld. So the finite verb comes next (**werde**) and the subject follows it (**ich**): inversion, as after any fronted element.",
+      "pattern": "desto + Komp. + **Verb** + **Subj.**",
+      "mistake": {
+        "wrong": "Je mehr ich über das Thema lese, desto unsicherer ich werde.",
+        "why": "The desto-part is not a Nebensatz. The finite verb stands right after the comparative, and the subject follows."
+      },
+      "examples": [
+        {
+          "de": "Je mehr ich trainiere, desto fitter fühle ich mich.",
+          "en": "The more I train, the fitter I feel."
+        },
+        {
+          "de": "Je ruhiger es im Büro ist, desto konzentrierter arbeite ich.",
+          "en": "The quieter it is in the office, the more focused I work."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Je knapper die Zeit wird, {{c1::umso::Alternative zu desto}} wichtiger ist eine gute Planung.",
+      "en": "The scarcer time becomes, the more important good planning is.",
+      "focus": "zweiter Teil · Variante des Korrelats",
+      "explanation": "**umso** can replace *desto* in the second part with the same meaning and the same word order: *umso* + Komparativ + finite verb + subject. *umso* is written as one word.",
+      "pattern": "Je + Komp. … Verb, **umso** + Komp. + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je knapper die Zeit wird, umso eine gute Planung ist wichtiger.",
+        "why": "*umso* and its comparative belong together in the Vorfeld (*umso wichtiger*), and the finite verb follows them directly."
+      },
+      "examples": [
+        {
+          "de": "Je besser die Vorbereitung ist, umso entspannter verläuft die Prüfung.",
+          "en": "The better the preparation, the more relaxed the exam goes."
+        },
+        {
+          "de": "Je größer die Gruppe ist, umso schwieriger wird die Abstimmung.",
+          "en": "The bigger the group is, the more difficult coordination becomes."
+        }
+      ],
+      "words": [
+        {
+          "de": "knapp",
+          "en": "scarce, short"
+        }
+      ],
+      "production_cue": "(use umso)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Je mehr Menschen sich impfen lassen, desto {{c1::geringer::gering}} ist das Risiko für alle.",
+      "en": "The more people get vaccinated, the lower the risk is for everyone.",
+      "focus": "je + *mehr* + Nomen · Verbgruppe am Ende",
+      "explanation": "*mehr* (Komparativ of *viel*) can take a noun: *je mehr Menschen* is one unit at the start of the je-clause, and the whole verb group *impfen lassen* goes to the end, the finite verb last. In the second part: gering + -er → **geringer**.",
+      "pattern": "Je mehr + Nomen … Inf. + **Verb**, desto + Komp. + Verb …",
+      "mistake": {
+        "wrong": "Je mehr Menschen sich lassen impfen, desto geringer ist das Risiko für alle.",
+        "why": "In the je-clause the whole verb group goes to the end, with the finite verb *lassen* in the last position."
+      },
+      "examples": [
+        {
+          "de": "Je mehr Teilnehmer sich anmelden, desto günstiger wird der Kurs für jeden Einzelnen.",
+          "en": "The more participants register, the cheaper the course becomes for each person."
+        },
+        {
+          "de": "Je mehr Daten wir haben, desto zuverlässiger sind die Prognosen.",
+          "en": "The more data we have, the more reliable the forecasts are."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich impfen lassen",
+          "en": "to get vaccinated"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Je länger die Verhandlungen dauern, desto {{c1::mehr Geld::viel · Geld}} kostet das Projekt.",
+      "en": "The longer the negotiations last, the more money the project costs.",
+      "focus": "*desto* + Komparativ + Nomen · Vorfeld",
+      "explanation": "If the comparative belongs to a noun, the whole group follows *desto*: **desto mehr Geld** is the Vorfeld, then comes the finite verb *kostet*, then the subject. *mehr* never takes an ending.",
+      "pattern": "desto + mehr + **Nomen** + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je länger die Verhandlungen dauern, desto kostet das Projekt mehr Geld.",
+        "why": "*desto* cannot stand alone in the Vorfeld. The comparative group (*mehr Geld*) must follow it directly."
+      },
+      "examples": [
+        {
+          "de": "Je älter das Gebäude ist, desto mehr Energie verbraucht die Heizung.",
+          "en": "The older the building is, the more energy the heating uses."
+        },
+        {
+          "de": "Je höher die Temperatur steigt, desto mehr Wasser verdunstet.",
+          "en": "The higher the temperature rises, the more water evaporates."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Verhandlung",
+          "en": "negotiation"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Je größer ein Unternehmen ist, desto {{c1::komplexere::komplex}} Strukturen braucht es.",
+      "en": "The bigger a company is, the more complex the structures it needs.",
+      "focus": "*desto* + Komparativ als Attribut",
+      "explanation": "Here the comparative stands before a noun, so it is declined like any adjective: komplex + -er (Komparativ) + strong Akkusativ plural ending without article *-e* → **komplexere Strukturen**. The group *desto komplexere Strukturen* fills the Vorfeld.",
+      "pattern": "desto + Komp.-**e** + Nomen (Pl.) + Verb + Subj.",
+      "mistake": {
+        "wrong": "Je größer ein Unternehmen ist, desto komplexer Strukturen braucht es.",
+        "why": "A comparative before a noun needs the adjective ending in addition to *-er*: *komplexere*."
+      },
+      "examples": [
+        {
+          "de": "Je wichtiger der Kunde ist, desto bessere Konditionen bekommt er.",
+          "en": "The more important the customer is, the better the terms he gets."
+        },
+        {
+          "de": "Je älter das Haus ist, desto höhere Kosten muss man für die Sanierung einplanen.",
+          "en": "The older the house is, the higher the costs you have to plan for the renovation."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Je {{c1::weniger::wenig}} man schläft, desto schlechter kann man sich konzentrieren.",
+      "en": "The less you sleep, the worse you can concentrate.",
+      "focus": "je + Komparativ von *wenig*",
+      "explanation": "*je* always needs a comparative. The comparative of *wenig* is **weniger**, and it works like *mehr*. In the second part the modal verb comes right after the comparative: *desto schlechter kann man …*, with the infinitive at the end.",
+      "pattern": "Je weniger + Subj. … Verb, desto + Komp. + Modalverb … Inf.",
+      "mistake": {
+        "wrong": "Je wenig man schläft, desto schlechter kann man sich konzentrieren.",
+        "why": "*je* in this construction requires a Komparativ: *weniger*, not the base form *wenig*."
+      },
+      "examples": [
+        {
+          "de": "Je weniger Zucker man isst, desto seltener bekommt man Heißhunger.",
+          "en": "The less sugar you eat, the less often you get food cravings."
+        },
+        {
+          "de": "Je weniger Zeit wir haben, desto genauer müssen wir planen.",
+          "en": "The less time we have, the more carefully we have to plan."
+        }
+      ],
+      "words": [],
+      "production_cue": "(general 'you': man)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Je mehr Erfahrung sie sammelte, desto selbstbewusster {{c1::trat sie auf::auftreten · sie · Präteritum}}.",
+      "en": "The more experience she gained, the more self-confident she appeared.",
+      "focus": "*desto*-Teil · trennbares Verb",
+      "explanation": "In the desto main clause the finite part of the separable verb *auftreten* (Präteritum *trat*) stands in position 2, right after *desto selbstbewusster*. The subject follows, and the prefix *auf* goes to the end of the clause: **trat sie auf**.",
+      "pattern": "desto + Komp. + Verb + Subj. … **Präfix**",
+      "mistake": {
+        "wrong": "Je mehr Erfahrung sie sammelte, desto selbstbewusster auftrat sie.",
+        "why": "In a main clause a separable verb is split: *trat … auf*. It is joined only at the end of a Nebensatz (*…, je selbstbewusster sie auftrat*)."
+      },
+      "examples": [
+        {
+          "de": "Je dunkler es wurde, desto stärker kühlte die Luft ab.",
+          "en": "The darker it got, the more the air cooled down."
+        },
+        {
+          "de": "Je länger das Gespräch dauerte, desto mehr taute der Gast auf.",
+          "en": "The longer the conversation lasted, the more the guest opened up."
+        }
+      ],
+      "words": [
+        {
+          "de": "auftreten",
+          "en": "to appear, to come across"
+        }
+      ],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Je länger die Kunden {{c1::warten müssen::warten · müssen}}, desto ungeduldiger werden sie.",
+      "en": "The longer the customers have to wait, the more impatient they become.",
+      "focus": "je-Teil · Modalverb",
+      "explanation": "In the je-clause the infinitive comes first and the finite modal verb goes last: **warten müssen**. In the second part *werden* follows *desto ungeduldiger* directly, then the subject *sie*.",
+      "pattern": "Je + Komp. … Inf. + **Modalverb**, desto …",
+      "mistake": {
+        "wrong": "Je länger die Kunden müssen warten, desto ungeduldiger werden sie.",
+        "why": "In a Nebensatz the finite modal verb stands at the very end, after the infinitive."
+      },
+      "examples": [
+        {
+          "de": "Je mehr wir sparen können, desto früher können wir uns eine Wohnung kaufen.",
+          "en": "The more we can save, the sooner we can buy a flat."
+        },
+        {
+          "de": "Je schneller die Ergebnisse vorliegen sollen, desto mehr Personal brauchen wir.",
+          "en": "The sooner the results are supposed to be available, the more staff we need."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Die Luft wird umso dünner, {{c1::je::Grad}} höher man steigt.",
+      "en": "The air gets thinner the higher you climb.",
+      "focus": "nachgestellter Vergleichssatz",
+      "explanation": "The je-clause can also follow the main clause. Then the main clause has normal word order (*Die Luft wird …*), and *umso* stands in the Mittelfeld before the comparative. The clause after the comma still begins with **je** and has the verb at the end (*steigt*). *umso* can even be left out: *Die Luft wird dünner, je höher man steigt.*",
+      "pattern": "Hauptsatz (… umso + Komp.), **je** + Komp. … Verb",
+      "mistake": {
+        "wrong": "Die Luft wird umso dünner, desto höher man steigt.",
+        "why": "The subordinate comparative clause must begin with *je*. *desto/umso* belongs to the main clause."
+      },
+      "examples": [
+        {
+          "de": "Man wird gelassener, je älter man wird.",
+          "en": "You become more relaxed the older you get."
+        },
+        {
+          "de": "Das Angebot wird umso attraktiver, je länger der Vertrag läuft.",
+          "en": "The offer becomes more attractive the longer the contract runs."
+        }
+      ],
+      "words": [],
+      "production_cue": "(main clause first)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "„Wann sollen wir die Unterlagen schicken?“ – „Je früher, desto {{c1::besser::gut}}.“",
+      "en": "\"When should we send the documents?\" – \"The sooner, the better.\"",
+      "focus": "verkürzte Form ohne Verb",
+      "explanation": "In short answers, slogans and headlines both parts can appear without a verb: *je* + Komparativ, *desto* + Komparativ. *gut* has an irregular comparative: **besser**. Fixed variants are *je eher, desto besser* and *je länger, je lieber*.",
+      "pattern": "Je + Komp., desto + Komp. (ohne Verb)",
+      "mistake": {
+        "wrong": "„Wann sollen wir die Unterlagen schicken?“ – „Je früher, desto mehr gut.“",
+        "why": "*gut* has the irregular comparative *besser*. German does not form comparatives with *mehr*."
+      },
+      "examples": [
+        {
+          "de": "Je höher der Preis, desto größer die Erwartungen.",
+          "en": "The higher the price, the greater the expectations."
+        },
+        {
+          "de": "Je kürzer die Wartezeit, desto zufriedener die Patienten.",
+          "en": "The shorter the waiting time, the more satisfied the patients."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Unterlagen (Pl.)",
+          "en": "documents, papers"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Je {{c1::öfter::oft}} ich das Lied höre, desto weniger gefällt es mir.",
+      "en": "The more often I hear the song, the less I like it.",
+      "focus": "je + Komparativ eines Adverbs",
+      "explanation": "*oft* is an adverb with an umlaut in the comparative: oft → **öfter** (synonym: *häufiger*). Adverbs work in *je … desto* exactly like adjectives. In the second part *weniger* is the comparative of *wenig*.",
+      "pattern": "Je + Adverb-Komp. … Verb, desto + Komp. + Verb …",
+      "mistake": {
+        "wrong": "Je mehr oft ich das Lied höre, desto weniger gefällt es mir.",
+        "why": "The comparative of *oft* is *öfter*. *mehr oft* copies the English *more often*."
+      },
+      "examples": [
+        {
+          "de": "Je häufiger man übt, desto sicherer wird man.",
+          "en": "The more frequently you practise, the more confident you become."
+        },
+        {
+          "de": "Je seltener wir uns sehen, desto mehr haben wir uns zu erzählen.",
+          "en": "The less often we see each other, the more we have to tell each other."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Das Wohnen in den Großstädten wird immer {{c1::teurer::teuer}}.",
+      "en": "Housing in the big cities is getting more and more expensive.",
+      "focus": "*immer* + Komparativ · Stammänderung",
+      "explanation": "**immer** + Komparativ expresses a continuous increase (*more and more …, -er and -er*); *immer* does not mean *always* here. *teuer* loses the *e* of its stem before *-er*: teuer → **teurer**.",
+      "pattern": "werden + immer + Komp.",
+      "mistake": {
+        "wrong": "Das Wohnen in den Großstädten wird immer mehr teuer.",
+        "why": "German forms the comparative with *-er*, not with *mehr*, even for longer adjectives: *immer teurer*."
+      },
+      "examples": [
+        {
+          "de": "Die Abstände zwischen den Hitzewellen werden immer kürzer.",
+          "en": "The intervals between heatwaves are getting shorter and shorter."
+        },
+        {
+          "de": "Im Oktober werden die Nächte immer kälter.",
+          "en": "In October the nights get colder and colder."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Seit der Pandemie ziehen immer {{c1::mehr::viel}} Familien aus der Stadt aufs Land.",
+      "en": "Since the pandemic, more and more families have been moving from the city to the countryside.",
+      "focus": "*immer* + Komparativ + Nomen · Zunahme",
+      "explanation": "*immer mehr* + noun means a growing number. **mehr** is the comparative of *viel* and never takes an ending, also before a plural noun: *immer mehr Familien*. *seit* + Präsens shows an action that started in the past and continues.",
+      "pattern": "immer **mehr** + Nomen (ohne Endung)",
+      "mistake": {
+        "wrong": "Seit der Pandemie ziehen immer mehre Familien aus der Stadt aufs Land.",
+        "why": "*mehr* is invariable. Do not confuse it with *mehrere* (several), which has endings."
+      },
+      "examples": [
+        {
+          "de": "Immer mehr Unternehmen bieten ihren Angestellten Homeoffice an.",
+          "en": "More and more companies offer their employees the option to work from home."
+        },
+        {
+          "de": "In der Bibliothek lernen immer mehr Studierende in Gruppen.",
+          "en": "More and more students study in groups in the library."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Auf dem Land gibt es immer {{c1::weniger::wenig}} Fachärzte.",
+      "en": "There are fewer and fewer medical specialists in rural areas.",
+      "focus": "*immer* + Komparativ + Nomen · Abnahme",
+      "explanation": "For a continuous decrease you use **immer weniger** (comparative of *wenig*) + noun. Like *mehr*, *weniger* has no ending before a noun: *immer weniger Fachärzte*.",
+      "pattern": "immer **weniger** + Nomen (ohne Endung)",
+      "mistake": {
+        "wrong": "Auf dem Land gibt es immer wenigere Fachärzte.",
+        "why": "*weniger* before a noun is invariable, just like *mehr*."
+      },
+      "examples": [
+        {
+          "de": "Immer weniger Jugendliche rauchen.",
+          "en": "Fewer and fewer young people smoke."
+        },
+        {
+          "de": "Wir haben immer weniger Zeit für unsere Hobbys.",
+          "en": "We have less and less time for our hobbies."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Facharzt (¨-e)",
+          "en": "medical specialist"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Immer {{c1::größere::groß}} Teile der Bevölkerung können sich die Mieten kaum noch leisten.",
+      "en": "Ever larger parts of the population can hardly afford the rents any more.",
+      "focus": "*immer* + Komparativ als Attribut",
+      "explanation": "Before a noun the comparative takes an adjective ending: groß → größer (umlaut) + strong Nominativ plural ending without article *-e* → **größere Teile**. *immer* itself never changes.",
+      "pattern": "immer + Komp.-**e** + Nomen (Pl.)",
+      "mistake": {
+        "wrong": "Immer größer Teile der Bevölkerung können sich die Mieten kaum noch leisten.",
+        "why": "An attributive comparative needs both *-er* and the case ending: *größere*."
+      },
+      "examples": [
+        {
+          "de": "Die Firma muss immer höhere Preise für Rohstoffe zahlen.",
+          "en": "The company has to pay ever higher prices for raw materials."
+        },
+        {
+          "de": "Immer jüngere Kinder besitzen ein eigenes Smartphone.",
+          "en": "Ever younger children own their own smartphone."
+        }
+      ],
+      "words": [
+        {
+          "de": "sich etwas leisten",
+          "en": "to afford something"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Extreme Wetterereignisse treten immer {{c1::häufiger::häufig}} auf.",
+      "en": "Extreme weather events are occurring more and more frequently.",
+      "focus": "*immer* + Komparativ · adverbial",
+      "explanation": "The comparative here describes the verb *auftreten*, so it is used as an adverb and has no ending: häufig + -er → **häufiger**. *immer häufiger* stands in the Mittelfeld, and the prefix *auf* closes the clause.",
+      "pattern": "Verb … immer + Komp. (Adverb) … Präfix",
+      "mistake": {
+        "wrong": "Extreme Wetterereignisse treten immer häufig auf.",
+        "why": "*immer häufig* would mean *always frequently*. The meaning *more and more* needs the comparative: *immer häufiger*."
+      },
+      "examples": [
+        {
+          "de": "Die Züge kommen immer später an.",
+          "en": "The trains are arriving later and later."
+        },
+        {
+          "de": "Sie spricht immer flüssiger Deutsch.",
+          "en": "She speaks German more and more fluently."
+        }
+      ],
+      "words": [
+        {
+          "de": "auftreten",
+          "en": "to occur"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Reparatur war deutlich teurer, als ich {{c1::gedacht hatte::denken · Plusquamperfekt}}.",
+      "en": "The repair was considerably more expensive than I had thought.",
+      "focus": "Vergleichssatz nach Komparativ · Verbstellung",
+      "explanation": "After a comparative, *als* can introduce a full Nebensatz: comma before *als*, finite verb at the end. The expectation came before the result, so the clause is in the Plusquamperfekt: **gedacht hatte**.",
+      "pattern": "Komp., als + Subj. … Partizip II + **hatte**",
+      "mistake": {
+        "wrong": "Die Reparatur war deutlich teurer, als ich hatte gedacht.",
+        "why": "*als* introduces a Nebensatz, so the finite verb *hatte* must stand at the end."
+      },
+      "examples": [
+        {
+          "de": "Die Verhandlungen dauerten länger, als alle erwartet hatten.",
+          "en": "The negotiations took longer than everyone had expected."
+        },
+        {
+          "de": "Das Hotel war schöner, als die Fotos vermuten ließen.",
+          "en": "The hotel was nicer than the photos suggested."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Die Prüfung war leichter, {{c1::als::Vergleich: ungleich}} viele befürchtet hatten.",
+      "en": "The exam was easier than many had feared.",
+      "focus": "Vergleichswort nach Komparativ",
+      "explanation": "A comparative (*leichter*) is always followed by **als**, also when a full clause follows. *wie* is used only after the base form (*so leicht wie*).",
+      "pattern": "Komp., **als** + Nebensatz",
+      "mistake": {
+        "wrong": "Die Prüfung war leichter, wie viele befürchtet hatten.",
+        "why": "*Komparativ + wie* (and *als wie*) is colloquial and regional. In standard German only *als* follows a comparative."
+      },
+      "examples": [
+        {
+          "de": "Die Inflation ist stärker gestiegen, als die Zentralbank prognostiziert hatte.",
+          "en": "Inflation rose more sharply than the central bank had forecast."
+        },
+        {
+          "de": "Das Konzert war voller, als die Veranstalter gehofft hatten.",
+          "en": "The concert was more crowded than the organisers had hoped."
+        }
+      ],
+      "words": [
+        {
+          "de": "befürchten",
+          "en": "to fear (that something will happen)"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Nachfrage nach Pflegekräften ist heute größer {{c1::als je zuvor::Vergleich mit früher}}.",
+      "en": "Demand for care workers is greater today than ever before.",
+      "focus": "fester Ausdruck · Vergleich mit der Vergangenheit",
+      "explanation": "**als je zuvor** (*than ever before*) compares the present state with every earlier time. It has no finite verb, so there is no comma. A formal variant is *größer denn je*.",
+      "pattern": "Komp. + als je zuvor",
+      "mistake": {
+        "wrong": "Die Nachfrage nach Pflegekräften ist heute größer als nie zuvor.",
+        "why": "After a comparative German uses *je* (ever): *als je zuvor*. *nie zuvor* belongs to the equality pattern: *so groß wie nie zuvor*."
+      },
+      "examples": [
+        {
+          "de": "Die Temperaturen waren in diesem Sommer höher als je zuvor.",
+          "en": "Temperatures this summer were higher than ever before."
+        },
+        {
+          "de": "Die Partei ist heute zerstrittener als je zuvor.",
+          "en": "The party is more divided today than ever before."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Pflegekraft (¨-e)",
+          "en": "care worker, nurse"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Das Gespräch verlief ganz anders, {{c1::als::Vergleich: Abweichung}} wir erwartet hatten.",
+      "en": "The conversation went quite differently from what we had expected.",
+      "focus": "*anders* + Vergleichssatz",
+      "explanation": "*anders* is not a comparative, but like a comparative it is followed by **als**. With a finite verb, *als wir erwartet hatten* is a Nebensatz: comma before *als*, verb at the end.",
+      "pattern": "anders, **als** + Nebensatz",
+      "mistake": {
+        "wrong": "Das Gespräch verlief ganz anders, wie wir erwartet hatten.",
+        "why": "After *anders* the standard comparison word is *als*. *anders wie* is colloquial."
+      },
+      "examples": [
+        {
+          "de": "Die Wohnung sieht in Wirklichkeit ganz anders aus, als sie auf den Fotos wirkte.",
+          "en": "In reality the flat looks quite different from how it looked in the photos."
+        },
+        {
+          "de": "Der Abend endete anders, als wir ihn geplant hatten.",
+          "en": "The evening ended differently from how we had planned it."
+        }
+      ],
+      "words": [
+        {
+          "de": "verlaufen",
+          "en": "to go, to proceed"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "{{c1::Anders als::Gegensatz}} ihr Bruder hat sie nie studiert.",
+      "en": "Unlike her brother, she never went to university.",
+      "focus": "Vergleich ohne Verb · im Vorfeld",
+      "explanation": "**Anders als** + noun phrase means *unlike*. The comparison has no finite verb, so it is not a clause and has no comma. Together with its noun it fills the Vorfeld, so the finite verb *hat* follows directly.",
+      "pattern": "Anders als + Nominalphrase + **Verb** + Subj. …",
+      "mistake": {
+        "wrong": "Anders als ihr Bruder sie hat nie studiert.",
+        "why": "*Anders als ihr Bruder* is one element in the Vorfeld; the finite verb must come next (position 2)."
+      },
+      "examples": [
+        {
+          "de": "Anders als im Vorjahr fiel der Umsatz im Dezember schwach aus.",
+          "en": "Unlike the previous year, sales in December were weak."
+        },
+        {
+          "de": "Anders als erwartet blieb der Saal halb leer.",
+          "en": "Contrary to expectations, the hall remained half empty."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Die Wanderung war nicht so anstrengend, {{c1::wie::Vergleich: gleich}} wir befürchtet hatten.",
+      "en": "The hike wasn't as strenuous as we had feared.",
+      "focus": "*so* + Grundform + Vergleichssatz",
+      "explanation": "With **so** + base form (*so anstrengend*) the comparison word is **wie**, also before a full clause. *nicht so … wie* says that the real degree was lower than expected. The *wie* clause is a Nebensatz: comma, verb at the end.",
+      "pattern": "nicht so + Grundform, **wie** + Nebensatz",
+      "mistake": {
+        "wrong": "Die Wanderung war nicht so anstrengend, als wir befürchtet hatten.",
+        "why": "*als* follows a comparative. After *so* + base form you need *wie*."
+      },
+      "examples": [
+        {
+          "de": "Die Lage ist längst nicht so dramatisch, wie manche Zeitungen behaupten.",
+          "en": "The situation is nowhere near as dramatic as some newspapers claim."
+        },
+        {
+          "de": "Der Test war genauso schwierig, wie die Dozentin angekündigt hatte.",
+          "en": "The test was just as difficult as the lecturer had announced."
+        }
+      ],
+      "words": [
+        {
+          "de": "anstrengend",
+          "en": "strenuous, tiring"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Wir sollten die Ergebnisse so schnell {{c1::wie möglich::Maximum}} veröffentlichen.",
+      "en": "We should publish the results as quickly as possible.",
+      "focus": "*so* + Grundform + Ausdruck des Maximums",
+      "explanation": "**so … wie möglich** means *as … as possible*. The phrase has no finite verb, so there is no comma, and it stays inside the Mittelfeld before the infinitive. A shorter, more formal alternative is *möglichst schnell*.",
+      "pattern": "so + Grundform + **wie möglich**",
+      "mistake": {
+        "wrong": "Wir sollten die Ergebnisse so schneller wie möglich veröffentlichen.",
+        "why": "*so … wie* takes the base form of the adjective, not the comparative."
+      },
+      "examples": [
+        {
+          "de": "Bitte antworten Sie so bald wie möglich.",
+          "en": "Please reply as soon as possible."
+        },
+        {
+          "de": "Wir versuchen, die Kosten so gering wie möglich zu halten.",
+          "en": "We are trying to keep the costs as low as possible."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Die neue Anlage erzeugt {{c1::doppelt so viel::× 2 · viel}} Strom wie die alte.",
+      "en": "The new plant generates twice as much electricity as the old one.",
+      "focus": "Vielfaches + Gleichheitsvergleich",
+      "explanation": "Multiples are expressed with **doppelt / dreimal / halb so** + base form + **wie**. *viel* stays in the base form after *so*, and the comparison word is *wie*, not *als*.",
+      "pattern": "doppelt so + Grundform (+ Nomen) + wie …",
+      "mistake": {
+        "wrong": "Die neue Anlage erzeugt doppelt so viel Strom als die alte.",
+        "why": "*so … wie* is the equality pattern, also with multiples. *als* is used only after a comparative."
+      },
+      "examples": [
+        {
+          "de": "Das Ticket kostet heute dreimal so viel wie vor zehn Jahren.",
+          "en": "The ticket costs three times as much today as ten years ago."
+        },
+        {
+          "de": "Der neue Akku ist nur halb so schwer wie der alte.",
+          "en": "The new battery is only half as heavy as the old one."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Anlage",
+          "en": "plant, facility"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Die Einigung ist umso wichtiger, {{c1::als::Grund · Vergleichswort}} die Frist schon nächste Woche abläuft.",
+      "en": "The agreement is all the more important as the deadline expires next week.",
+      "focus": "*umso* + Komparativ · Begründung",
+      "explanation": "**umso** + Komparativ, **als** … means *all the more … because*. The *als* clause gives the reason for the higher degree, not a second thing to compare. It is a Nebensatz with the verb at the end (*abläuft*). In less formal style *weil* is also used.",
+      "pattern": "umso + Komp., **als** + Nebensatz (Grund)",
+      "mistake": {
+        "wrong": "Die Einigung ist umso wichtiger, dass die Frist schon nächste Woche abläuft.",
+        "why": "The reason after *umso* + Komparativ is introduced by *als* (or *weil*), not by *dass*."
+      },
+      "examples": [
+        {
+          "de": "Der Sieg ist umso bemerkenswerter, als das Team ohne seinen Kapitän spielte.",
+          "en": "The victory is all the more remarkable as the team played without its captain."
+        },
+        {
+          "de": "Die Nachricht ist umso überraschender, als niemand mit einem Rücktritt gerechnet hatte.",
+          "en": "The news is all the more surprising as nobody had expected a resignation."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Frist",
+          "en": "deadline, time limit"
+        },
+        {
+          "de": "ablaufen",
+          "en": "to expire, to run out"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Ihr Erfolg freut mich {{c1::umso mehr::Steigerung}}, als sie lange krank war.",
+      "en": "Her success pleases me all the more because she was ill for a long time.",
+      "focus": "Steigerung + Grund · im Mittelfeld",
+      "explanation": "**umso mehr** (*mehr* = comparative of *viel*) intensifies the verb *freut*. It stands in the Mittelfeld, and the reason follows in the *als* clause. The comma stands between *umso mehr* and *als*.",
+      "pattern": "Verb … **umso mehr**, als + Nebensatz",
+      "mistake": {
+        "wrong": "Ihr Erfolg freut mich umso mehr, wie sie lange krank war.",
+        "why": "The reason clause after *umso mehr* begins with *als*, not *wie*."
+      },
+      "examples": [
+        {
+          "de": "Wir bedauern seinen Weggang umso mehr, als er das Team aufgebaut hat.",
+          "en": "We regret his departure all the more as he built up the team."
+        },
+        {
+          "de": "Das Lob bedeutete ihr umso mehr, als es von ihrer strengsten Kritikerin kam.",
+          "en": "The praise meant all the more to her because it came from her harshest critic."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Wir hatten uns sehr auf den Urlaub gefreut. {{c1::Umso::Steigerung · übliche Form}} enttäuschter waren wir vom Hotel.",
+      "en": "We had been really looking forward to the holiday. We were all the more disappointed with the hotel.",
+      "focus": "Komparativ im Vorfeld · Bezug auf den vorigen Satz",
+      "explanation": "**Umso** + Komparativ can refer back to the previous sentence (*all the more … for that*). *Umso enttäuschter* fills the Vorfeld, so the finite verb *waren* follows directly, then the subject. *desto* is rare in this use.",
+      "pattern": "Satz. **Umso** + Komp. + Verb + Subj. …",
+      "mistake": {
+        "wrong": "Wir hatten uns sehr auf den Urlaub gefreut. Umso enttäuschter wir waren vom Hotel.",
+        "why": "*Umso enttäuschter* occupies the Vorfeld; the finite verb must stand in position 2, before the subject."
+      },
+      "examples": [
+        {
+          "de": "Die Prognosen waren schlecht. Umso größer war die Freude über das Ergebnis.",
+          "en": "The forecasts were bad. All the greater was the joy about the result."
+        },
+        {
+          "de": "Er hatte kaum trainiert. Umso überraschender kam sein Sieg.",
+          "en": "He had hardly trained. His victory was all the more surprising."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Die Wartezeiten beim Bürgeramt sind in den letzten Jahren immer {{c1::länger geworden::lang · werden (Perfekt)}}.",
+      "en": "Waiting times at the citizens' office have got longer and longer in recent years.",
+      "focus": "*immer* + Komparativ · Perfekt",
+      "explanation": "*werden* + comparative describes a change. In the Perfekt *werden* uses *sein* and the Partizip II **geworden**, which goes to the end after the comparative: lang → **länger** (umlaut) **geworden**.",
+      "pattern": "sein … immer + Komp. + **geworden**",
+      "mistake": {
+        "wrong": "Die Wartezeiten beim Bürgeramt haben in den letzten Jahren immer länger geworden.",
+        "why": "*werden* forms the Perfekt with *sein*: *sind … immer länger geworden*."
+      },
+      "examples": [
+        {
+          "de": "Die Sommer sind in den letzten Jahrzehnten immer heißer geworden.",
+          "en": "Summers have become hotter and hotter in recent decades."
+        },
+        {
+          "de": "Seine Antworten sind im Laufe des Interviews immer knapper geworden.",
+          "en": "His answers got shorter and shorter over the course of the interview."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Bürgeramt",
+          "en": "citizens' (registration) office"
+        }
+      ],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about word order in je … desto sentences.",
+      "prompt": "What is the word order in each half of a je … desto sentence?",
+      "answer": "**je-part** = Nebensatz: *je* + Komparativ (+ noun) – subject – … – **finite verb last**. **desto/umso-part** = main clause: *desto* + Komparativ (+ noun) in the Vorfeld – **finite verb** – subject – … A comma separates the two parts.",
+      "explanation": "The je-part behaves like a *wenn* clause, the desto-part like a main clause with a fronted element. *desto* never stands alone: the comparative (and its noun) follows it directly, and only then comes the verb.",
+      "examples": [
+        {
+          "de": "Je mehr Verantwortung man trägt, desto vorsichtiger entscheidet man.",
+          "en": "The more responsibility you carry, the more carefully you decide."
+        },
+        {
+          "de": "Je seltener ein Medikament verschrieben wird, desto teurer ist es oft.",
+          "en": "The more rarely a drug is prescribed, the more expensive it often is."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about desto and umso.",
+      "prompt": "Is there a difference between desto and umso?",
+      "answer": "In *je …* sentences they mean the same and have the same word order. **umso** is the usual choice when the je-clause comes second (*… umso dünner, je höher man steigt*), in **umso …, als** (*all the more because*) and when it refers back to the previous sentence (*Umso besser!*).",
+      "explanation": "Both words are standard German. *umso* is written as one word. Use only one of them per sentence: ✗ *je …, desto umso …*.",
+      "examples": [
+        {
+          "de": "Je klarer die Anweisungen sind, umso weniger Fehler passieren.",
+          "en": "The clearer the instructions are, the fewer mistakes happen."
+        },
+        {
+          "de": "Der Zug hat Verspätung? Umso besser, dann erreichen wir ihn noch.",
+          "en": "The train is delayed? So much the better, then we'll still catch it."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about commas in comparisons.",
+      "prompt": "When does the als or wie part of a comparison need a comma?",
+      "answer": "Only when it is a full clause with a finite verb: *teurer**,** als ich gedacht hatte*; *so schnell**,** wie es geht*. A comparison without a finite verb has no comma: *teurer als gedacht*, *so schnell wie möglich*, *größer als je zuvor*.",
+      "explanation": "The rule is the same for *als* and *wie*: a Nebensatz is always set off by a comma. A shortened comparison (a noun phrase, a Partizip II, *möglich*) is part of the main clause.",
+      "examples": [
+        {
+          "de": "Die Sanierung dauerte länger als geplant.",
+          "en": "The renovation took longer than planned."
+        },
+        {
+          "de": "Die Sanierung dauerte länger, als der Architekt geplant hatte.",
+          "en": "The renovation took longer than the architect had planned."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about expressing a continuous change.",
+      "prompt": "How do you express 'more and more' or '-er and -er' in German, and which English-like forms should you avoid?",
+      "answer": "**immer** + Komparativ: *immer kälter, immer mehr Menschen, immer häufiger*. Before a noun the comparative is declined: *immer größere Teile*. Avoid ✗ *immer mehr teuer*; *kälter und kälter* exists, but *immer kälter* is the normal form.",
+      "explanation": "In this construction *immer* does not mean *always*: together with the comparative it signals steady growth or decrease. *mehr und mehr* is possible but much less frequent than *immer mehr*.",
+      "examples": [
+        {
+          "de": "Die Gletscher schmelzen immer schneller.",
+          "en": "The glaciers are melting faster and faster."
+        },
+        {
+          "de": "Immer weniger Menschen schreiben noch Briefe.",
+          "en": "Fewer and fewer people still write letters."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about als and wie.",
+      "prompt": "When do you use als and when wie in comparisons?",
+      "answer": "**als** after a Komparativ (*besser als*), after *anders* (*anders als*) and in *umso …, als*. **wie** after *so / genauso / ebenso* + base form and after multiples (*doppelt so viel wie*). ✗ *Komparativ + wie* and ✗ *als wie* are colloquial, not standard.",
+      "explanation": "Rule of thumb: inequality → *als*; equality, also negated (*nicht so … wie*) → *wie*. *nicht so überzeugend wie* and *weniger überzeugend als* express the same fact with different patterns.",
+      "examples": [
+        {
+          "de": "Der zweite Entwurf ist deutlich überzeugender als der erste.",
+          "en": "The second draft is much more convincing than the first."
+        },
+        {
+          "de": "Der erste Entwurf ist nicht so überzeugend wie der zweite.",
+          "en": "The first draft is not as convincing as the second."
+        }
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two als clauses.",
+      "prompt": "What does umso + Komparativ, als … mean, and how is it different from a normal comparison with als?",
+      "answer": "It means **all the more … because**: the *als* clause gives the **reason** why the degree is higher (*umso wichtiger, als die Frist abläuft*). In a normal comparison (*wichtiger, als ich dachte*) the *als* clause is the **standard of comparison**.",
+      "explanation": "Both *als* clauses are Nebensätze with a comma and the verb at the end, so only *umso* shows which meaning is meant. In less formal style the reason can also be introduced by *weil*.",
+      "examples": [
+        {
+          "de": "Der Fund ist umso wertvoller, als nur drei solche Handschriften erhalten sind.",
+          "en": "The find is all the more valuable as only three such manuscripts have survived."
+        },
+        {
+          "de": "Der Fund war wertvoller, als die Archäologen zunächst angenommen hatten.",
+          "en": "The find was more valuable than the archaeologists had first assumed."
+        }
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct second part.",
+      "prompt": "Je mehr Zeit du in die Vorbereitung investierst, ___.",
+      "options": [
+        "desto besser wird das Ergebnis",
+        "desto das Ergebnis wird besser",
+        "desto besser das Ergebnis wird"
+      ],
+      "correct": "desto besser wird das Ergebnis",
+      "answer": "Je mehr Zeit du in die Vorbereitung investierst, desto besser wird das Ergebnis.",
+      "explanation": "*desto besser* is the Vorfeld of a main clause, so the finite verb *wird* follows directly and the subject comes after it. *desto das Ergebnis wird besser* separates *desto* from its comparative. *desto besser das Ergebnis wird* uses Nebensatz order, which belongs only in the je-part."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct comparison word.",
+      "prompt": "Die Ausstellung war viel kleiner, ___ wir nach der Werbung erwartet hatten.",
+      "options": [
+        "als",
+        "wie",
+        "als wie",
+        "dass"
+      ],
+      "correct": "als",
+      "answer": "Die Ausstellung war viel kleiner, als wir nach der Werbung erwartet hatten.",
+      "explanation": "*kleiner* is a comparative, so the comparison clause starts with *als*. *wie* after a comparative and the double form *als wie* are colloquial. *dass* introduces content clauses, not comparisons."
+    },
+    {
+      "key": "d09",
+      "type": "choice",
+      "instruction": "Choose the correct comparison word.",
+      "prompt": "Der neue Kollege arbeitet doppelt so schnell ___ sein Vorgänger.",
+      "options": [
+        "wie",
+        "als",
+        "wie als"
+      ],
+      "correct": "wie",
+      "answer": "Der neue Kollege arbeitet doppelt so schnell wie sein Vorgänger.",
+      "explanation": "*doppelt so* + base form is an equality pattern with a multiple, so it takes *wie*. *als* would require a comparative (*schneller als*). *wie als* does not exist."
+    },
+    {
+      "key": "d10",
+      "type": "choice",
+      "instruction": "Choose the form that expresses a continuous increase.",
+      "prompt": "Seit der Renovierung wird das Café ___.",
+      "options": [
+        "immer beliebter",
+        "immer beliebt",
+        "beliebter immer",
+        "immer mehr beliebt"
+      ],
+      "correct": "immer beliebter",
+      "answer": "Seit der Renovierung wird das Café immer beliebter.",
+      "explanation": "A steady increase is *immer* + Komparativ: *immer beliebter*. *immer beliebt* means *always popular*. *immer* must come before the comparative, and German does not form comparatives with *mehr* (✗ *mehr beliebt*)."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Je mehr Leute kommen zur Party, desto lustiger wird es.",
+      "answer": "Je mehr Leute zur Party kommen, desto lustiger wird es.",
+      "explanation": "The je-part is a Nebensatz, so the finite verb *kommen* must go to the end of the clause. The desto-part is already correct: verb directly after *desto lustiger*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Je älter man wird, desto man wird gelassener.",
+      "answer": "Je älter man wird, desto gelassener wird man.",
+      "explanation": "*desto* must be followed directly by the comparative (*desto gelassener*). This group fills the Vorfeld, so the finite verb *wird* comes next and the subject *man* after it."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Fahrt dauerte länger wie geplant.",
+      "answer": "Die Fahrt dauerte länger als geplant.",
+      "explanation": "After the comparative *länger* standard German uses *als*. *wie* is only for equality (*so lange wie geplant*). There is no comma because *als geplant* has no finite verb."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Mieten werden immer höhere.",
+      "answer": "Die Mieten werden immer höher.",
+      "explanation": "After *werden* the comparative is predicative and has no adjective ending: *immer höher*. The ending *-e* is only used before a noun (*immer höhere Mieten*)."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Je höher der Preis ist, desto groß ist die Erwartung der Kunden.",
+      "answer": "Je höher der Preis ist, desto größer ist die Erwartung der Kunden.",
+      "explanation": "Both parts need a comparative. *groß* must become *größer* (with umlaut) after *desto*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with je … desto.",
+      "prompt": "Wenn man mehr Sport treibt, schläft man besser.",
+      "answer": "Je mehr Sport man treibt, desto besser schläft man.",
+      "explanation": "*je mehr Sport* replaces *wenn … mehr Sport*: the comparative with its noun moves to the front of the Nebensatz, and *treibt* stays at the end. In the main clause *desto besser* takes the Vorfeld, so *schläft* comes before *man*."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Put the je-clause after the main clause and use umso.",
+      "prompt": "Je näher die Prüfung rückt, desto nervöser werden die Studierenden.",
+      "answer": "Die Studierenden werden umso nervöser, je näher die Prüfung rückt.",
+      "explanation": "When the main clause comes first, it has normal word order: subject *Die Studierenden*, verb *werden*, then *umso nervöser* in the Mittelfeld. The je-clause follows after a comma and keeps its verb at the end."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Rewrite the sentence with immer + Komparativ.",
+      "prompt": "Von Jahr zu Jahr kaufen mehr Menschen ein Elektroauto.",
+      "answer": "Immer mehr Menschen kaufen ein Elektroauto.",
+      "explanation": "*von Jahr zu Jahr … mehr* describes a continuous increase, which *immer mehr* expresses on its own. *immer mehr Menschen* is now the subject in the Vorfeld, followed by the verb *kaufen*."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Je näher",
+      "prompt": "der Feierabend / desto dichter / rückt / wird / je näher / der Verkehr",
+      "answer": "Je näher der Feierabend rückt, desto dichter wird der Verkehr.",
+      "explanation": "The je-clause comes first: *je näher* + subject + verb at the end (*rückt*). In the desto-part *desto dichter* is followed directly by the verb *wird*, then the subject. With the same parts the main clause could also come first (*Der Verkehr wird desto dichter, je näher der Feierabend rückt.*), but with this order *umso* is more usual."
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das Projekt",
+      "prompt": "länger / gedauert / als ursprünglich geplant / hat / das Projekt",
+      "answer": "Das Projekt hat länger gedauert als ursprünglich geplant.",
+      "explanation": "*hat* is in position 2 and *gedauert* closes the Satzklammer. The short comparison *als ursprünglich geplant* has no finite verb, so it needs no comma and often follows the Partizip II (Nachfeld). Also correct: *Das Projekt hat länger als ursprünglich geplant gedauert.*"
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Join the two sentences with je … desto.",
+      "prompt": "Der Abend wird später. Die Gäste werden lauter.",
+      "answer": "Je später der Abend wird, desto lauter werden die Gäste.",
+      "explanation": "The first sentence becomes the je-clause: *je später* first, *wird* at the end. The second becomes the desto-part: *desto lauter*, then the verb *werden*, then the subject *die Gäste*."
+    },
+    {
+      "key": "d22",
+      "type": "combine",
+      "instruction": "Join the two sentences with umso …, als.",
+      "prompt": "Die Entscheidung ist wichtig. Es geht um 500 Arbeitsplätze.",
+      "answer": "Die Entscheidung ist umso wichtiger, als es um 500 Arbeitsplätze geht.",
+      "explanation": "The second sentence is the reason why the decision is so important. *wichtig* becomes *umso wichtiger*, and the reason follows in an *als* clause with the verb *geht* at the end."
+    },
+    {
+      "key": "d23",
+      "type": "combine",
+      "instruction": "Join the two sentences into one with nicht so … wie and a comparison clause.",
+      "prompt": "Wir hatten einen sehr unruhigen Flug befürchtet. Der Flug war aber ruhiger.",
+      "answer": "Der Flug war nicht so unruhig, wie wir befürchtet hatten.",
+      "explanation": "*nicht so* + base form (*unruhig*) + *wie* expresses that the real degree was lower than feared. The *wie* clause has a finite verb, so it takes a comma and the verb at the end. The fear came earlier, so it is in the Plusquamperfekt."
+    }
+  ]
+}

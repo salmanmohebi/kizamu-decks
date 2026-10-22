@@ -1,0 +1,707 @@
+{
+  "topic_id": "h14-passiv-vertiefung",
+  "level": "B2",
+  "title_de": "Passiv-Vertiefung: unpersönliches Passiv, Dativ im Passiv, von/durch",
+  "title_en": "The passive in depth: impersonal passive, Dativ in the passive, von/durch",
+  "rule": {
+    "summary": "Only an **Akkusativ object** can become the subject of a werden-passive. Verbs without one form an **unpersönliches Passiv** with no subject (*Hier wird nicht geraucht*), and a Dativ object stays Dativ (*Mir wurde geholfen*); the verb is then 3rd person singular. The agent is named with **von** + Dativ, a means or cause with **durch** + Akkusativ. With modal verbs the passive infinitive (*repariert werden*) combines with every tense (*hat repariert werden müssen*), and the **bekommen-Passiv** makes the Dativ receiver the subject (*Er bekommt das Paket geschickt*).",
+    "table": "| Zeit | Hauptsatz | Nebensatz |\n|---|---|---|\n| Präsens | Das Dach **muss** repariert werden. | …, dass das Dach repariert werden **muss**. |\n| Präteritum | Das Dach **musste** repariert werden. | …, dass das Dach repariert werden **musste**. |\n| Perfekt | Das Dach **hat** repariert werden **müssen**. | …, dass das Dach **hat** repariert werden müssen. |\n| Plusquamperfekt | Das Dach **hatte** repariert werden **müssen**. | …, dass das Dach **hatte** repariert werden müssen. |\n| Futur I | Das Dach **wird** repariert werden **müssen**. | …, dass das Dach **wird** repariert werden müssen. |\n| Konjunktiv II Vergangenheit | Das Dach **hätte** repariert werden **müssen**. | …, dass das Dach **hätte** repariert werden müssen. |",
+    "steps": [
+      "Find the objects of the active verb. An Akkusativ object becomes the Nominativ subject (personal passive). If there is no Akkusativ object, the passive has no subject: impersonal passive with *wird/wurde* in the 3rd person singular.",
+      "Keep all other cases: a Dativ object stays Dativ (*Mir wurde geholfen*), a prepositional object stays as it is (*Über den Plan wurde gesprochen*). The verb agrees only with a Nominativ subject.",
+      "*es* is only a Vorfeld filler: use it when nothing else stands in position 1 (*Es wurde getanzt*). After another Vorfeld element, in questions and in Nebensätze it disappears. With a real subject, *es* in the Vorfeld does not change the agreement: *Es wurden Fehler gemacht.*",
+      "Agent with **von** + Dativ (person, institution, group); means, measure or cause with **durch** + Akkusativ (*durch eine Reform, durch einen Kurzschluss*); tool with **mit** + Dativ. Usually the agent is left out.",
+      "With a modal verb, the modal carries tense and person; the passive infinitive (Partizip II + *werden*) does not change. In the Perfekt the auxiliary is *haben* + Ersatzinfinitiv (*hat … werden müssen*), and in the Nebensatz *hat* stands before the verb cluster.",
+      "No passive for verbs without an acting agent: *haben, besitzen, bekommen, kosten*, reflexive verbs (*sich verschlechtern*) and intransitive verbs with *sein* in the Perfekt (*passieren, ankommen, sterben*)."
+    ],
+    "pitfalls": [
+      "Dativ person as subject: ✗ *Ich wurde geholfen.* → ✓ *Mir wurde geholfen.*",
+      "*es* outside the Vorfeld: ✗ *Heute wird es nicht gearbeitet.* → ✓ *Heute wird nicht gearbeitet.*",
+      "Agreement with the Dativ noun: ✗ *Den Gästen wurden ein Getränk angeboten.* → ✓ *Den Gästen wurde ein Getränk angeboten.*",
+      "*sein* or *gemusst* in the modal Perfekt: ✗ *Das Auto ist repariert werden gemusst.* → ✓ *Das Auto hat repariert werden müssen.*",
+      "Receiver as subject of the werden-passive: ✗ *Er wurde das Paket geschickt.* → ✓ *Ihm wurde das Paket geschickt.* or *Er bekam das Paket geschickt.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "In vielen Branchen {{c1::wird::werden}} am Wochenende nicht gearbeitet.",
+      "en": "In many industries, people don't work at the weekend.",
+      "focus": "unpersönliches Passiv · Präsens",
+      "explanation": "*arbeiten* has no Akkusativ object, so the passive has no subject at all; the focus is only on the activity. Without a subject, *werden* takes the default 3rd person singular: **wird**. *In vielen Branchen* fills the Vorfeld, so no *es* is needed.",
+      "pattern": "Vorfeld + wird + … + Partizip II (kein Subjekt)",
+      "mistake": {"wrong": "In vielen Branchen werden am Wochenende nicht gearbeitet.", "why": "There is no plural subject: *Branchen* is inside a prepositional phrase. An impersonal passive always has the verb in the 3rd person singular."},
+      "examples": [
+        {"de": "In deutschen Krankenhäusern wird rund um die Uhr gearbeitet.", "en": "In German hospitals, people work around the clock."},
+        {"de": "In der Bibliothek wird nicht telefoniert.", "en": "No phone calls in the library."}
+      ],
+      "words": [{"de": "die Branche (-n)", "en": "industry, sector"}],
+      "production_cue": "(impersonal passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Es::Vorfeld-Platzhalter}} wurde bis tief in die Nacht getanzt und gesungen.",
+      "en": "There was dancing and singing until late into the night.",
+      "focus": "unpersönliches Passiv · leeres Vorfeld",
+      "explanation": "*tanzen* and *singen* are used here without an object, so there is no subject. A German main clause needs something in position 1; if no other part is placed there, the dummy **Es** fills the Vorfeld. It has no meaning and is not a subject.",
+      "pattern": "Es + wurde + … + Partizip II",
+      "mistake": {"wrong": "Wurde bis tief in die Nacht getanzt und gesungen.", "why": "Without *es* the Vorfeld is empty, and the sentence reads as a yes/no question. In a statement *es* must fill position 1 when no other element is placed there."},
+      "examples": [
+        {"de": "Es wird in Deutschland immer weniger geraucht.", "en": "People in Germany are smoking less and less."},
+        {"de": "Es wurde viel gelacht, aber auch ernsthaft diskutiert.", "en": "There was a lot of laughing, but also serious discussion."}
+      ],
+      "words": [],
+      "production_cue": "(impersonal passive, start with Es)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Nachbarn beschweren sich, dass im Hinterhof jedes Wochenende bis drei Uhr {{c1::gefeiert wird::feiern · Passiv}}.",
+      "en": "The neighbours complain that there are parties in the courtyard until three o'clock every weekend.",
+      "focus": "unpersönliches Passiv · Nebensatz",
+      "explanation": "*feiern* has no object here → impersonal passive. In a Nebensatz the Vorfeld does not exist, so there is no place for the filler *es*: the clause has no subject at all. The verb group goes to the end: Partizip II + finite *wird* → **gefeiert wird**.",
+      "pattern": "dass + … + Partizip II + wird (ohne es)",
+      "mistake": {"wrong": "Die Nachbarn beschweren sich, dass es im Hinterhof jedes Wochenende bis drei Uhr gefeiert wird.", "why": "*es* in the impersonal passive is only a Vorfeld filler. A Nebensatz has no Vorfeld, so *es* must disappear: *dass im Hinterhof … gefeiert wird*."},
+      "examples": [
+        {"de": "Ich finde es gut, dass in der Mensa nicht mehr geraucht wird.", "en": "I think it's good that people no longer smoke in the canteen."},
+        {"de": "Weißt du, ob am Feiertag gearbeitet wird?", "en": "Do you know whether people are working on the public holiday?"}
+      ],
+      "words": [{"de": "der Hinterhof (¨-e)", "en": "back courtyard"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Über die Vorschläge der Kommission {{c1::wurde::werden}} wochenlang gestritten.",
+      "en": "The commission's proposals were argued about for weeks.",
+      "focus": "unpersönliches Passiv · Präpositionalobjekt",
+      "explanation": "*streiten über* + Akkusativ has a prepositional object, not an Akkusativ object. The prepositional phrase stays unchanged in the passive and cannot become the subject. So there is no subject, and the verb is singular: **wurde** (Präteritum).",
+      "pattern": "Präposition + Nomen + wird/wurde + Partizip II",
+      "mistake": {"wrong": "Über die Vorschläge der Kommission wurden wochenlang gestritten.", "why": "*die Vorschläge* is inside the phrase *über die Vorschläge* and is not the subject. The verb does not agree with it; the impersonal passive is always singular."},
+      "examples": [
+        {"de": "Auf eine Antwort der Behörde wird seit Monaten gewartet.", "en": "People have been waiting for an answer from the authority for months."},
+        {"de": "Über die Kosten wurde in der Sitzung kaum gesprochen.", "en": "The costs were hardly discussed in the meeting."}
+      ],
+      "words": [{"de": "die Kommission (-en)", "en": "commission, committee"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Jetzt {{c1::wird::werden}} nicht mehr geredet, jetzt wird gehandelt!",
+      "en": "No more talking now, now it's time to act!",
+      "focus": "unpersönliches Passiv · Aufforderung",
+      "explanation": "The impersonal passive in the Präsens is often used as a firm instruction to a group (*Jetzt wird gegessen!*). There is no subject and no addressee is named, which makes it sound strict. *Jetzt* fills the Vorfeld, so **wird** stands in position 2 without *es*.",
+      "pattern": "Jetzt wird + Partizip II! (Aufforderung)",
+      "mistake": {"wrong": "Jetzt wird es nicht mehr geredet, jetzt wird gehandelt!", "why": "*Jetzt* already fills the Vorfeld, so the filler *es* is not allowed in the Mittelfeld. The impersonal passive simply has no subject."},
+      "examples": [
+        {"de": "So, Kinder, jetzt wird geschlafen!", "en": "Right, children, time to sleep now!"},
+        {"de": "Hier wird nicht gemeckert, hier wird angepackt!", "en": "No complaining here, let's get to work!"}
+      ],
+      "words": [{"de": "handeln", "en": "to act, to take action"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Es {{c1::wurden::werden}} in der Sitzung zahlreiche Bedenken geäußert.",
+      "en": "Numerous concerns were raised in the meeting.",
+      "focus": "Vorfeld-*es* · persönliches Passiv · Kongruenz",
+      "explanation": "This is a personal passive: *Bedenken äußern* has an Akkusativ object, which becomes the subject *zahlreiche Bedenken* (plural). The *es* in the Vorfeld is only a filler that moves the real subject to the right. The verb agrees with the real subject: **wurden**.",
+      "pattern": "Es + Verb (Kongruenz mit Subjekt) + … + Subjekt + Partizip II",
+      "mistake": {"wrong": "Es wurde in der Sitzung zahlreiche Bedenken geäußert.", "why": "*es* is not the subject. The subject is *zahlreiche Bedenken* (plural), so the verb must be *wurden*. Without the filler: *Zahlreiche Bedenken wurden geäußert.*"},
+      "examples": [
+        {"de": "Es wurden schon über 3000 Unterschriften gesammelt.", "en": "Over 3,000 signatures have already been collected."},
+        {"de": "Es werden noch freiwillige Helferinnen und Helfer gesucht.", "en": "Volunteers are still being sought."}
+      ],
+      "words": [{"de": "Bedenken äußern", "en": "to raise concerns"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Mir::ich}} wurde sofort geholfen, als ich auf dem glatten Bahnsteig stürzte.",
+      "en": "I was helped immediately when I fell on the slippery platform.",
+      "focus": "Passiv · Person nach *helfen*",
+      "explanation": "*helfen* takes a Dativ object (*jemandem helfen*), not an Akkusativ object. Only an Akkusativ object can become the subject, so the person helped stays Dativ: **Mir**. The sentence has no subject, and *wurde* is 3rd person singular.",
+      "pattern": "Dativ + wurde + Partizip II (kein Subjekt)",
+      "mistake": {"wrong": "Ich wurde sofort geholfen, als ich auf dem glatten Bahnsteig stürzte.", "why": "English *I was helped* tempts you to use the Nominativ. In German the Dativ of *helfen* stays Dativ in the passive: *Mir wurde geholfen.*"},
+      "examples": [
+        {"de": "Ihm wurde nach dem Unfall erst nach einer Stunde geholfen.", "en": "He was only helped an hour after the accident."},
+        {"de": "Uns wurde von allen Seiten gratuliert.", "en": "We were congratulated from all sides."}
+      ],
+      "words": [{"de": "der Bahnsteig (-e)", "en": "(railway) platform"}],
+      "production_cue": "(passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Den Flutopfern {{c1::wurde::werden}} schnell und unbürokratisch geholfen.",
+      "en": "The flood victims were helped quickly and without red tape.",
+      "focus": "Dativ Plural im Passiv · Kongruenz",
+      "explanation": "*Den Flutopfern* is Dativ plural (*den* + noun in *-n*), the object of *helfen*. A Dativ object is never the subject, so it does not decide the verb form. With no subject, *werden* is 3rd person singular: **wurde**.",
+      "pattern": "Dativ Pl. + wurde (Sg.) + Partizip II",
+      "mistake": {"wrong": "Den Flutopfern wurden schnell und unbürokratisch geholfen.", "why": "The plural noun is a Dativ object, not the subject. The verb only agrees with a Nominativ subject; here there is none, so it stays singular: *wurde*."},
+      "examples": [
+        {"de": "Den Pflegekräften wurde für ihren Einsatz ausdrücklich gedankt.", "en": "The nursing staff were explicitly thanked for their work."},
+        {"de": "Den Anwohnern wurde für ihre Geduld während der Bauarbeiten gedankt.", "en": "The residents were thanked for their patience during the construction work."}
+      ],
+      "words": [{"de": "unbürokratisch", "en": "without red tape"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Der::die → Kasus?}} Mieterin wurde wegen Eigenbedarfs gekündigt.",
+      "en": "The tenant was given notice because the landlord needed the flat for his own use.",
+      "focus": "Passiv · *kündigen* · Standardsprache",
+      "explanation": "In standard German *kündigen* takes the person in the Dativ: *Der Vermieter kündigt der Mieterin.* In the passive this Dativ stays: feminine Dativ article **Der** (*der Mieterin*). There is no subject; *wurde* is singular by default.",
+      "pattern": "Dativ (Person) + wurde + gekündigt",
+      "mistake": {"wrong": "Die Mieterin wurde wegen Eigenbedarfs gekündigt.", "why": "*Die Mieterin wurde gekündigt* is common in everyday speech but not standard: the person you dismiss or give notice to is a Dativ object. In writing say *Der Mieterin wurde gekündigt* (or *Ihr wurde gekündigt*)."},
+      "examples": [
+        {"de": "Dem langjährigen Mitarbeiter wurde fristlos gekündigt.", "en": "The long-standing employee was dismissed without notice."},
+        {"de": "Ihr wurde schon in der Probezeit gekündigt.", "en": "She was let go during her probation period."}
+      ],
+      "words": [{"de": "der Eigenbedarf", "en": "(landlord's) own use"}, {"de": "kündigen + Dat.", "en": "to give (someone) notice, to dismiss"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Dem Bewerber {{c1::wurden::werden}} gleich zwei Stellen angeboten.",
+      "en": "The applicant was offered two positions at once.",
+      "focus": "Dativ + Akkusativ-Verb im Passiv · Kongruenz",
+      "explanation": "*anbieten* has two objects: *jemandem* (Dativ) *etwas* (Akkusativ). The Akkusativ object becomes the subject (*zwei Stellen*, plural), and the Dativ *dem Bewerber* stays. The verb agrees with the subject: **wurden**.",
+      "pattern": "Dativ + werden (Kongruenz mit Akk.→Nom.) + Subjekt + Partizip II",
+      "mistake": {"wrong": "Der Bewerber wurde gleich zwei Stellen angeboten.", "why": "This copies the English *The applicant was offered …*. In German only the Akkusativ object (*zwei Stellen*) can become the subject; the person stays Dativ: *Dem Bewerber wurden zwei Stellen angeboten.*"},
+      "examples": [
+        {"de": "Den Studierenden wurden die Studiengebühren erlassen.", "en": "The students were exempted from the tuition fees."},
+        {"de": "Der Ministerin wurden mehrere Fehler vorgeworfen.", "en": "The minister was accused of several mistakes."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Uns::wir}} wurde von niemandem gesagt, dass der Kurs ausfällt.",
+      "en": "Nobody told us that the course was cancelled.",
+      "focus": "Passiv · Hörer nach *sagen* · Subjekt ist ein *dass*-Satz",
+      "explanation": "*sagen* has a Dativ (the listener) and an Akkusativ (what is said). Here the Akkusativ is the *dass*-clause, and in the passive this clause becomes the subject; that is why *wurde* is singular. The listener stays Dativ: **Uns**.",
+      "pattern": "Dativ + wurde + Partizip II, dass … (Subjektsatz)",
+      "mistake": {"wrong": "Wir wurden von niemandem gesagt, dass der Kurs ausfällt.", "why": "*wir* would be the subject, but the listener of *sagen* is a Dativ object and stays Dativ in the passive: *Uns wurde gesagt*."},
+      "examples": [
+        {"de": "Mir wurde erst am Flughafen mitgeteilt, dass der Flug gestrichen ist.", "en": "I was only told at the airport that the flight had been cancelled."},
+        {"de": "Den Eltern wurde versichert, dass die Schule sicher ist.", "en": "The parents were assured that the school is safe."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled (a lesson, a train)"}],
+      "production_cue": "(passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Der Roman wurde {{c1::von::von/durch?}} einer jungen Übersetzerin ins Deutsche übertragen.",
+      "en": "The novel was translated into German by a young translator.",
+      "focus": "Agens · handelnde Person",
+      "explanation": "The person who does the action (the agent) is named with **von** + Dativ: *von einer jungen Übersetzerin* (feminine Dativ *einer*). In the active sentence she would be the subject: *Eine junge Übersetzerin übertrug den Roman.*",
+      "pattern": "Passiv + von + Dativ (Person)",
+      "mistake": {"wrong": "Der Roman wurde von eine junge Übersetzerin ins Deutsche übertragen.", "why": "*von* always takes the Dativ, so the article must be *einer*, not the Nominativ/Akkusativ *eine*."},
+      "examples": [
+        {"de": "Die Ausstellung wurde von einem Kuratorenteam aus Wien konzipiert.", "en": "The exhibition was designed by a team of curators from Vienna."},
+        {"de": "Der Patient wurde von der Oberärztin persönlich untersucht.", "en": "The patient was examined by the senior physician herself."}
+      ],
+      "words": [{"de": "übertragen", "en": "to translate (formal); to transfer"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Die Wartezeiten wurden {{c1::durch::von/durch?}} die Einführung eines Online-Terminsystems deutlich verkürzt.",
+      "en": "Waiting times were reduced considerably by introducing an online booking system.",
+      "focus": "Mittel / Maßnahme im Passiv",
+      "explanation": "*die Einführung eines Online-Terminsystems* is not a person who acts; it is the measure through which the result was achieved. A means or measure is named with **durch** + Akkusativ (*die Einführung*). The agent (the clinic, the authority) is left out.",
+      "pattern": "Passiv + durch + Akkusativ (Mittel, Maßnahme)",
+      "mistake": {"wrong": "Die Wartezeiten wurden von der Einführung eines Online-Terminsystems deutlich verkürzt.", "why": "*von* introduces the one who acts. An introduction is a process, not an actor, so the means must be expressed with *durch*."},
+      "examples": [
+        {"de": "Der Energieverbrauch wurde durch eine bessere Dämmung um ein Drittel gesenkt.", "en": "Energy consumption was cut by a third through better insulation."},
+        {"de": "Die Krankheit kann durch eine einfache Impfung verhindert werden.", "en": "The disease can be prevented by a simple vaccination."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Der Brand wurde vermutlich {{c1::durch einen::Ursache · Kasus}} Kurzschluss ausgelöst.",
+      "en": "The fire was probably caused by a short circuit.",
+      "focus": "Ursache im Passiv · Kasus nach der Präposition",
+      "explanation": "A short circuit is the cause of the fire, not an acting person, so the standard choice is *durch*. *durch* always takes the Akkusativ: *der Kurzschluss* → masculine Akkusativ **durch einen** Kurzschluss. With natural causes *von einem Kurzschluss* is also heard, but the hint *Ursache* asks for the usual choice, *durch*.",
+      "pattern": "Passiv + durch + Akkusativ (Ursache)",
+      "mistake": {"wrong": "Der Brand wurde vermutlich durch einem Kurzschluss ausgelöst.", "why": "*einem* is Dativ, the case after *von* and *mit*. *durch* is an Akkusativ preposition: *durch einen Kurzschluss*."},
+      "examples": [
+        {"de": "Der Stau wurde durch einen umgestürzten Lkw verursacht.", "en": "The traffic jam was caused by an overturned lorry."},
+        {"de": "Die Verzögerung wurde durch einen Softwarefehler ausgelöst.", "en": "The delay was triggered by a software bug."}
+      ],
+      "words": [{"de": "der Kurzschluss (¨-e)", "en": "short circuit"}, {"de": "auslösen", "en": "to trigger, to cause"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Die Tür wurde offenbar {{c1::mit::Werkzeug}} einem Brecheisen aufgebrochen.",
+      "en": "The door was apparently forced open with a crowbar.",
+      "focus": "Instrument im Passiv",
+      "explanation": "A tool that someone uses in the action is neither the agent (*von*) nor a measure or cause (*durch*); it is an instrument, named with **mit** + Dativ, as in the active sentence (*Der Täter brach die Tür mit einem Brecheisen auf*). The burglar himself is left out.",
+      "pattern": "Passiv + mit + Dativ (Werkzeug)",
+      "mistake": {"wrong": "Die Tür wurde offenbar von einem Brecheisen aufgebrochen.", "why": "*von* would present the crowbar as the actor. A tool cannot act by itself; someone used it, so the instrument takes *mit*."},
+      "examples": [
+        {"de": "Die Proben werden mit einem speziellen Mikroskop untersucht.", "en": "The samples are examined with a special microscope."},
+        {"de": "Das Gemälde wurde mit einem Messer beschädigt.", "en": "The painting was damaged with a knife."}
+      ],
+      "words": [{"de": "das Brecheisen (-)", "en": "crowbar"}, {"de": "aufbrechen", "en": "to break open, to force open"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Der Flug nach Oslo {{c1::musste::müssen}} wegen dichten Nebels gestrichen werden.",
+      "en": "The flight to Oslo had to be cancelled because of thick fog.",
+      "focus": "Modalverb + Passiv · Präteritum",
+      "explanation": "With a modal verb, the modal carries the tense: Präteritum **musste**. The rest is the passive infinitive *gestrichen werden* (Partizip II + *werden*), which stays the same in every tense. The Präteritum is the most common past form of a modal passive.",
+      "pattern": "Modalverb (Prät.) + … + Partizip II + werden",
+      "mistake": {"wrong": "Der Flug nach Oslo musste wegen dichten Nebels gestrichen worden.", "why": "*worden* only appears in the passive Perfekt. After a modal verb you need the passive infinitive *gestrichen werden*."},
+      "examples": [
+        {"de": "Die Bewerbungsfrist musste um zwei Wochen verlängert werden.", "en": "The application deadline had to be extended by two weeks."},
+        {"de": "Die Ergebnisse konnten leider nicht bestätigt werden.", "en": "Unfortunately the results could not be confirmed."}
+      ],
+      "words": [{"de": "streichen", "en": "to cancel (a flight); to cross out"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Die Brücke {{c1::hat::Hilfsverb}} nach dem Hochwasser komplett gesperrt werden müssen.",
+      "en": "The bridge had to be closed completely after the flood.",
+      "focus": "Modalverb + Passiv · Perfekt · Hilfsverb",
+      "explanation": "In the Perfekt of a modal passive, the auxiliary belongs to the modal verb, not to *werden*. Modal verbs form the Perfekt with *haben*, so the finite verb is **hat**. At the end comes the passive infinitive *gesperrt werden* + the Ersatzinfinitiv *müssen*.",
+      "pattern": "hat + … + Partizip II + werden + Modalverb (Inf.)",
+      "mistake": {"wrong": "Die Brücke ist nach dem Hochwasser komplett gesperrt werden müssen.", "why": "*sein* belongs to the passive Perfekt without a modal (*ist gesperrt worden*). With a modal, the modal decides the auxiliary, and modals always take *haben*."},
+      "examples": [
+        {"de": "Das Spiel hat wegen eines Gewitters unterbrochen werden müssen.", "en": "The match had to be interrupted because of a thunderstorm."},
+        {"de": "Der Antrag hat leider abgelehnt werden müssen.", "en": "Unfortunately the application had to be rejected."}
+      ],
+      "words": [{"de": "sperren", "en": "to close (a road), to block"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Der Patient hat noch in derselben Nacht {{c1::operiert werden müssen::operieren · müssen}}.",
+      "en": "The patient had to be operated on that same night.",
+      "focus": "Modalverb + Passiv · Perfekt · Verbcluster",
+      "explanation": "The cluster at the end has three verbs: Partizip II *operiert* + passive auxiliary *werden* + modal. In the Perfekt the modal does not use its participle *gemusst*; because another infinitive depends on it, it appears as the Ersatzinfinitiv: **operiert werden müssen**.",
+      "pattern": "hat + … + Partizip II + werden + müssen",
+      "mistake": {"wrong": "Der Patient hat noch in derselben Nacht operiert werden gemusst.", "why": "A modal verb that governs another infinitive uses the Ersatzinfinitiv in the Perfekt: *müssen*, not *gemusst*. In speech the Präteritum is more common: *Der Patient musste operiert werden.*"},
+      "examples": [
+        {"de": "Die Wahl hat in mehreren Bezirken wiederholt werden müssen.", "en": "The election had to be repeated in several districts."},
+        {"de": "Die Software hat kurz vor dem Start noch einmal getestet werden müssen.", "en": "The software had to be tested once more shortly before the launch."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Viele Fans sind enttäuscht, dass das Konzert so kurzfristig {{c1::hat::Hilfsverb}} abgesagt werden müssen.",
+      "en": "Many fans are disappointed that the concert had to be cancelled at such short notice.",
+      "focus": "Modalverb + Passiv · Perfekt im Nebensatz",
+      "explanation": "In a Nebensatz the finite verb normally goes to the very end. With an Ersatzinfinitiv this changes: the finite auxiliary **hat** stands *before* the whole infinitive cluster *abgesagt werden müssen*. This is the main exception to the verb-last rule in a dass-clause (the Futur I with a modal, *dass … wird … werden müssen*, may follow the same order).",
+      "pattern": "dass + … + hat + Partizip II + werden + Modalverb",
+      "mistake": {"wrong": "Viele Fans sind enttäuscht, dass das Konzert so kurzfristig abgesagt werden müssen hat.", "why": "With an Ersatzinfinitiv the auxiliary *hat* moves in front of the cluster: *dass das Konzert … hat abgesagt werden müssen*. A simpler alternative is the Präteritum: *dass das Konzert abgesagt werden musste*."},
+      "examples": [
+        {"de": "Es ist ärgerlich, dass der Bericht dreimal hat überarbeitet werden müssen.", "en": "It is annoying that the report had to be revised three times."},
+        {"de": "Ich verstehe nicht, warum die Straße schon wieder hat aufgerissen werden müssen.", "en": "I don't understand why the road had to be dug up again."}
+      ],
+      "words": [{"de": "kurzfristig", "en": "at short notice"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Weil das Buchungssystem zusammengebrochen war, hatten Hunderte Fluggäste {{c1::umgebucht werden müssen::umbuchen · müssen}}.",
+      "en": "Because the booking system had crashed, hundreds of passengers had had to be rebooked.",
+      "focus": "Modalverb + Passiv · Plusquamperfekt",
+      "explanation": "The Plusquamperfekt follows the same pattern as the Perfekt, only with *hatten* instead of *haben*. The subject *Hunderte Fluggäste* is plural, so the finite verb is *hatten*; at the end stands the unchanged passive infinitive *umgebucht werden* + the Ersatzinfinitiv *müssen*: **umgebucht werden müssen**.",
+      "pattern": "hatte(n) + … + Partizip II + werden + Modalverb",
+      "mistake": {"wrong": "Weil das Buchungssystem zusammengebrochen war, hatten Hunderte Fluggäste umgebucht worden müssen.", "why": "*worden* is the participle of *werden* in the passive Perfekt without a modal. When a modal is added, *werden* stays an infinitive: *umgebucht werden müssen*."},
+      "examples": [
+        {"de": "Bis zum Abend hatten alle Schulen geschlossen werden müssen.", "en": "By the evening all schools had had to be closed."},
+        {"de": "Zum Glück hatte der Fehler noch vor der Auslieferung behoben werden können.", "en": "Luckily it had been possible to fix the defect before delivery."}
+      ],
+      "words": [{"de": "umbuchen", "en": "to rebook"}],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Sicherheitsmängel {{c1::hätten::haben}} viel früher behoben werden müssen.",
+      "en": "The safety defects should have been fixed much earlier.",
+      "focus": "Modalverb + Passiv · Konjunktiv II Vergangenheit",
+      "explanation": "*hätte(n)* + passive infinitive + *müssen* expresses that something necessary did not happen in the past (a reproach). The subject *die Sicherheitsmängel* is plural → **hätten**. The cluster is the same as in the indicative Perfekt: *behoben werden müssen*.",
+      "pattern": "hätte(n) + … + Partizip II + werden + Modalverb",
+      "mistake": {"wrong": "Die Sicherheitsmängel wären viel früher behoben werden müssen.", "why": "The auxiliary depends on the modal verb, and modals take *haben*: *hätten … müssen*. *wären* would only fit the passive without a modal: *wären behoben worden*."},
+      "examples": [
+        {"de": "Die Bürger hätten früher informiert werden müssen.", "en": "The citizens should have been informed earlier."},
+        {"de": "Der Unfall hätte mit einer besseren Beleuchtung verhindert werden können.", "en": "The accident could have been prevented with better lighting."}
+      ],
+      "words": [{"de": "der Mangel (¨)", "en": "defect, shortcoming"}, {"de": "beheben", "en": "to fix, to remedy"}],
+      "production_cue": "(Konjunktiv II, past)",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Ein Großteil der alten Heizungsanlagen wird in den nächsten Jahren {{c1::ausgetauscht werden müssen::austauschen · müssen}}.",
+      "en": "A large proportion of the old heating systems will have to be replaced in the next few years.",
+      "focus": "Modalverb + Passiv · Futur I",
+      "explanation": "Futur I: finite *wird* + infinitive. The infinitive here is the modal passive *ausgetauscht werden müssen*: Partizip II, passive *werden*, then the modal as the last verb. The subject *ein Großteil* is singular, so the finite verb is *wird*, even though *Heizungsanlagen* is plural.",
+      "pattern": "wird + … + Partizip II + werden + Modalverb",
+      "mistake": {"wrong": "Ein Großteil der alten Heizungsanlagen wird in den nächsten Jahren ausgetauscht müssen werden.", "why": "The verb that governs the others comes last: the modal *müssen* governs *ausgetauscht werden*, so the order is *ausgetauscht werden müssen*."},
+      "examples": [
+        {"de": "Die Pläne werden wohl noch einmal geändert werden müssen.", "en": "The plans will probably have to be changed once more."},
+        {"de": "Das Problem wird nicht so schnell gelöst werden können.", "en": "The problem will not be solvable so quickly."}
+      ],
+      "words": [{"de": "der Großteil", "en": "the greater part, the majority"}],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Die Beschäftigten bekommen ihr Gehalt jeweils zum Monatsende {{c1::überwiesen::überweisen}}.",
+      "en": "The employees have their salary transferred at the end of each month.",
+      "focus": "*bekommen*-Passiv · Präsens",
+      "explanation": "*überweisen* has a Dativ receiver (*den Beschäftigten*) and an Akkusativ (*das Gehalt*). In the *bekommen*-Passiv the receiver becomes the Nominativ subject, the Akkusativ stays, and the verb is *bekommen* + Partizip II: **überwiesen** (*über-* is inseparable here, so no *ge-*).",
+      "pattern": "Empfänger (Nom.) + bekommen + Akk. + Partizip II",
+      "mistake": {"wrong": "Die Beschäftigten werden ihr Gehalt jeweils zum Monatsende überwiesen.", "why": "In the werden-passive the receiver cannot be the subject; it must stay Dativ (*Den Beschäftigten wird das Gehalt überwiesen*). To make the receiver the subject, use *bekommen*."},
+      "examples": [
+        {"de": "Neue Mitarbeiter bekommen am ersten Tag einen Laptop gestellt.", "en": "New employees are provided with a laptop on their first day."},
+        {"de": "Die Fluggäste bekommen die Ticketkosten vollständig erstattet.", "en": "The passengers get the full cost of the tickets refunded."}
+      ],
+      "words": [{"de": "überweisen", "en": "to transfer (money)"}],
+      "production_cue": "(bekommen)",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "Zum Geburtstag {{c1::habe::haben}} ich ein Ticket für die Elbphilharmonie geschenkt bekommen.",
+      "en": "For my birthday I was given a ticket for the Elbphilharmonie.",
+      "focus": "*bekommen*-Passiv · Perfekt",
+      "explanation": "In the Perfekt of the *bekommen*-Passiv, *bekommen* behaves like a normal verb: it forms the Perfekt with *haben* (*ich habe bekommen*). The finite verb is therefore **habe**, and the end of the clause has Partizip II *geschenkt* + Partizip II *bekommen*.",
+      "pattern": "haben + … + Partizip II + bekommen",
+      "mistake": {"wrong": "Zum Geburtstag bin ich ein Ticket für die Elbphilharmonie geschenkt bekommen.", "why": "*sein* comes from the werden-passive (*ist geschenkt worden*). The *bekommen*-Passiv uses the auxiliary of *bekommen*, which is *haben*."},
+      "examples": [
+        {"de": "Sie hat vom Arbeitgeber einen Sprachkurs bezahlt bekommen.", "en": "She had a language course paid for by her employer."},
+        {"de": "Wir haben die Unterlagen erst gestern zugeschickt bekommen.", "en": "We only had the documents sent to us yesterday."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt, bekommen)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Der Fahrer {{c1::bekam::bekommen}} noch am Unfallort den Führerschein entzogen.",
+      "en": "The driver had his licence taken away at the scene of the accident.",
+      "focus": "*bekommen*-Passiv · Verlust · Präteritum",
+      "explanation": "The *bekommen*-Passiv is not only for pleasant things: it works with every verb that has a Dativ receiver and an Akkusativ, also *entziehen, wegnehmen, abziehen*. The receiver *der Fahrer* is the subject, so the finite verb is a form of *bekommen*: Präteritum **bekam**.",
+      "pattern": "Subjekt (Nom.) + bekam + Akk. + Partizip II",
+      "mistake": {"wrong": "Der Fahrer wurde noch am Unfallort den Führerschein entzogen.", "why": "With *wurde* the receiver must stay Dativ and the licence becomes the subject: *Dem Fahrer wurde der Führerschein entzogen.* With the Nominativ *der Fahrer* you need *bekam*."},
+      "examples": [
+        {"de": "Der Verein bekam wegen Lizenzverstößen drei Punkte abgezogen.", "en": "The club had three points deducted for licensing violations."},
+        {"de": "Er bekam am Flughafen sein Taschenmesser abgenommen.", "en": "He had his pocket knife taken off him at the airport."}
+      ],
+      "words": [{"de": "entziehen + Dat.", "en": "to withdraw, to take away (from someone)"}],
+      "production_cue": "(bekommen-passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Alle Teilnehmenden erhalten das Zertifikat nach Abschluss des Kurses per Post {{c1::zugeschickt::zuschicken}}.",
+      "en": "All participants will be sent the certificate by post after completing the course.",
+      "focus": "*erhalten*-Passiv · formelles Register",
+      "explanation": "In formal and written German, *erhalten* replaces *bekommen* in this passive (in speech also *kriegen*). The receiver *alle Teilnehmenden* is the Nominativ subject, *das Zertifikat* stays Akkusativ. Separable *zuschicken* has *ge* inside the participle: **zugeschickt**.",
+      "pattern": "Empfänger (Nom.) + erhalten + Akk. + Partizip II",
+      "mistake": {"wrong": "Allen Teilnehmenden erhalten das Zertifikat nach Abschluss des Kurses per Post zugeschickt.", "why": "*Allen Teilnehmenden* is Dativ, which belongs to the werden-passive (*Allen Teilnehmenden wird das Zertifikat zugeschickt*). With *erhalten* the receiver is the subject in the Nominativ: *Alle Teilnehmenden*."},
+      "examples": [
+        {"de": "Die Mitglieder erhalten die Zeitschrift kostenlos zugesandt.", "en": "Members receive the magazine free of charge by post."},
+        {"de": "Bewerberinnen und Bewerber erhalten die Reisekosten in voller Höhe erstattet.", "en": "Applicants have their travel costs reimbursed in full."}
+      ],
+      "words": [{"de": "die Teilnehmenden", "en": "participants"}],
+      "production_cue": "(formal, erhalten)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "Nach der Fusion {{c1::haben sich::sich verschlechtern · Perfekt}} die Arbeitsbedingungen deutlich verschlechtert.",
+      "en": "After the merger, working conditions got considerably worse.",
+      "focus": "Reflexivverb · kein Passiv",
+      "explanation": "*sich verschlechtern* describes a process that happens to the subject without an agent, and reflexive verbs have no werden-passive. Use the active: Perfekt with *haben* (as with all reflexive verbs) → **haben sich**, plural because *die Arbeitsbedingungen* is the subject.",
+      "pattern": "haben + sich + … + Partizip II (aktiv, kein Passiv)",
+      "mistake": {"wrong": "Nach der Fusion wurden sich die Arbeitsbedingungen deutlich verschlechtert.", "why": "A reflexive verb cannot be put into the werden-passive: *sich* and *werden* + Partizip II do not combine. The process is expressed in the active: *haben sich verschlechtert*."},
+      "examples": [
+        {"de": "Seit der Reform hat sich die Versorgung auf dem Land verbessert.", "en": "Since the reform, healthcare in rural areas has improved."},
+        {"de": "Die Lage hat sich inzwischen etwas beruhigt.", "en": "The situation has calmed down a little in the meantime."}
+      ],
+      "words": [{"de": "die Fusion (-en)", "en": "merger"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "Für das Projekt {{c1::hat::Hilfsverb}} das Institut eine Million Euro bekommen.",
+      "en": "The institute received one million euros for the project.",
+      "focus": "*bekommen* als Vollverb · kein Passiv",
+      "explanation": "As a full verb, *bekommen* (to receive) already has the receiver as its subject; the giver does not appear. Such verbs have no werden-passive, even if English uses *was received by*. The sentence stays active: Perfekt with **hat**.",
+      "pattern": "Empfänger (Subjekt) + hat + … + bekommen (aktiv)",
+      "mistake": {"wrong": "Für das Projekt wurde eine Million Euro vom Institut bekommen.", "why": "*bekommen, erhalten, haben, besitzen* have no werden-passive. The English *was received by the institute* is said in the active: *Das Institut hat eine Million Euro bekommen.*"},
+      "examples": [
+        {"de": "Die Schule hat vom Land neue Tablets bekommen.", "en": "The school received new tablets from the state."},
+        {"de": "Unser Team hat für die Studie einen Preis erhalten.", "en": "Our team received an award for the study."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Der Unfall {{c1::ist::Hilfsverb}} kurz nach Mitternacht auf der A7 passiert.",
+      "en": "The accident happened shortly after midnight on the A7.",
+      "focus": "intransitives *sein*-Verb · kein Passiv",
+      "explanation": "*passieren* (to happen) has no Akkusativ object and no agent who does it, and it forms the Perfekt with *sein*. Such verbs have neither a personal nor an impersonal passive. The normal active Perfekt is **ist** … *passiert*.",
+      "pattern": "Subjekt + ist + … + Partizip II (sein-Verb, aktiv)",
+      "mistake": {"wrong": "Der Unfall wurde kurz nach Mitternacht auf der A7 passiert.", "why": "*passieren* is intransitive and has no agent, so there is nothing to passivise. *wurde passiert* is a transfer from wrong English *was happened*; correct is *ist passiert* (or *passierte*)."},
+      "examples": [
+        {"de": "Die Delegation ist erst gegen Mitternacht in Brüssel angekommen.", "en": "The delegation only arrived in Brussels around midnight."},
+        {"de": "Der Wasserstand ist über Nacht um einen Meter gestiegen.", "en": "The water level rose by one metre overnight."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "Auf der Abschiedsfeier {{c1::hatten::haben}} alle sehr viel Spaß.",
+      "en": "Everyone had a great time at the farewell party.",
+      "focus": "*haben* als Vollverb · kein Passiv",
+      "explanation": "*Spaß haben* describes an experience, not an action done to someone, and *haben* has no werden-passive. The sentence stays active: *alle* is the plural subject → Präteritum **hatten**.",
+      "pattern": "Subjekt + haben + Akk. (aktiv)",
+      "mistake": {"wrong": "Auf der Abschiedsfeier wurde von allen sehr viel Spaß gehabt.", "why": "This copies the English *A good time was had by all*. *haben* cannot form a passive in German; use the active: *Alle hatten viel Spaß.*"},
+      "examples": [
+        {"de": "Die Kinder hatten im Zeltlager eine tolle Zeit.", "en": "The children had a great time at the camp."},
+        {"de": "Viele Haushalte haben noch keinen Glasfaseranschluss.", "en": "Many households still don't have a fibre-optic connection."}
+      ],
+      "words": [{"de": "die Abschiedsfeier (-n)", "en": "farewell party"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the impersonal passive.",
+      "prompt": "What is the impersonal passive, and when do you need *es* in it?",
+      "answer": "*werden* (always **3rd person singular**) + Partizip II **without any subject**, for verbs that have no Akkusativ object (*arbeiten, tanzen, helfen, warten auf*). *es* appears **only in the Vorfeld**, when no other element is in position 1; otherwise it is left out.",
+      "explanation": "The impersonal passive focuses on the activity itself. *es* is a pure position filler, not a subject: *Es wird viel gelesen* → *In Schulen wird viel gelesen* → *…, dass viel gelesen wird*. Only verbs with an acting person can form it; verbs like *ankommen* or *passieren* cannot.",
+      "examples": [
+        {"de": "Es wird in den Schulen viel zu wenig gelesen.", "en": "Far too little reading is done in schools."},
+        {"de": "In den Schulen wird viel zu wenig vorgelesen.", "en": "Far too little reading aloud is done in schools."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the rule for Dativ objects in the passive.",
+      "prompt": "Why is it *Mir wurde geholfen* and not *Ich wurde geholfen*?",
+      "answer": "Only an **Akkusativ** object can become the subject of a werden-passive. *helfen* has a **Dativ** object, which stays Dativ. Because there is no subject, the verb is 3rd person singular: *mir/dir/ihm/uns … wurde geholfen*.",
+      "explanation": "The same applies to all Dativ verbs (*danken, gratulieren, folgen, widersprechen, kündigen*) and to the Dativ of verbs with two objects (*Mir wurde ein Job angeboten*). If you want the receiver as the subject, use the *bekommen*-Passiv where it is possible: *Ich bekam einen Job angeboten.*",
+      "examples": [
+        {"de": "Dem Verletzten wurde sofort Erste Hilfe geleistet.", "en": "The injured man was given first aid immediately."},
+        {"de": "Ihr wurde zum Dienstjubiläum herzlich gratuliert.", "en": "She was warmly congratulated on her work anniversary."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference between the prepositions.",
+      "prompt": "When do you use *von*, *durch* and *mit* in a passive sentence?",
+      "answer": "**von** + Dativ: the agent who acts (person, institution, group). **durch** + Akkusativ: the means, measure or cause through which something happens (*durch eine Reform, durch einen Kurzschluss*), also an intermediary. **mit** + Dativ: a tool someone uses.",
+      "explanation": "Test: could it be the subject of the active sentence as the one who acts? Then *von*. Is it a process, event or measure? Then *durch*. Is it an object in someone's hand? Then *mit*. With natural forces both are used (*vom Sturm / durch den Sturm beschädigt*); official texts also use *durch* for authorities (*durch das Amt genehmigt*).",
+      "examples": [
+        {"de": "Die Siedlung wurde im 12. Jahrhundert von Mönchen gegründet.", "en": "The settlement was founded by monks in the 12th century."},
+        {"de": "Die Siedlung wurde im 17. Jahrhundert durch ein Erdbeben zerstört.", "en": "The settlement was destroyed by an earthquake in the 17th century."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Give the forms of the modal passive.",
+      "prompt": "Put *Die Heizung muss repariert werden* into the Präteritum, Perfekt, Futur I and Konjunktiv II Vergangenheit.",
+      "answer": "Präteritum: *Die Heizung **musste** repariert werden.* · Perfekt: *Die Heizung **hat** repariert werden **müssen**.* · Futur I: *Die Heizung **wird** repariert werden **müssen**.* · Konjunktiv II Vergangenheit: *Die Heizung **hätte** repariert werden **müssen**.*",
+      "explanation": "The passive infinitive *repariert werden* never changes; only the modal and its auxiliary show tense. In the Perfekt the auxiliary is always *haben* (because of the modal) and the modal appears as Ersatzinfinitiv. In a Nebensatz the finite auxiliary comes before the cluster: *dass die Heizung hat repariert werden müssen*.",
+      "examples": [
+        {"de": "Die Heizung hat im Januar zweimal repariert werden müssen.", "en": "The heating had to be repaired twice in January."},
+        {"de": "Ich weiß nicht, warum die Software so oft hat aktualisiert werden müssen.", "en": "I don't know why the software had to be updated so often."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the bekommen-passive.",
+      "prompt": "How is the *bekommen*-Passiv formed, and with which verbs can you use it?",
+      "answer": "*bekommen* (formal *erhalten*, colloquial *kriegen*) + Partizip II. The **Dativ receiver** of the active sentence becomes the **Nominativ subject**; the Akkusativ stays. It works with verbs of giving and taking that have Dativ + Akkusativ: *schenken, schicken, überweisen, erstatten, anbieten, entziehen, abziehen*.",
+      "explanation": "Compare: *Man schickt ihm das Paket* → werden-passive *Ihm wird das Paket geschickt* → bekommen-passive *Er bekommt das Paket geschickt*. The Perfekt uses *haben*: *Er hat das Paket geschickt bekommen*. With pure Dativ verbs like *helfen* it is colloquial only (*Er bekommt geholfen*); in standard German say *Ihm wird geholfen*.",
+      "examples": [
+        {"de": "Er bekommt die neuen Möbel nächste Woche geliefert.", "en": "He is getting the new furniture delivered next week."},
+        {"de": "Sie hat den Fehler sofort erklärt bekommen.", "en": "She had the mistake explained to her straight away."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "concept",
+      "instruction": "Explain when the passive is not possible.",
+      "prompt": "Which kinds of verbs have no werden-passive?",
+      "answer": "Verbs without an acting agent: **haben, besitzen, bekommen, erhalten** (= to receive), **kosten, wiegen** (= to have a weight of), *es gibt*; **reflexive verbs** (*sich freuen, sich verbessern*); and **intransitive verbs with *sein*** in the Perfekt (*ankommen, passieren, sterben, einschlafen*).",
+      "explanation": "The passive needs an action that someone does. With *bekommen* the receiver is already the subject; with *sein*-verbs and reflexive verbs the subject undergoes a process with no other agent. Such sentences stay active, even when English uses a passive-looking form.",
+      "examples": [
+        {"de": "Ich habe gestern eine Mahnung vom Finanzamt bekommen.", "en": "I received a reminder from the tax office yesterday."},
+        {"de": "Die Lieferung ist mit drei Tagen Verspätung angekommen.", "en": "The delivery arrived three days late."}
+      ]
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite in the passive without *man*. Start with: In der Pflege",
+      "prompt": "In der Pflege arbeitet man oft auch nachts und am Wochenende.",
+      "answer": "In der Pflege wird oft auch nachts und am Wochenende gearbeitet.",
+      "explanation": "*arbeiten* has no Akkusativ object, so the passive is impersonal: no subject, *wird* in the 3rd person singular, Partizip II *gearbeitet* at the end. *In der Pflege* fills the Vorfeld, so there is no *es*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite in the passive (Perfekt). Start with: Es",
+      "prompt": "Auf der Hochzeit hat man bis zum Morgengrauen getanzt.",
+      "answer": "Es ist auf der Hochzeit bis zum Morgengrauen getanzt worden.",
+      "explanation": "Impersonal passive in the Perfekt: *ist* + Partizip II + *worden*. Because the sentence must start with *Es*, the filler fills the Vorfeld. Without it: *Auf der Hochzeit ist bis zum Morgengrauen getanzt worden.*"
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite in the passive (Präteritum). Keep the agent.",
+      "prompt": "Die Nachbarn halfen uns beim Umzug.",
+      "answer": "Uns wurde von den Nachbarn beim Umzug geholfen.",
+      "explanation": "*helfen* takes the Dativ, so *uns* stays Dativ and there is no subject: *wurde* (3rd person singular). The former subject becomes the agent with *von* + Dativ: *von den Nachbarn*."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in the passive (Perfekt).",
+      "prompt": "Man musste die Veranstaltung wegen des Sturms absagen.",
+      "answer": "Die Veranstaltung hat wegen des Sturms abgesagt werden müssen.",
+      "explanation": "The Akkusativ object *die Veranstaltung* becomes the subject. Modal passive in the Perfekt: *hat* (the modal takes *haben*) + passive infinitive *abgesagt werden* + Ersatzinfinitiv *müssen*. In practice the Präteritum *musste … abgesagt werden* is more common."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Rewrite with the *bekommen*-Passiv.",
+      "prompt": "Den Kunden wird der volle Kaufpreis erstattet.",
+      "answer": "Die Kunden bekommen den vollen Kaufpreis erstattet.",
+      "explanation": "The Dativ receiver *den Kunden* becomes the Nominativ subject *die Kunden*, and the verb is *bekommen* (plural). The former subject *der volle Kaufpreis* becomes the Akkusativ object again: *den vollen Kaufpreis*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich wurde von meinem Kollegen bei der Steuererklärung geholfen.",
+      "answer": "Mir wurde von meinem Kollegen bei der Steuererklärung geholfen.",
+      "explanation": "*helfen* takes a Dativ object, and a Dativ object stays Dativ in the passive. So it must be *Mir wurde geholfen*, not the Nominativ *ich*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Gestern wurde es im Bundestag lange über das Rentenpaket debattiert.",
+      "answer": "Gestern wurde im Bundestag lange über das Rentenpaket debattiert.",
+      "explanation": "In the impersonal passive *es* only fills an empty Vorfeld. Here *Gestern* is already in position 1, so *es* must be left out."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Vertrag hat noch vom Vorstand unterschrieben werden gemusst.",
+      "answer": "Der Vertrag hat noch vom Vorstand unterschrieben werden müssen.",
+      "explanation": "When a modal verb governs another infinitive, its Perfekt uses the Ersatzinfinitiv: *müssen*, not *gemusst*. The passive infinitive *unterschrieben werden* stays before it."
+    },
+    {
+      "key": "d15",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Schaufensterscheibe wurde in der Nacht von einem Pflasterstein eingeworfen.",
+      "answer": "Die Schaufensterscheibe wurde in der Nacht mit einem Pflasterstein eingeworfen.",
+      "explanation": "*einwerfen* needs someone who throws; the stone is the tool, not the agent. A tool takes *mit* + Dativ. *von* is only for the one who acts (*von Unbekannten eingeworfen*)."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Dem Bewerber ___ telefonisch mitgeteilt, dass die Stelle schon besetzt ist.",
+      "options": ["wurde", "wurden", "hat", "ist"],
+      "correct": "wurde",
+      "answer": "Dem Bewerber wurde telefonisch mitgeteilt, dass die Stelle schon besetzt ist.",
+      "explanation": "*Dem Bewerber* is Dativ and stays Dativ; the subject is the *dass*-clause, which counts as 3rd person singular → *wurde*. *wurden* would need a plural subject. *hat … mitgeteilt* would be an active Perfekt, which needs a subject, and the passive Perfekt *ist … mitgeteilt worden* would need *worden*."
+    },
+    {
+      "key": "d17",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Die Kosten konnten ___ eine bessere Planung deutlich gesenkt werden.",
+      "options": ["durch", "von", "für", "aus"],
+      "correct": "durch",
+      "answer": "Die Kosten konnten durch eine bessere Planung deutlich gesenkt werden.",
+      "explanation": "Better planning is the means by which the costs were lowered → *durch* + Akkusativ (*eine bessere Planung*). *von* would present planning as the actor and needs the Dativ (*einer*). *für* means 'for the benefit of', and *aus* takes the Dativ and expresses origin."
+    },
+    {
+      "key": "d18",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Die Wohnung ___ letzten Monat endlich renoviert werden können.",
+      "options": ["hat", "ist", "wurde", "wird"],
+      "correct": "hat",
+      "answer": "Die Wohnung hat letzten Monat endlich renoviert werden können.",
+      "explanation": "The end of the clause is *renoviert werden können*: passive infinitive + modal as Ersatzinfinitiv → this is the Perfekt of a modal passive, which takes *haben*. *ist* is wrong because the modal decides the auxiliary, and modals take *haben*. *wird* would make the sentence Futur I, which clashes with *letzten Monat*, and *wurde* cannot govern the cluster *renoviert werden können*."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich ärgere mich,",
+      "prompt": "ich ärgere mich, / dass / die Rechnung / hat / korrigiert / werden / müssen / zweimal",
+      "answer": "Ich ärgere mich, dass die Rechnung zweimal hat korrigiert werden müssen.",
+      "explanation": "In a *dass*-clause with an Ersatzinfinitiv, the finite *hat* stands before the whole cluster *korrigiert werden müssen*. The adverb *zweimal* stays in the Mittelfeld before *hat*. Alternative with the Präteritum: *dass die Rechnung zweimal korrigiert werden musste*."
+    },
+    {
+      "key": "d20",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Es",
+      "prompt": "diskutiert / es / bis spät in die Nacht / wurde",
+      "answer": "Es wurde bis spät in die Nacht diskutiert.",
+      "explanation": "Impersonal passive: *es* fills the Vorfeld, *wurde* is in position 2, Partizip II *diskutiert* at the end. If *Bis spät in die Nacht* starts the sentence, *es* disappears: *Bis spät in die Nacht wurde diskutiert.*"
+    },
+    {
+      "key": "d21",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause.",
+      "prompt": "Das ist die Kollegin. Ihr wurde letzte Woche gekündigt.",
+      "answer": "Das ist die Kollegin, der letzte Woche gekündigt wurde.",
+      "explanation": "*Ihr* is a feminine Dativ, and the Dativ stays in the passive, so the relative pronoun is the feminine Dativ *der*. The clause has no subject; *wurde* goes to the end of the relative clause."
+    }
+  ]
+}

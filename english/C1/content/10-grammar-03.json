@@ -1,0 +1,1356 @@
+{
+  "part_id": "10-grammar-03",
+  "category": "grammar",
+  "entries": [
+    {
+      "id": "first-conditional-if-it-rains-we-ll-stay-in",
+      "term": "first conditional: If it rains, we'll stay in",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* + present simple, *will* + verb talks about a real possibility in the future and its likely result: *If it rains, we'll stay in*.",
+      "usage": "The most common conditional in speech and writing, used for plans, warnings and promises. The *if*-clause takes the present simple even though it refers to the future; *will* goes only in the result clause. The clauses can change places, and then no comma is needed: *We'll stay in if it rains*.",
+      "pattern": "If + present simple, will / won't + base verb",
+      "examples": [
+        "**If** you **text** me your address, **I'll pick** you up at seven.",
+        "**If** you **don't put on** sunscreen, **you'll get** a terrible sunburn.",
+        "**If** the city **approves** the plan, the new bike lanes **will open** next spring."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If it snows}} tomorrow, the schools will probably close.",
+        "hint": "Make a real condition: It might snow tomorrow. In that case, the schools will probably close."
+      },
+      "mistake": {
+        "wrong": "If it will rain tomorrow, we'll stay home.",
+        "right": "If it rains tomorrow, we'll stay home.",
+        "why": "In the *if*-clause, the present simple refers to the future; *will* goes in the result clause."
+      }
+    },
+    {
+      "id": "second-conditional-if-i-had-more-time-i-d-travel",
+      "term": "second conditional: If I had more time, I'd travel",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* + past simple, *would* + verb imagines a situation that is unreal now or unlikely in the future, and its result: *If I had more time, I'd travel*.",
+      "usage": "Very common for wishes, advice and imagined situations. The past tense here does not mean past time; it marks distance from reality. With *be*, *If I were* is standard in writing and fixed in *If I were you*, but *If I was* is very common in American speech.",
+      "pattern": "If + past simple, would ('d) + base verb",
+      "examples": [
+        "**If I lived** closer to work, **I'd bike** there every day.",
+        "**If I were** you, **I'd talk** to the landlord about that leak.",
+        "**If** rents **weren't** so high, more young families **would stay** in the city."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If I had}} a bigger kitchen, I'd cook for friends more often.",
+        "hint": "Make an unreal condition: I don't have a bigger kitchen, so I don't cook for friends very often."
+      },
+      "mistake": {
+        "wrong": "If I had a car, I will drive you to the airport.",
+        "right": "If I had a car, I'd drive you to the airport.",
+        "why": "A past verb in the *if*-clause marks an unreal situation, so the result needs *would*, not *will*."
+      }
+    },
+    {
+      "id": "past-not-would-after-if-if-i-knew-i-d-tell-you",
+      "term": "past, not would, after if: If I knew, I'd tell you",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In an unreal present or future condition, the *if*-clause takes the past simple, not *would*: *If I knew, I'd tell you*, not *If I would know*.",
+      "usage": "*Would* belongs in the result clause; the past tense in the *if*-clause already shows that the situation is imagined. Many languages use a *would*-form in both clauses (colloquial German *würde*), so this error is very common. *If you would* … is correct only in a separate pattern, a polite request meaning *if you are willing*.",
+      "pattern": "If + past simple (not would), would + base verb",
+      "examples": [
+        "**If I knew** her number, **I'd call** her myself.",
+        "**If** the bus **came** more often, **I wouldn't need** a car.",
+        "I'd enjoy my job a lot more **if** my manager **gave** clearer feedback."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I'd tell you the answer {{if I knew}} it.",
+        "hint": "Fix the if-clause, keeping would only in the result: I'd tell you the answer if I would know it."
+      },
+      "mistake": {
+        "wrong": "If I would know the answer, I would tell you.",
+        "right": "If I knew the answer, I would tell you.",
+        "why": "*Would* goes only in the result clause; the *if*-clause takes the past simple."
+      }
+    },
+    {
+      "id": "third-conditional-if-i-had-known-i-would-have-come",
+      "term": "third conditional: If I had known, I would have come",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* + past perfect, *would have* + past participle imagines a different past and its result: *If I had known, I would have come*.",
+      "usage": "Used for regrets, criticism and relief about things that cannot change. In speech both parts are contracted: *If I'd known, I'd have come*. *If I would have known* is very common in casual American speech, but it is nonstandard and is corrected in writing.",
+      "pattern": "If + past perfect, would have + past participle",
+      "examples": [
+        "**If** we **had left** ten minutes earlier, we **would have caught** the train.",
+        "**If** the neighbors **hadn't smelled** smoke, the whole building **would have burned** down.",
+        "**If I'd known** you were vegetarian, **I would have made** something else."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If you {{had told}} me about the party, I would have come.",
+        "hint": "Make an unreal past condition: You didn't tell me about the party, so I didn't come."
+      },
+      "mistake": {
+        "wrong": "If I would have known about the traffic, I would have left earlier.",
+        "right": "If I had known about the traffic, I would have left earlier.",
+        "why": "In standard English the *if*-clause takes the past perfect; *would have* goes only in the result clause."
+      }
+    },
+    {
+      "id": "first-vs-second-conditional-if-i-get-the-job-if-i-got-the-jo",
+      "term": "first vs. second conditional: If I get the job / If I got the job",
+      "label": "confusable pair",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The first conditional (*If I get the job*) treats a situation as a real possibility; the second (*If I got the job*) treats it as unlikely or only imagined.",
+      "usage": "The choice shows how likely the speaker thinks the situation is. Use the first for things you expect or plan for (*If I get the job, we'll move*), and the second for dreams, doubts or polite distance (*If I got the job, we'd move, but I doubt it*). Keep the two halves matched: present + *will*, or past + *would*.",
+      "pattern": "real: If + present, will + verb / imagined: If + past, would + verb",
+      "examples": [
+        "**If I get** the job, **we'll move** to Denver in March.",
+        "**If I got** an offer from a big tech company, **I'd** probably **take** it, but I'm not counting on it.",
+        "**If** we **win** on Saturday, **we'll make** the playoffs."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If I got the job, I'd move}} to Tokyo.",
+        "hint": "Make it sound unlikely, only imagined: If I get the job, I'll move to Tokyo."
+      },
+      "mistake": {
+        "wrong": "If I get the job, I would move to Denver.",
+        "right": "If I get the job, I'll move to Denver.",
+        "why": "Don't mix the two: a real possibility takes present + *will*, an imagined one past + *would* (*If I got the job, I'd move*)."
+      }
+    },
+    {
+      "id": "present-simple-passive-coffee-is-grown-in-brazil",
+      "term": "present simple passive: Coffee is grown in Brazil",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Am / is / are* + past participle describes facts, routines and processes when the doer is unknown, obvious or unimportant: *Coffee is grown in Brazil*.",
+      "usage": "Very common in descriptions of processes, rules, products and places (*Tickets are sold at the door*), on signs and in science writing. It moves the focus to the thing affected. In conversation, Americans often prefer an active sentence with *they* or *you*: *They grow coffee in Brazil*.",
+      "pattern": "am / is / are + past participle",
+      "examples": [
+        "Most of the world's maple syrup **is produced** in Quebec.",
+        "Breakfast **is served** from six to ten in the lobby.",
+        "Blood samples **are stored** at minus eighty degrees until they're analyzed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "In our building, the trash {{is collected}} every Tuesday and Friday.",
+        "hint": "Rewrite in the passive: In our building, someone collects the trash every Tuesday and Friday."
+      },
+      "mistake": {
+        "wrong": "English is speaking in many countries.",
+        "right": "English is spoken in many countries.",
+        "why": "The passive needs the past participle (*spoken*); *is speaking* is the active progressive and means English itself is talking."
+      }
+    },
+    {
+      "id": "past-simple-passive-the-bridge-was-built-in-1890",
+      "term": "past simple passive: The bridge was built in 1890",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Was / were* + past participle describes a past event when the result or the thing affected matters more than who did it: *The bridge was built in 1890*.",
+      "usage": "Very common in history, news and reports (*Two people were injured*) and when the doer is unknown (*My bike was stolen*). Add *by* + agent only when the doer is new or important. Verbs without an object, such as *happen*, *arrive* and *die*, have no passive.",
+      "pattern": "was / were + past participle",
+      "examples": [
+        "The Golden Gate Bridge **was completed** in 1937.",
+        "Two people **were injured** when a tree fell on Main Street last night.",
+        "All the cookies **were eaten** before I even got to the party."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our flight {{was delayed}} because of fog in San Francisco.",
+        "hint": "Rewrite in the passive: The airline delayed our flight because of fog in San Francisco."
+      },
+      "mistake": {
+        "wrong": "The accident was happened on the highway.",
+        "right": "The accident happened on the highway.",
+        "why": "*Happen* has no object, so it cannot be made passive."
+      }
+    },
+    {
+      "id": "present-perfect-passive-the-meeting-has-been-canceled",
+      "term": "present perfect passive: The meeting has been canceled",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Has / have been* + past participle reports a recent change or news whose result matters now, without saying who caused it: *The meeting has been canceled*.",
+      "usage": "Very common in announcements, emails and the news (*Your order has been shipped*). Like the active present perfect, it is not used with a finished past time; with *yesterday* or *last week*, switch to the past simple passive. In casual American speech the past simple often replaces it: *The meeting got canceled*.",
+      "pattern": "has / have been + past participle",
+      "examples": [
+        "Your package **has been shipped** and should arrive on Thursday.",
+        "Several downtown streets **have been closed** for the parade.",
+        "A new principal **has been appointed** at Lincoln High School."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Good news: your loan application {{has been approved}}.",
+        "hint": "Rewrite in the passive: Good news: the bank has approved your loan application."
+      },
+      "mistake": {
+        "wrong": "The meeting has been canceled yesterday.",
+        "right": "The meeting was canceled yesterday.",
+        "why": "With a finished past time like *yesterday*, use the past simple passive, not the present perfect."
+      }
+    },
+    {
+      "id": "present-continuous-passive-the-room-is-being-cleaned",
+      "term": "present continuous passive: The room is being cleaned",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Am / is / are being* + past participle describes an action that is happening to something right now or around now: *The room is being cleaned*.",
+      "usage": "Common in explanations and notices (*Your call is being transferred*, *The road is being repaired*). Compare *The room is cleaned every day* (a routine) with *The room is being cleaned* (in progress now). Learners often confuse *being* and *been* in writing; *been* always comes after a form of *have*.",
+      "pattern": "am / is / are + being + past participle",
+      "examples": [
+        "The elevator **is being repaired**, so you'll have to take the stairs.",
+        "Your call **is being transferred** to a specialist; please stay on the line.",
+        "A new hospital **is being built** on the east side of town."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We can't park in our driveway right now because it {{is being repaved}}.",
+        "hint": "Rewrite in the passive: We can't park in our driveway right now because a crew is repaving it."
+      },
+      "mistake": {
+        "wrong": "The kitchen is been painted, so we're eating out tonight.",
+        "right": "The kitchen is being painted, so we're eating out tonight.",
+        "why": "The progressive passive uses *being*; *been* always comes after a form of *have*."
+      }
+    },
+    {
+      "id": "future-passive-the-results-will-be-announced-on-monday",
+      "term": "future passive: The results will be announced on Monday",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Will be* + past participle describes a future action when the doer is not the focus, typically in plans and official announcements: *The results will be announced on Monday*.",
+      "usage": "Typical of formal notices, emails and the news (*The road will be closed overnight*). *Is going to be* + past participle is the more spoken alternative (*The house is going to be sold*). For fixed timetables, the present passive also works: *The winners are announced at noon*.",
+      "pattern": "will be + past participle / be going to be + past participle",
+      "examples": [
+        "The winners **will be announced** at the end of the evening.",
+        "Your old meter **will be replaced** sometime next week, according to the power company.",
+        "Some trains **will be replaced** by buses over the holiday weekend."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "All passengers {{will be asked}} to show their boarding passes at the gate.",
+        "hint": "Rewrite in the passive: Staff will ask all passengers to show their boarding passes at the gate."
+      },
+      "mistake": {
+        "wrong": "The new schedule will be publish next week.",
+        "right": "The new schedule will be published next week.",
+        "why": "After *will be*, use the past participle; the *-ed* is easy to miss in speech, but it must be written."
+      }
+    },
+    {
+      "id": "passive-with-modals-it-must-be-done-today",
+      "term": "passive with modals: It must be done today",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Modal + *be* + past participle is the passive with *can*, *must*, *should*, *may* and *might*: *It must be done today*, *It can be found online*.",
+      "usage": "Common in rules, instructions and formal emails (*Forms must be signed by both parents*). It focuses on the task rather than the person, which can sound impersonal; in speech, an active sentence with *you* or *we* is often friendlier. As with all modals, no *to* follows: *must be*, not *must to be*.",
+      "pattern": "can / must / should / may / might + be + past participle",
+      "examples": [
+        "Seat belts **must be worn** at all times, even in the back seat.",
+        "This medicine **should be taken** with food.",
+        "Tickets **can be purchased** at the station or through the app."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Phones {{must be turned off}} during the exam.",
+        "hint": "Rewrite in the passive with must: You must turn off your phones during the exam."
+      },
+      "mistake": {
+        "wrong": "All luggage must to be checked at the counter.",
+        "right": "All luggage must be checked at the counter.",
+        "why": "Modals are followed directly by *be*, never by *to be*."
+      }
+    },
+    {
+      "id": "passive-with-two-objects-i-was-given-a-laptop",
+      "term": "passive with two objects: I was given a laptop",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "With verbs that take two objects (*give*, *send*, *offer*, *show*, *tell*), the person usually becomes the subject of the passive: *I was given a laptop*.",
+      "usage": "This person-first passive is the natural choice in speech and writing (*She was offered the job*, *We were told to wait*). The thing-first version (*A laptop was given to me*) is possible but less common. Verbs like *explain*, *describe* and *suggest* do not take two objects, so the person cannot become their passive subject.",
+      "pattern": "person + be + given / offered / told / shown / sent + thing",
+      "examples": [
+        "On my first day, I **was given** a badge and a parking pass.",
+        "She **was offered** a full scholarship to study in Michigan.",
+        "We **were told** to wait in the lobby until our names were called."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Every new patient {{is sent}} a short questionnaire before the first visit.",
+        "hint": "Rewrite in the passive, with the patient as subject: The clinic sends every new patient a short questionnaire before the first visit."
+      },
+      "mistake": {
+        "wrong": "I was explained the rules by the manager.",
+        "right": "The rules were explained to me by the manager.",
+        "why": "*Explain* cannot take the person as a direct object, so the person cannot become the passive subject."
+      }
+    },
+    {
+      "id": "get-passive-he-got-fired",
+      "term": "get-passive: He got fired",
+      "label": "grammar",
+      "say_term": false,
+      "register": "informal",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Get* + past participle is an informal passive for changes and events, often sudden, unexpected or unpleasant: *He got fired*, *She got hurt*.",
+      "usage": "Very common in American conversation (*got hired*, *got stuck*, *got canceled*), and it often stresses what happened to the subject. In formal writing, use *be*: *He was fired*. *Get* works only for actions and changes, not for states (*The house is owned by the bank*, not *gets owned*).",
+      "pattern": "get / got + past participle",
+      "examples": [
+        "Marcus **got laid off** in March, but he found something better within weeks.",
+        "Our connecting flight **got canceled**, so we spent the night in Dallas.",
+        "Two players **got hurt** in the first half, and the team never recovered."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Be careful on that ladder; you could {{get hurt}}.",
+        "hint": "Rewrite informally with get: Be careful on that ladder; you could be hurt."
+      },
+      "mistake": {
+        "wrong": "(in a formal report) The proposal got rejected by the finance committee in March.",
+        "right": "The proposal was rejected by the finance committee in March.",
+        "why": "The *get*-passive is not wrong, but it is informal; formal writing uses *be* + past participle."
+      }
+    },
+    {
+      "id": "reported-statements-with-backshift-she-said-she-was-tired",
+      "term": "reported statements with backshift: She said she was tired",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a past reporting verb like *said* or *told*, the tense of the reported words usually moves one step back: *\"I'm tired\"* becomes *She said she was tired*.",
+      "usage": "The normal pattern in storytelling and reports. *Say* is not followed directly by a person (*She said she was tired*, or *said to me*), while *tell* needs one (*She told me she was tired*). *That* after the reporting verb is optional and usually left out in speech.",
+      "pattern": "said (that) / told + person + (that) + clause one tense back",
+      "examples": [
+        "Jen **said she was** too busy to come to the barbecue.",
+        "The doctor **told me** my blood pressure **was** a little high.",
+        "The mechanic **said** the part **didn't need** replacing after all."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Last year my neighbor said he {{was moving}} to Florida, but he's still here.",
+        "hint": "Report it: Last year my neighbor said, \"I'm moving to Florida,\" but he's still here."
+      },
+      "mistake": {
+        "wrong": "She told she was tired.",
+        "right": "She said she was tired. / She told me she was tired.",
+        "why": "*Tell* needs a person after it; *say* does not take one."
+      }
+    },
+    {
+      "id": "will-becomes-would-in-reported-speech-she-said-she-d-call",
+      "term": "will becomes would in reported speech: She said she'd call",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In reported speech after a past reporting verb, *will* usually becomes *would*: *\"I'll call you\"* becomes *She said she'd call*.",
+      "usage": "Very common for reported promises, plans and predictions. If the future event is still ahead, *will* is also possible in speech (*She said she'll call tomorrow*), but once the time has passed, only *would* works. After pronouns, *would* is usually contracted: *he'd*, *they'd*.",
+      "pattern": "said (that) / told + person + (that) + would + base verb",
+      "examples": [
+        "The plumber **said he'd be** here by noon, but it's already two.",
+        "The forecast **said** it **would clear up** by the afternoon.",
+        "You **told me you'd help** me move this weekend!"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Kevin said he {{would bring}} the drinks, but he showed up empty-handed.",
+        "hint": "Report it: Kevin said, \"I will bring the drinks,\" but he showed up empty-handed."
+      },
+      "mistake": {
+        "wrong": "He said he will call me last night, but he never did.",
+        "right": "He said he would call me last night, but he never did.",
+        "why": "The promised time is already past, so *will* must become *would*; *will* is possible only if the event is still in the future."
+      }
+    },
+    {
+      "id": "no-backshift-for-things-still-true-he-said-he-lives-in-bosto",
+      "term": "no backshift for things still true: He said he lives in Boston",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "If the reported situation is still true now, the original present tense can stay after a past reporting verb: *He said he lives in Boston* (he still does).",
+      "usage": "Very common in American speech and emails, because it signals that the information is still valid. Backshift is also correct here (*He said he lived in Boston*) and does not mean the situation has ended. When the situation is no longer true, backshift is required.",
+      "pattern": "said + (that) + present tense (still true now)",
+      "examples": [
+        "My doctor **said** this kind of headache **is** usually harmless.",
+        "Leo **told me** he **works** for a startup in Austin; you should talk to him.",
+        "The guide **said** the museum **is** closed on Mondays, so let's go on Tuesday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "When I called yesterday, the receptionist said the office {{opens}} at eight.",
+        "hint": "Report it, keeping the present because it is still true: When I called yesterday, the receptionist said, \"The office opens at eight.\""
+      },
+      "mistake": {
+        "wrong": "When I met him in 2015, he said he is a student.",
+        "right": "When I met him in 2015, he said he was a student.",
+        "why": "He is no longer a student, so the tense must move back; keep the present only for things that are still true."
+      }
+    },
+    {
+      "id": "reported-yes-no-questions-with-if-or-whether-she-asked-if-i",
+      "term": "reported yes/no questions with if or whether: She asked if I was ready",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A reported yes/no question uses *if* or *whether* + statement word order, with no *do* or *did*: *\"Are you ready?\"* becomes *She asked if I was ready*.",
+      "usage": "*If* is more common in speech; *whether* is a little more formal and is the only choice right before *or not*. The same structure makes polite indirect questions (*Do you know if the pharmacy is open?*). A reported question ends with a period, not a question mark.",
+      "pattern": "asked (+ person) + if / whether + subject + verb",
+      "examples": [
+        "The nurse **asked if I was** allergic to any medications.",
+        "My friend **asked whether I wanted** to split a cab to the airport.",
+        "Do you know **if the library is** open on Sundays?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The hotel clerk asked me {{if I needed}} help with my bags.",
+        "hint": "Report the question with if: The hotel clerk asked me, \"Do you need help with your bags?\""
+      },
+      "mistake": {
+        "wrong": "She asked me do I want to join them for dinner.",
+        "right": "She asked me if I wanted to join them for dinner.",
+        "why": "A reported yes/no question needs *if* or *whether* and statement word order, without *do*."
+      }
+    },
+    {
+      "id": "reported-wh-questions-he-asked-where-i-lived",
+      "term": "reported wh-questions: He asked where I lived",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A reported wh-question keeps the question word but uses statement word order, with no *do* or *did*: *\"Where do you live?\"* becomes *He asked where I lived*.",
+      "usage": "The same order is used in polite indirect questions (*Can you tell me where the station is?*), which are very common in American service talk. The subject comes before the verb, so *where the station is*, not *where is the station*. After a past reporting verb, the tense usually moves back as in other reported speech.",
+      "pattern": "asked / wondered / want to know + wh-word + subject + verb",
+      "examples": [
+        "Her teacher **asked how she was feeling** after the surgery.",
+        "Excuse me, can you tell me **what time the last train leaves**?",
+        "My son asked me **why the sky is** blue, and I had no idea what to say."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The police officer asked us {{what we were doing}} in the park after midnight.",
+        "hint": "Report the question: The police officer asked us, \"What are you doing in the park after midnight?\""
+      },
+      "mistake": {
+        "wrong": "He asked me where did I live.",
+        "right": "He asked me where I lived.",
+        "why": "In a reported question, the subject comes before the verb and *did* is dropped."
+      }
+    },
+    {
+      "id": "reported-commands-with-tell-she-told-me-to-wait",
+      "term": "reported commands with tell: She told me to wait",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Tell* + person + *to* + verb reports an order or instruction: *\"Wait here\"* becomes *She told me to wait*.",
+      "usage": "The most common way to report instructions in speech and writing, and *tell* always needs the person (*told me*, *told them*). *Say* cannot take a person + *to* + verb. Casual American speech also uses *say to* + verb without a person (*She said to wait here*).",
+      "pattern": "tell + person + to + base verb",
+      "examples": [
+        "The flight attendant **told us to stay** in our seats until the plane stopped.",
+        "My doctor **told me to take** two weeks off from running.",
+        "Our teacher **told us to bring** a calculator to the final exam."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The lifeguard {{told the kids to get}} out of the water.",
+        "hint": "Report the order with tell: The lifeguard said to the kids, \"Get out of the water!\""
+      },
+      "mistake": {
+        "wrong": "She said me to wait outside.",
+        "right": "She told me to wait outside.",
+        "why": "*Say* cannot take a person + *to* + verb; use *tell*."
+      }
+    },
+    {
+      "id": "reported-negative-commands-he-told-me-not-to-worry",
+      "term": "reported negative commands: He told me not to worry",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "A negative order or request is reported with *not* before *to*: *\"Don't worry\"* becomes *He told me not to worry*.",
+      "usage": "Used with *tell*, *ask*, *warn* and *remind* (*She asked us not to park there*). *To not* + verb is also heard in American speech, but *not to* is more common and safer in writing. *Don't* is never used inside a reported command.",
+      "pattern": "tell / ask + person + not to + base verb",
+      "examples": [
+        "The vet **told us not to feed** him for twelve hours before the surgery.",
+        "My friend **asked me not to tell** anyone about the baby yet.",
+        "Officials **told** residents **not to drink** the tap water until further notice."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our guide {{told us not to touch}} the coral.",
+        "hint": "Report the order with tell: Our guide said to us, \"Don't touch the coral.\""
+      },
+      "mistake": {
+        "wrong": "He told me don't worry about the money.",
+        "right": "He told me not to worry about the money.",
+        "why": "In a reported command, *don't* becomes *not to* + verb."
+      }
+    },
+    {
+      "id": "reported-requests-with-ask-i-asked-her-to-send-it",
+      "term": "reported requests with ask: I asked her to send it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Ask* + person + *to* + verb reports a polite request: *\"Could you send it?\"* becomes *I asked her to send it*.",
+      "usage": "Softer than *tell*, so it is the normal choice for requests between colleagues, friends and customers. The person follows *ask* directly, without *to*. *Ask for* + noun is for things (*I asked for the check*); *ask* + person + *to* is for actions.",
+      "pattern": "ask + person + (not) to + base verb",
+      "examples": [
+        "I **asked my sister to pick up** some bread on her way over.",
+        "The hotel **asked guests to keep** the noise down after ten.",
+        "My manager **asked me to lead** the weekly meeting while she's away."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "I {{asked the driver to turn down}} the music.",
+        "hint": "Report the request with ask: I said to the driver, \"Could you turn down the music, please?\""
+      },
+      "mistake": {
+        "wrong": "I asked to him to send me the invoice.",
+        "right": "I asked him to send me the invoice.",
+        "why": "*Ask* takes the person directly, without *to*."
+      }
+    },
+    {
+      "id": "zero-conditional-if-you-heat-ice-it-melts",
+      "term": "zero conditional: If you heat ice, it melts",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* or *when* + present simple, with the present simple in the result, describes general truths and results that always follow: *If you heat ice, it melts*.",
+      "usage": "Common in science, instructions and descriptions of habits (*If I drink coffee after four, I don't sleep well*). *If* and *when* mean almost the same here, because the result always happens. *Will* in the result is also common (*If you heat ice, it will melt*); the present simple stresses that the result always follows.",
+      "pattern": "If / When + present simple, present simple",
+      "examples": [
+        "**If** you **mix** baking soda and vinegar, it **fizzes** right away.",
+        "**If I drink** coffee after four, **I don't sleep** well.",
+        "**If** a payment **is** more than thirty days late, the bank **charges** a fee."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If you {{don't water}} basil every day in summer, it wilts.",
+        "hint": "Make a general truth: Basil wilts in summer. This always happens when nobody waters it every day."
+      },
+      "mistake": {
+        "wrong": "If you mix red and blue, you would get purple.",
+        "right": "If you mix red and blue, you get purple.",
+        "why": "For general truths, use the present in both clauses; *would* makes the situation sound imaginary."
+      }
+    },
+    {
+      "id": "first-conditional-with-an-imperative-if-you-see-her-tell-her",
+      "term": "first conditional with an imperative: If you see her, tell her",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*If* + present simple followed by an imperative gives an instruction that applies only if a possible situation happens: *If you see her, tell her*.",
+      "usage": "Very common in emails, notes and instructions (*If you have any questions, let me know*). The *if*-clause uses the present simple, and the result is a plain command, often softened with *please* or *feel free to*. For something you expect to happen, use *when* instead: *When you get there, call me*.",
+      "pattern": "If + present simple, imperative",
+      "examples": [
+        "**If** you **see** a sign for the outlet mall, **take** the next exit.",
+        "**If** the power **goes** out, **don't open** the freezer.",
+        "**If** you **have** any questions about the schedule, **feel free to email** me."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{If you get lost}}, call me and I'll come find you.",
+        "hint": "Make a condition for the instruction: You might get lost. In that case, call me and I'll come find you."
+      },
+      "mistake": {
+        "wrong": "If you get to the hotel, call me.",
+        "right": "When you get to the hotel, call me.",
+        "why": "With *if*, your arrival sounds uncertain; for something you expect to happen, use *when* (German *wenn* covers both)."
+      }
+    },
+    {
+      "id": "second-conditional-with-could-might-if-i-had-a-car-i-could-d",
+      "term": "second conditional with could / might: If I had a car, I could drive you",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In the result clause of a second conditional, *could* means *would be able to* and *might* means *would possibly*: *If I had a car, I could drive you*.",
+      "usage": "Common when people talk about options that depend on an unreal situation (*If we had more space, we might get a dog*). *Could* can also go in the *if*-clause for ability: *If I could cook, I'd have people over*. There is no *would can*, because *could* already includes the meaning of *would*.",
+      "pattern": "If + past simple, could / might + base verb",
+      "examples": [
+        "**If** we **had** a bigger yard, we **might get** a dog.",
+        "**If** you **left** right now, you **could** still **make** the last train.",
+        "**If** the city **added** more buses, more people **might leave** their cars at home."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If my knee weren't so bad, I {{could run}} the marathon with you.",
+        "hint": "Complete the result with an ability: My knee is bad, so I'm not able to run the marathon with you."
+      },
+      "mistake": {
+        "wrong": "If I had more money, I would can travel more.",
+        "right": "If I had more money, I could travel more.",
+        "why": "*Can* has no infinitive, so *would can* is impossible; *could* already means *would be able to*."
+      }
+    },
+    {
+      "id": "third-conditional-with-could-might-if-we-d-left-earlier-we-m",
+      "term": "third conditional with could / might: If we'd left earlier, we might have made it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Could have* or *might have* + past participle in the result clause gives a possible, not certain, different past result: *If we'd left earlier, we might have made it*.",
+      "usage": "Used for regrets and what-ifs when the speaker is unsure about the outcome (*might have*) or talks about a missed ability or chance (*could have*). In speech these are reduced to *could've* and *might've*. Do not write *could of* or *might of*; those spellings come from the pronunciation.",
+      "pattern": "If + past perfect, could / might have + past participle",
+      "examples": [
+        "**If I'd studied** a bit harder, **I could have gotten** into a better college.",
+        "**If** you**'d asked** me, **I could have lent** you the money.",
+        "**If** the referee **had seen** the foul, the game **might have ended** differently."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If it hadn't rained so hard, we {{might have won}} the game.",
+        "hint": "Complete with might (possible, not certain): It rained hard and we lost. Maybe we would have won without the rain."
+      },
+      "mistake": {
+        "wrong": "If we left earlier, we might have caught the train.",
+        "right": "If we had left earlier, we might have caught the train.",
+        "why": "A condition about the past needs the past perfect in the *if*-clause, not the past simple."
+      }
+    },
+    {
+      "id": "d-had-or-would-if-i-d-known-i-d-have-called",
+      "term": "'d = had or would: If I'd known, I'd have called",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "The contraction *'d* can stand for *had* or *would*. After *if* it usually means *had*; in the result clause it means *would*: *If I'd known, I'd have called*.",
+      "usage": "Both are standard in speech and informal writing. A quick test: *'d* + past participle = *had* (*I'd known*); *'d* + base verb, including *have*, = *would* (*I'd call*, *I'd have called*). In fast speech you hear *I'd've*, but write *I'd have* or *I would have*.",
+      "pattern": "If + subject'd (= had) + past participle, subject'd (= would) + have + past participle",
+      "examples": [
+        "**If you'd asked** me, **I'd have said** yes.",
+        "**If he'd checked** the weather, **he'd have packed** a raincoat.",
+        "**If they'd known** the road was closed, **they'd have taken** another route."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If I'd known you were in town, {{I'd have invited}} you to dinner.",
+        "hint": "Use the contracted form of would have: If I had known you were in town, I would have invited you to dinner."
+      },
+      "mistake": {
+        "wrong": "If I'd known, I'd called you.",
+        "right": "If I'd known, I'd have called you.",
+        "why": "In the result clause *'d* means *would*, so it needs *have* + past participle; *I'd called* means *I had called*."
+      }
+    },
+    {
+      "id": "unless-without-a-second-negative-unless-you-hurry-you-ll-mis",
+      "term": "unless without a second negative: Unless you hurry, you'll miss it",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Unless* means *if not* or *except if*: *Unless you hurry, you'll miss it* = if you don't hurry, you'll miss it.",
+      "usage": "Common in warnings, conditions and rules (*Unless otherwise noted, all prices include tax*). Because *unless* already contains the negative, the verb after it is normally positive. Like *if*, it takes a present tense for the future, not *will*.",
+      "pattern": "Unless + positive clause (= if not), result clause",
+      "examples": [
+        "**Unless** we **leave** now, we'll get stuck in rush hour.",
+        "Don't call me before nine **unless** it's an emergency.",
+        "**Unless** the weather **improves**, the outdoor concert will move indoors."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "We can't hold the table {{unless you confirm}} by Friday.",
+        "hint": "Rewrite with unless: We can't hold the table if you don't confirm by Friday."
+      },
+      "mistake": {
+        "wrong": "Unless you don't hurry, you'll miss the bus.",
+        "right": "Unless you hurry, you'll miss the bus.",
+        "why": "*Unless* already means *if not*, so a second negative reverses the meaning."
+      }
+    },
+    {
+      "id": "past-perfect-passive-the-files-had-already-been-deleted",
+      "term": "past perfect passive: The files had already been deleted",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Had been* + past participle says that something was done to something before another past moment: *The files had already been deleted*.",
+      "usage": "Common in stories, reports and explanations of what went wrong (*By the time we arrived, the tickets had been sold*). It often comes with *already*, *by the time* and *when*. In casual speech, the past simple passive often replaces it when the order of events is clear.",
+      "pattern": "had (already) been + past participle",
+      "examples": [
+        "By the time I got to the store, all the turkeys **had been sold**.",
+        "When we checked in, our room **hadn't** even **been cleaned**.",
+        "The windows **had been left** open, so the rain soaked the carpet."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "When the firefighters arrived, everyone {{had already been evacuated}}.",
+        "hint": "Rewrite in the passive: When the firefighters arrived, the staff had already evacuated everyone."
+      },
+      "mistake": {
+        "wrong": "When I checked the folder, the files had already deleted.",
+        "right": "When I checked the folder, the files had already been deleted.",
+        "why": "Without *been*, the sentence is active and says the files deleted something."
+      }
+    },
+    {
+      "id": "modal-perfect-passive-it-should-have-been-done-yesterday",
+      "term": "modal perfect passive: It should have been done yesterday",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "Modal + *have been* + past participle criticizes or makes a guess about a past action done to something: *It should have been done yesterday*, *It must have been stolen*.",
+      "usage": "*Should have been* criticizes a past failure (*The leak should have been fixed months ago*); *must*, *might* and *can't have been* make deductions (*The door must have been left open*). Common in complaints, reports and conversation. In speech, *have* is reduced: *should've been*.",
+      "pattern": "should / must / might / could / can't + have been + past participle",
+      "examples": [
+        "The sidewalks **should have been plowed** before the morning commute.",
+        "My bike's gone; it **must have been stolen** last night.",
+        "Your email **might have been sent** to my spam folder."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The report {{should have been sent}} to the client on Monday.",
+        "hint": "Rewrite in the passive as a criticism: Someone should have sent the report to the client on Monday."
+      },
+      "mistake": {
+        "wrong": "The paperwork should be done yesterday.",
+        "right": "The paperwork should have been done yesterday.",
+        "why": "For a past obligation that was not met, use *should have been* + past participle."
+      }
+    },
+    {
+      "id": "by-agent-in-the-passive-it-was-written-by-toni-morrison",
+      "term": "by + agent in the passive: It was written by Toni Morrison",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In a passive sentence, *by* + person or thing names who or what did the action: *It was written by Toni Morrison*.",
+      "usage": "Most passive sentences have no *by*-phrase, because the doer is unknown, obvious or unimportant. Add *by* when the doer is new or important information, often a name at the end of the sentence (*designed by a local architect*). *By someone* or *by people* adds nothing and is usually left out.",
+      "pattern": "be + past participle + by + agent",
+      "examples": [
+        "The mural on Fifth Street **was painted by** a group of high school students.",
+        "Last night's show **was canceled by** the venue at the last minute.",
+        "The study **was funded by** a private foundation, not by the university."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The new library {{was designed by}} a young architect from Detroit.",
+        "hint": "Rewrite in the passive, naming the doer: A young architect from Detroit designed the new library."
+      },
+      "mistake": {
+        "wrong": "The cake was made from my neighbor.",
+        "right": "The cake was made by my neighbor.",
+        "why": "The doer in a passive takes *by*; *from* is for the material or origin (*made from apples*)."
+      }
+    },
+    {
+      "id": "passive-infinitive-the-report-needs-to-be-finished",
+      "term": "passive infinitive: The report needs to be finished",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*To be* + past participle is the passive infinitive, used after verbs like *need*, *want*, *have to* and *expect*: *The report needs to be finished*.",
+      "usage": "Common at work and in instructions (*The forms have to be signed*), because it keeps the focus on the thing that needs action. After adjectives like *easy*, *hard* and *difficult*, however, the active infinitive is used even though the meaning is passive: *The problem is easy to solve*.",
+      "pattern": "need / want / have / expect + to be + past participle",
+      "examples": [
+        "These boxes **need to be moved** before the movers arrive.",
+        "Nobody **wants to be treated** like a number.",
+        "The winners **are expected to be named** later this week."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The dog {{has to be walked}} twice a day, even when it rains.",
+        "hint": "Rewrite in the passive with have to: Someone has to walk the dog twice a day, even when it rains."
+      },
+      "mistake": {
+        "wrong": "This problem is easy to be solved.",
+        "right": "This problem is easy to solve.",
+        "why": "After *easy*, *hard* and similar adjectives, the active infinitive already has a passive meaning."
+      }
+    },
+    {
+      "id": "passive-ing-form-i-hate-being-interrupted",
+      "term": "passive -ing form: I hate being interrupted",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Being* + past participle is the passive *-ing* form, used after verbs like *hate*, *enjoy* and *avoid* and after prepositions: *I hate being interrupted*.",
+      "usage": "Common when people talk about how they like to be treated (*I don't mind being told I'm wrong*). It follows the same verbs and prepositions as any *-ing* form: *without being asked*, *after being promoted*. Compare *I hate interrupting* (I do it) with *I hate being interrupted* (someone does it to me).",
+      "pattern": "verb / preposition + being + past participle",
+      "examples": [
+        "Most cats **don't like being picked up**.",
+        "She left the party **without being noticed**.",
+        "**After being delayed** twice, our flight finally took off at midnight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Nobody likes {{being kept}} waiting.",
+        "hint": "Use the passive -ing form: Nobody likes it when someone keeps them waiting."
+      },
+      "mistake": {
+        "wrong": "I'm not used to be told what to do.",
+        "right": "I'm not used to being told what to do.",
+        "why": "*To* in *be used to* is a preposition, so the passive form after it is *being* + past participle."
+      }
+    },
+    {
+      "id": "be-born-i-was-born-in-1990",
+      "term": "be born: I was born in 1990",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Be born* is a passive form used for birth; for anyone already born, it is always in the past: *I was born in 1990*.",
+      "usage": "Use *was* or *were born*, even for people who are alive now. The present *is born* or *are born* appears only for general facts (*A foal is born after about eleven months*). Use *in* with years, months and places, and *on* with dates: *born on May 3rd*.",
+      "pattern": "was / were born + in (year, place) / on (date)",
+      "examples": [
+        "My daughter **was born** on the Fourth of July.",
+        "**Were** you **born** in Texas, or did you move here later?",
+        "Thousands of sea turtles **are born** on this beach every summer."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Our son {{was born}} two weeks early, during a snowstorm.",
+        "hint": "Rewrite with born: Our son came into the world two weeks early, during a snowstorm."
+      },
+      "mistake": {
+        "wrong": "I am born in Chicago in 1990.",
+        "right": "I was born in Chicago in 1990.",
+        "why": "A birth is a finished past event, so use *was born*."
+      }
+    },
+    {
+      "id": "passive-with-prepositional-verbs-the-problem-was-dealt-with",
+      "term": "passive with prepositional verbs: The problem was dealt with",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When a verb needs a preposition (*deal with*, *look after*, *pay for*), the preposition stays right after the verb in the passive: *The problem was dealt with*.",
+      "usage": "Common in speech and writing, and a sentence ending in a preposition is completely normal here. It works with many verbs, such as *talk about*, *laugh at*, *rely on*, *take care of* and *listen to*. Leaving out the preposition makes the sentence ungrammatical.",
+      "pattern": "be + past participle + preposition",
+      "examples": [
+        "Don't worry, the problem **has been dealt with**.",
+        "Everything **has** already **been paid for**, so just enjoy yourselves.",
+        "Her ideas **were** never really **listened to** at that company."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "This issue {{will be taken care of}} by the end of the day.",
+        "hint": "Rewrite in the passive: We will take care of this issue by the end of the day."
+      },
+      "mistake": {
+        "wrong": "The complaint was dealt quickly.",
+        "right": "The complaint was dealt with quickly.",
+        "why": "*Deal with* keeps its preposition in the passive."
+      }
+    },
+    {
+      "id": "past-events-past-perfect-in-reported-speech-he-said-he-had-f",
+      "term": "past events → past perfect in reported speech: He said he had finished",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a past reporting verb, an event that happened before the moment of speaking usually moves to the past perfect: *\"I've finished\"* or *\"I finished\"* becomes *He said he had finished*.",
+      "usage": "This is the standard pattern in writing and careful speech. In casual American speech the past simple often stays when the order of events is clear (*She said she saw it*). The past perfect is needed when a time phrase like *the day before* or *two years earlier* points to an earlier event.",
+      "pattern": "said (that) / told + person + (that) + had + past participle",
+      "examples": [
+        "Maria **said she had** already **seen** the movie, so we picked something else.",
+        "The contractor **told us** the permit **had been approved** the week before.",
+        "He **told me** he **had** never **been** to a baseball game."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Paul said he {{had lost}} his keys the night before.",
+        "hint": "Report it: Paul said, \"I lost my keys last night.\""
+      },
+      "mistake": {
+        "wrong": "She told me she has seen the movie the week before.",
+        "right": "She told me she had seen the movie the week before.",
+        "why": "With a past reporting verb and *the week before*, the earlier event takes the past perfect."
+      }
+    },
+    {
+      "id": "no-backshift-after-a-present-reporting-verb-she-says-she-s-b",
+      "term": "no backshift after a present reporting verb: She says she's busy",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "When the reporting verb is in the present (*says*, *has said*, *is telling*), the tense of the reported words does not change: *\"I'm busy\"* becomes *She says she's busy*.",
+      "usage": "Common when passing on a fresh message (*Tom says he'll be late*), reading from a text or email, or quoting a source (*The forecast says it'll rain*). Backshift belongs only after past reporting verbs. *Has said* also takes no backshift: *The company has said it will pay*.",
+      "pattern": "says / has said + (that) + original tense",
+      "examples": [
+        "Tom just texted; he **says he'll be** twenty minutes late.",
+        "The forecast **says it's going to snow** tonight.",
+        "My doctor **has said** I **can** go back to work on Monday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Your mom just called. She {{says she's}} stuck in traffic.",
+        "hint": "Pass on the message with a present reporting verb: Your mom just called and told me, \"I'm stuck in traffic.\""
+      },
+      "mistake": {
+        "wrong": "Tom says he would be late.",
+        "right": "Tom says he'll be late.",
+        "why": "After a present reporting verb, keep the original tense; backshift only follows a past one."
+      }
+    },
+    {
+      "id": "modals-in-reported-speech-can-could-must-had-to",
+      "term": "modals in reported speech: can → could, must → had to",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After a past reporting verb, *can* becomes *could*, *will* becomes *would*, *may* becomes *might* and *must* usually becomes *had to*. *Could*, *should*, *would* and *might* stay the same.",
+      "usage": "Common in emails and conversation when you pass on rules, offers and advice. *Must* can also stay (*She said I must call*), but *had to* is more natural in American speech. Do not change *should* to *should have*: that turns advice into criticism of the past.",
+      "pattern": "can → could, will → would, may → might, must → had to; could / should / might stay",
+      "examples": [
+        "The receptionist **said** I **could park** in the back lot.",
+        "My boss **said** we **had to finish** the slides by Thursday.",
+        "The pharmacist **said** I **should take** the pills with food."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The ticket agent said we {{had to}} check in two hours early.",
+        "hint": "Report it the American way: The ticket agent said, \"You must check in two hours early.\""
+      },
+      "mistake": {
+        "wrong": "The doctor said I should have rested for a week.",
+        "right": "The doctor said I should rest for a week.",
+        "why": "To report the advice *You should rest*, keep *should*; *should have rested* turns it into criticism of the past."
+      }
+    },
+    {
+      "id": "backshift-after-thought-and-knew-i-thought-you-were-coming",
+      "term": "backshift after thought and knew: I thought you were coming",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "After past thinking verbs like *thought*, *knew*, *hoped* and *didn't realize*, the following clause usually moves back a tense: *I thought you were coming*.",
+      "usage": "Very common in conversation, especially for surprise or a belief that turned out to be wrong (*I thought you were vegetarian!*). The past tense is used even when the situation is about now. For a future idea, use *would*: *I knew you'd like it*.",
+      "pattern": "thought / knew / hoped / didn't realize + (that) + past tense / would",
+      "examples": [
+        "Sorry, **I thought you were** still at work, so I didn't call.",
+        "**I knew you'd** love this place as soon as you saw the view.",
+        "We **didn't realize** the food truck only **took** cash."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{I thought you liked}} spicy food! Why didn't you say something?",
+        "hint": "Rewrite with thought (my belief was wrong): I was sure that you like spicy food! Why didn't you say something?"
+      },
+      "mistake": {
+        "wrong": "I thought you are coming tonight.",
+        "right": "I thought you were coming tonight.",
+        "why": "After *thought*, the clause moves back to the past, even when it refers to the present or future."
+      }
+    },
+    {
+      "id": "deny-ing-he-denied-taking-the-money",
+      "term": "deny + -ing: He denied taking the money",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Deny* + *-ing* (or *deny having* + past participle) means say that you did not do something: *He denied taking the money*.",
+      "usage": "Common in the news, in court and in arguments (*The company denies misleading customers*). It takes *-ing*, not *to*; a *that*-clause also works (*He denied that he took it*). Because *deny* already contains the negative, the following verb is positive.",
+      "pattern": "deny + verb-ing / having + past participle / that-clause",
+      "examples": [
+        "The cyclist **denied using** banned substances.",
+        "My son **denied eating** the last cookie, but there were crumbs on his shirt.",
+        "My roommate **denied having used** my shampoo, but the bottle was half empty."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The driver {{denied running}} the red light.",
+        "hint": "Report with deny + -ing: The driver said, \"I didn't run the red light.\""
+      },
+      "mistake": {
+        "wrong": "He denied to have taken the money.",
+        "right": "He denied taking the money.",
+        "why": "*Deny* takes *-ing* (or *having* + past participle), not a *to*-infinitive as *claim* does (*He claimed to have paid*)."
+      }
+    },
+    {
+      "id": "admit-ing-she-admitted-making-a-mistake",
+      "term": "admit + -ing: She admitted making a mistake",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Admit* + *-ing* means agree, often unwillingly, that you did something wrong or that something bad is true: *She admitted making a mistake*.",
+      "usage": "Common in conversation and the news. *Admit to* + *-ing* is just as common, especially in American English (*He admitted to cheating*), and a *that*-clause also works (*She admitted that she was wrong*). *Admit* never takes *to* + base verb.",
+      "pattern": "admit (to) + verb-ing / admit + that-clause",
+      "examples": [
+        "She finally **admitted making** a mistake with the budget.",
+        "I'll **admit to being** a little jealous when I saw their new house.",
+        "The airline **admitted that** it **had overbooked** the flight."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Eventually Josh {{admitted breaking}} the lamp.",
+        "hint": "Report with admit + -ing (no to): Eventually Josh said, \"Okay, I broke the lamp.\""
+      },
+      "mistake": {
+        "wrong": "He admitted to cheat on the test.",
+        "right": "He admitted to cheating on the test.",
+        "why": "In *admit to*, *to* is a preposition, so it takes *-ing*."
+      }
+    },
+    {
+      "id": "refuse-to-they-refused-to-pay",
+      "term": "refuse to: They refused to pay",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Refuse to* + verb means say or show clearly that you will not do something: *They refused to pay*.",
+      "usage": "Common in the news, complaints and stories, and it sounds firm. It takes *to* + verb, and *refuse* + noun is also common (*She refused the offer*). Do not confuse it with *deny*, which means say that something is not true.",
+      "pattern": "refuse + to + base verb",
+      "examples": [
+        "The restaurant **refused to refund** us, even though the food was cold.",
+        "My daughter **refuses to wear** a coat, no matter how cold it gets.",
+        "Two of the witnesses **refused to testify**, so the trial was postponed."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The bank {{refused to lend}} us the money for the house.",
+        "hint": "Report with refuse: The bank said, \"We will not lend you the money for the house.\""
+      },
+      "mistake": {
+        "wrong": "He denied to sign the contract.",
+        "right": "He refused to sign the contract.",
+        "why": "*Deny* means say something is not true; to say you won't do something, use *refuse*."
+      }
+    },
+    {
+      "id": "promise-to-he-promised-to-call-back",
+      "term": "promise to: He promised to call back",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Promise to* + verb means say that you will definitely do something: *He promised to call back*.",
+      "usage": "Common in speech and writing. Besides *promise to* + verb, there is *promise* (+ person) + *that*-clause, which uses *would* after a past verb (*He promised me he'd call*). The negative is *promise not to*: *I promise not to tell anyone*.",
+      "pattern": "promise + (not) to + base verb / promise + (person) + (that) + would",
+      "examples": [
+        "The contractor **promised to finish** the bathroom by Christmas.",
+        "I **promise not to tell** anyone about the surprise party.",
+        "My landlord **promised he'd fix** the heater, but it's still broken."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Dad {{promised to take}} us to the beach this weekend.",
+        "hint": "Report the promise with to: Dad said, \"I'll definitely take you to the beach this weekend.\""
+      },
+      "mistake": {
+        "wrong": "He promised calling me back after lunch, but he never did.",
+        "right": "He promised to call me back after lunch, but he never did.",
+        "why": "*Promise* is followed by *to* + verb or a *that*-clause, not by *-ing*."
+      }
+    },
+    {
+      "id": "warn-someone-not-to-she-warned-us-not-to-go",
+      "term": "warn someone not to: She warned us not to go",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Warn* + person + *not to* + verb tells someone about a danger so that they avoid an action: *She warned us not to go*.",
+      "usage": "Common in speech, the news and instructions (*Police warned drivers not to use the bridge*). For the danger itself, use *warn* + person + *about* or *of* + noun (*warn them about the ice*), or a *that*-clause. *Warn* + person + *to* + verb is also possible as strong advice: *She warned us to be careful*.",
+      "pattern": "warn + person + (not) to + base verb / warn + person + about + noun",
+      "examples": [
+        "The ranger **warned us not to leave** food in the tent because of bears.",
+        "My sister **warned me not to trust** him, and she was right.",
+        "Officials **warned** residents **not to drive** during the ice storm."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The doctor {{warned me not to lift}} anything heavy for a month.",
+        "hint": "Report the warning with warn: The doctor said, \"Don't lift anything heavy for a month.\""
+      },
+      "mistake": {
+        "wrong": "Our neighbor warned us for the ice on the front steps.",
+        "right": "Our neighbor warned us about the ice on the front steps.",
+        "why": "Before the danger itself, *warn* takes *about* or *of*; *for* comes from German *vor* or Dutch *voor*."
+      }
+    },
+    {
+      "id": "offer-to-she-offered-to-help",
+      "term": "offer to: She offered to help",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Offer to* + verb means say that you are willing to do something for someone: *She offered to help*.",
+      "usage": "Common and polite in conversation and stories. The person who offers is the one who will do the action, and the person helped comes after the second verb (*She offered to drive me*). *Offer* + person + thing is for things, not actions: *They offered me a job*.",
+      "pattern": "offer + to + base verb / offer + person + thing",
+      "examples": [
+        "My neighbor **offered to water** our plants while we're away.",
+        "He **offered to pay** for dinner, but I insisted on splitting the check.",
+        "A stranger **offered to take** a picture of the four of us."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Lena {{offered to drive}} me to the airport at five in the morning.",
+        "hint": "Report the offer: Lena said, \"I can drive you to the airport at five in the morning, if you want.\""
+      },
+      "mistake": {
+        "wrong": "She offered me to help with the move.",
+        "right": "She offered to help me with the move.",
+        "why": "With *offer to*, the speaker does the action; the person helped comes after the second verb (*help me*), not after *offer*."
+      }
+    },
+    {
+      "id": "accuse-someone-of-ing-they-accused-him-of-lying",
+      "term": "accuse someone of + -ing: They accused him of lying",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Accuse* + person + *of* + *-ing* or a noun means say that someone did something wrong: *They accused him of lying*.",
+      "usage": "Common in the news, in court and in personal arguments. In the passive, the person becomes the subject: *He was accused of stealing*. *Blame* + person + *for* + *-ing* is close, but it treats the person as clearly responsible, while *accuse* only states a claim.",
+      "pattern": "accuse + person + of + verb-ing / noun; be accused of",
+      "examples": [
+        "Her roommate **accused her of eating** all the leftovers.",
+        "The company **was accused of hiding** safety problems from inspectors.",
+        "Wait, are you **accusing me of cheating**?"
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My brother {{accused me of reading}} his diary.",
+        "hint": "Report with accuse: My brother said to me, \"You read my diary!\""
+      },
+      "mistake": {
+        "wrong": "They accused him for stealing the car.",
+        "right": "They accused him of stealing the car.",
+        "why": "*Accuse* takes *of*; *for* goes with *blame*."
+      }
+    },
+    {
+      "id": "apologize-for-ing-he-apologized-for-being-late",
+      "term": "apologize for + -ing: He apologized for being late",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Apologize for* + *-ing* or a noun says what you are sorry about: *He apologized for being late*.",
+      "usage": "Common in emails, customer service and conversation; *I apologize* is more formal than *I'm sorry*. The person comes after *to*: *apologize to someone for something*, and the verb never takes *to* + infinitive. The American spelling is *apologize*; *apologise* is British.",
+      "pattern": "apologize (to + person) + for + verb-ing / noun",
+      "examples": [
+        "He **apologized for being** late and bought everyone coffee.",
+        "We **apologize for the delay**; the train should be moving shortly.",
+        "You should **apologize to your sister for yelling** at her."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "The airline {{apologized for losing}} our luggage and gave us a travel voucher.",
+        "hint": "Report with apologize: The airline said, \"We're sorry we lost your luggage,\" and gave us a travel voucher."
+      },
+      "mistake": {
+        "wrong": "He apologized me for forgetting my birthday.",
+        "right": "He apologized to me for forgetting my birthday.",
+        "why": "*Apologize* takes the person with *to*; it has no direct object."
+      }
+    },
+    {
+      "id": "advise-someone-to-the-doctor-advised-me-to-rest",
+      "term": "advise someone to: The doctor advised me to rest",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Advise* + person + *to* + verb recommends an action to someone: *The doctor advised me to rest*.",
+      "usage": "More formal than *tell* or *recommend*, and typical of doctors, lawyers and official notices. The verb is *advise* (with *s*, pronounced like *z*); the noun is *advice* (with *c*), and it is uncountable. Without a person, use *-ing*: *They advise booking early*.",
+      "pattern": "advise + person + (not) to + base verb / advise + verb-ing",
+      "examples": [
+        "My lawyer **advised me not to say** anything until the hearing.",
+        "Travelers **are advised to arrive** two hours before international flights.",
+        "The bank **advised us to wait** a few months before refinancing."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "My doctor {{advised me to cut}} down on salt.",
+        "hint": "Report with advise: My doctor said to me, \"You should cut down on salt.\""
+      },
+      "mistake": {
+        "wrong": "The doctor adviced me to drink more water.",
+        "right": "The doctor advised me to drink more water.",
+        "why": "The verb is *advise*, past *advised*; *advice* with a *c* is only the noun."
+      }
+    },
+    {
+      "id": "remind-someone-to-she-reminded-me-to-call",
+      "term": "remind someone to: She reminded me to call",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "*Remind* + person + *to* + verb means help someone remember a task they must do: *She reminded me to call*.",
+      "usage": "Very common in speech and work emails (*Can you remind me to …?*, *Just a reminder to …*). *Remind* + person + *of* + noun means make someone think of something (*You remind me of my sister*). In the passive, the person becomes the subject: *Passengers are reminded to keep their bags with them*.",
+      "pattern": "remind + person + (not) to + base verb",
+      "examples": [
+        "Can you **remind me to pick up** the dry cleaning tomorrow?",
+        "My phone **reminds me to take** my vitamins every morning.",
+        "Our teacher **reminded us to bring** our permission slips on Friday."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "Please {{remind Jake to lock}} the back door when he leaves.",
+        "hint": "Rewrite with remind: Please make sure Jake doesn't forget to lock the back door when he leaves."
+      },
+      "mistake": {
+        "wrong": "My wife reminded me of calling the plumber.",
+        "right": "My wife reminded me to call the plumber.",
+        "why": "For a task, use *remind* + person + *to* + verb; *remind of* is for making someone think of something."
+      }
+    },
+    {
+      "id": "first-conditional-with-a-modal-if-you-finish-early-you-can-g",
+      "term": "first conditional with a modal: If you finish early, you can go",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In a first conditional, the result clause can use *can*, *may*, *might*, *should* or *must* instead of *will*: *If you finish early, you can go*.",
+      "usage": "Common in rules, permissions and advice (*If you feel dizzy, you should sit down*). The *if*-clause still takes the present simple. *May*, *might* and *could* make the result possible rather than certain; *can* gives permission or ability, not a chance in the future.",
+      "pattern": "If + present simple, can / may / might / should / must + base verb",
+      "examples": [
+        "**If** you **finish** the test early, you **may leave** the room quietly.",
+        "**If** it **rains** this afternoon, the game **might be** postponed.",
+        "**If** you **want** a refund, you **must bring** the receipt."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "If you're not feeling better by Monday, you {{should see}} a doctor.",
+        "hint": "Complete with advice (not will): If you're not feeling better by Monday, it's a good idea to see a doctor."
+      },
+      "mistake": {
+        "wrong": "If we don't leave now, we can miss the train.",
+        "right": "If we don't leave now, we might miss the train.",
+        "why": "For the chance that something will happen, use *might*, *may* or *could*; *can* is for ability, permission or general possibility."
+      }
+    },
+    {
+      "id": "passive-questions-when-was-it-built",
+      "term": "passive questions: When was it built?",
+      "label": "grammar",
+      "say_term": false,
+      "register": "neutral",
+      "region": "both",
+      "ipa": "",
+      "meaning": "In a passive question, the form of *be* comes before the subject and the past participle follows it: *When was it built?*",
+      "usage": "Very common in everyday questions about history, services and processes (*Where were these photos taken?*, *Has the package been delivered?*). With a long subject the order is the same: *When was the new library built?* The participle never comes before the subject.",
+      "pattern": "(question word) + be + subject + past participle?",
+      "examples": [
+        "**When was** your house **built**, and has it ever been renovated?",
+        "**Were** you **told** about the change in the schedule?",
+        "**How are** these chairs **made**? They're incredibly light."
+      ],
+      "drill": {
+        "type": "gap",
+        "sentence": "{{When was the bridge closed}} to traffic?",
+        "hint": "Make a passive question: They closed the bridge to traffic at some point. Ask when."
+      },
+      "mistake": {
+        "wrong": "When was built this bridge?",
+        "right": "When was this bridge built?",
+        "why": "In a passive question, the subject comes between *was* and the past participle."
+      }
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "topic_id": "a2-17-konjunktiv-hoeflichkeit",
+  "level": "A2",
+  "title_de": "Konjunktiv II (Höflichkeit)",
+  "title_en": "Konjunktiv II for politeness",
+  "rule": {
+    "summary": "The **Konjunktiv II** makes requests, wishes, offers, suggestions and advice sound polite and less direct. At A2 you need a small set of forms: **hätte** (haben), **wäre** (sein), **würde** + infinitive, and the modal forms **könnte, dürfte, müsste, sollte, möchte**, plus **wüsste** (wissen). *Ich hätte gern einen Kaffee* or *Könnten Sie mir helfen?* is the normal, neutral way to ask in shops, offices and at work; the Präsens (*Ich will …, Können Sie …?*) often sounds too direct.",
+    "table": "| | haben | sein | werden | können | dürfen | mögen | wissen |\n|---|---|---|---|---|---|---|---|\n| ich | hätt**e** | wär**e** | würd**e** | könnt**e** | dürft**e** | möcht**e** | wüsst**e** |\n| du | hätt**est** | wär**st** | würd**est** | könnt**est** | dürft**est** | möcht**est** | wüsst**est** |\n| er/sie/es | hätt**e** | wär**e** | würd**e** | könnt**e** | dürft**e** | möcht**e** | wüsst**e** |\n| wir | hätt**en** | wär**en** | würd**en** | könnt**en** | dürft**en** | möcht**en** | wüsst**en** |\n| ihr | hätt**et** | wär**t** | würd**et** | könnt**et** | dürft**et** | möcht**et** | wüsst**et** |\n| sie/Sie | hätt**en** | wär**en** | würd**en** | könnt**en** | dürft**en** | möcht**en** | wüsst**en** |",
+    "steps": [
+      "Decide what you want: order or ask for a thing → **Ich hätte gern …** / **Ich möchte …**; ask someone to do something → **Könnten Sie …?** / **Würden Sie …?**; ask for permission → **Könnte/Dürfte ich …?**; suggest → **Wir könnten …** / **Wie wäre es mit …?**; give advice → **Du solltest …** / **An deiner Stelle würde ich …**.",
+      "Use the verb's own Konjunktiv II for *haben, sein*, the modal verbs and *wissen*: *hätte, wäre, könnte, dürfte, müsste, sollte, möchte, wüsste*. For almost all other verbs use **würde** + infinitive: *Würden Sie das Fenster schließen?*",
+      "Form: Präteritum stem + umlaut where possible (*hatte → hätte, war → wäre, konnte → könnte, wusste → wüsste*). *sollte* and *wollte* have no umlaut. Endings: *ich/er* **-e**, *du* **-est**, *wir/sie/Sie* **-en**, *ihr* **-et** (*sein*: *du wärst, ihr wärt*).",
+      "Word order is the same as with a modal verb: the Konjunktiv form is the finite verb (position 2, or position 1 in a yes/no question), and the infinitive goes to the end without *zu*.",
+      "*hätte* and *wäre* are complete verbs. Do not add *würde* to them in a request: *Ich hätte gern …*, not *Ich würde gern … haben* (possible, but clumsy) and never *Ich würde gern einen Kaffee.*"
+    ],
+    "pitfalls": [
+      "Forgetting the umlaut: ✗ *Konnten Sie mir bitte helfen?* → ✓ *Könnten Sie mir bitte helfen?* Without umlaut, *konnten, hatten, wurden, durfte* are Präteritum (*were able to, had, became, was allowed*).",
+      "Using *würde* without an infinitive: ✗ *Ich würde gern ein Wasser.* → ✓ *Ich hätte gern ein Wasser.* / ✓ *Ich würde gern ein Wasser trinken.*",
+      "Mixing up *hätte* and *wäre*: ✗ *Das hätte sehr nett.* → ✓ *Das wäre sehr nett.* Use *wäre* with adjectives and nouns after *sein* (*nett, möglich, kein Problem*), and *hätte* with things you have (*Zeit, eine Frage, Lust*).",
+      "Wrong ending with *Sie*: ✗ *Könntest Sie …?* → ✓ *Könnten Sie …?* Formal *Sie* always takes the plural form.",
+      "Saying *Ich will* when ordering: ✗ *Ich will einen Kaffee.* (sounds like a demand) → ✓ *Ich hätte gern einen Kaffee.* / ✓ *Ich möchte einen Kaffee.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::hätte::haben}} gern einen Kaffee.",
+      "en": "I'd like a coffee.",
+      "focus": "Bestellen · Konjunktiv II von *haben* + *gern*",
+      "explanation": "*Ich hätte gern* + Akkusativ is the standard polite way to order. The Konjunktiv II of *haben* comes from the Präteritum *hatte* plus umlaut → **hätte**. *gern* is required here: *Ich hätte einen Kaffee* alone does not mean *I'd like*.",
+      "pattern": "ich + **hätte** + gern + Akk.",
+      "mistake": {"wrong": "Ich hatte gern einen Kaffee.", "why": "*hatte* without umlaut is Präteritum (*I had*). The polite wish needs the Konjunktiv II with umlaut: *hätte*."},
+      "examples": [
+        {"de": "Ich hätte gern zwei Brötchen, bitte.", "en": "I'd like two bread rolls, please."},
+        {"de": "Ich hätte gern eine Fahrkarte nach Leipzig.", "en": "I'd like a ticket to Leipzig."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "{{c1::Könnten::können}} Sie mir bitte helfen?",
+      "en": "Could you help me, please?",
+      "focus": "höfliche Bitte · *Sie* · Modalverb",
+      "explanation": "*Könnten Sie …?* is softer than *Können Sie …?*. The Konjunktiv II of *können* is *konnte* + umlaut → *könnte*; formal *Sie* takes the plural ending **-n** → **Könnten**. *mir* is Dativ because *helfen* takes the Dativ, and *helfen* stands at the end.",
+      "pattern": "**Könnten** + Sie + (Dat.) + bitte + Infinitiv?",
+      "mistake": {"wrong": "Könntest Sie mir bitte helfen?", "why": "*-est* is the *du*-ending. The formal *Sie* always takes the plural form: *Könnten Sie …?*"},
+      "examples": [
+        {"de": "Könnten Sie mir bitte den Weg zeigen?", "en": "Could you show me the way, please?"},
+        {"de": "Könnten Sie bitte etwas langsamer sprechen?", "en": "Could you speak a bit more slowly, please?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Ich {{c1::würde::werden}} gern Italien sehen.",
+      "en": "I'd like to see Italy.",
+      "focus": "Wunsch · Konjunktiv II von *werden* + Infinitiv",
+      "explanation": "*sehen* has no common Konjunktiv II form of its own, so German uses **würde** + infinitive (*werden → wurde → würde*). *gern* turns it into a wish: *I'd like to*. The infinitive *sehen* goes to the end, without *zu*.",
+      "pattern": "ich + **würde** + gern + … + Infinitiv",
+      "mistake": {"wrong": "Ich würde gern Italien zu sehen.", "why": "*würde* works like a modal verb and takes a bare infinitive. *zu* is wrong here: *würde … sehen*."},
+      "examples": [
+        {"de": "Ich würde gern einmal Japan besuchen.", "en": "I'd like to visit Japan one day."},
+        {"de": "Wir würden gern das Schloss besichtigen.", "en": "We'd like to visit the castle."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Wären::sein}} Sie so nett?",
+      "en": "Would you be so kind?",
+      "focus": "höfliche Bitte · Konjunktiv II von *sein* · *Sie*",
+      "explanation": "*sein* has its own Konjunktiv II: *war* + umlaut + *-e* → *wäre*, and formal *Sie* takes **-n** → **Wären**. *Wären Sie so nett?* is a fixed polite phrase, often followed by a request: *Wären Sie so nett, mir zu helfen?*",
+      "pattern": "**Wären** + Sie + so + Adjektiv?",
+      "mistake": {"wrong": "Wärst Sie so nett?", "why": "*wärst* is the *du*-form (*Wärst du so nett?*). With formal *Sie* you need the plural form *wären*."},
+      "examples": [
+        {"de": "Wären Sie so freundlich, kurz zu warten?", "en": "Would you be so kind as to wait a moment?"},
+        {"de": "Wären Sie bereit, die Präsentation zu übernehmen?", "en": "Would you be willing to take over the presentation?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Es {{c1::wäre::sein}} schön, dich zu sehen.",
+      "en": "It would be nice to see you.",
+      "focus": "*Es* + Konjunktiv II + Adjektiv + *zu*-Infinitiv",
+      "explanation": "*schön sein* needs *sein*, so the Konjunktiv II is **wäre** (*es* takes the *ich/er*-form). The idea after the comma is a *zu*-infinitive: *dich zu sehen*. The Konjunktiv II makes this a gentle wish, not a fact.",
+      "pattern": "Es + **wäre** + Adjektiv, + zu + Infinitiv",
+      "mistake": {"wrong": "Es hätte schön, dich zu sehen.", "why": "An adjective like *schön* goes with *sein*, not *haben*. So the Konjunktiv II is *wäre*, not *hätte*."},
+      "examples": [
+        {"de": "Es wäre toll, mal wieder zusammen zu kochen.", "en": "It would be great to cook together again sometime."},
+        {"de": "Es wäre wichtig, die Kollegen rechtzeitig zu informieren.", "en": "It would be important to inform the colleagues in time."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Wir {{c1::hätten::haben}} gern die Rechnung.",
+      "en": "We'd like the bill, please.",
+      "focus": "im Restaurant · *wir* · Konjunktiv II von *haben*",
+      "explanation": "*hätte gern* + Akkusativ works for ordering and for asking for the bill. With *wir* the ending is **-n**: hätte + -n → **hätten**. *die Rechnung* is the Akkusativ object (feminine, so *die* is unchanged).",
+      "pattern": "wir + **hätten** + gern + Akk.",
+      "mistake": {"wrong": "Wir hätte gern die Rechnung.", "why": "*hätte* is the singular form (*ich/er*). *wir* needs the plural ending: *wir hätten*."},
+      "examples": [
+        {"de": "Wir hätten gern noch zwei Gläser Wein.", "en": "We'd like two more glasses of wine."},
+        {"de": "Wir hätten gern einen Tisch am Fenster.", "en": "We'd like a table by the window."}
+      ],
+      "words": [{"de": "die Rechnung (-en)", "en": "bill, invoice"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Würdest::werden}} du mir bitte das Salz geben?",
+      "en": "Would you pass me the salt, please?",
+      "focus": "höfliche Bitte · *du* · Hilfsverb + Infinitiv",
+      "explanation": "*geben* forms its polite request with *würde* + infinitive. The *du*-form adds **-st**: würde + -st → **Würdest**. *mir* (Dativ) and *das Salz* (Akkusativ) stand in the middle, and the infinitive *geben* goes to the end.",
+      "pattern": "**Würdest** + du + Dat. + bitte + Akk. + Infinitiv?",
+      "mistake": {"wrong": "Würdest du mir bitte das Salz gibst?", "why": "Only *würdest* is conjugated. The second verb stays in the infinitive at the end: *… das Salz geben?*"},
+      "examples": [
+        {"de": "Würdest du bitte das Licht ausmachen?", "en": "Would you turn off the light, please?"},
+        {"de": "Würdest du mir kurz deinen Laptop leihen?", "en": "Would you lend me your laptop for a moment?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich {{c1::möchte::mögen}} gern reservieren.",
+      "en": "I'd like to make a reservation.",
+      "focus": "Wunsch · Konjunktiv II von *mögen*",
+      "explanation": "*möchte* is historically the Konjunktiv II of *mögen* (*mochte* + umlaut), but today it works like its own polite modal verb (*would like*). The *ich*-form is **möchte**, and the infinitive *reservieren* goes to the end. On the phone this short form is normal; the full form adds the object: *einen Tisch reservieren*.",
+      "pattern": "ich + **möchte** + (gern) + Infinitiv",
+      "mistake": {"wrong": "Ich mochte gern reservieren.", "why": "*mochte* without umlaut is the Präteritum (*I liked*). The polite present wish is *möchte*."},
+      "examples": [
+        {"de": "Ich möchte gern einen Termin vereinbaren.", "en": "I'd like to make an appointment."},
+        {"de": "Ich möchte mein Abonnement kündigen.", "en": "I'd like to cancel my subscription."}
+      ],
+      "words": [{"de": "reservieren", "en": "to reserve, to book"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "{{c1::Hättest::haben}} du Zeit für einen Kaffee?",
+      "en": "Would you have time for a coffee?",
+      "focus": "Einladung · *du* · Konjunktiv II von *haben*",
+      "explanation": "*Zeit haben* uses *haben*, so the polite form is the Konjunktiv II *hätte*. The *du*-ending is **-st**: hätte + -st → **Hättest**, first in the yes/no question. *für* + Akkusativ: *für einen Kaffee*.",
+      "pattern": "**Hättest** + du + Zeit + für + Akk.?",
+      "mistake": {"wrong": "Hättet du Zeit für einen Kaffee?", "why": "*hättet* is the *ihr*-form. With *du* the ending is *-st*: *Hättest du …?*"},
+      "examples": [
+        {"de": "Hättest du morgen Abend Zeit für ein Telefonat?", "en": "Would you have time for a phone call tomorrow evening?"},
+        {"de": "Hättest du Lust auf ein Eis?", "en": "Would you fancy an ice cream?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Das {{c1::wäre::sein}} sehr nett.",
+      "en": "That would be very nice.",
+      "focus": "Reaktion auf ein Angebot · Konjunktiv II von *sein*",
+      "explanation": "This is a polite answer when someone offers help. *nett sein* needs *sein* → Konjunktiv II **wäre**. *Das* is singular, so the form is the same as the *ich/er*-form.",
+      "pattern": "Das + **wäre** + (sehr) + Adjektiv",
+      "mistake": {"wrong": "Das wären sehr nett.", "why": "*Das* is a singular subject, so the verb is singular: *Das wäre …*. *wären* is for *wir/sie/Sie*."},
+      "examples": [
+        {"de": "Das wäre wirklich super.", "en": "That would be really great."},
+        {"de": "Das wäre eine große Hilfe.", "en": "That would be a big help."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Ich {{c1::würde::werden}} gern mit Ihnen sprechen.",
+      "en": "I'd like to speak with you.",
+      "focus": "höflicher Wunsch · formell · Infinitiv am Ende",
+      "explanation": "A polite opening in an office or on the phone. *sprechen* takes *würde* + infinitive: **würde** (ich-form) in position 2, *sprechen* at the end. *mit Ihnen* is Dativ after *mit*; *Ihnen* with a capital *I* is the formal *Sie*.",
+      "pattern": "ich + **würde** + gern + mit + Dat. + Infinitiv",
+      "mistake": {"wrong": "Ich würde gern sprechen mit Ihnen.", "why": "The infinitive closes the Satzklammer. *mit Ihnen* belongs in the middle: *Ich würde gern mit Ihnen sprechen.*"},
+      "examples": [
+        {"de": "Ich würde gern mit dem Abteilungsleiter sprechen.", "en": "I'd like to speak with the head of department."},
+        {"de": "Ich würde gern kurz über das Projekt reden.", "en": "I'd like to talk briefly about the project."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "{{c1::Könntest::können}} du mir das erklären?",
+      "en": "Could you explain that to me?",
+      "focus": "höfliche Bitte · *du* · Modalverb",
+      "explanation": "Among friends *Könntest du …?* is a friendly request. *können* → *konnte* + umlaut → *könnte*, and the *du*-ending **-st** gives **Könntest**. *mir* is the Dativ (to me), *das* the Akkusativ, and *erklären* goes to the end.",
+      "pattern": "**Könntest** + du + Dat. + Akk. + Infinitiv?",
+      "mistake": {"wrong": "Könnten du mir das erklären?", "why": "*könnten* is the form for *wir/sie/Sie*. With *du* the ending is *-st*: *Könntest du …?*"},
+      "examples": [
+        {"de": "Könntest du mir die Datei schicken?", "en": "Could you send me the file?"},
+        {"de": "Könntest du heute die Kinder abholen?", "en": "Could you pick up the children today?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich {{c1::würde::werden}} gern einen Tisch reservieren.",
+      "en": "I'd like to reserve a table.",
+      "focus": "Reservierung · *ich* · Hilfsverb + Infinitiv",
+      "explanation": "*reservieren* forms its polite wish with *würde* + infinitive. With *ich* the form is **würde** (no ending after *-e*). *einen Tisch* is the masculine Akkusativ object, and *reservieren* stands at the end. *Ich möchte einen Tisch reservieren* means the same.",
+      "pattern": "ich + **würde** + gern + Akk. + Infinitiv",
+      "mistake": {"wrong": "Ich würdest gern einen Tisch reservieren.", "why": "*-st* is the *du*-ending. With *ich* the form is *würde*."},
+      "examples": [
+        {"de": "Ich würde gern ein Doppelzimmer buchen.", "en": "I'd like to book a double room."},
+        {"de": "Ich würde gern einen Termin beim Zahnarzt machen.", "en": "I'd like to make an appointment at the dentist's."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Hätten::haben}} Sie einen Moment Zeit?",
+      "en": "Would you have a moment?",
+      "focus": "vorsichtige Frage · *Sie* · Konjunktiv II von *haben*",
+      "explanation": "Before you ask for help, you check politely that the person has time. *Zeit haben* → Konjunktiv II *hätte*; formal *Sie* adds **-n** → **Hätten**. No infinitive is needed, because *hätte* is a full verb here.",
+      "pattern": "**Hätten** + Sie + Akk.?",
+      "mistake": {"wrong": "Würden Sie einen Moment Zeit?", "why": "*würden* needs an infinitive. For *Zeit haben* use the Konjunktiv II of *haben* directly: *Hätten Sie einen Moment Zeit?*"},
+      "examples": [
+        {"de": "Hätten Sie kurz Zeit für eine Frage?", "en": "Would you have a moment for a question?"},
+        {"de": "Hätten Sie vielleicht einen Stift für mich?", "en": "Would you perhaps have a pen for me?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Könnten::können}} Sie das Fenster öffnen?",
+      "en": "Could you open the window?",
+      "focus": "Bitte · *Sie* · Objekt + Infinitiv",
+      "explanation": "*Könnten Sie …?* (*konnte* + umlaut, plural ending for *Sie*) is the neutral polite request. In the yes/no question the finite verb comes first, the object *das Fenster* stays in the middle, and the infinitive *öffnen* closes the sentence.",
+      "pattern": "**Könnten** + Sie + Akk. + Infinitiv?",
+      "mistake": {"wrong": "Könnten Sie öffnen das Fenster?", "why": "The infinitive goes to the very end: *Könnten Sie das Fenster öffnen?* The object stands between the two verb parts."},
+      "examples": [
+        {"de": "Könnten Sie die Heizung etwas höher stellen?", "en": "Could you turn the heating up a little?"},
+        {"de": "Könnten Sie die Tür hinter sich zumachen?", "en": "Could you close the door behind you?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Es {{c1::wäre::sein}} besser, früh anzufangen.",
+      "en": "It would be better to start early.",
+      "focus": "vorsichtiger Rat · *Es* + Komparativ",
+      "explanation": "*besser sein* needs *sein*, so the Konjunktiv II is **wäre**. It gives advice in an indirect, polite way. The *zu*-infinitive of the separable verb *anfangen* puts *zu* between prefix and stem: *anzufangen*.",
+      "pattern": "Es + **wäre** + besser, + zu-Infinitiv",
+      "mistake": {"wrong": "Es würde besser, früh anzufangen.", "why": "*würde* without an infinitive means *would become*. For *besser sein* use the Konjunktiv II of *sein*: *Es wäre besser …*"},
+      "examples": [
+        {"de": "Es wäre besser, vorher anzurufen.", "en": "It would be better to call beforehand."},
+        {"de": "Es wäre sinnvoll, die Unterlagen schon heute vorzubereiten.", "en": "It would make sense to prepare the documents today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ich {{c1::würde::werden}} jetzt gern bezahlen.",
+      "en": "I'd like to pay now.",
+      "focus": "im Restaurant · Wunsch mit Zeitangabe",
+      "explanation": "*bezahlen* forms the polite wish with **würde** + infinitive. The time adverb *jetzt* and *gern* stand in the middle, and *bezahlen* stands at the end. Typical answer from the waiter: *Zusammen oder getrennt?*",
+      "pattern": "ich + **würde** + jetzt + gern + Infinitiv",
+      "mistake": {"wrong": "Ich wurde jetzt gern bezahlen.", "why": "*wurde* without umlaut is the Präteritum of *werden* (*became*). The polite form needs the umlaut: *würde*."},
+      "examples": [
+        {"de": "Ich würde jetzt gern nach Hause gehen.", "en": "I'd like to go home now."},
+        {"de": "Wir würden jetzt gern bestellen.", "en": "We'd like to order now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Wäre::sein}} das möglich?",
+      "en": "Would that be possible?",
+      "focus": "vorsichtige Frage · *das* + Adjektiv",
+      "explanation": "*möglich sein* uses *sein*, so the polite question takes the Konjunktiv II **Wäre** (singular, because *das* is singular). It is softer than *Ist das möglich?* and is common after a request: *… Wäre das möglich?*",
+      "pattern": "**Wäre** + das + Adjektiv?",
+      "mistake": {"wrong": "Würde das möglich?", "why": "*würde* needs an infinitive (*Würde das gehen?*). With an adjective after *sein*, use *wäre*: *Wäre das möglich?*"},
+      "examples": [
+        {"de": "Wäre das für Sie in Ordnung?", "en": "Would that be OK for you?"},
+        {"de": "Wäre es möglich, früher einzuchecken?", "en": "Would it be possible to check in earlier?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Wir {{c1::möchten::mögen}} bestellen, bitte.",
+      "en": "We'd like to order, please.",
+      "focus": "im Restaurant · *wir* · Wunsch",
+      "explanation": "*möchte* is the usual polite form of *mögen* for wishes. With *wir* it takes **-n**: **möchten**. *bestellen* is the infinitive; *bitte* after a comma is a polite addition at the end.",
+      "pattern": "wir + **möchten** + Infinitiv",
+      "mistake": {"wrong": "Wir möchte bestellen, bitte.", "why": "*möchte* is singular. With *wir* the plural ending *-n* is needed: *wir möchten*."},
+      "examples": [
+        {"de": "Wir möchten gern draußen sitzen.", "en": "We'd like to sit outside."},
+        {"de": "Wir möchten zwei Karten für das Konzert.", "en": "We'd like two tickets for the concert."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Hätten::haben}} Sie etwas anderes?",
+      "en": "Would you have anything else?",
+      "focus": "im Geschäft · *Sie* · Konjunktiv II von *haben*",
+      "explanation": "A polite question in a shop when the first offer does not fit. *haben* → Konjunktiv II *hätte*, formal *Sie* → **Hätten**. In *etwas anderes* (something else), *ander-* takes the neuter ending *-es* and is normally written in lower case, unlike *etwas Neues*.",
+      "pattern": "**Hätten** + Sie + Akk.?",
+      "mistake": {"wrong": "Hätte Sie etwas anderes?", "why": "*hätte* is singular (*ich/er*). The formal *Sie* takes the plural form: *Hätten Sie …?*"},
+      "examples": [
+        {"de": "Hätten Sie die Jacke auch in Blau?", "en": "Would you have the jacket in blue as well?"},
+        {"de": "Hätten Sie noch ein Zimmer für heute Nacht?", "en": "Would you have a room left for tonight?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "{{c1::Könnten::können}} Sie das bitte wiederholen?",
+      "en": "Could you repeat that, please?",
+      "focus": "Bitte · Präsens vs. Konjunktiv II",
+      "explanation": "*Können Sie …?* is a direct question about ability; **Könnten Sie …?** (Konjunktiv II, with umlaut) is the polite standard request. *das* is the Akkusativ object, and *wiederholen* (not separable here) stands at the end.",
+      "pattern": "**Könnten** + Sie + Akk. + bitte + Infinitiv?",
+      "mistake": {"wrong": "Konnten Sie das bitte wiederholen?", "why": "*konnten* without umlaut is Präteritum (*were you able to*). A request about now needs the umlaut: *Könnten*."},
+      "examples": [
+        {"de": "Könnten Sie das bitte buchstabieren?", "en": "Could you spell that, please?"},
+        {"de": "Könnten Sie mir das bitte aufschreiben?", "en": "Could you write that down for me, please?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Ich {{c1::hätte::haben}} gern ein Glas Wasser.",
+      "en": "I'd like a glass of water.",
+      "focus": "Bestellen · ohne zweites Verb",
+      "explanation": "*hätte gern* + Akkusativ is the normal way to order. **hätte** is a full verb here, so no infinitive is needed. *ein Glas Wasser* is neuter Akkusativ (*das Glas*), so *ein* has no ending.",
+      "pattern": "ich + **hätte** + gern + Akk.",
+      "mistake": {"wrong": "Ich würde gern ein Glas Wasser.", "why": "*würde* always needs an infinitive (*… trinken*). For ordering a thing use *Ich hätte gern …* or *Ich möchte …*."},
+      "examples": [
+        {"de": "Ich hätte gern eine Cola ohne Eis.", "en": "I'd like a cola without ice."},
+        {"de": "Ich hätte gern ein Kilo Äpfel.", "en": "I'd like a kilo of apples."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "{{c1::Würden::werden}} Sie das Fenster schließen?",
+      "en": "Would you close the window?",
+      "focus": "Bitte · *Sie* · Hilfsverb + Infinitiv",
+      "explanation": "*würde* + infinitive turns almost any verb into a polite request. Formal *Sie* takes the plural form **Würden**, and *schließen* stays at the end. Adding *bitte* makes it even more polite: *Würden Sie bitte …?*",
+      "pattern": "**Würden** + Sie + Akk. + Infinitiv?",
+      "mistake": {"wrong": "Wurden Sie das Fenster schließen?", "why": "*wurden* without umlaut is the Präteritum of *werden*. The request needs the Konjunktiv II *Würden*."},
+      "examples": [
+        {"de": "Würden Sie bitte Ihren Namen hier eintragen?", "en": "Would you enter your name here, please?"},
+        {"de": "Würden Sie mich kurz durchlassen?", "en": "Would you let me through for a moment?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Es {{c1::wäre::sein}} schön, dich wiederzusehen.",
+      "en": "It would be nice to see you again.",
+      "focus": "Wunsch · *Es* + Adjektiv + *zu*-Infinitiv",
+      "explanation": "*schön sein* → Konjunktiv II **wäre**, singular because the subject is *es*. The wish is completed by a *zu*-infinitive; with the separable verb *wiedersehen*, *zu* goes between the parts: *wiederzusehen*.",
+      "pattern": "Es + **wäre** + Adjektiv, + Präfix-zu-Verb",
+      "mistake": {"wrong": "Es wären schön, dich wiederzusehen.", "why": "*es* is singular, so the verb is *wäre*. *wären* is the plural form."},
+      "examples": [
+        {"de": "Es wäre schön, euch bald zu besuchen.", "en": "It would be nice to visit you soon."},
+        {"de": "Es wäre schön, im Sommer zusammen wegzufahren.", "en": "It would be nice to go away together in the summer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "{{c1::Dürfte::dürfen}} ich Ihnen eine Frage stellen?",
+      "en": "Might I ask you a question?",
+      "focus": "Erlaubnis · sehr formell · *ich*",
+      "explanation": "Asking for permission: *Darf ich …?* is polite, *Dürfte ich …?* is even more formal. Konjunktiv II: *durfte* + umlaut → **dürfte**. *eine Frage stellen* (to ask a question) takes the Dativ *Ihnen* for the person.",
+      "pattern": "**Dürfte** + ich + Dat. + Akk. + Infinitiv?",
+      "mistake": {"wrong": "Durfte ich Ihnen eine Frage stellen?", "why": "*durfte* without umlaut is Präteritum (*was I allowed*). The polite present form is *Dürfte*."},
+      "examples": [
+        {"de": "Dürfte ich kurz Ihre Toilette benutzen?", "en": "Might I use your toilet for a moment?"},
+        {"de": "Dürfte ich Sie um einen Gefallen bitten?", "en": "Might I ask you a favour?"}
+      ],
+      "words": [{"de": "eine Frage stellen", "en": "to ask a question"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich {{c1::würde::werden}} lieber morgen kommen.",
+      "en": "I'd rather come tomorrow.",
+      "focus": "Vorliebe · *lieber* + Hilfsverb + Infinitiv",
+      "explanation": "*lieber* is the comparative of *gern*: *würde gern* = *would like to*, **würde** *lieber* = *would rather*. It states a preference softly, as a suggestion. *kommen* goes to the end.",
+      "pattern": "ich + **würde** + lieber + … + Infinitiv",
+      "mistake": {"wrong": "Ich würde lieber morgen zu kommen.", "why": "*würde* takes a bare infinitive, never *zu*: *würde … kommen*."},
+      "examples": [
+        {"de": "Ich würde lieber mit dem Zug fahren.", "en": "I'd rather go by train."},
+        {"de": "Wir würden lieber draußen essen.", "en": "We'd rather eat outside."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "{{c1::Hätten::haben}} Sie am Freitag Zeit?",
+      "en": "Would you have time on Friday?",
+      "focus": "Termin vereinbaren · *Sie*",
+      "explanation": "*Zeit haben* + day is the standard way to propose a meeting. **Hätten** (Konjunktiv II of *haben*, plural for *Sie*) is softer than *Haben Sie …?*. *am Freitag* = *an dem Freitag* (Dativ for days).",
+      "pattern": "**Hätten** + Sie + Zeitangabe + Zeit?",
+      "mistake": {"wrong": "Hätten Sie am Freitag Zeit haben?", "why": "*hätten* is already the verb *haben* in the Konjunktiv II. Do not add the infinitive *haben* again."},
+      "examples": [
+        {"de": "Hätten Sie nächste Woche einen Termin frei?", "en": "Would you have an appointment free next week?"},
+        {"de": "Hätten Sie morgen Vormittag eine halbe Stunde?", "en": "Would you have half an hour tomorrow morning?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Das {{c1::wäre::sein}} kein Problem.",
+      "en": "That wouldn't be a problem.",
+      "focus": "Zusage · *Das* + *kein* + Nomen",
+      "explanation": "The Konjunktiv II makes the agreement sound friendly and open, not blunt. *kein Problem sein* needs *sein* → **wäre**. *kein Problem* is a noun phrase after *sein* (Nominativ).",
+      "pattern": "Das + **wäre** + kein + Nomen",
+      "mistake": {"wrong": "Das würde kein Problem.", "why": "*würde* without an infinitive means *would become*. With *sein* + noun use *wäre*: *Das wäre kein Problem.*"},
+      "examples": [
+        {"de": "Das wäre gar kein Problem für uns.", "en": "That wouldn't be a problem for us at all."},
+        {"de": "Das wäre eine gute Idee.", "en": "That would be a good idea."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "{{c1::Wüssten::wissen}} Sie, wo die Post ist?",
+      "en": "Would you happen to know where the post office is?",
+      "focus": "Frage nach Information · Konjunktiv II von *wissen*",
+      "explanation": "*wissen* has its own Konjunktiv II: *wusste* + umlaut → *wüsste*; formal *Sie* → **Wüssten**. It is more polite than *Wissen Sie …?*. The indirect question *wo die Post ist* has the verb at the end.",
+      "pattern": "**Wüssten** + Sie, + W-Wort + … + Verb?",
+      "mistake": {"wrong": "Wüsstest Sie, wo die Post ist?", "why": "*wüsstest* is the *du*-form. The formal *Sie* takes the plural form *Wüssten*."},
+      "examples": [
+        {"de": "Wüssten Sie, wann der Bus fährt?", "en": "Would you happen to know when the bus leaves?"},
+        {"de": "Wüssten Sie, ob die Apotheke heute offen hat?", "en": "Would you happen to know if the pharmacy is open today?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Ich {{c1::müsste::müssen}} eigentlich früher los.",
+      "en": "I really ought to leave earlier.",
+      "focus": "weiche Pflicht · Modalverb ohne Infinitiv",
+      "explanation": "*muss* is a hard obligation; **müsste** (Konjunktiv II: *musste* + umlaut) is a soft one: *I ought to*. *eigentlich* softens it further. *los* stands for *losgehen/losfahren*; in speech the verb of movement can be left out.",
+      "pattern": "ich + **müsste** + eigentlich + … + los",
+      "mistake": {"wrong": "Ich müsstest eigentlich früher los.", "why": "*-st* is the *du*-ending. With *ich* the form is *müsste*."},
+      "examples": [
+        {"de": "Ich müsste eigentlich noch einkaufen.", "en": "I really ought to do some shopping."},
+        {"de": "Wir müssten eigentlich mal wieder aufräumen.", "en": "We really ought to tidy up again."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Könnten::können}} wir das später besprechen?",
+      "en": "Could we discuss that later?",
+      "focus": "Vorschlag · *wir*",
+      "explanation": "With *wir* the speakers include themselves, so the proposal does not sound pushy. **Könnten** (*konnte* + umlaut + *-n*) is the *wir*-form. *besprechen* (to discuss) is inseparable and stands at the end.",
+      "pattern": "**Könnten** + wir + Akk. + Zeit + Infinitiv?",
+      "mistake": {"wrong": "Könnten wir das später zu besprechen?", "why": "After *könnten* the infinitive has no *zu*: *Könnten wir das später besprechen?*"},
+      "examples": [
+        {"de": "Könnten wir den Termin auf Donnerstag verschieben?", "en": "Could we move the appointment to Thursday?"},
+        {"de": "Könnten wir kurz eine Pause machen?", "en": "Could we take a short break?"}
+      ],
+      "words": [{"de": "besprechen", "en": "to discuss"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "An deiner Stelle {{c1::würde::werden}} ich warten.",
+      "en": "If I were you, I would wait.",
+      "focus": "Ratschlag · *An deiner Stelle* im Vorfeld",
+      "explanation": "*An deiner Stelle* (in your place) introduces polite advice. It fills the Vorfeld, so **würde** follows in position 2 and the subject *ich* comes after it. The infinitive *warten* closes the sentence.",
+      "pattern": "An deiner Stelle + **würde** + ich + Infinitiv",
+      "mistake": {"wrong": "An deiner Stelle ich würde warten.", "why": "After the Vorfeld *An deiner Stelle* the finite verb must come next: *An deiner Stelle würde ich warten.*"},
+      "examples": [
+        {"de": "An deiner Stelle würde ich den Vertrag genau lesen.", "en": "If I were you, I would read the contract carefully."},
+        {"de": "An Ihrer Stelle würde ich einen Anwalt fragen.", "en": "If I were you, I would ask a lawyer."}
+      ],
+      "words": [{"de": "an deiner Stelle", "en": "if I were you (lit.: in your place)"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Ich {{c1::wäre::sein}} Ihnen sehr dankbar.",
+      "en": "I would be very grateful to you.",
+      "focus": "formelle E-Mail · *dankbar sein* + Dativ",
+      "explanation": "*dankbar sein* needs *sein* → Konjunktiv II **wäre**. The person you thank is in the Dativ: *Ihnen*. This sentence often ends a formal request, e.g. *…, wenn Sie mir antworten könnten.*",
+      "pattern": "ich + **wäre** + Dat. + Adjektiv",
+      "mistake": {"wrong": "Ich hätte Ihnen sehr dankbar.", "why": "*dankbar* is an adjective and goes with *sein*, not *haben*: *Ich wäre Ihnen dankbar.*"},
+      "examples": [
+        {"de": "Ich wäre Ihnen für eine kurze Antwort dankbar.", "en": "I would be grateful for a short reply."},
+        {"de": "Wir wären froh über Ihre Unterstützung.", "en": "We would be glad of your support."}
+      ],
+      "words": [{"de": "dankbar", "en": "grateful"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "{{c1::Sollten::sollen}} Sie Fragen haben, rufen Sie an.",
+      "en": "Should you have any questions, please call.",
+      "focus": "Bedingung ohne *wenn* · formell",
+      "explanation": "In formal letters and emails **Sollten** in position 1 replaces *wenn*: *Sollten Sie Fragen haben* = *Wenn Sie Fragen haben*. The condition is a full clause, so the main clause starts with its verb: *rufen Sie an*. *sollte* has no umlaut.",
+      "pattern": "**Sollten** + Sie + … + Infinitiv, + Verb + Subjekt …",
+      "mistake": {"wrong": "Sollten Sie Fragen haben, Sie rufen an.", "why": "The *Sollten*-clause fills position 1 of the whole sentence, so the main clause must start with the finite verb: *…, rufen Sie an.*"},
+      "examples": [
+        {"de": "Sollten Sie verhindert sein, sagen Sie bitte rechtzeitig ab.", "en": "Should you be unable to come, please cancel in good time."},
+        {"de": "Sollte der Termin nicht passen, melden Sie sich bitte.", "en": "Should the date not suit you, please get in touch."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Du {{c1::solltest::sollen}} mal zum Arzt gehen.",
+      "en": "You should go and see a doctor.",
+      "focus": "Ratschlag · *du* · Modalverb ohne Umlaut",
+      "explanation": "Advice is given with the Konjunktiv II of *sollen*: **solltest** (*sollte* + *-st*; *sollen* has no umlaut). *Du sollst …* would mean that someone else orders it. *mal* makes the advice friendlier.",
+      "pattern": "du + **solltest** + (mal) + … + Infinitiv",
+      "mistake": {"wrong": "Du solltest gehen mal zum Arzt.", "why": "The infinitive closes the sentence: *Du solltest mal zum Arzt gehen.*"},
+      "examples": [
+        {"de": "Du solltest dich ein bisschen ausruhen.", "en": "You should rest a little."},
+        {"de": "Sie sollten mehr Wasser trinken.", "en": "You should drink more water."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir {{c1::könnten::können}} am Wochenende ins Museum gehen.",
+      "en": "We could go to the museum at the weekend.",
+      "focus": "Vorschlag · *wir* · Modalverb",
+      "explanation": "*Wir könnten …* is an open suggestion: the others can still say no. **könnten** = *konnte* + umlaut + *-n* for *wir*. The direction *ins Museum* stands before the infinitive *gehen* at the end.",
+      "pattern": "wir + **könnten** + Zeit + Richtung + Infinitiv",
+      "mistake": {"wrong": "Wir könntet am Wochenende ins Museum gehen.", "why": "*-et* is the *ihr*-ending. With *wir* the form is *könnten*."},
+      "examples": [
+        {"de": "Wir könnten heute Abend Pizza bestellen.", "en": "We could order pizza tonight."},
+        {"de": "Ihr könntet mit dem Rad zum See fahren.", "en": "You could cycle to the lake."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Wie {{c1::wäre::sein}} es mit einem Spaziergang?",
+      "en": "How about a walk?",
+      "focus": "Vorschlag · feste Wendung *Wie … es mit + Dat.?*",
+      "explanation": "*Wie wäre es mit …?* is a fixed phrase for a suggestion (*How about …?*). It uses the Konjunktiv II of *sein*, **wäre**, with *es* as subject. *mit* takes the Dativ: *mit einem Spaziergang* (masculine).",
+      "pattern": "Wie + **wäre** + es + mit + Dat.?",
+      "mistake": {"wrong": "Wie würde es mit einem Spaziergang?", "why": "*würde* would need an infinitive. The fixed phrase uses the Konjunktiv II of *sein*: *Wie wäre es mit …?*"},
+      "examples": [
+        {"de": "Wie wäre es mit Freitagnachmittag?", "en": "How about Friday afternoon?"},
+        {"de": "Wie wäre es mit einer kleinen Pause?", "en": "How about a short break?"}
+      ],
+      "words": [{"de": "der Spaziergang (¨-e)", "en": "walk, stroll"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Wärst::sein}} du so lieb, mir ein Glas Wasser zu bringen?",
+      "en": "Would you be a dear and bring me a glass of water?",
+      "focus": "freundliche Bitte · *du* · *so lieb, … zu*",
+      "explanation": "This is the informal version of *Wären Sie so nett …?*. The *du*-form of *wäre* is **wärst** (also *wärest*). The request itself follows as a *zu*-infinitive: *mir ein Glas Wasser zu bringen*.",
+      "pattern": "**Wärst** + du + so + Adjektiv, + zu-Infinitiv?",
+      "mistake": {"wrong": "Wären du so lieb, mir ein Glas Wasser zu bringen?", "why": "*wären* is the form for *wir/sie/Sie*. With *du* the form is *wärst*."},
+      "examples": [
+        {"de": "Wärst du so nett, die Tür aufzumachen?", "en": "Would you be so kind as to open the door?"},
+        {"de": "Wärt ihr so lieb, leise zu sein?", "en": "Would you be so kind as to be quiet?"}
+      ],
+      "words": [{"de": "lieb", "en": "kind, sweet"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Würden::werden}} Sie mir bitte sagen, wann der nächste Zug fährt?",
+      "en": "Would you please tell me when the next train leaves?",
+      "focus": "höfliche Bitte + indirekte Frage · *Sie*",
+      "explanation": "The request uses **Würden** + the infinitive *sagen*; formal *Sie* takes the plural form. The real question follows as an indirect question: after *wann* the verb *fährt* goes to the end.",
+      "pattern": "**Würden** + Sie + Dat. + bitte + sagen, + W-Wort + … + Verb?",
+      "mistake": {"wrong": "Würdest Sie mir bitte sagen, wann der nächste Zug fährt?", "why": "*würdest* is the *du*-form. With formal *Sie* it must be *Würden Sie …?*"},
+      "examples": [
+        {"de": "Würden Sie mir bitte sagen, wo ich unterschreiben muss?", "en": "Would you please tell me where I have to sign?"},
+        {"de": "Würden Sie mir erklären, wie der Automat funktioniert?", "en": "Would you explain to me how the machine works?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ich {{c1::hätte::haben}} da noch eine Frage zu meiner Rechnung.",
+      "en": "I'd like to ask one more question about my bill.",
+      "focus": "vorsichtige Einleitung · Konjunktiv II statt Präsens",
+      "explanation": "*Ich habe eine Frage* is a plain fact; **Ich hätte da noch eine Frage** sounds careful and polite, e.g. on the phone or at a counter. *hätte* is a full verb with the object *eine Frage*. *da* and *noch* are small softening words.",
+      "pattern": "ich + **hätte** + da + noch + Akk.",
+      "mistake": {"wrong": "Ich würde da noch eine Frage zu meiner Rechnung.", "why": "*würde* needs an infinitive. For *eine Frage haben*, use the Konjunktiv II of *haben*: *Ich hätte …*"},
+      "examples": [
+        {"de": "Ich hätte noch eine Bitte an Sie.", "en": "I have one more request for you, if I may."},
+        {"de": "Wir hätten da einen Vorschlag für das nächste Treffen.", "en": "We'd like to make a suggestion for the next meeting."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Würdet::werden}} ihr bitte etwas leiser sprechen?",
+      "en": "Would you (all) please talk a bit more quietly?",
+      "focus": "Bitte an mehrere Personen · *ihr*",
+      "explanation": "The request goes to several people you call *du*, so the *ihr*-form is needed: würde + *-t* → **Würdet**. *etwas leiser* (comparative) stands in the middle, and *sprechen* goes to the end.",
+      "pattern": "**Würdet** + ihr + bitte + … + Infinitiv?",
+      "mistake": {"wrong": "Würdest ihr bitte etwas leiser sprechen?", "why": "*-st* is the *du*-ending. With *ihr* the ending is *-t*: *Würdet ihr …?*"},
+      "examples": [
+        {"de": "Würdet ihr bitte eure Schuhe ausziehen?", "en": "Would you take your shoes off, please?"},
+        {"de": "Würdet ihr bitte kurz im Flur warten?", "en": "Would you (all) please wait in the hallway for a moment?"}
+      ],
+      "words": [],
+      "production_cue": "(informal ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich {{c1::würde::werden}} vorschlagen, dass wir eine kurze Pause machen.",
+      "en": "I would suggest that we take a short break.",
+      "focus": "Meinung im Meeting · vorsichtig formulieren",
+      "explanation": "In meetings people soften their opinion with **würde** + a verb of saying: *Ich würde vorschlagen / sagen / empfehlen …*. The infinitive *vorschlagen* stays in one word at the end of the main clause. The *dass*-clause has its verb at the end.",
+      "pattern": "ich + **würde** + vorschlagen, dass + … + Verb",
+      "mistake": {"wrong": "Ich würde vorgeschlagen, dass wir eine kurze Pause machen.", "why": "*würde* is followed by the infinitive, not the Partizip II: *würde vorschlagen*."},
+      "examples": [
+        {"de": "Ich würde sagen, wir fangen gleich an.", "en": "I'd say we start right away."},
+        {"de": "Ich würde empfehlen, das Angebot noch einmal zu prüfen.", "en": "I would recommend checking the offer again."}
+      ],
+      "words": [{"de": "vorschlagen", "en": "to suggest"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Möchten::mögen}} Sie noch einen Kaffee?",
+      "en": "Would you like another coffee?",
+      "focus": "Angebot · *Sie* · Wunsch erfragen",
+      "explanation": "To offer something politely, ask with **Möchten Sie …?** (plural form for formal *Sie*). *noch einen Kaffee* means *one more coffee*; *einen* is masculine Akkusativ. No infinitive is needed, because *möchte* can take an object directly.",
+      "pattern": "**Möchten** + Sie + noch + Akk.?",
+      "mistake": {"wrong": "Mochten Sie noch einen Kaffee?", "why": "*mochten* without umlaut is the Präteritum (*did you like*). An offer needs *möchten*."},
+      "examples": [
+        {"de": "Möchten Sie etwas trinken?", "en": "Would you like something to drink?"},
+        {"de": "Möchtest du noch ein Stück Kuchen?", "en": "Would you like another piece of cake?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Könnte::können}} ich bitte kurz Ihr Telefon benutzen?",
+      "en": "Could I use your phone for a moment, please?",
+      "focus": "um Erlaubnis bitten · *ich*",
+      "explanation": "*Könnte ich …?* asks for permission for yourself; it is a little softer than *Kann ich …?*. The *ich*-form is **Könnte**, with no ending after *-e*. *kurz* (briefly) and the object *Ihr Telefon* stand in the middle, *benutzen* at the end.",
+      "pattern": "**Könnte** + ich + bitte + … + Infinitiv?",
+      "mistake": {"wrong": "Könntest ich bitte kurz Ihr Telefon benutzen?", "why": "*-st* is the *du*-ending. With *ich* the form is *könnte*."},
+      "examples": [
+        {"de": "Könnte ich das Zimmer vorher sehen?", "en": "Could I see the room beforehand?"},
+        {"de": "Könnte ich morgen etwas später kommen?", "en": "Could I come a little later tomorrow?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Es wäre sehr nett, wenn Sie mich morgen zurückrufen {{c1::könnten::können}}.",
+      "en": "It would be very kind if you could call me back tomorrow.",
+      "focus": "*wenn*-Satz · Modalverb am Ende · *Sie*",
+      "explanation": "A very polite indirect request: *Es wäre nett, wenn …*. In the *wenn*-clause the finite verb goes to the end, after the infinitive: *zurückrufen* **könnten** (Konjunktiv II, plural for *Sie*). Both clauses are in the Konjunktiv II.",
+      "pattern": "Es wäre nett, wenn + Subjekt + … + Infinitiv + **könnten**",
+      "mistake": {"wrong": "Es wäre sehr nett, wenn Sie könnten mich morgen zurückrufen.", "why": "In a *wenn*-clause the finite verb *könnten* goes to the very end: *…, wenn Sie mich morgen zurückrufen könnten.*"},
+      "examples": [
+        {"de": "Es wäre toll, wenn du mir beim Umzug helfen könntest.", "en": "It would be great if you could help me with the move."},
+        {"de": "Es wäre gut, wenn ihr pünktlich kommen könntet.", "en": "It would be good if you could arrive on time."}
+      ],
+      "words": [{"de": "zurückrufen", "en": "to call back"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich {{c1::würde::werden}} mich sehr freuen, wenn Sie Zeit hätten.",
+      "en": "I would be very pleased if you had time.",
+      "focus": "höfliche Einladung · reflexives Verb",
+      "explanation": "*sich freuen* is a reflexive verb; in the Konjunktiv II it becomes **würde** + *mich* + *freuen*, with the pronoun in the middle. The *wenn*-clause also takes the Konjunktiv II: *wenn Sie Zeit hätten*. This is a typical line in an invitation.",
+      "pattern": "ich + **würde** + mich + … + freuen, wenn … + hätten",
+      "mistake": {"wrong": "Ich würde mich sehr freuen, wenn Sie Zeit hatten.", "why": "*hatten* is Präteritum and refers to the past. The polite present condition needs the Konjunktiv II *hätten*."},
+      "examples": [
+        {"de": "Wir würden uns freuen, wenn Sie zu unserer Feier kämen.", "en": "We would be pleased if you came to our party."},
+        {"de": "Sie würde sich freuen, wenn du sie anrufen würdest.", "en": "She would be pleased if you called her."}
+      ],
+      "words": [{"de": "sich freuen", "en": "to be pleased, to be happy"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the forms of the Konjunktiv II.",
+      "prompt": "Which verbs normally use their own Konjunktiv II form instead of *würde* + infinitive?",
+      "answer": "**haben → hätte**, **sein → wäre**, the modal verbs (**könnte, dürfte, müsste, sollte, wollte, möchte**) and **wissen → wüsste**. Almost all other verbs use **würde** + infinitive.",
+      "explanation": "These verbs are so frequent that their own forms are normal in speech. *Ich würde gern Zeit haben* or *Das würde schön sein* are possible but clumsy. For a verb like *helfen* or *schließen* the *würde*-form is the normal choice: *Würden Sie mir helfen?*",
+      "examples": [
+        {"de": "Hättest du morgen Lust auf Kino?", "en": "Would you fancy the cinema tomorrow?"},
+        {"de": "Würden Sie mir bitte den Koffer tragen?", "en": "Would you carry my suitcase for me, please?"}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about how the forms are built.",
+      "prompt": "How are *hätte, wäre, könnte* and *würde* built?",
+      "answer": "From the **Präteritum** + **umlaut**: *hatte → hätte*, *war → wäre* (+ *-e*), *konnte → könnte*, *wurde → würde*. Endings: *ich/er* -e, *du* -est, *wir/sie/Sie* -en, *ihr* -et.",
+      "explanation": "The umlaut is the sign of the Konjunktiv II. Without it you get the Präteritum, which means something different: *Konnten Sie …?* = *Were you able to …?*. *sollte* and *wollte* have no umlaut, so their Konjunktiv II looks like the Präteritum.",
+      "examples": [
+        {"de": "Er hatte keine Zeit.", "en": "He had no time."},
+        {"de": "Er hätte gern mehr Zeit.", "en": "He would like to have more time."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Compare the politeness of the three requests.",
+      "prompt": "How do *Können Sie mir helfen?*, *Könnten Sie mir helfen?* and *Würden Sie mir bitte helfen?* differ?",
+      "answer": "*Können Sie …?* (Präsens) is direct and fine in quick everyday situations. *Könnten Sie …?* is the neutral polite standard. *Würden Sie bitte …?* is also polite and asks whether the person is willing to do it.",
+      "explanation": "*können* asks about ability or possibility, *würden* about willingness. Both Konjunktiv II forms are polite; *bitte* and words like *vielleicht* or *kurz* make them softer still. With strangers, at work and in offices the Konjunktiv II is the safe choice.",
+      "examples": [
+        {"de": "Können Sie das mal kurz halten?", "en": "Can you hold this for a second?"},
+        {"de": "Würden Sie bitte im Wartezimmer Platz nehmen?", "en": "Would you please take a seat in the waiting room?"}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain why one form sounds rude.",
+      "prompt": "Why is *Ich will ein Bier* impolite in a restaurant, and what do you say instead?",
+      "answer": "*wollen* in the Präsens expresses a firm will or demand. To order politely you say **Ich hätte gern …** or **Ich möchte …** (+ Akkusativ).",
+      "explanation": "*möchte* and *hätte gern* are Konjunktiv II forms; they present the order as a wish, not a demand. *Ich nehme …* (I'll have …) is also neutral and common. *Ich will …* is fine for strong intentions (*Ich will Ärztin werden*), but not for requests.",
+      "examples": [
+        {"de": "Ich möchte ein kleines Bier, bitte.", "en": "I'd like a small beer, please."},
+        {"de": "Ich nehme den Salat mit Hähnchen.", "en": "I'll have the salad with chicken."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about advice and suggestions.",
+      "prompt": "Which Konjunktiv II forms do you use for advice, and which for a suggestion?",
+      "answer": "Advice: **Du solltest …** / **An deiner Stelle würde ich …** / *Es wäre besser, …*. Suggestion: **Wir könnten …** / **Wie wäre es mit …?**",
+      "explanation": "*sollte* presents a recommendation without pressure, unlike *Du musst …*. *könnten* opens a possibility that the others can accept or refuse. Both forms let the speaker sound friendly rather than controlling.",
+      "examples": [
+        {"de": "Du solltest früher ins Bett gehen.", "en": "You should go to bed earlier."},
+        {"de": "Wir könnten zusammen für die Prüfung lernen.", "en": "We could study for the exam together."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct form for a polite request.",
+      "prompt": "___ Sie mir bitte den Weg zum Bahnhof beschreiben?",
+      "options": ["Könnten", "Konnten", "Hätten", "Wären"],
+      "correct": "Könnten",
+      "answer": "Könnten Sie mir bitte den Weg zum Bahnhof beschreiben?",
+      "explanation": "The infinitive *beschreiben* at the end needs a modal-type verb: *Könnten Sie …?*. *Konnten* (no umlaut) is Präteritum. *Hätten* and *Wären* are forms of *haben* and *sein* and cannot combine with *beschreiben* like this."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form for ordering.",
+      "prompt": "Ich ___ gern ein Stück Apfelkuchen.",
+      "options": ["hätte", "würde", "wäre", "hatte"],
+      "correct": "hätte",
+      "answer": "Ich hätte gern ein Stück Apfelkuchen.",
+      "explanation": "There is no infinitive, so you need a full verb: *Ich hätte gern* + Akkusativ. *würde* would need an infinitive (*… essen*), *wäre* does not fit with an object, and *hatte* is Präteritum."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Danke, das ___ wirklich nett von dir.",
+      "options": ["wäre", "hätte", "würde"],
+      "correct": "wäre",
+      "answer": "Danke, das wäre wirklich nett von dir.",
+      "explanation": "*nett sein* needs *sein*, so the Konjunktiv II is *wäre*. *hätte* belongs to *haben* (*Zeit haben*), and *würde* would need an infinitive."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Könnten du mir kurz deinen Stift geben?",
+      "answer": "Könntest du mir kurz deinen Stift geben?",
+      "explanation": "With *du* the Konjunktiv II ending is *-est*: *könntest*. *könnten* is the form for *wir*, *sie* and *Sie*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake. Keep the sentence short (no second verb).",
+      "prompt": "Ich würde gern ein Einzelzimmer für zwei Nächte.",
+      "answer": "Ich hätte gern ein Einzelzimmer für zwei Nächte.",
+      "explanation": "*würde* cannot stand without an infinitive. Without a second verb, use *Ich hätte gern …*. With a second verb, *würde* is fine: *Ich würde gern ein Einzelzimmer buchen.*"
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Hätten Sie so freundlich, mir die Tür aufzuhalten?",
+      "answer": "Wären Sie so freundlich, mir die Tür aufzuhalten?",
+      "explanation": "*freundlich* is an adjective and goes with *sein*: *so freundlich sein*. The Konjunktiv II of *sein* is *wären*, not *hätten*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Make the request more polite with the Konjunktiv II of the same verb.",
+      "prompt": "Können Sie mir die Unterlagen schicken?",
+      "answer": "Könnten Sie mir die Unterlagen schicken?",
+      "explanation": "Präsens *können* → Konjunktiv II *könnten* (umlaut from *konnten*). Word order and the infinitive *schicken* at the end stay the same."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Turn the imperative into a polite question with *würde* (du).",
+      "prompt": "Gib mir bitte den Schlüssel!",
+      "answer": "Würdest du mir bitte den Schlüssel geben?",
+      "explanation": "The imperative *Gib!* becomes *Würdest du … geben?*: *würdest* takes position 1, and *geben* goes as an infinitive to the end. The objects *mir* and *den Schlüssel* stay in the middle."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Make the wish polite with *hätte gern*.",
+      "prompt": "Ich will einen Termin am Montag.",
+      "answer": "Ich hätte gern einen Termin am Montag.",
+      "explanation": "*Ich will* sounds like a demand. *Ich hätte gern* + Akkusativ presents the same wish politely; the object *einen Termin* does not change."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Make the question more polite with the Konjunktiv II.",
+      "prompt": "Ist es möglich, den Termin zu verschieben?",
+      "answer": "Wäre es möglich, den Termin zu verschieben?",
+      "explanation": "*ist* → *wäre*, the Konjunktiv II of *sein*. It presents the change as a possibility, not a demand. The *zu*-infinitive after the comma stays the same."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in order to make a polite yes/no question.",
+      "prompt": "Sie / mir / würden / bitte / helfen / beim Tragen",
+      "answer": "Würden Sie mir bitte beim Tragen helfen?",
+      "explanation": "In a yes/no question *Würden* comes first, then the subject *Sie*. The Dativ pronoun *mir* comes early in the Mittelfeld, then *bitte* and *beim Tragen*; the infinitive *helfen* closes the sentence. Also correct: *Würden Sie mir beim Tragen bitte helfen?*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: An Ihrer Stelle",
+      "prompt": "ich / würde / das Angebot / annehmen / an Ihrer Stelle",
+      "answer": "An Ihrer Stelle würde ich das Angebot annehmen.",
+      "explanation": "*An Ihrer Stelle* fills the Vorfeld, so *würde* follows in position 2 and the subject *ich* comes after it. The object *das Angebot* stands in the middle and the infinitive *annehmen* at the end. Without the fixed start: *Ich würde an Ihrer Stelle das Angebot annehmen.*"
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one polite sentence. Start with *Es wäre toll, wenn …* and use *könntest*.",
+      "prompt": "Du holst mich vom Bahnhof ab. Das wäre toll.",
+      "answer": "Es wäre toll, wenn du mich vom Bahnhof abholen könntest.",
+      "explanation": "The wish becomes a *wenn*-clause in the Konjunktiv II. *abholen* is now an infinitive and stays in one word, and the finite verb *könntest* goes to the very end of the *wenn*-clause."
+    }
+  ]
+}

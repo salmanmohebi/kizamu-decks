@@ -1,0 +1,720 @@
+{
+  "topic_id": "b1-10-konjunktionen-v-end",
+  "level": "B1",
+  "title_de": "Subordinierende Konjunktionen (V-end)",
+  "title_en": "Subordinating conjunctions (verb at the end)",
+  "rule": {
+    "summary": "Subordinating conjunctions such as *obwohl, damit, falls, bevor, nachdem, während, sobald, solange, bis, seitdem, sodass* and *da* start a **Nebensatz**. In the Nebensatz the **finite verb goes to the end**; a comma always separates it from the main clause. If the Nebensatz comes first, it fills the Vorfeld, so the main clause **starts with its finite verb** (*Obwohl es regnet,* **gehe** *ich spazieren.*). Each conjunction expresses one relation: contrast, purpose, condition, time, result or reason.",
+    "table": "| Konjunktion | Bedeutung | Beispiel |\n|---|---|---|\n| **obwohl** | although (contrast) | *Obwohl er müde ist, arbeitet er.* |\n| **damit** | so that (purpose) | *Ich erkläre es, damit du es verstehst.* |\n| **falls** | in case, if | *Falls es regnet, bleiben wir hier.* |\n| **bevor** | before | *Bevor du gehst, ruf mich an.* |\n| **nachdem** | after (earlier tense) | *Nachdem ich gegessen hatte, ging ich.* |\n| **während** | while / whereas | *Während ich koche, hört sie Musik.* |\n| **sobald** | as soon as | *Sobald ich ankomme, schreibe ich dir.* |\n| **solange** | as long as | *Solange du Fieber hast, bleibst du im Bett.* |\n| **bis** | until | *Warte, bis ich zurück bin.* |\n| **seit(dem)** | since (until now) | *Seitdem sie hier wohnt, ist sie glücklich.* |\n| **sodass** / **so … dass** | so that (result) | *Es regnete, sodass wir blieben.* |\n| **da** | since, as (known reason) | *Da ich krank bin, komme ich nicht.* |",
+    "steps": [
+      "Choose the conjunction by meaning: contrast (*obwohl*), purpose (*damit*), condition (*falls*), time (*bevor, nachdem, während, sobald, solange, bis, seitdem*), result (*sodass*), reason (*da*).",
+      "Put the subject right after the conjunction and the **finite verb at the end** of the Nebensatz.",
+      "With two or more verbs the finite verb comes last: *… gelernt hat*, *… kaufen können*. Separable verbs join together: *… einsteigst*.",
+      "Separate the clauses with a comma.",
+      "If the Nebensatz comes first, start the main clause with its finite verb: *Nebensatz, Verb + Subjekt …* (verb – comma – verb).",
+      "With *nachdem* use an earlier tense in the Nebensatz: Präteritum/Perfekt in the main clause → Plusquamperfekt; Präsens → Perfekt."
+    ],
+    "pitfalls": [
+      "Main-clause word order in the Nebensatz: ✗ *…, obwohl es ist kalt.* → ✓ *…, obwohl es kalt ist.*",
+      "Subject before the verb after a fronted Nebensatz: ✗ *Obwohl es regnet, ich gehe spazieren.* → ✓ *Obwohl es regnet, gehe ich spazieren.*",
+      "Using a preposition as a conjunction: ✗ *Vor ich schlafe, …* → ✓ *Bevor ich schlafe, …*; ✗ *Trotz er reich ist, …* → ✓ *Obwohl er reich ist, …*",
+      "Mixing *damit* and *um … zu*: ✗ *…, um du es verstehst.* → ✓ *…, damit du es verstehst.* *um … zu* has no subject of its own.",
+      "Same tense with *nachdem*: ✗ *Nachdem ich aß, ging ich.* → ✓ *Nachdem ich gegessen hatte, ging ich.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "{{c1::Obwohl::Gegensatz}} es regnet, gehe ich spazieren.",
+      "en": "Although it's raining, I'm going for a walk.",
+      "focus": "Konzessivsatz · Nebensatz im Vorfeld",
+      "explanation": "The rain would normally stop the walk, but it does not → an unexpected contrast, expressed with **obwohl** (although). *obwohl* sends *regnet* to the end. The whole Nebensatz fills the Vorfeld, so the main clause starts with its finite verb: *gehe ich*.",
+      "pattern": "Obwohl + Subjekt … Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Obwohl es regnet, ich gehe spazieren.", "why": "The Nebensatz already occupies position 1. The finite verb of the main clause must come next (position 2), so the subject goes after it: *gehe ich*."},
+      "examples": [
+        {"de": "Obwohl der Film lang war, war er nie langweilig.", "en": "Although the film was long, it was never boring."},
+        {"de": "Obwohl wir uns beeilt haben, haben wir den Zug verpasst.", "en": "Although we hurried, we missed the train."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich lerne fleißig, {{c1::damit::Zweck}} ich die Prüfung bestehe.",
+      "en": "I'm studying hard so that I pass the exam.",
+      "focus": "Finalsatz · Nebensatz nach dem Hauptsatz",
+      "explanation": "Passing the exam is the purpose of studying → **damit** (so that). *damit* is a subordinating conjunction, so the finite verb *bestehe* goes to the end. Here both clauses have the same subject, so *um die Prüfung zu bestehen* would also be possible.",
+      "pattern": "Hauptsatz, damit + Subjekt … Verb.",
+      "mistake": {"wrong": "Ich lerne fleißig, damit ich bestehe die Prüfung.", "why": "In a *damit*-clause the finite verb stands at the end, after the object: *damit ich die Prüfung bestehe*."},
+      "examples": [
+        {"de": "Sie spricht langsam, damit alle sie verstehen.", "en": "She speaks slowly so that everyone understands her."},
+        {"de": "Wir gehen früh los, damit wir einen Parkplatz finden.", "en": "We're leaving early so that we find a parking space."}
+      ],
+      "words": [{"de": "eine Prüfung bestehen", "en": "to pass an exam"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "{{c1::Falls::Bedingung}} du Hilfe brauchst, ruf mich an.",
+      "en": "In case you need help, call me.",
+      "focus": "Konditionalsatz · Imperativ im Hauptsatz",
+      "explanation": "**falls** introduces a possible condition (*in case / if*); it is a little more tentative than *wenn*. The verb *brauchst* goes to the end of the Nebensatz. The main clause is an imperative, so it starts with the verb *ruf* and has no subject.",
+      "pattern": "Falls + Subjekt … Verb, Imperativ …",
+      "mistake": {"wrong": "Falls du brauchst Hilfe, ruf mich an.", "why": "*falls* starts a Nebensatz, so *brauchst* must go to the end: *Falls du Hilfe brauchst, …*"},
+      "examples": [
+        {"de": "Falls der Termin nicht passt, sag mir bitte Bescheid.", "en": "If the appointment doesn't suit you, please let me know."},
+        {"de": "Falls Sie Fragen haben, schreiben Sie mir eine E-Mail.", "en": "If you have any questions, send me an email."}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "{{c1::Bevor::Zeit · vorher}} ich schlafe, lese ich noch.",
+      "en": "Before I go to sleep, I read for a while.",
+      "focus": "Temporalsatz · Hauptsatzhandlung zuerst",
+      "explanation": "The reading happens first, the sleeping later → **bevor** (before) introduces the later action. *schlafe* goes to the end of the Nebensatz, and the main clause starts with its verb: *lese ich*. *noch* here means *still, before that*.",
+      "pattern": "Bevor + Subjekt … Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Vor ich schlafe, lese ich noch.", "why": "*vor* is a preposition and needs a noun (*vor dem Schlafen*). To introduce a clause you need the conjunction *bevor*."},
+      "examples": [
+        {"de": "Bevor wir essen, waschen wir uns die Hände.", "en": "Before we eat, we wash our hands."},
+        {"de": "Bevor sie das Haus verlässt, schaut sie aufs Handy.", "en": "Before she leaves the house, she checks her phone."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "{{c1::Nachdem::Zeit · danach}} ich gegessen hatte, ging ich joggen.",
+      "en": "After I had eaten, I went jogging.",
+      "focus": "Temporalsatz · Vorzeitigkeit · Plusquamperfekt",
+      "explanation": "Eating happened first, jogging second. **nachdem** introduces the earlier action, and it needs an earlier tense: main clause Präteritum (*ging*) → Nebensatz Plusquamperfekt (*gegessen hatte*). The finite verb *hatte* comes last, after the Partizip II.",
+      "pattern": "Nachdem + Subjekt … Partizip II + hatte/war, Präteritum …",
+      "mistake": {"wrong": "Nachdem ich gegessen habe, ging ich joggen.", "why": "The tenses do not match. With a Präteritum main clause, the *nachdem*-clause must be in the Plusquamperfekt: *gegessen hatte*."},
+      "examples": [
+        {"de": "Nachdem sie die Prüfung bestanden hatte, feierte sie mit Freunden.", "en": "After she had passed the exam, she celebrated with friends."},
+        {"de": "Nachdem der Regen aufgehört hatte, gingen wir los.", "en": "After the rain had stopped, we set off."}
+      ],
+      "words": [],
+      "production_cue": "(Plusquamperfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "{{c1::Während::Zeit · gleichzeitig}} ich kochte, hörte ich Musik.",
+      "en": "While I was cooking, I listened to music.",
+      "focus": "Temporalsatz · Gleichzeitigkeit",
+      "explanation": "Both actions happen at the same time → **während** (while). Both clauses are in the Präteritum because the actions run in parallel. *kochte* goes to the end of the Nebensatz; the main clause starts with *hörte*.",
+      "pattern": "Während + Subjekt … Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Während kochte ich, hörte ich Musik.", "why": "After *während* the subject comes first and the finite verb goes to the end: *Während ich kochte, …*"},
+      "examples": [
+        {"de": "Während das Baby schlief, räumte sie die Küche auf.", "en": "While the baby was sleeping, she tidied the kitchen."},
+        {"de": "Während wir warteten, tranken wir einen Kaffee.", "en": "While we were waiting, we had a coffee."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "{{c1::Sobald::Zeit · sofort danach}} der Bus kommt, steigen wir ein.",
+      "en": "As soon as the bus comes, we'll get on.",
+      "focus": "Temporalsatz · unmittelbare Folge · trennbares Verb",
+      "explanation": "**sobald** means that the second action follows immediately (*as soon as*). The Präsens refers to the future here. In the Nebensatz *kommt* is at the end; the main clause begins with its verb *steigen*, and the separable prefix *ein* goes to the end of the main clause.",
+      "pattern": "Sobald + Subjekt … Verb, Verb + Subjekt … Präfix",
+      "mistake": {"wrong": "Sobald der Bus kommt, wir steigen ein.", "why": "After the fronted Nebensatz the main-clause verb must follow directly: *steigen wir ein*, not *wir steigen ein*."},
+      "examples": [
+        {"de": "Sobald der Film anfängt, schalte ich das Handy aus.", "en": "As soon as the film starts, I'll switch off my phone."},
+        {"de": "Sobald die Ergebnisse da sind, informieren wir Sie.", "en": "As soon as the results are in, we'll inform you."}
+      ],
+      "words": [{"de": "einsteigen", "en": "to get on (a bus, train)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Solange::Zeit · Dauer}} du hier bist, kannst du bei uns wohnen.",
+      "en": "As long as you're here, you can stay with us.",
+      "focus": "Temporalsatz · gleiche Dauer · Modalverb im Hauptsatz",
+      "correction": "The legacy main clause *kannst du bleiben* repeated the meaning of *hier sein* (\"as long as you're here, you can stay\"). Changed to *kannst du bei uns wohnen* so the sentence makes sense.",
+      "explanation": "**solange** says that two situations last for the same time (*as long as*). *bist* goes to the end of the Nebensatz. The main clause starts with the modal verb *kannst*, and the infinitive *wohnen* closes the sentence.",
+      "pattern": "Solange + Subjekt … Verb, Modalverb + Subjekt … Infinitiv",
+      "mistake": {"wrong": "Solange du bist hier, kannst du bei uns wohnen.", "why": "*solange* starts a Nebensatz: the finite verb *bist* belongs at the end: *Solange du hier bist, …*"},
+      "examples": [
+        {"de": "Solange ich arbeite, schaut meine Mutter nach den Kindern.", "en": "While I'm at work, my mother looks after the children."},
+        {"de": "Solange das Geschäft geöffnet ist, brennt das Licht.", "en": "As long as the shop is open, the light is on."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Es regnete stark, {{c1::sodass::Folge}} wir zu Hause blieben.",
+      "en": "It rained heavily, so we stayed at home.",
+      "focus": "Konsekutivsatz · Folge im Nebensatz",
+      "explanation": "Staying at home is the **result** of the rain → **sodass** (so, with the result that). A *sodass*-clause always follows the main clause. It is a Nebensatz, so *blieben* goes to the end.",
+      "pattern": "Hauptsatz, sodass + Subjekt … Verb.",
+      "mistake": {"wrong": "Es regnete stark, sodass wir blieben zu Hause.", "why": "*sodass* is subordinating, so the finite verb *blieben* goes to the end: *sodass wir zu Hause blieben*."},
+      "examples": [
+        {"de": "Die Straße war gesperrt, sodass wir einen Umweg fahren mussten.", "en": "The road was closed, so we had to take a detour."},
+        {"de": "Er hat verschlafen, sodass er zu spät kam.", "en": "He overslept, so he was late."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "{{c1::Da::Grund}} ich krank bin, kann ich nicht kommen.",
+      "en": "Since I'm ill, I can't come.",
+      "focus": "Kausalsatz · bekannter Grund · Vorfeld",
+      "explanation": "**da** gives a reason, like *weil*, but often a reason that is known or obvious; *da*-clauses usually come first. *da* is subordinating → *bin* at the end. The main clause starts with the modal verb *kann*.",
+      "pattern": "Da + Subjekt … Verb, Modalverb + Subjekt … Infinitiv",
+      "mistake": {"wrong": "Denn ich krank bin, kann ich nicht kommen.", "why": "*denn* is a coordinating conjunction: it does not send the verb to the end and cannot start a fronted clause. Use *da* or *weil*: *Da ich krank bin, …*"},
+      "examples": [
+        {"de": "Da der Zug ausfällt, nehmen wir den Bus.", "en": "Since the train is cancelled, we're taking the bus."},
+        {"de": "Da es schon spät war, sind wir mit dem Taxi gefahren.", "en": "As it was already late, we took a taxi."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "{{c1::Obwohl::Gegensatz}} sie müde ist, arbeitet sie weiter.",
+      "en": "Although she's tired, she keeps working.",
+      "focus": "Konzessivsatz · trennbares Verb im Hauptsatz",
+      "explanation": "Being tired would be a reason to stop, but she continues → **obwohl**. *ist* goes to the end of the Nebensatz. In the main clause *weiterarbeiten* is separable: *arbeitet* comes right after the comma and *weiter* goes to the end.",
+      "pattern": "Obwohl + Subjekt + Adj. + sein, Verb + Subjekt + Präfix",
+      "mistake": {"wrong": "Obwohl sie ist müde, arbeitet sie weiter.", "why": "In the *obwohl*-clause the finite verb goes to the end, after the adjective: *obwohl sie müde ist*."},
+      "examples": [
+        {"de": "Obwohl er erkältet ist, geht er joggen.", "en": "Although he has a cold, he goes jogging."},
+        {"de": "Obwohl die Wohnung klein ist, fühlen wir uns wohl.", "en": "Although the flat is small, we feel at home."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir sparen, {{c1::damit::Zweck}} wir ein Haus kaufen können.",
+      "en": "We're saving so that we can buy a house.",
+      "focus": "Finalsatz · Modalverb am Ende",
+      "explanation": "Buying a house is the goal of saving → **damit**. In the Nebensatz with a modal verb the infinitive comes first and the finite modal verb last: *kaufen können*. Because the subject is the same in both clauses, *um ein Haus kaufen zu können* is also possible.",
+      "pattern": "…, damit + Subjekt … Infinitiv + Modalverb.",
+      "mistake": {"wrong": "Wir sparen, damit wir ein Haus können kaufen.", "why": "In a Nebensatz the finite modal verb stands at the very end, after the infinitive: *kaufen können*."},
+      "examples": [
+        {"de": "Ich mache einen Deutschkurs, damit ich im Job besser kommunizieren kann.", "en": "I'm taking a German course so that I can communicate better at work."},
+        {"de": "Sie arbeitet von zu Hause, damit sie mehr Zeit für ihre Kinder hat.", "en": "She works from home so that she has more time for her children."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "{{c1::Bevor::Zeit · vorher}} du gehst, mach bitte das Licht aus.",
+      "en": "Before you leave, please turn off the light.",
+      "focus": "Temporalsatz · Imperativ im Hauptsatz",
+      "explanation": "Turning off the light must happen first, leaving comes later → **bevor** introduces the later action. *gehst* goes to the end of the Nebensatz. The main clause is an imperative with the separable verb *ausmachen*: *mach … aus*.",
+      "pattern": "Bevor + Subjekt … Verb, Imperativ … Präfix",
+      "mistake": {"wrong": "Bevor gehst du, mach bitte das Licht aus.", "why": "In the *bevor*-clause the subject follows the conjunction and the verb goes to the end: *Bevor du gehst, …*"},
+      "examples": [
+        {"de": "Bevor du abfährst, tank bitte noch.", "en": "Before you set off, please fill up the tank."},
+        {"de": "Bevor ihr unterschreibt, lest den Vertrag genau.", "en": "Before you sign, read the contract carefully."}
+      ],
+      "words": [{"de": "ausmachen", "en": "to turn off"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "{{c1::Nachdem::Zeit · danach}} der Film zu Ende war, gingen wir nach Hause.",
+      "en": "After the film was over, we went home.",
+      "focus": "Temporalsatz · Vorzeitigkeit · Zustand",
+      "explanation": "The end of the film came first, going home second → **nachdem**. The usual rule asks for the Plusquamperfekt, but *zu Ende sein* already describes the state after the end, so the Präteritum *war* is normal here (*zu Ende gewesen war* sounds heavy). *war* stands at the end of the Nebensatz; *gingen* starts the main clause.",
+      "pattern": "Nachdem + Subjekt … Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Nach der Film zu Ende war, gingen wir nach Hause.", "why": "*nach* is a preposition (*nach dem Film*). A clause with its own subject and verb needs the conjunction *nachdem*."},
+      "examples": [
+        {"de": "Nachdem die Gäste weg waren, räumten wir auf.", "en": "After the guests had gone, we tidied up."},
+        {"de": "Nachdem das Meeting vorbei war, ging sie in die Mittagspause.", "en": "After the meeting was over, she went on her lunch break."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "{{c1::Während::Zeit · gleichzeitig}} er telefonierte, schrieb ich eine E-Mail.",
+      "en": "While he was on the phone, I wrote an email.",
+      "focus": "Temporalsatz · Gleichzeitigkeit · zwei Subjekte",
+      "explanation": "Two people do two things at the same time → **während**. The Nebensatz has its own subject *er* and ends with *telefonierte*. The main clause has a different subject, *ich*, which comes after the finite verb *schrieb*.",
+      "pattern": "Während + Subjekt A … Verb, Verb + Subjekt B …",
+      "mistake": {"wrong": "Während er telefonierte, ich schrieb eine E-Mail.", "why": "The fronted Nebensatz is position 1, so the main clause continues with the finite verb: *schrieb ich*."},
+      "examples": [
+        {"de": "Während die Kinder spielten, unterhielten sich die Eltern.", "en": "While the children were playing, the parents chatted."},
+        {"de": "Während der Techniker die Heizung reparierte, wartete ich in der Küche.", "en": "While the technician was repairing the heating, I waited in the kitchen."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "{{c1::Sobald::Zeit · sofort danach}} ich Zeit habe, rufe ich dich an.",
+      "en": "As soon as I have time, I'll call you.",
+      "focus": "Temporalsatz · Zukunft mit Präsens",
+      "explanation": "**sobald** links the call directly to the moment the speaker is free. Both clauses are in the Präsens with future meaning. *habe* goes to the end of the Nebensatz; in the main clause *anrufen* is split: *rufe … an*.",
+      "pattern": "Sobald + Subjekt … Verb, Verb + Subjekt … Präfix",
+      "mistake": {"wrong": "Sobald ich habe Zeit, rufe ich dich an.", "why": "*sobald* starts a Nebensatz: the finite verb *habe* must stand at the end: *Sobald ich Zeit habe, …*"},
+      "examples": [
+        {"de": "Sobald ich zu Hause bin, schicke ich dir die Fotos.", "en": "As soon as I'm home, I'll send you the photos."},
+        {"de": "Sobald es wärmer wird, fahren wir an den See.", "en": "As soon as it gets warmer, we'll go to the lake."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "{{c1::Solange::Zeit · Dauer}} es so kalt ist, gehe ich nicht raus.",
+      "en": "As long as it's this cold, I'm not going out.",
+      "focus": "Temporalsatz · gleiche Dauer · Negation",
+      "explanation": "**solange** means *for the whole time that*: the cold and staying inside last equally long. *ist* goes to the end of the Nebensatz. The main clause starts with *gehe*; in the separable verb *rausgehen* the prefix *raus* goes to the end, and *nicht* stands directly before it.",
+      "pattern": "Solange + Subjekt … Verb, Verb + Subjekt + nicht …",
+      "mistake": {"wrong": "Solange es ist so kalt, gehe ich nicht raus.", "why": "The finite verb of the *solange*-clause goes to the end: *solange es so kalt ist*."},
+      "examples": [
+        {"de": "Solange du nicht fragst, kann ich dir nicht helfen.", "en": "As long as you don't ask, I can't help you."},
+        {"de": "Solange die Baustelle da ist, fährt der Bus eine andere Strecke.", "en": "As long as the construction site is there, the bus takes a different route."}
+      ],
+      "words": [{"de": "rausgehen (ugs.)", "en": "to go out(side)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie übte viel, {{c1::sodass::Folge}} sie die Prüfung bestand.",
+      "en": "She practised a lot, so she passed the exam.",
+      "focus": "Konsekutivsatz · Präteritum",
+      "explanation": "Passing is presented as the **result** of practising → **sodass**. (*damit* would present it as her goal.) The *sodass*-clause follows the main clause and has the verb at the end: *bestand* (Präteritum of *bestehen*).",
+      "pattern": "Hauptsatz, sodass + Subjekt … Verb.",
+      "mistake": {"wrong": "Sie übte viel, sodass bestand sie die Prüfung.", "why": "*sodass* is not an adverb like *deshalb*; it starts a Nebensatz. The subject follows it and the verb goes to the end: *sodass sie die Prüfung bestand*."},
+      "examples": [
+        {"de": "Er trainierte jeden Tag, sodass er den Marathon schaffte.", "en": "He trained every day, so he managed the marathon."},
+        {"de": "Die Firma sparte Kosten, sodass sie wieder Gewinn machte.", "en": "The company cut costs, so it made a profit again."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "{{c1::Falls::Bedingung}} es regnet, nimm einen Schirm.",
+      "en": "In case it rains, take an umbrella.",
+      "focus": "Konditionalsatz · Möglichkeit",
+      "explanation": "The rain is only a possibility → **falls** (*in case / if*). *regnet* goes to the end of the Nebensatz. The main clause is an imperative of *nehmen* (strong verb: *nimm!*), placed directly after the comma.",
+      "pattern": "Falls + Subjekt … Verb, Imperativ …",
+      "mistake": {"wrong": "Ob es regnet, nimm einen Schirm.", "why": "English *if* has two German equivalents. *ob* only introduces indirect yes/no questions (*Ich weiß nicht, ob es regnet*). A condition needs *falls* or *wenn*."},
+      "examples": [
+        {"de": "Falls der Akku leer ist, lade ihn über Nacht auf.", "en": "If the battery is flat, charge it overnight."},
+        {"de": "Falls du früher fertig bist, komm einfach vorbei.", "en": "If you're finished earlier, just drop by."}
+      ],
+      "words": [{"de": "der Schirm (-e)", "en": "umbrella"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "{{c1::Obwohl::Gegensatz}} er reich ist, lebt er bescheiden.",
+      "en": "Although he's rich, he lives modestly.",
+      "focus": "Konzessivsatz · Konjunktion statt Präposition",
+      "explanation": "Being rich would suggest an expensive life, but he lives simply → **obwohl**. *ist* goes to the end of the Nebensatz; *lebt* starts the main clause. The preposition with the same meaning is *trotz* + Genitiv (*trotz seines Reichtums*).",
+      "pattern": "Obwohl + Subjekt … Verb, Verb + Subjekt …",
+      "mistake": {"wrong": "Trotz er reich ist, lebt er bescheiden.", "why": "*trotz* is a preposition and needs a noun (*trotz seines Reichtums*). A clause with subject and verb needs the conjunction *obwohl*."},
+      "examples": [
+        {"de": "Obwohl sie wenig verdient, spendet sie regelmäßig.", "en": "Although she earns little, she donates regularly."},
+        {"de": "Obwohl das Hotel teuer war, war der Service schlecht.", "en": "Although the hotel was expensive, the service was poor."}
+      ],
+      "words": [{"de": "bescheiden", "en": "modest(ly)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Wir warten hier, {{c1::bis::Zeit · Endpunkt}} der Regen aufhört.",
+      "en": "We'll wait here until the rain stops.",
+      "focus": "Temporalsatz · Endpunkt · trennbares Verb",
+      "explanation": "**bis** marks the moment when the waiting ends (*until*). In the Nebensatz the separable verb *aufhören* is not split: prefix and verb stand together at the end → *aufhört*.",
+      "pattern": "Hauptsatz, bis + Subjekt … Präfix+Verb.",
+      "mistake": {"wrong": "Wir warten hier, bis der Regen hört auf.", "why": "In a Nebensatz a separable verb joins together at the end: *bis der Regen aufhört*."},
+      "examples": [
+        {"de": "Bleib im Auto, bis ich zurückkomme.", "en": "Stay in the car until I come back."},
+        {"de": "Es dauert noch zwei Wochen, bis die Wohnung fertig ist.", "en": "It will take another two weeks until the flat is ready."}
+      ],
+      "words": [{"de": "aufhören", "en": "to stop"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Seitdem::Zeit · Beginn bis jetzt}} sie in Berlin wohnt, fährt sie nur noch Fahrrad.",
+      "en": "Since she has been living in Berlin, she only cycles.",
+      "focus": "Temporalsatz · Zeitraum bis jetzt · Präsens",
+      "explanation": "**seitdem** (or *seit*) names a period that began in the past and still continues. German uses the Präsens for this (*wohnt*), where English uses the present perfect (*has been living*). The verb goes to the end; the main clause starts with *fährt*.",
+      "pattern": "Seitdem + Subjekt … Präsens, Verb + Subjekt …",
+      "mistake": {"wrong": "Seitdem sie in Berlin wohnt, sie fährt nur noch Fahrrad.", "why": "After the fronted *seitdem*-clause the finite verb of the main clause comes first: *fährt sie*."},
+      "examples": [
+        {"de": "Seitdem er Yoga macht, schläft er besser.", "en": "Since he has been doing yoga, he sleeps better."},
+        {"de": "Seit wir den Hund haben, gehen wir jeden Tag spazieren.", "en": "Since we've had the dog, we go for a walk every day."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Während::Gegensatz}} mein Bruder gern kocht, isst meine Schwester lieber im Restaurant.",
+      "en": "Whereas my brother likes cooking, my sister prefers to eat in restaurants.",
+      "focus": "Adversativsatz · Gegenüberstellung",
+      "explanation": "Here **während** does not express time but a **contrast** between two people (*whereas*). It is still a subordinating conjunction: *kocht* goes to the end, and the main clause starts with *isst*.",
+      "pattern": "Während (Gegensatz) + Subjekt A … Verb, Verb + Subjekt B …",
+      "mistake": {"wrong": "Während mein Bruder kocht gern, isst meine Schwester lieber im Restaurant.", "why": "Also in the contrastive meaning *während* sends the finite verb to the end: *während mein Bruder gern kocht*."},
+      "examples": [
+        {"de": "Während der Norden flach ist, ist der Süden sehr bergig.", "en": "Whereas the north is flat, the south is very mountainous."},
+        {"de": "Während die Mieten steigen, bleiben die Löhne gleich.", "en": "While rents are rising, wages stay the same."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ich erkläre es dir noch einmal, {{c1::damit::Zweck}} du es verstehst.",
+      "en": "I'll explain it to you again so that you understand it.",
+      "focus": "Finalsatz · verschiedene Subjekte",
+      "explanation": "The goal (*you understand*) has a different subject than the main clause (*I explain*), so only **damit** is possible; *um … zu* needs the same subject. *verstehst* goes to the end.",
+      "pattern": "Subjekt A …, damit + Subjekt B … Verb.",
+      "mistake": {"wrong": "Ich erkläre es dir noch einmal, um du es verstehst.", "why": "*um … zu* has no subject and needs an infinitive with *zu*. With a different subject (*du*) you must use *damit*: *damit du es verstehst*."},
+      "examples": [
+        {"de": "Ich schreibe dir die Nummer auf, damit du sie nicht vergisst.", "en": "I'll write the number down for you so that you don't forget it."},
+        {"de": "Die Stadt baut neue Radwege, damit weniger Menschen mit dem Auto fahren.", "en": "The city is building new cycle paths so that fewer people drive."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "{{c1::Obwohl::Gegensatz}} er viel gelernt hat, hat er die Prüfung nicht bestanden.",
+      "en": "Although he studied a lot, he didn't pass the exam.",
+      "focus": "Konzessivsatz · Perfekt im Nebensatz",
+      "explanation": "A lot of studying would normally lead to success → unexpected result → **obwohl**. In the Perfekt the finite auxiliary goes to the very end of the Nebensatz, after the Partizip II: *gelernt hat*. The main clause starts with its own auxiliary *hat*: verb – comma – verb.",
+      "pattern": "Obwohl + Subjekt … Partizip II + hat, hat + Subjekt … Partizip II",
+      "mistake": {"wrong": "Obwohl er hat viel gelernt, hat er die Prüfung nicht bestanden.", "why": "In the Nebensatz *hat* must go to the end, behind the participle: *obwohl er viel gelernt hat*."},
+      "examples": [
+        {"de": "Obwohl ich den Wecker gestellt habe, habe ich verschlafen.", "en": "Although I set the alarm, I overslept."},
+        {"de": "Obwohl sie sich beworben hat, hat sie keine Antwort bekommen.", "en": "Although she applied, she didn't get an answer."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "{{c1::Da::Grund}} wir morgen früh aufstehen müssen, gehen wir heute zeitig ins Bett.",
+      "en": "As we have to get up early tomorrow, we're going to bed early tonight.",
+      "focus": "Kausalsatz · Modalverb + trennbares Verb am Ende",
+      "explanation": "**da** gives a reason that is clear to everyone. In the Nebensatz the infinitive *aufstehen* (not split) comes first, and the finite modal verb *müssen* is last. The main clause then starts with *gehen*.",
+      "pattern": "Da + Subjekt … Infinitiv + Modalverb, Verb + Subjekt …",
+      "mistake": {"wrong": "Da wir müssen morgen früh aufstehen, gehen wir heute zeitig ins Bett.", "why": "The finite modal verb of the Nebensatz must be at the end: *da wir morgen früh aufstehen müssen*."},
+      "examples": [
+        {"de": "Da ich noch arbeiten muss, kann ich nicht mitkommen.", "en": "As I still have to work, I can't come along."},
+        {"de": "Da die Brücke repariert werden muss, ist sie bis Mai gesperrt.", "en": "Since the bridge has to be repaired, it is closed until May."}
+      ],
+      "words": [{"de": "zeitig", "en": "early, in good time"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "{{c1::Bevor::Zeit · vorher}} du in den Zug einsteigst, musst du ein Ticket kaufen.",
+      "en": "Before you get on the train, you have to buy a ticket.",
+      "focus": "Temporalsatz · trennbares Verb im Nebensatz",
+      "explanation": "The ticket comes first, getting on later → **bevor** introduces the later action. *einsteigen* is separable, but in the Nebensatz prefix and verb stay together at the end: *einsteigst*. The main clause begins with the modal verb *musst*.",
+      "pattern": "Bevor + Subjekt … Präfix+Verb, Modalverb + Subjekt … Infinitiv",
+      "mistake": {"wrong": "Bevor du in den Zug steigst ein, musst du ein Ticket kaufen.", "why": "In a Nebensatz a separable verb is not split. The prefix joins the verb at the end: *einsteigst*."},
+      "examples": [
+        {"de": "Bevor wir losfahren, schauen wir noch auf die Karte.", "en": "Before we set off, we'll look at the map once more."},
+        {"de": "Bevor der Kurs anfängt, gibt es einen Einstufungstest.", "en": "Before the course starts, there is a placement test."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ruf mich bitte an, {{c1::falls::Bedingung}} du dich verspätest.",
+      "en": "Please call me in case you're running late.",
+      "focus": "Konditionalsatz nach dem Hauptsatz · Reflexivverb",
+      "explanation": "The Nebensatz with **falls** can also follow the main clause; then the main clause keeps its normal order. In the Nebensatz the reflexive pronoun *dich* comes right after the subject, and the finite verb *verspätest* is last.",
+      "pattern": "Hauptsatz, falls + Subjekt + Reflexivpronomen … Verb.",
+      "mistake": {"wrong": "Ruf mich bitte an, falls du verspätest dich.", "why": "Main-clause order is used in the Nebensatz. The verb goes to the end, the reflexive pronoun stays early: *falls du dich verspätest*."},
+      "examples": [
+        {"de": "Nimm eine Jacke mit, falls es abends kühl wird.", "en": "Take a jacket in case it gets cool in the evening."},
+        {"de": "Ich gebe dir meine Nummer, falls du dich verläufst.", "en": "I'll give you my number in case you get lost."}
+      ],
+      "words": [{"de": "sich verspäten", "en": "to be late"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Nachdem::Zeit · danach}} ich die E-Mail geschrieben habe, mache ich Feierabend.",
+      "en": "After I've written the email, I'll finish work for the day.",
+      "focus": "Temporalsatz · Vorzeitigkeit · Perfekt + Präsens",
+      "explanation": "**nachdem** needs a tense that is one step earlier than the main clause. The main clause is in the Präsens (*mache*, future meaning), so the Nebensatz is in the Perfekt: *geschrieben habe*, with *habe* at the end.",
+      "pattern": "Nachdem + Perfekt (… Partizip II + habe), Präsens …",
+      "mistake": {"wrong": "Nachdem ich die E-Mail schreibe, mache ich Feierabend.", "why": "*nachdem* cannot use the same tense as the main clause. With a Präsens main clause the *nachdem*-clause must be in the Perfekt: *geschrieben habe*."},
+      "examples": [
+        {"de": "Nachdem du dich angemeldet hast, bekommst du eine Bestätigung.", "en": "After you have registered, you'll get a confirmation."},
+        {"de": "Nachdem wir die Wohnung besichtigt haben, entscheiden wir uns.", "en": "After we have viewed the flat, we'll decide."}
+      ],
+      "words": [{"de": "Feierabend machen", "en": "to finish work for the day"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er sprach so leise, {{c1::dass::Folge · nach so + Adjektiv}} ihn niemand verstand.",
+      "en": "He spoke so quietly that nobody understood him.",
+      "focus": "Konsekutivsatz · *so* + Adjektiv im Hauptsatz",
+      "explanation": "When *so* + adjective already stands in the main clause (*so leise*), the result clause is introduced by **dass** alone. The two-part form *so … dass* stresses the degree. The Nebensatz has the verb at the end: *verstand*.",
+      "pattern": "… so + Adj. …, dass + … Verb.",
+      "mistake": {"wrong": "Er sprach so leise, sodass ihn niemand verstand.", "why": "*so* is already in the main clause, so *sodass* would repeat it. With *so* + adjective the Nebensatz starts with *dass* only."},
+      "examples": [
+        {"de": "Der Koffer war so schwer, dass ich ihn kaum tragen konnte.", "en": "The suitcase was so heavy that I could hardly carry it."},
+        {"de": "Es ist so spät, dass kein Bus mehr fährt.", "en": "It's so late that there are no more buses."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "{{c1::Solange::Zeit · Dauer}} das Fieber nicht sinkt, musst du im Bett bleiben.",
+      "en": "As long as your fever doesn't go down, you have to stay in bed.",
+      "focus": "Temporalsatz · Dauer mit Negation",
+      "explanation": "**solange** + *nicht* means *for the whole time that something does not happen* (close to *until*). *sinkt* goes to the end, after *nicht*. The main clause begins with the modal verb *musst*; the infinitive *bleiben* is last.",
+      "pattern": "Solange + Subjekt + nicht … Verb, Modalverb + Subjekt … Infinitiv",
+      "mistake": {"wrong": "Solange das Fieber sinkt nicht, musst du im Bett bleiben.", "why": "In the Nebensatz *nicht* stays before the verb, and the finite verb goes to the end: *solange das Fieber nicht sinkt*."},
+      "examples": [
+        {"de": "Solange die Ampel rot ist, darfst du nicht über die Straße gehen.", "en": "As long as the light is red, you mustn't cross the road."},
+        {"de": "Solange du nicht anrufst, mache ich mir Sorgen.", "en": "As long as you don't call, I'll worry."}
+      ],
+      "words": [{"de": "sinken", "en": "to go down, to fall"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Mein Handy war leer, {{c1::sodass::Folge}} ich dich nicht anrufen konnte.",
+      "en": "My phone was dead, so I couldn't call you.",
+      "focus": "Konsekutivsatz · Modalverb im Präteritum am Ende",
+      "explanation": "Not being able to call is the result of the empty battery → **sodass**. In the Nebensatz the separable infinitive *anrufen* stays together, and the finite modal verb *konnte* (Präteritum) closes the clause.",
+      "pattern": "Hauptsatz, sodass + Subjekt … Infinitiv + Modalverb.",
+      "mistake": {"wrong": "Mein Handy war leer, sodass ich konnte dich nicht anrufen.", "why": "*sodass* starts a Nebensatz: the finite modal verb *konnte* goes to the very end, after the infinitive."},
+      "examples": [
+        {"de": "Der Zug fiel aus, sodass wir ein Taxi nehmen mussten.", "en": "The train was cancelled, so we had to take a taxi."},
+        {"de": "Es gab einen Stromausfall, sodass niemand arbeiten konnte.", "en": "There was a power cut, so nobody could work."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about verb position in the Nebensatz.",
+      "prompt": "Where does the finite verb go in a Nebensatz with two or more verbs, e.g. Perfekt or a modal verb?",
+      "answer": "The **finite verb is the very last word** of the Nebensatz; the other verb forms come before it: *… gelernt* **hat**, *… kaufen* **können**, *… aufstehen* **muss**. Separable verbs are not split: *… einsteigt*.",
+      "explanation": "The Nebensatz is a mirror of the main-clause bracket: the parts that close the main clause (Partizip II, infinitive, prefix) come first, and the finite verb follows them at the end.",
+      "examples": [
+        {"de": "Ich weiß, dass sie gestern angekommen ist.", "en": "I know that she arrived yesterday."},
+        {"de": "Er ist froh, weil er morgen ausschlafen kann.", "en": "He's happy because he can sleep in tomorrow."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about word order when the Nebensatz comes first.",
+      "prompt": "What happens to the main clause when the Nebensatz comes first?",
+      "answer": "The whole Nebensatz counts as **position 1** (Vorfeld). The main clause therefore starts with its **finite verb**, then the subject: *Sobald ich ankomme,* **rufe ich** *dich an.* (verb – comma – verb)",
+      "explanation": "The finite verb of a German statement is always in position 2. A fronted Nebensatz is one element, so nothing else can stand before the main-clause verb.",
+      "examples": [
+        {"de": "Wenn ich Zeit habe, helfe ich dir.", "en": "When I have time, I'll help you."},
+        {"de": "Da es spät ist, nehmen wir ein Taxi.", "en": "As it's late, we'll take a taxi."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the contrast between *damit*, *um … zu* and *sodass*.",
+      "prompt": "When do you use *damit*, when *um … zu*, and how is *sodass* different?",
+      "answer": "*damit* + Nebensatz: a **purpose**, any subject (obligatory with different subjects). *um … zu* + infinitive: a **purpose** with the **same subject**. *sodass*: a **result** that really followed, not a goal.",
+      "explanation": "Ask: is it the aim of the person (*damit, um … zu*) or simply what happened as a consequence (*sodass*)? Then check the subjects: same subject → *um … zu* is preferred; different subjects → only *damit*.",
+      "examples": [
+        {"de": "Ich stehe früh auf, um joggen zu gehen.", "en": "I get up early to go jogging."},
+        {"de": "Ich stelle den Wecker, damit mein Sohn nicht verschläft.", "en": "I set the alarm so that my son doesn't oversleep."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about prepositions and conjunctions with the same meaning.",
+      "prompt": "Which conjunctions correspond to the prepositions *vor, nach, trotz, wegen* and *seit*?",
+      "answer": "*vor* → **bevor**; *nach* → **nachdem**; *trotz* → **obwohl**; *wegen* → **weil / da**; *seit* → **seit / seitdem** (here the same word is both). The preposition takes a noun, the conjunction a whole clause with verb at the end.",
+      "explanation": "Use the preposition when you have only a noun phrase (*vor dem Essen*), and the conjunction when there is a subject and a finite verb (*bevor wir essen*). Mixing them, e.g. ✗ *vor wir essen*, is a frequent error.",
+      "examples": [
+        {"de": "Vor dem Essen wasche ich mir die Hände.", "en": "Before the meal I wash my hands."},
+        {"de": "Bevor wir essen, wasche ich mir die Hände.", "en": "Before we eat, I wash my hands."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Explain the two meanings of *während*.",
+      "prompt": "What two meanings can the conjunction *während* have?",
+      "answer": "1. **time**: two actions happen at the same time (*while*). 2. **contrast**: two facts are compared (*whereas*). In both meanings the verb goes to the end. (*während* + Genitiv is also a preposition: *während des Essens*.)",
+      "explanation": "The context decides the meaning: if the actions overlap in time, it is temporal; if two different people or things are compared, it is adversative.",
+      "examples": [
+        {"de": "Während ich dusche, kocht der Kaffee.", "en": "While I'm showering, the coffee is brewing."},
+        {"de": "Während Tom sehr ordentlich ist, ist sein Mitbewohner chaotisch.", "en": "Whereas Tom is very tidy, his flatmate is chaotic."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the conjunction that fits the meaning.",
+      "prompt": "___ ich den Bericht fertig habe, schicke ich ihn dir.",
+      "options": ["Sobald", "Solange", "Obwohl", "Damit"],
+      "correct": "Sobald",
+      "answer": "Sobald ich den Bericht fertig habe, schicke ich ihn dir.",
+      "explanation": "Sending follows immediately after finishing → *sobald*. *solange* would mean the two things last equally long, *obwohl* would express a contrast that is not there, and *damit* would make finishing the report the purpose of sending it."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the conjunction that fits the meaning.",
+      "prompt": "Er geht zur Arbeit, ___ er Fieber hat.",
+      "options": ["obwohl", "weil", "damit", "falls"],
+      "correct": "obwohl",
+      "answer": "Er geht zur Arbeit, obwohl er Fieber hat.",
+      "explanation": "Fever is a reason to stay at home, but he goes → contrast → *obwohl*. *weil* would make the fever the reason for going, *damit* would make it his goal, and *falls* would make it a condition; none of these makes sense."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the conjunction that fits the meaning.",
+      "prompt": "Wir bleiben im Café, ___ es aufhört zu regnen.",
+      "options": ["bis", "seit", "solange", "bevor"],
+      "correct": "bis",
+      "answer": "Wir bleiben im Café, bis es aufhört zu regnen.",
+      "explanation": "The end of the rain is the end point of staying → *bis* (until). *seit* names a starting point in the past, *solange* would need a lasting situation (*solange es regnet*), and *bevor* would put the staying before the rain stops, which makes no sense with *bleiben*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich rufe dich an, sobald ich bin zu Hause.",
+      "answer": "Ich rufe dich an, sobald ich zu Hause bin.",
+      "explanation": "*sobald* starts a Nebensatz, so the finite verb *bin* must go to the end: *sobald ich zu Hause bin*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Obwohl das Wetter schlecht war, wir sind an den Strand gefahren.",
+      "answer": "Obwohl das Wetter schlecht war, sind wir an den Strand gefahren.",
+      "explanation": "The *obwohl*-clause is in the Vorfeld, so the main clause must start with the finite verb *sind*; the subject *wir* follows it."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie kann nicht kommen, da sie arbeiten heute muss.",
+      "answer": "Sie kann nicht kommen, da sie heute arbeiten muss.",
+      "explanation": "At the end of the Nebensatz only the verbs stand: infinitive, then finite modal verb (*arbeiten muss*). The time adverb *heute* belongs in the Mittelfeld before them."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Nachdem wir das Haus gekauft haben, zogen wir im März ein.",
+      "answer": "Nachdem wir das Haus gekauft hatten, zogen wir im März ein.",
+      "explanation": "The main clause is in the Präteritum (*zogen ein*), so the earlier action in the *nachdem*-clause needs the Plusquamperfekt: *gekauft hatten*, not the Perfekt."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Put the Nebensatz first.",
+      "prompt": "Ich trinke einen Kaffee, bevor ich zur Arbeit fahre.",
+      "answer": "Bevor ich zur Arbeit fahre, trinke ich einen Kaffee.",
+      "explanation": "The *bevor*-clause moves into the Vorfeld unchanged. The main clause then starts with its finite verb, and the subject follows: *trinke ich*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace *nach* + noun with a *nachdem*-clause (subject: *sie*, verb: *frühstücken*).",
+      "prompt": "Nach dem Frühstück ging sie ins Büro.",
+      "answer": "Nachdem sie gefrühstückt hatte, ging sie ins Büro.",
+      "explanation": "The noun *Frühstück* becomes the verb *frühstücken*. The main clause is in the Präteritum, so the *nachdem*-clause takes the Plusquamperfekt: *gefrühstückt hatte*, with *hatte* at the end."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Replace *trotz* + Genitiv with an *obwohl*-clause (verb: *regnen*).",
+      "prompt": "Trotz des Regens spielten die Kinder draußen.",
+      "answer": "Obwohl es regnete, spielten die Kinder draußen.",
+      "explanation": "The noun *Regen* becomes *es regnete* (same tense as the main clause). *obwohl* sends *regnete* to the end, and the main clause starts with *spielten*."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order and add a comma. Start with: Sie",
+      "prompt": "sie / ruft / an / sobald / gelandet / sie / ist",
+      "answer": "Sie ruft an, sobald sie gelandet ist.",
+      "explanation": "Main clause first: *Sie ruft an* (separable verb split). Then the *sobald*-clause with the Perfekt: Partizip II *gelandet* before the finite *ist* at the end. Also correct: *Sobald sie gelandet ist, ruft sie an.*"
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Join with *damit*.",
+      "prompt": "Ich schreibe dir die Adresse auf. Du findest das Hotel.",
+      "answer": "Ich schreibe dir die Adresse auf, damit du das Hotel findest.",
+      "explanation": "Finding the hotel is the goal, and the subjects differ (*ich* / *du*), so *um … zu* is not possible. The *damit*-clause puts *findest* at the end."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join with *während* (contrast). Start with *Während*.",
+      "prompt": "In Spanien isst man spät zu Abend. In Deutschland isst man oft schon um sechs.",
+      "answer": "Während man in Spanien spät zu Abend isst, isst man in Deutschland oft schon um sechs.",
+      "explanation": "*während* compares two countries here (*whereas*). In the Nebensatz *isst* goes to the end; the main clause starts with its verb *isst*, so the two verbs meet at the comma."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join with *sodass*.",
+      "prompt": "Der Zug hatte Verspätung. Wir haben den Anschluss verpasst.",
+      "answer": "Der Zug hatte Verspätung, sodass wir den Anschluss verpasst haben.",
+      "explanation": "Missing the connection is the result of the delay → *sodass*. In the Nebensatz the auxiliary *haben* moves to the end, after the Partizip II *verpasst*."
+    }
+  ]
+}

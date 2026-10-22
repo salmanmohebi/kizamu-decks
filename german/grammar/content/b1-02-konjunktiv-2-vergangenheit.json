@@ -1,0 +1,718 @@
+{
+  "topic_id": "b1-02-konjunktiv-2-vergangenheit",
+  "level": "B1",
+  "title_de": "Konjunktiv II der Vergangenheit",
+  "title_en": "Konjunktiv II of the past (unreal past)",
+  "rule": {
+    "summary": "The Konjunktiv II of the past describes things that did **not** happen in the past: missed chances, regrets and imagined alternatives (*Wenn ich das gewusst hätte, wäre ich gekommen.* → I did not know it, so I did not come). It has one form for all verbs: **hätte / wäre + Partizip II**. The choice between *hätte* and *wäre* follows the same rule as in the Perfekt.",
+    "table": "| | Gegenwart (now, not real) | Vergangenheit (past, did not happen) |\n|---|---|---|\n| *haben*-Verb | Wenn ich Zeit hätte, würde ich dich besuchen. | Wenn ich Zeit gehabt **hätte**, **hätte** ich dich besucht. |\n| *sein*-Verb | Wenn ich früher losginge, käme ich pünktlich an. | Wenn ich früher losgegangen **wäre**, **wäre** ich pünktlich angekommen. |\n| *sein* | Wenn es wärmer wäre, … | Wenn es wärmer gewesen **wäre**, … |\n| *haben* | Wenn ich Geld hätte, … | Wenn ich Geld gehabt **hätte**, … |",
+    "steps": [
+      "Check the time: the situation is in the past and did not happen → Konjunktiv II of the past (*Wenn ich das gewusst hätte, …*). If it is about now, use the present forms (*Wenn ich das wüsste, …*).",
+      "Choose the auxiliary as in the Perfekt: **wäre** for verbs of movement (*gehen, fahren, kommen*), change of state (*aufstehen, werden, einschlafen*) and *sein, bleiben, passieren*; **hätte** for all others, including reflexive verbs and *haben* itself.",
+      "Form: *hätte/wäre* (with person ending: *hättest, wären, wärst …*) + **Partizip II** (*gewusst, gekommen, angerufen*). There is no *würde* in the normal past form.",
+      "Word order: main clause → *hätte/wäre* in position 2, Partizip II at the end (*Ich hätte dir geholfen.*). *wenn*-clause → Partizip II, then *hätte/wäre* at the very end (*wenn du mich gefragt hättest*). Without *wenn* → *hätte/wäre* first (*Hättest du mich gefragt, …*).",
+      "With a modal verb and a second verb, use *hätte* + two infinitives: *Du hättest mich anrufen können / sollen.*"
+    ],
+    "pitfalls": [
+      "Wrong auxiliary: ✗ *Wenn er früher losgefahren hätte, …* → ✓ *Wenn er früher losgefahren wäre, …* (*losfahren* is a movement → *sein*).",
+      "Using *würde* + Partizip: ✗ *Ich würde dir geholfen.* → ✓ *Ich hätte dir geholfen.*",
+      "Indicative in the condition: ✗ *Ich hätte dir geholfen, wenn du mich gefragt hast.* → ✓ *…, wenn du mich gefragt hättest.*",
+      "Wrong order in the *wenn*-clause: ✗ *wenn sie Geld hätte gehabt* → ✓ *wenn sie Geld gehabt hätte*. (Only with two infinitives does *hätte* move forward: *wenn ich hätte kommen können*.)",
+      "Wrong Partizip II: ✗ *Sie hätte angeruft.* → ✓ *Sie hätte angerufen.* ✗ *Er hätte zu viel getrinkt.* → ✓ *Er hätte zu viel getrunken.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Wenn ich das gewusst {{c1::hätte::haben}}, wäre ich gekommen.",
+      "en": "If I had known that, I would have come.",
+      "focus": "irreale Bedingung · Vergangenheit · Hilfsverb im *wenn*-Satz",
+      "explanation": "Reality: I didn't know it, so I didn't come. *wissen* forms its Perfekt with *haben* (*ich habe gewusst*), so the past Konjunktiv II is *gewusst* **hätte**, with the auxiliary at the end of the *wenn*-clause. *kommen* is a movement verb → *wäre … gekommen*.",
+      "pattern": "Wenn + … + Partizip II + **hätte**, wäre + Subjekt + Partizip II",
+      "mistake": {"wrong": "Wenn ich das gewusst wäre, wäre ich gekommen.", "why": "*wissen* takes *haben* in the Perfekt (*ich habe gewusst*), so its past Konjunktiv II is *gewusst hätte*. Only the second verb, *kommen*, takes *wäre*."},
+      "examples": [
+        {"de": "Wenn ich das geahnt hätte, wäre ich zu Hause geblieben.", "en": "If I had suspected that, I would have stayed at home."},
+        {"de": "Wenn sie den Weg gekannt hätte, wäre sie schneller angekommen.", "en": "If she had known the way, she would have arrived faster."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wenn er früher angerufen {{c1::hätte::haben}}, wären wir zu Hause gewesen.",
+      "en": "If he had called earlier, we would have been at home.",
+      "focus": "*haben*-Verb im *wenn*-Satz · *sein* im Hauptsatz",
+      "explanation": "*anrufen* takes *haben* in the Perfekt → *angerufen* **hätte** at the end of the *wenn*-clause. The main clause uses *sein* itself in the past: *wären … gewesen* (Perfekt: *wir sind gewesen*).",
+      "pattern": "Wenn + … + Partizip II + **hätte**, wären + Subjekt + … + gewesen",
+      "mistake": {"wrong": "Wenn er früher angerufen hätte, hätten wir zu Hause gewesen.", "why": "*sein* forms its Perfekt with *sein* (*wir sind gewesen*), so the main clause needs *wären … gewesen*."},
+      "examples": [
+        {"de": "Wenn du vorher geschrieben hättest, wären wir vorbereitet gewesen.", "en": "If you had written beforehand, we would have been prepared."},
+        {"de": "Wenn sie mich gefragt hätte, wäre ich einverstanden gewesen.", "en": "If she had asked me, I would have agreed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Hätten wir mehr Zeit {{c1::gehabt::haben}}, hätten wir das Museum besucht.",
+      "en": "If we had had more time, we would have visited the museum.",
+      "focus": "Bedingung ohne *wenn* · Partizip II von *haben*",
+      "explanation": "*haben* itself also forms the past Konjunktiv II with *hätte*: *hätten* + Partizip II **gehabt**. Without *wenn*, *Hätten* opens the condition. The main clause: *hätten wir … besucht* (*besuchen* → Partizip without *ge-*).",
+      "pattern": "Hätten + Subjekt + … + **gehabt**, hätten + Subjekt + … + Partizip II",
+      "mistake": {"wrong": "Hätten wir mehr Zeit gehabt, würden wir das Museum besucht.", "why": "*würde* cannot combine with a Partizip II. The past Konjunktiv II is always *hätte/wäre* + Partizip II: *hätten wir … besucht*."},
+      "examples": [
+        {"de": "Hätte sie mehr Glück gehabt, hätte sie das Rennen gewonnen.", "en": "If she had had more luck, she would have won the race."},
+        {"de": "Hätten wir ein Navi gehabt, hätten wir das Hotel sofort gefunden.", "en": "If we had had a satnav, we would have found the hotel straight away."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wäre ich nicht so müde {{c1::gewesen::sein}}, hätte ich noch gelernt.",
+      "en": "If I hadn't been so tired, I would have studied some more.",
+      "focus": "Bedingung ohne *wenn* · Partizip II von *sein*",
+      "explanation": "The past of *müde sein* is *müde gewesen sein*, so the condition is *Wäre ich … müde* **gewesen**. *Wäre* stands first because there is no *wenn*. *lernen* takes *haben* → *hätte ich … gelernt*.",
+      "pattern": "Wäre + Subjekt + … + **gewesen**, hätte + Subjekt + Partizip II",
+      "mistake": {"wrong": "Hätte ich nicht so müde gewesen, hätte ich noch gelernt.", "why": "*sein* takes *sein* as its auxiliary (*ich bin gewesen*), so the condition is *Wäre ich … gewesen*."},
+      "examples": [
+        {"de": "Wäre das Wetter schöner gewesen, hätten wir draußen gegessen.", "en": "If the weather had been nicer, we would have eaten outside."},
+        {"de": "Wäre er ehrlicher gewesen, hätte sie ihm verziehen.", "en": "If he had been more honest, she would have forgiven him."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wenn das Wetter besser gewesen {{c1::wäre::sein}}, wären wir wandern gegangen.",
+      "en": "If the weather had been better, we would have gone hiking.",
+      "focus": "*sein* im *wenn*-Satz · Bewegungsverb im Hauptsatz",
+      "explanation": "In the *wenn*-clause the auxiliary goes to the end: *besser gewesen* **wäre**. The main clause also takes *wäre*, because *gehen* is a movement verb: *wären wir wandern gegangen* (*wandern* stays an infinitive before *gegangen*).",
+      "pattern": "Wenn + … + gewesen + **wäre**, wären + Subjekt + Infinitiv + gegangen",
+      "mistake": {"wrong": "Wenn das Wetter besser gewesen wäre, hätten wir wandern gegangen.", "why": "*gehen* takes *sein* in the Perfekt (*wir sind wandern gegangen*), so the past Konjunktiv II is *wären … gegangen*."},
+      "examples": [
+        {"de": "Wenn der See wärmer gewesen wäre, wären wir schwimmen gegangen.", "en": "If the lake had been warmer, we would have gone swimming."},
+        {"de": "Wenn der Abend nicht so kalt gewesen wäre, wären wir tanzen gegangen.", "en": "If the evening hadn't been so cold, we would have gone dancing."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich hätte dir geholfen, wenn du mich gefragt {{c1::hättest::haben}}.",
+      "en": "I would have helped you if you had asked me.",
+      "focus": "Hauptsatz zuerst · *du*-Form im *wenn*-Satz",
+      "explanation": "The main clause comes first with normal order: *Ich hätte dir geholfen*. In the *wenn*-clause the auxiliary goes to the end, with the *du*-ending: *gefragt* **hättest**. *fragen* takes *haben*.",
+      "pattern": "Hauptsatz (hätte + Partizip II), wenn + du + … + Partizip II + **hättest**",
+      "mistake": {"wrong": "Ich hätte dir geholfen, wenn du mich gefragt hast.", "why": "*gefragt hast* is Perfekt indicative. The condition did not happen, so it also needs the Konjunktiv II: *gefragt hättest*."},
+      "examples": [
+        {"de": "Ich hätte dich abgeholt, wenn du mir Bescheid gesagt hättest.", "en": "I would have picked you up if you had let me know."},
+        {"de": "Er hätte mitgemacht, wenn ihr ihn eingeladen hättet.", "en": "He would have joined in if you had invited him."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Wären wir früher aufgestanden, hätten wir den Zug noch {{c1::erreicht::erreichen}}.",
+      "en": "If we had got up earlier, we would still have caught the train.",
+      "focus": "Partizip II ohne *ge-* · Hauptsatz",
+      "explanation": "*aufstehen* is a change of state → *Wären wir … aufgestanden*. *erreichen* has the inseparable prefix *er-*, so its Partizip II has no *ge-*: **erreicht**. It closes the main clause after *hätten wir den Zug noch*.",
+      "pattern": "Wären + … + Partizip II, hätten + Subjekt + Akk. + **Partizip II**",
+      "mistake": {"wrong": "Wären wir früher aufgestanden, hätten wir den Zug noch geerreicht.", "why": "Verbs with an inseparable prefix (*er-, be-, ver-*) form the Partizip II without *ge-*: *erreicht*."},
+      "examples": [
+        {"de": "Wären wir früher losgegangen, hätten wir noch Plätze bekommen.", "en": "If we had set off earlier, we would still have got seats."},
+        {"de": "Wäre sie pünktlich gekommen, hätte sie den Anfang nicht verpasst.", "en": "If she had come on time, she wouldn't have missed the beginning."}
+      ],
+      "words": [{"de": "den Zug erreichen", "en": "to catch the train"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wenn sie Geld gehabt {{c1::hätte::haben}}, hätte sie das Auto gekauft.",
+      "en": "If she had had money, she would have bought the car.",
+      "focus": "*wenn*-Satz · Hilfsverb am Ende",
+      "explanation": "In the *wenn*-clause the order at the end is Partizip II + auxiliary: *gehabt* **hätte**. *haben* takes *haben* as auxiliary, and so does *kaufen* in the main clause: *hätte sie das Auto gekauft*.",
+      "pattern": "Wenn + … + gehabt + **hätte**, hätte + Subjekt + Akk. + Partizip II",
+      "mistake": {"wrong": "Wenn sie Geld hätte gehabt, hätte sie das Auto gekauft.", "why": "In a *wenn*-clause the finite verb *hätte* goes to the very end, after the Partizip II: *wenn sie Geld gehabt hätte*."},
+      "examples": [
+        {"de": "Wenn er Hunger gehabt hätte, hätte er etwas gegessen.", "en": "If he had been hungry, he would have eaten something."},
+        {"de": "Wenn wir Glück gehabt hätten, hätten wir die Tickets bekommen.", "en": "If we had been lucky, we would have got the tickets."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Hätten Sie mir das früher {{c1::gesagt::sagen}}, hätte ich es vermieden.",
+      "en": "If you had told me earlier, I would have avoided it.",
+      "focus": "Bedingung ohne *wenn* · *Sie* · Partizip II",
+      "explanation": "*Hätten Sie …* without *wenn* = *Wenn Sie … hätten*. *sagen* is a regular verb: *ge-* + *sag* + *-t* → **gesagt**, at the end of the condition. In the main clause *vermeiden* is strong: *vermieden*, without *ge-* because of *ver-*.",
+      "pattern": "Hätten + Sie + … + **Partizip II**, hätte + Subjekt + Akk. + Partizip II",
+      "mistake": {"wrong": "Hätten Sie mir das früher gesagt, hätte ich es vermeidet.", "why": "*vermeiden* is a strong verb: its Partizip II is *vermieden*, not *vermeidet*."},
+      "examples": [
+        {"de": "Hätten Sie uns rechtzeitig informiert, hätten wir den Termin verschoben.", "en": "If you had informed us in time, we would have postponed the appointment."},
+        {"de": "Hätte er mir die Wahrheit gesagt, hätte ich ihm geholfen.", "en": "If he had told me the truth, I would have helped him."}
+      ],
+      "words": [{"de": "vermeiden", "en": "to avoid"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ohne deine Hilfe wäre ich nicht so weit {{c1::gekommen::kommen}}.",
+      "en": "Without your help I wouldn't have got this far.",
+      "focus": "versteckte Bedingung · Bewegungsverb",
+      "explanation": "*Ohne deine Hilfe* = *Wenn du mir nicht geholfen hättest*. The main clause is in the past Konjunktiv II: *kommen* takes *sein* → *wäre … nicht so weit* **gekommen**. *Ohne deine Hilfe* fills the Vorfeld, so *wäre* comes before *ich*.",
+      "pattern": "Ohne + Akk., wäre + Subjekt + … + **Partizip II**",
+      "mistake": {"wrong": "Ohne deine Hilfe hätte ich nicht so weit gekommen.", "why": "*kommen* is a movement verb and takes *sein*: *ich bin gekommen* → *ich wäre gekommen*."},
+      "examples": [
+        {"de": "Ohne den Regen wäre das Fest ein Erfolg geworden.", "en": "Without the rain the festival would have been a success."},
+        {"de": "Ohne das Navi wären wir nie im Hotel angekommen.", "en": "Without the satnav we would never have arrived at the hotel."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wenn er nicht so spät losgefahren {{c1::wäre::sein}}, wäre er pünktlich gewesen.",
+      "en": "If he hadn't left so late, he would have been on time.",
+      "focus": "Bewegungsverb im *wenn*-Satz · Hilfsverb",
+      "explanation": "*losfahren* is a movement verb → Perfekt *er ist losgefahren* → past Konjunktiv II *losgefahren* **wäre**, at the end of the *wenn*-clause. The main clause is *sein* in the past: *wäre er pünktlich gewesen*.",
+      "pattern": "Wenn + … + Partizip II + **wäre**, wäre + Subjekt + … + gewesen",
+      "mistake": {"wrong": "Wenn er nicht so spät losgefahren hätte, wäre er pünktlich gewesen.", "why": "*losfahren* takes *sein* in the Perfekt (*er ist losgefahren*), so the condition is *losgefahren wäre*."},
+      "examples": [
+        {"de": "Wenn sie nicht ausgerutscht wäre, hätte sie das Rennen gewonnen.", "en": "If she hadn't slipped, she would have won the race."},
+        {"de": "Wenn wir nicht umgestiegen wären, wären wir schneller da gewesen.", "en": "If we hadn't changed trains, we would have got there faster."}
+      ],
+      "words": [{"de": "losfahren", "en": "to set off, to leave (by vehicle)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Wir hätten dich angerufen, wenn wir deine Nummer gehabt {{c1::hätten::haben}}.",
+      "en": "We would have called you if we had had your number.",
+      "focus": "Hauptsatz zuerst · *wir*-Form im *wenn*-Satz",
+      "explanation": "The main clause comes first: *Wir hätten dich angerufen* (separable *anrufen* → *angerufen*). In the *wenn*-clause the auxiliary goes last with the *wir*-ending: *gehabt* **hätten**.",
+      "pattern": "Hauptsatz (hätten + Partizip II), wenn + … + gehabt + **hätten**",
+      "mistake": {"wrong": "Wir hätten dich anrufen, wenn wir deine Nummer gehabt hätten.", "why": "After *hätten* the main verb must be a Partizip II, not an infinitive: *hätten dich angerufen*."},
+      "examples": [
+        {"de": "Wir hätten euch besucht, wenn wir eure Adresse gehabt hätten.", "en": "We would have visited you if we had had your address."},
+        {"de": "Sie hätten das Haus gekauft, wenn sie einen Kredit bekommen hätten.", "en": "They would have bought the house if they had got a loan."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Es {{c1::wäre::sein}} besser gewesen, früher zu Bett zu gehen.",
+      "en": "It would have been better to go to bed earlier.",
+      "focus": "Bewertung im Nachhinein · *Es* + Komparativ",
+      "explanation": "Looking back on a past decision: *besser sein* in the past → *gewesen sein*, and *sein* takes **wäre** as auxiliary. The *zu*-infinitive after the comma names what would have been better: *früher zu Bett zu gehen*.",
+      "pattern": "Es + **wäre** + Adjektiv + gewesen, + zu-Infinitiv",
+      "mistake": {"wrong": "Es hätte besser gewesen, früher zu Bett zu gehen.", "why": "*gewesen* (from *sein*) always takes *sein* as auxiliary: *Es wäre besser gewesen*."},
+      "examples": [
+        {"de": "Es wäre klüger gewesen, vorher zu fragen.", "en": "It would have been wiser to ask beforehand."},
+        {"de": "Es wäre schön gewesen, länger am Meer zu bleiben.", "en": "It would have been nice to stay at the seaside longer."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Wenn du auf mich gehört {{c1::hättest::haben}}, wäre das nicht passiert.",
+      "en": "If you had listened to me, that wouldn't have happened.",
+      "focus": "Vorwurf · *du*-Form · zwei verschiedene Hilfsverben",
+      "explanation": "A typical reproach. *hören auf* takes *haben* → *gehört* **hättest** (*du*-ending). *passieren* takes *sein* in the Perfekt (*es ist passiert*), so the main clause uses *wäre … passiert*.",
+      "pattern": "Wenn du + … + Partizip II + **hättest**, wäre + … + passiert",
+      "mistake": {"wrong": "Wenn du auf mich gehört hättest, hätte das nicht passiert.", "why": "*passieren* takes *sein*: *das ist passiert* → *das wäre nicht passiert*."},
+      "examples": [
+        {"de": "Wenn du besser aufgepasst hättest, wäre der Unfall nicht passiert.", "en": "If you had paid more attention, the accident wouldn't have happened."},
+        {"de": "Wenn ihr den Schirm mitgenommen hättet, wärt ihr nicht nass geworden.", "en": "If you had taken the umbrella, you wouldn't have got wet."}
+      ],
+      "words": [{"de": "hören auf (+ Akk.)", "en": "to listen to (advice)"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Hätte er nicht so viel {{c1::getrunken::trinken}}, wäre er nicht krank geworden.",
+      "en": "If he hadn't drunk so much, he wouldn't have got ill.",
+      "focus": "Bedingung ohne *wenn* · starkes Partizip II",
+      "explanation": "*trinken* is a strong verb: its Partizip II has a vowel change and *-en*: **getrunken**. It closes the verb-first condition *Hätte er …*. *krank werden* is a change of state → *wäre … geworden*.",
+      "pattern": "Hätte + Subjekt + … + **Partizip II**, wäre + … + geworden",
+      "mistake": {"wrong": "Hätte er nicht so viel getrinkt, wäre er nicht krank geworden.", "why": "*trinken* is strong (*trinken – trank – getrunken*). The Partizip II is *getrunken*."},
+      "examples": [
+        {"de": "Hätte sie mehr geschlafen, wäre sie nicht so gereizt gewesen.", "en": "If she had slept more, she wouldn't have been so irritable."},
+        {"de": "Hätten wir weniger gegessen, wäre uns nicht schlecht geworden.", "en": "If we had eaten less, we wouldn't have felt sick."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wenn ich jünger gewesen {{c1::wäre::sein}}, hätte ich studiert.",
+      "en": "If I had been younger, I would have gone to university.",
+      "focus": "*sein* im *wenn*-Satz · Hilfsverb am Ende",
+      "explanation": "*jünger sein* in the past: *jünger gewesen sein*. *sein* takes *sein*, so the *wenn*-clause ends with *gewesen* **wäre**. *studieren* takes *haben* → *hätte ich studiert* (no *ge-*, because the verb ends in *-ieren*).",
+      "pattern": "Wenn + … + gewesen + **wäre**, hätte + Subjekt + Partizip II",
+      "mistake": {"wrong": "Wenn ich jünger gewesen hätte, hätte ich studiert.", "why": "*gewesen* always goes with *sein*: *gewesen wäre*, never *gewesen hätte*."},
+      "examples": [
+        {"de": "Wenn er mutiger gewesen wäre, hätte er sie angesprochen.", "en": "If he had been braver, he would have spoken to her."},
+        {"de": "Wenn die Wohnung billiger gewesen wäre, hätten wir sie gemietet.", "en": "If the flat had been cheaper, we would have rented it."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie hätte angerufen, wenn sie Zeit gehabt {{c1::hätte::haben}}.",
+      "en": "She would have called if she had had time.",
+      "focus": "Hauptsatz zuerst · *haben*-Verben in beiden Teilen",
+      "explanation": "Both clauses use *haben*-verbs, so both take *hätte*. In the main clause *hätte* is in position 2 and *angerufen* (separable: *an-ge-rufen*) at the end. In the *wenn*-clause **hätte** goes after *gehabt*, at the very end.",
+      "pattern": "Subjekt + hätte + Partizip II, wenn + … + gehabt + **hätte**",
+      "mistake": {"wrong": "Sie hätte angeruft, wenn sie Zeit gehabt hätte.", "why": "*rufen* is strong (*rufen – rief – gerufen*), so the Partizip II of *anrufen* is *angerufen*, not *angeruft*."},
+      "examples": [
+        {"de": "Er hätte geholfen, wenn er davon gewusst hätte.", "en": "He would have helped if he had known about it."},
+        {"de": "Ich hätte geantwortet, wenn ich die Nachricht gesehen hätte.", "en": "I would have replied if I had seen the message."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Wenn wir das Spiel gewonnen {{c1::hätten::haben}}, wären wir Meister geworden.",
+      "en": "If we had won the match, we would have become champions.",
+      "focus": "*haben*-Verb im *wenn*-Satz · *werden* im Hauptsatz",
+      "explanation": "*gewinnen* takes *haben* → *gewonnen* **hätten** at the end of the *wenn*-clause. *Meister werden* is a change of state, so the main clause takes *wären … geworden*.",
+      "pattern": "Wenn + … + Partizip II + **hätten**, wären + … + geworden",
+      "mistake": {"wrong": "Wenn wir das Spiel gewannen hätten, wären wir Meister geworden.", "why": "*gewannen* is the Präteritum. After *hätten* you need the Partizip II: *gewonnen*."},
+      "examples": [
+        {"de": "Wenn sie die Prüfung bestanden hätte, wäre sie Ärztin geworden.", "en": "If she had passed the exam, she would have become a doctor."},
+        {"de": "Wenn er das Angebot angenommen hätte, wäre er Abteilungsleiter geworden.", "en": "If he had accepted the offer, he would have become head of department."}
+      ],
+      "words": [{"de": "der Meister (-)", "en": "champion (in sport)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Hättest du Lust gehabt, {{c1::wärst::sein}} du mitgekommen?",
+      "en": "If you had felt like it, would you have come along?",
+      "focus": "Frage nach einer Bedingung ohne *wenn* · *du*",
+      "explanation": "The verb-first condition *Hättest du Lust gehabt* is followed by a yes/no question, which also starts with its verb. *mitkommen* is a movement verb → *sein*: **wärst** *du mitgekommen?* In speech *dann* is often added: *…, wärst du dann mitgekommen?*",
+      "pattern": "Hättest + du + … + gehabt, **wärst** + du + Partizip II?",
+      "mistake": {"wrong": "Hättest du Lust gehabt, hättest du mitgekommen?", "why": "*mitkommen* takes *sein* (*du bist mitgekommen*), so the past Konjunktiv II is *wärst du mitgekommen*."},
+      "examples": [
+        {"de": "Hättest du frei gehabt, wärst du mit ins Kino gegangen?", "en": "If you had had the day off, would you have gone to the cinema with us?"},
+        {"de": "Hätte es nicht geregnet, wärt ihr dann gewandert?", "en": "If it hadn't rained, would you have gone hiking?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wenn ich gewusst hätte, dass du da bist, {{c1::wäre::sein}} ich früher gekommen.",
+      "en": "If I had known you were there, I would have come earlier.",
+      "focus": "Hauptsatz nach *wenn*- und *dass*-Satz",
+      "explanation": "The *wenn*-clause contains a *dass*-clause; together they take position 1. The main clause starts with its finite verb: *kommen* takes *sein* → **wäre** *ich früher gekommen*. In the *dass*-clause the indicative *bist* is normal, because the fact itself was true.",
+      "pattern": "Wenn + … + hätte, dass + …, **wäre** + Subjekt + … + Partizip II",
+      "mistake": {"wrong": "Wenn ich gewusst hätte, dass du da bist, ich wäre früher gekommen.", "why": "After the subordinate clauses the main clause must start with the finite verb: *…, wäre ich früher gekommen.*"},
+      "examples": [
+        {"de": "Wenn ich gewusst hätte, dass ihr kommt, hätte ich einen Kuchen gebacken.", "en": "If I had known you were coming, I would have baked a cake."},
+        {"de": "Wenn sie geahnt hätte, dass es so spät wird, wäre sie mit dem Auto gefahren.", "en": "If she had suspected it would get so late, she would have gone by car."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Hätte ich bloß nicht so viel Kuchen {{c1::gegessen::essen}}!",
+      "en": "If only I hadn't eaten so much cake!",
+      "focus": "Bedauern · Verb an erster Stelle + *bloß*",
+      "explanation": "A regret about the past: verb-first + *bloß/doch/nur* + Konjunktiv II of the past. *essen* takes *haben*, and its Partizip II is irregular: **gegessen** (with an extra *g*). The sentence has no main clause.",
+      "pattern": "Hätte + Subjekt + bloß + … + **Partizip II**!",
+      "mistake": {"wrong": "Hätte ich bloß nicht so viel Kuchen essen!", "why": "*hätte* needs a Partizip II, not an infinitive: *gegessen*."},
+      "examples": [
+        {"de": "Hätte ich doch bloß einen Schirm mitgenommen!", "en": "If only I had taken an umbrella!"},
+        {"de": "Wäre er nur früher zum Arzt gegangen!", "en": "If only he had gone to the doctor sooner!"}
+      ],
+      "words": [{"de": "bloß", "en": "only (in wishes: if only)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Ich wünschte, ich {{c1::hätte::haben}} in der Schule besser aufgepasst.",
+      "en": "I wish I had paid more attention at school.",
+      "focus": "Bedauern mit *ich wünschte*",
+      "explanation": "*Ich wünschte, …* + main-clause word order expresses a regret. The regretted action is in the past, so you use the past Konjunktiv II: **hätte** in position 2, *aufgepasst* (separable: *auf-ge-passt*) at the end.",
+      "pattern": "Ich wünschte, + Subjekt + **hätte/wäre** + … + Partizip II",
+      "mistake": {"wrong": "Ich wünschte, ich habe in der Schule besser aufgepasst.", "why": "The wish contradicts reality, so it cannot be in the indicative. Use the Konjunktiv II: *ich hätte … aufgepasst*."},
+      "examples": [
+        {"de": "Ich wünschte, wir wären länger geblieben.", "en": "I wish we had stayed longer."},
+        {"de": "Sie wünschte, sie hätte das nie gesagt.", "en": "She wished she had never said that."}
+      ],
+      "words": [{"de": "aufpassen", "en": "to pay attention"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Ich {{c1::wäre::sein}} fast die Treppe hinuntergefallen.",
+      "en": "I nearly fell down the stairs.",
+      "focus": "*fast* + Konjunktiv II der Vergangenheit",
+      "explanation": "*fast* or *beinahe* + past Konjunktiv II describes something that almost happened but did not. English uses the simple past (*I nearly fell*), German the Konjunktiv. *hinunterfallen* is a movement → *sein*: **wäre** … *hinuntergefallen*.",
+      "pattern": "Subjekt + **wäre/hätte** + fast + … + Partizip II",
+      "mistake": {"wrong": "Ich hätte fast die Treppe hinuntergefallen.", "why": "*fallen* is a movement verb and takes *sein*: *ich bin gefallen* → *ich wäre fast gefallen*."},
+      "examples": [
+        {"de": "Wir hätten beinahe den letzten Bus verpasst.", "en": "We almost missed the last bus."},
+        {"de": "Er wäre fast eingeschlafen.", "en": "He nearly fell asleep."}
+      ],
+      "words": [{"de": "beinahe", "en": "almost, nearly"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wenn ich gestern nicht so lange gefeiert hätte, {{c1::wäre::sein}} ich heute nicht so müde.",
+      "en": "If I hadn't partied so late yesterday, I wouldn't be so tired today.",
+      "focus": "gemischte Zeit · Folge in der Gegenwart",
+      "explanation": "The condition is in the past (*gestern … gefeiert hätte*), but the result is about now (*heute*). So the main clause takes the **present** Konjunktiv II: **wäre** *ich … müde*, without *gewesen*.",
+      "pattern": "Wenn + … + Partizip II + hätte (Verg.), **wäre** + Subjekt + … (Gegenwart)",
+      "mistake": {"wrong": "Wenn ich gestern nicht so lange gefeiert habe, wäre ich heute nicht so müde.", "why": "*gefeiert habe* is indicative. The past event is imagined as different, so it needs the Konjunktiv II: *gefeiert hätte*."},
+      "examples": [
+        {"de": "Wenn sie damals Medizin studiert hätte, wäre sie jetzt Ärztin.", "en": "If she had studied medicine back then, she would be a doctor now."},
+        {"de": "Wenn wir die Wohnung gekauft hätten, hätten wir heute keine Mietprobleme.", "en": "If we had bought the flat, we wouldn't have rent problems today."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wenn wir zu Hause geblieben {{c1::wären::sein}}, hätten wir das Konzert verpasst.",
+      "en": "If we had stayed at home, we would have missed the concert.",
+      "focus": "Hilfsverb bei *bleiben*",
+      "explanation": "*bleiben* is not a movement, but it takes *sein* in the Perfekt (*wir sind geblieben*). So the *wenn*-clause ends with *geblieben* **wären**. *verpassen* takes *haben* → *hätten … verpasst*.",
+      "pattern": "Wenn + … + geblieben + **wären**, hätten + … + Partizip II",
+      "mistake": {"wrong": "Wenn wir zu Hause geblieben hätten, hätten wir das Konzert verpasst.", "why": "*bleiben* is one of the verbs that take *sein* (*ich bin geblieben*), so: *geblieben wären*."},
+      "examples": [
+        {"de": "Wenn er im Bett geblieben wäre, hätte er sich schneller erholt.", "en": "If he had stayed in bed, he would have recovered faster."},
+        {"de": "Wenn sie in Berlin geblieben wäre, hätte sie ihren Mann nie kennengelernt.", "en": "If she had stayed in Berlin, she would never have met her husband."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Das {{c1::wäre::sein}} doch nicht nötig gewesen!",
+      "en": "You really shouldn't have!",
+      "focus": "feste Wendung beim Bedanken",
+      "explanation": "A polite reaction when someone brings a gift or does a favour. Literally: *That wouldn't have been necessary.* *nötig sein* in the past → *nötig gewesen sein*, with **wäre** as the auxiliary. *doch* adds warmth.",
+      "pattern": "Das + **wäre** + doch nicht + Adjektiv + gewesen!",
+      "mistake": {"wrong": "Das hätte doch nicht nötig gewesen!", "why": "*gewesen* takes *sein* as auxiliary: *Das wäre nicht nötig gewesen.*"},
+      "examples": [
+        {"de": "Das wäre wirklich nicht nötig gewesen, vielen Dank!", "en": "You really didn't need to do that, thank you so much!"},
+        {"de": "Ein Anruf wäre auch genug gewesen.", "en": "A phone call would have been enough too."}
+      ],
+      "words": [{"de": "nötig", "en": "necessary"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Du {{c1::hättest::haben}} mich ruhig anrufen können.",
+      "en": "You could have just called me.",
+      "focus": "Modalverb in der Vergangenheit · zwei Infinitive",
+      "explanation": "With a modal verb + another verb the past Konjunktiv II uses *hätte* + **two infinitives** (not *gekonnt*): **hättest** … *anrufen können*. It expresses a missed possibility or a soft reproach. *ruhig* here means *you were welcome to*.",
+      "pattern": "Subjekt + **hätte** + … + Infinitiv + Modalverb (Infinitiv)",
+      "mistake": {"wrong": "Du hättest mich ruhig anrufen gekonnt.", "why": "With a second verb, the modal verb stays in the infinitive (Ersatzinfinitiv): *anrufen können*, not *gekonnt*."},
+      "examples": [
+        {"de": "Wir hätten früher losfahren sollen.", "en": "We should have set off earlier."},
+        {"de": "Sie hätte die Stelle bekommen können.", "en": "She could have got the job."}
+      ],
+      "words": [{"de": "ruhig (Partikel)", "en": "feel free to, easily"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "An deiner Stelle {{c1::hätte::haben}} ich mich sofort beschwert.",
+      "en": "If I had been you, I would have complained immediately.",
+      "focus": "Urteil im Nachhinein · reflexives Verb",
+      "explanation": "*An deiner Stelle* + past Konjunktiv II judges a past situation. *sich beschweren* is reflexive; reflexive verbs always take *haben*: **hätte** *ich mich … beschwert*. The Partizip has no *ge-*, because of the prefix *be-*.",
+      "pattern": "An deiner Stelle + **hätte** + ich + mich + … + Partizip II",
+      "mistake": {"wrong": "An deiner Stelle hätte ich mich sofort beschweren.", "why": "*hätte* must be completed by a Partizip II, not an infinitive: *beschwert*."},
+      "examples": [
+        {"de": "An seiner Stelle hätte ich mich bei ihr entschuldigt.", "en": "In his place I would have apologised to her."},
+        {"de": "An Ihrer Stelle hätte ich das Angebot sofort angenommen.", "en": "If I had been you, I would have accepted the offer immediately."}
+      ],
+      "words": [{"de": "sich beschweren", "en": "to complain"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ohne den Stau {{c1::wären::sein}} wir pünktlich angekommen.",
+      "en": "Without the traffic jam we would have arrived on time.",
+      "focus": "versteckte Bedingung · *ohne* + Akkusativ",
+      "explanation": "*Ohne den Stau* (Akkusativ after *ohne*) = *Wenn es den Stau nicht gegeben hätte*. *ankommen* is a movement → *sein*: **wären** *wir … angekommen*. The Vorfeld puts *wären* before the subject.",
+      "pattern": "Ohne + Akk., **wären** + Subjekt + … + Partizip II",
+      "mistake": {"wrong": "Ohne den Stau hätten wir pünktlich angekommen.", "why": "*ankommen* takes *sein* (*wir sind angekommen*), so the past Konjunktiv II is *wären … angekommen*."},
+      "examples": [
+        {"de": "Ohne die Verspätung wären wir schon um acht in Wien gewesen.", "en": "Without the delay we would have been in Vienna by eight."},
+        {"de": "Ohne das Gewitter wären wir auf den Gipfel gestiegen.", "en": "Without the thunderstorm we would have climbed to the summit."}
+      ],
+      "words": [{"de": "der Stau (-s)", "en": "traffic jam"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Was {{c1::wäre::sein}} passiert, wenn niemand den Notarzt gerufen hätte?",
+      "en": "What would have happened if nobody had called the emergency doctor?",
+      "focus": "hypothetische W-Frage · Vergangenheit",
+      "explanation": "A question about an imagined past. *passieren* takes *sein* → **wäre** … *passiert*, in position 2 after *Was*. In the *wenn*-clause *rufen* takes *haben*: *gerufen hätte*.",
+      "pattern": "W-Wort + **wäre** + … + Partizip II, wenn + … + Partizip II + hätte?",
+      "mistake": {"wrong": "Was wäre passiert, wenn niemand den Notarzt gerufen wäre?", "why": "*rufen* has an Akkusativ object and takes *haben* (*er hat gerufen*). So the condition is *gerufen hätte*; only *passieren* takes *wäre*."},
+      "examples": [
+        {"de": "Was hättest du gemacht, wenn der Flug ausgefallen wäre?", "en": "What would you have done if the flight had been cancelled?"},
+        {"de": "Wie wäre die Geschichte weitergegangen, wenn er geblieben wäre?", "en": "How would the story have continued if he had stayed?"}
+      ],
+      "words": [{"de": "der Notarzt (¨-e)", "en": "emergency doctor"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Es wäre schön gewesen, wenn du auch {{c1::gekommen::kommen}} wärst.",
+      "en": "It would have been nice if you had come too.",
+      "focus": "*wenn*-Satz · Partizip II vor dem Hilfsverb",
+      "explanation": "In the *wenn*-clause the Partizip II comes before the finite auxiliary at the end: **gekommen** *wärst*. *kommen* is a movement → *sein*; *du* takes the ending *-st*. The main clause looks back with *wäre … gewesen*.",
+      "pattern": "Es wäre + Adjektiv + gewesen, wenn + … + **Partizip II** + wärst",
+      "mistake": {"wrong": "Es wäre schön gewesen, wenn du auch wärst gekommen.", "why": "In a *wenn*-clause the finite verb goes to the very end: *wenn du auch gekommen wärst*."},
+      "examples": [
+        {"de": "Es wäre besser gewesen, wenn ihr vorher angerufen hättet.", "en": "It would have been better if you had called beforehand."},
+        {"de": "Es wäre toll gewesen, wenn wir zusammen gefahren wären.", "en": "It would have been great if we had travelled together."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wenn sie den Wecker nicht {{c1::ausgeschaltet::ausschalten}} hätte, hätte sie nicht verschlafen.",
+      "en": "If she hadn't switched off the alarm, she wouldn't have overslept.",
+      "focus": "trennbares Verb · Partizip II",
+      "explanation": "With a separable verb *ge-* goes between prefix and stem: aus + ge + schalt + et → **ausgeschaltet**. In the main clause *verschlafen* (inseparable *ver-*) has no *ge-*, and its Partizip looks like the infinitive: *verschlafen*.",
+      "pattern": "Wenn + … + Präfix-**ge**-Stamm-t + hätte, hätte + … + Partizip II",
+      "mistake": {"wrong": "Wenn sie den Wecker nicht geausschaltet hätte, hätte sie nicht verschlafen.", "why": "In a separable verb *ge-* stands after the prefix: *ausgeschaltet*, not *geausschaltet*."},
+      "examples": [
+        {"de": "Wenn er das Formular richtig ausgefüllt hätte, hätte er das Geld bekommen.", "en": "If he had filled in the form correctly, he would have got the money."},
+        {"de": "Wenn sie das Licht angemacht hätte, hätte sie die Stufe gesehen.", "en": "If she had switched on the light, she would have seen the step."}
+      ],
+      "words": [{"de": "verschlafen", "en": "to oversleep"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the form.",
+      "prompt": "How is the Konjunktiv II of the past formed?",
+      "answer": "**hätte** or **wäre** (Konjunktiv II of *haben/sein*, with person endings) + **Partizip II**: *ich hätte gewusst, du wärst gekommen, wir hätten gehabt, ihr wärt gewesen*.",
+      "explanation": "It is built like the Perfekt, but with *hätte/wäre* instead of *habe/bin*. There is only this one form for all verbs, strong or weak, so you do not need special stems as in the present (*käme, ginge*).",
+      "examples": [
+        {"de": "Ich habe es gewusst.", "en": "I knew it."},
+        {"de": "Ich hätte es gewusst, wenn du es mir gesagt hättest.", "en": "I would have known if you had told me."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the choice of auxiliary.",
+      "prompt": "When do you use *wäre* and when *hätte* + Partizip II?",
+      "answer": "Exactly as in the Perfekt: **wäre** with verbs of movement (*gehen, fahren, fallen*), change of state (*aufstehen, werden, einschlafen*) and *sein, bleiben, passieren*. **hätte** with all other verbs, including *haben*, reflexive verbs and verbs with an Akkusativ object.",
+      "explanation": "If you know the Perfekt (*ich bin gefahren*, *ich habe gearbeitet*), just change *bin → wäre* and *habe → hätte*. One sentence can contain both: *Wenn ich gearbeitet hätte, wäre ich nicht gefahren.*",
+      "examples": [
+        {"de": "Wir wären gern länger geblieben.", "en": "We would have liked to stay longer."},
+        {"de": "Er hätte sich gern verabschiedet.", "en": "He would have liked to say goodbye."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the difference in time.",
+      "prompt": "What is the difference between *Wenn ich Zeit hätte, würde ich kommen.* and *Wenn ich Zeit gehabt hätte, wäre ich gekommen.*?",
+      "answer": "The first is about **now/the future** (I have no time, so I won't come). The second is about the **past** (I had no time, so I didn't come). Only the second can express a missed chance or a regret.",
+      "explanation": "The present Konjunktiv II uses *hätte/wäre/würde* + infinitive or the verb's own form. The past Konjunktiv II always contains a Partizip II. The time words (*gestern, damals, letztes Jahr*) usually make the difference clear.",
+      "examples": [
+        {"de": "Wenn ich gesund wäre, würde ich mitspielen.", "en": "If I were healthy, I would play too."},
+        {"de": "Wenn ich gesund gewesen wäre, hätte ich mitgespielt.", "en": "If I had been healthy, I would have played too."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about mixed time.",
+      "prompt": "Can the condition be in the past and the result in the present?",
+      "answer": "Yes. Each clause takes the time it refers to: past condition (**hätte/wäre + Partizip II**) + present result (**wäre/hätte/würde** + infinitive): *Wenn ich gestern früher ins Bett gegangen wäre, wäre ich jetzt nicht so müde.*",
+      "explanation": "Mixed sentences are common when a past decision still has effects now. Time words such as *jetzt, heute, damals, gestern* show which clause refers to which time.",
+      "examples": [
+        {"de": "Wenn er damals Deutsch gelernt hätte, könnte er jetzt in Wien arbeiten.", "en": "If he had learned German back then, he could work in Vienna now."},
+        {"de": "Wenn ich mehr gespart hätte, hätte ich jetzt ein eigenes Auto.", "en": "If I had saved more, I would have my own car now."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about *würde* in the past.",
+      "prompt": "Why do we normally not use *würde* in the Konjunktiv II of the past?",
+      "answer": "The standard past form is **hätte/wäre + Partizip II**. The form *würde* + Partizip II + *haben/sein* (*ich würde gekommen sein*) exists but is heavy and rare, and *würde* + Partizip II alone (*✗ ich würde gekommen*) is wrong.",
+      "explanation": "In the present, *würde* + infinitive replaces unclear forms. In the past no replacement is needed, because *hätte/wäre* are already clear Konjunktiv forms. So learners should not transfer the *würde*-habit to the past.",
+      "examples": [
+        {"de": "Ich würde dir helfen.", "en": "I would help you."},
+        {"de": "Ich hätte dir geholfen.", "en": "I would have helped you."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct auxiliary.",
+      "prompt": "Wenn du früher gekommen ___, hättest du sie noch gesehen.",
+      "options": ["wärst", "hättest", "würdest", "bist"],
+      "correct": "wärst",
+      "answer": "Wenn du früher gekommen wärst, hättest du sie noch gesehen.",
+      "explanation": "*kommen* is a movement verb and takes *sein*: *gekommen wärst*. *hättest* is the wrong auxiliary, *würdest* cannot combine with a Partizip II, and *bist* is indicative, which does not match *hättest* in the main clause."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Wir ___ den Film gern gesehen, aber das Kino war ausverkauft.",
+      "options": ["hätten", "wären", "würden"],
+      "correct": "hätten",
+      "answer": "Wir hätten den Film gern gesehen, aber das Kino war ausverkauft.",
+      "explanation": "*sehen* takes *haben* in the Perfekt, so the unreal past wish is *hätten … gesehen*. *wären* is the auxiliary for movement and change of state, and *würden* cannot be followed by a Partizip II."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct form for the main clause.",
+      "prompt": "Wenn ich das gewusst hätte, ___ ich dir Bescheid gesagt.",
+      "options": ["hätte", "wäre", "würde", "habe"],
+      "correct": "hätte",
+      "answer": "Wenn ich das gewusst hätte, hätte ich dir Bescheid gesagt.",
+      "explanation": "*Bescheid sagen* takes *haben*, and the past unreal result needs the Konjunktiv II: *hätte … gesagt*. *wäre* is the wrong auxiliary, *würde* does not combine with *gesagt*, and *habe* is indicative."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wenn wir den Bus genommen hätten, hätten wir früher angekommen.",
+      "answer": "Wenn wir den Bus genommen hätten, wären wir früher angekommen.",
+      "explanation": "*ankommen* is a movement verb and takes *sein* (*wir sind angekommen*). The main clause therefore needs *wären … angekommen*. *nehmen* in the *wenn*-clause correctly takes *hätten*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich hätte dich gefragt, wenn ich dich gesehen habe.",
+      "answer": "Ich hätte dich gefragt, wenn ich dich gesehen hätte.",
+      "explanation": "The condition did not happen, so it must be in the Konjunktiv II too: *gesehen habe* (Perfekt indicative) → *gesehen hätte*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Hätte sie den Termin nicht vergessen, wäre sie den Job bekommen.",
+      "answer": "Hätte sie den Termin nicht vergessen, hätte sie den Job bekommen.",
+      "explanation": "*bekommen* looks like *kommen*, but it means *to receive* and takes an Akkusativ object. It forms its Perfekt with *haben* (*sie hat den Job bekommen*), so: *hätte … bekommen*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Change the sentence into the Konjunktiv II of the past.",
+      "prompt": "Wenn ich Zeit hätte, würde ich dich besuchen.",
+      "answer": "Wenn ich Zeit gehabt hätte, hätte ich dich besucht.",
+      "explanation": "*hätte* → *gehabt hätte* (Partizip II of *haben* + auxiliary at the end). *würde … besuchen* → *hätte … besucht*, because *besuchen* takes *haben* and has no *ge-* (prefix *be-*)."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Change the sentence into the Konjunktiv II of the past.",
+      "prompt": "Wenn es nicht regnen würde, würden wir spazieren gehen.",
+      "answer": "Wenn es nicht geregnet hätte, wären wir spazieren gegangen.",
+      "explanation": "*regnen* takes *haben* → *geregnet hätte*. *spazieren gehen* is a movement → *wären … spazieren gegangen*; *spazieren* stays an infinitive in front of *gegangen*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite the condition without *wenn*.",
+      "prompt": "Wenn du mich gefragt hättest, hätte ich es dir erklärt.",
+      "answer": "Hättest du mich gefragt, hätte ich es dir erklärt.",
+      "explanation": "Without *wenn* the finite auxiliary *hättest* moves to position 1 and the subject *du* follows it. The Partizip *gefragt* stays at the end of the condition, and the main clause does not change."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Turn the fact into a regret. Start with *Hätte ich doch …*",
+      "prompt": "Ich habe den Zug verpasst.",
+      "answer": "Hätte ich doch den Zug nicht verpasst!",
+      "explanation": "A regret wishes the opposite of the fact, so *nicht* is added. The Perfekt *habe … verpasst* becomes the Konjunktiv II *Hätte … verpasst*, with the verb first and *doch* as the wish particle."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one unreal past conditional sentence with *wenn*.",
+      "prompt": "Ich habe den Wecker nicht gehört. Ich bin zu spät gekommen.",
+      "answer": "Wenn ich den Wecker gehört hätte, wäre ich nicht zu spät gekommen.",
+      "explanation": "Both facts are reversed: *nicht gehört* → *gehört hätte*, *bin zu spät gekommen* → *wäre nicht zu spät gekommen*. *hören* takes *haben*, *kommen* takes *sein*, as in the Perfekt."
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one unreal past conditional sentence with *wenn*.",
+      "prompt": "Er hat nicht gelernt. Er hat die Prüfung nicht bestanden.",
+      "answer": "Wenn er gelernt hätte, hätte er die Prüfung bestanden.",
+      "explanation": "The negations disappear because the sentence imagines the opposite. Both verbs take *haben*: *gelernt hätte* (end of the *wenn*-clause) and *hätte … bestanden* (main clause, verb first)."
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich war krank,",
+      "prompt": "ich war krank, / sonst / wäre / ich / früher / gekommen",
+      "answer": "Ich war krank, sonst wäre ich früher gekommen.",
+      "explanation": "The first clause states the fact (indicative). *sonst* (otherwise) is in position 1 of the second clause, so *wäre* follows directly, then *ich*; the Partizip *gekommen* closes the sentence."
+    },
+    {
+      "key": "d19",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das",
+      "prompt": "hätte / das / ich / nie / gedacht",
+      "answer": "Das hätte ich nie gedacht.",
+      "explanation": "A common reaction to a surprise (*I would never have thought that*). *Das* fills the Vorfeld, *hätte* is in position 2, then *ich* and *nie*; *gedacht* (Partizip II of *denken*) stands at the end. Other order: *Ich hätte das nie gedacht.*"
+    }
+  ]
+}

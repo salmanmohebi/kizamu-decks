@@ -1,0 +1,719 @@
+{
+  "topic_id": "b2-03-partizip-2-adjektiv",
+  "level": "B2",
+  "title_de": "Partizip II als Adjektiv",
+  "title_en": "The past participle (Partizip II) as an adjective",
+  "rule": {
+    "summary": "The Partizip II (*geschlossen, gekocht, angekommen*) can stand in front of a noun and then takes the normal adjective endings: *die geschlossene Tür, ein gestohlenes Auto, bei geöffnetem Fenster*. Its action is **completed** before the time of the main verb. With transitive verbs the meaning is **passive** (*das gekochte Ei* = the egg that has been boiled); with intransitive *sein*-verbs it is **active** (*die angekommenen Gäste* = the guests who have arrived). Intransitive *haben*-verbs cannot be used this way (✗ *das geschlafene Kind*). The structure shortens relative clauses and is very frequent in written German.",
+    "table": "| Verbtyp | Bedeutung | Beispiel |\n|---|---|---|\n| transitiv (Akk.-Objekt) | passiv, abgeschlossen | die geschlossen**e** Tür = die Tür, die geschlossen worden ist |\n| intransitiv mit *sein* (Zustandsänderung) | aktiv, abgeschlossen | die angekommen**en** Gäste = die Gäste, die angekommen sind |\n| reflexiv (ohne *sich*) | aktiv, Ergebniszustand | ein erkältet**er** Kollege = ein Kollege, der sich erkältet hat |\n| intransitiv mit *haben* | nicht möglich | ✗ das geschlafene Kind → ✓ das schlafende Kind |\n| Vergleich Partizip I | aktiv, gleichzeitig | die steigend**en** Mieten ↔ die gestiegen**en** Mieten |",
+    "steps": [
+      "Identify the verb type: transitive with an Akkusativ object (→ passive meaning), intransitive with *sein* (→ active, completed), reflexive (→ active state, without *sich*), or intransitive with *haben* (→ no Partizip II attribute; use the Partizip I).",
+      "Form the Partizip II: weak verbs *ge-…-(e)t* (*gekauft, geöffnet*), strong verbs *ge-…-en*, often with a vowel change (*gestohlen, gefunden*). No *ge-* for inseparable prefixes (*be-, ver-, er-, ent-, zer-, über-* unstressed) and for verbs in *-ieren*; with separable verbs *ge-* goes between prefix and stem (*ausgefüllt*).",
+      "Add the adjective ending as for any adjective: article type, gender, case and number (*den geschriebenen Brief, bei geöffnetem Fenster*).",
+      "Adverbs and other extensions stand in front of the participle and take no ending: *frisch gepresster Saft, der gestern veröffentlichte Bericht*.",
+      "Check the time relation: Partizip II = completed before the main verb (*die gestiegenen Preise*); Partizip I = happening at the same time (*die steigenden Preise*)."
+    ],
+    "pitfalls": [
+      "Weak forms of strong verbs: ✗ *das gestehlte Auto, der zerbrechte Spiegel* → ✓ *das gestohlene Auto, der zerbrochene Spiegel*.",
+      "*ge-* with inseparable prefixes or *-ieren*: ✗ *die gereservierten Plätze, das geübersetzte Buch* → ✓ *die reservierten Plätze, das übersetzte Buch*.",
+      "Partizip II of an intransitive *haben*-verb: ✗ *die geschlafene Katze* → ✓ *die schlafende Katze*.",
+      "Keeping *sich* with a reflexive verb: ✗ *ein sich erkälteter Kollege* → ✓ *ein erkälteter Kollege*.",
+      "Partizip I for a completed, passive action: ✗ *die schließende Tür* (for a closed door) → ✓ *die geschlossene Tür*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Die {{c1::geschlossene::schließen}} Tür blieb verriegelt.",
+      "en": "The closed door stayed locked.",
+      "focus": "Partizip II · transitives Verb · Nominativ feminin",
+      "explanation": "*schließen* is transitive (*jemand schließt die Tür*), so its Partizip II has a passive, completed meaning: *die Tür, die geschlossen worden ist*. *schließen* is strong → *geschlossen*. Feminine Nominativ after *die* → **-e** → **geschlossene**.",
+      "pattern": "die + Partizip II-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die schließende Tür blieb verriegelt.", "why": "*schließend* (Partizip I) means the door is closing at that moment. A door that stays locked has already been closed → Partizip II *geschlossene*."},
+      "examples": [
+        {"de": "Die verschlossene Kiste stand im Keller.", "en": "The locked box was in the cellar."},
+        {"de": "Die abgesagte Konferenz wird im Herbst nachgeholt.", "en": "The cancelled conference will be held in the autumn instead."}
+      ],
+      "words": [{"de": "verriegelt", "en": "bolted, locked"}],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Das {{c1::gekochte::kochen}} Ei schmeckt gut.",
+      "en": "The boiled egg tastes good.",
+      "focus": "Partizip II · schwaches Verb · Nominativ neutral",
+      "explanation": "*kochen* is a weak verb: ge- + koch + -t → *gekocht*. The egg has been boiled (passive, completed). As an attribute it is declined like an adjective: neuter Nominativ after *das* → **-e** → **gekochte**.",
+      "pattern": "das + Partizip II-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das gekochtes Ei schmeckt gut.", "why": "*-es* is the strong ending after *ein* or without an article (*ein gekochtes Ei*). After *das* the participle takes the weak ending *-e*."},
+      "examples": [
+        {"de": "Das gegrillte Gemüse schmeckt nach Rauch.", "en": "The grilled vegetables taste smoky."},
+        {"de": "Das bestellte Paket ist endlich da.", "en": "The parcel we ordered has finally arrived."}
+      ],
+      "words": [],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Der {{c1::zerbrochene::zerbrechen}} Spiegel bringt Unglück.",
+      "en": "The broken mirror brings bad luck.",
+      "focus": "Partizip II · starkes Verb · untrennbares Präfix",
+      "explanation": "*zerbrechen* is a strong verb with the inseparable prefix *zer-*: there is no *ge-*, and the stem vowel changes: *zerbrechen → zerbrochen*. Masculine Nominativ after *der* → **-e** → **zerbrochene**.",
+      "pattern": "der + Partizip II-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der zerbrechte Spiegel bringt Unglück.", "why": "*brechen* is strong, so its participle ends in *-en* with a vowel change: *gebrochen, zerbrochen*. The weak ending *-t* is wrong here."},
+      "examples": [
+        {"de": "Der zerrissene Vertrag lag auf dem Boden.", "en": "The torn-up contract lay on the floor."},
+        {"de": "Der vergessene Schirm hängt noch an der Garderobe.", "en": "The forgotten umbrella is still hanging on the coat rack."}
+      ],
+      "words": [{"de": "der Spiegel (-)", "en": "mirror"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Die {{c1::gewaschene::waschen}} Wäsche hängt draußen.",
+      "en": "The washed laundry is hanging outside.",
+      "focus": "Partizip II · starkes Verb · Nominativ feminin Singular",
+      "explanation": "*waschen* is strong: *gewaschen*. *die Wäsche* is a singular noun with a collective meaning (the verb is *hängt*), so it is feminine Nominativ singular → **-e** → **gewaschene**.",
+      "pattern": "die + Partizip II-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die gewaschenen Wäsche hängt draußen.", "why": "*Wäsche* is singular, as the verb *hängt* shows, so after *die* the ending is *-e*. *-en* would need a plural noun."},
+      "examples": [
+        {"de": "Die gebügelte Bluse liegt auf dem Bett.", "en": "The ironed blouse is lying on the bed."},
+        {"de": "Die geputzte Küche glänzt.", "en": "The cleaned kitchen is gleaming."}
+      ],
+      "words": [{"de": "die Wäsche", "en": "laundry, washing"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ein {{c1::verlassenes::verlassen}} Haus steht am Ende der Straße.",
+      "en": "An abandoned house stands at the end of the street.",
+      "focus": "Partizip II · Nominativ neutral · nach *ein*",
+      "explanation": "*verlassen* (to leave, to abandon) has the inseparable prefix *ver-*, so its participle looks like the infinitive: *verlassen*. *Haus* is neuter and the subject; after *ein* the participle must carry the strong ending **-es** → **verlassenes**.",
+      "pattern": "ein + Partizip II-**es** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Ein verlassene Haus steht am Ende der Straße.", "why": "*ein* has no ending in the neuter Nominativ, so the participle must show the gender: *ein verlassenes Haus*."},
+      "examples": [
+        {"de": "Ein vergessenes Handy lag auf der Bank.", "en": "A forgotten phone was lying on the bench."},
+        {"de": "Ein gebrauchtes Auto ist oft die bessere Wahl.", "en": "A used car is often the better choice."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Die {{c1::reservierten::reservieren}} Plätze sind in der ersten Reihe.",
+      "en": "The reserved seats are in the front row.",
+      "focus": "Partizip II · Verb auf *-ieren* · Nominativ Plural",
+      "explanation": "Verbs ending in *-ieren* form the Partizip II without *ge-*: *reservieren → reserviert*. *die Plätze* is the plural subject, so after *die* the ending is **-en** → **reservierten**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die gereservierten Plätze sind in der ersten Reihe.", "why": "Verbs in *-ieren* never take *ge-*: *reserviert, repariert, informiert*."},
+      "examples": [
+        {"de": "Die markierten Stellen müssen noch korrigiert werden.", "en": "The marked passages still need to be corrected."},
+        {"de": "Die importierten Waren werden kontrolliert.", "en": "The imported goods are being checked."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das {{c1::gestohlene::stehlen}} Auto wurde gefunden.",
+      "en": "The stolen car has been found.",
+      "focus": "Partizip II · starkes Verb · Vokalwechsel",
+      "explanation": "*stehlen* is a strong verb with a vowel change: *stehlen – stahl – gestohlen*. The car is the object of the theft (passive meaning). Neuter Nominativ after *das* → **-e** → **gestohlene**.",
+      "pattern": "das + Partizip II-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das gestehlte Auto wurde gefunden.", "why": "*stehlen* is strong: its participle ends in *-en* and has the vowel *o*: *gestohlen*. A weak form with *-t* does not exist."},
+      "examples": [
+        {"de": "Das verlorene Gepäck kam zwei Tage später an.", "en": "The lost luggage arrived two days later."},
+        {"de": "Das geliehene Buch muss ich morgen zurückgeben.", "en": "I have to return the borrowed book tomorrow."}
+      ],
+      "words": [{"de": "stehlen", "en": "to steal"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir bewundern die {{c1::renovierten::renovieren}} Gebäude.",
+      "en": "We admire the renovated buildings.",
+      "focus": "Partizip II · Akkusativ Plural · Verb auf *-ieren*",
+      "explanation": "*renovieren* → *renoviert* (no *ge-*, because it ends in *-ieren*). *die Gebäude* is plural (singular *das Gebäude*) and the Akkusativ object of *bewundern*; plural after *die* → **-en** → **renovierten**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Wir bewundern die renovierte Gebäude.", "why": "*Gebäude* has the same form in the singular and the plural, but *die* shows that it is plural here (the singular is *das Gebäude*). Plural after *die* → *-en*."},
+      "examples": [
+        {"de": "Wir besichtigen die restaurierten Fresken.", "en": "We are viewing the restored frescoes."},
+        {"de": "Die Stadt verkauft die sanierten Wohnungen.", "en": "The city is selling the refurbished flats."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Die {{c1::gefundenen::finden}} Schlüssel liegen auf dem Tisch.",
+      "en": "The keys that were found are on the table.",
+      "focus": "Partizip II · starkes Verb · Nominativ Plural",
+      "explanation": "*finden* is strong: *finden – fand – gefunden*. The keys were found by someone (passive, completed). *die Schlüssel* is plural (*der Schlüssel – die Schlüssel*), so after *die* → **-en** → **gefundenen**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die gefindeten Schlüssel liegen auf dem Tisch.", "why": "*finden* is a strong verb: the participle has the vowel *u* and ends in *-en*: *gefunden*."},
+      "examples": [
+        {"de": "Die gesammelten Spenden gehen an ein Kinderheim.", "en": "The donations collected go to a children's home."},
+        {"de": "Die gewonnenen Daten werden anonym gespeichert.", "en": "The data obtained are stored anonymously."}
+      ],
+      "words": [{"de": "der Schlüssel (-)", "en": "key"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Das {{c1::gebackene::backen}} Brot duftet wunderbar.",
+      "en": "The baked bread smells wonderful.",
+      "focus": "Partizip II · Nominativ neutral · Endung",
+      "explanation": "*backen* has the participle *gebacken*. *das Brot* is neuter and the subject; in front of the noun the participle needs an ending, after *das* the weak **-e** → **gebackene**. In natural speech you would usually add *frisch*: *das frisch gebackene Brot*.",
+      "pattern": "das + Partizip II-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das gebacken Brot duftet wunderbar.", "why": "A participle in front of a noun is used as an adjective and must take an ending: *das gebackene Brot*."},
+      "examples": [
+        {"de": "Das geräucherte Fleisch hält sich lange.", "en": "The smoked meat keeps for a long time."},
+        {"de": "Das geschnittene Obst kommt in den Kühlschrank.", "en": "The cut fruit goes in the fridge."}
+      ],
+      "words": [{"de": "duften", "en": "to smell (pleasant)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Der {{c1::reparierte::reparieren}} Computer funktioniert wieder.",
+      "en": "The repaired computer works again.",
+      "focus": "Partizip II · Nominativ maskulin · nach *der*",
+      "explanation": "*reparieren* → *repariert* (no *ge-*). The computer has been repaired, so the Partizip II gives a passive, completed meaning. Masculine Nominativ after *der* → **-e** → **reparierte**.",
+      "pattern": "der + Partizip II-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der reparierter Computer funktioniert wieder.", "why": "*-er* is the strong ending after *ein* (*ein reparierter Computer*). After *der* the participle takes the weak *-e*."},
+      "examples": [
+        {"de": "Der gelöschte Ordner war nicht mehr zu retten.", "en": "The deleted folder could not be recovered."},
+        {"de": "Der aktualisierte Plan liegt im Teamordner.", "en": "The updated plan is in the team folder."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Sie trägt einen {{c1::geerbten::erben}} Ring.",
+      "en": "She wears an inherited ring.",
+      "focus": "Partizip II · Akkusativ maskulin · nach *einen*",
+      "explanation": "*erben* is weak: ge- + erb + -t → *geerbt*. *tragen* takes the Akkusativ; *Ring* is masculine → *einen*, which already shows the case, so the participle takes **-en** → **geerbten**.",
+      "pattern": "einen + Partizip II-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Sie trägt einen geerbter Ring.", "why": "*-er* is the masculine Nominativ ending after *ein*. After *einen* (Akkusativ) the participle ends in *-en*."},
+      "examples": [
+        {"de": "Er fährt einen gebrauchten Kleinwagen.", "en": "He drives a second-hand small car."},
+        {"de": "Sie hat einen gefälschten Ausweis vorgelegt.", "en": "She presented a forged ID card."}
+      ],
+      "words": [{"de": "erben", "en": "to inherit"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Wir lesen das {{c1::übersetzte::übersetzen}} Buch.",
+      "en": "We are reading the translated book.",
+      "focus": "Partizip II · untrennbares Präfix · Akkusativ neutral",
+      "explanation": "*übersetzen* (to translate) is inseparable, with the stress on *-setz-*, so there is no *ge-*: *übersetzt*. The book has been translated (passive). Neuter Akkusativ after *das* → **-e** → **übersetzte**.",
+      "pattern": "das + Partizip II-**e** + Nomen (Akk. n.)",
+      "mistake": {"wrong": "Wir lesen das geübersetzte Buch.", "why": "Inseparable verbs (unstressed *über-*, *be-, ver-, er-, zer-*) form the participle without *ge-*: *übersetzt*. Only separable *übersetzen* (to ferry across) has *übergesetzt*."},
+      "examples": [
+        {"de": "Sie unterschreibt das überarbeitete Dokument.", "en": "She is signing the revised document."},
+        {"de": "Wir besprechen das beantragte Budget.", "en": "We are discussing the budget that was applied for."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Das {{c1::gemalte::malen}} Bild hängt im Wohnzimmer.",
+      "en": "The painted picture hangs in the living room.",
+      "focus": "Partizip II · schwaches Verb · Nominativ neutral",
+      "explanation": "*malen* (to paint) is weak: *gemalt*. The picture has been painted by someone (passive). Neuter Nominativ after *das* → **-e** → **gemalte**. Do not confuse *malen* with *mahlen* (to grind), whose participle is *gemahlen*.",
+      "pattern": "das + Partizip II-**e** + Nomen (Nom. n.)",
+      "mistake": {"wrong": "Das gemalene Bild hängt im Wohnzimmer.", "why": "*malen* is a weak verb, so its Partizip II ends in *-t*: *gemalt → das gemalte Bild*. The ending *-en* belongs to strong verbs (and *gemahlen* is the participle of a different verb, *mahlen*, to grind)."},
+      "examples": [
+        {"de": "Das gerahmte Foto steht auf dem Klavier.", "en": "The framed photo is on the piano."},
+        {"de": "Das gestrickte Kleid hat meine Oma gemacht.", "en": "My grandma made the knitted dress."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Die {{c1::getroffenen::treffen}} Entscheidungen waren richtig.",
+      "en": "The decisions that were made were right.",
+      "focus": "Partizip II · feste Verbindung · Nominativ Plural",
+      "explanation": "*eine Entscheidung treffen* (to make a decision) is a fixed combination, so the participle is *getroffen* (strong: *treffen – traf – getroffen*). *die Entscheidungen* is the plural subject → **-en** → **getroffenen**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die getroffene Entscheidungen waren richtig.", "why": "*Entscheidungen* is plural, and so is the verb *waren*, so after *die* the participle needs *-en*."},
+      "examples": [
+        {"de": "Die vereinbarten Termine stehen im Kalender.", "en": "The agreed appointments are in the calendar."},
+        {"de": "Die ergriffenen Maßnahmen zeigen erste Erfolge.", "en": "The measures taken are showing first successes."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er liest einen {{c1::veröffentlichten::veröffentlichen}} Artikel.",
+      "en": "He is reading a published article.",
+      "focus": "Partizip II · Präfix *ver-* · Akkusativ maskulin",
+      "explanation": "*veröffentlichen* has the inseparable prefix *ver-*, so the participle has no *ge-*: *veröffentlicht*. *Artikel* is masculine and the Akkusativ object → *einen* → **-en** → **veröffentlichten**.",
+      "pattern": "einen + Partizip II-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Er liest einen geveröffentlichten Artikel.", "why": "Verbs with an inseparable prefix (*ver-, be-, er-, ent-, zer-*) never take *ge-* in the participle: *veröffentlicht*."},
+      "examples": [
+        {"de": "Sie sucht einen erfahrenen Kollegen.", "en": "She is looking for an experienced colleague."},
+        {"de": "Er unterschreibt einen befristeten Vertrag.", "en": "He is signing a fixed-term contract."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das {{c1::erhaltene::erhalten}} Geld habe ich sofort auf mein Sparkonto überwiesen.",
+      "en": "I transferred the money I had received straight to my savings account.",
+      "correction": "The legacy sentence *Das erhaltene Geld ist überwiesen.* is circular (money that has been received 'is transferred') and the Zustandspassiv *ist überwiesen* sounds unnatural here. Replaced with a natural sentence that keeps the gap *erhaltene* (now neuter Akkusativ in the Vorfeld).",
+      "focus": "Partizip II · untrennbares Präfix · Akkusativ neutral",
+      "explanation": "*erhalten* (to receive) is strong and has the inseparable prefix *er-*, so there is no *ge-* and the participle looks like the infinitive: *erhalten*. The money has been received (passive, completed). *das Geld* is the Akkusativ object of *überweisen*, placed in the Vorfeld; neuter Akkusativ after *das* → **-e** → **erhaltene**.",
+      "pattern": "das + Partizip II-**e** + Nomen (Akk. n., im Vorfeld)",
+      "mistake": {"wrong": "Das erhaltende Geld habe ich sofort auf mein Sparkonto überwiesen.", "why": "*erhaltend* (Partizip I) is active and means *preserving*. The money has been received by someone, so you need the Partizip II *erhaltene*."},
+      "examples": [
+        {"de": "Das gesparte Geld reicht für eine Reise.", "en": "The money saved is enough for a trip."},
+        {"de": "Das gewonnene Preisgeld spendet sie einem Tierheim.", "en": "She is donating the prize money she won to an animal shelter."}
+      ],
+      "words": [{"de": "überweisen", "en": "to transfer (money)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie zeigte mir den {{c1::geschriebenen::schreiben}} Brief.",
+      "en": "She showed me the letter she had written.",
+      "focus": "Partizip II · starkes Verb · Akkusativ maskulin",
+      "explanation": "*schreiben* is strong: *schreiben – schrieb – geschrieben*. *zeigen* has a Dativ (*mir*) and an Akkusativ object (*den Brief*); masculine Akkusativ after *den* → **-en** → **geschriebenen**. The participle shows that the writing was finished before she showed it.",
+      "pattern": "den + Partizip II-**en** + Nomen (Akk. m.)",
+      "mistake": {"wrong": "Sie zeigte mir den geschriebene Brief.", "why": "After *den* (masculine Akkusativ) every participle and adjective takes *-en*."},
+      "examples": [
+        {"de": "Er las uns den unterschriebenen Vertrag vor.", "en": "He read out the signed contract to us."},
+        {"de": "Sie schickte mir den überarbeiteten Lebenslauf.", "en": "She sent me her revised CV."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Die {{c1::gekauften::kaufen}} Lebensmittel sind im Kühlschrank.",
+      "en": "The groceries we bought are in the fridge.",
+      "focus": "Partizip II · schwaches Verb · Nominativ Plural",
+      "explanation": "*kaufen* is weak: ge- + kauf + -t → *gekauft*. *die Lebensmittel* is plural, so after *die* the participle takes **-en** → **gekauften**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die gekaufen Lebensmittel sind im Kühlschrank.", "why": "Weak verbs form the participle with *-t*: *gekauft*. A participle ending in *-en* belongs only to strong verbs (*gefunden, geschrieben*)."},
+      "examples": [
+        {"de": "Die gebuchten Flüge können nicht storniert werden.", "en": "The booked flights cannot be cancelled."},
+        {"de": "Die gespülten Gläser stehen im Schrank.", "en": "The washed glasses are in the cupboard."}
+      ],
+      "words": [{"de": "die Lebensmittel (Pl.)", "en": "groceries, food"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Der {{c1::geplante::planen}} Urlaub fällt aus.",
+      "en": "The planned holiday has been cancelled.",
+      "focus": "Partizip II · Nominativ maskulin · abgeschlossene Handlung",
+      "explanation": "*planen* → *geplant*: someone planned the holiday before (completed, passive). Masculine Nominativ after *der* → **-e** → **geplante**. *ausfallen* (to be cancelled) is separable: *fällt … aus*.",
+      "pattern": "der + Partizip II-**e** + Nomen (Nom. m.)",
+      "mistake": {"wrong": "Der planende Urlaub fällt aus.", "why": "*planend* (Partizip I) would mean that the holiday itself is planning something. The holiday was planned by people → Partizip II *geplante*."},
+      "examples": [
+        {"de": "Der angekündigte Streik wurde abgesagt.", "en": "The announced strike was called off."},
+        {"de": "Der vereinbarte Preis gilt bis Ende des Jahres.", "en": "The agreed price is valid until the end of the year."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die {{c1::angekommenen::ankommen}} Gäste warten in der Lobby.",
+      "en": "The guests who have arrived are waiting in the lobby.",
+      "focus": "Partizip II · *sein*-Verb · trennbares Verb",
+      "explanation": "*ankommen* has no object and forms its Perfekt with *sein*, so its Partizip II has an **active**, completed meaning: *die Gäste, die angekommen sind*. With separable verbs *ge-* stands between the prefix and the stem: *an-ge-kommen*. Plural after *die* → **-en** → **angekommenen**.",
+      "pattern": "die + Präfix-ge-Stamm-en-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die geankommenen Gäste warten in der Lobby.", "why": "With separable verbs *ge-* goes after the prefix: *angekommen*, not *geankommen*."},
+      "examples": [
+        {"de": "Die eingetroffenen Hilfsgüter werden sofort verteilt.", "en": "The aid supplies that have arrived are distributed immediately."},
+        {"de": "Die zurückgekehrten Astronauten gaben eine Pressekonferenz.", "en": "The astronauts who had returned gave a press conference."}
+      ],
+      "words": [],
+      "production_cue": "(use a participle before the noun)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die {{c1::gestiegenen::steigen}} Mieten belasten viele Familien.",
+      "en": "The increased rents are a burden on many families.",
+      "focus": "Partizip II · *sein*-Verb · Vergleich mit Partizip I",
+      "explanation": "*steigen* is intransitive with *sein* (*die Mieten sind gestiegen*), so the Partizip II means the rise is already complete. Compare *die steigenden Mieten* (Partizip I): rents that are still rising. Plural after *die* → **-en** → **gestiegenen**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Nom. Pl.)",
+      "mistake": {"wrong": "Die gestiegene Mieten belasten viele Familien.", "why": "*Mieten* is plural, and so is the verb *belasten*, so after *die* the participle needs *-en*."},
+      "examples": [
+        {"de": "Die gesunkenen Zinsen machen Kredite billiger.", "en": "The lower interest rates make loans cheaper."},
+        {"de": "Die verschwundenen Akten sind wieder aufgetaucht.", "en": "The files that had disappeared have turned up again."}
+      ],
+      "words": [{"de": "belasten", "en": "to burden, to strain"}],
+      "production_cue": "(completed rise)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Bitte geben Sie die {{c1::ausgefüllten::ausfüllen}} Formulare am Empfang ab.",
+      "en": "Please hand in the completed forms at reception.",
+      "focus": "Partizip II · trennbares Verb · Akkusativ Plural",
+      "explanation": "*ausfüllen* is separable, so *ge-* stands between prefix and stem: *aus-ge-füllt*. The forms have been filled in (passive, completed). *die Formulare* is the plural Akkusativ object of *abgeben* → **-en** → **ausgefüllten**.",
+      "pattern": "die + Partizip II-**en** + Nomen (Akk. Pl.)",
+      "mistake": {"wrong": "Bitte geben Sie die ausfüllenden Formulare am Empfang ab.", "why": "*ausfüllend* (Partizip I) would mean that the forms are filling something in. The forms have been filled in by people → Partizip II *ausgefüllten*."},
+      "examples": [
+        {"de": "Bitte schicken Sie die unterschriebenen Verträge zurück.", "en": "Please send back the signed contracts."},
+        {"de": "Bitte legen Sie die eingescannten Belege bei.", "en": "Please attach the scanned receipts."}
+      ],
+      "words": [{"de": "das Formular (-e)", "en": "form"}, {"de": "abgeben", "en": "to hand in"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Bei {{c1::geöffnetem::öffnen}} Fenster schläft sie am besten.",
+      "en": "She sleeps best with the window open.",
+      "focus": "Partizip II · Dativ neutral · ohne Artikel",
+      "explanation": "*bei* takes the Dativ, and *das Fenster* is neuter. There is no article, so the participle shows the case with the strong ending **-em** → **geöffnetem**. *öffnen* is weak, and because its stem ends in consonant + *n*, it adds *-et*: *geöffnet*.",
+      "pattern": "bei + Partizip II-**em** + Nomen (Dat. n., ohne Artikel)",
+      "mistake": {"wrong": "Bei geöffneten Fenster schläft sie am besten.", "why": "Without an article the participle takes the strong Dativ ending *-em* (like *dem*): *bei geöffnetem Fenster*. *-en* is only correct after an article (*bei dem geöffneten Fenster*)."},
+      "examples": [
+        {"de": "Bei geschlossener Tür ist es im Büro ruhiger.", "en": "It is quieter in the office with the door closed."},
+        {"de": "Mit gesenktem Kopf verließ er den Raum.", "en": "He left the room with his head lowered."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Zum Frühstück gab es frisch {{c1::gepressten::pressen}} Orangensaft.",
+      "en": "There was freshly squeezed orange juice for breakfast.",
+      "focus": "Partizip II · Akkusativ maskulin · ohne Artikel",
+      "explanation": "*es gibt* takes the Akkusativ. *der Orangensaft* is masculine and has no article, so the participle takes the strong Akkusativ ending **-en** (as in *den*) → **gepressten**. The adverb *frisch* stands before the participle and has no ending.",
+      "pattern": "es gibt + Adverb + Partizip II-**en** + Nomen (Akk. m., ohne Artikel)",
+      "mistake": {"wrong": "Zum Frühstück gab es frisch gepresster Orangensaft.", "why": "*gepresster* is the Nominativ form. After *es gab* the noun is the Akkusativ object, so the masculine strong ending is *-en*."},
+      "examples": [
+        {"de": "Im Café gibt es selbst gebackenen Kuchen.", "en": "The café has homemade cake."},
+        {"de": "Auf dem Markt gibt es frisch geernteten Spargel.", "en": "At the market there is freshly harvested asparagus."}
+      ],
+      "words": [{"de": "pressen", "en": "to squeeze, to press"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die {{c1::verkaufte::verkaufen}} Wohnung wird im Mai übergeben.",
+      "en": "The flat that has been sold will be handed over in May.",
+      "focus": "Partizip II · Präfix *ver-* · Nominativ feminin",
+      "explanation": "*verkaufen* has the inseparable prefix *ver-*, so the participle has no *ge-*: *verkauft*. The flat has been sold by someone (passive). Feminine Nominativ after *die* → **-e** → **verkaufte**.",
+      "pattern": "die + Partizip II-**e** + Nomen (Nom. f.)",
+      "mistake": {"wrong": "Die geverkaufte Wohnung wird im Mai übergeben.", "why": "*ver-* is an inseparable prefix, so there is no *ge-*: *verkauft*, as in *bezahlt, erklärt, zerstört*."},
+      "examples": [
+        {"de": "Die bezahlte Rechnung habe ich abgeheftet.", "en": "I have filed the paid invoice."},
+        {"de": "Die erledigte Aufgabe kann man von der Liste streichen.", "en": "You can cross the completed task off the list."}
+      ],
+      "words": [{"de": "übergeben", "en": "to hand over"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die {{c1::Verletzten::verletzen}} wurden ins Krankenhaus gebracht.",
+      "en": "The injured were taken to hospital.",
+      "focus": "Partizip II · substantiviert · Plural",
+      "explanation": "A Partizip II can become a noun: *verletzt* → *die Verletzten* (the injured people). It is written with a capital letter and keeps adjective endings: plural after *die* → **-en** → **Verletzten**.",
+      "pattern": "die + Partizip II-**en** (substantiviert, Pl.)",
+      "mistake": {"wrong": "Die Verletzte wurden ins Krankenhaus gebracht.", "why": "A substantivised participle is declined like an adjective. After the plural article *die* it needs *-en*; *die Verletzte* is one injured woman."},
+      "examples": [
+        {"de": "Die Betroffenen erhalten eine Entschädigung.", "en": "Those affected receive compensation."},
+        {"de": "Die Gefangenen wurden freigelassen.", "en": "The prisoners were released."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Mein Vater ist {{c1::Angestellter::anstellen}} bei der Stadt.",
+      "en": "My father works for the city council as an employee.",
+      "focus": "Partizip II · substantiviert · ohne Artikel",
+      "explanation": "*der/die Angestellte* comes from *anstellen* (to employ). Like a profession, it is used after *sein* without an article. With no article, the masculine Nominativ needs the strong ending **-er** → **Angestellter** (compare *der Angestellte, ein Angestellter*).",
+      "pattern": "sein + Partizip II-**er** (substantiviert, Nom. m., ohne Artikel)",
+      "mistake": {"wrong": "Mein Vater ist Angestellte bei der Stadt.", "why": "Without an article the substantivised participle takes the strong ending: masculine Nominativ → *-er*. *Angestellte* without an article is feminine or plural."},
+      "examples": [
+        {"de": "Er ist Beauftragter für Datenschutz.", "en": "He is the data protection officer."},
+        {"de": "Sie ist seit 2019 Abgeordnete im Landtag.", "en": "She has been a member of the state parliament since 2019."}
+      ],
+      "words": [{"de": "der/die Angestellte (adj. Nomen)", "en": "employee"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ein {{c1::erkälteter::sich erkälten}} Kollege sollte lieber zu Hause bleiben.",
+      "en": "A colleague who has caught a cold should rather stay at home.",
+      "focus": "Partizip II · reflexives Verb · aktive Bedeutung",
+      "explanation": "*sich erkälten* (to catch a cold) is reflexive. As an attribute its Partizip II drops *sich* and has an active, completed meaning: *ein Kollege, der sich erkältet hat*. After *ein* the masculine Nominativ ending is **-er** → **erkälteter**.",
+      "pattern": "ein + Partizip II-**er** + Nomen (reflexives Verb, ohne *sich*)",
+      "mistake": {"wrong": "Ein sich erkälteter Kollege sollte lieber zu Hause bleiben.", "why": "The reflexive pronoun stays only with the Partizip I (*der sich nähernde Sturm*). In a Partizip II attribute it is left out: *ein erkälteter Kollege*."},
+      "examples": [
+        {"de": "Ein verliebter Teenager denkt an nichts anderes.", "en": "A teenager in love thinks of nothing else."},
+        {"de": "Ein verspäteter Zug sorgte für Chaos am Bahnhof.", "en": "A delayed train caused chaos at the station."}
+      ],
+      "words": [{"de": "sich erkälten", "en": "to catch a cold"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Er kam mit einem {{c1::gebrochenen::brechen}} Arm aus dem Urlaub zurück.",
+      "en": "He came back from his holiday with a broken arm.",
+      "focus": "Partizip II · Dativ maskulin · nach *einem*",
+      "explanation": "*brechen* is strong: *brechen – brach – gebrochen*. *mit* takes the Dativ, and *Arm* is masculine → *einem*. *einem* already carries the strong signal *-m*, so the participle takes **-en** → **gebrochenen**.",
+      "pattern": "mit + einem + Partizip II-**en** + Nomen (Dat. m.)",
+      "mistake": {"wrong": "Er kam mit einem gebrochenem Arm aus dem Urlaub zurück.", "why": "The *-m* is already on *einem*; it is not repeated on the participle. After *einem* the ending is *-en*."},
+      "examples": [
+        {"de": "Sie fuhr mit einem gemieteten Wagen nach Hamburg.", "en": "She drove to Hamburg in a rented car."},
+        {"de": "Er antwortete mit einem gequälten Lächeln.", "en": "He answered with a forced smile."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Sie verfolgte die Nachrichten mit {{c1::gemischten::mischen}} Gefühlen.",
+      "en": "She followed the news with mixed feelings.",
+      "focus": "Partizip II · Dativ Plural · ohne Artikel",
+      "explanation": "*mit* takes the Dativ, and *Gefühlen* is Dativ plural (with the extra *-n*). Without an article the strong Dativ plural ending is **-en** → **gemischten**. *mit gemischten Gefühlen* is a fixed expression.",
+      "pattern": "mit + Partizip II-**en** + Nomen-**n** (Dat. Pl., ohne Artikel)",
+      "mistake": {"wrong": "Sie verfolgte die Nachrichten mit gemischte Gefühlen.", "why": "*-e* is the strong ending of the Nominativ/Akkusativ plural (*gemischte Gefühle*). After *mit* the Dativ plural ending is *-en*."},
+      "examples": [
+        {"de": "Mit vereinten Kräften schafften sie es.", "en": "They managed it by joining forces."},
+        {"de": "Sie hörte mit geschlossenen Augen zu.", "en": "She listened with her eyes closed."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Trotz des {{c1::gesenkten::senken}} Preises verkauft sich das Auto schlecht.",
+      "en": "Despite the reduced price, the car is selling badly.",
+      "focus": "Partizip II · Genitiv maskulin · transitives Verb",
+      "explanation": "*senken* (to lower) is transitive: someone has lowered the price → passive meaning, weak participle *gesenkt*. *trotz* takes the Genitiv; *der Preis* is masculine → *des Preises*, and after *des* the participle takes **-en** → **gesenkten**.",
+      "pattern": "trotz + des + Partizip II-**en** + Nomen-**es** (Gen. m.)",
+      "mistake": {"wrong": "Trotz des gesenkte Preises verkauft sich das Auto schlecht.", "why": "*-e* never follows *des*. Every Genitiv participle after an article ends in *-en*."},
+      "examples": [
+        {"de": "Trotz des verbesserten Angebots blieb die Nachfrage gering.", "en": "Despite the improved offer, demand remained low."},
+        {"de": "Wegen des verschobenen Termins müssen wir umplanen.", "en": "Because of the postponed appointment, we have to reschedule."}
+      ],
+      "words": [{"de": "senken", "en": "to lower, to reduce"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about which verbs form a Partizip II attribute.",
+      "prompt": "Which verbs can be used as a Partizip II before a noun, and what does the participle mean in each case?",
+      "answer": "**Transitive verbs** → passive, completed (*das gekochte Ei*). **Intransitive *sein*-verbs** (change of place or state) → active, completed (*die angekommenen Gäste*). **Reflexive verbs** → active state, without *sich* (*ein verliebtes Paar*). **Not possible**: intransitive *haben*-verbs (✗ *die gearbeitete Frau*, ✗ *das geschlafene Kind*).",
+      "explanation": "Test with a relative clause: if *der/die/das …, das … worden ist* or *…, das … ist* (with *sein* as auxiliary) makes sense, the Partizip II attribute works. An intransitive *haben*-verb gives no passive and no *sein*-Perfekt, so you must use the Partizip I or a relative clause.",
+      "examples": [
+        {"de": "Die eingeschlafenen Kinder wurden ins Bett getragen.", "en": "The children who had fallen asleep were carried to bed."},
+        {"de": "Die schlafenden Kinder dürfen nicht geweckt werden.", "en": "The sleeping children must not be woken."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the form of the Partizip II.",
+      "prompt": "When does a Partizip II have no *ge-*, and where does *ge-* go in separable verbs?",
+      "answer": "**No *ge-***: verbs with an inseparable prefix (*be-, emp-, ent-, er-, ge-, miss-, ver-, zer-*, unstressed *über-/unter-*) and verbs in **-ieren** (*bezahlt, verkauft, reserviert*). **Separable verbs**: *ge-* goes between prefix and stem (*aus**ge**füllt, an**ge**kommen*).",
+      "explanation": "Weak verbs end in *-(e)t* (*gekauft, geöffnet*), strong verbs in *-en*, often with a vowel change (*gestohlen, gebrochen, gefunden*). These are the same forms as in the Perfekt; only the adjective ending is new.",
+      "examples": [
+        {"de": "Die erklärten Regeln gelten ab sofort.", "en": "The rules that have been explained apply immediately."},
+        {"de": "Die abgeholten Pakete werden aus dem System gelöscht.", "en": "The parcels that have been collected are deleted from the system."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the time relation of the two participles.",
+      "prompt": "What is the difference between *die fallenden Blätter* and *die gefallenen Blätter*?",
+      "answer": "**Partizip I** = at the same time as the main verb: *die fallenden Blätter* are falling right now. **Partizip II** = completed before: *die gefallenen Blätter* have already fallen and are lying on the ground.",
+      "explanation": "Both participles have no tense of their own; they are relative to the main verb. With a *sein*-verb like *fallen*, both are active; the only difference is ongoing versus completed. With a transitive verb the Partizip II is also passive.",
+      "examples": [
+        {"de": "Die Kinder versuchen, die fallenden Blätter zu fangen.", "en": "The children are trying to catch the falling leaves."},
+        {"de": "Im Herbst kehrt der Hausmeister die gefallenen Blätter zusammen.", "en": "In the autumn the caretaker sweeps up the fallen leaves."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about reflexive verbs.",
+      "prompt": "What happens to reflexive verbs like *sich verspäten* or *sich verlieben* when their Partizip II stands before a noun?",
+      "answer": "The reflexive pronoun is **dropped**, and the participle has an **active** meaning (a state that results from the action): *der verspätete Zug* = der Zug, der sich verspätet hat; *ein verliebtes Paar* = ein Paar, das sich verliebt hat.",
+      "explanation": "This is an exception to the rule that a *haben*-verb gives a passive meaning. With the Partizip I the reflexive pronoun stays (*die sich verspätenden Gäste*), but with the Partizip II it disappears.",
+      "examples": [
+        {"de": "Die verspätete Maschine landete erst um Mitternacht.", "en": "The delayed plane did not land until midnight."},
+        {"de": "Ein betrunkener Fahrer verursachte den Unfall.", "en": "A drunk driver caused the accident."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about substantivised participles.",
+      "prompt": "How are substantivised Partizip II forms such as *der Angestellte* or *die Verletzten* declined?",
+      "answer": "**Like adjectives**, depending on the article: *der Angestellt**e***, *ein Angestellt**er***, *die Angestellt**en***, without article *Angestellt**e*** (Pl.). They are written with a capital letter.",
+      "explanation": "Common examples are *der/die Verletzte, Betroffene, Vorgesetzte, Beschuldigte, Gefangene* and the neuter *das Gesagte* (what has been said). The ending changes exactly as with *der/ein Deutsche(r)*.",
+      "examples": [
+        {"de": "Mein Vorgesetzter hat meinen Urlaub genehmigt.", "en": "My boss has approved my holiday."},
+        {"de": "Das Gesagte bleibt unter uns.", "en": "What has been said stays between us."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a Partizip II attribute.",
+      "prompt": "Die Briefe, die gestern verschickt wurden, sind schon angekommen.",
+      "answer": "Die gestern verschickten Briefe sind schon angekommen.",
+      "explanation": "The relative clause is passive, so the Partizip II *verschickt* expresses the same meaning. *gestern* moves in front of the participle, and the participle takes the plural ending *-en* after *die*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a Partizip II attribute.",
+      "prompt": "Die Gäste, die eingeladen worden sind, kommen um acht.",
+      "answer": "Die eingeladenen Gäste kommen um acht.",
+      "explanation": "*eingeladen worden sind* is a passive Perfekt, so the Partizip II *eingeladen* replaces the whole clause. It takes the plural ending *-en* after *die*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a Partizip II attribute.",
+      "prompt": "Die Blätter, die heruntergefallen sind, liegen überall im Hof.",
+      "answer": "Die heruntergefallenen Blätter liegen überall im Hof.",
+      "explanation": "*herunterfallen* is an intransitive *sein*-verb, so its Partizip II has an active, completed meaning. *ge-* stays inside the separable verb (*herunter-ge-fallen*), and the plural ending after *die* is *-en*."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Replace the participle with a passive relative clause in the Perfekt.",
+      "prompt": "Der reparierte Drucker steht wieder im Büro.",
+      "answer": "Der Drucker, der repariert worden ist, steht wieder im Büro.",
+      "explanation": "The Partizip II of a transitive verb has a passive meaning, so the relative clause is passive: *der repariert worden ist* (masculine Nominativ relative pronoun *der*). The Präteritum *der repariert wurde* is also correct."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir fanden die geschlafene Katze im Wäschekorb.",
+      "answer": "Wir fanden die schlafende Katze im Wäschekorb.",
+      "explanation": "*schlafen* is an intransitive *haben*-verb, so its Partizip II cannot be used as an attribute. For a cat that is asleep at that moment, use the Partizip I *schlafend*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir haben die bestellte Bücher in der Buchhandlung abgeholt.",
+      "answer": "Wir haben die bestellten Bücher in der Buchhandlung abgeholt.",
+      "explanation": "*Bücher* is plural, and the plural after *die* always takes *-en*: *die bestellten Bücher*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das angebietete Getränk lehnte sie höflich ab.",
+      "answer": "Das angebotene Getränk lehnte sie höflich ab.",
+      "explanation": "*anbieten* is a strong verb: *bieten – bot – geboten*. With the separable prefix the participle is *angeboten*, and after *das* the neuter Akkusativ ending is *-e*."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Der frisch ___ Kaffee riecht wunderbar.",
+      "options": ["gemahlene", "gemalte", "mahlende"],
+      "correct": "gemahlene",
+      "answer": "Der frisch gemahlene Kaffee riecht wunderbar.",
+      "explanation": "Coffee is ground (*mahlen*), and it has been ground before (passive, completed) → *gemahlen*, with *-e* after *der*. *gemalt* comes from *malen* (to paint). *mahlend* (Partizip I) would mean the coffee itself is grinding something."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct participle.",
+      "prompt": "Wir warten noch auf die ___ Gäste.",
+      "options": ["eingeladenen", "einladenden", "eingeladene"],
+      "correct": "eingeladenen",
+      "answer": "Wir warten noch auf die eingeladenen Gäste.",
+      "explanation": "The guests have been invited (passive) → Partizip II *eingeladen*, with the plural Akkusativ ending *-en* after *die*. *einladend* means *inviting, attractive* (*ein einladendes Café*). *eingeladene* has the wrong ending for the plural after *die*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "In dieser Region sollte man nur ___ Wasser trinken.",
+      "options": ["abgekochtes", "abkochendes", "abgekochte"],
+      "correct": "abgekochtes",
+      "answer": "In dieser Region sollte man nur abgekochtes Wasser trinken.",
+      "explanation": "The water must have been boiled before (passive, completed) → *abgekocht*. Without an article the neuter Akkusativ takes the strong ending *-es*. *abkochend* would describe water that is boiling something, and *abgekochte* has the wrong ending."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "die / reparierte / abholen / Uhr / morgen / kann / ich",
+      "answer": "Ich kann die reparierte Uhr morgen abholen.",
+      "explanation": "*kann* is in position 2 and the infinitive *abholen* at the end. The participle stands between the article and the noun: *die reparierte Uhr* (feminine Akkusativ → *-e*). Also correct: *Ich kann morgen die reparierte Uhr abholen.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Er",
+      "prompt": "kein / geborener / ist / Berliner / er",
+      "answer": "Er ist kein geborener Berliner.",
+      "explanation": "*geboren* (from *gebären*) is used as an attribute meaning *born, native*. After *kein* the masculine Nominativ is not visible on the article, so the participle takes *-er*: *kein geborener Berliner*."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a Partizip II attribute in the second sentence.",
+      "prompt": "Der Bericht wurde gestern veröffentlicht. Der Bericht sorgt für Diskussionen.",
+      "answer": "Der gestern veröffentlichte Bericht sorgt für Diskussionen.",
+      "explanation": "The first sentence is passive, so the Partizip II *veröffentlicht* (no *ge-*, prefix *ver-*) can replace it. *gestern* stands in front of the participle, and the masculine Nominativ ending after *der* is *-e*."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Make one sentence: turn the first sentence into a Partizip II attribute in the second sentence.",
+      "prompt": "Das Kind ist eingeschlafen. Die Mutter legt das Kind ins Bett.",
+      "answer": "Die Mutter legt das eingeschlafene Kind ins Bett.",
+      "explanation": "*einschlafen* is a *sein*-verb, so its Partizip II has an active, completed meaning: the child has fallen asleep. Neuter Akkusativ after *das* → *-e*: *das eingeschlafene Kind*."
+    }
+  ]
+}

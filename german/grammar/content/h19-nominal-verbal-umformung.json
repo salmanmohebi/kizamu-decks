@@ -1,0 +1,741 @@
+{
+  "topic_id": "h19-nominal-verbal-umformung",
+  "level": "C1",
+  "title_de": "Umformung: Präpositionalgruppe ↔ Nebensatz",
+  "title_en": "Converting between noun style and verb style (prepositional phrase ↔ subordinate clause)",
+  "rule": {
+    "summary": "The same content can be said with a Nebensatz (**Verbalstil**: *Weil der Zug Verspätung hatte, …*) or with a preposition + noun (**Nominalstil**: *Wegen der Verspätung des Zuges …*). The Nominalstil is typical of news, law, science and administration; the Verbalstil is clearer and more common in speech. Goethe and telc exams at B2/C1 ask you to convert in both directions. Each conjunction has a fixed prepositional partner, and the parts of the clause change their form: the verb becomes a noun, the subject and the object become a Genitiv attribute (or *von* / *durch* / a possessive), adverbs become adjectives.",
+    "table": "| Bedeutung | Verbalstil (Konjunktion) | Nominalstil (Präposition + Kasus) |\n|---|---|---|\n| Grund | **weil, da** | **wegen, aufgrund** + Gen. |\n| Gegengrund | **obwohl** | **trotz** + Gen. |\n| Bedingung / Zeit | **wenn, als** | **bei** + Dat. |\n| Bedingung | **falls** | **im Fall(e)** + Gen. |\n| vorher | **bevor** | **vor** + Dat. |\n| nachher | **nachdem** | **nach** + Dat. |\n| gleichzeitig | **während** | **während** + Gen. |\n| Beginn bis heute | **seit, seitdem** | **seit** + Dat. |\n| Endpunkt | **bis** | **bis zu** + Dat. (*bis zum/zur*) |\n| Zweck | **um … zu, damit** | **zu** + Dat. (*zum/zur*), **für** + Akk. |\n| Mittel | **indem, dadurch, dass** | **durch** + Akk. |\n| fehlender Umstand | **ohne dass, ohne … zu** | **ohne** + Akk. |\n| Ersatz | **statt dass, statt … zu** | **(an)statt** + Gen. |\n| **Satzteile** | Subjekt (intransitiv) | Genitivattribut: *die Ankunft **des Zuges*** |\n| | Akkusativobjekt | Genitivattribut / *von* + Dat.: *die Prüfung **der Anträge***, *der Abbau **von** Lithium* |\n| | Subjekt + Objekt | Objekt → Gen., Subjekt → **durch** + Akk.: *die Prüfung der Anträge **durch das Amt*** |\n| | Pronomen als Subjekt | Possessivartikel: *nachdem er zurückgekehrt war → nach **seiner** Rückkehr* |\n| | Adverb / *nicht* | Adjektiv / *Nicht-*, *Un-*: *sorgfältig prüfen → **sorgfältige** Prüfung*, *nicht beachten → **Nichtbeachtung*** |",
+    "steps": [
+      "Identify the meaning of the connector (reason, concession, time, condition, purpose, means …) and take its partner from the table, with the correct case.",
+      "Turn the verb into its noun: *-ung* (*erhöhen → die Erhöhung*), a stem noun (*ausfallen → der Ausfall*, *einreisen → die Einreise*), an irregular noun (*ankommen → die Ankunft*) or, if no noun exists, the nominalised infinitive (*verlassen → das Verlassen*). Adjective + *sein* → *-heit/-keit* noun.",
+      "Attach the clause parts: an intransitive subject or an Akkusativ object becomes a Genitiv attribute after the noun; a bare noun without article takes *von* + Dativ; if there are subject and object, the object keeps the Genitiv and the subject goes into *durch* + Akkusativ; a pronoun subject becomes a possessive article; *man* disappears.",
+      "Change adverbs into declined adjectives (*schnell reagieren → die schnelle Reaktion*) and *nicht* into *Nicht-* or *Un-* (*nicht bestehen → das Nichtbestehen*).",
+      "Going back to the Verbalstil, you must add what the noun hides: a subject (often *man*), the tense (*nachdem* + Plusquamperfekt), active or passive, and the correct verb position (Nebensatz: verb at the end).",
+      "For purpose, absence and replacement check the subjects: same subject → *um/ohne/statt … zu*; different subject or passive → *damit / ohne dass / statt dass*."
+    ],
+    "pitfalls": [
+      "Using the conjunction before a noun: ✗ *Obwohl der hohen Kosten …* → ✓ *Trotz der hohen Kosten …* / ✓ *Obwohl die Kosten hoch sind, …*",
+      "Leaving two nouns side by side without a case marker: ✗ *die Prüfung die Anträge* → ✓ *die Prüfung der Anträge*; ✗ *der Abbau Lithium* → ✓ *der Abbau von Lithium*.",
+      "Two Genitiv attributes on one noun: ✗ *die Prüfung des Amts der Anträge* → ✓ *die Prüfung der Anträge durch das Amt*.",
+      "Inventing *-ung* nouns: ✗ *die Einreisung, die Ankommung* → ✓ *die Einreise, die Ankunft*.",
+      "Wrong tense or subject when going back to the Verbalstil: ✗ *Nachdem die Genehmigung erteilt wurde, konnten …* → ✓ *… erteilt worden war, …*; ✗ *um die Bürger entlastet zu werden* → ✓ *damit die Bürger entlastet werden*."
+    ]
+  },
+  "items": [
+    {
+      "key": "n01",
+      "de": "Wegen {{c1::des starken Schneefalls::der starke Schneefall}} fielen gestern zahlreiche Flüge aus.",
+      "en": "Because of the heavy snowfall, numerous flights were cancelled yesterday.",
+      "focus": "Nominalstil · Grund · Kasus nach *wegen*",
+      "explanation": "Verbalstil: *Weil es gestern stark geschneit hatte, fielen …*. The reason clause becomes **wegen** + Genitiv. *der Schneefall* is masculine → Genitiv article **des** and noun ending **-s**; after *des* the adjective is weak: *starken*. The adverb *stark* of the Verbalstil becomes an adjective with an ending.",
+      "pattern": "wegen + **des** + Adj-**en** + Nomen-**(e)s** (Gen. m.)",
+      "mistake": {"wrong": "Wegen des starken Schneefall fielen gestern zahlreiche Flüge aus.", "why": "Masculine and neuter nouns take *-(e)s* in the Genitiv singular. The article *des* alone is not enough: *des starken Schneefalls*."},
+      "examples": [
+        {"de": "Wegen des hohen Krankenstands musste die Praxis ihre Sprechzeiten kürzen.", "en": "Because so many staff were off sick, the practice had to shorten its opening hours."},
+        {"de": "Wegen eines technischen Defekts verzögert sich die Abfahrt um zwanzig Minuten.", "en": "Because of a technical fault, the departure is delayed by twenty minutes."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to be cancelled"}, {"de": "der Schneefall", "en": "snowfall"}],
+      "production_cue": "(Nominalstil with wegen)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "{{c1::Trotz::Verbalstil: obwohl}} intensiver Verhandlungen konnten sich die Tarifparteien nicht einigen.",
+      "en": "Despite intensive negotiations, the two sides in the wage talks could not reach an agreement.",
+      "focus": "Nominalstil · Gegengrund",
+      "explanation": "Verbalstil: *Obwohl die Tarifparteien intensiv verhandelt hatten, konnten sie sich nicht einigen.* The concessive conjunction *obwohl* corresponds to the preposition **trotz** + Genitiv. *Verhandlungen* has no article here, so the adjective shows the Genitiv plural with the strong ending: intensiv + -er → *intensiver Verhandlungen*.",
+      "pattern": "trotz + Adj-**er** + Nomen (Gen. Pl. ohne Artikel)",
+      "mistake": {"wrong": "Obwohl intensiver Verhandlungen konnten sich die Tarifparteien nicht einigen.", "why": "*obwohl* is a subordinating conjunction and needs a full Nebensatz with a finite verb. In front of a noun phrase you need the preposition *trotz*."},
+      "examples": [
+        {"de": "Trotz steigender Preise bleibt die Nachfrage nach Bio-Lebensmitteln stabil.", "en": "Despite rising prices, demand for organic food remains stable."},
+        {"de": "Trotz mehrfacher Mahnungen hat der Kunde die Rechnung nicht bezahlt.", "en": "Despite several reminders, the customer has not paid the invoice."}
+      ],
+      "words": [{"de": "die Tarifparteien (Pl.)", "en": "employers and unions in wage talks"}, {"de": "sich einigen", "en": "to reach an agreement"}],
+      "production_cue": "(Nominalstil)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "{{c1::Bei::Verbalstil: wenn}} Nichtbeachtung der Vorschriften droht ein Bußgeld von bis zu 500 Euro.",
+      "en": "Failure to comply with the regulations can result in a fine of up to 500 euros.",
+      "focus": "Nominalstil · Bedingung · Negation im Nomen",
+      "explanation": "Verbalstil: *Wenn man die Vorschriften nicht beachtet, droht …*. A *wenn*-condition becomes **bei** + Dativ. The negated verb *nicht beachten* becomes the noun *die Nichtbeachtung*, the Akkusativ object *die Vorschriften* becomes the Genitiv attribute *der Vorschriften*, and the subject *man* disappears.",
+      "pattern": "bei + (Nicht-)Nomen (Dat.) + Genitivattribut (= Objekt)",
+      "mistake": {"wrong": "Wenn Nichtbeachtung der Vorschriften droht ein Bußgeld von bis zu 500 Euro.", "why": "*wenn* is a conjunction; it cannot introduce a noun phrase. Either *bei Nichtbeachtung der Vorschriften* or a full clause: *Wenn man die Vorschriften nicht beachtet, …*"},
+      "examples": [
+        {"de": "Bei Verlust der Karte müssen Sie sofort Ihre Bank informieren.", "en": "If you lose the card, you must inform your bank immediately."},
+        {"de": "Bei Überschreitung der Frist wird eine Säumnisgebühr fällig.", "en": "If the deadline is exceeded, a late fee becomes payable."}
+      ],
+      "words": [{"de": "das Bußgeld", "en": "(administrative) fine"}, {"de": "die Nichtbeachtung", "en": "non-compliance"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "{{c1::Vor::Verbalstil: bevor}} der Unterzeichnung des Vertrags sollten Sie alle Klauseln von einer Anwältin prüfen lassen.",
+      "en": "Before signing the contract, you should have a lawyer check all the clauses.",
+      "focus": "Nominalstil · Zeit · vorher",
+      "explanation": "Verbalstil: *Bevor Sie den Vertrag unterzeichnen, sollten Sie …*. *bevor* corresponds to the preposition **vor** + Dativ: *vor der Unterzeichnung* (feminine *-ung* noun, Dativ *der*). The Akkusativ object *den Vertrag* becomes the Genitiv attribute *des Vertrags*, and the subject *Sie* is not needed because it is clear from the main clause.",
+      "pattern": "vor + der + Nomen-ung (Dat.) + Genitivattribut",
+      "mistake": {"wrong": "Bevor der Unterzeichnung des Vertrags sollten Sie alle Klauseln von einer Anwältin prüfen lassen.", "why": "*bevor* is a subordinating conjunction and needs a clause with the verb at the end. The prepositional partner is *vor* + Dativ."},
+      "examples": [
+        {"de": "Vor der Abgabe der Masterarbeit muss man eine Eigenständigkeitserklärung unterschreiben.", "en": "Before submitting the master's thesis, you have to sign a declaration of authorship."},
+        {"de": "Vor Beginn der Vorstellung werden die Zuschauer gebeten, ihre Handys auszuschalten.", "en": "Before the performance begins, the audience is asked to switch off their phones."}
+      ],
+      "words": [{"de": "die Klausel", "en": "clause (in a contract)"}, {"de": "unterzeichnen", "en": "to sign"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Nach der Veröffentlichung der Studie {{c1::stieg::ansteigen, Präteritum}} die Nachfrage nach dem Medikament sprunghaft an.",
+      "en": "After the study was published, demand for the drug rose sharply.",
+      "focus": "Nominalstil im Vorfeld · Position des finiten Verbs",
+      "explanation": "Verbalstil: *Nachdem die Studie veröffentlicht worden war, stieg …*. In the Nominalstil the whole clause shrinks to one prepositional phrase (**nach** + Dativ + Genitiv attribute), which fills the Vorfeld of the main clause. So the finite verb **stieg** comes directly after it (verb second), and the prefix *an* goes to the end. The second *nach* belongs to the noun *die Nachfrage nach*.",
+      "pattern": "[Nach + Nomen + Gen.] + **Verb** + Subjekt … Präfix",
+      "mistake": {"wrong": "Nach der Veröffentlichung der Studie die Nachfrage nach dem Medikament stieg sprunghaft an.", "why": "The prepositional phrase is one part of the main clause and occupies position 1. The finite verb must follow directly: *Nach der Veröffentlichung der Studie stieg die Nachfrage …*"},
+      "examples": [
+        {"de": "Nach der Schließung des Werks verloren 800 Menschen ihre Arbeit.", "en": "After the plant was closed, 800 people lost their jobs."},
+        {"de": "Nach Abschluss der Ermittlungen wird die Staatsanwaltschaft Anklage erheben.", "en": "Once the investigation is complete, the public prosecutor will bring charges."}
+      ],
+      "words": [{"de": "sprunghaft", "en": "sharply, by leaps"}],
+      "production_cue": "(start with: Nach der Veröffentlichung)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Während der {{c1::Sanierung::sanieren}} des Hallenbads finden die Schwimmkurse im Nachbarort statt.",
+      "en": "While the indoor pool is being renovated, the swimming lessons are taking place in the neighbouring town.",
+      "focus": "Nominalstil · gleichzeitig · Nomen aus dem Verb",
+      "explanation": "Verbalstil: *Während das Hallenbad saniert wird, finden …*. *während* is both a conjunction and a preposition (+ Genitiv). The verb *sanieren* becomes the feminine noun **Sanierung** (Genitiv *der*). The subject of the passive clause, *das Hallenbad*, becomes the Genitiv attribute *des Hallenbads*.",
+      "pattern": "während + der + Nomen-**ung** (Gen.) + Genitivattribut",
+      "mistake": {"wrong": "Während die Sanierung des Hallenbads finden die Schwimmkurse im Nachbarort statt.", "why": "As a preposition *während* takes the Genitiv: *während der Sanierung*. *die Sanierung* is Nominativ/Akkusativ, and as a conjunction *während* would need a full clause."},
+      "examples": [
+        {"de": "Während der Umbauphase ist das Rathaus nur über den Seiteneingang erreichbar.", "en": "During the conversion work, the town hall can only be reached through the side entrance."},
+        {"de": "Während des Studiums hat sie in einer Anwaltskanzlei gejobbt.", "en": "While she was studying, she had a part-time job in a law firm."}
+      ],
+      "words": [{"de": "sanieren", "en": "to renovate, refurbish"}, {"de": "das Hallenbad", "en": "indoor swimming pool"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Seit der {{c1::Einführung::einführen}} des Tempolimits ist die Zahl der Verkehrstoten deutlich gesunken.",
+      "en": "Since the speed limit was introduced, the number of road deaths has fallen significantly.",
+      "focus": "Nominalstil · Beginn bis heute · trennbares Verb",
+      "explanation": "Verbalstil: *Seit(dem) das Tempolimit eingeführt wurde, ist …*. The separable verb *einführen* keeps its prefix in the noun: **die Einführung**. *seit* takes the Dativ (*der Einführung*), and the passive subject *das Tempolimit* becomes the Genitiv attribute *des Tempolimits*. The conjunction *seit/seitdem* and the preposition *seit* have the same form.",
+      "pattern": "seit + der + Nomen-ung (Dat.) + Genitivattribut",
+      "mistake": {"wrong": "Seit der Einführen des Tempolimits ist die Zahl der Verkehrstoten deutlich gesunken.", "why": "A nominalised infinitive is always neuter (*das Einführen*), so *der Einführen* is impossible. The usual noun for *einführen* is the *-ung* form: *seit der Einführung*."},
+      "examples": [
+        {"de": "Seit der Schließung der Grenze stauen sich die Lastwagen auf der Autobahn.", "en": "Since the border was closed, lorries have been queuing on the motorway."},
+        {"de": "Seit der Übernahme durch den Investor sind zahlreiche Stellen abgebaut worden.", "en": "Since the takeover by the investor, numerous jobs have been cut."}
+      ],
+      "words": [{"de": "das Tempolimit", "en": "speed limit"}, {"de": "die Verkehrstoten (Pl.)", "en": "road deaths"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Bis {{c1::zur::zu + Artikel}} Fertigstellung des neuen Terminals werden alle Flüge über Halle B abgewickelt.",
+      "en": "Until the new terminal is completed, all flights will be handled via Hall B.",
+      "focus": "Nominalstil · Endpunkt · *bis* + Artikel",
+      "explanation": "Verbalstil: *Bis das neue Terminal fertiggestellt ist, werden …*. Before a noun with an article the conjunction *bis* becomes **bis zu** + Dativ; *zu der* (feminine *die Fertigstellung*) contracts to **zur**. *bis* alone only stands before words without an article (*bis Montag, bis Ende Mai*).",
+      "pattern": "bis + **zur/zum** + Nomen (Dat.) + Genitivattribut",
+      "mistake": {"wrong": "Bis die Fertigstellung des neuen Terminals werden alle Flüge über Halle B abgewickelt.", "why": "The preposition *bis* cannot take a noun with an article directly. You need *bis zu* + Dativ: *bis zur Fertigstellung*."},
+      "examples": [
+        {"de": "Bis zum Eintreffen der Polizei hielten Passanten den Dieb fest.", "en": "Passers-by held the thief until the police arrived."},
+        {"de": "Bis zur Klärung der Ursache bleibt die Anlage abgeschaltet.", "en": "The plant will remain shut down until the cause has been established."}
+      ],
+      "words": [{"de": "die Fertigstellung", "en": "completion"}, {"de": "abwickeln", "en": "to handle, process"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Zur::Verbalstil: um … zu}} Senkung der Energiekosten hat die Firma auf allen Dächern Solaranlagen installiert.",
+      "en": "To reduce energy costs, the company has installed solar panels on all its roofs.",
+      "focus": "Nominalstil · Zweck",
+      "explanation": "Verbalstil: *Um die Energiekosten zu senken, hat die Firma …*. A purpose (*um … zu* / *damit*) becomes **zu** + Dativ in the Nominalstil; *zu der Senkung* contracts to **zur**. The Akkusativ object *die Energiekosten* becomes the Genitiv plural attribute *der Energiekosten*.",
+      "pattern": "zur/zum + Nomen (Dat.) + Genitivattribut (= Objekt)",
+      "mistake": {"wrong": "Um Senkung der Energiekosten hat die Firma auf allen Dächern Solaranlagen installiert.", "why": "*um* alone does not express purpose before a noun. *um … zu* needs an infinitive (*um die Energiekosten zu senken*); with a noun the purpose preposition is *zu*: *zur Senkung*."},
+      "examples": [
+        {"de": "Zur Verbesserung der Luftqualität sperrt die Stadt die Innenstadt für alte Dieselfahrzeuge.", "en": "To improve air quality, the city is closing the centre to old diesel vehicles."},
+        {"de": "Zum Schutz der Patientendaten werden alle Dateien verschlüsselt.", "en": "To protect patient data, all files are encrypted."}
+      ],
+      "words": [{"de": "die Senkung", "en": "reduction, lowering"}, {"de": "die Solaranlage", "en": "solar panel system"}],
+      "production_cue": "(Nominalstil)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Durch::Verbalstil: indem}} den gezielten Einsatz von Nützlingen können Landwirte den Verbrauch von Pestiziden stark verringern.",
+      "en": "By using beneficial insects in a targeted way, farmers can greatly reduce their use of pesticides.",
+      "focus": "Nominalstil · Mittel",
+      "explanation": "Verbalstil: *Indem Landwirte gezielt Nützlinge einsetzen, können sie …*. The means (*indem* / *dadurch, dass*) becomes **durch** + Akkusativ: *durch den gezielten Einsatz* (*einsetzen → der Einsatz*, masculine). The adverb *gezielt* becomes an adjective, and the object *Nützlinge* has no article, so it is attached with *von* + Dativ.",
+      "pattern": "durch + Akk. + *von* + Nomen ohne Artikel (= Objekt)",
+      "mistake": {"wrong": "Durch dem gezielten Einsatz von Nützlingen können Landwirte den Verbrauch von Pestiziden stark verringern.", "why": "*durch* always takes the Akkusativ: *durch den gezielten Einsatz*. The Dativ often comes from *mit dem Einsatz*, which has a similar meaning but a different case."},
+      "examples": [
+        {"de": "Durch den Ausbau des Nahverkehrs will die Stadt den Autoverkehr halbieren.", "en": "By expanding local public transport, the city wants to halve car traffic."},
+        {"de": "Durch regelmäßiges Lüften lässt sich Schimmel vermeiden.", "en": "Mould can be avoided by airing the rooms regularly."}
+      ],
+      "words": [{"de": "der Nützling", "en": "beneficial insect"}, {"de": "verringern", "en": "to reduce"}],
+      "production_cue": "(Nominalstil)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ohne {{c1::die Zustimmung::zustimmen}} des Betriebsrats darf die Geschäftsleitung keine Kündigungen aussprechen.",
+      "en": "Without the consent of the works council, the management may not dismiss any employees.",
+      "focus": "Nominalstil · fehlender Umstand · Kasus nach *ohne*",
+      "explanation": "Verbalstil: *Ohne dass der Betriebsrat zustimmt, darf …*. *ohne dass* becomes **ohne** + Akkusativ. *zustimmen* gives the feminine noun *Zustimmung*; feminine Akkusativ → **die Zustimmung**. The subject of the clause, *der Betriebsrat*, becomes the Genitiv attribute *des Betriebsrats*.",
+      "pattern": "ohne + **Akk.** + Genitivattribut (= Subjekt)",
+      "mistake": {"wrong": "Ohne der Zustimmung des Betriebsrats darf die Geschäftsleitung keine Kündigungen aussprechen.", "why": "*ohne* takes the Akkusativ, not the Dativ or Genitiv. Feminine Akkusativ: *ohne die Zustimmung*."},
+      "examples": [
+        {"de": "Ohne die Unterstützung ihrer Familie hätte sie das Studium nicht geschafft.", "en": "Without her family's support, she would not have managed to finish her degree."},
+        {"de": "Ohne vorherige Anmeldung ist eine Teilnahme am Workshop nicht möglich.", "en": "Participation in the workshop is not possible without prior registration."}
+      ],
+      "words": [{"de": "der Betriebsrat", "en": "works council"}, {"de": "eine Kündigung aussprechen", "en": "to give someone notice, dismiss"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Im Falle {{c1::eines Brandes::ein Brand}} dürfen die Aufzüge nicht benutzt werden.",
+      "en": "In the event of a fire, the lifts must not be used.",
+      "focus": "Nominalstil · Bedingung · Kasus nach *im Falle*",
+      "explanation": "Verbalstil: *Falls ein Brand ausbricht, dürfen …*. *falls* corresponds to the formal phrase **im Fall(e)** + Genitiv. *ein Brand* is masculine → Genitiv **eines Brandes**; short masculine nouns usually take *-es*.",
+      "pattern": "im Fall(e) + **eines** + Nomen-**(e)s**",
+      "mistake": {"wrong": "Im Falle ein Brand dürfen die Aufzüge nicht benutzt werden.", "why": "*im Falle* needs a Genitiv attribute. *ein Brand* is Nominativ; the Genitiv is *eines Brandes*."},
+      "examples": [
+        {"de": "Im Falle einer Verspätung von mehr als einer Stunde erhalten Fahrgäste eine Entschädigung.", "en": "In the event of a delay of more than an hour, passengers receive compensation."},
+        {"de": "Im Falle eines Wahlsiegs will die Partei das Rentenalter senken.", "en": "If it wins the election, the party wants to lower the retirement age."}
+      ],
+      "words": [{"de": "der Brand", "en": "fire (large, destructive)"}, {"de": "der Aufzug", "en": "lift, elevator"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n13",
+      "de": "Statt {{c1::einer Erhöhung::erhöhen}} der Steuern setzt die Regierung auf Einsparungen bei den Ausgaben.",
+      "en": "Instead of raising taxes, the government is relying on cuts in spending.",
+      "focus": "Nominalstil · Ersatz · Kasus nach *statt*",
+      "explanation": "Verbalstil: *Statt die Steuern zu erhöhen, setzt die Regierung …* (same subject → *statt … zu*). The preposition **(an)statt** takes the Genitiv: *erhöhen → die Erhöhung* → **einer Erhöhung**. The object *die Steuern* becomes the Genitiv plural attribute *der Steuern*.",
+      "pattern": "(an)statt + **Gen.** + Genitivattribut (= Objekt)",
+      "mistake": {"wrong": "Statt eine Erhöhung der Steuern setzt die Regierung auf Einsparungen bei den Ausgaben.", "why": "Here *statt* is a preposition and needs the Genitiv: *einer Erhöhung*. Another case after *statt* is only possible when *statt* works as a conjunction and the noun is parallel to another part of the sentence in the same case. Here the parallel part is the prepositional phrase *auf Einsparungen*, so that version would need the preposition again: *statt auf eine Erhöhung der Steuern*."},
+      "examples": [
+        {"de": "Statt eines Blumenstraußes wünscht sich die Jubilarin Spenden für das Tierheim.", "en": "Instead of a bouquet, the woman celebrating her birthday would like donations to the animal shelter."},
+        {"de": "Anstatt einer Gehaltserhöhung bekam er einen Dienstwagen.", "en": "Instead of a pay rise, he got a company car."}
+      ],
+      "words": [{"de": "auf etwas setzen", "en": "to rely on, bet on something"}],
+      "production_cue": "(Nominalstil)",
+      "sentence_card": true
+    },
+    {
+      "key": "n14",
+      "de": "Bei der {{c1::Einreise::einreisen}} nach Kanada müssen Sie eine elektronische Reisegenehmigung vorlegen.",
+      "en": "When entering Canada, you must present an electronic travel authorisation.",
+      "focus": "Nominalstil · *wenn* → *bei* · Nomen ohne *-ung*",
+      "explanation": "Verbalstil: *Wenn Sie nach Kanada einreisen, müssen Sie …*. A general or repeated *wenn*-clause becomes **bei** + Dativ. The verb *einreisen* forms its noun without a suffix: **die Einreise** (like *abreisen → die Abreise*). The direction *nach Kanada* stays as a prepositional phrase after the noun.",
+      "pattern": "bei + der + Nomen (Dat.) + Präpositionalattribut",
+      "mistake": {"wrong": "Bei der Einreisung nach Kanada müssen Sie eine elektronische Reisegenehmigung vorlegen.", "why": "Not every verb forms its noun with *-ung*. *einreisen → die Einreise*, *ankommen → die Ankunft*, *abfahren → die Abfahrt*. *Einreisung* does not exist."},
+      "examples": [
+        {"de": "Bei der Anmeldung zum Kurs erhalten Sie eine Bestätigung per E-Mail.", "en": "When you register for the course, you receive a confirmation by email."},
+        {"de": "Bei der Ausreise wird der Pass erneut kontrolliert.", "en": "Your passport is checked again when you leave the country."}
+      ],
+      "words": [{"de": "die Reisegenehmigung", "en": "travel authorisation"}, {"de": "vorlegen", "en": "to present, show (a document)"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n15",
+      "de": "Wegen des {{c1::Ausfalls::ausfallen}} der Klimaanlage wurde der Unterricht am Nachmittag gestrichen.",
+      "en": "Because the air conditioning had broken down, the afternoon lessons were cancelled.",
+      "focus": "Nominalstil · Grund · Stammnomen im Genitiv",
+      "explanation": "Verbalstil: *Weil die Klimaanlage ausgefallen war, wurde …*. *ausfallen* forms a masculine noun from the verb stem: *der Ausfall*. After *wegen des* it needs the Genitiv ending: **Ausfalls**. The subject *die Klimaanlage* becomes the Genitiv attribute *der Klimaanlage*.",
+      "pattern": "wegen + des + Stammnomen-**s** + Genitivattribut (= Subjekt)",
+      "mistake": {"wrong": "Wegen der Ausfall der Klimaanlage wurde der Unterricht am Nachmittag gestrichen.", "why": "Nouns made from the bare verb stem are usually masculine (*der Ausfall, der Anstieg, der Rückgang*). Masculine Genitiv: *des Ausfalls*."},
+      "examples": [
+        {"de": "Wegen des Anstiegs der Bauzinsen verzichten viele Familien auf den Hauskauf.", "en": "Because mortgage rates have risen, many families are giving up on buying a house."},
+        {"de": "Wegen des Rückgangs der Bestellungen hat das Werk Kurzarbeit angemeldet.", "en": "Because orders have fallen, the plant has registered for short-time work."}
+      ],
+      "words": [{"de": "ausfallen", "en": "to break down (machine)"}, {"de": "streichen", "en": "to cancel"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n16",
+      "de": "Wegen der {{c1::Unvollständigkeit::unvollständig}} Ihrer Unterlagen können wir Ihren Antrag leider nicht bearbeiten.",
+      "en": "Because your documents are incomplete, we are unfortunately unable to process your application.",
+      "focus": "Nominalstil · *sein* + Adjektiv → Nomen",
+      "explanation": "Verbalstil: *Da Ihre Unterlagen unvollständig sind, können wir …*. A clause with *sein* + adjective is nominalised with the adjective noun. Adjectives in *-ig, -lich, -bar, -sam* take *-keit*: unvollständig → **die Unvollständigkeit**. The subject *Ihre Unterlagen* becomes the Genitiv attribute *Ihrer Unterlagen*.",
+      "pattern": "wegen + der + Adj.-Nomen (-heit/-keit) + Genitivattribut (= Subjekt)",
+      "mistake": {"wrong": "Wegen der Unvollständigheit Ihrer Unterlagen können wir Ihren Antrag leider nicht bearbeiten.", "why": "After *-ig* the suffix is *-keit*, not *-heit*: *vollständig → Vollständigkeit*, *pünktlich → Pünktlichkeit*. *-heit* is used after most simple adjectives (*frei → Freiheit, krank → Krankheit*)."},
+      "examples": [
+        {"de": "Wegen der Komplexität des Themas wurde die Sitzung um eine Stunde verlängert.", "en": "Because the topic was so complex, the meeting was extended by an hour."},
+        {"de": "Aufgrund der Dringlichkeit des Falls entschied das Gericht noch am selben Tag.", "en": "Because the case was so urgent, the court decided on the very same day."}
+      ],
+      "words": [{"de": "die Unterlagen (Pl.)", "en": "documents, paperwork"}, {"de": "bearbeiten", "en": "to process"}],
+      "production_cue": "(Nominalstil)",
+      "sentence_card": true
+    },
+    {
+      "key": "n17",
+      "de": "Nach dem Rücktritt {{c1::des Vorsitzenden::der Vorsitzende}} wählte die Partei eine Doppelspitze.",
+      "en": "After the chairman resigned, the party elected two joint leaders.",
+      "focus": "Subjekt → Genitivattribut · substantiviertes Adjektiv",
+      "explanation": "Verbalstil: *Nachdem der Vorsitzende zurückgetreten war, wählte …*. *zurücktreten → der Rücktritt*. The subject of an intransitive verb becomes a Genitiv attribute after the noun. *der Vorsitzende* is a nominalised adjective, so after *des* it takes the weak ending **-en**: **des Vorsitzenden**.",
+      "pattern": "Nomen + des + Adj.-Nomen-**en** (= Subjekt)",
+      "mistake": {"wrong": "Nach dem Rücktritt des Vorsitzendes wählte die Partei eine Doppelspitze.", "why": "*der Vorsitzende* is declined like an adjective, not like a normal masculine noun. The Genitiv is *des Vorsitzenden*, never *-es*."},
+      "examples": [
+        {"de": "Nach dem Tod des Gründers übernahm seine Tochter die Firma.", "en": "After the founder died, his daughter took over the company."},
+        {"de": "Nach dem Wechsel des Trainers gewann die Mannschaft fünf Spiele in Folge.", "en": "After the coach was replaced, the team won five games in a row."}
+      ],
+      "words": [{"de": "der Rücktritt", "en": "resignation"}, {"de": "die Doppelspitze", "en": "joint leadership of two people"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n18",
+      "de": "Der Abbau {{c1::von::Objekt · kein Artikel}} Lithium verbraucht in Südamerika riesige Mengen Grundwasser.",
+      "en": "Lithium mining in South America uses up enormous amounts of groundwater.",
+      "focus": "Objekt ohne Artikel → Attribut",
+      "explanation": "Verbalstil: *Wenn man in Südamerika Lithium abbaut, verbraucht man riesige Mengen Grundwasser.* The Akkusativ object of *abbauen* would normally become a Genitiv attribute. *Lithium* has no article and no visible Genitiv ending, so it is attached with **von** + Dativ: *der Abbau von Lithium*.",
+      "pattern": "Nomen + **von** + Nomen ohne Artikel (= Objekt)",
+      "mistake": {"wrong": "Der Abbau Lithium verbraucht in Südamerika riesige Mengen Grundwasser.", "why": "A bare noun directly after another noun shows no case and has no grammatical link. Without an article it needs *von*: *der Abbau von Lithium*."},
+      "examples": [
+        {"de": "Der Import von Flüssiggas ist deutlich teurer als erwartet.", "en": "Importing liquefied gas is considerably more expensive than expected."},
+        {"de": "Die Förderung von Frauen in Führungspositionen ist ein erklärtes Ziel des Konzerns.", "en": "Promoting women in leadership positions is a declared goal of the group."}
+      ],
+      "words": [{"de": "der Abbau", "en": "mining, extraction"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n19",
+      "de": "Die Kritik der Opposition {{c1::am::Präposition + Artikel}} neuen Heizungsgesetz wird immer schärfer.",
+      "en": "The opposition's criticism of the new heating law is becoming increasingly sharp.",
+      "focus": "Subjekt → Genitiv · Objekt → Präpositionalattribut",
+      "explanation": "Verbalstil: *Die Opposition kritisiert das neue Heizungsgesetz immer schärfer.* The subject becomes the Genitiv attribute *der Opposition*. The Akkusativ object of *kritisieren* cannot become a second Genitiv; the noun *Kritik* has its own preposition: **Kritik an** + Dativ; *an dem* contracts to **am**.",
+      "pattern": "Nomen + Gen. (= Subjekt) + Präp. + Dat. (= Objekt): Kritik **an**",
+      "mistake": {"wrong": "Die Kritik der Opposition des neuen Heizungsgesetzes wird immer schärfer.", "why": "A noun normally has only one Genitiv attribute. The Genitiv is already used for the subject, so the object needs the preposition of the noun: *Kritik am neuen Heizungsgesetz*."},
+      "examples": [
+        {"de": "Das Interesse der Jugendlichen an Politik ist in den letzten Jahren gestiegen.", "en": "Young people's interest in politics has grown in recent years."},
+        {"de": "Die Angst vieler Beschäftigter vor der Automatisierung wächst.", "en": "Many employees' fear of automation is growing."}
+      ],
+      "words": [{"de": "das Heizungsgesetz", "en": "heating law (rules for building heating)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n20",
+      "de": "Nach {{c1::ihrer::sie → Possessiv}} Rückkehr aus Japan gründete die Architektin ein eigenes Büro.",
+      "en": "After returning from Japan, the architect set up her own practice.",
+      "focus": "Pronomen als Subjekt → Possessivartikel",
+      "explanation": "Verbalstil: *Nachdem sie aus Japan zurückgekehrt war, gründete die Architektin …*. When the subject of the clause is a pronoun, it becomes a possessive article in front of the noun: *sie* → *ihr-*. *zurückkehren → die Rückkehr* (feminine), and *nach* takes the Dativ → **ihrer** Rückkehr.",
+      "pattern": "Präp. + Possessivartikel (= Subjekt) + Nomen",
+      "mistake": {"wrong": "Nach ihre Rückkehr aus Japan gründete die Architektin ein eigenes Büro.", "why": "The possessive article must take the case that *nach* requires. Feminine Dativ: *ihrer Rückkehr*."},
+      "examples": [
+        {"de": "Seit seiner Pensionierung engagiert er sich in einem Repair-Café.", "en": "Since retiring, he has been volunteering at a repair café."},
+        {"de": "Bei unserer Ankunft war das Hotelzimmer noch nicht fertig.", "en": "When we arrived, the hotel room was not ready yet."}
+      ],
+      "words": [{"de": "die Rückkehr", "en": "return"}],
+      "production_cue": "(Nominalstil with nach)",
+      "sentence_card": true
+    },
+    {
+      "key": "n21",
+      "de": "Die Prüfung der Anträge {{c1::durch::handelnde Stelle}} das Bundesamt dauert derzeit etwa vier Monate.",
+      "en": "The processing of the applications by the Federal Office currently takes about four months.",
+      "focus": "Subjekt und Objekt beim Nomen",
+      "explanation": "Verbalstil: *Bis das Bundesamt die Anträge geprüft hat, dauert es derzeit etwa vier Monate.* When the verb has a subject and an Akkusativ object, the object takes the Genitiv slot (*der Anträge*). The subject (the agent) is added with **durch** + Akkusativ, as in the passive (*Die Anträge werden durch das Bundesamt geprüft*).",
+      "pattern": "Nomen + Gen. (= Objekt) + **durch** + Akk. (= Subjekt)",
+      "mistake": {"wrong": "Die Prüfung des Bundesamts der Anträge dauert derzeit etwa vier Monate.", "why": "Two Genitiv attributes on one noun are not possible here. The object keeps the Genitiv (*der Anträge*), and the agent moves into a *durch*-phrase."},
+      "examples": [
+        {"de": "Die Übernahme des Start-ups durch einen US-Konzern sorgte für Schlagzeilen.", "en": "The takeover of the start-up by a US group made headlines."},
+        {"de": "Die Bewertung der Projekte durch eine unabhängige Jury erfolgt im Mai.", "en": "The projects will be assessed by an independent jury in May."}
+      ],
+      "words": [{"de": "der Antrag", "en": "application"}, {"de": "das Bundesamt", "en": "federal office"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n22",
+      "de": "Nach {{c1::sorgfältiger::sorgfältig}} Prüfung aller Unterlagen hat das Gericht die Klage abgewiesen.",
+      "en": "After careful examination of all the documents, the court dismissed the action.",
+      "focus": "Adverb → Adjektiv · ohne Artikel",
+      "explanation": "Verbalstil: *Nachdem das Gericht alle Unterlagen sorgfältig geprüft hatte, wies es die Klage ab.* The adverb *sorgfältig* becomes an attributive adjective in front of the noun. There is no article, so the adjective takes the strong ending: feminine Dativ after *nach* → **-er**: *sorgfältiger Prüfung*.",
+      "pattern": "Präp. + Adj-**er** + Nomen (Dat. f., ohne Artikel)",
+      "mistake": {"wrong": "Nach sorgfältig Prüfung aller Unterlagen hat das Gericht die Klage abgewiesen.", "why": "In the Verbalstil *sorgfältig* is an adverb and has no ending. In front of a noun it is an attribute and must be declined: *nach sorgfältiger Prüfung*."},
+      "examples": [
+        {"de": "Nach langer Diskussion stimmte der Stadtrat dem Bebauungsplan zu.", "en": "After a long discussion, the city council approved the development plan."},
+        {"de": "Bei genauer Betrachtung ergibt sich ein ganz anderes Bild.", "en": "On closer inspection, a completely different picture emerges."}
+      ],
+      "words": [{"de": "eine Klage abweisen", "en": "to dismiss a lawsuit"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n23",
+      "de": "Beim {{c1::Verlassen::Verbalstil: wenn man … verlässt}} des Labors müssen die Schutzkittel abgelegt werden.",
+      "en": "Protective coats must be taken off when leaving the lab.",
+      "focus": "Nominalstil · substantivierter Infinitiv",
+      "explanation": "Verbalstil: *Wenn man das Labor verlässt, muss man die Schutzkittel ablegen.* *verlassen* has no common derived noun, so the nominalised infinitive is used: **das Verlassen** (neuter, capital letter). *bei dem* contracts to *beim*, and the Akkusativ object *das Labor* becomes the Genitiv attribute *des Labors*.",
+      "pattern": "beim + Infinitiv als Nomen + Genitivattribut (= Objekt)",
+      "mistake": {"wrong": "Beim Verlassen das Labor müssen die Schutzkittel abgelegt werden.", "why": "The object of the verb must become a Genitiv attribute of the noun: *das Labor* → *des Labors*. A Nominativ/Akkusativ noun cannot simply follow another noun."},
+      "examples": [
+        {"de": "Beim Betreten der Baustelle ist ein Helm Pflicht.", "en": "A helmet is compulsory when entering the building site."},
+        {"de": "Beim Ausfüllen des Formulars hilft Ihnen unser Kundenservice.", "en": "Our customer service will help you fill in the form."}
+      ],
+      "words": [{"de": "der Schutzkittel", "en": "protective coat, lab coat"}, {"de": "ablegen", "en": "to take off"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n24",
+      "de": "{{c1::Dadurch, dass::Verbalstil von: durch}} der Autobauer den Trend zur Elektromobilität unterschätzt hat, hat er massiv Marktanteile verloren.",
+      "en": "By underestimating the trend towards electric mobility, the car maker has lost a massive share of the market.",
+      "focus": "Verbalstil · Mittel/Ursache · zweiteilig",
+      "explanation": "Nominalstil: *Durch die Unterschätzung des Trends zur Elektromobilität hat der Autobauer …*. **dadurch, dass** is the clause form of *durch* (means or cause); the comma stands between *dadurch* and *dass*, and the verb goes to the end. *indem* is also possible here because both clauses have the same subject.",
+      "pattern": "Dadurch, dass + Subj. … Verb, + Verb + Subj. …",
+      "mistake": {"wrong": "Dadurch der Autobauer den Trend zur Elektromobilität unterschätzt hat, hat er massiv Marktanteile verloren.", "why": "*dadurch* alone is an adverb and cannot introduce a Nebensatz. The clause needs the conjunction *dass*: *Dadurch, dass der Autobauer …*"},
+      "examples": [
+        {"de": "Dadurch, dass die S-Bahn jetzt alle zehn Minuten fährt, steigen mehr Pendler vom Auto auf die Bahn um.", "en": "Because the suburban train now runs every ten minutes, more commuters are switching from the car to the train."},
+        {"de": "Dadurch, dass viele Hausärzte in Rente gehen, verschärft sich der Mangel auf dem Land.", "en": "Because many GPs are retiring, the shortage in rural areas is getting worse."}
+      ],
+      "words": [{"de": "unterschätzen", "en": "to underestimate"}, {"de": "der Marktanteil", "en": "market share"}],
+      "production_cue": "(Verbalstil, two-part connector)",
+      "sentence_card": true
+    },
+    {
+      "key": "n25",
+      "de": "Das Unternehmen hat seine Kosten um zehn Prozent gesenkt, {{c1::ohne dass::Verbalstil · anderes Subjekt}} Stellen abgebaut wurden.",
+      "en": "The company cut its costs by ten per cent without any jobs being lost.",
+      "focus": "Verbalstil von *ohne* + Nomen · Subjektwechsel",
+      "explanation": "Nominalstil: *… ohne Abbau von Stellen* / *ohne Stellenabbau*. The subject of the main clause (*das Unternehmen*) and the subject of the passive clause (*Stellen*) differ, so *ohne … zu* cannot be used with this passive clause. You need **ohne dass** + Nebensatz with the verb at the end.",
+      "pattern": "Hauptsatz, **ohne dass** + anderes Subjekt … Verb",
+      "mistake": {"wrong": "Das Unternehmen hat seine Kosten um zehn Prozent gesenkt, ohne Stellen abgebaut zu werden.", "why": "An *ohne … zu* infinitive takes the subject of the main clause, so this would mean that the company itself is *abgebaut*. Use *ohne dass Stellen abgebaut wurden*, or active *ohne Stellen abzubauen*."},
+      "examples": [
+        {"de": "Er hat das Büro verlassen, ohne dass es jemand bemerkt hat.", "en": "He left the office without anyone noticing."},
+        {"de": "Die Preise wurden erhöht, ohne dass die Kunden vorher informiert wurden.", "en": "Prices were raised without customers being informed in advance."}
+      ],
+      "words": [{"de": "Stellen abbauen", "en": "to cut jobs"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n26",
+      "de": "Nachdem die Genehmigung {{c1::erteilt worden war::erteilen, Passiv Plusquamperfekt}}, konnten die Bauarbeiten endlich beginnen.",
+      "en": "After the permit had been granted, construction work could finally begin.",
+      "focus": "Verbalstil von *nach* + Nomen · Zeit und Genus verbi",
+      "explanation": "Nominalstil: *Nach Erteilung der Genehmigung konnten …*. The noun hides tense and voice; in the Verbalstil you must choose them. *nachdem* marks an action that is finished before the main action: main clause in the Präteritum → Nebensatz in the Plusquamperfekt. *der Genehmigung* was the object of *erteilen*, so the clause is passive: **erteilt worden war**.",
+      "pattern": "Nachdem + Subj. + Partizip II + **worden war**, + Hauptsatz (Präteritum)",
+      "mistake": {"wrong": "Nachdem die Genehmigung erteilt wurde, konnten die Bauarbeiten endlich beginnen.", "why": "In standard written German *nachdem* requires anteriority: with a Präteritum main clause, the Nebensatz is in the Plusquamperfekt (*erteilt worden war*), not in the same tense."},
+      "examples": [
+        {"de": "Nachdem die Ursache gefunden worden war, wurde die Anlage wieder in Betrieb genommen.", "en": "After the cause had been found, the plant was put back into operation."},
+        {"de": "Nachdem alle Gäste eingetroffen waren, eröffnete die Direktorin das Buffet.", "en": "After all the guests had arrived, the director opened the buffet."}
+      ],
+      "words": [{"de": "eine Genehmigung erteilen", "en": "to grant a permit"}],
+      "production_cue": "(Plusquamperfekt passive)",
+      "sentence_card": true
+    },
+    {
+      "key": "n27",
+      "de": "{{c1::Falls::Verbalstil von: im Falle}} es zu einem Stromausfall kommt, springt das Notstromaggregat automatisch an.",
+      "en": "If there is a power cut, the emergency generator starts automatically.",
+      "focus": "Verbalstil · Bedingung",
+      "explanation": "Nominalstil: *Im Falle eines Stromausfalls springt …*. **falls** introduces a condition that may or may not happen; it is the clause form of *im Falle* + Genitiv. The noun *Stromausfall* becomes a clause with a verb: *es kommt zu einem Stromausfall* (or *der Strom fällt aus*). The *falls*-clause fills the Vorfeld, so *springt* follows directly.",
+      "pattern": "Falls + Subj. … Verb, + Verb + Subj. …",
+      "mistake": {"wrong": "Falls es zu einem Stromausfall kommt, das Notstromaggregat springt automatisch an.", "why": "The *falls*-clause is position 1 of the main clause. The finite verb *springt* must come directly after the comma, before the subject."},
+      "examples": [
+        {"de": "Falls der Zug ausfällt, übernehmen wir die Kosten für ein Taxi.", "en": "If the train is cancelled, we will cover the cost of a taxi."},
+        {"de": "Falls Sie Fragen haben, wenden Sie sich bitte an das Sekretariat.", "en": "If you have any questions, please contact the office."}
+      ],
+      "words": [{"de": "das Notstromaggregat", "en": "emergency generator"}, {"de": "anspringen", "en": "to start (engine)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n28",
+      "de": "{{c1::Statt dass::Verbalstil · anderes Subjekt}} die Eltern jeden Abend die Hausaufgaben kontrollieren, sollen die Kinder selbst Verantwortung übernehmen.",
+      "en": "Instead of the parents checking the homework every evening, the children are supposed to take responsibility themselves.",
+      "focus": "Verbalstil von *statt* + Nomen · Subjektwechsel",
+      "explanation": "Nominalstil: *Statt einer täglichen Kontrolle der Hausaufgaben durch die Eltern …*. The two clauses have different subjects (*die Eltern* / *die Kinder*), so *statt … zu* is impossible. You need **statt dass** (or *anstatt dass*) + Nebensatz with the verb at the end.",
+      "pattern": "(An)statt dass + anderes Subjekt … Verb, + Hauptsatz",
+      "mistake": {"wrong": "Statt die Eltern jeden Abend die Hausaufgaben zu kontrollieren, sollen die Kinder selbst Verantwortung übernehmen.", "why": "A *statt … zu* infinitive has no subject of its own; its subject is the main-clause subject (*die Kinder*). With a new subject (*die Eltern*) you need *statt dass*."},
+      "examples": [
+        {"de": "Statt dass die Stadt die marode Schule saniert, fließt das Geld in ein teures Stadion.", "en": "Instead of the city renovating the run-down school, the money is going into an expensive stadium."},
+        {"de": "Anstatt dass die Mieter die Reparatur bezahlen, muss die Hausverwaltung dafür aufkommen.", "en": "Instead of the tenants paying for the repair, the property management has to cover it."}
+      ],
+      "words": [{"de": "Verantwortung übernehmen", "en": "to take responsibility"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n29",
+      "de": "Die Regierung senkt die Mehrwertsteuer auf Lebensmittel, {{c1::damit::Verbalstil von: zur · anderes Subjekt}} einkommensschwache Haushalte entlastet werden.",
+      "en": "The government is cutting VAT on food so that low-income households are given some relief.",
+      "focus": "Verbalstil · Zweck · Subjektwechsel",
+      "explanation": "Nominalstil: *… zur Entlastung einkommensschwacher Haushalte*. The Genitiv attribute was the object of *entlasten*, so the clause becomes passive with the new subject *Haushalte*. Different subjects → *um … zu* is not possible; you need **damit** + Nebensatz with the verb at the end.",
+      "pattern": "Hauptsatz, **damit** + anderes Subjekt … Verb",
+      "mistake": {"wrong": "Die Regierung senkt die Mehrwertsteuer auf Lebensmittel, um einkommensschwache Haushalte entlastet zu werden.", "why": "An *um … zu* infinitive takes the main-clause subject, so this would mean that the government is relieved. Use *damit … entlastet werden*, or active *um einkommensschwache Haushalte zu entlasten*."},
+      "examples": [
+        {"de": "Die Bibliothek öffnet jetzt auch sonntags, damit Berufstätige sie besser nutzen können.", "en": "The library now also opens on Sundays so that working people can make better use of it."},
+        {"de": "Wir schicken Ihnen die Unterlagen vorab, damit Sie sich auf das Gespräch vorbereiten können.", "en": "We will send you the documents in advance so that you can prepare for the interview."}
+      ],
+      "words": [{"de": "einkommensschwach", "en": "low-income"}, {"de": "entlasten", "en": "to relieve (a burden)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n30",
+      "de": "{{c1::Als::Verbalstil von: beim · einmalig}} die Feuerwehr eintraf, stand der Dachstuhl bereits in Flammen.",
+      "en": "When the fire brigade arrived, the roof structure was already in flames.",
+      "focus": "Verbalstil von *bei* · einmaliges Ereignis in der Vergangenheit",
+      "explanation": "Nominalstil: *Beim Eintreffen der Feuerwehr stand …*. *bei* can stand for *wenn* or *als*. A single event in the past needs **als**; *wenn* is for repeated events (*whenever*) and for the present or future. *das Eintreffen* becomes the clause *die Feuerwehr eintraf* with the Genitiv attribute as subject.",
+      "pattern": "Als + Subj. … Verb (Präteritum), + Verb + Subj. …",
+      "mistake": {"wrong": "Wenn die Feuerwehr eintraf, stand der Dachstuhl bereits in Flammen.", "why": "This describes one event in the past, so the conjunction must be *als*. *wenn* + Präteritum means *every time when* and does not fit a single fire."},
+      "examples": [
+        {"de": "Als der Vertrag auslief, musste das Team das Labor räumen.", "en": "When the contract expired, the team had to vacate the lab."},
+        {"de": "Als die Ergebnisse veröffentlicht wurden, gab es heftige Kritik.", "en": "When the results were published, there was fierce criticism."}
+      ],
+      "words": [{"de": "eintreffen", "en": "to arrive (formal)"}, {"de": "der Dachstuhl", "en": "roof structure, roof truss"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the clause parts in the Nominalstil.",
+      "prompt": "When you nominalise a clause, what happens to its subject and its Akkusativ object?",
+      "answer": "Intransitive verb: the **subject → Genitiv attribute** (*der Zug kommt an → die Ankunft des Zuges*). Transitive verb: the **object → Genitiv attribute**, the **subject → *durch* + Akk.** (*das Amt prüft die Anträge → die Prüfung der Anträge durch das Amt*). Pronoun subject → **possessive** (*er kehrt zurück → seine Rückkehr*). Noun without article → **von** + Dat. *man* disappears.",
+      "explanation": "The noun can carry only one Genitiv attribute, and the object has priority for it, as in the passive. Some nouns take their own preposition for the object instead (*Kritik an, Interesse an, Angst vor*). *von* is used when a bare plural or mass noun could not show the Genitiv.",
+      "examples": [
+        {"de": "Die Ankunft des Sonderzugs verzögert sich um eine halbe Stunde.", "en": "The arrival of the special train is delayed by half an hour."},
+        {"de": "Die Auswertung der Fragebögen durch das Institut ist noch nicht abgeschlossen.", "en": "The analysis of the questionnaires by the institute has not yet been completed."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two conjunctions.",
+      "prompt": "*bei* + noun can correspond to *wenn* or to *als*. How do you decide when you convert *beim Eintreffen …* into a clause?",
+      "answer": "Single event in the past → **als**. Repeated event (*whenever*), general rule, present or future → **wenn**. If the meaning is a condition (*if*), **wenn** or **falls**.",
+      "explanation": "The Nominalstil with *bei* does not show tense or frequency, so you take them from the main clause. *Beim Start des Flugzeugs hatte ich Angst* (one flight) → *Als …*; *Bei Glätte wird gestreut* (each time) → *Wenn es glatt ist, …*.",
+      "examples": [
+        {"de": "Als das Flugzeug startete, hatte ich große Angst.", "en": "When the plane took off, I was very scared."},
+        {"de": "Wenn es glatt ist, streut die Stadt die Gehwege.", "en": "When it is icy, the city grits the pavements."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about converting from Nominalstil to Verbalstil.",
+      "prompt": "Which information does the Nominalstil hide that you must add when you write the Verbalstil?",
+      "answer": "A **subject** (often *man* or a passive), the **tense** (e.g. *nachdem* + Plusquamperfekt), **active or passive**, sometimes a **modal verb**, and the correct **verb position** (verb at the end of the Nebensatz).",
+      "explanation": "*Nach Prüfung der Unterlagen* says nothing about who checked or when. In the clause you must decide: *Nachdem die Unterlagen geprüft worden waren* (passive, Plusquamperfekt) or *Nachdem wir die Unterlagen geprüft haben* (active, Perfekt, present context). Choose the version that matches the main clause and the context.",
+      "examples": [
+        {"de": "Nach Prüfung der Unterlagen melden wir uns bei Ihnen.", "en": "We will contact you after checking the documents."},
+        {"de": "Nachdem wir die Unterlagen geprüft haben, melden wir uns bei Ihnen.", "en": "We will contact you once we have checked the documents."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about infinitive clauses and dass-clauses.",
+      "prompt": "*zur/für*, *ohne* and *statt* + noun can become an infinitive clause or a clause with a conjunction. When must you use *damit / ohne dass / statt dass*?",
+      "answer": "When the subject of the Nebensatz is **different** from the main-clause subject (including a passive with a new subject). Same subject → **um … zu / ohne … zu / statt … zu**.",
+      "explanation": "An infinitive clause has no subject of its own and always takes the subject of the main clause. *Wir sparen, um ein Haus zu kaufen* (we buy). *Wir sparen, damit unsere Kinder studieren können* (the children study) → *damit*.",
+      "examples": [
+        {"de": "Sie kündigte, ohne einen neuen Job zu haben.", "en": "She resigned without having a new job."},
+        {"de": "Sie kündigte, ohne dass ihr Chef davon wusste.", "en": "She resigned without her boss knowing about it."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about adverbs and negation in the Nominalstil.",
+      "prompt": "What happens to an adverb and to *nicht* when a clause is nominalised?",
+      "answer": "The adverb becomes an **adjective with an ending** (*schnell reagieren → die schnelle Reaktion*; *genau prüfen → nach genauer Prüfung*). *nicht* becomes a prefix **Nicht-** or **Un-** or a word like **fehlend / mangelnd** (*nicht bestehen → bei Nichtbestehen*; *nicht pünktlich sein → Unpünktlichkeit*).",
+      "explanation": "A noun cannot be modified by an adverb, only by an adjective, so the ending follows the normal adjective rules (strong without article). For negation there is no single rule; *Nicht-* is typical in legal and administrative texts.",
+      "examples": [
+        {"de": "Die schnelle Reaktion der Ersthelfer hat dem Mann das Leben gerettet.", "en": "The quick response of the first aiders saved the man's life."},
+        {"de": "Bei Nichtbestehen der Prüfung kann man sie einmal wiederholen.", "en": "If you fail the exam, you can retake it once."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *da*.",
+      "prompt": "Aufgrund der gestiegenen Nachfrage erhöht der Hersteller die Produktion.",
+      "answer": "Da die Nachfrage gestiegen ist, erhöht der Hersteller die Produktion.",
+      "explanation": "*aufgrund* + Genitiv → *da* (or *weil*) + Nebensatz. The Partizip *gestiegen* used as an adjective becomes the verb again in the Perfekt (*ist gestiegen*, with *sein*), and *die Nachfrage* is the subject. The *da*-clause fills the Vorfeld, so *erhöht* follows directly."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *obwohl*.",
+      "prompt": "Trotz seiner langjährigen Erfahrung wurde er bei der Beförderung übergangen.",
+      "answer": "Obwohl er langjährige Erfahrung hatte, wurde er bei der Beförderung übergangen.",
+      "explanation": "*trotz* + Genitiv → *obwohl* + Nebensatz. The possessive *seiner* shows the subject *er*. *Erfahrung* does not stand for an action here, so you need a verb such as *haben*; the past main clause asks for the Präteritum *hatte*. In the clause, *langjährige Erfahrung* is an Akkusativ without article."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *während* + an impersonal passive.",
+      "prompt": "Während der Bauarbeiten am Hauptbahnhof halten die Fernzüge nur in Altona.",
+      "answer": "Während am Hauptbahnhof gebaut wird, halten die Fernzüge nur in Altona.",
+      "explanation": "*während* + Genitiv → *während* + Nebensatz. *die Bauarbeiten* has no clear agent, so an impersonal passive is natural: *gebaut wird* (no subject, verb at the end). The local phrase *am Hauptbahnhof* stays."
+    },
+    {
+      "key": "d09",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *bis* and the Zustandspassiv.",
+      "prompt": "Bis zur Genehmigung des Antrags dürfen Sie nicht mit dem Umbau beginnen.",
+      "answer": "Bis der Antrag genehmigt ist, dürfen Sie nicht mit dem Umbau beginnen.",
+      "explanation": "*bis zu* + Dativ → *bis* + Nebensatz. The Genitiv *des Antrags* was the object of *genehmigen*, so it becomes the subject of a passive: *der Antrag ist genehmigt* (state). *bis der Antrag genehmigt wird / worden ist* is also correct."
+    },
+    {
+      "key": "d10",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *seitdem*.",
+      "prompt": "Seit der Fusion der beiden Krankenkassen sind die Beiträge gestiegen.",
+      "answer": "Seitdem die beiden Krankenkassen fusioniert haben, sind die Beiträge gestiegen.",
+      "explanation": "*seit* + Dativ → *seitdem* (or *seit*) + Nebensatz. *die Fusion* comes from *fusionieren*; the Genitiv *der beiden Krankenkassen* was the subject. The finished action before the present result is in the Perfekt: *fusioniert haben*, verb at the end."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *indem*.",
+      "prompt": "Durch die Digitalisierung der Patientenakten sparen die Kliniken viel Zeit.",
+      "answer": "Indem die Kliniken die Patientenakten digitalisieren, sparen sie viel Zeit.",
+      "explanation": "*durch* + Akkusativ → *indem* + Nebensatz (same subject in both clauses). *Digitalisierung → digitalisieren*; the Genitiv *der Patientenakten* becomes the Akkusativ object. The subject *die Kliniken* moves into the *indem*-clause, and the main clause uses the pronoun *sie*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Rewrite in Verbalstil. Use *ohne … zu*.",
+      "prompt": "Ohne vorherige Absprache mit dem Team hat der Projektleiter den Termin verschoben.",
+      "answer": "Ohne sich vorher mit dem Team abzusprechen, hat der Projektleiter den Termin verschoben.",
+      "explanation": "The subject is the same (the project manager), so *ohne … zu* is used. *die Absprache* comes from the reflexive verb *sich absprechen*: the reflexive pronoun returns in the clause, and *zu* goes between prefix and stem (*abzusprechen*). The adjective *vorherige* becomes the adverb *vorher*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *wegen*.",
+      "prompt": "Weil die Inflation gesunken ist, senkt die Zentralbank die Leitzinsen.",
+      "answer": "Wegen des Rückgangs der Inflation senkt die Zentralbank die Leitzinsen.",
+      "explanation": "*weil* → *wegen* + Genitiv. *sinken* has no common *-ung* noun; the usual noun is *der Rückgang* (masculine → *des Rückgangs*). The subject *die Inflation* becomes the Genitiv attribute *der Inflation*. *Wegen der gesunkenen Inflation* is also correct."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *trotz*.",
+      "prompt": "Obwohl die Fahrgäste lautstark protestierten, wurde die Buslinie eingestellt.",
+      "answer": "Trotz lautstarker Proteste der Fahrgäste wurde die Buslinie eingestellt.",
+      "explanation": "*obwohl* → *trotz* + Genitiv. *protestieren → der Protest*, here plural because many people protested: Genitiv plural without article → the adjective takes *-er*: *lautstarker Proteste*. The subject *die Fahrgäste* becomes the Genitiv attribute *der Fahrgäste*."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *vor* and a possessive article.",
+      "prompt": "Bevor die Patienten operiert werden, dürfen sie sechs Stunden lang nichts essen.",
+      "answer": "Vor ihrer Operation dürfen die Patienten sechs Stunden lang nichts essen.",
+      "explanation": "*bevor* → *vor* + Dativ. *operieren → die Operation*. The passive subject *die Patienten* must stay in the main clause, so the noun gets a possessive: *ihre Operation* → Dativ feminine *ihrer Operation*. The main clause now needs the full noun *die Patienten* instead of *sie*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *zur*.",
+      "prompt": "Um die Sicherheit der Fahrgäste zu erhöhen, werden an allen Bahnhöfen Kameras installiert.",
+      "answer": "Zur Erhöhung der Sicherheit der Fahrgäste werden an allen Bahnhöfen Kameras installiert.",
+      "explanation": "*um … zu* → *zu* + Dativ; *zu der Erhöhung* → *zur Erhöhung*. The object *die Sicherheit* becomes the Genitiv *der Sicherheit*, which already has its own Genitiv *der Fahrgäste* (a Genitiv chain). The main clause keeps verb-second order after the prepositional phrase."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *bei*.",
+      "prompt": "Wenn man das Medikament falsch anwendet, kann es zu Nebenwirkungen kommen.",
+      "answer": "Bei falscher Anwendung des Medikaments kann es zu Nebenwirkungen kommen.",
+      "explanation": "*wenn* (condition) → *bei* + Dativ. *anwenden → die Anwendung*; *man* disappears, and the object *das Medikament* becomes the Genitiv *des Medikaments*. The adverb *falsch* becomes an adjective without article: feminine Dativ → *falscher*."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *nach*.",
+      "prompt": "Nachdem die Firma den Prototyp erfolgreich getestet hatte, ging das Gerät in Serie.",
+      "answer": "Nach dem erfolgreichen Test des Prototyps ging das Gerät in Serie.",
+      "explanation": "*nachdem* → *nach* + Dativ. *testen → der Test* (masculine): *nach dem Test*. The adverb *erfolgreich* becomes a weak adjective after *dem*: *erfolgreichen*. The object *den Prototyp* becomes the Genitiv *des Prototyps*; the subject *die Firma* can be left out because it is clear."
+    },
+    {
+      "key": "d19",
+      "type": "transform",
+      "instruction": "Rewrite in Nominalstil. Use *im Falle*.",
+      "prompt": "Falls der Vertrag vorzeitig gekündigt wird, ist eine Gebühr fällig.",
+      "answer": "Im Falle einer vorzeitigen Kündigung des Vertrags ist eine Gebühr fällig.",
+      "explanation": "*falls* → *im Falle* + Genitiv. *kündigen → die Kündigung*, with the indefinite article: Genitiv feminine *einer*, adjective after *einer* → *-en*: *einer vorzeitigen Kündigung*. The passive subject *der Vertrag* becomes the Genitiv *des Vertrags*."
+    },
+    {
+      "key": "d20",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wegen der Erkrankung des Dirigents musste das Konzert abgesagt werden.",
+      "answer": "Wegen der Erkrankung des Dirigenten musste das Konzert abgesagt werden.",
+      "explanation": "The subject of *erkranken* becomes a Genitiv attribute. *der Dirigent* belongs to the n-Deklination, so its Genitiv is *des Dirigenten*, not *-s*. Other n-nouns: *des Präsidenten, des Kollegen, des Patienten*."
+    },
+    {
+      "key": "d21",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Damit Staus zu vermeiden, sollten Urlauber möglichst früh losfahren.",
+      "answer": "Um Staus zu vermeiden, sollten Urlauber möglichst früh losfahren.",
+      "explanation": "*damit* is a conjunction and needs a Nebensatz with its own subject and finite verb (*damit es keine Staus gibt*). A *zu*-infinitive of purpose is introduced by *um*; this works here because the subject of the main clause (*Urlauber*) is also the one who avoids the traffic jams. Nominalstil: *Zur Vermeidung von Staus sollten Urlauber …*"
+    },
+    {
+      "key": "d22",
+      "type": "choice",
+      "instruction": "Choose the correct option.",
+      "prompt": "Die Flüge wurden gestrichen, ___ die Fluggesellschaft die Passagiere rechtzeitig informiert hatte.",
+      "options": ["ohne", "ohne dass", "ohne zu", "statt"],
+      "correct": "ohne dass",
+      "answer": "Die Flüge wurden gestrichen, ohne dass die Fluggesellschaft die Passagiere rechtzeitig informiert hatte.",
+      "explanation": "The second part is a full clause with its own subject (*die Fluggesellschaft*) and the verb at the end, so you need the conjunction *ohne dass*. *ohne* alone is a preposition (+ Akk.), *ohne … zu* needs an infinitive and the main-clause subject, and *statt* would need *dass* as well and gives the wrong meaning."
+    },
+    {
+      "key": "d23",
+      "type": "choice",
+      "instruction": "Choose the correct option.",
+      "prompt": "___ Einhaltung strenger Hygieneregeln konnte der Ausbruch schnell eingedämmt werden.",
+      "options": ["Durch die", "Durch der", "Indem", "Dadurch"],
+      "correct": "Durch die",
+      "answer": "Durch die Einhaltung strenger Hygieneregeln konnte der Ausbruch schnell eingedämmt werden.",
+      "explanation": "A noun phrase follows, so you need a preposition: *durch* + Akkusativ → *durch die Einhaltung*. *durch der* has the wrong case. *indem* is a conjunction and needs a clause (*Indem man strenge Hygieneregeln einhielt, …*). *dadurch* is an adverb and would need *, dass* + clause."
+    },
+    {
+      "key": "d24",
+      "type": "combine",
+      "instruction": "Combine into one sentence in Nominalstil. Use *trotz*.",
+      "prompt": "Die Baukosten haben sich verdoppelt. Trotzdem will der Bauherr das Stadion fertigstellen.",
+      "answer": "Trotz der Verdopplung der Baukosten will der Bauherr das Stadion fertigstellen.",
+      "explanation": "The concession *trotzdem* becomes the preposition *trotz* + Genitiv. *sich verdoppeln → die Verdopplung* (the reflexive pronoun disappears in the noun). The subject *die Baukosten* becomes the Genitiv plural *der Baukosten*."
+    },
+    {
+      "key": "d25",
+      "type": "combine",
+      "instruction": "Combine into one sentence in Nominalstil. Use *vor*.",
+      "prompt": "Der Kurs beginnt. Vorher müssen sich alle Teilnehmenden online registrieren.",
+      "answer": "Vor Beginn des Kurses müssen sich alle Teilnehmenden online registrieren.",
+      "explanation": "*vorher* refers to the start of the course → *vor* + Dativ. *beginnen → der Beginn*; in fixed formal phrases the article is often left out (*vor Beginn, nach Abschluss*). The subject *der Kurs* becomes the Genitiv *des Kurses*."
+    },
+    {
+      "key": "d26",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Nach",
+      "prompt": "treten / des Gesetzes / sofort / nach / in Kraft / Verabschiedung / die neuen Regeln",
+      "answer": "Nach Verabschiedung des Gesetzes treten die neuen Regeln sofort in Kraft.",
+      "explanation": "The Nominalstil phrase *Nach Verabschiedung des Gesetzes* (= *Nachdem das Gesetz verabschiedet worden ist*) fills the Vorfeld, so the finite verb *treten* comes second, then the subject. *in Kraft* is the second part of the verb phrase *in Kraft treten* and goes to the end. Also correct: *Nach Verabschiedung des Gesetzes treten sofort die neuen Regeln in Kraft.* (the adverb before the subject)."
+    }
+  ]
+}

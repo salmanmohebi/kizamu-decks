@@ -1,0 +1,913 @@
+{
+  "topic_id": "a2-03-personalpronomen-akk-dat",
+  "level": "A2",
+  "title_de": "Personalpronomen im Akkusativ und Dativ",
+  "title_en": "Personal pronouns in the accusative and dative",
+  "rule": {
+    "summary": "Personal pronouns change their form with the case: *ich – mich – mir*, *er – ihn – ihm*. The verb or the preposition decides the case: *sehen, kennen, fragen, anrufen, für, ohne* → Akkusativ; *helfen, danken, gefallen, mit, bei, von* → Dativ; with *geben, zeigen, schenken* the person is Dativ and the thing Akkusativ. For things, the pronoun follows the **grammatical gender** of the noun (*der Tisch → er/ihn*). Pronouns also have a fixed position in the Mittelfeld: two pronouns → **Akkusativ before Dativ** (*Ich gebe es ihm.*), pronoun + noun → **pronoun first**.",
+    "table": "| Nominativ | Akkusativ | Dativ |\n|---|---|---|\n| ich | **mich** | **mir** |\n| du | **dich** | **dir** |\n| er | **ihn** | **ihm** |\n| sie (Sg.) | sie | **ihr** |\n| es | es | **ihm** |\n| wir | uns | uns |\n| ihr | euch | euch |\n| sie (Pl.) | sie | **ihnen** |\n| Sie (formell) | Sie | **Ihnen** |",
+    "steps": [
+      "Find who or what the pronoun stands for. For things use the gender of the noun: *der Film → ihn*, *die Tasche → sie*, *das Paket → es*, plural → *sie*.",
+      "Find the case: subject → Nominativ; object of *sehen, kennen, fragen, anrufen, besuchen* or after *für, ohne, durch, gegen, um* → Akkusativ; object of *helfen, danken, gefallen* or after *mit, bei, von, zu, aus, nach* → Dativ; the person with *geben, zeigen, schenken* → Dativ.",
+      "Choose the form from the table. Only *wir* (*uns*) and *ihr* (*euch*) have the same Akkusativ and Dativ forms.",
+      "Put the pronouns in order: two pronouns → Akkusativ before Dativ (*es ihm*); a pronoun before a noun object (*ihm den Schlüssel*, *es dem Mann*).",
+      "Pronouns stand right after the finite verb, even before a noun subject: *Gestern hat mich der Chef angerufen.*"
+    ],
+    "pitfalls": [
+      "Wrong case after the verb: ✗ *Ich rufe dir an.* → ✓ *Ich rufe dich an.* (*anrufen* + Akk.); ✗ *Ich helfe dich.* → ✓ *Ich helfe dir.* (*helfen* + Dat.).",
+      "Using *es* for every thing: ✗ *Der Film war gut, ich habe es zweimal gesehen.* → ✓ *… ich habe ihn zweimal gesehen.* The pronoun follows the grammatical gender.",
+      "Order with two pronouns: ✗ *Ich gebe ihm es.* → ✓ *Ich gebe es ihm.*",
+      "Mixing up *ihr, ihnen, Ihnen*: *ihr* = to her (or Nominativ *you all*), *ihnen* = to them, *Ihnen* = to you (formal): ✗ *Kann ich ihnen helfen?* (to a customer) → ✓ *Kann ich Ihnen helfen?*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Er sieht {{c1::mich::ich}} jeden Tag.",
+      "en": "He sees me every day.",
+      "focus": "Objekt von *sehen*",
+      "explanation": "*sehen* takes an Akkusativ object (*Wen sieht er?*). The Akkusativ of *ich* is **mich**. The time phrase *jeden Tag* comes after the pronoun, because pronouns stand early in the Mittelfeld.",
+      "pattern": "sehen + Akk.-Pronomen",
+      "mistake": {"wrong": "Er sieht mir jeden Tag.", "why": "*mir* is the Dativ. *sehen* is a normal Akkusativ verb, so the form is *mich*."},
+      "examples": [
+        {"de": "Sie besucht mich am Wochenende.", "en": "She is visiting me at the weekend."},
+        {"de": "Der Lehrer fragt mich oft.", "en": "The teacher often asks me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Ich sehe {{c1::dich::du}} später.",
+      "en": "I'll see you later.",
+      "focus": "Objekt von *sehen* · 2. Person Singular",
+      "explanation": "*sehen* takes the Akkusativ. The Akkusativ of *du* is **dich**. The Präsens is used here for the future, which is normal with a time word like *später*.",
+      "pattern": "sehen + Akk.-Pronomen",
+      "mistake": {"wrong": "Ich sehe dir später.", "why": "*dir* is the Dativ of *du*. *sehen* needs the Akkusativ *dich*."},
+      "examples": [
+        {"de": "Ich hole dich um acht ab.", "en": "I'll pick you up at eight."},
+        {"de": "Wir vermissen dich.", "en": "We miss you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie kennt {{c1::ihn::er}} schon lange.",
+      "en": "She has known him for a long time.",
+      "focus": "Objekt von *kennen* · maskulin",
+      "explanation": "*kennen* takes the Akkusativ. The masculine pronoun *er* has a special Akkusativ form: **ihn**. German uses the Präsens with *schon lange* where English uses the present perfect.",
+      "pattern": "kennen + ihn (Akk.)",
+      "mistake": {"wrong": "Sie kennt ihm schon lange.", "why": "*ihm* is the Dativ of *er*. *kennen* takes the Akkusativ: *ihn*."},
+      "examples": [
+        {"de": "Ich treffe ihn morgen.", "en": "I'm meeting him tomorrow."},
+        {"de": "Wir fragen ihn einfach.", "en": "We'll just ask him."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir lieben {{c1::sie::sie (Sg.)}} sehr.",
+      "en": "We love her very much.",
+      "focus": "Objekt von *lieben* · feminin",
+      "explanation": "*lieben* takes the Akkusativ. The feminine pronoun *sie* has the same form in the Nominativ and the Akkusativ: **sie**. Only the Dativ is different (*ihr*).",
+      "pattern": "lieben + sie (Akk.)",
+      "mistake": {"wrong": "Wir lieben ihr sehr.", "why": "*ihr* is the Dativ of *sie*. *lieben* takes the Akkusativ, and the feminine Akkusativ stays *sie*."},
+      "examples": [
+        {"de": "Ich rufe sie gleich an.", "en": "I'll call her right away."},
+        {"de": "Kennst du sie?", "en": "Do you know her?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Er hilft {{c1::mir::ich}} immer.",
+      "en": "He always helps me.",
+      "focus": "Objekt von *helfen*",
+      "explanation": "*helfen* is a Dativ verb (*Wem hilft er?*). The Dativ of *ich* is **mir**. English *help me* has a direct object, which is why learners often say *mich* here.",
+      "pattern": "helfen + Dat.-Pronomen",
+      "mistake": {"wrong": "Er hilft mich immer.", "why": "*mich* is Akkusativ. *helfen* always takes the Dativ: *mir*."},
+      "examples": [
+        {"de": "Sie dankt mir für den Tipp.", "en": "She thanks me for the tip."},
+        {"de": "Er antwortet mir nicht.", "en": "He isn't answering me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Ich gebe {{c1::dir::du}} das Buch.",
+      "en": "I'm giving you the book.",
+      "focus": "Person bei *geben* · Pronomen + Nomen",
+      "explanation": "*geben* has the person in the Dativ and the thing in the Akkusativ (*das Buch*). The Dativ of *du* is **dir**. A pronoun stands before a noun object.",
+      "pattern": "geben + Dat.-Pronomen + Akk.-Nomen",
+      "mistake": {"wrong": "Ich gebe dich das Buch.", "why": "*dich* is Akkusativ, but the Akkusativ slot is taken by *das Buch*. The receiver is Dativ: *dir*."},
+      "examples": [
+        {"de": "Ich leihe dir mein Fahrrad.", "en": "I'll lend you my bike."},
+        {"de": "Ich schicke dir die Adresse.", "en": "I'll send you the address."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie schenkt {{c1::ihm::er}} eine Uhr.",
+      "en": "She's giving him a watch.",
+      "focus": "Person bei *schenken* · maskulin",
+      "explanation": "The person who receives a present is in the Dativ. The Dativ of *er* is **ihm** (compare Akkusativ *ihn*). The present *eine Uhr* is the Akkusativ object.",
+      "pattern": "schenken + ihm (Dat.) + Akk.",
+      "mistake": {"wrong": "Sie schenkt ihn eine Uhr.", "why": "*ihn* is the Akkusativ. The receiver of *schenken* is Dativ: *ihm*. *ihn* and *ihm* differ only in the last letter, so check it carefully."},
+      "examples": [
+        {"de": "Wir kaufen ihm einen Kuchen.", "en": "We're buying him a cake."},
+        {"de": "Sie zeigt ihm den Weg.", "en": "She shows him the way."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Wir danken {{c1::ihr::sie (Sg.)}} sehr.",
+      "en": "We thank her very much.",
+      "focus": "Objekt von *danken* · feminin",
+      "explanation": "*danken* takes the Dativ. The Dativ of feminine *sie* is **ihr**. Do not confuse it with the possessive *ihr* (her) or the Nominativ *ihr* (you, plural); here it is a pronoun object.",
+      "pattern": "danken + ihr (Dat.)",
+      "mistake": {"wrong": "Wir danken sie sehr.", "why": "*sie* is the Nominativ/Akkusativ. *danken* takes the Dativ, so feminine *sie* becomes *ihr*."},
+      "examples": [
+        {"de": "Wir helfen ihr beim Umzug.", "en": "We're helping her with the move."},
+        {"de": "Das Kleid gefällt ihr.", "en": "She likes the dress."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie zeigen {{c1::uns::wir}} die Stadt.",
+      "en": "They're showing us the city.",
+      "focus": "Person bei *zeigen* · 1. Person Plural",
+      "explanation": "*zeigen* has the person in the Dativ and the thing in the Akkusativ. The Dativ of *wir* is **uns**, the same as the Akkusativ. The pronoun comes before the noun *die Stadt*.",
+      "pattern": "zeigen + uns (Dat.) + Akk.-Nomen",
+      "mistake": {"wrong": "Sie zeigen wir die Stadt.", "why": "*wir* is the Nominativ; the subject is already *sie*. The object form of *wir* is *uns* in both Akkusativ and Dativ."},
+      "examples": [
+        {"de": "Er erklärt uns die Regeln.", "en": "He explains the rules to us."},
+        {"de": "Die Kellnerin bringt uns die Rechnung.", "en": "The waitress brings us the bill."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Ich rufe {{c1::euch::ihr (Pl.)}} morgen an.",
+      "en": "I'll call you (all) tomorrow.",
+      "focus": "Objekt von *anrufen* · 2. Person Plural",
+      "explanation": "*anrufen* takes the Akkusativ (*Wen rufe ich an?*). The object form of *ihr* is **euch**, the same in the Akkusativ and the Dativ. The prefix *an* goes to the end.",
+      "pattern": "rufen + Akk. + … + an",
+      "mistake": {"wrong": "Ich rufe ihr morgen an.", "why": "*ihr* is the Nominativ of *you (plural)*; as an object it would mean *her* (Dativ). For *you all* as an object, use *euch*."},
+      "examples": [
+        {"de": "Ich hole euch vom Bahnhof ab.", "en": "I'll pick you up from the station."},
+        {"de": "Wir laden euch zum Essen ein.", "en": "We're inviting you to dinner."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das Auto gehört {{c1::ihnen::sie (Pl.)}}.",
+      "en": "The car belongs to them.",
+      "focus": "Besitzer nach *gehören* · 3. Person Plural",
+      "explanation": "*gehören* takes the owner in the Dativ. The Dativ of plural *sie* (they) is **ihnen**, written in lower case. With a capital letter, *Ihnen* means *you* (formal).",
+      "pattern": "gehören + ihnen (Dat. Pl.)",
+      "mistake": {"wrong": "Das Auto gehört sie.", "why": "*sie* is the Nominativ/Akkusativ plural. *gehören* needs the Dativ: *ihnen*."},
+      "examples": [
+        {"de": "Wir helfen ihnen beim Aufräumen.", "en": "We help them tidy up."},
+        {"de": "Die Wohnung gefällt ihnen sehr.", "en": "They like the flat a lot."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Kann ich {{c1::Ihnen::Sie (formell)}} helfen?",
+      "en": "Can I help you?",
+      "focus": "Objekt von *helfen* · Höflichkeitsform",
+      "explanation": "*helfen* takes the Dativ. The Dativ of formal *Sie* is **Ihnen**, always with a capital *I*. This is the standard question of a shop assistant or an official.",
+      "pattern": "helfen + Ihnen (Dat., formell)",
+      "mistake": {"wrong": "Kann ich Sie helfen?", "why": "*Sie* is the Nominativ/Akkusativ. *helfen* takes the Dativ: *Ihnen*."},
+      "examples": [
+        {"de": "Darf ich Ihnen etwas zu trinken anbieten?", "en": "May I offer you something to drink?"},
+        {"de": "Ich schicke Ihnen die Unterlagen per E-Mail.", "en": "I'll send you the documents by email."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Ich verstehe {{c1::dich::du}} nicht.",
+      "en": "I don't understand you.",
+      "focus": "Objekt von *verstehen*",
+      "explanation": "*verstehen* takes the Akkusativ. The Akkusativ of *du* is **dich**. *nicht* comes after the pronoun object, at the end.",
+      "pattern": "verstehen + Akk.-Pronomen + nicht",
+      "mistake": {"wrong": "Ich verstehe dir nicht.", "why": "*dir* is the Dativ. *verstehen* is an Akkusativ verb: *dich*."},
+      "examples": [
+        {"de": "Ich höre dich nicht gut.", "en": "I can't hear you well."},
+        {"de": "Ich erkenne dich kaum.", "en": "I hardly recognise you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er hat {{c1::uns::wir}} eingeladen.",
+      "en": "He invited us.",
+      "focus": "Objekt von *einladen* · Perfekt",
+      "explanation": "*einladen* takes the Akkusativ. The Akkusativ of *wir* is **uns**. In the Perfekt the pronoun stands right after *hat*, and the Partizip II *eingeladen* closes the sentence.",
+      "pattern": "haben + Akk.-Pronomen + Partizip II",
+      "mistake": {"wrong": "Er hat wir eingeladen.", "why": "*wir* is the subject form. As an object, *wir* becomes *uns*."},
+      "examples": [
+        {"de": "Sie hat uns vom Flughafen abgeholt.", "en": "She picked us up from the airport."},
+        {"de": "Der Chef hat uns gelobt.", "en": "The boss praised us."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie hört {{c1::ihm::er}} aufmerksam zu.",
+      "en": "She listens to him attentively.",
+      "focus": "Objekt von *zuhören* · trennbares Verb",
+      "explanation": "*zuhören* takes the Dativ (*Wem hört sie zu?*). The Dativ of *er* is **ihm**. The prefix *zu* goes to the end; the adverb *aufmerksam* stands between pronoun and prefix.",
+      "pattern": "hören + Dat.-Pronomen + … + zu",
+      "mistake": {"wrong": "Sie hört ihn aufmerksam zu.", "why": "*ihn* is Akkusativ. *zuhören* is a Dativ verb: *ihm*. (Without *zu*, *hören* takes the Akkusativ: *Sie hört ihn.*)"},
+      "examples": [
+        {"de": "Die Kinder hören ihr gespannt zu.", "en": "The children listen to her eagerly."},
+        {"de": "Hörst du mir überhaupt zu?", "en": "Are you even listening to me?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir glauben {{c1::ihr::sie (Sg.)}} nicht.",
+      "en": "We don't believe her.",
+      "focus": "Person nach *glauben* · feminin",
+      "explanation": "*glauben* takes the person in the Dativ. The Dativ of feminine *sie* is **ihr**. *nicht* at the end negates the sentence.",
+      "pattern": "glauben + ihr (Dat.) + nicht",
+      "mistake": {"wrong": "Wir glauben sie nicht.", "why": "*sie* is Nominativ/Akkusativ. A person after *glauben* is always Dativ: *ihr*."},
+      "examples": [
+        {"de": "Wir vertrauen ihr nicht.", "en": "We don't trust her."},
+        {"de": "Ich widerspreche ihr nicht gern.", "en": "I don't like contradicting her."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Ich rufe {{c1::dich::du}} später an.",
+      "en": "I'll call you later.",
+      "focus": "Objekt von *anrufen* · 2. Person Singular",
+      "explanation": "*anrufen* takes the Akkusativ, like English *call someone* (*Wen rufe ich an?*). The Akkusativ of *du* is **dich**. *an* goes to the end of the main clause.",
+      "pattern": "rufen + Akk.-Pronomen + … + an",
+      "mistake": {"wrong": "Ich rufe dir später an.", "why": "Many learners use the Dativ with *anrufen*. It is an Akkusativ verb: *Ich rufe dich an.*"},
+      "examples": [
+        {"de": "Ich rufe dich nach der Arbeit an.", "en": "I'll call you after work."},
+        {"de": "Er ruft mich jeden Sonntag an.", "en": "He calls me every Sunday."}
+      ],
+      "words": [{"de": "anrufen (+ Akk.)", "en": "to call, to phone"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das Geschenk ist für {{c1::sie::sie (Sg.)}}.",
+      "en": "The present is for her.",
+      "focus": "Pronomen nach *für*",
+      "explanation": "*für* always takes the Akkusativ. The Akkusativ of *sie* (singular or plural) is **sie**, the same as the Nominativ. The sentence can also mean *for them*; the context decides.",
+      "pattern": "für + Akk.-Pronomen",
+      "mistake": {"wrong": "Das Geschenk ist für ihr.", "why": "*ihr* is the Dativ. *für* is an Akkusativ preposition, so feminine *sie* does not change."},
+      "examples": [
+        {"de": "Ich habe keine Zeit für ihn.", "en": "I have no time for him."},
+        {"de": "Die Blumen sind für dich.", "en": "The flowers are for you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich gebe es {{c1::dir::du}} morgen.",
+      "en": "I'll give it to you tomorrow.",
+      "focus": "Wortstellung · zwei Pronomen",
+      "explanation": "With two pronouns the Akkusativ comes first: *es* (the thing), then the Dativ **dir** (the receiver, Dativ of *du*). This is the opposite of the order for two nouns.",
+      "pattern": "Akk.-Pronomen + Dat.-Pronomen",
+      "mistake": {"wrong": "Ich gebe dir es morgen.", "why": "With two pronouns the Akkusativ *es* must come before the Dativ: *es dir*."},
+      "examples": [
+        {"de": "Ich erzähle es dir später.", "en": "I'll tell you later."},
+        {"de": "Ich bringe es dir heute Abend vorbei.", "en": "I'll drop it off for you this evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Kannst du {{c1::mir::ich}} bitte helfen?",
+      "en": "Can you please help me?",
+      "focus": "Objekt von *helfen* · mit Modalverb",
+      "explanation": "*helfen* takes the Dativ → **mir**. The modal verb *kannst* does not change the case; the infinitive *helfen* goes to the end, and the pronoun stays right after the subject.",
+      "pattern": "Modalverb + Subjekt + Dat.-Pronomen + … + helfen",
+      "mistake": {"wrong": "Kannst du mich bitte helfen?", "why": "*mich* is Akkusativ. *helfen* takes the Dativ, also with a modal verb: *mir*."},
+      "examples": [
+        {"de": "Kannst du mir kurz zuhören?", "en": "Can you listen to me for a moment?"},
+        {"de": "Kannst du mir eine Frage beantworten?", "en": "Can you answer a question for me?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich schenke {{c1::es::Pronomen (n.)}} ihr zum Geburtstag.",
+      "en": "I'm giving it to her for her birthday.",
+      "focus": "Wortstellung · Akkusativpronomen vor Dativpronomen",
+      "explanation": "Two pronouns: the Akkusativ comes first. The thing is neuter → **es**, then the Dativ *ihr* (to her). Two nouns would have the opposite order: *Ich schenke der Frau das Buch.*",
+      "pattern": "es (Akk.) + ihr (Dat.)",
+      "mistake": {"wrong": "Ich schenke ihr es zum Geburtstag.", "why": "With two pronouns the Akkusativ *es* stands before the Dativ *ihr*."},
+      "examples": [
+        {"de": "Ich leihe es ihr gern.", "en": "I'm happy to lend it to her."},
+        {"de": "Er schickt es ihr per Post.", "en": "He sends it to her by post."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Er gibt {{c1::ihm::er}} den Schlüssel.",
+      "en": "He gives him the key.",
+      "focus": "Person bei *geben* · Pronomen vor Nomen",
+      "explanation": "The receiver of *geben* is Dativ: *er* → **ihm**. When one object is a pronoun and the other a noun, the pronoun comes first, whatever its case: *ihm den Schlüssel*.",
+      "pattern": "Pronomen (Dat.) + Nomen (Akk.)",
+      "mistake": {"wrong": "Er gibt ihn den Schlüssel.", "why": "*ihn* is Akkusativ, and the Akkusativ slot is already *den Schlüssel*. The receiver must be Dativ: *ihm*."},
+      "examples": [
+        {"de": "Ich zeige ihm das Zimmer.", "en": "I'll show him the room."},
+        {"de": "Wir bringen ihm die Zeitung.", "en": "We bring him the newspaper."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Sie hat {{c1::mich::ich}} nicht gesehen.",
+      "en": "She didn't see me.",
+      "focus": "Objekt von *sehen* · Perfekt mit *nicht*",
+      "explanation": "*sehen* takes the Akkusativ: *ich* → **mich**. In the Perfekt, the pronoun stands after *hat*, *nicht* stands before the Partizip II *gesehen*.",
+      "pattern": "haben + Akk.-Pronomen + nicht + Partizip II",
+      "mistake": {"wrong": "Sie hat mir nicht gesehen.", "why": "*mir* is Dativ. *sehen* takes the Akkusativ: *mich*."},
+      "examples": [
+        {"de": "Er hat mich nicht erkannt.", "en": "He didn't recognise me."},
+        {"de": "Du hast mich nicht gefragt.", "en": "You didn't ask me."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Das Paket? Ich schicke {{c1::es::das Paket}} dir morgen.",
+      "en": "The parcel? I'll send it to you tomorrow.",
+      "focus": "Pronomen für eine Sache · zwei Pronomen",
+      "explanation": "*das Paket* is neuter, so the pronoun is **es** (Akkusativ = Nominativ). With two pronouns the Akkusativ *es* comes before the Dativ *dir*.",
+      "pattern": "es (Akk.) + dir (Dat.)",
+      "mistake": {"wrong": "Das Paket? Ich schicke ihn dir morgen.", "why": "*ihn* would refer to a masculine noun. *Paket* is neuter, so the pronoun is *es*."},
+      "examples": [
+        {"de": "Das Rezept? Ich schicke es dir gleich.", "en": "The recipe? I'll send it to you right away."},
+        {"de": "Das Foto? Ich zeige es euch später.", "en": "The photo? I'll show it to you later."}
+      ],
+      "words": [{"de": "das Paket (-e)", "en": "parcel"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Kannst du {{c1::uns::wir}} den Weg zeigen?",
+      "en": "Can you show us the way?",
+      "focus": "Person bei *zeigen* · mit Modalverb",
+      "explanation": "*zeigen* takes the person in the Dativ (*uns*) and the thing in the Akkusativ (*den Weg*). *wir* → **uns**. The pronoun comes before the noun object, and *zeigen* goes to the end.",
+      "pattern": "Modalverb + uns (Dat.) + Akk.-Nomen + Infinitiv",
+      "mistake": {"wrong": "Kannst du den Weg uns zeigen?", "why": "A pronoun normally comes before a noun object: *uns den Weg*. The order *den Weg uns* is wrong in a neutral sentence."},
+      "examples": [
+        {"de": "Kannst du uns das Rezept geben?", "en": "Can you give us the recipe?"},
+        {"de": "Können Sie uns ein Taxi rufen?", "en": "Could you call us a taxi?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Ich habe {{c1::ihn::er}} gestern angerufen.",
+      "en": "I called him yesterday.",
+      "focus": "Objekt von *anrufen* · Perfekt",
+      "explanation": "*anrufen* takes the Akkusativ: *er* → **ihn**. English *call to someone* does not exist, but learners often use the Dativ by analogy with *sagen* or *schreiben*. The Partizip II is *angerufen*.",
+      "pattern": "haben + ihn (Akk.) + angerufen",
+      "mistake": {"wrong": "Ich habe ihm gestern angerufen.", "why": "*ihm* is Dativ. *anrufen* is an Akkusativ verb: *ihn*."},
+      "examples": [
+        {"de": "Hast du sie schon angerufen?", "en": "Have you called her yet?"},
+        {"de": "Wir haben ihn gestern besucht.", "en": "We visited him yesterday."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Gib {{c1::mir::ich}} bitte deine Adresse.",
+      "en": "Please give me your address.",
+      "focus": "Person bei *geben* · Imperativ",
+      "explanation": "In the imperative the verb stands first, and the Dativ pronoun follows directly: *gib* **mir**. *bitte* can stand after the pronoun. *deine Adresse* is the Akkusativ object.",
+      "pattern": "Imperativ + Dat.-Pronomen + bitte + Akk.",
+      "mistake": {"wrong": "Gib mich bitte deine Adresse.", "why": "*mich* is Akkusativ. The person who receives something after *geben* is Dativ: *mir*."},
+      "examples": [
+        {"de": "Sag mir bitte Bescheid!", "en": "Please let me know!"},
+        {"de": "Schick mir bitte ein Foto!", "en": "Please send me a photo!"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Wir treffen {{c1::euch::ihr (Pl.)}} um acht am Bahnhof.",
+      "en": "We're meeting you at eight at the station.",
+      "focus": "Objekt von *treffen* · 2. Person Plural",
+      "explanation": "*treffen* takes the Akkusativ. The object form of *ihr* is **euch** in both the Akkusativ and the Dativ. The pronoun comes before the time (*um acht*) and the place (*am Bahnhof*).",
+      "pattern": "treffen + euch (Akk.) + Zeit + Ort",
+      "mistake": {"wrong": "Wir treffen ihr um acht am Bahnhof.", "why": "*ihr* is the Nominativ of *you (all)*. As an object it becomes *euch*."},
+      "examples": [
+        {"de": "Wir besuchen euch im Sommer.", "en": "We'll visit you in the summer."},
+        {"de": "Ich sehe euch morgen in der Schule.", "en": "I'll see you tomorrow at school."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich glaube {{c1::dir::du}}.",
+      "en": "I believe you.",
+      "focus": "Person nach *glauben*",
+      "explanation": "*glauben* takes the person in the Dativ: *du* → **dir**. The content you believe is Akkusativ: *Ich glaube es dir.*",
+      "pattern": "glauben + Dat. (Person)",
+      "mistake": {"wrong": "Ich glaube dich.", "why": "*dich* is Akkusativ. The person you believe is Dativ: *dir*."},
+      "examples": [
+        {"de": "Ich vertraue dir.", "en": "I trust you."},
+        {"de": "Ich glaube es dir.", "en": "I believe you (about it)."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Das Buch gefällt {{c1::ihnen::sie (Pl.)}} sehr.",
+      "en": "They like the book a lot.",
+      "focus": "Person nach *gefallen* · 3. Person Plural",
+      "explanation": "*gefallen* takes the person in the Dativ. The Dativ of plural *sie* is **ihnen**, in lower case. Capital *Ihnen* would mean *you* (formal).",
+      "pattern": "Sache + gefallen + ihnen (Dat. Pl.)",
+      "mistake": {"wrong": "Das Buch gefällt sie sehr.", "why": "*sie* is Nominativ/Akkusativ. The person after *gefallen* is Dativ: *ihnen*."},
+      "examples": [
+        {"de": "Die Musik gefällt ihnen nicht.", "en": "They don't like the music."},
+        {"de": "Unser Garten gefällt ihnen sehr.", "en": "They really like our garden."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Hast du {{c1::sie::sie (Sg.)}} schon gefragt?",
+      "en": "Have you asked her yet?",
+      "focus": "Objekt von *fragen*",
+      "explanation": "*fragen* takes the person in the Akkusativ (*Wen hast du gefragt?*). Learners often use the Dativ here because *sagen* and *antworten* have a Dativ person. Feminine *sie* is the same in the Nominativ and the Akkusativ: **sie**.",
+      "pattern": "fragen + Akk.-Pronomen",
+      "mistake": {"wrong": "Hast du ihr schon gefragt?", "why": "*ihr* is Dativ. *fragen* is an Akkusativ verb: *Hast du sie gefragt?*"},
+      "examples": [
+        {"de": "Hast du sie schon eingeladen?", "en": "Have you invited her yet?"},
+        {"de": "Hast du ihn gefragt?", "en": "Did you ask him?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Ich bringe {{c1::es::Pronomen (n.)}} euch nachher.",
+      "en": "I'll bring it to you later.",
+      "focus": "Wortstellung · Akkusativpronomen vor Dativpronomen",
+      "explanation": "Two pronouns: Akkusativ first (**es**, the thing), then Dativ (*euch*, the receivers). The time adverb *nachher* follows the pronouns.",
+      "pattern": "es (Akk.) + euch (Dat.) + Zeit",
+      "mistake": {"wrong": "Ich bringe euch es nachher.", "why": "With two pronouns the Akkusativ *es* must come first: *es euch*."},
+      "examples": [
+        {"de": "Ich zeige es euch morgen.", "en": "I'll show it to you tomorrow."},
+        {"de": "Wir erklären es euch gleich.", "en": "We'll explain it to you in a moment."}
+      ],
+      "words": [{"de": "nachher", "en": "later, afterwards"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Sie erklärt {{c1::es::Pronomen (n.)}} ihm noch einmal.",
+      "en": "She explains it to him once more.",
+      "focus": "Wortstellung · zwei Pronomen",
+      "explanation": "*erklären* has the thing in the Akkusativ and the person in the Dativ. As pronouns: **es** (Akk.) before *ihm* (Dat.). *es ihm* is a very frequent pair, so it helps to learn it as one chunk.",
+      "pattern": "es (Akk.) + ihm (Dat.)",
+      "mistake": {"wrong": "Sie erklärt ihm es noch einmal.", "why": "The order *ihm es* is wrong. With two pronouns the Akkusativ comes first: *es ihm*."},
+      "examples": [
+        {"de": "Ich sage es ihm morgen.", "en": "I'll tell him tomorrow."},
+        {"de": "Wir geben es ihm zurück.", "en": "We'll give it back to him."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ich kann {{c1::dich::du}} gut verstehen.",
+      "en": "I can understand you well.",
+      "focus": "Objekt von *verstehen* · mit Modalverb",
+      "explanation": "*verstehen* takes the Akkusativ: *du* → **dich**. With the modal verb *kann* the infinitive *verstehen* goes to the end and closes the Satzklammer; the pronoun stays early in the Mittelfeld.",
+      "pattern": "Modalverb + Akk.-Pronomen + … + Infinitiv",
+      "mistake": {"wrong": "Ich kann dir gut verstehen.", "why": "*dir* is Dativ. *verstehen* takes the Akkusativ: *dich*."},
+      "examples": [
+        {"de": "Ich kann dich leider nicht abholen.", "en": "Unfortunately I can't pick you up."},
+        {"de": "Wir können dich morgen besuchen.", "en": "We can visit you tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Der Kuchen ist lecker! Hast du {{c1::ihn::der Kuchen}} selbst gebacken?",
+      "en": "The cake is delicious! Did you bake it yourself?",
+      "focus": "Pronomen für eine Sache · Akkusativ",
+      "explanation": "For things, German uses the pronoun of the noun's grammatical gender. *der Kuchen* is masculine and the Akkusativ object of *backen* → **ihn**. English says *it*, German says *him*.",
+      "pattern": "der-Nomen → ihn (Akk.)",
+      "mistake": {"wrong": "Der Kuchen ist lecker! Hast du es selbst gebacken?", "why": "*es* is only for neuter nouns. *Kuchen* is masculine, so the Akkusativ pronoun is *ihn*."},
+      "examples": [
+        {"de": "Der Pullover ist schön. Wo hast du ihn gekauft?", "en": "The jumper is nice. Where did you buy it?"},
+        {"de": "Ich suche meinen Schlüssel. Hast du ihn gesehen?", "en": "I'm looking for my key. Have you seen it?"}
+      ],
+      "words": [{"de": "backen", "en": "to bake"}],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Die Tasche? Ich habe {{c1::sie::die Tasche}} im Bus vergessen.",
+      "en": "The bag? I left it on the bus.",
+      "focus": "Pronomen für eine Sache · feminin",
+      "explanation": "*die Tasche* is feminine and the Akkusativ object of *vergessen* → **sie** (feminine Akkusativ = Nominativ). The pronoun stands right after *habe*.",
+      "pattern": "die-Nomen → sie (Akk.)",
+      "mistake": {"wrong": "Die Tasche? Ich habe es im Bus vergessen.", "why": "*es* would refer to a neuter noun. *Tasche* is feminine, so the pronoun is *sie*."},
+      "examples": [
+        {"de": "Die Jacke ist zu teuer. Ich kaufe sie nicht.", "en": "The jacket is too expensive. I'm not buying it."},
+        {"de": "Wo ist die Fernbedienung? Ich finde sie nicht.", "en": "Where is the remote? I can't find it."}
+      ],
+      "words": [{"de": "vergessen", "en": "to forget; to leave behind"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das Kind weint. Gib {{c1::ihm::das Kind}} doch einen Keks!",
+      "en": "The child is crying. Why don't you give them a biscuit?",
+      "focus": "Pronomen für ein Neutrum · Dativ",
+      "explanation": "*das Kind* is neuter. The receiver of *geben* is Dativ, and the neuter Dativ pronoun is **ihm**, the same form as the masculine. German uses *es/ihm* for *das Kind* even when English would say *he* or *she*.",
+      "pattern": "das-Nomen → ihm (Dat.)",
+      "mistake": {"wrong": "Das Kind weint. Gib es doch einen Keks!", "why": "*es* is the Nominativ/Akkusativ. The receiver needs the Dativ, and for a neuter noun that is *ihm*."},
+      "examples": [
+        {"de": "Das Baby ist müde. Sing ihm ein Lied!", "en": "The baby is tired. Sing it a song!"},
+        {"de": "Das Mädchen hat Hunger. Wir geben ihm ein Brot.", "en": "The girl is hungry. We'll give her a sandwich."}
+      ],
+      "words": [{"de": "der Keks (-e)", "en": "biscuit, cookie"}],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Kommst du mit {{c1::uns::wir}} ins Kino?",
+      "en": "Are you coming to the cinema with us?",
+      "focus": "Pronomen nach *mit*",
+      "explanation": "The preposition decides the case: *mit* always takes the Dativ. The Dativ of *wir* is **uns**. *ins Kino* is a separate phrase (direction → Akkusativ).",
+      "pattern": "mit + Dat.-Pronomen",
+      "mistake": {"wrong": "Kommst du mit wir ins Kino?", "why": "After a preposition a pronoun is never in the Nominativ. *mit* takes the Dativ: *mit uns*."},
+      "examples": [
+        {"de": "Ich wohne bei ihr.", "en": "I live at her place."},
+        {"de": "Wir haben von ihm lange nichts gehört.", "en": "We haven't heard from him for a long time."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Ohne {{c1::dich::du}} fahre ich nicht in den Urlaub.",
+      "en": "I'm not going on holiday without you.",
+      "focus": "Pronomen nach *ohne*",
+      "explanation": "*ohne* always takes the Akkusativ (like *für, durch, gegen, um*). The Akkusativ of *du* is **dich**. The prepositional phrase stands in the Vorfeld, so the verb *fahre* follows directly.",
+      "pattern": "ohne + Akk.-Pronomen",
+      "mistake": {"wrong": "Ohne dir fahre ich nicht in den Urlaub.", "why": "*dir* is the Dativ. *ohne* is an Akkusativ preposition: *ohne dich*."},
+      "examples": [
+        {"de": "Wir fangen ohne ihn an.", "en": "We'll start without him."},
+        {"de": "Ich habe etwas für euch.", "en": "I have something for you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Die Fotos? Ich zeige {{c1::sie::die Fotos}} dir später.",
+      "en": "The photos? I'll show them to you later.",
+      "focus": "Pronomen für Plural · zwei Pronomen",
+      "explanation": "*die Fotos* is plural, so the Akkusativ pronoun is **sie**. With two pronouns the Akkusativ comes first: *sie dir*. This also works with *ihn* and *sie* (singular): *Ich zeige ihn dir. / Ich zeige sie dir.*",
+      "pattern": "sie (Akk. Pl.) + dir (Dat.)",
+      "mistake": {"wrong": "Die Fotos? Ich zeige dir sie später.", "why": "With two pronouns the Akkusativ *sie* stands before the Dativ *dir*: *sie dir*."},
+      "examples": [
+        {"de": "Die Bücher? Ich bringe sie dir morgen.", "en": "The books? I'll bring them to you tomorrow."},
+        {"de": "Die Karten? Wir schicken sie euch per Post.", "en": "The tickets? We'll send them to you by post."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Den Schlüssel? Ich habe ihn {{c1::ihr::meine Schwester}} gegeben.",
+      "en": "The key? I gave it to her.",
+      "focus": "Wortstellung · zweites Pronomen im Dativ",
+      "explanation": "*ihn* refers to *den Schlüssel* (Akkusativ). The person (*my sister*) is the receiver → Dativ feminine **ihr**. Order with two pronouns: Akkusativ *ihn*, then Dativ *ihr*.",
+      "pattern": "ihn (Akk.) + ihr (Dat.)",
+      "mistake": {"wrong": "Den Schlüssel? Ich habe ihn sie gegeben.", "why": "*sie* is Nominativ/Akkusativ. The receiver of *geben* is Dativ, so feminine *sie* becomes *ihr*."},
+      "examples": [
+        {"de": "Den Brief? Ich habe ihn ihm schon gegeben.", "en": "The letter? I've already given it to him."},
+        {"de": "Den Film? Wir empfehlen ihn ihr.", "en": "The film? We recommend it to her."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Gestern hat {{c1::mich::ich}} der Chef angerufen.",
+      "en": "Yesterday the boss called me.",
+      "focus": "Wortstellung · Pronomen vor Nomen-Subjekt",
+      "explanation": "*anrufen* takes the Akkusativ → **mich**. When the subject is a noun and stands after the verb (*Gestern hat …*), a short object pronoun usually comes before it: *hat mich der Chef*.",
+      "pattern": "Vorfeld + Verb + Akk.-Pronomen + Nomen-Subjekt + Partizip II",
+      "mistake": {"wrong": "Gestern hat mir der Chef angerufen.", "why": "The word order is fine, but *mir* is Dativ. *anrufen* takes the Akkusativ: *mich*."},
+      "examples": [
+        {"de": "Heute hat mich meine Mutter besucht.", "en": "My mother visited me today."},
+        {"de": "Leider hat uns der Kellner vergessen.", "en": "Unfortunately the waiter forgot us."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Frag {{c1::ihn::er}} doch selbst!",
+      "en": "Why don't you ask him yourself?",
+      "focus": "Objekt von *fragen* · Imperativ",
+      "explanation": "*fragen* takes the Akkusativ: *er* → **ihn**. In the imperative the pronoun follows the verb directly. The particle *doch* makes the advice sound friendly.",
+      "pattern": "Imperativ + Akk.-Pronomen",
+      "mistake": {"wrong": "Frag ihm doch selbst!", "why": "*ihm* is Dativ. *fragen* takes the person in the Akkusativ: *ihn*."},
+      "examples": [
+        {"de": "Ruf sie doch an!", "en": "Why don't you call her?"},
+        {"de": "Besuch uns mal!", "en": "Come and visit us some time!"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, imperative)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich weiß nicht, ob er {{c1::euch::ihr (Pl.)}} schon geantwortet hat.",
+      "en": "I don't know if he has answered you yet.",
+      "focus": "Objekt von *antworten* · Nebensatz",
+      "explanation": "*antworten* takes the Dativ; the object form of *ihr* is **euch**. In the *ob*-clause the finite verb *hat* goes to the end, but the pronoun still stands right after the subject.",
+      "pattern": "ob + Subjekt + Dat.-Pronomen + … + Partizip II + hat",
+      "mistake": {"wrong": "Ich weiß nicht, ob er ihr schon geantwortet hat.", "why": "*ihr* as an object means *her*, not *you (all)*. For the plural *you* the object form is *euch*."},
+      "examples": [
+        {"de": "Ich weiß nicht, ob sie uns schon geschrieben hat.", "en": "I don't know if she has written to us yet."},
+        {"de": "Sag mir, ob er dir geholfen hat.", "en": "Tell me whether he helped you."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Frau Weber, darf ich {{c1::Sie::Sie (formell)}} etwas fragen?",
+      "en": "Ms Weber, may I ask you something?",
+      "focus": "Objekt von *fragen* · Höflichkeitsform",
+      "explanation": "*fragen* takes the Akkusativ. The formal *Sie* has the same form in the Nominativ and the Akkusativ: **Sie**. Only the Dativ is different: *Ihnen*.",
+      "pattern": "fragen + Sie (Akk., formell) + Akk. (Sache)",
+      "mistake": {"wrong": "Frau Weber, darf ich Ihnen etwas fragen?", "why": "*Ihnen* is the Dativ. *fragen* has the person in the Akkusativ: *Sie*. (Compare *Darf ich Ihnen etwas sagen?*, because *sagen* takes a Dativ person.)"},
+      "examples": [
+        {"de": "Herr Lang, darf ich Sie kurz stören?", "en": "Mr Lang, may I disturb you for a moment?"},
+        {"de": "Wir rufen Sie morgen an.", "en": "We'll call you tomorrow."}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Meine Eltern wohnen weit weg. Ich besuche {{c1::sie::meine Eltern}} nur im Sommer.",
+      "en": "My parents live far away. I only visit them in summer.",
+      "focus": "Pronomen für Personen im Plural · Akkusativ",
+      "explanation": "*meine Eltern* is plural, and *besuchen* takes the Akkusativ. The Akkusativ of plural *sie* is **sie**; the Dativ would be *ihnen*.",
+      "pattern": "Plural-Nomen → sie (Akk. Pl.)",
+      "mistake": {"wrong": "Meine Eltern wohnen weit weg. Ich besuche ihnen nur im Sommer.", "why": "*ihnen* is the Dativ plural. *besuchen* takes the Akkusativ: *sie*."},
+      "examples": [
+        {"de": "Die Nachbarn sind nett. Wir laden sie oft ein.", "en": "The neighbours are nice. We often invite them."},
+        {"de": "Meine Großeltern freuen sich, wenn ich sie anrufe.", "en": "My grandparents are happy when I call them."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the pronoun forms.",
+      "prompt": "Which personal pronouns have different forms in the Akkusativ and the Dativ, and which have the same?",
+      "answer": "Different: *ich* **mich/mir**, *du* **dich/dir**, *er* **ihn/ihm**, *sie* (Sg.) **sie/ihr**, *es* **es/ihm**, *sie* (Pl.) **sie/ihnen**, *Sie* **Sie/Ihnen**. The same: *wir* **uns/uns**, *ihr* **euch/euch**.",
+      "explanation": "For *wir* and *ihr* you do not need to decide the case, only the person. For all others, check the verb or preposition first. *sie* (singular and plural) and *Sie* keep their Nominativ form in the Akkusativ.",
+      "examples": [
+        {"de": "Ich sehe ihn, aber ich helfe ihm nicht.", "en": "I see him, but I don't help him."},
+        {"de": "Er sieht uns und hilft uns.", "en": "He sees us and helps us."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the word order rules.",
+      "prompt": "In which order do the objects stand when one or both are pronouns?",
+      "answer": "Two pronouns: **Akkusativ before Dativ** (*Ich gebe es ihm.*). Pronoun + noun: **the pronoun comes first**, whatever its case (*Ich gebe ihm das Buch. / Ich gebe es dem Mann.*). Two nouns: Dativ before Akkusativ.",
+      "explanation": "Pronouns refer to known information, and known information comes early in the Mittelfeld. The Akkusativ-first rule for two pronouns is the opposite of the noun order, so learn pairs like *es ihm, es dir, ihn ihr* as chunks.",
+      "examples": [
+        {"de": "Ich leihe ihr den Schirm.", "en": "I'll lend her the umbrella."},
+        {"de": "Ich leihe ihn ihr.", "en": "I'll lend it to her."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about pronouns for things.",
+      "prompt": "Which pronoun replaces a thing like *der Tisch, die Lampe, das Bett*?",
+      "answer": "The pronoun follows the **grammatical gender**: *der Tisch* → **er / ihn / ihm**, *die Lampe* → **sie / sie / ihr**, *das Bett* → **es / es / ihm**. Plural → **sie / sie / ihnen**.",
+      "explanation": "English uses *it* for every thing, but German has no neutral pronoun for masculine and feminine nouns. So *Der Tisch ist neu. Ich habe ihn gestern gekauft.* The same applies to *das Mädchen* and *das Kind*: the pronoun is grammatically neuter (*es, ihm*).",
+      "examples": [
+        {"de": "Die Lampe ist kaputt. Ich repariere sie.", "en": "The lamp is broken. I'll repair it."},
+        {"de": "Der Tisch ist zu groß. Wir verkaufen ihn.", "en": "The table is too big. We're selling it."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the three forms that look alike.",
+      "prompt": "What is the difference between *ihr*, *ihnen* and *Ihnen*?",
+      "answer": "**ihr**: Dativ of *sie* (Sg.) = *to her*; also the Nominativ *you (all)*. **ihnen**: Dativ of *sie* (Pl.) = *to them*. **Ihnen**: Dativ of formal *Sie* = *to you*, always with a capital letter.",
+      "explanation": "In writing, capitalisation separates *ihnen* and *Ihnen*. In speech only the context helps. *ihr* as an object always means *her*; the object form of *ihr* (you all) is *euch*.",
+      "examples": [
+        {"de": "Ich gebe ihr meine Nummer.", "en": "I'm giving her my number."},
+        {"de": "Ich gebe Ihnen meine Nummer.", "en": "I'm giving you my number."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Tom hat Geburtstag. Ich schenke ___ ein Buch.",
+      "options": ["ihn", "ihm", "er"],
+      "correct": "ihm",
+      "answer": "Tom hat Geburtstag. Ich schenke ihm ein Buch.",
+      "explanation": "Tom receives the present → Dativ → *ihm*. *ihn* is the Akkusativ, but the Akkusativ object is already *ein Buch*. *er* is the Nominativ, and the subject is *ich*."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Wo ist meine Brille? Ich finde ___ nicht.",
+      "options": ["sie", "ihr", "es"],
+      "correct": "sie",
+      "answer": "Wo ist meine Brille? Ich finde sie nicht.",
+      "explanation": "*die Brille* is feminine, and *finden* takes the Akkusativ → *sie*. *ihr* is the feminine Dativ. *es* would refer to a neuter noun."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct pronoun.",
+      "prompt": "Kinder, ich warte unten auf ___!",
+      "options": ["euch", "ihr", "dich"],
+      "correct": "euch",
+      "answer": "Kinder, ich warte unten auf euch!",
+      "explanation": "*warten auf* takes the Akkusativ, and *Kinder* is addressed with *ihr* → object form *euch*. *ihr* is the Nominativ. *dich* is singular and does not fit a group of children."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake in the word order.",
+      "prompt": "Ich zeige ihr es später.",
+      "answer": "Ich zeige es ihr später.",
+      "explanation": "With two pronouns the Akkusativ comes before the Dativ. *es* (Akk.) must stand before *ihr* (Dat.)."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Film war super, ich habe es zweimal gesehen.",
+      "answer": "Der Film war super, ich habe ihn zweimal gesehen.",
+      "explanation": "*der Film* is masculine, so the Akkusativ pronoun is *ihn*, not *es*. The pronoun follows the grammatical gender of the noun."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich rufe dir heute Abend an.",
+      "answer": "Ich rufe dich heute Abend an.",
+      "explanation": "*anrufen* takes the Akkusativ. The Akkusativ of *du* is *dich*; *dir* is the Dativ."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Replace both objects with pronouns and put them in the correct order.",
+      "prompt": "Ich gebe dem Kind den Ball.",
+      "answer": "Ich gebe ihn ihm.",
+      "explanation": "*den Ball* (masculine Akkusativ) → *ihn*; *dem Kind* (neuter Dativ) → *ihm*. With two pronouns the Akkusativ comes first: *ihn ihm*, the opposite of the noun order *dem Kind den Ball*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Replace the Dativ object with a pronoun.",
+      "prompt": "Die Lehrerin erklärt den Schülern die Grammatik.",
+      "answer": "Die Lehrerin erklärt ihnen die Grammatik.",
+      "explanation": "*den Schülern* is Dativ plural → *ihnen* (lower case, *to them*). The pronoun keeps its place before the noun object *die Grammatik*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace the Akkusativ object with a pronoun and put it in the correct position.",
+      "prompt": "Er bringt seiner Nachbarin die Zeitung.",
+      "answer": "Er bringt sie seiner Nachbarin.",
+      "explanation": "*die Zeitung* is feminine Akkusativ → *sie*. A pronoun comes before a noun object, so *sie* moves in front of the Dativ *seiner Nachbarin*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "es / ihr / habe / ich / gestern / gezeigt",
+      "answer": "Ich habe es ihr gestern gezeigt.",
+      "explanation": "*habe* is in position 2 and *gezeigt* at the end. In the Mittelfeld the two pronouns come first, Akkusativ before Dativ (*es ihr*), and then the time *gestern*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Heute",
+      "prompt": "dich / heute / mein Bruder / hat / gesucht",
+      "answer": "Heute hat dich mein Bruder gesucht.",
+      "explanation": "After *Heute* the verb *hat* is in position 2. The short pronoun *dich* usually stands before the noun subject *mein Bruder*. *Heute hat mein Bruder dich gesucht* is also possible, but it puts more weight on *dich*."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Join the sentences with *und* and replace the repeated noun with a pronoun.",
+      "prompt": "Mein Kollege hat Geburtstag. Ich schenke meinem Kollegen ein Buch.",
+      "answer": "Mein Kollege hat Geburtstag, und ich schenke ihm ein Buch.",
+      "explanation": "*meinem Kollegen* is masculine Dativ (the receiver), so the pronoun is *ihm*. It stays before the noun object *ein Buch*. The comma before *und* is optional here, because both parts are full main clauses."
+    }
+  ]
+}

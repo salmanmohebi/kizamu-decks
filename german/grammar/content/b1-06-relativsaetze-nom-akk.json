@@ -1,0 +1,708 @@
+{
+  "topic_id": "b1-06-relativsaetze-nom-akk",
+  "level": "B1",
+  "title_de": "Relativsätze (Nominativ + Akkusativ)",
+  "title_en": "Relative clauses (nominative and accusative)",
+  "rule": {
+    "summary": "A **Relativsatz** gives more information about a noun (the *Bezugswort*). It starts with a **relative pronoun** and is a Nebensatz: the finite verb goes to the end, and commas separate it from the main clause. The pronoun takes its **gender and number from the Bezugswort**, but its **case from its role inside the relative clause**: subject → Nominativ, Akkusativ object → Akkusativ. In the Nominativ and Akkusativ the relative pronoun has the same forms as the definite article; only the masculine changes (*der → den*).",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nominativ (Subjekt) | **der** | **die** | **das** | **die** |\n| Akkusativ (Objekt) | **den** | **die** | **das** | **die** |\n| Nom. | der Mann, **der** dort steht | die Frau, **die** hier arbeitet | das Kind, **das** lacht | die Leute, **die** warten |\n| Akk. | der Mann, **den** ich kenne | die Frau, **die** ich kenne | das Kind, **das** ich kenne | die Leute, **die** ich kenne |",
+    "steps": [
+      "Find the Bezugswort and its gender and number: *der Film* → masculine singular.",
+      "Make the second sentence and find the role of the Bezugswort in it: *Wir haben* **den Film** *gesehen* → Akkusativ object.",
+      "Take the pronoun with this gender and this case: masculine Akkusativ → **den**. The case of the Bezugswort in the main clause does not matter.",
+      "Put the relative pronoun at the start of the clause and the finite verb at the end: *…, den wir gesehen* **haben**, …",
+      "Place the Relativsatz directly after the Bezugswort and set it off with commas on both sides. Only a short final part (often a Partizip or infinitive) may come between them: *Ich habe das Buch gelesen, das du mir empfohlen hast.*"
+    ],
+    "pitfalls": [
+      "Taking the case from the main clause: ✗ *Ich suche einen Kollegen, den Spanisch spricht.* → ✓ *…, der Spanisch spricht.* Inside the relative clause he is the subject.",
+      "Using *der* for a masculine object: ✗ *Der Film, der wir gesehen haben, …* → ✓ *Der Film, den wir gesehen haben, …*",
+      "Verb not at the end: ✗ *Das Buch, das ich habe gekauft, …* → ✓ *Das Buch, das ich gekauft habe, …*",
+      "Leaving out the pronoun as in English: ✗ *Die Frau ich kenne arbeitet hier.* → ✓ *Die Frau, die ich kenne, arbeitet hier.*",
+      "Writing *dass* instead of the pronoun *das*: ✗ *das Auto, dass ich fahre* → ✓ *das Auto, das ich fahre*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Der Mann, {{c1::der}} dort steht, ist mein Vater.",
+      "en": "The man who's standing there is my father.",
+      "focus": "Relativsatz · Bezugswort maskulin Sg.",
+      "explanation": "*Mann* is masculine singular. In the relative clause the man is the one who stands, so the pronoun is the subject of *steht* → Nominativ masculine: **der**. The finite verb *steht* goes to the end of the relative clause.",
+      "pattern": "Nomen (m.), **der** + … + Verb, …",
+      "mistake": {"wrong": "Der Mann, den dort steht, ist mein Vater.", "why": "*den* is Akkusativ. The man is the subject of *steht*, so the pronoun must be Nominativ: *der*."},
+      "examples": [
+        {"de": "Der Kellner, der uns bedient, kommt aus Portugal.", "en": "The waiter who is serving us is from Portugal."},
+        {"de": "Der Zug, der gerade ankommt, fährt weiter nach Basel.", "en": "The train that is just arriving goes on to Basel."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die Frau, {{c1::die}} ich kenne, arbeitet hier.",
+      "en": "The woman I know works here.",
+      "focus": "Relativsatz · Bezugswort feminin Sg.",
+      "explanation": "*Frau* is feminine singular. Inside the relative clause the subject is *ich*, and the woman is the Akkusativ object of *kenne*. Feminine Nominativ and Akkusativ are both **die**, so the form does not change.",
+      "pattern": "Nomen (f.), **die** + Subjekt + … + Verb, …",
+      "mistake": {"wrong": "Die Frau ich kenne arbeitet hier.", "why": "English can drop the relative pronoun (\"the woman I know\"), but German cannot. It needs *die* and commas: *Die Frau, die ich kenne, arbeitet hier.*"},
+      "examples": [
+        {"de": "Die Ärztin, die ich empfehle, hat ihre Praxis in der Altstadt.", "en": "The doctor I recommend has her practice in the old town."},
+        {"de": "Die Wohnung, die wir mieten möchten, ist leider zu teuer.", "en": "The flat we would like to rent is unfortunately too expensive."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das Buch, {{c1::das}} ich gestern gekauft habe, ist sehr gut.",
+      "en": "The book I bought yesterday is very good.",
+      "focus": "Relativsatz · Bezugswort neutral · Perfekt",
+      "explanation": "*Buch* is neuter; it is the Akkusativ object of *gekauft habe*. Neuter Nominativ and Akkusativ are both **das**. In the Perfekt the finite auxiliary *habe* goes to the very end, after the Partizip II.",
+      "pattern": "Nomen (n.), **das** + … + Partizip II + habe, …",
+      "mistake": {"wrong": "Das Buch, das ich habe gestern gekauft, ist sehr gut.", "why": "A relative clause is a Nebensatz. The finite verb *habe* must go to the end: *das ich gestern gekauft habe*."},
+      "examples": [
+        {"de": "Das Fahrrad, das ich repariert habe, steht im Keller.", "en": "The bike I repaired is in the basement."},
+        {"de": "Das Rezept, das du mir geschickt hast, ist fantastisch.", "en": "The recipe you sent me is fantastic."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Die Kinder, {{c1::die}} im Garten spielen, sind meine Neffen.",
+      "en": "The children playing in the garden are my nephews.",
+      "focus": "Relativsatz · Bezugswort Plural",
+      "explanation": "*Kinder* is plural, and the children are the ones who play → subject → Nominativ plural **die**. The verb in the relative clause agrees with the plural pronoun: *spielen*.",
+      "pattern": "Nomen (Pl.), **die** + … + Verb (Pl.), …",
+      "mistake": {"wrong": "Die Kinder, die im Garten spielt, sind meine Neffen.", "why": "The relative pronoun *die* refers to the plural *Kinder*, so the verb in the relative clause must be plural: *spielen*."},
+      "examples": [
+        {"de": "Die Studenten, die hier wohnen, kommen aus vielen Ländern.", "en": "The students who live here come from many countries."},
+        {"de": "Die Busse, die nachts fahren, sind oft leer.", "en": "The buses that run at night are often empty."}
+      ],
+      "words": [{"de": "der Neffe (-n)", "en": "nephew"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Der Apfel, {{c1::den}} ich gegessen habe, war sauer.",
+      "en": "The apple I ate was sour.",
+      "focus": "Relativsatz · Bezugswort maskulin · Perfekt",
+      "explanation": "*Apfel* is masculine. In the relative clause *ich* is the subject, and the apple is what I ate → Akkusativ object. Masculine Akkusativ → **den**, even though *der Apfel* is Nominativ in the main clause.",
+      "pattern": "Nomen (m.), **den** + Subjekt + … + Verb, …",
+      "mistake": {"wrong": "Der Apfel, der ich gegessen habe, war sauer.", "why": "The case comes from the relative clause, not from the main clause. *ich* is the subject there, so the apple is the object: *den*."},
+      "examples": [
+        {"de": "Der Wein, den wir probiert haben, kommt aus Südtirol.", "en": "The wine we tasted comes from South Tyrol."},
+        {"de": "Der Pullover, den sie gestrickt hat, ist sehr warm.", "en": "The jumper she knitted is very warm."}
+      ],
+      "words": [{"de": "sauer", "en": "sour"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Das Auto, {{c1::das}} dort steht, gehört mir.",
+      "en": "The car standing there belongs to me.",
+      "focus": "Relativsatz · Bezugswort neutral Sg.",
+      "explanation": "*Auto* is neuter and the subject of *steht* in the relative clause → Nominativ neuter **das**. It is the relative pronoun, so it is written with one *s* (not the conjunction *dass*).",
+      "pattern": "Nomen (n.), **das** + … + Verb, …",
+      "mistake": {"wrong": "Das Auto, dass dort steht, gehört mir.", "why": "*dass* is a conjunction (*Ich weiß, dass …*). A relative pronoun that refers to a neuter noun is *das*. Test: you can replace it with *welches*."},
+      "examples": [
+        {"de": "Das Haus, das an der Ecke steht, ist zu verkaufen.", "en": "The house on the corner is for sale."},
+        {"de": "Das Café, das neben der Uni liegt, ist immer voll.", "en": "The café next to the university is always full."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Die Lehrerin, {{c1::die}} sehr nett ist, unterrichtet Mathe.",
+      "en": "The teacher, who is very nice, teaches maths.",
+      "focus": "Relativsatz · *sein* im Relativsatz",
+      "explanation": "*Lehrerin* is feminine singular and the subject of *ist* → Nominativ **die**. With *sein* the adjective *nett* stays without an ending, and *ist* goes to the end of the relative clause.",
+      "pattern": "Nomen (f.), **die** + Adj + ist, …",
+      "mistake": {"wrong": "Die Lehrerin, die ist sehr nett, unterrichtet Mathe.", "why": "The relative clause is a Nebensatz, so the finite verb *ist* goes to the end: *die sehr nett ist*."},
+      "examples": [
+        {"de": "Die Straße, die sehr eng ist, ist für Lkws gesperrt.", "en": "The street, which is very narrow, is closed to lorries."},
+        {"de": "Die Prüfung, die sehr schwer war, hat er trotzdem bestanden.", "en": "He still passed the exam, which was very difficult."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Der Film, {{c1::den}} wir gestern gesehen haben, war langweilig.",
+      "en": "The film we saw yesterday was boring.",
+      "focus": "Relativsatz · Bezugswort maskulin · Rolle im Relativsatz",
+      "explanation": "Underlying sentence: *Wir haben den Film gestern gesehen.* The film is the Akkusativ object of *sehen*; the subject is *wir*. Masculine Akkusativ → **den**. *haben* goes to the end after *gesehen*.",
+      "pattern": "Nomen (m.), **den** + wir + … + Partizip II + haben, …",
+      "mistake": {"wrong": "Der Film, der wir gestern gesehen haben, war langweilig.", "why": "*der* would make the film the subject. The subject is *wir*, so the film is the object → *den*."},
+      "examples": [
+        {"de": "Der Koffer, den wir verloren haben, ist wieder da.", "en": "The suitcase we lost is back."},
+        {"de": "Der Termin, den ihr vorgeschlagen habt, passt uns gut.", "en": "The date you suggested suits us well."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Der Junge, {{c1::der}} mich gegrüßt hat, wohnt nebenan.",
+      "en": "The boy who greeted me lives next door.",
+      "focus": "Relativsatz · Bezugswort maskulin · Pronomen im Relativsatz",
+      "explanation": "In the relative clause *mich* is already the Akkusativ object, so the boy must be the one who greeted → subject → Nominativ **der**. *Junge* is n-Deklination, but that does not change the relative pronoun.",
+      "pattern": "Nomen (m.), **der** + Akk.-Objekt + … + Verb, …",
+      "mistake": {"wrong": "Der Junge, den mich gegrüßt hat, wohnt nebenan.", "why": "*mich* is already the object. The boy is the subject of *gegrüßt hat*, so the pronoun is Nominativ: *der*."},
+      "examples": [
+        {"de": "Der Nachbar, der uns eingeladen hat, ist Koch.", "en": "The neighbour who invited us is a chef."},
+        {"de": "Der Fahrer, der mich abgeholt hat, war sehr freundlich.", "en": "The driver who picked me up was very friendly."}
+      ],
+      "words": [{"de": "grüßen", "en": "to greet, to say hello to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Die Pizza, {{c1::die}} wir bestellt haben, kommt gleich.",
+      "en": "The pizza we ordered is coming soon.",
+      "focus": "Relativsatz · Bezugswort feminin · Objekt",
+      "explanation": "*Pizza* is feminine. It is the Akkusativ object of *bestellt haben*; *wir* is the subject. Feminine Akkusativ is the same as the Nominativ: **die**.",
+      "pattern": "Nomen (f.), **die** + Subjekt + Partizip II + haben, …",
+      "mistake": {"wrong": "Die Pizza, wir bestellt haben, kommt gleich.", "why": "A German relative clause always needs the relative pronoun: *die wir bestellt haben*."},
+      "examples": [
+        {"de": "Die Jacke, die du trägst, steht dir gut.", "en": "The jacket you're wearing suits you."},
+        {"de": "Die Nachricht, die ich bekommen habe, war kurz.", "en": "The message I received was short."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das Hotel, {{c1::das}} wir gefunden haben, ist sehr schön.",
+      "en": "The hotel we found is very nice.",
+      "focus": "Relativsatz · Bezugswort neutral · Objekt",
+      "explanation": "*das Hotel* is neuter and the Akkusativ object of *gefunden haben*. Neuter Akkusativ = Nominativ → **das**. The main clause continues after the second comma with its verb *ist*.",
+      "pattern": "Nomen (n.), **das** + Subjekt + Partizip II + haben, Verb …",
+      "mistake": {"wrong": "Das Hotel, den wir gefunden haben, ist sehr schön.", "why": "*den* is masculine. The pronoun takes its gender from *das Hotel* (neuter), so it is *das*."},
+      "examples": [
+        {"de": "Das Zimmer, das wir gebucht haben, hat einen Balkon.", "en": "The room we booked has a balcony."},
+        {"de": "Das Geld, das er gespart hat, reicht für ein Auto.", "en": "The money he saved is enough for a car."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Die Frau, {{c1::die}} mich angerufen hat, ist meine Tante.",
+      "en": "The woman who called me is my aunt.",
+      "focus": "Relativsatz · Bezugswort feminin · trennbares Verb",
+      "explanation": "*mich* is the object, so the woman is the subject of *angerufen hat* → feminine Nominativ **die**. In the Nebensatz the separable verb is not split: Partizip II *angerufen* + *hat* at the end.",
+      "pattern": "Nomen (f.), **die** + Objekt + Partizip II + hat, …",
+      "mistake": {"wrong": "Die Frau, die mich hat angerufen, ist meine Tante.", "why": "The finite verb *hat* goes to the end of the relative clause, after the Partizip II: *angerufen hat*."},
+      "examples": [
+        {"de": "Die Kollegin, die mich vertreten hat, ist heute krank.", "en": "The colleague who stood in for me is ill today."},
+        {"de": "Die Firma, die uns beliefert, sitzt in Hamburg.", "en": "The company that supplies us is based in Hamburg."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Der Stuhl, {{c1::den}} ich gekauft habe, ist bequem.",
+      "en": "The chair I bought is comfortable.",
+      "focus": "Relativsatz · Bezugswort maskulin · Objekt",
+      "explanation": "*Stuhl* is masculine. In the relative clause *ich* is the subject and the chair is the thing bought → Akkusativ → **den**.",
+      "pattern": "Nomen (m.), **den** + ich + Partizip II + habe, …",
+      "mistake": {"wrong": "Der Stuhl, der ich gekauft habe, ist bequem.", "why": "There can only be one subject in the relative clause, and it is *ich*. The chair is the Akkusativ object → *den*."},
+      "examples": [
+        {"de": "Der Tisch, den wir bestellt haben, kommt nächste Woche.", "en": "The table we ordered is coming next week."},
+        {"de": "Der Schrank, den er aufgebaut hat, wackelt.", "en": "The wardrobe he assembled wobbles."}
+      ],
+      "words": [{"de": "bequem", "en": "comfortable"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Die Stadt, {{c1::die}} ich besucht habe, war schön.",
+      "en": "The city I visited was beautiful.",
+      "focus": "Relativsatz · Bezugswort feminin · Perfekt",
+      "explanation": "*Stadt* is feminine and the Akkusativ object of *besucht habe* → **die** (feminine Akkusativ = Nominativ). *besuchen* has *be-*, so the Partizip II is *besucht*.",
+      "pattern": "Nomen (f.), **die** + ich + Partizip II + habe, …",
+      "mistake": {"wrong": "Die Stadt, der ich besucht habe, war schön.", "why": "*der* is masculine Nominativ (or feminine Dativ). *Stadt* is feminine and the Akkusativ object of *besuchen*, so the pronoun is *die*."},
+      "examples": [
+        {"de": "Die Insel, die wir entdeckt haben, war fast menschenleer.", "en": "The island we discovered was almost deserted."},
+        {"de": "Die Brücke, die man hier sieht, ist 500 Jahre alt.", "en": "The bridge you can see here is 500 years old."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Das Geschenk, {{c1::das}} sie mir gegeben hat, war wunderbar.",
+      "en": "The gift she gave me was wonderful.",
+      "focus": "Relativsatz · Bezugswort neutral · Dativ im Relativsatz",
+      "explanation": "*Geschenk* is neuter. In the relative clause *sie* is the subject, *mir* is the Dativ object, and the gift is the Akkusativ object of *geben* → neuter Akkusativ **das**.",
+      "pattern": "Nomen (n.), **das** + Subjekt + Dat. + Partizip II + hat, …",
+      "mistake": {"wrong": "Das Geschenk, dem sie mir gegeben hat, war wunderbar.", "why": "*dem* is Dativ, but *mir* is already the Dativ object. The gift is what she gave → Akkusativ *das*."},
+      "examples": [
+        {"de": "Das Foto, das er uns gezeigt hat, war beeindruckend.", "en": "The photo he showed us was impressive."},
+        {"de": "Das Messer, das du mir geliehen hast, ist sehr scharf.", "en": "The knife you lent me is very sharp."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Der Hund, {{c1::der}} dort liegt, ist alt.",
+      "en": "The dog lying there is old.",
+      "focus": "Relativsatz · Bezugswort maskulin · Subjekt",
+      "explanation": "*Hund* is masculine and the subject of *liegt* → Nominativ **der**. English often uses an *-ing* form (\"the dog lying there\"); German needs a full relative clause with a finite verb (formal written German can also put a Partizip I before the noun: *der dort liegende Hund*).",
+      "pattern": "Nomen (m.), **der** + … + Verb, …",
+      "mistake": {"wrong": "Der Hund dort liegend ist alt.", "why": "German does not use an *-ing* form like English here. Use a relative clause: *Der Hund, der dort liegt, ist alt.*"},
+      "examples": [
+        {"de": "Der Mantel, der an der Tür hängt, gehört Paul.", "en": "The coat hanging on the door belongs to Paul."},
+        {"de": "Der Brief, der auf dem Tisch liegt, ist für dich.", "en": "The letter lying on the table is for you."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die Sätze, {{c1::die}} wir lernen, sind nützlich.",
+      "en": "The sentences we are learning are useful.",
+      "focus": "Relativsatz · Bezugswort Plural · Objekt",
+      "explanation": "*Sätze* is plural (from *der Satz*). In the relative clause *wir* is the subject and the sentences are the Akkusativ object of *lernen*. The plural Akkusativ pronoun is **die**, the same as the Nominativ.",
+      "pattern": "Nomen (Pl.), **die** + Subjekt + Verb, …",
+      "mistake": {"wrong": "Die Sätze, den wir lernen, sind nützlich.", "why": "*den* is masculine singular. *der Satz* is masculine, but here the Bezugswort is the plural *Sätze*, and the plural pronoun is always *die*."},
+      "examples": [
+        {"de": "Die Wörter, die du notiert hast, sind wichtig.", "en": "The words you noted down are important."},
+        {"de": "Die Regeln, die wir besprechen, gelten ab Januar.", "en": "The rules we are discussing apply from January."}
+      ],
+      "words": [{"de": "nützlich", "en": "useful"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das Lied, {{c1::das}} ich höre, gefällt mir.",
+      "en": "I like the song I'm listening to.",
+      "focus": "Relativsatz · Bezugswort neutral · Präsens",
+      "explanation": "*Lied* is neuter and the Akkusativ object of *höre* → **das**. In the main clause the song is the subject of *gefällt* (*gefallen* + Dativ: *mir*); this is why the English sentence starts with \"I like\".",
+      "pattern": "Nomen (n.), **das** + ich + Verb, Verb …",
+      "mistake": {"wrong": "Das Lied, was ich höre, gefällt mir.", "why": "After a concrete noun the relative pronoun is *das*. *was* is used after *alles, nichts, etwas* or a whole clause (*Das ist alles, was ich weiß.*)."},
+      "examples": [
+        {"de": "Das Programm, das ich benutze, ist kostenlos.", "en": "The program I use is free."},
+        {"de": "Das Kleid, das sie anprobiert, ist zu groß.", "en": "The dress she is trying on is too big."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Der Bus, {{c1::der}} um acht kommt, fährt zum Bahnhof.",
+      "en": "The bus that comes at eight goes to the station.",
+      "focus": "Relativsatz · Bezugswort maskulin · Zeitangabe",
+      "explanation": "*Bus* is masculine and the subject of *kommt* → Nominativ **der**. The relative clause stands directly after *der Bus*, and the main-clause verb *fährt* follows the second comma.",
+      "pattern": "Nomen (m.), **der** + Zeit + Verb, Verb …",
+      "mistake": {"wrong": "Der Bus, der kommt um acht, fährt zum Bahnhof.", "why": "In the relative clause the finite verb goes to the end: *der um acht kommt*."},
+      "examples": [
+        {"de": "Der Flug, der um sechs startet, ist ausgebucht.", "en": "The flight that leaves at six is fully booked."},
+        {"de": "Der Kurs, der montags stattfindet, ist für Anfänger.", "en": "The course that takes place on Mondays is for beginners."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Die Bücher, {{c1::die}} ich gelesen habe, waren spannend.",
+      "en": "The books I read were exciting.",
+      "focus": "Relativsatz · Bezugswort Plural · Perfekt",
+      "explanation": "*Bücher* is plural and the Akkusativ object of *gelesen habe* → plural **die**. The auxiliary *habe* agrees with the subject *ich* of the relative clause, not with *Bücher*.",
+      "pattern": "Nomen (Pl.), **die** + ich + Partizip II + habe, …",
+      "mistake": {"wrong": "Die Bücher, die ich gelesen haben, waren spannend.", "why": "The subject of the relative clause is *ich*, so the verb is *habe*. The pronoun *die* here is the object and does not decide the verb form."},
+      "examples": [
+        {"de": "Die Fotos, die ich gemacht habe, sind unscharf.", "en": "The photos I took are blurry."},
+        {"de": "Die Schuhe, die er gekauft hat, waren im Angebot.", "en": "The shoes he bought were on sale."}
+      ],
+      "words": [{"de": "spannend", "en": "exciting, gripping"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Ich suche einen Mitarbeiter, {{c1::der}} gut Spanisch spricht.",
+      "en": "I'm looking for an employee who speaks good Spanish.",
+      "focus": "Relativsatz · Bezugswort im Akkusativ",
+      "explanation": "In the main clause *einen Mitarbeiter* is Akkusativ (object of *suchen*). But the case of the pronoun comes from the relative clause: the employee is the one who speaks → subject → masculine Nominativ **der**.",
+      "pattern": "… + Akk.-Nomen (m.), **der** + … + Verb.",
+      "mistake": {"wrong": "Ich suche einen Mitarbeiter, den gut Spanisch spricht.", "why": "Do not copy the case of *einen Mitarbeiter*. Inside the relative clause he is the subject of *spricht* → *der*."},
+      "examples": [
+        {"de": "Wir brauchen einen Techniker, der am Wochenende arbeiten kann.", "en": "We need a technician who can work at weekends."},
+        {"de": "Ich kenne einen Friseur, der sonntags geöffnet hat.", "en": "I know a hairdresser who is open on Sundays."}
+      ],
+      "words": [{"de": "der Mitarbeiter (-)", "en": "employee"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Wir haben einen Nachbarn, {{c1::den}} niemand mag.",
+      "en": "We have a neighbour nobody likes.",
+      "focus": "Relativsatz · Subjekt *niemand*",
+      "explanation": "In the relative clause *niemand* is the subject of *mag* (singular). The neighbour is the one who is liked → Akkusativ object → masculine **den**. The pronoun always stands first, even when it is the object.",
+      "pattern": "Nomen (m.), **den** + Subjekt + Verb.",
+      "mistake": {"wrong": "Wir haben einen Nachbarn, den niemand mag ihn.", "why": "The relative pronoun *den* already stands for the neighbour as the object. German does not repeat the object with *ihn*."},
+      "examples": [
+        {"de": "Er hat einen Plan, den keiner versteht.", "en": "He has a plan that nobody understands."},
+        {"de": "Das ist ein Fehler, den jeder macht.", "en": "That is a mistake everybody makes."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das ist eine Aufgabe, {{c1::die}} man schnell erledigen kann.",
+      "en": "That is a task that can be done quickly.",
+      "focus": "Relativsatz · Modalverb am Ende",
+      "explanation": "*Aufgabe* is feminine and the Akkusativ object of *erledigen* (subject: *man*) → **die**. With a modal verb the finite modal goes to the very end of the relative clause: *erledigen kann*.",
+      "pattern": "Nomen (f.), **die** + man + Infinitiv + Modalverb.",
+      "mistake": {"wrong": "Das ist eine Aufgabe, die man kann schnell erledigen.", "why": "In the Nebensatz the finite modal verb *kann* goes after the infinitive, to the very end."},
+      "examples": [
+        {"de": "Das ist eine Sprache, die man leicht lernen kann.", "en": "That is a language you can learn easily."},
+        {"de": "Er schreibt eine Mail, die niemand lesen will.", "en": "He is writing an email that nobody wants to read."}
+      ],
+      "words": [{"de": "erledigen", "en": "to get done"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Schuhe, {{c1::die}} ich letzte Woche gekauft habe, drücken schon.",
+      "en": "The shoes I bought last week are already pinching.",
+      "focus": "Relativsatz · Bezugswort Plural · Zeitangabe",
+      "explanation": "*Schuhe* is plural and the Akkusativ object of *gekauft habe* → plural **die**. The main-clause verb *drücken* is plural because its subject is *die Schuhe*.",
+      "pattern": "Nomen (Pl.), **die** + … + Partizip II + habe, Verb (Pl.) …",
+      "mistake": {"wrong": "Die Schuhe, den ich letzte Woche gekauft habe, drücken schon.", "why": "*der Schuh* is masculine, but *Schuhe* is plural here. In the plural the relative pronoun is *die* for all genders."},
+      "examples": [
+        {"de": "Die Tomaten, die wir im Garten gepflanzt haben, sind reif.", "en": "The tomatoes we planted in the garden are ripe."},
+        {"de": "Die Möbel, die sie verkauft, sind sehr alt.", "en": "The furniture she sells is very old."}
+      ],
+      "words": [{"de": "drücken", "en": "to pinch (shoes), to press"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Das Formular, {{c1::das}} Sie ausfüllen müssen, liegt am Empfang.",
+      "en": "The form you have to fill in is at the reception.",
+      "focus": "Relativsatz · Bezugswort neutral · formelle Anrede",
+      "explanation": "*Formular* is neuter and the Akkusativ object of *ausfüllen* (subject: *Sie*) → **das**. In the Nebensatz the separable verb stays together, *ausfüllen*, and the modal *müssen* is last.",
+      "pattern": "Nomen (n.), **das** + Sie + Infinitiv + müssen, …",
+      "mistake": {"wrong": "Das Formular, das Sie müssen ausfüllen, liegt am Empfang.", "why": "The finite verb *müssen* goes to the end of the relative clause: *das Sie ausfüllen müssen*."},
+      "examples": [
+        {"de": "Das Dokument, das Sie unterschreiben müssen, liegt bei.", "en": "The document you have to sign is enclosed."},
+        {"de": "Das Medikament, das Sie nehmen sollen, ist rezeptfrei.", "en": "The medicine you should take is available without a prescription."}
+      ],
+      "words": [{"de": "das Formular (-e)", "en": "form"}, {"de": "der Empfang", "en": "reception (desk)"}],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Arzt, {{c1::den}} meine Mutter empfohlen hat, nimmt keine neuen Patienten mehr.",
+      "en": "The doctor my mother recommended isn't taking any new patients.",
+      "focus": "Relativsatz · Bezugswort maskulin · Nomen als Subjekt",
+      "explanation": "In the relative clause *meine Mutter* is the subject of *empfohlen hat*; the doctor is the one recommended → Akkusativ → **den**. Because *meine Mutter* (feminine) looks the same in Nominativ and Akkusativ, only the masculine pronoun shows who does what.",
+      "pattern": "Nomen (m.), **den** + Nomen (Subjekt) + Partizip II + hat, …",
+      "mistake": {"wrong": "Der Arzt, die meine Mutter empfohlen hat, nimmt keine neuen Patienten mehr.", "why": "The pronoun takes its gender from the Bezugswort *der Arzt*, not from the nearest noun *meine Mutter*. Masculine object → *den*."},
+      "examples": [
+        {"de": "Der Roman, den meine Schwester geschrieben hat, wird verfilmt.", "en": "The novel my sister wrote is being made into a film."},
+        {"de": "Der Lehrer, den die Schüler gewählt haben, bekommt einen Preis.", "en": "The teacher the pupils chose is getting an award."}
+      ],
+      "words": [{"de": "empfehlen", "en": "to recommend"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ist das der Schlüssel, {{c1::den}} Sie suchen?",
+      "en": "Is this the key you're looking for?",
+      "focus": "Relativsatz · Bezugswort nach *sein*",
+      "explanation": "*der Schlüssel* is Nominativ in the main clause (after *ist*), but in the relative clause it is the Akkusativ object of *suchen* → masculine **den**. The subject of the relative clause is *Sie*.",
+      "pattern": "Ist das + Nomen (m.), **den** + Subjekt + Verb?",
+      "mistake": {"wrong": "Ist das der Schlüssel, der Sie suchen?", "why": "*der* would make the key the subject (and would need *sucht*). The key is the thing you are looking for → Akkusativ *den*."},
+      "examples": [
+        {"de": "Ist das der Weg, den wir nehmen müssen?", "en": "Is this the way we have to take?"},
+        {"de": "Ist das der Laptop, den du verkaufen willst?", "en": "Is that the laptop you want to sell?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Die Gäste, {{c1::die}} gestern angekommen sind, wohnen im Hotel am See.",
+      "en": "The guests who arrived yesterday are staying at the hotel by the lake.",
+      "focus": "Relativsatz · Plural · Perfekt mit *sein*",
+      "explanation": "*Gäste* is plural and the subject of *angekommen sind* → plural Nominativ **die**. *ankommen* forms the Perfekt with *sein*, and the plural auxiliary *sind* goes to the end.",
+      "pattern": "Nomen (Pl.), **die** + Zeit + Partizip II + sind, …",
+      "mistake": {"wrong": "Die Gäste, die gestern sind angekommen, wohnen im Hotel am See.", "why": "The relative clause is a Nebensatz, so the finite auxiliary *sind* goes to the very end, after the Partizip II: *die gestern angekommen sind*."},
+      "examples": [
+        {"de": "Die Flüchtlinge, die im Sommer gekommen sind, lernen jetzt Deutsch.", "en": "The refugees who came in the summer are now learning German."},
+        {"de": "Die Pakete, die heute angekommen sind, stehen im Flur.", "en": "The parcels that arrived today are in the hall."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Ich hoffe, dass dir das Geschenk gefällt, {{c1::das}} ich ausgesucht habe.",
+      "en": "I hope you like the present I chose.",
+      "focus": "Relativsatz im Nachfeld · *das* oder *dass*",
+      "explanation": "The sentence has both words. *dass* (with *ss*) is the conjunction after *hoffen*. *das* (one *s*) is the relative pronoun for *das Geschenk*, Akkusativ object of *ausgesucht habe*. The relative clause can move after *gefällt* (Nachfeld) because only the verb stands between it and the noun; *dass dir das Geschenk, das ich ausgesucht habe, gefällt* is also correct.",
+      "pattern": "…, dass … Nomen (n.) + Verb, **das** + … + Partizip II + habe.",
+      "mistake": {"wrong": "Ich hoffe, dass dir das Geschenk gefällt, dass ich ausgesucht habe.", "why": "The second word refers to the noun *das Geschenk*, so it is the relative pronoun *das*. *dass* never refers to a noun."},
+      "examples": [
+        {"de": "Ich glaube, dass dir das Buch gefällt, das ich mitgebracht habe.", "en": "I think you'll like the book I brought."},
+        {"de": "Ich glaube, dass das Hotel teuer ist, das du gebucht hast.", "en": "I think the hotel you booked is expensive."}
+      ],
+      "words": [{"de": "aussuchen", "en": "to choose, to pick out"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Mein Bruder hat ein Auto, {{c1::das}} fast kein Benzin verbraucht.",
+      "en": "My brother has a car that uses almost no petrol.",
+      "focus": "Relativsatz am Satzende · Bezugswort neutral",
+      "explanation": "*ein Auto* is neuter. In the relative clause it is the subject of *verbraucht*, and *kein Benzin* is the object → Nominativ neuter **das**. The relative clause comes at the end, so there is only one comma.",
+      "pattern": "… + Nomen (n.), **das** + Objekt + Verb.",
+      "mistake": {"wrong": "Mein Bruder hat ein Auto, das fast kein Benzin verbrauchen.", "why": "The relative pronoun *das* is singular, so the verb in the relative clause is singular: *verbraucht*."},
+      "examples": [
+        {"de": "Sie hat ein Handy, das zwei Tage ohne Aufladen läuft.", "en": "She has a phone that runs for two days without charging."},
+        {"de": "Wir kaufen ein Sofa, das man ausziehen kann.", "en": "We're buying a sofa that pulls out into a bed."}
+      ],
+      "words": [{"de": "verbrauchen", "en": "to use, to consume"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Wir suchen eine Wohnung, {{c1::die}} nicht mehr als 900 Euro kostet.",
+      "en": "We're looking for a flat that costs no more than 900 euros.",
+      "focus": "Relativsatz · Bezugswort feminin · Subjekt",
+      "explanation": "*eine Wohnung* is feminine. In the relative clause it is the subject of *kostet* → feminine Nominativ **die**. The amount *900 Euro* is not an object here, it is the price.",
+      "pattern": "… + Nomen (f.), **die** + … + Verb.",
+      "mistake": {"wrong": "Wir suchen eine Wohnung, die kostet nicht mehr als 900 Euro.", "why": "In a relative clause the finite verb goes to the end: *die nicht mehr als 900 Euro kostet*."},
+      "examples": [
+        {"de": "Ich brauche eine Lampe, die mehr Licht gibt.", "en": "I need a lamp that gives more light."},
+        {"de": "Sie sucht eine Stelle, die besser bezahlt wird.", "en": "She is looking for a job that pays better."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich habe den Zug, {{c1::der}} um sieben abfährt, leider verpasst.",
+      "en": "Unfortunately I missed the train that leaves at seven.",
+      "focus": "Relativsatz im Mittelfeld · Bezugswort im Akkusativ",
+      "explanation": "*den Zug* is the Akkusativ object of *verpasst* in the main clause. In the relative clause, however, the train is the subject of *abfährt* → masculine Nominativ **der**. The relative clause stands right after *den Zug*, inside the Satzklammer *habe … verpasst*.",
+      "pattern": "… den + Nomen, **der** + … + Verb, … + Partizip II.",
+      "mistake": {"wrong": "Ich habe den Zug, den um sieben abfährt, leider verpasst.", "why": "*den* copies the case of the main clause. In the relative clause the train is the subject of *abfährt* → *der*."},
+      "examples": [
+        {"de": "Er hat den Bus, der zum Flughafen fährt, genommen.", "en": "He took the bus that goes to the airport."},
+        {"de": "Sie hat den Kollegen, der neu im Team ist, zum Essen eingeladen.", "en": "She invited the colleague who is new in the team to lunch."}
+      ],
+      "words": [{"de": "verpassen", "en": "to miss (a train, a chance)"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about how the relative pronoun is chosen.",
+      "prompt": "What decides the gender and number of a relative pronoun, and what decides its case?",
+      "answer": "**Gender and number** come from the Bezugswort (the noun before the comma). The **case** comes from the pronoun's role **inside the relative clause** (subject → Nominativ, Akkusativ object → Akkusativ).",
+      "explanation": "The case of the noun in the main clause is irrelevant. Method: rebuild the relative clause as a main clause with the noun (*Ich kenne den Mann*) and look at its case.",
+      "examples": [
+        {"de": "Ich treffe den Mann, der den Kurs leitet.", "en": "I'm meeting the man who runs the course."},
+        {"de": "Der Mann, den ich treffe, leitet den Kurs.", "en": "The man I'm meeting runs the course."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the forms.",
+      "prompt": "In which gender do the Nominativ and Akkusativ relative pronouns differ?",
+      "answer": "Only in the **masculine singular**: Nominativ **der**, Akkusativ **den**. Feminine (*die*), neuter (*das*) and plural (*die*) have the same form in both cases.",
+      "explanation": "So with masculine nouns you must always check the role in the relative clause. With other nouns the form is the same, but the meaning can still depend on the role (who does what).",
+      "examples": [
+        {"de": "Das ist der Kunde, der immer reklamiert.", "en": "That is the customer who always complains."},
+        {"de": "Das ist der Kunde, den ich nicht leiden kann.", "en": "That is the customer I can't stand."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about word order and commas.",
+      "prompt": "Where do the finite verb, the commas and the relative clause itself go?",
+      "answer": "The relative pronoun is first, the **finite verb is last** (*…, das ich gekauft* **habe**). The clause has **commas on both sides** and stands **directly after its Bezugswort**; only a short final part (e.g. a Partizip II) may come between them.",
+      "explanation": "In the middle of a sentence the relative clause is like a bracket: comma before, comma after, then the main clause continues. At the end of the sentence there is only the comma before it.",
+      "examples": [
+        {"de": "Die Tasche, die ich verloren habe, war neu.", "en": "The bag I lost was new."},
+        {"de": "Ich habe die Tasche gefunden, die ich verloren hatte.", "en": "I found the bag I had lost."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference between the two spellings.",
+      "prompt": "How do you tell the relative pronoun *das* from the conjunction *dass*?",
+      "answer": "**das** refers back to a neuter noun and can be replaced by *welches* (*das Haus, das/welches …*). **dass** is a conjunction after verbs like *sagen, hoffen, wissen* and does not refer to a noun.",
+      "explanation": "If *welches* (relative pronoun) or *dieses/dies* (article, demonstrative) fits, write *das*. If neither fits, it is the conjunction *dass*.",
+      "examples": [
+        {"de": "Das Haus, das wir gekauft haben, ist alt.", "en": "The house we bought is old."},
+        {"de": "Ich weiß, dass das Haus alt ist.", "en": "I know that the house is old."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Compare with English.",
+      "prompt": "In English we can say \"the film I saw\". What is different in German?",
+      "answer": "German **never leaves out** the relative pronoun: *der Film,* **den** *ich gesehen habe*. It also does not use *-ing* forms after the noun like \"the man standing there\"; it uses a full relative clause: *der Mann, der dort steht*.",
+      "explanation": "Every German relative clause therefore has three visible features: comma, relative pronoun, finite verb at the end.",
+      "examples": [
+        {"de": "Die Musik, die du hörst, ist zu laut.", "en": "The music you're listening to is too loud."},
+        {"de": "Die Frau, die neben dir sitzt, ist meine Chefin.", "en": "The woman sitting next to you is my boss."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause.",
+      "prompt": "Das ist der Kollege. Er hat mir beim Umzug geholfen.",
+      "answer": "Das ist der Kollege, der mir beim Umzug geholfen hat.",
+      "explanation": "*er* is the subject of the second sentence → masculine Nominativ *der*. The finite verb *hat* moves to the end of the relative clause."
+    },
+    {
+      "key": "d07",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and put it after *Der Laptop*.",
+      "prompt": "Der Laptop ist kaputt. Ich habe ihn letztes Jahr gekauft.",
+      "answer": "Der Laptop, den ich letztes Jahr gekauft habe, ist kaputt.",
+      "explanation": "*ihn* is the Akkusativ object → masculine Akkusativ *den*. The relative clause goes directly after *Der Laptop*, with commas on both sides, and *habe* goes to the end."
+    },
+    {
+      "key": "d08",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause.",
+      "prompt": "Wir besichtigen eine Wohnung. Sie hat drei Zimmer und einen Balkon.",
+      "answer": "Wir besichtigen eine Wohnung, die drei Zimmer und einen Balkon hat.",
+      "explanation": "*sie* refers to *eine Wohnung* and is the subject → feminine Nominativ *die*. The verb *hat* moves to the end of the relative clause."
+    },
+    {
+      "key": "d09",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and put it after *Die Studenten*.",
+      "prompt": "Die Studenten schreiben morgen eine Prüfung. Ich unterrichte sie.",
+      "answer": "Die Studenten, die ich unterrichte, schreiben morgen eine Prüfung.",
+      "explanation": "*sie* is the plural Akkusativ object of *unterrichte* → plural *die*. The relative clause goes between the subject *Die Studenten* and the main-clause verb *schreiben*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Mann, den dort wartet, ist mein Chef.",
+      "answer": "Der Mann, der dort wartet, ist mein Chef.",
+      "explanation": "The man is the one who waits → subject of *wartet* → Nominativ *der*. *den* would be an object, but the relative clause has no other subject."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Handy, das ich habe gestern gekauft, funktioniert nicht.",
+      "answer": "Das Handy, das ich gestern gekauft habe, funktioniert nicht.",
+      "explanation": "The relative clause is a Nebensatz, so the finite auxiliary *habe* must stand at the end, after the Partizip II *gekauft*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich lese gerade das Buch, dass du mir geschenkt hast.",
+      "answer": "Ich lese gerade das Buch, das du mir geschenkt hast.",
+      "explanation": "The word refers to the neuter noun *das Buch* (you can say *welches*), so it is the relative pronoun *das*, not the conjunction *dass*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Pullover, der ich trage, ist von meiner Oma.",
+      "answer": "Der Pullover, den ich trage, ist von meiner Oma.",
+      "explanation": "*ich* is the subject of *trage*, so the pullover is the Akkusativ object. Masculine Akkusativ → *den*."
+    },
+    {
+      "key": "d14",
+      "type": "choice",
+      "instruction": "Choose the correct relative pronoun.",
+      "prompt": "Wie heißt der Sänger, ___ du so gern hörst?",
+      "options": ["der", "den", "die", "das"],
+      "correct": "den",
+      "answer": "Wie heißt der Sänger, den du so gern hörst?",
+      "explanation": "*du* is the subject of *hörst*; the singer is the Akkusativ object → masculine *den*. *der* would make the singer the subject, and *die* and *das* do not match the masculine *Sänger*."
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct relative pronoun.",
+      "prompt": "Kennst du die Leute, ___ neben uns wohnen?",
+      "options": ["die", "der", "den", "denen"],
+      "correct": "die",
+      "answer": "Kennst du die Leute, die neben uns wohnen?",
+      "explanation": "*Leute* is plural and the subject of *wohnen* → plural Nominativ *die*. *der* and *den* are masculine singular, and *denen* is the Dativ plural, which is not needed here."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das ist",
+      "prompt": "der Film / ich / sehen will / den / das ist",
+      "answer": "Das ist der Film, den ich sehen will.",
+      "explanation": "The main clause *Das ist der Film* comes first, then a comma and the relative clause. *den* is the object of *sehen*; the modal *will* is last."
+    },
+    {
+      "key": "d17",
+      "type": "transform",
+      "instruction": "Replace *der Bus* with *die Straßenbahn*. Adjust the relative pronoun.",
+      "prompt": "Der Bus, der um acht kommt, ist immer voll.",
+      "answer": "Die Straßenbahn, die um acht kommt, ist immer voll.",
+      "explanation": "The pronoun takes its gender from the new Bezugswort: *die Straßenbahn* is feminine. It is still the subject of *kommt*, so feminine Nominativ → *die*."
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Make the Bezugswort plural (*das Kind → die Kinder*). Change all verbs that need it.",
+      "prompt": "Das Kind, das ich betreue, ist fünf Jahre alt.",
+      "answer": "Die Kinder, die ich betreue, sind fünf Jahre alt.",
+      "explanation": "The plural relative pronoun is *die*. *betreue* stays, because its subject is *ich*. Only the main-clause verb changes: *ist → sind*, because its subject is now plural."
+    }
+  ]
+}

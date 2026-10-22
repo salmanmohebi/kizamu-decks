@@ -1,0 +1,983 @@
+{
+  "topic_id": "a1-03-regelmaessige-verben",
+  "level": "A1",
+  "title_de": "Regelmäßige Verben (Präsens)",
+  "title_en": "Regular verbs in the present tense",
+  "rule": {
+    "summary": "Most German verbs are regular in the Präsens: take the **stem** (the infinitive minus *-en*, or minus *-n* for verbs in *-eln/-ern*) and add the personal ending **-e, -st, -t, -en, -t, -en**. The *wir*- and *sie/Sie*-forms look like the infinitive. German has only one present tense: *Ich lerne* means 'I learn', 'I am learning' and often also 'I will learn'. A few spelling rules add or drop an *e* after certain stems.",
+    "table": "| Person | Endung | machen | arbeiten | reisen | feiern |\n|---|---|---|---|---|---|\n| ich | -e | mach**e** | arbeit**e** | reis**e** | feier**e** |\n| du | -st | mach**st** | arbeit**est** | reis**t** | feier**st** |\n| er/sie/es | -t | mach**t** | arbeit**et** | reis**t** | feier**t** |\n| wir | -en | mach**en** | arbeit**en** | reis**en** | feier**n** |\n| ihr | -t | mach**t** | arbeit**et** | reis**t** | feier**t** |\n| sie/Sie | -en | mach**en** | arbeit**en** | reis**en** | feier**n** |",
+    "steps": [
+      "Find the stem: infinitive minus *-en* (*lernen → lern-*), or minus *-n* for verbs in *-eln/-ern* (*sammeln → sammel-, feiern → feier-*).",
+      "Choose the ending for the subject. A singular noun subject takes the *er*-form (*meine Mutter kocht*); a plural noun takes the *sie*-form (*die Kinder spielen*).",
+      "Stem in *-t* or *-d*, or in a consonant + *m/n* (*öffnen, atmen, rechnen, zeichnen*) → insert **-e-** before *-st* and *-t*: *du arbeitest, er redet, ihr öffnet*. No *-e-* after *l, r, h* or a vowel + *n* (*du lernst, er wohnt, sie weint*).",
+      "Stem in *-s, -ß, -x, -z* → the *du*-form adds only **-t**: *du reist, du heißt, du tanzt*.",
+      "Verbs in *-eln* drop the *e* in the *ich*-form (*ich sammle*). Verbs in *-eln/-ern* add only **-n** for *wir* and *sie/Sie* (*wir sammeln, wir feiern*).",
+      "Put the verb in position 2 in statements and W-questions, and in position 1 in yes/no questions. German needs no helper verb like English *do*."
+    ],
+    "pitfalls": [
+      "Missing *-e-* after *-t/-d*: ✗ *du arbeitst, er redt* → ✓ *du arbeitest, er redet*.",
+      "Double *s* in the *du*-form: ✗ *du tanzst, du reisst* → ✓ *du tanzt, du reist*.",
+      "Copying English *do*: ✗ *Tust du Fußball spielen?* → ✓ *Spielst du Fußball?*",
+      "Copying the English progressive: ✗ *Ich bin lernen Deutsch.* → ✓ *Ich lerne Deutsch.*",
+      "Wrong forms of *-ern/-eln* verbs: ✗ *wir feieren, ich sammel* → ✓ *wir feiern, ich sammle*."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich {{c1::lerne::lernen}} Deutsch.",
+      "en": "I'm learning German.",
+      "focus": "*ich*-Form · Stamm + Endung",
+      "explanation": "Stem: *lernen* minus *-en* → *lern-*. The *ich*-ending is **-e** → **lerne**. German has only one present tense, so *Ich lerne Deutsch* means both 'I learn German' and 'I am learning German'.",
+      "pattern": "ich + Stamm-**e**",
+      "mistake": {"wrong": "Ich lernen Deutsch.", "why": "*lernen* is the infinitive. With *ich* the verb needs the ending *-e*: *ich lerne*."},
+      "examples": [
+        {"de": "Ich lerne jeden Abend Vokabeln.", "en": "I learn vocabulary every evening."},
+        {"de": "Ich koche heute Abend.", "en": "I'm cooking tonight."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Du {{c1::wohnst::wohnen}} in Berlin.",
+      "en": "You live in Berlin.",
+      "focus": "*du*-Form",
+      "explanation": "Stem *wohn-* + the *du*-ending **-st** → **wohnst**. *wohnen* means 'to live' in the sense of having your home somewhere; *leben* is 'to live' in general (*Er lebt gesund.*).",
+      "pattern": "du + Stamm-**st**",
+      "mistake": {"wrong": "Du wohnt in Berlin.", "why": "*-t* is the ending for *er/sie/es* and *ihr*. *du* always needs *-st*: *du wohnst*."},
+      "examples": [
+        {"de": "Du wohnst in einer schönen Gegend.", "en": "You live in a nice area."},
+        {"de": "Du kochst sehr gut.", "en": "You cook very well."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Er {{c1::spielt::spielen}} Fußball.",
+      "en": "He plays football.",
+      "focus": "*er*-Form",
+      "explanation": "Stem *spiel-* + the *er/sie/es*-ending **-t** → **spielt**. With sports and games German uses *spielen* + noun without an article: *Fußball spielen, Tennis spielen, Schach spielen*.",
+      "pattern": "er + Stamm-**t**",
+      "mistake": {"wrong": "Er spielen Fußball.", "why": "*spielen* is the infinitive (and the *wir/sie*-form). For *er* the ending is *-t*: *er spielt*."},
+      "examples": [
+        {"de": "Sie spielt Volleyball.", "en": "She plays volleyball."},
+        {"de": "Mein Sohn spielt gern Schach.", "en": "My son likes playing chess."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Wir {{c1::machen::to make, to do}} eine Pause.",
+      "en": "We're taking a break.",
+      "focus": "*wir*-Form",
+      "explanation": "The *wir*-form is stem + **-en**: *mach-* + *-en* → **machen**, the same as the infinitive. German says *eine Pause machen* for 'to take a break'.",
+      "pattern": "wir + Stamm-**en**",
+      "mistake": {"wrong": "Wir macht eine Pause.", "why": "*-t* is the ending for *er* and *ihr*. *wir* takes *-en*: *wir machen*."},
+      "examples": [
+        {"de": "Wir machen jetzt Feierabend.", "en": "We're finishing work for the day now."},
+        {"de": "Wir machen am Samstag einen Ausflug.", "en": "We are going on a trip on Saturday."}
+      ],
+      "words": [{"de": "eine Pause machen", "en": "to take a break"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ihr {{c1::hört::hören}} gern Musik.",
+      "en": "You (all) like listening to music.",
+      "focus": "*ihr*-Form · *gern*",
+      "explanation": "The *ihr*-form is stem + **-t**: *hör-* + *-t* → **hört**. It looks the same as the *er*-form; the subject shows the person. *gern* after the verb means 'like doing': *gern hören* = 'like listening'.",
+      "pattern": "ihr + Stamm-**t** + gern",
+      "mistake": {"wrong": "Ihr hören gern Musik.", "why": "*hören* is the *wir/sie*-form. *ihr* takes *-t*: *ihr hört*."},
+      "examples": [
+        {"de": "Ihr kocht gern italienisch.", "en": "You (all) like cooking Italian food."},
+        {"de": "Ihr spielt gern Karten.", "en": "You (all) like playing cards."}
+      ],
+      "words": [{"de": "gern + Verb", "en": "to like doing something"}],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Sie {{c1::kaufen::to buy}} Brot und Käse.",
+      "en": "They buy bread and cheese.",
+      "focus": "*sie* (Plural)",
+      "explanation": "*Sie* + **kaufen** (stem + *-en*) means 'they' (or formal 'you'). With 'she' the verb would be *kauft*. The plural form is identical to the infinitive.",
+      "pattern": "sie (= they) + Stamm-**en**",
+      "mistake": {"wrong": "Sie kaufst Brot und Käse.", "why": "*-st* is only for *du*. 'They' takes *-en*: *sie kaufen*."},
+      "examples": [
+        {"de": "Sie kaufen jeden Samstag frisches Obst.", "en": "They buy fresh fruit every Saturday."},
+        {"de": "Die Touristen kaufen Souvenirs.", "en": "The tourists are buying souvenirs."}
+      ],
+      "words": [],
+      "production_cue": "(they)",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Ich {{c1::komme::kommen}} aus dem Iran.",
+      "en": "I come from Iran.",
+      "focus": "*ich*-Form · Herkunft",
+      "explanation": "*kommen* has irregular past forms (*kam, gekommen*), but in the Präsens it is completely regular: *komm-* + *-e* → **komme**. *aus* + country gives the origin; *der Iran* keeps its article → *aus dem Iran*.",
+      "pattern": "ich + Stamm-**e** + aus + Land",
+      "mistake": {"wrong": "Ich kommt aus dem Iran.", "why": "*-t* belongs to *er/sie/es* and *ihr*. With *ich* the ending is *-e*: *ich komme*."},
+      "examples": [
+        {"de": "Ich komme aus Brasilien.", "en": "I come from Brazil."},
+        {"de": "Woher kommst du?", "en": "Where do you come from?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "{{c1::Brauchst::brauchen}} du Hilfe?",
+      "en": "Do you need help?",
+      "focus": "Ja/Nein-Frage · *du*",
+      "explanation": "In a yes/no question the conjugated verb comes first. German needs no helper verb like English *do*: the main verb itself moves to position 1. *brauch-* + *-st* → **Brauchst**.",
+      "pattern": "Stamm-**st** + du + …?",
+      "mistake": {"wrong": "Brauchen du Hilfe?", "why": "The verb must be conjugated also in a question. With *du* it ends in *-st*: *Brauchst du …?*"},
+      "examples": [
+        {"de": "Brauchst du einen Stift?", "en": "Do you need a pen?"},
+        {"de": "Brauchst du das Auto heute?", "en": "Do you need the car today?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Sie {{c1::fragt::fragen}} den Lehrer.",
+      "en": "She asks the teacher.",
+      "focus": "*sie* (Singular) + Objekt",
+      "explanation": "*fragt* (stem *frag-* + *-t*) shows that *Sie* means 'she'. The person you ask is an Akkusativ object after *fragen*: *den Lehrer*.",
+      "pattern": "sie (= she) + Stamm-**t** + Akkusativ",
+      "mistake": {"wrong": "Sie fragst den Lehrer.", "why": "*-st* is the *du*-ending. For 'she' the verb ends in *-t*: *sie fragt*."},
+      "examples": [
+        {"de": "Sie fragt den Busfahrer nach dem Weg.", "en": "She asks the bus driver for directions."},
+        {"de": "Er fragt seine Kollegin.", "en": "He asks his colleague."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Wir {{c1::lernen::to learn}} jeden Tag.",
+      "en": "We learn every day.",
+      "focus": "*wir*-Form · Zeitangabe",
+      "explanation": "*wir* → stem + **-en** → **lernen**. *jeden Tag* is a time expression in the Akkusativ without a preposition; it stands after the verb.",
+      "pattern": "wir + Stamm-**en** + Zeitangabe",
+      "mistake": {"wrong": "Wir lernt jeden Tag.", "why": "*-t* is the ending for *er* and *ihr*. *wir* always takes *-en*."},
+      "examples": [
+        {"de": "Wir arbeiten jeden Tag bis fünf.", "en": "We work until five every day."},
+        {"de": "Wir kochen jeden Abend frisch.", "en": "We cook fresh food every evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Was {{c1::machst::machen}} du gerade?",
+      "en": "What are you doing right now?",
+      "focus": "W-Frage · *du*",
+      "explanation": "The question word *Was* is in position 1, the verb **machst** in position 2, then the subject *du*. English *are you doing* is just the Präsens in German; *gerade* ('right now') shows that it is happening now.",
+      "pattern": "W-Wort + Stamm-**st** + du + …?",
+      "mistake": {"wrong": "Was du machst gerade?", "why": "In a direct W-question the verb comes directly after the question word: *Was machst du gerade?*"},
+      "examples": [
+        {"de": "Was kochst du heute?", "en": "What are you cooking today?"},
+        {"de": "Was suchst du?", "en": "What are you looking for?"}
+      ],
+      "words": [{"de": "gerade", "en": "right now"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich {{c1::antworte::antworten}} auf die Frage.",
+      "en": "I'm answering the question.",
+      "focus": "*ich*-Form · Stamm auf *-t*",
+      "explanation": "The stem *antwort-* ends in *-t*. The *ich*-ending *-e* is added as usual → **antworte**. The extra *-e-* rule only matters for *du*, *er* and *ihr* (*du antwortest, er antwortet*). *antworten auf* + Akkusativ = to answer (a question, a letter).",
+      "pattern": "ich + Stamm(-t)-**e**",
+      "mistake": {"wrong": "Ich antwort auf die Frage.", "why": "In standard German the *ich*-form always has the ending *-e*: *ich antworte*. Dropping it is only colloquial speech."},
+      "examples": [
+        {"de": "Ich antworte dir morgen.", "en": "I'll answer you tomorrow."},
+        {"de": "Ich warte auf dich.", "en": "I'm waiting for you."}
+      ],
+      "words": [{"de": "antworten auf (+ Akk.)", "en": "to answer, to reply to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Was {{c1::kostet::kosten}} das Brot?",
+      "en": "How much does the bread cost?",
+      "focus": "*es*-Form · Stamm auf *-t*",
+      "explanation": "The subject is *das Brot* (= *es*), which comes after the verb in the W-question. The stem *kost-* ends in *-t*, so an *-e-* is inserted before the ending *-t*: *kost-e-t* → **kostet**.",
+      "pattern": "Was + Stamm(-t)-**et** + Nomen?",
+      "mistake": {"wrong": "Was kost das Brot?", "why": "A stem in *-t* cannot take the ending *-t* directly. Insert *-e-*: *kostet*."},
+      "examples": [
+        {"de": "Was kostet eine Fahrkarte nach Bern?", "en": "How much is a ticket to Bern?"},
+        {"de": "Wie viel kostet die Jacke?", "en": "How much does the jacket cost?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Ich {{c1::sage::sagen}} immer die Wahrheit.",
+      "en": "I always tell the truth.",
+      "focus": "*ich*-Form · Adverb nach dem Verb",
+      "explanation": "*sag-* + *-e* → **sage**. The adverb *immer* comes after the verb, not between subject and verb as in English *I always tell*. German says *die Wahrheit sagen* ('say the truth').",
+      "pattern": "ich + Stamm-**e** + immer + Akkusativ",
+      "mistake": {"wrong": "Ich immer sage die Wahrheit.", "why": "The verb must be in position 2, directly after the subject. *immer* follows the verb: *Ich sage immer …*"},
+      "examples": [
+        {"de": "Ich kaufe immer Biobrot.", "en": "I always buy organic bread."},
+        {"de": "Ich mache immer Frühstück für alle.", "en": "I always make breakfast for everyone."}
+      ],
+      "words": [{"de": "die Wahrheit", "en": "the truth"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Wir {{c1::tanzen::to dance}} gern zusammen.",
+      "en": "We like to dance together.",
+      "focus": "*wir*-Form · *gern*",
+      "explanation": "*wir* → stem *tanz-* + **-en** → **tanzen**. *gern* after the verb expresses 'like doing'. (Note the *du*-form: *du tanzt*, with only *-t*, because the stem ends in *-z*.)",
+      "pattern": "wir + Stamm-**en** + gern",
+      "mistake": {"wrong": "Wir tanzt gern zusammen.", "why": "*tanzt* is the *du/er/ihr*-form. *wir* takes *-en*: *wir tanzen*."},
+      "examples": [
+        {"de": "Wir kochen gern zusammen.", "en": "We like cooking together."},
+        {"de": "Wir reisen gern mit dem Zug.", "en": "We like travelling by train."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Er {{c1::lacht::lachen}} sehr viel.",
+      "en": "He laughs a lot.",
+      "focus": "*er*-Form",
+      "explanation": "*lach-* + *-t* → **lacht**. The stem ends in *-ch*, which needs no extra *-e-*. *sehr viel* ('a lot') stands after the verb.",
+      "pattern": "er + Stamm-**t** + Adverb",
+      "mistake": {"wrong": "Er lachst sehr viel.", "why": "*-st* is the *du*-ending. For *er* the ending is *-t*: *er lacht*."},
+      "examples": [
+        {"de": "Er raucht sehr viel.", "en": "He smokes a lot."},
+        {"de": "Sie lacht über jeden Witz.", "en": "She laughs at every joke."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Sie {{c1::weint::weinen}} nicht.",
+      "en": "She isn't crying.",
+      "focus": "*sie* (Singular) · Stamm auf Vokal + *n*",
+      "explanation": "*wein-* + *-t* → **weint**. The stem ends in *-n* after a vowel (*ei*), so no *-e-* is inserted; compare *öffn-* (consonant + *n*) → *öffnet*. *nicht* at the end negates the whole verb.",
+      "pattern": "sie (= she) + Stamm-**t** + nicht",
+      "mistake": {"wrong": "Sie weinet nicht.", "why": "The extra *-e-* is only for stems in *-t/-d* or consonant + *m/n*. After the vowel *ei* the ending is just *-t*: *weint*."},
+      "examples": [
+        {"de": "Das Baby weint nicht mehr.", "en": "The baby isn't crying any more."},
+        {"de": "Er lernt nicht.", "en": "He isn't studying."}
+      ],
+      "words": [{"de": "weinen", "en": "to cry"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "{{c1::Spielt::spielen}} ihr Tennis?",
+      "en": "Do you (all) play tennis?",
+      "focus": "Ja/Nein-Frage · *ihr*",
+      "explanation": "The verb comes first in a yes/no question. *ihr* → stem + **-t** → **Spielt**. The *ihr*-form looks like the *er*-form; only the subject *ihr* tells you who is meant.",
+      "pattern": "Stamm-**t** + ihr + …?",
+      "mistake": {"wrong": "Spielen ihr Tennis?", "why": "*spielen* is the *wir/sie*-form. *ihr* takes *-t*: *Spielt ihr …?*"},
+      "examples": [
+        {"de": "Spielt ihr heute Fußball?", "en": "Are you (all) playing football today?"},
+        {"de": "Kocht ihr heute?", "en": "Are you (all) cooking today?"}
+      ],
+      "words": [],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Du {{c1::bezahlst::bezahlen}} die Rechnung.",
+      "en": "You're paying the bill.",
+      "focus": "*du*-Form · untrennbares Präfix",
+      "explanation": "*be-* is an inseparable prefix: it always stays on the verb. Stem *bezahl-* + *-st* → **bezahlst**. Verbs with *be-, er-, ver-, ent-* are conjugated like the simple verb.",
+      "pattern": "du + be-Stamm-**st**",
+      "mistake": {"wrong": "Du bezahlt die Rechnung.", "why": "*bezahlt* is the *er/ihr*-form. *du* always takes *-st*: *du bezahlst*."},
+      "examples": [
+        {"de": "Du bestellst immer Pizza.", "en": "You always order pizza."},
+        {"de": "Du besuchst deine Eltern oft.", "en": "You often visit your parents."}
+      ],
+      "words": [{"de": "die Rechnung (-en)", "en": "bill"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wir {{c1::erklären::to explain}} es dir.",
+      "en": "We'll explain it to you.",
+      "focus": "*wir*-Form · untrennbares Präfix",
+      "explanation": "*er-* is an inseparable prefix, so the verb stays together: *wir* → **erklären**. The Präsens can describe the near future. Two pronouns stand in the order Akkusativ before Dativ: *es dir*.",
+      "pattern": "wir + er-Stamm-**en** + es + Dativ",
+      "mistake": {"wrong": "Wir erklärt es dir.", "why": "*erklärt* is the *er/ihr*-form. *wir* takes *-en*: *wir erklären*."},
+      "examples": [
+        {"de": "Wir zeigen es dir.", "en": "We'll show it to you."},
+        {"de": "Wir schicken es Ihnen morgen.", "en": "We'll send it to you tomorrow."}
+      ],
+      "words": [{"de": "erklären", "en": "to explain"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Ich {{c1::arbeite::arbeiten}} in einem Büro.",
+      "en": "I work in an office.",
+      "focus": "*ich*-Form · Stamm auf *-t*",
+      "explanation": "*arbeit-* + *-e* → **arbeite**. The *ich*-form looks normal; the stem in *-t* only causes an extra *-e-* for *du arbeitest, er arbeitet, ihr arbeitet*.",
+      "pattern": "ich + Stamm(-t)-**e**",
+      "mistake": {"wrong": "Ich arbeit in einem Büro.", "why": "The standard *ich*-form always ends in *-e*: *ich arbeite*."},
+      "examples": [
+        {"de": "Ich arbeite in einer Bank.", "en": "I work in a bank."},
+        {"de": "Ich warte vor dem Kino.", "en": "I'm waiting in front of the cinema."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Du {{c1::wohnst::wohnen}} in der Nähe.",
+      "en": "You live nearby.",
+      "focus": "*du*-Form",
+      "explanation": "The regular endings are *-e, -st, -t, -en, -t, -en*. For *du* the ending is **-st**: *wohn-* + *-st* → **wohnst**. *in der Nähe* means 'nearby'.",
+      "pattern": "du + Stamm-**st**",
+      "mistake": {"wrong": "Du wohnen in der Nähe.", "why": "*wohnen* is the infinitive. *du* needs the conjugated form with *-st*: *du wohnst*."},
+      "examples": [
+        {"de": "Du parkst hier falsch.", "en": "You are parked in the wrong place here."},
+        {"de": "Du kennst die Stadt gut.", "en": "You know the city well."}
+      ],
+      "words": [{"de": "in der Nähe", "en": "nearby"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Er {{c1::spielt::spielen}} jeden Abend Gitarre.",
+      "en": "He plays guitar every evening.",
+      "focus": "*er*-Form · Zeitangabe vor dem Objekt",
+      "explanation": "*spiel-* + *-t* → **spielt**. The time expression *jeden Abend* comes before the object *Gitarre*, which closes the sentence. Instruments are used without an article after *spielen*.",
+      "pattern": "er + Stamm-**t** + Zeit + Objekt",
+      "mistake": {"wrong": "Er spielen jeden Abend Gitarre.", "why": "*spielen* is the plural form. *er* takes *-t*: *er spielt*."},
+      "examples": [
+        {"de": "Er übt jeden Morgen Klavier.", "en": "He practises the piano every morning."},
+        {"de": "Sie hört jeden Abend Radio.", "en": "She listens to the radio every evening."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Wir {{c1::lernen::to learn}} zusammen Deutsch.",
+      "en": "We learn German together.",
+      "focus": "*wir*-Form = Infinitiv",
+      "explanation": "*wir* and *sie/Sie* always take the ending **-en**, so their form is the same as the infinitive: *wir lernen*. *zusammen* ('together') stands after the verb.",
+      "pattern": "wir + Stamm-**en** + zusammen",
+      "mistake": {"wrong": "Wir lerne zusammen Deutsch.", "why": "*-e* is the *ich*-ending. *wir* takes *-en*: *wir lernen*."},
+      "examples": [
+        {"de": "Wir wohnen zusammen in einer WG.", "en": "We live together in a shared flat."},
+        {"de": "Wir kaufen zusammen ein Geschenk.", "en": "We are buying a present together."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Ihr {{c1::wartet::warten}} schon lange.",
+      "en": "You (all) have been waiting for a long time.",
+      "focus": "*ihr*-Form · Stamm auf *-t*",
+      "explanation": "*warten* has the stem *wart-*, which ends in *-t*. Before the *ihr*-ending *-t* an *-e-* is inserted: *wart-e-t* → **wartet**. *schon lange* + Präsens describes something that started earlier and is still going on.",
+      "pattern": "ihr + Stamm(-t)-**et** + schon lange",
+      "mistake": {"wrong": "Ihr warten schon lange.", "why": "*warten* is the *wir/sie*-form. *ihr* takes *-t*, and with the stem *wart-* that becomes *-et*: *ihr wartet*."},
+      "examples": [
+        {"de": "Ihr arbeitet schon lange hier.", "en": "You (all) have been working here for a long time."},
+        {"de": "Ihr redet schon eine Stunde.", "en": "You (all) have been talking for an hour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Sie {{c1::kaufen::to buy}} ein neues Auto.",
+      "en": "They are buying a new car.",
+      "focus": "*sie* (Plural) · ein Präsens für alles",
+      "explanation": "German has one present tense: *sie kaufen* means 'they buy' and 'they are buying'. There is no form with *sein* + verb for the English progressive. *Sie* + **kaufen** = 'they' here.",
+      "pattern": "sie (= they) + Stamm-**en** + Objekt",
+      "mistake": {"wrong": "Sie sind kaufen ein neues Auto.", "why": "German has no progressive with *sein*. The simple Präsens covers 'are buying': *Sie kaufen ein neues Auto.*"},
+      "examples": [
+        {"de": "Sie bauen ein Haus.", "en": "They are building a house."},
+        {"de": "Sie renovieren gerade die Küche.", "en": "They are renovating the kitchen at the moment."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Ich {{c1::öffne::öffnen}} das Fenster.",
+      "en": "I open the window.",
+      "focus": "*ich*-Form · Stamm auf Konsonant + *n*",
+      "explanation": "The stem *öffn-* ends in a consonant + *n*. The *ich*-form just adds *-e* → **öffne**. For *du, er* and *ihr* an *-e-* is inserted to make the word pronounceable: *du öffnest, er öffnet*.",
+      "pattern": "ich + Stamm(Kons.+n)-**e**",
+      "mistake": {"wrong": "Ich öffn das Fenster.", "why": "The *ich*-ending *-e* cannot be dropped, and *öffn* cannot be pronounced without it: *ich öffne*."},
+      "examples": [
+        {"de": "Ich zeichne ein Haus.", "en": "I'm drawing a house."},
+        {"de": "Ich atme durch die Nase.", "en": "I breathe through my nose."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Du {{c1::reist::reisen}} viel.",
+      "en": "You travel a lot.",
+      "focus": "*du*-Form · Stamm auf *-s*",
+      "explanation": "The stem *reis-* already ends in an *s*-sound, so the *du*-form adds only **-t** → **reist** (not *reisst*). The same happens with *-ß, -x, -z*: *du heißt, du tanzt, du sitzt*.",
+      "pattern": "du + Stamm(-s/ß/x/z)-**t**",
+      "mistake": {"wrong": "Du reisst viel.", "why": "After a stem in *-s* the *s* of *-st* is dropped: *du reist*."},
+      "examples": [
+        {"de": "Du sitzt auf meinem Platz.", "en": "You're sitting in my seat."},
+        {"de": "Du grüßt ihn nie.", "en": "You never say hello to him."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Meine Mutter {{c1::kocht::kochen}} sehr gut.",
+      "en": "My mother cooks very well.",
+      "focus": "Nomen im Singular als Subjekt",
+      "explanation": "A singular noun subject (*meine Mutter* = *sie*) takes the *er/sie/es*-form: *koch-* + *-t* → **kocht**.",
+      "pattern": "Nomen (Sg.) + Stamm-**t**",
+      "mistake": {"wrong": "Meine Mutter kochen sehr gut.", "why": "*Mutter* is one person, so the verb takes the singular ending *-t*: *kocht*."},
+      "examples": [
+        {"de": "Unser Lehrer erklärt sehr gut.", "en": "Our teacher explains things very well."},
+        {"de": "Mein Vater repariert alles selbst.", "en": "My father repairs everything himself."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Wir {{c1::feiern::to celebrate}} am Samstag.",
+      "en": "We are celebrating on Saturday.",
+      "focus": "*wir*-Form · Verb auf *-ern*",
+      "explanation": "Verbs in *-ern* have the stem *feier-* and add only **-n** for *wir* and *sie/Sie*: **feiern**. The other forms are regular: *ich feiere, du feierst, ihr feiert*. The Präsens with *am Samstag* refers to the future.",
+      "pattern": "wir + Stamm(-er)-**n**",
+      "mistake": {"wrong": "Wir feieren am Samstag.", "why": "*-ern* verbs take only *-n* in the *wir*-form; the infinitive *feiern* is already the *wir*-form."},
+      "examples": [
+        {"de": "Wir ändern unseren Plan.", "en": "We are changing our plan."},
+        {"de": "Meine Kinder klettern gern.", "en": "My children like climbing."}
+      ],
+      "words": [{"de": "feiern", "en": "to celebrate, to party"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "{{c1::Verstehst::verstehen}} du die Frage?",
+      "en": "Do you understand the question?",
+      "focus": "Ja/Nein-Frage · kein Hilfsverb",
+      "explanation": "German needs no helper verb for questions. The main verb moves to position 1: **Verstehst** *du …?* *verstehen* has an irregular Partizip II (*verstanden*), but its Präsens is regular: *versteh-* + *-st*.",
+      "pattern": "Stamm-**st** + du + Objekt?",
+      "mistake": {"wrong": "Tust du die Frage verstehen?", "why": "*tun* is not a helper verb in standard German. Move the main verb itself to the front: *Verstehst du die Frage?*"},
+      "examples": [
+        {"de": "Kennst du den Weg?", "en": "Do you know the way?"},
+        {"de": "Hörst du die Musik?", "en": "Can you hear the music?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Er {{c1::bezahlt::bezahlen}} mit Karte.",
+      "en": "He pays by card.",
+      "focus": "*er*-Form · untrennbares Präfix",
+      "explanation": "*be-* is an inseparable prefix: it is never split from the verb and never goes to the end. *bezahl-* + *-t* → **bezahlt**. (In the Perfekt it also gets no *ge-*: *hat bezahlt*.)",
+      "pattern": "er + be-Stamm-**t**",
+      "mistake": {"wrong": "Er zahlt mit Karte be.", "why": "Only separable prefixes (*an-, auf-, mit-* …) go to the end. *be-* is inseparable and stays on the verb: *er bezahlt*."},
+      "examples": [
+        {"de": "Er bestellt einen Salat.", "en": "He orders a salad."},
+        {"de": "Sie erzählt eine Geschichte.", "en": "She tells a story."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Ich {{c1::sammle::sammeln}} alte Münzen.",
+      "en": "I collect old coins.",
+      "focus": "*ich*-Form · Verb auf *-eln*",
+      "explanation": "Verbs in *-eln* drop the *e* of the stem in the *ich*-form: *sammel-* + *-e* → **sammle**. All other forms keep it: *du sammelst, er sammelt, wir sammeln*.",
+      "pattern": "ich + Stamm(-el → -l)-**e**",
+      "mistake": {"wrong": "Ich sammel alte Münzen.", "why": "The *ich*-form needs an ending; for *-eln* verbs the *e* of the stem drops instead: *ich sammle*."},
+      "examples": [
+        {"de": "Ich lächle nie auf Fotos.", "en": "I never smile in photos."},
+        {"de": "Ich bügle meine Hemden selbst.", "en": "I iron my shirts myself."}
+      ],
+      "words": [{"de": "die Münze (-n)", "en": "coin"}],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Ihr {{c1::antwortet::antworten}} zu schnell.",
+      "en": "You (all) answer too quickly.",
+      "focus": "*ihr*-Form · Stamm auf *-t*",
+      "explanation": "*antwort-* ends in *-t*, so an *-e-* is inserted before the *ihr*-ending *-t*: *antwort-e-t* → **antwortet**. Without it the ending *-t* could not be heard after the *t* of the stem.",
+      "pattern": "ihr + Stamm(-t)-**et**",
+      "mistake": {"wrong": "Ihr antwortest zu schnell.", "why": "*-est* is the *du*-ending. *ihr* takes *-t*, here *-et*: *ihr antwortet*."},
+      "examples": [
+        {"de": "Ihr redet zu leise.", "en": "You (all) are speaking too quietly."},
+        {"de": "Ihr arbeitet zu viel.", "en": "You (all) work too much."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r14",
+      "de": "Sie {{c1::heißt::heißen}} Anna.",
+      "en": "Her name is Anna.",
+      "focus": "*sie* (Singular) · Stamm auf *-ß*",
+      "explanation": "The stem *heiß-* ends in *ß*, so the *du*- and *er/sie/es*-forms are the same: *du heißt, sie* **heißt**. *heißen* has irregular past forms (*hieß*), but a regular Präsens.",
+      "pattern": "sie (= she) + Stamm(-ß)-**t** + Name",
+      "mistake": {"wrong": "Sie heiße Anna.", "why": "*heiße* is the *ich*-form. For 'she' the ending is *-t*: *sie heißt*."},
+      "examples": [
+        {"de": "Wie heißt dein Hund?", "en": "What is your dog called?"},
+        {"de": "Mein Kollege heißt Jonas.", "en": "My colleague is called Jonas."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r15",
+      "de": "Wir {{c1::brauchen::to need}} mehr Papier.",
+      "en": "We need more paper.",
+      "focus": "*wir*-Form · *mehr*",
+      "explanation": "*wir* → stem + **-en** → **brauchen**. *brauchen* takes an Akkusativ object. *mehr* ('more') never takes an ending: *mehr Papier, mehr Zeit, mehr Bücher*.",
+      "pattern": "wir + Stamm-**en** + mehr + Nomen",
+      "mistake": {"wrong": "Wir braucht mehr Papier.", "why": "*braucht* is the *er/ihr*-form. *wir* takes *-en*: *wir brauchen*."},
+      "examples": [
+        {"de": "Wir brauchen mehr Zeit.", "en": "We need more time."},
+        {"de": "Wir kaufen mehr Gemüse.", "en": "We are buying more vegetables."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Du {{c1::arbeitest::arbeiten}} sehr viel.",
+      "en": "You work a lot.",
+      "focus": "*du*-Form · Stamm auf *-t*",
+      "explanation": "The stem *arbeit-* ends in *-t*. Before the *du*-ending *-st* an *-e-* is inserted: *arbeit-e-st* → **arbeitest**. Without the *e* the word would be very hard to say.",
+      "pattern": "du + Stamm(-t)-**est**",
+      "mistake": {"wrong": "Du arbeitst sehr viel.", "why": "Stems in *-t* or *-d* need an extra *-e-* before *-st*: *du arbeitest*."},
+      "examples": [
+        {"de": "Du wartest schon wieder auf ihn.", "en": "You're waiting for him again."},
+        {"de": "Du testest das Programm.", "en": "You're testing the program."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Er {{c1::redet::reden}} zu viel.",
+      "en": "He talks too much.",
+      "focus": "*er*-Form · Stamm auf *-d*",
+      "explanation": "The stem *red-* ends in *-d*. Like a *-t* stem, it needs an *-e-* before the ending *-t*: *red-e-t* → **redet**.",
+      "pattern": "er + Stamm(-d)-**et**",
+      "mistake": {"wrong": "Er redt zu viel.", "why": "After a stem in *-d* the ending *-t* needs an *-e-* in front: *er redet*."},
+      "examples": [
+        {"de": "Das Kind badet gern.", "en": "The child likes having a bath."},
+        {"de": "Sie redet oft über ihre Arbeit.", "en": "She often talks about her work."}
+      ],
+      "words": [{"de": "reden", "en": "to talk"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Du {{c1::tanzt::tanzen}} sehr gut.",
+      "en": "You dance very well.",
+      "focus": "*du*-Form · Stamm auf *-z*",
+      "explanation": "The stem *tanz-* ends in *-z*, which already contains an *s*-sound (*ts*). So the *du*-form adds only **-t** → **tanzt**, and it looks like the *er*-form.",
+      "pattern": "du + Stamm(-z)-**t**",
+      "mistake": {"wrong": "Du tanzst sehr gut.", "why": "After *-z* (and *-s, -ß, -x*) the *s* of *-st* is dropped: *du tanzt*."},
+      "examples": [
+        {"de": "Du heizt zu viel.", "en": "You use too much heating."},
+        {"de": "Du putzt heute das Bad.", "en": "You are cleaning the bathroom today."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Meine Großeltern {{c1::leben::to live}} auf dem Land.",
+      "en": "My grandparents live in the country.",
+      "focus": "Nomen im Plural als Subjekt",
+      "explanation": "*Meine Großeltern* is a plural noun subject (= *sie*), so the verb takes **-en**: *leb-* + *-en* → **leben**. *auf dem Land* means 'in the country(side)'.",
+      "pattern": "Nomen (Pl.) + Stamm-**en**",
+      "mistake": {"wrong": "Meine Großeltern lebt auf dem Land.", "why": "*Großeltern* is plural, so the verb needs the plural ending *-en*: *leben*."},
+      "examples": [
+        {"de": "Die Nachbarn feiern heute eine Party.", "en": "The neighbours are having a party today."},
+        {"de": "Viele Studenten wohnen in der Altstadt.", "en": "Many students live in the old town."}
+      ],
+      "words": [{"de": "auf dem Land", "en": "in the countryside"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Er {{c1::zeichnet::zeichnen}} gern Tiere.",
+      "en": "He likes drawing animals.",
+      "focus": "*er*-Form · Stamm auf Konsonant + *n*",
+      "explanation": "The stem *zeichn-* ends in a consonant (*ch*) + *n*. To make the form pronounceable, an *-e-* is inserted before *-t*: *zeichn-e-t* → **zeichnet**. The same happens with *rechnen, öffnen, atmen*.",
+      "pattern": "er + Stamm(Kons.+n)-**et**",
+      "mistake": {"wrong": "Er zeichnt gern Tiere.", "why": "A stem in consonant + *n* needs an *-e-* before the ending *-t*: *er zeichnet*."},
+      "examples": [
+        {"de": "Sie rechnet sehr schnell.", "en": "She does sums very quickly."},
+        {"de": "Der Patient atmet ruhig.", "en": "The patient is breathing calmly."}
+      ],
+      "words": [{"de": "zeichnen", "en": "to draw"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Ihr {{c1::wandert::wandern}} oft in den Bergen.",
+      "en": "You (all) often go hiking in the mountains.",
+      "focus": "*ihr*-Form · Verb auf *-ern*",
+      "explanation": "The stem of *wandern* is *wander-*. The *ihr*-ending *-t* is added normally → **wandert**. Only *wir* and *sie/Sie* are special with *-ern* verbs (they add just *-n*).",
+      "pattern": "ihr + Stamm(-er)-**t**",
+      "mistake": {"wrong": "Ihr wandern oft in den Bergen.", "why": "*wandern* is the *wir/sie*-form. *ihr* takes *-t*: *ihr wandert*."},
+      "examples": [
+        {"de": "Ihr klettert sehr gut.", "en": "You (all) climb very well."},
+        {"de": "Ihr ändert ständig eure Meinung.", "en": "You (all) keep changing your minds."}
+      ],
+      "words": [{"de": "wandern", "en": "to hike"}],
+      "production_cue": "(informal plural ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Ich {{c1::feiere::feiern}} meinen Geburtstag zu Hause.",
+      "en": "I'm celebrating my birthday at home.",
+      "focus": "*ich*-Form · Verb auf *-ern*",
+      "explanation": "The stem is *feier-*, and the *ich*-ending *-e* is added → **feiere**. Unlike *-eln* verbs (*ich sammle*), *-ern* verbs normally keep the stem *e* in the *ich*-form.",
+      "pattern": "ich + Stamm(-er)-**e**",
+      "mistake": {"wrong": "Ich feiern meinen Geburtstag zu Hause.", "why": "*feiern* is the infinitive and the *wir*-form. For *ich* add *-e* to the stem *feier-*: *ich feiere*."},
+      "examples": [
+        {"de": "Ich wandere jedes Wochenende.", "en": "I go hiking every weekend."},
+        {"de": "Ich ändere den Termin.", "en": "I'll change the appointment."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Morgen {{c1::besuche::besuchen}} ich meine Oma.",
+      "en": "Tomorrow I'm visiting my grandma.",
+      "focus": "Präsens mit Zukunftsbedeutung · Inversion",
+      "explanation": "With a time word like *morgen* the Präsens describes the future; *werden* is not needed. *Morgen* is in position 1, so the verb **besuche** stays in position 2 and *ich* follows it. *be-* is inseparable.",
+      "pattern": "Zeit + Stamm-**e** + ich + Objekt",
+      "mistake": {"wrong": "Morgen ich besuche meine Oma.", "why": "Only one element may stand before the verb. After *Morgen* comes the verb, then the subject: *Morgen besuche ich …*"},
+      "examples": [
+        {"de": "Nächste Woche kaufen wir ein Auto.", "en": "Next week we're buying a car."},
+        {"de": "Am Abend kocht mein Mann.", "en": "In the evening my husband is cooking."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Wohnen::to live}} Sie hier in der Nähe?",
+      "en": "Do you live near here?",
+      "focus": "Ja/Nein-Frage · formelles *Sie*",
+      "explanation": "Formal *Sie* takes the same form as *sie* (they): stem + **-en** → **Wohnen**, identical to the infinitive. The verb is in position 1 of the yes/no question.",
+      "pattern": "Stamm-**en** + Sie + …?",
+      "mistake": {"wrong": "Wohnt Sie hier in der Nähe?", "why": "Formal *Sie* always takes the plural ending *-en*, even when you speak to one person: *Wohnen Sie …?*"},
+      "examples": [
+        {"de": "Arbeiten Sie auch hier?", "en": "Do you work here too?"},
+        {"de": "Brauchen Sie eine Quittung?", "en": "Do you need a receipt?"}
+      ],
+      "words": [],
+      "production_cue": "(formal Sie)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Ich {{c1::warte::warten}} seit zwanzig Minuten auf den Bus.",
+      "en": "I have been waiting for the bus for twenty minutes.",
+      "focus": "Präsens + *seit*",
+      "explanation": "The waiting started in the past and is still going on, so German uses the Präsens + *seit*. English uses the present perfect continuous (*have been waiting*). *ich* → *wart-* + *-e* → **warte**.",
+      "pattern": "ich + Stamm-**e** + seit + Zeitraum",
+      "mistake": {"wrong": "Ich warte für zwanzig Minuten auf den Bus.", "why": "English *for* + a period of time is *seit* in German when the action started in the past and is still going on. *für zwanzig Minuten* does not express 'up to now'."},
+      "examples": [
+        {"de": "Sie lernt seit einem Jahr Japanisch.", "en": "She has been learning Japanese for a year."},
+        {"de": "Wir wohnen seit 2020 in Zürich.", "en": "We have been living in Zurich since 2020."}
+      ],
+      "words": [{"de": "warten auf (+ Akk.)", "en": "to wait for"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Meine Schwester {{c1::studiert::studieren}} Medizin in Wien.",
+      "en": "My sister is studying medicine in Vienna.",
+      "focus": "Verb auf *-ieren*",
+      "explanation": "Verbs in *-ieren* (*studieren, telefonieren, reparieren*) are regular in the Präsens: *studier-* + *-t* → **studiert**. *Meine Schwester* is a singular subject (= *sie*).",
+      "pattern": "Nomen (Sg.) + -ier-Stamm-**t**",
+      "mistake": {"wrong": "Meine Schwester studieren Medizin in Wien.", "why": "*Schwester* is singular, so the verb takes *-t*: *studiert*."},
+      "examples": [
+        {"de": "Mein Kollege telefoniert gerade.", "en": "My colleague is on the phone right now."},
+        {"de": "Der Mechaniker repariert das Auto.", "en": "The mechanic is repairing the car."}
+      ],
+      "words": [{"de": "studieren", "en": "to study (at university)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wie lange {{c1::dauert::dauern}} der Film?",
+      "en": "How long is the film?",
+      "focus": "W-Frage · Verb auf *-ern* · Nomen als Subjekt",
+      "explanation": "*Wie lange* is in position 1, the verb in position 2, and the subject *der Film* (= *er*) follows. The stem of *dauern* is *dauer-*; with *-t* → **dauert**.",
+      "pattern": "W-Wort + Stamm(-er)-**t** + Nomen?",
+      "mistake": {"wrong": "Wie lange dauern der Film?", "why": "*der Film* is singular, so the verb takes *-t*: *dauert*. *dauern* would need a plural subject (*die Filme*)."},
+      "examples": [
+        {"de": "Wie lange dauert die Fahrt?", "en": "How long does the journey take?"},
+        {"de": "Wann beginnt der Unterricht?", "en": "When does the lesson start?"}
+      ],
+      "words": [{"de": "dauern", "en": "to last, to take (time)"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the regular endings.",
+      "prompt": "How do you build the Präsens of a regular verb, and what are the endings?",
+      "answer": "Stem (infinitive minus *-en*) + ending: *ich* **-e**, *du* **-st**, *er/sie/es* **-t**, *wir* **-en**, *ihr* **-t**, *sie/Sie* **-en**.",
+      "explanation": "Two pairs look the same: *er*-form = *ihr*-form (*macht*), and *wir*-form = *sie/Sie*-form = infinitive (*machen*). The subject tells you which person is meant.",
+      "examples": [
+        {"de": "Ich koche, und ihr deckt den Tisch.", "en": "I'm cooking, and you (all) set the table."},
+        {"de": "Sie lernt Spanisch.", "en": "She is learning Spanish."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the extra -e-.",
+      "prompt": "When do you insert an extra *-e-* before the endings *-st* and *-t*?",
+      "answer": "When the stem ends in **-t** or **-d** (*arbeiten, reden*), or in a **consonant + m/n** (*öffnen, atmen, rechnen*): *du arbeitest, er redet, ihr öffnet*. Not after *l, r, h* or a vowel + *n* (*lernst, wohnt, weint*).",
+      "explanation": "The *-e-* makes the ending audible and the word pronounceable. It only appears in the *du*-, *er/sie/es*- and *ihr*-forms, because only those endings begin with a consonant.",
+      "examples": [
+        {"de": "Er arbeitet in der Stadt.", "en": "He works in town."},
+        {"de": "Du öffnest die Flasche.", "en": "You open the bottle."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about the du-form.",
+      "prompt": "What happens to the *du*-ending when the stem ends in *-s, -ß, -x* or *-z*?",
+      "answer": "The *du*-form adds only **-t**: *du reist, du heißt, du mixt, du tanzt*. So the *du*-form looks like the *er*-form.",
+      "explanation": "The stem already ends in an *s*-sound, so a second *s* from *-st* is dropped. This is a spelling rule, not a different verb class.",
+      "examples": [
+        {"de": "Du heißt Lea, oder?", "en": "Your name is Lea, isn't it?"},
+        {"de": "Du mixt die Getränke.", "en": "You mix the drinks."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about verbs in -eln and -ern.",
+      "prompt": "What is special about verbs in *-eln* and *-ern* in the Präsens?",
+      "answer": "The stem keeps the *-el-/-er-* (*sammel-, feier-*). *wir* and *sie/Sie* add only **-n** (*wir sammeln, wir feiern*). *-eln* verbs drop the *e* in the *ich*-form (**ich sammle**); *-ern* verbs normally keep it (*ich feiere*).",
+      "explanation": "The infinitive ends only in *-n*, not *-en*, so the plural forms also end in *-n*. The *du*-, *er*- and *ihr*-forms are regular: *du feierst, er sammelt, ihr feiert*.",
+      "examples": [
+        {"de": "Ich wechsle das Thema.", "en": "I'm changing the subject."},
+        {"de": "Ihr feiert bis Mitternacht.", "en": "You (all) celebrate until midnight."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about the use of the Präsens.",
+      "prompt": "Which English tenses can the German Präsens translate?",
+      "answer": "The simple present (*I work*), the present progressive (*I am working*), the future with a time word (*Morgen arbeite ich* = I'll work tomorrow), and, with *seit*, the present perfect continuous (*Ich arbeite seit Mai hier* = I have been working here since May).",
+      "explanation": "German has no progressive form, and with a clear time word the future needs no *werden*. With *seit* or *schon* the Präsens describes something that started in the past and is still going on.",
+      "examples": [
+        {"de": "Nächste Woche fliege ich nach Rom.", "en": "I'm flying to Rome next week."},
+        {"de": "Sie wohnt seit einem Jahr hier.", "en": "She has been living here for a year."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Wie lange ___ du schon hier?",
+      "options": ["arbeitest", "arbeitst", "arbeitet"],
+      "correct": "arbeitest",
+      "answer": "Wie lange arbeitest du schon hier?",
+      "explanation": "The stem *arbeit-* ends in *-t*, so the *du*-form is *arbeit-e-st*. *arbeitst* is missing the *-e-*, and *arbeitet* is the *er/ihr*-form."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "___ du gern Musik?",
+      "options": ["Hörst", "Hört", "Hören"],
+      "correct": "Hörst",
+      "answer": "Hörst du gern Musik?",
+      "explanation": "The subject is *du*, so the verb ends in *-st*: *Hörst*. *Hört* is for *er* or *ihr*, and *Hören* is for *wir* or *sie/Sie*."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct verb form.",
+      "prompt": "Ihr ___ heute Abend bei uns.",
+      "options": ["feiert", "feiern", "feierst"],
+      "correct": "feiert",
+      "answer": "Ihr feiert heute Abend bei uns.",
+      "explanation": "*ihr* takes the ending *-t*: *feier-* + *-t* → *feiert*. *feiern* is the *wir/sie*-form, and *feierst* is the *du*-form."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er wartt auf den Zug.",
+      "answer": "Er wartet auf den Zug.",
+      "explanation": "The stem *wart-* ends in *-t*, so the ending *-t* needs an *-e-* in front: *er wartet*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Du heißst Tim.",
+      "answer": "Du heißt Tim.",
+      "explanation": "The stem *heiß-* ends in *ß*, so the *du*-form adds only *-t*: *du heißt*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir lernt heute Grammatik.",
+      "answer": "Wir lernen heute Grammatik.",
+      "explanation": "*wir* always takes the ending *-en*: *wir lernen*. *lernt* is the *er*- or *ihr*-form."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake. Keep it a yes/no question.",
+      "prompt": "Tust du Fußball spielen?",
+      "answer": "Spielst du Fußball?",
+      "explanation": "German does not use *tun* like English *do* to form questions. The main verb itself goes to position 1 and is conjugated: *Spielst du Fußball?*"
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Change the subject to er.",
+      "prompt": "Ich arbeite in Hamburg.",
+      "answer": "Er arbeitet in Hamburg.",
+      "explanation": "*er* takes the ending *-t*. Because the stem *arbeit-* ends in *-t*, an *-e-* is inserted: *arbeitet*."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Change the subject to du.",
+      "prompt": "Er reist gern.",
+      "answer": "Du reist gern.",
+      "explanation": "The stem *reis-* ends in *-s*, so the *du*-form adds only *-t*. That is why *er reist* and *du reist* have the same form."
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Change the subject to ich.",
+      "prompt": "Wir sammeln Briefmarken.",
+      "answer": "Ich sammle Briefmarken.",
+      "explanation": "*sammeln* is an *-eln* verb: in the *ich*-form the *e* of the stem drops before the ending *-e*: *sammel- → sammle*."
+    },
+    {
+      "key": "d16",
+      "type": "transform",
+      "instruction": "Make it a yes/no question.",
+      "prompt": "Du kochst heute.",
+      "answer": "Kochst du heute?",
+      "explanation": "The conjugated verb *kochst* moves to position 1 and the subject *du* follows. The verb form does not change, and no helper verb is needed."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Am Wochenende",
+      "prompt": "spielt / am Wochenende / mein Sohn / Fußball",
+      "answer": "Am Wochenende spielt mein Sohn Fußball.",
+      "explanation": "*Am Wochenende* is in position 1, the verb *spielt* in position 2, then the subject *mein Sohn*, and the object *Fußball* closes the sentence. Neutral order without the fixed start: *Mein Sohn spielt am Wochenende Fußball.*"
+    },
+    {
+      "key": "d18",
+      "type": "order",
+      "instruction": "Put the parts in order to make a W-question.",
+      "prompt": "wo / ihr / jetzt / wohnt",
+      "answer": "Wo wohnt ihr jetzt?",
+      "explanation": "The question word *Wo* is in position 1, the verb *wohnt* in position 2, then the subject *ihr*. *jetzt* comes after the subject."
+    },
+    {
+      "key": "d19",
+      "type": "combine",
+      "instruction": "Join the two sentences with und.",
+      "prompt": "Ich koche. Mein Mann deckt den Tisch.",
+      "answer": "Ich koche und mein Mann deckt den Tisch.",
+      "explanation": "*und* joins two main clauses and does not change the word order: each verb stays in position 2 of its clause. A comma before *und* is optional here."
+    },
+    {
+      "key": "d20",
+      "type": "combine",
+      "instruction": "Make one sentence with the subject Lisa und Tom.",
+      "prompt": "Lisa lernt Englisch. Tom lernt auch Englisch.",
+      "answer": "Lisa und Tom lernen Englisch.",
+      "explanation": "*Lisa und Tom* is a plural subject (= *sie*), so the verb changes from *lernt* to *lernen*. *auch* is no longer needed."
+    }
+  ]
+}

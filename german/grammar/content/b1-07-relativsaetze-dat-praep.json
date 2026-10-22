@@ -1,0 +1,709 @@
+{
+  "topic_id": "b1-07-relativsaetze-dat-praep",
+  "level": "B1",
+  "title_de": "Relativsätze (Dativ, Genitiv, mit Präposition)",
+  "title_en": "Relative clauses (dative, genitive, with a preposition)",
+  "rule": {
+    "summary": "The relative pronoun also has **Dativ** and **Genitiv** forms. As always, its gender and number come from the Bezugswort and its case from its role in the relative clause: a Dativ object (*helfen, danken, geben* + Dat.) → **dem / der / dem / denen**. If the relative clause needs a preposition (*sprechen mit, warten auf*), the **preposition comes first** and decides the case: *mit dem, auf den*. **dessen / deren** (Genitiv) show possession: *der Mann,* **dessen** *Sohn …* (whose son). Four forms differ from the article: **denen, dessen, deren** (twice).",
+    "table": "| | maskulin | feminin | neutral | Plural |\n|---|---|---|---|---|\n| Nominativ | der | die | das | die |\n| Akkusativ | den | die | das | die |\n| Dativ | **dem** | **der** | **dem** | **denen** |\n| Genitiv | **dessen** | **deren** | **dessen** | **deren** |\n| Präp. + Dat. | mit **dem** | mit **der** | mit **dem** | mit **denen** |\n| Präp. + Akk. | auf **den** | auf **die** | auf **das** | auf **die** |",
+    "steps": [
+      "Find the Bezugswort and its gender and number (*die Kollegin* → feminine singular).",
+      "Rebuild the relative clause as a main clause: *Ich arbeite* **mit der Kollegin**. Does the noun appear with a preposition, as a Dativ object, or as an owner (*ihr Auto, sein Sohn*)?",
+      "Preposition: put it **first**, then the pronoun in the case of the preposition: *mit* + Dat. → **mit der**; *für* + Akk. → **für die**. Never put the preposition at the end.",
+      "Dativ object without preposition: **dem / der / dem / denen** (plural *denen*, not *den*).",
+      "Possession: masculine/neuter owner → **dessen**, feminine/plural owner → **deren**. The owned noun follows without an article, and an adjective before it takes the strong ending (*dessen neuer Roman*).",
+      "Finite verb at the end, commas on both sides: *Die Kollegin, mit der ich arbeite, ist nett.*"
+    ],
+    "pitfalls": [
+      "*den* instead of *denen* in the Dativ plural: ✗ *die Leute, den ich helfe* → ✓ *die Leute, denen ich helfe*.",
+      "Preposition at the end, as in English: ✗ *der Mann, den ich mit gesprochen habe* → ✓ *der Mann, mit dem ich gesprochen habe*.",
+      "Article after *dessen/deren*: ✗ *der Mann, dessen der Sohn …* → ✓ *der Mann, dessen Sohn …*",
+      "Choosing *dessen/deren* by the owned noun: ✗ *die Frau, dessen Mann …* → ✓ *die Frau, deren Mann …* The owner decides.",
+      "Contracting preposition and pronoun: ✗ *der Tag, am ich …* → ✓ *der Tag, an dem ich …* Relative pronouns never merge with prepositions."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Der Mann, {{c1::dem}} ich helfe, ist mein Onkel.",
+      "en": "The man I'm helping is my uncle.",
+      "focus": "Relativsatz · Verb mit Dativ · maskulin",
+      "explanation": "*helfen* always takes a Dativ object: *Ich helfe dem Mann.* So the pronoun for the masculine *Mann* must be masculine Dativ: **dem**. The case of *der Mann* in the main clause (Nominativ) does not matter.",
+      "pattern": "Nomen (m.), **dem** + Subjekt + Dativ-Verb, …",
+      "mistake": {"wrong": "Der Mann, den ich helfe, ist mein Onkel.", "why": "*den* is Akkusativ. *helfen* does not take an Akkusativ object; it takes the Dativ → *dem*."},
+      "examples": [
+        {"de": "Der Kunde, dem ich gerade geschrieben habe, ruft gleich zurück.", "en": "The customer I've just written to will call back in a moment."},
+        {"de": "Der Kollege, dem wir gratulieren, hat seine Prüfung bestanden.", "en": "The colleague we're congratulating has passed his exam."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Die Frau, {{c1::der}} ich das Buch gegeben habe, ist meine Lehrerin.",
+      "en": "The woman I gave the book to is my teacher.",
+      "focus": "Relativsatz · Empfänger · feminin",
+      "explanation": "With *geben* the thing is Akkusativ (*das Buch*) and the receiver is Dativ: *Ich habe der Frau das Buch gegeben.* Feminine Dativ → **der**. Note that this *der* is not masculine: the Dativ feminine relative pronoun looks like the masculine Nominativ.",
+      "pattern": "Nomen (f.), **der** + Subjekt + Akk. + Partizip II + habe, …",
+      "mistake": {"wrong": "Die Frau, die ich das Buch gegeben habe, ist meine Lehrerin.", "why": "*das Buch* is already the Akkusativ object. The woman is the receiver, which is Dativ: *der*."},
+      "examples": [
+        {"de": "Die Nachbarin, der ich den Schlüssel gegeben habe, gießt die Blumen.", "en": "The neighbour I gave the key to is watering the plants."},
+        {"de": "Die Kundin, der wir das Angebot geschickt haben, hat noch nicht geantwortet.", "en": "The customer we sent the offer to hasn't replied yet."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Das Kind, {{c1::dem}} wir geholfen haben, hat sich bedankt.",
+      "en": "The child we helped said thank you.",
+      "focus": "Relativsatz · Verb mit Dativ · neutral",
+      "explanation": "*helfen* + Dativ → *Wir haben dem Kind geholfen.* *Kind* is neuter, and the neuter Dativ pronoun is **dem**, the same as masculine.",
+      "pattern": "Nomen (n.), **dem** + Subjekt + Partizip II + haben, …",
+      "mistake": {"wrong": "Das Kind, das wir geholfen haben, hat sich bedankt.", "why": "*das* is Nominativ/Akkusativ. After *helfen* the person is in the Dativ: *dem*."},
+      "examples": [
+        {"de": "Das Mädchen, dem ich Nachhilfe gebe, ist sehr fleißig.", "en": "The girl I tutor is very hard-working."},
+        {"de": "Das Team, dem wir den Preis verliehen haben, kommt aus Leipzig.", "en": "The team we gave the award to is from Leipzig."}
+      ],
+      "words": [{"de": "sich bedanken", "en": "to say thank you"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Die Leute, {{c1::denen}} ich vertraue, sind meine Freunde.",
+      "en": "The people I trust are my friends.",
+      "focus": "Relativsatz · Verb mit Dativ · Plural",
+      "explanation": "*vertrauen* takes the Dativ: *Ich vertraue den Leuten.* But the plural Dativ relative pronoun is not *den*; it is the long form **denen**.",
+      "pattern": "Nomen (Pl.), **denen** + Subjekt + Dativ-Verb, …",
+      "mistake": {"wrong": "Die Leute, den ich vertraue, sind meine Freunde.", "why": "The article is *den Leuten*, but the relative pronoun in the Dativ plural is always *denen*."},
+      "examples": [
+        {"de": "Die Gäste, denen das Essen nicht geschmeckt hat, bekamen einen Gutschein.", "en": "The guests who didn't like the food got a voucher."},
+        {"de": "Die Bewerber, denen wir absagen müssen, bekommen eine E-Mail.", "en": "The applicants we have to turn down will get an email."}
+      ],
+      "words": [{"de": "vertrauen (+ Dat.)", "en": "to trust"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Das ist der Mann, {{c1::mit dem::sprechen mit}} ich gestern gesprochen habe.",
+      "en": "That's the man I spoke with yesterday.",
+      "focus": "Relativsatz · Präposition + Dativ · maskulin",
+      "explanation": "The verb is *sprechen mit* + Dativ: *Ich habe mit dem Mann gesprochen.* In the relative clause the whole group moves to the front: preposition first, then the masculine Dativ pronoun: **mit dem**.",
+      "pattern": "Nomen (m.), **Präp. + dem** + … + Verb.",
+      "mistake": {"wrong": "Das ist der Mann, den ich gestern mit gesprochen habe.", "why": "English can put the preposition at the end (\"the man I spoke with\"). In German the preposition must stand before the pronoun: *mit dem ich gesprochen habe*."},
+      "examples": [
+        {"de": "Das ist der Anwalt, mit dem wir den Vertrag besprochen haben.", "en": "That's the lawyer we discussed the contract with."},
+        {"de": "Kennst du den Studenten, mit dem Lea zusammenwohnt?", "en": "Do you know the student Lea shares a flat with?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Hier ist die Tasche, {{c1::in der::wo? · in}} mein Pass ist.",
+      "en": "Here is the bag my passport is in.",
+      "focus": "Relativsatz · Wechselpräposition (Ort)",
+      "explanation": "The passport is located in the bag (*wo?*), so the Wechselpräposition *in* takes the Dativ. *Tasche* is feminine → **in der**. The subject of the relative clause is *mein Pass*.",
+      "pattern": "Nomen (f.), **in der** + Subjekt + Verb.",
+      "mistake": {"wrong": "Hier ist die Tasche, in die mein Pass ist.", "why": "*in die* (Akkusativ) is for a direction (*wohin?*), e.g. *in die ich den Pass gesteckt habe*. *ist* describes a location → Dativ *in der*."},
+      "examples": [
+        {"de": "Das ist die Schublade, in der die Rechnungen liegen.", "en": "That's the drawer the bills are in."},
+        {"de": "Wo ist die Mappe, in der meine Zeugnisse sind?", "en": "Where is the folder my certificates are in?"}
+      ],
+      "words": [{"de": "der Pass (¨-e)", "en": "passport"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das ist der Stuhl, {{c1::auf dem::sitzen auf}} ich gestern gesessen habe.",
+      "en": "That's the chair I sat on yesterday.",
+      "focus": "Relativsatz · Wechselpräposition · Position",
+      "explanation": "*sitzen* is a position (*wo?*), so *auf* takes the Dativ: *auf dem Stuhl*. In the relative clause → **auf dem**. *sitzen* forms the Perfekt with *haben* in northern and central Germany (*habe gesessen*); in southern Germany, Austria and Switzerland *bin gesessen* is also standard.",
+      "pattern": "Nomen (m.), **auf dem** + … + Partizip II + habe.",
+      "mistake": {"wrong": "Das ist der Stuhl, auf den ich gestern gesessen habe.", "why": "*auf den* (Akkusativ) would be a movement (*sich auf den Stuhl setzen*). *sitzen* is a position → Dativ *auf dem*."},
+      "examples": [
+        {"de": "Das ist das Sofa, auf dem der Hund immer schläft.", "en": "That's the sofa the dog always sleeps on."},
+        {"de": "Das ist der Tisch, auf dem das Paket lag.", "en": "That's the table the parcel was lying on."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Der Tag, {{c1::an dem::Zeitpunkt · an}} ich sie kennenlernte, war wunderbar.",
+      "en": "The day I met her was wonderful.",
+      "focus": "Relativsatz · temporale Präposition",
+      "explanation": "Days take *an* + Dativ (*am Montag, an diesem Tag*). In a relative clause the preposition and the pronoun stay separate: **an dem**. *kennenlernte* is the Präteritum, at the end of the Nebensatz.",
+      "pattern": "Zeitnomen (m.), **an dem** + … + Verb, …",
+      "mistake": {"wrong": "Der Tag, am ich sie kennenlernte, war wunderbar.", "why": "*am* is the contraction of *an dem* with the article. A relative pronoun never contracts: *an dem*."},
+      "examples": [
+        {"de": "Der Abend, an dem wir uns verlobt haben, war kalt.", "en": "The evening we got engaged was cold."},
+        {"de": "Das Wochenende, an dem das Festival stattfindet, ist schon ausgebucht.", "en": "The weekend the festival takes place is already fully booked."}
+      ],
+      "words": [{"de": "kennenlernen", "en": "to get to know, to meet (for the first time)"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Die Frau, {{c1::deren}} Auto rot ist, ist meine Nachbarin.",
+      "en": "The woman whose car is red is my neighbour.",
+      "focus": "Relativsatz · Besitz · Besitzerin feminin",
+      "explanation": "The relative clause says whose car → Genitiv relative pronoun. The owner is *die Frau* (feminine), so the pronoun is **deren**. The owned noun *Auto* follows directly, without an article; its gender does not change *deren*.",
+      "pattern": "Nomen (f.), **deren** + Nomen (ohne Artikel) + … + Verb, …",
+      "mistake": {"wrong": "Die Frau, dessen Auto rot ist, ist meine Nachbarin.", "why": "*dessen* is for a masculine or neuter owner. The neuter *Auto* is not the owner; the owner is *die Frau* → *deren*."},
+      "examples": [
+        {"de": "Die Sängerin, deren Konzert ausfiel, hat sich entschuldigt.", "en": "The singer whose concert was cancelled has apologised."},
+        {"de": "Die Firma, deren Chef zurückgetreten ist, steckt in einer Krise.", "en": "The company whose boss has resigned is in a crisis."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Der Mann, {{c1::dessen}} Sohn Arzt ist, wohnt nebenan.",
+      "en": "The man whose son is a doctor lives next door.",
+      "focus": "Relativsatz · Besitz · Besitzer maskulin",
+      "explanation": "The man is the owner (*sein Sohn*) → Genitiv relative pronoun. Masculine owner → **dessen**. *Sohn* follows without an article and is the subject of *ist*.",
+      "pattern": "Nomen (m.), **dessen** + Nomen + … + Verb, …",
+      "mistake": {"wrong": "Der Mann, der sein Sohn Arzt ist, wohnt nebenan.", "why": "German cannot combine *der* + *sein Sohn* in a relative clause. The Genitiv pronoun *dessen* replaces both: *dessen Sohn*."},
+      "examples": [
+        {"de": "Der Schauspieler, dessen Film den Preis gewann, gibt heute ein Interview.", "en": "The actor whose film won the award is giving an interview today."},
+        {"de": "Der Professor, dessen Vorlesung ich besuche, ist sehr streng.", "en": "The professor whose lecture I attend is very strict."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Das Kind, {{c1::dessen}} Mutter krank ist, ist sehr traurig.",
+      "en": "The child whose mother is sick is very sad.",
+      "focus": "Relativsatz · Besitz · Bezugswort neutral",
+      "explanation": "The owner is *das Kind* (neuter), so the pronoun is **dessen**. The owned noun *Mutter* is feminine, but that does not matter: *dessen* depends only on the owner.",
+      "pattern": "Nomen (n.), **dessen** + Nomen (f.) + … + Verb, …",
+      "mistake": {"wrong": "Das Kind, deren Mutter krank ist, ist sehr traurig.", "why": "Learners choose *deren* because *Mutter* is feminine. But the owner is the neuter *Kind* → *dessen*."},
+      "examples": [
+        {"de": "Das Land, dessen Wirtschaft stark wächst, braucht Fachkräfte.", "en": "The country whose economy is growing fast needs skilled workers."},
+        {"de": "Das Museum, dessen Sammlung weltberühmt ist, hat montags geschlossen.", "en": "The museum whose collection is world-famous is closed on Mondays."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Die Kinder, {{c1::deren}} Eltern arbeiten, gehen in den Kindergarten.",
+      "en": "The children whose parents work go to kindergarten.",
+      "focus": "Relativsatz · Besitz · Plural",
+      "explanation": "The owners are *die Kinder* (plural) → **deren**, the same form as the feminine. *Eltern* is the subject of *arbeiten*, so the verb in the relative clause is plural.",
+      "pattern": "Nomen (Pl.), **deren** + Nomen + Verb, …",
+      "mistake": {"wrong": "Die Kinder, denen Eltern arbeiten, gehen in den Kindergarten.", "why": "*denen* is Dativ plural. To show possession (whose parents) you need the Genitiv *deren*."},
+      "examples": [
+        {"de": "Die Mieter, deren Wohnungen renoviert werden, ziehen vorübergehend aus.", "en": "The tenants whose flats are being renovated are moving out temporarily."},
+        {"de": "Die Studenten, deren Anträge fehlen, müssen sich melden.", "en": "The students whose applications are missing have to get in touch."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Das ist die Stadt, {{c1::in der::wo? · in}} ich geboren bin.",
+      "en": "That's the city I was born in.",
+      "focus": "Relativsatz · Ort · feminin",
+      "explanation": "*geboren sein* describes a place (*wo?*) → *in* + Dativ. *Stadt* is feminine → **in der**. You can also say *wo ich geboren bin*, but *in der* is more precise in writing.",
+      "pattern": "Nomen (f.), **in der** + … + Partizip II + bin.",
+      "mistake": {"wrong": "Das ist die Stadt, in die ich geboren bin.", "why": "*in die* is Akkusativ (direction). Birth happens at a place → Dativ: *in der*."},
+      "examples": [
+        {"de": "Das ist die Klinik, in der meine Tochter geboren wurde.", "en": "That's the hospital my daughter was born in."},
+        {"de": "Das ist die Straße, in der ich aufgewachsen bin.", "en": "That's the street I grew up in."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Der Lehrer, {{c1::von dem::lernen von}} ich viel gelernt habe, ist in Rente.",
+      "en": "The teacher I learned a lot from is retired.",
+      "focus": "Relativsatz · Präposition mit festem Dativ",
+      "explanation": "*von* always takes the Dativ (*von dem Lehrer*). *Lehrer* is masculine → **von dem**. In normal sentences *von dem* often contracts to *vom*, but not with a relative pronoun.",
+      "pattern": "Nomen (m.), **von dem** + … + Partizip II + habe, …",
+      "mistake": {"wrong": "Der Lehrer, von den ich viel gelernt habe, ist in Rente.", "why": "*von* is a Dativ preposition, so the masculine pronoun is *dem*. *den* is Akkusativ."},
+      "examples": [
+        {"de": "Die Ärztin, von der ich das Rezept habe, ist im Urlaub.", "en": "The doctor I got the prescription from is on holiday."},
+        {"de": "Der Freund, von dem ich das Fahrrad gekauft habe, zieht weg.", "en": "The friend I bought the bike from is moving away."}
+      ],
+      "words": [{"de": "in Rente sein", "en": "to be retired"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Das ist die Freundin, {{c1::mit der::Urlaub machen mit}} ich Urlaub mache.",
+      "en": "That's the friend I'm going on holiday with.",
+      "focus": "Relativsatz · Präposition + Dativ · feminin",
+      "explanation": "*mit* always takes the Dativ: *mit der Freundin*. In the relative clause the preposition comes first, then the feminine Dativ pronoun: **mit der**.",
+      "pattern": "Nomen (f.), **mit der** + Subjekt + … + Verb.",
+      "mistake": {"wrong": "Das ist die Freundin, mit die ich Urlaub mache.", "why": "*mit* never takes the Akkusativ. Feminine Dativ → *mit der*."},
+      "examples": [
+        {"de": "Das ist die Kollegin, mit der ich das Büro teile.", "en": "That's the colleague I share the office with."},
+        {"de": "Die Firma, mit der wir zusammenarbeiten, sitzt in Wien.", "en": "The company we work with is based in Vienna."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Hier ist das Hotel, {{c1::in dem::wo? · in}} wir letztes Jahr waren.",
+      "en": "Here is the hotel we stayed at last year.",
+      "focus": "Relativsatz · Ort · neutral",
+      "explanation": "*waren* expresses where we were (*wo?*) → *in* + Dativ. *Hotel* is neuter → **in dem** (not contracted to *im*). Alternative: *wo wir letztes Jahr waren*.",
+      "pattern": "Nomen (n.), **in dem** + … + Verb.",
+      "mistake": {"wrong": "Hier ist das Hotel, in das wir letztes Jahr waren.", "why": "*in das* (Akkusativ) is for a direction, e.g. *in das wir gefahren sind*. With *sein* (location) you need *in dem*."},
+      "examples": [
+        {"de": "Das ist das Restaurant, in dem wir unseren Hochzeitstag gefeiert haben.", "en": "That's the restaurant we celebrated our wedding anniversary in."},
+        {"de": "Das ist das Haus, in dem Goethe gewohnt hat.", "en": "That's the house Goethe lived in."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Die Person, {{c1::der}} ich gerade geantwortet habe, ist mein Chef.",
+      "en": "The person I just replied to is my boss.",
+      "focus": "Relativsatz · Verb mit Dativ · grammatisches Geschlecht",
+      "explanation": "*antworten* takes the Dativ: *Ich habe der Person geantwortet.* The pronoun follows the grammatical gender of *die Person* (feminine), even though the boss is a man → feminine Dativ **der**.",
+      "pattern": "Nomen (f.), **der** + Subjekt + … + Partizip II + habe, …",
+      "mistake": {"wrong": "Die Person, dem ich gerade geantwortet habe, ist mein Chef.", "why": "The pronoun agrees with the Bezugswort *die Person*, which is grammatically feminine, not with the real person (*Chef*). Feminine Dativ → *der*."},
+      "examples": [
+        {"de": "Die Person, der das Fahrrad gehört, soll sich bitte melden.", "en": "The person the bike belongs to should please get in touch."},
+        {"de": "Die Behörde, der wir die Unterlagen geschickt haben, antwortet nicht.", "en": "The authority we sent the documents to isn't replying."}
+      ],
+      "words": [{"de": "antworten (+ Dat.)", "en": "to answer, to reply to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Das sind die Touristen, {{c1::denen}} ich den Weg gezeigt habe.",
+      "en": "Those are the tourists I showed the way to.",
+      "focus": "Relativsatz · Empfänger · Plural",
+      "explanation": "*zeigen* has a thing in the Akkusativ (*den Weg*) and a person in the Dativ (*den Touristen*). The plural Dativ relative pronoun is **denen**.",
+      "pattern": "Nomen (Pl.), **denen** + Subjekt + Akk. + Partizip II + habe.",
+      "mistake": {"wrong": "Das sind die Touristen, die ich den Weg gezeigt habe.", "why": "*den Weg* is already the Akkusativ object; the tourists are the receivers → Dativ plural *denen*."},
+      "examples": [
+        {"de": "Das sind die Nachbarn, denen wir unsere Katze anvertraut haben.", "en": "Those are the neighbours we entrusted our cat to."},
+        {"de": "Das sind die Kunden, denen wir einen Rabatt versprochen haben.", "en": "Those are the customers we promised a discount to."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das ist der Computer, {{c1::mit dem::arbeiten mit}} ich arbeite.",
+      "en": "That's the computer I work with.",
+      "focus": "Relativsatz · Präposition + Dativ · Sache",
+      "explanation": "*mit* + Dativ also works for things: *Ich arbeite mit dem Computer.* *Computer* is masculine → **mit dem**. German has no different pronoun for things and people in relative clauses.",
+      "pattern": "Nomen (m.), **mit dem** + Subjekt + Verb.",
+      "mistake": {"wrong": "Das ist der Computer, den ich mit arbeite.", "why": "The preposition cannot stay at the end as in English (\"I work with\"). It goes before the pronoun and takes the Dativ: *mit dem ich arbeite*."},
+      "examples": [
+        {"de": "Das ist das Messer, mit dem ich Brot schneide.", "en": "That's the knife I cut bread with."},
+        {"de": "Das ist der Stift, mit dem er den Vertrag unterschrieben hat.", "en": "That's the pen he signed the contract with."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Der Freund, {{c1::dessen}} Hund weggelaufen ist, ist sehr besorgt.",
+      "en": "The friend whose dog ran away is very worried.",
+      "focus": "Relativsatz · Besitz · ohne Artikel",
+      "explanation": "The friend (masculine) is the owner of the dog → **dessen**. The owned noun follows directly, without *der*. *weglaufen* forms its Perfekt with *sein*: *weggelaufen ist*.",
+      "pattern": "Nomen (m.), **dessen** + Nomen + Partizip II + ist, …",
+      "mistake": {"wrong": "Der Freund, dessen der Hund weggelaufen ist, ist sehr besorgt.", "why": "*dessen* already works like an article (like *sein*). The noun after it takes no article: *dessen Hund*."},
+      "examples": [
+        {"de": "Der Nachbar, dessen Auto gestohlen wurde, hat die Polizei gerufen.", "en": "The neighbour whose car was stolen called the police."},
+        {"de": "Der Läufer, dessen Bein verletzt ist, gibt auf.", "en": "The runner whose leg is injured is giving up."}
+      ],
+      "words": [{"de": "besorgt", "en": "worried"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Die Freunde, {{c1::mit denen::verreisen mit}} ich verreist bin, wohnen in Köln.",
+      "en": "The friends I went travelling with live in Cologne.",
+      "focus": "Relativsatz · Präposition + Dativ · Plural",
+      "explanation": "*mit* + Dativ; *Freunde* is plural. After a preposition the plural Dativ pronoun is also the long form: **mit denen**, never *mit den*.",
+      "pattern": "Nomen (Pl.), **mit denen** + … + Partizip II + bin, …",
+      "mistake": {"wrong": "Die Freunde, mit den ich verreist bin, wohnen in Köln.", "why": "*den* is the plural Dativ article (*mit den Freunden*). The plural Dativ relative pronoun is *denen*."},
+      "examples": [
+        {"de": "Die Kollegen, mit denen ich zu Mittag esse, sind alle aus der IT.", "en": "The colleagues I have lunch with are all from IT."},
+        {"de": "Die Kunden, mit denen wir telefoniert haben, sind zufrieden.", "en": "The customers we spoke to on the phone are satisfied."}
+      ],
+      "words": [{"de": "verreisen", "en": "to go away (on a trip)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Bus, {{c1::auf den::warten auf}} wir warten, hat zwanzig Minuten Verspätung.",
+      "en": "The bus we're waiting for is twenty minutes late.",
+      "focus": "Relativsatz · Präposition + Akkusativ",
+      "explanation": "*warten auf* takes the Akkusativ: *Wir warten auf den Bus.* So the preposition pulls the Akkusativ: masculine → **auf den**. Not every preposition means Dativ: the preposition decides.",
+      "pattern": "Nomen (m.), **auf den** + Subjekt + Verb, …",
+      "mistake": {"wrong": "Der Bus, auf dem wir warten, hat zwanzig Minuten Verspätung.", "why": "*auf dem* would describe a place (on top of the bus). *warten auf* always takes the Akkusativ → *auf den*."},
+      "examples": [
+        {"de": "Die Lösung, auf die wir hoffen, ist noch nicht in Sicht.", "en": "The solution we are hoping for is not yet in sight."},
+        {"de": "Der Moment, auf den alle gewartet haben, ist da.", "en": "The moment everyone has been waiting for is here."}
+      ],
+      "words": [{"de": "die Verspätung (-en)", "en": "delay"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Das ist das Thema, {{c1::über das::sprechen über}} wir morgen sprechen.",
+      "en": "That's the topic we'll talk about tomorrow.",
+      "focus": "Relativsatz · Präposition + Akkusativ · neutral",
+      "explanation": "*sprechen über* (to talk about) takes the Akkusativ: *über das Thema*. Neuter Akkusativ → **über das**. Again the preposition comes first; the English word order \"talk about\" at the end is impossible.",
+      "pattern": "Nomen (n.), **über das** + Subjekt + … + Verb.",
+      "mistake": {"wrong": "Das ist das Thema, über dem wir morgen sprechen.", "why": "*über* in the meaning \"about\" always takes the Akkusativ, never the Dativ: *über das*."},
+      "examples": [
+        {"de": "Das ist das Problem, über das sich alle beschweren.", "en": "That's the problem everyone complains about."},
+        {"de": "Das ist das Buch, über das gerade alle reden.", "en": "That's the book everyone is talking about right now."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Die Kollegin, {{c1::für die::kaufen für}} ich das Geschenk gekauft habe, hat heute Geburtstag.",
+      "en": "The colleague I bought the present for has her birthday today.",
+      "focus": "Relativsatz · Präposition mit festem Akkusativ",
+      "explanation": "*für* always takes the Akkusativ: *für die Kollegin*. Feminine Akkusativ → **für die**. The Akkusativ object of *kaufen* is *das Geschenk*.",
+      "pattern": "Nomen (f.), **für die** + … + Partizip II + habe, …",
+      "mistake": {"wrong": "Die Kollegin, für der ich das Geschenk gekauft habe, hat heute Geburtstag.", "why": "*für* is an Akkusativ preposition. *der* is the feminine Dativ; you need *für die*."},
+      "examples": [
+        {"de": "Der Verein, für den sie spielt, ist abgestiegen.", "en": "The club she plays for has been relegated."},
+        {"de": "Die Firma, für die er arbeitet, baut Windräder.", "en": "The company he works for builds wind turbines."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Die Wohnung, {{c1::in die::ziehen in (wohin?)}} wir nächsten Monat ziehen, hat einen Garten.",
+      "en": "The flat we're moving into next month has a garden.",
+      "focus": "Relativsatz · Wechselpräposition (Richtung)",
+      "explanation": "*ziehen* here is a movement to a new place (*wohin?*) → *in* + Akkusativ. *Wohnung* is feminine → **in die**. Compare: *die Wohnung, in der wir wohnen* (location → Dativ).",
+      "pattern": "Nomen (f.), **in die** + … + Bewegungsverb, …",
+      "mistake": {"wrong": "Die Wohnung, in der wir nächsten Monat ziehen, hat einen Garten.", "why": "With a movement into a place, *in* takes the Akkusativ. *in der* is only for a location (*wohnen*)."},
+      "examples": [
+        {"de": "Das ist das Land, in das viele junge Leute auswandern.", "en": "That is the country many young people emigrate to."},
+        {"de": "Der Saal, in den die Gäste gehen, ist festlich geschmückt.", "en": "The hall the guests are going into is festively decorated."}
+      ],
+      "words": [{"de": "ziehen (in + Akk.)", "en": "to move (into)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Autor, dessen {{c1::neuer::neu}} Roman gerade erschienen ist, liest heute in der Stadtbibliothek.",
+      "en": "The author whose new novel has just come out is giving a reading in the city library today.",
+      "focus": "Adjektiv nach Genitiv-Relativpronomen",
+      "explanation": "*dessen* does not show the case of the following noun, so the adjective carries the strong ending, as if there were no article. *Roman* is masculine and the subject of *erschienen ist* → Nominativ strong ending **-er**: **neuer**.",
+      "pattern": "dessen + Adj-**stark** + Nomen + … + Verb, …",
+      "mistake": {"wrong": "Der Autor, dessen neue Roman gerade erschienen ist, liest heute in der Stadtbibliothek.", "why": "*-e* would be the weak ending after *der*. After *dessen/deren* the adjective is strong: masculine Nominativ → *neuer*."},
+      "examples": [
+        {"de": "Die Firma, deren neues Produkt kein Erfolg war, entlässt Mitarbeiter.", "en": "The company whose new product was not a success is laying off staff."},
+        {"de": "Die Sängerin, deren erstes Album ein Erfolg war, geht auf Tournee.", "en": "The singer whose first album was a success is going on tour."}
+      ],
+      "words": [{"de": "erscheinen", "en": "to come out, to be published"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Die Firma, {{c1::deren}} Produkte wir verkaufen, sitzt in Stuttgart.",
+      "en": "The company whose products we sell is based in Stuttgart.",
+      "focus": "Relativsatz · Besitz · Nomen als Objekt",
+      "explanation": "The owner is *die Firma* (feminine) → **deren**. Inside the relative clause *deren Produkte* is the Akkusativ object of *verkaufen* (subject: *wir*). *deren* never changes, whatever the case of the following noun.",
+      "pattern": "Nomen (f.), **deren** + Nomen (Objekt) + Subjekt + Verb, …",
+      "mistake": {"wrong": "Die Firma, deren ihre Produkte wir verkaufen, sitzt in Stuttgart.", "why": "*deren* replaces the possessive *ihre*. Use only one of them: *deren Produkte*."},
+      "examples": [
+        {"de": "Die Autorin, deren Bücher ich sammle, kommt zur Messe.", "en": "The author whose books I collect is coming to the fair."},
+        {"de": "Die Nachbarn, deren Hund wir ausführen, sind verreist.", "en": "The neighbours whose dog we walk are away."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Mein Kollege, {{c1::dessen}} Auto ich mir geliehen habe, ist im Urlaub.",
+      "en": "My colleague, whose car I borrowed, is on holiday.",
+      "focus": "Relativsatz · Besitz · Bezugswort maskulin",
+      "explanation": "The owner *mein Kollege* is masculine → **dessen**. *dessen Auto* is the Akkusativ object of *sich leihen* (*mir* is the reflexive Dativ). The car's gender and case do not change *dessen*.",
+      "pattern": "Nomen (m.), **dessen** + Nomen (Akk.) + Subjekt + … + Verb, …",
+      "mistake": {"wrong": "Mein Kollege, dem sein Auto ich mir geliehen habe, ist im Urlaub.", "why": "Possession in a relative clause is expressed with the Genitiv *dessen*, not with *dem* + *sein*."},
+      "examples": [
+        {"de": "Der Student, dessen Arbeit ich korrigiere, hat sehr gut geschrieben.", "en": "The student whose paper I'm marking has written very well."},
+        {"de": "Das Hotel, dessen Website wir gefunden haben, ist leider voll.", "en": "The hotel whose website we found is unfortunately full."}
+      ],
+      "words": [{"de": "sich (Dat.) etwas leihen", "en": "to borrow something"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die Nachbarin, {{c1::der}} das Auto gehört, ist gerade umgezogen.",
+      "en": "The neighbour the car belongs to has just moved.",
+      "focus": "Relativsatz · Verb mit Dativ · feminin",
+      "explanation": "*gehören* names the owner in the Dativ: *Das Auto gehört der Nachbarin.* Here *das Auto* is the subject, and the neighbour is the Dativ → feminine **der**.",
+      "pattern": "Nomen (f.), **der** + Subjekt + gehört, …",
+      "mistake": {"wrong": "Die Nachbarin, die das Auto gehört, ist gerade umgezogen.", "why": "*gehören* does not take an Akkusativ object. The owner is always Dativ: *der Nachbarin* → relative pronoun *der*."},
+      "examples": [
+        {"de": "Der Mann, dem das Restaurant gehört, kocht selbst.", "en": "The man who owns the restaurant cooks himself."},
+        {"de": "Die Studentin, der das Handy gehört, sucht es schon überall.", "en": "The student the phone belongs to is already looking everywhere for it."}
+      ],
+      "words": [{"de": "gehören (+ Dat.)", "en": "to belong to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Schüler, {{c1::denen}} ich Nachhilfe gebe, haben alle die Prüfung bestanden.",
+      "en": "The pupils I give private lessons to have all passed the exam.",
+      "focus": "Relativsatz · Empfänger · Plural · *geben*",
+      "explanation": "*Nachhilfe geben* has the help as Akkusativ and the people as Dativ: *Ich gebe den Schülern Nachhilfe.* Plural Dativ relative pronoun → **denen**.",
+      "pattern": "Nomen (Pl.), **denen** + Subjekt + Akk. + Verb, …",
+      "mistake": {"wrong": "Die Schüler, die ich Nachhilfe gebe, haben alle die Prüfung bestanden.", "why": "*die* would make the pupils the Akkusativ object, but *Nachhilfe* is already the Akkusativ object. The receivers are Dativ → *denen*."},
+      "examples": [
+        {"de": "Die Patienten, denen der Arzt das Medikament verschreibt, müssen regelmäßig kommen.", "en": "The patients the doctor prescribes the medicine to have to come regularly."},
+        {"de": "Die Familien, denen wir Lebensmittel bringen, wohnen am Stadtrand.", "en": "The families we bring food to live on the edge of town."}
+      ],
+      "words": [{"de": "die Nachhilfe", "en": "private tutoring"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Das ist die Firma, {{c1::bei der::arbeiten bei}} meine Schwester arbeitet.",
+      "en": "That's the company my sister works for.",
+      "focus": "Relativsatz · Präposition + Dativ · Arbeitgeber",
+      "explanation": "With an employer German uses *bei* + Dativ: *Sie arbeitet bei der Firma.* Feminine Dativ → **bei der**. The subject of the relative clause is *meine Schwester*.",
+      "pattern": "Nomen (f.), **bei der** + Subjekt + Verb.",
+      "mistake": {"wrong": "Das ist die Firma, die meine Schwester bei arbeitet.", "why": "The preposition cannot stand at the end. It goes first and takes the Dativ: *bei der meine Schwester arbeitet*."},
+      "examples": [
+        {"de": "Das ist die Bank, bei der ich mein Konto habe.", "en": "That's the bank I have my account with."},
+        {"de": "Das ist der Verlag, bei dem ihr Buch erscheint.", "en": "That's the publisher her book is coming out with."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Ich vergesse nie den Moment, {{c1::in dem::Zeitpunkt · in}} ich die Nachricht bekommen habe.",
+      "en": "I'll never forget the moment I got the news.",
+      "focus": "Relativsatz · Zeitpunkt · Bezugswort im Akkusativ",
+      "explanation": "*den Moment* is Akkusativ in the main clause, but the relative clause needs *in diesem Moment* (time → *in* + Dativ). Masculine Dativ → **in dem**. English often drops the preposition here (\"the moment I got\"); German cannot.",
+      "pattern": "… den + Nomen (m.), **in dem** + … + Partizip II + habe.",
+      "mistake": {"wrong": "Ich vergesse nie den Moment, den ich die Nachricht bekommen habe.", "why": "The relative clause already has an Akkusativ object (*die Nachricht*). The moment is a point in time and needs the preposition: *in dem*."},
+      "examples": [
+        {"de": "Ich erinnere mich an den Augenblick, in dem er die Bühne betrat.", "en": "I remember the moment he walked onto the stage."},
+        {"de": "Wir leben in einer Zeit, in der sich alles schnell ändert.", "en": "We live in a time in which everything changes quickly."}
+      ],
+      "words": [{"de": "die Nachricht (-en)", "en": "news, message"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the forms.",
+      "prompt": "Which Dativ and Genitiv relative pronouns are different from the definite article?",
+      "answer": "Dativ plural **denen** (article: *den*); Genitiv masculine/neuter **dessen** (article: *des*); Genitiv feminine and plural **deren** (article: *der*). *dem* (m/n) and *der* (f) in the Dativ are the same as the article.",
+      "explanation": "These four long forms are where most mistakes happen. *denen* can never be an article, so if you see *denen*, it is a relative or demonstrative pronoun.",
+      "examples": [
+        {"de": "Das sind die Kinder, denen wir Geschenke bringen.", "en": "Those are the children we're bringing presents to."},
+        {"de": "Das ist die Lehrerin, deren Klasse gewonnen hat.", "en": "That's the teacher whose class won."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about prepositions in relative clauses.",
+      "prompt": "Where does the preposition go in a German relative clause, and what decides the case of the pronoun?",
+      "answer": "The preposition goes **at the very beginning, before the pronoun** (*mit dem, auf den, über das*). The **preposition** decides the case: *mit, bei, von, zu* → Dativ; *für, über (about), auf (warten auf)* → Akkusativ; Wechselpräpositionen: *wo?* → Dativ, *wohin?* → Akkusativ.",
+      "explanation": "English can leave the preposition at the end (\"the man I talked to\"). German never does this. Gender and number still come from the Bezugswort.",
+      "examples": [
+        {"de": "Die Reise, von der ich träume, ist sehr teuer.", "en": "The trip I'm dreaming of is very expensive."},
+        {"de": "Die Reise, auf die ich mich freue, beginnt morgen.", "en": "The trip I'm looking forward to starts tomorrow."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about *dessen* and *deren*.",
+      "prompt": "How do you choose between *dessen* and *deren*, and what follows them?",
+      "answer": "The **owner** (the Bezugswort) decides: masculine/neuter → **dessen**, feminine/plural → **deren**. The owned noun follows **without an article**, and an adjective before it takes the **strong** ending (*deren neues Haus*).",
+      "explanation": "*dessen* and *deren* work like *sein* and *ihr*: *der Mann – sein Sohn → dessen Sohn*; *die Frau – ihr Sohn → deren Sohn*. They never change their form, whatever the case of the owned noun.",
+      "examples": [
+        {"de": "Der Fotograf, dessen Bilder hier hängen, ist berühmt.", "en": "The photographer whose pictures are hanging here is famous."},
+        {"de": "Die Fotografin, deren Bilder hier hängen, ist berühmt.", "en": "The photographer (female) whose pictures are hanging here is famous."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about *wo* in relative clauses.",
+      "prompt": "When can you use *wo* instead of *in dem / in der*?",
+      "answer": "When the Bezugswort is a **place** and the relative clause says where something is or happens: *die Stadt, in der / wo ich wohne*. With country and city names *wo* is the normal form: *Berlin, wo ich studiere*.",
+      "explanation": "*wo* never changes its form, which makes it easy. It cannot be used for a direction (*in die wir ziehen*) or for a person. In careful writing *in dem / in der* is often preferred after normal nouns.",
+      "examples": [
+        {"de": "Das ist das Dorf, wo meine Großeltern wohnen.", "en": "That's the village where my grandparents live."},
+        {"de": "Wir fahren nach Hamburg, wo meine Schwester arbeitet.", "en": "We're going to Hamburg, where my sister works."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about verbs that need the Dativ pronoun.",
+      "prompt": "Which kinds of verbs make you use *dem / der / denen* without a preposition?",
+      "answer": "Verbs with a **Dativ object**: *helfen, danken, antworten, gratulieren, vertrauen, gehören, gefallen, schmecken* and verbs with a **receiver** in the Dativ: *geben, schenken, zeigen, schicken, erklären*.",
+      "explanation": "Test the verb in a normal sentence: *Ich danke* **dem Lehrer** → *der Lehrer, dem ich danke*. With *gefallen, gehören, schmecken* the thing is the subject and the person is Dativ.",
+      "examples": [
+        {"de": "Die Kollegin, der ich gratuliert habe, hat ein Baby bekommen.", "en": "The colleague I congratulated has had a baby."},
+        {"de": "Der Junge, dem das Essen nicht schmeckt, isst nur Brot.", "en": "The boy who doesn't like the food is only eating bread."}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause.",
+      "prompt": "Das ist meine Freundin. Ich gehe oft mit ihr ins Kino.",
+      "answer": "Das ist meine Freundin, mit der ich oft ins Kino gehe.",
+      "explanation": "*mit ihr* refers to *meine Freundin* (feminine) and is Dativ because of *mit* → *mit der*. The preposition moves to the front with the pronoun, and *gehe* goes to the end."
+    },
+    {
+      "key": "d07",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and put it after *Der Mann*.",
+      "prompt": "Der Mann wohnt über uns. Seine Tochter spielt jeden Abend Klavier.",
+      "answer": "Der Mann, dessen Tochter jeden Abend Klavier spielt, wohnt über uns.",
+      "explanation": "*seine Tochter* shows that the man is the owner → masculine Genitiv *dessen*, which replaces *seine*. *Tochter* follows without an article, and *spielt* goes to the end."
+    },
+    {
+      "key": "d08",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and put it after *Die Kollegen*.",
+      "prompt": "Die Kollegen sind sehr hilfsbereit. Ich arbeite mit ihnen im Labor.",
+      "answer": "Die Kollegen, mit denen ich im Labor arbeite, sind sehr hilfsbereit.",
+      "explanation": "*mit ihnen* is Dativ plural → *mit denen*. The relative clause stands between the subject *Die Kollegen* and the main-clause verb *sind*."
+    },
+    {
+      "key": "d09",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause.",
+      "prompt": "Das ist die Frau. Ich habe ihr meine Wohnung vermietet.",
+      "answer": "Das ist die Frau, der ich meine Wohnung vermietet habe.",
+      "explanation": "*ihr* is the Dativ (the person the flat is rented to) → feminine Dativ relative pronoun *der*. *meine Wohnung* stays the Akkusativ object, and *habe* goes to the end."
+    },
+    {
+      "key": "d10",
+      "type": "combine",
+      "instruction": "Make the second sentence a relative clause and put it after *Die Frage*.",
+      "prompt": "Die Frage ist schwierig. Wir denken seit Tagen über die Frage nach.",
+      "answer": "Die Frage, über die wir seit Tagen nachdenken, ist schwierig.",
+      "explanation": "*nachdenken über* takes the Akkusativ → *über die* (feminine). In the Nebensatz the separable verb is written together at the end: *nachdenken*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Leute, den ich geholfen habe, waren sehr dankbar.",
+      "answer": "Die Leute, denen ich geholfen habe, waren sehr dankbar.",
+      "explanation": "*helfen* takes the Dativ, and *Leute* is plural. The plural Dativ relative pronoun is *denen*, not *den*."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist der Kollege, der ich am meisten vertraue.",
+      "answer": "Das ist der Kollege, dem ich am meisten vertraue.",
+      "explanation": "*ich* is the subject of *vertraue*, and *vertrauen* takes a Dativ object. Masculine Dativ → *dem*."
+    },
+    {
+      "key": "d13",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Frau, dessen Sohn hier studiert, ist Ärztin.",
+      "answer": "Die Frau, deren Sohn hier studiert, ist Ärztin.",
+      "explanation": "The owner is *die Frau* (feminine), so the Genitiv pronoun is *deren*. The masculine *Sohn* does not decide the form."
+    },
+    {
+      "key": "d14",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das ist das Haus, das ich in wohne.",
+      "answer": "Das ist das Haus, in dem ich wohne.",
+      "explanation": "The preposition must stand before the pronoun, and *in* + location (*wohnen*) takes the Dativ: *in dem*. (Also possible: *wo ich wohne*.)"
+    },
+    {
+      "key": "d15",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Die Stadt, ___ ich aufgewachsen bin, liegt am Rhein.",
+      "options": ["in der", "in die", "in dem", "die"],
+      "correct": "in der",
+      "answer": "Die Stadt, in der ich aufgewachsen bin, liegt am Rhein.",
+      "explanation": "*aufwachsen* happens at a place (*wo?*) → *in* + Dativ, and *Stadt* is feminine → *in der*. *in die* is a direction, *in dem* is masculine/neuter, and *die* without a preposition does not fit, because *aufwachsen* has no object."
+    },
+    {
+      "key": "d16",
+      "type": "choice",
+      "instruction": "Choose the correct relative pronoun.",
+      "prompt": "Der Kunde, ___ Bestellung verloren gegangen ist, ist sehr verärgert.",
+      "options": ["dessen", "deren", "dem", "den"],
+      "correct": "dessen",
+      "answer": "Der Kunde, dessen Bestellung verloren gegangen ist, ist sehr verärgert.",
+      "explanation": "It is the customer's order → Genitiv; the owner *der Kunde* is masculine → *dessen*. *deren* would need a feminine or plural owner (the feminine *Bestellung* does not decide), and *dem/den* do not show possession."
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Die Kollegin",
+      "prompt": "ist krank / mit der / die Kollegin / das Projekt mache / ich",
+      "answer": "Die Kollegin, mit der ich das Projekt mache, ist krank.",
+      "explanation": "The relative clause directly follows *Die Kollegin* and starts with the preposition + pronoun *mit der*. Its finite verb *mache* is last; then the main clause continues with *ist krank*. Also possible, with the relative clause in the Nachfeld: *Die Kollegin ist krank, mit der ich das Projekt mache.*"
+    },
+    {
+      "key": "d18",
+      "type": "transform",
+      "instruction": "Make the Bezugswort plural (*der Freund → die Freunde*). Change everything that needs it.",
+      "prompt": "Das ist der Freund, dem ich alles erzähle.",
+      "answer": "Das sind die Freunde, denen ich alles erzähle.",
+      "explanation": "*erzählen* has the listener in the Dativ. In the plural the Dativ relative pronoun becomes *denen*, and the main clause changes from *Das ist* to *Das sind*. *erzähle* stays, because its subject is *ich*."
+    }
+  ]
+}

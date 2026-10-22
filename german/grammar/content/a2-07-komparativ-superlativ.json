@@ -1,0 +1,1418 @@
+{
+  "topic_id": "a2-07-komparativ-superlativ",
+  "level": "A2",
+  "title_de": "Komparativ und Superlativ",
+  "title_en": "Comparative and superlative",
+  "rule": {
+    "summary": "To say that two things are different, use the **Komparativ** (adjective + **-er**) and **als**: *Tom ist größer als Anna.* To say that they are equal, use **(genau)so** + base form + **wie**: *Tom ist so groß wie Anna.* The **Superlativ** has two forms: **am** + adjective + **-sten** after a verb (*Tom ist am größten*, *Er läuft am schnellsten*) and article + adjective + **-st-** + ending before a noun (*der größte Junge*). Comparative and superlative before a noun always take the normal adjective endings.",
+    "table": "| Positiv | Komparativ | Superlativ |\n|---|---|---|\n| schnell | schnell**er** | am schnell**sten** · der schnell**ste** |\n| alt (Umlaut) | **ä**lt**er** | am **ä**lt**esten** (-t → -esten) |\n| kurz (Umlaut) | k**ü**rz**er** | am k**ü**rz**esten** (-z → -esten) |\n| dunkel | dunk**ler** | am dunkel**sten** |\n| teuer | teu**rer** | am teuer**sten** |\n| gut | **besser** | am **besten** |\n| viel | **mehr** | am **meisten** |\n| gern | **lieber** | am **liebsten** |\n| hoch | **höher** | am **höchsten** |\n| nah | **näher** | am **nächsten** |",
+    "steps": [
+      "Decide the type of comparison: different → Komparativ + *als*; equal → *(genau)so* + base form + *wie*; the top of a group → Superlativ.",
+      "Form the comparative with *-er*, also for long adjectives (*interessanter*, never *mehr interessant*). Many short adjectives with *a, o, u* take an umlaut: *alt → älter, groß → größer, jung → jünger, oft → öfter*. Adjectives in *-el* drop the *e*: *dunkler*; so do *teuer* and *sauer* (*teurer, saurer*). Most other adjectives in *-er* keep it: *sicherer, sauberer*.",
+      "Form the superlative: after a verb **am** + *-sten*; before a noun article + *-st-* + ending. After *-d, -t, -s, -ß, -sch, -z* add *-e-*: *am ältesten, am heißesten* (exception: *am größten*).",
+      "Before a noun add the normal adjective ending after *-er* or *-st-*: *ein größeres Auto, mit dem schnelleren Zug, die beste Idee*. Only *mehr* and *weniger* never take an ending.",
+      "After *als* and *wie* the second element has the same case as the first: *Er ist größer als ich* (Nominativ), not *als mich*."
+    ],
+    "pitfalls": [
+      "*mehr* + adjective copied from English: ✗ *mehr interessant* → ✓ *interessanter*; ✗ *mehr oft* → ✓ *öfter*.",
+      "*wie* after a comparative or *als* after *so*: ✗ *größer wie ich* → ✓ *größer als ich*; ✗ *so groß als ich* → ✓ *so groß wie ich*.",
+      "Mixing the two superlative forms: ✗ *die am besten Lösung* → ✓ *die beste Lösung*; ✗ *Diese Lösung ist am beste.* → ✓ *Diese Lösung ist am besten.*",
+      "Regular forms for irregular adjectives: ✗ *guter, gerner, hocher, am nahsten* → ✓ *besser, lieber, höher, am nächsten*.",
+      "Forgetting the adjective ending: ✗ *ein größer Auto* → ✓ *ein größeres Auto*. The *-er* of the comparative is not a case ending."
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Mein Bruder ist {{c1::größer::groß}} als ich.",
+      "en": "My brother is taller than me.",
+      "focus": "Komparativ · Umlaut · Vergleich mit einer Person",
+      "explanation": "Two people are compared and they are different → Komparativ + *als*. *groß* is a short adjective with *o*, so it takes an umlaut: groß → **größer**. After *als* the pronoun stays in the Nominativ, like the subject *mein Bruder*: *als ich*.",
+      "pattern": "Subjekt + ist + Adj-**er** + als + Nom.",
+      "mistake": {
+        "wrong": "Mein Bruder ist größer als mich.",
+        "why": "*als* does not trigger a case. *ich* is compared with the subject *mein Bruder*, so it stays Nominativ (English *than me* misleads here)."
+      },
+      "examples": [
+        {
+          "de": "Meine Schwester ist größer als du.",
+          "en": "My sister is taller than you."
+        },
+        {
+          "de": "Der neue Kollege ist größer als sein Chef.",
+          "en": "The new colleague is taller than his boss."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Berlin ist {{c1::schöner::schön}} als Frankfurt.",
+      "en": "Berlin is more beautiful than Frankfurt.",
+      "focus": "Komparativ · Städte vergleichen",
+      "explanation": "*schön* already has the vowel *ö*, so only *-er* is added: schön → **schöner**. English says *more beautiful*, but German always forms the comparative with *-er*. The second city follows *als*.",
+      "pattern": "A + ist + Adj-**er** + als + B",
+      "mistake": {
+        "wrong": "Berlin ist schöner dann Frankfurt.",
+        "why": "*dann* means *then* (in time). After a comparative, English *than* is always *als* in German."
+      },
+      "examples": [
+        {
+          "de": "Hamburg ist teurer als Leipzig.",
+          "en": "Hamburg is more expensive than Leipzig."
+        },
+        {
+          "de": "München ist kleiner als Berlin.",
+          "en": "Munich is smaller than Berlin."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Heute ist es {{c1::kälter::kalt}} als gestern.",
+      "en": "Today it's colder than yesterday.",
+      "focus": "Komparativ · Umlaut · Wetter",
+      "explanation": "*kalt* is a one-syllable adjective with *a* → umlaut: kalt → **kälter**. The impersonal *es* is the subject for the weather, and *gestern* after *als* names the time you compare with.",
+      "pattern": "es ist + Adj-**er** (Umlaut) + als + Zeit",
+      "mistake": {
+        "wrong": "Heute ist es kalter als gestern.",
+        "why": "*kalt* belongs to the short adjectives that take an umlaut: *kalt – kälter – am kältesten*."
+      },
+      "examples": [
+        {
+          "de": "Nachts ist es in der Wüste kälter als am Tag.",
+          "en": "In the desert it's colder at night than during the day."
+        },
+        {
+          "de": "In den Bergen ist es kälter als im Tal.",
+          "en": "It's colder in the mountains than in the valley."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Das Auto fährt {{c1::schneller::schnell}} als das Fahrrad.",
+      "en": "The car goes faster than the bike.",
+      "focus": "Komparativ · als Adverb beim Verb",
+      "explanation": "*schneller* describes how the car *fährt*, so it is used as an adverb. German adverbs form the comparative exactly like adjectives: schnell → **schneller**, and as an adverb it takes no ending.",
+      "pattern": "Verb + Adj-**er** (Adverb) + als + B",
+      "mistake": {
+        "wrong": "Das Auto fährt schneller wie das Fahrrad.",
+        "why": "*wie* is used after *so / genauso* + base form. After a comparative, standard German requires *als*."
+      },
+      "examples": [
+        {
+          "de": "Mein Kollege tippt schneller als ich.",
+          "en": "My colleague types faster than me."
+        },
+        {
+          "de": "Der Zug fährt langsamer als der Bus.",
+          "en": "The train goes more slowly than the bus."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Ich bin {{c1::älter::alt}} als meine Schwester.",
+      "en": "I am older than my sister.",
+      "focus": "Komparativ · Umlaut *a → ä*",
+      "explanation": "alt → **älter**: a one-syllable adjective with *a* takes an umlaut. *meine Schwester* after *als* is Nominativ, like the subject *ich*. Before a noun the same form needs an ending: *meine ältere Schwester* (my older sister).",
+      "pattern": "ich bin + Adj-**er** (Umlaut) + als + Nom.",
+      "mistake": {
+        "wrong": "Ich bin alter als meine Schwester.",
+        "why": "Without the umlaut the form does not exist. The series is *alt – älter – am ältesten*."
+      },
+      "examples": [
+        {
+          "de": "Unser Haus ist älter als die Kirche.",
+          "en": "Our house is older than the church."
+        },
+        {
+          "de": "Mein Vater ist drei Jahre älter als meine Mutter.",
+          "en": "My father is three years older than my mother."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Diese Übung ist {{c1::am leichtesten::leicht}}.",
+      "en": "This exercise is the easiest.",
+      "focus": "Superlativ · nach *sein* ohne Nomen",
+      "explanation": "After *sein*, without a noun, the superlative is **am** + adjective + *-sten*. *leicht* ends in *-t*, so an extra *e* is added: am leicht**esten**.",
+      "pattern": "ist + am + Adj-**(e)sten**",
+      "mistake": {
+        "wrong": "Diese Übung ist am leichtsten.",
+        "why": "After *-d, -t, -s, -ß, -z* the superlative needs *-esten*; *leichtsten* cannot be pronounced well."
+      },
+      "examples": [
+        {
+          "de": "Dieser Weg ist am sichersten.",
+          "en": "This route is the safest."
+        },
+        {
+          "de": "Die letzte Frage war am schwierigsten.",
+          "en": "The last question was the most difficult."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Übung (-en)",
+          "en": "exercise"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Sie spricht {{c1::am besten::gut}} Deutsch in der Klasse.",
+      "en": "She speaks German the best in the class.",
+      "focus": "Superlativ · unregelmäßig · Adverb",
+      "explanation": "*gut* is irregular: *gut – besser – am besten*. Here it describes how she speaks (adverb), so the superlative is **am besten**. *in der Klasse* names the group she is compared with; it can also come earlier: *Sie spricht in der Klasse am besten Deutsch.*",
+      "pattern": "Verb + am + besten (Adverb)",
+      "mistake": {
+        "wrong": "Sie spricht am gutesten Deutsch in der Klasse.",
+        "why": "*gut* has no regular superlative. The forms are *besser* and *am besten*."
+      },
+      "examples": [
+        {
+          "de": "Wer kann in deiner Familie am besten kochen?",
+          "en": "Who is the best cook in your family?"
+        },
+        {
+          "de": "Von allen Spielern schießt Max am besten.",
+          "en": "Of all the players, Max shoots the best."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Im Sommer sind die Tage {{c1::am längsten::lang}}.",
+      "en": "In summer the days are the longest.",
+      "focus": "Superlativ · Umlaut · nach *sein*",
+      "explanation": "*lang* has an umlaut in the comparative and superlative: *lang – länger – am längsten*. The superlative stands after *sind* without a noun, so the form is *am* + *-sten*: **am längsten**.",
+      "pattern": "sind + am + Adj-**sten** (Umlaut)",
+      "mistake": {
+        "wrong": "Im Sommer sind die Tage am langsten.",
+        "why": "The umlaut of *lang* appears in both the comparative and the superlative: *länger, am längsten*."
+      },
+      "examples": [
+        {
+          "de": "Im Dezember sind die Nächte am längsten.",
+          "en": "In December the nights are the longest."
+        },
+        {
+          "de": "Am Freitag sind die Schlangen im Supermarkt am längsten.",
+          "en": "On Fridays the queues in the supermarket are the longest."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Ich trinke {{c1::lieber::gern}} Tee als Kaffee.",
+      "en": "I prefer tea to coffee.",
+      "focus": "Komparativ · unregelmäßig · Vorliebe",
+      "explanation": "*gern* + verb says that you like doing something. Its comparative is irregular: *gern – lieber – am liebsten*. **lieber** + *als* = to prefer one thing to another: *lieber Tee als Kaffee trinken*.",
+      "pattern": "Verb + lieber + A + als + B",
+      "mistake": {
+        "wrong": "Ich trinke gerner Tee als Kaffee.",
+        "why": "*gern* has no regular comparative. The comparative is *lieber*."
+      },
+      "examples": [
+        {
+          "de": "Wir fahren lieber mit dem Zug als mit dem Auto.",
+          "en": "We prefer going by train to going by car."
+        },
+        {
+          "de": "Sie liest lieber Romane als Zeitungen.",
+          "en": "She prefers reading novels to newspapers."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Was isst du {{c1::am liebsten::gern}}?",
+      "en": "What do you like to eat most?",
+      "focus": "Superlativ · Vorliebe · W-Frage",
+      "explanation": "**am liebsten** is the superlative of *gern*: what you like doing most of all. It stands in the Mittelfeld like an adverb. A typical answer starts with it: *Am liebsten esse ich Pasta.*",
+      "pattern": "Verb + am liebsten",
+      "mistake": {
+        "wrong": "Was isst du am gernsten?",
+        "why": "*gern* is irregular in all forms: *lieber, am liebsten*."
+      },
+      "examples": [
+        {
+          "de": "Am liebsten fahre ich im Herbst in die Berge.",
+          "en": "I like going to the mountains in autumn best."
+        },
+        {
+          "de": "Was machst du am Wochenende am liebsten?",
+          "en": "What do you like doing most at the weekend?"
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Mein Freund ist {{c1::jünger::jung}} als ich.",
+      "en": "My boyfriend is younger than me.",
+      "focus": "Komparativ · Umlaut *u → ü*",
+      "explanation": "jung → **jünger**: many one-syllable adjectives with *u* take an umlaut (*jung, kurz, dumm, klug*). The pronoun after *als* is Nominativ because it is compared with the subject: *als ich*.",
+      "pattern": "ist + Adj-**er** (u → ü) + als + Nom.",
+      "mistake": {
+        "wrong": "Mein Freund ist junger als ich.",
+        "why": "*jung* takes an umlaut: *jung – jünger – am jüngsten*. *junger* is only the adjective with an ending (*ein junger Mann*)."
+      },
+      "examples": [
+        {
+          "de": "Die Katze ist jünger als der Hund.",
+          "en": "The cat is younger than the dog."
+        },
+        {
+          "de": "Meine Chefin ist jünger als ich.",
+          "en": "My boss is younger than me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Dieses Buch ist {{c1::interessanter::interessant}} als das andere.",
+      "en": "This book is more interesting than the other one.",
+      "focus": "Komparativ · langes Adjektiv",
+      "explanation": "In German even long adjectives simply add *-er*: interessant → **interessanter**. English uses *more interesting*, but German never builds the comparative with *mehr*.",
+      "pattern": "langes Adj + **-er** + als",
+      "mistake": {
+        "wrong": "Dieses Buch ist mehr interessant als das andere.",
+        "why": "This copies the English structure. German has only one way to form the comparative: the ending *-er*."
+      },
+      "examples": [
+        {
+          "de": "Die zweite Präsentation war spannender als die erste.",
+          "en": "The second presentation was more exciting than the first."
+        },
+        {
+          "de": "Das neue Programm ist komplizierter als das alte.",
+          "en": "The new program is more complicated than the old one."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Mein Auto ist {{c1::neuer::neu}} als deins.",
+      "en": "My car is newer than yours.",
+      "focus": "Komparativ · Vergleich mit Possessivpronomen",
+      "explanation": "neu → **neuer** (*eu* cannot take an umlaut). *deins* stands for *dein Auto*: a possessive pronoun without a noun takes the strong ending, here neuter *-s*. Both cars are subjects of *ist*, so *deins* is Nominativ.",
+      "pattern": "Adj-**er** + als + Possessivpronomen (Nom.)",
+      "mistake": {
+        "wrong": "Mein Auto ist neuer als dein.",
+        "why": "Without a noun the possessive needs an ending: *deins* (*dein Auto*), *deiner* (*dein Wagen*), *deine* (*deine Wohnung*)."
+      },
+      "examples": [
+        {
+          "de": "Ihr Fahrrad ist teurer als meins.",
+          "en": "Her bike is more expensive than mine."
+        },
+        {
+          "de": "Unser Garten ist kleiner als eurer.",
+          "en": "Our garden is smaller than yours."
+        }
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Diese Aufgabe ist {{c1::schwerer::schwer}} als die andere.",
+      "en": "This task is harder than the other one.",
+      "focus": "Komparativ · ein Wort, zwei Bedeutungen",
+      "explanation": "*schwer* means *difficult* here (it can also mean *heavy*). It adds *-er* without any change: **schwerer**. *die andere* stands for *die andere Aufgabe* and is Nominativ, like *diese Aufgabe*.",
+      "pattern": "A + ist + Adj-**er** + als + B",
+      "mistake": {
+        "wrong": "Diese Aufgabe ist schwer als die andere.",
+        "why": "*als* needs a comparative before it. Without *-er* the adjective is the base form and the comparison does not work."
+      },
+      "examples": [
+        {
+          "de": "Die Prüfung war schwerer als der Test im Mai.",
+          "en": "The exam was harder than the test in May."
+        },
+        {
+          "de": "Englisch ist für mich leichter als Französisch.",
+          "en": "For me English is easier than French."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Aufgabe (-n)",
+          "en": "task, exercise"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Sie singt {{c1::am schönsten::schön}} in der Klasse.",
+      "en": "She sings the most beautifully in the class.",
+      "focus": "Superlativ · Adverb beim Verb",
+      "explanation": "*am schönsten* describes how she sings → adverb. An adverb has only the *am … -sten* form in the superlative: schön → **am schönsten**. No umlaut is added, because *ö* is already there.",
+      "pattern": "Verb + am + Adj-**sten** (Adverb)",
+      "mistake": {
+        "wrong": "Sie singt die schönste in der Klasse.",
+        "why": "*die schönste* needs a noun (*die schönste Stimme*). To say how someone does something, use *am schönsten*."
+      },
+      "examples": [
+        {
+          "de": "Wer tanzt bei euch am schönsten?",
+          "en": "Who dances the most beautifully in your group?"
+        },
+        {
+          "de": "Im Frühling blühen die Bäume am schönsten.",
+          "en": "The trees blossom most beautifully in spring."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Ich bin {{c1::zufriedener::zufrieden}} als früher.",
+      "en": "I'm more content than before.",
+      "focus": "Komparativ · Vergleich mit früher",
+      "explanation": "*zufrieden* has three syllables and takes no umlaut: zufrieden → **zufriedener**. The comparison here is with an earlier time: *als früher* (than before).",
+      "pattern": "Adj-**er** + als + früher",
+      "mistake": {
+        "wrong": "Ich bin zufriedener wie früher.",
+        "why": "*wie früher* means *as before* (*Es ist alles wie früher*). After a comparative you need *als*: *zufriedener als früher*."
+      },
+      "examples": [
+        {
+          "de": "Die Stadt ist heute sauberer als früher.",
+          "en": "The city is cleaner today than it used to be."
+        },
+        {
+          "de": "Mein Opa ist gesünder als vor einem Jahr.",
+          "en": "My grandpa is healthier than a year ago."
+        }
+      ],
+      "words": [
+        {
+          "de": "zufrieden",
+          "en": "content, satisfied"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Mein Freund ist {{c1::am freundlichsten::freundlich}}.",
+      "en": "My friend is the friendliest.",
+      "focus": "Superlativ · Adjektiv auf *-lich*",
+      "explanation": "Adjectives in *-lich, -ig, -bar* never take an umlaut and add only *-sten*: freundlich → **am freundlichsten**. The *am* form is used because no noun follows.",
+      "pattern": "ist + am + Adj-**sten** (-lich)",
+      "mistake": {
+        "wrong": "Mein Freund ist am freundlichesten.",
+        "why": "*-esten* is only needed after *-d, -t, -s, -ß, -sch, -z*. After *-ch* the ending is simply *-sten*."
+      },
+      "examples": [
+        {
+          "de": "Von allen Kellnern war er am höflichsten.",
+          "en": "Of all the waiters he was the most polite."
+        },
+        {
+          "de": "Abends ist der Verkehr am ruhigsten.",
+          "en": "The traffic is quietest in the evening."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Im Winter ist es {{c1::am dunkelsten::dunkel}}.",
+      "en": "In winter it's darkest.",
+      "focus": "Superlativ · Adjektiv auf *-el*",
+      "explanation": "*dunkel* drops the *e* only before an ending that starts with a vowel: *dunkler, die dunkle Nacht*. In the superlative *-sten* starts with a consonant, so the stem stays complete: **am dunkelsten**.",
+      "pattern": "ist + am + dunkel + **sten**",
+      "mistake": {
+        "wrong": "Im Winter ist es am dunklesten.",
+        "why": "The *e* of *dunkel* only drops in the comparative and before vowel endings. The superlative is *am dunkelsten*."
+      },
+      "examples": [
+        {
+          "de": "Kurz vor Sonnenaufgang ist es am dunkelsten.",
+          "en": "It's darkest just before sunrise."
+        },
+        {
+          "de": "Von allen Zimmern ist das Bad am dunkelsten.",
+          "en": "Of all the rooms the bathroom is the darkest."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Das Fahrrad ist {{c1::billiger::billig}} als das Auto.",
+      "en": "The bike is cheaper than the car.",
+      "focus": "Komparativ · Preis · Kasus nach *als*",
+      "explanation": "billig → **billiger**; adjectives in *-ig* never take an umlaut. *das Auto* after *als* has the same case as *das Fahrrad*: both are Nominativ. In shops *günstiger* is the more polite word.",
+      "pattern": "A (Nom.) + ist + Adj-**er** + als + B (Nom.)",
+      "mistake": {
+        "wrong": "Das Fahrrad ist billiger als dem Auto.",
+        "why": "*als* is not a preposition and does not take the Dativ. The car is compared with the subject, so it is Nominativ: *als das Auto*."
+      },
+      "examples": [
+        {
+          "de": "Das Gemüse auf dem Markt ist billiger als im Supermarkt.",
+          "en": "The vegetables at the market are cheaper than in the supermarket."
+        },
+        {
+          "de": "Ein Monatsticket ist günstiger als zwanzig Einzelfahrten.",
+          "en": "A monthly ticket is cheaper than twenty single journeys."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Er fährt von uns allen {{c1::am schnellsten::schnell}}.",
+      "en": "He drives the fastest of all of us.",
+      "focus": "Superlativ · Vergleichsgruppe mit *von*",
+      "explanation": "The group is named with *von* + Dativ: *von uns allen* (of all of us). He drives faster than everyone in it → superlative adverb **am schnellsten**. *schnell* ends in *-ll*, so no extra *e* is added.",
+      "pattern": "von + Dat. (Gruppe) + am + Adj-**sten**",
+      "mistake": {
+        "wrong": "Er fährt von uns allen am schnellesten.",
+        "why": "The extra *e* is only needed after *-d, -t, -s, -ß, -sch, -z*. After *-ll* it is *am schnellsten*."
+      },
+      "examples": [
+        {
+          "de": "Von allen Schülern hat Lea am meisten gelernt.",
+          "en": "Of all the pupils Lea studied the most."
+        },
+        {
+          "de": "Wer von euch wohnt am weitesten weg?",
+          "en": "Which of you lives the furthest away?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "r00",
+      "de": "Mein Koffer ist {{c1::schwerer::schwer}} als deiner.",
+      "en": "My suitcase is heavier than yours.",
+      "focus": "Komparativ · Possessivpronomen (m.)",
+      "explanation": "*schwer* here means *heavy*: schwer → **schwerer**, compared with *als*. *deiner* stands for *dein Koffer*: a masculine Nominativ possessive pronoun takes *-er*.",
+      "pattern": "Adj-**er** + als + deiner (Nom. m.)",
+      "mistake": {
+        "wrong": "Mein Koffer ist schwerer als deinen.",
+        "why": "*als* does not change the case. Both suitcases are subjects, so the pronoun is Nominativ: *deiner*."
+      },
+      "examples": [
+        {
+          "de": "Sein Rucksack ist leichter als meiner.",
+          "en": "His rucksack is lighter than mine."
+        },
+        {
+          "de": "Ihr Hund ist größer als unserer.",
+          "en": "Their dog is bigger than ours."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Koffer (-)",
+          "en": "suitcase"
+        }
+      ],
+      "production_cue": "(informal du)",
+      "sentence_card": false
+    },
+    {
+      "key": "r01",
+      "de": "Berlin ist {{c1::größer::groß}} als Zürich.",
+      "en": "Berlin is bigger than Zurich.",
+      "focus": "Komparativ · Umlaut · Sonderfall im Superlativ",
+      "explanation": "groß → **größer**: umlaut + *-er*. *groß* is also special in the superlative: it ends in *-ß* but takes only *-ten*: *am größten*, not *am größesten*.",
+      "pattern": "A + ist + Adj-**er** (Umlaut) + als + B",
+      "mistake": {
+        "wrong": "Berlin ist großer als Zürich.",
+        "why": "*groß* belongs to the short adjectives with umlaut: *groß – größer – am größten*."
+      },
+      "examples": [
+        {
+          "de": "Die Schweiz ist kleiner als Österreich.",
+          "en": "Switzerland is smaller than Austria."
+        },
+        {
+          "de": "Der Bodensee ist größer als der Zürichsee.",
+          "en": "Lake Constance is bigger than Lake Zurich."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r02",
+      "de": "Das war der {{c1::beste::gut}} Tag des Jahres.",
+      "en": "That was the best day of the year.",
+      "focus": "Superlativ vor Nomen · unregelmäßig",
+      "explanation": "Before a noun the superlative has an article and an adjective ending: *der* + best- + *-e* (masculine Nominativ after *der*) → **beste**. The stem is irregular: *gut – besser – best-*. *des Jahres* is the Genitiv: of the year.",
+      "pattern": "der + Superlativ-**e** + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Das war der am besten Tag des Jahres.",
+        "why": "*am besten* is only used without a noun. Before a noun use the declined form: *der beste Tag*."
+      },
+      "examples": [
+        {
+          "de": "Sie ist die beste Spielerin im Team.",
+          "en": "She is the best player on the team."
+        },
+        {
+          "de": "Das war das schönste Konzert meines Lebens.",
+          "en": "That was the most beautiful concert of my life."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r03",
+      "de": "Heute ist es {{c1::wärmer::warm}} als gestern.",
+      "en": "Today it's warmer than yesterday.",
+      "focus": "Komparativ · Umlaut in allen Formen",
+      "explanation": "warm → **wärmer** → *am wärmsten*: the umlaut stays in the comparative and superlative. With *es ist* the comparative describes how the weather has changed since *gestern*.",
+      "pattern": "es ist + Adj-**er** (Umlaut) + als",
+      "mistake": {
+        "wrong": "Heute ist es mehr warm als gestern.",
+        "why": "German never uses *mehr* + adjective for a comparative. The form is *wärmer*."
+      },
+      "examples": [
+        {
+          "de": "Im Büro ist es wärmer als draußen.",
+          "en": "It's warmer in the office than outside."
+        },
+        {
+          "de": "Morgen wird es noch wärmer.",
+          "en": "Tomorrow it will be even warmer."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r04",
+      "de": "Sie spricht Deutsch {{c1::genauso}} gut wie ich.",
+      "en": "She speaks German just as well as I do.",
+      "focus": "Vergleich · Gleichheit",
+      "explanation": "When two things are equal, German uses **(genau)so** + base form + *wie*. *genauso* stresses that they are exactly equal. The adjective *gut* stays in the base form (Positiv), not the comparative.",
+      "pattern": "genauso + Positiv + wie",
+      "mistake": {
+        "wrong": "Sie spricht Deutsch genauso gut als ich.",
+        "why": "After *so / genauso* the comparison word is *wie*. *als* only follows a comparative (*besser als ich*)."
+      },
+      "examples": [
+        {
+          "de": "Mein Bruder ist genauso groß wie mein Vater.",
+          "en": "My brother is just as tall as my father."
+        },
+        {
+          "de": "Das Spiel war so spannend wie das Finale.",
+          "en": "The match was as exciting as the final."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r05",
+      "de": "Das ist die {{c1::teuerste::teuer}} Wohnung im Haus.",
+      "en": "That's the most expensive flat in the building.",
+      "focus": "Superlativ vor Nomen · Adjektiv auf *-er*",
+      "explanation": "*teuer* drops its *e* in the comparative (*teurer*) and before vowel endings (*ein teures Auto*). In the superlative the stem stays complete: teuer + *-st-* + *-e* → **teuerste**. *Wohnung* is feminine Nominativ after *die* → ending *-e*.",
+      "pattern": "die + Superlativ-**e** + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Das ist die teurste Wohnung im Haus.",
+        "why": "The *e* of *teuer* only drops in the comparative and before vowel endings (*teurer, ein teures Auto*). The superlative is *teuerst-*."
+      },
+      "examples": [
+        {
+          "de": "Das ist der teuerste Laden in der Straße.",
+          "en": "That's the most expensive shop on the street."
+        },
+        {
+          "de": "Er hat das teuerste Menü bestellt.",
+          "en": "He ordered the most expensive set menu."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r06",
+      "de": "Er läuft {{c1::schneller::schnell}} als sein Bruder.",
+      "en": "He runs faster than his brother.",
+      "focus": "Komparativ als Adverb · Kasus nach *als*",
+      "explanation": "*schneller* describes how he runs → comparative used as an adverb, with no ending. *sein Bruder* is compared with the subject *er*, so it is Nominativ.",
+      "pattern": "Verb + Adj-**er** + als + Nom.",
+      "mistake": {
+        "wrong": "Er läuft schneller als seinen Bruder.",
+        "why": "*seinen* is Akkusativ. *als* does not govern a case; the brother is compared with the subject and stays Nominativ."
+      },
+      "examples": [
+        {
+          "de": "Sie arbeitet schneller als ihre Kollegen.",
+          "en": "She works faster than her colleagues."
+        },
+        {
+          "de": "Mein Sohn schwimmt schon schneller als ich.",
+          "en": "My son already swims faster than me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r07",
+      "de": "Der Winter war dieses Jahr {{c1::milder::mild}}.",
+      "en": "The winter was milder this year.",
+      "focus": "Komparativ ohne *als*",
+      "explanation": "A comparative can stand without *als* when the second part is clear from the context: *milder* (than usual / than last year). mild → **milder**; the vowel *i* cannot take an umlaut.",
+      "pattern": "Adj-**er** (ohne als-Teil)",
+      "mistake": {
+        "wrong": "Der Winter war dieses Jahr mehr mild.",
+        "why": "Even without *als* the comparative is built with *-er*: *milder*."
+      },
+      "examples": [
+        {
+          "de": "Die neue Wohnung ist heller.",
+          "en": "The new flat is brighter."
+        },
+        {
+          "de": "Nimm lieber den Bus, das ist billiger.",
+          "en": "Better take the bus, it's cheaper."
+        }
+      ],
+      "words": [
+        {
+          "de": "mild",
+          "en": "mild"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r08",
+      "de": "Ich mag Tee {{c1::lieber::gern}} als Kaffee.",
+      "en": "I prefer tea to coffee.",
+      "focus": "Komparativ · mit *mögen*",
+      "explanation": "**lieber**, the comparative of *gern*, also combines with *mögen*: *etwas lieber mögen* = to like something more, to prefer it. With a noun object you can say *Ich mag Tee lieber* or *Ich trinke lieber Tee*.",
+      "pattern": "mögen + Akk. + lieber + als + Akk.",
+      "mistake": {
+        "wrong": "Ich mag Tee gerner als Kaffee.",
+        "why": "*gern* has an irregular comparative: *lieber*. *gerner* does not exist."
+      },
+      "examples": [
+        {
+          "de": "Magst du Hunde lieber als Katzen?",
+          "en": "Do you like dogs more than cats?"
+        },
+        {
+          "de": "Die Kinder mögen den Strand lieber als die Berge.",
+          "en": "The children prefer the beach to the mountains."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r09",
+      "de": "Das ist am {{c1::einfachsten::einfach}}.",
+      "en": "That's the easiest.",
+      "focus": "Superlativ · nach *sein* ohne Nomen",
+      "explanation": "Without a noun, the superlative after *sein* is *am* + *-sten*: *am* **einfachsten**. *einfach* ends in *-ch*, so no extra *e* is needed. *Das* refers to a way or solution mentioned before.",
+      "pattern": "das ist + am + Adj-**sten**",
+      "mistake": {
+        "wrong": "Das ist am einfachste.",
+        "why": "After *am* the superlative always ends in *-sten*: *am einfachsten*. *-ste* is used only with an article before a noun (*die einfachste Lösung*)."
+      },
+      "examples": [
+        {
+          "de": "So geht es am schnellsten.",
+          "en": "This is the quickest way."
+        },
+        {
+          "de": "Mit dem Fahrrad ist es am bequemsten.",
+          "en": "It's most convenient by bike."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r10",
+      "de": "Sie hat {{c1::mehr::viel}} Erfahrung als ich.",
+      "en": "She has more experience than I do.",
+      "focus": "Komparativ von *viel* · vor Nomen",
+      "explanation": "*viel – mehr – am meisten* is irregular. **mehr** never takes an ending, even before a noun: *mehr Erfahrung, mehr Zeit, mehr Leute*. *ich* after *als* is Nominativ because it is compared with the subject *sie*.",
+      "pattern": "mehr (ohne Endung) + Nomen + als",
+      "mistake": {
+        "wrong": "Sie hat mehrere Erfahrung als ich.",
+        "why": "*mehrere* means *several* and needs a plural noun (*mehrere Jahre*). The comparative of *viel* is *mehr*, without an ending."
+      },
+      "examples": [
+        {
+          "de": "In der Stadt gibt es mehr Verkehr als auf dem Land.",
+          "en": "There's more traffic in the city than in the countryside."
+        },
+        {
+          "de": "Wir brauchen mehr Zeit für das Projekt.",
+          "en": "We need more time for the project."
+        }
+      ],
+      "words": [
+        {
+          "de": "die Erfahrung (-en)",
+          "en": "experience"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r11",
+      "de": "Dieses Hotel ist {{c1::weniger::wenig}} bequem.",
+      "en": "This hotel is less comfortable.",
+      "focus": "Vergleich nach unten",
+      "explanation": "**weniger** + base form expresses *less …*: *weniger bequem* = less comfortable. *weniger* is the comparative of *wenig* and takes no ending; the adjective after it stays in the base form.",
+      "pattern": "weniger + Positiv (+ als)",
+      "mistake": {
+        "wrong": "Dieses Hotel ist weniger bequemer.",
+        "why": "*weniger* already makes the comparison. The adjective after it stays in the base form: *weniger bequem*."
+      },
+      "examples": [
+        {
+          "de": "Der neue Job ist weniger stressig.",
+          "en": "The new job is less stressful."
+        },
+        {
+          "de": "Das Konzert war weniger voll als letztes Jahr.",
+          "en": "The concert was less crowded than last year."
+        }
+      ],
+      "words": [
+        {
+          "de": "bequem",
+          "en": "comfortable"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r12",
+      "de": "Der Zug ist die {{c1::bequemste::bequem}} Option.",
+      "en": "The train is the most comfortable option.",
+      "focus": "Superlativ vor Nomen (f.)",
+      "explanation": "Before a noun the superlative is article + adjective + *-st-* + ending. *Option* is feminine and in the Nominativ after *ist* → *die* + bequem**ste**. The article agrees with *Option*, not with the subject *der Zug*.",
+      "pattern": "die + Superlativ-**e** + Nomen (Nom. f.)",
+      "mistake": {
+        "wrong": "Der Zug ist der bequemste Option.",
+        "why": "The article belongs to the noun after it. *Option* is feminine, so it is *die bequemste Option*."
+      },
+      "examples": [
+        {
+          "de": "Das Fahrrad ist das schnellste Verkehrsmittel in der Innenstadt.",
+          "en": "The bike is the fastest means of transport in the city centre."
+        },
+        {
+          "de": "Für uns war das die günstigste Lösung.",
+          "en": "For us that was the cheapest solution."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "r13",
+      "de": "Es wird immer {{c1::dunkler::dunkel}}.",
+      "en": "It's getting darker and darker.",
+      "focus": "*immer* + Komparativ · Entwicklung",
+      "explanation": "*immer* + comparative describes a continuous change: *immer dunkler* = darker and darker. *dunkel* drops the *e* in the comparative: dunkel → **dunkler**. The verb *werden* expresses the change.",
+      "pattern": "werden + immer + Adj-**er**",
+      "mistake": {
+        "wrong": "Es wird immer mehr dunkel.",
+        "why": "*immer mehr* goes with nouns or verbs (*immer mehr Menschen*, *Es regnet immer mehr*), not before an adjective. With an adjective use *immer* + comparative: *immer dunkler*."
+      },
+      "examples": [
+        {
+          "de": "Die Mieten werden immer teurer.",
+          "en": "Rents are getting more and more expensive."
+        },
+        {
+          "de": "Mein Deutsch wird immer besser.",
+          "en": "My German is getting better and better."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": false
+    },
+    {
+      "key": "n01",
+      "de": "Wir brauchen ein {{c1::größeres::groß}} Auto.",
+      "en": "We need a bigger car.",
+      "focus": "Komparativ vor Nomen · nach *ein* (n.)",
+      "explanation": "Before a noun the comparative takes a normal adjective ending after its *-er*. *Auto* is neuter and the Akkusativ object; after *ein* the adjective needs *-es*: größer + -es → **größeres**.",
+      "pattern": "ein + Adj-er-**es** + Nomen (Akk. n.)",
+      "mistake": {
+        "wrong": "Wir brauchen ein größer Auto.",
+        "why": "The comparative *-er* is not a case ending. Before a noun the adjective still needs its ending: *ein größeres Auto*."
+      },
+      "examples": [
+        {
+          "de": "Ich suche eine billigere Wohnung.",
+          "en": "I'm looking for a cheaper flat."
+        },
+        {
+          "de": "Haben Sie keinen kleineren Koffer?",
+          "en": "Don't you have a smaller suitcase?"
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Das Wetter ist heute viel {{c1::besser::gut}} als gestern.",
+      "en": "The weather is much better today than yesterday.",
+      "focus": "Komparativ · unregelmäßig · verstärkt",
+      "explanation": "*gut – besser – am besten* is irregular. To make a comparative stronger, German uses *viel* (much) or *noch* (even): *viel besser*. *sehr* only goes with the base form (*sehr gut*).",
+      "pattern": "viel / noch + Komparativ + als",
+      "mistake": {
+        "wrong": "Das Wetter ist heute sehr besser als gestern.",
+        "why": "*sehr* cannot stand before a comparative. Use *viel besser* (much better) or *noch besser* (even better)."
+      },
+      "examples": [
+        {
+          "de": "Die neue Version ist viel schneller.",
+          "en": "The new version is much faster."
+        },
+        {
+          "de": "Das Essen war noch besser als letztes Mal.",
+          "en": "The food was even better than last time."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Die Zugspitze ist der {{c1::höchste::hoch}} Berg Deutschlands.",
+      "en": "The Zugspitze is the highest mountain in Germany.",
+      "focus": "Superlativ vor Nomen · unregelmäßiger Stamm",
+      "explanation": "*hoch* loses the *c* in the comparative (*höher*) but has it in the superlative: *höchst-*. Before the masculine noun *Berg* in the Nominativ after *der* the ending is *-e* → **höchste**. *Deutschlands* is a Genitiv (of Germany).",
+      "pattern": "der + Superlativ-**e** + Nomen (Nom. m.)",
+      "mistake": {
+        "wrong": "Die Zugspitze ist der hochste Berg Deutschlands.",
+        "why": "*hoch* takes an umlaut in the comparative and superlative: *höher, am höchsten, der höchste*."
+      },
+      "examples": [
+        {
+          "de": "Der Rhein ist einer der längsten Flüsse Europas.",
+          "en": "The Rhine is one of the longest rivers in Europe."
+        },
+        {
+          "de": "Das ist das höchste Gebäude der Stadt.",
+          "en": "That is the tallest building in the city."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Wie weit ist es bis zum {{c1::nächsten::nah}} Krankenhaus?",
+      "en": "How far is it to the nearest hospital?",
+      "focus": "Superlativ vor Nomen · unregelmäßig · Dativ",
+      "explanation": "*nah – näher – am nächsten* is irregular: the superlative stem is **nächst-** with umlaut and *ch*. *bis zu* takes the Dativ; *Krankenhaus* is neuter → *zum* (= *zu dem*). After *dem* the adjective ends in *-en*: **nächsten**.",
+      "pattern": "zum + nächst-**en** + Nomen (Dat. n.)",
+      "mistake": {
+        "wrong": "Wie weit ist es bis zum nahsten Krankenhaus?",
+        "why": "The superlative of *nah* is irregular: *nächst-*, with umlaut and *ch*."
+      },
+      "examples": [
+        {
+          "de": "Wir gehen zur nächsten Haltestelle.",
+          "en": "We're walking to the nearest stop."
+        },
+        {
+          "de": "Fahren Sie bis zur nächsten Kreuzung.",
+          "en": "Drive to the next junction."
+        }
+      ],
+      "words": [
+        {
+          "de": "das Krankenhaus (¨-er)",
+          "en": "hospital"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Im Juli ist es hier {{c1::am heißesten::heiß}}.",
+      "en": "It's hottest here in July.",
+      "focus": "Superlativ · Adjektiv auf *-ß*",
+      "explanation": "After *-ß* (and *-d, -t, -s, -sch, -z*) the superlative needs an extra *e*: heiß → am heiß**esten**. The comparative is regular: *heißer*. Only *groß* is an exception (*am größten*).",
+      "pattern": "am + Adj-**esten** (nach -ß/-t/-z …)",
+      "mistake": {
+        "wrong": "Im Juli ist es hier am heißsten.",
+        "why": "*heißsten* is hard to pronounce, so German inserts *e*: *am heißesten*."
+      },
+      "examples": [
+        {
+          "de": "Die Tomaten vom Markt sind am frischesten.",
+          "en": "The tomatoes from the market are the freshest."
+        },
+        {
+          "de": "Abends um sechs sind die Straßen am lautesten.",
+          "en": "The streets are loudest at six in the evening."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Der Film war nicht so gut {{c1::wie}} das Buch.",
+      "en": "The film wasn't as good as the book.",
+      "focus": "Vergleichswort · nach *so* + Positiv",
+      "explanation": "*so* + base form + **wie** compares two things as equal; with *nicht* it means *not as … as*, so the book was better. After *so* the comparison word is always *wie*, never *als*.",
+      "pattern": "nicht so + Positiv + wie",
+      "mistake": {
+        "wrong": "Der Film war nicht so gut als das Buch.",
+        "why": "*als* only follows a comparative (*schlechter als das Buch*). After *so* + base form use *wie*."
+      },
+      "examples": [
+        {
+          "de": "Das neue Handy ist nicht so teuer wie das alte.",
+          "en": "The new phone isn't as expensive as the old one."
+        },
+        {
+          "de": "Ich bin heute nicht so müde wie gestern.",
+          "en": "I'm not as tired today as yesterday."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Sie ist zwei Jahre älter {{c1::als}} ihr Mann.",
+      "en": "She is two years older than her husband.",
+      "focus": "Vergleichswort · nach Komparativ mit Maßangabe",
+      "explanation": "After a comparative German uses **als** (than). A measure can stand before the comparative: *zwei Jahre älter, zehn Zentimeter größer*. *ihr Mann* is Nominativ, like the subject *sie*.",
+      "pattern": "Maß + Komparativ + als + Nom.",
+      "mistake": {
+        "wrong": "Sie ist zwei Jahre älter als ihren Mann.",
+        "why": "*als* does not take the Akkusativ. The husband is compared with the subject *sie*, so it is Nominativ: *ihr Mann*."
+      },
+      "examples": [
+        {
+          "de": "Der Zug war zehn Minuten später als geplant.",
+          "en": "The train was ten minutes later than planned."
+        },
+        {
+          "de": "Mein Bruder ist einen Kopf größer als ich.",
+          "en": "My brother is a head taller than me."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich habe den {{c1::kürzesten::kurz}} Weg genommen.",
+      "en": "I took the shortest route.",
+      "focus": "Superlativ vor Nomen · Akkusativ m. · Adjektiv auf *-z*",
+      "explanation": "kurz → *kürzer* → *kürzest-*: umlaut, and after *-z* the superlative needs *-est-*. *Weg* is the masculine Akkusativ object after *den*, so the ending is *-en*: **kürzesten**.",
+      "pattern": "den + Superlativ-**en** + Nomen (Akk. m.)",
+      "mistake": {
+        "wrong": "Ich habe den kürzsten Weg genommen.",
+        "why": "After *-z* the superlative inserts *e*: *kürzest-*. With the ending: *den kürzesten Weg*."
+      },
+      "examples": [
+        {
+          "de": "Er hat den ältesten Wein bestellt.",
+          "en": "He ordered the oldest wine."
+        },
+        {
+          "de": "Wir suchen den kürzesten Flug nach Lissabon.",
+          "en": "We're looking for the shortest flight to Lisbon."
+        }
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Wer arbeitet in eurem Team {{c1::am meisten::viel}}?",
+      "en": "Who works the most in your team?",
+      "focus": "Superlativ · unregelmäßig · Adverb",
+      "explanation": "*viel – mehr – am meisten*: the superlative of *viel* is **am meisten**. Here it is an adverb (how much someone works). Before a noun it has an article: *die meisten Leute* (most people).",
+      "pattern": "Verb + am meisten",
+      "mistake": {
+        "wrong": "Wer arbeitet in eurem Team am mehrsten?",
+        "why": "*viel* is irregular: the comparative *mehr* has no superlative of its own. The form is *am meisten*."
+      },
+      "examples": [
+        {
+          "de": "Was hat dir auf der Reise am meisten gefallen?",
+          "en": "What did you like most on the trip?"
+        },
+        {
+          "de": "Die meisten Studenten wohnen in einer WG.",
+          "en": "Most students live in a shared flat."
+        }
+      ],
+      "words": [],
+      "production_cue": "(you = ihr)",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Wir suchen eine Wohnung mit einem {{c1::größeren::groß}} Balkon.",
+      "en": "We're looking for a flat with a bigger balcony.",
+      "focus": "Komparativ vor Nomen · Dativ m.",
+      "explanation": "*mit* takes the Dativ, and *Balkon* is masculine → *einem*. The comparative *größer* then takes the Dativ ending *-en*: größer + -en → **größeren**.",
+      "pattern": "mit + einem + Adj-er-**en** + Nomen (Dat. m.)",
+      "mistake": {
+        "wrong": "Wir suchen eine Wohnung mit einem größer Balkon.",
+        "why": "Every adjective before a noun needs an ending, also in the comparative: *einem größeren Balkon*."
+      },
+      "examples": [
+        {
+          "de": "Mit einem schnelleren Laptop wäre das kein Problem.",
+          "en": "With a faster laptop that wouldn't be a problem."
+        },
+        {
+          "de": "Sie wohnt jetzt in einer helleren Wohnung.",
+          "en": "She now lives in a brighter flat."
+        }
+      ],
+      "words": [
+        {
+          "de": "der Balkon (-e/-s)",
+          "en": "balcony"
+        }
+      ],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Ich sollte {{c1::öfter::oft}} Sport machen.",
+      "en": "I should do sport more often.",
+      "focus": "Komparativ eines Adverbs · Umlaut",
+      "explanation": "The adverb *oft* takes an umlaut in the comparative: oft → **öfter** (more often). German does not say *mehr oft*. *sollte* (Konjunktiv II of *sollen*) gives advice, here to yourself.",
+      "pattern": "Adverb-**er** (Umlaut): oft → öfter",
+      "mistake": {
+        "wrong": "Ich sollte mehr oft Sport machen.",
+        "why": "Adverbs form the comparative with *-er*, just like adjectives: *öfter*, not *mehr oft*."
+      },
+      "examples": [
+        {
+          "de": "Ruf deine Oma doch öfter an.",
+          "en": "Why don't you call your grandma more often?"
+        },
+        {
+          "de": "Wir sollten öfter zu Fuß gehen.",
+          "en": "We should walk more often."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Wien ist eine der {{c1::schönsten::schön}} Städte Europas.",
+      "en": "Vienna is one of the most beautiful cities in Europe.",
+      "focus": "*eine der* + Superlativ + Plural",
+      "explanation": "*einer / eine / eines der* + superlative + plural noun = one of the most … . *der Städte* is a Genitiv plural, and after *der* the superlative takes *-en*: schön + -st- + -en → **schönsten**.",
+      "pattern": "eine der + Superlativ-**en** + Nomen (Gen. Pl.)",
+      "mistake": {
+        "wrong": "Wien ist eine der schönste Städte Europas.",
+        "why": "*der* here is the Genitiv plural, and every plural adjective after *der* ends in *-en*: *der schönsten Städte*."
+      },
+      "examples": [
+        {
+          "de": "Das ist einer der besten Filme des Jahres.",
+          "en": "That's one of the best films of the year."
+        },
+        {
+          "de": "Mathe ist eines der wichtigsten Fächer.",
+          "en": "Maths is one of the most important subjects."
+        }
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about forming the comparative.",
+      "prompt": "How is the comparative formed in German, and which adjectives take an umlaut?",
+      "answer": "Adjective + **-er**, for short and long adjectives (*klein → kleiner, interessant → interessanter*). Many **one-syllable** adjectives with *a, o, u* take an umlaut: *alt → älter, groß → größer, jung → jünger, kurz → kürzer, warm → wärmer, oft → öfter*.",
+      "explanation": "Not every short adjective has an umlaut: *klar → klarer, voll → voller, laut → lauter*. Adjectives with *au* (*laut*) and *eu*, and with *-lich, -ig, -bar*, never take one. Learn the umlaut forms with the adjective.",
+      "examples": [
+        {
+          "de": "Der Kaffee ist heute stärker als sonst.",
+          "en": "The coffee is stronger than usual today."
+        },
+        {
+          "de": "Hier ist es lauter als in der Bibliothek.",
+          "en": "It's louder here than in the library."
+        }
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about the comparison words.",
+      "prompt": "When do you use *als* and when *wie* in a comparison?",
+      "answer": "**als** after a comparative (difference: *größer als*). **wie** after *so / genauso* + base form (equality: *so groß wie*), also with *nicht so … wie* (*not as … as*).",
+      "explanation": "In some regions people say *größer wie*, but this is not standard and counts as a mistake in exams. The case after *als* and *wie* is the same as the case of the element compared: *Er ist größer als ich.*",
+      "examples": [
+        {
+          "de": "Sport ist wichtiger als Fernsehen.",
+          "en": "Sport is more important than television."
+        },
+        {
+          "de": "Sport ist genauso wichtig wie Schlaf.",
+          "en": "Sport is just as important as sleep."
+        }
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Explain the two superlative forms.",
+      "prompt": "What is the difference between *am schnellsten* and *der schnellste*?",
+      "answer": "**am + -sten** stands without a noun: after *sein* (*Der ICE ist am schnellsten.*) or as an adverb (*Er läuft am schnellsten.*). **der/die/das + -st- + ending** stands before a noun (*der schnellste Zug*), or the noun is understood (*Dieser Zug ist der schnellste.*).",
+      "explanation": "The two forms cannot be mixed: ✗ *die am schnellsten Läuferin*. Before a noun the superlative is a normal adjective and takes the endings of the declension table (*mit dem schnellsten Zug*).",
+      "examples": [
+        {
+          "de": "Der ICE ist am schnellsten.",
+          "en": "The ICE is the fastest."
+        },
+        {
+          "de": "Wir nehmen den schnellsten Zug.",
+          "en": "We'll take the fastest train."
+        }
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the superlative ending.",
+      "prompt": "When does the superlative end in *-esten* instead of *-sten*?",
+      "answer": "After **-d, -t, -s, -ß, -sch, -z** (and *-x*): *am ältesten, am breitesten, am heißesten, am hübschesten, am kürzesten*. Exception: **groß → am größten**.",
+      "explanation": "The extra *e* makes the form easier to pronounce. Adjectives ending in a vowel can take either form (*am neusten* or *am neuesten*). Participles in *-end* also take *-sten* (*am spannendsten*).",
+      "examples": [
+        {
+          "de": "Diese Straße ist am breitesten.",
+          "en": "This street is the widest."
+        },
+        {
+          "de": "Das war der spannendste Moment des Spiels.",
+          "en": "That was the most exciting moment of the match."
+        }
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Mein neues Handy ist viel ___ als das alte.",
+      "options": [
+        "schneller",
+        "mehr schnell",
+        "schnellste",
+        "am schnellsten"
+      ],
+      "correct": "schneller",
+      "answer": "Mein neues Handy ist viel schneller als das alte.",
+      "explanation": "*als* needs a comparative, and German forms it with *-er*: *schneller*. *mehr schnell* copies English. *schnellste* needs an article and noun, and *am schnellsten* is a superlative, which does not combine with *als*."
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct word.",
+      "prompt": "Paul ist genauso alt ___ Lisa.",
+      "options": [
+        "als",
+        "wie",
+        "dann"
+      ],
+      "correct": "wie",
+      "answer": "Paul ist genauso alt wie Lisa.",
+      "explanation": "*genauso* + base form expresses equality, so the comparison word is *wie*. *als* only follows a comparative (*älter als*), and *dann* means *then*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Hier gibt es den ___ Kaffee der Stadt.",
+      "options": [
+        "beste",
+        "besten",
+        "am besten"
+      ],
+      "correct": "besten",
+      "answer": "Hier gibt es den besten Kaffee der Stadt.",
+      "explanation": "*es gibt* takes the Akkusativ, and *Kaffee* is masculine → *den*. After *den* the superlative takes *-en*: *den besten Kaffee*. *beste* would be the Nominativ (*der beste Kaffee*), and *am besten* cannot stand before a noun."
+    },
+    {
+      "key": "d08",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Mein Bruder ist mehr groß als mein Vater.",
+      "answer": "Mein Bruder ist größer als mein Vater.",
+      "explanation": "German forms the comparative with *-er*, not with *mehr* + adjective. *groß* also takes an umlaut: *größer*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Der Test war schwerer wie erwartet.",
+      "answer": "Der Test war schwerer als erwartet.",
+      "explanation": "After a comparative the comparison word is *als*. *wie* is only used after *so / genauso* + base form (*so schwer wie erwartet*)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Von allen Jacken ist diese am teuerste.",
+      "answer": "Von allen Jacken ist diese am teuersten.",
+      "explanation": "After *am* the superlative always ends in *-sten*: *am teuersten*. The form *teuerste* is only used with an article before a noun (*die teuerste Jacke*)."
+    },
+    {
+      "key": "d11",
+      "type": "transform",
+      "instruction": "Say the same thing with *nicht so … wie* and the adjective *groß*.",
+      "prompt": "Ich bin kleiner als mein Vater.",
+      "answer": "Ich bin nicht so groß wie mein Vater.",
+      "explanation": "*kleiner als* (comparative + *als*) can be expressed with the opposite adjective and *nicht so* + base form + *wie*. After *so* the adjective stays in the base form *groß*."
+    },
+    {
+      "key": "d12",
+      "type": "transform",
+      "instruction": "Change the adjective to the superlative and use the definite article.",
+      "prompt": "Das ist ein gutes Restaurant in der Stadt.",
+      "answer": "Das ist das beste Restaurant in der Stadt.",
+      "explanation": "A superlative before a noun needs the definite article: *ein → das*. *gut* is irregular → *best-*, and after *das* (neuter Nominativ) the ending is *-e*: *das beste Restaurant*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Replace the relative clause with a comparative in front of the noun.",
+      "prompt": "Ich nehme das Zimmer, das ruhiger ist.",
+      "answer": "Ich nehme das ruhigere Zimmer.",
+      "explanation": "Before the noun the comparative *ruhiger* needs an adjective ending. *das Zimmer* is neuter Akkusativ after *das* → *-e*: *das ruhigere Zimmer*."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Sie",
+      "prompt": "als / mehr / verdient / sie / ihr Chef",
+      "answer": "Sie verdient mehr als ihr Chef.",
+      "explanation": "The subject *sie* is in position 1 and the verb *verdient* in position 2. *mehr* is the comparative of *viel* and is followed by *als* + Nominativ: *als ihr Chef*."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Im Sommer",
+      "prompt": "am liebsten / im Sommer / ich / schwimme / im See",
+      "answer": "Im Sommer schwimme ich am liebsten im See.",
+      "explanation": "*Im Sommer* is in the Vorfeld, so *schwimme* follows in position 2 and the subject *ich* in position 3. *am liebsten* (superlative of *gern*) normally comes before the place *im See*. *Im Sommer schwimme ich im See am liebsten* is also correct; it only shifts the stress."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make one sentence with the comparative of *groß* and *als*. Start with: Tom",
+      "prompt": "Anna ist 1,70 m groß. Tom ist 1,85 m groß.",
+      "answer": "Tom ist größer als Anna.",
+      "explanation": "Tom is taller, so he is the subject: *größer* (umlaut + *-er*) + *als Anna*. The same fact with Anna as the subject: *Anna ist kleiner als Tom.*"
+    },
+    {
+      "key": "d17",
+      "type": "combine",
+      "instruction": "Make one sentence that says the prices are equal. Use *genauso … wie* and *teuer*.",
+      "prompt": "Der Bus kostet drei Euro. Die U-Bahn kostet auch drei Euro.",
+      "answer": "Der Bus ist genauso teuer wie die U-Bahn.",
+      "explanation": "Equality → *genauso* + base form + *wie*. The adjective *teuer* stays in the base form, and *die U-Bahn* is Nominativ like *der Bus*."
+    }
+  ]
+}

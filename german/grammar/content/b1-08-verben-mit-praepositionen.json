@@ -1,0 +1,711 @@
+{
+  "topic_id": "b1-08-verben-mit-praepositionen",
+  "level": "B1",
+  "title_de": "Verben mit Präpositionen",
+  "title_en": "Verbs with fixed prepositions",
+  "rule": {
+    "summary": "Many German verbs are used with a **fixed preposition**. The preposition together with its noun phrase is the **Präpositionalobjekt**: *warten* **auf** *den Bus*, *sich interessieren* **für** *Politik*. Here the preposition has lost its normal meaning of place or direction, so the case is not decided by *wo?/wohin?* but is fixed for each verb. The preposition often differs from English (*wait* **for** → *warten* **auf**), so learn every verb as a unit: verb + preposition + case.",
+    "table": "| Präposition | Kasus | typische Verben |\n|---|---|---|\n| **auf** | Akk | warten auf, sich freuen auf, sich vorbereiten auf, achten auf, sich verlassen auf |\n| **über** | Akk | sich freuen über, sprechen über, sich ärgern über, sich beschweren über, nachdenken über |\n| **an** | Akk | denken an, sich erinnern an, sich gewöhnen an, glauben an |\n| **an** | Dat | arbeiten an, teilnehmen an, zweifeln an, leiden an |\n| **in** | Akk | sich verlieben in |\n| **für** | Akk | sich interessieren für, sich entscheiden für, sich bedanken für |\n| **um** | Akk | sich kümmern um, bitten um, sich bewerben um |\n| **vor** | Dat | Angst haben vor, warnen vor, sich fürchten vor |\n| **unter** | Dat | leiden unter |\n| **mit** | Dat | sich beschäftigen mit, telefonieren mit, anfangen mit |\n| **von** | Dat | abhängen von, träumen von, erzählen von |\n| **aus** | Dat | bestehen aus |\n| **bei** | Dat | helfen bei, sich bewerben bei, sich beschweren bei |\n| **nach** | Dat | fragen nach, suchen nach |\n| **zu** | Dat | gratulieren zu, einladen zu |",
+    "steps": [
+      "Learn the verb as a unit with preposition and case, e.g. *sich freuen auf* + Akk, *träumen von* + Dat. Do not translate the English preposition.",
+      "Prepositions with only one case keep it: *mit, von, bei, aus, nach, zu* → Dativ; *für, um, gegen* → Akkusativ.",
+      "For two-way prepositions (Wechselpräpositionen) the verb decides, not *wo?/wohin?*: *auf* and *über* → almost always Akkusativ; *vor* and *unter* → Dativ; *an* and *in* → check the verb (*denken an* + Akk, but *arbeiten an* + Dat).",
+      "Put the article, adjective or pronoun after the preposition into that case: *an dich*, *mit dem neuen Projekt*, *um eine Stelle*.",
+      "Place the Präpositionalobjekt late in the Mittelfeld, before the second part of the verb (*Ich habe mich auf die Prüfung* **vorbereitet**.). It can also stand in the Vorfeld for emphasis.",
+      "To ask about a person, keep the preposition and add *wen/wem*: *Auf wen wartest du?* *Mit wem telefonierst du?* (For things you use *worauf, womit* … → topic Pronominaladverbien.)"
+    ],
+    "pitfalls": [
+      "Copying the English preposition: ✗ *Ich warte für den Bus.* → ✓ *Ich warte auf den Bus.*; ✗ *Angst haben von* → ✓ *Angst haben vor*.",
+      "Using the place rule for two-way prepositions: ✗ *Ich freue mich auf dem Urlaub.* → ✓ *Ich freue mich auf den Urlaub.* In a Präpositionalobjekt *auf* and *über* take the Akkusativ.",
+      "Treating all *an*-verbs the same: ✗ *Wir arbeiten an ein neues Konzept.* → ✓ *Wir arbeiten an einem neuen Konzept.* *arbeiten, teilnehmen, zweifeln an* take the Dativ.",
+      "Forgetting the reflexive pronoun: ✗ *Ich freue auf das Wochenende.* → ✓ *Ich freue mich auf das Wochenende.*",
+      "Leaving out the preposition because English has a direct object: ✗ *Erinnerst du dich den Namen?* → ✓ *Erinnerst du dich an den Namen?*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Ich freue mich {{c1::auf::+ Akk. · etwas Kommendes}} das Wochenende.",
+      "en": "I'm looking forward to the weekend.",
+      "focus": "Präpositionalobjekt · *sich freuen* · Zukunft",
+      "explanation": "*sich freuen* has two prepositions with different meanings. The weekend has not started yet, so the joy is about something in the future → **sich freuen auf** + Akkusativ (to look forward to). *das Wochenende* is neuter; the Akkusativ article is the same as the Nominativ: *das*.",
+      "pattern": "sich freuen **auf** + Akk. (future)",
+      "mistake": {"wrong": "Ich freue mich auf dem Wochenende.", "why": "*auf* does not name a place here, so the *wo?* rule (Dativ) does not apply. In *sich freuen auf* the case is always Akkusativ: *auf das* (colloquially *aufs*) *Wochenende*."},
+      "examples": [
+        {"de": "Die Kinder freuen sich auf die Sommerferien.", "en": "The children are looking forward to the summer holidays."},
+        {"de": "Freust du dich schon auf das Konzert?", "en": "Are you looking forward to the concert yet?"}
+      ],
+      "words": [{"de": "sich freuen auf (+ Akk.)", "en": "to look forward to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Wir freuen uns {{c1::über::+ Akk. · schon da}} dein Geschenk.",
+      "en": "We're happy about your gift.",
+      "focus": "Präpositionalobjekt · *sich freuen* · Gegenwart",
+      "explanation": "The gift has already arrived, so the joy is about something present or past → **sich freuen über** + Akkusativ (to be happy about). *dein Geschenk* is neuter Akkusativ; *dein* has no ending in this slot.",
+      "pattern": "sich freuen **über** + Akk. (present/past)",
+      "mistake": {"wrong": "Wir freuen uns für dein Geschenk.", "why": "*sich freuen für* is only used with a person: *Ich freue mich für dich* (I'm happy for you). The thing that makes you happy follows *über*."},
+      "examples": [
+        {"de": "Sie freut sich über die gute Note.", "en": "She is happy about the good mark."},
+        {"de": "Ich habe mich sehr über deinen Anruf gefreut.", "en": "I was very pleased about your call."}
+      ],
+      "words": [{"de": "sich freuen über (+ Akk.)", "en": "to be happy about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Sie interessiert sich {{c1::für::+ Akk.}} Politik.",
+      "en": "She's interested in politics.",
+      "focus": "Präpositionalobjekt · *sich interessieren*",
+      "explanation": "The verb is **sich interessieren für** + Akkusativ. English says *interested* **in**, but German uses *für*. *Politik* is an abstract noun and has no article here, so the case is not visible; with an article it would be *für die Politik*.",
+      "pattern": "sich interessieren **für** + Akk.",
+      "mistake": {"wrong": "Sie interessiert sich in Politik.", "why": "This copies the English *interested in*. German *sich interessieren* only combines with *für*."},
+      "examples": [
+        {"de": "Mein Bruder interessiert sich für alte Autos.", "en": "My brother is interested in old cars."},
+        {"de": "Interessieren Sie sich für Kunst?", "en": "Are you interested in art?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Ich denke oft {{c1::an::+ Akk.}} dich.",
+      "en": "I often think of you.",
+      "focus": "Präpositionalobjekt · *denken* · Person",
+      "explanation": "**denken an** + Akkusativ means *to think of / to have someone in mind*. *an* is a two-way preposition, but with *denken* it always takes the Akkusativ, so the pronoun is **dich**, not *dir*.",
+      "pattern": "denken **an** + Akk. (Person/Sache)",
+      "mistake": {"wrong": "Ich denke oft an dir.", "why": "*dir* is Dativ. In the Präpositionalobjekt of *denken* the preposition *an* takes the Akkusativ: *an dich*."},
+      "examples": [
+        {"de": "Denk bitte an den Termin morgen!", "en": "Please remember the appointment tomorrow!"},
+        {"de": "Wir denken oft an unsere Zeit in Spanien.", "en": "We often think of our time in Spain."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Wir warten {{c1::auf::+ Akk.}} den Bus.",
+      "en": "We're waiting for the bus.",
+      "focus": "Präpositionalobjekt · *warten*",
+      "explanation": "The verb is **warten auf** + Akkusativ. *Bus* is masculine, so the Akkusativ is visible: **den Bus**. English *wait for* tempts learners to use *für*, but *für* is never used with *warten*.",
+      "pattern": "warten **auf** + Akk.",
+      "mistake": {"wrong": "Wir warten für den Bus.", "why": "Word-for-word translation of *wait for*. The fixed preposition of *warten* is *auf*."},
+      "examples": [
+        {"de": "Ich warte seit einer Stunde auf meine Schwester.", "en": "I've been waiting for my sister for an hour."},
+        {"de": "Die Patienten warten auf den Arzt.", "en": "The patients are waiting for the doctor."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Er kümmert sich {{c1::um::+ Akk.}} seine Eltern.",
+      "en": "He takes care of his parents.",
+      "focus": "Präpositionalobjekt · *sich kümmern*",
+      "explanation": "**sich kümmern um** + Akkusativ means *to take care of / to look after*. *um* always takes the Akkusativ; *seine Eltern* is plural Akkusativ (the form is the same as the Nominativ).",
+      "pattern": "sich kümmern **um** + Akk.",
+      "mistake": {"wrong": "Er kümmert sich für seine Eltern.", "why": "English *care for* leads to *für*, but *sich kümmern* only combines with *um*."},
+      "examples": [
+        {"de": "Wer kümmert sich um den Hund, wenn ihr im Urlaub seid?", "en": "Who looks after the dog when you're on holiday?"},
+        {"de": "Ich kümmere mich um die Rechnungen.", "en": "I'll take care of the bills."}
+      ],
+      "words": [{"de": "sich kümmern um (+ Akk.)", "en": "to take care of, to look after"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Erinnerst du dich {{c1::an::+ Akk.}} unseren Urlaub?",
+      "en": "Do you remember our holiday?",
+      "focus": "Präpositionalobjekt · *sich erinnern*",
+      "explanation": "English *remember* has a direct object, but German needs a reflexive pronoun and a preposition: **sich erinnern an** + Akkusativ. *Urlaub* is masculine, so the possessive takes the Akkusativ ending: *unser* + *-en* → **unseren Urlaub**.",
+      "pattern": "sich erinnern **an** + Akk.",
+      "mistake": {"wrong": "Erinnerst du dich unseren Urlaub?", "why": "The preposition is missing. *sich erinnern* cannot take a direct Akkusativ object; the thing you remember follows *an*."},
+      "examples": [
+        {"de": "Ich erinnere mich gern an meine Schulzeit.", "en": "I have fond memories of my school days."},
+        {"de": "Erinnern Sie sich an den Namen des Hotels?", "en": "Do you remember the name of the hotel?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Ich gewöhne mich {{c1::an::+ Akk.}} das neue Wetter.",
+      "en": "I'm getting used to the new weather.",
+      "focus": "Präpositionalobjekt · *sich gewöhnen*",
+      "explanation": "**sich gewöhnen an** + Akkusativ describes the process of getting used to something. *das neue Wetter* is neuter Akkusativ (*an das* is often shortened to *ans*). The state *to be used to* is *an etwas gewöhnt sein*, with the same preposition.",
+      "pattern": "sich gewöhnen **an** + Akk.",
+      "mistake": {"wrong": "Ich gewöhne mich zu dem neuen Wetter.", "why": "This copies English *used to*. *sich gewöhnen* takes *an* + Akkusativ, never *zu*."},
+      "examples": [
+        {"de": "Hast du dich schon an die neue Arbeit gewöhnt?", "en": "Have you got used to the new job yet?"},
+        {"de": "Man gewöhnt sich schnell an das frühe Aufstehen.", "en": "You quickly get used to getting up early."}
+      ],
+      "words": [{"de": "sich gewöhnen an (+ Akk.)", "en": "to get used to"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Das hängt {{c1::von::+ Dat.}} dir ab.",
+      "en": "That depends on you.",
+      "focus": "Präpositionalobjekt · trennbares Verb *abhängen*",
+      "explanation": "**abhängen von** + Dativ means *to depend on*. *von* always takes the Dativ → **dir**. *abhängen* is separable: *hängt* stands in position 2 and the prefix *ab* closes the sentence; the Präpositionalobjekt stands between them.",
+      "pattern": "hängen … **von** + Dat. … ab",
+      "mistake": {"wrong": "Das hängt auf dich ab.", "why": "English *depend on* leads to *auf*. *abhängen* is always used with *von* + Dativ."},
+      "examples": [
+        {"de": "Der Preis hängt von der Saison ab.", "en": "The price depends on the season."},
+        {"de": "Ob wir grillen, hängt vom Wetter ab.", "en": "Whether we have a barbecue depends on the weather."}
+      ],
+      "words": [{"de": "abhängen von (+ Dat.)", "en": "to depend on"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Das Team besteht {{c1::aus::+ Dat.}} fünf Personen.",
+      "en": "The team consists of five people.",
+      "focus": "Präpositionalobjekt · *bestehen* (Teile)",
+      "explanation": "**bestehen aus** + Dativ names the parts of something (*to consist of*). *aus* always takes the Dativ; *fünf Personen* is a Dativ plural without an article. Note the other meanings: *bestehen in* (to consist in) and *eine Prüfung bestehen* (to pass an exam, Akkusativ).",
+      "pattern": "bestehen **aus** + Dat.",
+      "mistake": {"wrong": "Das Team besteht von fünf Personen.", "why": "English *of* is not *von* here. The parts of a whole always follow *aus*."},
+      "examples": [
+        {"de": "Die Wohnung besteht aus drei Zimmern und einer Küche.", "en": "The flat consists of three rooms and a kitchen."},
+        {"de": "Der Kurs besteht aus zwölf Teilnehmern.", "en": "The course is made up of twelve participants."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Wir entscheiden uns {{c1::für::+ Akk.}} das blaue Hemd.",
+      "en": "We're deciding on the blue shirt.",
+      "focus": "Präpositionalobjekt · *sich entscheiden*",
+      "explanation": "**sich entscheiden für** + Akkusativ means *to decide on / to choose*. The opposite is *sich entscheiden gegen*. *das blaue Hemd* is neuter Akkusativ, with the weak adjective ending *-e* after *das*.",
+      "pattern": "sich entscheiden **für** + Akk.",
+      "mistake": {"wrong": "Wir entscheiden uns auf das blaue Hemd.", "why": "English *decide on* leads to *auf*. The choice after *sich entscheiden* follows *für*."},
+      "examples": [
+        {"de": "Sie hat sich für ein Studium in Wien entschieden.", "en": "She decided to study in Vienna."},
+        {"de": "Am Ende hat er sich für die günstigere Wohnung entschieden.", "en": "In the end he chose the cheaper flat."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Ich beschäftige mich {{c1::mit::+ Dat.}} dem neuen Projekt.",
+      "en": "I'm working on the new project.",
+      "focus": "Präpositionalobjekt · *sich beschäftigen*",
+      "explanation": "**sich beschäftigen mit** + Dativ means *to deal with / to work on / to study* a topic. *mit* always takes the Dativ: *Projekt* is neuter → **dem neuen Projekt**, with the Dativ adjective ending *-en*.",
+      "pattern": "sich beschäftigen **mit** + Dat.",
+      "mistake": {"wrong": "Ich beschäftige mich mit das neue Projekt.", "why": "The preposition is right, but *mit* always needs the Dativ: neuter *dem*, not *das*."},
+      "examples": [
+        {"de": "In ihrer Doktorarbeit beschäftigt sie sich mit Klimamodellen.", "en": "In her doctoral thesis she works on climate models."},
+        {"de": "Mit diesem Thema beschäftige ich mich schon lange.", "en": "I have been dealing with this topic for a long time."}
+      ],
+      "words": [{"de": "sich beschäftigen mit (+ Dat.)", "en": "to deal with, to work on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Sie träumt {{c1::von::+ Dat.}} einer langen Reise.",
+      "en": "She dreams of a long trip.",
+      "focus": "Präpositionalobjekt · *träumen*",
+      "explanation": "**träumen von** + Dativ means *to dream of/about*. *von* always takes the Dativ: *Reise* is feminine → **einer langen Reise**; after *einer* the adjective takes *-en*.",
+      "pattern": "träumen **von** + Dat.",
+      "mistake": {"wrong": "Sie träumt über eine lange Reise.", "why": "English *dream about* leads to *über*. In German, what you dream of always follows *von* + Dativ."},
+      "examples": [
+        {"de": "Viele Kinder träumen von einem eigenen Pferd.", "en": "Many children dream of having their own horse."},
+        {"de": "Wir träumen von einem Haus am Meer.", "en": "We dream of a house by the sea."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Er hat sich {{c1::in::+ Akk.}} sie verliebt.",
+      "en": "He fell in love with her.",
+      "focus": "Präpositionalobjekt · *sich verlieben* · Perfekt",
+      "explanation": "**sich verlieben in** + Akkusativ means *to fall in love with*. The person is in the Akkusativ: *sie* (her) has the same form as the Nominativ. The sentence is in the Perfekt: reflexive verbs take *haben* → *hat sich … verliebt*.",
+      "pattern": "sich verlieben **in** + Akk.",
+      "mistake": {"wrong": "Er hat sich mit ihr verliebt.", "why": "English *in love with* leads to *mit*. In German you fall *into* someone: *sich in jemanden verlieben*."},
+      "examples": [
+        {"de": "Sie hat sich sofort in die Stadt verliebt.", "en": "She immediately fell in love with the city."},
+        {"de": "Ich habe mich in einen Kollegen verliebt.", "en": "I've fallen in love with a colleague."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Ich bitte dich {{c1::um::+ Akk.}} Hilfe.",
+      "en": "I'm asking you for help.",
+      "focus": "Präpositionalobjekt · *bitten* (etwas haben wollen)",
+      "explanation": "**bitten** has two objects: the person in the Akkusativ (**dich**) and the thing you want with **um** + Akkusativ. Use *bitten um* when you want to get something; to ask for information you use *fragen nach*.",
+      "pattern": "jdn. (Akk.) bitten **um** + Akk.",
+      "mistake": {"wrong": "Ich bitte dich für Hilfe.", "why": "English *ask for* leads to *für*. What you ask for after *bitten* always follows *um*."},
+      "examples": [
+        {"de": "Der Kunde bittet um eine Rechnung.", "en": "The customer asks for an invoice."},
+        {"de": "Darf ich Sie um einen Gefallen bitten?", "en": "May I ask you a favour?"}
+      ],
+      "words": [{"de": "bitten um (+ Akk.)", "en": "to ask for"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Wir sprechen {{c1::über::+ Akk.}} unsere Pläne.",
+      "en": "We're talking about our plans.",
+      "focus": "Präpositionalobjekt · *sprechen* (Thema)",
+      "explanation": "The topic of a conversation follows **über** + Akkusativ (*sprechen über* = to talk about). *unsere Pläne* is plural Akkusativ. The person you talk to follows *mit* + Dativ: *mit jemandem über etwas sprechen*.",
+      "pattern": "sprechen **über** + Akk. (Thema)",
+      "mistake": {"wrong": "Wir sprechen über unseren Plänen.", "why": "*unseren Plänen* is Dativ plural. In the Präpositionalobjekt of *sprechen*, *über* means *about* and takes the Akkusativ: *unsere Pläne*."},
+      "examples": [
+        {"de": "Heute sprechen wir über das Thema Umwelt.", "en": "Today we are talking about the topic of the environment."},
+        {"de": "Hast du mit deinem Chef über die Gehaltserhöhung gesprochen?", "en": "Have you talked to your boss about the pay rise?"}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Glaubst du {{c1::an::+ Akk.}} Wunder?",
+      "en": "Do you believe in miracles?",
+      "focus": "Präpositionalobjekt · *glauben*",
+      "explanation": "**glauben an** + Akkusativ means *to believe in* (that something exists or will work). *Wunder* is plural Akkusativ without an article. Compare *jemandem glauben* + Dativ (*Ich glaube dir* = I believe you) and *glauben, dass …*.",
+      "pattern": "glauben **an** + Akk.",
+      "mistake": {"wrong": "Glaubst du in Wunder?", "why": "English *believe in* leads to *in*. German uses *an* with *glauben*."},
+      "examples": [
+        {"de": "Sie glaubt an die Liebe auf den ersten Blick.", "en": "She believes in love at first sight."},
+        {"de": "Ich glaube an dich.", "en": "I believe in you."}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Sie hilft mir {{c1::bei::+ Dat.}} den Hausaufgaben.",
+      "en": "She helps me with the homework.",
+      "focus": "Präpositionalobjekt · *helfen* (Tätigkeit)",
+      "explanation": "*helfen* has the person in the Dativ (**mir**) and the task with **bei** + Dativ. *bei* always takes the Dativ: *den Hausaufgaben* is Dativ plural, and the plural noun already ends in *-n*.",
+      "pattern": "jdm. (Dat.) helfen **bei** + Dat.",
+      "mistake": {"wrong": "Sie hilft mir bei die Hausaufgaben.", "why": "*die Hausaufgaben* is Nominativ/Akkusativ plural. *bei* always takes the Dativ: *bei den Hausaufgaben*."},
+      "examples": [
+        {"de": "Kannst du mir beim Umzug helfen?", "en": "Can you help me with the move?"},
+        {"de": "Mein Kollege hilft mir bei der Steuererklärung.", "en": "My colleague is helping me with my tax return."}
+      ],
+      "words": [{"de": "die Hausaufgaben (Pl.)", "en": "homework"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Ich freue mich {{c1::auf::+ Akk. · etwas Kommendes}} deinen Besuch.",
+      "en": "I'm looking forward to your visit.",
+      "focus": "Präpositionalobjekt · *sich freuen* · geplanter Besuch",
+      "explanation": "The visit is still to come → **sich freuen auf** + Akkusativ. *Besuch* is masculine (*der Besuch*), so the Akkusativ possessive needs *-en*: **deinen Besuch**.",
+      "pattern": "sich freuen **auf** + Akk. (masc.: deinen)",
+      "mistake": {"wrong": "Ich freue mich auf deinem Besuch.", "why": "*deinem* is Dativ. *auf* in *sich freuen auf* always takes the Akkusativ, so masculine *Besuch* needs *deinen*."},
+      "examples": [
+        {"de": "Wir freuen uns schon auf den Urlaub in Portugal.", "en": "We're already looking forward to the holiday in Portugal."},
+        {"de": "Freut ihr euch auf die Hochzeit?", "en": "Are you looking forward to the wedding?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Wartest du noch {{c1::auf::+ Akk.}} eine Antwort?",
+      "en": "Are you still waiting for an answer?",
+      "focus": "Präpositionalobjekt · *warten* · Ja/Nein-Frage",
+      "explanation": "In a yes/no question the verb comes first; the Präpositionalobjekt stays at the end of the Mittelfeld: **auf** + Akkusativ → *eine Antwort* (feminine Akkusativ). *noch* means *still*.",
+      "pattern": "Wartest du … **auf** + Akk.?",
+      "mistake": {"wrong": "Wartest du noch eine Antwort?", "why": "The preposition is missing. After *warten* an Akkusativ without preposition only expresses duration (*eine Stunde warten*). The thing you wait for needs *auf*."},
+      "examples": [
+        {"de": "Wir warten noch auf die Ergebnisse.", "en": "We're still waiting for the results."},
+        {"de": "Wartet ihr auf das Taxi?", "en": "Are you waiting for the taxi?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Unser Team arbeitet seit Monaten {{c1::an::+ Dat.}} einer neuen App.",
+      "en": "Our team has been working on a new app for months.",
+      "focus": "Präpositionalobjekt · *arbeiten* · Kasus",
+      "explanation": "**arbeiten an** + Dativ means *to work on* a project. It is one of the few *an*-verbs with the Dativ (also *teilnehmen, zweifeln, leiden an*): *App* is feminine → **einer neuen App**. *seit* + Präsens expresses an action that started in the past and is still going on.",
+      "pattern": "arbeiten **an** + Dat.",
+      "mistake": {"wrong": "Unser Team arbeitet seit Monaten an eine neue App.", "why": "Many *an*-verbs take the Akkusativ (*denken an*), but *arbeiten an* takes the Dativ: *an einer neuen App*."},
+      "examples": [
+        {"de": "Sie arbeitet gerade an ihrer Masterarbeit.", "en": "She is currently working on her master's thesis."},
+        {"de": "Die Forscher arbeiten an einem neuen Impfstoff.", "en": "The researchers are working on a new vaccine."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Nimmst du morgen {{c1::an::+ Dat.}} der Besprechung teil?",
+      "en": "Are you taking part in the meeting tomorrow?",
+      "focus": "Präpositionalobjekt · trennbares Verb *teilnehmen*",
+      "explanation": "**teilnehmen an** + Dativ means *to take part in*. *Besprechung* is feminine → Dativ **der Besprechung**. *teilnehmen* is separable: *nimmst* comes first in the question, *teil* goes to the end, and the Präpositionalobjekt stands in between.",
+      "pattern": "nehmen … **an** + Dat. … teil",
+      "mistake": {"wrong": "Nimmst du morgen an die Besprechung teil?", "why": "*die Besprechung* is Akkusativ. *teilnehmen an* always takes the Dativ: *an der Besprechung*."},
+      "examples": [
+        {"de": "Über hundert Läufer haben am Marathon teilgenommen.", "en": "More than a hundred runners took part in the marathon."},
+        {"de": "Ich nehme nächste Woche an einem Deutschkurs teil.", "en": "I'm taking part in a German course next week."}
+      ],
+      "words": [{"de": "teilnehmen an (+ Dat.)", "en": "to take part in"}, {"de": "die Besprechung (-en)", "en": "meeting"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Viele Menschen haben Angst {{c1::vor::+ Dat.}} dem Zahnarzt.",
+      "en": "Many people are afraid of the dentist.",
+      "focus": "Präpositionalobjekt · *Angst haben*",
+      "explanation": "**Angst haben vor** + Dativ means *to be afraid of*. *vor* is a two-way preposition, but in this fixed expression it always takes the Dativ: *der Zahnarzt* → **dem Zahnarzt**. The same holds for *sich fürchten vor* and *warnen vor*.",
+      "pattern": "Angst haben **vor** + Dat.",
+      "mistake": {"wrong": "Viele Menschen haben Angst von dem Zahnarzt.", "why": "English *afraid of* leads to *von*. Fear in German is always *vor* + Dativ."},
+      "examples": [
+        {"de": "Meine Tochter hat Angst vor Hunden.", "en": "My daughter is afraid of dogs."},
+        {"de": "Hast du Angst vor der Prüfung?", "en": "Are you afraid of the exam?"}
+      ],
+      "words": [{"de": "der Zahnarzt (¨-e)", "en": "dentist"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ein Tourist hat mich {{c1::nach::+ Dat.}} dem Weg zum Bahnhof gefragt.",
+      "en": "A tourist asked me the way to the station.",
+      "focus": "Präpositionalobjekt · *fragen* (Information)",
+      "explanation": "**fragen nach** + Dativ means *to ask about / for information*. The person you ask is in the Akkusativ (**mich**), the information follows *nach* + Dativ: **dem Weg**. Compare *bitten um*, which is used when you want to receive something.",
+      "pattern": "jdn. (Akk.) fragen **nach** + Dat.",
+      "mistake": {"wrong": "Ein Tourist hat mir nach dem Weg zum Bahnhof gefragt.", "why": "*fragen* takes the person in the Akkusativ, not the Dativ: *jemanden fragen* → *hat mich gefragt*."},
+      "examples": [
+        {"de": "Sie hat nach deiner Telefonnummer gefragt.", "en": "She asked for your phone number."},
+        {"de": "Der Arzt fragt nach meinen Symptomen.", "en": "The doctor asks about my symptoms."}
+      ],
+      "words": [],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Wir gratulieren dir herzlich {{c1::zu::+ Dat.}} deiner neuen Stelle.",
+      "en": "We warmly congratulate you on your new job.",
+      "focus": "Präpositionalobjekt · *gratulieren*",
+      "explanation": "*gratulieren* takes the person in the Dativ (**dir**) and the occasion with **zu** + Dativ. *Stelle* is feminine → **deiner neuen Stelle**. With *Geburtstag* the contraction is usual: *zum Geburtstag*.",
+      "pattern": "jdm. (Dat.) gratulieren **zu** + Dat.",
+      "mistake": {"wrong": "Wir gratulieren dir herzlich auf deine neue Stelle.", "why": "English *congratulate on* leads to *auf*. The occasion after *gratulieren* always follows *zu* + Dativ."},
+      "examples": [
+        {"de": "Die Kollegen gratulieren ihr zum Geburtstag.", "en": "The colleagues wish her a happy birthday."},
+        {"de": "Ich gratuliere Ihnen zu Ihrem Erfolg.", "en": "I congratulate you on your success."}
+      ],
+      "words": [{"de": "die Stelle (-n)", "en": "job, position"}],
+      "production_cue": "(informal du)",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "Sie hat sich {{c1::um::+ Akk. · was?}} eine Stelle {{c2::bei::+ Dat. · Firma}} einer Bank beworben.",
+      "en": "She applied for a job at a bank.",
+      "focus": "*sich bewerben* · zwei Präpositionalobjekte",
+      "explanation": "*sich bewerben* has two prepositions: the job you want with **um** + Akkusativ (*um eine Stelle*), and the company with **bei** + Dativ (*bei einer Bank*). The sentence is in the Perfekt; reflexive verbs use *haben*, and the Partizip II of *bewerben* is *beworben*.",
+      "pattern": "sich bewerben **um** + Akk. **bei** + Dat.",
+      "mistake": {"wrong": "Sie hat sich um einer Stelle bei einer Bank beworben.", "why": "*einer Stelle* is Dativ. *um* always takes the Akkusativ: *um eine Stelle*. Only the company after *bei* is Dativ."},
+      "examples": [
+        {"de": "Er bewirbt sich um ein Stipendium.", "en": "He is applying for a scholarship."},
+        {"de": "Ich habe mich bei drei Firmen beworben.", "en": "I've applied to three companies."}
+      ],
+      "words": [{"de": "sich bewerben um / bei", "en": "to apply for / to"}],
+      "production_cue": "(Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "Der Nachbar ärgert sich {{c1::über::+ Akk.}} den Lärm im Treppenhaus.",
+      "en": "The neighbour is annoyed about the noise in the stairwell.",
+      "focus": "Präpositionalobjekt · *sich ärgern*",
+      "explanation": "**sich ärgern über** + Akkusativ means *to be annoyed about*. *Lärm* is masculine → Akkusativ **den Lärm**. *im Treppenhaus* is a normal place phrase (Dativ, *wo?*), not part of the Präpositionalobjekt.",
+      "pattern": "sich ärgern **über** + Akk.",
+      "mistake": {"wrong": "Der Nachbar ärgert sich über dem Lärm im Treppenhaus.", "why": "*über dem* would be a place (*above*). In the Präpositionalobjekt *über* means *about* and always takes the Akkusativ: *über den Lärm*."},
+      "examples": [
+        {"de": "Ich ärgere mich über meinen Fehler.", "en": "I'm annoyed about my mistake."},
+        {"de": "Die Fahrgäste ärgern sich über die Verspätung.", "en": "The passengers are annoyed about the delay."}
+      ],
+      "words": [{"de": "das Treppenhaus (¨-er)", "en": "stairwell"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Ich habe keine Zeit, weil ich mich {{c1::auf::+ Akk.}} die Prüfung vorbereite.",
+      "en": "I don't have time because I'm preparing for the exam.",
+      "focus": "Präpositionalobjekt · *sich vorbereiten* · Nebensatz",
+      "explanation": "**sich vorbereiten auf** + Akkusativ means *to prepare for*. In the *weil*-clause the separable verb stays together at the end (*vorbereite*). The reflexive pronoun *mich* comes right after the subject, and the Präpositionalobjekt *auf die Prüfung* stands before the verb.",
+      "pattern": "…, weil ich mich **auf** + Akk. vorbereite.",
+      "mistake": {"wrong": "Ich habe keine Zeit, weil ich mich für die Prüfung vorbereite.", "why": "English *prepare for* leads to *für*. *sich vorbereiten* takes *auf* + Akkusativ."},
+      "examples": [
+        {"de": "Sie bereitet sich auf ein Vorstellungsgespräch vor.", "en": "She is preparing for a job interview."},
+        {"de": "Wir haben uns gut auf die Präsentation vorbereitet.", "en": "We prepared well for the presentation."}
+      ],
+      "words": [{"de": "sich vorbereiten auf (+ Akk.)", "en": "to prepare for"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "{{c1::Auf::+ Akk.}} meine Kollegin kann ich mich immer verlassen.",
+      "en": "I can always rely on my colleague.",
+      "focus": "Präpositionalobjekt im Vorfeld · *sich verlassen*",
+      "explanation": "**sich verlassen auf** + Akkusativ means *to rely on*. The Präpositionalobjekt is in the Vorfeld for emphasis, so the finite verb *kann* follows in position 2 and the subject *ich* comes after it. *meine Kollegin* is feminine Akkusativ.",
+      "pattern": "**Auf** + Akk. + Modalverb + Subjekt + sich … verlassen",
+      "mistake": {"wrong": "Auf meiner Kollegin kann ich mich immer verlassen.", "why": "*meiner Kollegin* is Dativ. With *sich verlassen*, *auf* always takes the Akkusativ: *auf meine Kollegin*."},
+      "examples": [
+        {"de": "Auf ihn kann man sich verlassen.", "en": "You can rely on him."},
+        {"de": "Kann ich mich auf dich verlassen?", "en": "Can I count on you?"}
+      ],
+      "words": [{"de": "sich verlassen auf (+ Akk.)", "en": "to rely on"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "{{c1::Mit::+ Dat.}} wem hast du gestern so lange telefoniert?",
+      "en": "Who were you on the phone with for so long yesterday?",
+      "focus": "Frage nach einer Person · *telefonieren*",
+      "explanation": "**telefonieren mit** + Dativ. When you ask about a person, the preposition stays and comes first, followed by the question word in the right case: *mit* + Dativ → **mit wem**. English can put the preposition at the end; German cannot.",
+      "pattern": "Präp. + wem/wen + Verb … ?",
+      "mistake": {"wrong": "Wem hast du gestern so lange telefoniert?", "why": "The preposition cannot be left out or moved to the end. The question must keep the fixed preposition: *Mit wem …?*"},
+      "examples": [
+        {"de": "Mit wem triffst du dich am Samstag?", "en": "Who are you meeting on Saturday?"},
+        {"de": "Mit wem sprichst du da?", "en": "Who are you talking to there?"}
+      ],
+      "words": [],
+      "production_cue": "(informal du, Perfekt)",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Der Gast beschwert sich {{c1::bei::+ Dat. · Person/Stelle}} der Rezeption über das laute Zimmer.",
+      "en": "The guest complains to reception about the noisy room.",
+      "focus": "*sich beschweren* · Adressat der Beschwerde",
+      "explanation": "*sich beschweren* has two prepositions: the person or office you complain to follows **bei** + Dativ (*bei der Rezeption*), and the reason follows *über* + Akkusativ (*über das laute Zimmer*). The usual order is *bei* … before *über* ….",
+      "pattern": "sich beschweren **bei** + Dat. über + Akk.",
+      "mistake": {"wrong": "Der Gast beschwert sich zu der Rezeption über das laute Zimmer.", "why": "English *complain to* leads to *zu*. The person or office you complain to always follows *bei*."},
+      "examples": [
+        {"de": "Ich habe mich beim Vermieter über die Heizung beschwert.", "en": "I complained to the landlord about the heating."},
+        {"de": "Die Mieter beschweren sich bei der Hausverwaltung über den Müll.", "en": "The tenants are complaining to the property management about the rubbish."}
+      ],
+      "words": [{"de": "sich beschweren bei / über", "en": "to complain to / about"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Die Polizei warnt {{c1::vor::+ Dat.}} glatten Straßen.",
+      "en": "The police are warning of icy roads.",
+      "focus": "Präpositionalobjekt · *warnen*",
+      "explanation": "**warnen vor** + Dativ means *to warn of/about* a danger. *glatten Straßen* is Dativ plural without an article; the adjective then takes the strong Dativ plural ending *-en*. A person who is warned is in the Akkusativ: *jemanden vor etwas warnen*.",
+      "pattern": "(jdn.) warnen **vor** + Dat.",
+      "mistake": {"wrong": "Die Polizei warnt über glatte Straßen.", "why": "English *warn about* leads to *über*. A danger after *warnen* always follows *vor* + Dativ."},
+      "examples": [
+        {"de": "Der Arzt hat mich vor den Nebenwirkungen gewarnt.", "en": "The doctor warned me about the side effects."},
+        {"de": "Experten warnen vor einer neuen Grippewelle.", "en": "Experts are warning of a new wave of flu."}
+      ],
+      "words": [{"de": "glatt", "en": "icy, slippery"}],
+      "production_cue": "",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the case after a fixed preposition.",
+      "prompt": "How do you know whether the noun after a verb's fixed preposition is Akkusativ or Dativ?",
+      "answer": "Prepositions with one case keep it: *mit, von, bei, aus, nach, zu* → **Dativ**; *für, um, gegen* → **Akkusativ**. With two-way prepositions the verb decides: *auf* and *über* → almost always **Akk**; *vor* and *unter* → **Dat**; *an* and *in* → learn with the verb.",
+      "explanation": "The preposition in a Präpositionalobjekt has no real meaning of place, so you cannot ask *wo?* or *wohin?*. That is why *warten auf* + Akk and *Angst haben vor* + Dat must be learned as units.",
+      "examples": [
+        {"de": "Ich warte auf den nächsten Zug.", "en": "I'm waiting for the next train."},
+        {"de": "Er hat Angst vor dem Gewitter.", "en": "He is afraid of the thunderstorm."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Explain the contrast between the two uses of the preposition.",
+      "prompt": "Why is it *Ich denke an meine Familie* (Akk) but *Das Foto hängt an der Wand* (Dat)?",
+      "answer": "In *denken an* the preposition is part of a **Präpositionalobjekt**: its case is fixed by the verb (Akkusativ). In *an der Wand* the preposition names a real **place** (*wo?*), so the normal two-way rule gives the Dativ.",
+      "explanation": "Only prepositions with a local meaning follow the *wo? → Dativ / wohin? → Akkusativ* rule. When the preposition belongs to the verb, you cannot ask *wo?* or *wohin?*, and the case is simply part of the verb you learn.",
+      "examples": [
+        {"de": "Ich denke an meine Familie.", "en": "I'm thinking of my family."},
+        {"de": "Das Foto hängt an der Wand.", "en": "The photo is hanging on the wall."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about verbs with *an*.",
+      "prompt": "Which common verbs with *an* take the Dativ, and which take the Akkusativ?",
+      "answer": "**Dativ**: *arbeiten an, teilnehmen an, zweifeln an, leiden an, sterben an*. **Akkusativ**: *denken an, sich erinnern an, sich gewöhnen an, glauben an, schreiben an*.",
+      "explanation": "There is no reliable rule that predicts the case, so learn each *an*-verb with its case. A useful contrast pair: *denken an* + Akk (*an den Test*) but *arbeiten an* + Dat (*an dem Test*).",
+      "examples": [
+        {"de": "Ich zweifle an seiner Ehrlichkeit.", "en": "I doubt his honesty."},
+        {"de": "Sie schreibt einen Brief an ihre Oma.", "en": "She is writing a letter to her grandma."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Explain the difference in meaning.",
+      "prompt": "What is the difference between *sich freuen auf*, *sich freuen über* and *sich freuen für*?",
+      "answer": "*sich freuen* **auf** + Akk: something in the future (look forward to). *sich freuen* **über** + Akk: something that is happening or has happened (be happy about). *sich freuen* **für** + Akk: another person's luck (be happy for someone).",
+      "explanation": "The preposition changes the meaning of the same verb. Ask yourself whether the event is still to come (*auf*) or already here (*über*); *für* is only used with people.",
+      "examples": [
+        {"de": "Ich freue mich auf die Ferien.", "en": "I'm looking forward to the holidays."},
+        {"de": "Ich freue mich über die gute Nachricht.", "en": "I'm happy about the good news."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "concept",
+      "instruction": "Answer the question about questions with fixed prepositions.",
+      "prompt": "How do you ask about a person in a Präpositionalobjekt, and how about a thing?",
+      "answer": "Person: preposition + **wen** (Akk) or **wem** (Dat): *Auf wen wartest du? Mit wem sprichst du?* Thing: **wo(r)** + preposition: *Worauf wartest du? Womit beschäftigst du dich?*",
+      "explanation": "The preposition never disappears and never moves to the end, unlike in English (*Who are you waiting for?*). The case of *wen/wem* follows the preposition of the verb.",
+      "examples": [
+        {"de": "Auf wen wartest du?", "en": "Who are you waiting for?"},
+        {"de": "Von wem hast du das gehört?", "en": "Who did you hear that from?"}
+      ]
+    },
+    {
+      "key": "d06",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Ich interessiere mich sehr ___ moderne Architektur.",
+      "options": ["für", "an", "in", "über"],
+      "correct": "für",
+      "answer": "Ich interessiere mich sehr für moderne Architektur.",
+      "explanation": "*sich interessieren* is always used with *für* + Akkusativ. *in* copies English *interested in*; *an* is used with the noun (*Interesse an* + Dat), not with the verb; *über* does not combine with *sich interessieren*."
+    },
+    {
+      "key": "d07",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Hast du schon ___ der Umfrage teilgenommen?",
+      "options": ["an", "bei", "in", "zu"],
+      "correct": "an",
+      "answer": "Hast du schon an der Umfrage teilgenommen?",
+      "explanation": "*teilnehmen* always takes *an* + Dativ (*an der Umfrage*). *in* copies English *take part in*, and *bei* is a common learner guess, but neither is used with *teilnehmen*; *zu* does not fit either."
+    },
+    {
+      "key": "d08",
+      "type": "choice",
+      "instruction": "Choose the correct preposition.",
+      "prompt": "Achte bitte ___ die Rechtschreibung!",
+      "options": ["auf", "an", "für", "nach"],
+      "correct": "auf",
+      "answer": "Achte bitte auf die Rechtschreibung!",
+      "explanation": "*achten auf* + Akkusativ means *to pay attention to*. *an* and *für* are not used with *achten*, and *nach* would be *fragen nach* / *suchen nach*."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Ich erinnere mich nicht mehr an dem Namen.",
+      "answer": "Ich erinnere mich nicht mehr an den Namen.",
+      "explanation": "*sich erinnern an* takes the Akkusativ. *Name* is masculine, so the article must be *den*, not the Dativ *dem*."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Er hat mich für Geld gebeten.",
+      "answer": "Er hat mich um Geld gebeten.",
+      "explanation": "The wrong preposition is *für*. What you ask for after *bitten* always follows *um* + Akkusativ: *jemanden um Geld bitten*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Wir müssen mit den Chef über das Problem sprechen.",
+      "answer": "Wir müssen mit dem Chef über das Problem sprechen.",
+      "explanation": "*mit* always takes the Dativ: masculine *dem Chef*, not *den Chef*. The topic *über das Problem* is correct Akkusativ."
+    },
+    {
+      "key": "d12",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Sie leidet unter starke Kopfschmerzen.",
+      "answer": "Sie leidet unter starken Kopfschmerzen.",
+      "explanation": "*leiden unter* takes the Dativ. *Kopfschmerzen* is plural without an article, so the Dativ plural adjective ending is *-en*: *unter starken Kopfschmerzen*."
+    },
+    {
+      "key": "d13",
+      "type": "transform",
+      "instruction": "Rewrite in the Perfekt.",
+      "prompt": "Sie kümmert sich um die Kinder ihrer Schwester.",
+      "answer": "Sie hat sich um die Kinder ihrer Schwester gekümmert.",
+      "explanation": "Reflexive verbs form the Perfekt with *haben*: *hat … gekümmert*. The Präpositionalobjekt *um die Kinder* stays in the Mittelfeld, before the Partizip II at the end."
+    },
+    {
+      "key": "d14",
+      "type": "transform",
+      "instruction": "Replace the person after the preposition with a personal pronoun.",
+      "prompt": "Ich denke oft an meinen Großvater.",
+      "answer": "Ich denke oft an ihn.",
+      "explanation": "For people you keep the preposition and use a personal pronoun in the same case. *an* + Akkusativ, masculine → *ihn*. (A pronominal adverb like *daran* is only used for things.)"
+    },
+    {
+      "key": "d15",
+      "type": "transform",
+      "instruction": "Ask about the person: replace *meine Schwester* with a question word.",
+      "prompt": "Er hat sich in meine Schwester verliebt.",
+      "answer": "In wen hat er sich verliebt?",
+      "explanation": "*sich verlieben in* takes the Akkusativ, so the question word for a person is *wen*. The preposition comes first with it: *In wen …?* The finite verb *hat* follows in position 2."
+    },
+    {
+      "key": "d16",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Der Chef",
+      "prompt": "über / ärgert / sich / der Chef / die Verspätung",
+      "answer": "Der Chef ärgert sich über die Verspätung.",
+      "explanation": "Subject, finite verb in position 2, reflexive pronoun, then the Präpositionalobjekt *über die Verspätung* (Akkusativ). Also correct with emphasis: *Über die Verspätung ärgert sich der Chef.*"
+    },
+    {
+      "key": "d17",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Ich",
+      "prompt": "mich / ich / für / möchte / bedanken / Ihre Hilfe",
+      "answer": "Ich möchte mich für Ihre Hilfe bedanken.",
+      "explanation": "The modal verb *möchte* is in position 2 and the infinitive *bedanken* goes to the end. The reflexive pronoun *mich* comes early in the Mittelfeld, then *für Ihre Hilfe* (*sich bedanken für* + Akk)."
+    },
+    {
+      "key": "d18",
+      "type": "combine",
+      "instruction": "Join with *weil*.",
+      "prompt": "Ich bin nervös. Ich bereite mich auf ein wichtiges Gespräch vor.",
+      "answer": "Ich bin nervös, weil ich mich auf ein wichtiges Gespräch vorbereite.",
+      "explanation": "In the *weil*-clause the verb goes to the end, and the separable verb joins again: *vorbereite*. The Präpositionalobjekt *auf ein wichtiges Gespräch* stays before the verb."
+    }
+  ]
+}

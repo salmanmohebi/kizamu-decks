@@ -1,0 +1,784 @@
+{
+  "topic_id": "b2-06-passiv-ersatzformen",
+  "level": "B2",
+  "title_de": "Passiv-Ersatzformen",
+  "title_en": "Alternatives to the passive",
+  "rule": {
+    "summary": "German has several structures with a passive meaning that do not use *werden* + Partizip II. Most of them add a modal meaning: **sein + zu + Infinitiv** (= *kann/muss … werden*), **sich lassen + Infinitiv** (= *kann … werden*) and adjectives in **-bar / -lich** (= *kann … werden*). Further alternatives are *man* + Aktiv, *bekommen* + Partizip II and Funktionsverbgefüge such as *Anwendung finden*. You meet them constantly in written and formal German: instructions, news, reports, science.",
+    "table": "| Ersatzform | Bedeutung | Beispiel | = Passiv mit Modalverb |\n|---|---|---|---|\n| sein + **zu** + Inf | können / müssen | *Das Problem ist leicht **zu lösen**.* | kann leicht gelöst werden |\n| sein + **zu** + Inf (Vorschrift) | müssen / sollen | *Der Antrag ist bis Mai **einzureichen**.* | muss eingereicht werden |\n| **sich lassen** + Inf | können | *Die Tür **lässt sich** nicht **öffnen**.* | kann nicht geöffnet werden |\n| Adjektiv auf **-bar / -lich** | können | *Der Plan ist **durchführbar**.* | kann durchgeführt werden |\n| **man** + Aktiv | (neutral) | ***Man** repariert die Straße.* | Die Straße wird repariert. |\n| **bekommen** + Partizip II | (neutral) | *Sie **bekommt** ein Buch **geschenkt**.* | Ihr wird ein Buch geschenkt. |\n| zu + **Partizip I** (Attribut) | müssen / können | *die **zu erledigenden** Aufgaben* | die Aufgaben, die erledigt werden müssen |",
+    "steps": [
+      "Ask what the sentence means: possibility (*can be done*), necessity (*must be done*) or a neutral passive.",
+      "Possibility: use *sich lassen* + Infinitiv, *sein* + *zu* + Infinitiv or an adjective in *-bar/-lich*. Necessity, especially in rules and instructions: use *sein* + *zu* + Infinitiv.",
+      "*sein + zu*: conjugate *sein* and put *zu* + infinitive at the end. With separable verbs *zu* goes inside: *einzureichen, auszuhalten*.",
+      "*sich lassen*: conjugate *lassen* (*lässt, lassen, ließ*) and add *sich*; the bare infinitive (without *zu*) goes to the end.",
+      "*-bar*: only from transitive verbs (verbs with an Akkusativ object): *lesen → lesbar, lösen → lösbar*. Negate with *un-*: *unlösbar*. (A few exceptions come from intransitive verbs: *brennbar*.)"
+    ],
+    "pitfalls": [
+      "*zu* after *sich lassen*: ✗ *Die Tür lässt sich nicht zu öffnen.* → ✓ *Die Tür lässt sich nicht öffnen.*",
+      "Forgetting *zu* after *sein*: ✗ *Das Problem ist leicht lösen.* → ✓ *Das Problem ist leicht zu lösen.*",
+      "*zu* in the wrong place with separable verbs: ✗ *Das Formular ist zu ausfüllen.* → ✓ *Das Formular ist auszufüllen.*",
+      "Mixing two forms: ✗ *Das Problem ist zu lösbar.* → ✓ *Das Problem ist lösbar.* / *Das Problem ist zu lösen.*",
+      "Forgetting the reflexive pronoun: ✗ *Der Deckel lässt nicht öffnen.* → ✓ *Der Deckel lässt sich nicht öffnen.*"
+    ]
+  },
+  "items": [
+    {
+      "key": "g00",
+      "de": "Das Problem ist leicht zu {{c1::lösen::solve}}.",
+      "en": "The problem is easy to solve.",
+      "focus": "sein + zu + Infinitiv · Möglichkeit",
+      "explanation": "*ist … zu* + infinitive has a passive meaning: the problem is not the one who solves. With *leicht* the meaning is possibility: *kann leicht gelöst werden*. The infinitive **lösen** stands at the end after *zu*.",
+      "pattern": "sein + (leicht) + zu + **Inf** (= kann … werden)",
+      "mistake": {
+        "wrong": "Das Problem ist leicht gelöst.",
+        "why": "*ist gelöst* is the Zustandspassiv (the problem is already solved). The possibility 'can easily be solved' needs *ist leicht zu lösen*."
+      },
+      "examples": [
+        {"de": "Die Anleitung ist einfach zu befolgen.", "en": "The instructions are easy to follow."},
+        {"de": "Der Unterschied ist kaum zu erkennen.", "en": "The difference is hardly noticeable."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g01",
+      "de": "Diese Aufgabe lässt sich schnell {{c1::erledigen::get done}}.",
+      "en": "This task can be done quickly.",
+      "focus": "sich lassen + Infinitiv · Möglichkeit",
+      "explanation": "*lässt sich* + infinitive means *kann … werden*: *Diese Aufgabe kann schnell erledigt werden*. *lassen* is conjugated for the subject *Aufgabe* (3rd person singular → *lässt*), and the bare infinitive **erledigen** goes to the end without *zu*.",
+      "pattern": "lässt + sich + … + **Inf** (= kann … werden)",
+      "mistake": {
+        "wrong": "Diese Aufgabe lässt sich schnell zu erledigen.",
+        "why": "*sich lassen* is followed by a bare infinitive without *zu*. The *zu* belongs to the other structure: *Die Aufgabe ist schnell zu erledigen.*"
+      },
+      "examples": [
+        {"de": "Der Fehler lässt sich leicht finden.", "en": "The mistake is easy to find."},
+        {"de": "Das Sofa lässt sich in ein Bett verwandeln.", "en": "The sofa can be turned into a bed."}
+      ],
+      "words": [{"de": "erledigen", "en": "to get done, to deal with"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g02",
+      "de": "Der Text ist sehr {{c1::lesbar::lesen → Adj.}}.",
+      "en": "The text is very readable.",
+      "focus": "Adjektiv auf -bar · Möglichkeit",
+      "explanation": "The suffix *-bar* turns a transitive verb into an adjective with the meaning *kann … werden*: lesen → **lesbar** = *kann gelesen werden*. Because it is an adjective, it can be graded with *sehr*.",
+      "pattern": "Verbstamm + **-bar** (= kann … werden)",
+      "mistake": {
+        "wrong": "Der Text ist sehr lesenbar.",
+        "why": "*-bar* is added to the verb stem, not to the infinitive: les- + -bar → *lesbar*."
+      },
+      "examples": [
+        {"de": "Die Schrift auf dem Display ist gut erkennbar.", "en": "The writing on the display is easy to recognise."},
+        {"de": "Die Vorteile sind sofort sichtbar.", "en": "The advantages are visible immediately."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g03",
+      "de": "Diese Pilze sind nicht {{c1::essbar::essen → Adj.}}.",
+      "en": "These mushrooms are not edible.",
+      "focus": "Adjektiv auf -bar · Negation",
+      "explanation": "ess- + -bar → **essbar** = *können gegessen werden*. The adjective is predicative after *sind* and takes no ending. *nicht essbar* means they cannot (safely) be eaten.",
+      "pattern": "sein + nicht + Verbstamm-**bar**",
+      "mistake": {
+        "wrong": "Diese Pilze sind nicht zu essbar.",
+        "why": "*-bar* already contains the meaning 'can be …'. *zu* belongs only to *sein + zu + Infinitiv* (*nicht zu essen*), never before an adjective."
+      },
+      "examples": [
+        {"de": "Die Schale dieser Frucht ist nicht essbar.", "en": "The skin of this fruit is not edible."},
+        {"de": "Das Gerät ist nicht mehr brauchbar.", "en": "The device is no longer usable."}
+      ],
+      "words": [{"de": "der Pilz (-e)", "en": "mushroom"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g04",
+      "de": "Der Plan ist {{c1::durchführbar::durchführen → Adj.}}.",
+      "en": "The plan is feasible.",
+      "focus": "Adjektiv auf -bar · trennbares Verb",
+      "explanation": "*durchführen* is a separable transitive verb (*einen Plan durchführen*). The whole stem takes the suffix: durchführ- + -bar → **durchführbar** = *kann durchgeführt werden*.",
+      "pattern": "Präfix + Verbstamm + **-bar**",
+      "mistake": {
+        "wrong": "Der Plan ist durchzuführbar.",
+        "why": "*zu* is only inserted in the *zu*-infinitive (*durchzuführen*). The *-bar* adjective is formed from the plain stem: *durchführbar*."
+      },
+      "examples": [
+        {"de": "Die Reform ist technisch umsetzbar.", "en": "The reform is technically feasible."},
+        {"de": "Die Tabelle ist leicht anpassbar.", "en": "The table is easy to adapt."}
+      ],
+      "words": [{"de": "durchführen", "en": "to carry out"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g05",
+      "de": "Die Tür lässt sich nicht {{c1::öffnen::open}}.",
+      "en": "The door can't be opened.",
+      "focus": "sich lassen + Infinitiv · Negation",
+      "explanation": "*Die Tür lässt sich nicht öffnen* = *Die Tür kann nicht geöffnet werden*. The subject *die Tür* is the thing that undergoes the action; *sich* refers back to it. The infinitive **öffnen** closes the sentence.",
+      "pattern": "lässt + sich + nicht + **Inf**",
+      "mistake": {
+        "wrong": "Die Tür lässt nicht öffnen.",
+        "why": "Without *sich* the sentence has no passive meaning and is incomplete. The reflexive pronoun is a fixed part of the structure: *lässt sich öffnen*."
+      },
+      "examples": [
+        {"de": "Das Fenster lässt sich nicht schließen.", "en": "The window won't close."},
+        {"de": "Die Datei lässt sich nicht speichern.", "en": "The file can't be saved."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g06",
+      "de": "Das Auto ist noch zu {{c1::reparieren::repair}}.",
+      "en": "The car can still be repaired.",
+      "focus": "sein + zu + Infinitiv · Möglichkeit",
+      "explanation": "*ist noch zu reparieren* = *kann noch repariert werden*. Out of context the sentence is ambiguous: it can also mean 'still has to be repaired' (*muss noch repariert werden*). The English fixes the reading of possibility: the damage is not total. **reparieren** stands at the end after *zu*.",
+      "pattern": "sein + noch + zu + **Inf** (= kann noch … werden)",
+      "mistake": {
+        "wrong": "Das Auto ist noch reparieren.",
+        "why": "After *sein* the passive meaning needs *zu* + infinitive: *ist noch zu reparieren*."
+      },
+      "examples": [
+        {"de": "Die alte Uhr ist noch zu retten.", "en": "The old clock can still be saved."},
+        {"de": "Der Schaden ist noch zu beheben.", "en": "The damage can still be repaired."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g07",
+      "de": "Das Ergebnis ist {{c1::vorhersehbar::vorhersehen → Adj.}}.",
+      "en": "The result is predictable.",
+      "focus": "Adjektiv auf -bar · trennbares Verb",
+      "explanation": "*vorhersehen* (to foresee) is transitive, so it can form a *-bar* adjective: vorherseh- + -bar → **vorhersehbar** = *kann vorhergesehen werden*.",
+      "pattern": "Verbstamm + **-bar**",
+      "mistake": {
+        "wrong": "Das Ergebnis ist vorherzusehbar.",
+        "why": "*-bar* adjectives never contain *zu*. Either *vorhersehbar* or *ist vorherzusehen*."
+      },
+      "examples": [
+        {"de": "Die Reaktion der Märkte war absehbar.", "en": "The reaction of the markets was foreseeable."},
+        {"de": "Die Kosten sind schwer kalkulierbar.", "en": "The costs are hard to calculate."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g08",
+      "de": "Diese Sätze sind leicht zu {{c1::verstehen::understand}}.",
+      "en": "These sentences are easy to understand.",
+      "focus": "sein + zu + Infinitiv · Plural",
+      "explanation": "The subject *diese Sätze* is plural, so *sein* is **sind**. *sind leicht zu verstehen* = *können leicht verstanden werden*. The infinitive itself never changes.",
+      "pattern": "sind + leicht + zu + **Inf**",
+      "mistake": {
+        "wrong": "Diese Sätze sind leicht verstehen.",
+        "why": "Without *zu* the structure is broken. The passive meaning with *sein* requires *zu* + infinitive."
+      },
+      "examples": [
+        {"de": "Die Regeln sind schnell zu lernen.", "en": "The rules are quick to learn."},
+        {"de": "Seine Argumente sind schwer zu widerlegen.", "en": "His arguments are hard to refute."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g09",
+      "de": "Der Wein ist nicht zu {{c1::trinken::drink}}.",
+      "en": "The wine is undrinkable.",
+      "focus": "sein + zu + Infinitiv · Negation",
+      "explanation": "*nicht zu trinken* = *kann nicht getrunken werden*: the wine is so bad that nobody can drink it. The negation *nicht* stands before *zu* + **trinken**.",
+      "pattern": "sein + nicht + zu + **Inf**",
+      "mistake": {
+        "wrong": "Der Wein ist nicht zu getrunken.",
+        "why": "After *zu* comes the infinitive, never the Partizip II. The Partizip II belongs to the *werden*-passive: *kann nicht getrunken werden*."
+      },
+      "examples": [
+        {"de": "Die Suppe war nicht zu essen.", "en": "The soup was inedible."},
+        {"de": "Der Lärm ist nicht zu ertragen.", "en": "The noise is unbearable."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g10",
+      "de": "Die Tasche lässt sich gut {{c1::tragen::carry}}.",
+      "en": "The bag is easy to carry.",
+      "focus": "sich lassen + Infinitiv · Adverb",
+      "explanation": "*lässt sich gut tragen* = *kann gut getragen werden*. *gut* describes how easily the action can be done. The bare infinitive **tragen** stands at the end.",
+      "pattern": "lässt + sich + gut + **Inf**",
+      "mistake": {
+        "wrong": "Die Tasche lässt sich gut getragen.",
+        "why": "After *sich lassen* comes an infinitive, not a Partizip II. *getragen* belongs to the *werden*-passive: *kann gut getragen werden*."
+      },
+      "examples": [
+        {"de": "Der Stoff lässt sich gut waschen.", "en": "The fabric washes well."},
+        {"de": "Das Programm lässt sich gut bedienen.", "en": "The program is easy to use."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g11",
+      "de": "Diese Frage ist nicht zu {{c1::beantworten::answer}}.",
+      "en": "This question can't be answered.",
+      "focus": "sein + zu + Infinitiv · untrennbares Verb",
+      "explanation": "*beantworten* has the inseparable prefix *be-*, so *zu* stands before the whole verb: zu **beantworten**. The meaning is *kann nicht beantwortet werden*.",
+      "pattern": "sein + nicht + zu + **Inf** (untrennbar)",
+      "mistake": {
+        "wrong": "Diese Frage ist nicht bezuantworten.",
+        "why": "*zu* only goes inside separable verbs (*anzurufen*). *be-* is inseparable, so *zu* stands before the verb: *zu beantworten*."
+      },
+      "examples": [
+        {"de": "Der Brief ist bis Freitag zu beantworten.", "en": "The letter must be answered by Friday."},
+        {"de": "Seine Entscheidung ist kaum zu verstehen.", "en": "His decision is hard to understand."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g12",
+      "de": "Der Fehler ist {{c1::korrigierbar::korrigieren → Adj.}}.",
+      "en": "The error can be corrected.",
+      "focus": "Adjektiv auf -bar · Verb auf -ieren",
+      "explanation": "Verbs in *-ieren* also form *-bar* adjectives from the stem: korrigier- + -bar → **korrigierbar** = *kann korrigiert werden*.",
+      "pattern": "Verbstamm (-ier-) + **-bar**",
+      "mistake": {
+        "wrong": "Der Fehler ist korrigiertbar.",
+        "why": "*-bar* is added to the verb stem, not to the Partizip II: korrigier- + -bar."
+      },
+      "examples": [
+        {"de": "Die Einstellungen sind jederzeit änderbar.", "en": "The settings can be changed at any time."},
+        {"de": "Die Methode ist auch auf andere Fälle übertragbar.", "en": "The method can also be applied to other cases."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g13",
+      "de": "Die Maschine lässt sich einfach {{c1::bedienen::operate}}.",
+      "en": "The machine is easy to operate.",
+      "focus": "sich lassen + Infinitiv · Möglichkeit",
+      "explanation": "*bedienen* is transitive (*eine Maschine bedienen*), so the passive meaning is possible: *lässt sich einfach bedienen* = *kann einfach bedient werden*. **bedienen** stays an infinitive at the end.",
+      "pattern": "lässt + sich + einfach + **Inf**",
+      "mistake": {
+        "wrong": "Die Maschine lässt sich einfach bedient.",
+        "why": "*sich lassen* needs the infinitive, not the Partizip II: *lässt sich … bedienen*."
+      },
+      "examples": [
+        {"de": "Die Kamera lässt sich auch mit Handschuhen bedienen.", "en": "The camera can also be operated with gloves on."},
+        {"de": "Der Drucker lässt sich per App steuern.", "en": "The printer can be controlled via an app."}
+      ],
+      "words": [{"de": "bedienen", "en": "to operate (a machine)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g14",
+      "de": "Das Wasser ist {{c1::trinkbar::trinken → Adj.}}.",
+      "en": "The water is drinkable.",
+      "focus": "Adjektiv auf -bar · Möglichkeit",
+      "explanation": "trink- + -bar → **trinkbar** = *kann getrunken werden*. The same meaning can be expressed as *Das Wasser ist zu trinken*, but for safety information (water, food) the *-bar* adjective is the normal form.",
+      "pattern": "Verbstamm + **-bar**",
+      "mistake": {
+        "wrong": "Das Wasser lässt sich trinkbar.",
+        "why": "This mixes two structures. *sich lassen* needs an infinitive (*lässt sich trinken*), while the *-bar* adjective is used with *sein*: *ist trinkbar*."
+      },
+      "examples": [
+        {"de": "Das Leitungswasser hier ist bedenkenlos trinkbar.", "en": "The tap water here is perfectly safe to drink."},
+        {"de": "Der Fluss ist an dieser Stelle befahrbar.", "en": "The river is navigable at this point."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g15",
+      "de": "Diese Schrift ist kaum zu {{c1::lesen::read}}.",
+      "en": "This handwriting is barely legible.",
+      "focus": "sein + zu + Infinitiv · *kaum*",
+      "explanation": "*kaum zu lesen* = *kann kaum gelesen werden*. *kaum* ('hardly') shows that the meaning is possibility. The infinitive **lesen** follows *zu*.",
+      "pattern": "sein + kaum + zu + **Inf**",
+      "mistake": {
+        "wrong": "Diese Schrift ist kaum lesen.",
+        "why": "*zu* is obligatory in this structure: *ist kaum zu lesen*."
+      },
+      "examples": [
+        {"de": "Die Unterschrift ist kaum zu entziffern.", "en": "The signature is barely decipherable."},
+        {"de": "Der Unterschied ist kaum zu hören.", "en": "The difference can hardly be heard."}
+      ],
+      "words": [{"de": "die Schrift", "en": "(hand)writing, script"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g16",
+      "de": "Das Problem ist {{c1::lösbar::lösen → Adj.}}.",
+      "en": "The problem is solvable.",
+      "focus": "Adjektiv auf -bar · Möglichkeit",
+      "explanation": "lös- + -bar → **lösbar** = *kann gelöst werden*. It is the adjective version of *Das Problem ist zu lösen*. The negation is *unlösbar*.",
+      "pattern": "Verbstamm + **-bar**",
+      "mistake": {
+        "wrong": "Das Problem ist lösenbar.",
+        "why": "*-bar* attaches to the stem *lös-*, not to the infinitive *lösen*."
+      },
+      "examples": [
+        {"de": "Der Konflikt ist nur politisch lösbar.", "en": "The conflict can only be solved politically."},
+        {"de": "Die Aufgabe ist in einer Stunde machbar.", "en": "The task can be done in an hour."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g17",
+      "de": "Der Schmerz lässt sich nicht {{c1::aushalten::bear}}.",
+      "en": "The pain is unbearable.",
+      "focus": "sich lassen + Infinitiv · trennbares Verb",
+      "explanation": "*lässt sich nicht aushalten* = *kann nicht ausgehalten werden*. The separable verb **aushalten** stays together as one infinitive at the end, without *zu*.",
+      "pattern": "lässt + sich + nicht + **trennbares Inf**",
+      "mistake": {
+        "wrong": "Der Schmerz lässt sich nicht auszuhalten.",
+        "why": "*auszuhalten* is the *zu*-infinitive, which belongs to *ist nicht auszuhalten*. After *sich lassen* the infinitive has no *zu*."
+      },
+      "examples": [
+        {"de": "Die Hitze lässt sich kaum aushalten.", "en": "The heat is barely bearable."},
+        {"de": "Der Tisch lässt sich ausziehen.", "en": "The table can be extended."}
+      ],
+      "words": [{"de": "aushalten", "en": "to bear, to stand"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g18",
+      "de": "Die Idee ist gut zu {{c1::verstehen::understand}}.",
+      "en": "The idea is easy to understand.",
+      "focus": "sein + zu + Infinitiv · *gut*",
+      "explanation": "*gut zu verstehen* = *kann gut verstanden werden*. *gut* here means 'easily'. The *zu*-infinitive **verstehen** stands at the end.",
+      "pattern": "sein + gut + zu + **Inf**",
+      "mistake": {
+        "wrong": "Die Idee ist gut verstanden.",
+        "why": "*ist gut verstanden* is the Zustandspassiv (it has already been understood well). The possibility needs *ist gut zu verstehen*."
+      },
+      "examples": [
+        {"de": "Das Museum ist gut zu erreichen.", "en": "The museum is easy to get to."},
+        {"de": "Die Grafik ist gut zu lesen.", "en": "The chart is easy to read."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "g19",
+      "de": "Das Ergebnis ist {{c1::nachvollziehbar::nachvollziehen → Adj.}}.",
+      "en": "The result is understandable.",
+      "focus": "Adjektiv auf -bar · trennbares Verb",
+      "explanation": "*nachvollziehen* means 'to follow (an argument), to understand why'. nachvollzieh- + -bar → **nachvollziehbar** = *kann nachvollzogen werden*. It is very common in academic and professional texts.",
+      "pattern": "Präfix + Verbstamm + **-bar**",
+      "mistake": {
+        "wrong": "Das Ergebnis ist nachzuvollziehbar.",
+        "why": "*zu* never appears inside a *-bar* adjective. Correct: *nachvollziehbar* or *ist nachzuvollziehen*."
+      },
+      "examples": [
+        {"de": "Ihre Kritik ist durchaus nachvollziehbar.", "en": "Her criticism is quite understandable."},
+        {"de": "Die Entscheidung ist für alle Beteiligten nachprüfbar.", "en": "The decision can be checked by everyone involved."}
+      ],
+      "words": [{"de": "nachvollziehen", "en": "to follow, to understand (reasoning)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n01",
+      "de": "Der Antrag ist bis spätestens 31. März beim Amt {{c1::einzureichen::einreichen}}.",
+      "en": "The application must be submitted to the office by 31 March at the latest.",
+      "focus": "sein + zu + Infinitiv · Vorschrift · trennbares Verb",
+      "explanation": "In rules and official texts *sein + zu* means necessity: *muss eingereicht werden*. *einreichen* is separable, so *zu* goes between prefix and stem: ein + zu + reichen → **einzureichen**.",
+      "pattern": "sein + … + Präfix-**zu**-Verb (= muss … werden)",
+      "mistake": {
+        "wrong": "Der Antrag ist bis spätestens 31. März beim Amt zu einreichen.",
+        "why": "With separable verbs *zu* stands between the prefix and the stem: *einzureichen*, as in *anzurufen, aufzuhören*."
+      },
+      "examples": [
+        {"de": "Die Gebühr ist vor Kursbeginn zu überweisen.", "en": "The fee must be transferred before the course starts."},
+        {"de": "Der Ausweis ist am Eingang vorzuzeigen.", "en": "Your ID must be shown at the entrance."}
+      ],
+      "words": [{"de": "einen Antrag einreichen", "en": "to submit an application"}],
+      "production_cue": "(official rule)",
+      "sentence_card": true
+    },
+    {
+      "key": "n02",
+      "de": "Der Baulärm vor dem Fenster war kaum {{c1::auszuhalten::aushalten}}.",
+      "en": "The construction noise outside the window was almost unbearable.",
+      "focus": "sein + zu + Infinitiv · Präteritum · trennbares Verb",
+      "explanation": "*sein + zu* works in every tense; here *sein* is in the Präteritum: **war** … *zu*. *aushalten* is separable, so the *zu*-infinitive is aus + zu + halten → **auszuhalten**. Meaning: *konnte kaum ausgehalten werden*.",
+      "pattern": "war + kaum + Präfix-**zu**-Verb (= konnte kaum … werden)",
+      "mistake": {
+        "wrong": "Der Baulärm vor dem Fenster war kaum zu aushalten.",
+        "why": "The *zu* must go inside the separable verb: *auszuhalten*."
+      },
+      "examples": [
+        {"de": "Das Ende des Films war schon nach zehn Minuten vorauszusehen.", "en": "The ending of the film could be foreseen after ten minutes."},
+        {"de": "Die Folgen waren damals nicht abzuschätzen.", "en": "The consequences could not be estimated at the time."}
+      ],
+      "words": [{"de": "der Baulärm", "en": "construction noise"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n03",
+      "de": "Der Termin {{c1::ließ::lassen}} sich leider nicht mehr verschieben.",
+      "en": "Unfortunately, the appointment could no longer be postponed.",
+      "focus": "sich lassen + Infinitiv · Präteritum",
+      "explanation": "*sich lassen* can be used in all tenses. In the Präteritum *lassen* is strong: lassen → **ließ** (3rd person singular, no ending). The meaning is *konnte nicht mehr verschoben werden*.",
+      "pattern": "**ließ** + sich + … + Inf (= konnte … werden)",
+      "mistake": {
+        "wrong": "Der Termin lasste sich leider nicht mehr verschieben.",
+        "why": "*lassen* is a strong verb. Its Präteritum is *ließ* (with *ß* after the long vowel *ie*), not a weak form with *-te*."
+      },
+      "examples": [
+        {"de": "Die Ursache des Feuers ließ sich nicht feststellen.", "en": "The cause of the fire could not be determined."},
+        {"de": "Die Verluste ließen sich nicht vermeiden.", "en": "The losses could not be avoided."}
+      ],
+      "words": [{"de": "verschieben", "en": "to postpone"}],
+      "production_cue": "(Präteritum)",
+      "sentence_card": true
+    },
+    {
+      "key": "n04",
+      "de": "Ihre Erklärung war auch für Laien gut {{c1::verständlich::verstehen → Adj.}}.",
+      "en": "Her explanation was easy to understand, even for laypeople.",
+      "focus": "Adjektiv auf -lich · Möglichkeit",
+      "explanation": "Some verbs form the 'can be done' adjective with *-lich* instead of *-bar*: verstehen → **verständlich** (with umlaut) = *kann verstanden werden*. Other examples are *erhältlich* and *unvermeidlich*.",
+      "pattern": "Verbstamm (+ Umlaut) + **-lich** (= kann … werden)",
+      "mistake": {
+        "wrong": "Ihre Erklärung war auch für Laien gut zu verständlich.",
+        "why": "*verständlich* already means 'can be understood'. *zu* only belongs to the infinitive structure: *war gut zu verstehen*."
+      },
+      "examples": [
+        {"de": "Das Medikament ist nur in Apotheken erhältlich.", "en": "The medicine is only available in pharmacies."},
+        {"de": "Ein gewisses Risiko ist bei jeder Operation unvermeidlich.", "en": "A certain risk is unavoidable in every operation."}
+      ],
+      "words": [{"de": "der Laie (-n)", "en": "layperson (n-Deklination)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n05",
+      "de": "Viele Forscher halten die Schäden am Ökosystem für {{c1::unumkehrbar::umkehren → Adj. (verneint)}}.",
+      "en": "Many researchers consider the damage to the ecosystem irreversible.",
+      "focus": "Adjektiv auf -bar · Verneinung mit *un-*",
+      "explanation": "*-bar* adjectives are negated with the prefix *un-*: umkehr- + -bar → *umkehrbar*, negated **unumkehrbar** = *kann nicht umgekehrt werden*. *halten für* + Akkusativ + adjective means 'to consider'.",
+      "pattern": "**un-** + Verbstamm + **-bar** (= kann nicht … werden)",
+      "mistake": {
+        "wrong": "Viele Forscher halten die Schäden am Ökosystem für unumkehrlich.",
+        "why": "*-bar* and *-lich* are not interchangeable; each verb has its established form. From *umkehren* the adjective is *umkehrbar*, negated *unumkehrbar*."
+      },
+      "examples": [
+        {"de": "Die verlorenen Daten sind leider unersetzbar.", "en": "Unfortunately, the lost data are irreplaceable."},
+        {"de": "Die Unterschiede zwischen den Proben waren unübersehbar.", "en": "The differences between the samples were impossible to overlook."}
+      ],
+      "words": [{"de": "halten für", "en": "to consider (something to be)"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n06",
+      "de": "In der Schweiz {{c1::spricht::sprechen}} man vier Landessprachen.",
+      "en": "Four national languages are spoken in Switzerland.",
+      "focus": "*man* + Aktiv statt Passiv",
+      "explanation": "*man* + active verb is the most common alternative to the *werden*-passive when the agent is general or unknown. *man* is 3rd person singular, so the verb is **spricht**. Passive version: *In der Schweiz werden vier Landessprachen gesprochen.*",
+      "pattern": "man + Verb (3. Sg.) + Akk-Objekt",
+      "mistake": {
+        "wrong": "In der Schweiz sprechen man vier Landessprachen.",
+        "why": "*man* is always 3rd person singular, even if many people are meant: *man spricht*."
+      },
+      "examples": [
+        {"de": "Hier baut man gerade eine neue Brücke.", "en": "A new bridge is being built here."},
+        {"de": "Früher schrieb man solche Briefe mit der Hand.", "en": "In the past, letters like that were written by hand."}
+      ],
+      "words": [{"de": "die Landessprache (-n)", "en": "national language"}],
+      "production_cue": "(use man)",
+      "sentence_card": true
+    },
+    {
+      "key": "n07",
+      "de": "In diesem Viertel {{c1::lässt::lassen}} es sich gut leben.",
+      "en": "This is a nice neighbourhood to live in.",
+      "focus": "*es* + sich lassen + Infinitiv (unpersönlich)",
+      "explanation": "With intransitive verbs (*leben, arbeiten, wohnen*) *sich lassen* is used with the impersonal subject *es*: *es* **lässt** *sich gut leben* = 'one can live well here'. *lassen* is in the 3rd person singular to agree with *es*.",
+      "pattern": "es + **lässt** + sich + Adverb + Inf (unpersönlich)",
+      "mistake": {
+        "wrong": "In diesem Viertel lässt sich es gut leben.",
+        "why": "The subject pronoun *es* comes directly after the finite verb, before the reflexive pronoun: *lässt es sich gut leben*."
+      },
+      "examples": [
+        {"de": "Mit diesem Team lässt es sich gut arbeiten.", "en": "This team is good to work with."},
+        {"de": "Im Schatten lässt es sich gut aushalten.", "en": "In the shade it's quite bearable."}
+      ],
+      "words": [{"de": "das Viertel (-)", "en": "neighbourhood, district"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n08",
+      "de": "Der Gutachter prüft, ob der Wasserschaden überhaupt noch zu {{c1::beheben::fix}} ist.",
+      "en": "The surveyor is checking whether the water damage can be repaired at all.",
+      "focus": "sein + zu + Infinitiv · Nebensatz",
+      "explanation": "In the *ob*-clause the finite verb goes to the end, so the order becomes *zu* + **beheben** + *ist*. The meaning is possibility: *ob er noch behoben werden kann*.",
+      "pattern": "ob + … + zu + **Inf** + ist",
+      "mistake": {
+        "wrong": "Der Gutachter prüft, ob der Wasserschaden überhaupt noch ist zu beheben.",
+        "why": "In a Nebensatz the finite *ist* is the last word. The *zu*-infinitive comes before it: *zu beheben ist*."
+      },
+      "examples": [
+        {"de": "Wir wissen noch nicht, ob die Lieferung bis Montag zu schaffen ist.", "en": "We don't know yet whether the delivery can be managed by Monday."},
+        {"de": "Die Ärztin sagt, dass die Infektion gut zu behandeln ist.", "en": "The doctor says that the infection is easy to treat."}
+      ],
+      "words": [{"de": "der Gutachter (-)", "en": "surveyor, (expert) assessor"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n09",
+      "de": "Die noch {{c1::zu erledigenden::erledigen}} Aufgaben stehen auf der Liste.",
+      "en": "The tasks that still have to be done are on the list.",
+      "focus": "zu + Partizip I als Attribut (Gerundiv)",
+      "explanation": "*sein + zu* can become an attribute before the noun: *die Aufgaben, die noch zu erledigen sind* → *die noch zu erledigenden Aufgaben*. Form: *zu* + Partizip I (*erledigend*) + adjective ending; after *die* in the plural → **-en**.",
+      "pattern": "Artikel + zu + Partizip I-**Endung** + Nomen (= das … werden muss)",
+      "mistake": {
+        "wrong": "Die noch zu erledigen Aufgaben stehen auf der Liste.",
+        "why": "Before a noun the form is *zu* + Partizip I (*erledigend*) with an adjective ending: *zu erledigenden*. The bare infinitive cannot be declined."
+      },
+      "examples": [
+        {"de": "Die zu erwartenden Kosten liegen bei zwei Millionen Euro.", "en": "The expected costs are around two million euros."},
+        {"de": "Das ist ein nicht zu unterschätzendes Problem.", "en": "That is a problem not to be underestimated."}
+      ],
+      "words": [],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n10",
+      "de": "Die Preisträgerin bekam die Urkunde von der Ministerin {{c1::überreicht::überreichen}}.",
+      "en": "The award winner was handed the certificate by the minister.",
+      "focus": "bekommen + Partizip II (Rezipientenpassiv)",
+      "explanation": "With verbs of giving, the receiver (Dativ object in the active) can become the subject with *bekommen* + Partizip II. Active: *Die Ministerin überreichte der Preisträgerin die Urkunde.* *überreichen* is inseparable, so the Partizip II has no *ge-*: **überreicht**.",
+      "pattern": "Empfänger (Nom.) + bekommen + Akk + **Partizip II**",
+      "mistake": {
+        "wrong": "Die Preisträgerin bekam die Urkunde von der Ministerin geüberreicht.",
+        "why": "*überreichen* has the inseparable prefix *über-* (stress on *-reich-*), so the Partizip II is *überreicht* without *ge-*."
+      },
+      "examples": [
+        {"de": "Jeder Teilnehmer bekommt am Ende ein Zertifikat ausgestellt.", "en": "Every participant is issued a certificate at the end."},
+        {"de": "Er hat das Fahrrad zum Geburtstag geschenkt bekommen.", "en": "He was given the bike for his birthday."}
+      ],
+      "words": [{"de": "die Urkunde (-n)", "en": "certificate, document"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n11",
+      "de": "Das neue Verfahren {{c1::findet::finden}} bereits in vielen Kliniken Anwendung.",
+      "en": "The new procedure is already being used in many hospitals.",
+      "focus": "Funktionsverbgefüge mit passiver Bedeutung",
+      "explanation": "*Anwendung finden* is a Funktionsverbgefüge with a passive meaning: *wird angewendet*. The subject *das Verfahren* is the thing that is used. **findet** is in position 2, and the noun *Anwendung* closes the sentence like the second part of a verb.",
+      "pattern": "Nom. + **finden** + … + Anwendung (= wird angewendet)",
+      "mistake": {
+        "wrong": "Das neue Verfahren wird bereits in vielen Kliniken Anwendung gefunden.",
+        "why": "The Funktionsverbgefüge already has a passive meaning. It is used in the active form: *findet Anwendung*. Combining it with *werden* is wrong."
+      },
+      "examples": [
+        {"de": "Der Vorschlag fand im Ausschuss breite Zustimmung.", "en": "The proposal was widely approved in the committee."},
+        {"de": "Das Gesetz kommt ab Januar zur Anwendung.", "en": "The law will be applied from January."}
+      ],
+      "words": [{"de": "das Verfahren (-)", "en": "procedure, method"}],
+      "production_cue": "",
+      "sentence_card": true
+    },
+    {
+      "key": "n12",
+      "de": "Bei diesem Wetter werden sich Verspätungen kaum {{c1::vermeiden lassen::vermeiden · lassen}}.",
+      "en": "In this weather, delays can hardly be avoided.",
+      "focus": "sich lassen + Infinitiv · Futur I",
+      "explanation": "In the Futur I the finite verb is *werden*, and *lassen* moves to the end as an infinitive after the main verb: **vermeiden lassen**. Here *werden* expresses a prediction: delays will hardly be avoidable.",
+      "pattern": "werden + sich + … + Inf + **lassen**",
+      "mistake": {
+        "wrong": "Bei diesem Wetter werden sich Verspätungen kaum lassen vermeiden.",
+        "why": "In the verb cluster at the end the governing verb *lassen* comes last: *vermeiden lassen*."
+      },
+      "examples": [
+        {"de": "Die Frage wird sich erst nächstes Jahr beantworten lassen.", "en": "The question will only be answerable next year."},
+        {"de": "Ein Streit wird sich wohl nicht verhindern lassen.", "en": "An argument probably cannot be prevented."}
+      ],
+      "words": [],
+      "production_cue": "(Futur I)",
+      "sentence_card": true
+    }
+  ],
+  "drills": [
+    {
+      "key": "d01",
+      "type": "concept",
+      "instruction": "Answer the question about the meaning of *sein + zu + Infinitiv*.",
+      "prompt": "*Sein + zu + Infinitiv* can mean two different things. Which, and how do you know which one is meant?",
+      "answer": "**Possibility** (*kann … werden*) or **necessity** (*muss/soll … werden*). Context decides: adverbs like *leicht, gut, kaum, nicht* point to possibility; rules, deadlines and instructions point to necessity.",
+      "explanation": "The structure itself only says 'passive + modal'. *Das Problem ist leicht zu lösen* is clearly possibility. *Die Rechnung ist bis Montag zu bezahlen* is a rule, so it means *muss bezahlt werden*.",
+      "examples": [
+        {"de": "Der Bahnhof ist zu Fuß gut zu erreichen.", "en": "The station is easy to reach on foot."},
+        {"de": "Die Tür ist nachts abzuschließen.", "en": "The door must be locked at night."}
+      ]
+    },
+    {
+      "key": "d02",
+      "type": "concept",
+      "instruction": "Answer the question about *sich lassen*.",
+      "prompt": "Which passive sentence does *Das lässt sich ändern* correspond to, and how does it differ from *Ich lasse das ändern*?",
+      "answer": "*Das lässt sich ändern* = *Das **kann** geändert werden* (possibility). *Ich lasse das ändern* (without *sich*) = I have someone else change it (causative *lassen*).",
+      "explanation": "The reflexive *sich* makes the subject the thing that undergoes the action and adds the meaning 'can'. Without *sich*, *lassen* + infinitive means 'cause someone to do something' or 'allow'.",
+      "examples": [
+        {"de": "Der Vertrag lässt sich jederzeit kündigen.", "en": "The contract can be terminated at any time."},
+        {"de": "Wir lassen den Vertrag von einem Anwalt prüfen.", "en": "We are having the contract checked by a lawyer."}
+      ]
+    },
+    {
+      "key": "d03",
+      "type": "concept",
+      "instruction": "Answer the question about adjectives in *-bar*.",
+      "prompt": "From which verbs can you form a *-bar* adjective with passive meaning, and why is *schlafbar* impossible?",
+      "answer": "Only from **transitive** verbs (verbs with an Akkusativ object), because the noun the adjective describes is the object of the action: *etwas lesen → lesbar*. *schlafen* has no Akkusativ object, so *schlafbar* does not exist.",
+      "explanation": "*X ist lesbar* means 'X can be read', so X must be something that can be the object of *lesen*. Intransitive verbs have no such object. Not every transitive verb has a common *-bar* form, and some use *-lich* (*verständlich*).",
+      "examples": [
+        {"de": "Die Batterie ist austauschbar.", "en": "The battery is replaceable."},
+        {"de": "Diese Pflanzen sind nicht essbar.", "en": "These plants are not edible."}
+      ]
+    },
+    {
+      "key": "d04",
+      "type": "concept",
+      "instruction": "Answer the question about the Gerundiv.",
+      "prompt": "How do you turn *die Fragen, die noch zu klären sind* into a noun phrase without a relative clause?",
+      "answer": "*die noch **zu klärenden** Fragen*: *zu* + Partizip I + adjective ending.",
+      "explanation": "The attributive form of *sein + zu* is *zu* + Partizip I (*klärend*), declined like an adjective. It has the same modal passive meaning (here necessity: the questions must still be clarified). It is typical of written, formal German.",
+      "examples": [
+        {"de": "Die zu prüfenden Unterlagen liegen auf dem Tisch.", "en": "The documents to be checked are on the table."},
+        {"de": "Es gibt einige kaum zu lösende Probleme.", "en": "There are some problems that can hardly be solved."}
+      ]
+    },
+    {
+      "key": "d05",
+      "type": "transform",
+      "instruction": "Rewrite with *sich lassen*.",
+      "prompt": "Der Koffer kann nicht geschlossen werden.",
+      "answer": "Der Koffer lässt sich nicht schließen.",
+      "explanation": "*kann … werden* (possibility + passive) corresponds to *sich lassen* + infinitive. *lassen* takes the 3rd person singular form *lässt* for *der Koffer*, and *geschlossen werden* becomes the bare infinitive *schließen*."
+    },
+    {
+      "key": "d06",
+      "type": "transform",
+      "instruction": "Rewrite with *sein + zu + Infinitiv*.",
+      "prompt": "Die Unterlagen müssen bis Freitag abgegeben werden.",
+      "answer": "Die Unterlagen sind bis Freitag abzugeben.",
+      "explanation": "*müssen … werden* with a deadline is necessity, so *sein + zu* fits. The plural subject needs *sind*, and the separable verb *abgeben* takes *zu* inside: *abzugeben*."
+    },
+    {
+      "key": "d07",
+      "type": "transform",
+      "instruction": "Replace *können … werden* with an adjective in *-bar*.",
+      "prompt": "Die Kosten können nicht vorhergesagt werden.",
+      "answer": "Die Kosten sind nicht vorhersagbar.",
+      "explanation": "*vorhersagen* is transitive, so the adjective *vorhersagbar* (= *kann vorhergesagt werden*) exists. The modal and *werden* disappear, and *sein* is conjugated for the plural subject: *sind*."
+    },
+    {
+      "key": "d08",
+      "type": "transform",
+      "instruction": "Rewrite the passive sentence with *man*.",
+      "prompt": "In dieser Firma wird viel Wert auf Pünktlichkeit gelegt.",
+      "answer": "In dieser Firma legt man viel Wert auf Pünktlichkeit.",
+      "explanation": "*man* becomes the subject, and the verb is active in the 3rd person singular: *legt*. *Wert legen auf* is a fixed expression; its parts stay unchanged."
+    },
+    {
+      "key": "d09",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Das Missverständnis lässt sich leicht zu erklären.",
+      "answer": "Das Missverständnis lässt sich leicht erklären.",
+      "explanation": "*sich lassen* is followed by a bare infinitive. *zu* must be removed (or use the other structure: *ist leicht zu erklären*)."
+    },
+    {
+      "key": "d10",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Die Medikamente sind kühl zu aufbewahren.",
+      "answer": "Die Medikamente sind kühl aufzubewahren.",
+      "explanation": "*aufbewahren* is separable. In the *zu*-infinitive, *zu* goes between the prefix and the rest of the verb: *aufzubewahren*."
+    },
+    {
+      "key": "d11",
+      "type": "error",
+      "instruction": "Find and correct the mistake.",
+      "prompt": "Diese Behauptung ist nicht zu beweisbar.",
+      "answer": "Diese Behauptung ist nicht beweisbar.",
+      "explanation": "The *-bar* adjective already expresses 'can be proved'. *zu* only belongs to the infinitive structure (*ist nicht zu beweisen*), never to a *-bar* adjective."
+    },
+    {
+      "key": "d12",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Der Akku ___ sich ohne Werkzeug wechseln.",
+      "options": ["lässt", "ist", "wird"],
+      "correct": "lässt",
+      "answer": "Der Akku lässt sich ohne Werkzeug wechseln.",
+      "explanation": "*sich* + bare infinitive at the end requires *lassen*. *ist* would need *zu wechseln* and no *sich*; *wird* would need the Partizip II (*gewechselt*) and no *sich*."
+    },
+    {
+      "key": "d13",
+      "type": "choice",
+      "instruction": "Choose the correct form.",
+      "prompt": "Bei Fragen ist die Hotline jederzeit ___.",
+      "options": ["erreichbar", "zu erreichbar", "erreichen", "erreichlich"],
+      "correct": "erreichbar",
+      "answer": "Bei Fragen ist die Hotline jederzeit erreichbar.",
+      "explanation": "*erreichbar* = *kann erreicht werden*. *zu erreichbar* mixes two structures; *erreichen* after *ist* would need *zu*; *erreichlich* does not exist."
+    },
+    {
+      "key": "d14",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Das Gerät",
+      "prompt": "lässt / sich / per Sprachbefehl / das Gerät / steuern / auch",
+      "answer": "Das Gerät lässt sich auch per Sprachbefehl steuern.",
+      "explanation": "The finite *lässt* is in position 2, *sich* follows directly, and the bare infinitive *steuern* stands at the end. *auch* and the adverbial *per Sprachbefehl* are in the Mittelfeld."
+    },
+    {
+      "key": "d15",
+      "type": "order",
+      "instruction": "Put the parts in the correct order. Start with: Wir müssen klären, ob",
+      "prompt": "wir müssen klären, ob / ist / die Frist / einzuhalten / noch",
+      "answer": "Wir müssen klären, ob die Frist noch einzuhalten ist.",
+      "explanation": "*einzuhalten* already contains *zu* (separable verb *einhalten*). In the *ob*-clause the finite *ist* goes to the end, directly after the *zu*-infinitive; *noch* stands in the Mittelfeld."
+    },
+    {
+      "key": "d16",
+      "type": "combine",
+      "instruction": "Make the second sentence an attribute of *Rechnungen* with *zu* + Partizip I.",
+      "prompt": "Wir sammeln alle Rechnungen. Die Rechnungen sind noch zu bezahlen.",
+      "answer": "Wir sammeln alle noch zu bezahlenden Rechnungen.",
+      "explanation": "*alle Rechnungen, die noch zu bezahlen sind* becomes *alle noch zu bezahlenden Rechnungen*. The Partizip I *bezahlend* is declined like an adjective; after *alle* in the Akkusativ plural it takes the weak ending *-en*."
+    }
+  ]
+}
