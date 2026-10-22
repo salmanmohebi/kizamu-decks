@@ -69,7 +69,7 @@ Remove Tags, then sync before sharing.
 
 **Title:** kizamu German Vocabulary A1 · with audio
 
-**Tags:** german deutsch vocabulary wortschatz A1 beginner audio kizamu
+**Tags:** german vocabulary A1 audio kizamu
 
 **Description:**
 
@@ -99,7 +99,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 **Title:** kizamu German Vocabulary A2 · with audio
 
-**Tags:** german deutsch vocabulary wortschatz A2 elementary audio kizamu
+**Tags:** german vocabulary A2 audio kizamu
 
 **Description:**
 
@@ -129,7 +129,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 **Title:** kizamu German Vocabulary B1 · with audio
 
-**Tags:** german deutsch vocabulary wortschatz B1 intermediate audio kizamu
+**Tags:** german vocabulary B1 audio kizamu
 
 **Description:**
 
@@ -159,7 +159,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 **Title:** kizamu German Grammar A1 · with audio
 
-**Tags:** german deutsch grammar grammatik cloze A1 audio kizamu
+**Tags:** german grammar A1 audio kizamu
 
 **Description:**
 
@@ -188,7 +188,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Grammar A2 · with audio
 
-**Tags:** german deutsch grammar grammatik cloze A2 audio kizamu
+**Tags:** german grammar A2 audio kizamu
 
 **Description:**
 
@@ -217,7 +217,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Grammar B1 · with audio
 
-**Tags:** german deutsch grammar grammatik cloze B1 audio kizamu
+**Tags:** german grammar B1 audio kizamu
 
 **Description:**
 
@@ -246,7 +246,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Grammar B2 · with audio
 
-**Tags:** german deutsch grammar grammatik cloze B2 audio kizamu
+**Tags:** german grammar B2 audio kizamu
 
 **Description:**
 
@@ -275,7 +275,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Grammar · Hard topics B1+–C1
 
-**Tags:** german deutsch grammar grammatik cloze B1 C1 audio kizamu
+**Tags:** german grammar B2 C1 audio kizamu
 
 **Description:**
 
@@ -304,7 +304,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Irregular Verbs · with audio
 
-**Tags:** german deutsch grammar grammatik verbs verben irregular unregelmaessig audio kizamu
+**Tags:** german grammar verbs audio kizamu
 
 **Description:**
 
@@ -326,7 +326,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu German Sentences A1–C1 · with audio
 
-**Tags:** german deutsch sentences listening speaking phrases A1 A2 B1 B2 audio kizamu
+**Tags:** german sentences listening audio kizamu
 
 **Description:**
 
@@ -355,7 +355,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 01 Collocations
 
-**Tags:** english american-english collocations C1 advanced audio kizamu
+**Tags:** english collocations C1 audio kizamu
 
 **Description:**
 
@@ -383,7 +383,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 02 Phrasal verbs
 
-**Tags:** english american-english phrasal-verbs C1 advanced audio kizamu
+**Tags:** english phrasal-verbs C1 audio kizamu
 
 **Description:**
 
@@ -411,7 +411,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 03 Idioms
 
-**Tags:** english american-english idioms C1 advanced audio kizamu
+**Tags:** english idioms C1 audio kizamu
 
 **Description:**
 
@@ -439,7 +439,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 04 Conversation & discourse
 
-**Tags:** english american-english conversation speaking C1 advanced audio kizamu
+**Tags:** english conversation C1 audio kizamu
 
 **Description:**
 
@@ -467,7 +467,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 05 Informal American English
 
-**Tags:** english american-english slang informal C1 advanced audio kizamu
+**Tags:** english slang C1 audio kizamu
 
 **Description:**
 
@@ -495,7 +495,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 06 Work & academic English
 
-**Tags:** english american-english business-english academic-english C1 advanced audio kizamu
+**Tags:** english business-english C1 audio kizamu
 
 **Description:**
 
@@ -523,7 +523,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 07 Key words
 
-**Tags:** english american-english vocabulary C1 advanced audio kizamu
+**Tags:** english vocabulary C1 audio kizamu
 
 **Description:**
 
@@ -551,7 +551,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 08 Nuance & confusables
 
-**Tags:** english american-english confusing-words C1 advanced audio kizamu
+**Tags:** english vocabulary C1 audio kizamu
 
 **Description:**
 
@@ -579,7 +579,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 09 Pronunciation
 
-**Tags:** english american-english pronunciation C1 advanced audio kizamu
+**Tags:** english pronunciation C1 audio kizamu
 
 **Description:**
 
@@ -607,7 +607,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C1 · 10 Grammar
 
-**Tags:** english american-english grammar C1 advanced audio kizamu
+**Tags:** english grammar C1 audio kizamu
 
 **Description:**
 
@@ -635,7 +635,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 01 Collocations
 
-**Tags:** english american-english collocations C2 advanced audio kizamu
+**Tags:** english collocations C2 audio kizamu
 
 **Description:**
 
@@ -663,7 +663,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 02 Phrasal verbs
 
-**Tags:** english american-english phrasal-verbs C2 advanced audio kizamu
+**Tags:** english phrasal-verbs C2 audio kizamu
 
 **Description:**
 
@@ -691,7 +691,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 03 Idioms
 
-**Tags:** english american-english idioms C2 advanced audio kizamu
+**Tags:** english idioms C2 audio kizamu
 
 **Description:**
 
@@ -719,7 +719,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 04 Conversation & discourse
 
-**Tags:** english american-english conversation speaking C2 advanced audio kizamu
+**Tags:** english conversation C2 audio kizamu
 
 **Description:**
 
@@ -747,7 +747,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 05 Informal American English
 
-**Tags:** english american-english slang informal C2 advanced audio kizamu
+**Tags:** english slang C2 audio kizamu
 
 **Description:**
 
@@ -775,7 +775,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 06 Work & academic English
 
-**Tags:** english american-english business-english academic-english C2 advanced audio kizamu
+**Tags:** english business-english C2 audio kizamu
 
 **Description:**
 
@@ -803,7 +803,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 07 Advanced words
 
-**Tags:** english american-english vocabulary C2 advanced audio kizamu
+**Tags:** english vocabulary C2 audio kizamu
 
 **Description:**
 
@@ -831,7 +831,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 08 Nuance & confusables
 
-**Tags:** english american-english confusing-words C2 advanced audio kizamu
+**Tags:** english vocabulary C2 audio kizamu
 
 **Description:**
 
@@ -859,7 +859,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 09 Pronunciation & connected speech
 
-**Tags:** english american-english pronunciation C2 advanced audio kizamu
+**Tags:** english pronunciation C2 audio kizamu
 
 **Description:**
 
@@ -887,7 +887,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 **Title:** kizamu English C2 · 10 Advanced grammar
 
-**Tags:** english american-english grammar C2 advanced audio kizamu
+**Tags:** english grammar C2 audio kizamu
 
 **Description:**
 

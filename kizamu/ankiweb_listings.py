@@ -87,10 +87,10 @@ ENGLISH = {
                   "mixed conditionals, wish / if only, modals of deduction, participle clauses, ellipsis.",
 }
 ENGLISH_TAGS = {
-    "01": "collocations", "02": "phrasal-verbs", "03": "idioms", "04": "conversation speaking",
-    "05": "slang informal", "06": "business-english academic-english", "07": "vocabulary",
-    "08": "confusing-words", "09": "pronunciation", "10": "grammar",
+    "01": "collocations", "02": "phrasal-verbs", "03": "idioms", "04": "conversation", "05": "slang",
+    "06": "business-english", "07": "vocabulary", "08": "vocabulary", "09": "pronunciation", "10": "grammar",
 }
+TAGS_MAX = 45  # AnkiWeb cuts the tags field too
 
 
 def stats(col: Collection, deck: str) -> dict:
@@ -129,7 +129,7 @@ Every word and every example sentence has audio (a natural German voice, checked
 
 {others} For grammar: kizamu German Grammar and kizamu German Sentences."""
     return {"title": f"kizamu German Vocabulary {level} · with audio",
-            "tags": f"german deutsch vocabulary wortschatz {level} {kind} audio kizamu", "text": text}
+            "tags": f"german vocabulary {level} audio kizamu", "text": text}
 
 
 def sentences_listing(s: dict) -> dict:
@@ -144,7 +144,7 @@ Every sentence has audio (a natural German voice, checked by speech recognition)
 
 Goes well with: kizamu German Grammar (the same topics as gap sentences and drills, with explanations) and kizamu German Vocabulary A1 / A2 / B1."""
     return {"title": "kizamu German Sentences A1–C1 · with audio",
-            "tags": "german deutsch sentences listening speaking phrases A1 A2 B1 B2 audio kizamu", "text": text}
+            "tags": "german sentences listening audio kizamu", "text": text}
 
 
 def grammar_listing(part: str, s: dict) -> dict:
@@ -156,7 +156,7 @@ def grammar_listing(part: str, s: dict) -> dict:
 
 {family}"""
         return {"title": "kizamu German Irregular Verbs · with audio",
-                "tags": "german deutsch grammar grammatik verbs verben irregular unregelmaessig audio kizamu",
+                "tags": "german grammar verbs audio kizamu",
                 "text": text}
     level = "B1+ to C1" if part == "Hard grammar" else part
     intro = (f"{len(s['children'])} deep-dive topics from B1+ to C1" if part == "Hard grammar"
@@ -173,7 +173,7 @@ The back of every card explains this sentence (not only the general rule), shows
 {family}"""
     title = "kizamu German Grammar · Hard topics B1+–C1" if part == "Hard grammar" else f"kizamu German Grammar {part} · with audio"
     return {"title": title,
-            "tags": f"german deutsch grammar grammatik cloze {level.replace(' to ', ' ').replace('+', '')} audio kizamu",
+            "tags": "german grammar B2 C1 audio kizamu" if part == "Hard grammar" else f"german grammar {part} audio kizamu",
             "text": text}
 
 
@@ -200,7 +200,7 @@ Two cards per note:
 Part {int(number)} of 10 of kizamu American English {level}: {" · ".join(all_categories)}. No item repeats the {other} level."""
     name = re.sub(r"^\d+\s+", "", category)
     return {"title": f"kizamu English {level} · {category}",
-            "tags": f"english american-english {ENGLISH_TAGS[number]} {level} advanced audio kizamu",
+            "tags": f"english {ENGLISH_TAGS[number]} {level} audio kizamu",
             "text": text, "name": name}
 
 
@@ -248,6 +248,7 @@ def main() -> None:
     too_big = [deck for deck, size, _ in shares if size >= LIMIT_MB]
     assert not too_big, too_big
     long = [listing["title"] for _, _, listing in shares if len(listing["title"]) > TITLE_MAX]
+    long += [listing["tags"] for _, _, listing in shares if len(listing["tags"]) > TAGS_MAX]
     assert not long, long
     lines = [HEADER.format(count=len(shares)), "| # | Deck to share | Size |", "|---|---|---|"]
     lines += [f"| {i} | `{deck}` | {size:.0f} MB |" for i, (deck, size, _) in enumerate(shares, 1)]
