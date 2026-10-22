@@ -67,7 +67,7 @@ Remove Tags, then sync before sharing.
 
 ## 1 · `kizamu-german::vocab::A1`
 
-**Title:** kizamu German Vocabulary A1 · both directions · forms · 3 examples · audio
+**Title:** kizamu German Vocabulary A1 · with audio
 
 **Tags:** german deutsch vocabulary wortschatz A1 beginner audio kizamu
 
@@ -97,7 +97,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 ## 2 · `kizamu-german::vocab::A2`
 
-**Title:** kizamu German Vocabulary A2 · both directions · forms · 3 examples · audio
+**Title:** kizamu German Vocabulary A2 · with audio
 
 **Tags:** german deutsch vocabulary wortschatz A2 elementary audio kizamu
 
@@ -127,7 +127,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 ## 3 · `kizamu-german::vocab::B1`
 
-**Title:** kizamu German Vocabulary B1 · both directions · forms · 3 examples · audio
+**Title:** kizamu German Vocabulary B1 · with audio
 
 **Tags:** german deutsch vocabulary wortschatz B1 intermediate audio kizamu
 
@@ -157,7 +157,7 @@ The audio is synthetic. Definitions and inflections adapted from Wiktionary (CC 
 
 ## 4 · `kizamu-german::grammar::A1`
 
-**Title:** kizamu German Grammar A1 · 16 topics · fill the gap + drills · explanation on every card · audio
+**Title:** kizamu German Grammar A1 · with audio
 
 **Tags:** german deutsch grammar grammatik cloze A1 audio kizamu
 
@@ -186,7 +186,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 5 · `kizamu-german::grammar::A2`
 
-**Title:** kizamu German Grammar A2 · 18 topics · fill the gap + drills · explanation on every card · audio
+**Title:** kizamu German Grammar A2 · with audio
 
 **Tags:** german deutsch grammar grammatik cloze A2 audio kizamu
 
@@ -215,7 +215,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 6 · `kizamu-german::grammar::B1`
 
-**Title:** kizamu German Grammar B1 · 18 topics · fill the gap + drills · explanation on every card · audio
+**Title:** kizamu German Grammar B1 · with audio
 
 **Tags:** german deutsch grammar grammatik cloze B1 audio kizamu
 
@@ -244,7 +244,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 7 · `kizamu-german::grammar::B2`
 
-**Title:** kizamu German Grammar B2 · 18 topics · fill the gap + drills · explanation on every card · audio
+**Title:** kizamu German Grammar B2 · with audio
 
 **Tags:** german deutsch grammar grammatik cloze B2 audio kizamu
 
@@ -273,7 +273,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 8 · `kizamu-german::grammar::Hard grammar`
 
-**Title:** kizamu German Grammar Hard grammar B1+–C1 · 22 topics · fill the gap + drills · explanation on every card · audio
+**Title:** kizamu German Grammar · Hard topics B1+–C1
 
 **Tags:** german deutsch grammar grammatik cloze B1 C1 audio kizamu
 
@@ -302,7 +302,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 9 · `kizamu-german::grammar::Verben`
 
-**Title:** kizamu German Grammar · Irregular verbs · all key forms · audio
+**Title:** kizamu German Irregular Verbs · with audio
 
 **Tags:** german deutsch grammar grammatik verbs verben irregular unregelmaessig audio kizamu
 
@@ -324,7 +324,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 10 · `kizamu-german::sentences`
 
-**Title:** kizamu German Sentences A1–C1 · English → Deutsch · listening · everyday phrases · audio
+**Title:** kizamu German Sentences A1–C1 · with audio
 
 **Tags:** german deutsch sentences listening speaking phrases A1 A2 B1 B2 audio kizamu
 
@@ -353,7 +353,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 11 · `kizamu-english::C1::01 Collocations`
 
-**Title:** kizamu American English C1 · 01 Collocations · 450 items · audio
+**Title:** kizamu English C1 · 01 Collocations
 
 **Tags:** english american-english collocations C1 advanced audio kizamu
 
@@ -381,7 +381,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 12 · `kizamu-english::C1::02 Phrasal verbs`
 
-**Title:** kizamu American English C1 · 02 Phrasal verbs · 300 items · audio
+**Title:** kizamu English C1 · 02 Phrasal verbs
 
 **Tags:** english american-english phrasal-verbs C1 advanced audio kizamu
 
@@ -409,7 +409,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 13 · `kizamu-english::C1::03 Idioms`
 
-**Title:** kizamu American English C1 · 03 Idioms · 450 items · audio
+**Title:** kizamu English C1 · 03 Idioms
 
 **Tags:** english american-english idioms C1 advanced audio kizamu
 
@@ -437,7 +437,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 14 · `kizamu-english::C1::04 Conversation & discourse`
 
-**Title:** kizamu American English C1 · 04 Conversation & discourse · 300 items · audio
+**Title:** kizamu English C1 · 04 Conversation & discourse
 
 **Tags:** english american-english conversation speaking C1 advanced audio kizamu
 
@@ -465,7 +465,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 15 · `kizamu-english::C1::05 Informal American English`
 
-**Title:** kizamu American English C1 · 05 Informal American English · 200 items · audio
+**Title:** kizamu English C1 · 05 Informal American English
 
 **Tags:** english american-english slang informal C1 advanced audio kizamu
 
@@ -493,7 +493,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 16 · `kizamu-english::C1::06 Work & academic English`
 
-**Title:** kizamu American English C1 · 06 Work & academic English · 250 items · audio
+**Title:** kizamu English C1 · 06 Work & academic English
 
 **Tags:** english american-english business-english academic-english C1 advanced audio kizamu
 
@@ -521,7 +521,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 17 · `kizamu-english::C1::07 Key words`
 
-**Title:** kizamu American English C1 · 07 Key words · 500 items · audio
+**Title:** kizamu English C1 · 07 Key words
 
 **Tags:** english american-english vocabulary C1 advanced audio kizamu
 
@@ -549,7 +549,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 18 · `kizamu-english::C1::08 Nuance & confusables`
 
-**Title:** kizamu American English C1 · 08 Nuance & confusables · 150 items · audio
+**Title:** kizamu English C1 · 08 Nuance & confusables
 
 **Tags:** english american-english confusing-words C1 advanced audio kizamu
 
@@ -577,7 +577,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 19 · `kizamu-english::C1::09 Pronunciation`
 
-**Title:** kizamu American English C1 · 09 Pronunciation · 150 items · audio
+**Title:** kizamu English C1 · 09 Pronunciation
 
 **Tags:** english american-english pronunciation C1 advanced audio kizamu
 
@@ -605,7 +605,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 20 · `kizamu-english::C1::10 Grammar`
 
-**Title:** kizamu American English C1 · 10 Grammar · 250 items · audio
+**Title:** kizamu English C1 · 10 Grammar
 
 **Tags:** english american-english grammar C1 advanced audio kizamu
 
@@ -633,7 +633,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 21 · `kizamu-english::C2::01 Collocations`
 
-**Title:** kizamu American English C2 · 01 Collocations · 450 items · audio
+**Title:** kizamu English C2 · 01 Collocations
 
 **Tags:** english american-english collocations C2 advanced audio kizamu
 
@@ -661,7 +661,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 22 · `kizamu-english::C2::02 Phrasal verbs`
 
-**Title:** kizamu American English C2 · 02 Phrasal verbs · 300 items · audio
+**Title:** kizamu English C2 · 02 Phrasal verbs
 
 **Tags:** english american-english phrasal-verbs C2 advanced audio kizamu
 
@@ -689,7 +689,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 23 · `kizamu-english::C2::03 Idioms`
 
-**Title:** kizamu American English C2 · 03 Idioms · 450 items · audio
+**Title:** kizamu English C2 · 03 Idioms
 
 **Tags:** english american-english idioms C2 advanced audio kizamu
 
@@ -717,7 +717,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 24 · `kizamu-english::C2::04 Conversation & discourse`
 
-**Title:** kizamu American English C2 · 04 Conversation & discourse · 300 items · audio
+**Title:** kizamu English C2 · 04 Conversation & discourse
 
 **Tags:** english american-english conversation speaking C2 advanced audio kizamu
 
@@ -745,7 +745,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 25 · `kizamu-english::C2::05 Informal American English`
 
-**Title:** kizamu American English C2 · 05 Informal American English · 200 items · audio
+**Title:** kizamu English C2 · 05 Informal American English
 
 **Tags:** english american-english slang informal C2 advanced audio kizamu
 
@@ -773,7 +773,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 26 · `kizamu-english::C2::06 Work & academic English`
 
-**Title:** kizamu American English C2 · 06 Work & academic English · 250 items · audio
+**Title:** kizamu English C2 · 06 Work & academic English
 
 **Tags:** english american-english business-english academic-english C2 advanced audio kizamu
 
@@ -801,7 +801,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 27 · `kizamu-english::C2::07 Advanced words`
 
-**Title:** kizamu American English C2 · 07 Advanced words · 500 items · audio
+**Title:** kizamu English C2 · 07 Advanced words
 
 **Tags:** english american-english vocabulary C2 advanced audio kizamu
 
@@ -829,7 +829,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 28 · `kizamu-english::C2::08 Nuance & confusables`
 
-**Title:** kizamu American English C2 · 08 Nuance & confusables · 150 items · audio
+**Title:** kizamu English C2 · 08 Nuance & confusables
 
 **Tags:** english american-english confusing-words C2 advanced audio kizamu
 
@@ -857,7 +857,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 29 · `kizamu-english::C2::09 Pronunciation & connected speech`
 
-**Title:** kizamu American English C2 · 09 Pronunciation & connected speech · 150 items · audio
+**Title:** kizamu English C2 · 09 Pronunciation & connected speech
 
 **Tags:** english american-english pronunciation C2 advanced audio kizamu
 
@@ -885,7 +885,7 @@ The audio is synthetic. License: CC BY-SA 4.0.
 
 ## 30 · `kizamu-english::C2::10 Advanced grammar`
 
-**Title:** kizamu American English C2 · 10 Advanced grammar · 250 items · audio
+**Title:** kizamu English C2 · 10 Advanced grammar
 
 **Tags:** english american-english grammar C2 advanced audio kizamu
 
