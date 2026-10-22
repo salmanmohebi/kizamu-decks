@@ -164,8 +164,8 @@ def run(args) -> None:
         "dtype": args.dtype, "device_map": device_map,
         "attn_implementation": "sdpa", "low_cpu_mem_usage": True,
     }
-    if args.device_map == "auto":
-        load_options["max_memory"] = {index: "92GiB" for index in range(torch.cuda.device_count())}
+    if args.device_map == "auto" and args.max_memory_per_gpu:
+        load_options["max_memory"] = {index: args.max_memory_per_gpu for index in range(torch.cuda.device_count())}
     model = AutoModelForCausalLM.from_pretrained(args.model, **load_options).eval()
     failures = []
     began = time.monotonic()
@@ -242,6 +242,7 @@ if __name__ == "__main__":
     parser.add_argument("--model", default=MODEL)
     parser.add_argument("--dtype", default="bfloat16", choices=["auto", "bfloat16"])
     parser.add_argument("--device-map", default="single", choices=["single", "auto"])
+    parser.add_argument("--max-memory-per-gpu", help="with --device-map auto, e.g. 40GiB (default: let accelerate decide)")
     parser.add_argument("--shard-index", type=int, default=0)
     parser.add_argument("--shard-count", type=int, default=1)
     parser.add_argument("--batch-size", type=int, default=4)
